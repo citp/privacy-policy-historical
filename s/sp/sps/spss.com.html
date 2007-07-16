@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2006-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110081844id_/https%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2007-07-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070716072046id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 	<title>SPSS Inc. - Privacy Policy</title>
@@ -24,17 +24,17 @@
 		</form>
 	</div>
 	<div id="GlobalNav">
-		<ul><li><a href="/index.htm">Home</a></li>
-			<li><a href="/products/index.cfm">Software and Solutions</a></li>
-			<li><a href="/success/index.cfm">Customers</a></li>
-			<li><a href="/training/index.cfm">Training</a></li>
-			<li><a href="/services/index.htm">Services</a></li>
-			<li><a href="/stores/1">Store</a></li>
-			<li><a href="/TechSupport/">Support</a></li>
-			<li><a href="/partners/index.htm">Partners</a></li>
-			<li><a href="/articles/index.cfm">News</a></li>
-			<li><a href="/events/index.cfm">Events</a></li>
-			<li><a href="/corpinfo/index.htm">About SPSS</a></li>
+		<ul><li><a href="/?source=homepage&amp;hpzone=nav_bar">Home</a></li>
+			<li><a href="/products/?source=homepage&amp;hpzone=nav_bar">Software and Solutions</a></li>
+			<li><a href="/success/?source=homepage&amp;hpzone=nav_bar">Customers</a></li>
+			<li><a href="/training/?source=homepage&amp;hpzone=nav_bar">Training</a></li>
+			<li><a href="/services/?source=homepage&amp;hpzone=nav_bar">Services</a></li>
+			<li><a href="/stores/1/?source=homepage&amp;hpzone=nav_bar">Store</a></li>
+			<li><a href="/TechSupport/?source=homepage&amp;hpzone=nav_bar">Support</a></li>
+			<li><a href="/partners/?source=homepage&amp;hpzone=nav_bar">Partners</a></li>
+			<li><a href="/articles/?source=homepage&amp;hpzone=nav_bar">News</a></li>
+			<li><a href="/events/?source=homepage&amp;hpzone=nav_bar">Events</a></li>
+			<li><a href="/corpinfo/?source=homepage&amp;hpzone=nav_bar">About SPSS</a></li>
 		</ul>
 	</div>
 </div>
@@ -49,7 +49,7 @@
 	}
 	
 	function getCookie(name) {
-		var arg = name + "=";
+/*		var arg = name + "=";
 		var alen = arg.length;
 		var clen = document.cookie.length;
 		var i = 0;
@@ -61,19 +61,28 @@
 			if (i == 0) break;
 		}
 		return null;
+*/
+var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
 	}
 	
-	var vRLNName = getCookie("RLNNAME");
-	if (vRLNName != null) {
+	if (getCookie("RLNNAME") != null) {
+		var vRLNName = getCookie("RLNNAME");
 		document.write('<p><strong>Welcome, ' + vRLNName + '!<\/strong> Not ' + vRLNName + '? <a href="/registration/login/login.cfm">Login or register on SPSS.com<\/a> or <a href="/registration/maintenance/killcookie02.cfm">log out.<\/a><\/p>');
 	}
 	else {
-		document.write('<p><strong>Welcome to SPSS.com.<\/strong> <a href="/stores/1/login.cfm">Click here to login or register on SPSS.com.<\/a><\/p>');
+		document.write('<p><strong>Welcome to SPSS.com.<\/strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.<\/a><\/p>');
 	}
 	// Stop Hiding JavaScript -->
-	</script><p><strong>Welcome to SPSS.com.</strong> <a href="/stores/1/login.cfm">Click here to login or register on SPSS.com.</a></p>
+	</script><p><strong>Welcome to SPSS.com.</strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.</a></p>
 	<noscript>
-		<p><strong>Welcome to SPSS.com.</strong> <a href="/stores/1/login.cfm">Click here to login or register on SPSS.com.</a></p>
+		<p><strong>Welcome to SPSS.com.</strong> <a href="/registration/login/login.cfm">Click here to login or register on SPSS.com.</a></p>
 	</noscript>
 </div>
 
@@ -197,7 +206,7 @@ SPSS Privacy Policy
 <div id="footer">
 	<div id="redlogo"></div>
 	<p><a href="http://investor.spss.com/phoenix.zhtml?c=118415&amp;p=irol-irhome">Investor Relations</a> | <a href="/worldwide/index.cfm?source=homepage&amp;hpzone=footer">Worldwide Offices</a> | <a href="/sitemap/index.htm?source=homepage&amp;hpzone=footer">Site Map</a> | <a href="/contact_us/index.htm?source=homepage&amp;hpzone=footer">Contact Us</a> | <a href="/terms.htm?source=homepage&amp;hpzone=footer">Terms and Conditions</a> | <a href="/privacy.htm?source=homepage&amp;hpzone=footer">Privacy Policy</a></p>
-	<p>© 2006 SPSS Inc. All rights reserved.</p>
+	<p>© 2007 SPSS Inc. All rights reserved.</p>
 	<address>SPSS Inc. Headquarters, 233 S. Wacker Drive, 11th floor<br>Chicago, Illinois 60606</address>
 </div>
 
