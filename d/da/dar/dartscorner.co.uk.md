@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407223845id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3%26osCsid%3D40de16e18ac180db7ffa646efec36deb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartscorner.co.uk privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716162859id_/http%3A//www.dartscorner.co.uk/information.php%3Finfo_id%3D3%26osCsid%3Db0f22d6134d2efd7e8d6a65d10df2aa4) for the most accurate reproduction.*
 
-# Darts Corner
+# Darts Corner - The UK Darts Superstore
 
 **POLICY  
 ** When you visit our website and access information you remain anonymous. When we ask for information we will explain how this information will be used. We will not provide your personal information to other companies or individuals. We use your personal information to help us administer your file, to improve our services to you, to provide services you have requested, and to inform you about additional products or services that may be of interest to you. If you wish to opt-out of these offers or you wish to correct any inaccurate information, please amend your profile, and untick the newsletter option. Alternatively send us an email to [_info@dartscorner.co.uk_](mailto:info@dartscorner.co.uk) outlining your concern. We protect your personal and program information by placing it on a secure portion of our Web Site and our protected database server. 
