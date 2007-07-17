@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the campsaver.com privacy policy that was archived on 2006-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060511230338id_/http%3A//www.campsaver.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campsaver.com privacy policy that was archived on 2007-07-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070717181543id_/http%3A//campsaver.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,6 +17,31 @@ urchinTracker();
 </script>
 <script language="JavaScript" type="text/JavaScript">
 <!--
+function validateZIP(field) {
+	var valid = "0123456789";
+	var hyphencount = 0;
+	
+	if (field.value.length!=5 || field.value == '00000') {
+		alert("Please enter a valid 5 digit zip code.");
+		field.value = '';
+		field.focus();
+		return false;
+	}
+	for (var i=0; i < field.value.length; i++) {
+		temp = "" + field.value.substring(i, i+1);
+		if (temp == "-") hyphencount++;
+		if (valid.indexOf(temp) == "-1") {
+			alert("Invalid characters in your zip code.  Please try again.");
+			return false;
+		}
+		if ((hyphencount > 1) || ((field.value.length==10) && ""+field.value.charAt(5)!="-")) {
+			alert("The hyphen character should be used with a properly formatted 5 digit+four zip code, like '12345-6789'.   Please try again.");
+			return false;
+		}
+	}
+	return true;
+}
+
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
@@ -38,7 +63,54 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   </tr>
   <tr>
     <td bgcolor="#004466"><a href="http://www.campsaver.com"><img src="/images/shell_images/logo_bottom.gif" alt="Link to CampSaver.com Home" width="217" height="31" border="0"></a></td>
-    <td colspan="2" class="service_links"><a href="index.php">Home</a> <a href="contact.php">Customer Service</a> <a href="faq.php">FAQ</a> <a href="contact.php">Contact</a>&nbsp;&nbsp; &nbsp;&nbsp; </td>
+    <td colspan="2" class="service_links">      <select name="manufacturer_list" onchange="MM_jumpMenu('parent',this,1)">
+        <option selected="">Top Brands</option>
+        <option value="http://www.campsaver.com/categories.php?cid=65&amp;ef=Manufacturer&amp;ev=Adventure%20Medical%20Kits">Adventure Medical </option>
+        <option value="http://www.campsaver.com/categories.php?cid=23">Atlas</option>
+        <option value="http://www.campsaver.com/categories.php?cid=65&amp;ef=Manufacturer&amp;ev=Atwater%20Carey">Atwater Carey</option>
+        <option value="http://www.campsaver.com/categories.php?cid=830">Backpacker's </option>
+        <option value="http://www.campsaver.com/big_agnes.php">Big Agnes</option>
+        <option value="http://www.campsaver.com/categories.php?cid=682">Bolle</option>
+        <option value="http://www.campsaver.com/brunton_feature.php">Brunton</option>
+        <option value="http://www.campsaver.com/categories.php?cid=526">Buck Knives</option>
+        <option value="http://www.campsaver.com/categories.php?cid=525">Columbia River</option>
+        <option value="http://www.campsaver.com/categories.php?cid=901">Duotone</option>
+        <option value="http://www.campsaver.com/categories.php?cid=470">First Need</option>
+        <option value="http://www.campsaver.com/categories.php?cid=71&amp;ef=Manufacturer&amp;ev=Fox%20River">Fox River</option>
+        <option value="http://www.campsaver.com/categories.php?cid=612">Garmin</option>
+        <option value="http://www.campsaver.com/categories.php?cid=520">Gerber</option>
+        <option value="http://www.campsaver.com/golite.php">GoLite</option>
+        <option value="http://www.campsaver.com/granite_gear.php">Granite Gear</option>
+        <option value="http://www.campsaver.com/highgear.php">HighGear</option>
+        <option value="http://www.campsaver.com/jetboil.php">JetBoil</option>
+        <option value="http://www.campsaver.com/katadyn_filters.php">Katadyn</option>
+        <option value="http://www.campsaver.com/kelty.php">Kelty</option>
+        <option value="http://www.campsaver.com/categories.php?cid=524">Kershow </option>
+        <option value="http://www.campsaver.com/categories.php?cid=521">Leatherman</option>
+        <option value="http://www.campsaver.com/mont-bell.php">Mont-Bell</option>
+        <option value="http://www.campsaver.com/categories.php?cid=694">Mountainsmith</option>
+        <option value="http://www.campsaver.com/categories.php?cid=801">Mountain House</option>
+        <option value="http://www.campsaver.com/msr_tents_stoves_filters.php">MSR</option>
+        <option value="http://www.campsaver.com/nalgene_hydration.php">Nalgene</option>
+        <option value="http://www.campsaver.com/olicamp.php">Olicamp</option>
+        <option value="http://www.campsaver.com/categories.php?cid=37">Platypus</option>
+        <option value="http://www.campsaver.com/primus.php">Primus</option>
+        <option value="http://www.campsaver.com/categories.php?cid=423">Princeton Tec</option>
+        <option value="http://www.campsaver.com/categories.php?cid=816">Richmoor</option>
+        <option value="http://www.campsaver.com/categories.php?cid=611">Silva Compass</option>
+        <option value="http://www.campsaver.com/categories.php?cid=753">Singing Rock</option>
+        <option value="http://www.campsaver.com/categories.php?cid=522">Spyderco</option>
+        <option value="http://www.campsaver.com/categories.php?cid=610">Suunto Compass</option>
+        <option value="http://www.campsaver.com/categories.php?cid=927">Terramar</option>
+        <option value="http://www.campsaver.com/categories.php?cid=208&amp;ef=Manufacturer&amp;ev=The%20North%20Face">The North Face</option>
+        <option value="http://www.campsaver.com/categories.php?cid=252">Thermarest</option>
+        <option value="http://www.campsaver.com/categories.php?cid=527">Tool Logic</option>
+        <option value="http://www.campsaver.com/trangia_stoves_cookware.php">Trangia</option>
+        <option value="http://www.campsaver.com/categories.php?cid=22">Tubbs</option>
+        <option value="http://www.campsaver.com/categories.php?cid=523">Wenger</option>
+        <option value="http://www.campsaver.com/categories.php?cid=103">Zeal Optics</option>
+      </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;<a href="index.php">Home</a> <a href="contact.php">Customer Service</a> <a href="faq.php">FAQ</a> <a href="contact.php">Contact</a>&nbsp;&nbsp; &nbsp;&nbsp; </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" bgcolor="#FFFFFF"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
@@ -90,74 +162,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <td valign="top" class="browse_bg"><table width="138" border="0" cellspacing="0" cellpadding="0">
       <!--DWLayoutTable-->
         <tbody><tr>
-          <td valign="top" class="browse"><img src="/images/shell_images/shipping_browse.gif" alt="Free Shipping on Orders over $50 at CampSaver.com" width="138" height="91" border="0"><a href="http://www.campsaver.com/mens_clothing.php">Mens' Clothing</a><a href="http://www.campsaver.com/womens_clothing.php">Women's Clothing</a><a href="http://www.campsaver.com/packs_bags.php">Backpacks &amp; Bags</a><a href="http://www.campsaver.com/climbing.php">Climbing Gear</a><a href="http://www.campsaver.com/camp_kitchen.php">Cookware</a>            <a href="http://www.campsaver.com/firstaid.php">First Aid &amp; Personal Care </a><a href="http://www.campsaver.com/food.php">Food</a>            <a href="http://www.campsaver.com/knives_tools.php">Knives &amp; Tools</a><a href="http://www.campsaver.com/lanterns_lights.php">Lanterns &amp; Lights</a><a href="http://www.campsaver.com/navigation.php">Navigation/Electronics</a><a href="http://www.campsaver.com/optics.php">Optics</a><a href="http://www.campsaver.com/sleeping_bags_pads.php">Sleeping Bags &amp; Pads</a><a href="http://www.campsaver.com/snowshoes.php">Snowshoes</a><a href="http://www.campsaver.com/camping_stoves.php">Stoves</a><a href="http://www.campsaver.com/tents.php">Tents</a><a href="http://www.campsaver.com/categories.php?cid=137">Trekking Poles </a><a href="http://www.campsaver.com/water_filters.php">Water Treatment</a> <a href="http://www.campsaver.com/closeouts.php"><font color="#990000">CLOSEOUT DEALS!</font></a><br>
+          <td valign="top" class="browse"><img src="/images/shell_images/shipping_browse.gif" alt="Free Shipping on Orders over $50 at CampSaver.com" width="138" height="91" border="0"><a href="http://www.campsaver.com/mens_clothing.php">Mens' Clothing</a><a href="http://www.campsaver.com/womens_clothing.php">Women's Clothing</a><a href="http://www.campsaver.com/packs_bags.php">Backpacks &amp; Bags</a><a href="http://www.campsaver.com/climbing.php">Climbing Gear</a><a href="http://www.campsaver.com/camp_kitchen.php">Cookware</a>            <a href="http://www.campsaver.com/firstaid.php">First Aid &amp; Personal Care </a><a href="http://www.campsaver.com/food.php">Food</a>            <a href="http://www.campsaver.com/knives_tools.php">Knives &amp; Tools</a><a href="http://www.campsaver.com/lanterns_lights.php">Lanterns &amp; Lights</a><a href="http://www.campsaver.com/navigation.php">Navigation/Electronics</a><a href="http://www.campsaver.com/optics.php">Optics</a><a href="http://www.campsaver.com/sleeping_bags_pads.php">Sleeping Bags &amp; Pads</a><a href="http://www.campsaver.com/snowshoes.php">Snowshoes</a><a href="http://www.campsaver.com/camping_stoves.php">Stoves</a><a href="http://www.campsaver.com/tents.php">Tents</a><a href="http://www.campsaver.com/categories.php?cid=137">Trekking Poles </a><a href="http://www.campsaver.com/water_filters.php">Water Treatment</a> <a href="http://www.campsaver.com/categories.php?cid=696"><font color="#990000">CLOSEOUT DEALS!</font></a><br>
             <div align="left"></div>
           </td>
           <td width="20"></td>
         </tr>
         </tbody></table>
-      <div align="left"></div>
-      <form name="form1">
-          <div align="left">
-            <select name="manufacturer_list" onchange="MM_jumpMenu('parent',this,1)">
-              <option selected="">Top Brands</option>
-              <option value="http://www.campsaver.com/categories.php?cid=65&amp;ef=Manufacturer&amp;ev=Adventure%20Medical%20Kits">Adventure Medical </option>
-              <option value="http://www.campsaver.com/categories.php?cid=23">Atlas</option>
-              <option value="http://www.campsaver.com/categories.php?cid=65&amp;ef=Manufacturer&amp;ev=Atwater%20Carey">Atwater Carey</option>
-              <option value="http://www.campsaver.com/categories.php?cid=830">Backpacker's </option>
-              <option value="http://www.campsaver.com/big_agnes.php">Big Agnes</option>
-			    <option value="http://www.campsaver.com/categories.php?cid=85">Black Diamond</option>
-              <option value="http://www.campsaver.com/categories.php?cid=682">Bolle</option>
-              <option value="http://www.campsaver.com/brunton_feature.php">Brunton</option>
-              <option value="http://www.campsaver.com/categories.php?cid=526">Buck Knives</option>
-			  <option value="http://www.campsaver.com/categories.php?cid=703&amp;ef=Manufacturer&amp;ev=Camelbak">Camelbak</option>
-              <option value="http://www.campsaver.com/categories.php?cid=525">Columbia River</option>
-              <option value="http://www.campsaver.com/categories.php?cid=721">Dana Design</option>
-              <option value="http://www.campsaver.com/categories.php?cid=901">Duotone</option>
-              <option value="http://www.campsaver.com/categories.php?cid=470">First Need</option>
-              <option value="http://www.campsaver.com/categories.php?cid=71&amp;ef=Manufacturer&amp;ev=Fox%20River">Fox River</option>
-              <option value="http://www.campsaver.com/categories.php?cid=612">Garmin</option>
-              <option value="http://www.campsaver.com/categories.php?cid=520">Gerber</option>
-              <option value="http://www.campsaver.com/golite.php">GoLite</option>
-              <option value="http://www.campsaver.com/granite_gear.php">Granite Gear</option>
-              <option value="http://www.campsaver.com/highgear.php">HighGear</option>
-              <option value="http://www.campsaver.com/jetboil.php">JetBoil</option>
-              <option value="http://www.campsaver.com/katadyn_filters.php">Katadyn</option>
-              <option value="http://www.campsaver.com/kelty.php">Kelty</option>
-              <option value="http://www.campsaver.com/categories.php?cid=524">Kershow </option>
-              <option value="http://www.campsaver.com/categories.php?cid=521">Leatherman</option>
-              <option value="http://www.campsaver.com/categories.php?cid=972">Lowe Alpine</option>
-              <option value="http://www.campsaver.com/mont-bell.php">Mont-Bell</option>
-              <option value="http://www.campsaver.com/categories.php?cid=925">Montane</option>
-              <option value="http://www.campsaver.com/categories.php?cid=694">Mountainsmith</option>
-              <option value="http://www.campsaver.com/categories.php?cid=801">Mountain House</option>
-              <option value="http://www.campsaver.com/msr_tents_stoves_filters.php">MSR</option>
-              <option value="http://www.campsaver.com/nalgene_hydration.php">Nalgene</option>
-              <option value="http://www.campsaver.com/olicamp.php">Olicamp</option>
-              <option value="http://www.campsaver.com/categories.php?cid=37">Platypus</option>
-              <option value="http://www.campsaver.com/primus.php">Primus</option>
-              <option value="http://www.campsaver.com/categories.php?cid=423">Princeton Tec</option>
-              <option value="http://www.campsaver.com/categories.php?cid=816">Richmoor</option>
-              <option value="http://www.campsaver.com/categories.php?cid=611">Silva Compass</option>
-              <option value="http://www.campsaver.com/categories.php?cid=753">Singing Rock</option>
-              <option value="http://www.campsaver.com/categories.php?cid=251">Slumberjack</option>
-              <option value="http://www.campsaver.com/categories.php?cid=522">Spyderco</option>
-              <option value="http://www.campsaver.com/categories.php?cid=610">Suunto Compass</option>
-              <option value="http://www.campsaver.com/categories.php?cid=927">Terramar</option>
-              <option value="http://www.campsaver.com/categories.php?cid=208&amp;ef=Manufacturer&amp;ev=The%20North%20Face">The North Face</option>
-              <option value="http://www.campsaver.com/categories.php?cid=252">Thermarest</option>
-              <option value="http://www.campsaver.com/categories.php?cid=527">Tool Logic</option>
-              <option value="http://www.campsaver.com/trangia_stoves_cookware.php">Trangia</option>
-              <option value="http://www.campsaver.com/categories.php?cid=22">Tubbs</option>
-              <option value="http://www.campsaver.com/categories.php?cid=523">Wenger</option>
-              <option value="http://www.campsaver.com/categories.php?cid=103">Zeal Optics</option>
-            </select>
-          </div>
-      </form>
-          <p align="left"><a href="cart.php"><img src="../images/design_elements/shopping_cart.gif" alt="View Shopping cart" width="138" height="22" border="0"></a></p>
-          <div align="left"><!-- START SCANALERT CODE -->
-            <div align="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.campsaver.com"><img src="//images.scanalert.com/meter/www.campsaver.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." width="115" height="32" vspace="5" border="0" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-            </div>
+      <a href="cart.php"><img src="../images/design_elements/shopping_cart.gif" alt="View Shopping cart" width="138" height="22" border="0"></a> <br>
+      <!-- START CONTROLSCAN CODE -->
+<a href="https://www.controlscan.com/cgi-bin/pcir/seal/verify4.php?dom=3855DE49&amp;id=20" target="verify"><img border="0" src="https://www.controlscan.com/cgi-bin/pcir/seal/sealx2.php?subid=4290&amp;id=20" oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt="Internet Security By ControlScan"></a>
+<!-- STOP CONTROLSCAN CODE -->
             <table width="137" border="0" cellpadding="0" cellspacing="0">
           <tbody><tr>
             <td bgcolor="#E9F2CE"><img src="../images/shell_images/help_tab.gif" width="137" height="23">
@@ -166,7 +180,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   <a href="http://www.campsaver.com/newsletter.php">Newsletter Signup</a> <br>
                     <a href="http://www.campsaver.com/contact.php">Contact Info</a><br>
                     <a href="http://www.campsaver.com/faq.php">FAQ</a><br>
-                    <a href="http://www.campsaver.com/price_match.php">Price Match Policy</a><br>
                     <a href="http://www.campsaver.com/privacypolicy.php">Privacy Policy</a><br>
                     <a href="http://www.campsaver.com/returns_department.php">Return Policy</a><br>
               <a href="http://www.campsaver.com/shipping_info.php">Shipping Info</a></p>
@@ -177,7 +190,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 <p>&nbsp;</p></td>
           </tr>
             </tbody></table>
-          </div></td>
+      </td>
   </tr>
   <tr>
     <td colspan="3" bgcolor="#2896CD"><img src="images/spacer.gif" width="1" height="1"></td>
