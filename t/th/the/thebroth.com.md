@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebroth.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119211402id_/http%3A//www.thebroth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebroth.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717073648id_/http%3A//www.thebroth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TheBroth.com
 
@@ -46,9 +46,9 @@ TheBroth may share personally identifiable information if and when we are requir
 
 As a registered member, you have the option (but not the obligation) to customize your forum profile, post in the forum, write in user blogs, comment on artworks and blog entries, and you're encouraged not to share personally identifiable information when doing so. Please review our [safety tips and guidelines](https://web.archive.org/safety.html). 
 
-### 5b. Contests
+### 5b. Contests and member reward schemes
 
-If you opt to enter an art competition and you win and wish to claim your prize, you may be required to disclose your name and mailing address. This is completely optional - we do not have your name or address on file, and it is your choice as to whether you wish to disclose this information to TheBroth or the contest sponsors upon winning a prize. Please refer to our [Terms of Service](https://web.archive.org/terms.html) for the rules governing contests. 
+If you opt to enter an art competition and you win and wish to claim your prize, or if you are eligible for a product in context of a member rewards scheme, you may be required to disclose your name and mailing address. For this purpose, TheBroth offers a secure server address form to ensure the security of your personal information. After your item has been shipped, TheBroth will permanently delete your address from TheBroth servers. Claiming any prize or reward and disclosing your address is completely optional. Please refer to our [Terms of Service](https://web.archive.org/terms.html) for the rules governing contests. 
 
 ### 5c. Online indicators and public profile information
 
@@ -68,7 +68,7 @@ Users who would rather not provide the data requested by our registration proces
 
 ## 7\. How can I review and update my personally identifiable information?
 
-TheBroth does not store personally identifiable information other than your email address. You can [unregister](http://www.thebroth.com/unregister.html) which will delete your account, and it will remove your name from gallery comments you may have made and from artworks you may have contributed to. Your posts in the forum will remain visible and continue to display your username. If you are experiencing problems with our services or you have questions about how our services work, you can contact us via our [contact page](https://web.archive.org/web/20061119211402id_/http%3A//www.thebroth.com/contact.html). 
+TheBroth does not store personally identifiable information other than your email address. You can [unregister](http://www.thebroth.com/unregister.html) which will delete your account, and it will remove your name from gallery comments you may have made and from artworks you may have contributed to. Your posts in the forum will remain visible and continue to display your username. If you are experiencing problems with our services or you have questions about how our services work, you can contact us via our [contact page](https://web.archive.org/web/20070717073648id_/http%3A//www.thebroth.com/contact.html). 
 
 ## 8\. How is my information secured?
 
