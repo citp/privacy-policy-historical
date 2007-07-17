@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusind.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015211617id_/http%3A//www.indusind.com/PageProcess.aspx%3FPageId%3D307%26lang%3Den-US%26menuid%3D3%26menuitemid%3D1%26menuname%3DPrivacy%2520Policy%26isBottom%3DYES%26LevelNo%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusind.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717092506id_/http%3A//www.indusind.com/PageProcess.aspx%3FPageId%3D307%26lang%3Den-US%26menuid%3D3%26menuitemid%3D1%26menuname%3DPrivacy%2520Policy%26isBottom%3DYES%26LevelNo%3D0) for the most accurate reproduction.*
 
 # Welcome To IndusInd
 
