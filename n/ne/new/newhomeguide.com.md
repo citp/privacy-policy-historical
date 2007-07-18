@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423180407id_/http%3A//www.newhomeguide.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2007-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070718234557id_/http%3A//www.newhomeguide.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # New Home Guide
 
@@ -12,6 +12,8 @@ When using certain tools on our site, you may be asked to provide additional inf
 In addition to the personal information that you voluntarily provide directly to us, your "Internet Protocol" or IP address, browser type, domain name, access times and referring web site address are also recorded. This information is collected both during registration on a site or in response to specific requests. This data helps us serve you by allowing us to understand how visitors use our services. 
 
 Some of the services available on our site are provided by third parties and sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with us. If you decide to use these services or accept these offers, we may provide, with your consent, your information to the third party. However, you should note that this privacy policy does not apply to information you consent to give to third parties (or voluntarily provide to third parties) not affiliated with us. Any information you give to another party is governed by the rules of that party’s privacy policy, which may differ from this privacy policy. We are not responsible for information given to or collected by other parties. Please review their privacy policies prior to providing any information to third parties. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
 **What we do with collected information**   
 When you register on our site, we use the information you provide to us to track what kind of activities you conduct on our site, including, for example, the types and locations of homes that you have viewed, to create a particular profile for you. 
