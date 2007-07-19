@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104100339id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719230323id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Kalmbach Publishing Co. Privacy Policy - (12/01/2004)
 
@@ -56,8 +56,6 @@ Kalmbach Publishing Co. is also the host for:
 
   * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)
   
-
-  * [www.trainshops.com ](http://www.trainshops.com/)
 
 
 
