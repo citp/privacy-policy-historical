@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimptonhotels.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506213839id_/http%3A//www.kimptonhotels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimptonhotels.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719084610id_/http%3A//www.kimptonhotels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kimpton Hotels & Restaurants - Privacy Statement
 
