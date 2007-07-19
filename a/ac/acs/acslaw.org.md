@@ -1,43 +1,14 @@
-> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221161733id_/http%3A//www.acslaw.org/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720015640id_/http%3A//www.acslaw.org/about/privacy) for the most accurate reproduction.*
 
-# American Constitution Society
+# Privacy Policy | American Constitution Society
 
-|  | [Home](http://www.americanconstitutionsociety.org/index.htm "Home")  
----  
-[About Us](http://www.americanconstitutionsociety.org/About.htm "About Us")  
-[News](http://www.americanconstitutionsociety.org/News.htm "Events")  
-[Events](http://www.americanconstitutionsociety.org/Events.htm "Events")  
-[Chapters](http://www.americanconstitutionsociety.org/Chapters.htm "Chapters")  
-[Views](http://www.americanconstitutionsociety.org/Views.htm "Views")  
-[Video](http://www.americanconstitutionsociety.org/Video.htm "Video")  
-[Leadership and Staff](http://www.americanconstitutionsociety.org/Leadership.htm "Leadership")  
-[Join/Contribute](http://www.americanconstitutionsociety.org/Contribute.htm "Contribute")  
-[Shop](https://web.archive.org/web/20051221161733id_/http%3A//www.acslaw.org/Shop.htm)  
-[Contact Us](http://www.americanconstitutionsociety.org/Contact.htm "Contact Us")  
-  | 
+ACS is sensitive to online privacy concerns. Among our organization's central goals is the protection of individual rights and liberties, including privacy.
 
-## American Constitution Society for Law and Policy  
-Privacy Policy
+**Browser information collected on the website**  
+Like most website operators, ACS analyzes its website logs to improve the value of this website. Our Internet hosting provider reports to us statistics about page views, unique views, unique visitors, repeat visitors, frequency of visits and peak-volume traffic periods. We do not use this service to gather, request, record, require, collect or track any Internet users' personally identifiable information. 
 
-  
-We're glad you looked here. The American Constitution Society is sensitive to online privacy concerns. Among our organization's central goals is the protection of individual rights and liberties, including privacy.
+**Privacy of e-mail lists**  
+ACS maintains e-mail lists to inform interested parties about our various activities. However, ACS does not share addresses on such lists with any third parties. ACS also compiles the names of potential new members and attendees at our events, and may share such information with organizations potentially co-sponsoring any particular event.
 
-**Browser information collected on the website**
-
-As with any website operator, ACS analyzes our website logs to improve the value of our website. The firm that provides our Internet hosting reports to us about browser accesses to our site. This information includes page views, unique views, unique visitors, repeat visitors, frequency of visits, and peak-volume traffic periods. We do not use this service to gather, request, record, require, collect or track any Internet users' personally identifiable information.
-
-**Privacy of our e-mail lists**
-
-ACS maintains e-mail lists to keep interested parties informed about various activities of our organization. We do not share the e-mail addresses on our lists with outside organizations. 
-
-**Cookies**
-
-ACS does not use "cookies" (small data files placed on a user's computer by a server) to collect personal information on visitors to its website. 
-
-**Collection and use of personally identifiable information**
-
-At our site you can join or contribute to ACS, and in the process of doing so you may be requested to provide your name, mailing address, e-mail address, telephone number, and biographical information such as your place of employment and educational background.
-
-ACS does not sell or otherwise disclose such personal information outside our organization. ACS, like most nonprofit organizations, does obtain the names of potential new members or attendees at our events by obtaining membership lists or subscriber lists of like-minded organizations and publications. Sometimes, instead of paying a rental fee for such lists, ACS might exchange its list with that of another organization. In such cases, your name and mailing address (but not any other information about you) might be exchanged with another organization.
-
-| 
+**Collection and use of personally identifiable information**  
+This site enables users join or contribute to ACS, and in the process of doing so you may be requested to provide your name, mailing address, e-mail address, telephone number and biographical information such as your place of employment and educational background. This site does use "cookies" (small data files placed on your computer by our server) to store such information, but only to that information you choose to supply, and never to share with third parties. ACS does not sell or otherwise disclose such personal information outside our organization. 
