@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018215208id_/http%3A//www.frontgate.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719135906id_/http%3A//www.frontgate.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
 
 # Customer Service - For Your Protection - Frontgate
 
@@ -49,9 +49,9 @@ Visit the Direct Marketing Association's
 [_Top 10 Online Smart Shopping Tips_](http://www.shopthenet.org/tips.shtml) for safety tips and precautions to take when shopping online. The [_DMA Consumer Assistance Web site_](http://www.dmaconsumers.org/) also offers consumer protection information for shopping online, by phone, or by mail.
 
 Contacting the Webmaster  
-We've worked hard to bring you a secure online commerce environment, and we value your questions, comments, and concerns. If you have any feedback about our Web site security, please 
+We've worked hard to bring you a secure online commerce environment, and we value your questions, comments, and concerns. If you have any feedback about our Web site security, please contact us 
 
-[_send us an e-mail_](mailto:webmaster@frontgate.com) or contact us via regular mail:
+[ _via email_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=548&path=1%2C2%2C270%2C271%2C548) or via regular mail:
 
 FRONTGATE  
 Webmaster  
@@ -106,9 +106,9 @@ In order to protect our customers' security to the fullest extent, information f
 **Changing Your Email & Mailing Preferences**  
 If you are currently receiving communications from , it is because you have notified us of your desire to receive these mailings, because you have recently requested products or services from us, or because you have provided information to a third party affiliated with . If you prefer not to receive catalogs, email offers, or other communications from us, we give you the opportunity to terminate these mailings at any time. (Note: Because we plan our catalog and email mailings in advance, it may take several weeks for your request to become effective.)
 
-If you no longer wish to receive catalogs or mailings from affiliated companies, call 1.888.263.9850, 
+If you no longer wish to receive catalogs or mailings from affiliated companies, call 1.888.263.9850, contact us 
 
-[_send us an email_](mailto:cs@frontgate.com), or send your mailing label to:
+[ _via email_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=548&path=1%2C2%2C270%2C271%2C548), or send your mailing label to:
 
 5566 West Chester Road  
 West Chester, OH 45069 
@@ -126,16 +126,16 @@ gives you the following options for changing and modifying information previousl
 
   * Update your information in [_My Account_](https://web.archive.org/account/login/loginmain.jsp).
   * Call one of our Customer Service Representatives at 1.888.263.9850.
-  * [_Send us an e-mail_](mailto:cs@frontgate.com).
+  * Contact us [ _via email_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=548&path=1%2C2%2C270%2C271%2C548).
 
   
 **Protecting Childrens' Privacy**  
 The Web site is not intended for use by, nor do we knowingly collect personal information from, children under the age of 18.
 
 **Contacting the Webmaster**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact us 
 
-[_send a message to the Webmaster_](mailto:webmaster@frontgate.com), or write to us at:
+[ _via email_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=548&path=1%2C2%2C270%2C271%2C548), or write to us at:
 
 Webmaster  
 5566 West Chester Road  
@@ -147,15 +147,15 @@ West Chester, OH 45069
 ---  
 | 
 
-One Year Guarantee/Price Protection
+Our Quality Commitment & Price Guarantee
 
   
-**One-Year Guarantee**  
+**Our Quality Commitment**  
 At , our primary focus is quality. We guarantee that every product we sell will stand up to the supreme test — our customers' satisfaction.
 
 Our One-Year Guarantee lets you put any product to the test. If for any reason you are not satisfied, simply return it within 90 days and we'll replace it or refund the cost of the item (excluding Shipping and Processing fees). In addition, we will repair or replace any product for a full year from the date of purchase.
 
-**Price Protection**  
+**Price Guarantee**  
 We have a high regard for value as well as quality. If you purchase from and see the same item in another catalog for less (including shipping and tax) within 90 days of your purchase, we'll gladly refund the difference. Please provide the other print catalog's advertisement and order form, and mail to:
 
 Price Protection  
@@ -178,9 +178,9 @@ West Chester, OH 45069
 Please note: Any items that are monogrammed, customized or made-to-order cannot be returned or exchanged unless damaged or defective.
 
 **Questions?**  
-Call 1.888.263.9850 or 
+Call 1.888.263.9850 or contact us 
 
-[_send us an e-mail_](mailto:cs@frontgate.com). |   
+[ _via email_](https://web.archive.org/jump.jsp?itemType=CATEGORY&itemID=548&path=1%2C2%2C270%2C271%2C548). |   
   
   
 ---  
