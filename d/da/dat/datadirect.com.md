@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209175258id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719215846id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
 
-# DataDirect Technologies Privacy Policy: Legal: Home
+# DataDirect Technologies Privacy Policy
 
 Last update: Monday, October 4, 2004
 
