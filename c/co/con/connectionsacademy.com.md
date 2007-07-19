@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030063946id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2007-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070719171125id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Connections Academy - Privacy Policy
 
