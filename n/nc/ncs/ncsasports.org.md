@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426044918id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720000022id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
 # National Collegiate Scouting Association :: Privacy Policy
 
