@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021170415id_/https%3A//www.secure-tunnel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720194855id_/https%3A//www.secure-tunnel.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Secure-Tunnel.com - The Future of Internet Security
 
