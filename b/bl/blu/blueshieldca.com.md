@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueshieldca.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021222629id_/https%3A//www.blueshieldca.com/bsc/general/privacy_709.jhtml%3Bjsessionid%3D3CDUXLHEKUK0PJP3YYRCGLNF5XDCKITT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueshieldca.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720171546id_/https%3A//www.blueshieldca.com/bsc/general/privacy_709.jhtml) for the most accurate reproduction.*
 
 # Blueshieldca.com's privacy policy - Blue Shield of California
 
@@ -16,6 +16,8 @@
 |   
 | [Community Involvement](https://web.archive.org/bsc/newsroom/newsroom_04.jhtml)  
 |   
+| [Universal Coverage](https://web.archive.org/bsc/aboutbsc/aboutbsc_covexpmission.jhtml)  
+|   
 | [Awards](https://web.archive.org/bsc/aboutbsc/aboutbsc_awards.jhtml)  
 |   
 | [Newsroom](https://web.archive.org/bsc/newsroom/newsroom_01.jhtml)  
@@ -24,7 +26,15 @@
 |   
 | [Fraud](https://web.archive.org/bsc/aboutbsc/aboutbsc_fraud_home.jhtml)  
 |   
+| [Supplier Diversity](https://web.archive.org/bsc/aboutbsc/supplier_diversity.jhtml)  
+|   
 | [About Blueshieldca.com](https://web.archive.org/bsc/aboutbsca/aboutbsca_01.jhtml)  
+|   
+|  [Confidentiality & Privacy](https://web.archive.org/bsc/general/privacy_709.jhtml)  
+|   
+|  [Terms of Use](https://web.archive.org/bsc/general/terms_710.jhtml)  
+|   
+|  [Site Map](https://web.archive.org/bsc/general/site_map.jhtml)  
 |   
 | [Home](https://web.archive.org/bsc/home/home.jhtml) > [About Blue Shield](https://web.archive.org/bsc/aboutbsc/aboutbsc.jhtml) > [About Blueshieldca.com](https://web.archive.org/bsc/aboutbsca/aboutbsca_01.jhtml) > Confidentiality & Privacy  |   
   
@@ -72,7 +82,7 @@ Blue Shield of California may use and disclose your personal and health informat
   
 |  |  **Underwriting** : We may collect your personal and health information for underwriting, dues rating or other activities relating to the creation, renewal or replacement of a contract of health insurance or health benefits. We will not use or further disclose this personal and health information for any other purpose, except as required by law. If you become a Blue Shield member, we will use and disclose your personal and health information only as described in this notice.  
   
-|  |  **Health & Wellness Information**: We may use your personal and health information to contact you with information about health-related services, appointment reminders or treatment alternatives. If you do not wish to receive this type of information, you may request to opt-out of receiving this information from Blue Shield of California by sending an e-mail to [blueshieldca_privacy@blueshieldca.com](mailto:blueshieldca_privacy@blueshieldca.com) or calling the phone number **(888) 266-8080**. However, you will still continue to receive general, non-personal information, such as Blue Shield newsletters.  
+|  |  **Health & Wellness Information**: We may use your personal and health information to contact you with information about health-related services, appointment reminders or treatment alternatives. If you do not wish to receive this type of information, you may request to opt-out of receiving this information from Blue Shield of California by sending an email to [blueshieldca_privacy@blueshieldca.com](mailto:blueshieldca_privacy@blueshieldca.com) or calling the phone number **(888) 266-8080**. However, you will still continue to receive general, non-personal information, such as Blue Shield newsletters.  
   
 |  |  **Family and Friends** : We may disclose your personal and health information to a family member, friend or other person if you are unavailable to agree such as in a medical emergency or disaster relief. We will disclose this information only to the extent necessary to help with your health care or with payment for your health care.  
   
@@ -114,7 +124,7 @@ Individual Rights
   
 |  |  **Amendment** : You have the right to amend your personal and health information. You must make a request in writing to obtain an amendment. Your written request must explain why the information should be amended. If we amend the information for you, we will make reasonable efforts to inform others of the amendment and to include the changes in any future disclosures of that information. You can submit a written statement of disagreement to be appended to the information you wanted amended.  
   
-|  |  **Electronic Notice** : If you receive this notice on our Web site or by electronic mail (e-mail), you are entitled to receive this notice in written form. Please contact us using the information listed at the end of this notice to obtain this notice in written form.  
+|  |  **Electronic Notice** : If you receive this notice on our Web site or by electronic mail (email), you are entitled to receive this notice in written form. Please contact us using the information listed at the end of this notice to obtain this notice in written form.  
 Return to top  
 Questions and Complaints  
 If you want more information about our privacy practices or have questions or concerns, please contact us using the information listed at the end of this notice.
@@ -128,7 +138,7 @@ Contact Us
 Blue Shield of California Privacy Official  
 Telephone: (888) 266-8080  
 Fax: (800) 201-9020  
-E-mail: [blueshieldca_privacy@blueshieldca.com](mailto:blueshieldca_privacy@blueshieldca.com)  
+Email: [blueshieldca_privacy@blueshieldca.com](mailto:blueshieldca_privacy@blueshieldca.com)  
 Address: P.O. Box 272540, Chico, CA 95927-2540  
 Return to top  
 Last updated: July 1, 2004  
