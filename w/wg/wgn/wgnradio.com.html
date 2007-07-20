@@ -1,508 +1,695 @@
-<!--The following is the downloaded HTML source of the wgnradio.com privacy policy that was archived on 2006-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061111233427id_/http%3A//wgnradio.com/special/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgnradio.com privacy policy that was archived on 2007-07-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070721003952id_/http%3A//www.wgnradio.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D34%26Itemid%3D120) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/templateinformation.dwt" --><!-- DW6 --><head>
-<!-- #BeginEditable "doctitle" --> 
-<title>wgnradio.com - Radio 720 WGN - Chicago's News and Talk . . . and Sports</title>
-<!-- #EndEditable --> 
-<meta name="description" content="Chicago's News and Talk, Radio 720, WGN, a Tribune Broadcasting Station">
-<meta name="keywords" content="WGN Chicago Radio 720 AM Cubs Chicago's News and Talk">
-<style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>WGN Radio - Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="author" content="Savva Korolev">
+<meta name="description" content="News/Talk 720, WGN, The Voice of Chicago, a Tribune Broadcasting Station">
+<meta name="keywords" content="WGN, Radio, AM, News/Talk, 720, Voice of Chicago">
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved.">
+<meta name="robots" content="index, follow">
+<script type="text/javascript">
+/*<![CDATA[*/
+	var jax_live_site = 'http://wgnradio.com/index.php';
+/*]]>*/
+</script><script type="text/javascript" src="http://wgnradio.com/mambots/system/pc_includes/ajax.js.php?compress=0"></script>
+<link rel="stylesheet" type="text/css" href="http://wgnradio.com/components/com_jomcomment/style.css">
+<link rel="stylesheet" type="text/css" href="http://wgnradio.com/components/com_jomcomment/templates/default/comment_style.css">
+
+<script type="text/javascript">
+/*<![CDATA[*/
+var jc_option           = "com_content";
+var jc_autoUpdate       = "0";
+var jc_update_period    = 300*1000;
+var jc_orderBy          = "1";
+var jc_livesite_busyImg = "http://wgnradio.com/components/com_jomcomment/busy.gif";
+var jc_commentForm;
+/*]]>*/
+</script>
+<script src="http://wgnradio.com/components/com_jomcomment/script.js?1.8" type="text/javascript"></script>
+	<link rel="shortcut icon" href="http://wgnradio.com/images/favicon.ico">
+	<script type="text/javascript">
 <!--
-a:link { color: #990000; text-decoration: none }
-a:active {  color: #ffcc33; text-decoration: none }
-a:visited {  color: #3300CC; text-decoration: none }
-a:hover {  text-decoration: underline }
--->
+//background flicker fix for IE
+try {
+  document.execCommand('BackgroundImageCache', false, true);
+} catch(e) {}
 
-</style></head>
+var intvls = new Array();
+var tms = new Array();
+var current_menu = false;
+var current_id = false;
 
+sfHover = function() {
 
+	var subMU = document.getElementById("menuitem_2_13");
+	if(subMU)
+	{
+		subMU.onmouseover = function() { this.className = "hover"; };
+		subMU.onmouseout = function() { this.className = ""; };
+	}
+	
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
 
-
-<body bgcolor="#003366" background="../graphics/background1400x2000.gif" text="#000000" link="#cc3333" vlink="#003366" alink="#003366" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-<a name="top"></a> 
-<script language="JavaScript">
-<!--
-if (navigator.userAgent.indexOf("MSIE 3.0") == -1) {
-	if (navigator.userAgent.indexOf("Mac") > 0 && navigator.userAgent.indexOf("MSIE 5.0") == -1) {
-		document.write("<LINK rel='stylesheet' href='/style/mstylesmc.css' type='text/css'>");
-	} else if (navigator.userAgent.indexOf("X11") > 0) {
-		document.write("<!-- UNIX, no style sheet -->");        
-	} else {
-		document.write("<LINK rel='stylesheet' href='/style/mstylespc.css' type='text/css'>");
+	sfEls[sfEls.length-1].className="MyWGN";
+	
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].id="nav_" + i;
+		//temp workaround//
+//		alert(sfEls[i].parentNode.parentNode.tagName);
+		if(sfEls[i].parentNode.parentNode.tagName == "DIV") {
+//		if((i == 1) || (i == 14) || (i == 24) || (i == 28) || (i == 36) || (i == 41) || (i == 53)) {
+			sfEls[i].onmouseover = function(){
+					var id = this.id.replace("nav_", "");
+					intvls[id] = true;
+					clearTimeout(tms[id]);
+					if(this.className!="MyWGN")
+						this.className="hover";
+	
+					if(current_id && current_id != id)
+					{
+						//alert(id);
+					if(current_menu.className!="MyWGN")
+						current_menu.className="";
+					}
+						current_id = id;
+						current_menu = this;
+				};
+	//		}
+			sfEls[i].onmouseout=function() {
+				var id = this.id.replace("nav_", "");
+				intvls[id] = false;
+				tms[id] = setTimeout("hide_menu('"+id+"')", 600);
+				//this.className=this.className.replace(new RegExp("hover\\b"), "");
+			}
+		}
 	}
 }
-// -->
-</script><!-- UNIX, no style sheet -->
-<table border="0" cellspacing="0" cellpadding="0" width="98%">
-  <tbody><tr> 
-    <td width="221" align="LEFT"><a href="../index.htm"><img name="logo150x75" src="../graphics/wgn150x75.gif" width="150" height="75" border="0" alt="WGN Radio"></a> 
-    </td>
-    <td width="1">&nbsp; </td>
-    <td align="RIGHT" colspan="2" width="529"> 
-      <div align="right"> 
-        <table width="482" border="0">
-          <tbody><tr>
-            <td width="4%" valign="bottom"><img src="../graphics/ad.gif" width="14" height="23"></td>
-            <td width="96%"><!-- Begin Ban Man Pro Banner Code -  Zone: Information --> 
-              <script language="JAVASCRIPT">
-<!--
-var browName = navigator.appName;
-var browDateTime = (new Date()).getTime();
-var browVersion = parseInt(navigator.appVersion);
-var ua=navigator.userAgent.toLowerCase();
-var adcode='';
-if (browName=='Netscape'){
-     if (browVersion>=5) 
-          { document.write('<ifr'+'ame src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          { document.write('<S'+'CRIPT src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Browser=NETSCAPE4">');
-          document.write('</'+'scr'+'ipt>');
-          document.write(adcode); }
-     else if (browVersion>=3) 
-          { document.write('<A HREF="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="468" height="60" border="0"></A>'); } }
-if (browName=='Microsoft Internet Explorer')
-     { document.write('<ifr'+'ame src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-// --> 
-</script><iframe src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580391747460" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
-              <noscript> <a href="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Click&Mode=HTML&PageID=33732" target="_new"> 
-              <img src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Mode=HTML&PageID=33732" width="468" height="60" border="0"></a> 
-              </noscript> <!-- End Ban Man Pro Banner Code -  Zone: Information --></td>
-          </tr>
-        </tbody></table>
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="99%">
-  <tbody><tr>
-    <td height="828" width="5"><img src="/pix/1pixtran.gif" width="5" height="1" border="0"></td>
-    <td height="828" valign="TOP" width="150"><img src="/pix/1pixtran.gif" width="120" height="1" border="0"><br clear="all">
-      <p><font face="Arial" color="#FFFFFF" class="chnav2" size="2"><b><font color="#FFFFFF"><font face="Arial" color="#FFFFFF"><font color="#"><a href="http://wgnradio.com/listen/index.htm"><font color="#FFFFFF">LISTEN 
-        NOW!</font></a></font></font><i> </i><a href="../listen/index.htm"><img src="../graphics/siren13x11an.gif" width="13" height="11" border="0" alt="Listen Now"></a></font></b> 
-        </font></p>
-      <p><font face="Arial" color="#FFFFFF" class="chnav2" size="2"> <b>SHOWS</b></font><font face="Arial" size="2"><b><br>
-        <a href="http://wgnradio.com/spike/index.htm"><font color="#FFCC33">Spike 
-        O'Dell</font></a><font color="#FFFFFF"><br>
-        <a href="http://wgnradio.com/shows/kathy_judy/index.html"><font color="#FFCC33">Kathy 
-        &amp; Judy<br>
-        </font></a></font></b></font><font face="Arial" size="2"><b><font color="#FFFFFF"><a href="http://wgnradio.com/shows/harvey_paul/index.html"><font color="#FFCC33">Paul 
-        Harvey</font></a><br>
-        <a href="http://wgnradio.com/steve/index.htm"><font color="#FFCC33">Steve 
-        Cochran</font></a><br>
-        <a href="http://wgnradio.com/shows/williams_john/index.html"><font color="#FFCC33">John 
-        Williams</font></a><br>
-        <a href="http://wgnradio.com/shows/sp_central/index.html"><font color="#FFCC33">Sports 
-        Central</font></a><br>
-        <a href="http://wgnradio.com/shows/ex720/index.html"><font color="#FFCC33">Milt 
-        Rosenberg</font></a><br>
-        <font face="Arial" size="2"><b><a href="http://wgnradio.com/shows/steve_johnnie/index.html"><font color="#FFCC33">Steve 
-        &amp; Johnnie</font></a></b></font></font><br>
-        <font color="#FFFFFF"><a href="http://wgnradio.com/shows/noon/index.html"><font color="#FFCC33">Orion 
-        &amp; Max</font></a></font> <br>
-        <font color="#FFFFFF"><a href="http://wgnradio.com/schedule/weekendindex.htm"><font color="#FFCC33">Weekend 
-        Shows</font></a></font></b></font><font face="Arial" size="2"><b><font color="#FFFFFF"><br>
-        </font><font color="#FFFFFF"><a href="http://wgnradio.com/schedule/index.htm"><font color="#FFCC33">Show 
-        Schedule</font></a><br>
-        <a href="http://wgnradio.com/guests/index.htm"><font color="#FFCC33">Guests/Topics</font></a></font></b></font></p>
-      <p><font face="Arial" size="2"><b><font color="#FFFFFF">FEATURES<br>
-        <font face="Arial" size="2"><b><a href="http://wgnradio.com/faqs/index.htm"><font color="#FFCC33">FAQs</font></a></b></font></font><br>
-        </b></font><font face="Arial" size="2"><b><font color="#FFFFFF"><a href="http://wgnradio.com/archives/index.htm"><font color="#FFCC33">Audio 
-        Archives</font></a><br>
-        <a href="http://wgnradio.com/gallery/index.htm"><font color="#FFCC33">Photos</font></a></font><font color="#FFFFFF"><br>
-        </font><a href="http://wgnradio.com/sponsors/index.htm"><font color="#FFCC33">Sponsors</font></a><br>
-        </b></font><font face="Arial" size="2"><b><a href="http://wgnradio.com/email/index.htm"><font color="#FFCC33">Contact 
-        Us/E-Mail</font></a></b></font><font face="Arial" size="2"><b><font color="#FFFFFF"><br>
-        <a href="http://wgnradio.com/contests/index.htm"><font color="#FFCC33">Contests</font></a></font><font color="#FFFFFF"><br>
-        </font><a href="http://wgnradio.com/store/index.htm"><font color="#FFCC33">wgnradio.com/store</font></a><font color="#FFFFFF"><font color="#FFCC33"><br>
-        </font></font><a href="http://wgnradio.com/special/world/world.htm"><font color="#FFCC33">Around 
-        the World</font></a><font color="#FFFFFF"><br>
-        <a href="http://wgnradio.com/whatsnew.htm"><font color="#FFCC33">What's 
-        New</font></a><br>
-        <a href="http://wgnradio.com/sitemap.htm"><font color="#FFCC33">Site Map</font></a></font></b></font></p>
-      <p><font face="Arial" size="2"><b><font color="#FFFFFF">INFORMATION</font><br>
-        <font color="#FFFFFF"><a href="http://wgnradio.com/news/index.htm"><font color="#FFCC33">News</font></a><br>
-        <a href="http://wgnradio.com/sports/index.htm"><font color="#FFCC33">Sports</font></a><br>
-        <a href="http://wgnradio.com/weather/index.htm"><font color="#FFCC33">Weather</font></a></font><font color="#FFFFFF"><br>
-        <a href="http://wgnradio.com/traffic/index.htm"><font color="#FFCC33">Traffic</font></a><br>
-        <a href="http://wgnradio.com/shows/noon/index.html"><font color="#FFCC33">Business</font></a><br>
-        <a href="http://wgnradio.com/closings/index.htm"><font color="#FFCC33">Closing 
-        Center</font></a><br>
-        <a href="http://wgnradio.com/special/com_cal.html"><font color="#FFCC33">Community 
-        Calendar</font></a></font></b></font></p>
-      <p><font face="Arial" size="2"><b><font color="#FFFFFF">WGN RADIO DETAILS<br>
-        <a href="http://wgnradio.com/special/intern.html"><font color="#FFCC33">Internships</font></a></font><br>
-        <a href="http://wgnradio.com/special/EEO.htm"><font color="#FFCC33">EEO 
-        Report</font></a><font color="#FFFFFF"><br>
-        <a href="http://wgnradio.com/Kids/NKF2.htm"><font color="#FFCC33">Neediest 
-        Kids Fund</font></a><br>
-        <a href="http://wgnradio.com/history/index.htm"><font color="#FFCC33">History</font></a></font><br>
-        <br>
-        <font color="#FFFFFF" class="chnav2">PARTNERS</font><br>
-        <font color="#FFFFFF"><a href="http://www.chicagotribune.com" target="_blank"><font color="#FFCC33">chicagotribune.com</font></a><br>
-        <a href="http://www.chicagosports.com" target="_blank"><font color="#FFCC33">chicagosports.com</font></a><br>
-        <a href="http://www.cltv.com" target="_blank"><font color="#FFCC33">cltv.com</font><br>
-        </a></font><a href="http://www.cubs.com" target="_blank"><font color="#FFCC33">cubs.com</font></a><font color="#FFFFFF"><br>
-        </font><font face="Arial" size="2"><b><font face="Arial" size="2"><b><font color="#FFFFFF"><a href="http://www.metromix.com" target="_blank"><font color="#FFCC33">metromix.com</font></a></font></b></font></b></font><font color="#FFFFFF"><br>
-        <a href="http://www.wgntv.com" target="_blank"><font color="#FFCC33">wgntv.com</font></a></font></b></font></p>
-      <p>&nbsp;</p>
-      <p> <font face="Arial" color="#FFFFFF"><font size="-1"> </font></font></p>
-      </td>
-    <td width="100%" bgcolor="#FFFFFF" align="LEFT" valign="TOP" height="828"> <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr> 
-          <td width="2%" height="50" align="LEFT" valign="TOP" bgcolor="ffcc33"><img src="/graphics/tcorner6x6.gif" width="6" height="6" border="0"></td>
-          <td width="98%" height="50" bgcolor="ffcc33"> <form method="GET" action="http://www.google.com/custom">
-              <table border="0" cellspacing="0" cellpadding="3" width="100%">
-                <tbody><tr> 
-                  <td width="45%" valign="middle" bgcolor="ffcc33"><font size="-1" face="Arial, Helvetica" class="date" style="COLOR: WHITE" color="#EEEEEE"><font color="#000000" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                    <script language="JavaScript">
-<!-- 
-now = new Date();
-day = now.getDay();
-month = now.getMonth();
-year = now.getFullYear();
-daynum = now.getDate();
-hour = now.getHours();
-minute = now.getMinutes();
-leadingZero = '';
 
-dayName = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday');
-monthName = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
+hide_menu = function(i) {
+	if(!intvls[i])
+		if(document.getElementById("nav_"+i).className != "MyWGN")
+			document.getElementById("nav_"+i).className = "";
+}
 
-document.write(dayName[day] + ', ' + monthName[month] + ' ' + daynum + ', ' + year);
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
 //-->
-</script>Thursday, January 30, 2020
-                    </font>&nbsp;<img src="../art/usflag26high.gif" width="46" height="26" align="middle"></font></td>
-                  <td width="55%" valign="top" bgcolor="ffcc33"> <div align="right"><a href="mailto:davemarzullo@wgnradio.com"></a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                      <input type="text" name="q" size="10" maxlength="255" value="">
-                      <input type="submit" name="sa" value="Search">
-                      <input type="hidden" name="cof" value="LW:470;L:http://wgnradio.com/art/headermic.GIF;LH:63;AH:left;GL:0;S:http://wgnradio.com;AWFID:c71ce035d5f4bad5;">
-                      <input type="hidden" name="domains" value="wgnradio.com">
-                      <input type="hidden" name="sitesearch" value="wgnradio.com">
-                      Powered by <a href="http://www.google.com"><img src="../graphics/google1.gif" width="46" height="15" border="0" align="absbottom"></a></font> 
-                    </div></td>
-                </tr>
-              </tbody></table>
-            </form></td>
-        </tr>
-      </tbody></table>
-      <!-- #BeginEditable "content" -->
-      <table width="100%" border="0">
-        <tbody><tr>
-          <td width="10">&nbsp;</td>
-          <td valign="top"> 
-            <div align="center"> 
-              <p><font size="4" face="Arial, Helvetica, sans-serif"><strong>WGN-AM 
-                RADIO 720, CHICAGO, ILLINOIS<br>
-                </strong><span class="headline">Privacy Policy</span></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
-                <br>
-                <b><span class="text">Last Updated: October, 2004</span></b> </font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">WGNRADIO.com strives 
-                to offer its visitors the many advantages of Internet technology 
-                and to provide an interactive and personalized experience. We 
-                may use Personally Identifiable Information (your name, e-mail 
-                address, street address, telephone number) subject to the terms 
-                of this privacy policy. Please note this policy applies only to 
-                information collected by WGNRADIO.com online and does not impact 
-                information collected or used by WGNRADIO.com or its affiliates through 
-                other means. </span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>How we gather 
-                information from users.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">How we collect 
-                and store information depends on the page you are visiting, the 
-                activities in which you elect to participate and the services 
-                provided. You can visit many pages on our site without providing 
-                any information. Other pages may prompt you to provide information, 
-                such as when you register for access to portions of our site, 
-                sign up for membership, request certain features (e.g., newsletters, 
-                news updates and other products), sign up for a newspaper subscription 
-                or make a purchase. You may also provide information when you 
-                participate in sweepstakes and contests, voting and polling activities, 
-                message boards and chat rooms and other interactive areas of our 
-                site.<br>
-                <br>
-                Like most Web sites, WGNRADIO.com also collects information automatically 
-                and through the use of electronic tools that may be transparent 
-                to our visitors. For example, we may log the name of your Internet 
-                Service Provider or use "cookie" technology. Among other 
-                things, the cookie may store your user name and password, sparing 
-                you from having to re-enter that information each time you visit, 
-                or may control the number of times you encounter a particular 
-                advertisement while visiting our site. As we adopt additional 
-                technology, we may also gather information through other means. 
-                In certain cases, you can choose not to provide us with information, 
-                for example by setting your browser to refuse to accept cookies, 
-                but doing so may limit your ability to access certain portions 
-                of the site or may require you to re-enter your user name and 
-                password. Additionally we may not be able to customize the site's 
-                features according to your preferences.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>What we do 
-                with the information we collect.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">We will use your 
-                information only as permitted by law. Aggregated Information (information 
-                that does not personally identify you) may be used in many ways. 
-                As one example, we may combine information about your usage patterns 
-                with similar information obtained from other users to learn which 
-                pages are visited most or what features are most attractive. Aggregated 
-                Information may occasionally be shared with our advertisers and 
-                business partners, but cannot be used to contact you individually.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">We 
-                also collect information to enhance your visit and deliver more 
-                individualized content and advertising. For example, we may use 
-                Personally Identifiable Information collected on WGNRADIO.com 
-                to communicate with you regarding our <a href="/special/terms.htm">Terms 
-                of Service</a> and privacy policy, products and services offered 
-                by WGNRADIO.com and other Tribune Company affiliates and partners, 
-                administration of sweepstakes and contests, processing e-commerce 
-                transactions and other topics we think you might find of interest. 
-                We reserve the right to share this information with other Tribune 
-                Company business units and affiliates, including for example our 
-                affiliated newspapers and entities in which Tribune Company has 
-                an ownership interest (collectively, "Affiliates"). 
-                This policy does not apply to any Affiliate's use of such information.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">Personally Identifiable 
-                Information collected by WGNRADIO.com may also be used for other 
-                purposes including but not limited to site administration and 
-                troubleshooting. Certain third parties who provide technical support 
-                for the operation of our site (our Web hosting service and our 
-                newsletter provider, for example) may access such information.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">As we continue 
-                to develop our business, we may sell, buy, merge or partner with 
-                other companies or businesses. In such transactions, user information 
-                may be among the transferred assets. We may also disclose your 
-                information in response to a court order, at other times when 
-                we believe we are reasonably required to do so by law, in connection 
-                with the collection of amounts you may owe to us, and/or whenever 
-                we deem it appropriate or necessary to give such information to 
-                law enforcement authorities. Please note we may not provide you 
-                with notice prior to disclosure in such cases.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Your choice 
-                to opt out.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">The quality news 
-                and information on WGNRADIO.com is supported by advertising revenue 
-                and a controlled program of e-mail marketing is an important element 
-                of our online publishing business. Like other Web publishers, 
-                we sometimes permit our advertising and promotional partners to 
-                e-mail you about services, features, products, special offers 
-                and unique content we believe might interest you. If you prefer 
-                not to receive e-mail communications sent directly from our advertisers 
-                or promotional partners, you will be given an opportunity to decline 
-                before you provide us information we might use for this purpose. 
-                If you decline at the time you provide us such information, we 
-                will not share the Personally Identifiable Information you provide 
-                with non-Affiliated advertisers for such purposes, though we may 
-                on occasion send you information on their behalf. </span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Affiliated 
-                sites, linked sites and advertisements.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">WGNRADIO.com expects 
-                its partners, advertisers and third-party affiliates to respect 
-                the privacy of our users. However, third parties, including our 
-                partners, advertisers, affiliates and other content providers 
-                accessible through our site, may have their own privacy and data 
-                collection policies and practices. For example, during your visit 
-                to our site you may link to, or view as part of a frame on a WGNRADIO.com 
-                page, certain content that is actually created or hosted by a 
-                third party. Also, through WGNRADIO.com you may be introduced to, 
-                or be able to access, information, Web sites, advertisements, 
-                features, contests or sweepstakes offered by other parties. WGNRADIO.com 
-                is not responsible for the actions or policies of such third parties. 
-                You should check the applicable privacy policies of those third 
-                parties when providing information on a feature or page operated 
-                by a third party.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">While on our site, 
-                our advertisers, promotional partners or other third parties may 
-                use cookies or other technology to attempt to identify some of 
-                your preferences or retrieve information about you. For example, 
-                some of our advertising is served by third parties and may include 
-                cookies that enable the advertiser to determine whether you have 
-                seen a particular advertisement before. Through features available 
-                on our site, third parties may use cookies or other technology 
-                to gather information. WGNRADIO.com does not control the use of this 
-                technology or the resulting information and is not responsible 
-                for any actions or policies of such third parties.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">Please be careful 
-                and responsible whenever you are online. Should you choose to 
-                voluntarily disclose Personally Identifiable Information on our 
-                site, such as in message boards, chat areas or in advertising 
-                or notices you post, that information can be viewed publicly and 
-                can be collected and used by third parties without our knowledge 
-                and may result in unsolicited messages from other individuals 
-                or third parties. Such activities are beyond the control of WGNRADIO.com 
-                and this policy.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Children.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">WGNRADIO.com does 
-                not knowingly collect or solicit Personally Identifiable Information 
-                from or about children under 13 except as permitted by law. If 
-                we discover we have received any information from a child under 
-                13 in violation of this policy, we will delete that information 
-                immediately. If you believe WGNRADIO.com has any information from 
-                or about anyone under 13, please contact us at the address listed 
-                below.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Contacting 
-                us.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">We can be reached 
-                by contacting:</span></font></p>
-              <div align="left"> 
-                <blockquote> 
-                  <p><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">WGNRADIO.com 
-                    Webmaster<br>
-                    435 N. Michigan Avenue<br>
-                    Chicago, IL 60611</span></font><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><br>
-                    Email: <a href="mailto:dmarzullo@tribune.com">dmarzullo@tribune.com</a></span></font></p>
-                  </blockquote>
-              </div>
-              <p align="left"> <font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Changes to 
-                this policy.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">WGNRADIO.com reserves 
-                the right to change this policy at any time. Please check this 
-                page periodically for changes. Your continued use of our site 
-                following the posting of changes to these terms will mean you 
-                accept those changes. Information collected prior to the time 
-                any change is posted will be used according to the rules and laws 
-                that applied at the time the information was collected.</span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text"><b>Governing law.</b></span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">This policy and 
-                the use of this Site are governed by Illinois law. Any claim related 
-                to the Site or this policy shall be brought in a federal or state 
-                court in Chicago, Illinois, within one year after the claim arises. 
-                You agree no such claim may be brought as a class action. Users 
-                of WGNRADIO.com consent to the jurisdiction and venue of such court 
-                as the most convenient and appropriate for the resolution of disputes 
-                concerning this policy. WGNRADIO.com is controlled, operated and 
-                administered entirely within the United States. If you are located 
-                outside the United States, please note the information you provide 
-                to us will be transferred to the United States. You hereby consent 
-                to this transfer. </span></font></p>
-              <p align="left"><font size="2" face="Arial, Helvetica, sans-serif"><span class="text">In the event case 
-                of any conflict between the terms of this policy and the terms 
-                of any electronic or machine readable privacy policy (for example, 
-                a P3P electronic privacy policy), the terms of this written policy 
-                shall control. </span></font></p>
-              <p align="left"> <font size="2" face="Arial, Helvetica, sans-serif"><cite class="copyright">Copyright 
-                © 2004, WGN Radio</cite></font></p>
-            </div>
-          </td>
-        </tr>
-      </tbody></table>
-      <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#FFFFFF">
-        <tbody><tr> 
-          <td>&nbsp; </td>
-        </tr>
-      </tbody></table>
-      <!-- #EndEditable --></td>
-  </tr>
-  <tr> 
-    <td colspan="2" height="21"> <form method="GET" action="http://www.google.com/custom">
-        <table bgcolor="#FFFFFF" cellspacing="0" border="0">
-          <tbody><tr valign="top"> 
-            <td bgcolor="#003366"> <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                <input name="q" type="text" id="q" value="" size="20" maxlength="255">
-                <input name="sa" type="submit" id="sa" value="Search">
-                <input name="cof" type="hidden" id="cof" value="LW:470;L:http://wgnradio.com/art/headermic.GIF;LH:63;AH:left;GL:0;S:http://wgnradio.com;AWFID:c71ce035d5f4bad5;">
-                <input name="domains" type="hidden" id="domains" value="wgnradio.com">
-                <br>
-                <input type="radio" name="sitesearch" value="wgnradio.com" checked="">
-                <font color="#FFFFFF">wgnradio.com</font> <br>
-                <input type="radio" name="sitesearch" value="">
-                <font color="#FFFFFF">Internet</font><br>
-                <font color="#FFFFFF">Powered by</font></font> <font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                <br>
-                <a href="http://www.google.com"><img src="../art/google80w.gif" width="80" height="32" border="0"></a> 
-                <br>
-                </font> </div></td>
-          </tr>
-        </tbody></table>
-      </form>
-      <p align="center">&nbsp;</p>
-      <p align="center"><br>
-      </p>
-      </td>
-    <td bgcolor="ffffff" height="21" align="LEFT" valign="BOTTOM" width="100%"><font face="Arial" color="#FFFFFF">&nbsp;</font><font face="Arial" color="#FFFFFF">&nbsp;</font> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td colspan="3"> 
-            <div align="center"></div>
-          </td>
-        </tr>
-        <tr> 
-          <td width="33%"> 
-            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#000000">Original 
-              site design, ongoing hosting and technical support provided by:</font><font face="Arial" color="#FFFFFF" size="1"><a href="http://www.tukaiz.com"><br>
-              <img src="../art/tukaiz2001small.gif" width="111" height="54" border="0" alt="Tukaiz Communications"></a></font></div>
-          </td>
-          <td width="33%"> 
-            <div align="center"><a href="http://wgnradio.com/index.htm"><img src="../art/WGNlogo2000horiz150w.gif" width="150" height="78" border="0" alt="WGN Radio"></a></div>
-          </td>
-          <td width="33%"> 
-            <div align="center"><font face="Arial" color="#FFFFFF"><font face="Arial" color="#FFFFFF"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#000000">Audio 
-              streaming and additional features provided by:</font><font size="1"><a href="http://www.tribuneinteractive.com" target="_blank"><br>
-              <img src="../graphics/ti_logo120x40.gif" width="120" height="40" border="0" alt="Tribune Interactive"></a></font></font><font size="1"></font></font></div>
-          </td>
-        </tr>
-        <tr> 
-          <td colspan="3"> 
-            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#000000">wgnradio.com 
-              - © WGN Radio - All Rights Reserved</font></div>
-          </td>
-        </tr>
-      </tbody></table>
-      <img src="/graphics/bcorner6x6.gif" width="6" height="6" border="0"></td>
-  </tr>
-  <tr> 
-    <td colspan="3" height="49"> 
-      <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr> 
-          <td width="5"><img src="/pix/1pixtran.gif" width="8" border="0" height="8"><br clear="all">
-          </td>
-          <td align="LEFT" width="20%"> 
-            <p><img src="/pix/1pixtran.gif" height="8" width="8" border="0"><br clear="all">
-              <a href="mailto:davemarzullo@wgnradio.com"><font face="Arial" size="-2"></font></a><font face="Arial" size="-2"><a href="http://www.chicagotribune.com/tools/help/privacy.htm/"></a></font> 
-              <a href="../sitemap.htm"><font size="2" face="Arial, Helvetica, sans-serif" class="legal" color="#ffcc33"><b>Site 
-              Map</b></font></a><b><font face="Arial, Helvetica, sans-serif" size="2"><br>
-              <a href="#top"><font class="legal" color="#ffcc33">Back 
-              to top</font></a></font></b> </p>
-          </td>
-          <td align="RIGHT">
-            <div align="right"><img src="/pix/1pixtran.gif" height="5" width="5" border="0"><br clear="all">
-              <table width="482" border="0">
-                <tbody><tr> 
-                  <td width="4%" valign="bottom"><img src="../graphics/ad.gif" width="14" height="23"></td>
-                  <td width="96%"><!-- Begin Ban Man Pro Banner Code -  Zone: Information --> 
-                    <script language="JAVASCRIPT">
+</script>
+
+<link href="http://wgnradio.com/templates/WGN Default/styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body onload="MM_preloadImages('images/listenNow_roll.gif');sfHover();">
+<div class="ban_top">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td><!-- Begin -  Site: WGN Radio Zone: LEAD - General -->
+<script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 52;
 var browDateTime = (new Date()).getTime();
-var browVersion = parseInt(navigator.appVersion);
-var ua=navigator.userAgent.toLowerCase();
-var adcode='';
-if (browName=='Netscape'){
-     if (browVersion>=5) 
-          { document.write('<ifr'+'ame src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Browser=NETSCAPE6&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
-     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
-          { document.write('<S'+'CRIPT src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Browser=NETSCAPE4">');
-          document.write('</'+'scr'+'ipt>');
-          document.write(adcode); }
-     else if (browVersion>=3) 
-          { document.write('<A HREF="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Click&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Mode=HTML&PageID=' + browDateTime + '&RandomNumber=' + browDateTime + '" width="468" height="60" border="0"></A>'); } }
-if (browName=='Microsoft Internet Explorer')
-     { document.write('<ifr'+'ame src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&X=' + browDateTime + '" width=468 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55478&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=55478&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
 // --> 
-</script><iframe src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&amp;Task=Get&amp;Browser=NETSCAPE6&amp;X=1580391747641" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
-                    <noscript> <a href="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Click&Mode=HTML&PageID=33732" target="_new"> 
-                    <img src="http://www.wgnradio.com/bmpro/banman.asp?ZoneID=14&Task=Get&Mode=HTML&PageID=33732" width="468" height="60" border="0"></a> 
-                    </noscript> <!-- End Ban Man Pro Banner Code -  Zone: Information --></td>
-                </tr>
-              </tbody></table>
-              <br clear="ALL">
-              <img src="/pix/1pixtran.gif" height="8" width="8" border="0"><br clear="all">
-            </div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55478&amp;SiteID=2&amp;Random=1582139824504"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=55478" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=52&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=55478" width="728" height="90" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: LEAD - General --></td>
+			<td valign="top"><img src="images/banners/ban_top_notice.jpg" align="top"></td>
+		</tr>
+	</tbody></table>
+</div>
+	<div id="head_wrap">
+		<div id="head">
+			<!--div id="dateTime">Friday, December 15 5:00pm</div-->
+			<div id="logo">
+				<a href="index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('listenNow','','templates/WGN%20Main/images/listenNow_roll.gif',1)"><img src="templates/WGN%20Main/images/listenNow_up.gif" alt="Listen Now" name="listenNow" width="128" height="33" border="0" id="listenNow"></a>
+				<a id="logo" href="http://wgnradio.com"></a>
+			</div>
+			<!-- logo -->
+			<!-- div id="search">
+				
+				<span class="yellowTitle">Search</span>
+				&nbsp;<input name="search" type="radio" value="keywords" /> Keywords
+				&nbsp;<input name="search" type="radio" value="fullsearch" checked="checked" /> Full Search<br />
+				<input name="searchTerms" type="text" size="20" /> <input name="search" type="button" value="Search" />
+			</div --><!-- search -->
+			<div id="Dashboard">		
+				
+<form action="index.php?option=com_search&amp;Itemid=1" method="get">
+	<div class="search">
+		<span class="yellowTitle">Search</span>
+			&nbsp;<input name="searchtype" type="radio" value="keywords" checked="checked"> Keywords
+			&nbsp;<input name="searchtype" type="radio" value="fullsearch"> Full Search<br><input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button">	</div>
 
-<!-- #EndTemplate -->
-	</body></html>
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="1">	
+	
+</form><span id="datehour">Friday, July 20, 2007</span><div id="weatherWidget"><div class="title" style="position:relative; color:white">Weather<span style="position:absolute; right:2px">Sponsored by:</span></div><a href="index.php?option=com_wrapper&amp;Itemid=146" style="color:black;"><img border="0" style="border:none;margin-top:8px" src="images/weather/gilkey-55w.gif" align="right">
+<!-- Weather snippet #5 for Chicago as of 7:39 PM CDT on July 20, 2007 -->
+	<img width="60" height="37" border="0" align="left" src="http://snsimages.tribune.com/images/weather/icons/partlycloudy.gif">
+	<span class="weather_temp">71°F</span><div style="clear:both"></div><span class="weather_cond"> Scattered Clouds
+</span></a></div><div id="trafficWidget"><a href="index.php?option=com_wrapper&amp;Itemid=373" style="color:black;display:block;width:100%;height:100%"><div class="trafficWidgetBack" style="background: url(../images/traffic/trafficicon.png) no-repeat left bottom;width:100%;height:100%"><div class="title" style="position:relative; color:white">Traffic<!--<span style="position:absolute; right:2px">Sponsored by:</span>--></div></div></a></div>			</div>
+			<div style="clear:both"></div>
+		</div><!-- head -->
+	</div><!-- head_wrap -->
+	<div id="nav">
+		<div id="nav_mainmenu">
+			<ul id="menulist_root" class="mainlevel"><li id="nav_0"><a href="http://wgnradio.com/index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel" id="menulink_1">HOME</a></li><li id="nav_1"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=163" class="mainlevel" id="menulink_2">SHOWS</a><ul id="menulist_2"><li id="nav_2"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=133" class="sublevel" id="menulink_2_1">Show Schedule</a></li><li id="nav_3"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=147&amp;Itemid=262" class="sublevel" id="menulink_2_2">Guests / Topics</a></li><li id="nav_4"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=15&amp;Itemid=104" class="sublevel" id="menulink_2_3">Spike O'Dell</a><ul id="menulist_2_3"><li id="nav_5"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=1&amp;Itemid=104" class="sublevel" id="menulink_2_3_1">Photos</a></li><li id="nav_6"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=111&amp;Itemid=215" class="sublevel" id="menulink_2_3_2">Audio Archive</a></li><li id="nav_7"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=135&amp;Itemid=216" class="sublevel" id="menulink_2_3_3">Meet the Morning Crew</a></li><li id="nav_8"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=75&amp;Itemid=217" class="sublevel" id="menulink_2_3_4">Podcast</a></li><li id="nav_9"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=212&amp;Itemid=354" class="sublevel" id="menulink_2_3_5">Links &amp; Information</a></li><li id="nav_10"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=236&amp;Itemid=418" class="sublevel" id="menulink_2_3_6">Current Events Quiz</a></li><li id="nav_11"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=237&amp;Itemid=419" class="sublevel" id="menulink_2_3_7">Spike's Recipes</a></li><li id="nav_12"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30591&amp;Itemid=356" class="sublevel" id="menulink_2_3_8">Intern with the Morning Show</a></li><li id="nav_13"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=214&amp;Itemid=360" class="sublevel" id="menulink_2_3_9">Spike's Virtual Studio Tour</a></li></ul></li><li id="nav_14"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=26&amp;Itemid=124" class="sublevel" id="menulink_2_4">Kathy &amp; Judy</a><ul id="menulist_2_4"><li id="nav_15"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=115&amp;Itemid=219" class="sublevel" id="menulink_2_4_1">Audio Archive</a></li><li id="nav_16"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=5&amp;Itemid=124" class="sublevel" id="menulink_2_4_2">Photos</a></li><li id="nav_17"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=65&amp;Itemid=220" class="sublevel" id="menulink_2_4_3">Links &amp; Information</a></li><li id="nav_18"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=77&amp;Itemid=221" class="sublevel" id="menulink_2_4_4">Podcast</a></li><li id="nav_19"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29666&amp;Itemid=314" class="sublevel" id="menulink_2_4_5">GirlfriendGram</a></li><li id="nav_20"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=66&amp;Itemid=223" class="sublevel" id="menulink_2_4_6">Radio Readers</a></li></ul></li><li id="nav_21"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=231&amp;Itemid=409" class="sublevel" id="menulink_2_5">The Noon Show</a><ul id="menulist_2_5"><li id="nav_22"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=233&amp;Itemid=414" class="sublevel" id="menulink_2_5_1">Links and Information</a></li></ul></li><li id="nav_23"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=27&amp;Itemid=125" class="sublevel" id="menulink_2_6">Paul Harvey</a></li><li id="nav_24"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=29&amp;Itemid=127" class="sublevel" id="menulink_2_7">John Williams</a><ul id="menulist_2_7"><li id="nav_25"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=50&amp;Itemid=230" class="sublevel" id="menulink_2_7_1">Book Reviews</a></li><li id="nav_26"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=15&amp;Itemid=127" class="sublevel" id="menulink_2_7_2">Photos</a></li><li id="nav_27"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=234&amp;Itemid=416" class="sublevel" id="menulink_2_7_3">NewsClick Archive</a></li><li id="nav_28"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=136&amp;Itemid=231" class="sublevel" id="menulink_2_7_4">John’s Email Inbox</a></li><li id="nav_29"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=49&amp;Itemid=232" class="sublevel" id="menulink_2_7_5">Links &amp; Information</a></li><li id="nav_30"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=78&amp;Itemid=233" class="sublevel" id="menulink_2_7_6">Podcast</a></li><li id="nav_31"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=148&amp;Itemid=263" class="sublevel" id="menulink_2_7_7">Audio Archives</a></li><li id="nav_32"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=198&amp;Itemid=331" class="sublevel" id="menulink_2_7_8">Saturday Show Rundown</a></li></ul></li><li id="nav_33"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=28&amp;Itemid=126" class="sublevel" id="menulink_2_8">Steve Cochran</a><ul id="menulist_2_8"><li id="nav_34"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=14&amp;Itemid=126" class="sublevel" id="menulink_2_8_1">Photos</a></li><li id="nav_35"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=116&amp;Itemid=225" class="sublevel" id="menulink_2_8_2">Audio Archive</a></li><li id="nav_36"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=41&amp;Itemid=226" class="sublevel" id="menulink_2_8_3">Rick O'Connor's Cochran Show Blog</a></li><li id="nav_37"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=76&amp;Itemid=227" class="sublevel" id="menulink_2_8_4">CochRANTings</a></li><li id="nav_38"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=87&amp;Itemid=228" class="sublevel" id="menulink_2_8_5">Links &amp; Information</a></li><li id="nav_39"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=79&amp;Itemid=229" class="sublevel" id="menulink_2_8_6">Podcast</a></li><li id="nav_40"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=194&amp;Itemid=326" class="sublevel" id="menulink_2_8_7">Kid of the Week </a></li><li id="nav_41"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30561&amp;Itemid=353" class="sublevel" id="menulink_2_8_8">Steve's Bio</a></li></ul></li><li id="nav_42"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=30&amp;Itemid=128" class="sublevel" id="menulink_2_9">Sports Central</a><ul id="menulist_2_9"><li id="nav_43"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=120&amp;Itemid=236" class="sublevel" id="menulink_2_9_1">Sports Central Blog</a></li><li id="nav_44"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=80&amp;Itemid=235" class="sublevel" id="menulink_2_9_2">Podcast</a></li><li id="nav_45"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=121&amp;Itemid=234" class="sublevel" id="menulink_2_9_3">Audio Archive</a></li><li id="nav_46"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=26&amp;Itemid=128" class="sublevel" id="menulink_2_9_4">Photos</a></li><li id="nav_47"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=217&amp;Itemid=362" class="sublevel" id="menulink_2_9_5">Pit Stop</a></li></ul></li><li id="nav_48"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=31&amp;Itemid=129" class="sublevel" id="menulink_2_10">Milt Rosenberg</a><ul id="menulist_2_10"><li id="nav_49"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=167&amp;Itemid=275" class="sublevel" id="menulink_2_10_1">Monthly Program Guide</a></li><li id="nav_50"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=128&amp;Itemid=238" class="sublevel" id="menulink_2_10_2">Audio Archive</a></li><li id="nav_51"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=131&amp;Itemid=239" class="sublevel" id="menulink_2_10_3">Audio Archive - Edited Clips</a></li><li id="nav_52"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=129&amp;Itemid=237" class="sublevel" id="menulink_2_10_4">Audio Archive - Three Decade Retrospective</a></li><li id="nav_53"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=81&amp;Itemid=245" class="sublevel" id="menulink_2_10_5">Podcast</a></li><li id="nav_54"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=48&amp;Itemid=240" class="sublevel" id="menulink_2_10_6">Milt's File: The Extension 720 Blog</a></li><li id="nav_55"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=159&amp;Itemid=273" class="sublevel" id="menulink_2_10_7">Milt's Music Collection</a></li><li id="nav_56"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=68&amp;Itemid=243" class="sublevel" id="menulink_2_10_8">Links &amp; Information</a></li><li id="nav_57"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=28&amp;Itemid=129" class="sublevel" id="menulink_2_10_9">Photos</a></li><li id="nav_58"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=143&amp;Itemid=242" class="sublevel" id="menulink_2_10_10">Books of the Quarter</a></li><li id="nav_59"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=73&amp;Itemid=244" class="sublevel" id="menulink_2_10_11">Milt's Music</a></li></ul></li><li id="nav_60"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=32&amp;Itemid=130" class="sublevel" id="menulink_2_11">Steve &amp; Johnnie</a><ul id="menulist_2_11"><li id="nav_61"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=122&amp;Itemid=246" class="sublevel" id="menulink_2_11_1">Audio Archives</a></li><li id="nav_62"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=132&amp;Itemid=247" class="sublevel" id="menulink_2_11_2">Radio Road Tests</a></li><li id="nav_63"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=44&amp;Itemid=249" class="sublevel" id="menulink_2_11_3">Blog After Dark</a></li><li id="nav_64"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=82&amp;Itemid=250" class="sublevel" id="menulink_2_11_4">Podcast</a></li><li id="nav_65"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=29&amp;Itemid=130" class="sublevel" id="menulink_2_11_5">Photos</a></li><li id="nav_66"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=201&amp;Itemid=334" class="sublevel" id="menulink_2_11_6">Steve &amp; Johnnie's Funny Pages</a></li><li id="nav_67"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=202&amp;Itemid=338" class="sublevel" id="menulink_2_11_7">Cyber Squad</a></li><li id="nav_68"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=215&amp;Itemid=361" class="sublevel" id="menulink_2_11_8">Links and Information</a></li><li id="nav_69"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=203&amp;Itemid=374" class="sublevel" id="menulink_2_11_9">Recipes</a></li><li id="nav_70"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=3103&amp;Itemid=249" class="sublevel" id="menulink_2_11_10">Celiac Disease Information</a></li></ul></li><li id="nav_71"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=33&amp;Itemid=131" class="sublevel" id="menulink_2_12">Orion &amp; Max</a><ul id="menulist_2_12"><li id="nav_72"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;catid=30&amp;Itemid=131" class="sublevel" id="menulink_2_12_1">Photos</a></li><li id="nav_73"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30582&amp;Itemid=355" class="sublevel" id="menulink_2_12_2">Business and Agri-Biz Schedule</a></li><li id="nav_74"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=238&amp;Itemid=421" class="sublevel" id="menulink_2_12_3">Links &amp; Information</a></li></ul></li><li id="nav_75"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=25&amp;Itemid=115" class="sublevel" id="menulink_2_13">Weekend Shows</a><ul id="menulist_2_13"><li id="nav_76"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=88&amp;Itemid=165" class="sublevel" id="menulink_2_13_1">Nick Digilio</a></li><li id="nav_77"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=211&amp;Itemid=352" class="sublevel" id="menulink_2_13_2">720 Rewind</a></li><li id="nav_78"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=90&amp;Itemid=166" class="sublevel" id="menulink_2_13_3">Mr. Fix-It</a></li><li id="nav_79"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=92&amp;Itemid=167" class="sublevel" id="menulink_2_13_4">The Money Show</a></li><li id="nav_80"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=96&amp;Itemid=169" class="sublevel" id="menulink_2_13_5">Technology Tailor</a></li><li id="nav_81"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=97&amp;Itemid=170" class="sublevel" id="menulink_2_13_6">The Twilight Zone</a></li><li id="nav_82"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=95&amp;Itemid=172" class="sublevel" id="menulink_2_13_7">Pet Central</a></li><li id="nav_83"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=98&amp;Itemid=173" class="sublevel" id="menulink_2_13_8">WGN Overnight</a></li><li id="nav_84"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=99&amp;Itemid=174" class="sublevel" id="menulink_2_13_9">The Great Outdoors</a></li><li id="nav_85"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=100&amp;Itemid=175" class="sublevel" id="menulink_2_13_10">Love Changes Life</a></li><li id="nav_86"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=101&amp;Itemid=176" class="sublevel" id="menulink_2_13_11">The Lutheran Hour</a></li><li id="nav_87"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=102&amp;Itemid=177" class="sublevel" id="menulink_2_13_12">The Sunday Papers</a></li><li id="nav_88"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=94&amp;Itemid=178" class="sublevel" id="menulink_2_13_13">Dean Richards</a></li><li id="nav_89"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=106&amp;Itemid=179" class="sublevel" id="menulink_2_13_14">Let's Talk Gardening</a></li><li id="nav_90"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=232&amp;Itemid=410" class="sublevel" id="menulink_2_13_15">The Sunday Night Radio Special</a></li><li id="nav_91"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=93&amp;Itemid=168" class="sublevel" id="menulink_2_13_16">Legally Speaking</a></li><li id="nav_92"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=103&amp;Itemid=181" class="sublevel" id="menulink_2_13_17">WGN Weekend</a></li></ul></li></ul></li><li id="nav_93"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=49" class="mainlevel" id="menulink_3">NEWS &amp; INFORMATION</a><ul id="menulist_3"><li id="nav_94"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=50" class="sublevel" id="menulink_3_1">News</a><ul id="menulist_3_1"><li id="nav_95"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=50&amp;Itemid=135" class="sublevel" id="menulink_3_1_1">AP Top Stories</a></li><li id="nav_96"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=229&amp;Itemid=400" class="sublevel" id="menulink_3_1_2">News Features</a></li><li id="nav_97"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=403" class="sublevel" id="menulink_3_1_3">News</a></li></ul></li><li id="nav_98"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=51" class="sublevel" id="menulink_3_2">Sports</a><ul id="menulist_3_2"><li id="nav_99"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=264" class="sublevel" id="menulink_3_2_1">FS Baseball</a></li><li id="nav_100"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=366" class="sublevel" id="menulink_3_2_2">FS Basketball</a></li><li id="nav_101"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=367" class="sublevel" id="menulink_3_2_3">FS Golf</a></li><li id="nav_102"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=368" class="sublevel" id="menulink_3_2_4">FS Football</a></li><li id="nav_103"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=369" class="sublevel" id="menulink_3_2_5">FS Hockey</a></li></ul></li><li id="nav_104"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=146" class="sublevel" id="menulink_3_3">Weather</a></li><li id="nav_105"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=373" class="sublevel" id="menulink_3_4">Traffic</a></li><li id="nav_106"><a href="http://wgnradio.com/index.php?option=apNews&amp;Itemid=333" class="sublevel" id="menulink_3_5">Business</a></li><li id="nav_107"><a href="http://wgnradio.com/index.php?option=ECC&amp;Itemid=186" class="sublevel" id="menulink_3_6">Emergency Closing Center</a></li><li id="nav_108"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=107&amp;Itemid=182" class="sublevel" id="menulink_3_7">Cubs Baseball</a><ul id="menulist_3_7"><li id="nav_109"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=108&amp;Itemid=312" class="sublevel" id="menulink_3_7_1">Cubs Blog - Cory's Cubs Comments</a></li><li id="nav_110"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=178&amp;Itemid=313" class="sublevel" id="menulink_3_7_2">Cubs Podcast</a></li></ul></li><li id="nav_111"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=170&amp;Itemid=293" class="sublevel" id="menulink_3_8">Northwestern Football</a></li><li id="nav_112"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=171&amp;Itemid=294" class="sublevel" id="menulink_3_9">Northwestern Basketball</a></li><li id="nav_113"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=46&amp;Itemid=311" class="sublevel" id="menulink_3_10">News/Weather/Traffic Staff</a></li><li id="nav_114"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=195&amp;Itemid=343" class="sublevel" id="menulink_3_11">Audio Archives</a></li></ul></li><li id="nav_115"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=59" class="mainlevel" id="menulink_4">AUDIO</a><ul id="menulist_4"><li id="nav_116"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=6336&amp;Itemid=160" class="sublevel" id="menulink_4_1">Listen Now</a></li><li id="nav_117"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=136" class="sublevel" id="menulink_4_2">Podcasts</a></li><li id="nav_118"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29251&amp;Itemid=267" class="sublevel" id="menulink_4_3">Audio Archives</a></li><li id="nav_119"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=151&amp;Itemid=269" class="sublevel" id="menulink_4_4">Video</a></li></ul></li><li id="nav_120"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=63" class="mainlevel" id="menulink_5">FEATURES</a><ul id="menulist_5"><li id="nav_121"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29254&amp;Itemid=268" class="sublevel" id="menulink_5_1">Blogs</a></li><li id="nav_122"><a href="http://wgnradio.com/index.php?option=com_rsgallery2&amp;Itemid=139" class="sublevel" id="menulink_5_2">Photos</a></li><li id="nav_123"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29250&amp;Itemid=266" class="sublevel" id="menulink_5_3">E-Newsletters</a></li><li id="nav_124"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=134&amp;Itemid=189" class="sublevel" id="menulink_5_4">Hometown Voices</a></li><li id="nav_125"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=64&amp;Itemid=151" class="sublevel" id="menulink_5_5">wgnradio.com/store</a><ul id="menulist_5_5"><li id="nav_126"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=63&amp;Itemid=150" class="sublevel" id="menulink_5_5_1">WGN Radio Merchandise</a></li><li id="nav_127"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=67&amp;Itemid=153" class="sublevel" id="menulink_5_5_2">WGN Radio CD Cearance</a></li><li id="nav_128"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=69&amp;Itemid=158" class="sublevel" id="menulink_5_5_3">Books by WGN Radio Authors</a></li><li id="nav_129"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=74&amp;Itemid=162" class="sublevel" id="menulink_5_5_4">Order Forms</a></li></ul></li><li id="nav_130"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=9&amp;Itemid=149" class="sublevel" id="menulink_5_6">What's New?</a></li><li id="nav_131"><a href="http://wgnradio.com/index.php?option=com_joomap&amp;Itemid=132" class="sublevel" id="menulink_5_7">Site Map</a></li></ul></li><li id="nav_132"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogsection&amp;id=37&amp;Itemid=184" class="mainlevel" id="menulink_6">CONTESTS/EVENTS</a><ul id="menulist_6"><li id="nav_133"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=110&amp;Itemid=317" class="sublevel" id="menulink_6_1">Contests</a></li><li id="nav_134"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=113" class="sublevel" id="menulink_6_2">Prize Policy</a></li><li id="nav_135"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29906&amp;Itemid=316" class="sublevel" id="menulink_6_3">Community Calendar</a></li></ul></li><li id="nav_136"><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=76" class="mainlevel" id="menulink_7">ABOUT US</a><ul id="menulist_7"><li id="nav_137"><a href="http://wgnradio.com/index.php?option=com_contact&amp;Itemid=3" class="sublevel" id="menulink_7_1">Contact Us - E-Mail</a></li><li id="nav_138"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31317&amp;Itemid=370" class="sublevel" id="menulink_7_2">Contact Us - Postal, Fax &amp; Phone</a></li><li id="nav_139"><a href="http://wgnradio.com/index.php?option=faq&amp;Itemid=78" class="sublevel" id="menulink_7_3">Frequently Asked Questions</a></li><li id="nav_140"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=112" class="sublevel" id="menulink_7_4">History</a></li><li id="nav_141"><a href="http://wgnradio.com/index.php?option=com_google_maps&amp;Itemid=123" class="sublevel" id="menulink_7_5">Around the World</a><ul id="menulist_7_5"><li id="nav_142"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=28120&amp;Itemid=190" class="sublevel" id="menulink_7_5_1">Volcano Village, Hawaii</a></li></ul></li><li id="nav_143"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=blogcategory&amp;id=244&amp;Itemid=428" class="sublevel" id="menulink_7_6">Neediest Kids Fund</a></li><li id="nav_144"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=110" class="sublevel" id="menulink_7_7">Internships</a></li><li id="nav_145"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=29&amp;Itemid=117" class="sublevel" id="menulink_7_8">Employment</a></li><li id="nav_146"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=30&amp;Itemid=118" class="sublevel" id="menulink_7_9">Sponsors</a></li><li id="nav_147"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31&amp;Itemid=119" class="sublevel" id="menulink_7_10">Advertise</a></li><li id="nav_148"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=34&amp;Itemid=120" class="sublevel" id="menulink_7_11">Privacy Policy</a></li><li id="nav_149"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=121" class="sublevel" id="menulink_7_12">Terms of Service</a></li></ul></li><li id="nav_150"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31689&amp;Itemid=388" class="mainlevel" id="menulink_8">MARKETPLACE</a><ul id="menulist_8"><li id="nav_151"><a href="http://wgnradio.com/index.php?option=com_wrapper&amp;Itemid=391" class="sublevel" id="menulink_8_1">WGN Radio Dining Deals</a></li><li id="nav_152"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=31986&amp;Itemid=399" class="sublevel" id="menulink_8_2">WGN Radio Vehicle Village</a></li></ul></li><li id="nav_153"><a href="http://wgnradio.com/index.php?option=com_content&amp;task=view&amp;id=26972&amp;Itemid=185" class="mainlevel" id="menulink_9">PARTNERS</a><ul id="menulist_9"><li id="nav_154"><a href="http://chicagotribune.com" target="_blank" class="sublevel" id="menulink_9_1">ChicagoTribune.com</a></li><li id="nav_155"><a href="http://chicagosports.chicagotribune.com" target="_blank" class="sublevel" id="menulink_9_2">ChicagoSports.com</a></li><li id="nav_156"><a href="http://www.cltv.com" target="_blank" class="sublevel" id="menulink_9_3">CLTV.com</a></li><li id="nav_157"><a href="http://www.cubs.com" target="_blank" class="sublevel" id="menulink_9_4">Cubs.com</a></li><li id="nav_158"><a href="http://metromix.chicagotribune.com" target="_blank" class="sublevel" id="menulink_9_5">Metromix.com</a></li><li id="nav_159"><a href="http://www.redeyechicago.com" target="_blank" class="sublevel" id="menulink_9_6">RedEyeChicago.com</a></li><li id="nav_160"><a href="http://www.wgntv.com" target="_blank" class="sublevel" id="menulink_9_7">WGNTV.com</a></li><li id="nav_161" class="MyWGN"><a href="http://www.tukaiz.com" target="_blank" class="sublevel" id="menulink_9_8">Tukaiz.com</a></li></ul></li></ul>		</div>
+	</div><!-- nav -->
+	<script>sfHover();</script>
+	<div id="mainWrapper">
+	<div id="main">
+		
+		<div id="content">
+						<div id="generalContent">
+												<table class="contentpaneopen">
+			<tbody><tr>
+								<td class="contentheading" width="100%">
+					Privacy Policy									</td>
+								<td align="right" width="100%" class="buttonheading">
+					<a href="http://wgnradio.com/index2.php?option=com_content&amp;task=view&amp;id=34&amp;pop=1&amp;page=0&amp;Itemid=120" target="_blank" onclick="window.open('http://wgnradio.com/index2.php?option=com_content&amp;task=view&amp;id=34&amp;pop=1&amp;page=0&amp;Itemid=120','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
+						<img src="http://wgnradio.com/images/M_images/printButton.png" alt="Print" name="Print" align="middle" border="0"></a>
+				</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="http://wgnradio.com/index2.php?option=com_content&amp;task=emailform&amp;id=34&amp;itemid=120" target="_blank" onclick="window.open('http://wgnradio.com/index2.php?option=com_content&amp;task=emailform&amp;id=34&amp;itemid=120','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" title="E-mail">
+					<img src="http://wgnradio.com/images/M_images/emailButton.png" alt="E-mail" name="E-mail" align="middle" border="0"></a>
+			</td>
+						</tr>
+			</tbody></table>
+			
+		<table class="contentpaneopen">
+				<tbody><tr>
+			<td valign="top" colspan="2">
+				<p align="center">
+<strong>Last Updated: October, 2004</strong>
+</p>
+<p align="left">
+WGNRADIO.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by WGNRADIO.com online and does not impact information collected or used by WGNRADIO.com or its affiliates through other means.
+</p>
+<h3>How we gather information from users.</h3>
+<p align="left">
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.<br>
+<br>
+Like most Web sites, WGNRADIO.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
+</p>
+<h3>What we do with the information we collect.</h3>
+<p align="left">
+We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+</p>
+<p align="left">
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WGNRADIO.com to communicate with you regarding our <a href="index.php?option=com_content&amp;task=view&amp;id=35">Terms of Service</a>  and privacy policy, products and services offered by WGNRADIO.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+</p>
+<p align="left">
+Personally Identifiable Information collected by WGNRADIO.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
+</p>
+<p align="left">
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
+</p>
+<h3>Your choice to opt out.</h3>
+<p align="left">
+The quality news and information on WGNRADIO.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf.
+</p>
+<h3>Affiliated sites, linked sites and advertisements.</h3>
+<p align="left">
+WGNRADIO.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a WGNRADIO.com page, certain content that is actually created or hosted by a third party. Also, through WGNRADIO.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. WGNRADIO.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+</p>
+<p align="left">
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. WGNRADIO.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+</p>
+<p align="left">
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WGNRADIO.com and this policy.
+</p>
+<h3>Children.</h3>
+<p align="left">
+WGNRADIO.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe WGNRADIO.com has any information from or about anyone under 13, please contact us at the address listed below.
+</p>
+<h3>Contacting us.</h3>
+<p align="left">
+We can be reached by contacting:
+</p>
+<div align="left">
+<blockquote>
+	<p>
+	WGNRADIO.com Webmaster<br>
+	435 N. Michigan Avenue<br>
+	Chicago, IL 60611<br>
+	Email: 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy31949 = 'dm&#97;rz&#117;ll&#111;' + '&#64;';
+ addy31949 = addy31949 + 'tr&#105;b&#117;n&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text31949 = 'dm&#97;rz&#117;ll&#111;' + '&#64;' + 'tr&#105;b&#117;n&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy31949 + '\'>' );
+ document.write( addy_text31949 );
+ document.write( '<\/a>' );
+ //-->\n </script><a href="mailto:dmarzullo@tribune.com">dmarzullo@tribune.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spam bots, you need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>
+	</p>
+</blockquote>
+</div>
+<h3>Changes to this policy.</h3>
+<p align="left">
+WGNRADIO.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+</p>
+<h3>Governing law.</h3>
+<p align="left">
+This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of WGNRADIO.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. WGNRADIO.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
+</p>
+<p align="left">
+In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
+</p>
+<p align="left">
+Copyright © 2007, WGN Radio
+</p>
+
+
+			</td>
+		</tr>
+				</tbody></table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<div class="back_button">
+				<a href="javascript:history.go(-1)">
+					[ Back ]</a>
+			</div>
+											<div class="adDivBottom">Advertisement<br><table border="0" width="100%">
+<tbody><tr><td>
+
+<!-- Begin -  Site: WGN Radio Zone: BUTTON 1 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 97;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=16277&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=16277&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=16277&amp;SiteID=2&amp;Random=1582139824588"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=16277" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=97&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=16277" width="120" height="90" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: BUTTON 1 -->
+
+</td><td>
+
+<!-- Begin -  Site: WGN Radio Zone: BUTTON 2 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 98;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=8509&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=8509&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=8509&amp;SiteID=2&amp;Random=1582139824591"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=8509" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=98&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=8509" width="120" height="90" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: BUTTON 2 -->
+
+</td><td>
+
+<!-- Begin -  Site: WGN Radio Zone: BUTTON 3 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 99;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84100&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=84100&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84100&amp;SiteID=2&amp;Random=1582139824594"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=84100" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=99&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=84100" width="120" height="90" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: BUTTON 3 -->
+
+</td><td>
+
+<!-- Begin -  Site: WGN Radio Zone: BUTTON 4 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 100;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99711&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=99711&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99711&amp;SiteID=2&amp;Random=1582139824598"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=99711" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=100&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=99711" width="120" height="90" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: BUTTON 4 -->
+
+</td>
+</tr></tbody></table>						<div class="moduletable">
+			<div class="mod_contentitem"><table>
+<tbody><tr>
+<td colspan="1" style="vertical-align:top;">
+		<table class="contentpaneopen">
+				<tbody><tr>
+			<td valign="top" colspan="2">
+				<div align="center">
+<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody>
+		<tr>
+			<td width="33%">
+			<div align="center">
+			<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">Site design, hosting and technical support provided by:</span><span style="font-size: 8pt; color: #ffffff; font-family: Arial"><a href="http://www.tukaiz.com/"><br>
+			</a></span><a href="http://www.tukaiz.com/">
+			<div style="text-align: center">
+			<img src="images/stories/tukaiz2001small.gif" border="0" alt="tukaiz2001small" title="tukaiz2001small" hspace="5" vspace="5" width="111" height="54"> 
+			</div>
+			<br>
+			</a>
+			</div>
+			</td>
+			<td width="33%">
+			<div align="center">
+			<a href="http://wgnradio.com/index.htm">
+			<div style="text-align: center">
+			<img src="images/stories/wgnlogo2000horiz150w.gif" border="0" alt="wgnlogo2000horiz150w" title="wgnlogo2000horiz150w" hspace="5" vspace="5" width="150" height="78"> 
+			</div>
+			</a>
+			</div>
+			</td>
+			<td width="33%">
+			<div align="center">
+			<span style="color: #ffffff; font-family: Arial"><span style="color: #ffffff; font-family: Arial"><span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">Audio streaming provided by:</span><span style="font-size: 8pt"><a href="http://www.tribuneinteractive.com/" target="_blank"><br>
+			</a></span></span></span><a href="http://www.tribuneinteractive.com/" target="_blank">
+			<div style="text-align: center">
+			<img src="images/stories/ti_logo120x40.gif" border="0" alt="ti_logo120x40" title="ti_logo120x40" hspace="5" vspace="5" width="120" height="40"> 
+			</div>
+			<br>
+			</a>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;</span> 
+</div>
+<div align="center">
+<span style="font-size: 8pt; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif">wgnradio.com - © 2007 WGN Radio - All Rights Reserved<br>
+With the exception of podcasts/mp3 format audio files, materials appearing on or accessible through this website may not be recorded, reproduced or retransmitted, in whole or in part, without WGN Radio's prior written consent. Podcasts/mp3 format audio files may be recorded or reproduced for private non-commercial use only, but retransmission is prohibited.</span>
+</div>
+			</td>
+		</tr>
+				</tbody></table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td>
+</tr></tbody></table></div>		</div>
+		</div>
+			</div><!-- generalContent -->
+		</div><!-- content -->
+		<div id="leftBar">
+			<div class="leftHeading">News</div>
+						<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tbody><tr>
+				<th valign="top">
+					AP Top Stories				</th>
+			</tr>
+					<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+<tbody><tr>
+	<td>
+		<ul class="newsfeed">
+<li class="newsfeed">
+	<strong>
+        <a href="http://hosted.ap.org/dynamic/stories/B/BUSH_TERRORISM?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
+      Bush Alters Rules for CIA Interrogations</a>
+	</strong>
+</li>
+<li class="newsfeed">
+	<strong>
+        <a href="http://hosted.ap.org/dynamic/stories/I/IRAQ_US_TROOPS?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
+      Generals Plead for Time to Secure Iraq</a>
+	</strong>
+</li>
+<li class="newsfeed">
+	<strong>
+        <a href="http://hosted.ap.org/dynamic/stories/H/HARRY_POTTER?SITE=WGN&amp;SECTION=TOP_STORIES&amp;TEMPLATE=DEFAULT" target="_top">
+      Wait for Harry Potter Finale Has Ended</a>
+	</strong>
+</li>
+    </ul>
+	</td>
+</tr>
+</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletablenewsfeed">
+					<tbody><tr>
+				<th valign="top">
+					WGN Radio Top Stories				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="newsfeed"><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=35489&amp;Itemid=49" target="_top">94-Year-Old Driver Loses License for Crashing into Wilmette Restaurant (Audio)</a></li><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=35487&amp;Itemid=49" target="_top">Priest Sentenced to 4 Years in Prison for Stealing Nearly $200,000 from Parish (Audio)</a></li><li class="newsfeed"><a href="index.php?option=com_content&amp;task=view&amp;id=35474&amp;Itemid=49" target="_top">BP, Indiana on Defensive Over Refinery Rules</a></li></ul>			</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tbody><tr>
+				<th valign="top">
+					Chicago Tribune Top Stories				</th>
+			</tr>
+					<tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+<tbody><tr>
+	<td>
+		<ul class="newsfeed">
+<li class="newsfeed">
+	<strong>
+        <a href="http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/135743175/chi-070720panerajul20,1,4581775.story" target="_blank">
+      Elderly woman charged in crash</a>
+	</strong>
+</li>
+<li class="newsfeed">
+	<strong>
+        <a href="http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/135669306/chi-070720traffic-fataljul20,1,2158282.story" target="_blank">
+      Hit-run victim's wife finds his stuff in street but not him</a>
+	</strong>
+</li>
+<li class="newsfeed">
+	<strong>
+        <a href="http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/135792000/chi-web_hutselljul21,1,5406385.story" target="_blank">
+      Deerfield parents deny they knew of alcohol in basement</a>
+	</strong>
+</li>
+    </ul>
+	</td>
+</tr>
+</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletable_newsclick">
+					<tbody><tr>
+				<th valign="top">
+					John Williams' NewsClick				</th>
+			</tr>
+					<tr>
+			<td>
+						<script language="javascript" type="text/javascript">
+		<!--
+		function submitbutton_Poll1() {
+			var form 		= document.pollxtd1;			
+			var radio		= form.voteid;
+			var radioLength = radio.length;
+			var check 		= 0;
+
+			if ( 'z' != 'z' ) {
+				alert('You already voted for this item today.');
+				return;
+			}
+			for(var i = 0; i < radioLength; i++) {
+				if(radio[i].checked) {
+					form.submit();
+					check = 1;					
+				}
+			}		
+			if (check == 0) {
+				alert('No selection has been made, please try again');
+			}
+		}		
+		//-->
+		</script>		
+		<form name="pollxtd1" method="post" action="http://wgnradio.com/index.php?option=com_poll&amp;Itemid=127">
+		
+		<table width="95%" border="0" cellspacing="0" cellpadding="1" align="center" class="poll_newsclick">
+		<thead>
+		<tr>
+			<td style="font-weight: bold;">
+				Is Jesse Jackson as relevant as he used to be?			</td>
+		</tr>
+		</thead>
+		<tbody><tr>
+			<td class="polloptions_newsclick">
+				<table class="pollstableborder_newsclick" cellspacing="0" cellpadding="0" border="0">
+											<tbody><tr>
+								<td class="sectiontableentry2_newsclick" valign="top">
+									<input type="radio" name="voteid" id="voteid997" value="997" alt="997">
+								</td>
+								<td class="sectiontableentry2_newsclick" valign="top">
+									<label for="voteid997">
+										Yes									</label>
+								</td>
+							</tr>
+												<tr>
+								<td class="sectiontableentry1_newsclick" valign="top">
+									<input type="radio" name="voteid" id="voteid998" value="998" alt="998">
+								</td>
+								<td class="sectiontableentry1_newsclick" valign="top">
+									<label for="voteid998">
+										No									</label>
+								</td>
+							</tr>
+									</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div align="center">
+					<input type="button" onclick="submitbutton_Poll1();" name="task_button" class="button" value="Vote">
+					&nbsp;
+					<input type="button" name="option" class="button" value="Results" onclick="document.location.href='http://wgnradio.com/index.php?option=com_poll&amp;task=results&amp;id=97&amp;Itemid=127';">
+				</div>
+			</td>
+		</tr>
+		</tbody></table>
+
+		<input type="hidden" name="id" value="97">
+		<input type="hidden" name="task" value="vote">
+		<input type="hidden" name="j4594849464b2b049a2aeb6878e3fb743" value="1">
+		</form>
+					</td>
+		</tr>
+		</tbody></table>
+								</div><!-- leftBar -->
+		<div id="adDivRight">
+			<table width="160" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><div align="center"><a href="index.php?option=com_content&amp;task=view&amp;id=31986&amp;Itemid=399"><img src="images/stories/drivechicago/button3.jpg" alt="WGN Radio Vehicle Village" width="160" height="71" border="0"></a></div></td>
+  </tr>
+</tbody></table>			<span class="adText">Advertisement</span>
+			<!-- Begin -  Site: WGN Radio Zone: SKY - General -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 7;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=68929&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=68929&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=68929&amp;SiteID=2&amp;Random=1582139824657"></script>
+<noscript>
+    <a href="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=68929" target="_blank">
+    <img src="http://mastershake.sparklink.com/banmanpro/a.aspx?ZoneID=7&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=68929" width="160" height="600" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: WGN Radio Zone: SKY - General -->		</div><!-- adDivRight -->
+		<div class="clearDiv"></div>
+	</div><!-- main -->
+	</div><!-- mainWrapper -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1474986-1";
+urchinTracker();
+</script>
+
+
+<!-- 1184978176 --></body></html>
