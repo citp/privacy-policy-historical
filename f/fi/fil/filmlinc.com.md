@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmlinc.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018051500id_/http%3A//filmlinc.com/terms-privacy/fslcprivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmlinc.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720231159id_/http%3A//www.filmlinc.com/terms-privacy/fslcprivacy.pdf) for the most accurate reproduction.*
 
 # The Film Society of The Film Society of Lincoln Center Privacy Policy
 
