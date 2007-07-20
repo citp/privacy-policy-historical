@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207114839id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720185034id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
 
-# Online Casino Tropez : Privacy Statement
+# Online Casino Tropez | Privacy Statement
 
 ##### Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy.
 
@@ -40,18 +40,16 @@ If you have any other questions or concerns regarding data privacy and security 
 
 Our Certifications and What They Mean
 
-**DigiCert, Inc.** is a US based Security Company that specializes in providing High-Assurance SSL Certificates to some of the most respected and prestigious organizations in the world, including federal and state governments. DigiCert is a WebTrust Certified Certificate Authority, and W3C Member. DigiCert® provides security to Casino Tropez by encrypting data between our domain and your browser. Casino Tropez holds a website identity assurance warranty of $1,000,000. This means you are insured for up to $1,000,000 when relying on the information provided by DigiCert on this site.
+ **Turbo SSL® certificate**  
+Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.
 
-**Under-Age Gambling.**   
+ **Under-Age Gambling.**  
 It is absolutely against the law to gamble if you are under the age of 18. Secondly, it is against our own Terms of Use. Casino Tropez is opposed to gambling by minors, and has taken steps to prevent it. This logo shows that we make every effort to prevent gaming by those under 18, which is illegal in all jurisdictions and under our Gambling Registration (see also Terms of Use page, Section 3 – Legal Requirements).
 
-**Parents:**   
-if your computer is accessed by under-age children, you can prevent their gambling. It’s very simple: there are “site-filter” programs like NetNanny, PC TimeCop or BrightFilter that will prevent minors from accessing gambling sites. Read the following about ICRA below to understand “site-filtering” for your children and others.
+ **Parents:**  
+if your computer is accessed by under-age children, you can prevent their gambling. It’s very simple: there are “site-filter” programs like NetNanny, PC TimeCop or BrightFilter that will prevent minors from accessing gambling sites. 
 
-**ICRA.**   
-This is the logo of the Internet Content Rating Association, which provides a filtering database that is used worldwide by site-filtering programs. What this allows is a system where PC owners can establish limits for those using the computer, especially children. Our display of the ICRA logo shows that we have registered ourselves as a gambling site with the ICRA. Parents can now take responsibility for their children by installing a site-filtering software program.
-
-**Kahnawake Gaming Commission.**   
+**Kahnawake Gaming Commission.**  
 We are licensed by the Kahnawake Gaming Commission, an international gaming licensing and regulatory authority. Their regulations state, in part: 
 
 The Regulations are designed to ensure that all interactive gaming and gaming- related activities satisfy three basic principles: 
@@ -61,7 +59,7 @@ The Regulations are designed to ensure that all interactive gaming and gaming- r
 
 
 
-**TST Technical Systems Testing.**   
+**TST Technical Systems Testing.**  
 TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards. Note: all our gaming software is written by PlayTech, the leading software provider in the gaming industry. Therefore, the TST compliance letters feature PlayTech’s name. As a PlayTech client, we use their software without alteration and therefore can display this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be accessed from the hyperlinks at the bottom of our webpage. 
 
   
