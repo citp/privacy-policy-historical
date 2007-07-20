@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110021850id_/http%3A//www.busey.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2007-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070720124254id_/http%3A//www.busey.com/corporate/privacy.asp) for the most accurate reproduction.*
 
-# Busey Bank - Corporate Office - Urbana, Illinois
+# Protecting your privacy is important to First Busey Corporation. The privacy of your information is protected not only by State and Federal Regulations, but also by our commitment to you
 
 Your Right to Financial Privacy   
 Protecting your privacy is important to us. The privacy of your information is protected not only by State and Federal Regulations, but also by our commitment to you. We want you to understand what information we collect and how we will use it. You have the right to know the privacy policies and practices of the financial institutions you deal with in respect to information sharing with both affiliates and nonaffiliated third parties. This notice describes our privacy policies and practices and explains what you can do to “opt out” of the information sharing process.
@@ -41,8 +41,7 @@ As part of our effort to provide customers with comprehensive and effective serv
 First Busey Corporation Affiliates 
 
 Busey Bank   
-Busey Bank, N.A.   
-     Tarpon Coast National Bank, A Division of Busey Bank, N.A.   
+Busey Bank, N.A.  
 First Busey Trust and Investment Co.   
 First Busey Securities, Inc.   
 Busey Insurance Services  
