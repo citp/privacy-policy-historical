@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204032557id_/http%3A//www.hammondre.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721035731id_/http%3A//www.hammondre.com/Privacy) for the most accurate reproduction.*
 
 # Boston Real Estate - Hammond GMAC Real Estate
 
