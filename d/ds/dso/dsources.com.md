@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsources.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622141112id_/http%3A//www.dsources.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsources.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721203829id_/http%3A//www.dsources.com/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Direct Sources Business Directory - business, product manufacturer, import export, wholesale, supplier, trade leads directory information portal, asia | Info | Privacy Policy
 
