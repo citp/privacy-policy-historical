@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017214237id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721083108id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
 # Online federal and state tax preparation.
 
@@ -11,7 +11,7 @@ This Service is provided to you through CCH INCORPORATED ('CCH'), the owner of t
 
 By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine®. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
 
-In keeping with our Privacy Policy, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this Policy easy to find, we make it available throughout our web site as well as on our tax screens within the tax program.  
+In keeping with our Privacy Policy, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this Policy easy to find, we make it available throughout our web site and on other pages throughout our web site.  
   
 Covered Web Sites
 
@@ -19,7 +19,7 @@ The Privacy Policy described herein is applicable to this entire web site, inclu
 
 This Privacy Policy covers all the online information practices of www.completetax.com. Other sites maintained by CCH, such as www.tax.cchgroup.com and www.tax.cchgroup.com/pfx/products/CompleteTaxPro/ operate under their own Privacy and security policies.
 
-Third party web sites operate under their own Privacy and security policies.  
+**Please Note:** Our Service is applicable to filers of resident U.S. Federal income tax returns only, and the statements made in this Privacy Policy apply solely to residents of the United States.  
   
 Our Commitment to Data Security 
 
@@ -37,15 +37,15 @@ Transmitting Information
 
 When transmitting information between you and our server, as well as when communicating with the Internal Revenue Service (IRS) for electronic filing, data security is handled through a protocol called Secure Sockets Layer (SSL). SSL is an established and mature Internet security standard with two dominant features: web server authentication and data encryption.
 
+  * Web Server Authentication
+
+An SSL certificate is issued to ensure authentic and accurate identification of a secured web server. This translates into a digital ID, an electronic fingerprint, which is included in the key used to encrypt the data. Only our web server, in this case, is able to decrypt the data that you transmit because it is the intended (and digitally certified) secured web server for this data transmission.
+
   * Data Encryption
 
 Data encryption is the process of transforming legible information into a complex arrangement of illegible information. SSL uses a private/public key combination to encrypt data when it is sent and to decrypt data when it is received. SSL encrypts data using a mathematical formula, also referred to as a "key."
 
 Encryption strength is measured by the length of the key used to encrypt the data; the longer the key, the more effective the encryption. Using the SSL protocol, data transmission between you and our web server is performed at a standard level of encryption strength.
-
-  * Web Server Authentication
-
-An SSL certificate is issued to ensure authentic and accurate identification of a secured web server. This translates into a digital ID, an electronic fingerprint, which is included in the key used to encrypt the data. Only our web server, in this case, is able to decrypt the data that you transmit because it is the intended (and digitally certified) secured web server for this data transmission.
 
 
   
@@ -67,14 +67,14 @@ Employer's or Relative's Phone Number
 
 The credit card information is used to process your transaction. This information is not made available to anyone else. 
 
-We also collect the following information for use in answering your inquiries for technical support when you submit an email requesting our assistance: 
+We also collect the following information for use in answering your inquiries for technical support when you submit an e-mail requesting our assistance: 
 
-Your name  
+Your Name  
 User ID  
 E-mail Address  
 Operating System  
 Browser Type  
-Connection type/speed  
+Connection Type/Speed  
 
 
 
@@ -88,7 +88,7 @@ The IRS requires us to provide the Internet Protocol (IP) address of the compute
 
 In order to electronically file your return, we must share your submitted tax information with the appropriate tax authorities in order to complete your request. You can control whether or not you wish your tax information shared for this purpose by deciding whether or not to complete the tax returns forms, which are all clearly labeled.
 
-The above listed credit card information that we collect will be used strictly for order processing and billing purposes, and will not be shared with any other party. When appropriate, bank account or credit card information is also passed to our bank, for processing purposes, if you choose to use our Refund Anticipation Loan (RAL), Credit Card Payment of Balance Due or Deduct Fee from Refund options. You will enter this information during the routine course of a purchase. In the event that our Internet Service staff should need to research and resolve any status or billing issues associated with an order, the information will only be accessed by authorized personnel.
+The above listed credit card information that we collect will be used strictly for order processing and billing purposes, and will not be shared with any other party. When appropriate, bank account or credit card information is also passed to our bank, for processing purposes, if you choose to use our Refund Anticipation Loan (RAL), Credit Card Payment of Balance Due, Deduct Fee from Refund or Stored Value Card options. You will enter this information during the routine course of a purchase. In the event that our Internet Service staff should need to research and resolve any status or billing issues associated with an order, the information will only be accessed by authorized personnel.
 
 Our Basic Service entitles you to notification via e-mail of filing deadlines, estimate reminders, tax law changes, as well as tax planning and financial information that may affect your tax return. In order for us to provide you with the Basic Service, it is required that you provide us with your e-mail address and consent to our limited review of your tax return information with our proprietary software program to determine whether your tax return information would trigger such notifications.
 
@@ -100,9 +100,7 @@ Consent to Use Information
 
 Your use of this Service means that you consent to our limited access and review of your tax return information necessary to provide you with the Basic Service described above.
 
-In addition, we may provide you with promotional messages. If you wish to opt-out of receiving such promotional messages, you may send an email to support@completetax.com or write to CCH INCORPORATED, Online Tax Group - MS 28, 21250 Hawthorne Boulevard, Torrance, CA 90503.
-
-Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.  
+In addition, we may provide you with promotional messages. If you wish to opt-out of receiving such promotional messages, you may send an email to support@completetax.com or write to CCH INCORPORATED, Online Tax Group - MS 28, 21250 Hawthorne Boulevard, Torrance, CA 90503. Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.  
   
 Third Party Services 
 
@@ -114,31 +112,25 @@ Through our partnership with HSBC Taxpayer Financial Services, you may apply for
 
 Through our partnership with Official Payments Corporation®, you may request to pay your balance due via credit or debit card. When you make this request, you authorize us to disclose your relevant credit card and tax return information to Official Payments Corporation. When you select the option within our program to pay your balance due via credit or debit card, and your return has qualified for electronic filing, we then share your name, address, social security number, phone number and other tax related information necessary for Official Payments Corporation to provide the requested service. In addition, you will be asked to disclose your card information to Official Payments. Official Payments uses the personally identifiable information for the purpose of providing the payment of your tax via credit or debit card as requested. You may visit the site at [www.officialpayments.com](http://www.officialpayments.com/cch.jsp) to view their Privacy Policy.
 
-Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at [www.tvalue.com](http://www.timevalue.com/Privacy.htm) to view their Privacy Policy.
-
-Through our partnership with Tax9er, you may request to file an extension form electronically. Tax9er uses personally identifiable information for the purpose of electronically filing your extension as requested. In addition, you will be asked to disclose your credit card information to Tax9er to pay for their service. You may visit the site at [www.tax9er.com](http://www.tax9er.com/amigo/affiliates/3106) to view their Privacy Policy by clicking their "About Tax9er" link.  
+Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at [www.timevalue.com](http://www.timevalue.com/Privacy.htm) to view their Privacy Policy.  
   
 Co-Branded Sites
 
 In certain instances we license our content, technology, software applications, hosting services and support services to partners under a co-brand arrangement. Our co-branded sites will display both the CompleteTax logo and our partner's identification. We provide these co-branded licensees full information regarding our Privacy Policy and require that the licensee abide by this policy as a part of our contractual terms.
 
-Your name and e-mail address may be made available to our co-brand partners so that they may send you promotional messages and information about other products and services that may be of interest to you.
-
-If you wish to opt-out of receiving such promotional messages, you may send an email to support@completetax.com or write to CCH INCORPORATED, Online Tax Group - MS 28, 21250 Hawthorne Boulevard, Torrance, CA 90503. If you choose to opt-out, your name and e-mail address will not be made available to our co-brand partner.
-
-Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.  
+Your name and e-mail address may be made available to our co-brand partners so that they may send you promotional messages and information about other products and services that may be of interest to you.  
   
 Retrieving Your Information
 
 Our Service is available for starting, completing and e-filing your return from approximately mid-January through mid-October of each tax year. To view your return information, you may use your User ID and Password to access a free summary report and/or pay a fee to print, view, and electronically file your actual return. Once you have paid, you may continue to access, modify and/or print your tax return as often as needed during this time.
 
-From mid-October through mid-December you can still complete and mail your return to the appropriate filing authorities if you began it prior to mid-October. Simply click on the "Continue Your 2005 Return" selection on the "Prepare Your Return" menu.
+From mid-October through mid-December you can still complete and mail your return to the appropriate filing authorities if you began it prior to mid-October. Simply click on the "Continue Your 2006 Return" selection on the "Prepare Your Return" menu.
 
 After paying for your return, the financial information used to make your payment (e.g. credit card number), as well as the record of your payment, will not be retrievable by you.  
   
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20061017214237id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20070721083108id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - MS 28  
@@ -151,7 +143,7 @@ Web site URL: [www.completetax.com](http://www.completetax.com/)
   
   
   
-© 2006, CCH. All Rights Reserved.
+© 2007, CCH. All Rights Reserved.
 
   
 
