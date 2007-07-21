@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016005217id_/http%3A//www.listrak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721203729id_/http%3A//www.listrak.com/privacy.asp) for the most accurate reproduction.*
 
 # Listrak Email Marketing Privacy Policy
 
@@ -35,5 +35,5 @@ Phone 717-627-4528
 Fax 717-627-6087
 
 Email [info@listrak.com](mailto:info@listrak.com)  
-Postal Address 6 Sturgis Lane, Lititz, PA 17543  
+Postal Address 701 S Broad St, Lititz, PA 17543  
 Web site URL [www.listrak.com](http://www.listrak.com/)
