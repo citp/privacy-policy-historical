@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cree.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016071606id_/http%3A//www.cree.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cree.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721071458id_/http%3A//www.cree.com/about/privacy.htm) for the most accurate reproduction.*
 
 # CREE | Legal
 
