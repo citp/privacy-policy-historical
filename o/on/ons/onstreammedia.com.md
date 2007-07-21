@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413095900id_/http%3A//osm.onstreammedia.com/portal/common/article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721143505id_/http%3A//www.onstreammedia.com/portal/common/article/privacy_policy) for the most accurate reproduction.*
 
 # Onstream Media Corporation Internet Video Broadcasting & Video Conferencing Software
 
