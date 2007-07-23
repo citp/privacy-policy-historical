@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the criminaldefenselawyer.com privacy policy that was archived on 2006-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061104085030id_/http%3A//www.criminaldefenselawyer.com/privacy-Policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the criminaldefenselawyer.com privacy policy that was archived on 2007-07-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070723073022id_/http%3A//www.criminaldefenselawyer.com/privacy-Policy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Criminal Defense Lawyer - Attorney for your Criminal Defense Case - Privacy Policy Lawyers Attorneys</title>
@@ -14,56 +14,74 @@ function clearDefault(el) {
   if (el.defaultValue==el.value) el.value = ""
 }
 </script>
-
-<script language="JavaScript" type="text/javascript" src="http://www.criminaldefenselawyer.com/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
+<link href="/css/divorce.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
+    function  _CF_checkForm432(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-function  _CF_checkTOPzipcodelookup(_CF_this)
-{
-	if  (!_CF_hasValue(_CF_this.Zipcode, "TEXT" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.Zipcode, _CF_this.Zipcode.value, "Please enter your numeric zipcode to find a local lawyer"))
-		{
-			return false;
-		}
-	}
+        //form element zipcode required check
+        if( _CF_hasValue(_CF_this['zipcode'], "TEXT", false ) )
+        {
+            //form element zipcode 'INTEGER' validation checks
+            if (!_CF_checkinteger(_CF_this['zipcode'].value, true))
+            {
+                _CF_onError(_CF_this, "zipcode", _CF_this['zipcode'].value, "Error in zipcode text.");
+                _CF_error_exists = true;
+            }
 
-	if  (!_CF_checkinteger(_CF_this.Zipcode.value))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.Zipcode, _CF_this.Zipcode.value, "Please enter your numeric zipcode to find a local lawyer"))
-		{
-			return false;
-		}
-	}
-
-	return true;
-}
+        }else {
+            _CF_onError(_CF_this, "zipcode", _CF_this['zipcode'].value, "Error in zipcode text.");
+            _CF_error_exists = true;
+        }
 
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
 //-->
 </script>
-
 </head>
 
-<body link="#333333" vlink="#666666">
+<body link="#333333" vlink="#666666" onload="document.Form432.zipcode.focus()">
 <a name="top"></a>
 <table width="767" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td height="1062" valign="top"><table border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td colspan="3" align="center" valign="top"><script language="JavaScript">
-<!-- Clear Text box function, Added June 16, 2003 -->
-function clearDefault(el) {
-  if (el.defaultValue==el.value) el.value = ""
-}
-</script>
-<link href="http://www.criminaldefenselawyer.com/css/divorce.css" rel="stylesheet" type="text/css">
+        <td colspan="3" align="center" valign="top"><script language="JavaScript1.1" src="/js/Blending.js"></script>
+
+
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
 <table width="765" height="112" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="253" height="90" align="center"><a href="http://www.criminaldefenselawyer.com/index.cfm"><img src="http://www.criminaldefenselawyer.com/images/gif/logo.gif" alt="Criminal Defense Lawyer" border="0"></a></td>
-    <td width="512" align="right"><a href="http://www.criminaldefenselawyer.com/contactus.cfm"><img src="http://www.criminaldefenselawyer.com/images/gif/freecasereview.gif" alt="Free Criminal Case Review by a Criminal Defense Attorney in your area within 24 hours." width="314" height="70" border="0" class="rightMargin"></a></td>
+    <td width="253" height="90" align="center"><a href="http://www.criminaldefenselawyer.com"><img src="http://www.criminaldefenselawyer.com/images/gif/logo.gif" alt="Criminal Defense Lawyer" border="0"></a></td>
+    <td width="512" align="right"><a href="http://www.criminaldefenselawyer.com/needhelp.cfm"><img src="http://www.criminaldefenselawyer.com/images/gif/freecasereview.gif" alt="Free Criminal Case Review by a Criminal Defense Attorney in your area within 24 hours." width="314" height="70" border="0" class="rightMargin"></a></td>
   </tr>
   <tr>
     <td colspan="2" height="2" class="grey2"></td>
@@ -71,35 +89,121 @@ function clearDefault(el) {
   <tr>
     <td height="20" colspan="2"><table width="765" border="0" cellpadding="0" cellspacing="0" class="black" id="headerBT">
         <tbody><tr>
-          <td width="211"><table width="179" border="0" cellpadding="0" cellspacing="0">
-              <form name="TOPzipcodelookup" action="http://www.criminaldefenselawyer.com/includes/ZipcodeLookup.cfm" method="POST" onsubmit="return _CF_checkTOPzipcodelookup(this)"></form> 
-                <tbody><tr> 
-                  <td align="center" class="ver10white"><strong>Find a Lawyer 
-                    </strong></td>
-                  <td><strong> 
-                    <input type="Text" name="Zipcode" onclick="clearDefault(this)" class="zipInput" size="6" maxlength="5" value="zip code">
-                    </strong></td>
-                  <td><strong> 
-                    <input name="IMAGE" type="IMAGE" src="http://www.criminaldefenselawyer.com/images/gif/gobutton.gif" alt="Go Find a DUI Lawyer" width="21" height="18">
-                    </strong></td>
-                </tr>
-                <input type="hidden" name="categoryid" value="40">
-               
-          </tbody></table></td>
+          <td width="12">&nbsp;</td>
+          <td width="51" align="center"><a href="http://www.criminaldefenselawyer.com/" class="headerBT"><strong>HOME</strong></a></td>
           <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20" class="style1"></td>
-          <td width="38"><a href="http://www.criminaldefenselawyer.com/" class="headerBT"><strong>HOME</strong></a></td>
-          <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20" class="style1"></td>
-          <td width="65"><a href="http://www.criminaldefenselawyer.com/learnMoreAbout.cfm"><strong>ABOUT US</strong></a></td>
+          <td width="75" align="center"><a href="http://www.criminaldefenselawyer.com/learnMoreAbout.cfm"><strong>ABOUT US</strong></a></td>
           <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20"></td>
-          <td width="135"><strong><a href="http://www.criminaldefenselawyer.com/criminal-defense-lawyer-resources.cfm">CRIMINAL RESOURCES</a></strong></td>
+          <td width="133" align="center"><a href="http://www.criminaldefenselawyer.com/criminal-defense-lawyer-resources.cfm"><strong>CRIMINAL RESOURCES</strong></a></td>
           <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20"></td>
-          <td width="39"><a href="http://www.criminaldefenselawyer.com/frequentlyAskedQuestions.cfm"><strong>FAQ's</strong></a></td>
+          <td width="53" align="center"><a href="http://www.criminaldefenselawyer.com/frequentlyAskedQuestions.cfm"><strong>FAQ's</strong></a></td>
           <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20"></td>
           <td width="117"><a href="http://65.14.90.93?AuthID=2566&amp;Authid2=44"><strong>LEGAL COMMUNITY</strong></a></td>
           <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20"></td>
-          <td width="88"><a href="http://www.criminaldefenselawyer.com/contactus.cfm"><strong>CONTACT US</strong></a></td>
+          <td width="82" align="center"><a href="http://www.criminaldefenselawyer.com/needhelp.cfm"><strong>CONTACT US</strong></a></td>
+          <td width="12"><img src="http://www.criminaldefenselawyer.com/images/gif/curve.gif" width="12" height="20"></td>
+          <td width="170"><span class="ver10white">
+            <div align="center"><span class="style1">July 23, 2007</span></div>
+          </span></td>
         </tr>
     </tbody></table></td>
+  </tr>
+  <tr>
+		<td colspan="2"><script src="http://www.CriminalDefenseLawyer.com/AC_RunActiveContent.js" language="javascript"></script> 
+
+
+<table width="765" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="323"><img src="/images/jpg/rotate/1.jpg" alt="Criminal Defense Law" name="slide" width="323" height="127" border="0" style="filter:blendTrans(duration=5)">
+				<script language="JavaScript1.1" src="/js/trans.js"></script>
+			</td>
+		
+    <td width="442" class="lightBlue"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="5" class="ver13orange">&nbsp;</td>
+          <td width="247" valign="middle" class="ver13orange">
+		   
+		  	 
+			  
+			  		<script language="javascript">
+							AC_FL_RunContent(
+										'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0',
+										'width', '163',
+										'height', '17',
+										'src', 'http://www.CriminalDefenseLawyer.com/swf/NeedHelpNew.swf',
+										'quality', 'high',
+										'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+										'align', 'left',
+										'play', 'true',
+										'loop', 'true',
+										'scale', 'showall',
+										'wmode', 'transparent',
+										'devicefont', 'false',
+										'id', 'freecasereview',
+										'bgcolor', '#ffffff',
+										'name', 'freecasereview',
+										'menu', 'true',
+										'allowScriptAccess','sameDomain',
+										'movie', 'http://www.CriminalDefenseLawyer.com/swf/NeedHelpNew',
+										'salign', 't'
+										); //end AC code
+		
+					</script>
+				
+		  
+		  
+         </td>
+        <td width="185" align="center" valign="middle" class="searchboxAdv">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+          <td height="50" colspan="2" valign="middle"><table width="99%" border="0" cellspacing="1" cellpadding="1">
+            <tbody><tr>
+              <td><span class="searchboxAdv">Selecting an attorney for a  case is a very important decision. Please enter zip code where the <strong>incident occurred, not where you live</strong> :</span></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+          <td colspan="2" align="left" valign="top">
+            <table width="100%" border="0" cellpadding="0" cellspacing="1">
+			<form name="Form432" action="http://www.criminaldefenselawyer.com/includes/zipcodelookupadv_ziponly.cfm" method="post" onsubmit="return _CF_checkForm432(this)"></form>
+              <tbody><tr class="searchboxAdv">
+                  <td width="23%" height="42" align="right" nowrap="" class="searchboxAdv"><strong>Zip Code:&nbsp;&nbsp; </strong></td>
+                  <td width="17%" align="left"><input name="zipcode" id="zipcode" type="text" maxlength="5" size="7" class="searchboxdropdown"></td>
+                  <td width="28%" align="left"><a href="/advsearch_include.cfm" class="searchboxAdv">Advanced Search</a> </td>
+                <td width="32%" nowrap=""><input type="image" src="/images/gif/search.gif" name="submit"></td>
+              </tr>
+		
+            
+
+          </tbody></table></td>
+      </tr>
+    </tbody></table>
+	
+<!-- Photos are © copyright by Getty Images, Inc. All rights reserved
+<input type="image" src="images/gif/search.gif" name="submit">
+Licensed material's identification number:
+SO000467.jpg
+SO000476.jpg
+TR001146.jpg
+TR001149.jpg
+skd284549sdc.jpg
+skd284429sdc.jpg
+FD000684.jpg
+TR001174.jpg
+MD000225.jpg
+LS004465.jpg
+
+-->
+
+
+
+	
+	</td>
+  </tr>
+</tbody></table>
+</td>
   </tr>
 </tbody></table></td>
       </tr>
@@ -116,42 +220,33 @@ function clearDefault(el) {
         Criminal Law Overview</strong></a><strong><br><br>
         <a href="http://www.criminaldefenselawyer.com/criminalProcedures.cfm">Criminal Procedures</a><br><br>
         <a href="http://www.criminaldefenselawyer.com/deathPenaltyOverview.cfm">Death Penalty Overview</a><br><br>
+		<a href="http://www.criminaldefenselawyer.com/drug-charge.cfm">Drug Charge</a><br><br>
         <a href="http://www.criminaldefenselawyer.com/juvenileJustice.cfm">Juvenile Justice</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/whiteCollarCrime.cfm">White Collar Crime</a><br><br>
-        <a href="federal-sentencing-guidelines.cfm">Federal Sentencing Guidelines</a><br><br>
-        </strong><strong>        <a href="http://www.criminaldefenselawyer.com/environmentalViolations.cfm">Environmental
-        Violations</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/financialFraud.cfm">Banking  Finance Crimes </a><br>
+		 <a href="http://www.criminaldefenselawyer.com/whiteCollarCrime.cfm">White Collar Crime</a><br><br>
+        </strong><strong><a href="http://www.criminaldefenselawyer.com/financialFraud.cfm">Banking  Finance Crimes </a><br>
         <br>
         <a href="http://www.criminaldefenselawyer.com/governmentFraud.cfm">Government Fraud</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/possessionOfControlSubstance.cfm">Possession of Control Substance</a><br>
+        <a href="http://www.criminaldefenselawyer.com/possessionOfControlSubstance.cfm">Possession of Controlled Substance</a><br>
         <br>
-        <a href="http://www.criminaldefenselawyer.com/telemarketingFraud.cfm">Telemarketing Fraud</a><br><br>
+        <a href="http://www.criminaldefenselawyer.com/homicide-murder.cfm">Homicide and Murder</a><br><br>
         <a href="http://www.criminaldefenselawyer.com/3strikesYourOut.cfm">3 Strikes You're Out</a><br>
         <br>
-        <a href="http://www.criminaldefenselawyer.com/mayhem.cfm">Mayhem</a><br><br>
+        <a href="http://www.criminaldefenselawyer.com/sex-crime.cfm">Sex Crime </a><br>
+        <br>
         <a href="http://www.criminaldefenselawyer.com/assaultAndBattery.cfm">Assault and Battery</a><br><br>
         <a href="http://www.criminaldefenselawyer.com/intimidatingAwitness.cfm">Intimidating a Witness</a> <br><br>
         <a href="http://www.criminaldefenselawyer.com/insiderTrading.cfm"> Insider Trading</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/healthcareFraud.cfm">Healthcare Fraud</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/insuranceFraud.cfm">Insurance Fraud</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/mailFraud.cfm">Mail Fraud</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/taxEvasion.cfm">Tax Evasion</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/mandatorySentence.cfm">Mandatory Sentence</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/grandjuryIndictment.cfm">Grand Jury Indictment</a><br>
+        <a href="http://www.criminaldefenselawyer.com/taxEvasion.cfm">Tax Evasion</a><br>
         <br>
-        <a href="http://www.criminaldefenselawyer.com/probableCause.cfm">Probable Cause</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/childAbuse.cfm">Child Abuse</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/crueltytoAnimals.cfm">Cruelty to Animals</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/circumstantialEvidence.cfm">Circumstantial Evidence</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/jointVenture.cfm">Joint Venture</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/manslaughter.cfm">Manslaughter</a><br><br>
-        <a href="http://www.criminaldefenselawyer.com/mirandaRights.cfm">Miranda Rights</a><br><br>
-		<a href="http://www.criminaldefenselawyer.com/hate-crimes-defense.cfm">Hate Crimes</a></strong><br>
+        <a href="http://www.criminaldefenselawyer.com/mandatorySentence.cfm">Mandatory Sentence</a><br><br>
+        <a href="http://www.criminaldefenselawyer.com/childAbuse.cfm">Child Abuse</a><br>
+        <br>
+        <a href="http://www.criminaldefenselawyer.com/manslaughter.cfm">Manslaughter</a><br>
+        <br>
+        <a href="http://www.criminaldefenselawyer.com/mirandaRights.cfm">Miranda Rights</a><br>
+        </strong><strong><br>
 		<br>
-		<strong><a href="http://www.criminaldefenselawyer.com/aggravated-battery.cfm"><strong>Aggravated Battery</strong></a></strong> <br>
-		<br>
-		<strong><a href="http://www.criminaldefenselawyer.com/prescription-drug-fraud.cfm"><strong>Prescription Drug Fraud</strong></a><br>
+		<a href="http://www.criminaldefenselawyer.com/hot-topic-archive.cfm"><strong>More Hot Topics &gt;</strong></a><br>
         <br>
         <br>
         </strong></p>
@@ -169,6 +264,9 @@ function clearDefault(el) {
         <br> 
         <a href="http://www.criminaldefenselawyer.com/frequentlyAskedQuestions.cfm"><strong>Criminal Defense Law 
         </strong>Frequently Asked Questions</a><br> 
+        <br> 
+		<a href="http://www.criminaldefenselawyer.com/spotlight-corner.cfm"><strong>Spotlight Corner 
+        </strong></a><br> 
         <br> 
         <a href="http://www.criminaldefenselawyer.com/nationalandRegionalStatisticsonCrime.cfm"><strong>National</strong> 
         and Regional<br>
@@ -200,8 +298,8 @@ function clearDefault(el) {
     <td valign="top"><p align="left" class="arial12black">&nbsp;</p>
       <p><a href="http://www.criminaldefenselawyer.com/needhelp.cfm" class="arial11red"><strong>Need Criminal Defense 
         Attorney Help?</strong></a><br>
-        <br>
-        <br>
+        <br><br>
+       
       </p>
       
     </td>
@@ -369,7 +467,7 @@ function clearDefault(el) {
       </tr>
     </tbody></table>
     <br>
-  Copyright © 2002 - 2006 Criminal Defense Lawyer.com<br>
+  Copyright © 2002 - 2007 Criminal Defense Lawyer.com<br>
   All rights reserved
   <p></p>
               </div>
@@ -381,51 +479,43 @@ function clearDefault(el) {
           
           <p>&nbsp;</p></td>
         <td width="188" align="center">
-<br><table width="200" border="0" cellpadding="0" cellspacing="0" class="lightBlue leftbuttonstableline">
+<br>
+<table width="200" border="0" cellpadding="0" cellspacing="0" class="lightBlue leftbuttonstableline" height="600">
   <tbody><tr valign="middle" bgcolor="#000000"> 
     <td height="22"> 
       <h2 class="h2">&nbsp;</h2></td>
     <td height="22" style="color:#FFFFFF;"><h2 class="h2"><strong>&nbsp;News Articles</strong></h2>
-	&nbsp;11/04/2006 3:55:20 AM EST</td>
+	&nbsp;07/23/2007 3:30:14 AM EST</td>
   </tr>
   <tr> 
     <td>&nbsp;</td>
-    <td width="190" class="arial12"><link href="../css/divorce.css" rel="stylesheet" type="text/css">
-
+    <td width="190" class="arial12"> 
 <table width="180" border="0" cellpadding="0" cellspacing="0"> 
   <tbody><tr> 
     <td width="6" height="257">&nbsp;</td> 
     <td width="168" valign="top"> <span id="news"><ul> 
 		<br>
-        <li><a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/80601/More-Than-1600-Sex-Offender-Arrests.html"><strong>More Than 1,600 Sex Offender Arrests By U.S. ...</strong></a><br> 
-          <em>Department of Justice</em><em>, Nov 03, 2006</em><br> 
-          High priority targets for arrest were fugitives wanted for committing sexual offenses, including unregistered convicted sex offenders...<br> 
+        <li><a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/wv/Article/101616/Parkerburg-Doctor-Pleads-Guilty-To.html"><strong>Parkerburg Doctor Pleads Guilty To Federal Dr...</strong></a><br> 
+          <em>Enter Source</em><em>, Jul 17, 2007</em><br> 
+          Blankenship Kiser and Gartin enter guilty pleas to obtaining prescription drugs by fraud aided and abetted by others...<br> 
         <br> 
-        <a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/80601/More-Than-1600-Sex-Offender-Arrests.html">Read more &gt;</a><br>
+        <a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/wv/Article/101616/Parkerburg-Doctor-Pleads-Guilty-To.html">Read more &gt;</a><br>
         </li>
       
 		<br>
-        <li><a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/80391/Top-Ten-Most-Dangerous-United-State.html"><strong>Top Ten Most Dangerous United State Cities...</strong></a><br> 
-          <em>Staff Writer</em><em>, Nov 01, 2006</em><br> 
-          In a ranking which is not the most glamorous or beneficial the top ten most dangerous cities in the United States have been released...<br> 
+        <li><a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/101006/Acuity-Specialty-Products-Group-Pleads.html"><strong>Acuity Specialty Products Group Pleads Guilty...</strong></a><br> 
+          <em>U.S. Department of Justice</em><em>, Jul 03, 2007</em><br> 
+          Acuity admitted that on numerous occasions, it had failed to report accurate wastewater flow data, phosphorus concentrations and pH results in reports that were submitted...<br> 
         <br> 
-        <a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/80391/Top-Ten-Most-Dangerous-United-State.html">Read more &gt;</a><br>
+        <a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/101006/Acuity-Specialty-Products-Group-Pleads.html">Read more &gt;</a><br>
         </li>
       
 		<br>
-        <li><a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/ny/Article/79691/Environmental-Protection-Employee-Pleads.html"><strong>Environmental Protection Employee Pleads Guil...</strong></a><br> 
-          <em>Department of Justice</em><em>, Oct 27, 2006</em><br> 
-          A felony charge of making false entries in DEP records relating to monitoring of drinking water while he was a DEP employee...<br> 
+        <li><a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/100401/Former-Corrections-Officer-Sentenced.html"><strong>Former Corrections Officer Sentenced for Civi...</strong></a><br> 
+          <em>the Department of Justice</em><em>, Jun 26, 2007</em><br> 
+          He was convicted at trial of subjecting an inmate to cruel and unusual punishment by confining the inmate in a small holding cell amid human waste....<br> 
         <br> 
-        <a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/ny/Article/79691/Environmental-Protection-Employee-Pleads.html">Read more &gt;</a><br>
-        </li>
-      
-		<br>
-        <li><a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/ny/Article/78656/In-Nassau-County-154-Fugitives-Apprehen.html"><strong>In Nassau County, 154 Fugitives Apprehended...</strong></a><br> 
-          <em>New York State</em><em>, Oct 20, 2006</em><br> 
-          Governor George E. Pataki announced that 154 dangerous fugitives and sexual predators from  Nassau County have been apprehended as part of Operation Rolling Thunder...<br> 
-        <br> 
-        <a href="http://www.CriminalDefenseLawyer.com/regional-content.cfm/state/ny/Article/78656/In-Nassau-County-154-Fugitives-Apprehen.html">Read more &gt;</a><br>
+        <a href="http://www.CriminalDefenseLawyer.com/national-content.cfm/Article/100401/Former-Corrections-Officer-Sentenced.html">Read more &gt;</a><br>
         </li>
       <br>
 <a href="http://www.criminaldefenselawyer.com/criminal-defense-lawyer-articles.cfm" class="ver10"><strong>More Criminal Defense Law News &gt;</strong></a>
@@ -450,7 +540,7 @@ function clearDefault(el) {
     <td valign="top" class="arial12"> <br>
       Search for criminal defense resources in your part of the country:<br>
       <br>
-      <table width="100%" align="center" cellpadding="0" cellspacing="0" class="ver10bk">
+      <table width="100%" align="center" cellpadding="0" cellspacing="0" class="ver10bk" height="440">
         <tbody><tr> 
           <td width="45%"><a href="http://www.criminaldefenselawyer.com/NewsRoomContent.cfm?name=AL">Alabama</a><br> 
           </td>
@@ -560,7 +650,7 @@ function clearDefault(el) {
           <td height="13" colspan="2">&nbsp;</td>
         </tr>
         <tr> 
-          <td height="21" colspan="2"><a href="mapNewsroom.cfm"><strong>Browse 
+          <td height="21" colspan="2"><a href="/mapNewsroom.cfm"><strong>Browse 
             Map</strong> &gt;</a></td>
         </tr>
       </tbody></table> 
@@ -571,10 +661,6 @@ function clearDefault(el) {
         Find A Criminal Defense Attorney</font></strong></a><br>
       </p>
       
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
       <p><br>
         <br>
       </p>
