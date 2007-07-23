@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialpulse.com privacy policy that was archived on 2007-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070121055836id_/http%3A//www.socialpulse.com/friends/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialpulse.com privacy policy that was archived on 2007-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070723171800id_/http%3A//www.socialpulse.com/friends/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # socialpulse.com
 
