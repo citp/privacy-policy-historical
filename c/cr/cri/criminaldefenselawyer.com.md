@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criminaldefenselawyer.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104085030id_/http%3A//www.criminaldefenselawyer.com/privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criminaldefenselawyer.com privacy policy that was archived on 2007-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070723073022id_/http%3A//www.criminaldefenselawyer.com/privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Criminal Defense Lawyer - Attorney for your Criminal Defense Case - Privacy Policy Lawyers Attorneys
 
@@ -34,4 +34,4 @@ Any changes will be posted in this section
 
 TOP OF THE PAGE
 
-[Find a Lawyer](https://web.archive.org/web/20061104085030id_/http%3A//www.criminaldefenselawyer.com/needhelp.cfm)
+[Find a Lawyer](https://web.archive.org/web/20070723073022id_/http%3A//www.criminaldefenselawyer.com/needhelp.cfm)
