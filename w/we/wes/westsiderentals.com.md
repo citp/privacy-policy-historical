@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114052415id_/http%3A//www.westsiderentals.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsiderentals.com privacy policy that was archived on 2007-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070723142725id_/http%3A//www.westsiderentals.com/privacy.cfm) for the most accurate reproduction.*
 
 # Apartment Rentals in Los Angeles, Orange County and San Diego
 
