@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630035910id_/http%3A//www.ogaming.com/data/3190%7EPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowinterface.com privacy policy that was archived on 2007-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070723185626id_/http%3A//www.ogaming.com/data/3190%7EPrivacy.php) for the most accurate reproduction.*
 
 # OGaming - OGaming Network Privacy Policy
 
