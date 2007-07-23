@@ -1,37 +1,51 @@
-> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009204501id_/http%3A//www.angryape.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2007-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070723191753id_/http%3A//angryape.com/privacy) for the most accurate reproduction.*
 
-# AngryApe › About › Privacy
+# Privacy – AngryApe
 
-### AngryApe Privacy Statement
+We take your privacy very seriously, and we are committed to maintaining the trust of our users. This Privacy Statement will help you understand what types of information we collect, and how we use it.
 
-Last updated 12th February 2004.
+We automatically receive and record information from our servers and from your web browser, including your IP address, what pages you visited on this site, and the times you visited them. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you. If you have specifically given us personally identifiable information, such as when signing up to a newsletter, we will only use your information for the specific purposes intended.
 
-We take your privacy very seriously, and we are committed to maintaining the trust of our users. We gather certain types of information from our users, and this privacy statement will help you understand what types of information we collect, and how we use it.
+We may disclose certain information to third parties, such as advertisers for marketing, promotional and other purposes. We do not disclose any information that could be used to identify you personally, unless you have specifically asked us to. In the event that personally identifiable material is requested from us by a law-enforcement agency or court of law then we will disclose such information.
 
-### The information we collect
+Users who do not wish to provide any information requested from registration processes do not need to register, however the specific content and features that use that registration information may not be available to you. Most of this site is still available without the use of registration. Users are able to remove themselves from mailing lists/newsletters at any time, unless there are technical problems at that time.
 
-We automatically receive and record information from our servers and from your Web browser, including your IP address, the time of your visit to pages on this site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you unless you have specifically given us personally identifiable information, in which case we use the information to enhance your services in the ways described below.
+We cannot guarantee that any information you provide to us is completely safe, and there may be occasions when technical problems beyond our control make information available to unauthorised persons. We do however take reasonable care to prevent any such problems occurring.
 
-We collect personally identifiable information when you provide it to us, for example when you subscribe to newsletters, or register for certain services such as message boards.
+Last updated: 22nd May 2006.
 
-### Cookies
+###### [Indie Music Downloads](http://www.digstation.com/)
 
-Internet browsers allow a feature called ‘cookies’, which store a small amount of data on your computer about your visit to this site. We may use cookies to record user traffic statistics, membership details, and to enhance your visit to this site. In addition, third party advertisements and features may use cookies within this site. We do not track your activity on any other part of the web outside of this website. You may refuse this site to use cookies by adjusting the settings in your Web browser. You are still able to visit this site without allowing cookies, however certain features may become unavailable.
+DigStation is the leading MP3 site dedicated to providing downloads by indie musicians
 
-### Sharing information
+###### [Song Lyrics and Chords](http://www.lyrics-p.com/)
 
-We may disclose certain information to third parties, such as advertisers for marketing, promotional and other purposes. We do not disclose any information that could be used to identify you personally. In the event that personally identifiable material is requested from us by a law-enforcement agency or court of law then we will disclose such information.
+Get all your favourite song lyrics and guitar chords!
 
-### Your options
+###### [Free Ringtones Here](http://www.freeringtoneshere.com/)
 
-Users who do not wish to provide any information requested from registration processes do not need to register, however the specific content and features that use that registration information may not be available to you. Most of this site is still available without the use of registration. Users are able to remove themselves from mailing lists/newsletters at any time.
+Download free ringtones by your favorite artists
 
-### Changes to this Privacy Statement
+###### [Myspace Music Video Codes](http://www.969m.com/)
 
-The most recent Privacy Statement will always be available to view at this URL.
+Free Hottest Rock, R&B, Hip Hop, Reggae, Pop, Country music codes
 
-### More information
+###### [Free Mp3 Ringtones](http://www.free-ringtones.ie/)
 
-AngryApe cannot guarantee that any information you provide to us is completely safe, although we take reasonable care to prevent any problems. There may be occasions when technical problems beyond our control make information available to unauthorised persons.
+Get your free indie ringtones from our WAP site, no catches
 
-If you have questions or comments on this Privacy Statement, please contact us using [privacy@angryape.com](mailto:privacy@angryape.com).
+###### [Song and Music Lyrics](http://www.superlyrics.com/)
+
+Categorized song lyrics site with search engine returning relevant matches
+
+###### [DJ Equipment From DJ Deals](http://www.djdeals.co.uk/)
+
+Premium DJ equipment from numark, vestax, technics, sennheiser & stanton
+
+###### [Rare records auction results](http://www.popsike.com/)
+
+popsike.com - what is the value of your vinyl record?
+
+###### [The Police Tickets](http://www.ticketnest.com/concert-tickets/The-Police/index.php)
+
+Ticket Nest sells hard to find, sold out concert tickets at the lowest prices
