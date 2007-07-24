@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the wa-democrats.org privacy policy that was archived on 2007-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070216043652id_/http%3A//www.wa-democrats.org/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wa-democrats.org privacy policy that was archived on 2007-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070724094949id_/http%3A//wa-democrats.org/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Washington State Democratic Party</title>
-<meta name="Generator" content="EditPlus">
-<meta name="Author" content="Hang Wire">
-<meta name="Keywords" content="Washington State Democratic Party Democrats Progressives Grassroots">
-<meta name="Description" content="Washington State Democratic Party Democrats Progressives Grassroots">
-<link rel="icon" href="files/favicon.ico" type="image/ico">
-<link rel="SHORTCUT ICON" href="files/favicon.ico">
-<link rel="stylesheet" type="text/css" href="includes/styles.css">
+<title>Washington State Democrats - Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+<link rel="stylesheet" href="/css.php" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="/styles.css">
 <script type="text/javascript" language="javascript">
 /* onError */
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 function handle_error()
 {
-	window.alert('HELP!!!!!! THERE\'S AN ERROR!!!!!!!!!!!!!!!!!!!');
+	window.alert('An error has occurred');
 	return true;
 }
 window.onError = handle_error;
@@ -36,6 +36,7 @@ function validate(f)
 }
 
 /* validate any form, use required variable for list of field names to check for empty values, also can parse emails */
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 function required(f, required)
 {
 	//window.alert('required = ' + required);
@@ -52,7 +53,8 @@ function required(f, required)
 
 		/* make sure the required field has a value */
 		if(f.elements[field_name].value == ""){
-			window.alert(field_name + " is a required field.\nPlease re-enter.");
+			window.alert(field_name + " is a required field.
+Please re-enter.");
 			f.elements[field_name].focus();
 			return false;
 		}
@@ -69,6 +71,7 @@ function required(f, required)
 }
 
 /* parse an email address & validate */
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 function parse_email(email)
 {
 	email = trim(email);
@@ -79,7 +82,7 @@ function parse_email(email)
 		}
 	}
 
-
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 /* trims leading and trailing spaces from the string */
 function trim(str)
 {
@@ -91,27 +94,33 @@ function trim(str)
 function checker(str, field)
 {
 	if(str.search(/[\]\[\^\"\<\>{}|]/) != -1){	// no double quotes allowed
-		window.alert(field + " contains a forbidden character!\nPlease remove and resubmit form.\nCharacters forbidden are: \" | <> {} ^ ][ ");
+		window.alert(field + " contains a forbidden character!
+Please remove and resubmit form.
+Characters forbidden are: \" | <> {} ^ ][ ");
 		return true;
 	}
 }
 
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 /* Check password if 2 passwords match & check for length as well as unwanted characters */
 function create_password(password1, password2)
 {
 	if( (password1.value != password2.value) || (password1.value.length < 6) )
 	{
-		window.alert("Passwords do not match.\nIt should be at least 6 characters long.");
+		window.alert("Passwords do not match.
+It should be at least 6 characters long.");
 		return false;
 	}
-	if(password1.value.search(/[\\\]\[\^{}\"\'<>|]/) != -1){		// quotes not allowed
-		window.alert("Your password contains a forbidden character!\nPlease remove and resubmit form.\nCharacters forbidden are: | <> {} ^ ][ \\ \' \"");
+	if(password1.value.search(/[\\]\[\^{}\"\'<>|]/) != -1){		// quotes not allowed
+		window.alert("Your password contains a forbidden character!
+Please remove and resubmit form.
+Characters forbidden are: | <> {} ^ ][ \ \' \"");
 		return false;
 	}
 	return true;
 }
 
-
+/* Copyright 2005, 2006, 2007 Hang Wire LLC */
 /* dynamically create an input type hidden element when called */
 function create_hidden_variable(form_name, input_name, field_value)
 {
@@ -214,15 +223,43 @@ function create_hidden_variable(form_name, input_name, field_value)
 	} 
 
 
-	function menuSelect(objectId, newVisibility) {
+	var theObject;
+	var timeout_id = false;
+
+	function changeVisibility(object, visibility)
+	{
 		// get a reference to the cross-browser style object and make sure the object exists
-		var styleObject = getStyleObject(objectId);
+		var styleObject = getStyleObject(object);
 		if(styleObject) {
-		styleObject.visibility = newVisibility;
+		styleObject.visibility = visibility;
+		timeout_id = false;
 		return true;
 		} else {
 		// we couldn't find the object, so we can't change its visibility
 		return false;
+		}
+	}
+
+	// function that changes the visibility of the drop-down menus
+	function menuSelect(objectId, newVisibility) {
+
+		if(newVisibility == 'hidden')
+		{
+			if(timeout_id == false)
+			{
+				theObject = objectId;
+				timeout_id = setTimeout('changeVisibility(\'' + objectId + '\', \'hidden\')',25);
+			}
+		}
+
+		if(newVisibility == 'visible')
+		{
+			if(objectId == theObject)
+			{
+				clearTimeout(timeout_id);
+				timeout_id = false;
+			}
+			changeVisibility(objectId, 'visible');
 		}
 	} 
 
@@ -344,9 +381,6 @@ function chgNav(imgField,newImg)
 </script>
 
 
-<!-- RSS Auto-Discovery, let applications know there's an RSS feed on our site -->
-<link rel="alternate" type="application/rss+xml" title="Washington State Democrats Press Release" href="http://feeds.feedburner.com/WashingtonStateDemocratsPressRelease">
-
 
 <style>
 
@@ -363,12 +397,12 @@ font.bubble
 </style>
 
 </head>
-<!--BODY onResize="window.location='/privacy_policy.php'" style="background-color: #5A7D2D; margin-top:0px;"-->
-<body onresize="window.location='/privacy_policy.php'">
+<body>
 <div align="center">
 <table width="768">
 	<tbody><tr>
 		<td align="left">
+
 		<!-- anchor image used to position all drop-down menues -->
 		<img src="images/anchor.gif" name="anchor" id="anchor" border="0"></td>
 	</tr>
@@ -379,6 +413,7 @@ font.bubble
 	</tr>
 	<tr>
 		<td width="100%" align="center" style="background-image:url(images/shadow_sides.gif);">
+
 		<table width="760" cellspacing="0" cellpadding="0" border="0">
 			<tbody><tr>
 				<td>
@@ -388,10 +423,11 @@ font.bubble
 				<td style="background-color: #ffffff;"><img src="images/spacer.gif" width="1" height="3"></td>
 			</tr>
 		</tbody></table>
+
 		<table width="760" cellspacing="0" cellpadding="0" border="0">
 			<tbody><tr height="20">
 				<!--td class="top_nav" width="126" onmouseover="menuSelect('Layer1','visible'); this.className='rollover_bkgd';" onmouseout="menuSelect('Layer1','hidden'); this.className='rollout_bkgd';"><a href="#">About Us</a><br /-->
-				<td width="126" onmouseover="menuSelect('Layer1','visible');" onmouseout="menuSelect('Layer1','hidden');"><a href="pages.php?id=33&amp;submitted=1"><img src="images/btn_about_us.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer1','visible');" onmouseout="menuSelect('Layer1','hidden');"><a href="/index.php?page=display&amp;id=33"><img src="images/btn_about_us.jpg" width="126" height="20" border="0"></a><br>
 					<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer1' style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 1) + "px;' onMouseover=\"menuSelect('Layer1','visible');\" onMouseout=\"menuSelect('Layer1','hidden');\">");
@@ -401,47 +437,52 @@ font.bubble
 					</script><div align="left" id="Layer1" style="visibility : hidden; position: absolute; top: 213px; left: 293px;" onmouseover="menuSelect('Layer1','visible');" onmouseout="menuSelect('Layer1','hidden');">
 					<table class="overlay" cellspacing="0" cellpadding="0">
 						<tbody><tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=32&amp;submitted=1">Chair's Message</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=32">Chair's Message</a></td>
+
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=12&amp;submitted=1">What We Stand For</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=12">What We Stand For</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=20&amp;submitted=1">Party Structure</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=20">Party Structure</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?submitted=1&amp;id=137">Platform, Bylaws, Resolutions, etc.</a></td>
+
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=137">Platform, Bylaws, Resolutions, etc.</a></td>
 						</tr>
 						<!--tr>
-							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=21&submitted=1">Campaign 2006</a></td>
+							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&id=21">Campaign 2006</a></td>
 						</tr-->
 						<!--tr>
 							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="candidates.php">2006 Candidates</a></td-->
 						
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="lvp.php">Latino Vote Project</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=195">Latino Vote Project</a></td>
 						</tr>
+
 						<!--tr>
-							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?submitted=1&id=113">Native Vote Project</a></td>
+							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&id=113">Native Vote Project</a></td>
 						</tr-->
 						<tr>
 							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="election2006.php">Elected Officials</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="http://www.wa-democrats.org/pages.php?submitted=1&amp;id=181">Road to the White House</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=181">Road to the White House</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=22&amp;submitted=1">Links</a></td>
+
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=22">Links</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=23&amp;submitted=1">Merchandise</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=23">Merchandise</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="contact.php">Contact Us</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=contact">Contact Us</a></td>
+
 						</tr>
 					</tbody></table></div>
 				</td>
-				<td width="126" onmouseover="menuSelect('Layer2','visible');" onmouseout="menuSelect('Layer2','hidden');"><a href="press.php"><img src="images/btn_press_room.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer2','visible');" onmouseout="menuSelect('Layer2','hidden');"><a href="/index.php?page=pressrelease"><img src="images/btn_press_room.jpg" width="126" height="20" border="0"></a><br>
 					<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer2' style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 127) + "px;' onMouseover=\"menuSelect('Layer2','visible');\" onMouseout=\"menuSelect('Layer2','hidden');\">");
@@ -451,20 +492,22 @@ font.bubble
 					</script><div align="left" id="Layer2" style="visibility : hidden; position: absolute; top: 213px; left: 419px;" onmouseover="menuSelect('Layer2','visible');" onmouseout="menuSelect('Layer2','hidden');">
 					<table class="overlay" cellspacing="0" cellpadding="0">
 						<tbody><tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="press.php">Press Releases</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=pressrelease">Press Releases</a></td>
+
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="news.php">News Articles</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="index.php?page=news">News Articles</a></td>
 						</tr>
 						<!--tr>
 							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="website_articles.php">Website Articles</a></td>
 						</tr-->
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=31&amp;submitted=1">Multimedia</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=31">Multimedia</a></td>
 						</tr>
+
 					</tbody></table></div>
 				</td>
-				<td width="126" onmouseover="menuSelect('Layer3','visible');" onmouseout="menuSelect('Layer3','hidden');"><a href="pages.php?id=50&amp;submitted=1"><img src="images/btn_get_local.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer3','visible');" onmouseout="menuSelect('Layer3','hidden');"><a href="/index.php?page=display&amp;id=50"><img src="images/btn_get_local.jpg" width="126" height="20" border="0"></a><br>
 					<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer3' style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 254) + "px;' onMouseover=\"menuSelect('Layer3','visible');\" onMouseout=\"menuSelect('Layer3','hidden');\">");
@@ -476,12 +519,13 @@ font.bubble
 						<tbody><tr>
 							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="get_local_county.php">County</a></td>
 						</tr>
+
 						<tr>
 							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="get_local_leg.php">Legislative District</a></td>
 						</tr>
 					</tbody></table></div>
 				</td>
-				<td width="126" onmouseover="menuSelect('Layer4','visible');" onmouseout="menuSelect('Layer4','hidden');"><a href="calendar.php"><img src="images/btn_calendars.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer4','visible');" onmouseout="menuSelect('Layer4','hidden');"><a href="index.php?page=events"><img src="images/btn_calendars.jpg" width="126" height="20" border="0"></a><br>
 				<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer4' style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 379) + "px;' onMouseover=\"menuSelect('Layer4','visible');\" onMouseout=\"menuSelect('Layer4','hidden');\">");
@@ -490,16 +534,17 @@ font.bubble
 					}
 					</script><div align="left" id="Layer4" style="visibility : hidden; position: absolute; top: 213px; left: 671px;" onmouseover="menuSelect('Layer4','visible');" onmouseout="menuSelect('Layer4','hidden');">
 					<table class="overlay" cellspacing="0" cellpadding="0">
+
 						<tbody><tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="calendar.php">Event Calendar</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="index.php?page=events">Event Calendar</a></td>
 						</tr>
 						
 						<!--tr>
-							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=34&submitted=1">Election Calendar</a></td>
+							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&id=34">Election Calendar</a></td>
 						</tr-->
 					</tbody></table></div>
 				</td>
-				<td width="126" onmouseover="menuSelect('Layer5','visible');" onmouseout="menuSelect('Layer5','hidden');"><a href="https://secure.wa-democrats.org/contribute.php"><img src="images/btn_contribute.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer5','visible');" onmouseout="menuSelect('Layer5','hidden');"><a href="https://secure.blueutopia.com/wadems/main/contribute/"><img src="images/btn_contribute.jpg" width="126" height="20" border="0"></a><br>
 					<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer5' style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 506) + "px;' onMouseover=\"menuSelect('Layer5','visible');\" onMouseout=\"menuSelect('Layer5','hidden');\">");
@@ -507,30 +552,29 @@ font.bubble
 					 document.write("<div align='left' id='Layer5' style='visibility : hidden; position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 506) + "px;' onMouseover=\"menuSelect('Layer5','visible');\" onMouseout=\"menuSelect('Layer5','hidden');\">");
 					}
 					</script><div align="left" id="Layer5" style="visibility : hidden; position: absolute; top: 213px; left: 798px;" onmouseover="menuSelect('Layer5','visible');" onmouseout="menuSelect('Layer5','hidden');">
+
 					<table class="overlay" cellspacing="0" cellpadding="0">
 						
 						<tbody><tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="contribute.php">Make a Contribution</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="https://secure.blueutopia.com/wadems/main/contribute/">Make a Contribution</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="DVC.php">Join the Democratic<br> Victory Circle</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="https://secure.blueutopia.com/wadems/dvc/contribute/">Join the Democratic<br> Victory Circle</a></td>
 						</tr>
 
-						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="contributeLVP.php">Contribute to the Latino Vote Project</a></td>
-						</tr>
+						<!-- tr>
+							<td class='overlay_links' onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="https://secure.blueutopia.com/wadems/lvp/contribute/">Contribute to the Latino Vote Project</a></td>
+						</tr -->
 
-						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="JoshBrown.php">Josh Brown Legal Defense Fund</a></td>
-						</tr>
 						
 					</tbody></table></div></td>
+
 				
 				
 
 
 
-				<td width="126" onmouseover="menuSelect('Layer6','visible');" onmouseout="menuSelect('Layer6','hidden');"><a href="pages.php?id=38&amp;submitted=1"><img src="images/btn_action_center.jpg" width="126" height="20" border="0"></a><br>
+				<td width="126" onmouseover="menuSelect('Layer6','visible');" onmouseout="menuSelect('Layer6','hidden');"><a href="/index.php?page=display&amp;id=38"><img src="images/btn_action_center.jpg" width="126" height="20" border="0"></a><br>
 					<script language="JavaScript">
 					if (NS4){
 					 document.write("<div align='left' id='Layer6' width: 150px; height: 204px; style='visibility : hide;  position: absolute; top: " + findPosY('anchor') + "px; left: " + (findPosX('anchor') + 634) + "px;' onMouseover=\"menuSelect('Layer6','visible');\" onMouseout=\"menuSelect('Layer6','hidden');\">");
@@ -541,30 +585,37 @@ font.bubble
 					<table class="overlay" cellspacing="0" cellpadding="0">
 						
 						<tbody><tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="contribute.php">Contribute</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="https://secure.blueutopia.com/wadems/main/contribute/">Contribute</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="signup.php?volunteer=1">Volunteer</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=email">Volunteer</a></td>
+
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?submitted=1&amp;id=160">Sign Up for E-mail</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=160">Sign Up for E-mail</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="pages.php?id=50&amp;submitted=1">Get Involved Locally</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=50">Get Involved Locally</a></td>
 						</tr>
 						<tr>
+
 							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="lte.php">Write a Letter to the Editor</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="http://www.wa-democrats.org/pages.php?id=73&amp;submitted=1">Become an Intern</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="election2006.php">Contact Elected Officials</a></td>
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="http://www.wa-democrats.org/pages.php?submitted=1&amp;id=70">Become a PCO</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=73">Become an Intern</a></td>
+
 						</tr>
 						<tr>
-							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="tellafriend.php">Tell a Friend</a></td>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="/index.php?page=display&amp;id=70">Become a PCO</a></td>
+						</tr>
+						<tr>
+							<td class="overlay_links" onmouseover="linkOver(this);" onmouseout="linkOut(this)"><a href="index.php?page=forward&amp;fwd=intro">Tell a Friend</a></td>
 						</tr>
 					</tbody></table></div></td>
+
 			</tr>
 		</tbody></table>
 		<table width="760" cellspacing="0" cellpadding="0" border="0" style="background-color:#ffffff;">
@@ -574,19 +625,16 @@ font.bubble
 			<tr>
 				<td colspan="3" style="background-color: #82151B;"><img src="images/spacer.gif" width="1" height="10"></td>
 			</tr>
+
 			<tr>
 				<td colspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
 			</tr>
 			<tr>
-				<td valign="top">
-				<!-- Main/center content table -->
-				<table class="maincontent" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td valign="top" style="padding: 15px;">
-	<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td>
-			<p><span class="heading">Privacy Policy</span><br>The Washington State Democrats are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.
+				<td valign="top" width="100%">
+				<!-- end header -->
+<div class="txt_md" style="padding:16px;">
+<h1>Privacy Policy</h1>
+<p><span class="heading">Privacy Policy</span><br>The Washington State Democrats are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.
 			The Washington State Democrats are continually trying to expand online activism and to give citizens the information they need in a timely manner. As a result, we may periodically ask you to provide information such as your name, address, phone number and email address in an effort to enhance our ability to work with you as an online activist. If you choose not to give us any information, we may not be able to provide you with timely information regarding events and issues important to you as a politically interested and active citizen.
 			Our site links to a limited number of other websites. The Washington State Democrats are not responsible for the content or the privacy policies of these websites.
 			This privacy policy may be amended by the Washington State Democrats at any time with no other notice than posting of such amendments on this site.</p><br>
@@ -610,108 +658,85 @@ font.bubble
 			<p><b>You can also reach us via US Mail at:</b><br>
 			Washington State Democrats<br>
 			P.O. Box 4027<br>
-			Seattle, WA 98194<br>
-			(206) 583-0664</p>
-			</td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
 
-				</tbody></table>
-				</td>
+			Seattle, WA 98194<br>
+			(206) 583-0664</p></div><br><br clear="both"><table align="right" style="padding: 20px;"><tbody><tr><td valign="center"><hr style="color: #fff; background-color: #fff; border: 1px
+             dotted #888888; border-style: none none dotted; padding-bottom:0px; margin-bottom: 0px;"><a class="tinylink" href="/index.php?page=newsletters"><img align="center" src="/modules/pagetools/newsletters.gif" border="0"> Newsletters</a>  &nbsp; <a class="tinylink" href="javascript:print()"><img align="center" src="/modules/pagetools/printicon.gif" border="0"> Print</a> &nbsp; <a class="tinylink" href="/index.php?page=forward&amp;fwd=display&amp;id=2"><img align="center" src="/modules/pagetools/emailicon.gif" border="0"> Share this page</a></td></tr></tbody></table>
+
+</td>
 				<td style="background-image:url(images/rightnav_border.gif);"><img src="include/shared/spacer.gif" width="4" height="1"></td>
 				<td valign="top" style="background-color: #335581;" height="600">
-				<!-- Right hand content table -->
-				<table class="rightnav" cellspacing="0" cellpadding="0" border="0">
-					<tbody><tr>
-						<td align="center"><br>
-						<a href="https://secure.wa-democrats.org/contribute.php" onmousedown="chgNav('contribute','contributeDown');" onmouseup="chgNav('contribute','contributeUp');"><img src="images/contribute_up.gif" width="200" height="50" alt="contribute" name="contribute" border="0"></a></td>
-					</tr>
-					<tr>
-						<td align="center">
-						<a href="http://www.wa-democrats.org/pages.php?submitted=1&amp;id=52" onmousedown="chgNav('action','actionDown');" onmouseup="chgNav('action','actionUp');">
-						
-						<img src="images/action_up.gif" width="200" alt="action" name="action" border="0"></a></td>
-					</tr>
 
-					<tr>
-						<td align="center">
-						<a href="http://www.wa-democrats.org/pages.php?submitted=1&amp;id=170" onmousedown="chgNav('event','eventDown');" onmouseup="chgNav('event','eventUp');">
-						
-						<img src="images/event_up.jpg" width="200" alt="event" name="event" border="0"></a></td>
-					</tr>
-				
-					<tr>
-						<td style="padding-left:24px;"><br>
-							<span class="leftnav_title" style="line-height:.5;">SIGN UP FOR OUR LIST<br><br>
-							<form action="signup.php" method="post" onsubmit="return validate(this) &amp;&amp; required(this, 'info[email_address], info[zip_code]');">
-								<table>
-									<tbody><tr>
-										<td><p class="sidenav_title">E-mail:</p></td>
-										<td><input type="text" size="14" name="info[email_address]" id="info[email_address]"></td>
-									</tr>
-									<tr>
-										<td><p class="sidenav_title">Zip code:</p></td>
-										<td><input type="text" size="14" maxlength="5" name="info[zip_code]" id="info[zip_code]"></td>
-									</tr>
-									<tr><td></td><td align="right" style="padding-top: 5px;"><input type="image" src="images/btn_go.gif" width="33" height="20"></td></tr>
-								</tbody></table>
-								<input type="hidden" name="email" value="1"><br>
-								<p></p>
-							</form>
-						<!--/td>
-					</tr>
+				<!-- Right hand content table -->
+				<div class="messageBox"><table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td align="middle"><br>
+<a href="https://secure.blueutopia.com/wadems/main/contribute/">
+<img src="images/contribute_up.gif" width="200" height="50" border="0">
+</a>
+</td></tr>
+
+
+</tbody></table>
+</div><div class="messageBox"><a href="http://www.wa-democrats.org/index.php?page=display&amp;id=38"><img height="50" src="http://www.wa-democrats.org/images/action_up.gif" width="200" border="0"></a> </div><div class="messageBox"><br><br><table class="rightnav" cellspacing="0" cellpadding="0" border="0">
 					
-					<tr>
-						<td >
-							 <!-- Search Google -->
-							 <span class="leftnav_title" style="line-height:.3;">SEARCH OUR SITE<br><br><br>
-								<form method="GET" action="http://www.google.com/custom" target="_blank">
+					<tbody><tr>
+						<td style="padding-left:24px;">
+							 <!-- Search Pane -->
+							 <span class="leftnav_title" style="line-height:.75;">SEARCH OUR SITE<br><br>
+								<form method="POST" action="/index.php?page=search">
+
 								<table cellspacing="0" border="0">
 									<tbody><tr><td>
-										<input type="text" name="q" size="25" maxlength="255" value=""></td></tr><tr><td>
+
+										<input type="text" name="searchterm" size="25" maxlength="255" value=""></td></tr><tr><td>
 										</td></tr><tr><td align="right"><input type="image" src="images/btn_go.gif" width="33" height="20"></td></tr>
-										<tr><td><input type="hidden" name="cof" value="GL:0;AH:left;LH:80;L:http://www.wa-democrats.org/images/banner.jpg;LW:380;AWFID:e9eeac7205715941;"></td></tr>
-										<tr><td><input type="hidden" name="domains" value="www.wa-democrats.org"></td></tr>
-										<tr><td><input type="hidden" name="sitesearch" value="www.wa-democrats.org"></td></tr> 
 								
 								</tbody></table>
 								</form>
-							<!-- Search Google --> 
-						</span></span></td>
+
+							<!-- Search Pane --> 
+						</span></td>
 					</tr>
-					
-					<tr>
-						<td style="padding-left:18px;padding-right:18px;">
-							<span class="title" style="color: #EEEEEE">FEATURED PAGES</span>
-							<ul style="list-style-type: none; PADDING-LEFT: 0px; margin-left:5px;">
-							
-							
+				</tbody></table>	</div><div class="messageBox"><table class="rightnav" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="PADDING-RIGHT: 18px; PADDING-LEFT: 18px"><span class="title" style="COLOR: #eeeeee">FEATURED PAGES</span> 
+<ul style="PADDING-LEFT: 0px; MARGIN-LEFT: 5px; LIST-STYLE-TYPE: none"><span class="sidepanel">
+<li><a href="http://www.wa-democrats.org/index.php?page=display&amp;id=197">2008 Delegate Selection and Affirmative Action Plan</a> <span class="sidepanel">
+</span></li><li><a href="http://www.wa-democrats.org/index.php?page=display&amp;id=181">Road to the White House<br>Campaign Contacts</a> </li></span></ul></td></tr></tbody></table></div><div class="messageBox"><table class="rightnav" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr>
 
-							<span class="sidepanel"><li><a href="http://www.wa-democrats.org/pages.php?submitted=1&amp;id=181">Road to the White House</a></li></span>
+						<td style="padding-left:24px;"><br>
+							<span class="leftnav_title" style="line-height:.5;">SIGN UP FOR OUR LIST<br><br>
+							<form action="index.php?page=email" method="post" onsubmit="return validate(this) &amp;&amp; 
+required(this, 'info[email_address], info[zip_code]');">
+			<input type="hidden" name="regquick" value="true">
+								<table>
 
-							
+									<tbody><tr>
+										<td><p class="sidenav_title">E-mail:</p></td>
 
-							
+										<td><input type="text" size="14" name="email"></td>
+									</tr>
+									<tr>
+										<td><p class="sidenav_title">Zip code:</p></td>
+										<td><input type="text" size="14" maxlength="5" name="zipcode"></td>
+									</tr>
 
-	</ul>
-						</td>
+									<tr><td></td><td align="right" style="padding-top: 5px;"><input type="image" src="images/btn_go.gif" width="33" height="20"></td></tr>
+								</tbody></table>
+
+								<br>
+								<p></p>
+							</form>
+						</span></td>
 					</tr>
-					
-					<!--tr>
-						<td align="center">
-						<a href="http://www.addtoany.com/?sitename=Washington%20State%20Democrats&amp;siteurl=http%3A//www.wa-democrats.org/index.php&amp;linkname=Washington%20State%20Democrats%20Press%20Release&amp;linkurl=http%3A//feeds.feedburner.com/WashingtonStateDemocratsPressRelease&amp;type=feed"><img src="images/Feed-icon.png"  width="50"  border="0" title="Subscribe to RSS for Press Release!" alt="Add to any service"/></a></td>
-					</tr>
-					<tr>
-						<td id="subscribe" align="center" class="sidepanel">Subscribe to our<br> RSS feed</td>
-					</tr-->
-
-					
-					
-
 				</tbody></table>
+</div>
 				</td>
+
 			</tr>
 			<tr>
 				<td colspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
@@ -721,15 +746,22 @@ font.bubble
 			</tr>
 			<tr>
 				<td colspan="3"><img src="images/spacer.gif" width="1" height="1"></td>
+
 			</tr>
 			<tr>
-				<td colspan="3" class="botnav" height="30"><a href="index.php">home</a> | <a href="contact.php">contact</a> | <a href="privacy_policy.php">privacy policy</a> | © 2006 Washington State Democrats | All Rights Reserved</td>
+				<td colspan="3" class="botnav" height="30"><a href="index.php">home</a> | <a href="index.php?page=contact">contact</a> | <a href="index.php?page=display&amp;id=2">privacy policy</a> | © 2007 Washington State Democrats | All Rights 
+Reserved | 
+<a href="http://blueutopia.com/">Powered by Blue Utopia</a>
+
+</td>
+
 			</tr>
 			<tr>
 				<td colspan="3" align="center" style="padding-bottom:10px;">
 				<table cellpadding="0" cellspacing="0" class="paidfor">
 					<tbody><tr>
 						<td class="botnav" style="padding:3px;">Paid for by the Washington State Democrats<br>PO Box 4027, Seattle, WA 98194, (206) 583-0664<br>Chairman Dwight Pelz, <a href="http://www.wa-democrats.org" target="_blank">http://www.wa-democrats.org</a><br>Not authorized by any candidate or candidate's committee</td>
+
 					</tr>
 				</tbody></table>
 				</td>
@@ -739,6 +771,8 @@ font.bubble
 	</tr>
 </tbody></table>
 </div>
+
+
 
 
 </body></html>
