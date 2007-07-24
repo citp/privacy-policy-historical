@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2007-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070216043652id_/http%3A//www.wa-democrats.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724094949id_/http%3A//wa-democrats.org/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
 
-# Washington State Democratic Party
+# Washington State Democrats - Privacy Policy
 
 Privacy Policy  
 The Washington State Democrats are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide. The Washington State Democrats are continually trying to expand online activism and to give citizens the information they need in a timely manner. As a result, we may periodically ask you to provide information such as your name, address, phone number and email address in an effort to enhance our ability to work with you as an online activist. If you choose not to give us any information, we may not be able to provide you with timely information regarding events and issues important to you as a politically interested and active citizen. Our site links to a limited number of other websites. The Washington State Democrats are not responsible for the content or the privacy policies of these websites. This privacy policy may be amended by the Washington State Democrats at any time with no other notice than posting of such amendments on this site.
@@ -26,3 +26,7 @@ Washington State Democrats
 P.O. Box 4027  
 Seattle, WA 98194  
 (206) 583-0664
+
+|  | 
+
+[](http://www.wa-democrats.org/index.php?page=display&id=38)
