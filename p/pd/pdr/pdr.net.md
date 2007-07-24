@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421145558id_/https%3A//www.thomsonhc.com/register/librarian/PFActionId/pf.ShowPage/PageId/register.PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724085617id_/https%3A//www.thomsonhc.com/register/librarian/PFActionId/pf.ShowPage/PageId/register.PrivacyStatement) for the most accurate reproduction.*
 
 # Thomson Healthcare: Privacy Policy Statement
 
-This privacy statement is designed to tell you how Thomson Healthcare uses and secures your personal information. This privacy statement describes the practices of the Thomson Healthcare Community, which is presently offered by the following Thomson Healthcare companies: Thomson Micromedex, Thomson PDR, Thomson Physicians World, and Thomson Professional Postgraduate Services. As described below, this privacy statement relates solely to the online and offline information collection and use practices of the Thomson Healthcare Community. 
+This privacy statement is designed to tell you how Thomson Healthcare uses and secures your personal information. This privacy statement describes the practices of the Thomson Healthcare Community, which is presently offered by the following Thomson Healthcare companies: Thomson Micromedex and Thomson PDR. As described below, this privacy statement relates solely to the online and offline information collection and use practices of the Thomson Healthcare Community. 
 
 **Information that We Collect**
 
 In general, you may browse online many parts of the Thomson Healthcare Community without providing any personal information. The information we collect from web site visitors is collected on an aggregate basis as you and others browse our web sites, and is not used to identify you in any way. 
 
-If you want to interact with Thomson Healthcare and take advantage of the materials available from Thomson Healthcare to qualified professionals (such as free CME opportunities or the PDR), you may register with Thomson Healthcare and join the Thomson Healthcare Community. You may register online at any of our web sites or offline, by providing us with personal information via phone, facsimile or mail. Registration is completely voluntary and free. When you join the Thomson Healthcare Community, we collect: 
+If you want to interact with Thomson Healthcare and take advantage of the materials available from Thomson Healthcare to qualified professionals (such as the PDR), you may register with Thomson Healthcare and join the Thomson Healthcare Community. You may register online at any of our web sites or offline, by providing us with personal information via phone, facsimile or mail. Registration is completely voluntary and free. When you join the Thomson Healthcare Community, we collect: 
 
 * contact information (such as name, office address, office phone and fax numbers, and email address), and 
 * other personal information (such as information about your professional background, licensure, practice and areas of specialization as well as any other personal information that you choose to provide us.) 
