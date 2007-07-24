@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324163227id_/http%3A//www.proactiveinvestors.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2007-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070724084204id_/http%3A//www.proactiveinvestors.com/privacy.asp) for the most accurate reproduction.*
 
 # ProActive: Privacy
 
@@ -16,7 +16,7 @@ The Company collects, records, retains and uses your personal information only f
 
 To Third Parties:
 
-**We do not disclose, sell, or rent your personal information to third parties. However, we do aggregate certain user data to create profiles of “typical” users, which aggregate data may be disclosed to applicable third parties. We will also disclose information when required to do so by law or in response to a request from a law enforcement agency or authority.
+** We may disclose, sell, or rent your personal information to third parties. We do aggregrate certain user data to create profiles of "typical" users, which aggregate data may be disclosed to applicable third parties. We will disclose information when required to do so by law or in response to a request from a law enforcement agency or authority.
 
 **To Others in Your Own Organization:**  
 If you use any of our services through your employer, then we may pass certain information to your employer regarding your use of such services where your employer has a legitimate reason to receive such information, as determined by us in our sole discretion. Similarly, if you are the point contact person in your organization for a service, we may pass your contact details to those in your organization for this purpose.
