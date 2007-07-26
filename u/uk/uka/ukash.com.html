@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ukash.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429164409id_/http%3A//www.ukash.com/gb-en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukash.com privacy policy that was archived on 2007-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070726192300id_/http%3A//www.ukash.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -61,10 +61,32 @@ Web: http://www.pod1.com
               
          }
          
-         window.onload = function() 
+         
+         function AddLoadEvent(Func)
+         {
+         	var OldOnload = window.onload;
+         	if (typeof window.onload != 'function')
+         	{
+         		window.onload = Func;
+         	}
+         	else
+         	{
+         		window.onload = function()
+         		{
+         			if (OldOnload)
+         			{
+         				OldOnload();
+         			}
+         			Func();
+         		}
+         	}
+         }
+         
+         AddLoadEvent(function()
          {
             CollapsePoll();
-         }
+         
+         });
       //-->
       </script>
 </head>
@@ -74,16 +96,21 @@ Web: http://www.pod1.com
 
 <div id="wrapper">
 <div id="header">
-	<a href="/gb-en" class="logo" title="Ukash Online Voucher Payment System"><img src="/images/ukash_logo.gif" alt="Home"></a>
+	<a href="/" class="logo" title="Ukash Online Voucher Payment System"><img src="/images/ukash_logo.gif" alt="Home"></a>
 
 
 	<ul id="topnav">
-		<li class="start"><a href="/gb-en" title="Ukash home" accesskey="h">Home</a></li>
-		<li><a href="/gb-en/about-us-1" title="About Ukash" accesskey="u">About Us</a></li>
-		<li><a href="/gb-en/faqs" title="Ukash Frequently Asked Questions" accesskey="q">FAQs</a></li>
-		<li><a href="/gb-en/news" title="Ukash News" accesskey="w">News</a></li>
+		<li class="start"><a href="/" title="Ukash home" accesskey="h">Home</a></li>
+		<li><a href="/about-us-1" title="About Ukash" accesskey="u">About Us</a></li>
+		<li><a href="/faqs" title="Ukash Frequently Asked Questions" accesskey="q">FAQs</a></li>
+		<li><a href="/news" title="Ukash News" accesskey="w">News</a></li>
 		<li class="end">
-			<a href="/gb-en/contact" onclick="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" onkeypress="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" title="Contact Ukash" accesskey="c">Contact Us</a></li>
+			
+				<a href="/contact-us">Contact Us</a>
+			
+				
+				
+				</li>
 		<li class="change_country" title="Change country via the drop down menu below">Change Country</li>
 				
 	</ul>
@@ -115,8 +142,8 @@ Web: http://www.pod1.com
 	</select>
 
 	<ul id="tabs">
-		<li class="personal"><a href="/gb-en/personal" title="Customer area of Ukash site" accesskey="p"><span>Personal</span></a></li>
-		<li class="merchants"><a href="/gb-en/merchants" title="Merchant area for Ukash" accesskey="m"><span>Merchants</span></a></li>
+		<li class="personal"><a href="/personal" title="Customer area of Ukash site" accesskey="p"><span>Personal</span></a></li>
+		<li class="merchants"><a href="/merchants" title="Merchant area for Ukash" accesskey="m"><span>Merchants</span></a></li>
 	</ul>
 
 </div>
@@ -125,8 +152,8 @@ Web: http://www.pod1.com
 </div>
 <div id="header_nav_dark">
 	<ul>
-	<li><a href="/gb-en">ukash</a></li>
-<li><span> &gt; </span><a href="/gb-en/privacy-policy">privacy policy</a></li></ul></div>
+	<li><a href="/">ukash</a></li>
+<li><span> &gt; </span><a href="/privacy-policy" title="privacy policy">privacy policy</a></li></ul></div>
 <div id="middle"><!--
 
 <ul id="content_left">
@@ -153,7 +180,7 @@ Web: http://www.pod1.com
 <!--
 
 --><div id="content_center">
-	
+
 
 
 <h2>Privacy Policy</h2>
@@ -221,11 +248,11 @@ We reserve the right to change this policy at any time by posting a revised priv
 <div id="content_right">
 	<ul id="right_nav">
 		<li class="header"><span><strong>Ukash</strong> tools</span></li>
-		<li><a href="https://direct.ukash.com/en/tools/consolidation/logic/consolidation.aspx" onclick="return !window.open(this.href);" onkeypress="return !window.open(this.href);" title="Combine your Ukash">Combine your Ukash</a></li><li class="end"><a href="https://direct.ukash.com/en/tools/splitting/(f41v4355a0vzbl55whyfqpje)/logic/step1.aspx" onclick="return !window.open(this.href);" onkeypress="return !window.open(this.href);" title="Split your Ukash">Split your Ukash</a></li><li class="footer"><a class="active" href="/gb-en/ukash/where-to-spend-ukash/get-ukash-worldwide" title="Find Ukash">Find Ukash</a></li>	</ul>
+		<li><a href="https://direct.ukash.com/en/tools/consolidation/logic/consolidation.aspx" onclick="return !window.open(this.href);" onkeypress="return !window.open(this.href);" title="Combine your Ukash">Combine your Ukash</a></li><li><a href="https://direct.ukash.com/en/tools/splitting/(f41v4355a0vzbl55whyfqpje)/logic/step1.aspx" onclick="return !window.open(this.href);" onkeypress="return !window.open(this.href);" title="Split your Ukash">Split your Ukash</a></li><li><a href="https://direct.ukash.com/en/tools/currencyconverter/logic/step1.aspx" onclick="return !window.open(this.href);" onkeypress="return !window.open(this.href);" title="Convert your Ukash">Convert your Ukash</a></li><li><a href="/protect-your-ukash" title="Protect your Ukash">Protect your Ukash</a></li><li><a href="https://online.ukash.com/ukash_ui/index.do?rbc=gb" title="Get your Ukash" target="blank">Get your Ukash</a></li><li class="end"><a href="/" title=""></a></li><li class="footer"><a class="active" href="/ukash/where-to-spend-ukash/get-ukash-worldwide" title="Find Ukash">Find Ukash</a></li>	</ul>
 	<ul id="register_today">
 		<li class="header">
-			<a href="/gb-en/sign-up" onclick="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" onkeypress="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" title="Sign Up"><span>Sign Up</span></a></li>
-		<li class="footer"><span>Sign up here for Ukash updates.</span></li>
+			<a href="/sign-up" onclick="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" onkeypress="return FormPopup(this.href, null,'580','417','scrollbars=yes,resizable=no,status=no,toolbar=no,menubar=no,location=no')" title="Sign Up"><span>Sign Up</span></a></li>
+		<li class="footer"><span>Sign up here for Ukash updates and offers.</span></li>
 	</ul>
 			<ul id="quick_poll">
 			<li><a href="javascript:void(null)" onclick="TogglePoll()" onkeypress="TogglePoll()" title="Quick Poll"><span>Quick Poll</span></a></li>
@@ -274,10 +301,10 @@ We reserve the right to change this policy at any time by posting a revised priv
 		</div>
 		<div class="right">
 			<ul>
-				<li class="start"><a href="/gb-en/privacy-policy" title="Ukash Privacy Policy" accesskey="i">Privacy Policy</a></li>
-				<li><a href="/gb-en/accessibility" title="Ukash Accessibility" accesskey="a">Accessibility</a></li>
-				<li><a href="/gb-en/sitemap" title="Ukash Sitemap" accesskey="m">Sitemap</a></li>
-				<li class="end"><a href="/gb-en/terms-and-conditions" title="Ukash Terms &amp; Conditions" accesskey="t">Terms &amp; Conditions</a></li>
+				<li class="start"><a href="/privacy-policy" title="Ukash Privacy Policy" accesskey="i">Privacy Policy</a></li>
+				<li><a href="/accessibility" title="Ukash Accessibility" accesskey="a">Accessibility</a></li>
+				<li><a href="/sitemap" title="Ukash Sitemap" accesskey="m">Sitemap</a></li>
+				<li class="end"><a href="/terms-and-conditions" title="Ukash Terms &amp; Conditions" accesskey="t">Terms &amp; Conditions</a></li>
 			</ul>
 		</div>
 		<p>Smart Voucher Ltd. (of which Ukash is a trading name) is authorised and regulated by the Financial Services Authority in the United Kingdom as an electronic money institution. Smart Voucher Ltd (trading as Ukash) FSA Register Number: 447811.</p>
