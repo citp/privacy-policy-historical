@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016173407id_/http%3A//www.convergys.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726164124id_/http%3A//www.convergys.com/legal.html) for the most accurate reproduction.*
 
 # Convergys - Privacy & Legal Disclaimer Document
 
@@ -11,7 +11,7 @@ This policy applies to all information submitted on this Web site. In general, y
 We, or one of our business partners, may from time to time also ask for other personal information via the Internet. We may use this information to correspond with you to process an order or to provide you with a subscription to an online newsletter, for example. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Users may choose to opt-out of receiving future e-mail or mailings by following the unsubscribe procedures below.
 
 **The Way We Use Information**  
-Convergys.com provides you with the opportunity to register on the site through our [Request for Information form](https://web.archive.org/web/20061016173407id_/http%3A//www.convergys.com/request.html). When you register with our Web site, you can elect to receive information and updates on our products and services.
+Convergys.com provides you with the opportunity to register on the site through our [Request for Information form](https://web.archive.org/web/20070726164124id_/http%3A//www.convergys.com/request.html). When you register with our Web site, you can elect to receive information and updates on our products and services.
 
 We use return e-mail addresses to answer the e-mail that we receive, and we may use return e-mail to send you other information.
 
@@ -22,7 +22,7 @@ Occasionally, you may have the opportunity to forward pages or information on ou
 **Convergys Unsubscribe Policy  
 **By registering on the Convergys Web site, visitors allow Convergys to use their personal identifiable information in accordance with the terms of Convergys’ privacy policy and legal statement. 
 
-Convergys provides site visitors with the opportunity to opt-out of receiving updates on Convergys products and services, newsletters and other promotional materials. You may choose not to be contacted in the future if you do not wish to receive any information with respect to Convergys and our products and services. Visitors may unsubscribe at any time, by sending an e-mail to[ marketing@convergys.com ](mailto:marketing@convergys.com)or by calling 1-800-344-3000 and stating the request. Convergys' mailing address may be found on our [Contact Us Web page](https://web.archive.org/web/20061016173407id_/http%3A//www.convergys.com/contact.html). Visitors should provide Convergys with their name, address, other relevant information (e.g., phone number, e-mail address) and the name of the programs from which they wish to be removed.
+Convergys provides site visitors with the opportunity to opt-out of receiving updates on Convergys products and services, newsletters and other promotional materials. You may choose not to be contacted in the future if you do not wish to receive any information with respect to Convergys and our products and services. Visitors may unsubscribe at any time, by sending an e-mail to[ marketing@convergys.com ](mailto:marketing@convergys.com)or by calling 1-800-344-3000 and stating the request. Convergys' mailing address may be found on our [Contact Us Web page](https://web.archive.org/web/20070726164124id_/http%3A//www.convergys.com/contact.html). Visitors should provide Convergys with their name, address, other relevant information (e.g., phone number, e-mail address) and the name of the programs from which they wish to be removed.
 
 Convergys will use reasonable efforts to honor opt-out requests as soon as possible. If after a reasonable time a visitor is still receiving e-mail from Convergys, the visitor should contact [webmaster@convergys.com](mailto:webmaster@convergys.com).  
 
@@ -58,4 +58,4 @@ Some of the Materials may contain projections or other forward-looking statement
 **Copyright Policy**  
 Under US law, Convergys, the Convergys logo and Out _thinking_ Out _doing_ are service marks of Convergys, Atlys, Catalys, Infinys and the Wizard are registered trademarks, and Geneva is a trademark of Convergys Corporation. Convergys refers to Convergys Corporation and its wholly owned subsidiaries. All other trademarks and names are the property of their respective owners. The contents of the Convergys Web site are protected by applicable copyright laws. No permission is granted to copy, distribute, modify, post or frame any text, graphics, video, audio, software code, or user interface design or logos. ALL INFORMATION AND CONTENT ON OUR WEB SITE ARE SUBJECT TO APPLICABLE STATUTES AND REGULATIONS, FURNISHED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. 
 
-©2006 Convergys Corporation. All rights reserved.
+© 2007 Convergys Corporation. All rights reserved.
