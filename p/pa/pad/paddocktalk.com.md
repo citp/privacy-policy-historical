@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026122320id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726051639id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
 
-# PaddockTalk :: Two drivers, Two cars... Drop the flag...It's all good!
+# PaddockTalk :: F1, NASCAR, GP2, Champ Car, IndyCar, ALMS and More! If It Goes Fast...We're Talking About It!!
 
 What is a Privacy Policy? 
 
