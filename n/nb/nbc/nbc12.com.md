@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420050412id_/http%3A//www.nbc12.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726124512id_/http%3A//www.nbc12.com/privacy) for the most accurate reproduction.*
 
 # NBC12 | WWBT Privacy Policy
 
