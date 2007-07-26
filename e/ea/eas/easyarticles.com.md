@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202202659id_/http%3A//easyarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726210854id_/http%3A//www.easyarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Free articles and website content
+# Free Articles
 
 ## Privacy Policy
 
@@ -40,4 +40,4 @@ We reserve the right to modify this Privacy Policy in the future. Any changes to
 
 <http://www.easyarticles.com/privacy.php>
 
-Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20070202202659id_/http%3A//easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20070202202659id_/http%3A//easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20070202202659id_/http%3A//easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20070202202659id_/http%3A//easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
+Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20070726210854id_/http%3A//www.easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20070726210854id_/http%3A//www.easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20070726210854id_/http%3A//www.easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20070726210854id_/http%3A//www.easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
