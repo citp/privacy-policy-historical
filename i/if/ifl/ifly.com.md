@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218053352id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifly.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726100240id_/http%3A//www.ifly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# iFly.com: Privacy Policy
+
+Privacy
 
 This is the web site of IFly.com. Our postal address is 1006 S. Emerson St. Denver, Colorado 80209, USA. For each visitor to our Web page, our Web server recognizes no information regarding the domain or e-mail address. 
 
