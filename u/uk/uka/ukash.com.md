@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukash.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429164409id_/http%3A//www.ukash.com/gb-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukash.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726192300id_/http%3A//www.ukash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
