@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223030011id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727023336id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs4jobs.com
 
@@ -58,4 +58,4 @@ Jobs4jobs.com has an area on the site where you can submit feedback. Any feedbac
 
 If we decide to change our privacy commitment for Jobs4jobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Users will be notified of any changes to Jobs4jobs's privacy policy statement via our electronic mailings and a notice posting on our home page. If any changes apply to the use of personally identifiable information, we will notify the user by email.
 
-Last updated, 31 January 2005
+Last updated, 20 april 2007
