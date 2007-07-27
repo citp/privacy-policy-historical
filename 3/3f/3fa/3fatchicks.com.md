@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018091727id_/http%3A//www.3fatchicks.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727180518id_/http%3A//www.3fatchicks.com/Privacy_Policy) for the most accurate reproduction.*
 
 # 3 Fat Chicks on a Diet Official Website for Weight Loss Support - Privacy Policy
 
