@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306044550id_/http%3A//www.opengroup.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727161622id_/http%3A//www.opengroup.org/privacy.htm) for the most accurate reproduction.*
 
 # About The Open Group: Boundaryless Information Flow through interoperability
 
