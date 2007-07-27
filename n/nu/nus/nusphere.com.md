@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426140849id_/http%3A//www.nusphere.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nusphere.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727122629id_/http%3A//www.nusphere.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -29,12 +29,12 @@ NuSphere does:
 
   * Safeguard customers' information from unauthorized access. 
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customer's needs (e.g. customer care or new products or services). 
-  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](http://shop.nusphere.com/contact_us/index.php). 
+  * Honor customers' requests to remove their names from our telephone or mail solicitation lists in a timely manner. Just [Contact Us](http://shop.nusphere.com/contact_us/). 
   * Maintain confidentiality of customer information when undertaking projects with other companies. 
 
 
 
-NuSphere has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our Privacy Policy, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+NuSphere has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our Privacy Policy, please [Contact Us](http://shop.nusphere.com/contact_us/).
 
 __Information this Site Gathers/Tracks__
 
@@ -63,7 +63,7 @@ NuSphere's Web site logs Host Names (or IP addresses when the Host Name is not a
 
 Registration Forms
 
-We encourage all visitors to register with NuSphere.com, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers, and newsletters. To opt out of receiving communications from NuSphere, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+We encourage all visitors to register with NuSphere.com, although registration is not required, except for access to our premium content areas. The registration forms require users to give us accurate contact information (like name and email address) and references that help us better serve you. Your name and email address may be used to send you information about our company, product updates, special offers, and newsletters. To opt out of receiving communications from NuSphere, please [Contact Us](http://shop.nusphere.com/contact_us/).
 
 _Order Forms and Enrollment Forms_
 
@@ -89,15 +89,15 @@ The NuSphere Web sites contain links to other Web sites. Please be aware that ou
 
 Opt-out Policy and Procedure
 
-Our site provides users with the opportunity to opt-out of receiving communications from us and our Partners at the point where we request information about the visitor. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+Our site provides users with the opportunity to opt-out of receiving communications from us and our Partners at the point where we request information about the visitor. Additionally, visitors who wish to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](http://shop.nusphere.com/contact_us/).
 
 Correcting/Update Policy
 
-If you would like to correct and/or update your information, please [Contact Us](http://shop.nusphere.com/contact_us/index.php).
+If you would like to correct and/or update your information, please [Contact Us](http://shop.nusphere.com/contact_us/).
 
 Oversight
 
-If you have comments or questions about our privacy policy, please [Contact Us](http://shop.nusphere.com/contact_us/index.php). We will address any issue to the best of our abilities.
+If you have comments or questions about our privacy policy, please [Contact Us](http://shop.nusphere.com/contact_us/). We will address any issue to the best of our abilities.
 
 Changes to Policy
 
