@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814045429id_/http%3A//www.strengthsquest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2007-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070727075228id_/https%3A//www.strengthsquest.com/content/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# STRENGTHSQUEST: Privacy Policy
-
-**PRIVACY POLICY**
+# Privacy Statement
 
 Protection of personal privacy has always been a hallmark of The Gallup Organization. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its Web sites. Please read the following policy for further details as to the types of information collected through Gallup Web sites, including personal information, and how it is treated. 
 
