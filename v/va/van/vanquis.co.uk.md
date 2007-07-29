@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515001719id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729214720id_/http%3A//www.vanquis.co.uk/home/About_us/Privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
-**9 January 2006**
+**4  June 2006**
 
 This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0870 850 7755 before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions.
 
@@ -45,7 +45,7 @@ Back to top
 Direct marketing  
 
 
-We would like to provide you with information about products and services which we think you may find interesting. We may send you such information by mail or telephone unless you have registered with the appropriate Preference Service. When you provide us with information, you will be given the option to let us know that you do not want your information used for direct marketing purposes. If you request this option, we will not send you any direct marketing.
+We would like to provide you with information about products and services which we think you may find interesting. We may send you such information by post, email, telephone or mobile text and/or messaging service (SMS) unless you have registered with the appropriate Preference Service. When you provide us with information, you will be given the option to let us know that you do not want your information used for direct marketing purposes. If you request this option, we will not send you any direct marketing.
 
 You can change you mind at any time by contacting Vanquis card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
@@ -84,6 +84,8 @@ i) our agents, processors and sub contractors;
 ii) any of our approved suppliers;  
 iii) the police, if required by law; and/or  
 iv) any relevant regulatory authority, if required by law.
+
+We may contact you by post, email, telephone or mobile text and/or messaging service (SMS) about products or services relating to your account or application.
 
 Back to top
 
