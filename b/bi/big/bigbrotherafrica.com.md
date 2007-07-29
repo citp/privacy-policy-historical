@@ -1,47 +1,15 @@
-> *The following text is extracted and transformed from the bigbrotherafrica.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011203741id_/http%3A//bigbrotherafrica.com/Privacy_Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrotherafrica.com privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729165419id_/http%3A//www.bigbrotherafrica.com/templates/elements/almondnet.html) for the most accurate reproduction.*
 
-# Big Brother Africa
+# Our Use of Your Information
 
-**M-Net (Pty) Limited**
+In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
 
-**Privacy Policy**
+We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
 
-This site is owned by M-Net (Pty) Limited. This privacy policy is designed to tell you about our practices regarding collection, use, and disclosure of information you may provide via this site. 
+We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to application of our Privacy Policy. 
+Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
 
-**Your Consent**  
-By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
 
-**About Children**  
-This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about the use of the Internet and information they disclose to Web sites. 
-
-**Active Information Collected**  
-Like many sites, this site actively collects information from its visitors by asking you specific questions and by permitting you to communicate directly with us via e-mail, feedback forms, and/or chat rooms. Some of the information that you submit may be personably identifiable information (that is, information that can be uniquely identified as you, such as your full name, e-mail address, phone number and so on). 
-
-Some areas of this site may require you to submit information in order for you to benefit from specified features (such as newsletter subscriptions, online voting, forum interaction) or to participate in a particular activity (such as competitions or other promotions). You will be informed at each information point what information is required and what information is optional. 
-
-**Passive Information Collected**  
-As you navigate through a Web site, certain information can be passively collected (that is, garnered without you actively providing the information) using various technologies and means, such as navigational data collection. 
-
-This site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular users computer). We use your IP address to diagnose problems with our server, report and aggregate information, determine the fastest route for your computer to use in connecting with our site, and administer and improve the site. 
-
-**Use and Disclosure of Information**  
-Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise. 
-
-We may disclose your personally identifiable information to other M-Net affiliates that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose third parties, located in South Africa and/or any other country, but only: 
-
-  * to contractors we use to support our business (e.g.: fulfillment services, technical support, delivery services, and financial institutions) in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy. 
-  * in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we require any such buyer to agree to treat it in accordance with this Privacy Policy, or 
-  * where applicable by law, court orders or government regulations. 
-
-In addition, we will make full use of all information acquired through this site that is not in personally identifiable form. 
-
-**Access and Correction**  
-To keep your personally identifiable information accurate, current, and complete, please contact us. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site. 
-
-**Security**  
-We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration or destruction. You should keep in mind that no Internet transaction is 100% secure or error free. In particular, e-mail sent to or from any site may not be secure, and you should there-for take special care in deciding what information you send us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them. 
-
-**Links To Other Websites**  
-This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites, and that in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit. 
+You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
