@@ -1,396 +1,539 @@
-> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509123011id_/http%3A//www.ustrust.com/legal/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html) for the most accurate reproduction.*
 
-# U.S. Trust : Security Guarantee
+# Bank of America Privacy Policy for Consumers 2007 & Security
 
-U.S. Trust Privacy Policy   
-Online Privacy and Information Security   
-Identity Theft Prevention Program
+A Commitment to Your Privacy
 
-We want you to have the highest level of confidence when you do business with U.S. Trust. So we offer you this simple guarantee: **U.S. Trust will cover 100% of any losses in any of your U.S. Trust accounts due to unauthorized activity.**
+As you may be aware, U.S. Trust is now part of Bank of America Corporation. We are excited about the many new opportunities that this business partnership brings to our relationship with you.
 
-The highest levels of security are only possible when we work together. To ensure your protection under this guarantee, it is your responsibility to: 
+Our commitment to act in the best interests of our clients remains unchanged. You continue to be protected by comprehensive client information and data security processes and controls. 
 
-  1. Safeguard your account access information. If you share this information with anyone, we'll consider their activities to have been authorized by you. 
-  2. Report any unauthorized transactions to us as quickly as possible. If you suspect you are a victim of fraud, please contact us immediately at 1-800-USTRUST. 
+Listed below is the Bank of America 2007 Privacy Policy for Consumers. Just as it was in the past, your information will be used as needed for servicing specific products and accounts and to provide you with a comprehensive client solution. When applying this policy to private wealth management clients, the existing processes and controls will ensure that you and your information remain protected. 
 
+Please note that any preexisting product relationship you have with Bank of America and its endorsed partners - for example, a credit card - will continue to have the same privacy preferences you have already established with Bank of America. As you know, you may at any time request to change these preferences. 
 
+As always, please contact your relationship manager if you have any questions. 
 
-There may be other individuals to whom you grant authority in your account. Their activities in your account will also be considered authorized. 
+Bank of America Privacy Policy for Consumers 2007
 
-We are committed to safeguarding your accounts and the privacy of your information, and we continually review our privacy and security practices and update them as necessary to protect you. To further ensure a more secure online experience, we recommend that you take these additional steps. 
+**Trust. Respect. Integrity.  
+Our privacy commitment to you**
 
-Here is more information on The U.S. Trust Security Guarantee: 
+To learn more about how Bank of America manages Customer Information and what actions you can take, please continue reading.
 
-**Do I have to do anything to get this protection?**
+We are committed to respecting and protecting our customers’ privacy.
 
-No. U.S. Trust automatically provides this protection. 
+**This document includes information about:**
 
-**How does this guarantee work?**
+  1. Making the security of information a priority 
+  2. Collecting information 
+  3. Managing information 
+  4. Making sure information is accurate 
+  5. Honoring your preferences 
+  6. Actions you can take 
+  7. Guarding your own information 
+  8. Bank of America companies 
 
-If you suspect you have been a victim of unauthorized activity in your U.S. Trust account, notify U.S. Trust at 1-800-USTRUST immediately. We will promptly review your claim and assist you in taking measures necessary to protect you from further loss. You will be required to complete a notarized affidavit of fraud and to identify items of unauthorized activity. 
 
-back to top
 
-### The U.S. Trust Privacy Policy
+This policy covers Customer Information, which means personally identifiable information about a consumer or a consumer’s current or former customer relationship with Bank of America. This policy is provided to you as required by the Federal Financial Privacy Law* and applies to our companies identified in Section 8, Bank of America Companies. *15 U.S.C 68016810
 
-At U.S. Trust Corporation (U.S. Trust), our most important asset is our relationship with you. We are honored that you have entrusted us with your financial affairs, and we are committed to safeguarding the privacy of information we maintain about you. Establishing and adhering to an effective privacy policy is an important part of that dedication. 
+**1\. Making the security of information a priority**
 
-Below, you will find details about U.S. Trust's commitment to protecting your privacy, including the types of information we collect about you, how we use and share that information both within and outside the U.S. Trust family of companies, and how you can instruct us to limit certain types of information sharing. 
+Keeping financial information secure is one of our most important responsibilities. We maintain physical, electronic and procedural safeguards to protect Customer Information. Appropriate employees are authorized to access Customer Information for business purposes only. Our employees are bound by a code of ethics that requires confidential treatment of Customer Information and are subject to disciplinary action if they fail to follow this code. 
 
-Our privacy policy applies to all clients with whom we have a relationship and is also extended to each of our former clients. 
+**2\. Collection information**  
 
-#### Your Privacy is Not for Sale 
 
-Simply put, we do not and will not sell your personal information to anyone, for any reason, at any time. 
+We collect and use various types of information about you and your accounts to service your accounts, save you time and money, better respond to your needs, and manage our business and risks.
 
-#### How We Collect Information About You 
+Customer Information is categorized in the following six ways:
 
-We collect personal information about you in a number of ways. 
+**A. Identification Information** — information that identifies you such as name, address, telephone number and Social Security number.
 
-  1. **Application and registration information**. We collect information from you when you open an account or register for one of our services, such as our client web site, or use one of our wealth consulting services, such as financial or estate planning. We may also collect information from consumer reporting agencies to verify your identity in the account-opening process or if you apply for any type of lending arrangement. The information we collect may include your name, address, phone number, email address, Social Security number, and date of birth, as well as details about your interests, investments, and investment experience. 
-  2. **Transaction and experience information**. Once you have opened an account with us, we collect and maintain personal information about your account activity, including your transactions, balances, account positions, and account history. This information allows us to administer your account and provide the services you have requested. 
-  3. **Third-party information providers**. We may collect information about you from information services and consumer reporting agencies to verify your identity, employment, or creditworthiness, or to better understand your financial needs. 
-  4. **Website usage**. When you visit our website, our computer may use devices known as "cookies," graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools enable us to recognize you when you return to our site, and to maintain your web session while you browse, as well as help us provide you with a better, more personalized experience at U.S. Trust. 
+**B. Application Information** — information you provide to us on applications and through other means that will help us determine if you are eligible for products you request. Examples include assets, income and debt. 
 
+**C. Transaction and Experience Information** — information about transactions and account experience, as well as information about our communications with you. Examples include account balances, payment history, account usage, and your inquiries and our responses.
 
+**D. Consumer Report Information** — information from a consumer report. Examples include credit score and credit history. 
 
-#### How We Share Information About You Within the U.S. Trust Family of Companies 
+**E. Information from Outside Sources** — information from outside sources regarding employment, credit and other relationships that will help us determine if you are eligible for products you request. Examples include employment history, loan balances, credit card balances, property insurance coverage and other verifications.
 
-The U.S. Trust family of companies consists of a number of banking, brokerage, investment advisory, and related companies (often referred to as "affiliates"), such as United States Trust Company, National Association and UST Securities Corp. 
+**F. Other General Information** — information from outside sources, such as data from public records, that is not assembled or used for the purpose of determining eligibility for a product or service.
 
-Many clients do business or have relationships with more than one U.S. Trust affiliate, creating an efficient, comprehensive wealth management relationship to meet individual client needs. We share client information among U.S. Trust affiliates to: 
+As required by the USA PATRIOT Act, we also collect information and take actions necessary to verify your identification. 
 
-  1. Make it easy for you to interact with us, even if you are traveling and away from your local U.S. Trust office; and 
-  2. Help provide you with better service or perform services on your behalf. 
+**3\. Managing Information**
 
+We manage how and when information is shared:
 
+  * Within Bank of America
+  * With companies that work for us
+  * With third parties
+  * In other situations
 
-You may instruct us not to share information about you with other U.S. Trust affiliates for certain purposes, as explained under "How to Limit the Sharing of Information About You". 
 
-#### How We Share Information About You Outside of the U.S. Trust Family of Companies 
 
-U.S. Trust provides access to information about you to outside companies and other third parties in certain limited circumstances, including: 
+**Managing information within Bank of America**
 
-  1. To help us process transactions for your account; 
-  2. When we use another company to provide services for us, such as printing and mailing your account statements; and 
-  3. When we believe that disclosure is required or permitted under law. For example, we may be required to disclose personal information to cooperate with regulatory or law enforcement authorities, to resolve consumer disputes, to perform credit/authentication checks, or for risk control. 
+Bank of America is made up of a number of companies, including financial service providers such as our brokerage company and credit card company, and nonfinancial companies such as our operations and servicing subsidiaries. 
 
+Bank of America may share any of the categories of Customer Information among our companies. For example, sharing information allows us to use information about your ATM, credit card and check card transactions to identify any unusual activity and then contact you to determine if your card has been lost or stolen.
 
+We occasionally receive medical or health information from a customer if, for example, a customer applies for insurance from us. We also may obtain information from insurance support organizations not affiliated with Bank of America that prepare and provide reports to others as well as to us. We do not share medical or health information among our companies, except to maintain or collect on accounts, process transactions, service customer requests or perform insurance functions, to the extent permitted by law. 
 
-U.S. Trust is part of The Charles Schwab family of financial services companies that are owned by our parent, The Charles Schwab Corporation. U.S. Trust does not share information about you with these companies for marketing purposes, unless you express interest in specific products or services, and instruct us to do so. 
+**Managing information with companies that work for us**
 
-#### How to Limit the Sharing of Information About You 
+We may share any of the categories of Customer Information with companies that work for us, including companies located outside the United States. All nonaffiliated companies that act on our behalf and receive Customer Information from us are contractually obligated to keep the information we provide to them confidential, and to use the Customer Information we share only to provide the services we ask them to perform. These companies may include financial service providers such as payment processing companies, and nonfinancial companies such as check printing and data processing companies.
 
-If you prefer, you may choose to limit the information we share about you with other U.S. Trust affiliates. Specifically: 
+In addition, we may share any of the categories of Customer Information with companies that work for us in order to provide marketing support and other services, such as a service provider that distributes marketing materials. These companies may help us to market our own products and services, or other products and services that we believe may be of interest to you. Please note that some of our own companies may provide marketing support and other services for us as well. 
 
-  1. You may instruct us not to share with our affiliates consumer reports and other personal information about you that may be used to determine your eligibility for credit (for example, information about your income, profession, or employment status); 
-  2. You may exercise this choice by contacting your client relationship officer; 
-  3. Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as any accounts you may have with any other U.S. Trust affiliate with whom you have a relationship. If you have an account at another company within The Charles Schwab Corporation, you will receive a separate privacy notice from it which will tell you how it shares information about you and how you can limit its ability to do so; 
-  4. Joint account holders may instruct us on behalf of another account holder; and 
-  5. You may make your privacy choice at any time and it will remain in effect until you change it. 
+Sharing information with third parties for customers with **credit cards** and **Sponsored Accounts only**
 
+We may share Identification Information, Transaction and Experience Information, as well as Other General Information we collect about each of your (1) Bank of America credit card account(s) and (2) Sponsored Accounts at Bank of America, with selected third parties. 
 
+(1)Credit card account information, whether co-branded or not, may be shared with third parties; and 
 
-If you choose to limit these types of information sharing, we may continue to share information with our affiliates that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us. In addition, our affiliates may continue to use information they receive from us to perform services on our behalf, to respond to communications from you, as you authorize or request, or if you are their customer, to offer you products or services. We may also continue to share information about you with outside companies as permitted or required by law. 
+(2)Sponsored Account information may be shared with third parties. Sponsored Accounts are non-credit card accounts or services provided by Bank of America that are also endorsed, co-branded or sponsored by other organizations. 
 
-#### State Laws
+Examples of these organizations include colleges, sporting teams, retailers and other affinity organizations, such as charities. Sponsored Accounts may include deposit accounts or other banking services provided by Bank of America, such as a savings account co-branded with an automobile club. You will know whether an account is a Sponsored Account by the appearance of the name or logo of the sponsoring organization on account materials, such as statements, applications and online forms. 
 
-We will comply with state laws that apply to the disclosure or use of information about you. For example, if your address is in Vermont, we will automatically limit information sharing as described in "How to Limit the Sharing of Information About You" without your having to advise us of this privacy choice. 
+We may share information about credit cards and Sponsored Accounts with selected third parties including: 
 
-The following notice is required to be made under Nevada law to all clients with a Nevada mailing address. At any time, you may request to be placed on our internal "do not call" list. You may do so by calling or emailing your client relationship officer or mailing your request to the Privacy Officer, United States Trust Company, N.A., 114 West 47th Street, New York, NY 10036. Clients from any state may also request to be placed on U.S. Trust's "do not call" list by calling or emailing their client relationship officer or mailing their request to the Privacy Officer at the above address. For more information about the Nevada "do not call" notice requirement, you may also contact the Nevada Attorney General, 555 Washington Street, Suite 3900, Las Vegas, NV 89101; Phone: 702-486-3132; Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us). 
+  * Financial services companies (such as insurance agencies or companies and mortgage brokers, and organizations with whom we have agreements to jointly market financial products); 
+  * Nonfinancial companies (such as retailers, travel companies and membership organizations); and 
+  * Other companies (such as nonprofit organizations).
 
-#### Safeguarding Your Information, Maintaining Your Trust 
 
-We take precautions to ensure the information we collect about you is protected and is accessed only by authorized individuals or organizations. 
 
-Companies we use to provide support services are not allowed to use information about our clients for their own purposes and are contractually obligated to maintain strict confidentiality. We limit their use of information to the performance of the specific services we have requested. 
+**Information shared, as described in this section, is limited to credit card and Sponsored Account information only.** You may elect to opt out of this sharing. Please see Section 5, Honoring your preferences. 
 
-We restrict access to personal information by our employees and agents. Our employees are trained about privacy and are required to safeguard personal information. 
+**Disclosing information in other situations**
 
-We maintain physical, electronic, and procedural safeguards to protect non-public personal information. 
+We also may disclose any of the categories of Customer Information to credit bureaus and similar organizations and when required or permitted by law. For example, Customer Information may be disclosed in connection with a subpoena or similar legal process, fraud prevention or investigation, risk management and security, and recording of deeds of trust and mortgages in public records. Customer Information may also be disclosed to companies that process your requests for products or services or in connection with the sale of your account to another financial institution. We also may share any of the categories of Customer Information outside Bank of America companies when we have your consent, such as when you request a specific insurance rate quote from a third-party insurer. 
 
-#### Teaming Up Against Identity Theft
+**4\. Making sure information is accurate**
 
-Identity theft is a serious concern for all of us. Safeguarding information to help protect you from identity theft is our priority. U.S. Trust takes steps to protect you from identity theft by: 
+Keeping your account information accurate and up to date is very important. You have access to your account information, which includes your contact information, account balances and transactions and similar information, which we provide to you through various means, such as account statements, telephone banking, Online Banking and in response to specific requests. If your account information is incomplete, inaccurate or not current, please call or write to us at the telephone number or appropriate address for such changes listed on your account statement, bank records or other account materials. We will promptly update or correct any erroneous information. 
 
-  1. Utilizing client identification and authentication procedures before initiating transactions; 
-  2. Creating a secure transmission connection to our U.S. Trust websites. You will see the padlock in the lower right corner of your browser's frame indicating it is a secure site; and 
-  3. Ensuring our employees are trained to safeguard personal information about you. 
+**5\. Honoring your preferences**
 
+You have choices when it comes to how Bank of America shares and uses information. 
 
+Sharing information with third parties for customers with **credit cards** and **Sponsored Accounts only**
 
-You can also help protect your identity and accounts. Here are a few steps to remember: 
+If you have a Bank of America credit card or Sponsored Account, you may request that we not share information about these accounts with third parties. If you are unsure whether any of your accounts are Sponsored Accounts, please contact 1.888.341.5000. If you request that we not share information with third parties, we may still share information: 
 
-  1. U.S. Trust will never request your account number, login password, or Social Security number in either a non-secure or unsolicited email communication; 
-  2. Shred documents that contain personal information; and 
-  3. Check your credit report regularly for unauthorized activity and protect your personal identification numbers (PINs) or personal data. 
+  * where permitted or required by law as discussed in Section 3 under Disclosing information in other situations;
+  * with our service providers as discussed in Section 3 under Managing information with companies that work for us; and
+  * with other financial companies with whom we have joint marketing agreements.
 
-  
 
 
-#### Greater Accuracy Means Better Protection 
+**If you do not have a credit card or Sponsored Account, this section does not apply to you.**
 
-We are committed to keeping accurate, up-to-date records to help ensure the integrity of the information we maintain about you. If you identify an inaccuracy in this information, or you need to make a change to it, please contact your client relationship officer. 
+If you have multiple credit cards or Sponsored Accounts, you will need to express your preference for each account separately. When any customer on a joint account requests that we not share with third parties, we apply that preference to the entire account. California residents - see additional information at the end of this policy. 
 
-#### A Commitment to Keeping You Informed 
+**Sharing among the Bank of America family of companies**
 
-We will provide you with advance notice of important changes to our information-sharing practices. 
+You may request that Application Information, Consumer Report Information and Information from Outside Sources not be shared among Bank of America companies. Information is shared among Bank of America companies to complete applications for new products or services that you request, thereby saving you time, and to manage our business and risks. During the normal course of doing business, we will continue to share Identification Information, Transaction and Experience Information, as well as Other General Information among our companies. Vermont residents - see additional information at the end of this policy.
 
-#### Contact Us With Questions
+For sharing among Bank of America companies, each customer may tell us his or her preferences individually, or you may tell us the preferences for any other customers who are joint account owners with you. 
 
-If you have any questions or concerns, please contact your client relationship officer. 
+**Direct Marketing**
 
-© 2006 United States Trust Company, National Association. All rights reserved.   
-506EG/063       REG11000UST-06(06/06) 
+You may choose not to receive direct marketing offers - sent by postal mail, telephone and/or e-mail - from Bank of America. These preferences apply to all marketing offers from us and from companies working for us. To minimize the amount of telephone solicitation our customers receive, Bank of America does not offer nonfinancial products and services through telephone solicitations. Direct marketing offers from us may include information about products and services we believe may be of interest to you. If you choose not to hear from us, you may not learn about beneficial offers. 
 
-back to top
+If you elect not to receive direct marketing offers by postal mail, telephone and/or e-mail, please note that we may continue to contact you as necessary to service your account and for other nonmarketing purposes. You may also be contacted from your client relationship manager or assigned account representative if applicable. Bank of America may also continue to provide marketing information in your regular account mailings and statements, including online and ATM communications.
 
-### Online Privacy and Information Security
+Each customer may opt out of each direct marketing option individually. Since marketing programs may already be in progress, it may take up to twelve weeks in some situations for your opt out to be fully effective in some situations. When you opt out of direct marketing by postal mail or telephone, your opt out will last for five (5) years. After that, you may choose to renew your opt out for another five year period. 
 
-If you have a security-related concern, please call us at 1-800-USTRUST. We will work closely with you to ensure a rapid response to your concerns. 
+**6\. Actions you can take**
 
-U.S. Trust understands that you have entrusted us with personal information that is both important and confidential. We take our responsibility to protect your information extremely seriously. 
+You can tell us your preferences by:
+
+  * Notifying us at www.bankofamerica.com/privacy and entering your information on a secure Web site
+  * Calling us toll free at 1.888.341.5000
+  * Talking to a customer representative at a banking center or to your client relationship manager
+
+
+
+When you contact us, please be prepared to provide the following information for each individual:
+
+  * First name, middle initial and last name
+  * Address, city, state and ZIP code
+  * Account or reference number for third party sharing opt-outs
+  * Telephone number (if applicable)
+  * E-mail address (if applicable)
+
+
+
+If any of these pieces of information change, other than your account number, please notify us to ensure that your preferences are consistently honored.
+
+**Reducing direct marketing from other companies**
+
+You may contact the following agencies if you want to reduce the amount of advertising you receive from companies outside Bank of America: 
+
+  * **Credit Reporting Industry.** To have your name taken off all pre-approved credit solicitations (not just Bank of America solicitations), you may call the credit reporting industry Prescreening Opt-Out number at 1.888.5OPTOUT (1.888.567.8688).
+  * **National Do Not Call Registry.** Bank of America supports the National Do Not Call Registry. To have your phone number added to the National Do Not Call Registry, you may call 1.888.382.1222 or register at donotcall.gov. While this will stop most calls, you may still receive calls from businesses where you are a customer
+
+
+
+**7\. Guarding your own information**
+
+Bank of America recommends that you take the following precautions to guard against the disclosure and unauthorized use of your account and personal information:
+
+  * Review your monthly account statements thoroughly and report any suspicious activity to us immediately.
+  * Report lost or stolen checks, credit or debit cards immediately.
+  * Do not preprint your driver's license or Social Security number on checks.
+  * Safeguard ATM, credit and debit cards. Memorize PINs (personal identification numbers) and refrain from writing PINs, Social Security numbers or credit card numbers where they could be found. 
+  * Tear up or shred any pre-approved credit offers to which you do not respond.
+  * Review your credit report at least once every year. Make sure all information is up to date and accurate, and have information relating to fraudulent transactions deleted. For a free copy of your credit bureau report, contact www.annualcreditreport.com or call 1.877.322.8228.
+  * If you think you have been a victim of identity theft or fraud, contact one of the three major credit bureaus to place a fraud alert on your account. You may also contact the Federal Trade Commission (FTC) to report any incidents of identity theft and to receive additional guidance on steps you can take to protect yourself. You may contact the FTC at www.consumer.gov/idtheft or 1.877.438.4338.
+
+
+
+**Keeping up to date with our Privacy Policy**
+
+As required by law, Bank of America will provide notice of our Privacy Policy annually, as long as you maintain an ongoing relationship with us. To receive the most up-to-date Privacy Policy, you can visit our Web site at: bankofamerica.com/privacy or call us at 1.888.341.5000.
+
+We may make changes to this policy at any time and will inform you of changes, as required by law.
+
+**8\. Bank of America companies**
+
+This Privacy Policy applies to the following companies that have consumer customer relationships with Bank of America
+
+**Banks and Trust Companies**
+
+Bank of America, N.A.  
+Bank of America Trust Company of Delaware, N.A.  
+MBNA America  
+United States Trust Company, National Association  
+U.S. Trust Company of Delaware  
+
+
+**Credit card**
+
+Banc of America Consumer Card Services, LLC.  
+Bank of America  
+Fleet Credit Card Services, L.P.  
+MBNA America  
+
+
+**Brokerage and Investments**
+
+BACAP Alternative Advisors, Inc.  
+Bank of America Capital Advisors LLC  
+Banc of America Finance Services, Inc.  
+Banc of America Investment Advisors, Inc.  
+Banc of America Investment Services, Inc.  
+Banc of America Securities LLC  
+Columbia Management Advisors, LLC  
+Columbia Management Distributors, Inc.  
+Columbia Wanger Asset Management, L.P.  
+Marsico Capital Management, LLC  
+White Ridge Investment Advisors LLC  
+U.S. Trust Hedge Fund Management, Inc.  
+CTC Consulting , Inc.  
+UST Securities Corp.  
+UST Advisers, Inc.  
+
+
+**Insurance and Annuities**
+
+BA Agency, Inc.  
+BA Insurance Services, Inc.  
+Banc of America Agency, LLC  
+Banc of America Agency of Nevada, Inc.  
+Banc of America Agency of Texas, Inc.  
+Banc of America Insurance Services, Inc., dba Banc of America Insurance Agency  
+Banc of America Corporate Insurance Agency, LLC  
+Banc of America Reinsurance Company  
+General Fidelity Insurance Company  
+General Fidelity Life Insurance Company  
+IFIA Insurance Services, Inc., dba IFIA Insurance Agency  
+NationsBanc Insurance Company, Inc.  
+
+
+**Real estate**
+
+HomeFocus Services, LLC  
+NationsCredit Financial Services Corporation  
+
+
+**Automobile financing**
+
+Banc of America Auto Finance  
+
+
+For a current list of Bank of America companies that have consumer customer relationships and to which this policy applies, please visit our Web site at www.bankofamerica.com/privacy. This policy applies to consumer customer relationships established in the United States and is effective January 1, 2007. This notice constitutes the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act for all consumers and is pursuant to state law. 
+
+You may have other privacy protections under state laws, such as Vermont and California. To the extent these state laws apply, we will comply with them with regard to our information practices. 
+
+**For Nevada residents only,** Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number- 702.486.3132; e-mail: BCPINFO@ag.state.nv.us. Bank of America, PO Box 25118, FL1-300-02-07, Tampa, Florida 33633-0900. 
+
+**For Vermont and California residents only.** The information-sharing practices described above are in accordance with federal law. Vermont and California law places additional limits on sharing information about Vermont and California residents so long as they remain residents of those states. 
+
+  * **Vermont:** In accordance with Vermont law, Bank of America will not share information we collect about Vermont residents with companies outside of Bank of America except as permitted by law, such as with the consent of the customer, to service the customer's accounts or to other financial institutions with which we have joint marketing agreements. Bank of America will not share Application Information, Consumer Report Information and Information from Outside Sources about Vermont residents among the Bank of America companies except with the authorization or consent of the Vermont resident.
+  * **California:** In accordance with California law, Bank of America will not share information we collect about California residents with companies outside of Bank of America except as permitted by law, such as with the consent of the customer, to service the customer’s accounts, to fulfill on rewards or benefits and otherwise as permitted. We will limit sharing among our companies to the extent required by applicable California law.
+
+
+
+Estas normas están disponibles en espanol a través de la sucursal bancaria de su localidad. 
+
+Copyright © 2006 Bank of America Corporation. All Rights Reserved. 
+
+Online Privacy and Information Security  
+
+
+If you have a security-related concern, please call us at **1-800-USTRUST.**   We will work closely with you to ensure a rapid response to your concerns.  
+
+
+U.S. Trust understands that you have entrusted us with personal information that is both important and confidential. We take our responsibility to protect your information extremely seriously. 
 
 U.S. Trust updates its security and privacy standards to guard against identity theft and provide security for your account information. We constantly re-evaluate our security and privacy policies and adapt them as necessary to deal with new challenges. 
 
-U.S. Trust's account protection efforts fall into, but are not limited to, these categories: 
+U.S. Trust’s account protection efforts fall into, but are not limited to, these categories:  
 
-  1. **1\. Authentication: Secure identification and authentication before initiating transactions**   
-We maintain strict rules for the creation of Login IDs and passwords, designed to stop others from guessing your log-in information. 
-  2. **2\. Web Site Security: Secure transmission connection to our U.S. Trust Web sites**   
-We use Secure Sockets Layer (SSL) technology and encrypted "cookies" to establish and maintain a secure transmission connection and encrypt data passing between your computer and our systems. This is designed to prevent anyone from intercepting or viewing your personal information. 
-  3. **3\. Email Security: Policies to fight "phishing" and other email-related security challenges**   
-U.S. Trust is constantly reassessing its email security and log-in standards to provide protection against new and changing security challenges. 
-  4. **4\. Transaction Monitoring, Employee Oversight and Access Control: Watching for unusual account behavior**   
-We have highly sophisticated internal transaction monitoring systems in place to identify potentially suspicious and fraudulent activities. These systems are combined with strict controls on employee access to account information, creating a further layer of protection for your information. 
-  5. **5\. Employee Training**   
-U.S. Trust employees are trained to safeguard your personal information. 
-  6. **6\. Steps You Should Take**   
-You play an important role in safeguarding your personal information and protecting your privacy. Here are some of the things you can do. more 
-  7. **7\. The U.S. Trust Security Guarantee**   
-Information on our security efforts can be found above. 
+1.    Authentication – Secure identification and authentication before initiating transactions   
+We maintain strict rules for the creation of user Login IDs and passwords and the selection of security challenge questions, designed to stop others from guessing your log-in information.  more
+
+2.    Web Site Security – Secure transmission connection to our U.S. Trust  Web sites   
+We use Secure Sockets Layer (SSL) technology and encrypted “cookies” to establish and maintain a secure transmission connection and encrypt data passing between your computer and our systems. This is designed to prevent anyone from intercepting or viewing your personal information.  more
+
+3.    Email Security – Policies to fight “phishing” and other email-related security challenges   
+U.S. Trust is constantly reassessing its email security and log-in standards to provide protection against new and changing security challenges.  more
+
+4.    Transaction Monitoring, Employee Oversight and Access Control – Watching for unusual account behavior   
+We have highly sophisticated internal transaction monitoring systems in place to identify potentially suspicious and fraudulent activities. These systems are combined with strict controls on employee access to account information, creating a further layer of protection for your information.  more
+
+5.    Employee Training   
+U.S. Trust employees are trained to safeguard your personal information.  more
+
+6.    Steps You Should Take  
+You play an important role in safeguarding your personal information and protecting your privacy. Here are some of the things you can do.  more
+
+AuthenticationAuthentication is the process that our clients go through to access secure areas of our Web site. This process takes place when you log into your account. The key components of log-in are your Login ID, Password, challenge questions, and computer registration. 
+
+Login ID:  Upon receipt of a request from you and appropriate validation, U.S. Trust will designate a Login ID for you.   We do not use any combination of SSN or birth date as part of your Login ID.
+
+Passwords:  We maintain strict rules to help prevent others from guessing your password and recommend that you change your password periodically.  While password parameters vary slightly by application, in general, your password must meet the following criteria: 
+
+  * A system-designated minimum character length
+  * Include both letters and numbers
+
+  
+Challenge Questions and Computer Registration:  Once you receive a Login ID and create a password, you will be required to select challenge questions and provide answers before accessing your online accounts for the first time. Your selected question(s) will be posed the first time you log onto your U.S. Trust account from any computer. After successfully answering the question(s), you will be presented with the choice of registering the computer from which you are accessing the site. By registering the computer, you will not be required to answer the challenge question(s) each time you log in from that same computer. You can register more than one computer at the same time (e.g., home, office, and laptop). 
+
+For your protection, repeated unsuccessful attempts to log in or the inability to properly answer the challenge questions will cause your online access to be disabled. Once this happens, your password must be reset. If this happens to you inadvertently, please call the U.S. Trust Online Client Support Group at 1-800-944-9592, option 1 or your relationship officer to have your password reset.
+
+Return to Top  
 
 
+Web Site Security  
 
-#### Authentication
-
-Authentication is the process that our clients go through to access secure areas of our Web site. This process takes place when you log into your account. The two key components of log-in are your Login ID and Password. 
-
-Login ID: Upon receipt of a request from you and appropriate validation, U.S. Trust will designate a Login ID for you. We do not use any combination of SSN or birth date as part of your Login ID. 
-
-Passwords: We maintain strict rules to help prevent others from guessing your password and recommend that you change your password periodically. While password parameters vary slightly by application, in general, your password must meet the following criteria: 
-
-  1. A system-designated minimum character length 
-  2. Include both letters and numbers 
-
-
-
-In addition, for your protection, repeated unsuccessful attempts to log in will cause your online access to be disabled. Once this happens, your password must be reset. If this happens to you inadvertently, please call the U.S. Trust help desk at 1-800-USTRUST or your relationship officer to have your password reset.  
-back to Online Privacy and Information Security
-
-#### Web Site Security
 
 From the time you submit your Login ID and Password, communications between your computer and U.S. Trust are encrypted using Secure Sockets Layer (SSL3) technology, a secure communication protocol that protects your privacy. SSL enables client and server applications to communicate in a way that is designed to prevent eavesdropping, tampering and message forgery. 
 
 To support this technology, you need a recent version of an SSL3-capable, 128-bit browser, such as Microsoft Internet Explorer or AOL. These browsers will activate SSL3 automatically whenever you sign on to your U.S. Trust account. 
 
-Look for the padlock! To ensure that SSL encryption is protecting your private communications, look for a small picture of a padlock on the browser frame. Another indicator is the URL prefix "HTTPS." See below. 
+Look for the padlock! To ensure that SSL encryption is protecting your private communications, look for a small picture of a padlock on the browser frame. Another indicator is the URL prefix “HTTPS.”  See below.
 
-If you move the cursor over the "locked padlock" icon, a pop-up message will appear stating "SSL Secured (128 Bit)." Absence of the pop-up message may indicate that you are connected to a "phishing" site. 
+If you move the cursor over the “locked padlock” icon, a pop-up message will appear stating “SSL Secured (128 Bit).”  Absence of the pop-up message may indicate that you are connected to a “phishing” site.
 
-Another important information security measure in place throughout U.S. Trust's web sites is the timeout feature. This feature will log you out of your account, if there has been no activity within a specified amount of time. It is designed to stop others from accessing your account, if you fail to log out. 
+Another important information security measure in place throughout U.S. Trust’s web sites is the timeout feature. This feature will log you out of your account, if there has been no activity within a specified amount of time. It is designed to stop others from accessing your account, if you fail to log out. 
 
-We have implemented these measures for your protection, but you should still remember to log out each time you have finished accessing your U.S. Trust accounts.   
-back to Online Privacy and Information Security
-
-#### Cookies:
-
-Cookies enable us to understand better how you and others use U.S. Trust's online channels. They allow us to collect information about where your browser goes on our Web sites. This assists us in understanding your preferences and improving our Web site. For example, the information we obtain from cookies or Graphical Interchange Formats helps us understand whether our customers use certain Web features and how to improve navigation. Knowing where your browser has been on our Web site helps us present useful information and offers to you. We do not sell this or any other information about you to other Web sites, merchants or financial institutions. 
-
-Cookies come in two types: persistent and session-based. U.S. Trust uses session cookies. 
-
-Session cookies exist only during an online session with U.S. Trust. They disappear from your computer when you close your browser software or turn off your computer. Session cookies allow you to conduct transactions or request your own personal or account information on our Web site. They contain encrypted or encoded information about your account(s), and/or identifying information that you have previously provided to us. This information allows U.S. Trust to process your online transactions and requests. 
-
-#### Email Security
-
-Recently there has been rapid growth in email-related information security challenges such as "phishing" or "spoofing" schemes. These fraudulent techniques attempt to fool you into giving up your personal data by impersonating legitimate communications from financial service providers. We are working with other financial institutions and technology leaders to prevent these security challenges from impacting our clients. Measures currently in place or underway include: 
-
-  1. Implementation of domain-verification technologies that, in cooperation with Internet service providers, will enable clients to verify that emails claiming to have come from U.S. Trust actually did come from U.S. Trust. 
-  2. Standardization of U.S. Trust emails and adherence to industry anti-phishing best practices. We continually re-design our email policies to incorporate the latest tools and standards aimed at preventing phishing. 
-  3. Ongoing assessment and implementation of new log-in technologies designed to prevent others from masquerading as our Web site. 
+We have implemented these measures for your protection, but you should still remember to log out each time you have finished accessing your U.S. Trust accounts.
 
 
+**Cookies** :   
+Cookies enable us to understand better how you and others use U.S. Trust's online channels. They allow us to collect information about where your browser goes on our Web sites. This assists us in understanding your preferences and improving our Web site. For example, the information we obtain from cookies or Graphical Interchange Formats helps us understand whether our customers use certain Web features and how to improve navigation. Knowing where your browser has been on our Web site helps us present useful information and offers to you. We do not sell this or any other information about you to other Web sites, merchants or financial institutions.
 
-#### Transaction Monitoring, Employee Oversight and Access Control
+Cookies come in two types: session-based and persistent. U.S. Trust uses both session-based and persistent cookies. 
 
-We use automated transactional monitoring tools to detect suspicious account activity. When these sophisticated systems flag a questionable transaction, we validate that the transaction is legitimate and that it will be processed safely and rapidly. This combination of automated and manual transaction monitoring further strengthens the security we provide for your financial and personal information.  
-back to Online Privacy and Information Security
+Session cookies exist only during an online session with U.S. Trust. They disappear from your computer when you close your browser software or turn off your computer. Session cookies allow you to conduct transactions or request your own personal or account information on our Web site. They contain encrypted or encoded information about your account(s), and/or identifying information that you have previously provided to us. This information allows U.S. Trust to process your online transactions and requests.
 
-#### Employee Training
+Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include a unique identifier for your browser that only US Trust can read and use, and that tells us you are a US Trust client or prior US Trust Web site visitor. We are especially careful about the security and confidentiality of the information we send through persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. 
 
-We take precautions to ensure that your account and personal information at U.S. Trust are accessed only by employees who are authorized and monitored. This is done through access controls and training, as well as physical, electronic and procedural safeguards. Employees are trained in our notifications policy and are required to promptly report any potential breach to our swift response team. 
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#Additional-info)  
 
-  1. All customers are covered by our corporate Breach Notification Policy. In July, 2003, we implemented a corporate policy on breach notifications and a centralized swift response team was established. Privacy, Risk Management & Investigations, Information Security, Legal, Corporate Communications and other of our business units work together to respond to potential incidents as quickly as possible. 
-  2. Potential incidents are tracked, assessed and investigated. When necessary, outside law enforcement agencies become involved. 
+
+Email Security   
+
+
+Recently there has been rapid growth in email-related information security challenges such as “phishing” or “spoofing” schemes. These fraudulent techniques attempt to fool you into giving up your personal data by impersonating legitimate communications from financial service providers. We are working with other financial institutions and technology leaders to prevent these security challenges from impacting our clients. Measures currently in place or underway include:    
+
+
+  * Implementation of domain-verification technologies that, in cooperation with Internet service providers, will enable clients to verify that emails claiming to have come from U.S. Trust actually did come from U.S. Trust.
+  * Standardization of U.S. Trust emails and adherence to industry anti-phishing best practices. We continually re-design our email policies to incorporate the latest tools and standards aimed at preventing phishing. 
+  * Ongoing assessment and implementation of new log-in technologies designed to prevent others from masquerading as our Web site. 
 
 
 
-back to Online Privacy and Information Security
+Transaction Monitoring, Employee Oversight and Access Control   
+We use automated transactional monitoring tools to detect suspicious account activity. When these sophisticated systems flag a questionable transaction, we validate that the transaction is legitimate and that it will be processed safely and rapidly. This combination of automated and manual transaction monitoring further strengthens the security we provide for your financial and personal information.
 
-back to top
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#Additional-info)  
 
-### Steps You Should Take
 
-**Client Security Practices** Your participation is an important component of all of our security efforts. We believe it is essential that we work in close cooperation with you as our client to maintain the highest levels of security. These are the steps you should take to protect your account: 
+Employee Training  
 
-#### Protecting the security of your computer
 
-  1. Keep your computer and browser software current with security updates. 
-  2. Install and update anti-virus and anti-spyware software and use personal firewalls to protect your computer. 
-  3. Be alert to the threats posed by malware—short for malicious software, this form of software is designed specifically to damage or disrupt a system, or to secretly record information such as keystrokes. Malware types include key logging tools, trojan horses, hijacking programs, and dialer programs that may reside on your personal computer. While these threats constantly evolve, you can help protect your personal information and computer by using a personal firewall, maintaining up-to-date anti-spyware and anti-virus programs, and by immediately reporting any suspicious activity involving your personal information. 
-  4. Do not enable any application features that would automatically log you into your U.S. Trust account or pre-fill the Login ID or Password fields. 
-  5. Change your password periodically, and avoid using passwords for U.S. Trust that you commonly use for other purposes. 
-  6. For more information on how to protect your personal computer, including links to vendors providing anti-virus and anti-spyware software, please visit the Federal Trade Commission's computer security site at http://onguardonline.gov . Microsoft Corporation provides additional information specific to the Windows operating system at http://www.microsoft.com/security . Users of Apple computers can find security information at http://www.apple.com/support/security. 
+Training:  
+We take precautions to ensure that your account and personal information at U.S. Trust are accessed only by employees who are authorized and monitored. This is done through access controls and training, as well as physical, electronic and procedural safeguards. Employees are trained in our notifications policy and are required to promptly report any potential breach to our swift response team.
+
+  * All customers are covered by our corporate Breach Notification Policy.  In July, 2003, we implemented a corporate policy on breach notifications and a centralized swift response team was established.  Privacy, Risk Management & Investigations, Information Security, Legal, Corporate Communications and other of our business units work together to respond to potential incidents as quickly as possible. 
+  * Potential incidents are tracked, assessed and investigated. When necessary, outside law enforcement agencies become involved. 
 
 
 
-#### Using your computer
-
-  1. Your username and password are for your use only. Do not share them with anyone and do not write them down. 
-  2. Check to make sure you are interacting with a secure Web site see above
-  3. Always log off after accessing your U.S. Trust account. This prevents someone else from accessing your account if you leave your computer unattended while the session has not yet "timed out," or automatically shut down. 
-  4. Be careful about using third-party computers or computers that you are not familiar with, such as those in Internet caf's. 
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#Additional-info)  
 
 
+Steps You Should Take
 
-If you do use a third-party computer, be particularly careful to ensure you have fully logged out. U.S. Trust's systems are set to prevent browsers from saving account information in a computer's Internet cache, but as an extra precaution you may want to clear the cache of any public computer on which you have accessed your U.S. Trust accounts. Please check the browser's help section to learn how to manually clear its Internet cache. 
+**Client Security Practices**   
+Your participation is an important component of all of our security efforts. We believe it is essential that we work in close cooperation with you as our client to maintain the highest levels of security.  These are the steps you should take to protect your account: 
 
-#### Reading your statements
+**Protecting the security of your computer     
+**
 
-  1. Review your account statements carefully. 
-  2. You should only download your statements onto your own computer. Do not download them onto a third-party computer. 
-
-
-
-#### Recognizing and fighting fraud
-
-  1. Do not provide personal or financial information in response to an email request or by clicking on a link, unless you are able to verify the authenticity of the site to which you are taken through the SSL padlock or other means. 
-  2. Do not enter personal information into a form within an email message or a pop-up. 
-  3. Note that U.S. Trust will never ask you to provide personal financial information in an email. 
-  4. Do not open an email from a sender that you do not recognize. Be particularly cautious of any attachments to emails from unrecognized sources. 
-  5. Immediately report any unusual activity regarding your U.S. Trust accounts to our representatives at 1-800-USTRUST. 
+  * Keep your computer and browser software current with security updates.
+  * Install and update anti-virus and anti-spyware software and use personal firewalls to protect your computer.
+  * Be alert to the threats posed by malware—short for malicious software, this form of software is designed specifically to damage or disrupt a system, or to secretly record information such as keystrokes. Malware types include key logging tools, trojan horses, hijacking programs, and dialer programs that may reside on your personal computer. While these threats constantly evolve, you can help protect your personal information and computer by using a personal firewall, maintaining up-to-date anti-spyware and anti-virus programs, and by immediately reporting any suspicious activity involving your personal information. 
+  * Do not enable any application features that would automatically log you into your U.S. Trust account or pre-fill the Login ID or Password fields. 
+  * Change your password periodically, and avoid using passwords for U.S. Trust that you commonly use for other purposes.
+  * For more information on how to protect your personal computer, including links to vendors providing anti-virus and anti-spyware software, please visit the Federal Trade Commission’s computer security site at [http://onguardonline.gov  .](http://onguardonline.gov/index.html) Microsoft Corporation provides additional information specific to the Windows operating system at [http://www.microsoft.com/security  .](http://www.microsoft.com/security/default.mspx) Users of Apple computers can find security information at [http://www.apple.com/support/security .](http://www.apple.com/support/security/)
 
 
 
-back to top
+**  
+Using your computer   **
 
-### Identity Theft Prevention Program
-
-How U. S. Trust Protects Your Identity   
-How to Protect Against Phishing   
-What To Do If You Are A Victim of Identity Theft   
-Other Resources to Learn More About Identity Theft
-
-#### How U. S. Trust Protects Your Identity 
-
-Your privacy is our priority and U. S. Trust is committed to protecting you 
-
-  1. We do not sell customer information to anyone. 
-  2. We use encryption technology to protect sensitive information that is transmitted over the Internet. 
-  3. U.S. Trust will never request or disclose your personal information (account number, login password, Social Security number, date of birth) in either a non-secure or unsolicited email communication. 
-  4. We control access to your information inside our company by limiting employee access to systems and data. 
-  5. We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information secure and accurate. 
-  6. We ensure all employees are trained to safeguard your information. 
+  * Your username and password are for your use only. Do not share them with anyone and do not write them down.
+  * Check to make sure you are interacting with a secure Web site see above.
+  * Always log off after accessing your U.S. Trust account. This prevents someone else from accessing your account if you leave your computer unattended while the session has not yet “timed out,” or automatically shut down.
+  * Be careful about using third-party computers or computers that you are not familiar with, such as those in Internet cafés. 
 
 
 
-Our most important asset is our relationship with you. We understand that you have entrusted us with your private financial information, and we do everything we can to maintain that trust. 
+If you do use a third-party computer, be particularly careful to ensure you have fully logged out. U.S.Trust's systems are set to prevent browsers from saving account information in a computer’s Internet cache, but as an extra precaution you may want to clear the cache of any public computer on which you have accessed your U.S. Trust accounts. Please check the browser’s help section to learn how to manually clear its Internet cache.   
 
-#### How to Protect Against Phishing 
 
-#### What is Phishing?
+**Reading your statements**
 
+  * Review your account statements carefully.
+  * You should only download your statements onto your own computer.  Do not download them onto a third-party computer.
+
+
+
+**Recognizing and fighting fraud**
+
+  * Do not provide personal or financial information in response to an email request or by clicking on a link, unless you are able to verify the authenticity of the site to which you are taken through the SSL padlock or other means.
+  * Do not enter personal information into a form within an email message or a pop-up.
+  * Note that U.S. Trust will never ask you to provide personal financial information in an email.
+  * Do not open an email from a sender that you do not recognize. Be particularly cautious of any attachments to emails from unrecognized sources.
+  * Immediately report any unusual activity regarding your U.S. Trust accounts to our representatives at 1-800-USTRUST.
+
+
+
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#Additional-info)  
+
+
+Identity Theft Prevention Program
+
+How U.S. Trust  Protects Your Identity  
+How to Protect Against Phishing  
+What to Do if You Are a Victim of Identity Theft   
+Other Resources to Learn More about ID theft 
+
+**How U.S. Trust  Protects Your Identity **  
+Your privacy is our priority, and U.S. Trust  is committed to protecting you   
+
+
+  * We do not sell client information to anyone. 
+  * We use encryption technology to protect sensitive information that is transmitted over the Internet. 
+  * U.S. Trust will never request or disclose your personal information (account number, login password, Social Security number, date of birth) in either a non-secure or unsolicited email communication.
+  * We control access to your information inside our company by limiting employee access to systems and data.
+  * We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information secure and accurate.
+  * We ensure all employees are trained to safeguard your information.
+
+  
+Our most important asset is our relationship with you.  We understand that you have entrusted us with your private financial information, and we do everything we can to maintain that trust. 
+
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#identity-theft)  
+
+
+**How to Protect Against Phishing   **  
+
+
+**What Is Phishing?**  
 Phishing is the illegal attempt to mislead consumers into providing personal or financial information, including account numbers, passwords and Social Security numbers, via email or through fraudulent Web sites. 
 
 The most frequent phishing attacks occur through email disguised to appear as though it came from a reputable financial institution or company. 
 
-Most phishing attempts urge you to update or validate your account information, typically through a link in an email directing you to a fake Web site that appears to be legitimate.   
-back to Identity Theft Prevention Program
-
-#### How to Spot a Phishing Attack
-
-There are many phishing attacks active on the Internet. Here are a few of their lines and lures: 
-
-  1. An email contains an "urgent" or "shocking" tone requesting your immediate action on an account-related matter. Phishers frequently succeed by getting consumers to act quickly without thinking. 
-  2. An email is sent from a user falsely claiming to be a legitimate company with an attachment. An unsolicited email attachment more than likely contains a virus. Do not open it. 
-  3. A pop-up window appears from a user falsely claiming to be a legitimate company's Web site asking for personal information. 
-
-
-
-#### Learn More About Phishing Scams or Identity Theft
-
-Additional information can be found at www.antiphishing.org or www.consumer.gov/idtheft/ 
-
-#### How to Report a Phishing Attack
-
-If you suspect you have received a fraudulent email from U.S. Trust Corporation or any of its subsidiary companies, please contact: [Privacy@ustrust.com](mailto:Privacy@ustrust.com). If you believe that any communications with or from U.S. Trust resulted in identity theft, call us immediately at 1-800-USTRUST.   
-back to Identity Theft Prevention Program
-
-#### What To Do If You Are A Victim of Identity Theft
-
-If you are a victim of identity theft, here are some recommended steps: 
-
-  1. Contact U.S. Trust and let us know you have been a victim of identity theft. 
-  2. Contact the fraud departments of each of the three major credit bureaus: 
+Most phishing attempts urge you to update or validate your account information, typically through a link in an email directing you to a fake Web site that appears to be legitimate. 
 
   
-  |  Equifax  |  Experian  |  Trans Union   
+
+
+**How to Spot a Phishing Attack**  
+There are many phishing attacks active on the Internet. Here are a few of their lines and lures:   
+
+
+  * An email contains an “urgent” or “shocking” tone requesting your immediate action on an account-related matter. Phishers frequently succeed by getting consumers to act quickly without thinking.
+  * An email is sent from a user falsely claiming to be a legitimate company with an attachment. An unsolicited email attachment more than likely contains a virus. Do not open it. 
+  * A pop-up window appears from a user falsely claiming to be a legitimate company’s Web site asking for personal information.
+
+
+
+**Learn More About Phishing Scams or Identity Theft**  
+Additional information can be found at [www.antiphishing.org](http://www.antiphishing.org/) or [www.consumer.gov/idtheft/](http://www.consumer.gov/idtheft/)   
+
+
+**How To Report a Phishing Attack**  
+If you suspect you have received a fraudulent email from U.S. Trust or any of its affiliates, please contact: [Privacy@ustrust.com](mailto:Privacy@ustrust.com). If you believe that any communications with or from U.S. Trust resulted in identity theft, call us immediately at 1-800-USTRUST.   
+
+
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#identity-theft)  
+
+
+**What to Do If You Are a Victim of Identity Theft**  
+If you are a victim of identity theft, here are some recommended steps:   
+
+
+  * Contact U.S. Trust and let us know you have been a victim of identity theft.
+  * Contact the fraud departments of each of the three major credit bureaus: 
+
+
+
+|   | Equifax | Experian | Trans Union  
 ---|---|---|---  
-Report Fraud  |  800-525-6285  |  888-397-3742  |  800-680-7289   
-Order Credit Report  |  800-525-6285  |  888-397-3742  |  800-916-8800   
-Web address  |  [www.equifax.com](http://www.ustrust.com/redirect/?refid=P-629718&refpid=P-453212&url=http://www.equifax.com/?) |  [www.experian.com](http://www.ustrust.com/redirect/?refid=P-629719&refpid=P-453212&url=http://www.experian.com/?) |  [www.transunion.com](http://www.ustrust.com/redirect/?refid=P-629720&refpid=P-453212&url=http://www.transunion.com/?)  
-Address  |  PO Box 740241   
+Report Fraud | 800-525-6285 | 888-397-3742 | 800-680-7289  
+Order Credit Report | 800-525-6285 | 888-397-3742 | 800-916-81-800  
+Web address | [www.equifax.com](http://www.equifax.com/) | [www.experian.com](http://www.experian.com/) | [www.transunion.com](http://www.transunion.com/)  
+Address |  PO Box 740241  
 Atlanta, GA   
 30374-0241  |  PO Box 9530   
 Allen, TX   
-75013  |  PO Box 6790   
+75013 |  PO Box 6790   
 Fullerton, CA   
-92634-6790   
+92634-6790  
   
-
-
-  1. Report the identity theft and request a "fraud alert." This ensures that you will be contacted before any new account is opened and/or an existing account is changed. 
-  2. Request copies of credit reports. Review the reports carefully and identify any new accounts that may have been opened. Pay particular attention to the section of the report that lists "inquiries" from new companies. Contact these companies immediately and have them remove any pending or new accounts from their system. Note: Credit bureaus must provide free copies of credit reports to victims of identity theft. 
-  3. Contact the fraud departments of creditors to dispute unauthorized charges (e.g., credit card issuer, phone companies, utilities, banks, other lenders.) Describe your identity theft problem and follow up with a letter. 
-  4. FiIe a report with your local police department. This may help when clearing your credit. 
-  5. File a complaint with the Federal Trade Commission (FTC). The FTC handles complaints from victims of identity theft, provides information to those victims, and refers complaints to appropriate entities, including the major credit-reporting agencies and law enforcement agencies. 
-  6. By phone: 877-ID-THEFT 
-  7. Online Complaint Form: www.consumer.gov/idtheft 
-
-
-
-back to Identity Theft Prevention Program
-
-#### Other Resources to Learn More about Identity Theft:
-
-  1. Federal Trade Commission - Internet Fraud -- [www.onguard.online.gov](http://www.onguard.online.gov/)
-  2. Federal Trade Commission - ID Theft -- [www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm](http://www.ftc.gov/bcp/conline/pubs/credit/idtheft.htm)
-  3. Federal Trade Commission - Phishing -- [www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm)
-  4. Identity Theft Resource center -- [www.privacyrights.org](http://www.privacyrights.org/)
-  5. Identity Theft Prevention and Survival -- [www.identitytheft.org](http://www.identitytheft.org/)
-  6. Social Security Administration -- [www.ssa.gov/oig/guidelin.htm](http://www.ssa.gov/oig/guidelin.htm)
-  7. Justice Department -- [www.usdoj.gov/criminal/fraud/idtheft.html](http://www.usdoj.gov/criminal/fraud/idtheft.html)
-  8. Postal Inspection Service -- [www.usps.com/websites/depart/inspect](http://www.usps.com/websites/depart/inspect)
+  * Report the identity theft and request a "fraud alert." This ensures that you will be contacted before any new account is opened and/or an existing account is changed.
+  * Request copies of credit reports. Review the reports carefully and identify any new accounts that may have been opened. Pay particular attention to the section of the report that lists "inquiries" from new companies. Contact these companies immediately and have them remove any pending or new accounts from their system. Note: Credit bureaus must provide free copies of credit reports to victims of identity theft. 
+  * Contact the fraud departments of creditors to dispute unauthorized charges (e.g., credit card issuer, phone companies, utilities, banks, other lenders.) Describe your identity theft problem and follow up with a letter.
+  * File a report with your local police department. This may help when clearing your credit.
+  * File a complaint with the Federal Trade Commission (FTC). The FTC handles complaints from victims of identity theft, provides information to those victims, and refers complaints to appropriate entities, including the major credit-reporting agencies and law enforcement agencies. 
+  * By phone: 877-ID-THEFT
+  * Online Complaint Form:[www.consumer.gov/idtheft ](http://www.consumer.gov/idtheft/)
 
 
 
-Please note, these links are being provided as a service convenience. U. S. Trust is not affiliated with any of these organizations and cannot guarantee their accuracy, effectiveness and/or completeness.   
-back to Identity Theft Prevention Program
+**Other Resources to Learn More about Identity Theft:**  
 
-1\. "Account access information" includes your login ID, password, or any other information used by U.S. Trust to authenticate you; as well as payment devices such as credit cards, debit cards and checks. We may hold you responsible, if we determine that you shared this information or unauthorized activity was caused by your fraudulent conduct or gross negligence. 
 
-2\. Reimbursement under the guarantee requires your timely reporting of unauthorized activity to U.S. Trust. U.S. Trust will not be liable for additional or increased losses resulting from a failure to report unauthorized activity in a timely manner. Different transactions have different reporting deadlines. More details are available in your account agreements, statements and trade confirmations. 
+**Please note, these links are being provided as a service convenience. U.S. Trust is not affiliated with any of these organizations and cannot guarantee their accuracy, effectiveness and/or completeness.**  
 
-3\. This applies to third parties (who are not U.S. Trust employees or U.S. Trust companies), including the employees or agents of any business or any investment advisor to whom you have granted authority of any type over your account. This includes authority to manage your account, and any other power of attorney you may have granted. This applies to activity by your employer and their employees, representative or agent which have authority to access your Employee Benefit Plan Account. U.S. Trust will also not be liable for the failure of those third parties to safeguard your information or access to your account. 
 
-Copyright © United States Trust Company, National Association. All Rights Reserved. 
+[Return to Top](https://web.archive.org/web/20070730004014id_/https%3A//ssl.ustrustonline.com/ustrust/privacy_policy.html#identity-theft)
