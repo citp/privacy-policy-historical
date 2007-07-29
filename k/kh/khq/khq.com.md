@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khq.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219193142id_/http%3A//www.khq.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khq.com privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729201226id_/http%3A//www.khq.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # KHQ Right Now - News and Weather for Spokane and North Idaho | This Web Site’s Privacy Policy
 
