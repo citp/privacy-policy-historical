@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingvideoprovider.co.uk privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218130132id_/http%3A//www.streamingvideoprovider.co.uk/index.php%3Fa%3Darticle%26it%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingvideoprovider.co.uk privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729052629id_/http%3A//www.streamingvideoprovider.co.uk/index.php%3Fa%3Darticle%26it%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ This notice offers highlights of the full StreamingVideoProvider Privacy Policy,
 
 
 
-**Uses**
+**Usage**
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   * We may also use personal information for auditing, research and analysis to operate and improve StreamingVideoProvider technologies and services. 
@@ -40,7 +40,7 @@ This notice offers highlights of the full StreamingVideoProvider Privacy Policy,
   * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
   * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
   * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
-  * Read more in the full privacy policy. 
+  * Read more in the full privacy policy
 
   
   
