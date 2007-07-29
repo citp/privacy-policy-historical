@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017095140id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2007-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070729060653id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
