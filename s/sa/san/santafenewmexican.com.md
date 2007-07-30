@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santafenewmexican.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429093730id_/http%3A//www.santafenewmexican.com/info/158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santafenewmexican.com privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731002853id_/http%3A//www.santafenewmexican.com/info/158.html) for the most accurate reproduction.*
 
 # Registration information, privacy policy and terms of use
 
