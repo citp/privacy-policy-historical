@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017084712id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730133406id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -39,7 +39,7 @@ Dream Horse does not and will never sell or give your email address to any SPAMM
 
 ####  Order Forms 
 
-Our site uses secure online ordering for customers to request information, products, and services. We collect financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. Our secure storefront is called the [DreamHorse Store](http://store.dreamhorse.com/). 
+Our site uses secure online ordering for customers to request information, products, and services. We collect financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. . 
 
 ####  Surveys 
 
@@ -73,4 +73,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20061017084712id_/http%3A//www.dreamhorse.com/contact.html)
+[Contact Information](https://web.archive.org/web/20070730133406id_/http%3A//www.dreamhorse.com/contact.php)
