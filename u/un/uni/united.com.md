@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516194814id_/http%3A//www.united.com/privacy%3FnavSource%3DHP07%26linkTitle%3Da20privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730095428id_/http%3A//www.united.com/privacy%3FnavSource%3DHP07%26linkTitle%3Da20privacy) for the most accurate reproduction.*
 
 # United Airlines - Privacy Policy
 
