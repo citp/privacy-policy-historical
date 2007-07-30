@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925040845id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730110156id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Storming Media
 
@@ -9,13 +9,13 @@ Storming Media takes your privacy seriously. Most importantly, we do not sell or
 
 This policy covers how Storming Media treats personal information that we collect and receive, including information related to your past use of Storming Media products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
 
-Information Collection and Use Storming Media collects personal information only when you purchase products from Storming Media. Storming Media does not combine information about you that we have with information we obtain from business partners or other companies.
+**Information Collection and Use**
 
-When you purchase products we ask for information such as your name, email address, physical address and credit card information. Once you purchase products with Storming Media, you are not anonymous to us.
+Storming Media collects personal information only when you purchase products from Storming Media. Storming Media does not combine information about you that we have with information we obtain from business partners or other companies.
 
-Storming Media collects information about your transactions with us and nobody else, including our partners.
+When you purchase products we ask for information such as your name, email address, shipping address and credit card information. Once you purchase products with Storming Media, you are not anonymous to us.
 
-Storming Media automatically receives and records information on our server logs from your browser, including your IP address, Storming Media cookie information, and the page you request.
+Storming Media automatically receives and records information on our server logs from your browser, including your IP address, Storming Media cookie information, and any pages you visit.
 
 Storming Media uses information for the following general purposes: to customize the content you see, fulfill your requests for products and improve our services.
 
@@ -31,13 +31,13 @@ Storming Media does not rent, sell, or share personal information about you with
 
 If the situation arises, we will respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of Storming Media's terms of use, or as otherwise required by law.
+We believe it is necessary, and we reserve the right, to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of Storming Media's terms of use, or as otherwise required by law.
 
 **Communications with Customers**
 
 At present, Storming Media makes no communications with past customers, except to inform them about specific orders they have placed through our site.
 
-We do envision, however, the possibility of sending very infrequent emails to past customers notifying them of major new features of the site. In this eventuality, Storming Media will provide a user-friendly system to opt out of future mailings.
+We do envision, however, the possibility of sending very infrequent emails to past customers and to site visitors who have opted-in to our email system notifying them of major new features of the site. In this eventuality, Storming Media will provide a user-friendly system to opt out of future mailings.
 
 **Changes to this Privacy Policy**
 
