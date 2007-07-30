@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerseyinsight.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022133112id_/http%3A//www.jerseyinsight.com/std1l_1.asp%3Fcategory%3D3%26id%3D11897) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseyinsight.com privacy policy that was archived on 2007-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070730133057id_/http%3A//www.jerseyinsight.com/std1l_1.asp%3Fcategory%3D3%26id%3D11897) for the most accurate reproduction.*
 
 # Jersey Insight
 
