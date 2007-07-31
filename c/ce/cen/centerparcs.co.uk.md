@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927014426id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731195504id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
