@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930111539id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731153521id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
 
 # MAS | About Mass Audubon | Our Privacy Policy
 
@@ -20,7 +20,7 @@ We have appropriate, industry standard security measures in place in our physica
 Member Information  
 Member information is never sold or rented. However, Mass Audubon occasionally exchanges with other nonprofit organizations the names and mailing addresses of a limited number of members. Additionally, Mass Audubon periodically partners with organizations to send product offers and promotional mailings that we believe may be of interest to our members. 
 
-Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://e-guana.securenow.com/signup/index.php?orgid=56&processID=243&User_Session=92f293d5933f0c9b679b220644027ab3) or contact Member Services.
+Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://tools.isovera.com/signup/index.php?orgid=56&processID=243&User_Session=92f293d5933f0c9b679b220644027ab3) or contact Member Services.
 
 You can help Mass Audubon maintain the accuracy of your information and facilitate the timely receipt of membership benefits by notifying Member Services of any changes to your name, address, phone number, or e-mail address. To help us update your record, please provide us with your street address and membership number, which appears on your membership card.
 
