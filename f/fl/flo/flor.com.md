@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420125744id_/http%3A//www.flor.com/service/flor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731214158id_/http%3A//flor.com/service/flor/privacy.html) for the most accurate reproduction.*
 
 # Modern, modular carpet tiles and area rugs for Do-It-Yourself ease - FLOR Modular Tiles
 
