@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205014113id_/http%3A//www.dv.com/dv/NewBayMedia/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2007-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070801095123id_/http%3A//www.dv.com/dv/NewBayMedia/Privacy.pdf) for the most accurate reproduction.*
 
 # NewBay PRIVACY STATEMENT
 
