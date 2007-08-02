@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systemsltd.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622143837id_/http%3A//www.systemsltd.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemsltd.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802170600id_/http%3A//www.systemsltd.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Systems Limited - Privacy Policy | Pioneer software house of Pakistan offering business solution globally
 
@@ -9,7 +9,7 @@
 |   
 |  | 
 
-_[Home](https://web.archive.org/web/20070622143837id_/http%3A//www.systemsltd.com/index.htm "Software House")_ > Privacy Policy  
+_[Home](https://web.archive.org/web/20070802170600id_/http%3A//www.systemsltd.com/index.htm "Software House")_ > Privacy Policy  
   
 |  |  |   |  |  |   |   |    
 ---|---|---|---  
@@ -22,7 +22,7 @@ Sell the names and addresses of our customers (site visitors) to outside vendors
 Support & encourage SPAM emails. ****  
 **  
 Contacting **Systems Limited**  
-If you have any questions, concerns or comments regarding **SL** or this website, please contact us: Email: [info@systemsltd.com](https://web.archive.org/web/20070622143837id_/http%3A//www.systemsltd.com/info@systemsltd.com)
+If you have any questions, concerns or comments regarding **SL** or this website, please contact us: Email: [info@systemsltd.com](https://web.archive.org/web/20070802170600id_/http%3A//www.systemsltd.com/info@systemsltd.com)
 
 Mailing Address :
 
