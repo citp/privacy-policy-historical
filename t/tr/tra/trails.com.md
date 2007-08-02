@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112070600id_/http%3A//www.trails.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802070047id_/http%3A//www.trails.com/privacy.asp) for the most accurate reproduction.*
 
 # Trails.com
 
