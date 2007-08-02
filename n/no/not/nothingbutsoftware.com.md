@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122131543id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802120615id_/http%3A//www.nothingbutsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,8 +52,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 www.NothingButSoftware.com  
  **SpaceBound, Inc.**  
-37207 Colorado Avenue   
-Avon, Ohio 44011   
+280 Opportunity Way  
+LaGrange, Ohio 44050  
 United States
 
 If you have a question, please feel free to contact us by [Clicking Here](https://web.archive.org/customer/emaildepartment.asp?optDept=6)
