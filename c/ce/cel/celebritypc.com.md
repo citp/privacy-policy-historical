@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritypc.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503222214id_/http%3A//celebritypc.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritypc.com privacy policy that was archived on 2007-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070802202153id_/http%3A//www.celebritypc.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
