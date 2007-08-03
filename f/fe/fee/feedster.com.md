@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedster.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607065243id_/http%3A//www.feedster.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedster.com privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803183846id_/http%3A//feedster.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Feedster Privacy Policy
 
