@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116075901id_/http%3A//www.leadclub.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadclub.net privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803175243id_/http%3A//www.leadclub.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
