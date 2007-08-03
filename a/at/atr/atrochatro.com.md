@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018050203id_/http%3A//www.atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrochatro.com privacy policy that was archived on 2007-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070804002134id_/http%3A//www.atrochatro.com/faq_privacy.html) for the most accurate reproduction.*
 
 # Frequently Asked Questions > Privacy Policy
 
@@ -40,5 +40,5 @@ Third Party Cookies
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 **Related Questions!**  
-[I need help, where can i contact you?](https://web.archive.org/web/20061018050203id_/http%3A//www.atrochatro.com/faq_contact.html)  
-[About Us](https://web.archive.org/web/20061018050203id_/http%3A//www.atrochatro.com/faq_about.html)
+[I need help, where can i contact you?](https://web.archive.org/web/20070804002134id_/http%3A//www.atrochatro.com/faq_contact.html)  
+[About Us](https://web.archive.org/web/20070804002134id_/http%3A//www.atrochatro.com/faq_about.html)
