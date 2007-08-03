@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320180851id_/http%3A//www.ulta.com/control/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803043357id_/http%3A//www.ulta.com/control/privacy) for the most accurate reproduction.*
 
 # ULTA.com - The Ultimate Beauty Site : Privacy & Security
 
@@ -50,4 +50,4 @@ Please remember that any information you may disclose in public areas of our web
 
 **To Contact Us or Change Your Information**
 
-Do you have questions about our policies or any other customer service issue? Do you want to update your information for the Club at ULTA.com or change any other information about yourself? You can call us toll-free, from 10am to 10pm EST. Monday-Friday and 10am to 6pm EST. Saturday and Sunday, at 866-ULTA-COM or contact us online at [service@ULTA.com](mailto:service@ULTA.com). 
+Do you have questions about our policies or any other customer service issue? Do you want to update your information for the Club at ULTA.com or change any other information about yourself? You can call us toll-free, from 10am to 10pm EST. Monday-Friday and 10am to 6pm EST. Saturday and Sunday, at 866-340-3704 or contact us online at [service@ULTA.com](mailto:service@ULTA.com). 
