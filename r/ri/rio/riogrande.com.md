@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026121639id_/https%3A//www.riogrande.com/home/help/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2007-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070803031254id_/https%3A//www.riogrande.com/home/help/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Rio Grande - The most complete suppliers to the jewelry industry in the world.
 
