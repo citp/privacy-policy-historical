@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallam.biz privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629035649id_/http%3A//www.hallam.biz/terms_and_conditions.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallam.biz privacy policy that was archived on 2007-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070805011444id_/http%3A//www.hallam.biz/terms_and_conditions.asp) for the most accurate reproduction.*
 
 # Susan Hallam Communications - Terms And Conditions
 
@@ -8,7 +8,7 @@ We understand the importance or maintaining and protecting your privacy and will
 
 When you engage in certain activities on this site, such as registering for an event, subscribing to a newsletter, or downloading information we may ask you to provide certain information about yourself by filling in an online form. The information you provide will be kept confidential and will be used to support your relationship with Hallam Communications. From time to time we may use this information to provide you with relevant information we think would be of particular interest. At a minimum we will always give you the opportunity to opt out of receiving such direct marketing. We will follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. 
 
-If you would prefer not to receive marketing information, our newsletter, invitations to seminars, updates on developments and such like, then [email us](https://web.archive.org/web/20070629035649id_/http%3A//www.hallam.biz/contact.asp) . 
+If you would prefer not to receive marketing information, our newsletter, invitations to seminars, updates on developments and such like, then [email us](https://web.archive.org/web/20070805011444id_/http%3A//www.hallam.biz/contact.asp) . 
 
 We use information we hold about you to monitor the use of the Hallam Communications site and to keep records of traffic flows to the site. This may be by using a "cookie" or small piece of information stored on your computer's hard drive by your browser. The cookies that we use contain no personal information that could be used to identify you. It is possible to configure your browser so that cookies are not used automatically but this may prevent you from having the benefit of some of the site's features. 
 
@@ -30,4 +30,4 @@ Given that the Internet uses an open system we cannot warrant that the site and 
 
 Entire contents © 2000-2006 Hallam Communications Ltd. All rights reserved 
 
-Hallam Communications clients may make one attributed copy or slide of each figure contained herein. Additional reproduction is strictly prohibited. For additional reproduction rights and usage information, please [contact us](https://web.archive.org/web/20070629035649id_/http%3A//www.hallam.biz/contact.asp).
+Hallam Communications clients may make one attributed copy or slide of each figure contained herein. Additional reproduction is strictly prohibited. For additional reproduction rights and usage information, please [contact us](https://web.archive.org/web/20070805011444id_/http%3A//www.hallam.biz/contact.asp).
