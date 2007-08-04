@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204024153id_/http%3A//www.americasvacationcenter.com/internal/about.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2007-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070804185429id_/http%3A//www.americasvacationcenter.com/About/Default.cfm%3FCFAction%3DPrivacy) for the most accurate reproduction.*
 
-# America's Vacation Center - Discount Cruises, Last Minute Cruises, Caribbean Cruises, Mexico Cruises, Alaska Cruises, Hawaii Cruises, Europe Cruises
+# Americas Vacation Center: Discount Cruise Vacations
 
-America's Vacation Center Privacy Pledge
-
-We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personally identifiable information ("PII") you provide us. (PII includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address.) As a visitor to our U.S. Web site, www.AmericasVacationCenter.com ("America’s Vacation Center®"), you have the right to understand our information privacy practices prior to providing America’s Vacation Center with any of your PII. 
+  |  We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personally identifiable information ("PII") you provide us. (PII includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address.) As a visitor to our U.S. Web site, www.AmericasVacationCenter.com ("America’s Vacation Center®"), you have the right to understand our information privacy practices prior to providing America’s Vacation Center with any of your PII. 
 
 What information we collect from you  
 America’s Vacation Center only collects PII that you **voluntarily** provide to us.   
@@ -32,8 +30,6 @@ Tell Me More
 
 By providing you with this Privacy Statement, America’s Vacation Center is pledging our continued commitment to protecting the information you provide us. America’s Vacation Center regularly examines our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your PII made in this privacy statement. Your privacy is important to us. 
 
-| America’s Vacation Center's Privacy Statement  
----  
 This America’s Vacation Center Privacy Statement discloses the information privacy practices for America’s Vacation Center’s Web site, [www.AmericasVacationCenter](http://www.americasvacationcenter.com/). The America’s Vacation Center Web site is intended for use by residents of the U.S. that are over 18 years of age.   
   
 Information collected about you  
