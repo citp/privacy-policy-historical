@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jetcast.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227092440id_/http%3A//www.jetcast.com/%3Fpage%3Dlegal%26doc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetcast.com privacy policy that was archived on 2007-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070804232720id_/http%3A//www.jetcast.com/%3Fpage%3Dlegal%26doc%3Dprivacy) for the most accurate reproduction.*
 
-# Jetcast is Content Delivery, Movies, Music.
+# Jetcast | Internet Radio | Kids TV | WWE | World Wrestling Entertainment
 
 |  |  |  |   
   
