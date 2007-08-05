@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430022438id_/http%3A//www.ezinefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinefinder.com privacy policy that was archived on 2007-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070805210745id_/http%3A//www.ezinefinder.com/privacy.html) for the most accurate reproduction.*
 
 # Ezine Finder - Privacy Policy
 
@@ -20,7 +20,7 @@ The Ezine Finder does not accept responsiblity for what publishers do with your 
   * Publishers agree not to sell or use email addresses for any other purpose than subscription to your Ezine. Addresses can be used **only** to send the publication that has been requested. 
   * Publishers must have unsubscription information posted in their ezine. Users must have the ability to unsubscribe easily. 
 
-If you feel a publisher is in violation of any of the rules stated above please [**contact us**](https://web.archive.org/web/20070430022438id_/http%3A//www.ezinefinder.com/contact.html). 
+If you feel a publisher is in violation of any of the rules stated above please [**contact us**](https://web.archive.org/web/20070805210745id_/http%3A//www.ezinefinder.com/contact.html). 
 
 **Links to Other Sites**
 
@@ -35,4 +35,4 @@ PO Box 1174
 Port Orchard, WA 98366  
 USA 
 
-To send us email, [**Click here**](https://web.archive.org/web/20070430022438id_/http%3A//www.ezinefinder.com/contact.html). 
+To send us email, [**Click here**](https://web.archive.org/web/20070805210745id_/http%3A//www.ezinefinder.com/contact.html). 
