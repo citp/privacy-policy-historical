@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x10host.com privacy policy that was archived on 2006-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060909212918id_/http%3A//x10host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x10host.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807043847id_/http%3A//x10host.com/privacy.php) for the most accurate reproduction.*
 
 # x10Host.com - Free Hosting - cPanel, Fantastico, RVSkins plus MORE!!
 
