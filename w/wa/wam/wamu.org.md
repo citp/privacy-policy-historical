@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wamu.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617094818id_/http%3A//www.wamu.org/about/website/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wamu.org privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807094733id_/http%3A//www.wamu.org/about/website/privacy_policy.php) for the most accurate reproduction.*
 
 # wamu.org : About : Privacy Policy
 
