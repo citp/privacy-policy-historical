@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195549id_/http%3A//www.centerpointmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807103848id_/http%3A//www.centerpointmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
