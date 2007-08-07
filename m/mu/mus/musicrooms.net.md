@@ -1,9 +1,25 @@
-> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717003906id_/http%3A//www.musicrooms.net/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm) for the most accurate reproduction.*
 
-# Musicrooms.net
+# Privacy - Musicrooms.net
 
-**  
-Privacy Policy  
+  **[Musicrooms.net](http://www.musicrooms.net/) / Privacy & Disclaimer**  
+  
+| 
+
+[](http://www.musicrooms.net/)
+
+|   
+---|---  
+  
+|  |  | 
+
+**Related** :   
+[Terms Of Use](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/terms.htm)  
+[Privacy Policy](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm)   
+[Disclaimer](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/privacy.htm)   
+[Copyrights](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/copyrights.htm)
+
+**Privacy Policy  
 **
 
 **The Information We Collect**
@@ -36,7 +52,7 @@ Personally Identifiable Information—When visiting Musicrooms.net and signing u
 
  Should you have other questions or concerns about this privacy policy, please contact us by , email (
 
-[click here](https://web.archive.org/web/20060717003906id_/http%3A//www.musicrooms.net/online/uk-flavacontact.htm)).
+[click here](https://web.archive.org/web/20070808015820id_/http%3A//www.musicrooms.net/online/uk-flavacontact.htm)).
 
    **Advertising Sales Specific Terms and Conditions**
 
@@ -48,4 +64,22 @@ If you want to prevent a third-party advertiser from collecting data, currently 
 
  For more information on how Adviva.com manages the privacy of information in conjunction with serving ads on our network, please visit 
 
-[http://www.adviva.com](http://www.adviva.com/pp.php). For more information on how Valueclick.com manages the privacy of information in conjunction with serving ads on our network, please visit [http://www.valueclick.com](http://www.valueclick.com/privacy.html.).
+[http://www.adviva.com](http://www.adviva.com/pp.php). For more information on how Valueclick.com manages the privacy of information in conjunction with serving ads on our network, please visit [http://www.valueclick.com](http://www.valueclick.com./)[.](http://www.valueclick.com./)
+
+ **Disclaimer**
+
+Information on this website shall be deemed accurate and current only as of the date it is posted. Musicrooms.net specifically disclaims any duty to update.   
+This website also contains third-party information and links to other Internet sites. Musicrooms.net takes no responsibility whatsoever for third-party information. Musicrooms.net specifically disclaims adoption or incorporation by reference of such information as its own. In addition to links to third party informational sites, Musicrooms.net has contracted with several external service providers. Though Musicrooms.net has contractural agreements to ensure confidentiality of information, Musicrooms.net assumes no responsibility for information that is voluntarily provided. 
+
+All images, graphs, text, or other content in this website are, to the extent permitted by law, copyrighted and otherwise proprietary. No reproduction, transmission or other use of this information is permitted without the prior written permission of Musicrooms.net. 
+
+Any unauthorized modification, tampering or change of any information, or any interference with the availability of or access to this website is strictly prohibited. 
+
+We reserve the right to modify the content of this website in any way, at any time, and for any reason without prior notification, and will not be liable in any way for possible consequences of such changes. 
+
+Musicrooms.net reserves all legal rights and remedies available.  
+  
+  
+---|---  
+  
+© 2020 Musicrooms.net.  No part of this site may be reproduced or used for commercial purposes without prior permission. 
