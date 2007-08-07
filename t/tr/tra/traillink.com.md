@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208135509id_/http%3A//www.traillink.com/TL_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traillink.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807123530id_/http%3A//www.traillink.com/TL_info/privacy.asp) for the most accurate reproduction.*
 
 # RTC: Privacy Statement
 
