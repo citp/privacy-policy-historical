@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/terms/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2007-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/terms/policy.htm) for the most accurate reproduction.*
 
 # Policy
 
 |    
 ---  
   
-[why LSN?](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/about.htm) here's why you should choose LSN for your hosting and web design needs...  
+[why LSN?](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/about.htm) here's why you should choose LSN for your hosting and web design needs...  
   
-[Be a reseller to LSN:](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/resellers.htm) in your city click here for more details...  
+[Be a reseller to LSN:](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/resellers.htm) in your city click here for more details...  
   
-[LSN Career!](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/LSNcareer.htm) Think you have what it takes to be on the LSN team? If so, we want to hear from you! [Click here](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/LSNcareer.htm) for more details!  
+[LSN Career!](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/LSNcareer.htm) Think you have what it takes to be on the LSN team? If so, we want to hear from you! [Click here](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/LSNcareer.htm) for more details!  
   
-Turn prospects into clients with a CD presentation or catalog! [Click here](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/cd-presentation.htm) to find out how LSN can help you increase your business!   
+Turn prospects into clients with a CD presentation or catalog! [Click here](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/cd-presentation.htm) to find out how LSN can help you increase your business!   
   
-[LSN Special domains:](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/Special_domains.htm) like www.worldcup.ly, www.jobs.ly, www.media.ly and more...  
+[LSN Special domains:](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/Special_domains.htm) like www.worldcup.ly, www.jobs.ly, www.media.ly and more...  
   
    
   
@@ -115,4 +115,4 @@ By choosing to visit LibyanSpider.com, you agree that your visit and any dispute
 
 If you do not agree to be so bound, do not remain on the Site. You are responsible for checking our Site frequently to keep apprised of recent changes. 
 
-If you have any concerns about your privacy at LibyanSpider.com, please [click here](https://web.archive.org/web/20070617014854id_/http%3A//www.libyanspider.com/contact.htm) to contact Customer Support, and we will attempt to resolve it.
+If you have any concerns about your privacy at LibyanSpider.com, please [click here](https://web.archive.org/web/20070807102605id_/http%3A//www.libyanspider.com/contact.htm) to contact Customer Support, and we will attempt to resolve it.
