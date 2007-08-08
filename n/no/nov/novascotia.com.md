@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527202105id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808160258id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # novascotia.com - Privacy Policy
 
