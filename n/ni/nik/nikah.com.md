@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2007-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070111044252id_/http%3A//nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809000036id_/http%3A//www.nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.*
 
 # Help Section : Nikah.com : Muslim Matrimonials Service Provider: Muslim Matrimony
 
@@ -45,6 +45,6 @@ Nikah.com does not sell, rent, or loan any identifiable information at the indiv
   |  If you have any questions regarding our Privacy Statement, please write in to   
 | top ^  
 06. | The information what I am looking for is not available in Help Section, what should I do?   
-  | Please [ click here ](https://web.archive.org/web/20070111044252id_/http%3A//nikah.com/contactus.php) to send your query to our Customer Support Officer, who will respond to your query within 24 hours.    
+  | Please [ click here ](https://web.archive.org/web/20070809000036id_/http%3A//www.nikah.com/contactus.php) to send your query to our Customer Support Officer, who will respond to your query within 24 hours.    
   
   | top ^
