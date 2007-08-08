@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113171938id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihand.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808191307id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Palm OS, Pocket PC, Windows Smartphones, Symbian UIQ and Series 60 Software, Accessories, and Games
 
@@ -55,6 +55,6 @@ We may update this policy. We will notify you about significant changes in the w
 
 **Questions and Suggestions**
 
-If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20061113171938id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
+If you have any questions and comments about our Privacy Policy please contact our [customer support](https://web.archive.org/web/20070808191307id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy?page=contactsupport). 
 
 Effective Date: November 15,2004 
