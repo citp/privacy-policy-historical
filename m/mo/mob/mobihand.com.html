@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobihand.com privacy policy that was archived on 2006-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061113171938id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobihand.com privacy policy that was archived on 2007-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070808191307id_/http%3A//www.mobihand.com/support.asp%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><script>
 function modify_value(idName,valoare)
@@ -135,46 +135,759 @@ function getItem(sName)
     <td width="100%" align="center">
       <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2">
         <tbody><tr>
-          <td width="60%"><a href="home.asp"><img src="images/logo.gif" border="0" align="absBottom"></a></td>
-          <td class="small" nowrap=""> <a href="https://www.mobihand.com/cart1.asp?posid=1">
-          My Cart</a>: 
+          <td width="40%"><a href="home.asp"><img src="images/logo.gif" border="0" align="absBottom"></a></td>
+          <td class="small" nowrap="" width="36%" align="right"><a href="myaccount.asp">My Account</a> l </td>
+          <td class="small" nowrap="" width="24%" align="right">  
           
-<font class="cartcontents">
-$0.00 (0 item) </font>
+	<script type="text/javascript" language="javascript">
+	var chid;
+	var start_y = 20;
+	var top_y = 0;
+	var bottom_y = 0;
+	var direction = "down";
+	var sid;
 
-	<select name="courencyCode" class="cartcontents" onchange="javascript:location.href = '/support.asp?ccode='+this.value">
-	
-<option value="AUD">AUD</option>
-<option value="BRR">BRR</option>
-<option value="CAD">CAD</option>
-<option value="CSK">CSK</option>
-<option value="DKN">DKN</option>
-<option value="EUR">EUR</option>
-<option value="GBP">GBP</option>
-<option value="HKD">HKD</option>
-<option value="HUF">HUF</option>
-<option value="JPY">JPY</option>
-<option value="MYR">MYR</option>
-<option value="NKN">NKN</option>
-<option value="NZD">NZD</option>
-<option value="SAR">SAR</option>
-<option value="SFR">SFR</option>
-<option value="SGN">SGN</option>
-<option value="SKN">SKN</option>
-<option value="USD" selected="">USD</option>
-</select>
- | 
-          <a href="myaccount.asp">My Account</a> | 
-          <a href="support.asp">Support</a>
-          
-          
+function getCartItems()
+{
+	var e = document.getElementById("cartLink1")
+	if(e)
+	{
+		if (window.XMLHttpRequest)
+		{
+		    xhrCart = new XMLHttpRequest();
+		}
+		else if (window.ActiveXObject)
+		{
+		    try
+		    {
+			    xhrCart = new ActiveXObject("Microsoft.XMLHTTP");
+		    }
+		    catch(e)
+		    {
+			    xhrCart = false;
+		    }
+		}
 
+		if (!xhrCart)
+		{
+		    alert('Cannot create XMLHTTP instance');
+		    return false;
+		}
+		// define customized function updatePage within application
+		xhrCart.onreadystatechange = updateCartItem;
+		xhrCart.open('GET', "/common_files/cartSummaryAjax.asp?posid=1&slc=EN", true);
+		xhrCart.send(null);
+	}
+}
+
+function updateCartItem()
+{
+    if (xhrCart.readyState==4 || xhrCart.readyState=="complete")
+    {
+        var e = document.getElementById('cartLink1');
+        if (e)
+        {
+            e.innerHTML=xhrCart.responseText;
+        }
+    }
+}
+	function addToCart(url) {
+		nPOS1 = url.indexOf("?")
+		if(nPOS1>0)
+		{
+			sQuery = url.substr(nPOS1)
+		}
+	    window.scrollTo(0,0);
+		document.getElementById('showCart').style.display = "none";
+		direction = "down";
+	    if (window.XMLHttpRequest) {
+		    xhr = new XMLHttpRequest();
+		    }
+	    else if (window.ActiveXObject) {
+		    try {
+			    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		    } catch(e) {
+			    xhr = false;
+		    }
+	    }
+
+	    if (!xhr) {
+		    alert('Cannot create XMLHTTP instance');
+		    return false;
+	    }
+	    // define customized function updatePage within application
+	    xhr.onreadystatechange = displayCartLayer;
+	    xhr.open('GET', "/common_files/inc_CartAjax.asp" + sQuery + "&slc=EN", true);
+	    xhr.send(null);
+	}
+	function displayCartLayer() {
+	    if (xhr.readyState==4 || xhr.readyState=="complete") {
+			toggleCart();
+	    }
+	}
+	function toggleCart() {
+		var e = document.getElementById('showCart');
+	if (e)
+	{
+		if (e.style.display == "block")
+		{
+			if (direction == "down")
+			{
+					direction = "up";
+			}
+			else
+			{
+					direction = "down";
+				}
+			if (sid)
+			{
+					window.clearInterval(sid);
+				}
+				sid=window.setInterval("slide()",10);
+		}
+		else
+		{
+			getCartContents('/common_files/inc_cartAjax.asp?posid=1&slc=EN');
+			}
+		}
+	}
+	function getCartContents(url) {
+	    if (window.XMLHttpRequest) {
+		    xhr = new XMLHttpRequest();
+		    }
+	    else if (window.ActiveXObject) {
+		    try {
+			    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		    } catch(e) {
+			    xhr = false;
+		    }
+	    }
+
+	    if (!xhr) {
+		    alert('Cannot create XMLHTTP instance');
+		    return false;
+	    }
+	    // define customized function updatePage within application
+	    xhr.onreadystatechange = updateCartLayer;
+	    xhr.open('GET', url, true);
+	    xhr.send(null);
+	}
+	function updateCartLayer() {
+	    if (xhr.readyState==4 || xhr.readyState=="complete") {
+	        var e = document.getElementById('showCart');
+	        if (e) {
+	            e.innerHTML=xhr.responseText;
+				if (document.frmCart1) { if (document.frmCart1.ajaxSubTotal) { var f = document.frmCart1.ajaxSubTotal; } }
+
+	            if (f) {
+					document.getElementById('cart_totals').innerHTML = document.frmCart1.ajaxSubTotal.value;
+	            }
+
+				e.style.display="block";
+				bottom_y = e.clientHeight;
+	            top_y = start_y - bottom_y;
+	            e.style.top = top_y + "px";
+	            sid=window.setInterval("slide()",10);
+	        }
+	    }
+	}
+
+	function slide() {
+	    var e = document.getElementById("showCart");
+	    e.style.top = top_y + "px";
+	    if ((direction == "down") && (top_y < start_y))
+	    {
+	        top_y = top_y + 10;
+	        window.clearInterval(chid);
+	    }
+	    else if ((direction == "up") && (top_y > (start_y - bottom_y)))
+	    {
+			top_y = top_y - 10;
+			window.clearInterval(chid);
+	    }
+	    else
+	    {
+	        window.clearInterval(sid);
+	        if (direction == "up")
+	        {
+	            document.getElementById("cart_close").style.display = "none";
+	            document.getElementById("cart_checkout").style.display = "inline";
+				window.clearInterval(chid);
+	        }
+	        else
+	        {
+	            document.getElementById("cart_close").style.display = "inline";
+	            document.getElementById("cart_checkout").style.display = "none";
+	            chid = window.setInterval("HideCartLayer()",5000);
+	        }
+	    }
+	}
+	function HideCartLayer()
+	{
+	    window.clearInterval(chid);
+	    toggleCart();
+	}
+	</script>
+	<div id="cartContainer">
+	<div id="cartLinks" class="small">
+		<div id="cartLink1">
+
+  
+    <title>Wayback Machine</title>
+    <script type="text/javascript">      window.webComponentLoaderConfig = {
+      baseUrl: 'https://archive.org',
+      version: '29e56e87'
+      }
+    </script>
+    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/jquery-ui.min.js?v1.12.1" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/clipboard/dist/clipboard.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/regenerator-runtime-polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/ie-dom-node-remove-polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/components/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/more-facets.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react/umd/react.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/npm/react-dom/umd/react-dom.production.min.js?v16.7.0" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/areact.min.js?v=bf10aa9c" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=bf10aa9c" rel="stylesheet" type="text/css">
+    <meta property="braintree_token" content="production_w3jccm3z_pqd7hz44swp6zvvw">
+    <meta property="environment" content="production">
+    <meta property="venmo_id" content="2878003111190856236">
+        <script src="/_static/js/raven.min.js" crossorigin="anonymous"></script>
+    <script>Raven.config('https://5588e3adb3e545248e893d6f2fc41ba2@wwwb-sentry.us.archive.org/3').install();</script>
+<script type="text/javascript">if('archive_analytics' in window){var v=archive_analytics.values;v.path='/web';v.service='wb';v.server_name='wwwb-app103.us.archive.org';v.server_ms=356;archive_analytics.send_pageview_on_load()}</script>
+    <link href="/_static/images/archive.ico" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/_static/css/styles.css">
+    <script type="text/javascript" src="/_static/js/ui.js" charset="utf-8"></script>
+    <base target="_top">
+<link rel="stylesheet" type="text/css" href="/_static/css/web.css">
+<script type="text/javascript">
+if (window!=window.top) {
+  $(document).ready(function(){ document.body.classList.add('wb_embedded') });
+}
+</script>
+  
+  
+    
+                    <div class="ia-banners">
+              <div class="ia-banner hidden" data-campaign="ia_user_1">
+        <p>This banner text <i>can</i> have <b>markup</b>.</p>
+        <a href="#" data-action="ia-banner-close"></a>
+      </div>
+          </div>
+            
+        <div id="navwrap1" class="">
+          <div id="navwrap2">
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+
+              <ul class="nav navbar-nav navbar-main">
+                <li class="pull-left">
+                  <a title="Home" class="navia-link home" href="/" target="_top">
+                    <span class="iconochive-logo"></span>
+                    <div class="archive-wordmark">
+                      <img src="https://archive.org/images/wordmark-narrow-spacing.svg" alt="Internet Archive Logo">
+                    </div>
+                  </a>
+                </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" target="_top"><span class="iconochive-web" aria-hidden="true"></span><span>web</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" target="_top"><span class="iconochive-texts" aria-hidden="true"></span><span>books</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" target="_top"><span class="iconochive-movies" aria-hidden="true"></span><span>video</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" target="_top"><span class="iconochive-audio" aria-hidden="true"></span><span>audio</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" target="_top"><span class="iconochive-software" aria-hidden="true"></span><span>software</span></a>
+                  </li>
+                                                                      <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" target="_top"><span class="iconochive-image" aria-hidden="true"></span><span>images</span></a>
+                  </li>
+                
+                <li class="nav-right-tool nav-hamburger pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                            <ul id="" class="nav navbar-nav">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                          </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+                                  <li class="nav-right-tool pull-right" id="nav-search">
+                    <a class="nav-search-button" href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false" aria-hidden="true"><span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div class="searchbar">
+                      <form class="search-form js-search-form" method="get" role="search" action="https://archive.org/searchresults.php" target="_top" data-event-form-tracking="TopNav|SearchForm" data-wayback-machine-search-url="https://web.archive.org/web/*/">
+                        <input id="search-bar-2" class="js-search-bar" data-autocomplete-format="right" placeholder="Search" type="text" name="search" value="" aria-controls="navbar_search_options" aria-label="Search the Archive. Filters and Advanced Search available below.">
+
+                              <div id="navbar_search_options" class="search-options js-search-options" aria-expanded="false" aria-label="Search Options" data-keep-open-when-changed="false">
+      <div class="pre-search-options"></div>
+      <fieldset>
+                      <label>
+      <input type="radio" name="sin" value="" checked="">
+      <span>Search metadata</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TXT">
+      <span>Search text contents</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="TV">
+      <span>Search TV news captions</span>
+    </label>
+                          <label>
+      <input type="radio" name="sin" value="WEB">
+      <span>Search archived web sites</span>
+    </label>
+                  </fieldset>
+
+              <a href="https://archive.org/advancedsearch.php" class="search-options__advanced-search-link" onclick="return AJS.advanced_search(this)">Advanced Search</a>
+          </div>
+    
+                              <input class="js-tvsearch" type="hidden" value="{&quot;ands&quot;:[],&quot;minday&quot;:&quot;06/04/2009&quot;,&quot;maxday&quot;:&quot;02/19/2020&quot;}">
+    
+                        <input type="submit" value="Search">
+                      </form>
+                    </div><!--/.searchbar -->
+                  </li>
+                
+                <li class="nav-right-tool pull-right">
+                  <a class="nav-upload" href="https://archive.org/create" _target="top" data-event-click-tracking="TopNav|UploadIcon"><span class="iconochive-upload" aria-hidden="true"></span><span class="sr-only">upload</span><span class="hidden-xs-span hidden-sm-span">UPLOAD</span></a>
+                </li>
+
+                <li class="nav-right-tool pull-right leftmost">
+                                      <a class="nav-user" href="https://archive.org/account/login" style="padding-right:0" _target="top" data-event-click-tracking="TopNav|LoginIcon"><span class="iconochive-person" aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span hidden-sm-span">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+
+                  <ul id="nav-abouts" class="">
+            <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE <span class="iconochive-heart"></span></a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+          </ul>
+                </div><!--/.navbar-->
+
+                        <div id="nav-tophat" class="collapse">
+                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;display:block;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 411 billion                        <a style="display:inline" data-event-click-tracking="TopNav|WaybackMachineStatsLink" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" data-event-click-tracking="TopNav|WaybackMachineLogoLink" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="enter URL or keywords" name="url" autocomplete="off" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()">
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                                                                <div class="row toprow fivecolumns texts">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/books" data-event-click-tracking="TopNav|FeaturedLink-AllBooks"><span class="iconochive-texts" aria-hidden="true"></span><span class="sr-only">texts</span> All Books</a>
+                            <a href="https://archive.org/details/texts" data-event-click-tracking="TopNav|FeaturedLink-AllTexts">All Texts</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:texts&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInTexts"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries" data-event-click-tracking="TopNav|FeaturedLink-SmithsonianLibraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)" data-event-click-tracking="TopNav|FeaturedLink-FEDLINKUS">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy" data-event-click-tracking="TopNav|FeaturedLink-Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection" data-event-click-tracking="TopNav|FeaturedLink-LincolnCollection">Lincoln Collection</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://archive.org/details/inlibrary?sort=-publicdate" style="background-image: url('https://archive.org/images/book-lend.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-BooksToBorrow" href="https://archive.org/details/inlibrary?sort=-publicdate">Books to Borrow</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/americana" title="American Libraries" data-event-click-tracking="TopNav|TopLink-AmericanLibraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries" data-event-click-tracking="TopNav|TopLink-CanadianLibraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library" data-event-click-tracking="TopNav|TopLink-UniversalLibrary">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts" data-event-click-tracking="TopNav|TopLink-CommunityTexts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg" data-event-click-tracking="TopNav|TopLink-ProjectGutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library" data-event-click-tracking="TopNav|TopLink-BiodiversityHeritageLibrary">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library" data-event-click-tracking="TopNav|TopLink-ChildrenSLibrary">Children's Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                                        <center class="items_list">
+              <div class="items_list_img">
+                <a href="https://openlibrary.org" style="background-image: url('https://archive.org/images/widgetOL.png');" aria-hidden="true" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary"></a>
+              </div>
+              <a class="stealth boxy-label" data-event-click-tracking="TopNav|CircleWidget-OpenLibrary" href="https://openlibrary.org">Open Library</a>
+            </center>
+                                    </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/booksbylanguage" title="Books by Language" data-event-click-tracking="TopNav|TopLink-BooksByLanguage">Books by Language</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections" data-event-click-tracking="TopNav|TopLink-AdditionalCollections">Additional Collections</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns movies">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/movies" data-event-click-tracking="TopNav|FeaturedLink-AllVideo"><span class="iconochive-movies" aria-hidden="true"></span><span class="sr-only">movies</span> All video</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:movies&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInVideo"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives" data-event-click-tracking="TopNav|FeaturedLink-PrelingerArchives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!" data-event-click-tracking="TopNav|FeaturedLink-DemocracyNow">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreet">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library" data-event-click-tracking="TopNav|FeaturedLink-TVNSAClipLibrary">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/tv" style="background-image: url('https://archive.org/services/img/tv');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons" data-event-click-tracking="TopNav|TopLink-AnimationCartoons">Animation &amp; Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music" data-event-click-tracking="TopNav|TopLink-ArtsMusic">Arts &amp; Music</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films" data-event-click-tracking="TopNav|TopLink-CulturalAcademicFilms">Cultural &amp; Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films" data-event-click-tracking="TopNav|TopLink-EphemeralFilms">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies" data-event-click-tracking="TopNav|TopLink-Movies">Movies</a>                                                          <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/911" style="background-image: url('https://archive.org/services/img/911');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos" data-event-click-tracking="TopNav|TopLink-SportsVideos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television" data-event-click-tracking="TopNav|TopLink-Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos" data-event-click-tracking="TopNav|TopLink-VideogameVideos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs" data-event-click-tracking="TopNav|TopLink-Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media" data-event-click-tracking="TopNav|TopLink-YouthMedia">Youth Media</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video" data-event-click-tracking="TopNav|TopLink-CommunityVideo">Community Video</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns audio">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/audio" data-event-click-tracking="TopNav|FeaturedLink-AllAudio"><span class="iconochive-audio" aria-hidden="true"></span><span class="sr-only">audio</span> All audio</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:audio&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInAudio"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead" data-event-click-tracking="TopNav|FeaturedLink-GratefulDead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels" data-event-click-tracking="TopNav|FeaturedLink-Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio" data-event-click-tracking="TopNav|FeaturedLink-OldTimeRadio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings" data-event-click-tracking="TopNav|FeaturedLink-78RPMsAndCylinderRecordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/etree" style="background-image: url('https://archive.org/services/img/etree');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry" data-event-click-tracking="TopNav|TopLink-AudioBooksPoetry">Audio Books &amp; Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio" data-event-click-tracking="TopNav|TopLink-CommunityAudio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology" data-event-click-tracking="TopNav|TopLink-ComputersTechnology">Computers &amp; Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture" data-event-click-tracking="TopNav|TopLink-MusicArtsCulture">Music, Arts &amp; Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs" data-event-click-tracking="TopNav|TopLink-NewsPublicAffairs">News &amp; Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio" data-event-click-tracking="TopNav|TopLink-NonEnglishAudio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion" data-event-click-tracking="TopNav|TopLink-SpiritualityReligion">Spirituality &amp; Religion</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/librivoxaudio" style="background-image: url('https://archive.org/services/img/librivoxaudio');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/podcasts" title="Podcasts" data-event-click-tracking="TopNav|TopLink-Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns software">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/software" data-event-click-tracking="TopNav|FeaturedLink-AllSoftware"><span class="iconochive-software" aria-hidden="true"></span><span class="sr-only">software</span> All software</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:software&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInSoftware"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation" data-event-click-tracking="TopNav|FeaturedLink-OldSchoolEmulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games" data-event-click-tracking="TopNav|FeaturedLink-MSDOSGames">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software" data-event-click-tracking="TopNav|FeaturedLink-HistoricalSoftware">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games" data-event-click-tracking="TopNav|FeaturedLink-ClassicPCGames">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library" data-event-click-tracking="TopNav|FeaturedLink-SoftwareLibrary">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/internetarcade" style="background-image: url('https://archive.org/services/img/internetarcade');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File" data-event-click-tracking="TopNav|TopLink-KodiArchiveAndSupportFile">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/open_source_software" title="Community Software" data-event-click-tracking="TopNav|TopLink-CommunitySoftware">Community Software</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software" data-event-click-tracking="TopNav|TopLink-VintageSoftware">Vintage Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK" data-event-click-tracking="TopNav|TopLink-APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS" data-event-click-tracking="TopNav|TopLink-MSDOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software" data-event-click-tracking="TopNav|TopLink-CDROMSoftware">CD-ROM Software</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library" data-event-click-tracking="TopNav|TopLink-CDROMSoftwareLibrary">CD-ROM Software Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/consolelivingroom" style="background-image: url('https://archive.org/services/img/consolelivingroom');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/softwaresites" title="Software Sites" data-event-click-tracking="TopNav|TopLink-SoftwareSites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library" data-event-click-tracking="TopNav|TopLink-TucowsSoftwareLibrary">Tucows Software Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs" data-event-click-tracking="TopNav|TopLink-SharewareCDROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images" data-event-click-tracking="TopNav|TopLink-CDROMImages">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarecapsules" title="Software Capsules Compilation" data-event-click-tracking="TopNav|TopLink-SoftwareCapsulesCompilation">Software Capsules Compilation</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum" data-event-click-tracking="TopNav|TopLink-ZXSpectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD" data-event-click-tracking="TopNav|TopLink-DOOMLevelCD">DOOM Level CD</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns image">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                                                        <a href="https://archive.org/details/image" data-event-click-tracking="TopNav|FeaturedLink-AllImage"><span class="iconochive-image" aria-hidden="true"></span><span class="sr-only">image</span> All images</a>
+                                                        <a href="https://archive.org/search.php?query=mediatype:image&amp;sort=-publicdate" data-event-click-tracking="TopNav|FeaturedLink-ThisJustInImage"><span class="iconochive-latest" aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons" data-event-click-tracking="TopNav|FeaturedLink-FlickrCommons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr" data-event-click-tracking="TopNav|FeaturedLink-OccupyWallStreetFlickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art" data-event-click-tracking="TopNav|FeaturedLink-CoverArt">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps" data-event-click-tracking="TopNav|FeaturedLink-USGSMaps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/metropolitanmuseumofart-gallery" style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/nasa" data-event-click-tracking="TopNav|TopLink-NASAImages">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection" data-event-click-tracking="TopNav|TopLink-SolarSystemCollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary" data-event-click-tracking="TopNav|TopLink-AmesResearchCenter">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a href="https://archive.org/details/brooklynmuseum" style="background-image: url('https://archive.org/services/img/brooklynmuseum');" aria-hidden="true" data-event-click-tracking="ItemList|ItemListLink"></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="ItemList|ItemListLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                  </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+    
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        
+    <script type="text/javascript">show_donation_banner();</script>
+      <div class="container">
+    <div class="row" style="margin-top: 30px">
+      <div class="col-md-4 col-sm-4 col-xs-4 text-right">
+	<div id="donation-link" class="web_message">
+  <a href="http://archive.org/donate/" data-event-click-tracking="Wayback|DonateButton" class="beta_button">DONATE</a>
+</div>
+
+      </div>
+      <div class="col-md-4 col-sm-4 col-xs-4 text-center">
+        <div id="logoHome">
+          <a href="/web/"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+        </div>
+      </div>
+    </div>
+    <div id="errorBorder">
+      <div id="positionHome">
+<div id="searchHome">
+	      <form name="form1" method="get" action="/web/submit">
+		<input type="text" name="url" value="http://www.mobihand.com/common_files/cartSummaryAjax.asp?posid=1&amp;slc=EN" size="40" onfocus="javascript:this.focus();this.select();">
+		<button type="submit" name="type" value="replay">Latest</button>
+		<button type="submit" name="type" value="urlquery">Show All</button>
+	      </form>
+	    </div>
+<div id="error">
+<h2>Hrm.</h2>
+<p>The Wayback Machine has not archived that URL.</p>
+    <div id="livewebInfo" class="unavailable">
+      <p>This page is not available on the web</p>
+      <p>because of server error</p>
+    </div>
+    <p>Click here to search for all archived pages under
+      <a href="https://web.archive.org/web/*/http://www.mobihand.com/common_files/*">http://www.mobihand.com/common_files/</a>.
+    </p>
+</div>
+	  </div>
+	</div>
+  </div>
+    <noscript>
+      <div class="no-script-message">
+        The Wayback Machine requires your browser to support JavaScript, please email <a href="mailto:info@archive.org">info@archive.org</a><br/>if you have any questions about this.
+      </div>
+    </noscript>
+    <footer>
+      <div id="footerHome">
+        <p>
+          The Wayback Machine is an initiative of the
+          <a href="//archive.org/">Internet Archive</a>,
+          a 501(c)(3) non-profit, building a digital library of
+          Internet sites and other cultural artifacts in digital form.
+          <br>Other <a href="//archive.org/projects/">projects</a> include
+          <a href="https://openlibrary.org/">Open Library</a> &amp;
+          <a href="https://archive-it.org">archive-it.org</a>.
+        </p>
+        <p>
+          Your use of the Wayback Machine is subject to the Internet Archive's
+          <a href="//archive.org/about/terms.php">Terms of Use</a>.
+        </p>
+      </div>
+    </footer>
+  
+</div>
+
+	<span id="cart_checkout"><a class="cartcontents buttoncheckout" href="https://www.mobihand.com/cart1.asp?posid=1&amp;src=cartContent">checkout</a></span>
+		<span id="cart_close"><a class="cartcontents buttonclose" href="javascript:toggleCart();">&nbsp;</a></span>
+	</div>
+	<div id="showCart" style="position:absolute;"></div>
+	<div id="cartBlocker"></div>
+	</div>
+<script type="text/javascript" language="javascript">
+getCartItems();
+</script>
+
+<script language="javascript">
+	function hideLayers(ev)
+{
+	var e = window.event || ev;
+	var objCartContainer = document.getElementById("cartContainer")
+	var objShowCart = document.getElementById("showCart");
+	var objIncLoginForm = document.getElementById("incLoginForm");
+	var objDevicesLayer = document.getElementById("devicesLayer");
+	var objDevicesLayerMain = document.getElementById("devicesLayerMain");
+	var objPreviewPopup = document.getElementById("preview_container");
+	bCloseLayer = e.clientX < window.screen.width-20;
+
+	var hl_scrollX, hl_scrollY;
+    if (self.pageYOffset) {
+        // all browsers except IE
+        hl_scrollX = self.pageXOffset;
+        hl_scrollY = self.pageYOffset;
+    } else if (document.documentElement && document.documentElement.scrollTop) {
+        // some IE
+        hl_scrollX = document.documentElement.scrollLeft;
+        hl_scrollY = document.documentElement.scrollTop;
+    } else {
+        // the rest
+        hl_scrollX = document.body.scrollLeft;
+        hl_scrollY = document.body.scrollTop;
+    }
+
+	if(bCloseLayer && objShowCart && direction=="down" && top_y >= start_y && (e.clientX<objCartContainer.offsetLeft || e.clientX>(objCartContainer.offsetLeft + objShowCart.offsetWidth) || e.clientY<(objCartContainer.offsetTop - 15) || e.clientY>(objCartContainer.offsetTop+objShowCart.offsetHeight + 15)))
+	{
+		HideCartLayer();
+	}
+
+	if(bCloseLayer && objIncLoginForm && (e.clientX<objIncLoginForm.offsetLeft || e.clientX>(objIncLoginForm.offsetLeft + objIncLoginForm.offsetWidth) || e.clientY<objIncLoginForm.offsetTop || e.clientY>(objIncLoginForm.offsetTop+objIncLoginForm.offsetHeight)))
+	{
+		objIncLoginForm.style.visibility = "hidden";
+		objIncLoginForm.style.display = "none";
+		bShowLogin = false;
+		window.clearInterval(lid);
+		if (document.getElementById("showIncLoginLink")) {
+		    document.getElementById("showIncLoginLink").className = "showIncLoginLinkUnSelected";
+	    }
+	    if (document.getElementById("loginconnect")) {
+			document.getElementById("loginconnect").style.display = "none";
+			document.getElementById("loginconnect").style.visibility = "hidden";
+	    }
+	}
+	if(bCloseLayer && document.getElementById("closeDevicesLayer") && objDevicesLayer && (e.clientX < (objDevicesLayerMain.offsetLeft + objDevicesLayer.offsetLeft) || e.clientX > (objDevicesLayerMain.offsetLeft + objDevicesLayer.offsetLeft + objDevicesLayer.offsetWidth) || e.clientY<objDevicesLayerMain.offsetTop || e.clientY>(objDevicesLayerMain.offsetTop+objDevicesLayer.offsetHeight)))
+	{
+		//objDevicesLayer.style.visibility = "hidden";
+		//objDevicesLayer.style.display = "none";
+		window.clearInterval(closeDevice);
+	}
+
+	if (bCloseLayer && objPreviewPopup && (e.clientX<objPreviewPopup.offsetLeft || e.clientX>(objPreviewPopup.offsetLeft + objPreviewPopup.offsetWidth) || e.clientY<(objPreviewPopup.offsetTop - hl_scrollY) || e.clientY>(objPreviewPopup.offsetTop + objPreviewPopup.offsetHeight - hl_scrollY)))
+	{
+	    close_preview();
+	}
+
+}
+
+document.onmousedown=hideLayers;
+</script>
+          </td>
+<!--
+          <td align=right nowrap class=small >
+          
            </td> 
+-->
+  
           </tr>
       </tbody></table> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2">
             <tbody><tr> 
-                <td width="250"></td>
+                <td width="250"></td>  
 
 
                 <td valign="top" class="tabneutralleft" height="38" width="11"></td>
@@ -200,9 +913,9 @@ $0.00 (0 item) </font>
 </td> 
   </tr>
   <tr>
-    <td align="center" height="28" valign="middle" class="tabhome">
+    <td align="center" height="27" valign="middle" class="tabhome">
   
-		<a class="subnav" href="platformMain.asp?platform=1">Palm OS</a> l 
+		<a class="subnavselected" href="platformMain.asp?platform=1">Palm OS</a> l 
 		<a class="subnav" href="platformMain.asp?platform=2">Windows Mobile Pocket PC</a> l  
 		<a class="subnav" href="platformMain.asp?platform=3">Windows Mobile Smartphone</a> l 
 		<a class="subnav" href="platformMain.asp?platform=4">Symbian OS</a> l 
@@ -211,59 +924,78 @@ $0.00 (0 item) </font>
     </td>
   </tr>  
   <tr>  
-    <td valign="middle">
-
-<table width="100%" class="home" height="28">
+    <td valign="middle"><table width="100%" class="searchbar" height="28">
 	<tbody><tr>
-		<td width="50%" align="right"><font color="#ffffff"><b>Search:</b></font></td>
+		<td width="85%" align="right">
+<table width="100%" cellpadding="3" bgcolor="#ffffff" class="small">
+	<tbody><tr>
+		<td>
+			<a class="mostsearches" href="homeSoftware.asp?platform=1&amp;sString=Sudoku">Sudoku</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=VolumeCare">VolumeCare</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Player">Player</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches3" href="homeSoftware.asp?platform=1&amp;sString=Voice">Voice</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches" href="homeSoftware.asp?platform=1&amp;sString=CorePlayer">CorePlayer</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Weather">Weather</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches3" href="homeSoftware.asp?platform=1&amp;sString=Launcher">Launcher</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Ringtones">Ringtones</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches" href="homeSoftware.asp?platform=1&amp;sString=Video">Video</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Security">Security</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Backup">Backup</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches3" href="homeSoftware.asp?platform=1&amp;sString=Music">Music</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Contacts">Contacts</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=MP3">MP3</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches" href="homeSoftware.asp?platform=1&amp;sString=GPS">GPS</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches3" href="homeSoftware.asp?platform=1&amp;sString=Calendar">Calendar</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Entertainment">Entertainment</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches2" href="homeSoftware.asp?platform=1&amp;sString=Agendus">Agendus</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches3" href="homeSoftware.asp?platform=1&amp;sString=Call+Recorder">Call Recorder</a> &nbsp;&nbsp;&nbsp; <a class="mostsearches" href="homeSoftware.asp?platform=1&amp;sString=Games">Games</a>
+        </td>
+	</tr>
+</tbody></table></td>
+		<td width="15%">
+
+<table width="100%" class="small">
+	<tbody><tr>
+		<td align="center"><font color="white"><b>Search MobiHand.com</b></font></td>
+	</tr>
+	<tr>
 		<td><script language="javascript">
-	function ValidateText1()
-	{
-		if(event.keyCode==13)
-		{
-			if (document.getElementById("ssearch").value=="")
-			{
-				alert("Please enter keyword to search")
-				return false;
-			}	
-			return true;	
-		}
-	}
+    var bSearched = false
 	function ValidatePage1()
 	{
-		if (document.getElementById("ssearch").value=="")
+	    if(!bSearched)
+	    {
+	        sSearchText = document.getElementById("ssearch").value
+	        while(sSearchText.indexOf(" ")>-1)
+	        {
+	            sSearchText = sSearchText.replace(" ","")
+	        }
+		    if (sSearchText=="")
+		    {
+			    alert("Please enter keyword to search")
+			    return false;
+		    }
+		    document.getElementById("cmdSearch").title = "Please wait";
+		    document.body.style.cursor = "wait";
+		    bSearched = true;
+		    return true;
+		}
+		else
 		{
-			alert("Please enter keyword to search")
-			return false;
-		}	
-		return true;	
+		    return false;
+		}
 	}
 </script>
 
-<table cellspacing="0" cellpadding="0" width="100%">
-<form method="get" action="homeSoftware.asp" name="searchform" id="Form1" target="_top"></form>
+<table cellspacing="0" cellpadding="0" border="0">
+<form method="get" action="homeSoftware.asp" name="searchform" id="Form1" target="_top" onsubmit="return ValidatePage1()"></form>
 
 	<tbody><tr><td>
 		<input type="hidden" name="platform" id="platform" value="-1">
 	</td></tr>
 
 		<tr>
-		  <td width="100"><input class="search" type="text" name="sString" size="13" id="ssearch" onkeydown="return ValidateText1()"> 
+		  <td><input class="search" type="text" name="sString" size="13" id="ssearch">
 		  </td>
 		  <td>
-		  <input type="image" name="submit" src="images/searchButton.gif" onclick="return ValidatePage1()"></td>
+		  <input name="cmdSearch" id="cmdSearch" type="image" src="images/searchButton.gif"></td>
 		</tr>
 
 </tbody></table></td>
 	</tr>
 </tbody></table>
-		
 </td>
-  </tr>
+	</tr>
+</tbody></table>
+		
+</td> 
+  </tr> 
  <tr>
     <td valign="bottom" height="20" align="left"><font class="breadcrumb">You are here:<font>&nbsp;
 <span class="breadcrumb">
-<a class="breadcrumb" href="Home.asp">Store Home</a><a> » </a><a class="breadcrumb" href="homeSoftware.asp">Software</a>
+<a class="breadcrumb" href="Home.asp">Store Home</a> » <a class="breadcrumb" href="homeSoftware.asp">Software</a> » <a class="breadcrumb" href="platformMain.asp?platform=1">Palm OS Software</a> » Support
 </span><br>
 </font></font></td>
   </tr>
@@ -281,15 +1013,16 @@ $0.00 (0 item) </font>
                 <table cellpadding="5" cellspacing="0" border="0" width="100%" class="boxleft">
                     <tbody><tr>
                         <td class="boxmydevice">
-                            <div style="position:relative;"><div id="devicesLayer"></div></div>
+                            <div id="devicesLayerMain" style="position:relative;z-index:150;"><div id="devicesLayer"></div></div>
 
 <script language="JavaScript" type="text/JavaScript">
+	var closeDevice
 	function openSelectDevice(url)
 	{
 		    wwin=window.open(url,'wwin','width=400,height=600,resizable=1,scrollbars=1,menubar=0,toolbars=0,titlebar=0,statusbar=0,top=5,left=5');
 		    wwin.focus();
 	}
-	function selectDevice(nDeviceID)
+	function selectDevice(nDeviceID,sSearchSrting)
 	{
 		if(nDeviceID == -1)
 		{
@@ -301,7 +1034,11 @@ $0.00 (0 item) </font>
 			var e = document.getElementById('devicesLayer');
 			if (e) {
 			    e.style.display="none";
-			    makeGetRequest('/common_files/inc_chooseDeviceAjax.asp?posid=1&manId='+nDeviceID);
+			    makeGetRequest('/common_files/inc_chooseDeviceAjax.asp?gsSiteInterfaceLanguageCode=EN&sDeviceSearchString=' + sSearchSrting + '&scriptName=/support.asp&posid=1&manId='+nDeviceID);
+			    if(document.getElementById("manId"))
+			    {
+					document.getElementById("manId").value = 0
+				}
 			}
 		}
 	}
@@ -313,7 +1050,9 @@ $0.00 (0 item) </font>
 		}
 		else if (nDeviceID > 0)
 		{
-			window.location.href = 'homeSoftware.asp?deviceid=' + nDeviceID;
+			
+			window.location.href = '/support.asp?deviceid=' + nDeviceID;
+			
 		}
 	}
 
@@ -342,7 +1081,15 @@ $0.00 (0 item) </font>
     function updateDevicesLayer() {
         if (xhr.readyState==4 || xhr.readyState=="complete") {
             var e = document.getElementById('devicesLayer');
-            if (e) {
+            if (e && xhr.status==200) {
+                var agt=navigator.userAgent.toLowerCase();
+                var is_safari = ((agt.indexOf('safari')!=-1)&&(agt.indexOf('mac')!=-1))?true:false;
+
+                if (is_safari) {
+                    e.style.height="300px";
+                    e.style.overflow="auto";
+                }
+                e.style.visibility = "visible";
 			    e.style.display="block";
                 e.innerHTML=xhr.responseText;
             }
@@ -353,117 +1100,125 @@ $0.00 (0 item) </font>
         var e = document.getElementById('devicesLayer');
         if (e) {
             document.getElementById('devicesLayer').style.display="none";
+            window.clearInterval(closeDevice)
+
         }
     }
 	</script>
-<table cellpadding="2" cellspacing="0" id="Table14" width="100%" class="mydevices">
+<table cellpadding="2" cellspacing="2" id="Table14" width="100%" class="mydevices">
 
-			<tbody><tr><td colspan="2" align="center"><img src="http://www.mobihand.com/images/nodevice.gif" border="0">
-			</td></tr>
-
-							<tr>
-							<td align="center" colspan="2" height="8"></td>
-				</tr>
+	<tbody><tr><td valign="top" align="center">
+<table width="100%" align="center" cellpadding="2" border="0" class="mydevices">
+	<tbody><tr>
+		<td width="50" align="center"><img src="https://www.mobihand.com/images/nodevice.gif" border="0"></td>
+		<td valign="middle" align="left"><b>Select your device to display compatible products</b></td>
+	</tr>
+</tbody></table>
+	</td></tr>
 
 </tbody></table>
 <center>
 
-	<select name="manId" onchange="selectDevice(this.value)" class="choosedevice">
-		
-			<option selected="" value="0">Choose Device</option>
-		
-			<option value="100">Acer</option>
+		<select name="manId" id="manId" onchange="selectDevice(this.value,'')" class="choosedevice">
 			
-			<option value="642">Amoi</option>
+				<option selected="" value="0">Choose Device</option>
 			
-			<option value="138">AnexTEK</option>
-			
-			<option value="136">Arima</option>
-			
-			<option value="131">Asus</option>
-			
-			<option value="101">Audiovox</option>
-			
-			<option value="137">BenQ</option>
-			
-			<option value="133">BlackBerry</option>
-			
-			<option value="102">Casio</option>
-			
-			<option value="602">Cingular</option>
-			
-			<option value="103">Dell</option>
-			
-			<option value="132">Dopod</option>
-			
-			<option value="573">E-Ten</option>
-			
-			<option value="104">Fujitsu-Siemens</option>
-			
-			<option value="105">Garmin</option>
-			
-			<option value="106">GSL</option>
-			
-			<option value="107">Handspring</option>
-			
-			<option value="108">Hitachi</option>
-			
-			<option value="109">HP</option>
-			
-			<option value="639">HTC</option>
-			
-			<option value="147">i-mate</option>
-			
-			<option value="111">Kyocera</option>
-			
-			<option value="135">Lenovo</option>
-			
-			<option value="112">Mexmal</option>
-			
-			<option value="113">MiTAC</option>
-			
-			<option value="114">Motorola</option>
-			
-			<option value="601">NavMan</option>
-			
-			<option value="115">NEC</option>
-			
-			<option value="116">Nokia</option>
-			
-			<option value="117">O2</option>
-			
-			<option value="118">Orange</option>
-			
-			<option value="119">Palm</option>
-			
-			<option value="134">Panasonic</option>
-			
-			<option value="110">Qtek</option>
-			
-			<option value="120">Razor</option>
-			
-			<option value="121">Samsung</option>
-			
-			<option value="122">Sendo</option>
-			
-			<option value="123">Siemens</option>
-			
-			<option value="124">Sony</option>
-			
-			<option value="125">Sony Ericsson</option>
-			
-			<option value="126">T-Mobile</option>
-			
-			<option value="127">Tapwave</option>
-			
-			<option value="128">Toshiba</option>
-			
-			<option value="129">ViewSonic</option>
-			
-			<option value="572">Yakumo</option>
-			
-	</select>
-
+				<option value="100">Acer</option>
+				
+				<option value="642">Amoi</option>
+				
+				<option value="138">AnexTEK</option>
+				
+				<option value="647">Apple</option>
+				
+				<option value="136">Arima</option>
+				
+				<option value="131">Asus</option>
+				
+				<option value="101">Audiovox</option>
+				
+				<option value="137">BenQ</option>
+				
+				<option value="133">BlackBerry</option>
+				
+				<option value="102">Casio</option>
+				
+				<option value="602">Cingular</option>
+				
+				<option value="103">Dell</option>
+				
+				<option value="132">Dopod</option>
+				
+				<option value="573">E-Ten</option>
+				
+				<option value="104">Fujitsu-Siemens</option>
+				
+				<option value="105">Garmin</option>
+				
+				<option value="106">GSL</option>
+				
+				<option value="108">Hitachi</option>
+				
+				<option value="109">HP</option>
+				
+				<option value="639">HTC</option>
+				
+				<option value="147">i-mate</option>
+				
+				<option value="135">Lenovo</option>
+				
+				<option value="112">Mexmal</option>
+				
+				<option value="113">MiTAC</option>
+				
+				<option value="114">Motorola</option>
+				
+				<option value="601">NavMan</option>
+				
+				<option value="115">NEC</option>
+				
+				<option value="116">Nokia</option>
+				
+				<option value="117">O2</option>
+				
+				<option value="118">Orange</option>
+				
+				<option value="119">Palm</option>
+				
+				<option value="134">Panasonic</option>
+				
+				<option value="110">Qtek</option>
+				
+				<option value="120">Razor</option>
+				
+				<option value="121">Samsung</option>
+				
+				<option value="122">Sendo</option>
+				
+				<option value="123">Siemens</option>
+				
+				<option value="185">Socket</option>
+				
+				<option value="124">Sony</option>
+				
+				<option value="125">Sony Ericsson</option>
+				
+				<option value="661">Sprint</option>
+				
+				<option value="126">T-Mobile</option>
+				
+				<option value="127">Tapwave</option>
+				
+				<option value="128">Toshiba</option>
+				
+				<option value="129">ViewSonic</option>
+				
+				<option value="659">Xscape</option>
+				
+				<option value="572">Yakumo</option>
+				
+		</select>
+	
 </center>
                         </td>
                     </tr>
@@ -539,24 +1294,23 @@ $0.00 (0 item) </font>
                                     <td width="4%">
                                     </td>
                                     <td width="96%"><font class="headersmall">By Platform</font>
-                                        
-<table border="0" cellpadding="0" cellspacing="1" width="100%">
+                                        <table border="0" cellpadding="0" cellspacing="1" width="100%">
 
-                <tbody><tr>
 
-          <td><a class="selectos" target="_top" href="platformMain.asp?platform=1">Palm OS</a><br>
+	<tbody><tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=1">Palm OS</a></td></tr>
 
-        
-		<a class="selectos" target="_top" href="platformMain.asp?platform=2">Windows Mobile Pocket PC</a><br>
-        
-        <a class="selectos" target="_top" href="platformMain.asp?platform=3">Windows Mobile Smartphone</a><br>
-         
-                
-        <a class="selectos" target="_top" href="platformMain.asp?platform=4">Symbian</a><br> 
-                
-     <a class="selectos" target="_top" href="platformMain.asp?platform=5">BlackBerry</a><br> 
-                
-      </td></tr></tbody></table>
+	<tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=2">Windows Mobile Pocket PC</a></td></tr>
+
+	<tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=3">Windows Mobile Smartphone</a></td></tr>
+
+	<tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=4">Symbian</a></td></tr>
+
+	<tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=5">BlackBerry</a></td></tr>
+
+     <tr><td><a class="selectos" target="_top" href="platformMain.asp?platform=10">iPhone</a></td></tr>
+
+</tbody></table>
+
                                     </td>
                                 </tr>
                             </tbody></table><br>
@@ -569,77 +1323,77 @@ $0.00 (0 item) </font>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Business+%26+Finance&amp;CatID=1">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=1">
 			Business &amp; Finance
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Communication+%26+Internet&amp;CatID=5">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=5">
 			Communication &amp; Internet
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Databases&amp;CatID=2">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=2">
 			Databases
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=E%2DBooks&amp;CatID=11">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=11">
 			E-Books
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Education+%26+Reference&amp;CatID=6">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=6">
 			Education &amp; Reference
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Entertainment&amp;CatID=7">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=7">
 			Entertainment
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Games&amp;CatID=8">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=8">
 			Games
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Medical&amp;CatID=9">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=9">
 			Medical
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Personal+Productivity&amp;CatID=4">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=4">
 			Personal Productivity
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Professional&amp;CatID=3">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=3">
 			Professional
 
 			 </a></td>
 		</tr>
 				<tr>
 			
-				<td width="100%"><a target="_top" class="browsecateg" href="homeSoftware.asp?platform=-1&amp;sString=Travel&amp;CatID=10">
+				<td width="100%"><a target="_top" class="browsecateg" href="platformMain.asp?platform=1&amp;Category=10">
 			Travel
 
 			 </a></td>
@@ -661,127 +1415,132 @@ $0.00 (0 item) </font>
                                     </td>
                                     <td width="96%">
                                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1018">
-			Accessory Deals
-			 </a></td>
-		</tr>
+<tbody><tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1018">
+					Accessory Deals
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1009">
-			Batteries
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1009&amp;hSubcategory=293">
+					Batteries
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1090">
-			Battery Covers
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1090&amp;hSubcategory=306">
+					Battery Covers
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1010">
-			Bluetooth
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1010">
+					Bluetooth
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1003">
-			Books
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1003&amp;hSubcategory=289">
+					Books
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1004">
-			Car Kits
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1004">
+					Car Kits
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1021">
-			Card Readers
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1021&amp;hSubcategory=304">
+					Card Readers
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1005">
-			Cases
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1005">
+					Cases
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1006">
-			Chargers &amp; Cables
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1006">
+					Chargers &amp; Cables
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1007">
-			Cradles
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1007&amp;hSubcategory=291">
+					Cradles
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1011">
-			GPS Navigation
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1011">
+					GPS Navigation
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1022">
-			Headphones
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1022">
+					Headphones
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1012">
-			Headsets
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1012">
+					Headsets
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1014">
-			Keyboards
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1014&amp;hSubcategory=298">
+					Keyboards
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1008">
-			Memory Expansion
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1008">
+					Memory Expansion
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1013">
-			Music &amp; Video
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1013">
+					Music &amp; Video
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1091">
-			Printers
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1091">
+					Printers
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1023">
-			Recovery Service
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1023&amp;hSubcategory=305">
+					Recovery Service
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1015">
-			Screen Protectors
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1015&amp;hSubcategory=299">
+					Screen Protectors
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1002">
-			SDIO Add-ons
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1002">
+					SDIO Add-ons
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1020">
-			Software Cards
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1095&amp;hSubcategory=350">
+					Signal Boosters
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1094">
-			Spare Parts
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1020&amp;hSubcategory=260">
+					On CD-ROM
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1016">
-			Styli
-			 </a></td>
-		</tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1094&amp;hSubcategory=330">
+					Spare Parts
+					 </a></td>
+				</tr>
 				<tr>
-			<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1019">
-			WiFi
-			 </a></td>
-		</tr>
-		
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1016&amp;hSubcategory=300">
+					Styli
+					 </a></td>
+				</tr>
+				<tr>
+					<td width="100%"><a target="_top" class="browsecateg" href="homeAccessories.asp?hCategory=1019&amp;hSubcategory=169">
+					Wifi Sleds
+					 </a></td>
+				</tr>
+				
 </tbody></table>
                                     </td>
                                 </tr>
@@ -789,7 +1548,7 @@ $0.00 (0 item) </font>
                         </td>
                     </tr>
                 </tbody></table>
-                <table height="25" cellspacing="0" cellpadding="0" width="100%" border="0">
+                 <table height="25" cellspacing="0" cellpadding="0" width="100%" border="0">
                     <tbody><tr class="rowlight">
                         <td class="barblue" width="100%">Newsletters</td>
                     </tr>
@@ -802,95 +1561,62 @@ $0.00 (0 item) </font>
                                     <td width="4%">
                                     </td>
                                     <td width="96%">
-                                        <font class="normal">Hot deals on software and accessories. Every two weeks on the Mobihand newsletter.</font>
+                                        <font class="normal">Hot deals on software and accessories only on our newsletter.</font>
                                         <br>
                                         <script language="javascript">
-function emailCheck(emailStr)
+function newsletterAjax(num)
 {
-	var checkTLD=1;
-	var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum|tv)$/;
-	var emailPat=/^(.+)@(.+)$/;
-	var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
-	var validChars="\[^\\s" + specialChars + "\]";
-	var quotedUser="(\"[^\"]*\")";
-	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-	var atom=validChars + '+';
-	var word="(" + atom + "|" + quotedUser + ")";
-	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
-	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
-	var matchArray=emailStr.match(emailPat);
-
-	if (matchArray==null)
+	var e = document.getElementById("newsletterConfirmatrion")
+	if(e)
 	{
-		alert("Please enter a correct email address.");
-		return false;
-	}
-
-	var user=matchArray[1];
-	var domain=matchArray[2];
-	for (i=0; i<user.length; i++)
-	{
-		if (user.charCodeAt(i)>127)
+		if (window.XMLHttpRequest)
 		{
-			alert("Please enter a correct email address.");
-			return false;
+		    xhr = new XMLHttpRequest();
+		}
+		else if (window.ActiveXObject)
+		{
+		    try
+		    {
+			    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+		    }
+		    catch(e)
+		    {
+			    xhr = false;
+		    }
 		}
 
-	}
-	for (i=0; i<domain.length; i++)
-	{
-		if (domain.charCodeAt(i)>127)
+		if (!xhr)
 		{
-			alert("Please enter a correct email address.\nThe domain name appears to be invalid.");
-			return false;
+		    alert('Cannot create XMLHTTP instance');
+		    return false;
 		}
-	}
-
-	if (user.match(userPat)==null)
-	{
-		alert("Please enter a correct email address.");
-		return false;
-	}
-
-	var IPArray=domain.match(ipDomainPat);
-	if (IPArray!=null)
-	{
-		for (var i=1;i<=4;i++)
+		e.style.visibility = "visible";
+		e.style.display="block";
+		e.innerHTML = "<br><img src=\"images/loading.gif\"><br>"
+		xhr.onreadystatechange = updateNewsLetter;
+		var subscription_id
+		subscription_id = ""
+		for(n = 1;n<=num;n++)
 		{
-			if (IPArray[i]>255)
+			if(document.getElementById("subscription_id" + n).checked)
 			{
-				alert("Your email destination IP address is invalid!");
-				return false;
-		   }
+				subscription_id = subscription_id + ", " + document.getElementById("subscription_id" + n).value
+			}
 		}
-		return true;
-	}
-
-	var atomPat=new RegExp("^" + atom + "$");
-	var domArr=domain.split(".");
-	var len=domArr.length;
-	for (i=0;i<len;i++)
-	{
-		if (domArr[i].search(atomPat)==-1)
-		{
-			alert("Please enter a correct email address..");
-			return false;
-	   }
-	}
-
-	if (checkTLD && domArr[domArr.length-1].length!=2 &&
-	domArr[domArr.length-1].search(knownDomsPat)==-1)
-	{
-		alert("Please enter a correct email address.");
-		return false;
-	}
-
-	if (len<2)
-	{
-		alert("Please enter a correct email address.");
-		return false;
+		sParameter = "gsSiteInterfaceLanguageCode=EN&email=" + document.getElementById("newsletterEmail").value + "&subscription_id=" + subscription_id
+		xhr.open('GET', "/common_files/inc_newsletterAjax.asp?" + sParameter, true);
+		xhr.send(null);
 	}
 	return true;
+}
+function updateNewsLetter()
+{
+    if (xhr.readyState==4 || xhr.readyState=="complete") {
+        var e = document.getElementById("newsletterConfirmatrion")
+        if (e && xhr.status==200) {
+            e.innerHTML=xhr.responseText;
+        }
+    }
 }
 
 function getItem1(sName)
@@ -911,21 +1637,24 @@ function getItem1(sName)
 <table width="100%" border="0" cellspacing="3" cellpadding="0" align="center">
 		<tbody><tr>
 			<td class="newsletters" align="left">
-<form action="subscribe.asp" method="post" name="frm" id="frm" onsubmit="javascript:  if ( emailCheck((getItem1(&quot;email&quot;)).value) )  return(true); else return(false); ">
+<form name="form">
 
 
 
-			<br><input class="newsletters" type="checkbox" name="subscription_id" value="1"> Palm OS
-			<br><input class="newsletters" type="checkbox" name="subscription_id" value="2"> Pocket PC
-			<br><input class="newsletters" type="checkbox" name="subscription_id" value="3"> Windows Smartphone
-			<br><input class="newsletters" type="checkbox" name="subscription_id" value="4"> Symbian
-			<br><input class="newsletters" type="checkbox" name="subscription_id" value="5"> BlackBerry<br>
+			<br><input class="newsletters" type="checkbox" name="subscription_id" id="subscription_id1" value="1"> Palm OS
+			<br><input class="newsletters" type="checkbox" name="subscription_id" id="subscription_id2" value="2"> Pocket PC
+			<br><input class="newsletters" type="checkbox" name="subscription_id" id="subscription_id3" value="3"> Windows Smartphone
+			<br><input class="newsletters" type="checkbox" name="subscription_id" id="subscription_id4" value="4"> Symbian
+			<br><input class="newsletters" type="checkbox" name="subscription_id" id="subscription_id5" value="5"> BlackBerry<br>
 
 <br>
-Email Address
+Email
 
-				<input type="text" name="email" size="15" id="email"><br><br>
-				<input type="submit" border="0" value="Subscribe" name="Subscribe" align="absmiddle" id="Image2" class="buttonnewsletter">
+				<input type="text" name="newsletterEmail" size="15" id="newsletterEmail" class="newsletters"><br><br>
+				<input type="button" border="0" value="Subscribe" name="Subscribe" align="absmiddle" id="Image2" class="buttonnewsletter" onclick="javascript:  if (newsletterAjax(5))  return(true); else return(false); ">
+
+
+<div id="newsletterConfirmatrion" style="visibility:hidden;display:none"><br><img src="images/loading.gif"><br></div>
 
 		<input type="hidden" name="redir" value="http://www.mobihand.com/">
 
@@ -945,6 +1674,94 @@ Email Address
             <td width="10">&nbsp;</td>
             <td>
                 
+<script language="javascript">
+	function SendSupportAjaxRequest(sUrl,sAction,sImageCode,sMD5SecureCode)
+	{
+		var e = document.getElementById("SupportResult")
+		if(e)
+		{
+			if (window.XMLHttpRequest)
+			{
+			    xhr = new XMLHttpRequest();
+			}
+			else if (window.ActiveXObject)
+			{
+			    try
+			    {
+				    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+			    }
+			    catch(e)
+			    {
+				    xhr = false;
+			    }
+			}
+
+			if (!xhr)
+			{
+			    alert('Cannot create XMLHTTP instance');
+			    return false;
+			}
+
+			e.style.visibility = "visible";
+			e.style.display="block";
+			e.innerHTML = "<br><br><center><img src=\"https://www.mobihand.com/images/loading.gif\"></center><br><br>"
+			xhr.onreadystatechange = updateSupport;
+			if(sAction=="contactSupport")
+			{
+				requiredFirst = document.getElementById("requiredFirst").value
+				requiredLast = document.getElementById("requiredLast").value
+				Supportemail = document.getElementById("Supportemail").value
+				orderId = document.getElementById("orderId").value
+				productName = document.getElementById("productName").value
+				category = document.getElementById("category").value
+				productType = document.getElementById("productType").value
+				supportimgCode = document.getElementById("supportimgCode").value
+				requiredProblemDesc = document.getElementById("requiredProblemDesc").value
+				gsSiteInterfaceLanguageCode = "EN"
+				sParameter = "?sMD5SecureCode="+sMD5SecureCode+"&productType="+productType+"&redir1=http://www.mobihand.com/&ImageText="+sImageCode+"&gsSiteInterfaceLanguageCode="+gsSiteInterfaceLanguageCode+"&action="+sAction+"&requiredFirst="+requiredFirst+"&requiredLast="+requiredLast+"&Supportemail="+Supportemail+"&orderId="+orderId+"&productName="+productName+"&category="+category+"&supportimgCode="+supportimgCode+"&requiredProblemDesc="+requiredProblemDesc
+			}
+			else
+			{
+				requiredFirst = document.getElementById("requiredFirst").value
+				requiredLast = document.getElementById("requiredLast").value
+				Supportemail = document.getElementById("Supportemail").value
+				supportimgCode = document.getElementById("supportimgCode").value
+				feedback = document.getElementById("feedback").value
+				sParameter = "?POSName=MobiHand&sMD5SecureCode="+sMD5SecureCode+"&action="+sAction+"&requiredFirst="+requiredFirst+"&requiredLast="+requiredLast+"&Supportemail="+Supportemail+"&supportimgCode="+supportimgCode+"&feedback="+feedback
+			}
+
+			xhr.open('GET', sUrl + sParameter, true);
+			xhr.send(null);
+		}
+
+	}
+	function updateSupport()
+	{
+		if (xhr.readyState==4 || xhr.readyState=="complete")
+		{
+		    var e = document.getElementById("SupportResult");
+		    var f = document.getElementById("HeaderText");
+		    if (e)
+		    {
+				e.style.visibility = "visible";
+			    e.style.display="block";
+			    innerText = xhr.responseText
+			    if(innerText.indexOf("missing") > -1 || innerText.indexOf("incorrect") > -1)
+			    {
+		            e.innerHTML=innerText;
+		        }
+		        else
+		        {
+		            e.innerHTML="";
+		            f.innerHTML=innerText;
+		            document.getElementById("MainForm").style.visibility = "hidden";
+		            document.getElementById("MainForm").style.display= "none";
+		        }
+		    }
+		}
+	}
+</script>
+
 <table class="support" id="Table5" cellspacing="0" cellpadding="2" width="100%">
 	<tbody><tr>
 		<td>
@@ -1029,10 +1846,17 @@ Effective Date: November 15,2004
 <a href="http://corporate.mobihand.com">About Us</a> | 
 <a href="rssFeed.asp">Store RSS Feed</a> | 
 <a href="http://corporate.mobihand.com/servicesdev.asp">Software Developers</a> <br><br> 
-<a target="_blank" href="http://www.onlyblackberry.com">www.onlyblackberry.com</a>  |  <a target="_blank" href="http://www.onlytreo.com">www.onlytreo.com</a>  |  <a href="http://www.onlyipaq.com" target="_blank">www.onlyipaq.com</a>  |  <a target="_blank" href="http://www.motoqapps.com">www.motoqapps.com</a><br><br>
+<a target="_blank" href="http://www.onlyblackberry.com">www.onlyblackberry.com</a>  |  <a target="_blank" href="http://www.onlytreo.com">www.onlytreo.com</a>  |  <a href="http://www.onlyipaq.com" target="_blank">www.onlyipaq.com</a>  |  <a target="_blank" href="http://www.onlymotoq.com">www.onlymotoq.com</a>  |  <a target="_blank" href="http://www.onlyiphone.com">www.onlyiphone.com</a>|  <a target="_blank" href="http://www.onlyiphone.com">www.onlydash.com</a><br><br>
 Copyright © 2004-2006 MobiHand, Inc. All rights reserved. MobiHand is a trademark of MobiHand, Inc. 
 			</td>
 		</tr>
 </tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-555800-7";
+urchinTracker();
+</script>
  
 </body></html>
