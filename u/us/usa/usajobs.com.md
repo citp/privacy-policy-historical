@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517184156id_/http%3A//www.opm.gov/html/privacy.asp%3FWT.ac%3Dfooterprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808080528id_/http%3A//www.opm.gov/html/privacy.asp%3FWT.ac%3Dfooterprivacy) for the most accurate reproduction.*
 
 # Office of Personnel Management (OPM) Web Privacy Policy
 
