@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206010853id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808160258id_/http%3A//novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # novascotia.com - Privacy Policy
 
@@ -28,10 +28,11 @@ Nova Scotia Government Website Privacy Policy Statement
 You are entitled to correct any personal information gathered through the websites that we hold about you. If you want to correct your personal information, there will be an appropriate contact listed for you to direct enquiries. If no contact is identified, then you should contact the webmaster of the relevant site. (For example, see: [Freedom of Information and Protection of Privacy Act](http://www.gov.ns.ca/legislature/legc/statutes/freedom.htm), section 25) 
 
 **Do we use cookies or tracking devices?**  
-Government websites may use cookies or tracking devices during your visit to our website. Information gathered by these technologies will disappear once you leave the website unless there is notice to the contrary on the website. 
+Government websites may use cookies or tracking devices during your visit to our website. Information gathered by these technologies will disappear once you leave the website, with the following exceptions: feedback forms such as quick polls, contests, and surveys. A persistent cookie is set to help prevent duplicate entries or multiple submissions. This cookie is not linked to any personally identifiable information. 
 
 **Server Logs**  
 Government web servers automatically collect some information about a visitor's computer or other access device, such as its Internet protocol address or browser version, in their logs. This information is used in aggregate form for statistical purposes only. 
 
 **Further Information**  
-[Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)
+[Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)  
+[Nova Scotia Government Website Privacy Policy Statement](http://www.gov.ns.ca/govt/privacy/default.htm)
