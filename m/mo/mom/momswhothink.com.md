@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625144040id_/http%3A//www.momswhothink.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D537%26Itemid%3D10068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808102829id_/http%3A//www.momswhothink.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D537%26Itemid%3D10068) for the most accurate reproduction.*
 
 # - Privacy Statement
 
