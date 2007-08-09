@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health24.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606184950id_/http%3A//www.health24.com/about/Privacy_policy/13-700.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health24.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809095752id_/http%3A//www.health24.com/about/Privacy_policy/13-700.asp) for the most accurate reproduction.*
 
 # Health 24 - About
 
