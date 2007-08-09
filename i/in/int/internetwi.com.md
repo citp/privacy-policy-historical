@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetwi.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231115811id_/http%3A//internetwi.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetwi.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809165328id_/http%3A//www.internetwi.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Internet Wisconsin
 
