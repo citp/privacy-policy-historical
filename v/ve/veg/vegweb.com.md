@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016005609id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810010544id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 VegWeb Privacy Policy 
 
-This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](https://web.archive.org/misc/form.shtml) to contact us. 
+This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](https://web.archive.org/helpdesk/) to contact us. 
 
-You must be at least 18 years of age in order to participate in any interactives areas of VegWeb. In otherwords, if you are younger than 18, we cannot allow you to use such utilities as VegWeb Personals, Chat, Polls, etc.
+You must be at least 18 years of age in order to participate in any interactives areas of VegWeb. In otherwords, if you are younger than 18, we cannot allow you to use such utilities as VegWeb.com's VegFriends, Chat, Polls, etc.
 
 [Information Collected](https://web.archive.org/misc/privacy.shtml#info)  
-[I. VegWeb Personals Membership](https://web.archive.org/misc/privacy.shtml#reg)  
+[I. VegWeb.com Membership](https://web.archive.org/misc/privacy.shtml#reg)  
 [II. Recipe Submission](https://web.archive.org/misc/privacy.shtml#recipesub)  
 [III. Mailing Lists](https://web.archive.org/misc/privacy.shtml#mailing)  
 [IV. Cookies](https://web.archive.org/misc/privacy.shtml#cookies)  
@@ -28,7 +28,7 @@ TOP
 
 **We collect information in the following areas:**
 
-**I. VegWeb Personals Membership**   
+**I. VegWeb.com Membership**   
 VegWeb does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. If you wish to use certain features on vegweb.com, you must first complete an online membership form. Such features are, but not limited to: 
 
   * Recipe Comments
@@ -42,15 +42,15 @@ VegWeb does not collect your personal identifiable information unless you provid
 
 **What information will you ask me for?**
 
-When you register to use VegWeb Personals, you will be asked for some general identifying information which will enable us to provide you with this individualized service, including a pseudonymous name (nickname) for your profile. We also gather contact information (like your email address). This information is used to provide the services that you have requested, or to contact you about the service on our site for which you have expressed interest. We may contact you from time to time with news. 
+When you register for a VegWeb.com Membership, you will be asked for some general identifying information which will enable us to provide you with this individualized service, including a pseudonymous name (nickname) for your profile. We also gather contact information (like your email address). This information is used to provide the services that you have requested, or to contact you about the service on our site for which you have expressed interest. We may contact you from time to time with news. 
 
-Once you have registered, you will be asked for some personal but non-identifying information to complete your profile (i.e. religion, hobbies, whether you have dependants, companion animals, etc.). This information is linked to your personally identifying information, for VegWeb Personals Subscribers to see, if you do not opt to hide your email addresss or you fill out the Profile section titled "Contact Information Viewable by VegWeb Personals Subscribers". Obviously, if you provide us with a photograph, some of your information may become personally identifiable information. 
+Once you have registered, you will be asked for some personal but non-identifying information to complete your VegFriends profile (i.e. religion, hobbies, whether you have dependants, companion animals, etc.), should you opt to display a VegFriend's profile. This information is linked to your personally identifying information, for VegWeb.com's VegFriends Subscribers to see, if you do not opt to hide your email addresss or you fill out the Profile section titled "Contact Information Viewable by VegWeb.com's VegFriends Subscribers". Obviously, if you provide us with a photograph, some of your information may become personally identifiable information. 
 
 **How will this information be used and who has access to it?**
 
-Your non-personally identifying information is used to personalize your experience, allow other members to find you through a search and to compose your personal profile - which is associated with a pseudonymous identity you have created. Other than your VegWeb Personals mail box, your contact information is never available to other members or organizations, unless you do not opt to hide your email addresss or you fill out the Profile section titled "Contact Information Viewable by VegWeb Personals Subscribers". 
+Your non-personally identifying information is used to personalize your experience, allow other members to find you through a search and to compose your personal profile - which is associated with a pseudonymous identity you have created. Other than your VegWeb.com's VegFriends mail box, your contact information is never available to other members or organizations, unless you do not opt to hide your email addresss or you fill out the Profile section titled "Contact Information Viewable by VegWeb.com's VegFriends Subscribers". 
 
-In the event that you decide to become a VegWeb Personals Subscriber, you will be asked for your financial information (like credit card number) through PayPal's secured system. You financial information cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked". 
+In the event that you decide to become a VegWeb.com's VegFriends Subscriber, you will be asked for your financial information (like credit card number) through PayPal's secured system. You financial information cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked". 
 
 The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. We will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts. We may disclose your personally identifiable information if we reasonably believe we are required to do so by operation of law, which may include, but is not limited to a judicial proceeding, court order, or legal process served on VegWeb.com, Inc. 
 
@@ -64,7 +64,7 @@ You can always verify or request the removal of the personally identifiable info
 
 **Do you monitor online behavior?**
 
-Our VegWeb Personals members communicate with each other through chat and onsite mail. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Policy. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site. 
+Our VegFriends members communicate with each other through chat and onsite mail. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Policy. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site. 
 
 Members may choose to participate in community polls. The results of these polls are tracked by gender only and do not reveal any personal identifiable information linked to the individual voters. 
 
@@ -107,7 +107,7 @@ From time to time we may have links to other websites from our site. We do not c
 **Correction/updating Personal Information:**  
 At any time, you may update your VegWeb member information by editing your Member Profile. After you log into VegWeb, click on the "My Account" link near the top-right of the page, and follow the prompts.
 
-In addition, you may notify us if you wish to cease the use of any of your information by sending a message [with this form](https://web.archive.org/misc/form.shtml). and we will use reasonable efforts to comply with your request. 
+In addition, you may notify us if you wish to cease the use of any of your information by sending a message [with this form](https://web.archive.org/helpdesk/). and we will use reasonable efforts to comply with your request. 
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
 
@@ -115,7 +115,7 @@ In addition, you may notify us if you wish to cease the use of any of your infor
 By using our web sites, you consent to the collection and use of your information, as described above, by VegWeb.com, Inc. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will extend to any and all information we may collect or may have collected, regardless of whether the policy was different at the time the information was collected.
 
 **Please contact us with any questions or comments**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with VegWeb, please contact us by email [with this form](https://web.archive.org/misc/form.shtml) or use the following address: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with VegWeb, please contact us by email [with this form](https://web.archive.org/helpdesk/) or use the following address: 
 
   
 **VegWeb.com, Inc.**  
@@ -125,4 +125,6 @@ USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
 
-| 
+|  [](http://vegweb.com/phpads/adclick.php?bannerid=563&zoneid=17&source=&dest=http%3A%2F%2Fwww.cosmosveganshoppe.com%2F)
+
+[](http://vegweb.com/phpads/adclick.php?bannerid=740&zoneid=0&source=&dest=http%3A%2F%2Fwww.surveymonkey.com%2Fs.aspx%3Fsm%3D3_2bE83nNbFxSc0rU7wF_2f5zg_3d_3d)
