@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guzer.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102035529id_/http%3A//www.guzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guzer.com privacy policy that was archived on 2007-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070809034918id_/http%3A//www.guzer.com/privacy.php) for the most accurate reproduction.*
 
 # Guzer.com Privacy Policy
 
@@ -20,7 +20,7 @@ The use of and access to your personal information is restricted to those employ
 
 Guzer.com does not plan to divulge personal information collected or information disclosed voluntarily, but we may be required to do so pursuant to State or Federal law. 
 
-If you believe that your personal information is being used for a purpose other than that which was intended when submitted, please [contact us](https://web.archive.org/web/20061102035529id_/http%3A//www.guzer.com/contact.php). 
+If you believe that your personal information is being used for a purpose other than that which was intended when submitted, please [contact us](https://web.archive.org/web/20070809034918id_/http%3A//www.guzer.com/contact.php). 
 
 You may choose whether to provide personal information online. "Personal Information" is information about a natural person that identifies a specific individual. Personal information includes such things as an individual's name, email address, and account password. A domain name or Internet protocol address is not considered personal information. 
 
