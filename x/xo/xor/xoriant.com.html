@@ -1,74 +1,258 @@
-<!--The following is the downloaded HTML source of the xoriant.com privacy policy that was archived on 2007-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430184941id_/http%3A//www.xoriant.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xoriant.com privacy policy that was archived on 2007-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070810043551id_/http%3A//www.xoriant.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
     <title>Xoriant Solutions</title>
-    <link href="menu.css" rel="stylesheet" type="text/css">
+    <link href="menuStyle.css" rel="stylesheet" type="text/css">
     <link href="xoriant.css" rel="stylesheet" type="text/css">
     <script language="JavaScript" src="xoriant.js"></script>
+	<script language="JavaScript" src="menu.js"></script>
 </head>
 
-<body><script language="JavaScript1.2">/*mmLoadMenus();*/</script>
+<body>
     <div id="wrapper">
         <div id="headerco0"></div>
         <div class="menu">
-<ul>
-<li><a href="index.htm" onmouseover="return assign_links(0)" onmouseout="return image_mouseout(0)"><em class="lft"></em><img src="images/home_1.gif" border="0" id="m0"><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]-->
-</li>
-<li><a href="solutions.htm" onmouseover="return assign_links(1)" onmouseout="return image_mouseout(1)"><em class="lft"></em><img src="images/solutions_1.gif" border="0" id="m1"><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]-->
+<script type="text/javascript">
+        var  menuArr;
+        var  titles;
+		var browserName = navigator.appName;
+        if (browserName=="Microsoft Internet Explorer" || browserName=="Opera")
+		{
+			Initialize(16,10);
+			titles[0][0] = "<a href='index.htm' style='color:#555454;font-weight:bold' onmouseover='return   clearstatus()'>&nbsp;&nbsp;Home</a>";
+			titles[0][1] = 1;
 
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
-<li><a href="soft_eng.htm">Software Product Engineering</a></li>
-<li><a href="bus_application.htm">Business Applications</a></li>
-<li><a href="staffing.htm">Staffing</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li><a href="industries.htm" onmouseover="return assign_links(2)" onmouseout="return image_mouseout(2)"><em class="lft"></em><img src="images/industries_1.gif" border="0" id="m2"><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]-->
+			titles[1][0] = "<a href='solutions.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Solutions</a>"; 
+			titles[1][1] = 3;
 
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
-<li><a href="bfsi.htm">BFSI</a></li>
-<li><a href="high_tech.htm">High Tech</a></li>
-<li><a href="telecom.htm">Telecom</a></li>
+			titles[2][0] = "<a href='industries.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Industries</a>";
+			titles[2][1] = 3;
 
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li><a href="domains.htm" onmouseover="return assign_links(3)" onmouseout="return image_mouseout(3)"><em class="lft"></em><img src="images/domains_1.gif" border="0" id="m3"><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
+			titles[3][0] = "<a href='domains.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Domains</a>";
+			titles[3][1] = 6;
 
-<li><a href="es.htm">Enterprise Software</a></li>
-<li><a href="fss.htm">Financial Services Software</a></li>
-<li><a href="ecommerce.htm">Internet Commerce</a></li>
-<li><a href="net_telecom.htm">Networking &amp; Telecom</a></li>
-<li><a href="info_mgmt.htm">Information Management</a></li>
-<li><a href="supply_chain.htm">Supply Chain</a></li>
+			titles[4][0] = "<a href='company.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Company</a>";
+			titles[4][1] = 7;
 
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li><a href="company.htm" onmouseover="return assign_links(4)" onmouseout="return image_mouseout(4)"><em class="lft"></em><img src="images/company_1.gif" border="0" id="m4"><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
+			menuArr[0][0][0]=" ";
+			menuArr[0][0][1]=" ";
+			menuArr[0][0][2]=" ";
+		//-------------------------------------
+		
+			menuArr[1][0][0]="&nbsp;&nbsp;Software&nbsp;Product&nbsp;Engineering";
+			menuArr[1][0][1]="window.navigate(\\\'soft_eng.htm\\\');";
+			menuArr[1][0][2]=" ";
 
-<li><a href="management.htm">Management</a></li>
-<li><a href="e_models.htm">Engagement Models</a></li>
-<li><a href="xec.htm">XEC</a></li>
-<li><a href="partners.htm">Partners</a></li>
-<li><a href="news.htm">News</a></li>
-<li><a href="contact.htm">Contact</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<li class="search">&nbsp;</li>
-<li class="textbox">&nbsp;</li>
-<li>&nbsp;</li>
-</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			menuArr[1][1][0]="&nbsp;&nbsp;Business&nbsp;Applications";
+			menuArr[1][1][1]="window.navigate(\\\'bus_application.htm\\\');";
+			menuArr[1][1][2]=" ";
+
+			menuArr[1][2][0]="&nbsp;&nbsp;Staffing"
+			menuArr[1][2][1]="window.navigate(\\\'staffing.htm\\\');";
+			menuArr[1][2][2]=" ";
+
+		//-------------------------------------
+
+			menuArr[2][0][0]="&nbsp;&nbsp;BFSI";
+			menuArr[2][0][1]="window.navigate(\\\'bfsi.htm\\\');";
+			menuArr[2][0][2]=" ";
+
+			menuArr[2][1][0]="&nbsp;&nbsp;High&nbsp;Tech";
+			menuArr[2][1][1]="window.navigate(\\\'high_tech.htm\\\');"
+			menuArr[2][1][2]=" ";
+
+			menuArr[2][2][0]="&nbsp;&nbsp;Telecom";
+			menuArr[2][2][1]="window.navigate(\\\'telecom.htm\\\');";
+			menuArr[2][2][2]=" ";
+
+		//-------------------------------------
+			menuArr[3][0][0]="Domains Home";
+			menuArr[3][0][1]="window.navigate(\\\'domains.htm\\\');"
+			menuArr[3][0][2]=" ";
+
+			menuArr[3][0][0]="&nbsp;&nbsp;Enterprise&nbsp;Software";
+			menuArr[3][0][1]="window.navigate(\\\'es.htm\\\');";
+			menuArr[3][0][2]=" ";
+
+			menuArr[3][1][0]="&nbsp;&nbsp;Financial&nbsp;Software"
+			menuArr[3][1][1]="window.navigate(\\\'fss.htm\\\');";
+			menuArr[3][1][2]=" ";
+
+			menuArr[3][2][0]="&nbsp;&nbsp;Internet&nbsp;Commerce"
+			menuArr[3][2][1]="window.navigate(\\\'ecommerce.htm\\\');";
+			menuArr[3][2][2]=" ";
+
+			menuArr[3][3][0]="&nbsp;&nbsp;Network&nbsp;and&nbsp;Telecom"
+			menuArr[3][3][1]="window.navigate(\\\'net_telecom.htm\\\');";
+			menuArr[3][3][2]=" ";
+
+			menuArr[3][4][0]="&nbsp;&nbsp;Information&nbsp;Management"
+			menuArr[3][4][1]="window.navigate(\\\'info_mgmt.htm\\\');";
+			menuArr[3][4][2]=" ";
+
+			menuArr[3][5][0]="&nbsp;&nbsp;Supply&nbsp;Chain"
+			menuArr[3][5][1]="window.navigate(\\\'supply_chain.htm\\\');";
+			menuArr[3][5][2]=" ";
+
+		//-------------------------------------
+
+			menuArr[4][0][0]="&nbsp;&nbsp;Management";
+			menuArr[4][0][1]="window.navigate(\\\'management.htm\\\');";
+			menuArr[4][0][2]=" ";
+
+			menuArr[4][1][0]="&nbsp;&nbsp;Engagement&nbsp;Models";
+			menuArr[4][1][1]="window.navigate(\\\'e_models.htm\\\');";
+			menuArr[4][1][2]="";
+
+			menuArr[4][2][0]="&nbsp;&nbsp;XEC";
+			menuArr[4][2][1]="window.navigate(\\\'xec.htm\\\');";
+			menuArr[4][2][2]=" ";
+
+			menuArr[4][3][0]="&nbsp;&nbsp;Partners";
+			menuArr[4][3][1]="window.navigate(\\\'partners.htm\\\');";
+			menuArr[4][3][2]=" ";
+
+			menuArr[4][4][0]="&nbsp;&nbsp;News";
+			menuArr[4][4][1]="window.navigate(\\\'news.htm\\\');";
+			menuArr[4][4][2]=" ";
+
+			menuArr[4][5][0]="&nbsp;&nbsp;Careers";
+			menuArr[4][5][1]="window.navigate(\\\'careers.htm\\\');";
+			menuArr[4][5][2]=" ";
+
+			menuArr[4][6][0]="&nbsp;&nbsp;Contact Us";
+			menuArr[4][6][1]="window.navigate(\\\'contact.htm\\\');";
+			menuArr[4][6][2]=" ";
+
+			for(c=0; c < 16; c++)
+			{
+				i = c;
+				CreateMenu(i,i*138 + 0,14,180,16,'#B7E7B6','#C8C8C8','#FFFFFF',titles[i][1],'left',4);
+				
+			}
+			CreatePopUpMenu(3,0,0,150,20,'#1D6140','#009E58','#FFFFFF',4,'left',4); 
+		}
+
+		//-------------------------------------
+
+		if (browserName=="Netscape")
+		{
+			Initialize(16,10);
+			titles[0][0] = "<a href='index.htm' style='color:#555454;font-weight:bold' onmouseover='return   clearstatus()'>&nbsp;&nbsp;Home</a>";
+			titles[0][1] = 1;
+
+			titles[1][0] = "<a href='solutions.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Solutions</a>"; 
+			titles[1][1] = 3;
+
+			titles[2][0] = "<a href='industries.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Industries</a>";
+			titles[2][1] = 3;
+
+			titles[3][0] = "<a href='domains.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Domains</a>";
+			titles[3][1] = 6;
+
+			titles[4][0] = "<a href='company.htm' style='color:#555454;font-weight:bold' onmouseover='return clearstatus()'>&nbsp;&nbsp;Company</a>";
+			titles[4][1] = 7;
+
+			menuArr[0][0][0]=" ";
+			menuArr[0][0][1]=" ";
+			menuArr[0][0][2]=" ";
+		//-------------------------------------
+		
+			menuArr[1][0][0]="<a href='soft_eng.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Software&nbsp;Product&nbsp;Engineering</a>";
+			menuArr[1][0][1]=" ";
+			menuArr[1][0][2]=" ";
+
+			menuArr[1][1][0]="<a href='bus_application.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Business&nbsp;Applications</a>";
+			menuArr[1][1][1]=" ";
+			menuArr[1][1][2]=" ";
+
+			menuArr[1][2][0]="<a href='staffing.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Staffing</a>"
+			menuArr[1][2][1]=" ";
+			menuArr[1][2][2]=" ";
+
+		//-------------------------------------
+
+			menuArr[2][0][0]="<a href='bfsi.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;BFSI</a>";
+			menuArr[2][0][1]=" ";
+			menuArr[2][0][2]=" ";
+
+			menuArr[2][1][0]="<a href='high_tech.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;High&nbsp;Tech</a>";
+			menuArr[2][1][1]=" "
+			menuArr[2][1][2]=" ";
+
+			menuArr[2][2][0]="<a href='telecom.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Telecom</a>";
+			menuArr[2][2][1]=" ";
+			menuArr[2][2][2]=" ";
+
+		//-------------------------------------
+
+			menuArr[3][0][0]="<a href='es.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Enterprise&nbsp;Software</a>";
+			menuArr[3][0][1]=" ";
+			menuArr[3][0][2]=" ";
+
+			menuArr[3][1][0]="<a href='fss.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Financial&nbsp;Software</a>"
+			menuArr[3][1][1]=" ";
+			menuArr[3][1][2]=" ";
+
+			menuArr[3][2][0]="<a href='ecommerce.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Internet&nbsp;Commerce</a>"
+			menuArr[3][2][1]=" ";
+			menuArr[3][2][2]=" ";
+
+			menuArr[3][3][0]="<a href='net_telecom.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Network&nbsp;and&nbsp;Telecom</a>"
+			menuArr[3][3][1]=" ";
+			menuArr[3][3][2]=" ";
+
+			menuArr[3][4][0]="<a href='info_mgmt.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Information&nbsp;Management</a>"
+			menuArr[3][4][1]=" ";
+			menuArr[3][4][2]=" ";
+
+			menuArr[3][5][0]="<a href='supply_chain.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Supply&nbsp;Chain</a>"
+			menuArr[3][5][1]=" ";
+			menuArr[3][5][2]=" ";
+
+		//-------------------------------------
+
+			menuArr[4][0][0]="<a href='management.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Management</a>";
+			menuArr[4][0][1]=" ";
+			menuArr[4][0][2]=" ";
+
+			menuArr[4][1][0]="<a href='e_models.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Engagement&nbsp;Models</a>";
+			menuArr[4][1][1]=" ";
+			menuArr[4][1][2]=" ";
+
+			menuArr[4][2][0]="<a href='xec.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;XEC</a>";
+			menuArr[4][2][1]=" ";
+			menuArr[4][2][2]=" ";
+
+			menuArr[4][3][0]="<a href='partners.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Partners</a>";
+			menuArr[4][3][1]=" ";
+			menuArr[4][3][2]=" ";
+
+			menuArr[4][4][0]="<a href='news.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;News</a>";
+			menuArr[4][4][1]=" ";
+			menuArr[4][4][2]=" ";
+
+			menuArr[4][5][0]="<a href='careers.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Careers</a>";
+			menuArr[4][5][1]=" ";
+			menuArr[4][5][2]=" ";
+
+			menuArr[4][6][0]="<a href='contact.htm' style='color:#555454' onmouseover='return clearstatus()'>&nbsp;&nbsp;Contact Us</a>";
+			menuArr[4][6][1]=" ";
+			menuArr[4][6][2]=" ";
+
+			for(c=0; c < 16; c++)
+			{
+				i = c;		   
+				CreateMenu(i,i*138 + 0,14,180,16,'#B7E7B6','#C8C8C8','#FFFFFF',titles[i][1],'left',4);
+				
+			}
+			CreatePopUpMenu(3,0,0,150,20,'#1D6140','#009E58','#FFFFFF',4,'left',4);
+		}
+
+</script>
 </div>
 <!--[if lte IE 6]><div id="l-links"><div id="r-links">&nbsp;</div></div><![endif]-->
       
@@ -104,8 +288,7 @@
 			<div id="box">
 			<div class="servicetopbox">&nbsp;</div>
 			<div class="leftbox"><div class="rightbox">
-				<div class="textscroll">ISVs developing solutions for the Financial Services industry leverage Xoriant XEC capabilities to seamlessly expand, support, and grow market footprint.
-<p>Click here to read our capabilities, case studies and white papers.</p></div>
+				<div class="textscroll">ISVs developing solutions for the Financial Services industry leverage Xoriant XEC capabilities to seamlessly expand, support, and grow..</div>
 				<div><img src="images/case_bottom.gif" border="0" usemap="#Map1"></div>
 			</div></div>
 			</div>
@@ -113,7 +296,7 @@
 			<div id="box">
 			<div class="newstopbox">&nbsp;</div>
 			<div class="leftbox"><div class="rightbox">
-			<div class="textscroll"><b>May 2006</b>: Xoriant expands India operations, moving to larger premises in Powai, Mumbai. The delivery center is geared to support worldwide customers with 24x7 availability.</div>
+			<div class="textscroll"><b>May 2006</b>: Xoriant expands India operations, moving to larger premises in Powai, Mumbai. The delivery center is geared to support..</div>
 				<div><img src="images/case_bottom.gif" border="0" usemap="#Map3"></div>
 			</div></div>
 			</div>
@@ -121,7 +304,7 @@
 			<div id="box">
 			<div class="casetopbox">&nbsp;</div>
 			<div class="leftbox"><div class="rightbox">
-				<div class="textscroll">Xoriant is a TIBCO partner for worldwide support of TIBCO's products, customer-side implementation, integration, and support.</div>
+				<div class="textscroll">Xoriant helps the largest database provider company certify and migrate leading open source applications to client technology.</div>
 			<div><img src="images/case_bottom.gif" border="0" usemap="#Map2"></div>
 			</div></div>
 			</div>
