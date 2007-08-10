@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the history.com privacy policy that was archived on 2007-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070422015058id_/http%3A//www.history.com/pages/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the history.com privacy policy that was archived on 2007-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070810051029id_/http%3A//www.history.com/pages/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy Policy</title>
@@ -79,12 +79,12 @@
 					      
 					            
 					            
-													<li><a href="/minisites/citiesoftheunderworld">Cities of the Underworld</a></li>
+													<li><a href="/boneyard">Boneyard</a></li>
 												
 					      
 					            
 					            
-													<li><a href="/diggingforthetruth">Digging for the Truth</a></li>
+													<li><a href="/minisites/citiesoftheunderworld">Cities of the Underworld</a></li>
 												
 					      
 					            
@@ -94,17 +94,27 @@
 					      
 					            
 					            
-													<li><a href="/engineeringanempire">Engineering an Empire</a></li>
+													<li><a href="/minisites/humanweapon">Human Weapon</a></li>
 												
 					      
 					            
 					            
-													<li><a href="/mailcall">Mail Call</a></li>
+													<li><a href="/minisites/iceroadtruckers">Ice Road Truckers</a></li>
 												
 					      
 					            
 					            
 													<li><a href="/modernmarvels">Modern Marvels</a></li>
+												
+					      
+					            
+					            
+													<li><a href="/lostworlds">Lost Worlds</a></li>
+												
+					      
+					            
+					            
+													<li><a href="/universe">The Universe</a></li>
 												
 					       
 					    	</ul>  
@@ -192,6 +202,11 @@
 					            
 													<li><a href="/presidents">American Presidents</a></li>
 												
+					      
+					            
+					            
+													<li><a href="/states">The States</a></li>
+												
 					       
 					    	</ul>  
 				    	 
@@ -247,22 +262,22 @@
 			        	
 					            
 					            
-													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown1&amp;dest=/html/subject/index.jhtml?id%3Dwwf1001">Civil War DVDs</a></li>
+													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown1&amp;dest=/html/product/index.jhtml?id%3D77610">Ice Road Truckers DVD</a></li>
 												
 					      
 					            
 					            
-													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown2&amp;dest=/html/subject/index.jhtml?id%3Dwwf1000">Military &amp; War DVDs</a></li>
+													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown2&amp;dest=/html/subject/index.jhtml?id%3Dush1000">U.S. History DVDs</a></li>
 												
 					      
 					            
 					            
-													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown1&amp;dest=/html/subject/index.jhtml?id%3Dush1000">U.S History DVDs</a></li>
+													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown3&amp;dest=/html/subject/index.jhtml?id%3Dwwf1000">Military &amp; War DVDs</a></li>
 												
 					      
 					            
 					            
-													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown3&amp;dest=/html/subject/index.jhtml?id%3Dwoh1000">World History DVDs</a></li>
+													<li><a href="http://store.aetv.com/html/referer_entry.jhtml?vid=THC_INT_ShopHeader_DropDown4_THCPOTW&amp;dest=/html/product/productofweek.jhtml">DVD of the Week!</a></li>
 												
 					       
 					    	</ul>  
@@ -346,16 +361,95 @@
 		if(document.getElementById(selectedPage) != null){
 			document.getElementById(selectedPage).setAttribute("class","itemOn");
 		}
+		// Removes leading whitespaces
+			function LTrim( value ) {
+				
+				var re = /\s*((\S+\s*)*)/;
+				return value.replace(re, "$1");
+				
+			}			
+			// Removes ending whitespaces
+			function RTrim( value ) {
+				
+				var re = /((\s*\S+)*)\s*/;
+				return value.replace(re, "$1");
+				
+			}			
+			// Removes leading and ending whitespaces
+			function trim( value ) {
+				
+				return LTrim(RTrim(value));
+				
+			}
+			
+			function validate_Search(){	
+		
+								if (document.getElementById) {
+									
+									var srchtxt=trim(document.searchForm.searchText.value);
+											if (srchtxt.length == 0){												
+												alert("Please enter the search term."); return false;
+											}
+											
+											var spchars=new Array();
+											spchars[0]="*";
+											spchars[1]="?";
+											
+											/*var spchars2=new Array();
+											spchars2[0]="#";
+											spchars2[1]="&";
+											spchars2[2]="@";
+											spchars2[3]="!";					
+											*/
+														
+											for(i=0; i<spchars.length; i++){				
+												if(srchtxt.indexOf( spchars[i] ) != -1)
+												{
+													alert("Please do not enter special characters in the search box."); return false;
+												}
+											}
+											
+										/*for(j=0; j<spchars2.length; j++){			
+												if(document.searchForm.searchText.value.charAt(0) == spchars2[j])
+												{												
+													document.searchForm.searchText.value=document.searchForm.searchText.value.substring(1);
+													j=-1;																										
+												}
+											}
+											if (document.searchForm.searchText.value.length == 0){												
+												alert("Please enter the search term."); return false;
+											}
+											*/
+											
+											/*for(j=0; j<spchars2.length; j++){							
+												if(srchtxt.indexOf( spchars2[j] ) == 0)
+												{
+													document.searchForm.searchText.value=srchtxt.replace(spchars2[j],"");						
+												}
+											}*/
+								}
+								return true;
+	}
+	function chksubmit()
+	{
+					if(validate_Search())
+					{
+						document.forms['searchForm'].submit();
+					//document.forms.searchForm.submit();
+					}
+	}
+				
+	
 	</script>
 	
 	<!--  END -->
 	
 	<!-- SEARCH BOX  -->
-		<form action="/search.do" method="GET" name="searchForm">
+		<form action="/search.do" method="GET" name="searchForm" onsubmit="return validate_Search()">
 		<div class="searchbar">
 				 <div class="text">Search</div>
 				 <div class="input"><input type="text" name="searchText" size="20"></div>
-				 <div class="image"><a href="javascript:document.forms.searchForm.submit()"><img src="/images/global/btn_go.gif" width="26" height="13" alt="" border="0"></a></div>
+				 <div class="image"><a href="javascript:chksubmit()"><img src="/images/global/btn_go.gif" width="26" height="13" alt="" border="0"></a></div>
 		</div>
 		</form>
                 <div id="omnidiv"></div>
