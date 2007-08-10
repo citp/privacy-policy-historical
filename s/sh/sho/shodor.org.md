@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928023153id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810085808id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
