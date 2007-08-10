@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202213038id_/http%3A//www.edn.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edn.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811002639id_/http%3A//www.edn.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
 
-# EDN.com: Voice of the Electronics Engineer page
+# page on EDN: Electronics Design, Strategy, News
 
 _Last Revised: [May/2006]_
 
