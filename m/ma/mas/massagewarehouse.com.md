@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021163641id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810220702id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.*
 
 # Massage Warehouse
 
@@ -54,7 +54,7 @@ _What we do with your information_
 
   Massage Warehouse reserves the right to cancel products or services to any customer for any reason at any time. The customer's sole remedy in such cases will be a full refund. 
 
-  The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. We cannot be held responsible for incorrect pricing on our website. Please review our [Return & Exchange Policy](https://web.archive.org/web/20061021163641id_/http%3A//www.massagewarehouse.com/returns.asp). 
+  The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. We cannot be held responsible for incorrect pricing on our website. Please review our [Return & Exchange Policy](https://web.archive.org/web/20070810220702id_/http%3A//www.massagewarehouse.com/returns.asp). 
 
   While Massage Warehouse makes best efforts to maintain the security of customer transactions, its liability in cases of third party theft or misuse is limited to the funds which Massage Warehouse has already collected in reference to the customer's most recent order. 
 
