@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317110858id_/http%3A//www.ediets.com/company/membersguide/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810030612id_/http%3A//www.ediets.com/company/membersguide/privacy.cfm) for the most accurate reproduction.*
 
 # eDiets.com - Company - Membersguide - privacy policy
 
@@ -230,9 +230,10 @@ Send an email to:
 [privacy@ediets.com](mailto:privacy@ediets.com)
 
 Or, send a letter to:  
-eDiets.com, Inc.  
-3801 W. Hillsboro Blvd.  
-Deerfield Beach, Florida 33442  
+eDiets.com  
+1000 Corporate Drive  
+Suite 600  
+Ft. Lauderdale, FL 33334  
 Attn: Privacy / Legal 
 
 Or, send a fax to:  
