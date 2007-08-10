@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527041451id_/http%3A//www.kimberly-clark.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811001904id_/http%3A//www.kimberly-clark.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Kimberly-Clark, the source for information on consumer tissue, and personal care products for families, babies and children, women and the elderly, commercial tissue products, wiping products and protective apparel; professional healthcare pro
 
