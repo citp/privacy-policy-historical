@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422015058id_/http%3A//www.history.com/pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810051029id_/http%3A//www.history.com/pages/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
