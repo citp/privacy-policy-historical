@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the ihop.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211013id_/http%3A//www.ihop.org/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihop.org privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810204539id_/http%3A//www.ihop.org/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # International House of Prayer : Privacy Policy
 
 At International House of Prayer we collect different types of information about our users for the following main reasons: 
 
-  1. To provide a useful resource in the form of an online directory of users.
-  2. To provide an interactive web site where email is used to communicate with the users.
-  3. To provide a security mechanism whereby we can restrict content to certain groups of users.
-  4. To enable the purchase and delivery of goods through our online shop.
-  5. To help us to improve the service we offer. 
+  1. To provide an interactive web site where email is used to communicate with the users.
+  2. To provide a security mechanism whereby we can restrict content to certain groups of users.
+  3. To enable the purchase and delivery of goods through our online shop.
+  4. To help us to improve the service we offer. 
 
 
 
@@ -27,7 +26,7 @@ We have established the following two principles:
 
 **We collect information on our users through registration.**
 
-The minimum information we need to register a user is your first and last name, your zip code and a password. We also ask for some further, voluntary information so we can provide a richer, more useful address book.
+The minimum information we need to register a user is your first and last name, your zip code and a password.
 
 **We collect information on our customers when you make a purchase through our shop.**
 
@@ -35,7 +34,7 @@ We will collect your name, postal and email addresses, payment information and i
 
 ## Who will have access to your information?
 
-You have control over who is able to access specific items of information. By default your personal information will be visible to other authenticated users of the site. You can change these settings from your personal profile page. Your information will be used to build the online address book and show your birthday in the International House of Prayer calendar.
+You have control over who is able to access specific items of information. By default your information will not be visible to anyone else using the site. You can change these settings from your personal profile page.
 
 ## What else you should know about privacy
 
