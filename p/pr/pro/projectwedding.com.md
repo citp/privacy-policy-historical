@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectwedding.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629104240id_/http%3A//www.projectwedding.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectwedding.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810023953id_/http%3A//www.projectwedding.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Project Wedding
 
