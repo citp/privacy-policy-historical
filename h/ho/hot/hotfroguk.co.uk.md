@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfroguk.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624092403id_/http%3A//www.hotfroguk.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfroguk.co.uk privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810195728id_/http%3A//www.hotfroguk.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Reed Business Information Limited ("RBI") collects and uses information from use
 
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service.
 
-Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or website and its functionality. They may also be used by us and other businesses within RBI to provide you with information about their services and products. If you do not wish us to use this information in this way, please [contact us](https://web.archive.org/web/20070624092403id_/http%3A//www.hotfroguk.co.uk/ContactUs.aspx).
+Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or website and its functionality. They may also be used by us and other businesses within RBI to provide you with information about their services and products. If you do not wish us to use this information in this way, please [contact us](https://web.archive.org/web/20070810195728id_/http%3A//www.hotfroguk.co.uk/ContactUs.aspx).
 
 Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.
 
@@ -16,7 +16,7 @@ Details of personnel provided to us in company entries will be published in our 
 
 Changes to this policy will be posted here.
 
-If your personal information changes then you can [login](https://web.archive.org/web/20070624092403id_/http%3A//www.hotfroguk.co.uk/Login.aspx) to HotFrogUK.co.uk and update your details.
+If your personal information changes then you can [login](https://web.archive.org/web/20070810195728id_/http%3A//www.hotfroguk.co.uk/Login.aspx) to HotFrogUK.co.uk and update your details.
 
 Please send any comments about this website or privacy policy to: 
 
