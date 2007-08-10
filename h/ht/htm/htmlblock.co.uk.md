@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htmlblock.co.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924033514id_/http%3A//www.htmlblock.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlblock.co.uk privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810060059id_/http%3A//www.htmlblock.co.uk/privacy.php) for the most accurate reproduction.*
 
-# htmlblock.co.uk - privacy statement for www.htmlblock.co.uk
+# htmlblock.co.uk - privacy statement
 
 **General Privacy Statement** HTMLBlock has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.htmlblock.co.uk.
 
@@ -41,7 +41,6 @@ We DO NOT collect personal information, e.g. your name, address, phone number, c
 **When you we have hold of your personal information and is it safe from others?** We only hold personal information if you purchase a product from our site. This information is kept in PayPal's database and the only people who have access to them is ourselves and PayPal. So any information we hold is 100% safe from other online users!
 
 **For more information please read our terms and conditions.** If you would like to know any other information regarding our Privacy statement please feel free to contact us at any time where one of our members of staff will be happy to help!  
-[read our terms and conditions](https://web.archive.org/web/20060924033514id_/http%3A//www.htmlblock.co.uk/terms.php). 
+[read our terms and conditions](https://web.archive.org/web/20070810060059id_/http%3A//www.htmlblock.co.uk/terms.php).
 
-[Contact The Support Team](https://web.archive.org/web/20060924033514id_/http%3A//www.htmlblock.co.uk/contact.php). **  
-**
+[Contact The Support Team](https://web.archive.org/web/20070810060059id_/http%3A//www.htmlblock.co.uk/support.php). 
