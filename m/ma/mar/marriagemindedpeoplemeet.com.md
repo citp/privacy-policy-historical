@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624154349id_/http%3A//www.marriagemindedpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810141044id_/http%3A//www.marriagemindedpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
 
-# MARRIAGEMINDEDPeopleMeet.com - The Marriage Minded People Network - 06/24/2007
+# MARRIAGEMINDEDPeopleMeet.com - The Marriage Minded People Network - 08/10/2007
 
 |  |  |   
 ---  
