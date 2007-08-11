@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneilbrooke.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507044409id_/http%3A//www.oneilbrooke.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneilbrooke.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811111658id_/http%3A//www.oneilbrooke.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
