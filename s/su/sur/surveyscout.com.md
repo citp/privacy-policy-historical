@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624084358id_/http%3A//www.surveyscout.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811043329id_/http%3A//www.surveyscout.com/privacy.cgi) for the most accurate reproduction.*
 
 # SurveyScout.com :: Where your "2 cents" are worth more than you think!
 
