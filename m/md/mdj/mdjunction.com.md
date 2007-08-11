@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101124319id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811042905id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
 
-# MDjunction.com - Healthcare Community. Find a Doctor. Know Your Doctor. Share Experiences.
+# Privacy
 
-Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for MDjunction.com.
+Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for MDJunction.com.
 
-This Privacy Policy applies to web sites owned and operated by Doctors 911 Ltd, including the MDjunction.com site.
+This Privacy Policy applies to web sites owned and operated by Doctors 911 Ltd, including the MDJunction.com site.
 
 **Privacy of reviewers and members**
 
@@ -20,8 +20,8 @@ This information is used by us to better our visitors experience.
 Your email address is required for administrative purposes (notifications about changes in our site, special opportunities notices, such as to become a featured reviewer, get extra exposure on the site, etc). As described below you may opt not to receive administrative emails.  
 We also collect non-personal information such as your IP address and urls (web pages) you arrived from and visit on while on our site.  
 This information is used by us to better our visitors experience.  
-Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other members of MDjunction.com.  
-Your personal profile is for other members to know you better as a reviewer on MDjunction.com.
+Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other members of MDJunction.com.  
+Your personal profile is for other members to know you better as a reviewer on MDJunction.com.
 
 **Changing your information**
 
@@ -35,14 +35,14 @@ The primary purpose of cookies is to maintain your customized settings on the si
 
 **Links**
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to review the privacy statements of each and every Web site that you visit through MDjunction.com.
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to review the privacy statements of each and every Web site that you visit through MDJunction.com.
 
 **Security**
 
-MDjunction.com implements methods of securing its user information databases from unauthorized access or alteration.
+MDJunction.com implements methods of securing its user information databases from unauthorized access or alteration.
 
 **Amendments to the privacy policy**
 
 This policy may be amended from time to time and in our sole discretion, upon posting notice on the Web site. Please periodically visit this page to review the current privacy policy.
 
-Please feel free to [contact us](http://www.mdjunction.com/contact) with any questions.
+Please feel free to [contact us](http://www.mdjunction.com/contact) with any questions. 
