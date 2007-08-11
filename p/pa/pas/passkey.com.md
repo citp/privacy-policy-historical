@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422114037id_/http%3A//www.passkey.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811200406id_/http%3A//www.passkey.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Passkey - Privacy Policy
 
-([www.passkey.com](https://web.archive.org/web/20070422114037id_/http%3A//www.passkey.com/index.html))
+([www.passkey.com](https://web.archive.org/web/20070811200406id_/http%3A//www.passkey.com/index.html))
 
 Passkey.com is a site operated by Passkey International, Inc. ("Passkey") to provide information about our company and the many products and services we offer. You will find corporate news and information on our products and services, investors and partners, training and support, career opportunities, and pertinent information for the Press. In addition, the site provides a means for our customers to login to our software systems.
 
@@ -26,7 +26,7 @@ _Passkey-enabled_ (SM)
 
 **How to Contact Us**
 
-Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. Our phone number is 617-237-8200. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20070422114037id_/http%3A//contact.html).
+Passkey is located at 180 Old Colony Avenue, Quincy, MA 02170. Our phone number is 617-237-8200. For questions or comments regarding this Privacy Statement, please [click here](https://web.archive.org/web/20070811200406id_/http%3A//contact.html).
 
 **Tracking Traffic**
 
