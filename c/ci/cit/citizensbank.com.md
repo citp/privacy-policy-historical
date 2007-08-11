@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbank.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618173437id_/http%3A//www.citizensbank.com/security/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbank.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811225032id_/http%3A//www.citizensbank.com/security/privacy.aspx) for the most accurate reproduction.*
 
 # Citizens Bank | Privacy Pledge
 
@@ -18,9 +18,7 @@ Security and Privacy
   
 | 
 
-Notice of Citizens Privacy Pledge
-
-Our Pledge to You Regarding the Responsible Use and Protection of Customer Information
+## Our Pledge to You Regarding the Responsible Use and Protection of Customer Information
 
 Effective September 1, 2006
 
