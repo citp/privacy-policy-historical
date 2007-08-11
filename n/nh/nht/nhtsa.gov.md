@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929104354id_/http%3A//www.nhtsa.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811233424id_/http%3A//www.nhtsa.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
 
 # Privacy Policy | National Highway Traffic Safety Administration(NHTSA) | U.S. Department of Transportation
 
@@ -124,11 +124,11 @@
 > 
 > 
 > **How do you find out more about, or comment on, our privacy practices?**  
->  For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at [Privacy@nhtsa.dot.gov](mailto:Privacy@nhtsa.dot.gov)  
+>  For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer at [NHTSA.Privacy@dot.gov](mailto:NHTSA.Privacy@dot.gov)  
 > 
 > 
 > **Links to Other Sites**  
->  Our web site has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site to which you’re linking. NHTSA dose not endorse, recommend, or favor any products, process, or service offered by the new site. It only provides these links as a service to you for additional information on various transportation issues.  
+>  Our web site has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site to which you’re linking. NHTSA does not endorse, recommend, or favor any products, process, or service offered by the new site. It only provides these links as a service to you for additional information on various transportation issues. Details of our [linking policy](http://www.nhtsa.gov/portal/site/nhtsa/template.MAXIMIZE/menuitem.40a28bda938e5b7738420087dba046a0/?javax.portlet.tpst=4427b997caacf504a8bdba101891ef9a_ws_MX&javax.portlet.prp_4427b997caacf504a8bdba101891ef9a_viewID=detail_view&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&itemID=fda95e17c7386010VgnVCM1000002c567798RCRD&viewType=standard)  
 > 
 > 
 > **Disclaimer and Liability Notice**  
