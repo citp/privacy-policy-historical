@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415023557id_/http%3A//reiclub.com/info.php%3Fsec%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811225312id_/http%3A//reiclub.com/info.php%3Fsec%3DPrivacy) for the most accurate reproduction.*
 
 # 
 
@@ -87,7 +87,7 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
-You may direct questions, comments or reports to: [Contact Us](https://web.archive.org/web/20070415023557id_/http%3A//reiclub.com/contact.php).
+You may direct questions, comments or reports to: [Contact Us](https://web.archive.org/web/20070811225312id_/http%3A//reiclub.com/contact.php).
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
