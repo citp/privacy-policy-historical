@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822112029id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812101532id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
 
 # BangingTunes.com Privacy Policy
 
@@ -34,12 +34,12 @@ If you have established an account on BangingTunes.com, on the menu select "Edit
 
 #### Dispute Resolution
 
-We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us on 01444 250251, or you may contact us by mail at the following address: 
+We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us on 01273 208040, or you may contact us by mail at the following address: 
 
-28 Church Road  
-Burgess Hill  
-West Sussex  
-RH15 9AE  
+4 Westbourne Grove  
+Hove  
+East Sussex  
+BN3 5PJ  
 England  
 
 
