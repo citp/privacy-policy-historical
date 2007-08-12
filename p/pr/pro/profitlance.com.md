@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604111736id_/http%3A//www.profitlance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitlance.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812134549id_/http%3A//www.profitlance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Profit Lance - Multiple Streams Of Income
 
