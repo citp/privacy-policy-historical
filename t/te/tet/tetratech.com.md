@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetratech.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623065213id_/http%3A//www.tetratech.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetratech.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812125437id_/http%3A//www.tetratech.com/general/privacy.asp) for the most accurate reproduction.*
 
 # Tetra Tech - About Tetra Tech
 
