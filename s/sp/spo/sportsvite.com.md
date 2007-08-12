@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsvite.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626164533id_/http%3A//sportsvite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsvite.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812082213id_/http%3A//www.sportsvite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
