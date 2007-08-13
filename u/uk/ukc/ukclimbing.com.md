@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukclimbing.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112040507id_/http%3A//www.ukclimbing.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukclimbing.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814005901id_/http%3A//www.ukclimbing.com/general/privacy.html) for the most accurate reproduction.*
 
 # UKC - Privacy Policy
 
@@ -43,4 +43,4 @@ UKClimbing.com Ltd is dedicated to your privacy and we hope that this privacy st
 
 If you have any questions, concerns, or requests regarding the UKClimbing.com Ltd Privacy Statement, please feel free to contact the UKClimbing.com Ltd by mail or email:
 
-Andy Hyslop, UKClimbing.com Ltd, Breasty Haw, Satterthwaite, Ulverston, Cumbria. LA12 8LS.UK Tel: 0870 753 7748
+Andy Hyslop, UKClimbing.com Ltd, Unit 6 Shoreline Business Park, Sandside, Milnthorpe, Cumbria, LA7 7BF. UK Tel: 0870 753 7748
