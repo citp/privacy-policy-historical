@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315000322id_/http%3A//www.planetnatural.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813050328id_/http%3A//www.planetnatural.com/site/privacypolicy.html) for the most accurate reproduction.*
 
-# Planet Natural -- Privacy Policy
+# Planet Natural - Privacy Policy
 
 **[Organic Lawn Care](https://web.archive.org/site/xdpy/sg/Organic%20Lawn%20Care)**  
   [Lawn Fertilizers](https://web.archive.org/site/xdpy/sgc/Organic%20Lawn%20Care/Lawn%20Fertilizers)  
+  [Push Reel Mowers](https://web.archive.org/site/xdpy/sgc/Organic%20Lawn%20Care/Push%20Reel%20Mowers)  
   [Weed Control](https://web.archive.org/site/xdpy/sgc/Organic%20Lawn%20Care/Weed%20Control)  
-**[Soil Care& Fertilizers](https://web.archive.org/site/xdpy/sg/Soil%20Care%20&%20Fertilizers)**  
-  [Advanced Nutrients](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Advanced%20Nutrients)  
-  [Dry Fertilizers](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Dry%20Fertilizers)  
-  [Foliar Fertilizers](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Foliar%20Fertilizers)  
-  [Houseplant Fertilizer](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Houseplant%20Fertilizer)  
-  [Hydroponic Nutrients](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Hydroponic%20Nutrients)  
-  [Liquid Fertilizers](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Liquid%20Fertilizers)  
-  [Nutrient Supplements](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Nutrient%20Supplements)  
-  [Organic Fertilizers](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Organic%20Fertilizers)  
-  [Soil pH & Soil Test Kits](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Soil%20pH%20&%20Soil%20Test%20Kits)  
-  [Soil & Soil Amendments](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Soil%20&%20Soil%20Amendments)  
+**[Organic Fertilizers](https://web.archive.org/site/xdpy/sg/Organic%20Fertilizers)**  
+  [Dry Fertilizer](https://web.archive.org/site/xdpy/sgc/Organic%20Fertilizers/Dry%20Fertilizer)  
+  [Foliar Fertilizer](https://web.archive.org/site/xdpy/sgc/Organic%20Fertilizers/Foliar%20Fertilizer)  
+  [House Plant Fertilizer](https://web.archive.org/site/xdpy/sgc/Organic%20Fertilizers/House%20Plant%20Fertilizer)  
+  [Liquid Fertilizer](https://web.archive.org/site/xdpy/sgc/Organic%20Fertilizers/Liquid%20Fertilizer)  
+**[Soil Care](https://web.archive.org/site/xdpy/sg/Soil%20Care)**  
+  [Soil Amendments](https://web.archive.org/site/xdpy/sgc/Soil%20Care/Soil%20Amendments)  
+  [Soil pH & Test Kits](https://web.archive.org/site/xdpy/sgc/Soil%20Care/Soil%20pH%20&%20Test%20Kits)  
 **[Composting](https://web.archive.org/site/xdpy/sg/Composting)**  
   [Compost Bins](https://web.archive.org/site/xdpy/sgc/Composting/Compost%20Bins)  
   [Compost Equipment](https://web.archive.org/site/xdpy/sgc/Composting/Compost%20Equipment)  
@@ -42,12 +40,15 @@
   [Plant Protection](https://web.archive.org/site/xdpy/sgc/Garden%20Supplies/Plant%20Protection)  
   [Seed Starting](https://web.archive.org/site/xdpy/sgc/Garden%20Supplies/Seed%20Starting)  
   [Sprayers & Applicators](https://web.archive.org/site/xdpy/sgc/Garden%20Supplies/Sprayers%20&%20Applicators)  
+**[Pond Care](https://web.archive.org/site/xdpy/sg/Pond%20Care)**  
 **[Indoor Garden Supply](https://web.archive.org/site/xdpy/sg/Indoor%20Garden%20Supply)**  
+  [Advanced Nutrients](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Advanced%20Nutrients)  
   [Air & Water Pumps](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Air%20&%20Water%20Pumps)  
   [Climate Controllers](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Climate%20Controllers)  
   [CO2 Systems](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/CO2%20Systems)  
-  [EC, TDS & pH Meters](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/EC,%20TDS%20&%20pH%20Meters)  
+  [EC, TDS & pH Testing](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/EC,%20TDS%20&%20pH%20Testing)  
   [Growing Media](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Growing%20Media)  
+  [Hydroponic Nutrients](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Hydroponic%20Nutrients)  
   [Hydroponic Supplies](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Hydroponic%20Supplies)  
   [Hydroponic Systems](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Hydroponic%20Systems)  
   [Plant Propagation & Cloning](https://web.archive.org/site/xdpy/sgc/Indoor%20Garden%20Supply/Plant%20Propagation%20&%20Cloning)  
@@ -68,7 +69,7 @@
 **[Bookstore](https://web.archive.org/site/xdpy/sg/Bookstore)**  
 **[Planet Natural Gear](https://web.archive.org/site/xdpy/sg/Planet%20Natural%20Gear)**  
 **[Gift Certificate](https://web.archive.org/site/xdpy/sg/Gift%20Certificate)**  
-|  | |    
+|  |  |    
 |   
   
 ---  
