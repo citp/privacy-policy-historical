@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122511id_/http%3A//www.redeye.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813072555id_/http%3A//www.redeye.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
