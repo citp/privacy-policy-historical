@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110145023id_/http%3A//stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813150522id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock: Privacy Statement
 
@@ -59,6 +59,10 @@ Our online surveys ask visitors for demographic information (like zip code or ag
 
 Demographic and profile data is also collected at our site.   
 We use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+
+####  Assessments (Hardware)
+
+Stardock's TweakVista product, at the request of the user, sends generic information about the computer hardware under analysis to Stardock. This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista.
 
 ####  External Links
 
