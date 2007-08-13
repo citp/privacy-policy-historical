@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudiodirector.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617034835id_/http%3A//www.thestudiodirector.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudiodirector.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814013853id_/http%3A//www.thestudiodirector.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # The Studio Director Privacy Policy
 
