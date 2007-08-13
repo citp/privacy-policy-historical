@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110013657id_/http%3A//www.tiptopjob.com/jobseeker/displaycontent.asp%3Fcontentid%3D331%26sectionid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2007-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070813190420id_/http%3A//www.tiptopjob.com/jobseeker/displaycontent.asp%3Fcontentid%3D331%26sectionid%3D16) for the most accurate reproduction.*
 
-# ۞ Tip Top Job - Privacy
+# Privacy
 
 |   
 ---  
@@ -109,4 +109,7 @@ If you would like to arrange for a mutual link to be set up from our site to you
 **  
 Use the "Contact Us" details if you have a question or need further information about **TipTopJob** data protection obligations. Alternatively, [click here](http://www.dataprotection.gov.uk/), for more general information.
 
-You may also find our [Terms and Conditions Page](https://web.archive.org/user/displaycontent.asp?contentid=168&sectionid=16) page of interest.
+You may also find our [Terms and Conditions Page](https://web.archive.org/user/displaycontent.asp?contentid=168&sectionid=16) page of interest.  
+  
+  
+Share It    [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&title=Privacy+ "Digg")  [](http://del.icio.us/post?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&title=Privacy+ "del.icio.us")  [](http://reddit.com/submit?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&title=Privacy+ "Reddit")  [](http://slashdot.org/bookmark.pl?title=Privacy+&url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331 "Slashdot")  [](http://technorati.com/faves?add=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331 "Technorati")  [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331 "StumbleUpon")  [](http://www.netscape.com/submit/?U=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&T=Privacy+ "Netscape")  [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&new_comment=Privacy+ "Fark")  [](http://www.spurl.net/spurl.php?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&title=Privacy+ "Spurl")  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331%20title=)  [](http://www.furl.net/storeIt.jsp?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&t=Privacy+ "Furl")  [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331) [](http://www.newsvine.com/_tools/seed&save?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fjobseeker%2Fdisplaycontent%2Easp%3Fsectionid%3D16%26contentID%3D331&h=Privacy+)
