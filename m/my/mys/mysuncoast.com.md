@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629050240id_/http%3A//mysuncoast.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814235323id_/http%3A//www.mysuncoast.com/privacy.cfm) for the most accurate reproduction.*
 
 # WWSB ABC 7 - Sarasota, Florida - Privacy Statement
 
