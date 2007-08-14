@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thematureporn.net privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022001213id_/http%3A//www.thematureporn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thematureporn.net privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814031406id_/http%3A//www.thematureporn.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
