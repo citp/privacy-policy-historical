@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624164658id_/http%3A//www.epromos.com/CustomerService/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814024428id_/http%3A//www.epromos.com/CustomerService/privacy.jsp) for the most accurate reproduction.*
 
 # ePromos.com - FAQs> Privacy and Security
 
   
 **Privacy and Security**
 
-[Privacy Policy](https://web.archive.org/web/20070624164658id_/http%3A//www.epromos.com/CustomerService/privacy.jsp#privacy)  
-[Security](https://web.archive.org/web/20070624164658id_/http%3A//www.epromos.com/CustomerService/privacy.jsp#security)   
+[Privacy Policy](https://web.archive.org/web/20070814024428id_/http%3A//www.epromos.com/CustomerService/privacy.jsp#privacy)  
+[Security](https://web.archive.org/web/20070814024428id_/http%3A//www.epromos.com/CustomerService/privacy.jsp#security)   
 
 
 Privacy Policy
