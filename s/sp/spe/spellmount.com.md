@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellmount.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304165512id_/http%3A//www.spellmount.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellmount.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814105237id_/http%3A//www.spellmount.com/privacy.php) for the most accurate reproduction.*
 
 # Tempus Publishing - Your Privacy
 
