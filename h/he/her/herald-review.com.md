@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618102526id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814025150id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
 
 # Herald & Review Newspaper Website - Decatur, Illinois - Central Illinois Newspaper Group (CING)
 
