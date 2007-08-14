@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218180718id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814041650id_/http%3A//www.mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
 
 # MMA Global - Privacy Statement
 
