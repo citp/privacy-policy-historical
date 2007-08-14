@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430011205id_/http%3A//www.safra.sg/privacy.aspx%3Fpageid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814100845id_/http%3A//www.safra.sg/privacy.aspx%3Fpageid%3D100) for the most accurate reproduction.*
 
 # SAFRA - Bringing NSMen Closer Together
 
