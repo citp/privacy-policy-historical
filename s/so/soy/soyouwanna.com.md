@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609020736id_/http%3A//www.soyouwanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soyouwanna.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814040004id_/http%3A//www.soyouwanna.com/privacy.cfm) for the most accurate reproduction.*
 
 # SoYouWanna
 
