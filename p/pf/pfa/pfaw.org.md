@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221072147id_/http%3A//www.pfaw.org/pfaw/general/default.aspx%3FoId%3D2801) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814041717id_/http%3A//www.pfaw.org/pfaw/general/default.aspx%3FoId%3D2801) for the most accurate reproduction.*
 
 # People For the American Way - Privacy Policy
 
+| [](https://web.archive.org/pfaw/general/default.aspx?oid=) |  | [](https://web.archive.org/pfaw/general/) | [](https://web.archive.org/pfaw/general/default.aspx?oid=16884) | [](https://www.pfaw.org/pfaw/general/default.aspx?oid=16852) | [](http://actions.pfaw.org/) | [](https://web.archive.org/pfaw/general/default.aspx?oid=161) | [](https://web.archive.org/pfaw/general/default.aspx?oid=162)  
+---|---|---|---|---|---|---|---  
+| [](https://web.archive.org/pfaw/general/default.aspx?oid=) |  | [](https://web.archive.org/pfaw/general/default.aspx?oid=22838) | [](https://web.archive.org/pfaw/general/default.aspx?oid=268) | [](https://web.archive.org/pfaw/general/default.aspx?oid=164) | [](https://web.archive.org/pfaw/general/default.aspx?oid=269) | [](https://web.archive.org/pfaw/general/default.aspx?oid=345)  
+---|---|---|---|---|---|---  
 |  |  |  | Privacy Policy |   
 ---|---|---  
 |  |   
@@ -52,4 +56,8 @@ Back to Top
   
 |  |   
   
-|  | 
+|  |   
+  
+[**Privacy Policy**](https://web.archive.org/pfaw/general/default.aspx?oid=2801) | [**Employment**](https://web.archive.org/pfaw/general/default.aspx?oid=2790) | [**Copyright & Disclaimer**](https://web.archive.org/pfaw/general/default.aspx?oid=2815)  
+People For the American Way • 2000 M Street, NW, Suite 400 • Washington, DC 20036  
+Telephone: 202-467-4999 or 800-326-7329 • pfaw@pfaw.org 
