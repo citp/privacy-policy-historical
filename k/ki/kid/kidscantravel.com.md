@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscantravel.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507150050id_/http%3A//www.kidscantravel.com/index.php%3Fid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscantravel.com privacy policy that was archived on 2007-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070814051749id_/http%3A//www.kidscantravel.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | kids can travel
 
@@ -8,17 +8,17 @@ The contents of this statement are in accordance with Italian law governing Data
 
 kidscantravel.com is committed to protecting your privacy. Please read the kidscantravel.com Privacy policy below to obtain user information with regard to: 
 
-  1. Definitions
-  2. Collection of information: b.1 anonymous navigation information, b.2 personal information, b.3 IP addresses, cookies e web beacons
-  3. Usage of personal information
-  4. Right of refusal
-  5. Communicating and divulging data
-  6. User rights
-  7. Exercising user rights
-  8. Handling of personal information
-  9. Changes to the Policy policy
-  10. Links
-  11. Certification of translation
+  1. [Definitions](http://www.kidscantravel.com/privacy/index.html#a)
+  2. [Collection of information](http://www.kidscantravel.com/privacy/index.html#b): [b.1 anonymous navigation information](http://www.kidscantravel.com/privacy/index.html#b1), [b.2 personal information](http://www.kidscantravel.com/privacy/index.html#b2), [b.3 IP addresses, cookies e web beacons](http://www.kidscantravel.com/privacy/index.html#b3)
+  3. [Usage of personal information](http://www.kidscantravel.com/privacy/index.html#c)
+  4. [Right of refusal](http://www.kidscantravel.com/privacy/index.html#d)
+  5. [Communicating and divulging data](http://www.kidscantravel.com/privacy/index.html#e)
+  6. [User rights](http://www.kidscantravel.com/privacy/index.html#f)
+  7. [Exercising user rights](http://www.kidscantravel.com/privacy/index.html#g)
+  8. [Handling of personal information](http://www.kidscantravel.com/privacy/index.html#h)
+  9. [Changes to the Policy policy](http://www.kidscantravel.com/privacy/index.html#i)
+  10. [Links](http://www.kidscantravel.com/privacy/index.html#j)
+  11. [Certification of translation](http://www.kidscantravel.com/privacy/index.html#k)
 
 
 
@@ -28,17 +28,17 @@ Sensitive information is personal information that reveals the user's racial and
 Usage of personal information consists of any action (activity) or series of actions to collect, record, organize, maintain, consult, process, modify, select, extract, compare, use, link, block, communicate, share, cancel and destroy said information.  
 
 
-**b. Collection of information** **:b1. anonymous navigation information, b.2 personal information, b.3 IP addresses, cookies and web beacons **
+**b. Collection of information** **:[b1. anonymous navigation information](http://www.kidscantravel.com/privacy/index.html#b1), [b.2 personal information](http://www.kidscantravel.com/privacy/index.html#b2), [b.3 IP addresses, cookies and web beacons](http://www.kidscantravel.com/privacy/index.html#b3) **
 
 Personal information pertaining to the user is stored on an appropriately protected server in Italy where it remains for the time strictly necessary to transmit the communication or supply the services as indicated herein. Access to said server is strictly limited to personnel authorized to operate the server and for other corporate purposes. Strict controls and access protocols are in force. 
 
 Personal information collected by kidscantravel.com can be divided into two categories:
 
 **b1. anonymous navigation information**  
-The collection of a certain amount of personal information is inherent in Internet navigation. kidscantravel.com collects certain standard anonymous navigation information that the user's browser (navigation system) sends to every website visited such as the user's IP (Internet Protocol) address, referring Web site address, URL address of the resources requested, access time, browser type and language, size of the file obtained in response, type of information obtained, numerical code indicating the status of the response given by the server and other user operating system related indexes. 
+The collection of a certain amount of personal information is inherent in Internet navigation. kidscantravel.com collects certain standard anonymous navigation information that the user's browser (navigation system) sends to every website visited such as the user's [IP (Internet Protocol) address](http://www.kidscantravel.com/privacy/index.html#b3), referring Web site address, URL address of the resources requested, access time, browser type and language, size of the file obtained in response, type of information obtained, numerical code indicating the status of the response given by the server and other user operating system related indexes. 
 
 kidscantravel.com uses the IP address for administrative purposes as well as provide kidscantravel.com advertisers with aggregated anonymous navigation information. The collection of the above information cannot be construed to lead to the disclosure of user identifying or user sensitive information such as **name** , **address** or any other personal information that would reveal user sensitive information.  
-kidscantravel.com collects anonymous navigation information such as, browser version, geographical location of the computer or server, pages viewed, links clicked, and any other actions (activity) undertaken while visiting the website. Cookies and web beacons are utilized to collect said information. kidscantravel.com uses cookies to customize content, optimize advertising for example through the frequency variable that allows the user to view an advertising message only a certain number of times, trace user behavior profiles based on navigation patterns followed during the course of visits to the site and update statistics that record the visits received by the user. All web traffic statistics arising from the use of cookies are subject primarily to two variables: a) the user has enabled the cookie support function available in their browser and b) subsequent connections are carried out by means of the same browser. Generally, Internet browsers are set to accept cookies. The user may disable cookies, however this may limit usage of the site. Cookies may be disabled by means of the apposite browser functionality.
+kidscantravel.com collects anonymous navigation information such as, browser version, geographical location of the computer or server, pages viewed, links clicked, and any other actions (activity) undertaken while visiting the website. [Cookies](http://www.kidscantravel.com/privacy/index.html#b3) and [web beacons](http://www.kidscantravel.com/privacy/index.html#b3) are utilized to collect said information. kidscantravel.com uses cookies to customize content, optimize advertising for example through the frequency variable that allows the user to view an advertising message only a certain number of times, trace user behavior profiles based on navigation patterns followed during the course of visits to the site and update statistics that record the visits received by the user. All web traffic statistics arising from the use of cookies are subject primarily to two variables: a) the user has enabled the cookie support function available in their browser and b) subsequent connections are carried out by means of the same browser. Generally, Internet browsers are set to accept cookies. The user may disable cookies, however this may limit usage of the site. Cookies may be disabled by means of the apposite browser functionality.
 
 Web beacons enable kidscantravel.com to determine, in an anonymous manner, for example, whether and how many times a particular web page has been viewed. Web beacons are also be utilized to verify whether a request by the user to obtain additional information on a given promotion has been fulfilled.   
 Anonymous navigation information collected or acquired by the means outlined above is not utilized to identify the user or obtain user sensitive information such as user **name** , **address** or any other personal information that would reveal user sensitive information.  
@@ -56,7 +56,7 @@ With the exception of that set out in b.1. of this Privacy policy, kidscantravel
 * access **reader ratings** to evaluate a destination, activity or accommodation as well as express interest in information on specific travel related topics; 
 * send a page to third parties, accomplished by clicking on the text " **email this page** " located in the right-hand column of each page consenting this functionality.
   
-The user that [registers](https://web.archive.org/web/20060507150050id_/http%3A//www.kidscantravel.com/index.php?id=32#6c) with kidscantravel.com is solely responsible for the safekeeping of the information provided, even as regards those activities put into being as a result of their use. 
+The user that [registers](http://www.kidscantravel.com/legal/index.html#6c) with kidscantravel.com is solely responsible for the safekeeping of the information provided, even as regards those activities put into being as a result of their use. 
 
 **b3. IP addresses, cookies and web beacons**  
 **IP addresses** are 32 bit numbers that unequivocally represent those sending or receiving data via the Internet. IP addresses are generally expressed as a series of four numbers each separated by a full stop, each of the four numbers may vary from 0 to 255. Any communication that takes place on the Internet must include the sender and recipient's IP address.  
@@ -68,7 +68,7 @@ The user that [registers](https://web.archive.org/web/20060507150050id_/http%3A/
 Personal information related to the user consensually provided (email address and password, country of residence, year of birth, sex, and number of children) or collected (anonymous navigation information) whilst browsing in kidscantravel.com is used, even by means of electronic tools and procedures, for the following purposes:  
 
 
-* those directly associated with and/or instrumental to providing and managing the [service](https://web.archive.org/web/20060507150050id_/http%3A//www.kidscantravel.com/index.php?id=32#1); the usage of personal information is strictly necessary and exclusively aimed at providing information regarding the services offered, and carrying out and satisfying requests formulated by the user in accordance with the purposes and uses of the site; 
+* those directly associated with and/or instrumental to providing and managing the [service](http://www.kidscantravel.com/legal/index.html#1); the usage of personal information is strictly necessary and exclusively aimed at providing information regarding the services offered, and carrying out and satisfying requests formulated by the user in accordance with the purposes and uses of the site; 
 * fulfill those obligations set out by the law and EU community regulations; 
 * prior the user's explicit consent for the transmission of personal information abroad.
 
@@ -76,7 +76,7 @@ Anonymous navigation information is also used for the following purposes:
 
 
 * statistical related to the creation of consumer and user profiles utilized to ensure efficient management of the site or by third parties with whom kidscantravel.com has entered into commercial agreements to effect directed advertising campaigns and improve the efficiency and effectiveness of said campaigns; 
-* commercial, marketing, market research, and [advertising](https://web.archive.org/web/20060507150050id_/http%3A//www.kidscantravel.com/index.php?id=32#6I) relating to the kidscantravel.com service or that of third party advertisers as well as communicating anonymous user related navigation information with third parties with whom kidscantravel.com has entered into commercial agreements; 
+* commercial, marketing, market research, and [advertising](http://www.kidscantravel.com/legal/index.html#6I) relating to the kidscantravel.com service or that of third party advertisers as well as communicating anonymous user related navigation information with third parties with whom kidscantravel.com has entered into commercial agreements; 
 * determine the quality of the service offered by kidscantravel.com and degree of user satisfaction, carried out both directly and with the help of specialized third parties;
 
 Personal information related to the user that is consensually provided is also used for following purposes:  
@@ -149,7 +149,7 @@ This statement applies solely to kidscantravel.com and is not applicable to thos
 This statement has been translated to English from the Italian original; this English-language translation has been legalized by the Court of Monza, Italy as certified below and is in conformity with the Italian-language original.   
 
 
-[](https://web.archive.org/web/20060507150050id_/http%3A//www.kidscantravel.com/uploads/RTEmagicC_privacy.gif.gif)
+[](http://www.kidscantravel.com/uploads/RTEmagicC_privacy.gif.gif)
 
 Click on image to enlarge
 
