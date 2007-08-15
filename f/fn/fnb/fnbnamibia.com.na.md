@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnbnamibia.com.na privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924012748id_/https%3A//www.fnbnamibia.com.na/legallinks/privPol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnbnamibia.com.na privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815104436id_/https%3A//www.fnbnamibia.com.na/legallinks/privPol.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
