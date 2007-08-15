@@ -1,47 +1,81 @@
-> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325042718id_/http%3A//www.bestrealincome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815100218id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**PRIVACY POLICY**
+This site (BestRealIncome.com) is owned and operated by Kiwi2 Limited. Your privacy on the Internet is of the utmost importance to us. At BestRealIncome.com, we want to make your experience online satisfying and safe.
 
-Last Updated: May 22, 2003
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-BestRealIncome.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+**INFORMATION BestRealIncome.com GATHERS AND TRACKS**
 
- **How we gather information from users**
+BestRealIncome.com gathers two types of information about users:
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, BestRealIncome.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
+  * Information BestRealIncome.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers? needs and to help our advertisers and sponsors better understand the demographics of our audience. Because BestRealIncome.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does BestRealIncome.com divulge any information about an individual user to a third party. 
 
- **What we do with the information we collect**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+**BestRealIncome.com Gathers User Information In The Following Processes:**
 
-We may use Personally Identifiable Information collected on BestRealIncome.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BestRealIncome.com and other topics we think you might find of interest.
+We may offer the following free services, which require some type of voluntary submission of personal information by users:
 
-Personally Identifiable Information collected by BestRealIncome.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+1\. Electronic newsletters policy (Dispatches)We will offer a free electronic newsletter to users. BestRealIncome.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
- **Affiliated sites, linked sites and advertisements**
+2\. Message boards/forums policy
 
-BestRealIncome.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a BestRealIncome.com page, certain content that is actually created or hosted by a third party. Also, through BestRealIncome.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. BestRealIncome.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Users of the site?s Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn?t register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. BestRealIncome.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+3\. ?E-mail this to a friend? policy
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of BestRealIncome.com and this policy.
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking ?e-mail this to a friend?. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
- **Children**
+4\. Polling
 
-BestRealIncome.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BestRealIncome.com has any information from or about anyone under 13, please contact us at the address listed below.
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. BestRealIncome.com may use a system to ?tag? users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-Contacting Us.
+5\. Surveys
 
-We can be reached by contacting:
+BestRealIncome.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
-BestRealIncome.com
+**Children** Consistent with the Federal Children?s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
-Email: brian@bestrealincome.com
+**Usage tracking**
 
-Changes to this Policy
+BestRealIncome.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. BestRealIncome.com does break down overall usage statistics according to a user?s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user?s browser).
 
-BestRealIncome.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+BestRealIncome.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don?t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+
+**Cookies**
+
+We may place a text file called a ?cookie? in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can?t read data off your hard disk or read cookie files created by other sites. BestRealIncome.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+You can refuse cookies by turning them off in your browser. If you?ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+
+**USE OF INFORMATION** BestRealIncome.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. BestRealIncome.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+
+When we use tracking information to determine which areas of our sites users like and don?t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don?t track which terms a particular user enters.
+
+BestRealIncome.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don?t track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+**SHARING OF THE INFORMATION**
+
+BestRealIncome.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience?s demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+**SECURITY**
+
+BestRealIncome.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+**OPT-OUT POLICY**
+
+We give users options wherever necessary and practical. Such choices include:
+
+  * **Opting not to register to receive our electronic newsletters.**
+  * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users**
+
+
+
+**YOUR CONSENT**
+
+By using this site, you consent to the collection and use of this information by BestRealIncome.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
