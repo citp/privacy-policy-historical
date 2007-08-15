@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2download.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018190512id_/http%3A//www.games2download.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2download.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815073359id_/http%3A//www.games2download.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ All subscribers always have an option to unsubscribe at any time. Our newsletter
 
 **Cookies**
 
-This site collects cookies. ( **[Definition of cookies](https://web.archive.org/web/20061018190512id_/http%3A//www.games2download.com/go.php?m=Definition%20of%20cookies)** )  
+This site collects cookies. ( **[Definition of cookies](https://web.archive.org/web/20070815073359id_/http%3A//www.games2download.com/go.php?m=Definition%20of%20cookies)** )  
 We use cookies on this site to ensure the integrity of the purchase process for our Full Version games. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
 
 **Notification of changes**
