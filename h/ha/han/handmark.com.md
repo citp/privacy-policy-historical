@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606141907id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815223405id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
 
-# Handmark Software: Privacy Notice
+# Handmark - Privacy Notice
 
 Handmark knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Handmark.com, you are accepting the practices described in this Privacy Notice. 
 
