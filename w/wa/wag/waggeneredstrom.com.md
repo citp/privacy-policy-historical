@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429192147id_/http%3A//waggeneredstrom.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2007-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070815074439id_/http%3A//www.waggeneredstrom.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Waggener Edstrom Worldwide - Privacy Policy
 
