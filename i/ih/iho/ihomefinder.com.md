@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430033405id_/http%3A//ihomefinder.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816085855id_/http%3A//www.ihomefinder.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # iHomefinder Privacy Policy
 
