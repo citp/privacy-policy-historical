@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517041420id_/http%3A//www.thirdsector.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816105138id_/http%3A//www.thirdsector.co.uk/Privacy) for the most accurate reproduction.*
 
 # Charities, voluntary organisations, social enterprise, charity news - Third Sector
 
