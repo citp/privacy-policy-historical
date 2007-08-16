@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104100339id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816183205id_/http%3A//www.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Kalmbach Publishing Co. Privacy Policy - (12/01/2004)
 
@@ -6,7 +6,7 @@ Kalmbach Publishing Co. Privacy Policy
 
 | 
 
-Last modified: March 02, 2006.
+Last modified: August 06, 2007.
 
 Kalmbach Publishing Co. is committed to providing service that exceeds expectations while treating all customers as VIPs. This includes maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the Internet or otherwise.
 
@@ -29,7 +29,7 @@ This explanation of our privacy policy answers the following questions:
   
 Gathering Information
 
-Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
+Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Make It Mine, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
 
 Kalmbach Publishing Co. is also the host for:
 
@@ -51,13 +51,14 @@ Kalmbach Publishing Co. is also the host for:
   * [Kalmbach Online Catalog ](http://store.yahoo.net/kalmbachcatalog/)
   
 
+  * [Bead, Jewelry and Crafts Store](http://www.beadandcraftbooks.com/)
+  
+
   * [Model Train Magazine Index ](http://index.mrmag.com/)
   
 
   * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)
   
-
-  * [www.trainshops.com ](http://www.trainshops.com/)
 
 
 
