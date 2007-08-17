@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the stompernet.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514054357id_/https%3A//www.stompernet.com/Default.aspx%3Ftabid%3D190%26ctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stompernet.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817065759id_/https%3A//www.stompernet.com/Default.aspx%3Ftabid%3D190%26ctl%3DPrivacy) for the most accurate reproduction.*
 
 # Member Login
 
-StomperNet is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the StomperNet Web site and governs data collection and usage. By using the StomperNet website, you consent to the data practices described in this statement.
+StomperNet is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the StomperNet Web site and governs data collection and usage. By using the StomperNet website, you consent to the data practices described in this statement. For the purpose of this Privacy Statement, the “StomperNet Web Site” shall have the same meaning as defined in the StomperNet Terms Of Use.
+
+STOMPERNET LLC is committed to best email practices, and has been accredited by the Institute for Spam and Internet Public Policy as meeting the requirements for listing in their SuretyMail IADB Email Accreditation Program. Our IADB registration number is 20070516000566. For more information see http://www.SuretyMail.com
 
 Collection of your Personal Information
 
@@ -10,13 +12,13 @@ StomperNet collects personally identifiable information, such as your e-mail add
 
 There is also information about your computer hardware and software that is automatically collected by StomperNet. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by StomperNet for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the StomperNet Web site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through StomperNet public message boards, this information may be collected and used by others. Note: StomperNet does not read any of your private online communications.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through StomperNet public message boards, this information may be collected and used by others.. Note: StomperNet does not read any of your private online communications.
 
 StomperNet encourages you to review the privacy statements of Web sites you choose to link to from StomperNet so that you can understand how those Web sites collect, use and share your information. StomperNet is not responsible for the privacy statements or other content on Web sites outside of the StomperNet and StomperNet family of Web sites.
 
 Use of your Personal Information
 
-StomperNet collects and uses your personal information to operate the StomperNet Web site and deliver the services you have requested. StomperNet also uses your personally identifiable information to inform you of other products or services available from StomperNet and its affiliates. StomperNet may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+StomperNet collects and uses your personal information to operate the StomperNet Web site and deliver the services you have requested. StomperNet also uses your personally identifiable information to inform you of other products or services available from StomperNet and its affiliates. StomperNet may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. StomperNet may also contact you from time to time via your email address to provide you with a variety of information, including weekly wrap ups, newsletters, bulletins and similar information.
 
 StomperNet does not sell, rent or lease its customer lists to third parties. StomperNet may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, StomperNet may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to StomperNet, and they are required to maintain the confidentiality of your information.
 
