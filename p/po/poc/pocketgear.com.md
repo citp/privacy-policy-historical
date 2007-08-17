@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624042218id_/http%3A//www.pocketgear.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817175510id_/http%3A//www.pocketgear.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
