@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdl.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629020253id_/http%3A//www.sdl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdl.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817123058id_/http%3A//www.sdl.com/privacy.htm) for the most accurate reproduction.*
 
 # SDL Plc Privacy Policy - Translation - Localization - Globalization - SDL International
 
