@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208232822id_/http%3A//www.interlinkexpress.com/index/aboutus/about_us_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817081224id_/http%3A//www.interlinkexpress.com/index/aboutus/about_us_privacy.htm) for the most accurate reproduction.*
 
 # About Us - Privacy
 
