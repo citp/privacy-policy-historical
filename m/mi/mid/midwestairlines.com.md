@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503010720id_/http%3A//www.midwestairlines.com/MAWeb/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestairlines.com privacy policy that was archived on 2007-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070817025630id_/http%3A//www.midwestairlines.com/MAWeb/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Midwest Airlines
 
