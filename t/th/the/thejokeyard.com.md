@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejokeyard.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611105138id_/http%3A//www.thejokeyard.com/_interact/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejokeyard.com privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818103529id_/http%3A//www.thejokeyard.com/_interact/privacy_policy.php) for the most accurate reproduction.*
 
 # The JokeYard - Privacy Policy
 
