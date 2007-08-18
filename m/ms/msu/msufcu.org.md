@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923121653id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818032654id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.*
 
 # MSUFCU Privacy Policy
 
