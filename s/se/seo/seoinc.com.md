@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610045540id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoinc.com privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818040030id_/http%3A//www.seoinc.com/legal) for the most accurate reproduction.*
 
 # Legal
 
@@ -45,7 +45,8 @@ If you feel that we are not abiding by this privacy policy, you should contact u
   * * * *
 
 **Search Engine Optimization Inc.** \- 2720 Loker Ave W, Suite G - Carlsbad, CA 92010   
-Phone: 1-877-736-0006 • Phone: 1-760-929-0039 • Fax: 1-760-929-8002 
+Phone: 1-877-736-0006 • Phone: 1-760-929-0039 • Fax: 1-760-929-8002  
+North County San Diego 
 
 
 
