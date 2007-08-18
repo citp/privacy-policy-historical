@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613130504id_/http%3A//www.spill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2007-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070818055129id_/http%3A//www.spill.com/privacy) for the most accurate reproduction.*
 
 # Movie Reviews from Spill.com » Privacy Policy
 
