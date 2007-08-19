@@ -1,0 +1,672 @@
+<!--The following is the downloaded HTML source of the burpee.com privacy policy that was archived on 2007-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070819144145id_/http%3A//www.burpee.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+      function clickIt()
+      {
+          if(window.event.srcElement.id != "good") {
+              window.event.returnValue = false;
+           }
+      }
+</script>
+
+<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>
+      
+        Privacy and Security
+        -  
+      
+        Customer Service
+        
+      
+      - Burpee
+    </title>
+  
+
+
+
+    <meta name="description" content="Privacy and Security">
+  
+
+
+
+    <meta name="keywords" content=" ">
+  
+
+
+	<link type="text/css" rel="STYLESHEET" href="http://reviews-cdn.burpee.com/burpee/include/bazaarvoice.css">
+	<link rel="STYLESHEET" href="http://reviews-cdn.burpee.com/burpee/include/bazaarvoiceUI.css" type="text/css">
+	<script language="JavaScript" src="http://reviews-cdn.burpee.com/burpee/include/bazaarvoiceUI.js" type="text/javascript"></script>
+	<script language="JavaScript" src="http://reviews-cdn.burpee.com/burpee/include/bazaarvoice.js" type="text/javascript"></script>
+
+
+        <link rel="stylesheet" type="text/css" href="/p2p/personalization/Personalization.css" title="style">
+        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+        <script src="/includes/common.js"></script>
+        <script src="/includes/flyopen.js"></script>
+        <script src="/includes/rollover.js"></script>
+        <script src="/includes/cleartext.js"></script>
+        
+    </head>
+<body class="main">
+
+<table width="768" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable">
+
+  <tbody><tr>
+    <td colspan="3" class="navheaderbg">
+      <div><!--TopNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function checkKeyword(keyword, radio, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 3;
+    maxKeywordLength += 30;
+    var errMsg = '';
+    //alert("minKeywordLength " + minKeywordLength);
+    var searchTerms = '';
+    searchTerms = keyword.value;
+    //alert("searchTerms.length " + searchTerms.length);
+
+    var noSearchTerm = 'Please enter a keyword or item number';
+    var shortSearchTerm = 'Your keyword or item number must be at least 3 characters long';
+	
+	var radio = valButton(searchForm.all);
+    if(radio==null)
+	{
+		alert("Please Select the Search Product");
+		return false;
+	}
+	if (searchTerms == defaultText) {
+        alert(noSearchTerm);
+        return false;
+    }
+    if (searchTerms == '') {
+        alert(noSearchTerm);
+        return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    }
+	else {
+      return true;
+    }
+  }
+
+ function valButton(btn) {
+    var cnt = -1;
+    for (var i=btn.length-1; i > -1; i--) {
+        if (btn[i].checked) {cnt = i; i = -1;}
+    }
+    if (cnt > -1) return btn[cnt].value;
+    else return null;
+}
+                  
+</script>
+
+<table border="0" width="768" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr>
+	<td class="clearbg" valign="top"><a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="Burpee"></a></td>
+	<td valign="top" align="right" class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+		<!-- <tr>
+			<td><img src="/images/en_US/global/globalgraphics/banner01.gif" border="0"></td>
+		</tr> -->
+		<tbody><tr>
+			<td align="right" bgcolor="#ffffff"><table width="508" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                 <td rowspan="2" width="100%"></td>
+                <td colspan="2"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="261" height="26" border="0"></td>
+              </tr>
+              <tr>
+                <td width="138" align="left"><a href="/basket.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_off.gif');"><img src="/images/en_US/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Cart" name="top_shopbasket"></a></td>
+                <td valign="top" class="cart_display" align="left" nowrap="nowrap">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	 	(0
+	items
+     $0.00)</td>
+              </tr>
+            </tbody></table>
+			<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
+				<td><a href="/category/customer+service.do" onmouseover="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_off.gif');"><img src="/images/en_US/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+				<td><a href="/account/orderhistory.do" onmouseover="rollover('top_catrequest','/images/en_US/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_catrequest','/images/en_US/global/globalnav/orderstatus_off.gif');"><img src="/images/en_US/global/globalnav/orderstatus_off.gif" border="0" alt="Order Status" name="top_catrequest"></a></td>
+			    <td><a href="/catalogQuickShop.do" onmouseover="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_off.gif');"><img src="/images/en_US/global/globalnav/catquickshop_off.gif" border="0" alt="Catalogue Quick Shop" name="top_cqs"></a></td>
+				
+			</tr>
+			</tbody></table></td>
+		</tr>
+		<!-- <tr>
+			<td><table border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td><a href="/catalogQuickShop.do" onMouseOver="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_on.gif');" onMouseOut="rollover('top_cqs','/images/en_US/global/globalnav/catquickshop_off.gif');"><img src="/images/en_US/global/globalnav/catquickshop_off.gif" border=0 alt="Catalogue Quick Shop" name="top_cqs"></a></td>
+				<td><a href="/ancillary/catalogrequest.do" onMouseOver="rollover('top_catrequest','/images/en_US/global/globalnav/catrequest_on.gif');" onMouseOut="rollover('top_catrequest','/images/en_US/global/globalnav/catrequest_off.gif');"><img src="/images/en_US/global/globalnav/catrequest_off.gif" border=0 alt="Catalogue Request" name="top_catrequest"></a></td>
+				<td><a href="/ancillary/emailsignup.do" onMouseOver="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_on.gif');" onMouseOut="rollover('top_emailsignup','/images/en_US/global/globalnav/emailsignup_off.gif');"><img src="/images/en_US/global/globalnav/emailsignup_off.gif" border=0 alt="Email Signup" name="top_emailsignup"></a></td>
+			</tr>
+			</table></td>
+		</tr> -->
+	</tbody></table></td>
+	<!-- <td class=clearbg><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td> -->
+	<!-- <td align=right class=clearbg><table border=1 cellpadding=0 cellspacing=0>
+	<form name="searchForm" action="/p2p/basicSearch.do?" onsubmit="return checkKeyword(this.keyword, this.all, 'Keyword or Item#');">
+	<tr>
+	<td colspan="3">
+		SEARCH
+	</td>
+	</tr>
+	<tr>
+		<td><input type="radio" name="all" value="all"/>All</td>
+		<td><input type="radio" name="all" value="Products"/>Products</td>
+		<td><input type="radio" name="all" value="Articles"/>Articles</td>
+	</tr>
+	<tr>
+		<td colspan="3"><input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class=navsearchbox onFocus="if(this.value=='Keyword or Item#')this.value='';" ></td>
+		<td>
+			<input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border=0 alt="Search">
+		</td>
+	</tr>
+        
+            <tr>
+                <td align=right colspan=3><a href="/p2p/advancedSearch.do?init=true" onMouseOver="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_on.gif');" onMouseOut="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_off.gif');"><img src="/images/en_US/global/globalnav/advancedsearch_off.gif" border=0 alt="Advanced Search" name="top_advancedsearch"></a></td>
+            </tr>
+        
+        
+        
+        <tr>
+		 <td class=clearbg><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		 <td>&nbsp;</td>
+		 </tr>
+		</tr>
+		 
+		</form>
+	</table></td> 
+	<td class=clearbg><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>-->
+</tr>
+</tbody></table>
+<!--TopNav End-->
+</div>
+      <div><!--CatNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  var aCatImgs = new Array();
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_01_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_01_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_02_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_02_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_03_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_03_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_04_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_04_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_05_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_05_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_06_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_06_on.gif";
+  
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_07_off.gif";
+    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/globalnav_07_on.gif";
+  
+  preload(aCatImgs);
+</script>
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+
+
+    
+        
+            
+                    <td><a href="/category/vegetables.do" onmouseover="rollover('Vegetables','/images/en_US/global/globalnav/globalnav_01_on.gif');" onmouseout="rollover('Vegetables','/images/en_US/global/globalnav/globalnav_01_off.gif');"><img border="0" name="Vegetables" src="/images/en_US/global/globalnav/globalnav_01_off.gif" alt="Vegetables"></a></td>
+                
+        
+            
+                    <td><a href="/category/annual+flowers.do" onmouseover="rollover('Annual Flowers','/images/en_US/global/globalnav/globalnav_02_on.gif');" onmouseout="rollover('Annual Flowers','/images/en_US/global/globalnav/globalnav_02_off.gif');"><img border="0" name="Annual Flowers" src="/images/en_US/global/globalnav/globalnav_02_off.gif" alt="Annual Flowers"></a></td>
+                
+        
+            
+                    <td><a href="/category/perennial+flowers.do" onmouseover="rollover('Perennial Flowers','/images/en_US/global/globalnav/globalnav_03_on.gif');" onmouseout="rollover('Perennial Flowers','/images/en_US/global/globalnav/globalnav_03_off.gif');"><img border="0" name="Perennial Flowers" src="/images/en_US/global/globalnav/globalnav_03_off.gif" alt="Perennial Flowers"></a></td>
+                
+        
+            
+                    <td><a href="/category/herbs.do" onmouseover="rollover('Herbs','/images/en_US/global/globalnav/globalnav_04_on.gif');" onmouseout="rollover('Herbs','/images/en_US/global/globalnav/globalnav_04_off.gif');"><img border="0" name="Herbs" src="/images/en_US/global/globalnav/globalnav_04_off.gif" alt="Herbs"></a></td>
+                
+        
+            
+                    <td><a href="/category/flowering+bulbs.do" onmouseover="rollover('Flowering Bulbs','/images/en_US/global/globalnav/globalnav_05_on.gif');" onmouseout="rollover('Flowering Bulbs','/images/en_US/global/globalnav/globalnav_05_off.gif');"><img border="0" name="Flowering Bulbs" src="/images/en_US/global/globalnav/globalnav_05_off.gif" alt="Flowering Bulbs"></a></td>
+                
+        
+            
+                    <td><a href="/category/seed+starting.do" onmouseover="rollover('Seed Starting','/images/en_US/global/globalnav/globalnav_06_on.gif');" onmouseout="rollover('Seed Starting','/images/en_US/global/globalnav/globalnav_06_off.gif');"><img border="0" name="Seed Starting" src="/images/en_US/global/globalnav/globalnav_06_off.gif" alt="Seed Starting"></a></td>
+                
+        
+            
+                    <td><a href="/category/gardening+supplies.do" onmouseover="rollover('Gardening Supplies','/images/en_US/global/globalnav/globalnav_07_on.gif');" onmouseout="rollover('Gardening Supplies','/images/en_US/global/globalnav/globalnav_07_off.gif');"><img border="0" name="Gardening Supplies" src="/images/en_US/global/globalnav/globalnav_07_off.gif" alt="Gardening Supplies"></a></td>
+                
+        
+      
+				
+	 
+     
+	 <td><a href="/category/gardeners+corner.do?nav=%2Fcategory%2Fid%2F200%2F202" onmouseover="rollover('gardnerCorner','/images/en_US/global/globalnav/globalnav_08_on.gif');" onmouseout="rollover('gardnerCorner','/images/en_US/global/globalnav/globalnav_08_off.gif');"><img border="0" name="gardnerCorner" src="/images/en_US/global/globalnav/globalnav_08_off.gif" alt="Gardner Corner"></a></td>
+				  </tr>
+</tbody></table>
+<!--CatNav End-->
+</div>
+    </td>
+  </tr>
+
+
+<tr><td colspan="4" class="bordersearch_right01"><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="search_border_rt">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="formsearch_bg">
+				<tbody><tr>
+					<td><img src="" width="14" height="1" border="0"></td>
+					<td valign="top"><table width="160" border="0" align="center" cellpadding="0" cellspacing="0">
+<form name="searchForm" action="/p2p/basicSearch.do?" onsubmit="return checkKeyword(this.keyword, this.all, 'Keyword or Item#');"></form>
+	<tbody><tr><td colspan="2"><table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+		<td valign="top"><input type="radio" name="all" value="all" checked="1" class="radiobut"></td>
+		<td><img src="/images/en_US/global/globalgraphics/search_all.gif" border="0"></td>
+		<td valign="top"><input type="radio" name="all" value="Products" class="radiobut"></td>
+		<td><img src="/images/en_US/global/globalgraphics/search_products.gif" border="0"></td>
+		<td valign="top"><input type="radio" name="all" value="Articles" class="radiobut"></td>
+		<td><img src="/images/en_US/global/globalgraphics/search_articles.gif" border="0"></td>
+		</tr>
+	</tbody></table>
+	</td></tr>	
+	<tr>
+		<td align="right"><input type="text" name="keyword" value="Keyword or Item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='Keyword or Item#')this.value='';"></td><td width="53"><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="Search"></td>
+	</tr>
+	<tr>
+	  <td colspan="2"><img src="" width="1" height="4" border="0"></td>
+	  </tr>
+		
+		</tbody></table></td>
+					<td><img src="" width="14" height="1" border="0"></td>
+				</tr>	
+			</tbody></table>
+
+</td>
+  </tr>
+</tbody></table>
+</td></tr>
+  <tr valign="top">
+    
+    <td width="15" class="bordersearch_left02"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="14" height="1" border="0"></td>
+    <td width="738" class="contentbg">
+	  <!-- <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="738" height="26" border="0"></div> -->
+      <div>
+        
+        
+
+
+
+
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody><tr>
+            <td colspan="4"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="26" border="0"></td>
+          </tr>
+		  <tr>
+    		<td colspan="4"><img src="/images/en_US/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></td>
+  			</tr>
+			<tr>
+    			<td colspan="4"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></td>
+  			</tr>
+		  
+		  <tr valign="top">
+            <td width="171">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="171">
+
+		
+	<tbody><tr>
+	<td class="subCatnav_link"><a href="/category/customer+service/burpee+guarantee.do">Burpee Guarantee</a></td>
+    </tr>
+	<tr>
+				<td><img src="" width="1" height="15" border="0"></td>
+			</tr>
+    		
+	<tr>
+	<td class="subCatnav_link"><a href="/category/customer+service/about+burpee.do">About Burpee</a></td>
+    </tr>
+	<tr>
+				<td><img src="" width="1" height="15" border="0"></td>
+			</tr>
+    		
+	<tr>
+	<td class="subCatnav_link"><a href="/category/customer+service/privacy+and+security.do?sortby=newArrivals">Privacy and Security</a></td>
+    </tr>
+	<tr>
+				<td><img src="" width="1" height="15" border="0"></td>
+			</tr>
+    		
+	<tr>
+	<td class="subCatnav_link"><a href="/category/customer+service/shipping+information.do">Shipping Information</a></td>
+    </tr>
+	<tr>
+				<td><img src="" width="1" height="15" border="0"></td>
+			</tr>
+    		
+	<tr>
+	<td class="subCatnav_link"><a href="/category/customer+service/contact+us.do">Contact Us</a></td>
+    </tr>
+	<tr>
+				<td><img src="" width="1" height="15" border="0"></td>
+			</tr>
+    
+
+</tbody></table>
+
+</td> 
+            <td width="1" class="hrline"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+            <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="15" height="4" border="0"></td>
+			<td width="550"><div class="default"><p><span class="colorsubheader">Privacy Policy General</span></p>The Burpee web site is provided as a service to our customers and to home gardeners across the United States. We do not attempt to capture or solicit any personal information as part of your visit to this site.<br><br><span class="colorsubheader">What personally identifiable information is collected and how is it used?</span><br>When you order products or register on the site, we need you to provide your name, email address, mailing address, day phone number and credit card information (when ordering products only), as well as create a user name and password. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for user to submit information to Burpee and receive back either the information or products desired.<br><br><span class="colorsubheader">What navigational information is collected and how is it used?</span><br>Burpee.com logs the user's Internet Protocol Address (IP). An IP address is a number that is automatically assigned to your PC every time you browse the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is used only in the aggregate form.<br><br><span class="colorsubheader">Cookies, what are they and how are they used?</span><br>Cookies are bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major web sites use them. Although most web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. The "cookie" itself does not tell us who you are, your email address or anything else personal. Even without accepting a cookie you can still access most of the features on the site. We use cookies so that they can help provide our visitors with a better experience on our site.<br><br><span class="colorsubheader">How can users modify their personal information?</span><br>To modify your personal information, just go to "My Account" and the information is accessible.<br></div></td>
+          </tr>
+		 
+          
+
+          <tr>
+		    <td colspan="4"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+        </tbody></table>
+    </div>
+      <div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></div>
+    </td>
+    <td width="15" class="bordersearch_right01"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="14" height="245" border="0"></td>
+  </tr>
+
+
+  <tr valign="bottom">
+    <td align="center" colspan="3" class="navfooterbg"><!--BottomNav Start-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="768" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tbody><tr>
+  <td colspan="2" bgcolor="#9fcd7c" height="3"><img src="" width="1" height="3" border="0"></td>
+</tr>
+<tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="768" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="clearbg"><table border="0" cellspacing="0" cellpadding="0">
+		<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
+		<tbody><tr>
+			<td colspan="3"><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="Email Updates"></td>
+			</tr>
+		<tr>
+			<td><input name="emailAddress" type="text" value="enter email address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='enter email address')this.value='';" onfocusout="if(this.value=='')this.value='enter email address';"></td>
+			<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+			<td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
+		</tr>
+		
+	</tbody></table></td>
+	<td align="right" class="clearbg" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="footer" nowrap="" align="right" valign="top" bgcolor="#ffffff"><a href="/category/customer+service/about+burpee.do">About Burpee</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"><a href="/category/customer+service/burpee+guarantee.do">Burpee Guarantee</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"><a href="/category/customer+service/contact+us.do">Contact Us</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"><a href="/ancillary/catalogrequest.do">Request a Catalogue</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"><a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="7" height="1" border="0"><a href="/ancillary/sitemap.do">Site Map</a><!-- <a href="/category/customer+service/contact+us.do">Contact Us</a>|<a href="/category/customer+service/privacy+and+security.do">Privacy &amp; Security</a>|<a href="/category/customer+service/terms+of+use.do">Terms of Use</a>|<a href="/ancillary/sitemap.do">Site Map</a>|<a href="/wishlist/friendfind.do?initial=true">Find Wish List</a>|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"><a href="/ancillary/zonefinder.do">Growing Zone Finder</a><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="5" height="1" border="0">|<img src="/images/en_US/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"><a href="/productfinder/flowerfinder.do">Flower Finder</a><div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="8" border="0"></div>&copy;2007 Burpee</td>--><div><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></div>©2007 W. Atlee Burpee &amp; Co.</td>
+			<!-- <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td> -->
+	    </tr>
+		<tr>
+		<td align="right">
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+		  	<td colspan="3"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
+	      </tr>
+		  <tr>
+			<td valign="top">
+				
+		<a href="/contentarticle.do?itemID=744" class="xfooter"><!-- Item ID for "Site > Content Sections > RSS Syndication" -->
+		<img src="/images/en_US/local/localgraphics/xmlrssfeeds.gif" border="0" align="top" alt="
+		Burpee RSS Feed">
+		</a></td>
+		<td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+			<td><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.burpee.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.burpee.com/12.gif" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime.">
+
+
+			</a></td>
+		  </tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></td>
+</tr>
+</tbody></table>
+<!--BottomNav End-->
+</td>
+  </tr>
+</tbody></table>
+
+
+ 
+   
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Google Analytics Reporting Support -->
+  <!-- Google Analytics More info available at http://www.google.com/analytics/index.html --> 
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-2089196-1";urchinTracker();</script>
+  <!-- End, Google Analytics Reporting Support -->
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+</td></tr></tbody></table></body></html>
