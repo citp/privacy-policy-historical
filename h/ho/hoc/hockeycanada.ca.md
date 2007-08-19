@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429212457id_/http%3A//www.hockeycanada.ca/1/5/1/6/7/index1.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeycanada.ca privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819183852id_/http%3A//www.hockeycanada.ca/1/5/1/6/7/index1.shtml) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
