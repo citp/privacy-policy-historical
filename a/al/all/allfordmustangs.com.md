@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022062256id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819133617id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
 
-# Mustang Forums - Privacy Policy
+# Ford Mustang Forums - Privacy Policy
 
 Because protecting your privacy is very important to AllFordMustangs.Com, we have established this Privacy Policy, which explains what information we collect from our visitors, how we use that information, and how you can view or control use of the information you submit. Please note that this policy may be revised from time to time, so please check it frequently. We will post notice of any changes to this policy. 
 
@@ -24,7 +24,7 @@ AllFordMustangs.Com offers User Reviews & Ratings and Discussion boards. AllFord
 
 AllFordMustangs.Com may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of AllFordMustangs.Com, and AllFordMustangs.Com disclaims any responsibility or liability for their policies or actions. 
 
-Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@allfordmail.com](https://web.archive.org/web/20061022062256id_/http%3A//www.allfordmustangs.com/forums/staff@allfordmail.com)
+Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to AllFordMustangs.Com, by contacting us at [staff@allfordmail.com](https://web.archive.org/web/20070819133617id_/http%3A//www.allfordmustangs.com/forums/staff@allfordmail.com)
 
 ## Security.
 
