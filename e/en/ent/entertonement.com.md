@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertonement.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501172609id_/http%3A//www.entertonement.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertonement.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819180629id_/http%3A//www.entertonement.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
