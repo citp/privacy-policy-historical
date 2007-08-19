@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lingerieexpress.co.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626141927id_/http%3A//www.lingerieexpress.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingerieexpress.co.uk privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819112749id_/http%3A//www.lingerieexpress.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Help zone :: Lingerie Express
+# ~~~~|lbl_help_zone| ||~~~~...
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).   
 
