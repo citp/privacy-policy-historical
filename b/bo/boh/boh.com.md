@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110022103id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2007-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070819220633id_/https%3A//www.boh.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii | Online Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ### Consumer Privacy Statement
 
-Bank of Hawaii values its customers and is committed to protecting customer privacy. View our [Consumer Privacy Statement](https://web.archive.org/security/pdfs/privacy.pdf) (PDF).
+Bank of Hawaii values its customers and is committed to protecting customer privacy. View our [Consumer Privacy Statement](https://web.archive.org/security/pdfs/ConsumerPrivacyStatement_AD-701_012007_WEB.pdf) (PDF).
 
 Our postal address is:  
 P.O. Box 2900  
@@ -34,7 +34,7 @@ While you are logged on viewing your account information or conducting online tr
 
 Some browsers allow you to reject cookies. However, if you set your browser to reject cookies, you may find that you are unable to conduct your online transactions with Bank of Hawaii Corporation. If you choose to NOT accept cookies while accessing web pages on the Internet, we suggest that you enable acceptance of cookies when you are logged onto your online session with Bank of Hawaii Corporation. For detailed instructions on enabling and disabling cookies, refer to your web browser's online HELP menu or user manual. 
 
-If you would like more information about WebSideStory’s information gathering practices, privacy policy and “opt out” procedures, please “[click here](https://web.archive.org/linkout/linkout_1087.asp).”
+If you would like more information about WebSideStory’s information gathering practices, privacy policy and “opt out” procedures, please “[click here](https://web.archive.org/linkout/1087.htm).”
 
 **Web Logs and Browser Level Information.**  
 Our web servers automatically collect limited information about your computer configuration and browsing activity when you visit our site. This information includes the browser software that you use, the operating system of your computer, the resolution of your computer monitor, the speed of your Internet connection, the website that referred you to our site and/or the search terms you entered into a search engine to reach our site, etc. We use this information to make our website as useful as we can for as many users as possible.
