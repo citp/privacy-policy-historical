@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426160116id_/http%3A//www.luxology.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxology.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820132242id_/http%3A//www.luxology.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Luxology > About Us
 
