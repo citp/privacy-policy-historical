@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031180739id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcat.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820120535id_/http%3A//www.mixcat.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - MixCat Interactive - Your Online Community
+# Mixcat Interactive Search Engine - Mixcat Directory - Internet Search Engine - Mixcat Web Search
 
 **OUR COMMITMENT TO PRIVACY**
 
