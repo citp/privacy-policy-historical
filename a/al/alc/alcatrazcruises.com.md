@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626193311id_/http%3A//www.alcatrazcruises.com/website/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821000634id_/http%3A//www.alcatrazcruises.com/website/privacy.aspx) for the most accurate reproduction.*
 
 # Alcatraz Cruises
 
@@ -7,7 +7,7 @@ This notice describes how personal information about you may be used and disclos
 If you have any questions about this Privacy Policy, please contact our   
 Marketing Department at [privacy@alcatrazcruises.com](mailto:privacy@alcatrazcruises.com).
 
-Alcatraz Cruises(TM) is a Concessionairer under contract with U.S. Government and administered by the National Park Service. Because we value your patronage and respect your privacy rights, we are providing you with this statement of Alcatraz Cruises Privacy Policy. 
+Alcatraz Cruises(TM) is a Concessioner under contract with U.S. Government and administered by the National Park Service. Because we value your patronage and respect your privacy rights, we are providing you with this statement of Alcatraz Cruises Privacy Policy. 
 
 This Privacy Policy applies to Personal Information (as defined below) collected by Alcatraz Cruises and the Alcatraz Cruises Web Sites. 
 
