@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092419id_/http%3A//www.readersdigest.com.au/content/21086) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820101201id_/http%3A//www.readersdigest.com.au/content/21086) for the most accurate reproduction.*
 
 # Reader's Digest Australia: Reader's Digest PRIVACY POLICY
 
