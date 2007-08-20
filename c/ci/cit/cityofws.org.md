@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005233429id_/http%3A//www.cityofws.org/Home/HomeCenter/Articles/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofws.org privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820173049id_/http%3A//www.cityofws.org/Home/HomeCenter/Articles/Privacy) for the most accurate reproduction.*
 
 # City of Winston-Salem, NC :: Privacy
 
