@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623082953id_/http%3A//www.boxwoodtech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820192823id_/http%3A//boxwoodtech.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
