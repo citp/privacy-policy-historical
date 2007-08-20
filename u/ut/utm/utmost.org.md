@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utmost.org privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202150510id_/http%3A//www.rbc.org/privacy_policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmost.org privacy policy that was archived on 2007-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070820223136id_/http%3A//www.rbc.org/privacy_policy.page) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ RBC.org ("RBC") values the privacy of our Web site visitors. We have created thi
 Information collected on this site will be used according to the following guidelines:  
 
 
-  1.  **Personal Information Policy.** RBC.org is an online Web site of RBC Ministries (RBC), publishers of _Our Daily Bread,_ and its affiliates Discovery House Publishers (DHP), ChristianCourses.com, and Walk in the Word. RBC Ministries maintains a strict ministry-wide policy that we will never sell, rent, or otherwise give your private information to other organizations, commercial or non-profit. The only exception would be to comply with the law, or to protect the rights, property, or safety of RBC Ministries, our users, or others. Any personally identifiable information (name, address, and/or e-mail address) that you submit to us is used only for the purpose for which it was given.
+  1.  **Personal Information Policy.** RBC.org is an online Web site of RBC Ministries (RBC), publishers of _Our Daily Bread,_ and its affiliates Discovery House Publishers (DHP) and ChristianCourses.com. RBC Ministries maintains a strict ministry-wide policy that we will never sell, rent, or otherwise give your private information to other organizations, commercial or non-profit. The only exception would be to comply with the law, or to protect the rights, property, or safety of RBC Ministries, our users, or others. Any personally identifiable information (name, address, and/or e-mail address) that you submit to us is used only for the purpose for which it was given.
 
   2.  **Contact Us.** We use the Contact Us forms located on various areas of the site to allow you to contact us directly with any questions, comments, or requests you may have. This information is used to respond to your questions, comments, and requests. We may also file your comments to improve the site and program, or review and discard the information. We do not provide any information to third parties.
 
