@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620105106id_/http%3A//www.finalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821185220id_/http%3A//www.finalternatives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FINalternatives
 
