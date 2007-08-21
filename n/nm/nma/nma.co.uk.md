@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nma.co.uk privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426042401id_/http%3A//www.nma.co.uk/StaticPages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nma.co.uk privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821051959id_/http%3A//www.nma.co.uk/StaticPages/Privacy.html) for the most accurate reproduction.*
 
 # New Media | Marketing | Advertising | Internet | Interactive Marketing - NMA
 
