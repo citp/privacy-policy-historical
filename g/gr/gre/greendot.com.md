@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendot.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621141127id_/http%3A//greendot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendot.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821103902id_/http%3A//www.greendot.com/privacy.html) for the most accurate reproduction.*
 
 # Green.com - Privacy Policy
 
