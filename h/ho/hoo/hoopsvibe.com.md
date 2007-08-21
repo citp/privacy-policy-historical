@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopsvibe.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421123428id_/http%3A//www.hoopsvibe.com/footer/privacy-ar11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsvibe.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821073329id_/http%3A//www.hoopsvibe.com/footer/privacy-ar11.html) for the most accurate reproduction.*
 
 # Privacy - HoopsVibe
 
