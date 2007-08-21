@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vauto.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627011300id_/http%3A//vauto.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vauto.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821043054id_/http%3A//www.vauto.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
