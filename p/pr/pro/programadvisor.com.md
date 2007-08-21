@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programadvisor.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629121821id_/http%3A//www.programadvisor.com/landing_pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programadvisor.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821183207id_/http%3A//www.programadvisor.com/landing_pages/privacy) for the most accurate reproduction.*
 
 # ProgramAdvisor
 
