@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldweb.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630211603id_/http%3A//www.worldweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldweb.com privacy policy that was archived on 2007-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070821162905id_/http%3A//www.worldweb.com/privacy) for the most accurate reproduction.*
 
 # WorldWeb.com Privacy Policy
 
