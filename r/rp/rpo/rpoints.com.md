@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423071958id_/http%3A//www.rpoints.com/faq/answer.php%3Fid%3D310%26popup%3Dy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822022353id_/http%3A//www.rpoints.com/faq/answer.php%3Fid%3D310%26popup%3Dy) for the most accurate reproduction.*
 
 # Rpoints : What is this site's Privacy Policy?
 
