@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606213135id_/http%3A//www.atkins.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822084450id_/http%3A//www.atkins.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Atkins - Privacy Policy
 
