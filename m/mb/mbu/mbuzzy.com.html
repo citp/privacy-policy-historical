@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mbuzzy.com privacy policy that was archived on 2006-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061023121242id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbuzzy.com privacy policy that was archived on 2007-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070822215519id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.-->
 
 <html><head>
 <script type="text/javascript"> 
@@ -24,6 +24,51 @@ function windowOpener(url, name, args) {
              }
         }
     popupWins[name].focus();
+}
+
+function showDropdown() {
+    toggleVisibility('myAccountDropdown',1);
+}
+
+function hideDropdown() {
+    toggleVisibility('myAccountDropdown',0);
+    tempDropdownShow = 0;
+    return false;
+}
+
+function toggleVisibility(whichForm, setVisible)
+{
+    var newstate="none"
+    if(setVisible == true) 
+        newstate = ""
+
+    //alert("element " + whichForm + " toggled to " + setVisible);
+    
+    if (document.getElementById)
+    {
+        // this is the way the standards work
+        var style2 = document.getElementById(whichForm).style;
+        style2.display = newstate;
+    }
+    else if (document.all)
+    {
+        // this is the way old msie versions work
+        var style2 = document.all[whichForm].style;
+        style2.display = newstate;
+    }
+    else if (document.layers)
+    {
+        // this is the way nn4 works
+        var style2 = document.layers[whichForm].style;
+        style2.display = newstate;
+    }
+}
+
+function changeBGcolor(tempDiv, onOrOff) {
+    //alert("tempDiv: "+tempDiv+" onOrOff: "+onOrOff);
+    if(onOrOff==1) { tempDiv.style.backgroundColor='#eeeeee'; tempDiv.style.cursor='pointer';tempDiv.style.cursor='hand';}
+    else {tempDiv.style.backgroundColor='#ffffff'}
+
 }
 
 
@@ -69,7 +114,8 @@ This notice may not be removed.
 									<tbody><tr>
 										<th rowspan="2" align="left">
 																						<a href="http://www.mbuzzy.com/">
-																															<img src="http://www.mbuzzy.com/images/main_logo3.gif" border="0"></a>
+																				                                                                                            <img src="http://www.mbuzzy.com/images/main_logo3.gif" border="0">
+                                                                                        </a> 
 										
 										</th>
 										<td id="nav_top_edge">
@@ -97,23 +143,37 @@ This notice may not be removed.
                                                                                                             
 													</td>
 												 
-													<td align="right">
-																													<span style="font-size: 10px;">
+													<td align="right" valign="middle">
+                                                        														    															    <span style="font-size: 10px;">
 
-																															Have an account?
-																<a href="http://www.mbuzzy.com/login.php" class="top_edge_welcome_link">Sign In</a>
-																														</span>
-																												<span class="grey_text">|</span>
-														<a href="http://www.mbuzzy.com/support.php" class="top_edge_welcome_link">FAQ</a>
-													</td>
-												</tr>
+															    																    Have an account?
+																    <a href="http://www.mbuzzy.com/login.php" class="top_edge_welcome_link">Sign In</a>
+															    															    </span>
+														    														    <span class="grey_text">|</span>
+														    <a href="http://www.mbuzzy.com/support.php" class="top_edge_welcome_link">FAQ</a>
+														                                                                                                                </td>
+																									</tr>
 											</tbody></table>
 										</td>
 									</tr>
 									<tr>
 										<td id="top_edge_bottom_buffer" align="right">
 
-										
+										                                                                                    
+                                            <div style="padding-right: 15px; padding-top: 7px;">
+											                                                <a href="http://www.mbuzzy.com/itemReview.php" class="small_bold">
+                                                    <span style="padding: 3px; background-color: yellow; color: red;">new!</span> rate community uploads »</a>
+                                                    
+                                                <a href="http://www.mbuzzy.com/chatRoom.php" class="small_bold">
+                                                    <span style="padding: 3px; background-color: yellow; color: red;">new!</span> mbuzzy Chat »</a>
+                                                    
+                                                <a href="http://www.mbuzzy.com/userSearch.php" class="small_bold">
+                                                    <span style="padding: 3px; background-color: yellow; color: red;">new!</span> find mbuzzy users »</a>
+                                                    
+                                             
+                                        
+                                                                                        </div>
+                                            
 										</td>
 									</tr>
 								</tbody></table>
@@ -123,46 +183,28 @@ This notice may not be removed.
 				</tbody></table>
 				<!-- END: logo and header bits -->
 
-												<!-- START: advertising -->
-			<table cellpadding="0" cellspacing="0" border="0" id="header_advertising_table">
-					<tbody><tr>
-						<td>
-						<div class="header_ad">
-                <!-- ValueClick Media 468x60 and 728x90 Banner CODE for mbuzzy.com -->
-                <script language="javascript" src="http://media.fastclick.net/w/get.media?sid=17956&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
-                <noscript><a href="http://media.fastclick.net/w/click.here?sid=17956&m=1&c=1" target="_blank">
-                <img src="http://media.fastclick.net/w/get.media?sid=17956&m=1&tp=5&d=s&c=1"
-                width=728 height=90 border=1></a></noscript>
-                <!-- ValueClick Media 468x60 and 728x90 Banner CODE for mbuzzy.com -->
-                        </div>
-
-				
+								
                 
-                						</td>
-					</tr>
-				</tbody></table>
-				<!-- END: advertising -->
-				
+				    <div id="nav1_content">
+				        <table cellpadding="0" cellspacing="0" border="0" id="nav1_table">
+				    	    <tbody><tr>
+				    	    				    		    				    			    <td id="nav1_mymbuzzy"><a href="http://www.mbuzzy.com/mymbuzzy.php"><img src="http://www.mbuzzy.com/images/nav1_mymbuzzy_off.gif" border="0"></a></td>
+				    		    				    		    <td id="nav1_public"><a href="http://www.mbuzzy.com/index.php?pageGroup=1"><img src="http://www.mbuzzy.com/images/nav1_ringtones_off.gif" border="0"></a><a href="http://www.mbuzzy.com/displayObjects.php?new=1&amp;type=0"><img src="http://www.mbuzzy.com/images/nav1_wallpaper_off.gif" border="0"></a><a href="http://www.mbuzzy.com/displayObjects.php?new=1&amp;type=3"><img src="http://www.mbuzzy.com/images/nav1_videos_off.gif" border="0"></a><a href="http://www.mbuzzy.com/index.php?pageGroup=2"><img src="http://www.mbuzzy.com/images/nav1_games_off.gif" border="0"></a><a href="http://www.mbuzzy.com/phonesAccessories.php"><img src="http://www.mbuzzy.com/images/nav1_phones_off.gif" border="0"></a></td>
+				    	    				    	    </tr>
+				        </tbody></table>
+				    </div>
 
-				<div id="nav1_content">
-				    <table cellpadding="0" cellspacing="0" border="0" id="nav1_table">
-				    	<tbody><tr>
-				    					    						    			<td id="nav1_mymbuzzy"><a href="http://www.mbuzzy.com/mymbuzzy.php"><img src="http://www.mbuzzy.com/images/nav1_mymbuzzy_off.gif" border="0"></a></td>
-				    						    		<td id="nav1_public"><a href="http://www.mbuzzy.com/index.php?pageGroup=1"><img src="http://www.mbuzzy.com/images/nav1_ringtones_off.gif" border="0"></a><a href="http://www.mbuzzy.com/displayObjects.php?new=1&amp;type=0"><img src="http://www.mbuzzy.com/images/nav1_wallpaper_off.gif" border="0"></a><a href="http://www.mbuzzy.com/displayObjects.php?new=1&amp;type=3"><img src="http://www.mbuzzy.com/images/nav1_videos_off.gif" border="0"></a><a href="http://www.mbuzzy.com/index.php?pageGroup=2"><img src="http://www.mbuzzy.com/images/nav1_games_off.gif" border="0"></a></td>
-				    					    	</tr>
-				    </tbody></table>
-				</div>
+				    				    <div id="nav2_content">
+				        <table cellpadding="0" cellspacing="0" border="0" id="nav2_table">
+				    	    <tbody><tr>
 
-								<div id="nav2_content">
-				    <table cellpadding="0" cellspacing="0" border="0" id="nav2_table">
-				    	<tbody><tr>
-
-				    										<td id="nav2_td">
-																										</td>
-											    	</tr>
-				    </tbody></table>
-				</div>
-				
+				    		    								    <td id="nav2_td">
+									    									    								    </td>
+							    				    	    </tr>
+				        </tbody></table>
+				    </div>
+				                    
+                
 
 							</td>
 		</tr>
@@ -329,15 +371,18 @@ data, you consent to this transfer of your personal data.<o:p></o:p></span></p>
 	       			</div>
 		          			        <table cellpadding="0" cellspacing="0" border="0" id="footer_table">
 				   		<tbody><tr>
-				       		<td align="center"><font size="1"> © 2006 mbuzzy™ inc.<br>
+				       		<td align="center"><font size="1"> © 2007 mbuzzy™ inc.<br>
 					               'mbuzzy', the mbuzzy logo, and 'buzzcode' are trademarks of mbuzzy, Inc.</font><br>
                                    <div style="color: #cccccc;">
                                     <a href="http://www.mbuzzy.com/about.php" class="footerLink">About mbuzzy</a> |
-					                <a href="http://www.mbuzzy.com/tandc.php" class="footerLink">Terms and Conditions</a> |
+                                    					                <a href="http://www.mbuzzy.com/tandc.php" class="footerLink">Terms and Conditions</a> |
 					                <a href="http://www.mbuzzy.com/pp.php" class="footerLink">Privacy Policy</a> |
                                     <a href="http://www.mbuzzy.com/content-item.php" class="footerLink">DMCA</a> |
 					                <a href="http://www.mbuzzy.com/contactinfo.php" class="footerLink">Contact</a> |
 					                					                <a href="http://www.mbuzzy.com/support.php" class="footerLink">Help</a>
+                                    </div>
+                                    <div style="color: #ffffff; font-size: 10px;">
+                                    0.34084s web1
                                     </div>
 			                </td>
 				     	</tr>
@@ -350,6 +395,13 @@ data, you consent to this transfer of your personal data.<o:p></o:p></span></p>
 
 
 <script language="JavaScript" type="text/javascript" src="/wz_tooltip.js"></script>       
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1564570-1";
+urchinTracker();
+</script>
 
 
 
