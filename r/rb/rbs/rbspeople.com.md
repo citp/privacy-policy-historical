@@ -1,48 +1,54 @@
-> *The following text is extracted and transformed from the rbspeople.com privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317161929id_/http%3A//www.rbspeople.com/microsite_global_options.asp%3Fid%3DRBSPEOPLE/GLOBAL/PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbspeople.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822133426id_/http%3A//www.rbspeople.com/microsite_global_options.asp%3Fid%3DRBSPEOPLE/GLOBAL/PRIVACY_POLICY) for the most accurate reproduction.*
 
 # RBS: Privacy Policy - Privacy
 
-We (The Royal Bank of Scotland plc) are committed to protecting your privacy during your visits to the Royal Bank website and recognise our responsibility to keep the information you provide to us confidential at all times.
+## Privacy
 
-We protect your personal information on the Internet to an equivalent high standard to that you experience through any other channels through which we may interact with you, such as our branches, cash machines or on the telephone.
+We are committed to protecting your privacy during your visits to our website and recognise our responsibility to hold your information securely and confidentially.
 
-The Royal Bank of Scotland plc is a member of The Royal Bank of Scotland Group of companies and your personal information will not be disclosed outside the Group except in circumstances advised to you at the time you apply for a product or service.
+### Cookies
 
-### Security
+Cookies are small text files placed on your computer and are commonly used on the internet.
 
-Strict security procedures are followed in the storage and disclosure of your personal information.
+We use them to:
 
-When personal information is requested on-line by us, we ensure that your browser encrypts it. The strongest available encryption under the industry standard technology called SSL ("Secure Sockets Layer") is applied. The same technology is used for personal information sent back to your browser from the Royal Bank website.
+  * collect anonymous information that will help us understand visitors’ browsing habits on our website; 
 
-### Your Information On-line
+  * compile statistical reports on website activity, e.g. number of visitors and the pages they visit;
 
-### 1\. Cookies
+  * temporarily store any information which you may enter in tools, such as calculators or demonstrations on our website; 
 
-A 'cookie' is information that a website stores on your computer so that it can remember something about you at a later time. Cookies are commonly used on the Internet and do not harm your system.
-
-The cookies used on the Royal Bank website do not include any information that others could read and understand about you, such as your name or account numbers.
-
-We currently use a combination of first party, third party, permanent and temporary cookies in the following ways:
-
-  * To collate general, non-personal management information which is used to plan enhancements to our services. For example, cookies help us to understand the popular paths that users take through the Royal Bank website and how often people visit. Some of our general management information is collected using third party tracking code provided by Red Sheriff and Speed-Trap. We do not share information with other companies that use the same third party tracking code or combine any data collected by Red Sheriff or Speed-Trap with any personal information collected on the Royal Bank website. For more information about how Red Sheriff collects data, please read the [Red Sheriff Privacy Policy](http://www.redsheriff.com/uk/content/privacy_1.html "Opens in a new window."). For more information about how Speed-Trap collects data, please read the [Speed-Trap Privacy Policy](http://www.speed-trap.com/privacy.asp "Opens in a new window.").
-  * To evaluate the effectiveness of our advertising and promotions on third party websites, we use DoubleClick and Bluestreak as an agent for promotion delivery and measurement. The Bank owns the anonymous data that is collected and it is not shared with DoubleClick, Bluestreak, or any other third party. For more information about how DoubleClick and Bluestreak collects data, please read the [DoubleClick Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=& "Opens in a new window.") and [Bluestreak Privacy Policy](http://www.bluestreak.com/privacy/privacy.html "Opens in a new window.").
-  * As a flag to help us recognise when we have already asked you to participate in any on-line market research and to prevent you from being asked to complete the same questionnaire everytime that you visit the Royal Bank website.
+  * in some cases, remember information about you when you visit our site. We may need to do this to provide some of our services.
 
 
 
-If you do not want us to use cookies when you visit the Royal Bank website, you can configure your browser not to accept them or opt-out. Please refer to your browser's 'help' facility, [Red Sheriff](http://www.redsheriff.com/uk/content/privacy_1.html "Opens in a new window") or [DoubleClick](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp; "Opens in a new window") for further information.
 
-### 2\. Application Information
+We do not use cookies to track your use of the internet after you leave our sites, nor do we store any personal information in them that others could read and understand.
 
-When you apply for a product or service on the Royal Bank website, you will be asked for personal information that is needed to process your application.
+We use two types of cookie:
 
-The information that you provide will only be used for the purposes described at the time of your application and where applicable in the Terms and Conditions that apply to the relevant product or service. For example, in accordance with standard banking practice, we will tell you that we will provide information about you to credit reference and fraud prevention agencies.
+**Session cookies** \- these are temporary and are deleted as soon as you close your browser.
 
-### 3\. Digital Banking - Banking Instructions
+**Persistent cookies** \- these are stored on your computer until they expire or you remove them.
 
-You can use our secure Digital Banking service to access your account with us.
+Persistent cookies store your personal preferences such as your language preferences on multi-lingual sites to make subsequent visits easier. They also remember questions we have asked you previously, such as a request to complete an online survey. A persistent cookie will prevent you from being asked to complete the same survey every time you visit the website.
 
-When you do so we ensure that your instructions are provided to us in a secure and confidential manner after you have identified yourself by "logging in" to Digital Banking.
+**Third party cookies** \- We work with third parties who, on our behalf, research the use of our website and activities on it. In doing so they may place a cookie on your computer. However it would not contain any personal information that others could read and understand.
 
-Information that you provide, or that we can ascertain from the history of on-line transactions that you undertake using the service, will only be used to carry out your instructions and for the purposes described when you register/apply for Digital Banking and in the Terms and Conditions that apply to your account.  
+We also work with third parties to evaluate the effectiveness of our advertising and promotions on third party websites. Again, the cookie would not contain any personal information that others could read and understand. 
 
+### Accepting or rejecting cookies
+
+You can configure your internet browser to warn you each time a new cookie is about to be stored on your computer so that you may make a decision whether to accept or reject it.
+
+Please refer to your internet browser’s help section for specific instructions.
+
+Please note that some parts of our website may not function properly if you reject cookies.
+
+### Further information about cookies
+
+The [ Interactive Advertising Bureau](http://allaboutcookies.org/ "Opens in a new window.") is an industry body that has produced a series of web pages which explain how cookies work and how they can be managed.
+
+For details of how we process your personal information, please refer to your product terms and conditions.
+
+[Back to previous page](https://web.archive.org/rbspeople.asp)
