@@ -1,61 +1,84 @@
-> *The following text is extracted and transformed from the heinle.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623071204id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heinle.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822232754id_/http%3A//www.thomsonlearning.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Thomson - Privacy Statement
+# Thomson Learning - Privacy Statement
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.thomson.com (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+Thomson Learning Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. 
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [generalinfo@thomson.com](mailto:generalinfo@thomson.com).
+**Scope**
 
-WHAT INFORMATION ABOUT YOU DO WE COLLECT?
+This privacy statement applies to the Thomson Learning Inc. (TL) website ([www.thomsonlearning.com](http://www.thomsonlearning.com/)) and all TL company and brand websites that link to it. Some TL websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, TL has created a number of websites for the schools we serve, and those websites are subject to the school’s own privacy policy. 
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
+Additionally, some TL websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company’s web site, you should read the privacy statement associated with that site. 
 
-|  | 
+**Information that We Collect**
 
-**Personally Identifiable Information You Choose to Provide.**
+When you visit our website, you may provide us with two types of information: (1) personally identifiable information such as contact and other information about your profession or your interests that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the website. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. 
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about The Thomson Corporation, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+**How We Use Personal Information**
 
- **Non-Personally Identifiable Information We Collect.**
+In general, we use all of the information we collect in order to: 
 
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+  * respond to your requests for information,
+  * provide you with products and services,
+  * determine if you are eligible to receive certain products or services,
+  * provide customer service, and
+  * provide you with additional information that may be of interest, including marketing and educational materials from us and our partners.
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.  
-  
----|---  
-  
-HOW DO WE USE THE INFORMATION WE COLLECT?
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
+We will tailor the materials we provide you based on the information in your profile, such your professional interests. Also, certain products (such as teachers’ guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. 
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
+If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. 
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
+**When We Disclose Personal Information**
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
+We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. 
 
-HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?
+_If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about TL products and services, or by contacting our customer services department by email at[eSales@thomson.com](mailto:eSales@thomson.com) or phone at 1-800 354 9706 (M-F, 8:00am-6:00pm ET) and requesting the desired change (e.g., opting in or out of faxes)_
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.
+You can also opt-out of receiving marketing emails from us and our partners at any time my following the opt-out instructions provided on every email. 
 
-PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET
+Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. 
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+**A Special Note About children**
 
-DATA SECURITY
+Although parts of the galeschools.com Web site provide information and activities for students, we do not knowingly collect any personal information about children. Teachers must provide their own personal information in order for students to participate in our online quizzes and contests. 
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+• We encourage parents and teachers to spend time online with children and to monitor their online activities. Please protect your child's privacy by instructing them to never provide personal information on this site or any other, or within any software registration process, without your permission. 
 
-CONSENT TO TRANSFER
+**Information Collected on Behalf of Educational Institutions**
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Some TL companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by TL as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school’s privacy statement and FERPA, please contact that school’s administration. 
 
-LINKS
+**Cookies and Web Site Information**
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+Like most other commercial websites, we use standard “cookie” technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. 
 
-  
-  
+Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis, and also may be associated with your personal information. 
 
+**HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?**
+
+If you visit our website and volunteer personally identifiable information, you may access such information at any time by visiting the account information area where you will have the opportunity to revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website. 
+
+**How We Secure Your Information**
+
+We have implemented reasonable technical, physical and administrative safeguards to help protect your personal information against unauthorized access or loss. For example, when we ask users to provide payment information (such as credit card number), the data is protected during transmission to us using Secure Sockets Layer (SSL) encryption technology. 
+
+**Information Process in the United Sates**
+
+This website may be operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States or other countries in which our businesses are located. We will adequately protect the data in all locations. 
+
+**Changes to Our Policies**
+
+This privacy notice is effective as of June 28, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. 
+
+**Contact Us with Any Questions**
+
+If you have any questions about this privacy statement or our use of your personal information, please contact us at: 
+
+Thomson Learning   
+200 First Stamford Place  
+4th Floor  
+Stamford, CT 06902
+
+or e-mail us at : [ thomsonlearning.corporatecommunications@thomson.com](mailto:thomsonlearning.corporatecommunications@thomson.com)
