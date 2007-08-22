@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227225241id_/http%3A//www.twinstarcu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823001234id_/https%3A//www.twinstarcu.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - About us - TwinStar Credit Union
 
-[Print this page](https://web.archive.org/print/printpage.php)
+[Print this page](https://web.archive.org/privacy.php?print)
+
+This document is also available for download in [PDF format](https://web.archive.org/web/20070823001234id_/https%3A//www.twinstarcu.com/pdf/disclosures/055-Privacy.pdf "TwinStar Privacy Policy in PDF format").
+
+We encourage you to read the whole policy to understand how we use your information online and offline. 
 
 ### Our Privacy Pledge
 
