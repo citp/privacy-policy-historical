@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429120227id_/http%3A//www.countrycurtains.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2007-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070822132411id_/http%3A//www.countrycurtains.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
 # Country Curtains®
 
