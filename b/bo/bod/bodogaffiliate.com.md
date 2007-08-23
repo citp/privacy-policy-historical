@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517092136id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823183501id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Bodog Affiliate
+# Poker, Sportsbook, Casino Affiliate Programs - Bodog Affiliate
 
 Any private information received by Bodog Sportsbook, Casino and Poker Room WILL NOT be given out to anyone or any organization; it WILL NEVER be sold or distributed in any form, or for any purpose unless approved by the account holder. Therefore, client information collected by Bodog Sportsbook, Casino and Poker Room is the property of Bodog Sportsbook, Casino and Poker Room and is not shared with any third party, including merchants. 
 
