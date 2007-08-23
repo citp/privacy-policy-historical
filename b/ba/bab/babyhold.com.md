@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623041059id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823034207id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
----  
+###  Can't Find A Name ?   
   
-[ ](http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=136019368)
+**Get answers for all your questions  
+**
+
+**Already a member?**[ **login**](http://www.babyhold.com/login/)  
+
+
+[](http://www.babyhold.com/index.php?option=com_registration&task=register)
 
 | 
 
-###  Search From 20000 Baby Name Meanings 
+###  Search on 25000 Baby Names 
 
 **Babyhold.com Privacy Policy**
 
@@ -53,9 +59,6 @@ Tel Aviv 62009
 
 Israel
 
-###  Can't Find A Name ? 
+| 
 
-**Join our community and get answers for all your questions about pregnancy and baby names!  
-Already a member? **[**login here**](http://www.babyhold.com/login/)   
-
-[](http://www.babyhold.com/index.php?option=com_registration&task=register)
+[ ](http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=136019368)
