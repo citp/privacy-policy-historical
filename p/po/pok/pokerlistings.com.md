@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124061854id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823072603id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
 
-## Privacy policy
+## Privacy Policy
 
-PokerListings.com respects your privacy. All information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Pokerlistings.com will be held with the uttermost care, and will not be used in ways that you have not consented to. 
+PokerListings.com respects your privacy. All information collected at this Web site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to PokerListings.com will be held with the utmost care, and will not be used in ways that you have not consented to. 
 
-1\. Resale or disclosure of information to third parties:  
-Pokerlistings.com does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or email lists. 
+**Resale or disclosure of information to third parties:**  
+PokerListings.com does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists. 
 
-2\. Browser information collected on the website:  
-PokerListings.com analyses the website logs to improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
+**Browser information collected on the Web site:**  
+PokerListings.com analyzes the Web site logs to improve the value of the materials available on our site. Our Web site logs are not personally identifiable, and we make no attempt to link them with the individuals who actually browse the site. 
 
-3\. Advertisements:  
-We currently have ads served by an in-house program, which follow those privacy guidelines. 
+**Advertisements:**  
+We currently have ads served by an in-house program, which follows these privacy guidelines. 
 
-4\. Use of cookies:  
-PokerListings.com does use cookies on its website, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with the individuals to make any information personally identifiable. 
+**Use of cookies:**  
+PokerListings.com does use cookies on its Web site, mostly in order to track traffic coming from other Web sites and leaving to other Web sites. We do not use the cookies to attempt to link them with individuals to make any information personally identifiable. 
 
-5\. Updates and changes:  
-PokerListings.com reserves the right to replace this "privacy policy" at any time. We suggest that you regularly check: http://www.pokerlistings.com/privacy-policy 
+**Updates and changes:**  
+PokerListings.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check http://www.pokerlistings.com/privacy-policy for updates. 
 
-Please email: info@pokerlistings.com with questions or comments. 
-
-PokerListings.com is made by poker players for poker players. Our ambition is to be the best online poker guide and directory totally independent from any poker room giving poker players objective information on all poker sites in the world. We provide extensive information on online poker rooms in our [poker room reviews](https://web.archive.org/poker-room-reviews), a great selection of [poker games](https://web.archive.org/poker-games), deep information on [poker rules](https://web.archive.org/poker-rules), all [online poker tournaments](https://web.archive.org/poker-tournaments) and much much more. In our directory categories all poker sites are ranked in real time, meaning that the most popular sites are on top. Please feel free to contact webmaster@pokerlistings.com if you miss any valuable poker content or information. 
+Please e-mail: info@pokerlistings.com with questions or comments. 
