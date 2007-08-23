@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2007-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070112165432id_/http%3A//www.carefreeliners.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreeliners.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823183602id_/https%3A//www.carefreeliners.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
@@ -51,7 +51,7 @@ To keep your personally identifiable information accurate, current, and complete
 We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
 
 **Other Terms**  
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20070112165432id_/http%3A//www.carefreeliners.com/legal.jsp). 
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20070823183602id_/https%3A//www.carefreeliners.com/legal.jsp). 
 
 **How to Contact Us**  
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows:   
