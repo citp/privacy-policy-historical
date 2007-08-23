@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502063507id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823153915id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
 
 # ValueCommerce: learn about the ValueCommerce.com Privacy Policy
 
@@ -6,7 +6,7 @@ This web page describes our privacy policy guidelines regarding the collection a
 
 ## Types of information we gather and how we use it
 
-ValueCommerce collects information from users of its Web site including the information you provide to us by submitting information to us through use of this site. ValueCommerce Co., Ltd. may keep track of this information and the information that you provide to us when you visit the site for our internal review, business development, research or marketing. We may also use this information to solicit e-mail for business development, research, marketing or promotional purposes. We store this information in our database and will not share it with third parties, except as described in this policy. At any time you can remove your name and related information from our database, by sending us your updated preferences through completion of the[ inquiry form](https://web.archive.org/web/20070502063507id_/http%3A//www.valuecommerce.com/vc/privacy_inquiry.html).
+ValueCommerce collects information from users of its Web site including the information you provide to us by submitting information to us through use of this site. ValueCommerce Co., Ltd. may keep track of this information and the information that you provide to us when you visit the site for our internal review, business development, research or marketing. We may also use this information to solicit e-mail for business development, research, marketing or promotional purposes. We store this information in our database and will not share it with third parties, except as described in this policy. At any time you can remove your name and related information from our database, by sending us your updated preferences through completion of the[ inquiry form](https://www.valuecommerce.com/vc/privacy_inquiry.html).
 
 ## Cookies 
 
@@ -22,7 +22,7 @@ ValueCommerce Co., Ltd. does not provide information about you, except as set fo
 
 ## Privacy Complaints 
 
-If have any questions regarding this policy, believe that ValueCommerce Co., Ltd. has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please fill out the[ inquiry form](https://web.archive.org/web/20070502063507id_/http%3A//www.valuecommerce.com/vc/privacy_inquiry.html).
+If have any questions regarding this policy, believe that ValueCommerce Co., Ltd. has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please fill out the[ inquiry form](https://www.valuecommerce.com/vc/privacy_inquiry.html).
 
 ## General 
 
