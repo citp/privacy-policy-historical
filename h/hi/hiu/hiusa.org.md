@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426075657id_/http%3A//www.hiusa.org/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823050042id_/http%3A//www.hiusa.org/ppolicy.shtml) for the most accurate reproduction.*
 
 # Hostelling International USA
 
