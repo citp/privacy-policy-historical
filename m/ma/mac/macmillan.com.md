@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillan.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625104247id_/http%3A//www.macmillan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823061258id_/http%3A//www.macmillan.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to macmillan publishers
 
