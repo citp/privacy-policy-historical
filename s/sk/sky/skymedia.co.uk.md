@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymedia.co.uk privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509152823id_/http%3A//www.skymedia.co.uk/pages/siteinfo-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymedia.co.uk privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824005306id_/http%3A//www.skymedia.co.uk/pages/siteinfo-privacypolicy) for the most accurate reproduction.*
 
 # Sky Media: Privacy Policy
 
