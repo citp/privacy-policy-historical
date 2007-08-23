@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egydvd.com privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717050749id_/http%3A//www.egydvd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egydvd.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823124514id_/http%3A//www.egydvd.com/privacy.php) for the most accurate reproduction.*
 
 # Arabic Movies , Arabic DVD , Arabic Belly Dance , Egyptian , Lebanese , Turkish , CD , MP3 & Songs
 
