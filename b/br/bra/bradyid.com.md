@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206182211id_/http%3A//www.bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradyid.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823221825id_/http%3A//www.bradyid.com/bradyid/cms/contentView.do%3Furl%3D/BradyID/pages/GenericPage.aspx%3Fid%3D1059) for the most accurate reproduction.*
 
 # BRADYID.COM PRIVACY POLICY
 
@@ -84,17 +84,17 @@ We reserve the right to make full use of all information acquired through this S
 The disclosure of Personal Information as contemplated in this Policy may be to a party outside your jurisdiction. By accepting the terms of this Policy, you consent to the transfer of Personal Information you have submitted through this Site to us, to our affiliated companies, and to any other third parties described in this Policy, all or some of which may be located in foreign jurisdictions that may not provide "adequate protection" for Personal Information.
 
 **Access  
-**If Personal Information you have submitted through this Site is no longer accurate, current, and complete, please send an e-mail to [_contact_brady@bradycorp.com_](mailto:contact_brady@bradycorp.com) if you wish to modify, correct, or change this information. We will take appropriate steps to comply with your request, but reserve the right to use Personal Information you have submitted through this Site to verify your identity.
+**If Personal Information you have submitted through this Site is no longer accurate, current, and complete, please send an e-mail to [_Reply_NA@bradycorp.com_](mailto:Reply_NA@bradycorp.com "Reply_NA@bradycorp.com") if you wish to modify, correct, or change this information. We will take appropriate steps to comply with your request, but reserve the right to use Personal Information you have submitted through this Site to verify your identity.
 
   
 **Stop Communications  
-**If you are receiving marketing communications (brochures, e-mails, etc.) from us or anyone else with whom we may share Personal Information as described in this Policy, and you no longer wish to receive such communications, please send an e-mail to [_contact_brady@bradycorp.com_](mailto:contact_brady@bradycorp.com) or complete our [ _eMail Opt Out Form_](https://web.archive.org/bradyid/forms/formView.do?url=http://domino.bradycms.com/web/BAOnlineForms/BAOF.nsf/eUnsubscribe?OpenForm%26Language%3DEnglish%20\(US\)&iframeheight=300) online.
+**If you are receiving marketing communications (brochures, e-mails, etc.) from us or anyone else with whom we may share Personal Information as described in this Policy, and you no longer wish to receive such communications, please send an e-mail to [_Reply_NA@bradycorp.com_](mailto:Reply_NA@bradycorp.com "Reply_NA@bradycorp.com") or complete our [ _eMail Opt Out Form_](https://web.archive.org/bradyid/forms/formView.do?url=http://domino.bradycms.com/web/BAOnlineForms/BAOF.nsf/eUnsubscribe?OpenForm%26Language%3DEnglish%20\(US\)&iframeheight=300 "eMail Opt Out Form") online.
 
 **Security  
 **Transmissions over the Internet are never 100% secure or error-free. As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of the Personal Information we gather from you. You should be aware that e-mail submitted through this Site (including forms submitted via e-mail) may not be secure or encrypted, so you should take particular care in deciding what information you send via e-mail. However, once we receive any Personal Information you provide to us, we do take reasonable steps to protect such Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
 
 **Contact Information  
-**We hope that you will share with us any comments, questions or suggestions you might have regarding the information practices described in this Policy. Please feel free to send us an e-mail at [_contact_brady@bradycorp.com_](mailto:contact_brady@bradycorp.com) or write to us at Brady Corporation, PO Box 2131, Milwaukee, WI 53201, Attn: Ebusiness Department.
+**We hope that you will share with us any comments, questions or suggestions you might have regarding the information practices described in this Policy. Please feel free to send us an e-mail at [_Reply_NA@bradycorp.com_](mailto:Reply_NA@bradycorp.com "Reply_NA@bradycorp.com") or write to us at Brady Corporation, PO Box 2131, Milwaukee, WI 53201, Attn: Ebusiness Department.
 
 **Changes to this Policy  
 **We reserve the right to change this Policy from time to time and in our sole discretion. If the Policy for this Site changes, the revised policy will be posted at the "Privacy Policy" link on this Site's home page. Please check the Policy frequently and particularly before you submit additional information via the Site. Your continued use of the Site constitutes acceptance of such changes in the Policy.
