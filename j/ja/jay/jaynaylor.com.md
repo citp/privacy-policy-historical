@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
 
 # Jay Naylor Illustrations Comics Games
 
   
-[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/index.html)[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/comics.html)[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/pictures.html)[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/catalog.html)[](http://fiskblack.livejournal.com/)  
-[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/profile.html)[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/wip.html)[](https://web.archive.org/web/20070520151916id_/http%3A//www.jaynaylor.com/links.html)[](mailto:jay@jaynaylor.com)
+[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/index.html)[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/comics.html)[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/pictures.html)[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/catalog.html)[](http://fiskblack.livejournal.com/)  
+[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/profile.html)[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/wip.html)[](https://web.archive.org/web/20070824045357id_/http%3A//www.jaynaylor.com/links.html)[](mailto:jay@jaynaylor.com)
 
 Our Commitment To Privacy
 
