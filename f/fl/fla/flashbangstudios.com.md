@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flashbangstudios.com privacy policy that was archived on 2007-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070225054117id_/http%3A//www.flashbangstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbangstudios.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824051735id_/http%3A//www.flashbangstudios.com/privacy) for the most accurate reproduction.*
 
-# Flashbang Studios Privacy Policy
-
-[](https://web.archive.org/)
+# Privacy Policy at Flashbang Studios
 
 ## Privacy Policy
 
@@ -70,6 +68,3 @@ In the course of serving advertisements to this site, our third-party advertiser
 ### Third-Party Advertising
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use non-personally identifiable information about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-[Mystery Case Files: Ravenhearst, Dream Day Wedding, Virtual Villagers 2: The Lost Children and Chicken Chase Game Downloads](http://www.flashbangstudios.com/)  
-[About Flashbang Studios](https://web.archive.org/about/) | [Terms/Privacy](https://web.archive.org/privacy/) | [Unity](http://www.unity3d.com/) | [Site Map](https://web.archive.org/games/download-games/) | [Physics Games](http://www.fun-motion.com/)
