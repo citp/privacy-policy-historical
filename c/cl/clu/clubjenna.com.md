@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubjenna.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629183047id_/http%3A//www.clubjenna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubjenna.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824183244id_/http%3A//clubjenna.com/privacy.html) for the most accurate reproduction.*
 
 # ClubJenna.com - Privacy Policy
 
