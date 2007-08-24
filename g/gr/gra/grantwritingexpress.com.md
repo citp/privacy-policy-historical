@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantwritingexpress.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518034442id_/http%3A//grantwritingexpress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantwritingexpress.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824183710id_/http%3A//www.grantwritingexpress.com/privacy.html) for the most accurate reproduction.*
 
 # Grant Writing Express Terms & Conditions
 
@@ -153,7 +153,7 @@ You have a right to review your personal data. To do so please contact us by e-m
 
 Correcting or Updating Your Personal Information
 
-[](https://web.archive.org/web/20070518034442id_/http%3A//grantwritingexpress.com/contact_form.html)[Contact Form](https://web.archive.org/web/20070518034442id_/http%3A//grantwritingexpress.com/contact_form.html).This GrantWritingExpress.com site gives users the following options for changing and modifying any personal information about yourself that you have previously provided to us on this GrantWritingExpress.com web site. Please send us an e-mail using our 
+[](https://web.archive.org/web/20070824183710id_/http%3A//www.grantwritingexpress.com/contact_form.html)[Contact Form](https://web.archive.org/web/20070824183710id_/http%3A//www.grantwritingexpress.com/contact_form.html).This GrantWritingExpress.com site gives users the following options for changing and modifying any personal information about yourself that you have previously provided to us on this GrantWritingExpress.com web site. Please send us an e-mail using our 
 
 Correcting Errors
 
@@ -161,4 +161,4 @@ If you find an error, let us know and we will review it. If we agree, we will co
 
 IX. Questions, Comments, Complaints or Incident Reports
 
-If you have questions about GrantWritingExpress.com privacy practices please contact us using our [Contact Form](https://web.archive.org/web/20070518034442id_/http%3A//grantwritingexpress.com/contact_form.html).
+If you have questions about GrantWritingExpress.com privacy practices please contact us using our [Contact Form](https://web.archive.org/web/20070824183710id_/http%3A//www.grantwritingexpress.com/contact_form.html).
