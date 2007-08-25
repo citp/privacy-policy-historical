@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megapersonals.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827001916id_/http%3A//www.megapersonals.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megapersonals.com privacy policy that was archived on 2007-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070825033419id_/http%3A//megapersonals.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
