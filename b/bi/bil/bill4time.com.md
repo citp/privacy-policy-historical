@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505155153id_/http%3A//bill4time.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2007-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070825151703id_/http%3A//bill4time.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Bill4Time > Privacy Statement
 
@@ -50,6 +50,6 @@ If customers need to update or change registration information they may do so by
 Additional Information:   
 Questions regarding this Statement or the practices of this Site should be directed to [billfortime.com](http://billfortime.com/)'s Security Administrator by e-mailing such questions to [support@billfortime.com](mailto:support@billfortime.com) or by regular mail addressed to Broadway Billing Systems, LLC, Attn: Security Administrator, 115 Broadway, 3rd Floor, New York, NY 10006
 
-© Copyright 2006-2007 Broadway Billing Systems, LLC   
+� Copyright 2006-2007 Broadway Billing Systems, LLC   
 All rights reserved   
 Various trademarks held by their respective owners.
