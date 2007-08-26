@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614155306id_/http%3A//www.newcondosonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826135044id_/http%3A//www.newcondosonline.com/privacy.php) for the most accurate reproduction.*
 
 # Condominium Sales | Bulk Sales | Bulk Pre-Sales | Achieve Pre-Sale Requirements
 
