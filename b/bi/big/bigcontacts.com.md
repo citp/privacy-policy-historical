@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622032426id_/http%3A//bigcontacts.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826191046id_/http%3A//bigcontacts.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Big Contacts - Contact Management tool for everyone
 
