@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521233811id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826160955id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.*
 
 # Whataburger
 
