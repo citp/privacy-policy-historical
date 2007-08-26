@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2007-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070322233843id_/http%3A//www.mixd.co.uk/misc/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826181749id_/http%3A//www.mixd.co.uk/misc/privacy_policy.htm) for the most accurate reproduction.*
 
 # Mixd™ - Creative Agency
 
@@ -43,7 +43,7 @@ If we believe it is necessary to share your information in order to investigate,
 In the event of a corporate reorganization, either by an operation of law, merger or purchase of assets, your information may be subject to a different privacy policy which we will make available on our web site.
 
 **Privacy complaints**  
-If you have any questions regarding this policy, believe that Mixd has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please e-mail us at [privacy@mixd.co.uk](https://web.archive.org/web/20070322233843id_/http%3A//www.mixd.co.uk/misc/mailto@privacy@mixd.co.uk)
+If you have any questions regarding this policy, believe that Mixd has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please e-mail us at [privacy@mixd.co.uk](https://web.archive.org/web/20070826181749id_/http%3A//www.mixd.co.uk/misc/mailto@privacy@mixd.co.uk)
 
 **General**  
 These are our current privacy policy guidelines that can be modified at any time by Mixd. This is not a contract.
