@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2007-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/privacy) for the most accurate reproduction.*
 
 # Renesas Technology - Privacy
 
@@ -7,19 +7,19 @@
 ---  
 | Privacy|   
   
-| [Privacy on the Web](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=privacy_web.htm&fp=/privacy/child_folder/&title=Privacy%20on%20the%20Web)|   
+| [Privacy on the Web](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=privacy_web.htm&fp=/privacy/child_folder/&title=Privacy%20on%20the%20Web)|   
   
   
   
-| [Getting Started ](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=getting_started.htm&fp=/support/getting_started/&title=Getting%20Started)|   
+| [Getting Started ](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=getting_started.htm&fp=/support/getting_started/&title=Getting%20Started)|   
   
   
   
-| [Legal](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=legal.htm&fp=/legal/&title=Legal)|   
+| [Legal](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=legal.htm&fp=/legal/&title=Legal)|   
   
   
   
-| [Using Our Website](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=user_guideline.htm&fp=/support/guideline/&title=Using%20Our%20Website)|   
+| [Using Our Website](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/fmwk.jsp?cnt=user_guideline.htm&fp=/support/guideline/&title=Using%20Our%20Website)|   
   
   
   
@@ -105,7 +105,7 @@ In order to assure support and avoid trouble such as information leakage caused 
 When the documents are sent from overseas via the international postal system, the expense will vary from country to country. Since we must rigorously confirm the identity of the requesting party, please understand that we will not reply to any requests via telephone, e-mail, fax, or in the form of a direct visit to our offices.  
   
 (2)| Written form to be submitted  
-(A) "[Request for Disclosure and/or Other Actions Concerning Personal Information](https://web.archive.org/web/20061018134723id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/media/privacy/Request_for_Disclosure.doc)"  
+(A) "[Request for Disclosure and/or Other Actions Concerning Personal Information](https://web.archive.org/web/20070826233441id_/http%3A//www.renesas.com/fmwk.jsp%3Fcnt%3Dprivacy.htm%26fp%3D/media/privacy/Request_for_Disclosure.doc)"  
 (B) Written document to confirm identity of requesting party (or representative)  
 (3)| Postal address  
   
@@ -189,10 +189,10 @@ Contact us according to the details below with any questions, complaints, or req
 
 |  | Office of Personal Information Protection, Renesas Technology, Corp.  
 ---|---  
-Address: Marunouchi Building 34F, 2-4-1 Marunouchi, Chiyoda-ku, Tokyo 100-6334  
+Address: Nippon Bldg, 2-6-2 Otemachi, Chiyoda-ku, Tokyo 100-0004  
 Phone No.: +81-3-3270-0900  
 Business hours: 9:00-12:00 and 13:00-17:00 (Japan Time)  
   
-  |    
+<% if(fileBodyNav.exists()) { %> <%}%>   |    
   
  
