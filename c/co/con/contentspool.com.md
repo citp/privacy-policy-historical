@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentspool.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626152824id_/http%3A//www.contentspool.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentspool.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828155507id_/http%3A//www.contentspool.com/privacy.php) for the most accurate reproduction.*
 
 # Content Spool
 
