@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the additionalmedia.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529155424id_/http%3A//www.additionalmedia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additionalmedia.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828094037id_/http%3A//www.additionalmedia.com/privacy.htm) for the most accurate reproduction.*
 
 # Additional Media, Stategy, Creativity, Insight through affordable solutions
 
