@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623092653id_/http%3A//mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828232406id_/http%3A//www.mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
 
 # Mr.Beer® - America's favorite home brewing system
 
