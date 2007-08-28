@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820183446id_/http%3A//thechronicle.com.au/info/legal/index.cfm%23top) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/legal/index.cfm%23top) for the most accurate reproduction.*
 
 # Toowoomba Chronicle
 
@@ -8,7 +8,7 @@ APN Newspapers Pty Ltd produces a variety of daily and non-daily publications, p
 
 APN Newspapers Pty Ltd respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold. 
 
-We encourage you to check the APN Newspapers Pty Ltd Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [contact us.](https://web.archive.org/web/20060820183446id_/http%3A//thechronicle.com.au/info/contacts/)
+We encourage you to check the APN Newspapers Pty Ltd Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [contact us.](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/contacts/)
 
 Please take some time to read through this statement and understand our position on privacy, by clicking the links: 
 
@@ -252,10 +252,10 @@ Employees of APN News and Media and subsidiaries and their immediate families ar
 
 All entries become the property of APN News and Media and may be used for marketing purposes. If you do not want your data collected, please contact the Marketing Services Department of this newspaper. 
 
-APN News and Media accepts no responsibility for property loss or damage, injuries sustained or additional costs as a result of accepting this prize. The judge’s decision is final and no correspondence will be entered into. "Prizes are not redeemable for cash". 
+APN News and Media accepts no responsibility for property loss or damage, injuries sustained or additional costs as a result of accepting this prize. The judges decision is final and no correspondence will be entered into. "Prizes are not redeemable for cash". 
 
 **Electoral Comment**
 
-Responsibility for electoral comment on APN websites is taken by the editor of the corresponding newspaper. See the [Contact Us](https://web.archive.org/web/20060820183446id_/http%3A//thechronicle.com.au/info/contacts/index.cfm) page on this site for details. 
+Responsibility for electoral comment on APN websites is taken by the editor of the corresponding newspaper. See the [Contact Us](https://web.archive.org/web/20070828205727id_/http%3A//www.thechronicle.com.au/info/contacts/index.cfm) page on this site for details. 
 
 Back to top     
