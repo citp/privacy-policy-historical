@@ -1,235 +1,1248 @@
-<!--The following is the downloaded HTML source of the aussiepages.com.au privacy policy that was archived on 2007-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506152333id_/http%3A//www.aussiepages.com.au/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aussiepages.com.au privacy policy that was archived on 2007-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070828112750id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>::: aussiepages.com.au  :::</title>
-<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="css/styles.css" rel="stylesheet" type="text/css">
-<!-- InstanceBeginEditable name="head" -->
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr"><head>
+
+    <meta name="author" content="phpMyDirectory.com">
+
+    <meta name="copyright" content="Copyright, phpMyDirectory.com. All rights reserved">
+
+    <meta name="robots" content="index, follow">
+
+    <meta name="revisit-after" content="7 days">
+
+    <meta name="description" content="Website Directory">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <link rel="stylesheet" href="http://www.aussiepages.com.au/template/Ice_Blue/css.css">
+
+    <title>Privacy Policy | Classifieds Directory Australia | Free Directory Listings Australia</title>
+
+    <!--?php 
+if(file_exists(PMDROOT.TEMPLATE_PATH.'javascript.js')) {
+    include(PMDROOT.TEMPLATE_PATH.'javascript.js');
 }
-//-->
-</script>
-<!-- InstanceEndEditable -->
-<script language="javascript" src="includes/validation.js"></script>
-<script type="text/javascript" src="js/prototype.js"></script>
-<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script>
-<script type="text/javascript" src="js/lightbox.js"></script>
-<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
+?-->    
+<script type="text/javascript">
+function textCounter (field, countfield, maxlimit) {
+  	if (field.value.length > maxlimit)
+  	field.value = field.value.substring(0, maxlimit);
+  	else
+    countfield.value = maxlimit - field.value.length;
+}
 
+function newWindow (mypage,myname,w,h,features) {
+  	if(screen.width) {
+  		var winl = (screen.width-w)/2;
+  		var wint = (screen.height-h)/2;
+  	} else {
+  	    winl = 0;wint =0;
+  	}
+
+  	if (winl < 0) winl = 0;
+  	if (wint < 0) wint = 0;
+
+  	var settings = 'height=' + h + ',';
+  	settings += 'width=' + w + ',';
+  	settings += 'top=' + wint + ',';
+  	settings += 'left=' + winl + ',';
+  	settings += features;
+  	settings += ' scrollbars=yes ';
+
+  	win = window.open(mypage,myname,settings);
+
+  	win.window.focus();
+}
+function addOption(selectId, val, txt) {
+    var objOption = new Option(txt, val);
+    document.getElementById(selectId).options.add(objOption);
+}
+
+function search_delay(element, type) {
+    // Create a function to get the search results
+    var func = function() { xajax_getSearchRecords(element.value,type); };
+
+    // Check to see if there is already a timeout and if so...
+    // ...cancel it and create a new one
+    if ( element.zid ) {
+        clearTimeout(element.zid);
+    }
+    element.zid = setTimeout(func,500);
+
+}
+
+// dropdown menu 
+  sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("li");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+// end drop down menu
+</script>
+    <link href="css.css" rel="stylesheet" type="text/css">
+
+	<script language="JavaScript1.2" type="text/javascript">
+ function CreateBookmarkLink() {
+
+ title = "Privacy Policy | Classifieds Directory Australia | Free Directory Listings Australia"; 
+ url = "http://www.aussiepages.com.au/privacy_policy.php";
+	if (window.sidebar) { // Mozilla Firefox Bookmark
+		window.sidebar.addPanel(title, url,"");
+	} else if( window.external ) { // IE Favorite
+		window.external.AddFavorite( url, title); }
+	else if(window.opera && window.print) { // Opera Hotlist
+		return true; }
+ }
+</script>
 </head>
 
+
+
 <body>
-<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="575" valign="middle"><a href="index.php"><img src="images/logo.gif" alt="aussiepages.com.au: Australia's Premium Online Directory" border="0"></a><a name="top"></a></td>
-    <td width="428"><br>
-	
-      <form name="frmlogin" method="post" action="login.php">
-        <table width="325" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="16" height="16" class="c1"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-    <td width="955" height="16" class="bg1">&nbsp;</td>
-    <td width="16" height="16" class="c2"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-  </tr>
-  <tr>
-    <td width="16" class="bg4"><img src="images/clr.gif" width="15" height="8"></td>
-    <td width="325"><table width="425" height="45" border="0" cellspacing="0" cellpadding="0">
-		  <tbody><tr>
-            <td colspan="3" align="left"><strong>&nbsp;MEMBER LOGIN</strong></td>            
-          </tr>
-          <tr>
-            <!-- <td width="100" align="left"><strong>MEMBER LOGIN</strong></td> -->
-            <td width="55%" align="left">&nbsp;<input name="vchUserName" type="text" value="Username" class="input" style="width:105px; ">&nbsp;&nbsp;<input name="vchPassword" type="password" class="input" style="width:105px; " value="Password"></td>
-            <td width="20%" align="left" valign="center"><input type="image" src="images/submit.gif" name="submit" alt="Search" border="0"></td><td width="25%" align="left" valign="center">&nbsp;<a href="password.php">Forgot Password?</a></td>
-          </tr>
-        </tbody></table></td>
-    <td width="16" height="16" class="bg3"><img src="images/clr.gif" alt="" width="16" height="8"></td>
-  </tr>
 
-  <tr>
-    <td width="16" height="16" class="c4"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-    <td width="325" height="16" class="bg2"><img src="images/clr.gif" alt="" width="325" height="1"></td>
-    <td height="16" class="c3"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-  </tr>
-</tbody></table>
-      </form>
-	  	  </td>
-  </tr>
-  <tr>
+
+<br><br>
+
+<table width="1000px" cellspacing="0" class="bodyborder" cellpadding="0" border="0" align="center" bgcolor="#ffffff">
+
+    <tbody><tr>
+
+        <td valign="top" align="left" width="100%">
+
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                <tbody><tr>
+
+<td width="100%" align="left" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                            <tbody><tr>
+
+                              <td height="130" align="right" valign="bottom" background="http://www.aussiepages.com.au/template/Ice_Blue/images/logo.jpg" class="header"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody><tr>
+                                  <td><div align="left" style="display:inline;float:right;margin-left:35px">
+                                    <div align="right" class="header">*<a href="http://www.aussiepages.com.au/links.php">HotLinks</a>* | <a href="javascript:CreateBookmarkLink();">Bookmark Us</a> | <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.aussiepages.com.au');">Make This Your Homepage</a><img src="images/noimage.gif" width="5" height="1"></div>
+                                  </div></td>
+                                </tr>
+                                <tr>
+                                  <td height="110" valign="bottom"><div align="right" class="header"><a href="http://www.aussiepages.com.au/">Home</a>
+                                    <!--<img src="images/noimage.gif" width="3" height="1">|<img src="images/noimage.gif" width="3" height="1"> <a href="http://www.aussiepages.com.au/members/user_register_account.php">Submit Listing</a> -->
+                                    <img src="images/noimage.gif" width="3" height="1">|<img src="images/noimage.gif" width="3" height="1"> <a href="http://www.aussiepages.com.au/listing_documents.php">Why Join?</a><img src="images/noimage.gif" width="3" height="1"> | <img src="images/noimage.gif" width="3" height="1">
+                                    <a href="http://www.aussiepages.com.au/members/user_login.php">Login Now</a>                                  <img src="images/noimage.gif" width="3" height="1"> | <img src="images/noimage.gif" width="3" height="1"><a href="http://www.aussiepages.com.au/contact.php">Contact Us</a><img src="images/noimage.gif" width="3" height="1"> |<img src="images/noimage.gif" width="3" height="1"> <a href="http://www.aussiepages.com.au/sitemap.php">Sitemap</a><img src="images/noimage.gif" width="5" height="1"></div></td>
+                                </tr>
+                              </tbody></table>
+                              </td>
+
+          </tr>
+
+                        </tbody></table>    
+
+                  </td>
+
+                </tr>        
+
+                <tr>
+
+                    <td width="100%" height="1" bgcolor="#DADADA">
+
+                    <img src="http://www.aussiepages.com.au/template/Ice_Blue/images/pixel.gif" alt=""><br>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td valign="middle" align="left" width="100%"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+
+      <td valign="top" align="center" width="20%">
+      
+  <br>                     	 		<!-- display the category jump form-->
+                        <table width="179" cellspacing="0" cellpadding="0" border="0">
+
+              <tbody><tr>
+
+                <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif"><p><span class="text"><b><font color="#ffffff">Category Jump</font></b></span></p></td>
+
+              </tr>
+
+              <tr>
+
+                <td width="179" align="left" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;"><br>
+
+ <center><form method="post" action="http://www.aussiepages.com.au/form.php" name="cat">
+<select name="category" style="width:130px;" onchange="if (this.value) document.cat.submit()"><option value="">-- Please Choose --</option><option value="2">Accommodation</option><option value="3">Antiques &amp; Collectables</option><option value="4">Automotive &amp; Dealers</option><option value="5">Babies &amp; Parenting</option><option value="7">Builders &amp; Renovators</option><option value="27">Charities</option><option value="9">Classifieds / Directories</option><option value="10">Cleaning Services</option><option value="21">Comps and Surveys</option><option value="12">Computers &amp; Internet</option><option value="47">Courier, Deliveries &amp; Transport</option><option value="6">e-Books &amp; Magazines</option><option value="14">Education &amp; Training</option><option value="15">Electronics</option><option value="48">Emergency services</option><option value="17">Entertainment</option><option value="11">Fashion</option><option value="18">Finance &amp; Money</option><option value="19">Florist</option><option value="20">Food &amp; Dining</option><option value="22">Gifts &amp; Presents</option><option value="52">Government</option><option value="23">Health &amp; Beauty</option><option value="24">Home &amp; Garden</option><option value="13">Importers / Exporters</option><option value="25">Insurance</option><option value="16">Jobs / Employment</option><option value="51">Kids Education</option><option value="26">Legal Services</option><option value="29">Music &amp; DVDs</option><option value="30">Office Supplies</option><option value="31">Party Supplies</option><option value="32">Pet Care</option><option value="33">Real Estate</option><option value="34">Retail &amp; Online Shopping</option><option value="35">Sport &amp; Recreation</option><option value="49">Storage &amp; Removalist</option><option value="37">Tradesmen &amp; Repairs</option><option value="38">Travel &amp; Site Seeing</option><option value="39">Web &amp; Graphic Design</option><option value="40">Weddings &amp; Honeymoon</option><option value="41">Work At Home</option></select></form>
+                </center></td>
+
+              </tr>
+
+              <tr>
+
+                <td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td>
+
+              </tr>
+
+            </tbody></table>
+
+<!-- Finish checking for category page and end of category jump form -->
+
+	  <!-- Log in box start -->
+        <br>
+
+<table width="179" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+
+        <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif">
+
+            <p><span class="text"><b><font color="#ffffff">Login Now</font></b></span></p>
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td width="179" align="left" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;">
+
+            <br>
+
+            <form name="login_sidebox" action="http://www.aussiepages.com.au/members/user_view_account.php" method="post">
+    <table cellpadding="5" cellspacing="1" border="0" width="100%" align="center"><tbody><tr><td align="center"><span class="text">Username: </span><input class="input_small" type="text" name="login" style="width: 100px" maxlength="100"></td></tr>
+    <tr><td align="center"><span class="text">Password: </span><input class="input_small" type="password" name="pass" style="width: 100px" maxlength="100"></td></tr>
+    <tr><td align="center"><input class="button" type="submit" value="Submit" name="inbut"><br><br><a href="http://www.aussiepages.com.au/members/user_password_remind.php"><u>Password Reminder</u></a></td></tr>
+    </tbody></table></form>
+        </td>
+
+    </tr>
+    <tr><td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td></tr>
+
+</tbody></table>		
+	 <!-- Log in box end -->
+     
+	 
+	 <!-- Featured listings start -->
+
+            <br>
+
+<table width="179" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+
+        <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif">
+
+            <p><span class="text"><b><font color="#ffffff">Featured Listings</font></b></span></p>
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td width="179" align="left" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;">
+
+            <br>
+
+            
+<table width="100%" cellpadding="0" cellspacing="0">
     
-    <td align="left" class="topnavbg">&nbsp;&nbsp;<a href="index.php" class="whiteheading" title="Home">Home</a> | <a href="contactme.php" class="whiteheading" title="Contact Us">Contact Us </a>| <a href="au.prices.php" class="whiteheading" title="Advertise With Us">Advertise With Us</a> | <!-- <a href="affiliates.php" class="whiteheading" title="Affiliates">Affiliates</a> | --><a href="sitemap.php" class="whiteheading"> Site Map</a> | <a href="linkexchange.php" class="whiteheading" title="Free Link Exchange">Free Link Exchange</a></td>
-	<td height="33" class="topnavbg">&nbsp;&nbsp;&nbsp;<a href="#" class="whiteheading" style="cursor: hand; font-family: Tahoma;" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.aussiepages.com.au');">Make us your Homepage</a> | <a href="recommended-websites.php" class="whiteheading">Recommend Website</a> | <a href="#" class="whiteheading"><script>
-	if (navigator.appName=="Netscape")
-	{
-	 document.write ('To Bookmark, press <b>Ctrl+B</b>.')
-	}
-	else if (parseInt(navigator.appVersion)>3) 
-	{
-	 document.write (''+'<a class="whiteheading" onMouseOver="self.status=\'Bookmark this site\'" ' +' onMouseOut="self.status=\'\'" ' +' href="javascript:window.external.AddFavorite' +'(\''+ document.URL +'\','+'\'aussiepages\')">'+'Bookmark Us</a>' )
-	}
+    <tbody><tr>
 
-			  </script>To Bookmark, press <b>Ctrl+B</b>.</a></td>
-  </tr>
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/Wet-n-Wild-Water-World.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/434.jpg" alt="Wet 'n' Wild Water World | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/Dragons-Army-Forums.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/676.jpg" alt="Dragons Army Forums | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/QuoteUs.com.au-for-all-your-quoting-needs.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/198.jpg" alt="QuoteUs.com.au for all your quoting needs | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/FullOnCash---Make-automated-money-from-home.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/701.gif" alt="FullOnCash - Make automated money from home | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/PapaRan.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/673.jpg" alt="PapaRan | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/National-Breast-Cancer-Foundation.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/277.jpg" alt="National Breast Cancer Foundation | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/UK-Web-Design.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/1.jpg" alt="UK Web Design | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/Strathfield-Car-Radios.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/380.gif" alt="Strathfield Car Radios | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/Greater-Union-Birch-Carroll-Coyle-Cinemas-Australia.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/257.jpg" alt="Greater Union Birch Carroll &amp; Coyle Cinemas Australia | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top" align="center">
+
+          
+           
+            
+            <a href="http://www.aussiepages.com.au/Lune-Park-Melbourne.html"> <img border="0" src="http://www.aussiepages.com.au/user_media/logo/images/258.jpg" alt="Lune Park Melbourne | Classifieds Directory Australia | Free Directory Listings Australia"></a><br><br>
+            </td>
+
+    </tr>
+
+    
 </tbody></table>
-<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="500" height="67" align="center" class="topnavbg2"><img src="images/aussie.gif" alt="Aussie Pages now with over 2000 sites listed and growing" width="376" height="67"></td>
-	<td width="2" align="left" class="line2">&nbsp;</td>
-    <td width="503" align="right" class="topnavbg2"><!-- <font size='2'>Helping you reach more potential customers for your advertising budget!</font>&nbsp; --><a href="services.php"><img src="images/banner.gif" width="501" height="65" border="0"></a></td>
-  </tr>
-</tbody></table>
+        </td>
+
+    </tr>
+    <tr><td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td></tr>
+
+</tbody></table>	
+	<!-- Featued listings end -->
+
+            <br>
+            
+            	<!-- Show weather on home page -->
+              <!-- As far as I can see this doesnt do anything - Baj added -->
+    	    <!-- END as far as I can see this doesnt do anything - Baj added -->
+	  
+
+  
+
+	    <!-- Lets start the search code to be displayed on certain pages-->	  
+		        </td><td valign="top" align="center" width="60%">
+
+            			
+	    <!-- search coding ended and if statement closed -->
+
+
+       
+
+<link href="css.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+<!--
+
+.style2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+}
+
+.style5 {color: #FF0000}
+
+.style6 {
+
+	font-size: 11px;
+
+	font-weight: bold;
+
+}
+
+.style8 {color: #FF0000; font-weight: bold; }
+
+.style9 {font-family: Verdana, Arial, Helvetica, sans-serif}
+
+.style11 {font-size: 11px}
+
+.style13 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
+
+.style14 {font-size: 12px}
+
+-->
+
+</style>
+
+
+
 <br>
-<table width="987" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="16" height="16" class="c1"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-    <td width="955" height="16" class="bg1">&nbsp;</td>
-    <td width="16" height="16" class="c2"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-  </tr>
-  <tr>
-    <td width="16" class="bg4"><img src="images/clr.gif" width="15" height="8"></td>
-    <td width="955"><table width="945" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="22" class="pageheading"><!-- InstanceBeginEditable name="pageheading" -->Privacy Policy <!-- InstanceEndEditable --></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td valign="top"><!-- InstanceBeginEditable name="body" -->
-          <p align="left"><span class="blueheading">Other sites</span><br>
-  Please note that our website contains links to other websites which are not administered by us. If you click on a link to another website and subsequently leave our website, our Privacy Policy will no longer apply. We suggest that you refer to the privacy policy relating to the other website you are visiting. </p>
-          <p align="left"><span class="blueheading">Advertisements</span><br>
-  Advertisers or sponsors on our websites may collect information when you view or click on their advertisements. We do not have any control over this data collection. <br>
-  <br>
-  <strong class="blueheading">Do we collect any personal information from you? </strong><br>
-  At times we make collect your personal information, however we will not disclose any information collected by you to any third party unless requested by a court of law. <br>
-  <br>
-  <strong class="blueheading">What do we do with your information? <br>
-  </strong>At times we may need to contact you regarding your account, competitions or to update records. All your information is kept safe and away from all employees.&nbsp; Except those who have special clearance for such information. <br>
-  <br>
-  <strong class="blueheading">IP Collecting <br>
-  </strong>We collect your IP address to help limit the amount of fraud on the internet. We will not disclose your IP address to anyone unless requested by a court of law. <br>
-  <br>
-  <strong class="blueheading">Email Privacy Policy </strong><br>
-  We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. </p>
-          <p align="left"><strong class="blueheading">Why did you receive an email from us? </strong><br>
-  If you received a mailing from us,</p>
-          <ol type="a">
-            <li> your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or <br>
-              <br>
-            </li>
-            <li>you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings. </li>
-          </ol>
-          <p align="left"><span class="blueheading"><strong>How we protect your privacy <br>
-          </strong></span>We use security measures to protect against the loss, misuse and alteration of data used by our system. </p>
-          <p align="left"><span class="blueheading"><strong>Sharing and Usage </strong></span><br>
-  We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. </p>
-          <p align="left"><span class="blueheading"><strong>How can you stop receiving email from us? </strong></span><br>
-  Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply reply back 'STOP' in the subject line, and you will stop recieving emails from us.</p>
-          <p align="left"><span class="blueheading">Why we collect personal information</span><br>
-  We collect Personal information for a number of reasons, including: </p>
-          <ul>
-            <li>to provide you with our products or services;<br>
-              <br>
-            </li>
-            <li>                 to administer our relationship with you; <br>
-              <br>
-            </li>
-            <li>                to facilitate the running of trade promotions and other competitions (see below); <br>
-              <br>
-            </li>
-            <li>                to facilitate the running of listener loyalty programs such as the Freq Club; <br>
-              <br>
-            </li>
-            <li>                to monitor activity on our websites, for the purpose of maintaining the security of those websites; <br>
-              <br>
-            </li>
-            <li>                to compile Individual and listener databases to enable us to market goods and services more accurately; <br>
-              <br>
-            </li>
-            <li>                to provide advertisers with information to assist them in their decision making processes and marketing of goods and services. </li>
-          </ul>
-          <p align="left"><span class="blueheading">How we collect personal information</span><br>
-  We primarily collect Personal Information directly from you through written and/or verbal means of communication. However, Personal Information may be collected in a variety of ways, including: </p>
-          <ul>
-            <li> application forms; <br>
-              <br>
-            </li>
-            <li>                competition entry forms; <br>
-              <br>
-            </li>
-            <li>                email; <br>
-              <br>
-            </li>
-            <li>                posted mail; <br>
-              <br>
-            </li>
-            <li>                websites (including in some instances cookies); <br>
-              <br>
-            </li>
-            <li>                online transactions; <br>
-              <br>
-            </li>
-            <li>                public surveys; <br>
-              <br>
-            </li>
-            <li>                business contacts (eg contractual documents); and <br>
-              <br>
-            </li>
-            <li>                other forms of written and / or verbal communication. </li>
-          </ul>
-          <p align="left">We may also collect anonymous information through the use of cookies on our website. Cookies are pieces of information that are stored on your computer's hard disk. Most web-browsers are set to accept cookies but you can set your web-browser to refuse cookies. Cookies themselves do not identify users personally but they do allow the tracking of an Individual's use of a website. Cookies have become commonplace. </p>
-          <p align="left"><span class="blueheading">The type of information we hold about you </span><br>
-  We only hold information about you that is relevant to our relationship with you. Generally, the Personal Information we hold will include (where relevant) your name, contact details, membership/card/account number/s, records of correspondence, subscription and payment details, type of business and billing statements. </p>
-          <p align="left"><span class="blueheading">How we hold your personal information </span><br>
-  Depending on the circumstances, we may hold Personal Information in hardcopy or electronic form, or both. Generally, we keep hardcopies of all correspondence that we enter into and maintain details about Individuals that we interact with in our electronic database. </p>
-          <p align="left"><span class="blueheading">How we secure your personal information</span><br>
-  We hold all hardcopy and electronic records of personal information in a secure manner to ensure that it is protected from loss, misuse, unauthorised access, modification or disclosure. Personal information held in electronic form is, wherever practical, password protected and/or encrypted. </p>
-          <p align="left">We limit the information that our staff have access to, to help protect your privacy; however there may be times where staff may request specific information about you to help process your request. </p>
-          <p align="left"><span class="blueheading">You may correct your personal information</span><br>
-  We regularly monitor the quality and accuracy of Personal Information that we maintain and, where practicable, update that information. In addition, you may request that your Personal information be updated at any time. </p>
-          <p align="left">In the unlikely event that we disagree about the accuracy of the information such that we are unable to change it, you may provide us with a statement that you dispute its accuracy and we will associate the statement with your information in such a manner that it will be brought to the attention of each person who uses that information.</p>
-          <p align="right"><a href="#top"><img src="images/top.gif" alt="Top" width="17" height="23" border="0"></a></p>
-        <!-- InstanceEndEditable --></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table></td>
-    <td width="16" height="16" class="bg3"><img src="images/clr.gif" alt="" width="16" height="8"></td>
-  </tr>
-  <tr>
-    <td width="16" height="16" class="c4"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-    <td width="955" height="16" class="bg2"><img src="images/clr.gif" alt="" width="955" height="1"></td>
-    <td height="16" class="c3"><img src="images/clr.gif" alt="" width="16" height="16"></td>
-  </tr>
+
+<table width="100%" cellpadding="2" border="0" style="border-collapse: collapse" bgcolor="#F2F2FF">
+
+    <tbody><tr>
+
+        <td class="border2" width="100%" height="25" valign="middle" align="center" style="border-bottom-style: none; border-bottom-width: medium"><p class="style6"><font color="#ffffff">
+		AussiePages Privacy Policy </font></p></td>
+    </tr>
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+		<p align="center"><br>
+		AussiePages.com.au operates an online business and entertainment directory  for Australian and international businesses and or websites. Your inclusion of  your business and or website to the directory is conditional upon your  acceptance and compliance with these terms and any other specific conditions,  notices and disclaimers contained in the website including the "<u>Privacy  Policy</u>" and the "<u>Terms and Condition</u>" Please read the Privacy  Policy carefully.<br>
+&nbsp;</p></td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+          <strong>Advertisements</strong><br>
+          Advertisers or sponsors on our websites may collect information when you view  or click on their advertisements. We do not have any control over this data  collection. We recommend reading there privacy 
+		policy and terms and condition</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium"><strong>Other sites</strong><br>
+          Please note that our website contains links to other websites which are not  administered by us. If you click on a link to another website and subsequently  leave our website, our Privacy Policy will no longer apply. We suggest that you  refer to the privacy policy relating to the other website you are visiting.</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+          <strong>Do we collect any personal information from you? </strong><br>
+          At times we make collect your personal information, however we will not  disclose any information collected by you to any third party unless requested  by a court of law. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+          <strong>What do we do with your information? <br>
+		</strong>At times we may need to contact you regarding your account, competitions or  to update records. All your information is kept safe and away from all  employees.&nbsp;Except those who have special clearance for such information. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+          <strong>IP Collecting <br>
+		</strong>We collect your IP address to help limit and protect your information. We  will not disclose your IP address to anyone unless requested by a court of law. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+
+        <p align="left"><font face="Arial" style="font-size: 9pt">
+          <strong>Email Privacy Policy </strong><br>
+          We have created this email privacy policy to demonstrate our firm commitment to  your privacy and the protection of your information. <br>
+          <strong>&nbsp;&nbsp;&nbsp; Why did you receive an email from us? </strong>
+		</font></p>
+
+        <ol start="1" type="a">
+          <li><font face="Arial">your email address is       either listed with us as someone who has expressly shared your email       address for the purpose of receiving information in the future ("opt-in"),       or 
+			</font> </li>
+          <li><font face="Arial">you have registered or       purchased or otherwise have an existing relationship with us. We respect       your time and attention by controlling the frequency of our mailings. 
+			</font> </li>
+        </ol>
+        </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium"><strong>How we protect your privacy <br>
+		</strong>We use security measures to protect against the loss, misuse and alteration  of data used by our system. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+          <strong>Sharing and Usage </strong><br>
+          We will never share, sell, or rent individual personal information with anyone,  without your advance permission or unless ordered by a court of law.  Information submitted to us is only available to selected employees managing  this information for purposes of contacting you or sending you emails based on  your request for information and to contracted service providers for purposes  of providing services relating to our communications with you.</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+  <strong>How can you stop receiving email from us? </strong><br>
+          Each email sent contains an easy, automated way for you to cease receiving  email from us, or to change your expressed interests. If you wish to do this,  simply reply back 'STOP' in the subject line, and you will stop receiving  emails from us <em>this can take up to 48 hours</em> </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+        <p>
+  <strong>Why we collect personal information</strong><br>
+          We collect Personal information for a number of reasons, including: </p>
+        <ul type="disc">
+          <li>to provide you with our       products or services;</li>
+          <li>to administer our       relationship with you; </li>
+          <li>to facilitate the running       of trade promotions and other competitions; </li>
+          <li>to monitor activity on our       websites, for the purpose of maintaining the security of those websites; </li>
+          <li>to compile a databases to       enable us to market our goods and services more accurately; </li>
+          <li>to provide advertisers with       information to assist them in their decision making processes and       marketing of goods and services. </li>
+        </ul>
+        </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+        <p><strong>How we collect personal information</strong><br>
+          We primarily collect Personal Information directly from you through written  and/or verbal means of communication. However, Personal Information may be  collected in a variety of ways, including: </p>
+        <ul type="disc">
+          <li>application forms; </li>
+          <li>competition entry forms; </li>
+          <li>email; </li>
+          <li>posted mail; </li>
+          <li>websites (including in some       instances cookies); </li>
+          <li>online transactions; </li>
+          <li>public surveys; </li>
+          <li>business contacts (e.g.       contractual documents); and </li>
+          <li>other forms of written and       / or verbal communication. </li>
+        </ul>
+        </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">We may also collect anonymous information through the use of cookies on our  website. Cookies are pieces of information that are stored on your computer's  hard disk. Most web-browsers are set to accept cookies but you can set your  web-browser to refuse cookies. Cookies themselves do not identify users  personally but they do allow the tracking of an Individual's use of a website.  Cookies have become commonplace and are used by most websites.</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+            <strong>The type of information we hold about you</strong> <br>
+          We only hold information about you that is relevant to our relationship with  you. Generally, the Personal Information we hold will include (where relevant)  your name, contact details, membership/card/account number/s, records of  correspondence, subscription and payment details, type of business and billing  statements. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+  <strong>How we hold your personal information</strong> <br>
+          Depending on the circumstances, we may hold Personal Information in hardcopy or  electronic form, or both. Generally, we keep hardcopies of all correspondence  that we enter into and maintain details about Individuals that we interact with  in our electronic database. </td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+  <strong>How we secure your personal information</strong><br>
+          We hold all hardcopy and electronic records of personal information in a secure  manner to ensure that it is protected from loss, misuse, unauthorized access,  modification or disclosure. Personal information held in electronic form is,  wherever practical, password protected and/or encrypted. <br>
+          We limit the information that our staff have access to, to help protect your  privacy; however there may be times where staff may request specific  information about you to help process your request. <br>
+  &nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">&nbsp;</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+  <strong>You may correct your personal information</strong><br>
+          We regularly monitor the quality and accuracy of Personal Information that we  maintain and, where practicable, update that information. In addition, you may  request that your Personal information be updated at any time</td>
+    </tr> 
+
+    <tr>
+
+      <td width="100%" align="left" valign="top" class="border style2" style="border-style: none; border-width: medium">
+		<a href="#top">
+		<img height="23" alt="Top" src="http://www.aussiepages.com.au/images/top.gif" width="17" border="0" align="right"></a></td>
+    </tr> 
 </tbody></table>
+
+ 
+
+
+
+        </td>
+
+
+
+        <td valign="top" align="center" width="20%">  	  
+
+
+
+
+            <br>
+            <form name="searchform" action="http://www.aussiepages.com.au/search-all.php" method="get">
+<table width="179" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+
+        <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif">
+        <span class="text"><b><font color="#ffffff">Search Site</font></b></span>
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td width="179" align="center" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;">
+
+        <span class="text">By Keyword</span><br><br>
+        <input type="text" id="keyword" name="keyword" class="input_small"><br>
+
+        
+         <span class="text"><br><span class="text">State or City </span><br>
+            <input type="text" name="location" class="input_small"><br>
+        
+        <span class="text"><br>Category</span><br><br>
+
+            <select name="category" class="input_small">
+
+            <option value="">Select</option>
+
+            
+                <option>Accommodation</option>
+
+            
+                <option>Antiques &amp; Collectables</option>
+
+            
+                <option>Automotive &amp; Dealers</option>
+
+            
+                <option>Babies &amp; Parenting</option>
+
+            
+                <option>Builders &amp; Renovators</option>
+
+            
+                <option>Charities</option>
+
+            
+                <option>Classifieds / Directories</option>
+
+            
+                <option>Cleaning Services</option>
+
+            
+                <option>Comps and Surveys</option>
+
+            
+                <option>Computers &amp; Internet</option>
+
+            
+                <option>Courier, Deliveries &amp; Transport</option>
+
+            
+                <option>e-Books &amp; Magazines</option>
+
+            
+                <option>Education &amp; Training</option>
+
+            
+                <option>Electronics</option>
+
+            
+                <option>Emergency services</option>
+
+            
+                <option>Entertainment</option>
+
+            
+                <option>Fashion</option>
+
+            
+                <option>Finance &amp; Money</option>
+
+            
+                <option>Florist</option>
+
+            
+                <option>Food &amp; Dining</option>
+
+            
+                <option>Gifts &amp; Presents</option>
+
+            
+                <option>Government</option>
+
+            
+                <option>Health &amp; Beauty</option>
+
+            
+                <option>Home &amp; Garden</option>
+
+            
+                <option>Importers / Exporters</option>
+
+            
+                <option>Insurance</option>
+
+            
+                <option>Jobs / Employment</option>
+
+            
+                <option>Kids Education</option>
+
+            
+                <option>Legal Services</option>
+
+            
+                <option>Music &amp; DVDs</option>
+
+            
+                <option>Office Supplies</option>
+
+            
+                <option>Party Supplies</option>
+
+            
+                <option>Pet Care &amp; Supply's</option>
+
+            
+                <option>Real Estate</option>
+
+            
+                <option>Retail &amp; Online Shopping</option>
+
+            
+                <option>Sport &amp; Recreation</option>
+
+            
+                <option>Storage &amp; Removalist</option>
+
+            
+                <option>Tradesmen &amp; Repairs</option>
+
+            
+                <option>Travel &amp; Site Seeing</option>
+
+            
+                <option>Web &amp; Graphic Design</option>
+
+            
+                <option>Weddings &amp; Honeymoon</option>
+
+            
+                <option>Work At Home</option>
+
+            
+            </select>        <br><br>
+
+                   <br>
+
+
+            
+            <span class="text">Postcode<!-- and Distance (miles) --></span><br>
+            
+
+            <!-- 
+
+            <select name="location" class="input_small">
+
+            <option value="">Select</option> 
+
+            
+                <option>Australia</option>
+
+            
+                <option>United Kingdom</option>
+
+            
+            </select>
+
+            -->        <br><input type="text" name="zip" class="input_small">
+            <!-- <span class=text> </span><select name="zip_miles"><option>5</option><option>10</option><option>25</option><option>50</option><option>100</option></select> -->
+            
+           <input type="submit" style="margin-top:10px" name="submit" class="button" value="Search"><br>
+            </span></td>
+
+    </tr>
+    <tr><td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td></tr>
+
+</tbody></table>
+</form>
+            
+          <!--   -->
+
+            
+                        <table width="179" cellspacing="0" cellpadding="0" border="0">
+
+              <tbody><tr>
+
+                <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif"><p><span class="text"><b><font color="#ffffff">Web Search</font></b></span></p></td>
+
+              </tr>
+
+              <tr>
+
+                <td width="179" align="left" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;"><br>
+
+                    <!-- SIDEBOX CODE -->
+
+                    <center>
+
+                      <form method="get" action="http://www.google.com.au/custom" target="google_window">
+
+                        <a href="http://www.google.com/"> <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a> <br>
+
+                        <label for="sbi" style="display: none">Enter your search terms</label>
+                        <input type="text" name="q" size="20" maxlength="255" value="" id="sbi">
+
+                        
+
+                        <br>
+
+                        <br>
+
+                        <label for="sbb" style="display: none">Submit search form</label>
+
+                        <input type="submit" name="sa" value="Search" id="sbb">
+
+                        
+
+                        <input type="hidden" name="client" value="pub-2464764922710112">
+
+                        
+
+                        <input type="hidden" name="forid" value="1">
+
+                        
+
+                        <input type="hidden" name="ie" value="ISO-8859-1">
+
+                        
+
+                        <input type="hidden" name="oe" value="ISO-8859-1">
+
+                        
+
+                        <input type="hidden" name="safe" value="active">
+
+                        
+
+                        <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:197;L:http://www.aussiepages.com.au/images/logo.gif;S:http://www.AussiePages.com.au;FORID:1">
+
+                        
+
+                        <input type="hidden" name="hl" value="en">
+
+                        
+
+                      </form>
+
+                    </center></td>
+
+              </tr>
+
+              <tr>
+
+                <td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td>
+
+              </tr>
+
+            </tbody></table>
+
+
+            
+
+
+            
+            <script type="text/JavaScript">
+
+<!--
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+
+  window.open(theURL,winName,features);
+
+}
+
+//-->
+
+</script>
+
+          <br>
+
+<table width="179" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+
+        <td width="179" height="31" valign="middle" align="center" background="/template/Ice_Blue/images/bajhack/blue-top.gif">
+
+            <p><span class="text"><b><font color="#ffffff">Recent Listings</font></b></span></p>
+
+        </td>
+
+    </tr>
+
+    <tr>
+
+        <td width="179" align="left" valign="top" background="/template/Ice_Blue/images/bajhack/blue-bg.gif" style="padding: 5px;">
+
+            <br>
+
+            
+<table width="100%" cellpadding="0" cellspacing="0">
+    
+    <tbody><tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/EarthHoppers.com.html"><b>EarthHoppers.com</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Advertising and information for businesses and travellers around the world.Hop on a map for direct links to travel,tourism,adventure and fun!</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/Showjobs.net.html"><b>Showjobs.net</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Australia's New online Employment Website dedicated to the Entertainment Industry 
+Free to search and post a job now only $12.50</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/IT-Site-Directory.html"><b>IT Site Directory</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Your online IT Site Directory.</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/BizMagic---Web-Design-and-Marketing.html"><b>BizMagic - Web Design and Marketing</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">BizMagic specialises in first-class website designs combined with proven search engine marketing techniques to create the ultimate marketing tool for service business owners.</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/ePayroll--Online-Payroll-Software.html"><b>ePayroll- Online Payroll Software</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">ePayroll, is compliant online payroll software. It is simple to use, cost effective and available anytime, anywhere. Call Kara on 1800 PAYROLL (18007297655) or Email Kara at sales@epayroll.com.au</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/FullOnCash---Make-automated-money-from-home.html"><b>FullOnCash - Make automated money from home</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">I can show you how to make $500-$15000+ per month working from home with no experiance necessory. Most of my clients are making around the $7000 per month. 100% REAL NO SCAM</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/OyMap---a-world-directory.html"><b>OyMap -  a world directory</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Australia at OyMap.net - a world directory</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/List-Real-Estate-Free.html"><b>List Real Estate Free</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Put Your Real Estate On The Map List Property On Knooble For Free!</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/Aussie-Online-Shopping.html"><b>Aussie Online Shopping</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Australian Shopping Directory For A Huge Choice Of Online Shopping</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+    <tr>
+
+        <td valign="top">
+
+            <div align="justify"><a href="http://www.aussiepages.com.au/Entertainment-Store.html"><b>Entertainment Store</b></a><span class="text"><br>
+
+            </span><span class="text_small_grey">Leading entertainment booking service for event management</span><br>
+
+              <span class="text_small_grey"></span><br>
+
+              <br>
+
+            </div></td>
+
+    </tr>
+
+    
+</tbody></table>
+
+
+        </td>
+
+    </tr>
+    <tr><td height="13" background="/template/Ice_Blue/images/bajhack/blue-bottom.gif">&nbsp;</td></tr>
+
+</tbody></table>
+<p>&nbsp; </p></td>
+
+
+
+    </tr>
+
+
+
+</tbody></table>
+
+
+
+
+<link href="css.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+<!--
+
+.style1 {font-size: 11px}
+
+-->
+
+</style>
+
+                        
+
+                        
 <br>
-<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="19"><img src="images/left.gif" width="19" height="32"></td>
-    <td width="985" align="center" class="botnav"><a href="faq.php" class="toplinks" title="Faq">Faq</a> | <!-- <a href="linkexchange.php" class="toplinks" title="Free Link Exchange">Free Link Exchange</a> | --> <a href="termofuse.php" class="toplinks" title="Terms Of Use">Terms Of Use</a> | <a href="privacy.php" class="toplinks" title="Privacy<">Privacy</a> | <a href="make-money.php" class="toplinks" title="Make Money">Make Money</a></td>
-    <td width="19"><img src="images/right.gif" width="19" height="32"></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td height="50" align="center" class="copytext">aussiepages.com.au © 2007. All rights reserved. Please read
-    our Terms Of Use before using this site.<br> All images featured on this site are © of their respective owners and may not be reproduced without their permission.</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><a href="http://www.sanrachana.com" class="copytext" target="_blank">Developed by Sanrachana</a></td>
-  </tr>
-</tbody></table>
-<map name="Map">
-  <area shape="rect" coords="86,163,315,195" href="au.prices.php" alt="Click Here to Start">
-</map>
 
-<!-- InstanceEnd -->
+                        <br>
 
-<div id="overlay" style="display: none;"></div><div id="lightbox" style="display: none;"><div id="outerImageContainer"><div id="imageContainer"><img id="lightboxImage"><div id="hoverNav"><a id="prevLink" href="#"></a><a id="nextLink" href="#"></a></div><div id="loading"><a id="loadingLink" href="#"><img src="images/loading.gif"></a></div></div></div><div id="imageDataContainer" class="clearfix"><div id="imageData"><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><a id="bottomNavClose" href="#"><img src="images/closelabel.gif"></a></div></div></div></div></body></html>
+                        </td></tr><tr>
+
+     <td colspan="3" width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                       <tbody><tr>
+
+                         <td height="76" background="http://www.aussiepages.com.au/template/Ice_Blue/images/footer.jpg"><div align="center">
+
+                           <p class="text style1"><a href="/terms.php">Terms &amp; Conditions</a> | <a href="/privacy_policy.php">Privacy Policy</a> | <a href="/faq.php">FAQ</a><br>
+                             AussiePages.com.au © 2007.   	All Rights Reserved.</p>
+
+                           <p class="header"><a href="http://www.swiftmediauk.co.uk/website-design.php" target="_blank">Website Design</a>, <a href="http://www.swiftmediauk.co.uk/website-hosting.php" target="_blank">Affordable Web Hosting</a> &amp; <a href="http://www.swiftmediauk.co.uk/logo-design.php" target="_blank">Logo Design</a> by <a href="http://www.swiftmediauk.co.uk" target="_blank">Swift Media UK</a> - <a href="http://www.eweb.com.au" target="_blank">Optimisation</a> by <a href="http://www.ewebmarketing.com.au" target="_blank">E-Web Marketing</a></p>
+
+                         </div></td>
+
+                       </tr>
+
+                     </tbody></table>
+
+                       <br>
+
+                  </td>
+
+                </tr></tbody></table></td></tr></tbody></table></body></html>
