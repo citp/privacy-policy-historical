@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525032847id_/http%3A//diamondnexus.com/jewelry/information/bbb.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828222434id_/http%3A//diamondnexus.com/jewelry/information/bbb.htm) for the most accurate reproduction.*
 
 # Diamond Nexus Labs Better Business Bureau
 
