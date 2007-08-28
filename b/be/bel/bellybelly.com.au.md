@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellybelly.com.au privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819154913id_/http%3A//www.bellybelly.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellybelly.com.au privacy policy that was archived on 2007-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070828213402id_/http%3A//www.bellybelly.com.au/privacy) for the most accurate reproduction.*
 
 # BellyBelly Privacy Policy
 
