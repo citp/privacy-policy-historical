@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020101218id_/http%3A//www.migrationexpert.com/content/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829112912id_/http%3A//migrationexpert.com/australia/Visa/privacy_policy.asp) for the most accurate reproduction.*
 
-# Migration Expert | Privacy Policy
+# Privacy Policy
 
-HELPING PEOPLE MIGRATE TO:   AUSTRALIA   |   [UK](http://www.immigrationexpert.com/uk/ "UK")   |   [CANADA](http://www.immigrationexpert.com/ "CANADA")
-
-migrationexpert.com knows the importance of keeping your information secure. We understand your concerns about how your information is used and shared. Please be assured that migrationexpert.com takes every possible measure to treat your information with respect and privacy.
+Migration Expert knows the importance of keeping your information secure. We understand your concerns about how your information is used and shared. Please be assured that Migration Expert takes every possible measure to treat your information with respect and privacy.
 
 This notice describes our privacy policy. 
 
@@ -33,7 +31,7 @@ We may share aggregated demographic information with our partners and advertiser
 We share customer information only as described below: 
 
   * with subsidiaries or associated companies of migrationexpert.com that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Notice.
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * Consultants: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * Promotional Offers:Sometimes we send offers to selected groups of migrationexpert.com customers on behalf of other businesses. When we do this, we do not give that business your name and address.
   * Business Transfers: As we continue to develop our business, we might sell or buy businesses or subsidiaries. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that migrationexpert.com, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
   * Protection of migrationexpert.com and Others: We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise or defence of a legal claim.
@@ -57,7 +55,7 @@ It is important for you to protect against unauthorised access to your password 
 
 **Conditions of Use, Notices, and Revisions**
 
-Use of this website is subject to the Terms & Conditions. Any concerns should be addressed to the Privacy Officer via the section of the member area ["Support"](https://web.archive.org/member/member_communication_question.asp). 
+Use of this website is subject to the Terms & Conditions. Any concerns should be addressed to the Privacy Officer via the section of the member area "Support". 
 
 If a Client wishes to review or make corrections to their contact information, they can do so at any time. 
 
