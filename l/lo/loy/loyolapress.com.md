@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyolapress.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044355id_/http%3A//loyolapress.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyolapress.com privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829060844id_/http%3A//www.loyolapress.com/privacy.asp) for the most accurate reproduction.*
 
 # Loyola Press - Serving the Catholic community in education, faith formation, and spiritual growth.
 
