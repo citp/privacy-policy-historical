@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seabreeze.com.au privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220220009id_/http%3A//www.seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seabreeze.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829023552id_/http%3A//seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.*
 
-# Seabreeze.com.au! - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 #### Information Collected
 
