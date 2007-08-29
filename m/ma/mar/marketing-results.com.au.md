@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206095647id_/http%3A//www.marketing-results.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-results.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829062541id_/http%3A//www.marketing-results.com.au/privacy.php) for the most accurate reproduction.*
 
 # Marketing Results Privacy Policy
 
