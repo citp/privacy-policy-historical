@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429064803id_/http%3A//www.metlinkmelbourne.com.au/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2007-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070829211744id_/http%3A//www.metlinkmelbourne.com.au/footer/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Metlink
+# Privacy Policy - Metlink - Your guide to public transport in Melbourne and Victoria
 
 ### Respecting your privacy and the law
 
