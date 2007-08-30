@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908060733id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) for the most accurate reproduction.*
 
 # UK Forex Foreign Exchange | Privacy Policy
 
   
 
 
-**Related Links** |  | [Regulation](https://web.archive.org/web/20060908060733id_/http%3A//www.ukforex.co.uk/documents/regulation.htm) |  | [Dispute Resolution](https://web.archive.org/web/20060908060733id_/http%3A//www.ukforex.co.uk/documents/dispute.htm)  
+**Related Links** |  | [Regulation](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/regulation.htm) |  | [Dispute Resolution](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/dispute.htm)  
 ---|---|---|---|---  
-|  | [Privacy Policy](https://web.archive.org/web/20060908060733id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) |  | [Website Terms](https://web.archive.org/web/20060908060733id_/http%3A//www.ukforex.co.uk/documents/termsofuse.htm)  
+|  | [Privacy Policy](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/privacy.htm) |  | [Website Terms](https://web.archive.org/web/20070830023924id_/http%3A//www.ukforex.co.uk/documents/termsofuse.htm)  
   
 **Consent**   
 Use of this website by you signifies that you (the Client[s]) consent to the Company collecting and using personal information that is provided to UKForex (the Company). 
