@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,11 +9,11 @@
 BlogNow.com.au is committed to ensuring our customers' privacy and security of all information collected. In accordance with the privacy legislation introduced on December 21, 2001, this Privacy Policy outlines the information collection practices utilised by BlogNow.com.au, how that information is used and the choices you can make about the way the information you provide to us is collected and used.   
 
 
-  * [The information we collect](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php#1)
-  * [How we use the information](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php#2)
-  * [How to access or correct your information](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php#3)
-  * [Cookies](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php#4)
-  * [How to contact us](https://web.archive.org/web/20070625201541id_/http%3A//www.blognow.com.au/privacy.php#5)
+  * [The information we collect](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php#1)
+  * [How we use the information](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php#2)
+  * [How to access or correct your information](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php#3)
+  * [Cookies](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php#4)
+  * [How to contact us](https://web.archive.org/web/20070831000621id_/http%3A//www.blognow.com.au/privacy.php#5)
 
 
 
