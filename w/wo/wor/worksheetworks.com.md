@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303021228id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830195329id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
 
 # WorksheetWorks.com
 
-WorksheetWorks.com respects each individualï¿½s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at WorksheetWorks.comï¿½s web site.  
+WorksheetWorks.com respects each individual�s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at WorksheetWorks.com�s web site.  
   
 I. Information Collection  
   
 WorksheetWorks.com uses only standard data collection methods for statistical purposes. This information includes your ip address, browser type and language preference, We collect demographic data in order to better understand where our users are, what language they prefer and what software they use to view the website. We also collect names and email addresses which are voluntarily given to us through feedback mechanisms in order to provide responses to questions. WorksheetWorks.com never knowingly ask a child under 13 to divulge personal information.
 
-WorksheetWorks.com employs cookies in order to trace user actions from one page to the next. This is necessary in order for the site's basic functionality to work. A cookie is a small text file that our Web server places on a userï¿½s computer hard drive to be a unique identifier. Some of our cookies have expiration dates, while others do not, but none of the cookies collect personally identifiable information.  
+WorksheetWorks.com employs cookies in order to trace user actions from one page to the next. This is necessary in order for the site's basic functionality to work. A cookie is a small text file that our Web server places on a user�s computer hard drive to be a unique identifier. Some of our cookies have expiration dates, while others do not, but none of the cookies collect personally identifiable information.  
   
 II. Information Usage.  
   
