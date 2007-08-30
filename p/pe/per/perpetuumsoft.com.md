@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219220330id_/http%3A//www.perpetuumsoft.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830140812id_/http%3A//www.perpetuumsoft.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
-# Perpetuum Software LLC, Analytical data processing and visualization components for .NET and ASP.NET
+# Perpetuum Software LLC - We are Committed to protect your Privacy & Ensuring You a Positive Experience
 
 Perpetuum Software is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. 
 
