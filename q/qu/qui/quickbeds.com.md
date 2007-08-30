@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819205512id_/http%3A//www.quickbeds.com//About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830091937id_/http%3A//www.quickbeds.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Quickbeds.com: Australia Accommodation, Hotels, Motels, Resorts and Apartments
 
