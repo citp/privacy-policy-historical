@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610011808id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831132211id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy) for the most accurate reproduction.*
 
-# ACT Government Entry Point: privacy
+# ACT Government Entry Point: Privacy
 
 ## Privacy statement
 
-The Australian Capital Territory Government has created this privacy statement in order to demonstrate our firm commitment to protecting personal privacy. We seek to adhere to the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) developed by the [Australian Privacy Commissioner](http://www.privacy.gov.au/). The following discloses our information gathering and dissemination practices for this website: [www.act.gov.au](https://web.archive.org/web/20070610011808id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=menuHome "Return to the ACT Government Entry Point home page").
+The Australian Capital Territory Government has created this privacy statement in order to demonstrate our firm commitment to protecting personal privacy. We seek to adhere to the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) developed by the [Australian Privacy Commissioner](http://www.privacy.gov.au/). The following discloses our information gathering and dissemination practices for this website: [www.act.gov.au](https://web.archive.org/web/20070831132211id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=menuHome "Return to the ACT Government Entry Point home page").
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20070610011808id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=contactUs) at Canberra Connect on behalf of the ACT Government.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20070831132211id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=contactUs) at Canberra Connect on behalf of the ACT Government.
 
 ## Information Collected
 
@@ -40,11 +40,11 @@ If you choose not to participate in these activities, your choice will in no way
 
 Any personal information you choose to provide will only be used for the purpose for which it was provided and will not be disclosed to other persons or organisations without your prior consent.
 
-The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet. Information submitted unencrypted via email or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to the Australian Capital Territory Government, you can send a postal mail to the address in [contact us](https://web.archive.org/web/20070610011808id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=contactUs).
+The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet. Information submitted unencrypted via email or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to the Australian Capital Territory Government, you can send a postal mail to the address in [contact us](https://web.archive.org/web/20070831132211id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=contactUs).
 
 ## Other Sites
 
-This site contains links to external web sites. The Australian Capital Territory Government is not responsible for the privacy practices or the content of such websites. For more information, refer to our [disclaimer](https://web.archive.org/web/20070610011808id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=disclaimer&pageTitle=Disclaimer) statement.
+This site contains links to external web sites. The Australian Capital Territory Government is not responsible for the privacy practices or the content of such websites. For more information, refer to our [disclaimer](https://web.archive.org/web/20070831132211id_/http%3A//www.act.gov.au/CAP/accesspoint%3Faction%3Dprivacy%26pageTitle%3DPrivacy?action=disclaimer&pageTitle=Disclaimer) statement.
 
 ## Cookies
 
