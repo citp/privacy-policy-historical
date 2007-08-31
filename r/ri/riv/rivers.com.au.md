@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185416id_/http%3A//www.rivers.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831141335id_/http%3A//www.rivers.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Rivers Privacy Policy
 
