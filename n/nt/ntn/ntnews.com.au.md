@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628165228id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831105716id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
 
 # Northern Territory News
 
