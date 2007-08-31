@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624075647id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evesaddiction.com privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831022800id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Eve's Addiction - Sterling Silver Jewelry
+# Sterling Silver Jewelry
 
-Privacy Policy   
+  
 What personal information do we collect? When you place an order with us, we ask for the standard personal information in our order form (such as name, address, email, contact phone number, and so forth) in order for us to properly ship your order to you. This information is kept secure in protected systems. If necessary, we may use this information to contact you (via email for example) regarding a pending order, or to answer a question prompted from a customer. 
 
 From time to time, you may receive promotional information and special offers through e-mail or regular mail from Eve's Addiction and/or our marketing partners. However, if you do not want to receive e-mail communications or other promotional communications, you are free to opt out of our mailing list at any time. We do not sell, lease, or rent your email address without your permission. 
@@ -15,6 +15,6 @@ We use affiliate software to track where potential customers are coming from so 
 
 How do we protect your information? We encrypt order information for your protection. EvesAddiction.com online store uses industry standard [Secure Sockets Layer (SSL)](http://developer.netscape.com/tech/security/ssl/protocol.html "What is SSL?") encryption on areas of our website where personal information is needed. EvesAddiction.com does not accept email registration, nor contest participation from children under the age of 13 due to the [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm "What is COPPA?"). If you are under the age of 13, you must get parental permission to divulge your email address and order-related information before using this site. Our contests are open to users ages 13 and up, however if a sweepstake or contest winner is under 18 years old, we will require a consent from signed by the winner’s parent or guardian in order to award the prize. Our contests and sweepstakes are subject to all federal, state, and local laws and void where prohibited. 
 
-If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page at [www.EvesAddiction.com](https://web.archive.org/web/20070624075647id_/http%3A//www.evesaddiction.com/www.eveseddiction.com) or email us at [customerservice@EvesAddiction.com](mailto:customerservice@evesaddiction.com). 
+If you would like further details about EvesAddiction.com, or would like to contact us please visit our front page at [www.EvesAddiction.com](https://web.archive.org/web/20070831022800id_/http%3A//www.evesaddiction.com/www.eveseddiction.com) or email us at [customerservice@EvesAddiction.com](mailto:customerservice@evesaddiction.com). 
 
 We reserve the right, at our sole discretion, to change, modify, or otherwise alter these terms and conditions at anytime. Please review the terms and conditions periodically. Your continued use of the site following the posting of changes and/or modifications will constitute your acceptance of the revised terms and conditions. 
