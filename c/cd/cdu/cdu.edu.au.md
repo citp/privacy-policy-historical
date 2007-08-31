@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406212753id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2007-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070831023051id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
 
-# CDU
+# CDU - Information Act - Homepage
 
-The Northern Territory Information Act (the Act) was passed by the Northern Territory Legislative Assembly on 8 October 2002. The Act commenced on 1 July 2003 and will effect the way that Northern Territory public sector organisations collect, use and store University and personal information. Under the Act and for the first time in Australia, the related issues of freedom of information (FOI), privacy and records and archives management are brought together. 
+The Northern Territory Information Act (the Act) was passed by the Northern Territory Legislative Assembly on 8 October 2002. The Act commenced on 1 July 2003 and will affect the way that Northern Territory public sector organisations collect, use and store University and personal information. Under the Act and for the first time in Australia, the related issues of freedom of information (FOI), privacy and records and archives management are brought together. 
 
 The Act is designed to promote the protection of personal information and the free flow of government information subject only to the need to protect essential public interests and the private and business interests of persons.
 
