@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504003203id_/http%3A//www.workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2007-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070901114622id_/http%3A//workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
 
 # Privacy Policy
 
