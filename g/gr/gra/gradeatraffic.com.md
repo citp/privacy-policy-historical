@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradeatraffic.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626123937id_/http%3A//gradeatraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradeatraffic.com privacy policy that was archived on 2007-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070902153843id_/http%3A//gradeatraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Grade A Traffic
 
