@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcsoft.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615164921id_/http%3A//arcsoft.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcsoft.com privacy policy that was archived on 2007-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070902231131id_/http%3A//www.arcsoft.com/company/privacy.asp) for the most accurate reproduction.*
 
 # ArcSoft.com : Company : Privacy Policy
 
