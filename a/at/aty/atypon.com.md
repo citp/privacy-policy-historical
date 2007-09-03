@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atypon.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630055127id_/http%3A//www.atypon.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atypon.com privacy policy that was archived on 2007-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070903062350id_/http%3A//www.atypon.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Atypon Systems, Inc.
 
