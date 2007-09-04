@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apartmentguide.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607191703id_/http%3A//www.apartmentguide.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apartmentguide.com privacy policy that was archived on 2007-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070904143642id_/http%3A//www.apartmentguide.com/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Privacy Statement
@@ -9,26 +9,53 @@
         <![endif]-->
         
     <script language="javascript" type="text/javascript">
+        
+        //S345 - Video break Web trends code added.
+        function doOnLoad(WebTrendsEnabled)
+        {
+            hideContent2();
+         }            
+            
         function hideContent2()
         {
             if ((escape(document.getElementById("divContentPlaceHolder2").innerHTML) == "%0A") || (document.getElementById("divContentPlaceHolder2").innerHTML == ""))
             {
                 document.getElementById("divContentPlaceHolder2").style.display = "none";
             }
+            
+             //S351 - Starts here
+            //Code Added to display the Find a Mover thank you message.
+            var strContent = document.getElementById("divContentPlaceHolder3").innerHTML;
+            strContent = strContent.replace(/^[\s]+/,'').replace(/[\s]+$/,'').replace(/[\s]{2,}/,' ');            
+            
+            if ((escape(document.getElementById("divContentPlaceHolder3").innerHTML) == "%0A") || (strContent == ""))
+            {
+                document.getElementById("divContentPlaceHolder3").style.display = "none";
+                document.getElementById("divShadow").style.display = "none";
+            }            
+            else
+            {
+                //document.getElementById("divContentPlaceHolder2").style.display = "none";
+                document.getElementById("divContentPlaceHolder3").style.display = "block";
+                document.getElementById("divShadow").style.display = "block";
+                document.getElementById("divContentPlaceHolder1").id = "divContentPlaceHolder4"; 
+            }
+            //S351 - Ends here.
         }
         function dobeforeprint(){
                 document.body.focus();
         }
         window.onbeforeprint=dobeforeprint;
         window.setTimeout("document.body.focus()", 1000);
+        
     </script>
 <meta id="metaDescription" name="description" content="Apartments by Apartment Guide.com –  listings of apartments for rent | nationwide apartment guide |  find moving and roommate information">
 <meta id="metaKeywords" name="keywords" content="apartment guide,apartments for rent,nationwide apartment search finder,apartment listings,corporate military housing,flats,units,housing,moving, renters">
 <meta name="DCSext.EVENTTYPE" content="PageView"><meta name="DCSext.RELEASEBUILDNUMBER" content=""></head>
-<body id="ctl00_oBody" onload="javascript:hideContent2();">
+<body id="ctl00_oBody" onload="javascript:doOnLoad('true');">
 
-<form name="aspnetForm" method="post" action="PrivacyStatement.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYyMTY4MTU0MQ9kFgJmD2QWBAIBD2QWAgIBDxYCHgRocmVmBR5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9kAgMPFgIeBm9ubG9hZAUaamF2YXNjcmlwdDpoaWRlQ29udGVudDIoKTsWAgIDD2QWEAIBD2QWAgIBDw8WAh4EVGV4dAU9QXBhcnRtZW50R3VpZGUuY29tIC0gTmF0aW9ud2lkZSBhcGFydG1lbnQgZmluZGVyIGFuZCBsb2NhdG9yLmRkAgMPZBYEAgEPFgIeCWlubmVyaHRtbGVkAgMPZBYIAgEPDxYCHgtOYXZpZ2F0ZVVybAUraHR0cDovL2FwcHMuYXBhcnRtZW50Z3VpZGUuY29tL3F1aWNrY2hhbmdlL2RkAgMPDxYCHwQFMGh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL01hbmFnZXJzRm9jdXMuYXNweGRkAgUPDxYCHwQFLWh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0xpc3RXaXRoVXMuYXNweGRkAgcPDxYCHwQFKGh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0xvZ2luLmFzcHhkZAIFD2QWAgIBDw8WAh8EBR5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9kFgJmDw8WAh4ISW1hZ2VVcmwFFX4vSW1hZ2VzL2FnNS1sb2dvLmdpZhYCHgVzdHlsZQU3cGFkZGluZy1ib3R0b206LTEwcHg7cGFkZGluZy1sZWZ0OjEwcHg7cGFkZGluZy10b3A6NnB4O2QCBw8PFgIeB1Zpc2libGVnZGQCCQ8PFgIeB1Jvb3RVcmwFHmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL2RkAhEPZBYCAgEPZBYCZg9kFgZmD2QWAmYPDxYCHwQFHmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL2RkAgIPZBYCZg8PFgIfBAUwaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vUmVzb3VyY2VHdWlkZS5hc3B4ZGQCBA9kFgJmDw8WAh8EBS5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9Mb2dpbi5hc3B4P2xvZz0wZGQCFQ9kFgICAQ9kFgJmDxYCHwYFLHBhZGRpbmctYm90dG9tOjJweDsgbWFyZ2luOjBweCAwcHggMHB4IDIwcHg7FgRmD2QWAmYPZBYEAgEPFgIfBgUUd2lkdGg6MjJweDtkaXNwbGF5OjsWAgIBDw8WAh8FBSZ+L0ltYWdlcy9TZWFyY2hfcmVzdWx0c19wYWludF9jaGlwLmdpZhYCHwYFInRleHQtYWxpZ246bGVmdDtwYWRkaW5nLXJpZ2h0OjNweDtkAgMPDxYGHwIFDlByaXZhY3kgUG9saWN5HghDc3NDbGFzcwUMSGVhZGxpbmVzUmVkHgRfIVNCAgJkZAIBD2QWAmYPZBYCAgEPDxYGHwJlHwllHwoCAmRkAh0PZBYaAgEPDxYCHwQFMmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0FkdmVydGlzZVdpdGhVcy5hc3B4ZGQCAw8PFgIfBAUqaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vQWJvdXRVcy5hc3B4ZGQCBQ8PFgIfBAUuaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vSm9pbk91clRlYW0uYXNweGRkAgcPDxYCHwQFK2h0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0NvbW1lbnRzLmFzcHhkZAIJDw8WAh8EBSZodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9GQVEuYXNweGRkAgsPDxYCHwQFM2h0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL1ByaXZhY3lTdGF0ZW1lbnQuYXNweGRkAg0PDxYCHwdoZGQCDw8PFgIfB2hkZAIRDw8WAh8EBSZodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9FSE8uYXNweGRkAhMPDxYCHwQFKWh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0FwYXJ0bWVudHMvZGQCFQ8PFgIfBAUeaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vZGQCFw8PFgIfAgUHXFxQUk9EN2RkAhkPFgIeA3NyYwUWL3NpdGVsb2NhdG9yL1BST0Q3LmdpZmRkhAAKtD/Md7dkYFkNi3DKIRX2pgk=">
+<form name="aspnetForm" method="post" action="privacystatement.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYyMTY4MTU0MQ9kFgJmD2QWBAIBD2QWAgIBDxYCHgRocmVmBR5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9kAgMPFgIeBm9ubG9hZAUcamF2YXNjcmlwdDpkb09uTG9hZCgndHJ1ZScpOxYCAgEPZBYSAgEPZBYCAgEPDxYCHgRUZXh0BT1BcGFydG1lbnRHdWlkZS5jb20gLSBOYXRpb253aWRlIGFwYXJ0bWVudCBmaW5kZXIgYW5kIGxvY2F0b3IuZGQCAw9kFgQCAQ8WAh4JaW5uZXJodG1sZWQCAw9kFggCAQ8PFgIeC05hdmlnYXRlVXJsBStodHRwOi8vYXBwcy5hcGFydG1lbnRndWlkZS5jb20vcXVpY2tjaGFuZ2UvZGQCAw8PFgIfBAUwaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vTWFuYWdlcnNGb2N1cy5hc3B4ZGQCBQ8PFgIfBAUtaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vTGlzdFdpdGhVcy5hc3B4ZGQCBw8PFgIfBAUoaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vTG9naW4uYXNweGRkAgUPZBYCAgEPDxYCHwQFHmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL2QWAmYPDxYCHghJbWFnZVVybAUVfi9JbWFnZXMvYWc1LWxvZ28uZ2lmFgIeBXN0eWxlBTdwYWRkaW5nLWJvdHRvbTotMTBweDtwYWRkaW5nLWxlZnQ6MTBweDtwYWRkaW5nLXRvcDo2cHg7ZAIHDw8WAh4HVmlzaWJsZWdkZAIJDw8WAh8HZ2QWAgIBD2QWAmYPDxYCHwUFF34vSW1hZ2VzL3ZpZGVvYnJlYWsuanBnFgIeB09uQ2xpY2sFH3JldHVybiBkY3NNdWx0aVRyYWNrQ2FsbCgyMDAxMSlkAgsPDxYCHgdSb290VXJsBR5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9kZAITD2QWAgIBD2QWAmYPZBYGZg9kFgJmDw8WAh8EBR5odHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9kZAICD2QWAmYPDxYCHwQFMGh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL1Jlc291cmNlR3VpZGUuYXNweGRkAgQPZBYCZg8PFgIfBAUuaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vTG9naW4uYXNweD9sb2c9MGRkAhkPZBYCAgEPZBYCZg8WAh8GBSxwYWRkaW5nLWJvdHRvbToycHg7IG1hcmdpbjowcHggMHB4IDBweCAyMHB4OxYEZg9kFgJmD2QWBAIBDxYCHwYFFHdpZHRoOjIycHg7ZGlzcGxheTo7FgICAQ8PFgIfBQUmfi9JbWFnZXMvU2VhcmNoX3Jlc3VsdHNfcGFpbnRfY2hpcC5naWYWAh8GBSJ0ZXh0LWFsaWduOmxlZnQ7cGFkZGluZy1yaWdodDozcHg7ZAIDDw8WBh8CBQ5Qcml2YWN5IFBvbGljeR4IQ3NzQ2xhc3MFDEhlYWRsaW5lc1JlZB4EXyFTQgICZGQCAQ9kFgJmD2QWAgIBDw8WBh8CZR8KZR8LAgJkZAIhD2QWHAIBDw8WAh8EBTJodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9BZHZlcnRpc2VXaXRoVXMuYXNweGRkAgMPDxYCHwQFKmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0Fib3V0VXMuYXNweGRkAgUPDxYCHwQFLmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL0pvaW5PdXJUZWFtLmFzcHhkZAIHDw8WAh8EBStodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9Db21tZW50cy5hc3B4ZGQCCQ8PFgIfBAUmaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vRkFRLmFzcHhkZAILDw8WAh8EBTNodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9Qcml2YWN5U3RhdGVtZW50LmFzcHhkZAINDw8WAh8HaGRkAg8PDxYCHwdoZGQCEQ8PFgIfBAUmaHR0cDovL3d3dy5hcGFydG1lbnRndWlkZS5jb20vRUhPLmFzcHhkZAITDw8WAh8EBSlodHRwOi8vd3d3LmFwYXJ0bWVudGd1aWRlLmNvbS9BcGFydG1lbnRzL2RkAhUPDxYCHwQFHmh0dHA6Ly93d3cuYXBhcnRtZW50Z3VpZGUuY29tL2RkAhcPDxYEHwQFVS9qdW1wcGFnZS5hc3B4P0V2VHA9MjAxJnVybD1eXl5odHRwcyUzYSUyZiUyZnd3dy5wZGF0YWdyb3VwLm5ldCUyZkFwdGd1aWRlJTJmXl5eJkRLVj0eBlRhcmdldAUGX2JsYW5rFgIeB29uQ2xpY2sFZ2phdmFzY3JpcHQ6Sm1wKCcvanVtcHBhZ2UuYXNweD9FdlRwPTIwMSZ1cmw9Xl5eaHR0cHMlM2ElMmYlMmZ3d3cucGRhdGFncm91cC5uZXQlMmZBcHRndWlkZSUyZl5eXiZES1Y9JylkAhkPDxYCHwIFB1xcUFJPRDZkZAIbDxYCHgNzcmMFFi9zaXRlbG9jYXRvci9QUk9ENi5naWZkZPzY6fUYj1YAs5UMhkZ6cvWP7CQ/">
 
 <script language="JavaScript">function Jmp(sJumpURL){imgJP = new Image();imgJP.src = sJumpURL;}</script>
 <div id="divWinTip"></div>
@@ -65,12 +92,26 @@
         </tr></tbody></table>
                 
         <div id="left">
+        
+          <div id="divVideoBreak">
+            
+<div id="VideoBreak">
+    <a id="ctl00_VideoBreakCtrl_lnkVideoBreak" href="VideoBreak.aspx"><img id="ctl00_VideoBreakCtrl_imgVideoBreak" onclick="return dcsMultiTrackCall(20011)" src="Images/videobreak.jpg" alt="VideoBreak" border="0"></a>
+</div>
+<script type="text/javascript">
+//S345  Video Break: DCS multi-track - Starts here.
+function dcsMultiTrackCall(sPartnerId)
+{
+    dcsMultiTrack('DCS.dcsuri', 'VideoBreak.aspx', 'WT.si_x', '0', 'WT.si_cs', '1', 'WT.tx_u', '1', 'WT.tx_e', 'p', 'WT.tx_s', '1', 'WT.ti', 'ApartmentGuide.com: Video Break Button Clicked', 'DCSext.PartnerCode', sPartnerId);   
+} //S345 - Ends here.
+</script>
+          </div>        
+         
           <div id="ocdcontentctrl0">
             <img src="images/hed_movingguide.jpg">
           </div>
-     
           <div id="ocdcontentctrl1">
-              <span id="ctl00_ccRGPanel"><div style="margin:1px 0px 1px 1px; width:159px;padding:0 0 25px 0;" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+               <span id="ctl00_ccRGPanel"><div style="margin:1px 0px 1px 1px; width:159px;padding:0 0 0px 0;" xmlns:fo="http://www.w3.org/1999/XSL/Format">
   <div style="background-color:#9b2929; color:#FFFFFF; font-weight:bold; height:20px; padding: 7px 0 0 5px;">Before You Move</div>
   <ul>
     <li><a href="http://www.apartmentguide.com/ResourceGuide.aspx?resId=4_0_0" style="text-decoration: underline;">Check Your Credit</a></li>
@@ -94,7 +135,7 @@
     <li><a href="http://www.apartmentguide.com/ResourceGuide.aspx?resId=16_0_0" style="text-decoration: underline;">Social Life &amp; Dating</a></li>
     <li><a href="http://www.apartmentguide.com/ResourceGuide.aspx?resId=17_0_0" style="text-decoration: underline;">Set Up Your Place</a></li>
   </ul>
-</div></span>                
+</div></span>
           </div>
           <img src="images/footer_movingguide.jpg" class="sillo">
           <div id="ocdcontentctrl2">
@@ -111,29 +152,28 @@
 <!-- CMS Item: 51 -->
 <div style="margin-right:auto;margin-left:auto;width:150px;padding: 2px 0 2px 0;"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2fwww.roommates.com%2f%3fadv_id%3d269^^^&amp;DKV=AdId!51||Position!AG_FeatureAds_001||AdName!Roommates_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fManagersFocus.aspx||TargetUrl!http%3a%2f%2fwww.roommates.com%2f%3fadv_id%3d269" target="_blank"><img src="MediaService.aspx?id=12" alt="Roommates_150x60" border="0" width="150" height="60"></a></td>
+    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2fwww.roommates.com%2f%3fadv_id%3d269^^^&amp;DKV=AdId!51||Position!AG_FeatureAds_001||AdName!Roommates_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fcorporateinfo.aspx||TargetUrl!http%3a%2f%2fwww.roommates.com%2f%3fadv_id%3d269" target="_blank"><img src="MediaService.aspx?id=12" alt="Roommates_150x60" border="0" width="150" height="60"></a></td>
   </tr>
 </tbody></table></div>
 </span><span>
-<!-- CMS Item: 301 -->
+<!-- CMS Item: 522 -->
 <div style="margin-right:auto;margin-left:auto;width:150px;padding: 2px 0 2px 0;"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2famericaninsurancesite.com%2f%3faid%3dCS152^^^&amp;DKV=AdId!301||Position!AG_FeatureAds_001||AdName!First+and+10_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fManagersFocus.aspx||TargetUrl!http%3a%2f%2famericaninsurancesite.com%2f%3faid%3dCS152" target="_blank"><img src="MediaService.aspx?id=59" alt="First and 10_150x60" border="0" width="150" height="60"></a></td>
+    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^https%3a%2f%2fwww.hometownquotes.com%2findex.cfm%3faction%3drenter%26amp%3baffid%3d752%26amp%3bcamp%3dAG+150x60^^^&amp;DKV=AdId!522||Position!AG_FeatureAds_001||AdName!HometownQuotes_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fcorporateinfo.aspx||TargetUrl!https%3a%2f%2fwww.hometownquotes.com%2findex.cfm%3faction%3drenter%26amp%3baffid%3d752%26amp%3bcamp%3dAG+150x60" target="_blank"><img src="MediaService.aspx?id=123" alt="HometownQuotes_150x60" border="0" width="150" height="60"></a></td>
   </tr>
 </tbody></table></div>
 </span><span>
-<!-- CMS Item: 407 -->
-<div style="margin-right:auto;margin-left:auto;width:150px;padding: 2px 0 2px 0;"><iframe src="MediaService.aspx?id=84" width="150" height="60" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true">
-  <noframes>&lt;iframe src="http://view.atdmt.com/MON/iview/prtmomon0770000034mon/direct/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="150" height="60"&gt;
-&lt;script language="JavaScript" type="text/javascript"&gt;
-document.write('&lt;a href="jumppage.aspx?EvTp=169&url=^^^http%3a%2f%2fclk.atdmt.com%2fMON%2fgo%2fprtmomon0770000034mon%2fdirect%2f01%2f^^^&DKV=AdId!407||Position!AG_FeatureAds_001||AdName!Monster_150x60_June||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fManagersFocus.aspx||TargetUrl!http%3a%2f%2fclk.atdmt.com%2fMON%2fgo%2fprtmomon0770000034mon%2fdirect%2f01%2f" target="_blank"&gt;&lt;img src="http://view.atdmt.com/MON/view/prtmomon0770000034mon/direct/01/"/&gt;&lt;/a&gt;');
-&lt;/script&gt;&lt;noscript&gt;&lt;a href="jumppage.aspx?EvTp=169&url=^^^http%3a%2f%2fclk.atdmt.com%2fMON%2fgo%2fprtmomon0770000034mon%2fdirect%2f01%2f^^^&DKV=AdId!407||Position!AG_FeatureAds_001||AdName!Monster_150x60_June||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fManagersFocus.aspx||TargetUrl!http%3a%2f%2fclk.atdmt.com%2fMON%2fgo%2fprtmomon0770000034mon%2fdirect%2f01%2f" target="_blank"&gt;&lt;img border="0" src="http://view.atdmt.com/MON/view/prtmomon0770000034mon/direct/01/" /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;/iframe&gt;</noframes>
-</iframe></div>
-</span><span>
-<!-- CMS Item: 417 -->
+<!-- CMS Item: 322 -->
 <div style="margin-right:auto;margin-left:auto;width:150px;padding: 2px 0 2px 0;"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2fwww.easyroommate.com%2fdefault.aspx%3fac%3daguide150^^^&amp;DKV=AdId!417||Position!AG_FeatureAds_001||AdName!EasyRoommate_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fManagersFocus.aspx||TargetUrl!http%3a%2f%2fwww.easyroommate.com%2fdefault.aspx%3fac%3daguide150" target="_blank"><img src="MediaService.aspx?id=87" alt="EasyRoommate_150x60" border="0" width="150" height="60"></a></td>
+    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2fapartmentguide_com.vanlines.com%2fcb%2f^^^&amp;DKV=AdId!322||Position!AG_FeatureAds_001||AdName!150x60_Relocation||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fcorporateinfo.aspx||TargetUrl!http%3a%2f%2fapartmentguide_com.vanlines.com%2fcb%2f" target="_blank"><img src="MediaService.aspx?id=97" alt="150x60_Relocation" border="0" width="150" height="60"></a></td>
+  </tr>
+</tbody></table></div>
+</span><span>
+<!-- CMS Item: 516 -->
+<div style="margin-right:auto;margin-left:auto;width:150px;padding: 2px 0 2px 0;"><table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><a href="jumppage.aspx?EvTp=169&amp;url=^^^http%3a%2f%2fwww.roomster.net%2f%3fref%3dagcom^^^&amp;DKV=AdId!516||Position!AG_FeatureAds_001||AdName!Roomster_150x60||Width!150||Height!60||CampaignName!||RGCategoryId!||PageUrl!%2fcorporateinfo.aspx||TargetUrl!http%3a%2f%2fwww.roomster.net%2f%3fref%3dagcom" target="_blank"><img src="MediaService.aspx?id=119" alt="Roomster_150x60" border="0" width="150" height="60"></a></td>
   </tr>
 </tbody></table></div>
 </span></div>
@@ -194,6 +234,14 @@ function usermsg(msg,alrt,clr)
 </script>
 </div>
 	            <div id="ContentPlaceHolderRoundTop"><img src="images/hed_interiorpage.jpg" style="border:0" alt=""></div>
+	            
+	            <div id="divContentPlaceHolder3" style="display:none;">
+	                
+	            </div> 
+	            <div style="padding-left:8px; padding-right:2px; display:none;" id="divShadow"> 
+	                <div style="height:1px;border-top: solid 10px #6b88a6;"></div>
+	            </div>
+	            
 	            <div id="divContentPlaceHolder1">
 <!--    <div style="z-index:100; position:absolute; float:left; margin:150px 0px 0px 440px; display:none"> 
         <img id="loginMan" src="Images/lock_key.gif" alt="" /> 
@@ -380,20 +428,21 @@ function usermsg(msg,alrt,clr)
             <a id="ctl00_footer_lnkAbout" href="http://www.apartmentguide.com/AboutUs.aspx">About Us</a> · 
             <a id="ctl00_footer_lnkEmployment" href="http://www.apartmentguide.com/JoinOurTeam.aspx">Employment</a> · 
             <a id="ctl00_footer_lnkComments" href="http://www.apartmentguide.com/Comments.aspx">Comments</a> · 
-            <a id="ctl00_footer_lnkFAQ" href="http://www.apartmentguide.com/FAQ.aspx">FAQs</a> <br> 
-            <a id="ctl00_footer_lnkPrivacy" href="http://www.apartmentguide.com/PrivacyStatement.aspx">Privacy Statement</a> · 
+            <a id="ctl00_footer_lnkFAQ" href="http://www.apartmentguide.com/FAQ.aspx">FAQs</a> · 
+            <a id="ctl00_footer_lnkPrivacy" href="http://www.apartmentguide.com/PrivacyStatement.aspx">Privacy Statement</a> <br>
              
             <a id="ctl00_footer_lnkEHO" href="http://www.apartmentguide.com/EHO.aspx">Equal Housing Opportunity</a> · 
             <a id="ctl00_footer_lnkApartmentsByState" href="http://www.apartmentguide.com/Apartments/">Apartments By State</a> · 
-            <a id="ctl00_footer_lnkHome" href="http://www.apartmentguide.com/">Apartment Guide Home</a>
+            <a id="ctl00_footer_lnkHome" href="http://www.apartmentguide.com/">Apartment Guide Home</a> ·
+            <a id="ctl00_footer_lnkOrder" onclick="javascript:Jmp('/jumppage.aspx?EvTp=201&amp;url=^^^https%3a%2f%2fwww.pdatagroup.net%2fAptguide%2f^^^&amp;DKV=')" href="/jumppage.aspx?EvTp=201&amp;url=^^^https%3a%2f%2fwww.pdatagroup.net%2fAptguide%2f^^^&amp;DKV=" target="_blank">Order a Guide</a> <!--S362: Added a "Order a Guide" link -->
         </p>
-        <span id="ctl00_footer_servername" class="servername">\\PROD7</span>
-        <img src="/sitelocator/PROD7.gif" id="ctl00_footer_serverimg">
+        <span id="ctl00_footer_servername" class="servername">\\PROD6</span>
+        <img src="/sitelocator/PROD6.gif" id="ctl00_footer_serverimg">
       </div>
 
 </div>
 
-<!-- Start of SmartSource Data Collector Tag --><script language="javascript">var gDcsId = "dcsxc0z7v00000sxgd90socmb_7v5j"</script><script language="javascript" src="http://www.apartmentguide.com/jscript/webtrends.js"></script><!-- End of SmartSource Data Collector Tag --></form>
+<!-- Start of SmartSource Data Collector Tag --><script language="javascript">var gFpcDom_Loc = "http://www.apartmentguide.com/"</script><script language="javascript">var gDcsId = "dcsxc0z7v00000sxgd90socmb_7v5j"</script><script language="javascript" src="http://www.apartmentguide.com/jscript/webtrends.js"></script><!-- End of SmartSource Data Collector Tag --></form>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -402,6 +451,9 @@ _uacct = "UA-529463-2";
 urchinTracker();
 </script>
 <img src="http://servedby.advertising.com/burl/site=731175/mnum=1516/logs=0/bins=1" width="1" height="1">
+
+<!-- WebTrends -->
+<div id="wtTrackingLayer"></div><div id="ImgHolderForWT"></div><div title="WT" id="wtTestURL" class="qaMessageOFF"></div><div title="WT Test DCS" id="wtTestDCSURL" class="qaMessageOFF"></div>
 
 
 
