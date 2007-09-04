@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607191703id_/http%3A//www.apartmentguide.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2007-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070904143642id_/http%3A//www.apartmentguide.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
