@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513151000id_/http%3A//www.scubaboard.com/matrix/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaboard.com privacy policy that was archived on 2007-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070905082931id_/http%3A//www.scubaboard.com/matrix/privacy.php) for the most accurate reproduction.*
 
 # ScubaBoard - Privacy Policy
 
@@ -9,11 +9,11 @@
 
 |   | 
 
-Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 70,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/register.php) for a **free** account. As a registered member you will be able to: 
+Welcome to **ScubaBoard** , an online scuba diving forum community where you can join over 80,000 divers from around the world discussing all things related to Scuba Diving. To gain full access to ScubaBoard you must [register](https://web.archive.org/register.php) for a **free** account. As a registered member you will be able to: 
 
-  * Participate in over 500 dive topic forums and browse from over 2,000,000 posts.
+  * Participate in over 500 dive topic forums and browse from over 2,500,000 posts.
   * Communicate privately with other divers from around the world.
-  * Post your own photos or view from 40,000 user submitted images.
+  * Post your own photos or view from 60,000 user submitted images.
   * Gain access to our free classifieds marketplace to buy, sell and trade gear, travel and services.
 
 All this and much more is available to you absolutely free when you [register](https://web.archive.org/register.php) for an account, so [sign up today](https://web.archive.org/register.php)! 
@@ -98,7 +98,7 @@ This site gives users the following options for changing and modifying informati
   
 |  | 
 
-All times are GMT -4. The time now is 11:09 AM. 
+All times are GMT -4. The time now is 04:27 AM. 
 
 | 
 
