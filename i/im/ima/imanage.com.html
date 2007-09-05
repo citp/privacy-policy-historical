@@ -1,161 +1,150 @@
-<!--The following is the downloaded HTML source of the imanage.com privacy policy that was archived on 2007-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070322081544id_/http%3A//www.imanage.com/company/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imanage.com privacy policy that was archived on 2007-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070905074339id_/http%3A//www.imanage.com/components/page.jsp%3Ftopic%3DMAIN%3A%3AIWOV%26dcr%3Dtemplatedata/profile/base/data/dcr-1157155419845.xml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<html><head><meta content="text/html; charset=utf-8" http-equiv="content-type"><link href="/site/css/stylesheet.css" type="text/css" rel="stylesheet"><link href="/site/css/profile.css" type="text/css" rel="stylesheet"><title>Your Privacy - Interwoven - About Us</title>
+</head><body marginheight="0" marginwidth="0" onload="initShowHideDivs();MM_preloadImages('/media/pageimage/bttn_choose_industry_over.gif','/media/common_images/green/solutions_over.gif','/media/common_images/green/services_over.gif','/media/common_images/green/support_over.gif','/media/common_images/green/partners_over.gif','/media/common_images/products_over.gif','/media/common_images/news_events_over.gif','/media/common_images/about_us_over.gif','/media/common_images/education.gif','/media/common_images/devnet.gif','/media/common_images/library_over.gif','/media/common_images/contact_sales_over.gif','/media/common_images/global/flag_us_gray.gif','/media/common_images/global/flag_germ.gif','/media/common_images/global/flag_jp.gif','/media/common_images/more_green_1_over.gif');" topmargin="0" leftmargin="0" bgcolor="#ffffff"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#ededed" colspan="6" height="15"></td></tr><tr><td bgcolor="#ededed" valign="top"><div id="_baynote_0_placeholder"></div><table cellpadding="0" cellspacing="0" border="0"><script type="text/JavaScript" language="JavaScript">/************************************************************************************************************ 
+(C) www.dhtmlgoodies.com, November 2005 
+
+This is a script from www.dhtmlgoodies.com. You will find this and a lot of other scripts at our website. 
+
+Terms of use: 
+You are free to use this script as long as the copyright message is kept intact. However, you may not 
+redistribute, sell or repost it without our permission. 
+
+Thank you! 
+
+www.dhtmlgoodies.com 
+Alf Magne Kalleland 
+
+************************************************************************************************************/ 
+
+var dhtmlgoodies_slideSpeed = 10; // Higher value = faster 
+var dhtmlgoodies_timer = 10; // Lower value = faster 
+
+var objectIdToSlideDown = false; 
+var dhtmlgoodies_activeId = false; 
+var dhtmlgoodies_slideInProgress = false; 
+var timerid; 
+function showHideContent(e,inputId) 
+{clearInterval(timerid); 
+if(dhtmlgoodies_slideInProgress)return; 
+dhtmlgoodies_slideInProgress = true; 
+if(!inputId)inputId = this.id; 
+inputId = inputId + ''; 
+var numericId = inputId.replace(/[^0-9]/g,''); 
+var answerDiv = document.getElementById('dhtmlgoodies_a' + numericId); 
+
+objectIdToSlideDown = false; 
+
+if(!answerDiv.style.display || answerDiv.style.display=='none'){ 
+
+if(dhtmlgoodies_activeId && dhtmlgoodies_activeId!=numericId){ 
+objectIdToSlideDown = numericId; 
+slideContent(dhtmlgoodies_activeId,(dhtmlgoodies_slideSpeed*-1)); 
+}else{ 
+answerDiv.style.display='block'; 
+answerDiv.style.visibility = 'visible'; 
+
+slideContent(numericId,dhtmlgoodies_slideSpeed); 
+} 
+}else{ 
+if(dhtmlgoodies_activeId != numericId) 
+{ 
+slideContent(numericId,(dhtmlgoodies_slideSpeed*-1)); 
+dhtmlgoodies_activeId = false; 
+} 
+else 
+{ 
+dhtmlgoodies_slideInProgress = false; 
+} 
+} 
+} 
+
+function slideContent(inputId,direction) 
+{ 
+var obj =document.getElementById('dhtmlgoodies_a' + inputId); 
+var contentObj = document.getElementById('dhtmlgoodies_ac' + inputId); 
+height = obj.clientHeight; 
+if(height==0)height = obj.offsetHeight; 
+height = height + direction; 
+rerunFunction = true; 
+if(height>contentObj.offsetHeight){ 
+height = contentObj.offsetHeight; 
+rerunFunction = false; 
+} 
+if(height<=1){ 
+height = 1; 
+rerunFunction = false; 
+} 
+
+obj.style.height = height + 'px'; 
+var topPos = height - contentObj.offsetHeight; 
+if(topPos>0)topPos=0; 
+contentObj.style.top = topPos + 'px'; 
+if(rerunFunction){ 
+setTimeout('slideContent(' + inputId + ',' + direction + ')',dhtmlgoodies_timer); 
+}else{ 
+if(height<=1){ 
+obj.style.display='none'; 
+if(objectIdToSlideDown && objectIdToSlideDown!=inputId){ 
+document.getElementById('dhtmlgoodies_a' + objectIdToSlideDown).style.display='block'; 
+document.getElementById('dhtmlgoodies_a' + objectIdToSlideDown).style.visibility='visible'; 
+slideContent(objectIdToSlideDown,dhtmlgoodies_slideSpeed); 
+}else{ 
+dhtmlgoodies_activeId = inputId; 
+dhtmlgoodies_slideInProgress = false; 
+} 
+}else{ 
+dhtmlgoodies_activeId = inputId; 
+dhtmlgoodies_slideInProgress = false; 
+} 
+} 
+} 
 
 
 
-<title>Interwoven Corporate - Privacy Statement</title>
+function initShowHideDivs() 
+{ 
+var divs = document.getElementsByTagName('DIV'); 
+var divCounter = 1; 
+for(var no=0;no<divs.length;no++){ 
+if(divs[no].className=='dhtmlgoodies_question'){ 
+divs[no].onmouseover = showHideContent; 
+divs[no].onmouseout = msg; 
+divs[no].id = 'dhtmlgoodies_q'+divCounter; 
+var answer = divs[no].nextSibling; 
+while(answer && answer.tagName!='DIV'){ 
+answer = answer.nextSibling; 
+} 
+answer.id = 'dhtmlgoodies_a'+divCounter; 
+contentDiv = answer.getElementsByTagName('DIV')[0]; 
+contentDiv.style.top = 0 - contentDiv.offsetHeight + 'px'; 
+contentDiv.className='dhtmlgoodies_answer_content'; 
+contentDiv.id = 'dhtmlgoodies_ac' + divCounter; 
+answer.style.display='none'; 
+answer.style.height='1px'; 
+divCounter++; 
+} 
+else if (divs[no].className=='dhtmlgoodies_answer'){ 
+divs[no].onmouseover = clear; 
+divs[no].onmouseout = msg; 
+} 
+} 
+} 
 
-<!-- ===== BEGIN META DATA ===== -->
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+function msg() 
+{ 
+timerid = setInterval(closediv, 500); 
+} 
+function closediv() { 
+clearInterval(timerid); 
+initShowHideDivs(); 
+} 
+function clear() { 
+clearInterval(timerid); 
+} 
 
-<meta name="metaproc" content="MT2">
 
-<meta name="description" content="
-The Interwoven and TeamSite name and logo are registered
-trademarks of Interwoven, Inc. The names TeamSite,
-OpenDeploy, TeamSite Templating, Front-Office, IntraGo,
-Interwoven Turbo, SmartContext, Interwoven B2B Edition,
-Content Express, TeamCatalog, Metafinder, and Metatagger
-are trademarks of Interwoven, Inc. All other marks are the
-property of their respective owners.
-"><!-- end multiline meta tag -->
-
-<meta name="keywords" content="trademarks, prohibited, copyrights, owners, reproduction, intrago, metafinder">
-
-<meta name="publisher" content="Interwoven">
-
-<meta name="robots" content="all">
-
-<meta name="coverage" content="Worldwide">
-
-<!-- ===== END META DATA ======= -->
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-interwoven.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM520606HDBM94EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.interwoven.com/toolkit/javascript/hbx.js"></script>
-<!--END WEBSIDESTORY CODE--> 
-<script type="text/javascript" language="JavaScript1.2" src="/toolkit/javascript/sothink/stmenu.js"></script>
-
-<link rel="STYLESHEET" type="text/css" href="/toolkit/styles/v5.css" title="Default">
-
-</head>
-
-<body bgcolor="#FFFFFF" link="#3E474F;" vlink="#3E474F;" alink="#3E474F;" text="#3E474F" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" onload="MM_preloadImages('/toolkit/images/bttn_support_over.gif','/toolkit/images/bttn_devnet_over.gif','/toolkit/images/bttn_edu_over.gif','/toolkit/images/bttn_collat_over.gif')">
-<basefont size="8" color="#3E474F;" face="Arial">
-
-<!--Baynote BEGIN -->
-<script language="javascript" src="/toolkit/javascript/baynote.js"></script>
-<script language="javascript">
-        baynote_tag.server = "http://service.baynote.net";
-        baynote_tag.customerId = "interwoven";
-        baynote_tag.code="www";
-        baynote_tag.type="baynoteObserver";
-        baynote_tag.show();
-</script>
-<!--Baynote END -->
-
-<script language="JavaScript1.2" src="/toolkit/javascript/sitelib.js"></script>
-
-<table width="834" cellpadding="0" cellspacing="0" border="0" align="center">
-  <!-- row with logo and section label -->
-  <tbody><tr> 
-    	<td rowspan="5" width="1" background="/toolkit/images/pixel_gray.gif">
-		<img height="1" src="/toolkit/images/pixel_gray.gif" width="1"></td>
-    	<td> 
-    	
-      	<!-- End Gray Navbar -->
-    	</td>
-		<td rowspan="5" width="1" background="/toolkit/images/pixel_gray.gif">
-		<img height="1" src="/toolkit/images/pixel_gray.gif" width="1"></td>
-  	</tr>
-	 <tr>
-				
-				<td valign="TOP" width="1" background="/toolkit/images/pixel_gray.gif">
-		<img height="1" src="/toolkit/images/pixel_gray.gif" width="1"></td>
-
-			</tr> 
-
-<tr>
-		<td valign="TOP" align="LEFT">
-		<table width="834" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td valign="TOP" rowspan="4" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-          <td valign="TOP" colspan="7"><img src="/toolkit/images/spacer.gif" width="10" height="10" border="0"></td>
-          <td valign="TOP" rowspan="4" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-        </tr>
-        <tr> 
-          <td valign="TOP" width="258"><a href="/index.html"><img src="/toolkit/images/iwov_logo.jpg" width="249" height="66" border="0"></a></td>
-          <td valign="TOP" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-          <td valign="TOP" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-          <td valign="TOP" width="258">
-		<script type="text/javascript" language="JavaScript1.2" src="/toolkit/javascript/sothink/stmenus.js"></script>
-		  </td>
-		  <td valign="TOP" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-         <td valign="TOP" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-          <td valign="TOP" width="258"><script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
@@ -163,333 +152,432 @@ function MM_preloadImages() { //v3.0
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
 function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-//-->
-</script>
 
-<table border="0" colspacing="1" cellpadding="1" cellspacing="1">
-  <tbody><tr> 
-    <td><a href="https://support.interwoven.com/supportlogin2.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('image1','','/toolkit/images/bttn_support_over.gif',1)"><img src="/toolkit/images/bttn_support.gif" width="61" height="14" alt="support" name="image1" border="0"></a></td>
-    <td><a href="http://devnet.interwoven.com/site.fcgi" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('image2','','/toolkit/images/bttn_devnet_over.gif',1)"><img src="/toolkit/images/bttn_devnet.gif" width="54" height="14" alt="Devnet" name="image2" border="0"></a></td>
-	<td><a href="/services/training/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('image3','','/toolkit/images/bttn_edu_over.gif',1)"><img src="/toolkit/images/bttn_edu.gif" width="70" height="14" alt="Education" name="image3" border="0"></a></td>
-	<td><a href="/products/collateral.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('image4','','/toolkit/images/bttn_collat_over.gif',1)"><img src="/toolkit/images/bttn_collat.gif" width="70" height="14" alt="Collateral" name="image4" border="0"></a></td>
-  </tr>
-  <tr> 
-    <td colspan="2" align="left" valign="middle" height="20"> 
-      <script language="JavaScript">
-<!-- Begin (This script handles the event of replacing the url value in the browser to the one selected in the drop-down menu.) -->
-function formHandler(form){
-var URL = document.form.site.options[document.form.site.selectedIndex].value;
-window.location.href = URL;
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i="0";!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i="0";!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
-// End -->
-</script>
 
-<form name="form">
- <select name="site" height="18" span="" class="blackhomelinks" onchange="javascript:formHandler()">
-    <option value="">Global Sites:
+/*
+ *  DO NOT DELETE THIS FILE
+ *  Copyright 2006 Baynote, Inc. All Rights Reserved
+ *  Date: Feb 2, 2006
+ */
 
-    </option><option value="http://www.interwoven.de">German</option>
-    <option value="/locale/jp/default.htm">Japanese</option>
-	</select>
-</form>
+function _baynote_tag_create()
+{
+  function _baynote_tag( other)
+  {
+    if ( other )
+    {
+      this.server = other.server;
+      this.customerId = other.customerId;
+      this.code = other.code;
+      this.userId = other.userId;
+      this.linkTestEnabled = other.linkTestEnabled;
+      this.linkTestServerPage = other.linkTestServerPage;
+    }
+  }
 
+  _baynote_tag.id = 0;
+  _baynote_tag.loadlist = new Array();
 
+  _baynote_tag.prototype.initialLoadTime = new Date().getTime();
 
+  var _bn_re = /(^baynote_testing|; baynote_testing)=([^;]*)/i;
+  var _bn_match = _bn_re.exec( document.cookie);
+  if ( _bn_match != null && _bn_match.length >= 3 )
+  {
+    var _bn_server = unescape(_bn_match[2]);
+    if ( _bn_server && _bn_server != "" )
+      _baynote_tag.server = _bn_server;
+  }
 
+  _baynote_tag.createLoadCallback = function( src, img)
+  {
+    return function()
+    {
+      img.onloadDone = true;
 
-    </td>
-	<td colspan="2" align="left" valign="bottom" height="20"> 
-      <!-- ================================================== -->
-<!-- === COMPONENT: SITE SEARCH FORM -->
-<!-- ================================================== -->
+      var script = document.createElement( "script");
+      script.setAttribute( "language", "JavaScript");
+      script.setAttribute( "type", "text/javascript");
+      script.src = src;
+      document.body.appendChild( script);
+    }
+  }
 
-<table cellpadding="0" cellspacing="0" border="0">
-   
-    <tbody><tr>
-    <td>
-	<form name="search1" method="get" accept-charset="iso-8859-1" action="/cgi-bin/isearch.fcgi">
-	<input type="hidden" name="cmd" value="search">
-	<input type="hidden" name="charset" value="iso-8859-1">
-	<input type="hidden" name="la" value="en">
-	<input type="hidden" name="st" value="1">
-	<input type="hidden" name="rq" value="0">
-	<input type="hidden" name="oq" value="">
-	<input type="hidden" name="qp" value="">
-	<input type="hidden" name="qs" value="">
-	<input type="hidden" name="pw" value="100%">
-	<input type="hidden" name="ql" value="">
-	<input type="hidden" name="si" value="0">
-	<input type="hidden" name="qm" value="0">
-	<input type="hidden" name="nh" value="10">
-	<input type="hidden" name="rf" value="0">
-	<input type="hidden" name="lk" value="1">
-	<input type="hidden" name="ws" value="0">
-	<input type="hidden" name="bn" value="1">
-	<input type="hidden" name="col" value="wwwfull">
+  _baynote_tag.createImgLoadCallback = function( jssrc)
+  {
+    return function( img)
+    {
+      var callback = _baynote_tag.createLoadCallback( jssrc, img);
+      if ( img.onloadDone == true )
+      {
+        callback();
+      }
+      else if (img.attachEvent)
+      {
+        if ( img.readyState == "complete" )
+        {
+          callback();
+        }
+        else
+        {
+          img.attachEvent("onload", callback);
+        }
+      }
+      else if (img.addEventListener)
+      {
+        img.addEventListener("load", callback, false);
+      }
+    }
+  }
 
-	<table cellpadding="2" cellspacing="0" border="0" align="right">
-	<tbody><tr>
-	<td>
-	    <input type="text" name="qt" id="search" size="14" maxlength="1991" span="" class="blackhomelinks" value="Search" xxx_onfocus="clearText(this)">
-	</td>
-	<td align="right">
-	    <input type="image" name="Begin Query" alt="Search" border="0" src="/toolkit/images/search_arrow.gif">
-	</td>
-	</tr>
-	</tbody></table>
+  _baynote_tag.prototype.show = function( bn_parent)
+  {
+    if ( _baynote_tag.server )
+      baynote_tag.server = _baynote_tag.server;
+    baynote_tag.id = _baynote_tag.id++;
+    baynote_tag.baseid = "_baynote_" + baynote_tag.id;
+    window[baynote_tag.baseid] = baynote_tag;
 
-	</form>
-    </td>
-    </tr>
+    if ( !baynote_tag.type )
+      baynote_tag.type = "baynoteObserver";
 
-</tbody></table>
+    var imgid = "_baynote_" + baynote_tag.server + "_" + baynote_tag.customerId + "_" + baynote_tag.code;
+    var img = document.getElementById( imgid);
+    var base = baynote_tag.server + "/baynote/";
+    var path = "/" + baynote_tag.customerId + "-" + baynote_tag.code +
+                 "?customerId=" + baynote_tag.customerId + "&code=" + baynote_tag.code;
+    var imgsrc = base + "customerstatusjs" + path +
+                 "&x=" + baynote_tag.id + new Date().getTime();
+    var jssrc = base + "tags/baynotejs" + path + "&id=" + baynote_tag.baseid + "&type=" + baynote_tag.type;
 
-    </td>
-	</tr>
-	<tr>
-    <td colspan="4">
-    <table border="0" colspacing="2" cellpadding="2" cellspacing="2">
-        <tbody><tr> 
-          <td colspan="4" align="left"><span class="homeheader">quick&nbsp;access</span></td>
-        </tr>
-        <tr> 
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="/home/developers.html"><span class="homelinks">developers</span></a></td>
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=115270&amp;p=irol-irhome"><span class="homelinks">investors</span></a></td>
-          
-        </tr>
-        <tr> 
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="/partners/index.html"><span class="homelinks">partners</span></a></td>
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="/customers/index.html"><span class="homelinks">business&nbsp;users</span></a></td>
-          
-        </tr>
-        <tr> 
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="/company/analysts/analystviews.html"><span class="homelinks">analysts</span></a></td>
-          <td align="left"><img src="/toolkit/images/bullet_square.gif" width="10" height="10" border="0"></td>
-          <td align="left"><a href="/home/press_analyst.html"><span class="homelinks">press</span></a></td>
-        </tr>
-      </tbody></table> 
-      </td>
-  </tr>
-  </tbody></table>
-</td>
-        </tr>
-       <tr>
-	   <td colspan="7">
-          
-		
-		<!-- Begin Main Body Content. -->
- 
+    var placeHolderType = baynote_tag.popup ? "span" : "div";
+    if ( baynote_tag.placeholderElement )
+      placeHolderType = baynote_tag.placeholderElement;
+    if ( bn_parent )
+    {
+      var placeHolder = document.createElement( placeHolderType);
+      placeHolder.id = baynote_tag.baseid + "_placeholder";
+      bn_parent.appendChild( placeHolder);
+    }
+    else
+    {
+      document.write( "<" + placeHolderType + " id=\"" + baynote_tag.baseid + "_placeholder\"></" + placeHolderType + ">");
+    }
 
-<!-- Begin Left Nav -->
+    var imgLoadCallback = _baynote_tag.createImgLoadCallback( jssrc);
 
-<table border="0" cellpadding="0" cellspacing="0">
+    if ( !img )
+    {
+      if ( !_baynote_tag.imgloading )
+      {
+        img = document.createElement("IMG");
+        img.id = imgid;
+        img.src = imgsrc;
+        img.width = 1;
+        img.height = 1;
+        if ( window.attachEvent && !window.opera )
+        {
+          window.attachEvent( "onload", function()
+          {
+            document.body.appendChild( img);
+            for ( var i = 0; i < _baynote_tag.loadlist.length; i++)
+            {
+              _baynote_tag.loadlist[i]( img);
+            }
+            _baynote_tag.loadlist = new Array();
+          });
+          _baynote_tag.loadlist[ _baynote_tag.loadlist.length] = imgLoadCallback;
+          _baynote_tag.imgloading = true;
+        }
+        else
+        {
+          document.body.appendChild( img);
+          imgLoadCallback( img);
+        }
+      }
+      else
+      {
+        _baynote_tag.loadlist[_baynote_tag.loadlist.length] = imgLoadCallback;
+      }
+    }
+    else
+    {
+      imgLoadCallback( img);
+    }
+
+    baynote_tag = new _baynote_tag( baynote_tag);
+  }
+
+  _baynote_tag.prototype.noshow = function()
+  {
+    baynote_tag = new _baynote_tag( baynote_tag);
+  }
+
+  baynote_tag = new _baynote_tag();
+
+  return _baynote_tag;
+}
+
+var _baynote_tag = typeof(_baynote_tag) == "undefined" ? _baynote_tag_create() : _baynote_tag;
+
+        baynote_tag.server = "http://service.baynote.net";
+        baynote_tag.customerId = "interwoven";
+        baynote_tag.code="www";
+        baynote_tag.type="baynoteObserver";
+        baynote_tag.show();
+
+        
+// Email this Page tool
+function email_this_page()
+{
+    var url = document.location;
+    var cgi = "/cgi-bin/email_this_page.cgi?ref_url="+ url;
+    window.name="masterWindow";
+    OpenWin = window.open(cgi, "Email_This_Page", "height=400,width=600,toolbar=0,menubar=0,location=0,resizable=no");
+    OpenWin.focus();
+
+}</script><tbody><tr><td height="15" colspan="6" bgcolor="#ededed"></td></tr><tr><td valign="top"><table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="240"><tbody><tr><td rowspan="2" align="left" valign="top"><img border="0" height="500" src="/media/common_images/shell/left_vert_bckgrnd.gif"></td><td height="15" colspan="2" bgcolor="#ededed" valign="top"></td></tr><tr><td bgcolor="#d8d8d8" valign="top"><table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="240"><tbody><tr><td border="0" rowspan="23" background="/media/common_images/shell/border_pix.gif" width="1" valign="top"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td><td border="0" background="/media/common_images/shell/border_pix.gif" width="1" valign="top"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td></tr><tr><td height="20"></td></tr><tr><td align="center"><a href="/"><img border="0" height="25" width="195" alt="logo" src="/media/common_images/logo.jpg"></a></td></tr><tr><td height="20"></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('Image14','','/media/common_images/grey/solutions_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::SOLUTIONS"></a><a onmouseover="MM_swapImage('solutions','','/media/common_images/grey/solutions_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::SOLUTIONS"><img border="0" height="26" width="240" name="solutions" alt="solutions" src="/media/common_images/grey/solutions.gif"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('Image21','','/media/common_images/grey/services_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::CSO"></a><a onmouseover="MM_swapImage('services','','/media/common_images/grey/services_over.gif',0);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::CSO"><img border="0" height="26" width="240" name="services" alt="services" src="/media/common_images/grey/services.gif"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('Image31','','/media/common_images/grey/support_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::SUPPORT"></a><a onmouseover="MM_swapImage('support','','/media/common_images/grey/support_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::SUPPORT"><img border="0" height="26" width="240" name="support" alt="support" src="/media/common_images/grey/support.gif"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('partners','','/media/common_images/grey/partners_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::PARTNERS"></a><a onmouseover="MM_swapImage('partners','','/media/common_images/grey/partners_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::PARTNERS"><img border="0" height="26" width="240" name="partners" alt="partners" src="/media/common_images/grey/partners.gif"></a></td></tr><tr><td height="11"></td></tr><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" height="1"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td></tr><tr><td height="11"></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('products','','/media/common_images/products_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::PRODUCTS"><img border="0" height="21" width="240" name="products" alt="products" src="/media/common_images/products.gif"></a><a onmouseover="MM_swapImage('Image7','','/media/common_images/products_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::PRODUCTS"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('news and events','','/media/common_images/news_events_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::NEWS"><img border="0" height="21" width="240" name="news and events" alt="news and events" src="/media/common_images/news_events.gif"></a><a onmouseover="MM_swapImage('Image8','','/media/common_images/news_events_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::NEWS"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('success story','','/media/common_images/success_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/successStory.tile.jsp"><img border="0" height="21" width="240" name="success story" alt="success story" src="/media/common_images/success.gif"></a><a onmouseover="MM_swapImage('Image8','','/media/common_images/success_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/successStory.tile.jsp"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('about us','','/media/common_images/about_us_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::IWOV"><img border="0" height="21" width="240" name="about us" alt="about us" src="/media/common_images/about_us.gif"></a><a onmouseover="MM_swapImage('Image9','','/media/common_images/about_us_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::IWOV"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('education','','/media/common_images/education_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=CSO::EDUCATION"><img border="0" height="21" width="240" name="education" alt="education" src="/media/common_images/education.gif"></a><a onmouseover="MM_swapImage('Image12','','/media/common_images/education_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=PRODUCT::TRAINING"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('devnet','','/media/common_images/devnet_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=SUPPORT::DEVNET"><img border="0" height="21" width="240" name="devnet" alt="devnet" src="/media/common_images/devnet.gif"></a><a onmouseover="MM_swapImage('Image13','','/media/common_images/devnet_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=SUPPORT::DEVNET"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('library','','/media/common_images/library_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/components/page.jsp?topic=MAIN::LIBRARY"><img border="0" height="21" width="240" name="library" alt="library" src="/media/common_images/library.gif"></a><a onmouseover="MM_swapImage('Image10','','/media/common_images/library_over.gif',1);" onmouseout="MM_swapImgRestore();" href="/"></a></td></tr><tr><td valign="top"><a onmouseover="MM_swapImage('contact sales','','/media/common_images/contact_sales_over.gif',1);" onmouseout="MM_swapImgRestore();" target="_blank" href="http://interwoven.market2lead.com/go/interwoven/information"><img border="0" height="21" width="240" name="contact sales" alt="contact sales" src="/media/common_images/contact_sales.gif"></a><a onmouseover="MM_swapImage('Image11','','/media/common_images/contact_sales_over.gif',1);" onmouseout="MM_swapImgRestore();" target="_blank" href="http://interwoven.market2lead.com/go/interwoven/information"></a></td></tr><tr><td height="38"></td></tr><tr><td align="center"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"><form action="/cgi-bin/nsearch.cgi" accept-charset="iso-8859-1" method="get" name="search1"><input value="search" name="cmd" type="hidden"><input value="iso-8859-1" name="charset" type="hidden"><input value="en" name="la" type="hidden"><input value="1" name="st" type="hidden"><input value="0" name="rq" type="hidden"><input value="" name="oq" type="hidden"><input value="" name="qp" type="hidden"><input value="" name="qs" type="hidden"><input value="100%" name="pw" type="hidden"><input value="" name="ql" type="hidden"><input value="0" name="si" type="hidden"><input value="0" name="qm" type="hidden"><input value="10" name="nh" type="hidden"><input value="0" name="rf" type="hidden"><input value="1" name="lk" type="hidden"><input value="0" name="ws" type="hidden"><input value="1" name="bn" type="hidden"><input value="newww" name="col" type="hidden"><table align="right" border="0" cellspacing="0" cellpadding="2"><tbody><tr><td valign="top"><input value="Search" class="footer" maxlength="1991" size="14" id="search" name="qt" type="text"></td><td align="right"><input src="/media/common_images/bttn_search.gif" border="0" alt="Search" name="search" type="image"></td></tr></tbody></table></form></td></tr></tbody></table></td></tr><tr><td height="28"></td></tr><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" height="1" colspan="2"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td bgcolor="#ededed" valign="top"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" width="1"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td><td bgcolor="#ffffff" valign="top" width="485"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" width="1"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="2"></td></tr><tr><td><div class="profile-content"><img src="/media/titlegraphics/about_us.gif" vspace="5" width="475" height="65"><table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="14"></td><td><div class="profile-breadcrumbs">
+<a href="/">Home</a> &gt; <a href="/components/page.jsp?topic=MAIN::IWOV">About Us</a>
+</div>
+<img src="/media/pageimage/about_landing.jpg" vspace="5" width="447" height="200"><br><div class="profile-content"><div xmlns:wiki="xalan://com.interwoven.www.WikiUtils" class="profile-content">
+<div class="profile-content-title">Your Privacy</div>
+<ul></ul>
+<div class="profile-content-section-heading"></div>
+<div class="profile-content-section-body"><p></p></div>
+<div class="profile-content-section-heading"></div>
+<div class="profile-content-section-body"><p></p></div>
+<div class="profile-content-section-heading">Interwoven Privacy Statement </div>
+<div class="profile-content-section-body"><p>Interwoven considers your privacy important. This policy explains our policies and practices regarding how we intend to use and disclose your personal information that you provide to us.</p>
+<p>You should review this policy periodically to make sure that you are aware of how we collect and use personal information because we will update this policy from time to time without notice. By using our Website, you consent to the collection and use of your personal information by us.</p>
+<p><i>Personal Information.</i> You may visit www.interwoven.com without providing us with any personal information. There are instances where we must have your personal information in order for you to access certain services, offers, or our protected and secured sites, such as DevNet. This personally identifiable information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("Personal Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.</p>
+<p><i>Use of Personal Information.</i> We intend to use such information for purposes of supporting your and your employer's relationship with Interwoven by providing website content that is suitable to your needs and by alerting you to new product and service offerings as they become available. Your Personal Information may be retained by Interwoven to verify compliance with the agreement between Interwoven and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and your employer, or to contact you either electronically or otherwise. If you decide that we should not use your Personal Information to contact you, please let us know and we will not use that information for such purposes.</p>
+<p>We do not knowingly collect any personal information from children so please do not submit any personal information if you are under 18 year of age.</p>
+<p><i>Disclosure of Personal Information.</i> We do not sell, trade, or transfer your Personal Information to third parties. We may, however, share Personal Information with our business partners for marketing, advertising, or product/service offering purposes. We also disclose Personal Information if: (i) we have your consent; (ii) we need to share it in order to provide you with the products and/or services you requested; (iii) we need to respond to court orders, subpoenas, warrants, or other governmental requests, or we are required to do by law; (iv) we have a good faith belief that we must protect the personal safety of our employees, users of Interwoven products or services or others; (v) we need to defend or protect the rights of Interwoven; or (vi) you violate our Terms of Use.</p>
+<p><i>Accuracy and Security.</i> We are committed to maintaining the accuracy and security of Personal Information. If you contact us to correct your Personal Information, we will attempt to correct such information in a timely manner. We have measures in place to help us protect your Personal Information from unauthorized access.</p>
+<p><i>Usernames and Passwords.</i> Access to certain content on our website may be allowed under a written agreement between you or your employer and us and will require a username and/or password. In some cases, failure to provide Personal Information may prevent you from accessing certain of our website(s) containing certain confidential information, products, services, or promotional offers. By accessing and using our protected and secured website(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Use.</p>
+<p><i>Cookies.</i> We use "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information that helps us recognize which pages you have visited and improve your future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted; however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. Access to our secured website(s) requires the use of per-session cookies in Microsoft Internet Explorer, which you must enable.</p>
+<p><i>General.</i> If you have questions regarding this privacy policy, please contact us at <a href="mailto:legal_info@interwoven.com">legal_info@interwoven.com</a></p></div>
+</div>
+</div><table border="0" width="100%"><tbody><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top"></td></tr></tbody></table><!--?xml version="1.0" encoding="UTF-8"?--><div class="profile-content"><div class="profile-content-section-body"><p><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/component/redirect/data/dcr-updateprofile.xml"><b>Update Profile</b></a><br></p></div><div class="profile-content-section-body"><p><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-1157155230575.xml"><b>Legal Notices</b></a><br></p></div><div class="profile-content-section-body"><p><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-1159120428905.xml"><b>Interwoven Trademarks and Logos</b></a><br></p></div><div class="profile-content-section-body"><p><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-corporate-governance.xml"><b>Corporate Governance</b></a><br></p></div><div class="profile-content-section-body"><p><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-financial-info.xml"><b>Interwoven Financial Information</b></a><br></p></div></div><!--?xml version="1.0" encoding="UTF-8"?--><div class="profile-content"><br><table align="right" border="0" cellspacing="1" cellpadding="10"><tbody><tr><td><a href="Javascript:email_this_page()"><img border="0" alt="email this page" src="/media/common_images/icon_email.gif"></a></td></tr></tbody></table><br><br></div></td><td width="14"></td></tr></tbody></table></div></td></tr><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" width="1"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="2"></td></tr></tbody></table></td><td border="0" background="/media/common_images/shell/border_pix.gif" valign="bottom" width="1"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td></tr></tbody></table><table align="center" cellpadding="3" cellspacing="0" border="0" width="475"><tbody><tr bgcolor="#ededed"><td><div class="footer"><a href="/components/page.jsp?topic=MAIN::IWOV_CONTACT&amp;dcr=templatedata/profile/base/data/dcr-contactus.xml">Contact us</a></div></td><td><div class="footer"><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-1157155419845.xml">Privacy</a></div></td><td><div class="footer"><a href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/profile/base/data/dcr-1157155230575.xml">Legal Notices</a></div></td><td><div class="rights">© 2007 Interwoven, Inc.</div></td><td><div class="rights">Powered by Interwoven</div></td></tr></tbody></table></td><td bgcolor="#ededed" valign="top"><table width="240" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#ededed" height="20" valign="top"><div class="right-navigation"><table bgcolor="#ededed" cellpadding="0" cellspacing="0" border="0" width="240"><tbody><tr><td bgcolor="#ededed" height="25" colspan="2"><script type="text/JavaScript">
+     MM_preloadImages('/media/common_images/global/flag_us_gray.gif','/media/common_images/global/flag_jp.gif');
+   </script><table width="240" bgcolor="#ededed" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#ededed" height="15"></td></tr><tr><td align="right" height="20" valign="middle"><table bgcolor="#ededed" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><div class="footer">English</div></td><td width="10"></td><td><a onmouseover="MM_swapImage('Image1','','/media/common_images/global/flag_us_gray.gif',1)" onmouseout="MM_swapImgRestore()" href="/"><img id="Image1" border="0" height="13" width="19" name="Image1" alt="English" src="/media/common_images/global/flag_us.gif"></a></td><td width="10"></td><td><a onmouseover="MM_swapImage('Image0','','/media/common_images/global/flag_china.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.interwoven.cn/"><img id="Image0" border="0" height="13" width="19" name="Image0" src="/media/common_images/global/flag_china_gray.gif"></a></td><td width="10"></td><td><a onmouseover="MM_swapImage('Image3','','/media/common_images/global/flag_jp.gif',1)" onmouseout="MM_swapImgRestore()" href="http://www.interwoven.jp"><img id="Image3" border="0" height="13" width="19" name="Image3" alt="Nihongo" src="/media/common_images/global/flag_jp_gray.gif"></a></td><td width="10"></td></tr></tbody></table></td></tr><tr><td valign="top"><img align="top" border="0" height="4" width="240" src="/media/common_images/stripe_gray.gif"></td></tr></tbody></table></td></tr><tr><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" colspan="2"></td></tr><tr><td bgcolor="#ffffff" valign="top"><div class="profile-content">
+<center>
+<img height="70" width="212" src="/media/quotes/logo_siemens.gif"></center>
+<div class="profile-quote">“Interwoven will allow Siemens to apply an assortment of different system configurations with a single content infrastructure that will enable us to advance e-business processes, creating a major productivity boost.“</div>
+<div class="profile-quote-speaker">Albert Goller</div>
+<div class="profile-quote-stitle">Corporate Vice President, Center of E-Excellence</div>
+<div class="profile-quote-company"></div>
+</div>
+</td><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top" rowspan="8"><img border="0" width="1" src="/media/common_images/shell/border_pix.gif" height="1"></td></tr><tr bgcolor="#ffffff"><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top"></td></tr><tr class="profile-related-link" bgcolor="#595959"><td valign="top"><div class="profile-related">
+<div class="profile-related-grey-section-heading">see also</div>
+<div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-		 <td valign="TOP" width="142">
-
-			
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr> 
-	<td colspan="3" valign="TOP" background="/toolkit/images/pixel_gray.gif" border="0"> 
-            <img height="10" src="/toolkit/images/pixel_gray.gif" border="0"></td>
-  </tr>
-  
-  <!--- start section header --->
-  <tr> 
-    <td><img src="/toolkit/images/spacer.gif" width="1" height="1"></td>
-    <td height="23" valign="center"><a href="/company/"><span class="sectionnav">Company</span></a></td>
-    <td><img src="/toolkit/images/spacer.gif" width="1" height="15"></td>
-  </tr>
-  <tr> 
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!--- end section header --->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/company/brand/index.html">Branding</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/careers/">Careers</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/company/contact.html">Contact</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/company/about.html">ECM Overview</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=115270&amp;p=irol-irhome">Investors</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/company/management/bios.html">Management</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
-  <!-- ------------------------------------------------------ Begin Nav + Gray Division Row ------------------------------------------------------ -->
-  <tr> 
-    <td width="23"><img src="/toolkit/images/spacer.gif" width="23" height="16"> 
-    </td>
-    <td width="133"><span class="nav1"><a href="/news/press/index.html">News</a></span></td>
-    <td width="7"><img src="/toolkit/images/spacer.gif" width="7" height="15"></td>
-  </tr>
-  <tr> 
-    <td width="23" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="23" height="1"></td>
-    <td background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="1" height="1"></td>
-    <td width="7" background="/toolkit/images/pixel_gray.gif"><img src="/toolkit/images/pixel_gray.gif" width="7" height="1"></td>
-  </tr>
-  <!-- ------------------------------------------------------- End Nav + Gray Division Row ------------------------------------------------------- -->
- 
-</tbody></table>
-<p>
-			</p><p><br><a href="/cgi-bin/iwov_contact.cgi"><img src="/home/images/sales_contact.gif" border="0"></a>
-			
-		</p></td>
-		<td width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-		<td width="1" background="/toolkit/images/dotted_line.gif" border="0"> 
-          		<img height="1" src="/toolkit/images/dotted_line.gif" width="1"></td>
-		<td width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1"></td>
-		<td width="630" valign="TOP">  <!-- Begin content area -->
-
-<table width="100%" cellspacing="5" border="0">
-<tbody><tr>
-    <td valign="TOP">
-	Interwoven considers your privacy important. This policy explains our policies and practices regarding how we intend to use and disclose your personal information that you provide to us. You should review this policy periodically to make sure that you are aware of how we collect and use personal information because we will update this policy from time to time without notice. By using our web site, you consent to the collection and use of your personal information by us.
-<p>
-</p><ol>
-<li><b>Personal Information.</b> You may visit <a href="/index.html">www.interwoven.com</a> without providing us with any personal information. There are instances where we must have your personal information in order for you to access certain services, offers, or our protected and secured sites, such as <a href="http://devnet.interwoven.com/">DevNet</a>. This personally identifiable information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("Personal Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list. 
-<p>
-</p></li><li>
-<b>Use of Personal Information. </b>We intend to use such information for purposes of supporting your and your employer�s relationship with Interwoven by designing a web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. Your Personal Information may be retained by Interwoven to verify compliance with the agreement between Interwoven and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your Personal Information to contact you, please let us know and we will not use that information for such purpose. We do not knowingly collect any personal information from children so please do not submit any personal information if you are under 18 year of age. 
-<p>
-</p></li><li>
-<b>Disclosure of Personal Information.</b> We do not sell, trade or transfer Personal Information to third parties. We may, however, share Personal Information with our business partners for marketing, advertising or product/service offering purposes. We also disclose Personal Information if: (i) we have your consent; (ii) we need to share it in order to provide you with the products and/or services you requested; (iii) we need to respond to court orders, subpoenas, warrants, or other governmental requests, or we are required to do by law; (iv) we have a good faith belief that we must protect the personal safety of our employees, users of Interwoven products or services or others; (v) we need to defend or protect the rights of Interwoven; or (vi) you violate our Terms of Use. 
-<p>
-</p></li><li>
-<b>Accuracy and Security.</b> We are committed to maintaining the accuracy and security of Personal Information. If you contact us to correct your Personal Information, we will attempt to correct such information in a timely manner. We have measures in place to help us protect your Personal Information from unauthorized access. 
-<p>
-</p></li><li>
-<b>Usernames and Passwords. </b>Access to certain content on our web site may be allowed under a written agreement between you or your employer and us and will require a username and/or password. In some cases, failure to provide Personal Information may prevent you from accessing certain of our web site(s) containing certain confidential information, products, services, or promotional offers. By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Use. 
-<p>
-</p></li><li>
-<b>Cookies. We use "cookies".</b> A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser (Microsoft Internet Explorer or Netscape Navigator) to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. Access to our secured web site(s) requires the use of per-session cookies in Microsoft Internet Explorer, which you must enable �only cookies that get sent back to the originating server.� 
-<p>
-</p></li><li>
-<b>General.</b> If you have questions regarding this privacy policy, please contact us at <a href="mailto:legal_info@interwoven.com">legal_info@interwoven.com</a> 
-</li></ol>
-<a href="/company/">&lt;&lt;&nbsp;Back&nbsp;to&nbsp;Interwoven&nbsp;Corporate</a>
-<p></p>
-	</td>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=NEWS::ANALYST&amp;dcr=templatedata/profile/base/data/dcr-analyst.xml">Industry Analyst Views</a></td>
 </tr>
-</tbody></table>
 
-			<!-- End Contributor Page Pattern -->
-			
-		</td>
-	</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td colspan="3" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="3" height="3" bgcolor="#79b948"></td>
-	</tr>
-	<tr>
-		<td><span class="copyright">® 2006 Interwoven, Inc., All Rights Reserved.</span></td>
-		<td><span class="copyright"><a href="/company/copyright.html">Legal Notices</a> &nbsp;|&nbsp; <a href="/company/privacy_statement.html">Privacy Statement</a> &nbsp;|&nbsp; <a href="/help/sitemap/">Sitemap</a> &nbsp;|&nbsp; <a href="/company/contact.html">Contacts</a>
-		</span></td>
-		<td><img src="/toolkit/images/powered_iwov.gif" width="187" height="20" border="0" align="RIGHT"></td>
-	</tr>
-	<tr>
-		<td colspan="3" width="10"><img src="/toolkit/images/spacer.gif" width="10" height="1" border="0"></td>
-	</tr>
-</tbody></table>
-
-</td>
-</tr>
 <tr>
-<td colspan="7" background="/toolkit/images/pixel_gray.gif">
-<img height="1" src="/toolkit/images/pixel_gray.gif">
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=MAIN::IWOV&amp;dcr=templatedata/component/redirect/data/dcr-updateprofile.xml">Update Profile</a></td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=MAIN::IWOV_INVESTORS&amp;dcr=templatedata/component/redirect/data/dcr-1183061169297.xml">Investors</a></td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=MAIN::IWOV_CONTACT&amp;dcr=templatedata/profile/base/data/dcr-contactus.xml">Contact Us</a></td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=MAIN::IWOV_MANAGEMENT&amp;dcr=templatedata/component/bios/data/dcr-1159385997514.xml">Interwoven Management</a></td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td><a class="profile-related-link" href="/components/page.jsp?topic=MAIN::IWOV_CAREERS&amp;dcr=templatedata/profile/base/data/dcr-careers_main.xml">Careers at Interwoven</a></td>
+</tr>
+
+</tbody></table>
+</div>
+</td></tr><tr bgcolor="#ffffff"><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top"></td></tr><tr bgcolor="#6e6e6e"><td valign="top"><div class="profile-related">
+<div class="profile-related-grey-section-heading">
+<b><a href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp">white papers</a></b>
+</div>
+<div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-IDC-Hidden_Costs_Of_Information_Work.pdf">The Hidden Costs of Information Work</a>
+</div>
 </td>
 </tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-IDC-Road_to_successful_composite_application_management.pdf">IDC Vendor Spotlight: The Road to Successful Composite Application Management</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-Forrester_Research-GMACs_deal_management_iDEAL.pdf">Best Practices: GMAC's Deal Management iDEAL: A Content-Centric Application</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-Forrester_Research-Use_persuasive_content_to_improve_customer_experience.pdf">Best Practices: Use Persuasive Content to Improve the Customer Experience: What Information &amp; Knowledge Management Profe</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-Forrester_Research-Best-kept_secret_in_document_management.pdf">The Best-Kept Secret In Document Management</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=MAIN::LIBRARY&amp;dcr=components/whitepapers.tile.jsp&amp;tgt=/media/collateral/whitepaper/wp-5-strategies-for-reducing-costs-and-improving-control-in-corporate-legal-departments.pdf">Five Strategies for Reducing Costs and Improving Control in Corporate Legal Departments</a>
+</div>
+</td>
+</tr>
+
 </tbody></table>
+</div>
+</td></tr><tr bgcolor="#ffffff"><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top"></td></tr><tr bgcolor="#7f7f7f"><td valign="top"><div class="profile-related">
+<div class="profile-related-grey-section-heading">
+<a href="/components/page.jsp?topic=NEWS::RELEASES">news</a>
+</div>
+<div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" target="blank" href="../media/press_coverage/2006/pc_techexecqa110206.pdf">Investor's Business Daily: Interwoven Stays Independent in a Consolidating Software Field by J. Bonasia</a>
+											[pdf]
+										</div>
+</td>
+</tr>
 
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" target="blank" href="../media/press_coverage/2006/pc_contentmanag1006.pdf">Inc.: Choosing a Content-Management System, by Marc Saltzman</a>
+											[pdf]
+										</div>
+</td>
+</tr>
 
- 
-</td></tr></tbody></table></body></html>
+</tbody></table>
+<div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><div class="profile-related-section-body">
+</div><table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=NEWS::RELEASES&amp;dcr=templatedata/announcement/press-release/data/2007/dcr-2007-07-24-340.xml">Interwoven Relocates Global Headquarters to San Jose, California</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=NEWS::RELEASES&amp;dcr=templatedata/announcement/press-release/data/2007/dcr-2007-08-08-516.xml">Interwoven to Announce Financial Results for Second Quarter Ended June 30, 2007 on Thursday, July 19, 2007</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=NEWS::RELEASES&amp;dcr=templatedata/announcement/press-release/data/2007/dcr-2007-04-02-Joe-Cowan-CEO.xml">Interwoven Names Joe Cowan CEO</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<div class="profile-related-section-body">· </div>
+</td><td>
+<div class="profile-related-link">
+<a class="profile-related-link" href="/components/page.jsp?topic=NEWS::RELEASES&amp;dcr=templatedata/announcement/press-release/data/2006/120606econtent100.xml">Interwoven Makes the ‘EContent 100’ Six Years in a Row</a>
+</div>
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</td></tr><tr bgcolor="#ffffff"><td border="0" background="/media/common_images/shell/border_pix.gif" valign="top"></td></tr></tbody></table></div></td><td bgcolor="#ededed" valign="top" rowspan="3"><img border="0" height="500" src="/media/common_images/shell/left_vert_bckgrnd.gif"></td></tr></tbody></table></td></tr></tbody></table><img id="_baynote_http://service.baynote.net_interwoven_www" src="http://service.baynote.net/baynote/customerstatusjs/interwoven-www?customerId=interwoven&amp;code=www&amp;x=01580431977308" width="1" height="1"></body></html>
