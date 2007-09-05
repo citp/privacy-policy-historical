@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630163550id_/http%3A//www.endless.com/help/200103540/ref%3Dfoot_pn_gw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2007-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070905070549id_/http%3A//www.endless.com/help/200103540/ref%3Dfoot_pn_gw) for the most accurate reproduction.*
 
 # Endless.com
 
@@ -58,7 +58,7 @@ Information about our customers is an important part of our business, and we are
 
 ## Which Information Can I Access?
 
-Endless.com gives you access to a broad range of information about your account and your interactions with Endless.com for the limited purpose of viewing and, in certain cases, updating that information. To access account information, visit [My Account](http://www.endless.com/gp/css/homepage.html). 
+Endless.com gives you access to a broad range of information about your account and your interactions with Endless.com for the limited purpose of viewing and, in certain cases, updating that information. To access account information, visit [My Account](http://www.endless.com/my-account.html). 
 
 ## What Choices Do I Have?
 
@@ -66,7 +66,7 @@ Endless.com gives you access to a broad range of information about your account 
   * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
   * If you do not want to receive e-mail or other mail from us, please adjust your [Communication Preferences](https://web.archive.org/help/200105400/). 
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as [Express Checkout ](https://web.archive.org/help/200104320/)ordering if you do not use cookies. 
-  * Tthe Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
+  * Tthe Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.shtm). 
 
 
 
@@ -82,7 +82,7 @@ If you choose to visit Endless.com, your visit and any dispute over privacy is s
 
 ## Information You Give Us
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Endless.com; provide information in [My Account](http://www.endless.com/my-account/) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; provide and rate [Reviews](https://web.archive.org/help/200103580/). As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [Express Checkout ](https://web.archive.org/help/200104320/) settings; content of reviews and e-mails to us.
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Endless.com; provide information in [My Account](http://www.endless.com/my-account/) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; provide and rate [Reviews](https://web.archive.org/help/200103580/). As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in [Express Checkout ](https://web.archive.org/help/200104320/)settings; content of reviews and e-mails to us.
 
 ## Automatic Information
 
