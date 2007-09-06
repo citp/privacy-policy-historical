@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202223129id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2007-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070906125937id_/http%3A//www.replicon.com/aboutreplicon/privacystatement.asp) for the most accurate reproduction.*
 
-# Replicon - About Replicon
-
-Replicon Inc.
+# Replicon - Privacy Statement
 
 ("Replicon" or "we", "us", "our", etc.)
-
-GENERAL PRIVACY POLICY
 
 Replicon is committed to maintaining the privacy of individuals and protecting personal information in its custody or control in accordance with privacy legislation applicable to Replicon. This Policy is intended to comply with the requirements of Alberta's _Personal Information Protection Act_ ("PIPA"). However, in certain circumstances, other legislation may be applicable.
 
@@ -19,7 +15,7 @@ This Policy describes and summarizes the practices of Replicon and its affiliate
 In this Policy, the following terms have the meanings below:
 
   * **Personal information** means information about an identifiable individual, which does not include information of an aggregate or anonymous nature where a specific individual or individuals cannot be identified. Personal Information also does not include **business contact information** , as long as business contact information is used to contact an individual in their capacity as an employee or official of an organization, and for no other purpose. Information about a corporation, firm, trust, union or other non-individual entity is not personal information.
-  * **Business contact information** means an individual’s name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
+  * **Business contact information** means an individual's name and position or title as an official or employee of an organization, as well as their business telephone number, business address, business e-mail, business fax number and other business contact information.
 
 
 
@@ -116,7 +112,7 @@ Replicon will in all cases use personal information as permitted or required by 
 
 It is the general policy of Replicon to not disclose personal information in its custody or control except with the consent of the individual and then only for identified purposes. However, individuals should be aware that there are exceptions to the above.
 
-Alberta law permits us to collect, use or disclose personal information about an individual in some circumstances without the individual’s consent and/or knowledge. Such circumstances include (but are not limited) to where:
+Alberta law permits us to collect, use or disclose personal information about an individual in some circumstances without the individual's consent and/or knowledge. Such circumstances include (but are not limited) to where:
 
   * the collection, use or disclosure is clearly in the interests of the individual and consent cannot be obtained in a timely way;
   * collection, use, or disclosure is reasonable for the purposes of an investigation or proceeding;
@@ -131,7 +127,7 @@ Replicon does not disclose, trade or sell its customer or contact lists.
 
 **Telephone Calls**
 
-All incoming and outgoing telephone calls using Replicon’s telephone systems are subject to automated recording and archiving. Recording is a function of certain technology and cannot be turned off by individual Replicon employees or contractors for particular cases. Recording is carried out for the following purposes:
+All incoming and outgoing telephone calls using Replicon's telephone systems are subject to automated recording and archiving. Recording is a function of certain technology and cannot be turned off by individual Replicon employees or contractors for particular cases. Recording is carried out for the following purposes:
 
   * To ensure accuracy of communication. This includes ensuring accuracy of our understanding of customer requirements, orders and agreements made with customers, and, if necessary, to accurately document such agreements in the event of a misunderstanding or dispute to protect both Replicon and the customer;
   * To ensure quality of service provided by Replicon representatives.
@@ -140,13 +136,13 @@ All incoming and outgoing telephone calls using Replicon’s telephone systems a
 
 Recordings of telephone calls are initially not reviewed or overheard in any manner, but are archived in digital format on a secure server without review. Such recordings may be subsequently reviewed by Replicon at any time for any one or more of the stated purposes and, in particular, may be used without notification or consent as evidence in the event of an investigation or legal proceeding related to such telephone conversation, or to review the quality of service provided in situations where Replicon has a basis to believe that such quality may not be adequate and generally only with respect to those Replicon representatives who interact with customers.
 
-Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis by posting a notice to that effect on Replicon’s web site. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via email, fax or mail.
+Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis by posting a notice to that effect on Replicon's web site. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via email, fax or mail.
 
 Recordings, including recordings that are not reviewed, are retained on the same basis as other personal information pursuant to this Policy. Where required or permitted by law, Replicon may use or disclose personal information contained in recordings. Replicon does not use information contained in recordings for marketing or solicitation purposes. Access to such recordings is restricted to particular individuals within Replicon who have obligations of confidentiality to Replicon and who have a need to review such recordings as part of their obligations to Replicon.
 
 **Computer Interaction**
 
-There are occasions where Replicon representatives may remotely access a computer of a Replicon customer in order to provide services, including technical support or product support. Such access may include an exchange of information of a conversational nature and, while not intended to do so, such access may result in the collection of personal information incidental to our providing services. The activities carried out during such access are recorded and archived so that the recording of such activities may later be viewed or reviewed for the purposes of providing services to the customer in question. The recording is a video file without sound and is subsequently used only for the purposes of assisting the customer. In all cases where a computer becomes subject to access by Replicon, such access will be with the customer’s knowledge and consent.
+There are occasions where Replicon representatives may remotely access a computer of a Replicon customer in order to provide services, including technical support or product support. Such access may include an exchange of information of a conversational nature and, while not intended to do so, such access may result in the collection of personal information incidental to our providing services. The activities carried out during such access are recorded and archived so that the recording of such activities may later be viewed or reviewed for the purposes of providing services to the customer in question. The recording is a video file without sound and is subsequently used only for the purposes of assisting the customer. In all cases where a computer becomes subject to access by Replicon, such access will be with the customer's knowledge and consent.
 
 **Retention and destruction of personal information**
 
@@ -182,7 +178,7 @@ Requests for access are subject to the following:
 
 
 
-Please note that an individual’s ability to access his or her personal information under our control is not an absolute right. Alberta law provides that Replicon must not disclose personal information where:
+Please note that an individual's ability to access his or her personal information under our control is not an absolute right. Alberta law provides that Replicon must not disclose personal information where:
 
   * the disclosure could reasonably be expected to threaten the safety or physical or mental health of an individual other than the individual who made the request;
   * the disclosure would reveal personal information about another individual; or
@@ -237,7 +233,7 @@ Replicon may amend this Policy from time to time as required and without notice,
 
 If you have any questions with respect to our policies concerning the collection, use, disclosure or handling of your personal information, or if you wish to request access to, or correction of, your personal information under our care and control, or if you are dissatisfied with how we handle your personal information, please contact our Privacy Officer, Celeste Janke, at:
 
-[celeste@replicon.com](mailto:celeste@replicon.com) OR 403-262-6519 ext 384.
+[celeste@replicon.com](mailto:celeste@replicon.com "Replicon") OR 403-262-6519 ext 384.
 
 If you remain dissatisfied after our Privacy Officer has reviewed and responded to your concern, or have other concerns or questions, you have the right at any time to contact the Office of the Information and Privacy Commissioner at:
 
