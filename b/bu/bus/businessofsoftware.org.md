@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629014631id_/http%3A//www.businessofsoftware.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2007-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070910191430id_/http%3A//www.businessofsoftware.org/privacy.html) for the most accurate reproduction.*
 
 # Business of Software Conference - World-class speakers on the business of software
 
@@ -20,4 +20,4 @@ Business of Software may share non-personal aggregate, or summary, information r
 
 By using our website, or giving us your details at an exhibition, you consent to the collection and use of this information by Business of Software. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
 
-[](https://web.archive.org/web/20070629014631id_/http%3A//www.businessofsoftware.org/register.aspx) [](http://blog.businessofsoftware.org/)
+[](https://web.archive.org/web/20070910191430id_/http%3A//www.businessofsoftware.org/ebook.aspx) [](http://www.regonline.com/businessofsoftware)
