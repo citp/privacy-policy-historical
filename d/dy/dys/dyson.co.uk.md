@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408174232id_/http%3A//www.dyson.co.uk/privacy/default.asp%3Fsinavtype%3Dmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2007-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070910201652id_/http%3A//www.dyson.co.uk/privacy/default.asp%3Fsinavtype%3Dmenu) for the most accurate reproduction.*
 
 # Dyson UK - The development and history of Dyson
 
