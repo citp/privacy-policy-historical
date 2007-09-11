@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626194829id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2007-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20070626194829id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070626194829id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,36 +58,23 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20070626194829id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070626194829id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20070911094432id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
 
 * * *
 
-## What do you want your Web site to do?
+## NEW! Altova MissionKit 2007– Save ½ off Intelligent tools for XML developers & software architects
 
-[ ](http://www.ektron.com/campaign.aspx?id=4311&cpid=BAC-3112&campaignid=3112)
+| |    | 
 
-| 
+The Altova MissionKit 2007 bundles Altova’s application development, data management and modeling tools at 50% off their regular prices. It is available in a variety of configurations tailored to meet the needs of software architects and XML developers. All MissionKits include the world’s leading XML development tools: [Altova XMLSpy](http://www.altova.com/products/xmlspy/xml_editor.html), [MapForce](http://www.altova.com/products/mapforce/data_mapping.html), and [StyleVision](http://www.altova.com/products/stylevision/xslt_stylesheet_designer.html).
 
-Ektron’s new [ **Extranet for Client Collaboration**](http://www.ektron.com/campaign.aspx?id=4311&cpid=BAC-3112&campaignid=3112) is designed to manage documents and timelines while facilitating collaboration among your internal and external project stake holders. 
-
-|  [ ](http://www.ektron.com/campaign.aspx?id=4311&cpid=BAC-3112&campaignid=3112)  
----|---  
-**Features include:** |  | **Client authentication** using Ektron's robust membership module, allowing you to add, manage and notify your project stake holders  
----|---|---  
-|  | **Project Status Dashboard** allowing for visual navigation across all aspects of your project, efficiently and effectively from one single location  
-|  | **Wiki Scribble Pad** for tracking major additions, changes or other related announcements for your project teams  
-|  | **Discussion forums** and **message boards** to facilitate conversations within a non real-time environment  
-|  | **Integrated Document Management** allowing you to maintain a complete history and audit trail of all documents that can affect the success of your project ****  
-|  | **Milestone Tracking** with **Outlook synchronization** ensuring all your goals and deadlines are met  
-|  | **Public** and **Private Blogs** for further extending communication across the team regarding status, feature creep or other external changes  
+[Gear up; download a FREE 30-day trial today!](http://www.altova.com/products/missionkit/software_development_tools.html)  
   
-See why there are 20,000+ Ektron integrations worldwide.
-
-[Click here to learn more, then request a live online demo or download a FREE TRIAL](http://www.ektron.com/campaign.aspx?id=4311&cpid=BAC-3112&campaignid=3112)
-
+---|---|---  
+  
 * * *
 
 * * *
