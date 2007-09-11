@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601175848id_/http%3A//www.moremoneyreview.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2007-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070911214512id_/http%3A//www.moremoneyreview.com/privacy.asp) for the most accurate reproduction.*
 
 # More Money Review
 
