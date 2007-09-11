@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interneka.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618080432id_/http%3A//www.interneka.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interneka.com privacy policy that was archived on 2007-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070911232640id_/http%3A//www.interneka.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Interneka Affiliate Program Tracking Software
 
@@ -36,4 +36,4 @@ This site gives users the following options for changing and modifying informati
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-For more information about Interneka privacy or information usage policies, [e-mail](https://web.archive.org/web/20070618080432id_/http%3A//www.interneka.com/contact_us.php) us .
+For more information about Interneka privacy or information usage policies, [e-mail](https://web.archive.org/web/20070911232640id_/http%3A//www.interneka.com/contact_us.php) us .
