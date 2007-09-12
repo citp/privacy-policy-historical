@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503000642id_/http%3A//www.elevenwireless.com/default.aspx%3Ftabname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912153358id_/http%3A//elevenwireless.com/default.aspx%3Ftabname%3Dprivacy) for the most accurate reproduction.*
 
 # Eleven Wireless > Privacy
 
