@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emisurveys.com privacy policy that was archived on 2007-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070311013003id_/http%3A//emisurveys.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emisurveys.com privacy policy that was archived on 2007-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070912173115id_/http%3A//emisurveys.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"><html><head>
 
@@ -7,6 +7,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<!-- SWFObject embed by Geoff Stearns geoff@deconcept.com http://blog.deconcept.com/swfobject/ -->
 			<script type="text/javascript" src="support/swfobject.js"></script>
+			<script src="menus.js" language="javascript" type="text/javascript">
 			<style type="text/css">
 				@import url(styles/style.css);
 			</style>
@@ -32,9 +33,21 @@
 
 			// ]]>
 		</script>
-			<div id="navigationHolder">
-				<div id="aboutDiv">
-					<a href="index.html" onmouseover="javascript:document.home.src='images/about-over.jpg';" onmouseout="javascript:document.home.src='images/about.jpg';"><img src="images/about.jpg" name="home" border="0"></a>
+			</head><body><div id="navigationHolder">
+				<div id="aboutDiv" onmouseover="javascript:showNavWho();" onmouseout="javascript:hideNavWho();">
+					<img src="images/about.jpg">								
+				</div>
+				<div id="newsNavigation" onmouseover="javascript:showNavWho();" onmouseout="javascript:hideNavWho();">
+					<a href="index.html">
+						<div id="newsToday" onmouseover="javascript:colorChangeNewsToday();" onmouseout="javascript:colorBackNewsToday();">
+							<span class="subhead">About Us</span>
+						</div>
+					</a>
+					<a href="community.html">
+						<div id="newsArchive" onmouseover="javascript:colorChangeNewsArchive();" onmouseout="javascript:colorBackNewsArchive();">
+							<span class="subhead">In the Community</span>
+						</div>
+					</a>
 				</div>
 				<div id="clientsDiv">
 					<a href="clients.html" onmouseover="javascript:document.home.src='images/clients-over.jpg';" onmouseout="javascript:document.home.src='images/clients.jpg';"><img src="images/clients.jpg" name="home" border="0"></a>
@@ -83,7 +96,7 @@
 			</div>
 		
 			
-		</div>
+		
 
 	
 </body></html>
