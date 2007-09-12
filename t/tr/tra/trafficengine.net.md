@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621042149id_/http%3A//www.trafficengine.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2007-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070912192605id_/http%3A//www.trafficengine.net/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy :: Traffic Engine
 
