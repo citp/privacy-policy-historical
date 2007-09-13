@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005190214id_/http%3A//www.dlink.com.au/Default.aspx%3FUC%3DPrivacy%2520Policy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2007-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070913043612id_/http%3A//www.dlink.com.au/Default.aspx%3FUC%3DPrivacy%2520Policy.ascx) for the most accurate reproduction.*
 
 # D-Link Australia & New Zealand - Privacy Policy
 
