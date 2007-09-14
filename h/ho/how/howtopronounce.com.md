@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtopronounce.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtopronounce.com privacy policy that was archived on 2007-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - How To Pronounce Wine Names Book
 
@@ -14,6 +14,6 @@ Contact Information:
 If you have any questions about this Privacy Policy or anything else about Luminosa, or the products or services offered on this Site, then please contact us at: info@howtopronounce.com. 
 
 © Copyright 2002-2006 Luminosa Publishing, Website Design Diana Bellucci   
-[contact us](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/contact-us/index.html) \- [privacy policy](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/privacy-policy.html) \- [terms of use](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/terms-of-use.html) \- [resources](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/wine-cellar-gift-resources.html) \- [wine gifts site map](https://web.archive.org/web/20070624165645id_/http%3A//www.howtopronounce.com/wine-cellar-gift-site-map/index.html)  
+[contact us](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/contact-us/index.html) \- [privacy policy](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/privacy-policy.html) \- [terms of use](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/terms-of-use.html) \- [resources](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/wine-cellar-gift-resources.html) \- [wine gifts site map](https://web.archive.org/web/20070914030140id_/http%3A//www.howtopronounce.com/wine-cellar-gift-site-map/index.html)  
 ---  
 [](http://www.web-stat.com/stats/dbellucci.htm)
