@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303033856id_/http%3A//www.1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2007-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070914182424id_/http%3A//www.1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Capitol Lighting's 1800lighting.com - Your Source for Residential and Commercial Lighting
 
@@ -25,10 +25,6 @@ A cookie is a very small text document, which often includes an anonymous unique
 **How Do We Use Information We Collect from Cookies?**
 
 As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies. 
-
-**Sharing Information with Third Parties**
-
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
 
 **Notice of New Services and Changes**
 
