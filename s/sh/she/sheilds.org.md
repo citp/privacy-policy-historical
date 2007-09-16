@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheilds.org privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504234210id_/http%3A//www.sheilds.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheilds.org privacy policy that was archived on 2007-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070916121111id_/http%3A//www.sheilds.org/privacy.htm) for the most accurate reproduction.*
 
 # S H E i l d s - Privacy Policy
 
