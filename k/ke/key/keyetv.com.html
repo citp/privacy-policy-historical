@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keyetv.com privacy policy that was archived on 2007-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070612184247id_/http%3A//keyetv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keyetv.com privacy policy that was archived on 2007-09-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070916041730id_/http%3A//keyetv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- templateok --><head>
 
@@ -60,7 +60,7 @@
 
 <!--remove-->
 <!--timestamp-->
-<!--Tue, 12 Jun 2007 14:42:51 EDT-->
+<!--Sun, 16 Sep 2007 00:17:14 EDT-->
 <!--end timestamp-->
 <!--/remove-->
 
@@ -82,74 +82,8 @@
 </style>
 
 
-<script type="text/javascript">
-var SiteName = "keye.dayport.com";
-var VLNFlag = 0;
-var VLNParent = "";
-
-function LaunchSyndicateArticle(ArtId,template,CustId,ContId,CatID)
-{
-  var SiteRegExp = new RegExp('@' + SiteName.replace(/\//g,"\\/"),"gi");
-  var ArtString=ArtId.toString().replace(SiteRegExp,"");
-  var Customer_ID="";
-  var Contract_ID="";
-  var Category_ID="";  
-  var TemplateFile="";
-  var URLstring="";
-//  var ParentFile="";
-
-  kWidth = 764;
-  kHeight = 449;
-  var winName = "VideoViewer";
-  var page;
-
-URLstring = "&PreloadContract_DefID=1&Contract_DefID=2";
-
-if ((template!= '') && (typeof template!= "undefined")) {
-TemplateFile = '&tf='+template;
-}else{
-TemplateFile = '&tf=video_player.tpl';
-}
-
-
-if ((CatID != '') && (typeof CatID != "undefined")) {	
-	switch(CatID) {
-		
-		default:
-			URLstring = "";
-	} 
-}
-
-	if ((CustId != '') && (typeof CustId != "undefined"))
-        {
-          if (CustId.charAt(0) == "-")
-            Customer_ID = '&ExCust='+CustId.slice(1);
-          else      
-            Customer_ID = '&Customer_ID='+CustId;
-        }
-  
-	if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
-		Contract_ID = '&NoAds=true';
-	else if ((ContId != '') && (typeof ContId != "undefined")) 
-		Contract_ID = '&Contract_ID='+ContId;  	
-	
-	if ((CatID != '') && (typeof CatID != "undefined"))
-		Category_ID = '&Category_ID='+CatID;
-	else
-		Category_ID = '&Category_ID=5';
-	
-	page = "http://keye.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + URLstring + Customer_ID + Contract_ID + Category_ID;
-
-  var xPosition = screen.width/2-(kWidth/2);
-  var yPosition = screen.height/2-(kHeight/2);
-  var Params = "height=" + kHeight + ",width=" + kWidth + ",left=" + xPosition + ",top=" + yPosition + ",screenX=" + xPosition + ",screenY=" + yPosition;
-  //window.scrollTo(0,0);
-  var kWin=window.open(page,winName,Params); 
-  kWin.opener = self;
-  kWin.focus();
-  //kWin.moveTo(xPosition, yPosition);  
-  }
-</script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.dayport.com/keyeimg/js/DayPortCBSchatPlayer.js?v=1"></script>
+<script type="text/javascript" src="http://cdn.dayport.com/keyeimg/js/DayPortCBSPlayer.js?v=20070607"></script> 
 
 
 
@@ -282,7 +216,6 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script>
 					<option value="Video">Video</option>
 					<option value="The Web">The Web</option>
 					<option value="Restaurants">Dining</option>
-				        <option value="Yellow Pages">Yellow Pages</option>
 				</select>
 				<input name="SearchString" type="text" class="tbox" id="searchbox" value="" onfocus="if (this.value == this.defaultValue) this.value = ''" onblur="if (this.value == '') this.value = this.defaultValue">
 				<input type="submit" onclick="document.forms['searchform'].submit();" style="width:23px;" value="Go">		
@@ -319,8 +252,8 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script>
 
 
 
-<script type="text/javascript" src="http://static.cbslocal.com/cbs/navigation/cbs_menu_functions.js"></script>
-<script type="text/javascript" src="http://static.cbslocal.com/cbs/navigation/keye_menu_data.js"></script>
+<script type="text/javascript" src="http://llnw.static.cbslocal.com/cbs/navigation/cbs_menu_functions.js"></script>
+<script type="text/javascript" src="http://llnw.static.cbslocal.com/cbs/navigation/keye_menu_data.js"></script>
 <script language="javascript">cbstv_mainMenu()</script>
 
 <div id="secondarynav">
@@ -464,7 +397,6 @@ Click here to <a href="?detectflash=false">bypass this detection</a> if you alre
 <script type="text/javascript">
 // <![CDATA[
 	var fo = new FlashObject('http://static.cbslocal.com/CBS/national/swf/minivplayer.swf', 'minvplayer', '310', '370', 8, '#ffffff');
-        fo.addVariable('CBS_viewAllUrl', 'http://keyetv.com/video');	
         fo.addVariable('CBS_configPath', 
         'http://static.cbslocal.com/CBS/national/xml/videoconfig/keye.xml');
         fo.addVariable('CBS_adsCompanionScript', 'resetAds');
