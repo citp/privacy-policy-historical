@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602033821id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy%2C0%2C6872368.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southflorida.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917032526id_/http%3A//www.sun-sentinel.com/about/site/sfe-privacypolicy%2C0%2C6872368.story) for the most accurate reproduction.*
 
-# SouthFlorida.com Privacy Policy: South Florida Sun-Sentinel
+# SouthFlorida.com Privacy Policy -- South Florida Sun-Sentinel.com
 
 _Last Updated: May 2006_
 
@@ -41,5 +41,3 @@ Please be careful and responsible whenever you are online. Should you choose to 
 SouthFlorida.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe SouthFlorida.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 **Contacting us**
-
-[](https://subscribe.sun-sentinel.com/Circulation/)
