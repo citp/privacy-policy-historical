@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529095848id_/http%3A//www.davison54.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917064808id_/http%3A//www.davison54.com/privacy.php) for the most accurate reproduction.*
 
 # Davison Inventegration
 
