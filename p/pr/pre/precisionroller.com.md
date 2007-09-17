@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2006-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061210141725id_/http%3A//www.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2007-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070917221429id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
@@ -8,7 +8,7 @@ We reserve the right to modify this privacy policy from time to time; the effect
 
 **Quick link reference to our privacy, security and seals:**
 
-  * ● What does the thawte certificate do?
+  * ● What does the Verisign certificate do?
   * ● What does ScanAlert’s HACKER SAFE® seal mean to you?
   * ● Dynamic "real-time" security certification
   * ● How is the BBBOnLine Reliability Seal important to me?
@@ -24,10 +24,10 @@ We reserve the right to modify this privacy policy from time to time; the effect
 
 
 
-**What does the thawte certificate do?**  
-The thawte certificate protects _you_. The verification and authentication procedure that thawte subjected us to is of the very highest standard. In fact, a stringent checklist of activities is undertaken to ensure that we really are who we claim to be. The value of this process cannot be underestimated, and it is this that has been the foundation of thawte‘s enviable reputation as a rock-solid independent Certification Authority (CA). The certificate is designed to let you know you can trust us when you consider communicating or transacting with us, by verifying that we are who we say we are.
+**What does the Verisign certificate do?**  
+The Verisign certificate protects _you_. We have passed Verisign's strictest verification and authentication procedure, which allows you to be sure you know who you are purchasing from. Verisign has completed a stringent checklist of activities to ensure that we really are who we claim to be. The value of this process cannot be underestimated, and it is this that has been the foundation of Verisign‘s enviable reputation as the most well-known and trusted independent Certification Authority (CA). The certificate is designed to let you know you can trust us when you consider communicating or transacting with us, by verifying that we are who we say we are.
 
-The thawte certificate also guarantees information privacy and protects information in transmission between our web server and your web browsers using 256, 128, 56 or 40-bit encryption, depending on your browser capability. This means that the information travelling between your browser and our site is not visible to any other party. 
+After completion of the certification process, Verisign has provided us with a secure key (certificate) that cannot be spoofed by any other site. This certificate guarantees information privacy and protects information in transmission between our web server and your computer using the highest level of encryption possible. This means that the information travelling between your browser and our site is not visible to any other party.
 
 **What does ScanAlert's HACKER SAFE® seal mean to you?**  
 HACKER SAFE sites help protect you from Identity Theft and Credit Card Fraud! HACKER SAFE sites are tested and certified daily to pass the FBI/SANS security test as well as the Payment Card Industry (PCI) Data Security Standard requirements of Visa CISP and AIS, MasterCard SDP and American Express DSS programs. More than 75,000 web sites use ScanAlert’s HACKER SAFE® technology for protection from hackers and third-party security certification to the highest government and industry standards. _This means you can trust our site, not just because we work hard to keep it secure, but because we partner with one of the industry's toughest security teams to provide independent testing and verification._
