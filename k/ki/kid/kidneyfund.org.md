@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429174645id_/http%3A//www.kidneyfund.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2007-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070918065647id_/http%3A//www.kidneyfund.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # AKF: Privacy Policy
 
@@ -15,7 +15,7 @@ Privacy Policies
   1. Personal Information. Any personal information you provide to AKF while visiting AKF’s web site will not be given or sold to any outside companies for its use in marketing or solicitation.
   2. Information collection. When you _**browse**_ the American Kidney Fund site, you do so anonymously. Personal information— including your e-mail address—is not collected. However, we may request that you _**voluntarily**_ supply us with personal information, including your E-mail address for purposes such as correspondence, site registration, membership, making a purchase or donation, or participating in online surveys. We may ask for your name, e-mail address, telephone number, mailing address and other optional information that we deem necessary to fulfill any requests you may have. At any time, you may decline to provide such information and we will do our best to fulfill any requests you may have with the information you desire to share with us.
 
-Like many other web sites, the American Kidney Fund may use a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20070429174645id_/http%3A//www.kidneyfund.org/cookies.asp) for more information. We collect only information that is needed, and we tell you how we use it. We limit the collection of information about our site users to what we need to know to manage their relationship with AKF, to provide customer service, to offer new products and services, and to fulfill any legal and regulatory requirements. We tell our customers about the general uses of information we collect about them, and we will provide additional explanation if requested.
+Like many other web sites, the American Kidney Fund may use a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20070918065647id_/http%3A//www.kidneyfund.org/cookies.asp) for more information. We collect only information that is needed, and we tell you how we use it. We limit the collection of information about our site users to what we need to know to manage their relationship with AKF, to provide customer service, to offer new products and services, and to fulfill any legal and regulatory requirements. We tell our customers about the general uses of information we collect about them, and we will provide additional explanation if requested.
 
   3. We provide site users with choices about how their data will be used. On a regular basis, we provide our users the ability to decline any or all future communications. Users may also decide if and how they wish to be contacted using other communication methods.
   4. We ensure information quality. We use advanced technology and well-defined employee practices to help ensure that site user data is processed promptly, accurately and completely.
@@ -38,4 +38,4 @@ American Kidney Fund, Inc.
 6110 Executive Boulevard, Suite 1010  
 Rockville, MD 20852
 
-[Printable Version](https://web.archive.org/web/20070429174645id_/http%3A//www.kidneyfund.org/privacy_policy.html)
+[Printable Version](https://web.archive.org/web/20070918065647id_/http%3A//www.kidneyfund.org/privacy_policy.html)
