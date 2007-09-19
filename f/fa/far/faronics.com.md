@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020024630id_/http%3A//www.faronics.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2007-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070920013323id_/http%3A//www.faronics.com/html/policy.htm) for the most accurate reproduction.*
 
 # Faronics Privacy Policy
 
