@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the miniclip-games.net privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619014008id_/http%3A//www.miniclip-games.net/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip-games.net privacy policy that was archived on 2007-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070919050537id_/http%3A//www.miniclip-games.net/page/1.html) for the most accurate reproduction.*
 
 # Miniclip Free Games - Online Arcade Games
 
 [](http://www.miniclip-games.net/category/FunnyCartoons/1.html)
-
-Privacy Policy 
 
 GENERAL
 
