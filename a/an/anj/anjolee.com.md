@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606012757id_/http%3A//www.anjolee.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2007-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070921103708id_/http%3A//www.anjolee.com/privacy.htm) for the most accurate reproduction.*
 
 # Anjolee - Diamonds, Engagement Rings, Bracelets, Earrings and Fine Jewelry
 
