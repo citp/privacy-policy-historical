@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgigs.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423044345id_/http%3A//www.hotgigs.com/marketing/terms/template.cfm%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgigs.com privacy policy that was archived on 2007-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070921035717id_/http%3A//www.hotgigs.com/marketing/terms/template.cfm%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # HotGigs.com - The Staffing Exchange
 
