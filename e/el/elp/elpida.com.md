@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610031047id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922103045id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,4 @@ E-mail: [info@elpida.com](mailto:info@elpida.com)
 
 
 
-November 2004,  Elpida Memory, Inc., Hiroshima Elpida Memory, Inc.
+August 2007,  Elpida Memory, Inc., Hiroshima Elpida Memory, Inc., Akita Elpida Memory, Inc.
