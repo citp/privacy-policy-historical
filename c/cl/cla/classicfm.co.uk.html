@@ -1,11 +1,17 @@
-<!--The following is the downloaded HTML source of the classicfm.co.uk privacy policy that was archived on 2007-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070428195836id_/http%3A//www.classicfm.co.uk/article.asp%3Fid%3D205305) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classicfm.co.uk privacy policy that was archived on 2007-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070922230028id_/http%3A//www.classicfm.co.uk/article.asp%3Fid%3D205305) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html lang="en"><head>
 <!-- No Tacoda Tag -->
 <title>Classic FM Privacy Policy</title>
+<meta name="description" content="Classic FM: UK radio station of the year">
+<meta name="keywords" content="Classic FM Privacy Policy">
+<link rel="shortcut icon" href="http://images.radcity.net/6440/2053538.ico">
 <meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="robots" content="index,follow,noodp, noydir">
 
+<script language="Javascript" type="text/Javascript" src="/gbinc/jsfiles/incCommonAPI.js"></script>
+<script language="Javascript" type="text/Javascript" src="/gbinc/jsfiles/incFormsAPI.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <script language="javascript">
@@ -20,9 +26,7 @@
 	//-->
 </script>
 
-
 <link href="/udf/nav.css" type="text/css" rel="stylesheet">
-
 <link href="/stylesheets/music-learning-home.css" rel="stylesheet" type="text/css">
 <link href="/stylesheets/Rating.css" rel="stylesheet" type="text/css">
 
@@ -114,6 +118,31 @@ function showi(sLayer,imgX){
 	}	
 }
 
+function showX(sLayer,imgX){
+  
+	if (isNN4) {
+		theObject = eval("document.all." + sLayer)
+		if (theObject) {
+			theObject.left = imgX ;			
+			theObject.visibility = "visible";
+		}
+	}
+	if (isIE4) {
+		theObject = eval("document.all." + sLayer)
+		if (theObject) {
+			theObject.style.left = imgX+"px" ;			
+			theObject.style.visibility = "visible";
+		}
+	}
+	if (isDOM) {
+		theObject = eval("document.getElementById('" + sLayer + "')"); 
+		if (theObject) {
+			theObject.style.left = imgX+"px";			
+			theObject.style.visibility = "visible";
+		}
+	}	
+}
+
 function getRealTop() {
 	var yPos = this.offsetTop;
 	var tempEl = this.offsetParent;
@@ -139,31 +168,32 @@ function getRealLeft() {
 function getImgX(whichImg) {
 	var theImg, theImgX, theImgWidth;
 	theImg = eval("document." + whichImg);
-	theImgWidth = theImg.width;
-	if (isIE4 || isDOM) {
-		theImg.getRealLeft = getRealLeft;
-		theImgX = theImg.getRealLeft();
+	if (theImg != null) {
+		theImgWidth = theImg.width;
+		if (isIE4 || isDOM) {
+			theImg.getRealLeft = getRealLeft;
+			theImgX = theImg.getRealLeft();
+		}
+		else if (isNN4) theImgX = theImg.x;
 	}
-	else if (isNN4) theImgX = theImg.x;
-
 	return theImgX;
 }
 
 function getImgY(whichImg) {
 	var theImg, theImgY, theImgHeight;
 	theImg = eval("document." + whichImg);
-	theImgHeight = theImg.height;
-	if (isIE4 || isDOM) {
-		theImg.getRealTop = getRealTop;
-		theImgY = theImg.getRealTop();
+	if (theImg != null) {
+		theImgHeight = theImg.height;
+		if (isIE4 || isDOM) {
+			theImg.getRealTop = getRealTop;
+			theImgY = theImg.getRealTop();
+		}
+		else if (isNN4) theImgY = theImg.y;
 	}
-	else if (isNN4) theImgY = theImg.y;
-
 	return theImgY;
 }
-
-
 </script>
+
 <script src="http://rope.icgo.fimc.net/staticweb/onair_players/onair_classicfm/player/onair_classic_detection.js?from=www.classicfm.co.uk" language="JavaScript"></script>
 
 <script language="Javascript" type="text/Javascript">
@@ -189,6 +219,12 @@ else
 theWin = window.open(url + myq, mywin, "width="+w+",height="+h+",top=10,left=10,scrollbars=no,center=no,location=no,toolbars=no,status=no")
 theWin.focus;
 }
+
+function openPlayer(episode) {
+
+	playerWin = window.open('http://mediaweb.musicradio.com/player/default.asp?s=2&e='+episode,'playerWin','width=607,height=558,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0');
+}
+
 //-->
 </script>
 <script language="Javascript" type="text/Javascript">
@@ -202,15 +238,21 @@ function openplaylist(i){
 </script>
 </head>
 
-<body onload="showi('Sponsor',getImgY('positionObj2'));showu('Presenter',getImgY('positionObj')-155);">
+<body onload="showi('Sponsor',getImgY('positionObj2'));showX('Sponsor',getImgX('positionObj')-10);showu('PresenterME',getImgY('positionObj')-155);showX('PresenterME',getImgX('positionObj')+430);" onresize="showi('Sponsor',getImgY('positionObj2')+2);showX('Sponsor',getImgX('positionObj')-10);showu('PresenterME',getImgY('positionObj')-157);showX('PresenterME',getImgX('positionObj')+430);">
   
+<div id="frameworkContainer">
+<div id="frameworkInnerLeft">
 <div id="pagewrapper">
 	<div class="header">
 	<div class="header_nav-wrapper">
 	<div class="nav_top-left">
 		<ul>
-			<li>Sat Apr 28 8.58pm</li>
-<li class="last"><a title="Save As My Homepage" href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('www.classicfm.co.uk');">Save As My Homepage</a></li>  			
+			<li>Sun Sep 23 12.00am</li>
+<li class="last">
+
+<a title="Save As My Homepage" href="#" onclick="/article.asp?ID=254108">
+
+Save As My Homepage</a></li>  			
  		</ul>
 	</div>
 	<div class="nav_top-right">
@@ -222,7 +264,7 @@ function openplaylist(i){
 	</div>
 	<div class="spacer"></div></div>
 	<div class="classicfm" style="FLOAT: left; WIDTH: auto">
-	<h1><a href="/default.asp"><img class="classic_logo" alt="Classic FM" src="/images/classicfm_logo.gif" width="230" height="60" border="0"></a></h1></div>
+	<a href="/default.asp"><img class="classic_logo" alt="Classic FM" src="/images/classicfm_logo.gif" width="230" height="60" border="0"></a></div>
 	<div class="banner" style="FLOAT: right; WIDTH: auto">
 <!-- BANNER AD CODE -->
 <div id="adbanner" style="position:relative; left:0; top:0; width:468; height:60; z-index:50001;">
@@ -230,13 +272,13 @@ function openplaylist(i){
 <!--
 document.write('<SCR' + 'IPT src="' + baseHREF + random + sitearea + pageDetail + userDetail + 'AAMSZ=468X60/LOCATION=ADBANNER/"><\/SCR' + 'IPT>');
 //-->
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=/AAMSZ=468X60/LOCATION=ADBANNER/"></script>
+</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462760582/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=/AAMSZ=468X60/LOCATION=ADBANNER/"></script>
 <noscript><a href="http://ads1.capitalinteractive.co.uk/adclick/SITE=classicfm/AAMSZ=468X60/LOCATION=ADBANNER/AREA=home2/PAGEID=35" TARGET="_blank"><img src="http://ads1.capitalinteractive.co.uk/nserver/SITE=classicfm/AAMSZ=468X60/LOCATION=ADBANNER/AREA=home2/PAGEID=35" width="468" height="60" BORDER="0" ALT="Advert"></a></noscript>
 </div>
 <!--END BANNER AD CODE--></div>
 	<div class="spacer"></div>
 	<div class="header_listennow">
-		<h2><a href="javascript:detection();"><img alt="listen now" src="/images/listen-now.gif" width="150" height="30" border="0"></a></h2>
+		<h2><a href="/Article.asp?id=421143" alt="listen now"><img alt="listen now" src="/images/listen-now.gif" width="150" height="30" border="0"></a></h2>
 		<ul class="playlist_list">
   			<li><a title="Playlist" href="/playlist.asp">Playlist</a></li>
   			<li><a title="Schedule" href="/schedule.asp">Schedule</a></li>
@@ -289,7 +331,7 @@ document.write('<SCR' + 'IPT src="' + baseHREF + random + sitearea + pageDetail 
  <input type="hidden" value="" name="Action">
 
 			<div class="login-1">
-				<div class="behind-the-music">Behind the Music</div>
+				<div class="behind-the-music">Behind the Music</div>				
 				<div class="why-join"><a href="/els/elsSignupFrm.asp?newmember=1&amp;whyjoin=1">Why Join?</a></div>
 			</div>
 			
@@ -310,6 +352,7 @@ document.write('<SCR' + 'IPT src="' + baseHREF + random + sitearea + pageDetail 
 				<div class="register"><a href="/els/elsSignupFrm.asp?newmember=1&amp;register=1"><img alt="Register" src="/images/register.gif" width="59" height="13" border="0"></a></div>
 			</div>
 			<div class="spacer"></div>
+			
 
 	</form>
 	</div>
@@ -336,6 +379,7 @@ function funValLogin()
 		objForm.fldPassword.focus();
 		isOK = false;
 	}
+	
 	return isOK
 }
 
@@ -493,7 +537,7 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
  
   <li class="current"><a href="/sectional.asp?id=9880"><img src="/images/btn_about_us_select.gif" width="163" height="15" alt="About Us"></a></li>
  
-  	<ul style="margin-bottom: 8px;">
+  	<ul style="margin-bottom: 8px;list-style-type:none;">
 	  		<li><a href="/sectional.asp?id=9880"> Inside Classic FM </a></li>
 	  		<li><a href="/article.asp?id=215430">Consumer Panel</a></li>
 	  		<li><a href="/Article.asp?id=205304"> Advertise with Us </a></li>
@@ -514,12 +558,12 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
 	<div class="right_column"><!-- start home page content header -->
 	
 	<div class="inside_header">
-	<div class="presenter"><a href="http://www.classicfm.com/sectional.asp?id=9428"></a></div>
-<div class="onAirHeadline"><div class="spacer"></div><h4><span class="subhead">On air now: </span><a href="/sectional.asp?id=10087">Smooth Classics at Seven</a>&nbsp;with&nbsp;<a href="http://www.classicfm.com/sectional.asp?id=9428">John Brunning</a> 7:00PM - 9:00PM</h4>
+	<div class="presenter"></div>
+<div class="onAirHeadline"><div class="spacer"></div><h4><span class="subhead">On air now: </span><a href="http://www.classicfm.co.uk/sectional.asp?id=10821">Chill</a>&nbsp;with&nbsp;<a href="http://www.classicfm.co.uk/sectional.asp?id=10821">Great Classica..</a> 12:00AM - 4:00AM</h4>
 							<ul class="playlist_list">
-							<li><a href="/sectional.asp?id=10087">Programme info
+							<li><a href="http://www.classicfm.co.uk/sectional.asp?id=10821">Programme info
 							</a></li>
-							<li><a href="http://www.classicfm.com/sectional.asp?id=9428">Email John Brunning</a></li>
+							<li><a href="http://www.classicfm.co.uk/sectional.asp?id=10821">Email Great Classica..</a></li>
 							</ul>
 							<div class="spacer"></div>
 							</div>
@@ -528,9 +572,9 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
 			<div class="spacer"></div>
 			
 <div class="features">
-<h5><span class="subhead">Current track:</span> <a href="javascript:openplaylist('53445')">Peter Ilich Tchaikovsky: Symphony No.6 In B Minor Opus 74 (2)</a></h5>
+<h5><span class="subhead">Current track:</span> <a href="javascript:openplaylist('98937')">Frederic Chopin: Cello Sonata In G Minor Opus 65 (3)</a></h5>
 	<ul class="playlist_list">
-		<li><a href="javascript:openplaylist('53445')">More track info</a></li>
+		<li><a href="javascript:openplaylist('98937')">More track info</a></li>
 	</ul>
 	<div class="spacer"></div>
 </div>	
@@ -538,7 +582,7 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
 	</div>	
 	
 	<div class="content_header-wrapper" style="BACKGROUND: url(/images/inside-title-bg.gif) #ca090a no-repeat"> 
-    <div class="PageTitles"><h2><img src="/images/trans.gif" width="1" height="1" name="positionObj">Classic FM Privacy Policy<img src="/images/trans.gif" width="1" height="1" name="positionObj2"></h2>
+    <div class="PageTitles"><h2 style="color:#ffffff"><img src="/images/trans.gif" width="1" height="1" name="positionObj">Classic FM Privacy Policy<img src="/images/trans.gif" width="1" height="1" name="positionObj2"></h2>
     </div>
 		</div>
 	
@@ -551,6 +595,10 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
 		<!-- end home page content header --><!-- start home page content --><!-- background image on content_header-wrapper needs to be set in html as it is dynamic and relates to the first story, background color needed for when text is enlarged via browser -->
 		
   
+
+
+
+
 
 
 
@@ -592,7 +640,7 @@ pod_downloadon.src = "/images/btn_pod_download_select.gif";
 		<div class="footer">
 			<div class="nav_top-left">
 				<ul>
-  					<li><a title="Site Map" href="/article.asp?id=234802">Site Map</a></li>
+  					<li><a title="Site Map" href="/sitemap.asp">Site Map</a></li>
   					<li><a title="Advertise with us" href="/article.asp?id=205304">Advertise with us</a></li>
  					<li><a title="Privacy policy" href="/article.asp?id=205305">Privacy Policy</a></li>
 					<li><a title="Terms &amp; conditions" href="/article.asp?id=217299">Terms &amp; Conditions</a></li>
@@ -625,63 +673,67 @@ function displayNotice() {
 <!-- End Page Wrapper -->
 </div>
 
+</div>
 
+<!-- MOS ADDITION (ADDED A DIV TO FLOAT RIGHT FOR ADS - NO LONGER USING ABSOLUTE POSITIONING) -->
+<div id="frameworkInnerRight">
+		<div style="float:left;height:700px;width:10px;">&nbsp;</div>	
 		<div class="right_ads">
 		<!--<img src="/images/ad_1.jpg" alt="right hand bar ad 1" width="120" height="120">			<img src="/images/ad_2.jpg" alt="right hand bar ad 2" width="120" height="120">			<img src="/images/ad_3.jpg" alt="right hand bar ad 3" width="120" height="120">-->
-<table cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0" width="120">
 <!-- Boxicon 1 AD CODE -->
-<tbody><tr><td>
-<div id="skyscraper1">
+<tbody><tr><td width="120">
+
 <script language="javascript">
 <!--
 document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail + userDetail + '/AAMSZ=120x80/LOCATION=boxicon"><\/scr' + 'ipt>');
 //-->
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x80/LOCATION=boxicon"></script>
+</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462760582/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x80/LOCATION=boxicon"></script>
 <noscript><a href="http://ads1.capitalinteractive.co.uk/adclick/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon/" TARGET="_blank"><img src="http://ads1.capitalinteractive.co.uk/nserver/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon/" width="120" height="80" BORDER="0" ALT="Advert"></a></noscript>
-</div>
+
 </td></tr>
 <tr><td width="5" height="1"><img src="/images/trans.gif" width="5" height="1"></td></tr>
 
 <!-- END Boxicon 1 AD CODE -->
 
 <!-- Boxicon 2 AD CODE -->
-<tr><td>
-<div id="skyscraper2">
+<tr><td width="120">
+
 <script language="javascript">
 <!--
 document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail + userDetail + '/AAMSZ=120x80/LOCATION=boxicon2"><\/scr' + 'ipt>');
 //-->
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x80/LOCATION=boxicon2"></script>
+</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462760582/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x80/LOCATION=boxicon2"></script>
 <noscript><a href="http://ads1.capitalinteractive.co.uk/adclick/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon2/" TARGET="_blank"><img src="http://ads1.capitalinteractive.co.uk/nserver/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon2/" width="120" height="80" BORDER="0" ALT="Advert"></a></noscript>
-</div>
+
 </td></tr>
 <tr><td width="5" height="1"><img src="/images/trans.gif" width="5" height="1"></td></tr>
 <!-- END Boxicon 2 AD CODE -->
 
 <!-- Boxicon 3 AD CODE -->
-<tr><td>
-<div id="skyscraper3">
+<tr><td width="120">
+
 <script language="javascript">
 <!--
-document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail + userDetail + '/AAMSZ=120x80/LOCATION=boxicon3"><\/scr' + 'ipt>');
+//document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail + userDetail + '/AAMSZ=120x80/LOCATION=boxicon3"><\/scr' + 'ipt>');
 //-->
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x80/LOCATION=boxicon3"></script>
+</script>
 <noscript><a href="http://ads1.capitalinteractive.co.uk/adclick/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon3/" TARGET="_blank"><img src="http://ads1.capitalinteractive.co.uk/nserver/SITE=classicfm/AAMSZ=120X80/LOCATION=boxicon3/" width="120" height="80" BORDER="0" ALT="Advert"></a></noscript>
-</div>
+
 </td></tr>
 <tr><td width="5" height="1"><img src="/images/trans.gif" width="5" height="1"></td></tr>
 <!-- END Boxicon 3 AD CODE -->
 
 <!-- SKYSCAPER AD CODE -->
-<tr><td>
-<div id="skyscraper">
+<tr><td width="120">
+
 <script language="javascript">
 <!--
 document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail + userDetail + '/AAMSZ=120x600/LOCATION=SKYSCRAPER"><\/scr' + 'ipt>');
 //-->
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x600/LOCATION=SKYSCRAPER"></script>
+</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462760582/SITE=classicfm/AREA=about/pageid=205305/LOGIN=0/CODE1=/CODE2=/CODE3=//AAMSZ=120x600/LOCATION=SKYSCRAPER"></script>
 <noscript><a href="http://ads1.capitalinteractive.co.uk/adclick/SITE=classicfm/AAMSZ=120X600/LOCATION=SKYSCRAPER/" TARGET="_blank"><img src="http://ads1.capitalinteractive.co.uk/nserver/SITE=classicfm/AAMSZ=120X600/LOCATION=SKYSCRAPER/" width="120" height="600" BORDER="0" ALT="Advert"></a></noscript>
-</div>
+
 </td></tr>
 <!-- END SKYSCAPER AD CODE -->
 </tbody></table>
@@ -689,17 +741,22 @@ document.write('<scr' + 'ipt src="' + baseHREF + random + sitearea + pageDetail 
 
 		</div>
 
-		
+</div>
+<div id="frameworkFooter"></div>
+</div>			
 
 	
 
-<div id="Presenter" style="position: absolute; left: 656px; z-index: 20; visibility: visible; top: 71px;"> 
+<div id="PresenterME" style="position: absolute; left: 651px; z-index: 20; visibility: visible; top: 59px;"> 
   <table width="167" height="153" border="0">
     <tbody><tr>
-      <td><a href="http://www.classicfm.com/sectional.asp?id=9428"><img src="http://images.radcity.net/6440/1520351.gif" border="0" width="130"></a></td>
+      <td></td>
     </tr>
   </tbody></table>
 </div>
+
+
+
 
 
 
@@ -731,7 +788,7 @@ function writeIt(theId,adServe,width,height) {
 //document.write('<sc'+'ript src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=' + random + sitearea + 'AAMSZ=1X1/LOCATION=POPUP"><\/sc'+'ript>');
 document.write('<sc'+'ript src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=' + random + sitearea + 'AAMSZ=1X1/LOCATION=DHTML"><\/sc'+'ript>');
 
-</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462758912/SITE=classicfm/AREA=about/AAMSZ=1X1/LOCATION=DHTML"></script>
+</script><script src="http://ads1.capitalinteractive.co.uk/jserver/acc_random=1580462760582/SITE=classicfm/AREA=about/AAMSZ=1X1/LOCATION=DHTML"></script>
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript">
@@ -740,7 +797,7 @@ var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-capitalgroup.hitbox.com";
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
-hbx.acct="DM560105O9EC86EN3";//ACCOUNT NUMBER(S)
+hbx.acct="DM560105O9EC86EN3;DM531208OIWD86EN3";//ACCOUNT NUMBER(S)
 hbx.pn="Classic FM Privacy Policy (205305)";//PAGE NAME(S)
 hbx.mlc="";//MULTI-LEVEL CONTENT CATEGORY
 hbx.pndef="title";//DEFAULT PAGE NAME
@@ -779,7 +836,7 @@ hbx.cpd="";//CAMPAIGN DOMAIN
 
 //CUSTOM VARIABLES
 hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
+hbx.hc1="0";//CUSTOM 1
 hbx.hc2="0";//CUSTOM 2
 hbx.hc3="";//CUSTOM 3
 hbx.hc4="";//CUSTOM 4
