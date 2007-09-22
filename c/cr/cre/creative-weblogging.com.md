@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606132719id_/http%3A//www.creative-weblogging.com/50226711/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922114639id_/http%3A//www.creative-weblogging.com/50226711/privacy_policy.php) for the most accurate reproduction.*
 
 # Creative Weblogging: privacy policy
 
