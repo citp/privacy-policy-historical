@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428195836id_/http%3A//www.classicfm.co.uk/article.asp%3Fid%3D205305) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922230028id_/http%3A//www.classicfm.co.uk/article.asp%3Fid%3D205305) for the most accurate reproduction.*
 
 # Classic FM Privacy Policy
 
