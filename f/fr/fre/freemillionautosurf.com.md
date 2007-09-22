@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemillionautosurf.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617133255id_/http%3A//www.freemillionautosurf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemillionautosurf.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922055139id_/http%3A//www.freemillionautosurf.com/privacy.php) for the most accurate reproduction.*
 
 # Free Million Autosurf Website Traffic Exchange
 
