@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505172520id_/http%3A//www.octro.com/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922024809id_/http%3A//www.octro.com/inner.php%3FlnkId%3D4) for the most accurate reproduction.*
 
 # Octro
 
-####  Copyright 
+#### Copyright 
 
-Copyright (c) 2006-2007 Octro, Inc. 
+Copyright (c) 2006, 2007 Octro, Inc. 
 
 No portion of the Octro, Inc. WWW sites may be copied or redistributed in any manner without the express written consent of Octro, Inc.
 
-####  Trademark 
+#### Trademark 
 
 Octro, OctroTalk, all other Octro software title names and their respective logos are trademarks of Octro Inc.
 
-Google, Google Talk and Gmail are the trademarks or registered trademarks of Google Inc or its subsidiaries. All other marks and product names may be the trademarks or registered trademarks of their respective owners.
+Google, Google Talk and Gmail are the trademarks or registered trademarks of Google Inc or its subsidiaries. All other marks and product names may be the trademarks or registered trademarks of their respective owners. 
+
+This web site, any Octro software and any Octro service are in no way affiliated with or endorsed by America Online, Inc. or ICQ, Inc. The marks AOL and AIM are registered trademarks of America Online, Inc.; the marks Instant Messenger and AOL Instant Messenger are service marks of America Online, Inc.; the mark ICQ is a registered mark of ICQ, Inc.
 
 #### Privacy Policy
 
@@ -28,8 +30,12 @@ At Octro Inc., we respect your right to privacy. We will never sell or otherwise
 
 **Security.** Octro will take reasonable steps to protect your personal information from loss, misuse, unauthorized access, disclosure or unauthorized alteration.
 
+**Proper and Legal Use.** When the end user (that is you) downloads and/or uses any of our software or services he is responsible for his own communications and for any consequences thereof. He must use the software or any of its part or the service in compliance with all applicable local, state, national, and international laws, rules and regulations, including any laws regarding the transmission of technical data and export control laws. You shall not, shall not agree to, and shall not authorize or encourage any third party to:  
+(i)   use the software or service to upload, transmit or otherwise distribute any content that is unlawful, defamatory, harassing, abusive, fraudulent, obscene, contains viruses, or is otherwise objectionable;  
+(ii)   upload, transmit or otherwise distribute content that infringes upon another party's intellectual property rights or other proprietary, contractual or fiduciary rights or obligations;  
+(iii)   prevent others from using the software or the service;  
+(iv)   use the software or the service for any fraudulent or inappropriate purpose.
+
 #### Refund Policy 
 
-All software from Octro can be downloaded as a free trial from our web site. We encourage all users to thoroughly test any software title that they wish to license and satisfy themselves fully that it works to their satisfaction before purchasing.
-
-Octro Inc does not offer refunds. There are no exceptions to this policy. 
+All software from Octro can be downloaded as a free trial from our web site. We encourage all users to thoroughly test any software title that they wish to license and satisfy themselves fully that it works to their satisfaction before purchasing. The license is not transferable to other device or to anyone else. Octro Inc does not offer refunds. There are no exceptions to this policy. 
