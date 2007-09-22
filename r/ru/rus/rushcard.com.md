@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushcard.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510200714id_/https%3A//www.rushcard.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushcard.com privacy policy that was archived on 2007-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070922175815id_/https%3A//www.rushcard.com/security.html) for the most accurate reproduction.*
 
 # the Prepaid Visa RushCard : Security & Privacy
 
