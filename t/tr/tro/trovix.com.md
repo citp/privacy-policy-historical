@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630002756id_/http%3A//trovix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trovix.com privacy policy that was archived on 2007-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070923021619id_/http%3A//www.trovix.com/privacy.htm) for the most accurate reproduction.*
 
 # Trovix, Inc. - Privacy Policy
 
