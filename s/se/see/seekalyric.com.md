@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekalyric.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117215134id_/http%3A//www.seekalyric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekalyric.com privacy policy that was archived on 2007-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070923051817id_/http%3A//www.seekalyric.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Seekalyric.com - Free Song Lyrics Search Engine
 
