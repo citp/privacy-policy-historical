@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2007-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070315203434id_/http%3A//www.goingon.com/company/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2007-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070923135517id_/http%3A//www.goingon.com/company/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoingOn Home
 
@@ -20,7 +20,7 @@ Choice.
 
 Access. 
 
-To update any of your personal information or to change any of your marketing preferences, you may either contact us at [feedback@goingon.com](mailto:feedback@goingon.com) or in certain cases you may update your personal information through the Site by logging in and accessing your profile in the "My Account" area. 
+To update any of your personal information or to change any of your marketing preferences, you may either contact us at  [](mailto:%66%65%65%64%62%61%63%6B%40%67%6F%69%6E%67%6F%6E%2E%63%6F%6D) or in certain cases you may update your personal information through the Site by logging in and accessing your profile in the "My Account" area. 
 
 The Security of Your Information. 
 
@@ -46,4 +46,4 @@ By using this Site, you agree to this Privacy Policy. This is our entire and exc
 
 Contacting GoingOn. 
 
-If you believe that  GoingOn  has not adhered to this Privacy Policy, please contact us by email at  [feedback@goingon.com](mailto:feedback@goingon.com) or by postal mail at  PO Box 620100 Woodside, CA 94062  and we will use commercially reasonable efforts to remedy the problem. 
+If you believe that  GoingOn  has not adhered to this Privacy Policy, please contact us by email at  [](mailto:%66%65%65%64%62%61%63%6B%40%67%6F%69%6E%67%6F%6E%2E%63%6F%6D) or by postal mail at  PO Box 620100 Woodside, CA 94062  and we will use commercially reasonable efforts to remedy the problem. 
