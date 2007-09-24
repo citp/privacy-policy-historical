@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609020141id_/http%3A//www.ronhazelton.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2007-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070924205315id_/http%3A//www.ronhazelton.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Ron Hazelton's HouseCalls - Privacy Notice
 
@@ -51,5 +51,5 @@ If you feel that we are not abiding by this privacy policy, contact us immediate
 **Our Marketing Partners**  
 We'd like to extend our warmest thanks and appreciation to our marketing partners who have helped us to bring Ron Hazelton's HouseCalls into your home. Please visit their web sites to find out more about their extremely useful products and services.
 
-[](http://www.homedepot.com/) |  [](http://www.gmc.com/) |  [](http://www.thompsonsonline.com/) |  [](http://www.minwax.com/) |  [](http://www.scotts.com/homepage.cfm)  
+[](http://www.homedepot.com/) |  [](http://www.gmc.com/) |  [](http://www.thompsonsonline.com/) |  [](http://www.minwax.com/) |  [](http://www.scotts.com/)  
 ---|---|---|---|---
