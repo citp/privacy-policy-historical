@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels-and-discounts.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030022345id_/http%3A//hotels-and-discounts.com/hotels_and_discounts_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels-and-discounts.com privacy policy that was archived on 2007-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070924162632id_/http%3A//www.hotels-and-discounts.com/hotels_and_discounts_privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Hotels and Discounts - Discount Hotel Prices at Hotels and Discounts; Discount Hotels And Motels, Cheap Hotel, Cheap Hotels, Hotels Cheap, Discount And Hotels, Hotels Discount, Discount Hotel, Hotels And Discount, Hotel Rooms, Hotel Discounts, Discount Hotels
 
