@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abeam.com privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821121459id_/http%3A//www.abeam.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeam.com privacy policy that was archived on 2007-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070925175357id_/http%3A//www.abeam.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ABeam Consulting
 
