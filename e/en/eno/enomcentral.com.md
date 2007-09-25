@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enomcentral.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525113558id_/http%3A//www.enomcentral.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enomcentral.com privacy policy that was archived on 2007-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070925173152id_/http%3A//www.enomcentral.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # eNom Central - domain name, web site hosting, email, registration - PRIVACY POLICY
 
