@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630233433id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2007-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070925165708id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
 
 # GEICO - Privacy Policy
 
