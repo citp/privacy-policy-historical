@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pipex.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514000545id_/http%3A//www.pipex.co.uk/legal/data-protection.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipex.com privacy policy that was archived on 2007-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070928044451id_/http%3A//www.pipex.co.uk/legal/data-protection.php) for the most accurate reproduction.*
 
-# Pipex - Up to 8Mb broadband from £6.50, cheap home phone call packages
+# Pipex - Up to 8Mb broadband from £8.95 including a free wireless router. Join now.
 
 ### 1.
 
