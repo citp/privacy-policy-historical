@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609220518id_/http%3A//www.smithsonianmag.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2007-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071001104217id_/http%3A//www.smithsonianmag.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Smithsonian.com
 
