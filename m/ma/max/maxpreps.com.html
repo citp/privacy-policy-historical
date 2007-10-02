@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxpreps.com privacy policy that was archived on 2007-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070503155519id_/http%3A//www.maxpreps.com/FanPages/PrivacyPolicy.mxp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxpreps.com privacy policy that was archived on 2007-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071002222625id_/http%3A//www.maxpreps.com/FanPages/PrivacyPolicy.mxp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	<title>MaxPreps:  - High School Sports</title>
@@ -17,41 +17,192 @@
 	<link href="http://www.maxpreps.com/FanPages/Includes/Client/Links.css" rel="stylesheet" type="text/css">
 	<link href="http://www.maxpreps.com/FanPages/Includes/Client/ajaxtabs.css" rel="stylesheet" type="text/css">
 	<link href="http://www.maxpreps.com/FanPages/Includes/Client/tabsview.css" rel="stylesheet" type="text/css">
+	<link href="http://www.maxpreps.com/FanPages/Includes/Client/ddtabmenu.css" rel="stylesheet" type="text/css">
+	<link href="http://www.maxpreps.com/FanPages/Includes/Client/ddcolortabs.css" rel="stylesheet" type="text/css">
+	<link href="http://www.maxpreps.com/FanPages/Includes/Client/solidblocksmenu.css" rel="stylesheet" type="text/css">
 	<script language="JavaScript" src="http://www.maxpreps.com/FanPages/includes/client/ajaxtabs_general.js"></script>
 	<script language="JavaScript" src="http://www.maxpreps.com/FanPages/includes/client/FanPages.js"></script>
 	<script language="JavaScript" src="http://www.maxpreps.com/FanPages/includes/client/AC_RunActiveContent.js"></script>
 	<script language="JavaScript" src="http://www.maxpreps.com/FanPages/includes/client/AC_ActiveX.js"></script>
+	<script type="text/javascript" src="http://www.maxpreps.com/FanPages/includes/client/chrome.js"></script>
+ 	<script type="text/javascript" src="http://www.maxpreps.com/FanPages/includes/client/postprocad.js"></script>	
+	<script language="javascript" src="http://www.maxpreps.com/FanPages/includes/client/swfobject.js"></script>	
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
- <script type="text/javascript" src="http://www.maxpreps.com/FanPages/includes/client/chrome.js"></script>
- 		
- 			<script language="JavaScript">
-			<!--
+	<script type="text/javascript" language="JavaScript" src="http://www.maxpreps.com/FanPages/includes/client/findPositionAndSize.js"></script>
+
+	<script language="JavaScript">		
+		function resizeSWF(nHeight) 
+		{	
+			nHeight += "px";
+			document.getElementById("takeo").style.height = nHeight;
+			return nHeight;	
+		}
+
+		
+		function getposOffset(overlayCoach, offsettype){
+		var totaloffset=(offsettype=="left")? overlayCoach.offsetLeft : overlayCoach.offsetTop;
+		var parentEl=overlayCoach.offsetParent;
+		while (parentEl!=null){
+		totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+		parentEl=parentEl.offsetParent;
+		}
+		return totaloffset;
+		}
+		
+		function overlayCoach(curobj, subobjstr, opt_position){
+		if (document.getElementById){
+		var subobj=document.getElementById(subobjstr)
+		subobj.style.display=(subobj.style.display!="block")? "block" : "none"
+		var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
+		var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
+		subobj.style.left=xpos+"px"
+		subobj.style.top=ypos+"px"
+		return false
+		}
+		else
+		return true
+		}
+		
+		function overlayCoachclose(subobj){
+		document.getElementById(subobj).style.display="none"
+		}
+
+		
+		</script>
+
+
+<!-- Deals with hiding windowShade if its wrong size. -->
+	
+
+
+
+<script language="Javascript">
+	
+	function checkAdSize(name, minWidth, minHeight, maxWidth, maxHeight, reportOrHide) {
+		// if u dont want this function to hide the ad div pass "report" in the reportOrHide param	
+		
+		if(reportOrHide == null) reportOrHide = "hide";		
+
+		var adDiv = document.getElementById(name);
+
+		if(adDiv != null) {
+
+			var info = findElementsSpace(adDiv);
+			if(info != null) {
 			
-				function ViewVideo()
-				{
-					var opts = "LOCATION=NO,TOOLBAR=YES,MENUBAR=NO,STATUS=NO,RESIZABLE=NO,SCROLLBARS=YES,HEIGHT=985,WIDTH=1024";
-					var newWindow = window.open("http://www.maxpreps.com/FanPages/FanPages.aspx/video/controller4", "", opts);
-					var closeWindow = window.close("http:www.maxpreps.com","","");
+				if(minWidth <= info.right && minHeight <= info.bottom && maxWidth >= info.right && maxHeight >= info.bottom) {
+					info.inRange = true;
 				}
-			
-			
-			//-->
-			</script> 
+				else {
+					info.inRange = false;
+				}
+		
+				if(reportOrHide == "hide") {
+
+					if(info.inRange) {
+						adDiv.style.visibility = "visible";
+						adDiv.style.display = "none";
+					}
+					else {
+						adDiv.style.visibility = "hidden";
+						adDiv.style.display = "none";
+					}
+
+					return info;
+				}
+				else {
+					return info;
+				}
+			}
+		}
+
+		// fail safe on return
+		var obj = new Object();
+		obj.inRange = false;
+		return obj;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End of dealing with hiding windowShade if its wrong size. -->
+
+
 	
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link="#000066" alink="#000066" vlink="#000066">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link="#000066" alink="#000066" vlink="#000066">		
+
+<div class="mainframe">   
+  		  <!--windowshade-->
+		<div id="flashcontent2" name="flashcontent2" style="position:relative;padding:0px;text-overflow:clip;font-size:0pt;">
+				<!-- begin ad tag | window shade -->
+	 				
+				
+				
+				
+						
+				
+						
+				
+							
+			
+		 
+		 
+					
+				
+				
+		
+		 
+		  
+		   
+			  
+			   
+			    
+			    										
+						 
+						  
+						    
+						   		
+						   			
+						   			 
+						   						
+		      <script language="javascript1.2"> procad("http://ad.doubleclick.net/adj/CSTV.MAXPREPS/;sz=985x600;dcopt=ist;",0); </script>
+					
+				<!-- End ad tag --> 
+				</div>
 
 
-	  
-
-
-<div class="mainframe">
-
-
-<div class="headerframe" style="background-image:url('http://www.maxpreps.com/FanPages/Images/MaxPreps_logo3.jpg'); border-bottom: 2px solid #b9a36a;">
+<div class="general_headerframe" style="background-image:url('http://www.maxpreps.com/FanPages/Images/MaxPreps_logo4_dh.gif'); border-bottom: 2px solid #b9a36a;">
 <!-- BEGINNING OF HEADER SECTION -->	
 			<div class="main_logo_link">	
-				<a href="http://www.maxpreps.com/FanPages"><img src="http://www.maxpreps.com/FanPages/Images/spacer.gif" width="147" height="120" border="0"></a>
+				<a href="http://www.maxpreps.com/FanPages"><img src="http://www.maxpreps.com/FanPages/Images/spacer.gif" width="147" height="110" border="0"></a>
 			</div>
 
     <!-- START OF REGISTERED USER INFORMATION -->
@@ -99,273 +250,312 @@
 <!-- END OF SITE REGISTRATION - MEMBERS SECTION -->
 			</div>
 		<!-- END OF REGISTERED USER INFORMATION -->
-		
-			
-
-      	 <div class="main_maxpreps_ads">	
-				    	<script language="JavaScript" src="http://ads.maxpreps.com/abm.aspx?z=373"></script>
-        	 </div>
-      		
-	
-		<div class="main_number_users">
-			1134269 High School Athletes currently in database. &nbsp;&nbsp;
-		</div>
-		
-		<!-- START of MEMBER SIGN-IN -->	
- 			<div class="main_coachlogin">
-           	<!-- COACH LOGIN -->
-
-<table cellpadding="0" cellspacing="0" border="0" background-color="#0f0">
-	
-	<tbody><tr>
-		<td align="right">
-			<table class="member_signin">
-				<form action="http://admin.maxpreps.com/Admin.aspx" method="post"></form>
-					<!-- Browser support -->
-								<script language="JavaScript">
-								<!--
-								   	if( document.all )
-								   	document.write("<INPUT type='hidden' name='DIVSupport' value='1'>");
-								    else
-								    document.write("<INPUT type='hidden' name='DIVSupport' value='0'>");
-								//-->
-								 </script><input type="hidden" name="DIVSupport" value="0">
-								<tbody><tr>
-							
-								<td colspan="2" align="left">
-									<input type="text" name="txtUsername" tabindex="1" size="15" value="">					
-								<input type="submit" tabindex="3" class="submit_go" value="GO">										     
-								</td>
-							</tr>
-							<tr>
-								<td colspan="2" align="left">
-									<input type="password" tabindex="2" size="15" name="txtPassword" value="">
-								<input type="hidden" name="SUBMIT" value="true">
-									
-								</td>
-							</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="right">
-			<font face="Verdana" size="1">
-			<a href="http://www.maxpreps.com/FanPages/PasswordRetrieval.mxp" tabindex="4"><font color="#F8D837"><u>Retrieve</u></font></a><font color="#F8D837">  or
-			<a href="http://www.maxpreps.com/FanPages/passwordrequest.mxp" tabindex="5"><font color="#F8D837"><u> Request Password</u></font></a><font color="#F8D837">
-			</font>
-		</font></font></td>
-	</tr>
-
-</tbody></table>
-
-	
-<!-- END COACH LOGIN -->
-							
-							
-						
-			</div>
-		<!-- END of MEMBER SIGN-IN -->	
-	
-		<!-- START SEARCH BAR -->
-		<div class="header_search">	
-			<form action="http://www.maxpreps.com/FanPages/Search.mxp/opttype-school" method="post">
-			<table class="member_signin">
-
-				<tbody><tr>					
-		      <td align="right">
-										<input type="text" size="40" name="txtName" value="">
-										<input type="hidden" name="SUBMIT" value="true">
-		               <input type="submit" class="submit_go" value="SEARCH"> 
-		               <a href="http://www.maxpreps.com/FanPages/Search.mxp/opttype-school"><font color="#F8D837" size"1"="">ADVANCED</font></a><font color="#F8D837" size"1"="">
-		     </font></td>
-				</tr>
-			</tbody></table>
-			</form>
-		</div>  	
-		<!-- END SEARCH BAR -->
-		
-		<!-- BANNER AD -->
-			<div class="header_leaderboard_ad">	
-
-
-                          
-                           
-                           
-                            
-                          
-                          
-                          	
-                          		
-                          			
-                         					 	<script language="JavaScript" src="http://ads.maxpreps.com/abm.aspx?z=51"></script>															
-                           	
-
+	<!-- BANNER AD -->
+			<div class="generalheader_leaderboard_ad">	
 				
-			</div>             	
+				
+				
+				
+						
+				
+						
+				
+							
+			
+		 
+		 
+					
+				
+				
+		
+		 
+		  
+		   
+			  
+			   
+			    
+			    										
+						 
+						  
+						    
+						   		
+						   			
+						   			 
+						   						
+		      <script language="javascript1.2"> procad("http://ad.doubleclick.net/adj/CSTV.MAXPREPS/;sz=728x90;dcopt=ist;",0); </script>
+					
+			</div>      	
 		<!-- END BANNER AD -->
-
-		<!-- MUST READ SECTION -->
-
-   <div class="header_must_read"> 
-       <table width="100%" border="0" cellpadding="3" cellspacing="0">
-             <tbody><tr valign="left">
-                     <td>
-                       
-                           
-                                <table width="100%" cellpadding="2" border="0">
-                                     <tbody><tr valign="top">
-                                          <td width="100%" align="left" class="SmOrangeLink2">
-                                               <!-- HEADER TEXT LINKS FEED AD SERVER -->
-<script language="JavaScript" src="http://ads.maxpreps.com/abm.aspx?z=68"></script><br>
-<script language="JavaScript" src="http://ads.maxpreps.com/abm.aspx?z=66"></script><br>
-<script language="JavaScript" src="http://ads.maxpreps.com/abm.aspx?z=67"></script>
-
-                                              </td>
-                                     </tr>
- 
-                                   </tbody></table>
- 
-                    </td>
-        </tr>
-      </tbody></table>
-  
-   </div>               	
-		<!-- END OF MUST READ SECTION -->
 
 <!-- END OF HEADER SECTION -->	
 </div>
 
 <div class="menu_links" style="clear:both; width:985px; background-image:url('http://www.maxpreps.com/FanPages/Images/menu_bg_985.jpg');background-repeat:norepeat; z-index:9000;">	
-	
-	
-					<div class="chromestyle" id="chromemenu">
+		<table width="985px" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td>
+			<div class="chromestyle" id="chromemenu">
 			<ul>
-			<li><a href="http://www.maxpreps.com/FanPages" rel="dropmenu6"><b>MaxPreps</b></a></li>
-		  <li><a href="http://www.maxpreps.com/FanPages/video/controller4.mxp" rel="dropmenu2"><b>Video</b></a></li>
-			<li><a href="http://www.maxpreps.com/FanPages/NationalGalleries.mxp" rel="dropmenu3"><b>Photos</b></a></li>
-			<li><a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Basketball_Winter_06-07" rel="dropmenu4"><b>Rankings</b></a></li>
-			<li><a href="http://www.maxpreps.com/FanPages/SchoolSearch.mxp" rel="dropmenu1"><b>States</b></a></li>
-			<li><a href="http://www.maxpreps.com/FanPages/Content/CoachesOffice.mxp" rel="dropmenu5"><b>Coaches</b></a></li>
-			<li><a href="#" rel="dropmenu7"><b>Stat Leaders</b></a></li>
-			<li><a href="http://www.maxpreps.com/FanPages/Search.mxp/opttype-school"><b>Search</b></a></li>
-			<li><a href="http://mobile.maxpreps.com/sdp/jspsite/Maxpreps/Home?request-guid="><b>MaxMobile</b></a></li>
-			</ul>
-			</div>
-			
-			<!--1st drop down menu --> 
-			<div id="dropmenu1" class="dropmenudiv" style="overflow:-moz-scrollbars-vertical;overflow-y:scroll; height:410px;">
+			<li><a href="http://www.maxpreps.com/FanPages" rel="dropmenu6" style="font-weight:bold">MaxPreps</a></li>
+		  <li><a href="http://www.maxpreps.com/FanPages/video/controller4.mxp" rel="dropmenu2" style="font-weight:bold">Video</a></li>
+			<li><a href="http://www.maxpreps.com/FanPages/NationalGalleries.mxp" rel="dropmenu3" style="font-weight:bold">Photos</a></li>
+			<li><a href="http://www.maxpreps.com/FanPages/SchoolSearch.mxp" rel="dropmenu1" style="font-weight:bold">States</a></li>
+			<li><a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Football_Fall_07-08" rel="dropmenu4" style="font-weight:bold">Rankings	</a></li>
+			<li><a href="http://admin.maxpreps.com/Admin.aspx" rel="dropmenu5" style="font-weight:bold">Coaches</a></li>
+			<li><a href="#" rel="dropmenu7" style="cursor:pointer;font-weight:bold;">Stats</a></li>
+			<li><a href="#" rel="dropmenu8" style="cursor:pointer;font-weight:bold;">National Sports	</a></li>
+			<li><a href="http://www.maxpreps.com/FanPages/Search.mxp/opttype-school" style="font-weight:bold">Search</a></li>
+			<li><a href="http://mobile.maxpreps.com/sdp/jspsite/Maxpreps/Home?request-guid=" style="font-weight:bold">	MaxMobile	</a></li>						
+	    </ul>
+	  </div>
+	  </td>
+	  <td width="245px">
+	   <span class="menutextYLW"> <a onclick="return overlayCoach(this, 'coachsubcontent')" style="cursor:pointer;"><b>COACH LOGIN</b></a></span>
+			<div id="coachsubcontent" class="general_coachlogin">
+				<div align="right"><a onclick="overlayCoachclose('coachsubcontent'); return false" style="cursor:pointer;">[x]Close</a></div>
+				<!-- COACH LOGIN -->
 
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Alabama"><b>Alabama</b></a>
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Alaska"><b>Alaska</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Arizona"><b>Arizona</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Arkansas"><b>Arkansas</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/California"><b>California</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Colorado"><b>Colorado</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Connecticut"><b>Connecticut</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Delaware"><b>Delaware</b></a>				
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Florida"><b>Florida</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Georgia"><b>Georgia</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Hawaii"><b>Hawaii</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Idaho"><b>Idaho</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Illinois"><b>Illinois</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Indiana"><b>Indiana</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Iowa"><b>Iowa</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Kansas"><b>Kansas</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Kentucky"><b>Kentucky</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Louisiana"><b>Louisiana</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Maine"><b>Maine</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Maryland"><b>Maryland</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Massachusetts"><b>Massachusetts</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Michigan"><b>Michigan</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Minnesota"><b>Minnesota</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Mississippi"><b>Mississippi</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Missouri"><b>Missouri</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Montana"><b>Montana</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Nebraska"><b>Nebraska</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Nevada"><b>Nevada</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewHampshire"><b>New Hampshire</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewJersey"><b>New Jersey</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewMexico"><b>New Mexico</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewYork"><b>New York</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NorthCarolina"><b>North Carolina</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NorthDakota"><b>North Dakota</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Ohio"><b>Ohio</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Oklahoma"><b>Oklahoma</b></a>								
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Oregon"><b>Oregon</b></a>								
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Pennsylvania"><b>Pennsylvania</b></a>										
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/PrepSchools"><b>Prep Schools</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/RhodeIsland"><b>Rhode Island</b></a>								
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/SouthCarolina"><b>South Carolina</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/SouthDakota"><b>South Dakota</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Tennessee"><b>Tennessee</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Texas"><b>Texas</b></a>									
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Utah"><b>Utah</b></a>								
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Vermont"><b>Vermont</b></a>								
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Virginia"><b>Virginia</b></a>							
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Washington"><b>Washington</b></a>							
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/DistrictofColumbia"><b>Washington,DC</b></a>							
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/WestVirginia"><b>West Virginia</b></a>							
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Wisconsin"><b>Wisconsin</b></a>							
-										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Wyoming"><b>Wyoming</b></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td align="center">
+			<table width="100%" class="member_signin">
+				<form action="http://admin.maxpreps.com/Admin.aspx" method="post" style="margin:0;"></form>
+					<!-- Browser support -->
+				<script language="JavaScript">
+					<!--
+						if( document.all )
+							document.write("<INPUT type='hidden' name='DIVSupport' value='1'>");
+						else
+							document.write("<INPUT type='hidden' name='DIVSupport' value='0'>");
+					//-->
+				</script><input type="hidden" name="DIVSupport" value="0">
+				<tbody><tr>
+					<td colspan="2" bgcolor="#CCCCCC">
+						<font color="#000000"><b>COACH LOGIN:</b>
+					</font></td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000"><b>Username:</b></font>
+					</td>
+					<td align="left">
+						<input type="text" name="txtUsername" tabindex="1" value="" style="width:121px;_width:131px;">					
+						<input type="submit" tabindex="3" class="submit_go" value="GO">										     
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<font color="#000000"><b>Password:</b></font>
+					</td>
+					<td colspan="2" align="left" height="22px">
+						<input type="password" tabindex="2" name="txtPassword" value="" style="width:121px;_width:131px;">
+						<input type="hidden" name="SUBMIT" value="true">	
+					</td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="right">
+			<font face="Verdana" size="1">
+			<a href="http://www.maxpreps.com/FanPages/passwordrequest.mxp" tabindex="4"><font color="#990000"><u>Request</u></font></a><font color="#990000">  or
+			<a href="http://www.maxpreps.com/FanPages/PasswordRetrieval.mxp" tabindex="5"><font color="#990000"><u> Forgot Password?</u></font></a><font color="#990000">
+			</font>
+		</font></font></td>
+	</tr>
+</tbody></table>
+
+<!-- END COACH LOGIN -->	
+			</div>	 
+		</td>
+		</tr>
+		</tbody></table>
+		     				
+			<!--1st drop down menu --> 
+			<div id="dropmenu1" class="dropmenudivstates">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										<td valign="top">
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Alabama"><b>· Alabama</b></a>
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Alaska"><b>· Alaska</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Arizona"><b>· Arizona</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Arkansas"><b>· Arkansas</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/California"><b>· California</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Colorado"><b>· Colorado</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Connecticut"><b>· Connecticut</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Delaware"><b>· Delaware</b></a>				
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Florida"><b>· Florida</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Georgia"><b>· Georgia</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Hawaii"><b>· Hawaii</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Idaho"><b>· Idaho</b></a>	
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Illinois"><b>· Illinois</b></a>
+									</td>
+									<td valign="top">											
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Indiana"><b>· Indiana</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Iowa"><b>· Iowa</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Kansas"><b>· Kansas</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Kentucky"><b>· Kentucky</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Louisiana"><b>· Louisiana</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Maine"><b>· Maine</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Maryland"><b>· Maryland</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Massachusetts"><b>· Massachusetts</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Michigan"><b>· Michigan</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Minnesota"><b>· Minnesota</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Mississippi"><b>· Mississippi</b></a>											
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Missouri"><b>· Missouri</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Montana"><b>· Montana</b></a>	
+									</td>
+									<td valign="top">											
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Nebraska"><b>· Nebraska</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Nevada"><b>· Nevada</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewHampshire"><b>· New Hampshire</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewJersey"><b>· New Jersey</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewMexico"><b>· New Mexico</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NewYork"><b>· New York</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NorthCarolina"><b>· North Carolina</b></a>											
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/NorthDakota"><b>· North Dakota</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Ohio"><b>· Ohio</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Oklahoma"><b>· Oklahoma</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Oregon"><b>· Oregon</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Pennsylvania"><b>· Pennsylvania</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/PrepSchools"><b>· Prep Schools</b></a>
+									</td>
+									<td valign="top">											
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/RhodeIsland"><b>· Rhode Island</b></a>								
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/SouthCarolina"><b>· South Carolina</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/SouthDakota"><b>· South Dakota</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Tennessee"><b>· Tennessee</b></a>									
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Texas"><b>· Texas</b></a>										
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Utah"><b>· Utah</b></a>								
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Vermont"><b>· Vermont</b></a>								
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Virginia"><b>· Virginia</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Washington"><b>· Washington</b></a>								
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/DistrictofColumbia"><b>· Washington,DC</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/WestVirginia"><b>· West Virginia</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Wisconsin"><b>· Wisconsin</b></a>							
+										<a href="http://www.maxpreps.com/FanPages/StateMain.mxp/Wyoming"><b>· Wyoming</b></a>
+									</td>
+									</tr>
+									</tbody></table>
 
 			</div>
 			
 						<div id="dropmenu2" class="dropmenudiv" style="width:110px;">
-
-										<a href="http://www.maxpreps.com/FanPages/video/controller4.mxp"><b>MaxPrepsTV</b></a>
-										<a href="http://www.maxpreps.com/FanPages/Video/SendVideo.mxp"><b>Upload Video</b></a>		
-										<a href="http://maxpreps.com/FanPages/AmericanSoftball.mxp"><b>Softball Tips</b></a>									
+							<a href="http://www.maxpreps.com/FanPages/video/controller4.mxp"><b>· MaxPrepsTV</b></a>
+							<a href="http://www.maxpreps.com/FanPages/Video/SendVideo.mxp"><b>· Upload Video</b></a>			
+              <a href="http://www.maxpreps.com/FanPages/AmericanSoftball.mxp"><b>· Softball Tips</b></a>								
 						</div>
 						
 						<div id="dropmenu3" class="dropmenudiv" style="width:120px;">
 
-										<a href="http://www.maxpreps.com/FanPages/NationalGalleries.mxp"><b>National Galleries</b></a>
-										<a href="http://www.maxpreps.com/FanPages/photo_join.mxp"><b>Join MaxPreps</b></a>
-										<a href="http://admin.maxpreps.com/Admin.aspx/Global/_indexPhotographer"><b>Login</b></a>								
+							<a href="http://www.maxpreps.com/FanPages/NationalGalleries.mxp"><b>· National Galleries</b></a>
+							<a href="http://www.maxpreps.com/FanPages/photo_join.mxp"><b>· Join MaxPreps</b></a>
+							<a href="http://admin.maxpreps.com/Admin.aspx/Global/_indexPhotographer"><b>· Login</b></a>								
 						</div>
 						
-						<div id="dropmenu4" class="dropmenudiv" style="width:175px;">
-									<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Basketball_Winter_06-07"><b>Basketball Boys National</b></a>				
-								  <a href="http://www.maxpreps.com/FanPages/StateRankingsNavBasketball.mxp">Basketball(B) State/Section</a>
-								  <a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Girls_Varsity_Basketball_Winter_06-07"><b>Basketball Girls National</b></a>				
-									 <a href="http://www.maxpreps.com/FanPages/StateRankingsNavBasketballGirls.mxp">Basketball(G) State/Section</a>		
-																	
-										<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Football_Fall_06-07"><b>Football National</b></a>
-										 <a href="http://www.maxpreps.com/FanPages/StateRankingsNav.mxp">Football State/Section</a>		
-										<a href="http://www.maxpreps.com/FanPages/rankings.mxp"><b>About the Rankings</b></a>									
-						</div>			
+					<div id="dropmenu4" class="dropmenudiv" style="width:275px;">
+							<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5">
+								<tbody><tr valign="middle">
+									<td align="left" class="smallFont" style="border-top:solid 1px #514C4C; border-bottom:solid 1px #514C4C; padding:3px;background-color:#686868" background="http://www.maxpreps.com/FanPages/Images/Plain.jpg">
+									    &nbsp;<font color="#D2C49F"><b>FOOTBALL</b></font>
+										</td>
+									</tr>
+								</tbody></table>
+						<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Football_Fall_07-08"><b>· Football National 07-08</b></a>
+					  <a href="http://www.maxpreps.com/FanPages/StateRankingsNav.mxp"><b>· Football State/Section 07-08</b></a>	
+						<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Football_Fall_06-07"><b>· Football National 06-07</b></a>
+					  <a href="http://www.maxpreps.com/FanPages/StateRankingsNav_0607.mxp"><b>· Football State/Section 06-07</b></a>	
+					  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5">
+								<tbody><tr valign="middle">
+									<td align="left" class="smallFont" style="border-top:solid 1px #514C4C; border-bottom:solid 1px #514C4C; padding:3px;background-color:#686868" background="http://www.maxpreps.com/FanPages/Images/Plain.jpg">
+									    &nbsp;<font color="#D2C49F"><b>Volleyball</b></font>
+										</td>
+									</tr>
+								</tbody></table>
+						<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Girls_Varsity_Volleyball_Fall_07-08"><b>· Volleyball(G) National 07-08</b></a>
+						<a href="http://www.maxpreps.com/FanPages/StateRankingsNavVolleyballGirls.mxp"><b>· Volelyball(G) State/Section 07-08</b></a>	
+					  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5">
+								<tbody><tr valign="middle">
+									<td align="left" class="smallFont" style="border-top:solid 1px #514C4C; border-bottom:solid 1px #514C4C; padding:3px;background-color:#686868" background="http://www.maxpreps.com/FanPages/Images/Plain.jpg">
+									    &nbsp;<font color="#D2C49F"><b>BASKETBALL</b></font>
+										</td>
+									</tr>
+								</tbody></table>
+						<a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Boys_Varsity_Basketball_Winter_06-07"><b>· Basketball(B) National 06-07</b></a>				
+					  <a href="http://www.maxpreps.com/FanPages/StateRankingsNavBasketball.mxp"><b>· Basketball(B) State/Section 06-07</b></a>
+					  <a href="http://www.maxpreps.com/FanPages/NationalRankings.mxp/Girls_Varsity_Basketball_Winter_06-07"><b>· Basketball(G) National 06-07</b></a>				
+					  <a href="http://www.maxpreps.com/FanPages/StateRankingsNavBasketballGirls.mxp"><b>· Basketball(G) State/Section 06-07</b></a>		
+																
+					 	<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5">
+								<tbody><tr valign="middle">
+									<td align="left" class="smallFont" style="border-top:solid 1px #514C4C; border-bottom:solid 1px #514C4C; padding:3px;background-color:#686868" background="http://www.maxpreps.com/FanPages/Images/Plain.jpg">
+									    &nbsp;<font color="#D2C49F"><b>MORE</b></font>
+										</td>
+									</tr>
+								</tbody></table>	
+						<a href="http://www.maxpreps.com/FanPages/rankings.mxp"><b>· About the Rankings</b></a>								
+						</div>					
 						
 						<div id="dropmenu5" class="dropmenudiv" style="width:105px;">
-
-										<a href="http://admin.maxpreps.com/Admin.aspx"><b>Login</b></a>
-										<a href="http://www.maxpreps.com/FanPages/Content/Directory.mxp/DirectoryID-1d252eb5-ee33-4461-8d40-29323f6c7420"><b>Games Wanted</b></a>		
-										<a href="http://www.maxpreps.com/FanPages/Camplistings.mxp"><b>Camp Listings</b></a>									
+							<a href="http://admin.maxpreps.com/Admin.aspx"><b>· Login</b></a>
+							<a href="http://www.maxpreps.com/FanPages/Content/Directory.mxp/DirectoryID-1d252eb5-ee33-4461-8d40-29323f6c7420"><b>· Games Wanted</b></a>		
+							<a href="http://www.maxpreps.com/FanPages/Camplistings.mxp"><b>· Camp Listings</b></a>									
 						</div>		
 						
 						<div id="dropmenu6" class="dropmenudiv" style="width:150px;">
-								<a href="http://www.maxpreps.com/FanPages/roadtour.mxp"><b>Road Tour</b></a>
-								<a href="http://www.maxpreps.com/FanPages/tourOfChampions.mxp"><b>Tour of Champions</b></a>
-								<a href="http://www.maxpreps.com/FanPages/collegehelp.mxp"><b>Collegiate Assistance</b></a>
-								<a href="http://www.maxpreps.com/FanPages/video/controller4.mxp"><b>MaxPrepsTV</b></a>	
-							<a href="http://www.maxpreps.com/FanPages/aboutus.mxp"><b>About Us</b></a>						
+								<a href="http://www.maxpreps.com/FanPages/nikeRoadTour.mxp"><b>· Game of the Week</b></a>
+								<a href="http://www.maxpreps.com/FanPages/video/controller4.mxp"><b>· MaxPrepsTV</b></a>	
+								<a href="http://www.maxpreps.com/FanPages/Search.mxp/opttype-school"><b>· Search</b></a> 
+							  <a href="http://www.maxpreps.com/FanPages/aboutus.mxp"><b>· About Us</b></a>
+						    <a href="http://www.trupreps.com"><b>· TRUpreps.com</b></a>	
+							  <a href="http://www.maxpreps.com/FanPages/intern.mxp"><b>· The Intern</b></a>
+							  <a href="http://www.maxpreps.com/FanPages/writers.mxp/author-krider"><b>· Krider's Corner</b></a>	
+								<a href="http://www.maxpreps.com/FanPages/collegehelp.mxp"><b>· Collegiate Assistance</b></a>
+								<a href="http://www.maxpreps.com/FanPages/roadtour.mxp"><b>· Road Tour</b></a>
+							  <a href="http://www.maxpreps.com/FanPages/trainingCenter.mxp"><b>· Training Center</b></a>
+								<a href="http://www.maxpreps.com/FanPages/tourOfChampions.mxp"><b>· Tour of Champions</b></a>					
 						</div>
 						
-						<div id="dropmenu7" class="dropmenudiv" style="width:150px;">
-								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Basketball_Winter_06-07/Stattype-Scoring"><b>Boys Basketball 06-07</b></a>
-								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Girls_Varsity_Basketball_Winter_06-07/Stattype-Scoring"><b>Girls Basketball 06-07</b></a>
-								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_06-07/Stattype-Passing"><b>Offense Football</b></a>
-								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_06-07/Stattype-Tackles"><b>Defense Football</b></a>
+						<div id="dropmenu7" class="dropmenudiv" style="width:160px;">
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_07-08/Stattype-Passing"><b>· Football - Offense 07-08</b></a>
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_07-08/Stattype-Tackles"><b>· Football - Defense 07-08</b></a>
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_06-07/Stattype-Passing"><b>· Football - Offense 06-07</b></a>
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Football_Fall_06-07/Stattype-Tackles"><b>· Football - Defense 06-07</b></a>
+								
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Boys_Varsity_Basketball_Winter_06-07/Stattype-Scoring"><b>· Boys Basketball 06-07</b></a>
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Girls_Varsity_Basketball_Winter_06-07/Stattype-Scoring"><b>· Girls Basketball 06-07</b></a>
+
+								<a href="http://www.maxpreps.com/FanPages/NationalLeaders.mxp/Girls_Varsity_Volleyball_Fall_07-08/Stattype-Kills"><b>· Girls Volleyball 07-08</b></a>							
+						  
 						</div>
-						
+
+						<div id="dropmenu8" class="dropmenudiv" style="width:185px;">
+							<a href="http://www.maxpreps.com/FanPages/natSportmain.mxp/Boys_Varsity_Football_Fall_07-08"><b>· Football (B)</b></a>
+						<a href="http://www.maxpreps.com/FanPages/natSportmain.mxp/Boys_Varsity_Lacrosse_Spring_06-07"><b>· LAX (B)</b></a>
+						<a href="http://www.maxpreps.com/FanPages/natSportmain.mxp/Girls_Varsity_Volleyball_Fall_07-08"><b>· Volleyball (G)</b></a>
+						<font class="menutext3">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5">
+							<tbody><tr valign="middle">
+								<td align="left" class="smallFont" style="border-top:solid 1px #514C4C; border-bottom:solid 1px #514C4C; padding:3px;background-color:#686868" background="http://www.maxpreps.com/FanPages/Images/Plain.jpg">
+									    &nbsp;<font color="#D2C49F"><b>COMING THIS WINTER</b></font>
+								</td>
+							</tr>
+						</tbody></table>
+						 <b>&nbsp;&nbsp; · Basketball (B)</b><br>
+					   <b>&nbsp;&nbsp; · Basketball (G)</b><br>
+					  </font>
+						</div>
+									
 			<script type="text/javascript">
 			cssdropdown.startchrome("chromemenu")
-			</script>
+			</script>	
 </div>
 
 				
 <!-- PAGE TEMPLATE INSERT -->
 
-        <div class="content_frame" style="clear:both;">
+<div class="content_frame" style="clear:both;">
 <table width="980" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr valign="top" align="left">
 		<td width="980">
@@ -389,70 +579,8 @@
 </tbody></table>
 <table width="985" height="1000" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr valign="TOP">
-		<!-- LEFT COLUMN -->
-		<td width="130" valign="TOP" bgcolor="#514C4C" style="border: solid 0 #B9A36A; border-right-width:2px; padding-right:0.3ex">
-			<!-- MEMBER SIGN-IN -->
-           	<!-- MEMBER SIGN-IN -->
-
-       
-       <table width="100%" cellpadding="4" cellspacing="0" border="0" class="standardfont" bgcolor="#514C4C">
-           <form name="frmMemberSignin" action="http://www.maxpreps.com/FanPages/Members/Signin.mxp" method="post"></form>
-            <tbody><tr valign="middle">
-            	<td align="center">
-                      <div align="Left" <font="" class="MenuHead"><font color="#D2C49F"><b>MEMBERS</b></font></div>
-                      <table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><!-- SPACER --></td></tr></tbody></table>
-                      <font class="SmallFont"><font color="#CCCCCC">Member E-Mail</font>
-                      <font face="Verdana" size="2" color="#000000">
-                      <input type="text" name="txtUserName" style="color: #000000; font-family: Verdana; font-weight: bold; font-size: 8px; background-color: #D2C49F;" size="15" value="">
-                      <font class="SmallFont"><font color="#CCCCCC">Password</font>
-                      <input type="password" name="txtPassword" style="color: #000000; font-family: Verdana; font-weight: bold; font-size: 8px; background-color: #D2C49F;" size="15" value="">
-                      <input type="hidden" name="SUBMIT" style="color: #000000; font-family: Verdana; font-weight: 500; font-size: 8px; background-color: #FFFFFF;" size="10" value="true">
-                             <br>
-                   <input type="submit" style="color: #FFFFFF; font-family: Verdana; font-weight: 500; font-size: 8px; background-color: #990000;" size="20" value="Sign-In">
-                      <br>
-                      <font face="Verdana" size="1">
-                      <a href="http://www.maxpreps.com/FanPages/Members/ForgotPassword.mxp"><font color="#F8D837"><u>Forgot password?</u></font></a>
-			</font></font></font></font></td>
-            
-            </tr>
-       </tbody></table>
-       
-
-             	<!-- INFO LIST -->
-             	<br><br><table width="100%" cellpadding="3" cellspacing="0" border="0" class="SmGoldLink" bgcolor="#514C4C">
-	<tbody><tr>
-		<td align="left" width="100%" class="MenuHead" bgcolor="#686868">
-			<table height="5" cellpadding="0" cellspacing="0"><tbody><tr><td></td><!-- SPACER --></tr></tbody></table>
-			<font color="#B9A36A">SITE INFO</font>
-		</td>
-	</tr>
-	<tr valign="Top">
-		<td align="left" width="100%">
-			<a href="http://www.maxpreps.com/FanPages/AboutUS.mxp">ABOUT US</a>
-			<table cellpadding="0" cellspacing="0" class="TanLine"><tbody><tr><td></td></tr></tbody></table>
-			<a href="http://www.maxpreps.com/FanPages/Advertising.mxp">ADVERTISING</a>
-			<table cellpadding="0" cellspacing="0" class="TanLine"><tbody><tr><td></td></tr></tbody></table>
-			<a href="http://www.maxpreps.com/FanPages/contactus.mxp">CONTACT US</a>
-			<table cellpadding="0" cellspacing="0" class="TanLine"><tbody><tr><td></td></tr></tbody></table>
-			<a href="http://www.maxpreps.com/FanPages/Employment.mxp">JOBS</a>
-			<table cellpadding="0" cellspacing="0" class="TanLine"><tbody><tr><td></td></tr></tbody></table>
-			<a href="http://www.maxpreps.com/FanPages/PressReleases.mxp">PRESS RELEASES</a>
-			<table cellpadding="0" cellspacing="0" class="TanLine"><tbody><tr><td></td></tr></tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-
-             	<!-- FEATURE LIST -->
-             	
-             	
-           <!-- END LEFT COLUMN -->
-		</td>
-		<td valign="TOP" rowspan="2" bgcolor="#000000">
-			<!-- SPACER --><img src="http://www.maxpreps.com/FanPages/Images/spacer.gif" width="0" height="0" border="0">
-		</td>
 		<!-- MIDDLE COLUMN -->
-		<td width="100%" valign="TOP" rowspan="2" bgcolor="#FFFFFF">
+		<td width="100%" valign="TOP" bgcolor="#FFFFFF">
 			<table width="100%" cellpadding="5" class="borderedtablesection">
 				<tbody><tr>
 					<td>
@@ -520,10 +648,7 @@
 			</tbody></table>
 			<!-- MAIN PAGE ITEMS -->
 		<!-- END MIDDLE COLUMN -->
-		</td>
-		<td rowspan="2" bgcolor="#000000">
-			<!-- SPACER --><img src="http://www.maxpreps.com/FanPages/Images/spacer.gif" width="0" height="0" border="0">
-		</td>
+		</td>		
 	</tr>
 </tbody></table>
 
@@ -539,19 +664,24 @@
 				<a href="http://www.maxpreps.com/FanPages/aboutus.mxp"><font color="#000000">About MaxPreps</font></a> | 
 				<a href="http://www.maxpreps.com/FanPages/ContactUs.mxp"><font color="#000000">Contact Us</font></a> | 
 				<a href="http://www.maxpreps.com/FanPages/correctrequest.mxp"><font color="#000000">Correct an Error</font></a> | 
-				<a href="http://www.maxpreps.com/FanPages/Advertising.mxp"><font color="#000000">Advertising Info</font></a> | 
-			<!--	<a href="http://www.maxpreps.com/FanPages/Employment.mxp"><font color="#000000">Jobs at MaxPreps</font></a> |-->
+			  <a href="http://www.maxpreps.com/FanPages/Employment.mxp"><font color="#000000">Jobs at MaxPreps</font></a> |
 				<a href="http://www.maxpreps.com/FanPages/PressReleases.mxp"><font color="#000000">Press Releases</font></a> |
+				<a href="http://www.maxpreps.com/FanPages/advertising.mxp"><font color="#000000">Advertising</font></a> |
 				<a href="http://www.maxpreps.com/FanPages/PrivacyPolicy.mxp"><font color="#000000">Privacy Policy</font></a> | 
 				<a href="/policy.htm" target="_blank"><font color="#000000">Terms of Use</font></a> |
-				<a href="http://www.sportsline.com/" target="_blank"><font color="#000000">CBS Sportsline</font></a> |
+				<a href="http://www.sportsline.com/" target="_blank"><font color="#000000">CBS Sports</font></a> |
 				<a href="http://www.cstv.com/" target="_blank"><font color="#000000">CSTV</font></a> 
 		</td>
 	</tr>
 	<tr>
 		<td align="center" class="SmallFont">
-			MaxPreps, Inc. All Rights Reserved. Copyright 2002 - 2007<br>
+			CBS MaxPreps, Inc. All Rights Reserved. Copyright 2002 - 2007<br>
 			America's Source for High School Sports
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="http://www.maxpreps.com/FanPages/Images/CSTV_Division.gif" width="234" height="76" border="0" alt="A Division of CSTV" title="A Division of CSTV">
 		</td>
 	</tr>
 </tbody></table>
@@ -562,9 +692,29 @@ _qacct="p-4fIJOpeW-yPHI";quantserve();</script>
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-4fIJOpeW-yPHI.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
 <!-- End Quantcast tag -->
-		</div>
-		
+		</div>		
 <!-- END OF FOOTER -->
+
+<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+ var _rsCI="us-cstv";
+ var _rsCG="maxpreps";
+ var _rsDN="//secure-us.imrworldwide.com/";
+
+</script>
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v52.js"></script>
+<noscript>
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-cstv&amp;cg=maxpreps&amp;cc=1" alt=""/>
+
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+
+<script type="text/javascript">
+	if (cssdropdown.startchrome != null) cssdropdown.startchrome("chromemenu2")
+</script>
+
 
 
 	<script type="text/javascript">
