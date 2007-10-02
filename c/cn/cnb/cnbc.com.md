@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601200527id_/http%3A//www.cnbc.com/id/15837339/site/14081545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002232027id_/http%3A//www.cnbc.com/id/15837339/site/14081545) for the most accurate reproduction.*
 
 # Privacy Policy - CNBC.com
 
