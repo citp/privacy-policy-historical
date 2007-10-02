@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxpreps.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503155519id_/http%3A//www.maxpreps.com/FanPages/PrivacyPolicy.mxp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpreps.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002222625id_/http%3A//www.maxpreps.com/FanPages/PrivacyPolicy.mxp) for the most accurate reproduction.*
 
 # MaxPreps: - High School Sports
 
