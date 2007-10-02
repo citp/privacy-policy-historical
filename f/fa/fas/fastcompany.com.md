@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016061349id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002200528id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
 
 # Fast Company Privacy Policy
 
@@ -38,7 +38,5 @@ We will disclose the information we maintain when required to do so by law, for 
     In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 * * *
-
-###  Advertisement
 
 ###  Featured Services
