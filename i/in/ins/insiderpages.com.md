@@ -1,82 +1,91 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622155519id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002212120id_/http%3A//www.insiderpages.com/legal/privacy) for the most accurate reproduction.*
 
 # Insider Pages Privacy Policy
 
-* * *
+InsiderPages is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to InsiderPages, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, InsiderPages has revised its [Privacy Policy](https://web.archive.org/legal/privacy_full), effective July 23, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/legal/privacy_faq) for details about the changes. Please review both the Consumer Privacy statement and this site’s complete privacy policy.
 
-We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. This "Privacy Statement" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Insider Pages Terms of Service unless specifically defined in this Privacy Statement. All references herein to "we" or "us" refer to Insider Pages. 
+### Consumer Privacy at InsiderPages, an IAC Company
 
-* * *
+InsiderPages is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/).
 
-### User Consent to Privacy Statement
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of InsiderPages, please [click here](https://web.archive.org/legal/privacy_full).
 
-Any person accessing, browsing, or otherwise using the web site located at www.insiderpages.com (the "Site"), either manually or via an automated device or program, shall be considered a "Visitor." Further, a Visitor who registers at the Site, downloads, and/or makes purchases of products shall be considered a "User." All Visitors are bound by the terms of this Privacy Statement. Visitors consent to the collection, use, and disclosure of Visitor information pursuant to the terms of this Privacy Statement. 
+### Information we may collect [(read more »)](https://web.archive.org/legal/privacy_full#information_we_collect)
 
-### Information Collected
+We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
 
-To join the Insider Pages network and/or download the Software Product, you are required to submit your name, address, email address ("Personally Identifiable Information"). We store all Personally Identifiable Information. We do not collect any Personally Identifiable Information from Visitors who are not Users. We collect and store Visitors' site referral information, browsing patterns, technical information (e.g., the Visitor's browser version, IP address, and operating system), and other Site use information through the use of "Cookies" ("Information"). (For more information regarding Cookies, see below.) We associate the Information obtained about a User to the User's Personally Identifiable Information. 
+We also may collect other types of information in the following ways when you visit our website:
 
-### Use and Transfer of Information and Personally Identifiable Information
-
-We use Information and Personally Identifiable Information as necessary to complete a transaction for you, to better understand the use of the Site and to better tailor the Site to Visitor and User preferences, as well as for customer support purposes. We also may use the name, street address and email address that Users supply to contact Users, as well as to send Users promotional or other materials. To unsubscribe from our mailing list, please follow the directions set forth within the promotional or other materials you receive from us or email [customerservice@insiderpages.com](mailto:customerservice@insiderpages.com). In addition, we transfer Information and Personally Identifiable Information outside of the European Union to the United States. 
-
-### Information Collected from Use of the Software Products
-
-When you download and use the Upload Agent, we will collect general information from you, including the business names submitted, contact name for point person at business, business email, street address, zip code, state, phone number, rating regarding a personal experience with the vendor, and any comments about that experience. In addition, each time you use Insider Pages, we will collect general usage information from you including, types of searches, the date your searches are performed and the number of searches you make. This information will help us better understand how Insider Pages is being used and will assist us in continuing to improve our services. 
-
-### Disclosure of Information and Personally Identifiable Information to Third Parties
-
-  1. #### US Customers
-
-We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site and with the Software Products. We do not otherwise disclose Information or Personally Identifiable Information to third parties, except when required to do so by law pursuant to a search warrant, subpoena, or other legal process. 
-  2. #### International Customers
-
-We do not disclose your Information or Personally Identifiable Information to third parties, except when required to do so by law pursuant to a search warrant, subpoena, or other legal process. 
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
+  * We may assign your computer one or more [cookies](https://web.archive.org/legal/privacy_full#cookies) which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such [web beacons](https://web.archive.org/legal/privacy_full#web_beacons), which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
 
 
-### Use of Reviews, Ratings and User Names
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
 
-Insider Pages gives you the opportunity to give Reviews and Ratings for local businesses. Your name may appear next to your user reviews and ratings as they are posted on the Site. We may also use and disclose your user name, reviews or portions thereof and ratings in any other manner, including in marketing materials. To read further details about how we may use your Reviews or Ratings, see ["Reviews."](https://web.archive.org/legal/terms#18d)
+###  Information others may collect [(read more »)](https://web.archive.org/legal/privacy_full#information_others_collect)
 
-### Questionnaires and Surveys
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. We do not provide any personal information to these companies. These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) which offers consumers the ability to opt out of ad targeting by all member companies. 
 
-From time to time, we may ask you to complete questionnaires or surveys, which we use to obtain additional demographic information about our users, to measure and improve the quality of our service and to better assess your interests and needs. If we ask you to complete a survey or questionnaire, we will explain how we intend to use the information that you provide to us. You always have the option of not responding to any questionnaire or survey. 
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
 
-### Aggregated General Information
+###  How we may use information we collect [(read more »)](https://web.archive.org/legal/privacy_full#how_we_use_information)
 
-In addition, we may share aggregated general information about our Site with our business partners or the general public. For example, we may share information regarding the daily number of unique users to our Site with potential corporate partners or others. Aggregated data does not contain any information that could be used to contact or identify you. 
+We may use information to:
 
-### Cookies
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website; and
+  * Enforce our Terms of Use.
 
-We use a feature of Internet Web browsers called a "Cookie", which is a file that a Visitor's Web browser places on a Visitor's computer's hard drive, to assign an identification code to the computer and to collect and store Information. We associate the Information obtained about a User to the User's Personally Identifiable Information. We do not and cannot use Cookies to retrieve individual Personally Identifiable Information about Visitors from a Visitor's computer unless the Visitor knowingly and willingly provided such information. Cookies do not contain any credit card information. The Cookie technology we use cannot obtain information from a Visitor's hard drive or pass on a computer virus. If you choose to reject the Cookies, some areas of the Site may not function properly or may not be accessible. 
 
-### Linked Internet Web Sites
 
-The Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document or to another document altogether, to other web sites not controlled by us. These hyperlinked web sites may contain privacy provisions that are different from those provided herein. We are not responsible for the collection, use, or disclosure of information collected through these web sites, and we expressly disclaim any and all liability related to such collection, use, or disclosure. 
+###  With whom we may share information we collect [(read more »)](https://web.archive.org/legal/privacy_full#with_whom_we_share_information)
 
-### Children
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
-Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site. 
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
-### Security
 
-This Site has password security measures to protect against the loss, misuse, and alteration of the Information and Personally Identifiable Information under our control. We make no representations or warranties with regard to the sufficiency of these security measures. We shall not be responsible for any actual or consequential damages that result from a lapse in compliance with this Privacy Statement as a result of a security breach or technical malfunction. 
 
-### Sale of Assets
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-In the event that another company acquires all or substantially all of the assets related to the business of Insider Pages, we reserve the right to include Information and Personally Identifiable Information among the assets transferred to the acquiring company. 
+###  Your choices [(read more »)](https://web.archive.org/legal/privacy_full#information_collection)
 
-### Amendments to Privacy Statement
+You may choose:
 
-We reserve the right to amend this Privacy Statement periodically. Use of Information and Personally Identifiable Information that we gather now is subject to the Privacy Statement in effect at the time the Information or Personally Identifiable Information is used. Any amendments made to this Privacy Statement will be considered effective ten (10) days after the amendments are posted on the Site. 
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
+  * To delete or decline [cookies](https://web.archive.org/legal/privacy_full#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
 
-### Contact Information
 
-If Visitors have any questions about our products, services or Privacy Statement or to correct your Registration Information, please contact Insider Pages Support, 130 West Union Street, Pasadena, CA 91103 USA Visitors may also email [customerservice@insiderpages.com](mailto:customerservice@insiderpages.com) with questions about our Privacy Statement, [info@insiderpages.com](mailto:info@insiderpages.com) with questions about our products and services, and [customerservice@insiderpages.com](mailto:customerservice@insiderpages.com) to correct your Registration Information. 
 
-### Submissions
+###  Security [(read more »)](https://web.archive.org/legal/privacy_full#security)
 
-We appreciate and will consider any comments you may have on our Site, the Software Products, service, or ideas you may have on how to improve them. Please email us with your feedback at [info@insiderpages.com](mailto:info@insiderpages.com). Please note that by doing so, or by otherwise posting, uploading, inputting, providing or submitting ("Posting") your comments, feedback, concepts, know-how, techniques, software, or ideas ("Submission"), you irrevocably assign free of charge, all worldwide rights, title and interest in all copyrights, patent rights, and all other intellectual property rights in the Submission to Insider Pages, its successors and assigns. You agree to cooperate with Insider Pages, its successors, and assigns, in perfecting such intellectual property rights. Without limitation, Insider Pages, its affiliated companies and its licensees, will be entitled to use your Submission on an unrestricted basis, for any purpose whatsoever, including, to: develop, manufacture and market products incorporating such Submission, to copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat your Submission; to publish your name in connection with your Submission; and the unrestricted right to license such rights. 
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
 
-Insider Pages does not wish to receive any submission that is confidential or proprietary. You agree not to post or otherwise provide any submission that you consider confidential or proprietary, and any submissions you post will be deemed and treated as non-confidential and non-proprietary. In addition, do not post any Submissions that you do not want to assign to Insider Pages. No compensation will be paid or is due with respect to the assignment or use of your Submission, as provided herein. Insider Pages is under no obligation to post or use any Submission you may provide. By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission including, without limitation, all the rights necessary for you to assign, provide, post, upload, input or submit the Submission. 
+### Changes to our Privacy Policy
+
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website. 
+
+### How to contact us
+
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/legal/privacy_full), or our information practices, please contact us by email or postal mail below: 
+
+Privacy Officer  
+InsiderPages  
+1355 Market Street, #310  
+San Francisco, CA 94103
+
+[legal@insiderpages.com](mailto:legal@insiderpages.com)
+
+© 2007 IAC/InterActiveCorp. All rights reserved. 
