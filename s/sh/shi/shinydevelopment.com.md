@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529115933id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003003829id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
 
 # Shiny Development :: Privacy Policy
 
