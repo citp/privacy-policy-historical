@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629165317id_/http%3A//www.funambol.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002215804id_/http%3A//www.funambol.com/site/privacy.html) for the most accurate reproduction.*
 
 # funambol :: privacy
 
