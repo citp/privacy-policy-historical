@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032559id_/http%3A//www.azoogleads.com/corp/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003051219id_/https%3A//www.azoogleads.com/corp/about/privacy.php) for the most accurate reproduction.*
 
 # AzoogleAds - About Us - Adware Acceptable Use Policy
 
@@ -26,21 +26,21 @@ In the course of serving advertisements to this site, our third-party advertiser
 **Contacting AzoogleAds:**  
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at help@AzoogleAds.com
 
-### AzoogleAds Affiliates
+### AzoogleAds Publishers
 
-This Affiliates privacy policy is intended to disclose the type of information that AzoogleAds collects about its Affiliates and how the information is used. For our web user privacy policy, please see the Web User Privacy Statement . 
+This Publishers privacy policy is intended to disclose the type of information that AzoogleAds collects about its Publishers and how the information is used. For our web user privacy policy, please see the Web User Privacy Statement . 
 
 **Ownership of Information:**  
-AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Affiliate information and aggregated Web User information.
+AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Publisher information and aggregated Web User information.
 
 **Use of Information Collected:**  
-Affiliate information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Affiliates to the best of our ability.
+Publisher information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Publishers to the best of our ability.
 
 **Information Sharing:**  
-Affiliate information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others.
+Publisher information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others.
 
 **Use of Cookies:**  
-Cookies are used to simplify Affiliate logins and to facilitate secure navigation through the password protected areas of the website. Affiliates who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website.
+Cookies are used to simplify Publisher logins and to facilitate secure navigation through the password protected areas of the website. Publishers who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website.
 
 **Security:**  
 AzoogleAds takes reasonable precaution to protect the information collected through its websites against loss, misuse or alteration. All information is password protected and only employees of AzoogleAds that require access to this information to conduct normal business are give permissions to use it.
@@ -49,4 +49,4 @@ AzoogleAds takes reasonable precaution to protect the information collected thro
 When you leave this site though links found on this site to other websites (whether knowingly or not) AzoogleAds can no longer be responsible in any way for any material that you encounter and AzoogleAds excludes (to the fullest extent permitted by law) any liability that may arise with respect to or as a result of such material causing any damage, costs, injury or financial loss of any kind.
 
 **Further Information:**  
-If you have any further questions regarding the AzoogleAds Affiliates privacy Policy please contact us at:
+If you have any further questions regarding the AzoogleAds Publishers privacy Policy please contact us at:
