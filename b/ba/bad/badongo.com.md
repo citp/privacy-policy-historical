@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428181646id_/http%3A//www.badongo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badongo.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003134545id_/http%3A//www.badongo.com/privacy) for the most accurate reproduction.*
 
 # Badongo free file hosting and image hosting
 
@@ -17,5 +17,5 @@ You are solely responsible for maintaining the secrecy of your passwords or any 
 
 Opt-Out Methods: 
 
-By email to legal@badongo.com  
+By email to support@badongo.com  
 
