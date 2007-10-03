@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203103350id_/http%3A//www.cw.com.hk/computerworldhk/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003115638id_/http%3A//www.cw.com.hk/computerworldhk/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Computer World HK
 
