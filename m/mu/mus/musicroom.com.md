@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211042348id_/http%3A//www.musicroom.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004003838id_/http%3A//www.musicroom.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Musicroom.com - Sheet Music for Musicians
+
+## Privacy Policy
 
 Musicroom.com is committed to keeping the personal details of its visitors and customers private and secure (information is collected and stored in accordance with the Data Protection Act 1998). 
 
@@ -20,7 +22,7 @@ We use the personal information you give us for the following purposes:
   * to contact you about the status of your order. 
   * to efficiently process and dispatch your order to your delivery address. 
   * to change and enhance the web site. 
-  * to occasionally email you with details of our products, special promotions, and enhancements. If you would prefer not to receive these mailings, then please send an email to [info@musicroom.com](mailto:info@musicroom.com) with the subject line 'Unsubscribe'. Please note that we will only send email to people who have opted in to receive it and where we are replying to an email query.
+  * to occasionally email you with details of our products, special promotions, and enhancements. If you would prefer not to receive these mailings, then please send an email to [ info@musicroom.com](mailto:info@musicroom.com) with the subject line 'Unsubscribe'. Please note that we will only send email to people who have opted in to receive it and where we are replying to an email query.
   * to conduct anonymous and aggregate research into a) the way our web site is used and b) the purchasing patterns of our customers. 
 
 
@@ -29,7 +31,7 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law. 
 
-If you have any questions about Musicroom.com's privacy policy please email them to [info@musicroom.com](mailto:info@musicroom.com)
+If you have any questions about Musicroom.com's privacy policy please email them to [ info@musicroom.com](mailto:info@musicroom.com)
 
 **Platform of Privacy Preferences**
 
@@ -37,4 +39,7 @@ As well as the above Privacy Policy we offer a **P3P** Privacy Policy that can b
 
 Our machine-readable P3P Policy is located here: [www.musicroom.com/W3C/privacy_policy.xml](https://web.archive.org/W3C/privacy_policy.xml). 
 
-We have also translated the P3P Policy into English: [www.musicroom.com/W3C/privacy_policy.aspx](https://web.archive.org/W3C/privacy_policy.aspx). 
+We have also translated the P3P Policy into English: [www.musicroom.com/W3C/PrivacyPolicy.aspx](https://web.archive.org/W3C/PrivacyPolicy.aspx). 
+
+  
+
