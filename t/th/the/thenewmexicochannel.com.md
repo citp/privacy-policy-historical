@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewmexicochannel.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425211653id_/http%3A//www.koat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewmexicochannel.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003020403id_/http%3A//www.koat.com/privacy) for the most accurate reproduction.*
 
 # KOAT.com - Privacy
 
