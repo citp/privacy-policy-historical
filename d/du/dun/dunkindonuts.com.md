@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017112239id_/https%3A//www.dunkindonuts.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003061640id_/https%3A//www.dunkindonuts.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Help
 
@@ -41,7 +41,7 @@ Information collected through our Web site is considered a trade secret of Dunki
 back to top
 
 **Franchising Information**  
-Dunkin' Donuts, along with Togo's and Baskin-Robbins, is one of the largest and most progressive quick service restaurant franchisers in the world. We are currently seeking qualified, motivated franchisee candidates for a number of available US markets. For franchise information on Dunkin' Donuts, Baskin-Robbins and Togo's, please visit our [Franchise Opportunity Web site](http://www.dunkin-baskin-togos.com/). The Franchise Opportunity Web site collects personal information from candidates. Please note that the privacy policy of the Franchise Opportunity Web site, not the DunkinDonuts.com privacy policy, applies to the Franchise Opportunity Web site.
+Dunkin' Donuts, along with Togo's and Baskin-Robbins, is one of the largest and most progressive quick service restaurant franchisers in the world. We are currently seeking qualified, motivated franchisee candidates for a number of available US markets. For franchise information on Dunkin' Donuts please visit our [Franchise Opportunity Web site](http://www.dunkinfranchising.com/). The Franchise Opportunity Web site collects personal information from candidates. Please note that the privacy policy of the Franchise Opportunity Web site, not the DunkinDonuts.com privacy policy, applies to the Franchise Opportunity Web site.
 
 back to top
 
