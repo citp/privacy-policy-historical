@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicforte.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114041055id_/http%3A//www.musicforte.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicforte.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004143552id_/http%3A//www.musicforte.com/security.php) for the most accurate reproduction.*
 
 # www.MusicForte.com
 
