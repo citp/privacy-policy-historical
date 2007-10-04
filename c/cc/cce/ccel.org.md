@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2006-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061225163437id_/http%3A//ccel.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccel.org privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004225438id_/http%3A//www.ccel.org/info/privacy.html) for the most accurate reproduction.*
 
 # CCEL Privacy Policy | Christian Classics Ethereal Library
 
-Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several CCEL services that require the collection of information from you. These services include making purchases through the CCEL Store and signing up with a user name and password to enable you to download books and access community features. Other services may set cookies on your computer. These include installing books on your computer and managing your personal preferences. 
+Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several CCEL services that require the collection of information from you. These services include making purchases through the CCEL Store and signing up with a user name and password to enable you to download books and access community and annotation features. Other services may set cookies on your computer. These include installing books on your computer, annotating books, and managing your personal preferences. 
 
 **The CCEL Store**
 
@@ -14,11 +14,11 @@ We receive from paypal.com only your name, postal address, e-mail address, and t
 
 Cookies are small bits of data that we send to your computer. They identify you as a CCEL user and contain information regarding your locally installed CCEL location and your CCEL preferences such as your preferred Bible version and note location. 
 
-The cookies are not used for tracking users outside the CCEL website, and they are not accessible by third parties. 
+The cookies are not used for tracking users outside the CCEL Web site, and they are not accessible by third parties. 
 
-**Website traffic information**
+**Web Site Traffic Information**
 
-When you visit this or any website, information is available to the site on the pages you view, the time of your visit, the browser you are using, the address of the computer you visit from, and the address of the page you are coming from. We use this information internally only, to better understand user needs and preferences and make the CCEL more useful. We do not share this information with third parties unless required by law, and we do not track web sites you visit before or after you access the CCEL.
+When you visit this or any Web site, information is available to the site on the pages you view, the time of your visit, the browser you are using, the address of the computer you visit from, and the address of the page you are coming from. We use this information internally only, to better understand user needs and preferences and make the CCEL more useful. We do not share this information with third parties unless required by law, and we do not track Web sites you visit before or after you access the CCEL.
 
 **Our Use and Disclosure of Information**
 
