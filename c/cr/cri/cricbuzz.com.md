@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102012557id_/http%3A//www.cricbuzz.com/index.php%3Foption%3Dcom_staticxt%26Itemid%3D999999%26staticfile%3Dpolicy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005003238id_/http%3A//www.cricbuzz.com/index.php%3Foption%3Dcom_staticxt%26Itemid%3D999999%26staticfile%3Dpolicy/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Cricbuzz.com :: The Worldwide Hub of Cricket
+# Blazing fast live cricket score, commentary at par with live action. Cricket schedule, latest news, chat, fan blogs and trivia
 
 [](http://www.cricbuzz.com/)[Home](http://www.cricbuzz.com/) Cricbuzz Privacy Policy    
 Cricbuzz Privacy Policy Privacy Policy  
