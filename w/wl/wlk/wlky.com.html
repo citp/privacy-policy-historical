@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the wlky.com privacy policy that was archived on 2007-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070202175503id_/http%3A//www.wlky.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wlky.com privacy policy that was archived on 2007-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071004222230id_/http%3A//www.wlky.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>WLKY.com - Privacy</title>
-<script src="/sh/flash/js/AC_OETags.js" language="javascript"></script><meta name="keywords" content="Privacy">
+<title>WLKY.com -
+Privacy</title>
+<script src="/sh/flash/js/AC_OETags.js" language="javascript" id="AC_OETags.js"></script><meta name="keywords" content="">
 <meta name="categories" content="Station, Privacy">
 <meta name="WT.cg_s" content="Privacy">
 <meta name="WT.cg_n" content="Station">
@@ -28,12 +29,20 @@ if (typeof rsinetsegs != "undefined") {
 
 			<!-- set ad zone  -->
 			<script type="text/javascript" src="http://www.wlky.com/js/6807715/script.js"></script>
+		
+	
 		<script type="text/javascript">
+			addEvent(window, "load", function(){
+				try{if(document.getElementById('imagesitelogo')) fixPngImage(document.getElementById('imagesitelogo'));} catch(e){}
+			});
+		</script>
+	
+<script type="text/javascript">
 var rnd = new Date();
 rnd = rnd.getTime();
 </script><script type="text/javascript">
 var pageProps= {
-time: {hr:"12",hr_p:"12",hr24:"12",hr24_p:"12",min:"54",sec:"17",mer:"pm",tz:"EST",mon:"2",mon_p:"02",date:"2",date_p:"02",yr:"2007",day:"6"},
+time: {hr:"6",hr_p:"06",hr24:"18",hr24_p:"18",min:"22",sec:"43",mer:"pm",tz:"EDT",mon:"10",mon_p:"10",date:"4",date_p:"04",yr:"2007",day:"5"},
 envhost:"www.wlky.com",sectionname:"Privacy",sectiontag:"station",sectionpath:"/privacy/"
 };
 
@@ -51,9 +60,11 @@ var adZone = 'national';
   
   
 <script language="javascript">
-var IBS_action = "http://search.wlky.com/query.html";
+var IBS_action = "/search/form.html";
 
-var OV_action = "http://www.wlky.com/osearch/detail.html?on=5&fn=10&Partner=ibs_kwsearch&type=lou&Keywords=";
+var YP_action = "http://yellowpages.wlky.com/";
+
+var OV_action = "http://www.wlky.com/websearch/index.html?qt=";
 
 /**
 * Changes form action attribute value based on which searches
@@ -63,34 +74,53 @@ function doSubmit(form, action) {
 form.action = action;
 if (!form) {}
 
-/* Create URL for the Overture Search */
-else if (action == OV_action) {
-document.location.href = OV_action + escape(form.elements.qt.value);
+/* monkey with the query values if YP search */
+else if (action == YP_action) {
+if (YP_action.substr(YP_action.length-1) == "=") { /* append query terms if YP_action is setup for it */
+YP_action += escape(form.elements.qt.value);
+}
+
+document.location.href = YP_action;
+
 }
 
 else {
 form.submit();
 }
 }
-</script><form name="IBSSearchForm" class="compactSearchForm" action="http://search.wlky.com/query.html"><input type="hidden" name="la" value="en"><div class="small">Search </div><input type="text" name="qt" value="" size="15" class="small" style="background: url(&quot;http://images.ibsys.com/sh/images/sponsors/yahoo/search_yahoo.gif&quot;) no-repeat rgb(255, 255, 255);"><a class="searchbtn" href="#" onclick="doSubmit(document.forms.IBSSearchForm, IBS_action); return false;"><img src="/images/structures/buttons/button_keyword.gif" alt="Search IBS" border="0" align="top"></a><a class="searchbtn" href="#" onclick="doSubmit(document.forms.IBSSearchForm, OV_action); return false;"><img src="/images/structures/buttons/button_web.gif" alt="Search the Web" border="0" align="top"></a></form>
+</script><form name="IBSSearchForm" class="compactSearchForm" action="/search/form.html" onsubmit="searchSubmit()"><input type="hidden" name="la" value="en"><input type="hidden" name="video" value="on"><input type="hidden" name="stories" value="on"><div class="small"></div><input type="hidden" name="client" value="pub-1569153127812452"><input type="hidden" name="forid" value="1"><input type="hidden" name="channel" value="6177684804"><input type="hidden" name="ie" value="ISO-8859-1"><input type="hidden" name="oe" value="ISO-8859-1"><input type="hidden" name="hl" value="en"><input type="hidden" name="cof" value="GALT:#000000;GL:1;DIV:#336699;VLC:000000;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:000000;GIMP:000000;FORID:11"><script type="text/javascript" src="http://www.wlky.com/js/11064151/script.js"></script><div id="googlesearchbox"><div id="sitesponsor"></div><span class="searchoption"><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="wlky.com" checked="" id="localsearch"><label for="localsearch" title="Search wlky.com"><small>Site</small></label></span><span class="searchoption"><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="websearch"><label for="websearch" title="Search the Web"><small>Web</small></label></span><div id="yellowpages"><input type="hidden" name="mkt" value=""><input type="hidden" name="heading" value=""><input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="yellowpagessearch"><label for="yellowpagessearch" title="Search Yellowpages"><small style="color: black;"><a id="yplink" href="http://yellowpages.wlky.com/">Yellow Pages</a></small></label></div><div id="googlesearchfield"><input type="text" name="qt" value="" size="15" class="small" id="searchtextbox">
+&nbsp;<input id="googlesearchgo" type="image" src="/sh/images/sponsors/google/hearst_go.gif" alt="GO"></div><div id="poweredbygoogle"></div></div></form>
   
   
 
-<script>
-// Add branding to search input by resizing input and assigning background image
-/* document.IBSSearchForm.qt.style.width="130px";
-document.IBSSearchForm.qt.style.height="16px"; 
-document.IBSSearchForm.qt.style.font="normal 10px verdana"; */
-document.IBSSearchForm.qt.style.background="url('http://images.ibsys.com/sh/images/sponsors/yahoo/search_yahoo.gif') #ffffff no-repeat";
-document.IBSSearchForm.qt.onfocus=switchSearchBrandStyles;
-function switchSearchBrandStyles() {
-	document.IBSSearchForm.qt.style.backgroundImage="none";
-	document.IBSSearchForm.qt.style.color="#000000";
+
+<script type="text/javascript">
+/*function fixyplink() {
+try {
+	document.getElementById("yplink").href = String(document.getElementById("yplink").href).replace("search.pg","");
 }
+catch(e) {}
+}
+try {fixyplink()} catch(e) {}
+addEvent(window, 'load', fixyplink);*/
+/*addEvent(window, "load", function() {
+	try {
+		document.getElementById('websearch').nextSibling.appendChild(document.createElement("br"));
+		document.forms[0].qt.id = "searchtextbox";
+		yplink = "yellowpages." + siteinfo.sitename.lc + "." + siteinfo.tld;
+		yplabel = document.getElementById('yellowpagessearch').nextSibling.firstChild;
+		//yplabel.innerHTML = "<a id='yplink' href='http://" + yplink + "/'>" + yplabel.innerHTML + "</a>";	
+		yplabel.innerHTML = "<a id='yplink' href='http://" + yplink + "/'>Yellow Pages</a>";	
+
+	}
+	catch(e) {}
+});
+*/
 </script>
 
+
 </div></div>
- </div><!--Start Nav--><div class="navbars"><div class="subnav"><div class="subnavHdr"><a href="/seenon32/" class="subnavHdrtxt"><span>Seen On 32</span></a></div><div class="navSubSections"></div></div><div class="navbar"><div class="navHdr MainNavHdr"><img src="/images/structures/tabs/MainNav.gif" alt="MainNav" title="MainNav" width="130" height="17" border="0"></div><div class="navMainSections MainNavBtns"><div class="navBtn"><a href="/">Home</a></div><div class="navBtn"><a href="/news/">Local News</a></div><div class="navBtn"><a href="/nationalnews/">National News</a></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><a href="/weather/">Weather</a></div><div class="navBtn"><a href="/traffic/">Traffic Watch 32</a></div><div class="navBtn"><a href="/sports/">Sports</a></div><div class="navBtn"><a href="/kentuckyderby/">Kentucky Derby</a></div><div class="navBtn"><a href="/slideshowcentral/">Slideshow Central</a></div><div class="navBtn"><a href="/video/">Video</a></div><div class="navBtn"><a href="/entertainment/">Entertainment</a></div><div class="navBtn"><a href="/health/">Health Watch</a></div></div></div><div class="navbar"><div class="navMainSections FeaturesNavBtns"><div class="navBtn"><a href="/community/">Community</a></div><div class="navBtn"><a href="/irresistible/">Irresistible Headlines</a></div><div class="navBtn"><a href="/education/">Education</a></div><div class="navBtn"><a href="/money/">Money</a></div><div class="navBtn"><a href="/technology/">Tech</a></div><div class="navBtn"><a href="/family/">Family</a></div><div class="navBtn"><a href="/food/">Recipes</a></div><div class="navBtn"><a href="/houseandhome/">House and Home</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr"><img src="/images/structures/tabs/MarketplaceNav.gif" alt="MarketplaceNav" title="MarketplaceNav" width="130" height="17" border="0"></div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="/localexperts/" class="expertNav">Local Experts</a></div><div class="navBtn"><a href="/automotive/">Auto</a></div><div class="navBtn"><a href="/dating/">Dating</a></div><div class="navBtn"><a href="/employment/">Career</a></div><div class="navBtn"><a href="/shopping/">Deals</a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861527;8704162;o?http://partners.findlaw.com/ibs/wlky.html">Legal Center</a></div><div class="navBtn"><a href="/realestate/">Real Estate</a></div><div class="navBtn"><a href="/travelgetaways/">Travel</a></div><div class="navBtn"><a href="http://www.weddingsolutions.com/">Weddings</a></div></div></div><div class="navbar"><div class="navHdr StationNavHdr"><img src="/images/structures/tabs/StationNav.gif" alt="StationNav" title="StationNav" width="130" height="17" border="0"></div><div class="navMainSections StationNavBtns"><div class="navBtn"><a href="/seenon32/">Seen On 32</a></div><div class="navBtn"><a href="http://forums.ibsys.com/index.cfm?sitekey=lou">Feedback 32</a></div><div class="navBtn"><a href="/target32/">Target 32</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div><div class="navBtn"><a href="/news/419250/detail.html">The Real Deal</a></div><div class="navBtn"><a href="/station/">Contact WLKY</a></div><div class="navBtn"><a href="/station/221557/detail.html">Jobs At WLKY</a></div><div class="navBtn"><a href="/wlkynewsteam/">WLKY News Team</a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div></div></div><div class="navbar"><div class="navHdr SitetoolsNavHdr"><img src="/images/structures/tabs/SitetoolsNav.gif" alt="SitetoolsNav" title="SitetoolsNav" width="130" height="17" border="0"></div><div class="navMainSections SitetoolsNavBtns"><div class="navBtn"><a href="/station/">Contact Us</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts</a></div><div class="navBtn"><a href="/emailnewsletters/">E-mail Sign Up</a></div><div class="navBtn"><a href="http://wlky.premiumweather.com/info/?c=IBS_subnav">Premium Weather</a></div><div class="navBtn"><a href="/rss/">RSS</a></div></div></div></div><!--End Nav--><div id="topleft" class="pageContainer">
+ </div><!--Start Nav--><div class="navbars"><div class="subnav"><div class="subnavHdr"><a href="/seenon32/" class="subnavHdrtxt"><span>Seen On 32</span></a></div><div class="navSubSections"></div></div><div class="navbar"><div class="navHdr MainNavHdr"><img src="/images/structures/tabs/MainNav.gif" alt="MainNav" title="MainNav" width="130" height="17" border="0"></div><div class="navMainSections MainNavBtns"><div class="navBtn"><a href="/">Home</a></div><div class="navBtn"><a href="/news/">Local News</a></div><div class="navBtn"><a href="/nationalnews/">National News</a></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><a href="/weather/">Weather</a></div><div class="navBtn"><a href="/traffic/">Traffic Watch 32</a></div><div class="navBtn"><a href="/sports/">Sports</a></div><div class="navBtn"><a href="/kentuckyderby/">Kentucky Derby</a></div><div class="navBtn"><a href="/slideshowcentral/">Slideshow Central</a></div><div class="navBtn"><a href="/video/">Video</a></div><div class="navBtn"><a href="/entertainment/">Entertainment</a></div><div class="navBtn"><a href="/health/">Health Watch</a></div></div></div><div class="navbar"><div class="navMainSections FeaturesNavBtns"><div class="navBtn"><a href="/community/">Community</a></div><div class="navBtn"><a href="/irresistible/">Irresistible Headlines</a></div><div class="navBtn"><a href="/education/">Education</a></div><div class="navBtn"><a href="/money/">Money</a></div><div class="navBtn"><a href="/technology/">Tech</a></div><div class="navBtn"><a href="/family/">Family</a></div><div class="navBtn"><a href="/food/">Recipes</a></div><div class="navBtn"><a href="/houseandhome/">House and Home</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr"><img src="/images/structures/tabs/MarketplaceNav.gif" alt="MarketplaceNav" title="MarketplaceNav" width="130" height="17" border="0"></div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="/localexperts/" class="expertNav">Local Experts</a></div><div class="navBtn"><a href="/automotive/">Auto</a></div><div class="navBtn"><a href="/dating/">Dating</a></div><div class="navBtn"><a href="/jobs/">Louisville Jobs</a></div><div class="navBtn"><a href="/shopping/">Deals</a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861527;8704162;o?http://partners.findlaw.com/ibs/wlky.html">Legal Center</a></div><div class="navBtn"><a href="/realestate/">Real Estate</a></div><div class="navBtn"><a href="/travelgetaways/">Travel</a></div><div class="navBtn"><a href="http://www.weddingsolutions.com/">Weddings</a></div></div></div><div class="navbar"><div class="navHdr StationNavHdr"><img src="/images/structures/tabs/StationNav.gif" alt="StationNav" title="StationNav" width="130" height="17" border="0"></div><div class="navMainSections StationNavBtns"><div class="navBtn"><a href="/seenon32/">Seen On 32</a></div><div class="navBtn"><a href="http://forums.ibsys.com/index.cfm?sitekey=lou">Feedback 32</a></div><div class="navBtn"><a href="/target32/">Target 32</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div><div class="navBtn"><a href="/news/419250/detail.html">The Real Deal</a></div><div class="navBtn"><a href="/station/">Contact WLKY</a></div><div class="navBtn"><a href="/station/221557/detail.html">Jobs At WLKY</a></div><div class="navBtn"><a href="/wlkynewsteam/">WLKY News Team</a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div></div></div><div class="navbar"><div class="navHdr SitetoolsNavHdr"><img src="/images/structures/tabs/SitetoolsNav.gif" alt="SitetoolsNav" title="SitetoolsNav" width="130" height="17" border="0"></div><div class="navMainSections SitetoolsNavBtns"><div class="navBtn"><a href="/station/">Contact Us</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts</a></div><div class="navBtn"><a href="/emailnewsletters/">E-mail Sign Up</a></div><div class="navBtn"><a href="http://wlky.premiumweather.com/info/?c=IBS_subnav">Premium Weather</a></div><div class="navBtn"><a href="/rss/">RSS</a></div><div class="navBtn"><a href="http://yellowpages.wlky.com">Yellow Pages</a></div></div></div></div><!--End Nav--><div id="topleft" class="pageContainer">
     
 
 	
@@ -382,7 +412,9 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 
 <!-- call DCS functions -->
 <script type="text/javascript">
+using('IBSYS.WebTrends');
 if (typeof ib_WTCustomTags == "function") ib_WTCustomTags();
+if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData();
 if (typeof dcsVar == "function") dcsVar();
 if (typeof dcsMeta == "function")  dcsMeta();
 if (typeof dcsFunc == "function") dcsFunc("dcsAdv");
@@ -395,8 +427,8 @@ if (typeof dcsTag == "function") dcsTag();
 </noscript>
 
 <!--
-Time: 12:54:17 EST
-Date: 2/2/2007
+Time: 18:22:43 EDT
+Date: 10/4/2007
 XSL File: index.xsl
 Browser Type: 
 Page Type: index
