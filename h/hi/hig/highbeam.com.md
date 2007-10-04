@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505175749id_/http%3A//www.highbeam.com/about/privacypolicy.hbr%3FctrlInfo%3DRound25%253AMode25b%253AHP%253AFtr%252EPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004230832id_/http%3A//www.highbeam.com/about/privacypolicy.hbr) for the most accurate reproduction.*
 
 # HighBeam Research
 
@@ -10,8 +10,8 @@ You should be aware that this Privacy Policy applies only to the HighBeam Websit
 
   * Personally identifiable information refers to any information that identifies or can be used to identify, contact or locate you. HighBeam collects only the personally identifiable information that you provide to us if you register for membership on the HighBeam site, such as your name, mailing address, telephone number and e-mail address. If you are a Full Member of the HighBeam site, this also includes your credit card and related information.
   * HighBeam uses your personally identifiable information to bill you in accordance with the [User Agreement ](https://web.archive.org/about/termsandconditions.hbr)and to communicate with you regarding your account. These communications may include, without limitation, notices regarding material changes to HighBeam site policies, service updates, service enhancements, account management procedures and customer service transactional replies. Since these communications are necessary to ensure we provide our members with the highest quality of services, our members are not permitted to opt out from receipt of these communications.
-  * HighBeam may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by so indicating in the "[Privacy Preferences](https://web.archive.org/mysaved/privacyPref.asp)" section of the website, by filling out this form (please include your name, address, and e-mail) or by using the unsubscribe link on any e-mail message you receive.
-  * We may also engage in co-registration programs with our partners in which situations both our partners and we will be able to communicate with you and use demographic data about you. You will have the option to opt out of receiving these messages in the "[Privacy Preferences](https://web.archive.org/DynamicContent/%E2%80%9D/mysaved/privacyPref.asp%22)" section of the website. 
+  * HighBeam may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by so indicating in the "[Privacy Preferences](https://web.archive.org/myresearchcenter/account/privacy.aspx)" section of the website, by filling out this form (please include your name, address, and e-mail) or by using the unsubscribe link on any e-mail message you receive.
+  * We may also engage in co-registration programs with our partners in which situations both our partners and we will be able to communicate with you and use demographic data about you. You will have the option to opt out of receiving these messages in the "[Privacy Preferences](https://web.archive.org/myresearchcenter/account/privacy.aspx)" section of the website. 
   * HighBeam does not associate your personally identifiable information with information about your use of the website. 
 
 
@@ -26,7 +26,7 @@ You should be aware that this Privacy Policy applies only to the HighBeam Websit
   * HighBeam is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our members and visitors (e.g., percentage of our site’s users who live in particular countries or fall into various age ranges). This helps us administer our web site and constantly improve the quality of the services that we offer you. All data collected by Omniture on behalf of HighBeam is owned and used by HighBeam. HighBeam reserves the right to publish non-personally identifiable, summary information regarding its web site members and visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personally identifiable information, only summaries of the activities or broad characteristics of our members and visitors. 
   * Omniture uses cookies and web beacons to help track visitor behavior and sets cookies on behalf of HighBeam which will be listed under the domain 2O7.net. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html).
   * We sell advertising on our site in order to provide parts of our service for free and at a more affordable price for paying customers. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. Most of the advertisements appearing on this web site are delivered to you by 24/7 Real Media, Inc., our web advertising partner. Information about your visit, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about 24/7, cookies, and how to "opt-out," please click [here](http://www.247realmedia.com/privacy.html).  Please be aware that if you opt out of allowing our web advertising partner to collect this information, you may not be able to use certain parts of the site nor have access to certain functions.
-  * We partner with TACODA Audience Networks, which uses general information about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements to you, on the HighBeam Websites and third-party websites, for goods and services that may be of particular interest. If you would like more information about TACODA, its business practices, and its privacy policies, please [click here](http://www.tacoda.com/privacy_policy.htm). To opt out of TACODA’s cookies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  * We partner with TACODA Audience Networks, which uses general information about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements to you, on the HighBeam Websites and third-party websites, for goods and services that may be of particular interest. If you would like more information about TACODA, its business practices, and its privacy policies, please [click here](http://www.tacoda.com/notice/privacy_policy.html). To opt out of TACODA’s cookies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 
 
@@ -50,13 +50,13 @@ You should be aware that this Privacy Policy applies only to the HighBeam Websit
 
 ## How can I “opt out” of having my information collected or shared?
 
-  * As part of our registration process, we give you important choices about receiving HighBeam Research special offers, newsletters, product updates, research tips and special third-party promotions. To simplify the process, we have automatically checked the opt-in box for you. You have the option of unchecking the boxes for the types of communications you do not want to receive from us. If you do not opt-out from receiving these communications about our site or third-party sites, we will send them to you. If you do not opt-out during registration, but later change your mind, you can update your privacy preferences [here](https://web.archive.org/mysaved/privacyPref.asp) or you can click on the unsubscribe link in the e-mails you receive from us.
+  * As part of our registration process, we give you important choices about receiving HighBeam Research special offers, newsletters, product updates, research tips and special third-party promotions. To simplify the process, we have automatically checked the opt-in box for you. You have the option of unchecking the boxes for the types of communications you do not want to receive from us. If you do not opt-out from receiving these communications about our site or third-party sites, we will send them to you. If you do not opt-out during registration, but later change your mind, you can update your privacy preferences [here](https://web.archive.org/myresearchcenter/account/privacy.aspx) or you can click on the unsubscribe link in the e-mails you receive from us.
 
 
 
 ## How will I know when there are changes to this Privacy Policy?
 
-  * This Privacy Policy is subject to modification from time to time at HighBeam's discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the HighBeam Websites ([http://www.highbeam.com/about/privacypolicy.hbr](https://web.archive.org/DynamicContent/%20/about/privacypolicy.hbr)). The date of last revision to the policy is indicated at the bottom of the document.
+  * This Privacy Policy is subject to modification from time to time at HighBeam's discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the HighBeam Websites [here](https://web.archive.org/about/privacypolicy.hbr).  The date o last revision to the policy is indicated at the bottom of the document.
 
 
 
@@ -69,9 +69,7 @@ HighBeam Research, Inc.
 Chicago, IL 60601  
 Attention:  General Counsel
 
-Or, 
-
-[use this form](http://www.highbeam.com/help/contactus.asp).
+[Or, use this form.](https://web.archive.org/help/contactus.asp)
 
 ### 
 
