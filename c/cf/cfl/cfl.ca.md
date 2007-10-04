@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007024849id_/http%3A//www.cfl.ca/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004024420id_/http%3A//www.cfl.ca//modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
 
 # CFL.ca Network :: Official site of the Canadian Football League
 
@@ -47,7 +47,7 @@ You can change your consent preferences at any time or request access to the per
 Canadian Football League  
 50 Wellington St, East, 3rd Floor  
 Toronto, Ontario M5E 1C8  
-T: (416) 856-2651.
+T: (416) 322-9650.
 
 Like many companies, CFL uses cookie technology on our site. A \"cookie\" is a unique identifier collected by the site to verify a returning visitor's identity, or to understand how visitors navigate the site. The use of cookies is standard on the Internet and many major websites use them. Most web browsers automatically accept cookies. You can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept the cookie.
 
@@ -66,13 +66,13 @@ cflinfo@cfl.ca
 Canadian Football League  
 50 Wellington St, East, 3rd Floor  
 Toronto, Ontario M5E 1C8  
-T: (416) 856-2651.
+T: (416) 322-9650.
 
 Privacy policy for CFL.ca Network (V1.11)  
 
 
 Introduction  
-The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [terms of use](https://web.archive.org/web/20061007024849id_/http%3A//www.cfl.ca/modules.php?op=modload&name=legal&file=index).
+The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [terms of use](https://web.archive.org/web/20071004024420id_/http%3A//www.cfl.ca//modules.php?op=modload&name=legal&file=index).
 
 1\. Collection of data  
 Registration of a user account on this site requires only a valid e-mail address and a user name that has not been used already. You are not required to provide any other information if do not want to. Please be aware that the user name you choose, the e-mail address you provide and other information you provide may render you personally identifiable, and may possibly be displayed on this web site intentionally (depending on choices you make during the registration process, or on the way in which the site is configured) or unintentionally (such as, but not limited to, subsequent to a successful act of intrusion by a third party). As on many web sites, the site editor may also automatically receive general information that is contained in server log files, such as your IP address, and cookie information. Information about how advertising may be served on this site (if it is the site editor's policy to display advertising) is set forth below.
@@ -87,7 +87,7 @@ Like many web sites, this web site sets and uses cookies to enhance your user ex
 People aged thirteen or younger are not allowed to become registered users of this site. For more information, please contact [the webmaster](mailto:info@mrx.ca).
 
 5\. Editing or deleting your account information  
-This site provides you with the ability to edit the information in your user account that you provided to during the registration process, by visiting [your personal home page configuration page](https://web.archive.org/web/20061007024849id_/http%3A//www.cfl.ca/user.php). You may request deletion of your user account by contacting [the webmaster](mailto:info@mrx.ca). Content or other information that you may have provided, and that is not contained within your user account, such as posts that may appear within site forums, may continue to remain on the site at the site editor's discretion, even though your user account is deleted. Please see the site's [Terms of Use](https://web.archive.org/web/20061007024849id_/http%3A//www.cfl.ca/modules.php?op=modload&name=legal&file=index) for more information.
+This site provides you with the ability to edit the information in your user account that you provided to during the registration process, by visiting [your personal home page configuration page](https://web.archive.org/web/20071004024420id_/http%3A//www.cfl.ca//user.php). You may request deletion of your user account by contacting [the webmaster](mailto:info@mrx.ca). Content or other information that you may have provided, and that is not contained within your user account, such as posts that may appear within site forums, may continue to remain on the site at the site editor's discretion, even though your user account is deleted. Please see the site's [Terms of Use](https://web.archive.org/web/20071004024420id_/http%3A//www.cfl.ca//modules.php?op=modload&name=legal&file=index) for more information.
 
 6\. Changes to this privacy policy  
 Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the site, and/or by a message being sent to the e-mail address you have provided, which is contained in your user settings.
