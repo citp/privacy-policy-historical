@@ -1,0 +1,1577 @@
+<!--The following is the downloaded HTML source of the cityofpaloalto.org privacy policy that was archived on 2007-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071004140811id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<script language="JavaScript" type="text/javascript">var javascript_version = 1.0;</script>
+<script language="JavaScript" type="text/javascript">javascript_version = 1.1;</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var newwin;
+var civicawin;
+civicawin = null;
+function launchwin(winurl,winname,winfeatures)
+{
+	newwin = window.open(winurl,winname,winfeatures);
+	if (!newwin.opener)
+	{
+		newwin.opener = self
+	}
+
+	if(javascript_version > 1.0)
+	{
+ 		setTimeout('newwin.focus();',250);
+	}
+}
+
+function civicapopupwin(winurl,winname,winfeatures)
+{
+	civicawin = window.open(winurl,winname,winfeatures);
+	
+	if (!civicawin.opener)
+	{
+		civicawin.opener = self
+	}
+
+	if(javascript_version > 1.0)
+	{
+ 		setTimeout('civicawin.focus();',250);
+	}
+}
+
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+var bOverButton = false;
+var bOverMenu = false;
+var otimerid = 0;
+
+var bWFOverButton = false;
+var bWFOverMenu = false;
+var oWFtimerid = 0;
+
+function civicapostwindow(sPath)
+{
+	document.wfpost.action=sPath;
+	document.wfpost.submit();
+}
+
+
+function clkEditButton(obj)
+{
+	bOverButton = true;
+	
+	if(otimerid > 0) clearTimeout(otimerid);
+	otimerid=0;
+	
+	
+	divEditMenu.style.visibility = 'visible';
+	var y = obj.offsetTop + 24; //- ((divEditMenu.scrollHeight-obj.scrollHeight)/2);
+	if ( y < 0 )
+		y=0;
+	
+	divEditMenu.style.top = y;
+
+//	if( divEditMenu.style.top < 0 )
+//		divEditMenu.style.top =0;
+
+	divEditMenu.style.left = obj.offsetLeft-70;
+	
+	var x = obj.offsetLeft -90; //- ((divEditMenu.scrollHeight-obj.scrollHeight)/2);
+	if ( x < 0 )
+		x=0;
+	
+	divEditMenu.style.left = x;
+}
+
+function clkWorkFlowButton(obj)
+{
+	bWFOverButton = true;
+
+	if(oWFtimerid > 0) clearTimeout(oWFtimerid);
+	oWFtimerid=0;
+
+
+	divWorkFlowMenu.style.visibility = 'visible';
+	var y = obj.offsetTop + 25; //- ((divEditMenu.scrollHeight-obj.scrollHeight)/2);
+	if ( y < 0 )
+		y=0;
+
+	divWorkFlowMenu.style.top = y;
+
+//	if( divEditMenu.style.top < 0 )
+//		divEditMenu.style.top =0;
+
+	divWorkFlowMenu.style.left = obj.offsetLeft;
+
+}
+
+function exitButton(obj)
+{
+	if( bOverButton && !bOverMenu )
+	{
+		//divEditMenu.style.visibility = 'hidden';
+		otimerid = setTimeout("CloseMenu()",1000);
+	}
+}
+
+function exitWorkFlowButton(obj)
+{
+	if( bWFOverButton && !bWFOverMenu )
+	{
+		//divEditMenu.style.visibility = 'hidden';
+		oWFtimerid = setTimeout("CloseWorkFlowMenu()",500);
+	}
+}
+
+function CloseMenu()
+{
+	if(otimerid > 0) clearTimeout(otimerid);
+	otimerid=0;
+	bOverMenu = false;
+	bOverButton = false;
+	divEditMenu.style.visibility = 'hidden';
+}
+
+function CloseWorkFlowMenu()
+{
+	if(oWFtimerid > 0) clearTimeout(oWFtimerid);
+	oWFtimerid=0;
+	bWFOverMenu = false;
+	bWFOverButton = false;
+	divWorkFlowMenu.style.visibility = 'hidden';
+}
+
+function EnterMenu()
+{
+	bOverMenu=true;
+	bOverButton=false;
+	if(otimerid > 0) clearTimeout(otimerid);
+	otimerid=0;
+}
+
+function EnterWorkFlowMenu()
+{
+	bOverWFMenu=true;
+	bOverWFButton=false;
+	if(oWFtimerid > 0) clearTimeout(oWFtimerid);
+	oWFtimerid=0;
+}
+
+function ExitMenu()
+{
+	bOverMenu=false;
+	if(otimerid > 0) clearTimeout(otimerid);
+	otimerid = setTimeout("CloseMenu()",1000);
+}
+
+function ExitWorkFlowMenu()
+{
+	bWFOverMenu=false;
+	if(oWFtimerid > 0) clearTimeout(oWFtimerid);
+	oWFtimerid = setTimeout("CloseWorkFlowMenu()",500);
+}
+//-->
+</script>
+
+<link rel="stylesheet" type="text/css" href="/custom/0511/style/htmleditor/default.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/inc/hi.css">
+
+
+<style type="text/css">
+<!--
+
+a:link
+{
+	color: #e2e0e0; /* cssLINK */
+}
+a:visited
+{
+	color: #a5a3a3;	/* #cssVISITED; */
+}
+a:hover
+{
+	color: #ffffff;
+}
+a:active
+{
+	color: #ffffff;
+}
+
+
+a.mnav:link, 
+a.mnav:active     { text-decoration: none; font-size: 10px; color: white }
+a.mnav:hover      { text-decoration: none; font-size: 10px; color: yellow }
+
+a.l2:link, a.l2:visited,
+a.l2:active			{ text-decoration: underline; font-size: 13px; color: red }
+a.l2:hover      { text-decoration: underline; font-size: 13px; color: rgb(200,0,0) }
+a.yah:link, a.yah:visited, 
+a.yah:active     { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: #000000 }
+a.yah:hover      { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: red }
+font.yah		{ font-family: arial, sans-serif; font-size: 11px; color: #FFFFFF }
+font.wee		{ font-family: arial, sans-serif; font-size: 11px  }
+font.wee2		{ font-family: arial, sans-serif; font-size: 11px; color: rgb(51,51,51) }
+.f1			{ font-family: arial, sans-serif; font-size: 11px }
+.f2			{ font-family: arial, sans-serif; font-size: 13px }
+.f3			{ font-family: arial, sans-serif; font-size: 15px }
+.f4			{ font-family: arial, sans-serif; font-size: 17px }
+
+a.wee:link, a.wee:visited,
+a.wee:active     { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: rgb(0,0,128) }
+a.wee:hover      { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: red }
+
+/*a.nav:link, a.nav:visited, 
+a.nav:active     { font-family: arial, sans-serif; font-size: 11px; text-decoration: none; color: rgb(0,0,128) }
+a.nav:hover      { font-family: arial, sans-serif; font-size: 11px; text-decoration: none; color: red }*/
+
+font.topdate		{ font-family: arial, sans-serif; font-size: 11px; color: #646464;font-weight: bold}
+body.default  {font-family: Arial, sans-serif; font-size: 11px; color: #c9c9c9;}
+
+SELECT.seldept { PADDING-LEFT: 4px; FONT-SIZE: 11px; FONT-FAMILY: arial, sans-serif}
+
+font.crum					{ font-family: arial, sans-serif; font-size: 11px; color: #000000  }
+a.crum:link, a.crum:visited, 
+a.crum:active     { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: #000000 }
+a.crum:hover      { font-family: arial, sans-serif; font-size: 11px; text-decoration: underline; color: #FFBA00 }
+
+font.copy					{ font-family: arial, sans-serif; font-size: 11px; color: #73735B  }
+span.copy					{ font-family: arial, sans-serif; font-size: 11px; color: #73735B  }
+span.scopy				{ font-family: arial, sans-serif; font-size: 11px; color: #73735B  }
+a.copy:link, a.copy:visited, 
+a.copy:active     { font-family: arial, sans-serif; font-size: 11px; font-weight: bold; text-decoration: underline; color: rgb(0,0,128) }
+a.copy:hover      { font-family: arial, sans-serif; font-size: 11px; font-weight: bold; text-decoration: underline; color: rgb(192,0,0) }
+
+#divEditMenu
+{   BORDER: #959595 1px solid;
+    PADDING: 2px;
+    FONT-FAMILY: Tahoma;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-DECORATION: none;
+    position:absolute;
+		visibility:hidden;
+		top:-1000px;
+		left: -1000px;
+		z-index: 1000;
+}
+
+#divWorkFlowMenu
+{   BORDER: #959595 1px solid;
+    PADDING: 2px;
+    FONT-FAMILY: Tahoma;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-DECORATION: none;
+    position:absolute;
+		visibility:hidden;
+		top:-1000px;
+		left: -1000px;
+		z-index: 1000;
+}
+
+.floatimgleft {	float:left; margin-top:10px; margin-right:10px; margin-bottom:10px; } 
+.floatimgright { float:right; margin-top:10px; margin-left:10px; margin-bottom:10px; } 
+
+.contactText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+td.contactText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+	padding: 3px;
+}
+td.contactLinkOn
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+	background-color:#dfbf52;
+	padding: 3px;
+}
+td.contactLinkOff
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+	padding: 3px;
+}
+
+
+.contactLink:link,.contactLink:visited, .contactLink:active, .contactLink:hover
+{
+	text-decoration: None; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+font.pagedcurrent {
+	font-family: arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none; 
+	color: #739856;
+	}
+	
+font.pagedlink {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	font-weight: bold;
+	text-decoration: none; 
+	color: #ffffff;
+	}
+
+a.pagedlink:link {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	font-weight: bold;
+	text-decoration: none; 
+	color: #ffffff;
+		}
+
+a.pagedlink:visited {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	font-weight: bold;
+	text-decoration: none; 
+	color: #ffffff;
+		}
+
+a.pagedlink:active {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	font-weight: bold;
+	text-decoration: none; 
+	color: #ffffff;
+		}
+
+a.pagedlink:hover {
+	font-family: arial, sans-serif;
+	font-size: 11px ;
+	font-weight: bold;
+	text-decoration: underline; 
+	color: #ffffff;
+		}
+		
+-->
+</style>
+
+
+<title>City of Palo Alto Website - Web Site Help</title>
+</head>
+<body id="devbody">
+
+<script language="JavaScript1.2" src="/navdata/5.js" type="text/javascript"></script>
+   
+<script language="JavaScript" type="text/javascript">
+var iPodMenuCurr=6;
+function switchpod( iNew )
+{
+	//alert( 'Switch Pod: ' + iNew );
+
+	var oDiv;
+	var oA;
+
+	// turn it off
+	//return;
+
+	if(iNew==iPodMenuCurr)
+		return;
+		
+	var menutable = document.getElementById("menutable"); 
+
+	divs = menutable.getElementsByTagName("div");
+	anchors = menutable.getElementsByTagName("A");
+	
+	//alert(menutable.name + '\n' + divs.length+ '\n' + anchors.length);
+	
+	for( var pmi=0; pmi<8; pmi++ )
+	{
+		if( divs['pm' + pmi] != null )
+		{
+			oDiv = divs['pm' + pmi];
+			oA = anchors['pma' + pmi];
+			if( pmi==iNew )
+			{
+				oDiv.className = 'm' + pmi ;
+				oA.className = 'mnone';
+			}
+			else
+			{
+				oDiv.className = '';
+				oA.className = 'm' + pmi + '_' + iNew;
+			}
+		}
+	}
+	
+	menutable = document.getElementById("submenu"); 
+	divs = menutable.getElementsByTagName("div");
+
+	oDiv = divs['dm' + iNew];
+	oDiv.className  = 'dm' + iNew + '_1';
+
+	oDiv = divs['dm' + iPodMenuCurr];
+	oDiv.className  = 'dm_0';
+
+	iPodMenuCurr=iNew;
+
+
+}
+</script>
+
+<style type="text/css">
+
+a.submenu:link, a.submenu:visited, a.submenu:active
+{
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.submenu:hover
+{
+	font-size: 11px;
+	color: #ababab;
+	text-decoration: none;
+}
+
+a.submenu2:link, a.submenu2:visited, a.submenu2:active
+{
+	font-size: 11px;
+	color: #515252;
+	text-decoration: none;
+}
+a.submenu2:hover
+{
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+a.mnone:link, a.mnone:visited, a.mnone:active, a.mnone:hover
+{
+	cursor:default;
+	color: #ffffff;
+}
+
+a.podsub:link, a.podsub:visited, a.podsub:active
+{
+	font-size: 13px;
+	color: #ababab;
+	text-decoration: none;
+}
+a.podsub:hover
+{
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+}
+font.podsub
+{
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a.podsubm:link, a.podsubm:visited, a.podsubm:active
+{
+	font-size: 13px;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.podsubm:hover
+{
+	font-size: 13px;
+	color: #ababab;
+	text-decoration: none;
+}
+font.podsubm
+{
+	font-size: 13px;
+	color: #ababab;
+	text-decoration: none;
+}
+
+
+
+#podmenu a
+{
+height: 23px;
+display: block;font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+line-height: 23px; 
+text-decoration: none;
+}
+a.m0_1:link, a.m0_1:active, a.m0_1:visited, 
+a.m0_2:link, a.m0_2:active, a.m0_2:visited, a.m1_2:link, a.m1_2:active, a.m1_2:visited, 
+a.m0_3:link, a.m0_3:active, a.m0_3:visited, a.m1_3:link, a.m1_3:active, a.m1_3:visited, a.m2_3:link, a.m2_3:active, a.m2_3:visited, 
+a.m0_4:link, a.m0_4:active, a.m0_4:visited, a.m1_4:link, a.m1_4:active, a.m1_4:visited, a.m2_4:link, a.m2_4:active, a.m2_4:visited, a.m3_4:link, a.m3_4:active, a.m3_4:visited, 
+a.m0_5:link, a.m0_5:active, a.m0_5:visited, a.m1_5:link, a.m1_5:active, a.m1_5:visited, a.m2_5:link, a.m2_5:active, a.m2_5:visited, a.m3_5:link, a.m3_5:active, a.m3_5:visited, a.m4_5:link, a.m4_5:active, a.m4_5:visited, 
+a.m0_6:link, a.m0_6:active, a.m0_6:visited, a.m1_6:link, a.m1_6:active, a.m1_6:visited, a.m2_6:link, a.m2_6:active, a.m2_6:visited, a.m3_6:link, a.m3_6:active, a.m3_6:visited, a.m4_6:link, a.m4_6:active, a.m4_6:visited, a.m5_6:link, a.m5_6:active, a.m5_6:visited, 
+a.m0_7:link, a.m0_7:active, a.m0_7:visited, a.m1_7:link, a.m1_7:active, a.m1_7:visited, a.m2_7:link, a.m2_7:active, a.m2_7:visited, a.m3_7:link, a.m3_7:active, a.m3_7:visited, a.m4_7:link, a.m4_7:active, a.m4_7:visited, a.m5_7:link, a.m5_7:active, a.m5_7:visited, a.m6_7:link, a.m6_7:active, a.m6_7:visited, 
+a.m0_8:link, a.m0_8:active, a.m0_8:visited, a.m1_8:link, a.m1_8:active, a.m1_8:visited, a.m2_8:link, a.m2_8:active, a.m2_8:visited, a.m3_8:link, a.m3_8:active, a.m3_8:visited, a.m4_8:link, a.m4_8:active, a.m4_8:visited, a.m5_8:link, a.m5_8:active, a.m5_8:visited, a.m6_8:link, a.m6_8:active, a.m6_8:visited, a.m7_8:link, a.m7_8:active, a.m7_8:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m1_0:link, a.m1_0:active, a.m1_0:visited, a.m2_0:link, a.m2_0:active, a.m2_0:visited, a.m3_0:link, a.m3_0:active, a.m3_0:visited, a.m4_0:link, a.m4_0:active, a.m4_0:visited, a.m5_0:link, a.m5_0:active, a.m5_0:visited, a.m6_0:link, a.m6_0:active, a.m6_0:visited, a.m7_0:link, a.m7_0:active, a.m7_0:visited, a.m8_0:link, a.m8_0:active, a.m8_0:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m2_1:link, a.m2_1:active, a.m2_1:visited, a.m3_1:link, a.m3_1:active, a.m3_1:visited, a.m4_1:link, a.m4_1:active, a.m4_1:visited, a.m5_1:link, a.m5_1:active, a.m5_1:visited, a.m6_1:link, a.m6_1:active, a.m6_1:visited, a.m7_1:link, a.m7_1:active, a.m7_1:visited, a.m8_1:link, a.m8_1:active, a.m8_1:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m3_2:link, a.m3_2:active, a.m3_2:visited, a.m4_2:link, a.m4_2:active, a.m4_2:visited, a.m5_2:link, a.m5_2:active, a.m5_2:visited, a.m6_2:link, a.m6_2:active, a.m6_2:visited, a.m7_2:link, a.m7_2:active, a.m7_2:visited, a.m8_2:link, a.m8_2:active, a.m8_2:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m4_3:link, a.m4_3:active, a.m4_3:visited, a.m5_3:link, a.m5_3:active, a.m5_3:visited, a.m6_3:link, a.m6_3:active, a.m6_3:visited, a.m7_3:link, a.m7_3:active, a.m7_3:visited, a.m8_3:link, a.m8_3:active, a.m8_3:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m5_4:link, a.m5_4:active, a.m5_4:visited, a.m6_4:link, a.m6_4:active, a.m6_4:visited, a.m7_4:link, a.m7_4:active, a.m7_4:visited, a.m8_4:link, a.m8_4:active, a.m8_4:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m6_5:link, a.m6_5:active, a.m6_5:visited, a.m7_5:link, a.m7_5:active, a.m7_5:visited, a.m8_5:link, a.m8_5:active, a.m8_5:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m7_6:link, a.m7_6:active, a.m7_6:visited, a.m8_6:link, a.m8_6:active, a.m8_6:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m8_7:link, a.m8_7:active, a.m8_7:visited
+{
+border-top: solid 1px #ababab; 
+border-bottom: solid 1px #ababab; 
+color: #ababab; 
+}
+a.m0_0:hover, a.m0_1:hover, a.m0_2:hover, a.m0_3:hover, a.m0_4:hover, a.m0_5:hover, a.m0_6:hover, a.m0_7:hover, a.m0_8:hover
+{
+border: solid 1px #94A588; 
+background-color: #75816D; 
+color: #ffffff; 
+}
+a.m1_0:hover, a.m1_1:hover, a.m1_2:hover, a.m1_3:hover, a.m1_4:hover, a.m1_5:hover, a.m1_6:hover, a.m1_7:hover, a.m1_8:hover
+{
+border: solid 1px #BAC5DA; 
+background-color: #7E8592; 
+color: #ffffff; 
+}
+a.m2_0:hover, a.m2_1:hover, a.m2_2:hover, a.m2_3:hover, a.m2_4:hover, a.m2_5:hover, a.m2_6:hover, a.m2_7:hover, a.m2_8:hover
+{
+border: solid 1px #BBA553; 
+background-color: #A09C8D; 
+color: #ffffff; 
+}
+a.m3_0:hover, a.m3_1:hover, a.m3_2:hover, a.m3_3:hover, a.m3_4:hover, a.m3_5:hover, a.m3_6:hover, a.m3_7:hover, a.m3_8:hover
+{
+border: solid 1px #B3A6Ad; 
+background-color: #7D727A; 
+color: #ffffff; 
+}
+a.m4_0:hover, a.m4_1:hover, a.m4_2:hover, a.m4_3:hover, a.m4_4:hover, a.m4_5:hover, a.m4_6:hover, a.m4_7:hover, a.m4_8:hover
+{
+border: solid 1px #72A48E; 
+background-color: #658376; 
+color: #ffffff; 
+}
+a.m5_0:hover, a.m5_1:hover, a.m5_2:hover, a.m5_3:hover, a.m5_4:hover, a.m5_5:hover, a.m5_6:hover, a.m5_7:hover, a.m5_8:hover
+{
+border: solid 1px #D41122; 
+background-color: #85383F; 
+color: #ffffff; 
+}
+a.m6_0:hover, a.m6_1:hover, a.m6_2:hover, a.m6_3:hover, a.m6_4:hover, a.m6_5:hover, a.m6_6:hover, a.m6_7:hover, a.m6_8:hover
+{
+border: solid 1px #E95D0F; 
+background-color: #965734; 
+color: #ffffff; 
+}
+a.m7_0:hover, a.m7_1:hover, a.m7_2:hover, a.m7_3:hover, a.m7_4:hover, a.m7_5:hover, a.m7_6:hover, a.m7_7:hover, a.m7_8:hover
+{
+border: solid 1px #6E982A; 
+background-color: #657732; 
+color: #ffffff; 
+}
+a.m8_0:hover, a.m8_1:hover, a.m8_2:hover, a.m8_3:hover, a.m8_4:hover, a.m8_5:hover, a.m8_6:hover, a.m8_7:hover, a.m8_8:hover
+{
+border: solid 1px #FFDD00; 
+background-color: #6C6742; 
+color: #ffffff; 
+}
+div.dm0_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #94A588;
+}
+div.dm1_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #BAC5DA;
+}
+div.dm2_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #BBA553;
+}
+div.dm3_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #B3A6Ad;
+}
+div.dm4_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #72A48E;
+}
+div.dm5_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #D41122;
+}
+div.dm6_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #E95D0F;
+}
+div.dm7_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #6E982A;
+}
+div.dm8_1
+{
+position:absolute; top:147px; right:00px; background-color: #525252; border: solid 1px #FFDD00;
+}
+div.m0
+{
+border: solid 1px #94A588; 
+background-color: #75816D; 
+height: 23px;
+width: 49;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m1
+{
+border: solid 1px #BAC5DA; 
+background-color: #7E8592; 
+height: 23px;
+width: 103;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m2
+{
+border: solid 1px #BBA553; 
+background-color: #A09C8D; 
+height: 23px;
+width: 113;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m3
+{
+border: solid 1px #B3A6Ad; 
+background-color: #7D727A; 
+height: 23px;
+width: 96;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m4
+{
+border: solid 1px #72A48E; 
+background-color: #658376; 
+height: 23px;
+width: 134;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m5
+{
+border: solid 1px #D41122; 
+background-color: #85383F; 
+height: 23px;
+width: 123;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m6
+{
+border: solid 1px #E95D0F; 
+background-color: #965734; 
+height: 23px;
+width: 74;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m7
+{
+border: solid 1px #6E982A; 
+background-color: #657732; 
+height: 23px;
+width: 99;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+div.m8
+{
+border: solid 1px #FFDD00; 
+background-color: #6C6742; 
+height: 23px;
+width: 130;
+display: block;
+font-family: tahoma; 
+font-size: 10px; 
+font-weight: normal; 
+color: #ffffff; 
+line-height: 23px; 
+text-decoration: none;
+}
+
+
+div.dm_0
+{
+	display:none;
+}
+
+</style>    
+
+
+<style type="text/css">
+div.LeftHeaderDiv
+{
+	width: 283px;
+	height: 218px;
+	background-image: url(/img/depts/lhdr_knowzone.gif);
+	background-repeat: no-repeat;
+
+}
+/* changes for print */
+@media print
+{
+	div.LeftHeaderDiv
+	{
+			background-image: url(/img/depts/prnt/lhdr_knowzone.gif);
+	}
+}
+</style>
+
+<script language="JavaScript" type="text/javascript" src="/civica/js/FormVal.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function HM_f_MenuTop()
+{
+	return 0;
+}
+
+function subGrphVer( grphver )
+{
+	document.frmGrpxVer.grpxver.value = grphver;
+	document.frmGrpxVer.submit();
+}
+
+function frmSearchSubmit()
+{
+
+  if (document.frmSearch.searchquery.value=='')
+  {
+    alert('Please Enter a value to search');
+    return;
+  }
+  with(document.frmSearch)
+  {
+    action = '/search/default.asp';
+    submit();
+  }
+
+}
+
+var cvPageID = 23435;
+
+
+
+//-->
+</script>
+
+
+<script language="JavaScript" type="text/javascript"> var javascript_version = 1.0;</script>
+<script language="JavaScript1.1" type="text/javascript">  javascript_version = 1.1;</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+
+
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
+
+
+if (document.images) {
+but1_off = new Image;
+but1_off.src = "/img/navbuts/living_off.gif";
+but1_on = new Image;
+but1_on.src = "/img/navbuts/living_on.gif";
+but2_off = new Image;
+but2_off.src = "/img/navbuts/business_off.gif";
+but2_on = new Image;
+but2_on.src = "/img/navbuts/business_on.gif";
+but3_off = new Image;
+but3_off.src = "/img/navbuts/visiting_off.gif";
+but3_on = new Image;
+but3_on.src = "/img/navbuts/visiting_on.gif";
+but4_off = new Image;
+but4_off.src = "/img/navbuts/environment_off.gif";
+but4_on = new Image;
+but4_on.src = "/img/navbuts/environment_on.gif";
+but5_off = new Image;
+but5_off.src = "/img/navbuts/recreation_off.gif";
+but5_on = new Image;
+but5_on.src = "/img/navbuts/recreation_on.gif";
+but6_off = new Image;
+but6_off.src = "/img/navbuts/knowzone_off.gif";
+but6_on = new Image;
+but6_on.src = "/img/navbuts/knowzone_on.gif";
+but7_off = new Image;
+but7_off.src = "/img/navbuts/departments_off.gif";
+but7_on = new Image;
+but7_on.src = "/img/navbuts/departments_on.gif";
+but8_off = new Image;
+but8_off.src = "/img/navbuts/emergency_off.gif";
+but8_on = new Image;
+but8_on.src = "/img/navbuts/emergency_on.gif";
+
+	
+	search_off = new Image; search_off.src = "/img/navbuts/search_off.gif";
+	search_on = new Image; search_on.src = "/img/navbuts/search_on.gif";
+
+	go_off = new Image; go_off.src = "/img/navbuts/go_off.gif";
+	go_on = new Image; go_on.src = "/img/navbuts/go_on.gif";
+}
+
+var nav_b = new Array ("b1","b2","b3","b4","b5","b6","b7","b8","sh","go");
+var obj_boff = new Array (but1_off,but2_off,but3_off,but4_off,but5_off,but6_off,but7_off,but8_off,search_off,go_off);
+var obj_bon = new Array  (but1_on, but2_on, but3_on, but4_on, but5_on, but6_on, but7_on, but8_on, search_on, go_on);
+
+
+function on( num )
+{
+	//alert(num);
+	
+	if( document.images )
+	{	
+		document.images[nav_b[num-1]].src = obj_bon[num-1].src;
+	}		
+}
+
+function off( num )
+{
+	//alert(num)
+	
+		if( document.images )
+			document.images[nav_b[num-1]].src = obj_boff[num-1].src;
+}
+
+
+
+function buttonoff( num )
+{
+	if( num < 9  )
+		if( document.images[nav_b[num-1]] )
+			document.images[nav_b[num-1]].src = obj_boff[num-1].src;
+}
+
+function buttonon( num )
+{
+	if( num < 9  )
+		if( document.images[nav_b[num-1]] )
+			document.images[nav_b[num-1]].src = obj_bon[num-1].src;
+}
+
+
+
+var newwin;
+
+function launchwin(winurl,winname,winfeatures)
+{
+	newwin = window.open(winurl,winname,winfeatures);
+	if(javascript_version > 1.0)
+	{
+ 		setTimeout('newwin.focus();',250);
+	}
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+function newwindow(theURL) {
+  window.open(theURL,'','');
+}
+
+
+
+function SubmitSearch()
+{ document.frmSearch.submit(); }
+
+
+HM_PG_MenuWidth = 190;
+HM_PG_FontFamily = "arial, sans-serif";
+HM_PG_FontSize = 8;
+HM_PG_FontBold = 0;
+HM_PG_FontItalic = 0;
+HM_PG_FontColor = "blue";
+HM_PG_FontColorOver = "white";
+HM_PG_BGColor = "#DDDDDD";
+HM_PG_BGColorOver = "#FFCCCC";
+HM_PG_ItemPadding = 3;
+
+HM_PG_BorderWidth = 1;
+HM_PG_BorderColor = "black";
+HM_PG_BorderStyle = "solid";
+HM_PG_SeparatorSize = 1;
+HM_PG_SeparatorColor = "#d0ff00";
+HM_PG_ImageSrc = "/img/tri.gif";
+HM_PG_ImageSrcLeft = "/img/triL.gif";
+
+HM_PG_ImageSize = 5;
+HM_PG_ImageHorizSpace = 0;
+HM_PG_ImageVertSpace = 0;
+
+HM_PG_KeepHilite = true; 
+HM_PG_ClickStart = 0;
+HM_PG_ClickKill = false;
+HM_PG_ChildOverlap = 30;
+HM_PG_ChildOffset = 5;
+HM_PG_ChildPerCentOver = null;
+HM_PG_TopSecondsVisible = .2;
+HM_PG_ChildSecondsVisible = .2;
+
+HM_PG_StatusDisplayBuild =0;
+HM_PG_StatusDisplayLink = 0;
+HM_PG_UponDisplay = null;
+HM_PG_UponHide = null;
+HM_PG_RightToLeft = false;
+
+HM_PG_CreateTopOnly = 1;
+HM_PG_ShowLinkCursor = 1;
+HM_PG_NSFontOver = true;
+
+
+//-->
+</script>
+
+<table class="bodytable" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="height:100%;"><img src="/img/blank.gif" alt="" width="10" height="1" border="0"></td><td width="920" valign="top"><div id="oAllScreen" style="display:block; position:relative; top: 0px; left: 0px; height: 100% "><table border="0" style="width:100%; height:100%;" cellspacing="0" cellpadding="0">
+
+<!-- Top Navigation Table -->
+<tbody><tr><td style="width:920px; vertical-align:top; height:123px;"><table width="920" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="490" valign="top" class="mainheader"><a href="/default.asp"><img src="/img/blank.gif" alt="City of Palo Alto Homepage" width="490" height="123" border="0"></a></td><td width="430" valign="top"><table style="width:430px; height:123px;" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" width="430" height="45" align="right" valign="bottom"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right" valign="middle"><a class="lohi" href="javascript:subGrphVer('lo');">TEXT VERSION&nbsp;</a></td><td class="miscArrow"></td></tr></tbody></table></td></tr><tr><td colspan="2" width="430" height="25" align="right"></td></tr><tr><td width="430" height="28" align="right" valign="middle"><form style="display: inline; margin: 0;" name="frmSearch" id="frmSearch" action="/search/default.asp" method="post" target="_self"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="398" height="28" align="right" valign="middle"><font class="f2">SEARCH FOR: </font><input type="text" name="searchquery" size="30" maxlength="100"><input type="hidden" name="firsttime" value="true"></td><td width="32" height="28"><a href="javascript:frmSearchSubmit();" target="_self" onmouseover="on(9);" onmouseout="off(9);"><img name="sh" src="/img/navbuts/search_off.gif" alt="" width="32" height="28" border="0"></a></td></tr></tbody></table></form></td></tr><tr><td colspan="2" width="430" height="25"><img src="/img/blank.gif" alt="" width="1" height="25" border="0"></td></tr></tbody></table></td></tr></tbody></table><table border="0" width="920" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="1" style="height:100%; width:25px;" valign="top" background="/img/menu/menubg.gif"><table id="menutable" name="menutable" border="0" style="height:100%; width:920px;" cellspacing="0" cellpadding="0"><tbody><tr>
+<td id="podmenu" name="podmenu" width="49" height="25" align="center" valign="middle"><div id="pm0" name="pm0"><a id="pma0" name="pma0" class="m0_6" href="/default.asp">Home</a></div></td>
+<td id="podmenu" name="podmenu" width="103" height="25" align="center" valign="middle"><div id="pm1" name="pm1"><a id="pma1" name="pma1" class="m1_6" href="/living/default.asp">Living in Palo Alto</a></div></td>
+<td id="podmenu" name="podmenu" width="113" height="25" align="center" valign="middle"><div id="pm2" name="pm2"><a id="pma2" name="pma2" class="m2_6" href="/business/default.asp">Business in Palo Alto</a></div></td>
+<td id="podmenu" name="podmenu" width="96" height="25" align="center" valign="middle"><div id="pm3" name="pm3"><a id="pma3" name="pma3" class="m3_6" href="/visiting/default.asp">Visiting Palo Alto</a></div></td>
+<td id="podmenu" name="podmenu" width="134" height="25" align="center" valign="middle"><div id="pm4" name="pm4"><a id="pma4" name="pma4" class="m4_6" href="/environment/default.asp">Environment in Palo Alto</a></div></td>
+<td id="podmenu" name="podmenu" width="123" height="25" align="center" valign="middle"><div id="pm5" name="pm5"><a id="pma5" name="pma5" class="m5_6" href="/recreation/default.asp">Recreation in Palo Alto</a></div></td>
+<td id="podmenu" name="podmenu" width="74" height="25" align="center" valign="middle"><div id="pm6" name="pm6" class="m6"><a id="pma6" name="pma6" class="mnone" href="/knowzone/default.asp">Know Zone</a></div></td>
+<td id="podmenu" name="podmenu" width="99" height="25" align="center" valign="middle"><div id="pm7" name="pm7"><a id="pma7" name="pma7" class="m7_6" href="/depts/default.asp">Departments</a></div></td>
+<td id="podmenu" name="podmenu" width="130" height="25" align="center" valign="middle"><div id="pm8" name="pm8"><a id="pma8" name="pma8" class="m8_6" href="/info/default.asp">Emergency Information</a></div></td>
+</tr></tbody></table></td></tr></tbody></table><table border="0" width="920" cellspacing="0" cellpadding="0" style="background-color:#965734; border-top: solid 0px #E95D0F;  border-right: solid 1px #E95D0F;  border-bottom: solid 1px #E95D0F;  border-left: solid 1px #E95D0F;"><tbody><tr><td align="right" colspan="1" height="22" valign="top"><table id="submenu" name="submenu" "border="0" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td style="padding: 0px 13px;"><a class="submenu" href="/knowzone/default.asp">Know Zone Home</a></td><td style="padding: 0px 13px;"><a class="submenu" href="javascript:history.back(-1);">Previous Page</a></td>
+<td style="padding: 0px 13px;"><a class="submenu" href="/web_site_help/default.asp#acceptableuse">Acceptable Use Policy</a></td><td style="padding: 0px 13px;"><a class="submenu" href="/web_site_help/default.asp#access">Accessibility</a></td><td style="padding: 0px 13px;"><a class="submenu" href="/web_site_help/default.asp#privacy">Your Privacy</a></td><td style="padding: 0px 13px;"><a class="submenu" href="/web_site_help/default.asp#disclaimer">Disclaimer</a></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr><tr><td width="100%" valign="top"><table style="margin-top:13px; height:100%; width:920px;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="299" valign="top" style="padding: 0px 6px 10px 0px; ">
+<div class="LeftHeaderDiv"><img src="/img/blank.gif" alt="" width="283" height="218"></div></td><td width="1" valign="top" style="background-color:#ababab;"><img src="/img/blank.gif" alt="" width="1" height="1" border="0"></td><td style="height:100%; width:600px; vertical-align:top; padding: 0px 0px 10px 18px; ">
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; height:400; background-color:Transparent;">
+<tbody><tr>
+	<td style="width:100%; vertical-align:top;"><font size="4" face="Arial, Sans-Serif" color="#739856" class="PageHeaders">Web Site Help</font><br><img height="10" alt="" src="/img/blank.gif" width="1" border="0"><br><p></p><p></p><p></p><p><br></p><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td bgcolor="#a5a3a3"><table cellspacing="1" cellpadding="5" width="100%" border="0"><tbody><tr valign="top" bgcolor="#515252"><td colspan="2"><div class="bodyTextSubHead" align="center">Choose your comment type</div></td></tr><tr valign="top" bgcolor="#515252"><td width="50%" bgcolor="#515252"><p class="bodyTextBold">Web Site Comments </p><p><span class="bodyText">Use the Web Site Comment form if... </span><br><img alt="" src="/images/arrow-green.gif" border="0"> <span class="bodyText">You would like to report a broken link <br><img alt="" src="/images/arrow-green.gif" border="0"> You have a problem viewing a page <br><img alt="" src="/images/arrow-green.gif" border="0"> You would like to relate your opinion <br><img alt="" src="/images/arrow-green.gif" border="0"> You would like to make a suggestion</span></p><p class="bodyText">If you <span class="bodyTextBold">can't find what you are looking for</span>, and believe that important <span class="bodyTextBold">content is missing</span> from the web site, please submit a Web SIte Content Request. </p></td><td width="50%" bgcolor="#515252"><p class="bodyTextBold">Web Site Content Request </p><p><span class="bodyText">Use the Web Site Content Request form if... </span><br><img alt="" src="/images/arrow-green.gif" border="0"> <span class="bodyText">You can't find what you're looking for <br><img alt="" src="/images/arrow-green.gif" border="0"> You believe information is incorrectly<br>classified on the site<br><img alt="" src="/images/arrow-green.gif" border="0">Information is incomplete or unclear </span></p><p class="bodyText">If your comment seems more technical in nature, or is <span class="bodyTextBold">not specifically about the information content</span> on the web site, please use the Web Site Comments form. </p></td></tr><tr bgcolor="#515252"><td valign="center" width="50%"><div align="center"><a href="/forms/web-site-feedback.lasso?-Token.linktype=incontext"><img height="16" alt="" src="/images/but-next.gif" width="45" border="0"></a></div></td><td valign="center" width="50%"><div align="center"><a href="/forms/web-site-request.lasso?-Token.linktype=incontext"><img style="WIDTH: 45px; HEIGHT: 16px" height="16" alt="" hspace="0" src="/images/but-next.gif" width="45" border="0"></a></div></td></tr></tbody></table></td></tr></tbody></table><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Browser </span></p><p><span class="bodyText">Best viewed in 1024x768, Internet Explorer 7.</span></p><p><span class="bodyText"></span></p><p><a name="search"></a></p><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Search Engine </span></p><span class="bodyText"><p align="left">Search is a crucial component of the City of Palo Alto web site. Search provides connectivity to all web site file types, News Details, Departmental PDFs, Minutes, Agendas and Reports, and Contacts for easy and quick aggregated searching of all web site documents. When a citizen, business, or municipality needs information or services that don't emerge through site navigation, search often provides the most efficient path to the desired result. </p><p>Our <a class="bodyText" href="/depts/csd/community_and_family_resources/default.asp">Family Resources</a> pages provide a traditional and indexed search of Palo Alto community resources. Traditional search offers many filters and lists to help you identify the type of resources you desire. Additionally Family Resources offers a categorical search based on the industry-standard InfoLine taxonomy.</p><p>Our search engine is based on an underlying meta-data architecture based on the Dublin-Core taxonomy, enhanced by the City of Palo Alto staff librarians.</p><p></p><p></p><p align="left"></p><p></p><p></p><a name="privacy"></a><p></p><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Your Privacy </span></p><span class="bodyText"><p><span class="bodyTextBold">Privacy Notice Information <br></span>The City of Palo Alto Administrative Services, Information Technology Division, developed and manages this web site. This web site is the gateway for providing direct government-to-citizen public service provision and interaction through the use of information technology. We are dedicated to protecting your privacy on-line. The following privacy statement outlines how individual information will be handled by the City of Palo Alto while using this site. </p><p><span class="bodyTextBold">Information Collected and Stored Automatically</span> <br>For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. </p><p>We use Log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. Our Web site logs do not collect personally identifiable information, and we make no attempt to link them with the individuals who browse the web site. When you visit the City of Palo Alto web site and browse or download information, we automatically collect and store the following information about your visit: </p><ul><li>The Internet Protocol Address and domain name used but not the email address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you; </li><li>The type of browser and operating system you used; </li><li>The date and time you visited this site; </li><li>The Web pages or services you accessed at this site; and </li><li>The Web site you visited prior to coming to this Web site. </li></ul><p>If during your visit to the City of Palo Alto Web Site you participate in a survey, fill out a Web form, or send an email, the following additional information will be collected: </p><ul><li>The email address and contents of the email; and </li><li>Information volunteered to complete a Web form or in response to a survey. </li></ul><p>If you send us an email with a question or comment that contains personally identifiable information, or fill out a form that emails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. This may be to respond to you, to address issues you identify, or to further improve our Web site. We may redirect your message to another department, division or program within the City that is in a better position to answer your question. Survey information is used only for the purpose designated. </p><p><span class="bodyTextBold">Personal Information and Choice <br></span>"Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information. </p><p>We collect no personal information about you unless you voluntarily participate in an activity that asks for information (i.e. sending an email, filling out a Web form, or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of this web site.</p><p>If personal information is requested on the Web site or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by Federal or State law. </p><p>Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult, and may be subject to public access. </p><span class="bodyTextBold"><p>Public Disclosure <br>In the State Of California, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by municipalities. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both State and Federal laws. </p><p>All information collected at this site becomes public records that may be subject to inspection and copying by the public, unless an exemption in law exists. </p><p><span class="bodyTextBold">Cookies <br></span>This web site uses "cookies" to customize your browsing experience with the City of Palo Alto web site. A cookie contains unique information a web site can use to track such things as the Internet Protocol address for the computer you used to access this site, the identification of the browser software and operating system you used, the date and time you accessed the site, and the Internet address of the website from which you linked to this site. Cookies created on your computer by using this web site do not contain personally identifying information and do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer by using any of the widely available methods. If you choose not to accept a cookie on your computer, it will not prevent or prohibit you from gaining access to or using this site. </p><p><span class="bodyTextBold">Security , Intrusion, Detection Language <br></span>The Division of Information Technology, as developer and manager of the City of Palo Alto web site, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire web site operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the City's web site. </p><p>Unauthorized attempts to deny service, upload information, change information, or to attempt to access a non-public site from this service are strictly prohibited and may be punishable under Title 18 of the U.S. Code to include the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. </p><p></p></span><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead"></span></p><p></p><p></p><p><a name="acceptableuse"></a></p><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Acceptable Use </span></p><span class="bodyText"><p>Using the City of Palo Alto web site indicates your agreement with our web site RULES which contain important CONDITIONS AND RESTRICTIONS. If you do not agree, please refrain from using this web site. </p><p>Individuals, organizations and businesses are free to use the City of Palo Alto web site for any lawful, worthy and ethical purpose, except as limited by these Rules. The web site must not be used to solicit customers or sell products or services. </p><p>Users with "robots," "spiders," or other automated programs may visit the City of Palo Alto web site, but are prohibited from resending or redirecting information without the prior written permission of the City of Palo Alto. </p><p>We ask all web site users to use appropriate names and language in the name spaces, address spaces and other spaces (if any) provided on the web site. Users are forbidden from using false e-mail addresses. </p><p>This web site contains material protected by law, including but not limited to copyrights and trademarks. All rights in such material are reserved to the City of Palo Alto and materials may not be reused in any way or copied in whole or part without prior written permission from the City of Palo Alto. </p><p>No representations or warranties are made regarding the materials in or Operations of this web site. In particular, the City of Palo Alto makes no warranties concerning the integrity or fitness or a particular purpose of any information, either express or implied, and disclaims any warranties of non-infringement. The City of Palo Alto shall not be liable for any damages of any kind that may result from the use of this web site. Materials in and operations of this web site are provided as-is and there is no warranty made that they will be free from errors or interruptions. Any liability of the City of Palo Alto to users for any damages or losses of any kind shall not exceed the amount paid by the user, if any, for use of this web site. </p><p>These rules represent the entire agreement between users and the City of Palo Alto and may not be modified except by a signed written agreement. This agreement shall be governed by and construed in accordance with the laws of the State of California. If any provision of these rules shall be declared by a court to be invalid, illegal, or unenforceable, such provision shall be deemed severable from this agreement and the other provisions shall remain in full force and effect. </p></span><p><span class="bodyText"></span><span class="bodyText"></span><span class="bodyText"><strong><font color="#000000" size="3"></font></strong></span></p><p></p><p></p><p><a name="access"></a></p><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Accessibility </span></p><p></p><p></p><span class="bodyText"><p>The City of Palo Alto web site is designed to offer Palo Alto citizens and businesses easy and efficient access to municipal resources. We appreciate that many visitors to our web site are concerned about accessibility to digital government. Currently, we make every effort to adhere to 508 requirements as set forth by the W3C Accessibility Initiative. Ongoing validation testing is conducted using industry-recognized tools for coding and usability. </p><p>The "Text Version" of this web site is optimized for screen readers, and other text-based web interfaces.</p><p>Please submit a comment, using the form above, if there is information on this web site you are having trouble accesing.</p><p></p><p></p><a name="disclaimer"></a><p><span class="bodyTextSubHead"></span></p><p><span class="bodyTextSubHead">Disclaimer </span></p><p>This web site has links to other web sites. These include links to web sites operated by other government agencies, other cities, nonprofit organizations and private businesses. When you link to another site, you are no longer on The City of Palo Alto Web Site and this Privacy Notice is not applicable. When you link to another Web site, you are subject to the privacy policy of that new site. </p><p>Neither the City of Palo Alto, nor any agency, officer, or employee warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk. </p><p><br></p></span><p></p></span></span></td>
+</tr>
+</tbody></table>
+
+<script language="JavaScript" type="text/javascript" src="/inc/NavMenu.js"></script>
+</td></tr></tbody></table></td></tr><tr><td width="100%" height="20" valign="bottom"><table style="margin-top:10px;" border="0" width="920" cellspacing="0" cellpadding="0"><tbody><tr><td width="*" align="center"></td><td width="*" height="20" align="center"></td><td width="*" align="center" height="24" valign="middle"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="*" align="center"><a class="ftLinks" href="/knowzone/web_site_help/default.asp#acceptableuse">Acceptable Use Policy</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/knowzone/web_site_help/default.asp#access">Accessibility</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/knowzone/web_site_help/default.asp#privacy">Your Privacy</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/site_map.asp">Site Map</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/knowzone/web_site_help/default.asp#search">Search Engine</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/forms/web-site-feedback.lasso?-Token.linktype=nocontext">Comment Form</a></td><td width="40" align="center"></td><td width="*" align="center"><a class="ftLinks" href="/forms/web-site-request.lasso?-Token.linktype=nocontext">Missing Content</a></td></tr></tbody></table></td><td width="*" align="center"></td></tr></tbody></table></td></tr></tbody></table></div></td><td style="height:100%;"><img src="/img/blank.gif" alt="" width="10" height="1" border="0"><form name="frmPrintable" id="frmPrintable" action="/knowzone/web_site_help/default.asp" method="post" target="_blank"><input type="hidden" name="prnt" value="y"></form><form name="frmGrpxVer" id="frmGrpxVer" action="/knowzone/web_site_help/default.asp" method="post"><input type="hidden" name="grpxver" value="lo"></form><form name="wfpost" method="post" target="_new" action=""></form>
+
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/02/16 11:44:56 $ -->
+<script type="text/javascript"><!--
+var gService = true;
+var gTimeZone = -8;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsIsFpcSet(name,id,lv,ss){
+	if (id==dcsGetIdCrumb(name,"id")){
+		if (lv==dcsGetCrumb(name,"lv")){
+		   	if (ss=dcsGetCrumb(name,"ss")){
+				return true;
+			}
+		}
+	}
+	return false;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gConvert=true;
+
+// Code section for Set the First-Party Cookie domain
+var gFpcDom=".cityofpaloalto.org";
+
+// Code section for Enable SmartView Transition Page tracking
+function dcsTP(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name="WT_DC";
+	var expiry="; expires=Thu, 31-Dec-2020 08:00:00 GMT";
+	var path="; path=/";
+	var domain="";
+	if ((document.cookie.indexOf(name+"=")!=-1)&&(dcsGetCrumb(name,"tsp")=="1")){
+		WT.ttp="1";
+	}
+	if (dcsGetMeta("SmartView_Page")=="1"){
+		WT.tsp="1";
+		document.cookie=name+"=tsp=1"+expiry+path+domain;
+	}
+	else{
+		document.cookie=name+"=; expires=Sun, 1-Jan-1995 00:00:00 GMT;"+path+domain;
+	}
+}
+function dcsGetMeta(name){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name&&(meta.name.indexOf(name)==0)){
+				return meta.content;
+				break;
+			}
+		}
+	}
+	return null;
+}
+// The functions dcsGetCookie and dcsGetCrumb can be removed
+// if already using First-Party Cookie Tracking.
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/03/01 14:48:29 $ -->
+<script type="text/javascript"><!--
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsqk64sl000004f6inm415vm_8u9j";
+
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsqk64sl000004f6inm415vm_8u9j/wtid.js"></script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var gI18n=false;
+if (window.RegExp){
+	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+	if (gI18n){
+		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
+	}
+}
+
+// Add customizations here
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	WT.jv=dcsJV();
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		WT.ct=document.body.connectionType||"unknown";
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	else{
+		WT.ct="unknown";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=10;i>0;i--){
+			try{
+				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	if (gI18n){
+		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+		if (typeof(document.defaultCharset)=="string"){
+			WT.le=document.defaultCharset;
+		} 
+		else if (typeof(document.characterSet)=="string"){
+			WT.le=document.characterSet;
+		}
+	}
+	WT.tv="8.0.3";
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function dcsA(N,V){
+	if (gI18n&&!EXRE.test(N)){
+		if (N=="dcsqry"){
+			var newV="";
+			var params=V.substring(1).split("&");
+			for (var i=0;i<params.length;i++){
+				var pair=params[i];
+				var pos=pair.indexOf("=");
+				if (pos!=-1){
+					var key=pair.substring(0,pos);
+					var val=pair.substring(pos+1);
+					if (i!=0){
+						newV+="&";
+					}
+					newV+=key+"="+dcsEncode(val);
+				}
+			}
+			V=V.substring(0,1)+newV;
+		}
+		else{
+			V=dcsEncode(V);
+		}
+	}
+	return "&"+N+"="+dcsEscape(V, RE);
+}
+
+function dcsEscape(S, REL){
+	if (typeof(REL)!="undefined"){
+		var retStr = new String(S);
+		for (var R in REL){
+			retStr = retStr.replace(REL[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsEncode(S){
+	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		var length=elems.length;
+		for (var i=0;i<length;i++){
+			var name=elems.item(i).name;
+			var content=elems.item(i).content;
+			var equiv=elems.item(i).httpEquiv;
+			if (name.length>0){
+				if (name.indexOf("WT.")==0){
+					WT[name.substring(3)]=content;
+				}
+				else if (name.indexOf("DCSext.")==0){
+					DCSext[name.substring(7)]=content;
+				}
+				else if (name.indexOf("DCS.")==0){
+					DCS[name.substring(4)]=content;
+				}
+			}
+			else if (gI18n&&(equiv=="Content-Type")){
+				var pos=content.toLowerCase().indexOf("charset=");
+				if (pos!=-1){
+					WT.mle=content.substring(pos+8);
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (var N in DCS){
+		if (DCS[N]){
+			P+=dcsA(N,DCS[N]);
+		}
+	}
+	var keys=["co_f","vt_sid","vt_f_tlv"];
+	for (var i=0;i<keys.length;i++){
+		var key=keys[i];
+		if (WT[key]){
+			P+=dcsA("WT."+key,WT[key]);
+			delete WT[key];
+		}
+	}
+	for (N in WT){
+		if (WT[N]){
+			P+=dcsA("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]){
+			P+=dcsA(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsJV(){
+	var agt=navigator.userAgent.toLowerCase();
+	var major=parseInt(navigator.appVersion);
+	var mac=(agt.indexOf("mac")!=-1);
+	var ff=(agt.indexOf("firefox")!=-1);
+	var ff0=(agt.indexOf("firefox/0.")!=-1);
+	var ff10=(agt.indexOf("firefox/1.0")!=-1);
+	var ff15=(agt.indexOf("firefox/1.5")!=-1);
+	var ff2up=(ff&&!ff0&&!ff10&!ff15);
+	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var nn4=(nn&&(major==4));
+	var nn6up=(nn&&(major>=5));
+	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+	var ie5up=(ie&&!ie4);
+	var op=(agt.indexOf("opera")!=-1);
+	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+	var op7up=(op&&!op5&&!op6);
+	var jv="1.1";
+	if (ff2up){
+		jv="1.7";
+	}
+	else if (ff15){
+		jv="1.6";
+	}
+	else if (ff0||ff10||nn6up||op7up){
+		jv="1.5";
+	}
+	else if ((mac&&ie5up)||op6){
+		jv="1.4";
+	}
+	else if (ie5up||nn4||op5){
+		jv="1.3";
+	}
+	else if (ie4){
+		jv="1.2";
+	}
+	return jv;
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsqk64sl000004f6inm415vm_8u9j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+
+</td></tr></tbody></table>
+
+</body></html>
