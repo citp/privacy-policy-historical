@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpicks.net privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426123552id_/http%3A//www.softpicks.net/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpicks.net privacy policy that was archived on 2007-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071004031351id_/http%3A//www.softpicks.net/ppolicy.htm) for the most accurate reproduction.*
 
 # 
 
