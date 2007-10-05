@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiletechreview.com privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415210946id_/http%3A//www.mobiletechreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletechreview.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005170730id_/http%3A//www.mobiletechreview.com/privacy.htm) for the most accurate reproduction.*
 
 # MobileTechReview.com Privacy Policy
 
