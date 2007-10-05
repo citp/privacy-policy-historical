@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110074004id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005162053id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
 
 # Thrivent Financial for Lutherans
 
@@ -33,15 +33,15 @@ For added security, to register for access to the Account Access or Members/Chap
 
 **Thrivent Financial will never ask you to provide or confirm your personal information through an e-mail unless you have requested such an e-mail or transaction from us. Never respond to an e-mail (especially[unsolicited e-mail](http://www.thrivent.com/phishing.html)) which asks for personal or account information.**
 
-In other sections of our Web site (e.g., the information request form, Financial Analysis Questionnaire, free offers order forms), we may capture additional information you may supply including telephone number, name of your church, the home city/state of your church, whether or not you are Lutheran, and other personal information in order to fulfill your request. 
+In other sections of our Web site (e.g., the information request form, Financial Analysis Questionnaire, free offers order forms, ThriveQ), we may capture additional information you may supply including personal financial information, telephone number, name of your church, the home city/state of your church, whether or not you are Lutheran, and other personal information in order to fulfill your request. 
 
   
 Top of page
 
 **What other information do we capture?**  
-Thrivent Financial's Web server automatically recognizes your IP address when you visit our site as an anonymous visitor (without logging in). It does not recognize your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail, provide your e-mail address to us when completing an online survey, or register at our site for access to secure areas. 
+Thrivent Financial's Web server automatically recognizes your IP address when you visit our site as an anonymous visitor (without logging in). It does not recognize your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail or provide your e-mail address to us when completing an online survey or registering for various sections of our site. 
 
-If you register on our site, please keep your e-mail address up to date in your personal profile. This e-mail address will be used by you to retrieve a forgotten password and assist you in using other self-service features. 
+If you register on our site, please keep your personal information, including your e-mail address, up to date by following the instructions below. This e-mail address will be used by you to retrieve a forgotten password and assist you in using other self-service features. 
 
 Thrivent Financial collects aggregate information about the pages visited within our Web site. We also capture browser type and version, and screen resolution. This information will assist us in providing a more user-friendly site and to aid in problem resolution if you experience technical difficulties while visiting our site. 
 
@@ -50,20 +50,25 @@ If you access or service your accounts online using your user ID and password to
   
 Top of page
 
-**How do we protect your personal information?**  
-We have strict standards of security to safeguard your data. In fact, the physical, electronic and procedural safeguards in place to protect your data often exceed regulatory requirements. The technology we use to protect your data is reviewed often. We improve the process as needed.  
-Only authorized employees and representatives may access and use data about you. All are trained to safeguard your data. Those who use your data must follow established standards, procedures and laws. Also, Thrivent Financial uses encryption technology when sending or requesting personal information via the Internet. 
-
-  
-Top of page
-
 **How can you update the personal information you provide online?**  
-You can change the information you provided at registration, including your current e-mail address, through your online personal profile. To update your profile: 
+Account Access, Members/Chapters and Lutherans Online registration – You can change the information you provided at registration, including your current e-mail address, through your online personal profile. To update your profile: 
 
   1. Log in to a secure area, and click on **Manage my Profile**. 
   2. Click the link for the information category you would like to update. 
   3. Update and verify your personal information as desired. If indicated on your personal profile screen, you may need to click the Name & Address Change Request form link to change some of your information. Note: Your User ID cannot be changed. 
   4. Save your changes. The information in your personal profile will be updated. 
+
+ThriveQ registration – You can change the information you provided at registration, including your current e-mail address, through My Account. To update your information: 
+  1. Log in to ThriveQ.com and click on **My Account**.
+  2. Update and verify your personal information as desired.
+  3. Click **Update** to save your changes.
+
+  
+Top of page
+
+**How do we protect your personal information?**  
+We have strict standards of security to safeguard your data. In fact, the physical, electronic and procedural safeguards in place to protect your data often exceed regulatory requirements. The technology we use to protect your data is reviewed often. We improve the process as needed.  
+Only authorized employees and representatives may access and use data about you. All are trained to safeguard your data. Those who use your data must follow established standards, procedures and laws. Also, Thrivent Financial uses encryption technology when sending or requesting personal information via the Internet. 
 
   
 Top of page
@@ -92,7 +97,7 @@ To change your preference for receiving updates to our Web site, you need to upd
   3. Check/uncheck the **Send Me Updates** check box.
   4. Click **Continue** to save your changes. The information in your online personal profile will be updated. 
 
-
+Notice of any material change to our Internet Privacy Policy will be posted on the thrivent.com home page. 
 
   
 Top of page
@@ -138,7 +143,7 @@ You can set your computer’s browser to opt-out of receiving and storing cookie
 Top of page
 
 **Do we use Web beacons?**  
-Web beacons (also known as Web bugs, pixel tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address. Thrivent Financial does not use Web beacons on its proprietary sites. 
+Web beacons (also known as Web bugs, pixel tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address. Thrivent Financial uses Web beacons on it's ThriveQ site and in e-mail communications for aggregate statistical purposes. 
 
   
 Top of page
@@ -177,7 +182,7 @@ Top of page
 If you have questions regarding our Internet Privacy Policy, send an e-mail message to [mail@thrivent.com](mailto:mail@thrivent.com), or send your written request to Thrivent Financial for Lutherans, 4321 N. Ballard Rd., Appleton, WI 54919.   
 Also, if you receive e-mail messages from Thrivent Financial about updates to our Web site and wish to no longer receive these updates, you can unsubscribe from our mailing list following the unsubscribe directions in the e-mail. You also can unsubscribe by updating your personal profile (under Manage My Profile). Notice of any material change to our Internet Privacy Policy is given on the thrivent.com home page. 
 
-This Internet Privacy Policy and any updates are effective as of May 24, 2006.   
-Top of page
+Notice of any material change to our Internet Privacy Policy is given will be posted on the thrivent.com home page. 
 
-[Print this page.](https://web.archive.org/web/20061110074004id_/http%3A//www.thrivent.com/printme.php)
+This Internet Privacy Policy and any updates are effective as of Jan 15, 2007.   
+Top of page
