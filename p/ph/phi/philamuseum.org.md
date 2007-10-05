@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928225803id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005094542id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art
 
 **Overview**  
-Thank you for visiting the Philadelphia Museum of Art’s (the "Museum’s") website and reviewing our privacy policy. The Museum does not collect individually identifiable information about visitors to our website (e.g., name, address, e-mail, etc.) unless you choose to provide that information to us. This privacy policy explains what data we collect and how we use it. 
+Thank you for visiting the Philadelphia Museum of Art's (the "Museum's") website and reviewing our privacy policy. The Museum does not collect individually identifiable information about visitors to our website (e.g., name, address, e-mail, etc.) unless you choose to provide that information to us. This privacy policy explains what data we collect and how we use it. 
 
 **Disclaimers**  
 The Museum is a 501(c)3, nonprofit organization. Information on this website is presented purely for educational and informational purposes. Your use of this website is subject to the provisions of this privacy policy, as well as the terms and conditions set forth in the [Copyright Notice](https://web.archive.org/copyright.html).
@@ -56,7 +56,7 @@ Users should be aware that the Museum contracts with several third-party vendors
 
 **Transactions**  
 _Purchasing Tickets/Web Ticketing_  
-The Museum provides visitors with the opportunity to purchase tickets online. When visitors to the Museum website choose to purchase tickets online, they are linked to a website powered by TM/Vista, allowing us to efficiently automate the selling and allocating of tickets in real-time. Visitors to the TM/Vista - museumtix websites are subject to museumtix policies and should refer to [museumtix policies](http://www.museumtix.com/help/privacy.asp?pvt=) the for details of that policy. 
+The Museum provides visitors with the opportunity to purchase tickets online. When visitors to the Museum website choose to purchase tickets online, they are linked to a website powered by Paciolan, allowing us to efficiently automate the selling and allocating of tickets in real-time. Visitors to the Paciolan website are covered by the museum’s policy. 
 
 _Museum Store and Online Membership_  
 The Museum provides visitors with an opportunity to make online purchases from the Museum retail store as well as purchase a Museum membership. When visitors to the Museum website choose to make an online purchase or to become a member of the Museum, they are linked to a website served by Yahoo. Visitors to the Yahoo websites are subject to Yahoo’s policies and should refer to the [Yahoo Disclaimer](http://stores.yahoo.com/disclaimer.html) and [Yahoo Privacy Policies](http://privacy.yahoo.com/) for further information.
@@ -73,11 +73,11 @@ While the Museum has endeavored to create a secure and reliable website, please 
 
 Unauthorized access is prohibited and punishable under the Computer Fraud and Abuse Act and the National Information Infrastructure Protection Act.
 
-**Children’s Privacy on the Web**  
+**Children's Privacy on the Web**  
 The Museum is concerned about protecting children's privacy. We do not knowingly collect personally identifiable information from children under the age of 13. There are some areas within the Philadelphia Museum of Art website where children could post messages or provide feedback, but children are discouraged from providing personal information. If a visitor known to be a child under the age of 13 sends an e-mail to the Museum, we will only use it to respond to the writer and not to create profiles or otherwise retain the information.
 
 **Linking**  
-The Museum’s website may provide links to third-party websites that may offer various products, services, and/or information. You should be aware that your use of these third-party websites may be subject to separate terms and conditions, information collection practices, and other provisions. The Museum does not endorse, nor is it responsible for, any of the products, services, or content offered in any third-party sites. Before using any third-party service, it shall be your sole responsibility to conduct whatever investigation you deem necessary and appropriate.
+The Museum's website may provide links to third-party websites that may offer various products, services, and/or information. You should be aware that your use of these third-party websites may be subject to separate terms and conditions, information collection practices, and other provisions. The Museum does not endorse, nor is it responsible for, any of the products, services, or content offered in any third-party sites. Before using any third-party service, it shall be your sole responsibility to conduct whatever investigation you deem necessary and appropriate.
 
 **Revisions to Our Web Policies**  
 Please note that the Museum may revise its privacy policy at any time. Occasionally, changes in technology, functionality, content we provide, laws and/or Museum policy may require us to revise policies and practices on this page. We encourage you to periodically visit this page to review our most current policy. Your continued use of the site shall constitute your acceptance of any such changes to this policy.
