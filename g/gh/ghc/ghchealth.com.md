@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429180511id_/http%3A//www.ghchealth.com/privacy%3FosCsid%3D3ecdf1afd750b4777234530d8b329a93) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005120240id_/https%3A//www.ghchealth.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center
 
