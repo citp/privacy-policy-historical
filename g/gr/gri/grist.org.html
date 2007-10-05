@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grist.org privacy policy that was archived on 2007-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070415013914id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grist.org privacy policy that was archived on 2007-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071005101904id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <!-- begin about.mc -->
@@ -9,6 +9,8 @@
 <style type="text/css">
 @import url("/newerbrowsers2.css");
 </style>
+<script type="text/javascript" src="../js/grist_functions.js">
+</script>
 
 <link rel="alternate" type="application/rss+xml" title="Grist RSS" href="http://www.grist.org/rss/gristfeed.rss">
 
@@ -32,9 +34,18 @@
     <!-- left column -->
 
 	    <td width="150" valign="top" rowspan="2" id="left">
-        <!--div with colored background; fixes quirk in IE and Opera-->
+<div style="display: none; margin: 0px; padding: 0px;">
+<!--for 1x1 pixel-->
+<!-- begin ZEDO for channel: master , publisher: Grist , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="459"; var zflag_cid="45"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+</script>
+<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: master , publisher: Grist , Ad Dimension: Pixel/Popup - 1 x 1 -->
+</div>
+<!--div with colored background; fixes quirk in IE and Opera-->
         <div class="brownbackground">
-            <a href="/"><img alt="Grist Magazine" src="/images/logo.gif" width="150" height="190" border="0" hspace="0" vspace="0" id="logo"></a>
+            <a href="/"><img alt="Grist" src="/images/logo.gif" width="150" height="190" border="0" hspace="0" vspace="0" id="logo"></a>
             <div id="leftsearch"><img alt="" src="/images/search.gif" width="81" height="14" border="0" hspace="0" vspace="0">
                 <form method="get" action="/cgi-bin/search.pl" class="searchform" name="search">
                     <input class="searchbox" type="text" value="" name="query" size="18"><input type="image" name="submit" class="searchgo" src="/images/go.gif" width="29" height="16" border="0" hspace="0" vspace="1"><br>
@@ -42,32 +53,37 @@
                 </form>
             </div>
         </div>
+        <script type="text/javascript" src="../../js/prototype.js"></script>
         <div id="leftmenu">
-            <div class="menugroup">
-                <span class="menucategory">news &amp; analysis<br></span>
-                <a class="leftmenu" href="/news/maindish/" title="Features and interviews">Main Dish</a><br>
-                <a class="leftmenu" href="/news/daily/" title="News summaries">Daily Grist</a><br>
-                <a class="leftmenu" href="/news/muck/" title="The latest in politics">Muckraker</a><br>
-                <a class="leftmenu" href="/biz/fd/" title="Business trends">Full Disclosure</a><br>
-                <a class="leftmenu" href="/podcast/weekly/" title="Audio environmental news">Weekly Podcast</a><br>  
+            <div class="menugroup" id="news">
+                <span class="menucategory">News &amp; Analysis</span><br>
+                <a class="leftmenu" href="/news/" title="In the News">In the News</a>
+                <a class="leftmenu" href="http://gristmill.grist.org/" title="Gristmill Blog">Gristmill Blog</a>
+                <a class="leftmenu" href="/podcast/weekly/" title="Podcast">Podcast</a>
+                <a class="leftmenu" href="/feature/" title="Features">Features</a>
+            </div> 
+            <div class="menugroup" id="columns">
+                <span class="menucategory">Columns<br></span>
+                <a class="leftmenu" href="/news/" title="In the News">Daily Grist</a>
+                <a class="leftmenu" href="/advice/ask/" title="Astute eco-advice">Ask Umbra</a>
+                <a class="leftmenu" href="/news/muck/" title="Muckraker">Muckraker</a><a class="leftmenu" href="/comments/food/" title="The eco-politics behind food">Victual Reality</a>
+                <a class="leftmenu" href="/advice/season/" title="Recipes, tips, and tastes for your kitchen">'Tis the Season</a>
+                <a class="leftmenu" href="/etc/gristlist/" title="Pop-culture picks">The Grist List</a>
             </div>
-            <div class="menugroup">
-                <span class="menucategory">commentary</span><br>
-                <a class="leftmenu" href="/comments/soapbox/" title="Opinion and humor">Soapbox</a><br>
-                <a class="leftmenu" href="/comments/interactivist/" title="Q&amp;A with activists">InterActivist</a><br>
-                <a class="leftmenu" href="/comments/food/" title="The eco-politics behind food">Victual Reality</a><br>
-                <a class="leftmenu" href="/comments/dispatches/" title="First-hand accounts from the field">Dispatches</a><br>
-            </div>
-            <div class="menugroup">
-                <span class="menucategory">advice &amp; reviews</span><br>
-                <a class="leftmenu" href="/advice/ask/" title="Astute eco-advice">Ask Umbra</a><br>
-                <a class="leftmenu" href="/advice/books/" title="Profiles and reviews">Arts and Minds</a><br>
-            </div>
-            <div class="menugroup">
-                <span class="menucategory">etc.</span><br>
-				<a class="leftmenu" href="/etc/gristlist/" title="Pop-culture picks">The Grist List</a><br>
-                <a class="leftmenu" href="http://gristmill.grist.org/" title="Round-the-clock commentary">Gristmill Blog</a><br>
-                <a class="leftmenu" href="/etc/letters/" title="Readers talk back">Letters</a><br>
+            <div class="menugroup" id="top_topics">
+                <span class="menucategory">top topics</span><br>
+                <a class="leftmenu" href="http://www.grist.org/topic/agriculture" title="Stories about agriculture">agriculture</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/business" title="Stories about business">business</a>
+               <a class="leftmenu" href="http://www.grist.org/topic/celebrity" title="Stories about celebrity">celebrity</a><a class="leftmenu" href="http://www.grist.org/topic/climate" title="Stories about climate">climate</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/elections" title="Stories about elections">elections</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/energy" title="Stories about energy">energy</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/environmental_justice" title="Stories about environmental justice">environmental justice</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/environmental_movement" title="Stories about environmental movement">environmental movement</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/food" title="Stories about food">food</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/green_living" title="Stories about green living">green living</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/greenwashing" title="Stories about greenwashing">greenwashing</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/legislation" title="Stories about legislation">legislation</a><a class="leftmenu" href="http://www.grist.org/topic/parenting" title="Stories about parenting">parenting</a><a class="leftmenu" href="http://www.grist.org/topic/placemaking" title="Stories about placemaking">placemaking</a><a class="leftmenu" href="http://www.grist.org/topic/politics" title="Stories about politics">politics</a>
+                <a class="leftmenu" href="http://www.grist.org/topic/" title="More topics">more ...</a>
             </div>
         </div>
 		<div class="supportBox">
@@ -76,6 +92,7 @@
 			<span class="supportText">Support nonprofit, independent environmental journalism.<br><strong><a class="leftmenu" href="/support/">Donate to Grist.</a></strong></span>
 		</div>
     </td>
+
 
     <!-- end left column -->
 
@@ -88,10 +105,15 @@
 
 		<!-- begin 728x90top about ad -->
 		<div id="ad728x90top" style="margin-top: 10px;">
-			<div class="adFlagRight">ADVERTISEMENT</div>
+			<div class="adFlagRight"><a href="/about/advertising/">ADVERTISING POLICY</a></div>
 			<!-- begin ZEDO for channel:  About/Misc. , publisher: Grist , Ad Dimension: Super Banner - 728 x 90 -->
-			<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=459;c=38/9;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
-			<!-- end ZEDO  for channel:  About/Misc. , publisher: Grist , Ad Dimension: Super Banner - 728 x 90 -->
+			<script language="JavaScript">
+			var zflag_nid="459"; var zflag_cid="38/9"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+			if(typeof kwd  == 'undefined')kwd = '';
+			var zflag_kw=kwd;
+			</script>
+			<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+			<!-- end ZEDO for channel:  About/Misc. , publisher: Grist , Ad Dimension: Super Banner - 728 x 90 -->
 		</div>
 		<!-- end 728x90top about ad -->
     </td>
@@ -200,13 +222,44 @@ In some cases when we post a notice of privacy-policy changes, we will also emai
                 </div>
             </div>
 
-            <div class="alsoingrist"><span class="boxhead">New in Grist ...</span>
-            <div class="boxitem"><a href="/etc/gristlist/2007/04/13/index.html">From Pimpinator to Prom Night.</a> A new Grist List by Sarah Kraybill Burkhalter and Sarah van Schagen.</div>
-<div class="boxitem"><a href="/comments/interactivist/2007/04/09/meyers/index1.html">A Match Made on Earth.</a> Meghan Meyers, InterActivist and founder of green-wedding mag <em>Portovert</em>, answers readers' questions.</div>
-<div class="boxitem"><a href="/comments/food/2007/04/12/global/index.html">The Route of the Problem</a>, by Tom Philpott in Victual Reality. Following U.S. consumerism through the fields of China and Brazil.</div>
+            <div id="tabtitle">The Week's Most Popular</div>
 
-            </div>
+                <div id="gp_navcontainer">
 
+                        <ul id="navlist">
+
+                                <!-- CSS Tabs -->
+
+<li><a id="tab1" href="javascript:tabFocus('mv');">Viewed</a></li>
+
+<li><a id="tab2" href="javascript:tabFocus('mc');">Commented</a></li>
+
+<li><a id="tab3" href="javascript:tabFocus('me');">Emailed</a></li>
+
+                        </ul>
+
+                </div>
+
+<div id="box2_pane1" class="box2_pane">
+
+    <div id="mv"><div id="boxitemMV_2" class="boxitemMV"><a href="http://www.grist.org/advice/ask/2007/10/01/?source=most_popular">Ask Umbra on household help and homemade cleansers</a></div><div id="boxitemMV_3" class="boxitemMV"><a href="http://www.grist.org/skeptics?source=most_popular">How to Talk to a Climate Skeptic</a></div><div id="boxitemMV_4" class="boxitemMV"><a href="http://www.grist.org/news/?source=most_popular">In the News</a></div><div id="boxitemMV_5" class="boxitemMV"><a href="http://www.grist.org/advice/ask/2007/09/26/?source=most_popular">Ask Umbra on kids' birthday parties</a></div><div id="boxitemMV_6" class="boxitemMV"><a href="http://www.grist.org/etc/gristlist/2007/09/28/?source=most_popular">From Ball Game to Bubble Gum</a></div></div>
+
+    </div>
+
+    <div id="box2_pane2" class="box2_pane">
+
+    <div id="mc"><div id="boxitemMC_0" class="boxitemMC"><a href="http://gristmill.grist.org/story/2007/9/16/174625/254?source=most_popular">Vegetarianism and environmentalism</a> <span>(61)</span></div><div id="boxitemMC_1" class="boxitemMC"><a href="http://gristmill.grist.org/story/2007/9/27/114147/920?source=most_popular">Swift-boating James Hansen</a> <span>(39)</span></div><div id="boxitemMC_2" class="boxitemMC"><a href="http://gristmill.grist.org/story/2007/09/21/1137/9411?source=most_popular">The Grist List, 21 Sep 2007</a> <span>(23)</span></div><div id="boxitemMC_3" class="boxitemMC"><a href="http://gristmill.grist.org/story/2007/9/27/12312/0380?source=most_popular">Environmentalism's existential moment</a> <span>(23)</span></div><div id="boxitemMC_4" class="boxitemMC"><a href="http://gristmill.grist.org/story/2007/10/1/142022/567?source=most_popular">Reshaping market economies</a> <span>(20)</span></div></div>
+
+    </div>
+
+    <div id="box2_pane3" class="box2_pane">
+
+    <div id="me"><div id="boxitemME_0" class="boxitemME"><a href="http://www.grist.org/advice/ask/2007/09/24/?source=most_popular">Ask Umbra on green laundry detergents</a></div><div id="boxitemME_1" class="boxitemME"><a href="http://www.grist.org/feature/2007/09/24/greene/?source=most_popular">An interview with green pediatrician Alan Greene</a></div><div id="boxitemME_2" class="boxitemME"><a href="http://www.grist.org/feature/2007/09/17/parenting/?source=most_popular">A Grist special series on parenting and health</a></div><div id="boxitemME_3" class="boxitemME"><a href="http://www.grist.org/comments/food/2007/09/27/?source=most_popular">Time to reinvest in the school-lunch program</a></div><div id="boxitemME_4" class="boxitemME"><a href="http://www.grist.org/news/2007/09/21/fenway/?source=most_popular">Red Sox partner with NRDC to green Fenway Park</a></div></div>    
+
+    </div>
+<div id="bottomRSS"><a href="http://www.grist.org/rss/mostpopular.rss"><img src="http://www.grist.org/images/feed-icon-12x12.gif" border="0"></a></div>
+
+            
 			
         </div>
 
@@ -222,7 +275,7 @@ In some cases when we post a notice of privacy-policy changes, we will also emai
 
 	<!-- begin 728x90bottom ad -->
 	<div id="ad728x90bottom">
-		<div class="adFlagRight">ADVERTISEMENT</div>
+		<div class="adFlagRight"><a href="/about/advertising/">ADVERTISING POLICY</a></div>
 		<!-- begin ZEDO for channel: Run of Network , publisher: Grist , Ad Dimension: Bottom Super Banner - 728 x 90 -->
 		<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=459;d=17;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
 		<!-- end ZEDO  for channel: Run of Network , publisher: Grist , Ad Dimension: Bottom Super Banner - 728 x 90 -->
@@ -231,24 +284,20 @@ In some cases when we post a notice of privacy-policy changes, we will also emai
 
     <span id="bottomnav">
 		<a href="http://gristmill.grist.org/" class="bottomlink">Gristmill Blog</a> |
+		<a href="/podcast/weekly/" class="bottomlink">Podcasts</a> |
         <a href="/cgi-bin/search.pl?archives=yes" class="bottomlink">Archives</a> |
         <a href="/support/" class="bottomlink">Support Grist</a> |
         <a href="/about/" class="bottomlink">About Grist</a> |
         <a href="/about/rss/" class="bottomlink">RSS</a> |
-        <a href="/cgi-bin/signmeup.pl" class="bottomlink">Grist by Email</a> |
-        <a href="/cgi-bin/search.pl" class="bottomlink">Search</a> |
-        <a href="/news/maindish/" class="bottomlink">Main Dish</a> |
+        <a href="/cgi-bin/signmeup.pl" class="bottomlink">Grist by Email</a><br>
+
         <a href="/news/daily/" class="bottomlink">Daily Grist</a> |
-        <a href="/news/muck/" class="bottomlink">Muckraker</a> |
-        <a href="/biz/fd/" class="bottomlink">Full Disclosure</a> |
-        <a href="/podcast/weekly/" class="bottomlink">Weekly Podcast</a> |
-        <a href="/comments/soapbox/" class="bottomlink">Soapbox</a> |
-        <a href="/comments/interactivist/" class="bottomlink">InterActivist</a> |
+		<a href="/advice/ask/" class="bottomlink">Ask Umbra</a> |
         <a href="/comments/food/" class="bottomlink">Victual Reality</a> |
-        <a href="/advice/ask/" class="bottomlink">Ask Umbra</a> |
-        <a href="/advice/books/" class="bottomlink">Arts and Minds</a> |
-		<a href="/etc/gristlist" class="bottomlink">The Grist List</a> |
-        <a href="/etc/letters/" class="bottomlink">Letters</a>
+        <a href="/advice/season/" class="bottomlink">'Tis the Season</a> |
+		<a href="/comments/dispatches/" class="bottomlink">Dispatches</a> |
+		<a href="/etc/gristlist" class="bottomlink">The Grist List</a>
+
     </span>
     <br><br><br>
     <span>
@@ -264,6 +313,7 @@ In some cases when we post a notice of privacy-policy changes, we will also emai
     </span>
 </div>
 <!-- end bottom links and copyright -->
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -272,7 +322,6 @@ urchinTracker();
 </script>
 
 <!-- end about.mc -->
-
 
 <!-- End "autohandler" -->
 </body></html>
