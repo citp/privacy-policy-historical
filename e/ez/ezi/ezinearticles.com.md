@@ -1,64 +1,75 @@
-> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110035148id_/http%3A//www.ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005032415id_/http%3A//ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
-# EzineArticles Privacy Policy
+# EzineArticles.com Privacy Policy
 
-|   | 
+| 
 
 EzineArticles Privacy Policy  
-[Effective November 23, 2003]
+[Last Updated May 22, 2007]
 
-Subscription Forms  
-EzineArticles.com uses subscription forms for individuals to request information by subscribing to Email Newsletters based on their categories of interest. We collect visitor's contact information (like your email address) to provide you with the information that you request. We will periodically send you email referring to news and updates to EzineArticles.com.
+Your privacy is important to EzineArticles.com and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it.
 
-Choice / OPT-IN  
-We provide opt-in opportunities for all email lists that you choose to receive. We use your email addresses to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any email list.
+**Customer and Membership Information:**  
+Customer account information and Membership account information that you provide (such as your email address, address, phone number, passwords, credit card or payment information, etc.) is held in strict confidence and will not be sold or rented to 3rd parties, but will be used for the purposes of providing services described on this website.
 
-IP address  
-We use your IP address, browser type, domain names, and access times, operating system, country of origin, page views, and users sessions to help diagnose problems with our servers, and to administer our Web site. Your IP, etc. address is used to gather broad demographic information.
+**Email Privacy:**
 
-Cookies  
-A cookie is a piece of data stored on the user's computer. Our site only uses session ID cookies so our advertisement server can deliver proper ad rotation sequences. For example, if three banners are in rotation, the individual gets the proper rotation without duplicates. Usage of a cookie is in no way linked to personally identifiable information while on our site. Further, once a user closes their browser the cookie simply terminates.
+  * **Email Newsletter & Email Alert Subscription Forms**  
+EzineArticles.com uses subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name and/or email address amoung other data) to provide you with the information that you requested. We do not sell or rent email addresses to any 3rd parties.
+  * **Confirm OPT-IN**  
+We provide confirm opt-in opportunities for any email list(s) that you choose to receive. We use your email address to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any EzineArticles email list or newsletter. You can change the email address that you have subscribed by using our Manage Your Subscriptions form or you can unsubscribe with the email address you're currently subscribed with and then subscribe again with a new email address.
+  * **Unsubscribe**  
+You can unsubscribe/opt-out for any or all email lists that you previously chose to receive. Emails sent to you includes the information necessary for removal from the list.
+  * **User/Member/Client Communications**  
+When you send email or other communications to us, we may retain those communications in order to process your requests and improve the quality of our services.
+  * **Transactional Relationships**  
+Customers, Members, and/or Users are considered to be engaged in a transactional relationship with EzineArticles.com and as such, we may need to email or communicate with you from time to time in order to deliver our services. 
 
-Links  
-This site contains links to other sites. EzineArticles.com is not responsible for the privacy practices or the content of such Web sites. EzineArticles.com recommends you refer to each Network Member's Privacy Statements.
 
-Sharing Information  
-EzineArticles.com does not share, sell or rent your email addresses to outside third parties. Personally identifiable information will only be disclosed due to law or court demands (see our legal disclaimer below for more information)..
 
-Supplementation of Information  
-We do not supplement your personally identifiable information with any outside third parties information.
+**Personal Information and Other Data We Collect:**
 
-Security  
-The EzineArticles.com web site has security measures in place to protect the loss, misuse and alteration of the information under our control. Sensitive data, such as credit card information, collected through EzineArticles.com's website is transferred via Secure Socket Layer (SSL) server only. EzineArticles.com employees are made aware of all security policies and are maintaining and protecting your personally identifiable information.
+  * EzineArticles collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other EzineArticles services or 3rd party data to provide a better user experience for you.
+  * EzineArticles uses cookies (a piece of data stored on the user's computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services.
+  * EzineArticles servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you.
 
-Correct / Update  
-Change the email address that you have subscribed with by first unsubscribing with your current email address. Then, resubscribe with your new email address. All email list welcome messages contain the information necessary for subscription and removal from their appropriate list.
 
-Permission Request Form  
-All information collected via the Permission Request Form for copyrighted materials is used by EzineArticles.com to identify the requesting entity and respond to their request. The users' personally identifiable information is not given to third-parties.
 
-Unsubscribe  
-We provide unsubscribe/opt-out opportunities for all email lists that you choose to receive. All email list welcome messages contain the information necessary for removal from the list. Removal from all lists is instant and automated by our servers.
+**Uses:**
 
-Under our standard management agreement, we provide you with forms and list infrastructure via our site, and you just direct visitors to the forms. When new subscribers sign up via your form, the names are added to your lists. Your lists become available for rental via our site. We provide marketing, mailing, merge/purge, and subscribe/unsubscribe services.
+  * We may use the personal information you provided to provide the services you requested and for our own research and analysis to operate and improve on the services and products that we deliver, as well as develop new services and products.
+  * We may share the aggregated non-personal information with 3rd parties outside of EzineArticles.com.
+  * When we use 3rd parties to assist us in the processing of your personal information (example: shopping cart service provider), we require that they comply with our Privacy Policies, confidentiality and security measures.
+  * We may share information with 3rd parties in limited circumstances when complying with legal process, preventing suspected fraud or imminent harm, and ensuring the security of our network and services. 
+  * We may use your postal and electronic address to send you items and/or information relevant to your use of our services.
+  * We may conduct member and/or user survey's in order to improve our services.
 
-End users: Your name, email address, zipcode and any other identifying information that you give us will not be revealed to any of the direct marketers who rent our lists.
 
-Surveys  
-The email addresses and contact information collected via publisher surveys are used solely to compile general statistical data. The users' personally identifiable information is never sold or given out to parties outside EzineArticles.com. All information is collected via the online form provided.
 
-Notification of Changes  
-EzineArticles.com will occasionally update our Privacy Policy based on our employees' and users' feedback. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from EzineArticles.com you will not be contacted, nor will your personal information be used in this new manner. EzineArticles.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
+**Links:**
 
-Legal Disclaimer  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+  * This site contains links to other 3rd party sites and these sites are not covered under our privacy policy. We have made attempts to make sure these links are currently active but do not assure any responsibility for the content of these websites. We highly recommend that you review the privacy policies of these websites as well.
+  * EzineArticles may present links in a way that allows us to track whether these links have been followed. We use this information to improve the quality of our services.
 
-Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-EzineArticles.com Privacy Team  
-c/o Christopher Knight  
-http://EzineArticles.com/  
-PO Box 12740  
-Green Bay, WI 54307  
-[Contact EzineArticles](https://web.archive.org/contact.html)
+
+**Advertising Specific Terms & Conditions:**  
+We use a combination of internal and 3rd party advertising companies to serve our ads on our website and in our emails, based on personal information. To track the effectiveness of the ads and provide a better user experience, these companies use information about your web visits to our website to serve relevant ads. Information collected and used may include IP address, geographical location, their cookie and and historical data previously collected. We will not provide any personal information to our advertisers when you interact with or view a targeted ad, however, by viewing or interacting with an ad, you are consenting to the possibility that the advertiser will assume you meet the targeting criteria used to display the ad(s).
+
+**Security Management and Data Security:**  
+The EzineArticles.com web site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, including management procedures and specialized training for those who work directly with our databases. We take measures to protect against the unauthorized access of personal data, including physical security considerations of the stored data. We restrict access to personal data to EzineArticles.com employees, contractors and agents who need to know that information in order to operate, innovate, and deliver our services.
+
+**EzineArticles Affiliate Partner Information:**  
+All EzineArticles affiliate information including address, phone number, email addresses, and tax id numbers are held in strict confidence. This information is collected for the purpose of generating commission payments, meeting United States federal tax laws, and managing our services.
+
+**Notification of Changes:**  
+From time to time, EzineArticles.com will occasionally update our Privacy Policy. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from EzineArticles.com you will not be contacted, nor will your personal information be used in this new manner. EzineArticles.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
+
+**Your Choice:**  
+You can decline to submit personal information for any of our services, in which case EzineArticles.com may not be able to provide services to you.
+
+**Legal Disclaimer:**  
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
+
+**Contacting this Web Site:**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
