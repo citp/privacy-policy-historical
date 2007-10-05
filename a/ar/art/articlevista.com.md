@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607182652id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlevista.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005081634id_/http%3A//www.articlevista.com/privacy.php) for the most accurate reproduction.*
 
 # Article Vista | Article Submission | Free Website Content | Publishing
 
-Article Vista Directory Privacy Policy
+## Article Vista Directory Privacy Policy
 
 ArticleVista.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -39,26 +39,3 @@ We can be reached by emailing us.
 **Changes to this Policy:**
 
 ArticleVista.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-| 
-
-New Visitors
-
-Article writers, start submitting your articles today! [Sign Up](http://www.articlevista.com/signup.php) for a free account or [learn more](http://www.articlevista.com/learnmore.php).
-
-|  | **Newsletter Signup**  
-News, Free software for webmasters.  
----|---  
-Automatically receive " **Article Writing Secrets** " ($47 Value!) “…The Easy, Proven And Simple Way To Pump Out High Quality Articles And Turn Them Into Long Term Residual Income”   
-  
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
