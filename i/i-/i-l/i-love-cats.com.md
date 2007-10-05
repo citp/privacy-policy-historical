@@ -1,32 +1,42 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204194535id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005020754id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
-# I-Love-Cats.com - Privacy
+# I-Love-Cats.com Privacy Policy
 
-**I-Love-Cats.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [I-Love-Cats.com ]()
+How To Contact Us
 
-#### Advertisers
+**Our Commitment To Privacy**
 
-Our Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. 
+Your privacy is important to I-Love-Cats.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage. 
 
-We run contests on our site in which we ask visitors for contact information (like email address).
+**The Information We Collect:**
 
-Contact information from the contests is used to get in touch with the visitor when necessary. 
+This notice applies to all information collected or submitted on the I-Love-Cats.com website. On some pages, you can make requests and register for free services. The types of personal information collected at these pages are: 
 
-#### External Links
-
-This site contains links to other sites. **I-Love-Cats.com** is not responsible for the privacy practices or the content of such Web sites.
-
-#### Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-#### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+Name    
+Email address   
+Date of Birth 
 
 
-[meow@i-love-cats.com ](mailto:meow@i-love-cats.com)
+**The Way We Use Information:**
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We offer free promotional tools for webmasters, and we reserve the right to update those have have opted to use the free promotional tools via email.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+**Our Commitment To Children's Privacy:**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please contact us by clicking [here](http://www.i-love-cats.com/contactus.html). 
