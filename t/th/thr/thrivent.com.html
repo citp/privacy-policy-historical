@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thrivent.com privacy policy that was archived on 2006-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110074004id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thrivent.com privacy policy that was archived on 2007-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071005162053id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <title>Thrivent Financial for Lutherans</title>
@@ -11,6 +11,38 @@
 
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" type="text/css" href="/includes/thriventcss.css">
+
+<script language="javascript">
+<!--
+ function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function parseNavigation(ob) {
+// created by joe crawford october 2002
+// http://artlung.com/lab/scripting/dropdown-only-some-new-window/
+toBeBrokenDown = ob.options[ob.selectedIndex].value.split("|");
+
+targetWindow = toBeBrokenDown[0];
+targetURL    = toBeBrokenDown[1];
+
+	if (targetWindow!=='') {
+	// if a new Window name is specified, then it will
+	// open in a new Window.
+	window.open(targetURL,targetWindow,'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=700,height=600');
+	// if we open a new window, then we have to re-set
+	// the select box to the first option
+	// which should have no value
+	ob.selectedIndex = 0;
+		} else {
+	// or else it will open in the current window		
+	window.open(targetURL,'_top')
+	}
+}
+
+//-->
+</script>
+
 <link rel="alternate stylesheet" type="text/css" href="/print/1.css" title="1">
 <link rel="alternate stylesheet" type="text/css" href="/print/2.css" title="2">
 <link rel="alternate stylesheet" type="text/css" href="/print/3.css" title="3">
@@ -18,6 +50,7 @@
 
 <script type="text/javascript" src="/print/styleswitcher.js"></script>
 <script type="text/javascript" src="/print/printpage.js"></script>
+
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" onload="showit(-1)">
@@ -25,19 +58,40 @@
 <a name="topofpage"></a> 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="380" align="left" background="/images/background.gif" valign="top"><a href="/index.html" target="_top"><img src="/includes/images/home_logo.gif" alt="Thrivent Financial for Lutherans Logo" width="380" height="78" border="0"></a></td>
-    <td align="right" width="50%" valign="top" background="/images/background.gif"><br>
-<a href="/contactus/index.html" class="subnavred" target="_top">Contact Us</a> |
-<a href="/sitehelp/index.html" class="subnavred" target="_top">Site Help</a> | 
-<a href="/newsroom/index.html" class="subnavred" target="_top">Corporate News</a><br>
-<a href="/joinus/index.html" class="subnavred" target="_top">Become a Member</a> | 
-<a href="/freeoffers/index.html" class="subnavred" target="_top">Free Offers</a> | 
-<a href="https://service.thrivent.com/apps/FraternalOnline/public/ChapterLocator.jsp" class="subnavred" target="_top">Chapter Web Sites</a><br>
-<a href="https://service.thrivent.com/apps/locate/index.jsp" class="subnavred" target="_top">Locate Your Financial Representative</a><p>
-	  </p></td>
+    <form></form><td width="40%" align="left" valign="top" background="/images/background.gif"><a href="/index.html" target="_top"><img src="/includes/images/home_logo_small.gif" alt="Thrivent Financial for Lutherans Logo" border="0"></a></td>
+    <td align="right" valign="top" background="/images/background.gif"><a href="/contactus/index.html" class="subnavred" target="_top"><br>
+      Contact Us</a> | <a href="/sitehelp/index.html" class="subnavred" target="_top">Site Help</a> | <a href="/newsroom/index.html" class="subnavred" target="_top">Corporate News</a> | <a href="/joinus/index.html" class="subnavred" target="_top">Become a Member</a>&nbsp;<br>
+      <a href="/freeoffers/index.html" class="subnavred" target="_top">Free Offers</a> | <a href="https://service.thrivent.com/apps/FraternalOnline/public/ChapterLocator.jsp" class="subnavred" target="_top">Chapter Web Sites</a> | <a href="https://service.thrivent.com/apps/locate/index.jsp" class="subnavred" target="_top">Locate Your Financial Representative</a><br><img src="/includes/images/portalwhite.gif" width="50" height="5"><br>
+      <table width="150" border="0" align="right" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">
+        <tbody><tr>
+          <td><img src="/includes/images/leftcorner.gif" width="9"></td>
+          <td align="center" background="/includes/images/loginback.gif"><script language="javascript" type="text/javascript" src="/includes/accountsdropdown.js"></script><select name="select" class="footnote1" onchange="parseNavigation(this)">
+<!-- in each option, the value should include a pipe "|" character before each url,  -->
+<!-- to open in a new window, specify a window name -->
+<!-- urls may be local-->
+<option>Log in to your accounts...</option>
+<option value="|https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp?wssrc=topnav&amp;wsssubject=annuityvalues">Annuity Values</option>
+<option value="|https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp?wssrc=topnav&amp;wsssubject=brokerageinvestment">Brokerage–Personal</option>
+<option value="BrokerageWin|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?http://www.mystreetscape.com/my/thrivent">Brokerage–Business</option>
+<option value="DiscWin|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www2.netxclient.com/universal2/login.htm">Discount Brokerage</option>
+<option value="|https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp?wssrc=lefnav&amp;wsssubject=insurancevalues">Insurance Values</option>
+<option value="|https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp?wssrc=lefnav&amp;wsssubject=mutualfundspersonal">Mutual Funds–Personal</option>
+<option value="|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&amp;cz=c190717082104131902141715">Mutual Funds–Business</option>
+<option value="|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&amp;cz=c190717082104131902141715">Mutual Funds–Trust</option>
+<option value="|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www.thriventbankonline.com/onlineserv/HB">Online Banking</option>
+<option value="TrustWin|http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www.trustweb.com/log6x01.htm">Trust Services</option>
+<option value="|https://service.thrivent.com/apps/MbrMaintenance/MaintInit.do?wssrc=lefnav&amp;wsssubject=profile">Manage My Profile</option>
+<option value="|https://service.thrivent.com/apps/member/serviceForm/ServiceRequestFormsSetup?wssrc=lefnav&amp;wsssubject=servicerequest">Service Request</option>
+</select>
+</td>
+          <td><img src="/includes/images/rightcorner.gif" width="9"></td>
+          <td width="5">&nbsp;</td>
+          </tr>
+      </tbody></table></td> 
+    
   </tr>
         <tr bgcolor="#FFFFFF">
-          <td colspan="2" valign="top"><img src="/includes/images/portalwhite.gif" alt="Image Spacer" width="100" height="5"></td>
+          <td colspan="2" valign="top"><img src="/includes/images/portalwhite.gif" width="100" height="5"></td>
         </tr>	  
   <tr>
     <td colspan="2" align="left">
@@ -228,45 +282,30 @@ var submenu=new Array()
 
 //Set submenu contents. Expand as needed. For each content, make sure everything exists on ONE LINE. Otherwise, there will be JS errors.
 
+
 submenu[0]='<font color="#FFFFFF"><a href="/index.html" target="_top" class="whitelinksmessage"><br>Delivering the financial expertise that helps both our members and our communities thrive. </a></font>'
 
-submenu[1]='<font color="#FFFFFF"><a href="https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp" target="_top" class="whitelinks">Insurance & Annuity Account Values</a> | <a href="https://service.thrivent.com/apps/member/serviceForm/ServiceRequestFormsSetup" target="_top" class="whitelinks">Insurance & Annuity Service Request</a> | <a href="/access/ins/index.html" target="_top" class="whitelinks">Health Insurance Claim Information</a> | <a href="https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp" target="_top" class="whitelinks">Mutual Funds - Personal Accounts</a> | <a href="https://www2.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=c190717082104131902141715" target="_top" class="whitelinks">Mutual Funds - Trust, Business Accounts</a> | <a href="/access/billing/" class="whitelinks">Billing and Payments</a> | <a href="/access/vaforms/" class="whitelinks">Variable Product Forms</a> | <a href="http://www.thrivent.com/access/distribforms/index.html" class="whitelinks">Distribution Forms</a> | <a href="https://www.thriventbankonline.com/onlineserv/HB" target="_blank" class="whitelinks">Thrivent Bank Online Banking</a> | <a href="https://www.trustweb.com/log6x01.htm" target="_blank" class="whitelinks">Trust and Investment Services</a> | <a href="http://www.investor-connect.com/default.asp?fid=12T7" target="_blank" class="whitelinks">Investment Brokerage-Financial Consulting Group</a> | <a href="https://www2.netxclient.com/universal2/login.htm target="_blank" class="whitelinks">Discount Brokerage Services</a> | <a href="https://service.thrivent.com/apps/MbrMaintenance/MaintInit.do" target="_top" class="whitelinks">Manage My Profile</a> | <a href="/access/faqs/index.html" target="_top" class="whitelinks">FAQs</a></font>'
+submenu[1]='<font color="#FFFFFF"><a href="https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp" target="_top" class="whitelinks">Insurance & Annuity Account Values</a> | <a href="https://service.thrivent.com/apps/member/serviceForm/ServiceRequestFormsSetup" target="_top" class="whitelinks">Insurance & Annuity Service Request</a> | <a href="/access/ins/index.html" target="_top" class="whitelinks">Health Insurance Claim Information</a> | <a href="https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp" target="_top" class="whitelinks">Mutual Funds - Personal Accounts</a> | <a href="http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=c190717082104131902141715" target="_top" class="whitelinks">Mutual Funds - Trust, Business Accounts</a> | <a href="/access/billing/index.html" target="_top" class="whitelinks">Billing and Payments</a> | <a href="/access/vaforms/index.html" target="_top" class="whitelinks">Variable Product Forms</a> | <a href="/access/distribforms/index.html" target="_top" class="whitelinks">Annuity & Life Insurance Distribution Forms</a> | <a href="/access/deathclaim/index.html" target="_top" class="whitelinks">Death Claim Information</a> | <a href="http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www.thriventbankonline.com/onlineserv/HB" target="_top" class="whitelinks">Thrivent Bank Online Banking</a> | <a href="http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www.trustweb.com/log6x01.htm" target="_blank" class="whitelinks">Trust and Investment Services</a> | <a href="https://service.thrivent.com/apps/member/ctfvalues/AccountAccess.jsp" class="whitelinks">Investment Brokerage-Personal</a> | <a href="http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?http://www.mystreetscape.com/my/thrivent" class="whitelinks" target="_blank">Investment Brokerage-Business</a> | <a href="http://www.thrivent.com/cgi-bin/ntlinktrack.cgi?https://www2.netxclient.com/universal2/login.htm" target="_blank" class="whitelinks">Discount Brokerage Services</a> | <a href="https://service.thrivent.com/apps/MbrMaintenance/MaintInit.do" target="_top" class="whitelinks">Manage My Profile</a> | <a href="/access/faqs/index.html" target="_top" class="whitelinks">FAQs</a></font>'
 
-submenu[2]='<font color="#FFFFFF"><a href="/annuities/lifeevents/index.html" target="_top" class="whitelinks">Annuities By Life Event</a> | <a href="/annuities/fixed/index.html" target="_top" class="whitelinks">Deferred Fixed Annuities</a> | <a href="/annuities/immediate/index.html" target="_top" class="whitelinks">Immediate Annuities</a> | <a href="/annuities/fpdva/index.html" target="_top" class="whitelinks">Flexible Premium Deferred Variable Annuity </a> | <a href="/annuities/vaoptions/index.html" target="_top" class="whitelinks">Variable Annuity Investment Options</a> | <a href="/annuities/vaoptions/portfoliofocus.html" target="_top" class="whitelinks">Variable Annuity Portfolio Focus </a> | <a href="/annuities/information.html" target="_top" class="whitelinks">Variable Annuity Prospectuses & Reports</a> | <a href="https://service.thrivent.com/vasubaccounts/VAPDailyAndPerformance.jsp" target="_top" class="whitelinks">Variable Annuity Daily Values & Performance </a> | <a href="/planning/education/index.html" target="_top" class="whitelinks">Education Center</a> | <a href="/annuities/loma_glossary/index.html" target="_top" class="whitelinks">LOMA&#39;s Glossary</a></font>'
+submenu[2]='<font color="#FFFFFF"><a href="/annuities/lifeevents/index.html" target="_top" class="whitelinks">Annuities By Life Event</a> | <a href="/annuities/fixed/index.html" target="_top" class="whitelinks">Deferred Fixed Annuities</a> | <a href="/annuities/immediate/index.html" target="_top" class="whitelinks">Immediate Annuities</a> | <a href="/annuities/fpdva/index.html" target="_top" class="whitelinks">Flexible Premium Deferred Variable Annuity</a> | <a href="/annuities/vaoptions/index.html" target="_top" class="whitelinks">Variable Annuity Investment Options</a> | <a href="/annuities/vaoptions/portfoliofocus.html" target="_top" class="whitelinks">Variable Annuity Portfolio Focus</a> | <a href="/annuities/information.html" target="_top" class="whitelinks">Variable Annuity Prospectuses & Reports</a> | <a href="https://service.thrivent.com/apps/investments/vasubaccounts/VAPDailyAndPerformance.jsp" target="_top" class="whitelinks">Variable Annuity Daily Values & Performance</a> | <a href="/annuities/deathclaim/index.html" target="_top" class="whitelinks">Death Claim Information</a> | <a href="/planning/education/index.html" target="_top" class="whitelinks">Education Center</a> | <a href="/annuities/loma_glossary/index.html" target="_top" class="whitelinks">LOMA&#39;s Glossary</a></font>'
 
-submenu[3]='<font color="#FFFFFF"><a target="_top" href="/insurance/business/index.html" class="whitelinks">Business Continuation</a> | <a target="_top" href="/insurance/businessdi/index.html" class="whitelinks">Business Overhead Expense</a> | <a target="_top" href="/insurance/disability/index.html" class="whitelinks">Disability Income</a> | <a target="_top" href="/insurance/lifeevents/index.html" class="whitelinks">By Life Event</a> | <a target="_top" href="/insurance/life/index.html" class="whitelinks">Life</a> | <a target="_top" href="/insurance/permanent/index.html" class="whitelinks">Permanent Life</a> | <a target="_top" href="/insurance/term/index.html" class="whitelinks">Term Life</a> | <a target="_top" href="/insurance/vulfeatures/index.html" class="whitelinks">VUL Investment Options </a> | <a target="_top" href="/insurance/vulfeatures/portfoliofocus.html" class="whitelinks">VUL Portfolio Focus</a> | <a target="_top" href="/insurance/variablelife/index.html" class="whitelinks">VUL Prospectuses & Reports </a> | <a target="_top" href="https://service.thrivent.com/apps/investments/insurance/index.jsp" class="whitelinks">VUL Daily Values & Performance </a> | <a target="_top" href="/insurance/longterm/index.html" class="whitelinks">Long Term Care</a> | <a target="_top" href="/insurance/majormed/index.html" class="whitelinks">Major Medical</a> | <a target="_top" href="/insurance/medicare/index.html" class="whitelinks">Medicare Supplement</a> | <a target="_top" href="/insurance/property/index.html" class="whitelinks">Property & Casualty</a> | <a target="_top" href="/planning/education/index.html" class="whitelinks">Education Center</a>  |  <a target="_top" href="/insurance/loma_glossary/index.html" class="whitelinks">LOMA&#39;s Glossary</a></font>'
+submenu[3]='<font color="#FFFFFF"><a href="/insurance/business/index.html" target="_top" class="whitelinks">Business Continuation</a> | <a href="/insurance/businessdi/index.html" target="_top" class="whitelinks">Business Overhead Expense</a> | <a href="/insurance/disability/index.html" target="_top" class="whitelinks">Disability Income</a> | <a href="/insurance/lifeevents/index.html" target="_top" class="whitelinks">By Life Event</a> | <a href="/insurance/life/index.html" target="_top" class="whitelinks">Life</a> | <a href="/insurance/permanent/index.html" target="_top" class="whitelinks">Permanent Life</a> | <a href="/insurance/term/index.html" target="_top" class="whitelinks">Term Life</a> | <a href="/insurance/vulfeatures/index.html" target="_top" class="whitelinks">VUL Investment Options</a> | <a href="/insurance/vulfeatures/portfoliofocus.html" target="_top" class="whitelinks">VUL Portfolio Focus</a> | <a href="/insurance/variablelife/index.html" target="_top" class="whitelinks">VUL Prospectuses & Reports</a> | <a href="https://service.thrivent.com/apps/investments/insurance/index.jsp" class="whitelinks">VUL Daily Values & Performance</a> | <a href="/insurance/longterm/index.html" target="_top" class="whitelinks">Long Term Care</a> | <a href="/insurance/majormed/index.html" target="_top" class="whitelinks">Major Medical</a> | <a href="/insurance/medicare/index.html" target="_top" class="whitelinks">Medicare Supplement</a> | <a href="/insurance/property/index.html" target="_top" class="whitelinks">Property & Casualty</a> | <a href="/insurance/deathclaim/index.html" target="_top" class="whitelinks">Death Claim Information</a> | <a href="/planning/education/index.html" target="_top" class="whitelinks">Education Center</a>  |  <a href="/insurance/loma_glossary/index.html" target="_top" class="whitelinks">LOMA&#39;s Glossary</a></font>'
 
-submenu[4]='<font color="#FFFFFF"><a target="_top" href="/investments/news/index.html" class="whitelinks">Fund News</a> | <a target="_top" href="https://service.thrivent.com/apps/investments/Mutual/daily.jsp" class="whitelinks">Daily Fund Pricing</a> | <a target="_top" href="/investments/fundinformation/fundfocus.html" class="whitelinks">Fund Facts</a> | <a target="_top" href="/investments/fundinformation/overview.html" class="whitelinks">Fund Overview</a> | <a target="_top" href="/investments/fundperformance/index.html" class="whitelinks">Fund Performance</a> | <a target="_top" href="/investments/marketrecap/index.html" class="whitelinks">Market Recap </a> | <a target="_top" href="/investments/prospectus.html" class="whitelinks">Prospectus & Reports</a> | <a target="_top" href="/investments/institutional/index.html" class="whitelinks">Institutional Shares</a> | <a target="_top" href="/investments/lifeevents/index.html" class="whitelinks">Investments by Life Event </a> | <a target="_top" href="/investments/brokerage/index.html" class="whitelinks">Discount Brokerage Services</a> | <a target="_top" href="/investments/service/index.html" class="whitelinks">Shareholder Services</a> | <a target="_top" href="/investments/edfunding/index.html" class="whitelinks">Saving for Education</a> | <a target="_top" href="/investments/education/index.html" class="whitelinks">Investment Education Center</a> | <a target="_top" href="https://service.thrivent.com/forms/investments/requests/information.html" class="whitelinks">Fund Information Request</a> | <a target="_top" href="/investments/loma_glossary/index.html" class="whitelinks">LOMA&#39;s Glossary</a> | <a target="_top" href="/investments/faqs/index.html" class="whitelinks">FAQs</a></font>'
+submenu[4]='<font color="#FFFFFF"><a target="_top" href="/investments/news/index.html" class="whitelinks">Fund News</a> | <a target="_top" href="https://service.thrivent.com/apps/investments/Mutual/daily.jsp" class="whitelinks">Daily Fund Pricing</a> | <a target="_top" href="/investments/fundinformation/fundfocus.html" class="whitelinks">Fund Facts</a> | <a target="_top" href="/investments/fundinformation/overview.html" class="whitelinks">Fund Overview</a> | <a target="_top" href="/investments/fundperformance/index.html" class="whitelinks">Fund Performance</a> | <a target="_top" href="/investments/marketrecap/index.html" class="whitelinks">Market Recap </a> | <a target="_top" href="/investments/prospectus.html" class="whitelinks">Prospectus & Reports</a> | <a target="_top" href="/investments/institutional/index.html" class="whitelinks">Institutional Shares</a> | <a target="_top" href="/investments/lifeevents/index.html" class="whitelinks">Investments by Life Event </a> | <a target="_top" href="/investments/brokerage/index.html" class="whitelinks">Discount Brokerage Services</a> | <a target="_top" href="/investments/service/index.html" class="whitelinks">Shareholder Services</a> | <a target="_top" href="/investments/edfunding/index.html" class="whitelinks">Saving for Education</a> | <a target="_top" href="/investments/education/index.html" class="whitelinks">Investment Education Center</a> | <a target="_top" href="/planning/taxinfo/mutual_funds/index.html" class="whitelinks">Tax Information</a> | <a target="_top" href="https://service.thrivent.com/forms/investments/requests/information.html" class="whitelinks">Fund Information Request</a> | <a target="_top" href="/investments/loma_glossary/index.html" class="whitelinks">LOMA&#39;s Glossary</a> | <a target="_top" href="/investments/faqs/index.html" class="whitelinks">FAQs</a></font><img src="/images/spacer.gif" height="13">'
 
-submenu[5]='<font color="#FFFFFF"><a href="/bank/lifeevents/index.html" target="_top" class="whitelinks">Banking by Life Event</a> | <a href="/bank/online/index.html" target="_top" class="whitelinks">Online Banking</a> | <a href="/bank/mortgagecenter/index.html" target="_top" class="whitelinks">Online Mortgage Center</a> | <a href="/bank/cashedge.html" target="_blank" class="whitelinks">Online Deposit Center</a> | <a href="/bank/apply/index.html" target="_top" class="whitelinks">Apply for Products</a> | <a href="/bank/rates/index.html" target="_top" class="whitelinks">Rates</a> | <a href="/bank/checking/index.html" target="_top" class="whitelinks">Checking and Savings</a> | <a href="/bank/hsa/index.html" target="_top" class="whitelinks">Health Savings Accounts</a> | <a href="/bank/loans/index.html" target="_top" class="whitelinks">Loans and Mortgages</a> | <a href="/bank/rlo/index.html" target="_top" class="whitelinks">Regional Lending Offices</a> | <a href="/bank/credit/index.html" target="_top" class="whitelinks">Credit Cards</a> | <a href="/bank/trust/index.html" target="_top" class="whitelinks">Trust and Investment Services</a> | <a href="/bank/security/index.html" target="_top" class="whitelinks">Fraud Protection</a> | <a href="/bank/calculators/index.html" target="_top" class="whitelinks">Calculators</a> | <a href="/bank/about/index.html" target="_top" class="whitelinks">About Thrivent Financial Bank</a> | <a href="/bank/community/index.html" target="_top" class="whitelinks">Community Support</a></font>'
+submenu[5]='<font color="#FFFFFF"><a href="/bank/lifeevents/index.html" target="_top" class="whitelinks">Banking by Life Event</a> | <a href="/bank/online/index.html" target="_top" class="whitelinks">Online Banking</a> | <a href="/bank/mortgagecenter/index.html" target="_top" class="whitelinks">Online Mortgage Center</a> | <a href="/bank/cashedge.html" target="_blank" class="whitelinks">Online Deposit Center</a> | <a href="/bank/apply/index.html" target="_top" class="whitelinks">Apply for Products</a> | <a href="/bank/rates/index.html" target="_top" class="whitelinks">Rates</a> | <a href="/bank/checking/index.html" target="_top" class="whitelinks">Checking and Savings</a> | <a href="/bank/hsa/index.html" target="_top" class="whitelinks">Health Savings Accounts</a> | <a href="/bank/iras/index.html" target="_top" class="whitelinks">Individual Retirement Accounts</a> | <a href="/bank/loans/index.html" target="_top" class="whitelinks">Loans and Mortgages</a> | <a href="/bank/rlo/index.html" target="_top" class="whitelinks">Regional Lending Offices</a> | <a href="/bank/credit/index.html" target="_top" class="whitelinks">Credit Cards</a> | <a href="/bank/trust/index.html" target="_top" class="whitelinks">Trust and Investment Services</a> | <a href="/bank/security/index.html" target="_top" class="whitelinks">Fraud Protection</a> | <a href="/bank/calculators/index.html" target="_top" class="whitelinks">Calculators</a> | <a href="/bank/about/index.html" target="_top" class="whitelinks">About Thrivent Financial Bank</a> | <a href="/bank/community/index.html" target="_top" class="whitelinks">Community Support</a></font>'
 
-submenu[6]='<font color="#FFFFFF"><a target="_top" href="/retirement/iras/index.html" class="whitelinks">IRAs </a> | <a target="_top" href="/retirement/program/index.html" class="whitelinks">Retirement Income Program</a> | <a target="_top" href="/retirement/retireplanning/index.html" class="whitelinks">Planning Phases </a> | <a target="_top" href="/retirement/employer/index.html" class="whitelinks">Employer-Sponsored Retirement Plans </a> | <a target="_top" href="/retirement/retirement_calculators.html" class="whitelinks">Calculators & Tools </a> | <a target="_top" href="https://service.thrivent.com/forms/retirement/infoRequest.html" class="whitelinks">Request Retirement Information</a></font>'
+submenu[6]='<font color="#FFFFFF"><a target="_top" href="/retirement/starting/index.html" class="whitelinks">Starting to Save</a> | <a target="_top" href="/retirement/already/index.html" class="whitelinks">Already Saving</a> | <a target="_top" href="/retirement/preparing/index.html" class="whitelinks">Preparing to Transition </a> | <a target="_top" href="/retirement/living/index.html" class="whitelinks">Living in Retirement </a> | <a target="_top" href="/retirement/working/index.html" class="whitelinks">Working with Thrivent Financial </a> | <a target="_top" href="/retirement/retire_products/index.html" class="whitelinks">Products and Solutions</a> | <a target="_top" href="/retirement/thriveq/index.html" class="whitelinks">ThriveQ </a> | <a target="_top" href="/retirement/retirement_calculators.html" class="whitelinks">Calculators & Tools </a> | <a target="_top" href="/retirement/library/index.html" class="whitelinks">Articles & Resources</a> | <a target="_top" href="https://service.thrivent.com/forms/retirement/infoRequest.html" class="whitelinks">Request Retirement Information</a></font>'
 
-submenu[7]='<font color="#FFFFFF"><a target="_top" href="/planning/businessplan/index.html" class="whitelinks">Business Planning </a> | <a target="_top" href="/planning/charitable/index.html" class="whitelinks">Charitable Giving </a> | <a target="_top" href="/planning/edplanning/index.html" class="whitelinks">Education Planning </a> | <a target="_top" href="/planning/elder/index.html" class="whitelinks">Elder Care </a> | <a target="_top" href="/planning/estate/index.html" class="whitelinks">Estate Strategies </a> | <a target="_top" href="/planning/lifemap/index.html" class="whitelinks">Fee-based Financial Planning </a> | <a target="_top" href="/planning/lifeevents/index.html" class="whitelinks">Life Events</a> | <a target="_top" href="/planning/services/index.html" class="whitelinks">Planning Services </a> | <a target="_top" href="/planning/tools/index.html" class="whitelinks">Planning Tools </a> | <a target="_top" href="/planning/seminars/index.html" class="whitelinks">Seminars </a> | <a target="_top" href="/planning/taxinfo/index.html" class="whitelinks">Mutual Fund Tax Information </a> | <a target="_top" href="/planning/youth/index.html" class="whitelinks">Youth and Money </a> | <a target="_top" href="/planning/education/index.html" class="whitelinks">Education Center</a> | <a target="_top" href="/planning/loma_glossary/index.html" class="whitelinks">LOMA&#39;s Glossary</a></font>'
+submenu[7]='<font color="#FFFFFF"><a href="/planning/businessplan/index.html" target="_top" class="whitelinks">Business Planning</a> | <a href="/planning/charitable/index.html" target="_top" class="whitelinks">Charitable Giving</a> | <a href="/planning/deathclaim/index.html" target="_top" class="whitelinks">Death Claim Information</a> | <a href="/planning/edplanning/index.html" target="_top" class="whitelinks">Education Planning</a> | <a href="/planning/elder/index.html" target="_top" class="whitelinks">Elder Care</a> | <a href="/planning/estate/index.html" target="_top" class="whitelinks">Estate Strategies</a> | <a href="/planning/lifemap/index.html" target="_top" class="whitelinks">Fee-based Financial Planning</a> | <a href="/planning/lifeevents/index.html" target="_top" class="whitelinks">Life Events</a> | <a href="/planning/services/index.html" target="_top" class="whitelinks">Planning Services</a> | <a href="/planning/tools/index.html" target="_top" class="whitelinks">Planning Tools</a> | <a href="/planning/seminars/index.html" target="_top" class="whitelinks">Seminars</a> | <a href="/planning/taxinfo/mutual_funds/index.html" target="_top" class="whitelinks">Tax Information</a> | <a href="/planning/youth/index.html" target="_top" class="whitelinks">Youth and Money</a> | <a href="/planning/education/index.html" target="_top" class="whitelinks">Education Center</a> | <a href="/planning/loma_glossary/index.html" target="_top" class="whitelinks">LOMA&#39;s Glossary</a></font>'
 
 submenu[8]='<font color="#FFFFFF"><a href="/aboutus/mission/index.html" target="_top" class="whitelinks">Mission & Vision </a> | <a href="/aboutus/codeofconduct/index.html" target="_top" class="whitelinks">Code of Conduct</a> | <a href="/aboutus/facts/index.html" target="_top" class="whitelinks">Facts & Figures </a> | <a href="/aboutus/ratings/index.html" target="_top" class="whitelinks">Financial Ratings </a> | <a href="/aboutus/hof/index.html" target="_top" class="whitelinks">Hall of Fame</a> | <a href="/aboutus/history/index.html" target="_top" class="whitelinks">History </a> | <a href="/aboutus/keypeople/index.html" target="_top" class="whitelinks">Executive Management Biographies </a> | <a href="/aboutus/governance/index.html" target="_top" class="whitelinks">Society Governance </a> | <a href="/aboutus/fa/index.html" target="_top" class="whitelinks">About Financial Representatives</a> | <a href="/aboutus/tours/index.html" target="_top" class="whitelinks">Online Facilities Tour </a> | <a href="/aboutus/memberdispute/index.html" target="_top" class="whitelinks">Member Dispute Resolution Program </a> | <a href="/aboutus/ads/index.html" target="_top" class="whitelinks">Brand Campaign </a>| <a href="/aboutus/faqs/index.html" target="_top" class="whitelinks">FAQs </a></font>'
 
-submenu[9]='<font color="#FFFFFF"><a href="/fraternal/chapter/index.html" target="_top" class="whitelinks">About Chapter System</a> | <a href="https://service.thrivent.com/apps/FraternalOnline/public/ChapterLocator.jsp" target="_top" class="whitelinks">Chapter Locator </a> | <a href="/fraternal/chapterprograms/index.html" target="_top" class="whitelinks">Chapter Care Programs </a> | <a href="/fraternal/churchcommunity/index.html" target="_top" class="whitelinks">Church & Community Programs </a> | <a href="https://service.thrivent.com/apps/FraternalOnline/public/FraternalHighlights.jsp" target="_top" class="whitelinks">Fraternal Highlights </a> | <a href="/fraternal/heartwood.html" target="_top" class="whitelinks">Heartwood Conference Center & Resort </a> | <a href="/fraternal/easyabc/index.html" target="_top" class="whitelinks">It&#39;s as Easy as ABC 1-2-3</a> | <a href="/fraternal/joinhands/index.html" target="_top" class="whitelinks">JOIN HANDS DAY</a> | <a href="/fraternal/benefits/index.html" target="_top" class="whitelinks">Member Benefits </a> | <a href="/fraternal/mlcs/index.html" target="_top" class="whitelinks">MLCS Locator </a> | <a href="/fraternal/conflict/index.html" target="_top" class="whitelinks">Supporting Our Troops </a> | <a href="/magazine/index.html" target="_top" class="whitelinks"><em>Thrivent</em> Magazine</a> | <a href="/fraternal/thriventbuilds/index.html" target="_top" class="whitelinks">Thrivent Builds</a> | <a href="/fraternal/volunteerexcellence/index.html" target="_top" class="whitelinks">Volunteer Excellence Award</a> | <a href="/fraternal/faqs/index.html" target="_top" class="whitelinks">FAQs</a></font>'
+submenu[9]='<font color="#FFFFFF"><a href="/fraternal/chapter/index.html" target="_top" class="whitelinks">About Chapter System</a> | <a href="https://service.thrivent.com/apps/FraternalOnline/public/ChapterLocator.jsp" target="_top" class="whitelinks">Chapter Locator </a> | <a href="/fraternal/chapterprograms/index.html" target="_top" class="whitelinks">Chapter Care Programs </a> | <a href="/fraternal/churchcommunity/index.html" target="_top" class="whitelinks">Church & Community Programs </a> | <a href="https://service.thrivent.com/apps/FraternalOnline/public/FraternalHighlights.jsp" target="_top" class="whitelinks">Fraternal Highlights </a> | <a href="/fraternal/heartwood.html" target="_top" class="whitelinks">Heartwood Conference Center & Resort </a> | <a href="/fraternal/easyabc/index.html" target="_top" class="whitelinks">It&#39;s as Easy as ABC 1-2-3</a> | <a href="/fraternal/joinhands/index.html" target="_top" class="whitelinks">JOIN HANDS DAY</a> | <a href="/fraternal/benefits/index.html" target="_top" class="whitelinks">Member Benefits </a> | <a href="/fraternal/mlcs/index.html" target="_top" class="whitelinks">MLCS Locator </a> | <a href="/fraternal/conflict/index.html" target="_top" class="whitelinks">Supporting Our Troops </a> | <a href="/magazine/index.html" target="_top" class="whitelinks"><em>Thrivent</em> Magazine</a> | <a href="/fraternal/thriventbuilds/index.html" target="_top" class="whitelinks">Thrivent Builds</a> | <a href="/fraternal/visibility/index.html" target="_top" class="whitelinks"> Visibility Toolkit</a> | <a href="/fraternal/volunteerexcellence/index.html" target="_top" class="whitelinks">Volunteer Excellence Award</a> | <a href="/fraternal/faqs/index.html" target="_top" class="whitelinks">FAQs</a></font>'
 
 submenu[10]='<font color="#FFFFFF"><a href="https://service.thrivent.com/apps/FraternalOnline/public/ChapterLocator.jsp" target="_top" class="whitelinks">Chapter Locator</a> | <a href="/members/chapters/index.html" target="_top" class="whitelinks">Information About My Chapter</a> | <a href="/members/volunteer/index.html" target="_top" class="whitelinks">Volunteer Resources</a> | <a href="/members/churchcommunity/index.html" target="_top" class="whitelinks">Church & Community Resources/Support</a> | <a href="/members/benefits/index.html" target="_top" class="whitelinks">Benefits/Services for Members</a> | <a href="/members/coordinators/congindex.html" target="_top" class="whitelinks">For Congregational Coordinators</a> | <a href="/members/leaders/leaderindex.html" target="_top" class="whitelinks">For Chapter Leaders</a> | <a href="https://service.thrivent.com/apps/FraternalOnline/ThriventBuildsLaunch.jsp" target="_top" class="whitelinks">For Thrivent Builds Leaders</a> | <a href="/members/chip/index.html" target="_top" class="whitelinks">CHip (Chapter Information Place)</a> | <a href="/members/messageboards/index.html" target="_top" class="whitelinks">Message Boards </a> | <a href="/members/chat/index.phtml" target="_top" class="whitelinks">Members Chat </a> | <a href="/members/usingsite/index.html" target="_top" class="whitelinks">Using the Site </a> | <a href="/members/news/chapternews.html" target="_top" class="whitelinks">Chapter News </a> | <a href="https://service.thrivent.com/apps/MbrMaintenance/MaintInit.do" target="_top" class="whitelinks">Manage My Profile </a> | <a href="/members/privacy/privacy.html" target="_top" class="whitelinks">Privacy Notice</a></font>'
 
-submenu[11]='<font color="#FFFFFF"><a href="https://thrivent.recruitmax.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=03153be8-29bd-46c0-9704-bd93c5b2a7b2" target="_top" class="whitelinks">Search Corporate Job Openings </a> | <a href="https://thrivent.recruitmax.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=4e6a2666-760d-48b3-b192-828441af4621" target="_top" class="whitelinks">Search Field Job Openings</a> | <a href="/careers/corporate/index.html" target="_top" class="whitelinks">Corporate Opportunities </a> | <a href="/careers/field/index.html" target="_top" class="whitelinks">Financial Representative Opportunities </a> | <a href="/careers/rfo/index.html" target="_top" class="whitelinks">Regional Financial Office Opportunities </a> | <a href="/careers/internships/index.html" target="_top" class="whitelinks">Financial Internships </a> | <a href="/careers/events/index.php" target="_top" class="whitelinks">Recruiting Events</a></font>'
-
-submenu[12]='<font color="#FFFFFF"><a href="/contactus/index.html" class="whitelinks">Contact Us</a>  |  <a href="https://service.thrivent.com/forms/contactus/contactus.html" class="whitelinks">Online Form</a></font>'
-
-submenu[13]='<a href="/sitehelp/index.html" class="whitelinks">Site Help</a><font color="FFFFFF">  |  <a href="/sitehelp/logouse.html" class="whitelinks">Logo Use Policy</a>  |  <a href="/sitehelp/viewing.html" class="whitelinks">Optimum Viewing of the Site </a>  |  <a href="/sitehelp/sitemaintenance.html" class="whitelinks">Site Maintenance Times </a>  |  <a href="/sitemap/index.html" class="whitelinks">Site Map</a>  |  <a href="/sitetour/index.html" class="whitelinks">Site Tour</a>  |  <a href="/sitehelp/faqs.html" class="whitelinks">FAQs</a>'
-
-submenu[14]='<font color="#FFFFFF"><a href="/newsroom/contacts/index.html" class="whitelinks">Media Contacts </a>  |  <a href="http://news.thrivent.com/newsroom/news/index.phtml" class="whitelinks">News Releases </a>  |  <a href="/newsroom/history/index.html" class="whitelinks">History </a>  |  <a href="/newsroom/facts/index.html" class="whitelinks">Facts </a>  |  <a href="/newsroom/bios/index.html" class="whitelinks">Executive Management Biographies </a></font>'
-
-submenu[15]='<font color="#FFFFFF"><a href="/joinus/index.html" class="whitelinks">Become a Member</a>  |  <a href="/joinus/options.html" class="whitelinks">Membership Options </a>  |  <a href="/joinus/overview.html" class="whitelinks">Thrivent Financial Overview </a>  |  <a href="/joinus/membership.html" class="whitelinks">Associate Membership Application </a>  |  <a href="/joinus/eligibility.html" class="whitelinks">Eligibility Rules</a></font>'
-
-submenu[16]='<font color="#FFFFFF"><a href="/heritage/music/index.html" target="_blank" class="whitelinks">500 Years of Lutheran Music</a>  |  <a href="/heritage/art/index.html" class="whitelinks">Lutheran Art </a>  |  <a href="http://www.lutheransonline.com/genealogy" class="whitelinks">Lutheran Genealogy </a>  |  <a href="http://www.lutheransonline.com/lutheransonline/lutherfilm/index.html" class="whitelinks">&ldquo;Luther&rdquo; Movie</a></font>'
-
-submenu[17]='<a href="/aboutus/churchloans/program.html" class="whitelinks">Loan Specifics </a><font color="FFFFFF">  |  <a href="/aboutus/churchloans/process.html" class="whitelinks">Loan Process & Guidelines</a>  |  <a href="/aboutus/churchloans/rates.html" class="whitelinks">Current Interest Rates & Loan Applications</a>  |  <a href="https://service.thrivent.com/forms/aboutus/churchloan.html" class="whitelinks">Information Request</a></b></span>'
-
-submenu[18]='<font color="#FFFFFF"><a href="/magazine" class="whitelinks">Thrivent Magazine</a>  |  <a href="/magazine/caring/index.html" class="whitelinks">Caring </a>  |  <a href="/magazine/faith/index.html" class="whitelinks">Faith </a>  |  <a href="/magazine/money/index.html" class="whitelinks">Money </a>  |  <a href="/magazine/planning/index.html" class="whitelinks">Planning </a>  |  <a href="/magazine/lifestyle/index.html" class="whitelinks">Lifestyle </a>  |  <a href="/magazine/heritage/index.html" class="whitelinks">Heritage </a>  |  <a href="/magazine/etc/index.html" class="whitelinks">Etc. </a>  |  <a href="/magazine/extra/index.html" class="whitelinks">Extra! </a>  |  <a href="/magazine/links/index.html" class="whitelinks">Links </a>  |  <a href="/magazine/archive/index.html" class="whitelinks">Archive </a>  |  <a href="mailto:thriventmagazine@thrivent.com" class="whitelinks">Contact the Magazine</a></font>'
-
-submenu[19]='<font color="#FFFFFF"><a target="_top" href="https://service.thrivent.com/apps/locate/index.jsp" class="whitelinks">Locate Your Financial Representative</a>  |  <a target="_top" href="https://service.thrivent.com/forms/locate/associate_name.html" class="whitelinks">Request Representative Name</a></font>'
+submenu[11]='<font color="#FFFFFF"><a href="https://thrivent.recruitmax.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=03153be8-29bd-46c0-9704-bd93c5b2a7b2" target="_top" class="whitelinks">Search Corporate Job Openings </a> | <a href="https://thrivent.recruitmax.com/MAIN/careerportal/default.cfm?szUniqueCareerPortalID=4e6a2666-760d-48b3-b192-828441af4621" target="_top" class="whitelinks">Search Field Job Openings</a> | <a href="/careers/corporate/index.html" target="_top" class="whitelinks">Corporate Opportunities </a> | <a href="/careers/field/index.html" target="_top" class="whitelinks">Sales Opportunities </a> | <a href="/careers/rfo/index.html" target="_top" class="whitelinks">Field Office Opportunities </a> | <a href="/careers/internships/index.html" target="_top" class="whitelinks">Internships </a> | <a href="/careers/events/index.php" target="_top" class="whitelinks">Recruiting Events</a></font>'
 
 
 
@@ -350,7 +389,7 @@ return false;
           SITES:</span>&nbsp;<a href="http://www.thriventbuilds.com" target="_blank" class="sponsorlinks">Thrivent Builds</a> | <a href="https://service.thrivent.com/apps/eretail/processRedirect.do" target="_blank" class="sponsorlinks">The Store</a> | <a href="http://www.lutheransonline.com" target="_blank" class="sponsorlinks">Lutherans Online</a> | <a href="/heritage/index.html" class="sponsorlinks">Lutheran Heritage</a> | <a href="/aboutus/churchloans/index.html" class="sponsorlinks">Church Loan Program</a> | <a href="/magazine/index.html" class="sponsorlinks"><i>Thrivent</i> Magazine</a> | <a href="/foundations/index.html" class="sponsorlinks">Foundations</a> | <a href="http://www.thriventffc.com" target="_blank" class="sponsorlinks">Thrivent Financial Fitness Club</a></td>
   </tr>
         <tr bgcolor="#FFFFFF">
-          <td colspan="2" valign="top"><img src="/includes/images/portalwhite.gif" alt="Image Spacer" width="100" height="2"></td>
+          <td colspan="2" valign="top"><img src="/includes/images/portalwhite.gif" width="100" height="2"></td>
         </tr>	  
 </tbody></table>
 </noindex> 
@@ -363,6 +402,8 @@ return false;
 <td bgcolor="#e8e8e8" width="150">&nbsp;&nbsp;</td>
 <td width="5">&nbsp;&nbsp;</td>
 <td valign="top">
+<div id="bodycontent">
+
 	<!--start body table content-->
 	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
     	<tbody><tr>
@@ -370,6 +411,8 @@ return false;
 <br>
 <!--printthis-->
 <font class="headline">Internet Privacy Policy</font><br>
+
+
 <p>
 Thank you for taking the time to view this policy. Thrivent Financial values your business and is committed to safeguarding the information you provide to us online. We do not share or exchange information gathered on this site with outside organizations who are not performing services for us or on our behalf. Please review this policy to help you better understand our views and practices regarding privacy on our Web site.  
 
@@ -396,17 +439,45 @@ Thank you for taking the time to view this policy. Thrivent Financial values you
 When you register for  Lutherans Online chat rooms and message boards or other free Lutherans Online  services we ask that you provide your name, date of birth, e-mail address, and  postal address (including city, state, and ZIP code). 
 </p><p>For added security, to  register for access to the Account Access or Members/Chapters areas, you will  need to provide the above listed information plus your Social Security number  or Thrivent ID, and contract number or birth date. This information, required  at initial registration only, is used to identify you as a unique, authorized  user. 
 </p><p><strong>Thrivent Financial will never ask you to provide or confirm your  personal  information through an e-mail unless you have requested such an e-mail or transaction from us. Never respond to an e-mail  (especially <a href="http://www.thrivent.com/phishing.html">unsolicited e-mail</a>)  which asks for personal or account information.</strong>
-</p><p>In other sections of our  Web site (e.g., the information request form, Financial Analysis Questionnaire, free offers order forms), we may  capture additional information you may supply including telephone number, name of  your church, the home city/state of your church,  whether or not you are  Lutheran, and other personal information in order to fulfill your request.
+</p><p>In other sections of our  Web site (e.g., the information request form, Financial Analysis Questionnaire, free offers order forms, ThriveQ), we may  capture additional information you may supply including personal financial information, telephone number, name of  your church, the home city/state of your church,  whether or not you are  Lutheran, and other personal information in order to fulfill your request.
 </p><p>
 <br><a href="#top">Top of page</a></p><p>
 
 <a name="info"></a><b>What other information do we capture?</b><br>
-Thrivent Financial's Web  server automatically recognizes your IP address when you visit our site as an  anonymous visitor (without logging in). It does not recognize your e-mail  address. However, we do collect your e-mail address if you communicate with us  via e-mail, provide your e-mail address to us when completing an online survey,  or register at our site for access to secure areas.
-</p><p>If you register on our  site, please keep your e-mail address up to date in your personal profile. This  e-mail address will be used by you to retrieve a forgotten password and assist  you in using other self-service features. 
+Thrivent Financial's Web  server automatically recognizes your IP address when you visit our site as an  anonymous visitor (without logging in). It does not recognize your e-mail  address. However, we do collect your e-mail address if you communicate with us  via e-mail or provide your e-mail address to us when completing an online survey or registering for various sections of our site.
+
+</p><p>If you register on our site, please keep your personal information, including your e-mail address, up to date by following the instructions below. This e-mail address will be used by you to retrieve a forgotten password and assist you in using other self-service features. 
+
+
 </p><p>Thrivent Financial  collects aggregate information about the pages visited within our Web site. We  also capture browser type and version, and screen resolution. This information will  assist us in providing a more user-friendly site and to aid in problem  resolution if you experience technical difficulties while visiting our site.
 </p><p>If you access or service  your accounts online using your user ID and password to authenticate yourself,  a record of your online activity is maintained.
 </p><p>
 <br><a href="#top">Top of page</a></p><p>
+
+
+
+<a name="change"></a><b>How can you update the personal information you provide online?</b><br>
+Account Access, Members/Chapters and Lutherans Online registration – You can change the  information you provided at registration, including your current e-mail  address, through your online personal profile. To update your profile: 
+</p><ol start="1" type="1">
+  <li>Log in to a secure area, and click on <strong>Manage       my Profile</strong>. </li>
+  <li>Click the link for the information category you       would like to update. </li>
+  <li>Update and verify your personal information as       desired. If indicated on your personal profile screen, you may need to       click the Name &amp; Address Change Request form link to change some of       your information. Note: Your User ID cannot be changed. </li>
+  <li>Save your changes. The information in your       personal profile will be updated. </li>
+</ol>
+
+ThriveQ registration – You can change the information you provided at registration, including your current e-mail address, through My Account. To update your information:
+
+<ol>
+<li>Log in to ThriveQ.com and click on <b>My Account</b>.</li>
+<li>Update and verify your personal information as desired.</li>
+<li>Click <b>Update</b> to save your changes.</li>
+</ol>
+
+<a href="#top"><br>
+Top of page</a>
+<p>
+
+
 
 <a name="personal"></a><b>How do we protect your personal information?</b><br>
 We have strict standards of security to safeguard your data. In fact, the  physical, electronic and procedural safeguards in place to protect your data  often exceed regulatory requirements. The technology we use to protect your  data is reviewed often. We improve the process as needed.<br>
@@ -414,15 +485,6 @@ Only authorized employees and representatives may access and use data  about you
 </p><p>
 <br><a href="#top">Top of page</a></p><p>
 
-<a name="change"></a><b>How can you update the personal information you provide online?</b><br>
-You can change the  information you provided at registration, including your current e-mail  address, through your online personal profile. To update your profile: 
-</p><ol start="1" type="1">
-  <li>Log in to a secure area, and click on <strong>Manage       my Profile</strong>. </li>
-  <li>Click the link for the information category you       would like to update. </li>
-  <li>Update and verify your personal information as       desired. If indicated on your personal profile screen, you may need to       click the Name &amp; Address Change Request form link to change some of       your information. Note: Your User ID cannot be changed. </li>
-  <li>Save your changes. The information in your       personal profile will be updated. </li>
-</ol>
-<br><a href="#top">Top of page</a><p>
 
 <a name="do"></a><b>What do we do with the information we gather?</b><br>
 We use the information  we gather about our site visitors in one or more of the following ways: 
@@ -447,6 +509,10 @@ To change your  preference for receiving updates to our Web site, you need to up
   <li>Check/uncheck the <strong>Send Me Updates</strong> check box.</li>
   <li>Click <strong>Continue</strong> to save your  changes. The information in your online personal profile will be updated. </li>
 </ol>
+
+Notice of any material change to our Internet Privacy Policy will be posted on the thrivent.com home page.
+
+
 <p>
 <br><a href="#top">Top of page</a></p><p>
 
@@ -486,7 +552,8 @@ You can set your computer’s browser to opt-out of receiving and storing cookie
 <a href="#top">Top of page</a></p><p>
 
 <a name="beacons"></a><b>Do we use Web beacons?</b><br>
-Web beacons (also known as Web bugs, pixel tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address.  Thrivent Financial does not use Web beacons on its proprietary sites. 
+Web beacons (also known as Web bugs, pixel tags and clear GIFs) are used with cookies to monitor the behavior of site visitors based on IP address. Thrivent Financial uses Web beacons on it's ThriveQ site and in e-mail communications for aggregate statistical purposes. 
+
 </p><p><br>
 <a href="#top">Top of page</a></p><p>
 
@@ -517,19 +584,23 @@ The Thrivent Financial Web  site contains links to several other Internet sites.
 If you have questions  regarding our Internet Privacy Policy, send an e-mail message to <a href="mailto:mail@thrivent.com">mail@thrivent.com</a>, or send your written request  to Thrivent Financial for Lutherans, 4321 N. Ballard Rd., Appleton, WI 54919. <br>
 Also, if you receive  e-mail messages from Thrivent Financial about updates to our Web site and wish  to no longer receive these updates, you can unsubscribe from our mailing list  following the unsubscribe directions in the e-mail. You also can unsubscribe by  updating your personal profile (under Manage My Profile). 
 Notice of any material change to our Internet Privacy Policy is given on  the thrivent.com home page.
-</p><p>This Internet Privacy  Policy and any updates are effective as of May 24, 2006.
-<br><a href="#top">Top of page</a>
-         </p><p>
-<!--endprint-->
+
+</p><p>Notice of any material change to our Internet Privacy Policy is given will be posted on the thrivent.com home page. 
+
+
+</p><p>This Internet Privacy  Policy and any updates are effective as of Jan 15, 2007.
+<br>
+<a href="#top">Top of page</a>
 </p><p>
-<a href="printme.php" target="_blank">Print this page.</a>
+<!--endprint-->
+
 </p><p>
 		  </p></td>
 	    </tr>
 	</tbody></table> 
 <!--end body table content-->
 
-<!--end body table content--></td>	
+<!--end body table content--></div></td>	
 <td valign="top" width="2%">&nbsp;</td>
 <td valign="top" align="right" width="173" height="40">
 
@@ -558,7 +629,7 @@ if (( value == "" ) || (value == "Search")) {
 //  End -->
 </script>  
 
-<table width="176" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" bordercolor="#003366">
+<table width="176" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" bordercolor="#003366" id="rightnav">
   <tbody><tr> 
     <td> 
       <table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#000066">
@@ -569,6 +640,7 @@ if (( value == "" ) || (value == "Search")) {
               <input type="hidden" name="sp-f" value="ISO-8859-1">
               <input type="text" name="sp-q" size="13" onfocus="clearform(this)" class="search" value="Search">
               <input type="hidden" name="sp-p" value="all">
+			  <input type="hidden" name="sp_sfvl_field" value="cat">			  
               <input type="submit" value="Go" name="submit" class="dropdownbutton" onclick="return isBlank();"><br>
 					<a href="/advancedsearch.html" class="biotext">Advanced Search</a>
             </td>
@@ -618,7 +690,7 @@ window.self.location = document.pulldown3.page.options[document.pulldown3.page.s
 }
 // -->
 </script>
-<table width="176" border="0" cellspacing="1" cellpadding="0" bgcolor="#FFFFFF">
+<table width="176" border="0" cellspacing="1" cellpadding="0" bgcolor="#FFFFFF" id="rightnav">
   <tbody><tr>
     <td bgcolor="#999999"><b><font class="whiteheadline">&nbsp;&nbsp;&nbsp;Help 
       Center</font></b></td>
@@ -658,8 +730,8 @@ window.self.location = document.pulldown3.page.options[document.pulldown3.page.s
           <option value="/planning/estate/index.html">Estate Strategies</option>
           <option value="/annuities/fixed/index.html">Fixed Annuities</option>
           <option value="/annuities/immediate/index.html">Imm. Annuities</option>
-          <option value="/retirement/iras/rollover.html">IRA Rollovers</option>
-          <option value="/retirement/iras/index.html">IRAs</option>
+          <option value="/retirement/retire_products/iras/rollover.html">IRA Rollovers</option>
+          <option value="/retirement/retire_products/iras/index.html">IRAs</option>
           <option value="/insurance/life/index.html">Life Insurance</option>
           <option value="/bank/loans/index.html">Loans</option>
           <option value="/insurance/longterm/index.html">Long Term Care</option>
@@ -753,13 +825,10 @@ window.self.location = document.pulldown3.page.options[document.pulldown3.page.s
 		</td>
 	</tr>
 	</tbody></table>
+		
+	<img src="/print/print_icon.gif" align="absbottom" style="cursor:pointer;" onclick="printpage('bodycontent', document.URL); return false;">
 	
-	
-	<a ref="#" onclick="printpage('bodycontent'); return false;" style="cursor:pointer;">
-	<img src="/print/print_icon.gif" align="absbottom" style="margin-top: 5px">
-	</a>
-	
-	<a ref="#" onclick="printpage('bodycontent'); return false;" style="cursor:pointer; text-decoration:underline;color:#0000FF;">Printer Friendly</a>
+	<a href="#" onclick="printpage('bodycontent', document.URL); return false;" style="text-decoration:underline;color:#0000FF;">Printer Friendly</a>
 	
 	<br>
 	<br>
@@ -783,9 +852,11 @@ window.self.location = document.pulldown3.page.options[document.pulldown3.page.s
       <p> &nbsp;&nbsp;
       <a href="/index.html">HOME</a> | <a href="/sitemap/index.html">Site Map</a> | <a href="/sitetour/index.html">Site Tour</a> | <a href="/privacy.html">Privacy 
         Policy</a> | <a href="/bcp/index.html">Business Continuity Information</a> | <a href="/sitenew/index.html">What's New On The Web Site</a> | <a href="/contactus/index.html">Contact Us</a> | <a href="/rss/index.html"> RSS Feeds</a> | <a href="#topofpage">Top of Page</a></p></td>
-  	</tr>
-   	
-  	<tr bgcolor="#CCCCCC" align="left"> 
+  	</tr></tbody></table>
+	
+	
+   	<table width="100%" bgcolor="#CCCCCC" cellpadding="0" cellspacing="0" border="0">
+  	<tbody><tr bgcolor="#CCCCCC" align="left"> 
     	<td width="40%" valign="top"> 
       	<blockquote>
         <p>Appleton Office:<br>
@@ -808,10 +879,10 @@ window.self.location = document.pulldown3.page.options[document.pulldown3.page.s
   	</tr>
   	<tr bgcolor="#CCCCCC" align="left"> 
     	<td colspan="3"> 
-      <blockquote> <a href="http://www.imsaethics.org" target="_blank"> 
+      <blockquote> <a href="http://www.thrivent.net/cgi-bin/ntlinktrack.cgi?http://www.imsaethics.org" target="_blank"> 
         <img src="/includes/images/imsalogo.gif" alt="IMSA" border="0" hspace="10" width="136" height="56" align="left"></a> 
         <p>
-Thrivent Financial for Lutherans, Appleton, WI 54919-0001, is authorized to conduct business in all 50 states and the District of Columbia. NAIC # 2938-56014. Products issued by Thrivent Financial for Lutherans are available to applicants who meet membership, insurability, U.S. citizenship and residency requirements. Not all products described are available in all states. Thrivent Financial representatives are licensed insurance agents. Insurance and retirement products, where available, are individual contracts, (not group coverage), and issued by Thrivent Financial for Lutherans. Investment products are offered through Thrivent Investment Management Inc., 625 Fourth Ave. S., Minneapolis, MN 55415-1665, a wholly owned subsidiary of Thrivent Financial for Lutherans. Member NASD. Member <a href="http://www.sipc.org/" target="_blank">SIPC</a>. Thrivent Financial representatives are registered representatives of Thrivent Investment Management Inc. 
+Thrivent Financial for Lutherans, Appleton, WI 54919-0001, is authorized to conduct business in all 50 states and the District of Columbia. NAIC # 2938-56014. Products issued by Thrivent Financial for Lutherans are available to applicants who meet membership, insurability, U.S. citizenship and residency requirements. Not all products described are available in all states. Thrivent Financial representatives are licensed insurance agents. Insurance and retirement products, where available, are individual contracts, (not group coverage), and issued by Thrivent Financial for Lutherans. Investment products are offered through Thrivent Investment Management Inc., 625 Fourth Ave. S., Minneapolis, MN 55415-1665, a wholly owned subsidiary of Thrivent Financial for Lutherans. Member <a href="http://www.thrivent.net/cgi-bin/ntlinktrack.cgi?http://www.finra.org/" target="_blank">FINRA</a>. Member <a href="http://www.thrivent.net/cgi-bin/ntlinktrack.cgi?http://www.sipc.org/" target="_blank">SIPC</a>. Thrivent Financial representatives are registered representatives of Thrivent Investment Management Inc. 
 </p><p><b>
 Bank products and trust services are offered through Thrivent Financial Bank, 2000 E. Milestone Dr., Appleton, WI 54919-0006 (Member FDIC, Equal Housing Lender), a wholly owned subsidiary of Thrivent Financial for Lutherans.  Insurance, investment products, securities, trust, and investment management services and accounts are not deposits, are not FDIC insured, are not insured by any federal government agency, and are not guaranteed by Thrivent Financial Bank.  Variable insurance contracts, investment products, trust, and investment management accounts may go down in value.</b></p><p>
       </p></blockquote></td>
@@ -819,15 +890,15 @@ Bank products and trust services are offered through Thrivent Financial Bank, 20
   	<tr bgcolor="#CCCCCC" align="center"> 
     	<td colspan="3">       
       <center>
-        <b>©1995-2006 Thrivent Financial for 
+        <b>©1995-2007 Thrivent Financial for 
         Lutherans </b>
 </center>
 <p>
 </p><p>This document was last updated on 
-Monday, October 16, 2006 at  8:26 AM
+Monday, March 19, 2007 at 10:10 AM
 </p><p>
 
-<meta http-equiv="Last-Modified" content="Mon, 16 Oct 2006 08:26:41 CDT">
+<meta http-equiv="Last-Modified" content="Mon, 19 Mar 2007 10:10:53 CST">
 </p></td>
 </tr>
 </tbody></table>
