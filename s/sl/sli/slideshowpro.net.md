@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideshowpro.net privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606114744id_/http%3A//slideshowpro.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideshowpro.net privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005070351id_/http%3A//slideshowpro.net/privacy_policy) for the most accurate reproduction.*
 
 # SlideShowPro / Privacy Policy
 
