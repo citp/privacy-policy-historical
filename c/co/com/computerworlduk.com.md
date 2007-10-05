@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425123643id_/http%3A//www.computerworlduk.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005193111id_/http%3A//www.computerworlduk.com/about/privacypolicy) for the most accurate reproduction.*
 
-# ComputerworldUK - The Voice of IT Management
+# Computerworld UK - The Voice of IT Management
 
 ## ComputerworldUK privacy policy
 
