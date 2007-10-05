@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2007-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070415013914id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005101904id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
 
 # Grist | Privacy Policy
 
@@ -122,8 +122,4 @@ If you have questions or concerns regarding this statement, you may contact Gris
 
 Sign up for **free environmental news** by email.
 
-New in Grist ...
-
-[A Match Made on Earth.](https://web.archive.org/comments/interactivist/2007/04/09/meyers/index1.html) Meghan Meyers, InterActivist and founder of green-wedding mag _Portovert_ , answers readers' questions.
-
-[The Route of the Problem](https://web.archive.org/comments/food/2007/04/12/global/index.html), by Tom Philpott in Victual Reality. Following U.S. consumerism through the fields of China and Brazil.
+The Week's Most Popular
