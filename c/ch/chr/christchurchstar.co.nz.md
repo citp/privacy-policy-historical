@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christchurchstar.co.nz privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm%23top) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christchurchstar.co.nz privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm%23top) for the most accurate reproduction.*
 
 # The Star Canterbury
 
@@ -30,7 +30,7 @@ APN Newspapers ("we" or "us") may gather two types of information about users in
 
 Failure to provide necessary personal information when requested may result in certain services not being available to you. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Disclosure of Information**
 
@@ -44,7 +44,7 @@ We may disclose:
 
 4\. your personal information to third parties provided we have your prior authorisation, which we will usually obtain at the time of collecting the information from you. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Use**
 
@@ -64,7 +64,7 @@ We use the personal information we collect:
 
 7\. for any other uses that you authorise. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Cookies and Tracking**
 
@@ -78,13 +78,13 @@ We may use a cookie file containing information that can identify the computer y
 
 You can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to use our websites, but you may need them for customisable areas of the site that we may develop in the future. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Content Providers, Advertisers and Partners**
 
 We do not control the practices of content providers, partners and advertisers connected with our sites and to whom you provide personal information whilst using one of our sites or services. Our sites contain links to other sites, which may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **RedSheriff**
 
@@ -96,13 +96,13 @@ All our pages are coded with a small piece of RedSheriff code that is transparen
 
 RedSheriff systems fully comply with our Privacy Policy. For further information about RedSheriff, [click here](http://www.redsheriff.com/nz/content/home.html), and for details of RedSheriff's privacy policy, [click here](http://www.redsheriff.com/nz/content/privacy_1.html). 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Third Party Ad Servers**
 
 Some of our advertisers use third party companies to serve advertisements when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, including information gathered by cookies, in order to provide advertisements about goods and services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. For more information about the most widely used third party advertisement serving company, click here. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Opting in and Opting Out**
 
@@ -112,13 +112,13 @@ If our intended collection, use or disclosure of your personal information is ou
 
 2\. opt in, for example agreeing to be contacted by us in relation to certain matters such as notification of new features to the website, beta testing or promotional activities. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Changes to Policy**
 
 We reserve the right to change this policy at any time by notifying site users of the existence of a revised privacy policy. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
 **Holding, Correcting and Updating**
 
@@ -126,7 +126,7 @@ Any personal information that you provide to us will be collected and held by us
 
 For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, clickhere. 
 
-[go to top](https://web.archive.org/web/20061010015629id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
+[go to top](https://web.archive.org/web/20071005235008id_/http%3A//www.starcanterbury.co.nz/info/legal/index.cfm#top)
 
  **Terms and Conditions of Use**
 
