@@ -1,23 +1,13 @@
-> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210064401id_/http%3A//www.westerndigital.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005152622id_/http%3A//www.westerndigital.com/en/company/privacy.asp%3Flanguage%3Den) for the most accurate reproduction.*
 
-# Privacy Policy
+# WD Privacy Policy
 
   
-Corporate Information  
-[Investor Relations](http://ir.thomsonfn.com/InvestorRelations/PubCorporateOverview.aspx?partner=Mzg0T0Rnek5BPT1QJFkEQUALSTO&product=MzgwU1ZJPVAkWQEQUALSTOEQUALSTO)  
-[Press Room](https://web.archive.org/company/releases/)  
-[Career Opportunities](https://web.archive.org/company/employment/)  
-[Community Relations](https://web.archive.org/company/community.asp)  
-[Contact Us](https://web.archive.org/company/contact.asp)  
-[Employee Health & Safety](https://web.archive.org/company/community/)  
-|    
 Overview
 
 Western Digital Corporation ("we" or "us") is committed to protecting the privacy of customers, especially those who access and use our Web site located at URL [www.wdc.com](http://www.wdc.com/) or URL [www.westerndigital.com](http://www.westerndigital.com/) (the "Site").
 
 This Privacy Policy ("Policy") is designed to inform you about the types of information that we gather about you and your organization, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of that information. **This Policy may change from time to time, so please check back periodically.**
-
- **
 
 1\. What information do we collect from you?
 
@@ -35,22 +25,10 @@ We may also perform statistical analyses of aggregate customer behavior. For ins
 
 **3\. With whom do we share your information?**
 
-In addition to using your information to provide you enhanced service when you visit our Site, we may disclose your Personally Identifiable Information to other merchants offering high-tech products and services that may be of interest to you. We disclose such Personally Identifiable Information only for marketing purposes, so none of your credit card information is given. We also provide you the opportunity to indicate that you do not wish to have us disclose your Personally Identifiable Information to other merchants or vendors. If you so indicate, we will not disclose such Information to others. You should also consult the privacy policy of our on-line store, which is managed by one of the firms with whom we do business.
+Except in the situations described in the following paragraph, we do not share your Personally Identifiable Information with third parties. You should also consult the privacy policy of our on-line store, which is managed by one of the firms with whom we do business. The on-line store's privacy policy may differ from our privacy policy.
 
-From time to time, we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order or subpoena or in order to assist a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our Site's services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+From time to time, we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to appropriate governmental authorities or other third parties in conjunction with a judicial, administrative or other proceeding. We will disclose Personally Identifiable Information upon receipt of a valid court order or subpoena or in order to assist a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our Site's services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
 **4\. Privacy Policy changes.**
 
-This Privacy Policy was last changed on December 11, 2000. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather as well as how we might use that information and to whom we may disclose it. We may change, modify, add or remove portions of this Privacy Policy at any time. Please be sure to check this page before proceeding to use our Site.
-
-** |  |  [Overview](https://web.archive.org/company/index2.asp)  
-  
-[Corporate Fact Sheet](https://web.archive.org/company/corpfact.asp)  
-  
-[Directors & Officers](https://web.archive.org/company/corp-officers.asp)  
-  
-[Map to Headquarters](https://web.archive.org/company/wdhq.asp)  
-  
-Privacy Policy  
-  
-
+This Privacy Policy was last changed on June 14, 2007. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather as well as how we might use that information and to whom we may disclose it. We may change, modify, add or remove portions of this Privacy Policy at any time. Please be sure to check this page before proceeding to use our Site.
