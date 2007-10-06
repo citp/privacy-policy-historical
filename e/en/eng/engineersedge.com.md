@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110043903id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006140604id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Engineers Edge
 
@@ -24,4 +24,4 @@ Engineers Edge does use cookies to enhance our visitors sessions within our foru
 
 Contact Us
 
-If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20061110043903id_/http%3A//www.engineersedge.com/webmaster.htm)
+If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20071006140604id_/http%3A//www.engineersedge.com/webmaster.htm)
