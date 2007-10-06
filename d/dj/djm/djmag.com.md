@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the djmag.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609220048id_/http%3A//www.djmag.com/index.php%3Fop%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmag.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006095505id_/http%3A//djmag.com/index.php%3Fop%3Dabout%26about_op%3Dprivacy) for the most accurate reproduction.*
 
-# DJ Magazine: Cutting Edge dance music, club culture and DJ technology - Clubbing
+# DJmag.com: Editorial & Advertising Contact Information, Subscriptions, Back Issues
 
+[ ](https://web.archive.org/index.php?op=sub_mag)  
+  
 |  | 
 
-You are here:> [Home](https://web.archive.org/index.php) > Privacy Statement
+You are here:> [Home](https://web.archive.org/index.php) > About DJmag
 
 |   
 ---  
   
 |  |  |   
 ---|---|---  
+| 
+
+[Contacts](https://web.archive.org/index.php?op=about&about_op=contact) | [Logos](https://web.archive.org/index.php?op=about&about_op=logo) | [Advertising](https://web.archive.org/index.php?op=about&about_op=advertise) | [Privacy](https://web.archive.org/index.php?op=about&about_op=privacy)
+
+|   
 | 
 
 ## 1\. General
@@ -55,10 +62,10 @@ If we hold any of Your Information and that information is incorrect in any resp
 
 ## 11\. Policy changes 
 
-By using this Website you agree to the terms of this privacy policy and our website terms of use. We may amend this privacy policy and our website terms of use from time to time. If we do so, we will post an updated version on this Website.  |   
+By using this Website you agree to the terms of this privacy policy and our website terms of use. We may amend this privacy policy and our website terms of use from time to time. If we do so, we will post an updated version on this Website. 
+
+|   
 |  |   
 |  |   
   
-|  [](https://web.archive.org/index.php?op=rss) |   
----  
-[](https://web.archive.org/index.php?op=subscription&story=mag&type=mag)
+|  [](https://web.archive.org/index.php?op=rss)
