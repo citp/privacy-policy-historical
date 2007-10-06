@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403051027id_/http%3A//www.irvinecompany.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006061505id_/http%3A//www.irvinecompany.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # The Irvine Company - Privacy Policy
 
