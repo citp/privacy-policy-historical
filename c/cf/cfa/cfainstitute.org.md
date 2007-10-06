@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601060159id_/http%3A//www.cfainstitute.org/aboutus/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006061611id_/http%3A//cfainstitute.org/aboutus/policies/privacy.html) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
 Privacy Policy
 
-By using any CFA Institute websites (including [www.cfainstitute.org](http://www.cfainstitute.org/), [www.cfapubs.org](http://www.cfapubs.org/), and [www.cfawebcasts.org](http://www.cfawebcasts.org/)) you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our websites. Changes to this policy will be posted periodically. Please review this policy from time to time to see if any changes have been posted. 
+By using any CFA Institute websites (including [www.cfainstitute.org](https://web.archive.org/index.html), [www.cfapubs.org](http://www.cfapubs.org/), and [www.cfawebcasts.org](http://www.cfawebcasts.org/)) you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our websites. Changes to this policy will be posted periodically. Please review this policy from time to time to see if any changes have been posted. 
 
 Questions or Concerns? [Contact us.  
 ](https://web.archive.org/aboutus/contact/)
@@ -80,7 +80,7 @@ Telephone:        
 
 Online  
 [Information Update Form for Members and Candidates  
-](http://www.cfainstitute.org/finsecustomer_enu)
+](https://web.archive.org/finsecustomer_enu)
 
 Mail  
 CFA Institute  
