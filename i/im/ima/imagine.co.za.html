@@ -1,0 +1,393 @@
+<!--The following is the downloaded HTML source of the imagine.co.za privacy policy that was archived on 2007-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071006134923id_/http%3A//www.imagine.co.za/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>Imagine IPS : : Privacy Policy</title>
+
+
+<title>[*pagetitle*]</title><link rel="shortcut icon" href="images/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Imagine IPS focuses on providing our clients with communications solutions that perfectly suit their specific business proceses. ">
+   <meta name="keywords" content="ADSL, Uncapped ADSL, Website, Hosting, Wireless, Internet, iBurst, Development, Design, Dial, up, Imagine, Service, Provider, Speed, Free">
+<link href="links.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript">
+
+	
+
+    function popUp(URL) {
+
+    day = new Date();
+
+    id = day.getTime();
+
+    eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=450,height=200');");
+
+    }
+
+
+
+	/***********************************************
+
+	* Switch Content script- © Dynamic Drive (www.dynamicdrive.com)
+
+	* This notice must stay intact for legal use. Last updated Mar 23rd, 2004.
+
+	* Visit http://www.dynamicdrive.com/ for full source code
+
+	***********************************************/
+
+	
+
+	var enablepersist="on" //Enable saving state of content structure using session cookies? (on/off)
+
+	var collapseprevious="no" //Collapse previously open content when opening present? (yes/no)
+
+	
+
+	var contractsymbol='<img src="images/new-.gif">Click to close details</font>' //HTML for contract symbol. For image, use: <img src="whatever.gif">
+
+	var expandsymbol='<img src="images/new+.gif">Click for product details</font>' //HTML for expand symbol.
+
+	
+
+	
+
+	if (document.getElementById){
+
+	document.write('<style type="text/css">')
+
+	document.write('.switchcontent{display:none;}')
+
+	document.write('</style>')
+
+	}
+
+	
+
+	function getElementbyClass(rootobj, classname){
+
+	var temparray=new Array()
+
+	var inc=0
+
+	for (i=0; i<rootobj.length; i++){
+
+	if (rootobj[i].className==classname)
+
+	temparray[inc++]=rootobj[i]
+
+	}
+
+	return temparray
+
+	}
+
+		
+
+	function contractcontent(omit){
+
+	var inc=0
+
+	while (ccollect[inc]){
+
+	if (ccollect[inc].id!=omit)
+
+	ccollect[inc].style.display="none"
+
+	inc++
+
+	}
+
+	}
+
+	
+
+	function expandcontent(curobj, cid){
+
+	var spantags=curobj.getElementsByTagName("SPAN")
+
+	var showstateobj=getElementbyClass(spantags, "showstate")
+
+	if (ccollect.length>0){
+
+	if (collapseprevious=="yes")
+
+	contractcontent(cid)
+
+	document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="block")? "block" : "none"
+
+	if (showstateobj.length>0){ //if "showstate" span exists in header
+
+	if (collapseprevious=="no")
+
+	showstateobj[0].innerHTML=(document.getElementById(cid).style.display=="block")? contractsymbol : expandsymbol
+
+	else
+
+	revivestatus()
+
+	}
+
+	}
+
+	}
+
+	
+
+	function revivecontent(){
+
+	contractcontent("omitnothing")
+
+	selectedItem=getselectedItem()
+
+	selectedComponents=selectedItem.split("|")
+
+	for (i=0; i<selectedComponents.length-1; i++)
+
+	document.getElementById(selectedComponents[i]).style.display="block"
+
+	}
+
+		
+
+	function revivestatus(){
+
+	var inc=0
+
+	while (statecollect[inc]){
+
+	if (ccollect[inc].style.display=="block")
+
+	statecollect[inc].innerHTML=contractsymbol
+
+	else
+
+	statecollect[inc].innerHTML=expandsymbol
+
+	inc++
+
+	}
+
+	}
+
+	
+
+	function get_cookie(Name) { 
+
+	var search = Name + "="
+
+	var returnvalue = "";
+
+	if (document.cookie.length > 0) {
+
+	offset = document.cookie.indexOf(search)
+
+	if (offset != -1) { 
+
+	offset += search.length
+
+	end = document.cookie.indexOf(";", offset);
+
+	if (end == -1) end = document.cookie.length;
+
+	returnvalue=unescape(document.cookie.substring(offset, end))
+
+	}
+
+	}
+
+	return returnvalue;
+
+	}
+
+	
+
+	function getselectedItem(){
+
+	if (get_cookie(window.location.pathname) != ""){
+
+	selectedItem=get_cookie(window.location.pathname)
+
+	return selectedItem
+
+	}
+
+	else
+
+	return ""
+
+	}
+
+	
+
+	function saveswitchstate(){
+
+	var inc=0, selectedItem=""
+
+	while (ccollect[inc]){
+
+	if (ccollect[inc].style.display=="block")
+
+	selectedItem+=ccollect[inc].id+"|"
+
+	inc++
+
+	}
+
+	
+
+	document.cookie=window.location.pathname+"="+selectedItem
+
+	}
+
+	
+
+	function do_onload(){
+
+	uniqueidn=window.location.pathname+"firsttimeload"
+
+	var alltags=document.all? document.all : document.getElementsByTagName("*")
+
+	ccollect=getElementbyClass(alltags, "switchcontent")
+
+	statecollect=getElementbyClass(alltags, "showstate")
+
+	if (enablepersist=="on" && ccollect.length>0){
+
+	document.cookie=(get_cookie(uniqueidn)=="")? uniqueidn+"=1" : uniqueidn+"=0" 
+
+	firsttimeload=(get_cookie(uniqueidn)==1)? 1 : 0 //check if this is 1st page load
+
+	if (!firsttimeload)
+
+	revivecontent()
+
+	}
+
+	if (ccollect.length>0 && statecollect.length>0)
+
+	revivestatus()
+
+	}
+
+	
+
+	if (window.addEventListener)
+
+	window.addEventListener("load", do_onload, false)
+
+	else if (window.attachEvent)
+
+	window.attachEvent("onload", do_onload)
+
+	else if (document.getElementById)
+
+	window.onload=do_onload
+
+	
+
+	if (enablepersist=="on" && document.getElementById)
+
+	window.onunload=saveswitchstate
+
+	
+
+	</script><style type="text/css">.switchcontent{display:none;}</style>
+<script>
+	
+
+	
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script src="flashobject.js">
+</script>
+</head>
+
+<body bgcolor="#666666">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
+  <tbody><tr>
+    <td height="100%" align="center" valign="top" bgcolor="#666666"><table width="750" height="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="15" height="36" align="left" valign="top" bgcolor="#CC0001">&nbsp;</td>
+            <td width="111" height="36" align="left" valign="top" bgcolor="#CC0001"><img src="images/logo_topleft.jpg" width="111" height="36"></td>
+            <td width="113" height="36" align="left" bgcolor="#CC0001"><a href="communications.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/combut_over.jpg',1)"><img src="images/combut_up.jpg" alt="communications" name="Image3" width="113" height="36" border="0"></a></td>
+            <td width="86" height="36" bgcolor="#CC0001"><a href="design_devel.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/devbut_over.jpg',1)"><img src="images/devbut_up.jpg" alt="development" name="Image4" width="86" height="36" border="0"></a></td>
+            <td width="76" height="36" bgcolor="#CC0001"><a href="networking.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/netbut_over.jpg',1)"><img src="images/netbut_up.jpg" alt="networking" name="Image5" width="76" height="36" border="0"></a></td>
+            <td width="51" height="36" bgcolor="#CC0001"><a href="contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/contbut_over.jpg',1)"><img src="images/contbut_up.jpg" alt="contact us" name="Image6" width="51" height="36" border="0"></a></td>
+            <td width="47" height="36" bgcolor="#CC0001"><a href="homepage.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/newsbut_over.jpg',1)"><img src="images/newsbut_up.jpg" alt="news" name="Image7" width="47" height="36" border="0"></a></td>
+            <td background="images/toptile.jpg" bgcolor="#CC0001">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="15" height="20" align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
+            <td width="111" height="20" align="left" valign="top"><img src="images/logobottom_topleft.jpg" width="111" height="20"></td>
+            <td colspan="6" bgcolor="#FFFFFF">&nbsp;</td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td width="15" height="100%" align="center" bgcolor="#FFFFFF">&nbsp;</td>
+        <td align="left" valign="top" bgcolor="#FFFFFF"><link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style1 {
+	font-size: x-small;
+	font-weight: bold;
+}
+-->
+</style>
+<table width="100%" height="100%" cellspacing="9" cellpadding="9" border="0" bgcolor="#ffffff" valign="top" style="border: 2px solid black;">
+<tbody><tr><td><p class="style1"><font color="#cc0000">Imagine IPS Privacy Policy</font></p>
+<p><font color="#cc0000">| Introduction |</font></p><p>1. Thank you for taking the time to review our Privacy Policy. At times, Imagine IPS will collect certain personal information about customers and visitors to websites hosted by us. Such information will include both identifiable personal data*, as well as non-identifiable personal information*.  Identifiable personal information will be collected when you sign a contract for service with us, or use our website for a transaction or subscription service. Non-identifiable information is gathered automatically when you visit our website or those websites hosted by us, and stored for use in our system. </p><p>* Important Note: There are two main types of personal information:  <br>1.  Identifiable personal data, and<br>2.  Non-identifiable personal data</p><p>Identifiable data generally includes a customer's name, address, telephone numbers; gender; IP address; billing information (such as a credit card number) etc. </p><p>Non-identifiable data generally includes: a postal code; the date and time sites are accessed (if you gather this); pages visited;(usually done to monitor demand and improve usefulness of the site); the type of browser being used; the operating system and the type of personal computer being used to access the services.</p><p>In terms of the Regulation of Interception of Communications and Provision of Communications-Related Information Act, 2002, all telecoms service providers, including ISPs are obliged to obtain and keep certain identifiable personal data of customers when entering into service contracts. This includes in addition to the above, in the case of a person: ID number; residential and business addresses; and a certified copy of the customer's ID document. In the case of a company: all of the above as well as the company's registration number; and a certified copy of the customer's business letterhead. </p><p>2. The purpose of this privacy policy is to explain to customers what types of information we will collect and how that information is used. In most cases, we collect this information to ensure network integrity and that we continue to provide you with the most relevant content and best possible service that suits your needs. In some cases, we are required by law to collect personal information about customers. Except where the law requires otherwise, we undertake to protect the confidentiality of such data.</p><p><font color="#cc0000">| Confidentiality |</font></p><p>3. Imagine IPS respects customer privacy and the privacy of those accessing our website, or those websites hosted by us. We undertake to protect the confidentiality of our customers and users including all personal information supplied in the course of contracting with us for services.  We undertake not to sell your personal information to third parties for commercial or marketing purposes.</p><p><font color="#cc0000">| Collection of Personal Data |</font></p><p>4. Imagine IPS collects personal data about our users when you visit a website hosted by us; apply for a service subscription; respond to a customer questionnaire; enter a competition run by us and through the use of cookie** technology.  We may also combine information about you that we have with information we obtain from our business partners or affiliates. </p><p>** A cookie is a data file that sits on your computer hardisk. The cookie is placed there by a remote web server that you have visited using a browser like Netscape or Internet Explorer. It is used to uniquely identify you during web interactions with a website and contains data parameters that allow the remote HTML server to keep a record of who you are, and what actions you take at the remote web site. You have the option to disable the cookie function in your browser, but will be restricted from accessing many sites as a result.</p><p><font color="#cc0000">| Use of Personal Data |</font></p><p>5. Imagine IPS may on occasion use your personal information to contact you about promotional offers; advise you of matters relevant to service provision and in some cases, solicit your feedback. However, Imagine IPS will provide you with an option within every communication to opt out of receiving any communications of this nature or you can contact our customer services representatives to ensure that you do not receive such promotional information, at (011) 214-7600. <br>6. Imagine IPS may collect and share aggregated user data with business partners, sponsors or other third parties for the purposes of developing content and ensuring relevant advertising and content, such user data will never be used to identify individual users. These business partners and affiliated companies do not have any independent right to share this information. <br>7. Imagine IPS may log the websites you visit; collect IP addresses and information about your operating system and the type of browser you use for the purposes of network/system administration; to report aggregate information to our advertisers, and to audit the use of our site. This data however will not be used to identify individual users who will at all times remain anonymous. <br>8. Any information Imagine IPS collects from you through correspondence with us, whether via e-mail, telephonically or by written letter, will only be used to address the matters within that correspondence. If this requires referring such correspondence within Imagine IPS or to a third party to ensure customer service, your personal information will only be disclosed to the point necessary to address your query or concerns, and will otherwise be kept confidential.</p><p><font color="#cc0000">| Public Space (Bulletin Boards, Chat Rooms and Third-Party Sites) |</font></p><p>9. Any information that customers disclose in a public space, including on any bulletin board, chat room or any site Imagine IPS may host for you, is available to anyone else who visits that space. Imagine IPS cannot safeguard any information you disclose there. </p><p><font color="#cc0000">| Site Linking |</font> </p><p>10. Imagine IPS's websites contain many links to sites that belong to third parties unrelated to us. Imagine IPS cannot be held responsible for any use of your personal information arising from you disclosing personal such information on third party sites. Imagine IPS cannot protect any information you may disclose on these sites and recommends that you review the privacy policy statements of those sites you visit.</p><p><font color="#cc0000">| Minors |</font></p><p>11. Imagine IPS will not enter into a service subscription contract with a minor unless such minor has explicit written consent from a parent or guardian to do so. Imagine IPS undertakes not to contact minors about promotional offers or for marketing purposes without a parental consent. </p><p><font color="#cc0000">| Reservation of Rights |</font></p><p>12. Imagine IPS reserves the right to disclose information about customers where required in good faith, to do so by law or to exercise our legal rights or defend ourselves against legal claims. <br>13. Imagine IPS reserves our rights to disclose your personal information where you have given us explicit legal written consent to do so.<br>14. Imagine IPS reserves the right to monitor user and network traffic for site security purposes and prevent any unauthorized attempts to tamper with our site or cause damage to our property.<br>15. Imagine IPS reserves the right to make changes to this privacy policy or update it. Where a major change is made, customers will be informed by e-mail notification or through a notice on our website. Customers and site visitors bear the responsibility to ensure that they have read the changes or updates as the case may be.</p><p><br></p></td>
+</tr></tbody></table>
+</td>
+        <td width="15" align="center" bgcolor="#FFFFFF">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="18" colspan="3"><table width="100%" height="18" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td height="18" align="left" valign="top" nowrap="" background="images/bottile.jpg" bgcolor="#CC0001"><img src="images/0861imagine.gif" width="87" height="18"></td>
+            <td valign="top" nowrap="" background="images/bottile.jpg" bgcolor="#CC0001">&nbsp;</td>
+            <td width="109" height="17" valign="top" bgcolor="#CC0001"><a href="http://ataglance.imagine.co.za/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/aag_over.jpg',1)"><img src="images/aag_up.jpg" alt="at a glance" name="Image8" width="109" height="18" border="0"></a></td>
+            <td width="63" height="17" valign="top" bgcolor="#CC0001"><a href="http://helpdesk.imagine.co.za/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/helpdesk_over.jpg',1)"><img src="images/helpdesk_up.jpg" alt="helpdesk" name="Image9" width="63" height="18" border="0"></a></td>
+            <td width="57" height="17" valign="top" bgcolor="#CC0001"><a href="http://webmail.imagine.co.za/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/webmail_over.jpg',1)"><img src="images/webmail_up.jpg" alt="webmail" name="Image10" width="57" height="18" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<div align="center">Copyright ©2005 Benwest Internet Services. All rights
+  reserved. Website Hosting and Design by Imagine IPS<br>
+  <font color="#222222"><a href="aup.php" target="_blank"><font color="#333333">Acceptable
+  Use Policy</font></a><font color="#666666"></font> | <a href="privacy.php" target="_blank" onclick="window.open('[~22~]','PrivacyPolicy','width=565,height=350,scrollbars=1');"><font color="#333333">Privacy
+    Policy</font></a> | <a href="subforms/PAIA.pdf"><font color="#222222"><font color="#333333">PAIA
+Act</font></font></a><font color="#222222">&nbsp;&nbsp;| &nbsp;<a href="javascript:void(0)" onclick="window.open('certificate.php','BEE','width=879,height=1199,toolbar=no,scrollbars=yes')"><font color="#333333">BEE
+Certification</font> </a></font><font color="#222222">| &nbsp;<a href="useful_links.php"><font color="#333333">Useful
+Links</font></a></font></font></div><font color="#222222">
+
+</font></body></html>
