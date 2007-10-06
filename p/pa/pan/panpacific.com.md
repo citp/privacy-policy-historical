@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425172946id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006081315id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.*
 
 # Pan Pacific Hotels - Privacy Policy
 
