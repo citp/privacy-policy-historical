@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017121854id_/http%3A//www.eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006023049id_/http%3A//www.eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
 
 # Internet Privacy application, Decompiler mx SWF, Optimizer
 
