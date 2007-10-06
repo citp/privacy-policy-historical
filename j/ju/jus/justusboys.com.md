@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517084742id_/http%3A//justusboys.com/2004/02/justusboyscom_privacy_policy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2007-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071006071606id_/http%3A//www.justusboys.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Gay Porn Portal and Community - Justusboys.com
+# Gay Porn Portal and Gay Mens Community - Justusboys.com
+
+JustUsBoys.Com Privacy Policy
 
 **Your Personal Information is Safe**  
 We support the rights of adults to explore entertainment and sexuality on the Internet in a private and secure environment. As a visitor of JustUsBoys.com, you will have peace-of-mind knowing that any information you share privately with us will be kept strictly confidential. This includes, but is not limited to, your name, e-mail address, address, phone number, or personal information regarding the use of this site. If information is collected from you, the information will only be used to provide the products and services you've requested, to provide customer service, or to share news about our service offerings.
