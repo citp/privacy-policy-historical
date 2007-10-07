@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422160844id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007082342id_/http%3A//sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
 # SQL Manager | Privacy Policy
 
@@ -39,7 +39,7 @@ EMS is committed to protecting the security of your personal information. We use
 We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
 **Access to Your Personal Information/Opt-Out Choices**  
-You have access to the information we have about you. To review and update your personal information logon to your Member account and choose [Change My Profile](http://www.sqlmanager.net/member/profile).
+You have access to the information we have about you. To review and update your personal information logon to your Member account and choose [Change My Profile](https://secure.sqlmanager.net/member/profile).
 
 **Collecting Other Personal Information**  
 When you browse EMS’s website, you are able to do so anonymously. Generally, we don’t collect personal information when you browse – not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
