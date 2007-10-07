@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206030313id_/http%3A//www.thecomedynetwork.ca/servlet/an/comedy/2/20051003/TCN_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007230411id_/http%3A//www.thecomedynetwork.ca/html/default.aspx%3Fpid%3D3481) for the most accurate reproduction.*
 
-# CTVglobemedia Website Privacy Policy--TCN - TheComedyNetwork.ca - Online Time Well Wasted
+# CTVglobemedia Privacy Policy - TheComedyNetwork.ca - Online Time Well Wasted
 
 CTVglobemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains CTVglobemedia Inc.'s and its subsidiaries' ("CTVglobemedia") treatment of your personally identifiable information collected in connection with your activities on or related to all CTVglobemedia websites referencing this Privacy Policy (the "CTVglobemedia Sites") and all services made available on the CTVglobemedia Sites (collectively, unless noted otherwise, the "CTVglobemedia Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
 
