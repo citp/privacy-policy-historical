@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625185210id_/http%3A//www.tigertech.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigertech.net privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007162502id_/http%3A//www.tigertech.net/privacy.html) for the most accurate reproduction.*
 
 # Tiger Technologies Privacy Policy
 
