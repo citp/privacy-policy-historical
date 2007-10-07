@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
 
-# AnotherFriend.Com - Irelands free dating and Irish personals Service for Irish Singles
+# AnotherFriend.com: Ireland's largest online dating site. Meet Irish singles online, fun Adult Dating & Free Online Personals, Dublin, Cork, Limerick, Galway.
 
   
 **We Protect Your Privacy.**
 
 At AnotherFriend.com we have created this privacy statement to demonstrate our commitment to protecting your privacy and to inform you about how we handle your personal information.
 
-This privacy statement only applies to transactions and activities in which you engage, and data gathered, on the [www.AnotherFriend.com](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/www.AnotherFriend.com) website and any other partner website to whom we may link, but does not apply to any other web site or offline point of contact between AnotherFriend.com, or any other company, and consumers.
+This privacy statement only applies to transactions and activities in which you engage, and data gathered, on the [www.AnotherFriend.com](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/www.AnotherFriend.com) website and any other partner website to whom we may link, but does not apply to any other web site or offline point of contact between AnotherFriend.com, or any other company, and consumers.
 
-This is a legal document which sets out how AnotherFriend.com handles data which identifies you. You should read it in conjunction with our [Terms of Service](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/www.anotherfriend.com/tos.cfm) and [Safety Tips](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/www.anotherfriend.com/safety.cfm), of which this Privacy Policy forms part. Please review this privacy policy periodically as we may modify it from time to time. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
+This is a legal document which sets out how AnotherFriend.com handles data which identifies you. You should read it in conjunction with our [Terms of Service](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/www.anotherfriend.com/tos.cfm) and [Safety Tips](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/www.anotherfriend.com/safety.cfm), of which this Privacy Policy forms part. Please review this privacy policy periodically as we may modify it from time to time. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
 
 **Your IP Address**  
 Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimise the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you. 
@@ -30,7 +30,7 @@ On this website, we may place links to other websites operated by other parties.
 **How we use Information?**  
 We use your e-mail information and other personal information to operate this site efficiently and to contact you in relation to your transactions, to forward messages to/from you to/from other members, and to inform you of what is happening on the site. These 'Direct Communications' to you may also contain commercial messages e.g. banner ads, promotional offers, etc. 'Direct Communications' are an obligatory part of the functioning of this website and receipt of these is a function of site membership.
 
-AnotherFriend.com may as a secondary use of your information, send you 'Direct Communications' from sister websites within our group of companies, including [www.singleparents.ie](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/www.singleparents.ie) and [www.flirty.ie](https://web.archive.org/web/20070630214127id_/http%3A//www.anotherfriend.com/www.flirty.ie) . We never give your personal information to third parties.
+AnotherFriend.com may as a secondary use of your information, send you 'Direct Communications' from sister websites within our group of companies, including [www.singleparents.ie](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/www.singleparents.ie) and [www.flirty.ie](https://web.archive.org/web/20071007133605id_/http%3A//www.anotherfriend.com/www.flirty.ie) . We never give your personal information to third parties.
 
 **Does AnotherFriend.com monitor on-line behaviour?**  
 Our users communicate with each other through e-mail, chat and SMS. While we do not, as a rule, moderate or monitor users private exchanges, we reserve the right to do so. User submissions that appear on the public area of the Site can be moderated and, if necessary, we reserve the right to edit, delete/remove or not use any communication on a public area of the Site. 
