@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426094647id_/http%3A//www.roadfly.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007171402id_/http%3A//www.roadfly.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Roadfly.org
 
