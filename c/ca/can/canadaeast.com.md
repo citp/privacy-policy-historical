@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517215326id_/http%3A//www.canadaeast.com/ce2/docroot/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008134926id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # CanadaEast Online
 
-|  | 
-
-**Last Updated** : December 5, 2006
+**Last Updated** : July 17, 2007
 
 Welcome to our site. CanadaEast Interactive has created this Privacy Policy in order to document and communicate our commitment to doing business with the highest ethical standards and appropriate internal controls.
 
-Our Privacy Policy is designed to give you, the user, more information on how information is collected, used and disclosed through this site. This document, together with our [Terms of Use](https://web.archive.org/web/20070517215326id_/http%3A//www.canadaeast.com/ce2/docroot/onsite.php?page=legal) and [Copyright Information](https://web.archive.org/web/20070517215326id_/http%3A//www.canadaeast.com/ce2/docroot/onsite.php?page=copyright) govern our affiliates, partners, advertisers and CanadaEast Interactive's relationship with you in relation to this website. Please read them carefully.
+Our Privacy Policy is designed to give you, the user, more information on how information is collected, used and disclosed through this site. This document, together with our [Terms of Use](https://web.archive.org/onsite.php?page=legal) and [Copyright Information](https://web.archive.org/onsite.php?page=copyright) govern our affiliates, partners, advertisers and CanadaEast Interactive's relationship with you in relation to this website. Please read them carefully.
 
 The term "CanadaEast" or "us" or "we" refers to the owner of the web site, CanadaEast Interactive, whose registered office is 939 Main Street, Moncton, New Brunswick E1C 8P3.
 
@@ -16,29 +14,25 @@ The term "CE Network" refers collectively to sites owned by or managed by Canada
 
 ## A. Defining Personal Information
 
-CE Network is committed to providing our web site visitors with the advantages of online technology. Part of this commitment may include providing an interactive and personalized experience. CE Network may collect information including your name, email address, civic and postal address, telephone number, recorded communications, subscription information, product preferences and related billing records (hereinafter referred to as "Personally Identifiable Information") subjected to the terms and conditions of this Privacy Policy.
+CE Network is committed to providing our web site visitors with the advantages of online technology. Part of this commitment may include providing an interactive and personalized experience. CE Network may collect information including your name, email address, civic and postal address, telephone number, recorded communications, subscription information, product preferences, related billing records and other user supplied demographic data (hereinafter referred to as "Personally Identifiable Information") subjected to the terms and conditions of this Privacy Policy.
 
 Please note this policy applies only to information collected by CE Network online and does not impact information collected or used by CE Network or its affiliates through other means.
-
-Top
 
 ## B. Information Collection
 
 CE Network will only ask for information about you that we need and will only ask for it when we need it. When we ask you for the information, we will explain to you why we need it and what we are going to do with it.
 
-We will seek your prior consent to the collection, use and disclosure of the information as required by applicable privacy legislation. Subject to legal and contractual requirements, you can refuse to consent to our collection, use or disclosure of information about you. You may also withdraw your consent to any further collection, use or disclosure of information about you at any time by giving us reasonable notice. If our intended disclosures or uses of information change, we will notify you accordingly on this policy page.
+We will seek your prior consent to the collection, use and disclosure of the information as required by applicable privacy legislation. Subject to legal and contractual requirements, you can refuse to consent to our collection, use or disclosure of information about you. You may also withdraw your consent to any further collection, use or disclosure of information about you at any time by giving us reasonable notice. Please note that some features and functions of this site that require personal information may become unavailable should you withdrawl consent. If our intended disclosures or uses of information change, we will notify you accordingly on this policy page.
 
 CE Network collects and stores various information depending on the page you are visiting, the activities in which you elect to participate and the services provided. CE Network collects and uses your personal information primarily for the purpose of providing you with the products and services you have requested from us, including daily delivery of news, premium access and related content.
 
-You may visit many pages on our site without providing any Personally Identifiable Information. Personally Identifiable Information is collected by the CE Network only when you specifically and knowingly choose to provide it us. 
+You may visit many pages on our site without providing any Personally Identifiable Information. Personally Identifiable Information is collected by the CE Network only when you specifically and knowingly choose to provide it to us. 
 
-You may optionally choose to provide information, such as when you register for access to portions of our site, subscribe to premium services, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also choose to provide Personally Identifiable Information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
+You may optionally choose to provide information, such as when you register for access to portions of our site, subscribe to premium services, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also choose to provide Personally Identifiable Information when you participate in sweepstakes and contests, voting and polling activities, comments, discussions, message boards and chat rooms and other interactive areas of our site.
 
 Like most web sites, CE Network also collects information automatically and through the use of electronic tools that may be transparent to our visitors. As an example, we may log the name of your Internet Service Provider or use "cookie" technology. This information can not be used to identify you and is referred to as "Aggregated Information".
 
 Information that has been disclosed CE Network as provided by another user, for example email addresses utilized when using out shared feature, are not collected or stored by CE Network. CE Network does not maintain databases of these email addresses. If you wish to not receive share email notices from CE Network visitors, you may be blocked by contacting CE Network.
-
-Top
 
 ## C. Use of Your Information
 
@@ -52,8 +46,6 @@ As we continue to develop our business, we may sell, buy, merge or partner with 
 
 Your personal information will not be used for any other purpose than those permitted in this Privacy Policy without your consent.
 
-Top
-
 ## D. Advertisers & Affiliates
 
 CE Network expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a CE Network page, certain content that is actually created or hosted by a third party. Also, through CE Network you may be introduced to, or be able to access, information, web sites, advertisements, features, contests or sweepstakes offered by other parties. CE Network is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
@@ -64,13 +56,9 @@ A cookie gets entered by your Web browser into the "Cookies" folder on your hard
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of CE Network and this policy.
 
-Top
-
 ## E. Security
 
 CE Network is committed to protecting your privacy. Security measures, such as locked cabinets, change control procedures, restricted access and the use of passwords and encryption have been adopted to protect your personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy at all times and those employees with access to your personal information shall use your personal information strictly in accordance with this Privacy Policy and the laws applicable to each specific business.
-
-Top
 
 ## F. Avoiding Fraud
 
@@ -79,8 +67,6 @@ CE Network and our affiliates, partners and partners will never solicit you by e
 Go directly to our website by typing it into your web browser or using a bookmark before logging in. Never click on a link in an email that takes you to a CE Network log in page. CE Network will never send you an email with a direct log in link.
 
 If you believe that you are being targeted by a fraudulent communication, please contact us immediately so that we may investigate. If you have been the victim of a fraudulent communication and have mistakenly provided a userID or password that may allow persons to exploit your Personally Identifiable Information, contact us immediately so that we may disable access.
-
-Top
 
 ## G. Access & Accuracy
 
@@ -92,21 +78,15 @@ CE Network attempts to ensure that information about you is accurate, complete a
 
 CE Network will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. If a CanWest Company refuses access to you, it will provide you with the reasons for its refusal upon request. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. CE Network will respond to your requests for access in accordance with applicable privacy legislation.
 
-Top
-
 ## H. Children
 
-CE Network does not knowingly collect or solicit Personally Identifiable Information from or about children. If we discover we have received any information from a child in violation of this policy, we will delete that information immediately. If you believe CE Network has any information from or containing a child'ss Personally Identifiable Information, please contact us. CE Network does not maintain databases about children.
-
-Top
+CE Network does not knowingly collect or solicit Personally Identifiable Information from or about children. If we discover we have received any information from a child in violation of this policy, we will delete that information immediately. If you believe CE Network has any information from or containing a child's Personally Identifiable Information, please contact us. CE Network does not maintain databases about children.
 
 ## I. Conclusion
 
 CE Network reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 This policy and the use of this site are governed by the laws of New Brunswick and Canada. Any claim related to the site or this policy shall be brought in a federal or provincial court in Moncton, New Brunswick within one year after the claim arises. You agree no such claim may be brought as a class action. Users of CE Network consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. CE Network is controlled, operated and administered entirely within Canada. If you are located outside Canada, please note the information you provide to us will be transferred to Canada. You hereby consent to this transfer.
-
-Top
 
 ## J. Inquiries
 
@@ -121,8 +101,3 @@ If you have any questions, comments, concerns or requests regarding this policy 
 Moncton, New Brunswick E1C 8P3
 
 Canada
-
-|  | 
-
-|   
----|---|---|---|---
