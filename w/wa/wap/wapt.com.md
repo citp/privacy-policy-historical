@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapt.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416004833id_/http%3A//www.wapt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapt.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008183522id_/http%3A//www.wapt.com/privacy) for the most accurate reproduction.*
 
 # WAPT.com - Privacy
 
