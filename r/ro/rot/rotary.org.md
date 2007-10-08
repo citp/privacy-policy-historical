@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622203239id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008090229id_/http%3A//www.rotary.org/resources/privacy.html) for the most accurate reproduction.*
 
 # Rotary International: Privacy
 
