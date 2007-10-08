@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandhills.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223084318id_/http%3A//www.sandhills.com/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandhills.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008162451id_/http%3A//www.sandhills.com/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
 
 # Sandhills Publishing Privacy Policy
 
@@ -11,5 +11,5 @@ Sandhills Publishing understands the concerns people have about privacy and safe
 3. | When people purchase issues or subscriptions at our site, it's important that the information they enter is secure. That's why we use VeriSign® digital certificates to verify transactions. Customer transactions are secured by SSL encryption and Verisign® Certification.   
 4. | Sandhills Publishing uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.   
 5. | Sandhills Publishing does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
-6. | We are participants in the BBBOnLine® Reliability Program. Our company has been in business for more than 20 years, and we have always strived to provide the best customer service available.  
+6. | We are participants in the BBBOnLine® Reliability Program. Our company has been in business since 1978, and we have always strived to provide the best customer service available.  
 If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](mailto:feedback@sandhills.com).Thank you for visiting our site. 
