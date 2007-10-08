@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportforum.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530051134id_/http%3A//www.techsupportforum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportforum.com privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008224632id_/http%3A//www.techsupportforum.com/privacy.php) for the most accurate reproduction.*
 
 # Tech Support Forum
 
