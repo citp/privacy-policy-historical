@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627124623id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009012557id_/http%3A//www.bajaao.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Bajaao - India - Buy and Review Musical Instruments Online
 
@@ -46,7 +46,7 @@ The Site provides links to various Web sites maintained by third parties. When y
 
 **Terms and Modifications to Privacy Statement**
 
-By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Bajaao.com may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our usersâ€™ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.
+By using the Site, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Bajaao.com may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.
 
 **Children**
 
