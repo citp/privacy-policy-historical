@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423114856id_/http%3A//www.nbc4.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008163409id_/http%3A//www.knbc.com/privacy) for the most accurate reproduction.*
 
-# Online Privacy Statement - PrivacyNews Story - KNBC | Los Angeles
+# Online Privacy Statement - Privacy News Story - KNBC | Los Angeles
 
-The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc11.com.
+The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of NBC Universal, Inc., including KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc11.com.
 
 If you have any questions about this privacy policy, about information gathered by this site, or about the operation of this site, please contact us at security@ibsys.com.
 
