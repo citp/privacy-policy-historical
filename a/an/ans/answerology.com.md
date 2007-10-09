@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerology.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623061929id_/http%3A//www.answerology.com/index.aspx%3Ftemplate%3Dfaq_40_privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerology.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009195056id_/http%3A//www.answerology.com/index.aspx%3Ftemplate%3Dfaq_40_privacy.ascx) for the most accurate reproduction.*
 
 # Answerology.com - Privacy Policy - Ask and answer questions anonymously on any topic.
 
