@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612003442id_/http%3A//shore.com/us/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009192729id_/http%3A//www.shore.com/us/policies/privacy.html) for the most accurate reproduction.*
 
 # Shore Communications Inc.: Us - Privacy Policy - Where Content, Technology and People Meet (SM)
 
