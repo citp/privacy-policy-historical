@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517041957id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalregister.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009170637id_/http%3A//www.chemicalregister.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of ChemicalRegister.com - The online yellow pages for the Chemical industry buyer or supplier
 
