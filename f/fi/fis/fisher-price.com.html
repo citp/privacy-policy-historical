@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2007-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070605202119id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fisher-price.com privacy policy that was archived on 2007-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009082357id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta name="Keywords" content="Fisher-Price, fisherprice, Fisher-Price toys, online shopping, toys, baby, toy, preschool toys, infant, playtips, kitchen playsets, toy classics, children, little people, rescue heroes, power wheels, powerwheels, view-master, toddler, toy tips, News for You Club, loving family, magna doodle, fun, dollhouse, gift registry, gift suggestions, birthday gifts, family, customer service, email, customized email, Mattel, monitors, newborn, fisher, price, baby registry, baby shower gifts, infant products, online catalogue, online catalog, preschool, baby's first year, car seats, child development experts, games, education, imagination, great adventures, kids, store locator, child locator, mothers, nursery, parenting, safety, Shop 'n Cook, child development, children's products, creative, mom, feeding accessories, first birthday, stores, strollers">
@@ -91,7 +91,17 @@ var leftnavflash = {
 	function trackandgo(sLink, sWebTrack) {
 		//homepage nav tracking
 
-		if (bIsUSHome) TrackInterstitial('homepage', 'Section', sWebTrack);
+		if (bIsUSHome) {	
+			TrackInterstitial('homepage', 'Section', sWebTrack);
+		} else {
+			if (sWebTrack != 'undefined'){
+				if (sWebTrack.toLowerCase() == 'shop online store' ) {
+					TrackInterstitial('etrack', 'pid', sWebTrack,'Left Nav');
+				} else {
+					TrackInterstitial('homepage', 'Section', sWebTrack);
+				}
+			}
+		}
 
 		if (sLink.indexOf('javascript:') != -1)
 			eval(sLink.replace('javascript:', ''));
@@ -193,7 +203,7 @@ var leftnavflash = {
 			<img src="/us/img/s.gif" height="5" width="168"><br>
 			<img src="/us/img/home/shop_head.gif" width="168" height="30" border="0" alt="Shop Our Online Store">
 					<ul class="htmlnav">
-						<li class="htmlnav"><a href="http://www.fisher-pricestore.com/pls/fp/prthr?rd=F26437" onclick="TrackInterstitial('homepage', 'Section', 'Shop Online Store', 'Inner Left Nav');" class="nav"><span class="louder">Shop Our Online Store</span></a></li>
+						<li class="htmlnav"><a href="http://www.fisher-pricestore.com/pls/fp/prthr?rd=F26437" onclick="TrackInterstitial('etrack', 'pid', 'Shop Online Store', 'Left Nav');" class="nav"><span class="louder">Shop Our Online Store</span></a></li>
 						<li class="htmlnav"><a href="https://shop.fisher-price.com/pls/fp/catreq_main?plsql=/pls/fp" target="requestfpcatalog" class="nav">Request a Catalog</a></li>
 						<li class="htmlnav"><a href="javascript: openWin('/fp.aspx?t=page&amp;a=go&amp;p=default&amp;s=wishlist&amp;site=us', 'WishList', 'width=800,height=600,resizable=yes,scrollbars=yes');" class="nav">Create a Wish List</a></li>
 						<li class="htmlnav"><a href="javascript: openWin('/fp.aspx?t=page&amp;a=go&amp;p=default&amp;s=wishlist&amp;site=us', 'WishList', 'width=800,height=600,resizable=yes,scrollbars=yes');" class="nav">Update Your Wish List</a></li>
@@ -239,7 +249,7 @@ var leftnavflash = {
 						<li class="htmlnav"><a href="/us/help/" class="nav">Help with Fisher-Price.com</a></li>
 					</ul>
 				<img src="/us/img/s.gif" height="5" width="168"><br>
-					<a href="javascript:exitSite('', 'http://www.service.mattel.com/us/recall.asp', 'MATTELCR', 'left=5,top=10,screenX=100,screenY=100,resizable=yes,location=yes,scrollbars=yes,toolbar=yes,menubar=yes,width=790,height=470', 'Recall Information', '-1');" class="nav"><img src="/us/img/home/recall_head.gif" width="168" height="30" border="0" alt="Services &amp; Info"></a>
+					<a href="http://www.mattel.com/safety/us/" class="nav"><img src="/us/img/home/recall_head.gif" width="168" height="30" border="0" alt="Services &amp; Info"></a>
 				<img src="/us/img/s.gif" height="5" width="168"><br>
 					<img src="/us/img/home/company_head.gif" width="168" height="30" border="0" alt="Company Info">
 					<ul class="htmlnav">
