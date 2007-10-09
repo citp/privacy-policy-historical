@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612021529id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009161515id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hanley Wood - Ideas to build on.™
 
