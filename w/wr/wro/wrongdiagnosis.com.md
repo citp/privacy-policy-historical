@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109200619id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009040316id_/http%3A//www.wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WrongDiagnosis.com
 
