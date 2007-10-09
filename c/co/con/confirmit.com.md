@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410032251id_/http%3A//www.confirmit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009171809id_/http%3A//www.confirmit.com/privacy) for the most accurate reproduction.*
 
 # Survey software, online survey software - Confirmit
 
@@ -83,4 +83,4 @@ If you wish to obtain a copy of particular information you provided to Confirmit
 
 Before Confirmit is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe. 
 
-This Web site is maintained by the Future Information Research Management - Confirmit - or one of its subsidiaries around the world. 
+This Web site is maintained by Confirmit or one of its subsidiaries around the world.
