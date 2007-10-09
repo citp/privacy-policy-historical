@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026021022id_/http%3A//www.arcai.com/modules/AMS/article.php%3Fstoryid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009115114id_/http%3A//www.arcai.com/modules/AMS/article.php%3Fstoryid%3D2) for the most accurate reproduction.*
 
 # arcai.com's NetCut Software - KnowledgeBase - NetCut Relate Topic - Arcai.com Privacy policy
 
