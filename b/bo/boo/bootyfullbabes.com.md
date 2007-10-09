@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootyfullbabes.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430125454id_/http%3A//bootyfullbabes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootyfullbabes.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009053850id_/http%3A//bootyfullbabes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
