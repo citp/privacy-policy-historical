@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607152112id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2007-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009165452id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="Description" content="Abundant Health is your source for aromatherapy and essential oil diffusers, books and other accessories at low prices. Abundant Health carries diffusers, glass and plastic bottles, oil display racks, oil carrying cases, training tapes and videos, massage accessories, and the most comprehensive collection of books on aromatherapy, essential oils, and other health topics.">
@@ -9,7 +9,53 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <script language="JavaScript" src="javascripts.asp" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" name="main" href="/css/main.css"> 
-</head> 
+<script language="JavaScript">
+var gAutoPrint = true; // Tells whether to automatically call the print function
+
+function printSpecial()
+{
+if (document.getElementById != null)
+{
+var html = '<HTML>\n<HEAD>\n';
+
+if (document.getElementsByTagName != null)
+{
+var headTags = document.getElementsByTagName("head");
+if (headTags.length > 0)
+html += headTags[0].innerHTML;
+}
+
+html += '\n</HE>\n<BODY>\n';
+
+var printReadyElem = document.getElementById("printReady");
+
+if (printReadyElem != null)
+{
+html += printReadyElem.innerHTML;
+}
+else
+{
+alert("Could not find the printReady function");
+return;
+}
+
+html += '\n</BO>\n</HT>';
+
+var printWin = window.open("","printSpecial","menubar=yes,toolbar=no,status=no,titlebar=no,scrollbars=yes,width=650,height=500,top=50,left=50");
+printWin.document.open();
+printWin.document.write(html);
+printWin.document.close();
+if (gAutoPrint)
+printWin.print();
+}
+else
+{
+alert("The print ready feature is only available if you are using a newer browser. Please update your browswer.");
+}
+}
+
+</script></head> 
+
 
 <body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="bgcolor1" height="51">
@@ -92,6 +138,7 @@
                   <td width="3" valign="middle"><img src="templates/59/images/clear1x1.gif" width="3" height="1" align="absmiddle"></td>
                   <td width="75" valign="middle"><img src="templates/59/images/clear1x1.gif" width="3" height="5"><br>
                   <input type="image" border="0" name="Search" src="templates/59/images/buttons/btn_go.gif">
+                  <input type="hidden" name="Extensive_Search" value="Y">
                   </td>
                   
                 </tr>
@@ -284,6 +331,26 @@ Young Living World</a></td>
 <tr> 
 	<td bgcolor="000000"><img src="templates/59/images/clear1x1.gif" width="1" height="1"></td>
 </tr>
+<tr bgcolor="9CA469"> 
+	<td onmouseover="mOvr2(this,'D4CFA9');" onclick="mClk(this);" onmouseout="mOut2(this,'');">
+			<a class="nav2" href="/WishList.asp" title="Your Wish List">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+	<td onmouseover="mOvr2(this,'D4CFA9');" onclick="mClk(this);" onmouseout="mOut2(this,'');" width="1%" valign="top">
+			<a class="nav2" href="/WishList.asp" title="Your Wish List">
+			<img src="templates/59/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle">
+			</a></td>
+	<td onmouseover="mOvr2(this,'D4CFA9');" onclick="mClk(this);" onmouseout="mOut2(this,'');" width="99%" valign="middle">
+			<a class="nav2" href="/WishList.asp" title="Your Wish List">
+Your Wish List</a></td>
+		</tr>
+	</tbody></table>
+	</a>
+	</td>
+</tr>
+<tr> 
+	<td bgcolor="000000"><img src="templates/59/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
 </tbody></table>
 
           </td>
@@ -426,7 +493,11 @@ function addbookmark()
 	    | <a href="http://www.abundanthealth4u.com/help.asp" class="footer">Help</a> 
         | <a href="http://www.abundanthealth4u.com/terms.asp" class="footer">Terms of Use</a><br>
                                            <a href="http://www.abundanthealth4u.com/terms.asp" class="footer">Copyright
-        © 2007&nbsp;Abundant Health LLC.&nbsp;All Rights Reserved.</a><br>
+        © <script language="javascript">
+var yr = new Date()
+var year=yr.getYear()
+document.write(year)
+</script>120&nbsp;Abundant Health LLC.&nbsp;All Rights Reserved.</a><br>
 
 
 
