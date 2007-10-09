@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111044636id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009170518id_/http%3A//spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
 SpineUniverse was founded by doctors. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy. Our privacy policy is stringent.
 
-We will only collect information that is voluntarily provided by our visitors. No cookies, scripts or other method will ever be employed to obtain extra information without the approval of our member.
+SpineUniverse collects information from you at several different points on the Site, either through the use of technology such as cookies (explained below) or by asking you for specified information. SpineUniverse continually uses technology such as cookies to review its visitors' demographics, interests and pages viewed.
 
-We do employ cookies to make your visit more useful. For example, if you enter your ZIP code , we will attempt to show you doctors in your area who specialize in the type of back problem that our page is describing. If you enter a different ZIP code, we'll show you doctors from that area. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive. Cookies store information about your visit to the Sites The information in the cookie is transmitted from your computer to SpineUniverse, our agents, or to one of our third-party authorized service contractors. Cookies from SpineUniverse and/or one of our authorized service contractors are also used to collect standard information transmitted from your web browser including, without limitation: your Internet address, browser type, web pages you visited with date and time, purchases you made on any of the Sites and the type of operating system on your computer. This information is used to help us understand and meet the ever-changing needs and interests of our visitors or subscribers. 
 
-Cookies are also utilized to record use and/or abuse of our community Question and Answer section, and to permit viewing of members-only areas of SpineUniverse. 
+You always have the option of setting your browser to warn you when a cookie is being accessed on your computer or to decline cookies altogether. However, to take full advantage of the Sites, Services and features offered by SpineUniverse, we recommend that you set your browser to accept cookies. The settings on your computer that allow you to accept or refuse cookies vary depending on the web browser you are running. Please check the help tab of your browser for specifics on your software. 
+
+SpineUniverse uses technology provided by a third-party advertising company to serve ads when you visit this Site. This technology may use information about your visit to this Site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Site, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit . In addition, you have the ability to accept or decline cookies by modifying the settings in your browser. 
+
+SpineUniverse may also use a third party ad network provider to help present advertisements on this Site. Third-party ad serving enables SpineUniverse to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Sites, may use cookies, web beacons or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use. 
 
 We do not sell email lists and will not disclose your email address to an outside vendor. Members may receive an email which mentions a technology or product of interest to back pain patients. Such email will come from SpineUniverse. Personal information provided by members (eg. name, email or home address) will not be disclosed to anyone outside SpineUniverse unless the member specifically authorizes SpineUniverse.com to do so.
 
@@ -16,9 +20,4 @@ Statistical information on our members as a group (usage habits, demographics) m
 
 Any financial transaction occuring via SpineUniverse will occur over an encrypted channel.
 
-If you have any questions about our privacy policy, please feel free to contact us at [feedback@SpineUniverse.com](mailto:feedback@spineuniverse.com)
-
-  
-| | **100% FREE SpineUniverse Newsletter for Patients.  
-Enter your email address and we'll send it at no charge! **  
----|---
+If you have any questions about our privacy policy, please feel free [to contact us ](https://web.archive.org/displayarticle.php/article3352.html)
