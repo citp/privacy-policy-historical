@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancersunion.org privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506050719id_/http%3A//www.freelancersunion.org/privacy-policy-home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersunion.org privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009083646id_/http%3A//www.freelancersunion.org/privacy-policy-home) for the most accurate reproduction.*
 
 # Freelancers Union :: Privacy Policy
 
