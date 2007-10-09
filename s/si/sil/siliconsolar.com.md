@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620141347id_/http%3A//www.siliconsolar.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009031522id_/http%3A//www.siliconsolar.com/p/privacy-policy.php) for the most accurate reproduction.*
 
-# Silicon Solar Inc - Privacy Policy
+# Privacy Policy
 
 In our ongoing effort to improve the services and features we provide to our customers, Silicon Solar will continue to implement new technologies from time to time. As a result, this policy is subject to change without prior notice. We encourage you to review our privacy policy periodically.
 
@@ -31,7 +31,7 @@ We request an e-mail address during the order process so that we can send an e-m
 
 **PRIVACY NOTES**
 
-Links to or From Other Sites. Silicon Solar may provide links to websites outside of [www.siliconsolar.com](http://www.siliconsolar.com/) as an added convenience to the user. There are also affiliates that link to Siliconsolar.com. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. Silicon Solar is not responsible for the privacy, terms of use, or other policies of any other website.
+Links to or From Other Sites. Silicon Solar may provide links to websites outside of [www.siliconsolar.com](https://web.archive.org/) as an added convenience to the user. There are also affiliates that link to Siliconsolar.com. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. Silicon Solar is not responsible for the privacy, terms of use, or other policies of any other website.
 
 **ONLINE SECURITY STATEMENT**
 
