@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotolog.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623144354id_/http%3A//info.fotolog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolog.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010004054id_/http%3A//info.fotolog.com/privacy) for the most accurate reproduction.*
 
 # Fotolog's Privacy Policy - Fotolog
 
