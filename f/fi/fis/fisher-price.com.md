@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605202119id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009082357id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Fisher-Price.com!
 
