@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626223357id_/http%3A//www.brent.gov.uk/www.nsf/24878f4b00d4f0f68025663c006c7944/d4eaf114ee6bb2fe80256bac003991c7%21OpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009213740id_/http%3A//www2.brent.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement of the London Borough of Brent
 
