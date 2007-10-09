@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630185756id_/http%3A//www.allrefer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrefer.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009111907id_/http%3A//www.allrefer.com/privacy.html) for the most accurate reproduction.*
 
 # AllRefer.com - Privacy Statement
 
