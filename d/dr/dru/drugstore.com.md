@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501112220id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009182010id_/http%3A//drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php%3Fp_faqid%3D191) for the most accurate reproduction.*
 
 # answer
 
@@ -6,7 +6,7 @@
 |  |    
    Print Answer   
   
-   email answer  |    |  |   | Privacy Policy  
+   email answer  |   |  |   | Privacy Policy  
 ---|---  
   | question  
   | 
@@ -66,12 +66,10 @@ Other than as set out above, you will receive notice when information about you 
 When you place an order online or use the drugstore.com™ pharmacy, your personal information and credit card or debit card information are encrypted using SSL encryption technology before being sent over the Internet, We use SSL technology to prevent your information from being stolen or intercepted while being transferred to us. Your credit card information is always stored in encrypted form in a restricted-access database that is away from our Web site database so it isn't connected to the Internet, to keep it safe from hackers.
 
  **Cookies**  
-To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Web stores or take advantage of many of our features. For example, you will not be able to use the Your List™ or Diamond Deals™ features or store items in your shopping cart.
+To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Web stores or take advantage of many of our features, such as Your List™.
 
  **Web Beacons**  
-From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the e-mails we send to our customers, to determine whether and when the images in our e-mail were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our e-
-
-mail communications.
+From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the e-mails we send to our customers, to determine whether and when the images in our e-mail were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our e-mail communications.
 
  **Unsolicited E-mail (SPAM)**  
 Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" your e-mail address directly from your computer or another person's address book or even obtain your e-mail address through programs that automatically search web pages and e-mail traffic for e-mail addresses.
@@ -107,9 +105,9 @@ Copyright © 2005 drugstore.com, inc. All rights reserved.
 Terms of Use](http://drugstore.custhelp.com/cgi-bin/drugstore.cfg/php/enduser/std_adp.php?p_faqid=512&p_created=1123809950&p_sid=hzPMTMMh&p_lva=191&p_sp=cF9zcmNoPTEmcF9zb3J0X2J5PSZwX2dyaWRzb3J0PSZwX3Jvd19jbnQ9MSZwX3Byb2RzPSZwX2NhdHM9MCZwX3B2PSZwX2N2PSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXRlcm1zIG9mIHVzZQ**&p_li=&p_topview=1)  
   
    
-  | how well did this answer your question?   
+  | how well did this answer your question?  
   |   
   |   
-  | related answers  
+  | Users who viewed this answer have also viewed  
   |   
 |  | 
