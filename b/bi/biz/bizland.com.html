@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the bizland.com privacy policy that was archived on 2007-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070406083703id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizland.com privacy policy that was archived on 2007-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071010011721id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Privacy Statement</title>
 <style type="text/css">
+
 
 	A {COLOR: #CC0000; TEXT-DECORATION: underline}
 	A:hover {COLOR: #CC0000; TEXT-DECORATION: underline}
@@ -24,8 +25,20 @@
 	A.navsmall:visited {COLOR: #000000; TEXT-DECORATION: none}
 	A.navsmall:hover {COLOR: #000000; TEXT-DECORATION: underline}
 
+	A.navbar {FONT-FAMILY: Helvetica, Arial, sans serif; FONT-SIZE: .9em; COLOR: #FFFFFF; TEXT-DECORATION: none; FONT-WEIGHT: bold; padding:4;}
+	A.navbar:visited {COLOR: #FFFFFF; TEXT-DECORATION: none; padding:4;}
+	A.navbar:hover {COLOR: #FFFFFF; TEXT-DECORATION: none; BACKGROUND: #484747; padding:4;}	
+	A.navbar:visited:hover {COLOR: #FFFFFF; TEXT-DECORATION: none; BACKGROUND: #484747; padding:4;}	
+
+
 	.keyword {COLOR: #000000; TEXT-DECORATION: none}
 	a.keyword:hover {TEXT-DECORATION: underline}
+
+
+  h1 {background-image: url(/images/backgrounds/bl_header_bg.gif); font-family: Rockwell, Arial, Helvetica, sans-serif; font-size: 24px; line-height: 26pt; color: #FFFFFF; font-weight: bold; text-decoration: none}
+	h2 {FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #990000; FONT-FAMILY: arial,helvetica,sans serif} 
+	h3 {FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: arial,helvetica,sans serif} 
+
 
 	.link {FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0000ff; FONT-FAMILY: Arial,helvetica,sans serif}
 	.visited {FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: purple; FONT-FAMILY: Arial,helvetica,sans serif}
@@ -134,7 +147,7 @@
 
 	.monitor { background-color:#FFFFFF; FONT-FAMILY: Arial,helvetica,sans serif; font-size:9px; COLOR: #000000; }		
 	.ctrlpaneloutline { background-color:#333333; padding: 1px 1px 1px 1px;}
-	.ctrlpanelheader { background-color:#990000; font-family: Arial,helvetica,sans serif; font-size:12px; COLOR: #FFFFFF; font-weight: bold;padding: 1px 1px 1px 1px;}
+	.ctrlpanelheader { background-color:#990000; font-family: Arial,helvetica,sans serif; font-size:16px; COLOR: #FFFFFF; font-weight: bold; padding: 2px;}
 	.ctrlpanelfooter { background-color:#990000;}
 	.ctrlpanelsectionheader { background-color:#CCCCCC; font-family: Arial,helvetica,sans serif; font-size:11px; COLOR: #000000; font-weight: bold; }
 	.ctrlpanelitem {font-family: Arial,helvetica,sans serif; font-size:11px; COLOR: #000000;  }
@@ -167,9 +180,195 @@
 	.item_body a:visited {color:#CC0000; text-decoration:none;}
 	.item_body a:visited:hover  {color:#FF0000; text-decoration:underline;}
 	 	
- 	
+		 	
+	.quotaBoxBig {FONT-WEIGHT: bold; FONT-SIZE: 19pt; COLOR: #000000; FONT-FAMILY: Rockwell,Arial,helvetica,sans serif; font-weight:bold;}
+	.membershipTitle {FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #990000; FONT-FAMILY: Rockwell,Arial,helvetica,sans serif;}
+
+
+		 
+
+/* $Id: example.css,v 1.5 2006/03/27 02:44:36 pat Exp $ */
+
+/*--------------------------------------------------
+  REQUIRED to hide the non-active tab content.
+  But do not hide them in the print stylesheet!
+  --------------------------------------------------*/
+.tabberlive .tabbertabhide {
+ display:none;
+}
+
+/*--------------------------------------------------
+  .tabber = before the tabber interface is set up
+  .tabberlive = after the tabber interface is set up
+  --------------------------------------------------*/
+.tabber {
+}
+.tabberlive {
+ margin-top:1em;
+
+}
+
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+ul.tabbernav
+{
+ margin:0;
+ padding: 3px 0;
+ border-bottom: 1px solid #cccccc;
+ 
+}
+
+ul.tabbernav li
+{
+ list-style: none;
+ margin: 0;
+ display: inline;
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, helvetica, sans serif;
+}
+
+ul.tabbernav li a
+{
+ padding: 3px 0.5em;
+ margin-right: 3px;
+ border: 1px solid #cccc99;
+ border-bottom: none;
+ background: #f8f3d3;
+ text-decoration: none;
+ font-weight:bold;
+ 
+}
+
+ul.tabbernav li a:link { color: #000000; }
+ul.tabbernav li a:visited { color: #000000; }
+
+ul.tabbernav li a:hover
+{
+ color: #99000;
+ background: #cccc99;
+ border-color: #cccc99;
+}
+
+ul.tabbernav li.tabberactive a
+{
+ background-color: #fff;
+ border-bottom: 1px solid #fff;
+}
+
+ul.tabbernav li.tabberactive a:hover
+{
+ color: #99000;
+ background: white;
+ border-bottom: 1px solid white;
+}
+
+/*--------------------------------------------------
+  .tabbertab = the tab content
+  Add style only after the tabber interface is set up (.tabberlive)
+  --------------------------------------------------*/
+.tabberlive .tabbertab {
+	padding: 6px;
+ 	border-top:0;
+	border-right: 1px solid #cccc99;
+	border-bottom: 1px solid #cccc99;
+	border-left: 1px solid #cccc99;
+
+ /* If you don't want the tab size changing whenever a tab is changed
+    you can set a fixed height */
+
+ /* height:200px; */
+
+ /* If you set a fix height set overflow to auto and you will get a
+    scrollbar when necessary */
+
+ /* overflow:auto; */
+}
+
+/* If desired, hide the heading since a heading is provided by the tab */
+.tabberlive .tabbertab h2 {
+ display:none;
+}
+.tabberlive .tabbertab h3 {
+ display:none;
+}
+
+/* Example of using an ID to set different styles for the tabs on the page */
+.tabberlive#tab1 {
+}
+.tabberlive#tab2 {
+}
+.tabberlive#tab2 .tabbertab {
+ height:200px;
+ overflow:auto;
+}	
+
+
+		
+
+.domain_lookup_box {
+	background-image: url("http://images.bizland.com/backgrounds/green_vert_gradient.gif");
+}
+
+.domain_lookup_text_lg {
+	font-size: 1em;
+	font-weight: bold; 
+	COLOR:#FFFFFF; 	
+}
+
+.domain_lookup_text_med {
+	font-size: 1em;
+	COLOR:#FFFFFF; 	
+}
+
+.domain_lookup_text_sm {
+	font-size: .80em;
+	COLOR:#FFFFFF; 	
+}
+
+.formfield_big {
+	padding: 3px;
+	font-size: .8em;
+	font-weight: bold;  
+}
+
+.formbutton_big {
+	font-size: .85em;
+	font-weight: bold;  
+}
+
 	
+
+
+/* ----------- Vdeck Styles-------------- */
+
+#vdeck_bar_wrapper {margin-bottom:20px; height:30; background-image: url("http://images.bizland.com/backgrounds/vdeckbar_tan.gif"); border-bottom: 1px #cccc99 solid;}
+#vdeck_branding {float:left; text-align:left; margin-top:5px; margin-left:10px; vertical-align:middle; }
+*>#vdeck_branding
+{margin-top:6px;}
+
+#vdeck_buttons {float:right; text-align:right; margin-top:4px; margin-right:10px;}
+*>#vdeck_buttons
+{margin-top:5px;}
+
+.vdeck_button {padding-left:10px; FONT-SIZE: 12px; FONT-FAMILY: arial,helvetica,sans serif;}
+.vdeck_button img {vertical-align:middle; margin-right:3px;}
+.vdeck_button a {text-decoration: none; color:#000000;}
+.vdeck_button a:hover {text-decoration: underline; color:#000000;}
+.vdeck_button a:visited {text-decoration: none; color:#000000;}
+.vdeck_button a:visited:hover {text-decoration: underline; color:#000000;}
+
+.powered_by {vertical-align:middle; FONT-SIZE: 12px; FONT-FAMILY: arial,helvetica,sans serif; font-weight:bold;}
+.powered_by img {vertical-align:middle; margin-right:4px; FONT-SIZE: 12px; FONT-FAMILY: arial,helvetica,sans serif;}
+
 </style>
+
+	<script src="/generalAppC/javascripts/yui/utilities/utilities.js"></script>
+	<script src="/generalAppC/javascripts/yui/container/container.js"></script>
+	<script src="/generalAppC/javascripts/yui/treeview/treeview-min.js"></script>
+	<script src="/generalAppC/javascripts/widget_behaviors-min.js"></script>
+	<script src="/generalAppC/BL_AJAX.js"></script>
+	<script src="/generalAppC/javascripts/ie_alpha_fix.js"></script>
 
 <script>
 function myopen(filename,windowname,properties){
@@ -186,23 +385,54 @@ function myopen(filename,windowname,properties){
 <body bgcolor="#000000" text="#000000" leftmargin="0" topmargin="0"><center>
 <table width="775" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
 <table width="775" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="http://images.bizland.com/trans.gif" border="0" height="12"></td></tr></tbody></table>
-<table width="775" bgcolor="#FFFFFF" style="border-collapse: collapse; border: 1px solid #999999" cellpadding="5" cellspacing="0" border="0" height="75"><tbody><tr>
-<td><a href="/"><img src="http://images.bizland.com/logos/logo_bizland.gif" border="0"></a></td>
-<td align="right"><img src="/images/text/bl_phonenumber.gif" border="0"></td>
+<table width="775" bgcolor="#FFFFFF" style="border-collapse: collapse; border: 1px solid #999999" cellpadding="0" cellspacing="0" border="0" height="75" class="norm"><tbody><tr>
+<td>&nbsp;
+			</td>
+<td width="100%" cellpadding="5"><a href="/"><img src="http://images.bizland.com/logos/logo_bizland.gif" border="0"></a></td>
+<td align="right" valign="middle"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.bizland.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.bizland.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td>
+<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+<td align="right"><img src="/images/text/text_bl_phone_rw.gif" border="0"></td>
+<td align="right"><a href="http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;" shape="rect" coords="692, 18, 748, 55" class="header"><img src="/images/icons/icon_bl_livechat.gif" border="0"></a></td>
 </tr></tbody></table>
 <table width="775" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="http://images.bizland.com/trans.gif" border="0" height="12"></td></tr></tbody></table>
-<table width="775" bgcolor="#333333" style="border-collapse: collapse; border: 1px solid #999999" cellspacing="0" border="0"><tbody><tr><td><table width="100%"><tbody><tr>
-<td align="center"><a href="/bizland/about.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_about.gif" width="77" height="25" border="0"></a></td>
+<table width="775" style="border-collapse: collapse; border: 1px solid #999999" cellspacing="0" border="0" background="http://images.bizland.com/backgrounds/bg_bl_navbar.gif"><tbody><tr><td><table width="100%" cellpadding="5"><tbody><tr>
+<td align="center"><a href="/bizland/about.bml" class="navbar">		
+							
+							ABOUT US
+
+							</a></td>
 <td class="navheader_white">•</td>
-<td align="center"><a href="/product/services.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_services.gif" width="71" height="25" border="0"></a></td>
+<td align="center"><a href="/product/services.bml" class="navbar">
+							
+							SERVICES
+					
+							</a></td>
 <td class="navheader_white">•</td>
-<td align="center"><a href="/bizland/hosting.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_webhosting.gif" width="103" height="25" border="0"></a></td>
+<td align="center"><a href="/bizland/hosting.bml" class="navbar">					
+							
+							WEB HOSTING
+
+							</a></td>
 <td class="navheader_white">•</td>
-<td align="center"><a href="/member/index.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_members.gif" width="117" height="25" border="0"></a></td>
+<td align="center"><a href="/member/index.bml" class="navbar">	
+							
+							MEMBERS AREA
+											
+							</a></td>
 <td class="navheader_white">•</td>
-<td align="center"><a href="/support/index.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_support.gif" width="69" height="25" border="0"></a></td>
+<td align="center"><a href="/support/index.bml" class="navbar">	
+							
+							SUPPORT
+											
+							</a></td>
 <td class="navheader_white">•</td>
-<td align="center"><a href="/reseller/index.bml" class="navheader_white"><img src="http://images.bizland.com/text/text_bl_resellers.gif" width="86" height="25" border="0"></a></td>
+<td align="center"><a href="/reseller/index.bml" class="navbar">
+							
+							RESELLER
+												
+							</a></td>
 </tr></tbody></table></td></tr></tbody></table>
 <table width="775" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="http://images.bizland.com/trans.gif" border="0" height="12"></td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -211,17 +441,11 @@ function myopen(filename,windowname,properties){
 <tr>
 <td valign="top" align="center" width="10"><img src="http://images.bizland.com/trans.gif" height="400" width="10"></td>
 <td valign="top" width="100%"><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" width="100%">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#990000" style="border: 1px solid #999999">
-<tbody><tr><td background="/images/headers/bl_header_dots.gif"><img src="http://images.bizland.com/trans.gif" height="5"></td></tr>
-<tr><td>
-				&nbsp;<font class="pageheader">Privacy Statement</font>
-</td></tr>
-<tr><td background="/images/headers/bl_header_dots.gif"><img src="http://images.bizland.com/trans.gif" height="5"></td></tr>
-</tbody></table>
-<img src="http://images.bizland.com/trans.gif" height="10"><br><span class="norm"><block>	
+<h1>&nbsp;Privacy Statement</h1>
+<span class="norm"><block>	
 At BizLand, we are committed to protecting your privacy.  The limited information we do collect is used to provide you with a personalized experience, better service, and at times, bring you value-added offers from our partners.<br>
-	  </block></span><p></p>
-<font class="pagesubheader">The Information Collected and How It Is Used</font><br><span class="norm"><block>	
+	  </block></span><h2>The Information Collected and How It Is Used</h2>
+<span class="norm"><block>	
 					<ul>
 						<li>
 <b>Cookies</b>
@@ -239,11 +463,11 @@ At BizLand, we are committed to protecting your privacy.  The limited informatio
 <b>Public Forums</b>
 						This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</li>
 					</ul>
-	  </block></span><p></p>
-<font class="pagesubheader">Security</font><br><span class="norm"><block>
+	  </block></span><h2>Security</h2>
+<span class="norm"><block>
 					All data collected at BizLand is done so with the use of secure servers. The secure server software (SSL) encrypts all payment information you input before it is sent to us. Furthermore, all of the  data we collect is protected against unauthorized access.<br>
-	  </block></span><p></p>
-<font class="pagesubheader">Choice/Opt-Out</font><br><span class="norm"><block>
+	  </block></span><h2>Choice/Opt-Out</h2>
+<span class="norm"><block>
 					During the registration process, you are provided with the opportunity to opt out of receiving  marketing and promotional communications from BizLand and our partners that are not directly related to the services we provide. BizLand, its affiliates or partners may use the information associated with your account to contact you with these special offers.
 					<p></p>
 
@@ -257,11 +481,11 @@ At BizLand, we are committed to protecting your privacy.  The limited informatio
 					
 
 <br>
-	  </block></span><p></p>
-<font class="pagesubheader">Correct/Update</font><br><span class="norm"><block>
+	  </block></span><h2>Correct/Update</h2>
+<span class="norm"><block>
 					To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Members Area. Alternatively, you can contact the BizLand Support through our online <a href="/support/supportForm.bml">support form</a>.<br>
-	  </block></span><p></p>
-<font class="pagesubheader">Contacting BizLand</font><br><span class="norm"><block>
+	  </block></span><h2>Contacting BizLand</h2>
+<span class="norm"><block>
 					If you have any questions about this privacy statement, the practices of this site, or your dealings with BizLand, you can contact:
 				<blockquote>
 					
@@ -291,4 +515,14 @@ At BizLand, we are committed to protecting your privacy.  The limited informatio
 </center>
 
 
-</body></html>
+
+
+
+<script language="javascript" src="https://server.iad.liveperson.net/hc/66651396/x.js?cmd=file&amp;file=chatScript3&amp;site=66651396&amp;&amp;category=en;woman;5"> </script>
+
+
+
+
+
+
+<div style="position: absolute; height: 1px; width: 1px; top: -1000px; left: -1000px;"><span class="ygtvtm">&nbsp;</span><span class="ygtvtmh">&nbsp;</span><span class="ygtvtp">&nbsp;</span><span class="ygtvtph">&nbsp;</span><span class="ygtvln">&nbsp;</span><span class="ygtvlm">&nbsp;</span><span class="ygtvlmh">&nbsp;</span><span class="ygtvlp">&nbsp;</span><span class="ygtvlph">&nbsp;</span><span class="ygtvloading">&nbsp;</span></div></body></html>
