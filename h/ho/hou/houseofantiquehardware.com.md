@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101214425id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f%3Fsc%3D5%26category%3D-105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009153754id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f%3Fsc%3D5%26category%3D-105) for the most accurate reproduction.*
 
 # Privacy Policy
 
