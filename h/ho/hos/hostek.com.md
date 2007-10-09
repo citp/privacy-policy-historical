@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507141920id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostek.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009102855id_/http%3A//hostek.com/web-hosting-privacy.asp) for the most accurate reproduction.*
 
 # Affordable Web Hosting - HosTek.com
 
