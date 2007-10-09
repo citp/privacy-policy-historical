@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618060937id_/http%3A//info.zoomerang.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009112336id_/http%3A//info.zoomerang.com/privacy.htm) for the most accurate reproduction.*
 
 # Zoomerang Online Survey Software - Privacy Policy
 
@@ -22,7 +22,7 @@ This site complies with the EU Safe Harbor framework as set forth by the Departm
 
 #### What is Zoomerang?
 
-Zoomerang is a survey clearinghouse that that enables our Users to create surveys and questionnaires for distribution to Survey Respondents. Zoomerang is committed to its policy of protecting the privacy and confidential information of our Users, as described in Part II of this policy. We also protect the privacy of Survey Respondents (other than [ZoomPanelists](https://web.archive.org/web/20070618060937id_/http%3A//prodserv/sample/panelists.htm)) as described in Part I of this policy. Part II of our Privacy Policy applies only to our Users, who are subscribers to our Zoomerang service. [MarketTools’](http://www.markettools.com/) privacy practices related to [ZoomPanel members](http://www.zoompanel.com/) are described in the [Zoompanel.com privacy policy](http://www.zoompanel.com/privacy.asp), not in this Privacy Policy.
+Zoomerang is a survey clearinghouse that that enables our Users to create surveys and questionnaires for distribution to Survey Respondents. Zoomerang is committed to its policy of protecting the privacy and confidential information of our Users, as described in Part II of this policy. We also protect the privacy of Survey Respondents (other than [ZoomPanelists](https://web.archive.org/web/20071009112336id_/http%3A//prodserv/sample/panelists.htm)) as described in Part I of this policy. Part II of our Privacy Policy applies only to our Users, who are subscribers to our Zoomerang service. [MarketTools’](http://www.markettools.com/) privacy practices related to [ZoomPanel members](http://www.zoompanel.com/) are described in the [Zoompanel.com privacy policy](http://www.zoompanel.com/privacy.asp), not in this Privacy Policy.
 
 #### Part I. Survey Respondents
 
