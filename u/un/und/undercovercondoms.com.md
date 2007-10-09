@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207032851id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009093129id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
 
 # Undercover Condoms - Privacy Policy
 
-| [Condoms by Brand](https://web.archive.org/condom_brands.asp "Condoms by Brand") | [Condoms by Type](https://web.archive.org/condom_styles.asp "Condoms by Type") | [Dental Dams](https://web.archive.org/Condoms/Types/Dental-Dams/15/dental-dams.html "Dental Dams") | [Personal Lubricants](https://web.archive.org/lubricants-by-category.asp "Personal Lubricants") | [Female Contraceptives](https://web.archive.org/Condoms/Types/Contraceptives/68/contraceptives.html "Foams & Gels")  
----|---|---|---|---  
-  
+[](https://web.archive.org/condom_selector.asp)  
   
 |  |   
   
-|  | [](http://www.truste.org/ivalidate.php?url=www.undercovercondoms.com&sealid=101)  
+|  | [ ](http://www.truste.org/ivalidate.php?url=www.undercovercondoms.com&sealid=101)  
 ---|---  
   
 Our Products Protect You, We Protect Your Privacy.  
@@ -23,13 +21,13 @@ see our [P3P Privacy Information.](http://www.undercovercondoms.com/p3p/undercov
 ---|---  
 Privacy Statement
 
-Undercover Condoms collects information about its customers both during the order process and as customers navigate the http://www.undercovercondoms.com/ web site. The information provided by customers during the ordering process such as their name, physical addres, email addres, and payment information is considered private, and Undercover Condoms will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, Undercover Condoms reserves the right to contact existing customers regarding store specials and other significant events.
+Undercover Condoms collects information about its customers both during the order process and as customers navigate the http://www.undercovercondoms.com/ web site. The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and Undercover Condoms will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, Undercover Condoms reserves the right to contact existing customers regarding store specials and other significant events.
 
 Opt-Out Provided   
 Undercover Condoms will provide existing customers with the opportunity to "opt-out" or choose to be removed from future mailings from Undercover Condoms. Opt-out information will be included with any non-personal or non-essential message sent to prior customers. You may also Opt-Out by sending an email to [service@undercovercondoms.com](mailto:service@undercovercondoms.com) requesting that you be removed from certain types of future mailings or calling 1-800-893-9105. A personal or essential message is one that would relate directly to the particular customer's order.
 
 Non-Personal Information   
-Undercover Condoms also routinely collects statistics on site usage patterns through web logs, web beacons and third party service providers. These statistics are not intended to relate to any particular individual. Instead, they are used interally to judge the effectiveness of web site features and content. Some real-time information is occasionally used to automatically suggest a product to a customer based on that customer's observed preferences.
+Undercover Condoms also routinely collects statistics on site usage patterns through web logs, web beacons and third party service providers. These statistics are not intended to relate to any particular individual. Instead, they are used internally to judge the effectiveness of web site features and content. Some real-time information is occasionally used to automatically suggest a product to a customer based on that customer's observed preferences.
 
 Third Party Service Providers   
 Undercover Condoms may share your information provided with your order with third-party service providers who provide services related to your order. Examples of these third-party service providers include a credit card processing company, a supplier, or a shipping service. Your personal information will not be used by any third party for purposes other than providing these services in relation to your order.
@@ -41,10 +39,10 @@ Contests and Drawings
 Undercover Condoms may sponsor or host contests or drawings from time to time. Some contests may be offered in conjunction with a third party sponsor and website users will be notified at the time of the contest as to whether a third party sponsor is involved and whether the third party will be receiving the user's information to send promotional communications. The website user can then choose whether to enter the contest or not at that time based on the the terms and conditions associated with that particular contest.
 
 Transaction Security  
-All transactions occur through our Secure Server, protected by a GeoTrust® SSL certificate. That means that we use encryption to secure information sent from your computer to our servers. In addtition, credit card numbers and other sensitive information is encrypted in our database(s) to provide a second layer of security for your private information.
+All transactions occur through our Secure Server, protected by a GeoTrust® SSL certificate. That means that we use encryption to secure information sent from your computer to our servers. In addition, credit card numbers and other sensitive information is encrypted in our database(s) to provide a second layer of security for your private information.
 
 Updating Your Information  
-If you ever need to update any information on file with Undercover Condoms, you may call or email us at Undercover Condoms at [service@undercovercondoms.com](mailto:service@undercovercondoms.com). If you need to update your information when re-ordering, you will have a chance to make changes to your payment information, shipping and biling address(es) at checkout.
+If you ever need to update any information on file with Undercover Condoms, you may call or email us at Undercover Condoms at [service@undercovercondoms.com](mailto:service@undercovercondoms.com). If you need to update your information when re-ordering, you will have a chance to make changes to your payment information, shipping and billing address(es) at checkout.
 
 If you have additional questions about the privacy of your information, please contact Undercover Condoms at [service@undercovercondoms.com](mailto:service@undercovercondoms.com) or call us at 1-800-893-9105.  
   
