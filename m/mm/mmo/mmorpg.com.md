@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629211806id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009075428id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
 
 # MMORPG.COM - Your Headquarters for Massive Multiplayer Online Role-Playing Games!
 
@@ -20,13 +20,15 @@ Committing Minor Infractions at MMORPG.com will result in a first warning, follo
 
 * For purposes of our rules, we will work under a 3 strikes policy. A first offense results in a warning. A second offence results in a 1 to 14 day ban and a third offence results in a lengthy and possibly permanent ban. Warnings and bans remain active for these purposes for 6 months. Note that severe offenses may receive stronger action, even on first or second offenses.
 
+  * Religion and Politics 
+    * MMORPG.com is a site to discuss massively multiplayer online roleplay gaming. While users are encouraged and permitted to use our Off-Topic forum to discuss real life and non-MMORPG gaming, threads concerning sensitive subjects such as religion, politics, or ethics may be locked or deleted if determined out of hand by the MMORPG.com moderator staff.
   * Language Policy 
     * MMORPG.com wishes to create the friendliest atmosphere possible in our forums and on our site. As such, excessive use of strong language will not be tolerated. Ex: The odd "bad word" is fine. A profanity laced rant, on the other hand, is not. Discretion will rest with the moderators.
   * Topic Hijacking 
     * Posting comments within a thread which severely disrupts the original conversation is prohibited at MMORPG.com.  
 _Example: Asking whether a game has PvP in a thread about crafting materials found in a new expansion is Topic Hijacking._
   * Flaming and Personal Attacks 
-    * o MMORPG.com does not tolerate personal attacks on other posters. Please keep your arguments and posts on topic, and argue the ideas and topics of the thread instead of insulting other users.  
+    * MMORPG.com does not tolerate personal attacks on other posters. Please keep your arguments and posts on topic, and argue the ideas and topics of the thread instead of insulting other users.  
 _Example: Telling someone that you disagree with their argument is tolerated, while calling someone inappropriate names is not._
   * Game Attacks 
     * Unsubstantiated comments about specific or general games will be penalized in nearly the same way attacks against people will. The exception is that you can say mean things about games provided you back it up with reasons.  
@@ -114,9 +116,9 @@ Your physical location, gender, date of membership and last login date is used i
 During the account creation process the user has the ability to "opt-in" to two separate mailing lists:
 
   * MMORPG.COM Newsletter 
-    * Our newsletter is only sent from us, and no more than twice per month. This service is used to notify our members about the status of the site and current events. This newsletter might contain advertisements or endorsements as a smaller part of the message, but never for this sole purpose.
+    * Our newsletter is only sent from us, and no more than once per week. This service is used to notify our members about the status of the site and current events. This newsletter might contain advertisements or endorsements as a smaller part of the message, but never for this sole purpose.
   * Promotional Mailing 
-    * This list will be used to notify our members of special promotions taking place related to MMORPG games. It will only be sent from us. These offers can be for beta test offers or other promotions from us or other game companies. This mailing will never be sent more than once per week.
+    * This list will be used to notify our members of special promotions taking place related to MMORPG games. It will only be sent from us. These offers can be for beta test offers or other promotions from us or other game companies. This mailing will never be sent more than four times per month.
 
 
 
