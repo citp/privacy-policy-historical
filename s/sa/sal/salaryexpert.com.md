@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626185616id_/http%3A//www.salaryexpert.com/index.cfm%3FFuseAction%3DHome.Dsp_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009131005id_/http%3A//www.salaryexpert.com/index.cfm%3FFuseAction%3DHome.Dsp_PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SalaryExpert.com
 
 **Privacy Policy**
 
-**Last Updated:** July 2005 
+**Last Updated:** January 2007 
 
 This Privacy Policy ("Policy") tells you about the information Baker Thomsen Associates Insurance Services, Inc. ("BTA") collects through the services available on the BTA family of Web sites, including: [www.btabta.com](http://www.btabta.com/), [www.benefitsreview.com](http://www.benefitsreview.com/), [www.beneficiareview.com](http://www.beneficiareview.com/), [www.thepaychecker.com](http://www.thepaychecker.com/), [www.salaryexpert.com](http://www.salaryexpert.com/), [www.salary-expert.com](http://www.salary-expert.com/), [www.salaryxpert.com](http://www.salaryxpert.com/), [www.salary.org](http://www.salary.org/), [www.colcalculator.com](http://www.colcalculator.com/) and [www.compensation-information.com](http://www.compensation-information.com/), (collectively the "Site"), how BTA uses that information, and how you (the end-user) can opt out of certain uses of information that BTA may collect. 
 
