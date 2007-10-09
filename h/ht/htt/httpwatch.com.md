@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416111339id_/http%3A//www.httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpwatch.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010003731id_/http%3A//www.httpwatch.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# HttpWatch - Privacy Policy
+# HttpWatch: Privacy Policy
 
 This privacy policy covers the use of web sites owned by Simtec Limited:
 
@@ -22,4 +22,4 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ## Contact Information
 
-If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20070416111339id_/http%3A//www.httpwatch.com/company). 
+If you have any questions about this privacy statement, please contact [ us](https://web.archive.org/web/20071010003731id_/http%3A//www.httpwatch.com/company). 
