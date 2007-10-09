@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428081240id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010010000id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
 # Talent Management Solutions, Employee Performance Management Software, Employee Performance Appraisals, LMS
 
@@ -55,7 +55,7 @@ We collect personal information to give you a customized experience and to help 
 
 
 
-You can unsubscribe from receiving any advertisements or newsletters by sending an email with “REMOVE” in the subject line to: [ privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com?subject=REMOVE). 
+You can unsubscribe from receiving any advertisements or newsletters by sending an email with “REMOVE” in the subject line to: privacy@sumtotalsystems.com. 
 
 **Who collects information?**
 
@@ -70,7 +70,7 @@ If you leave the SumTotal Systems Site using links to go to other third party We
 Other than as stated in this policy, SumTotal Systems does not disclose any of your personal information to third parties without your permission. Read the following sections to learn more.
 
   * **Business partners, subcontractors and sponsors  
-**SumTotal Systems may disclose your personal information to business partners, subcontractors or sponsors as SumTotal deems necessary to provide products and services to you. Many promotions give you the chance to request additional information from the sponsors. When you ask for more information, you give SumTotal Systems permission to send your personal information to the sponsor so they can fulfill your request. If you do not want any personal information to be shared with our business partners or sponsors, you may opt out by sending an email to [ privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com?subject=OPT%20OUT) with "OPT OUT" in the subject line. 
+**SumTotal Systems may disclose your personal information to business partners, subcontractors or sponsors as SumTotal deems necessary to provide products and services to you. Many promotions give you the chance to request additional information from the sponsors. When you ask for more information, you give SumTotal Systems permission to send your personal information to the sponsor so they can fulfill your request. If you do not want any personal information to be shared with our business partners or sponsors, you may opt out by sending an email to privacy@sumtotalsystems.com with "OPT OUT" in the subject line. 
 
 
   * **SumTotal International Locations  
@@ -142,7 +142,7 @@ SumTotal Systems adheres to the EU’s Safe Harbor principles.
 
 **Contacting Us**
 
-If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com?subject=Privacy%20Policy).
+If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at privacy@sumtotalsystems.com.
 
 ©2004 - 2007 SumTotal Systems, Inc. All rights reserved.  
 Privacy Policy last updated February 22, 2007. 
