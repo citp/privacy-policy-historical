@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nursingtimes.net privacy policy that was archived on 2007-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513124507id_/http%3A//www.nursingtimes.net/nursingtimes/pages/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nursingtimes.net privacy policy that was archived on 2007-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071009051830id_/http%3A//www.nursingtimes.net/nursingtimes/pages/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	
@@ -15,7 +15,7 @@
 
 	
 		
-			<link href="/nursingtimes/repository/232623" type="text/css" rel="stylesheet">
+			<link href="/nursingtimes/repository/280048" type="text/css" rel="stylesheet">
 		
 		
 	
@@ -59,8 +59,9 @@
 
 	
 		<!-- START OF SDC Advanced Tracking Code -->
-		<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-		<!-- $DateTime: 2005/12/15 15:37:36 $ -->
+		<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+		<!-- V8.0 -->
+		<!-- $DateTime: 2007/02/16 11:44:56 $ -->
 		<script type="text/javascript"><!--
 		var gService = true;
 		var gTimeZone = 0;
@@ -109,6 +110,16 @@
 			}
 			return null;
 		}
+		function dcsIsFpcSet(name,id,lv,ss){
+			if (id==dcsGetIdCrumb(name,"id")){
+				if (lv==dcsGetCrumb(name,"lv")){
+				   	if (ss=dcsGetCrumb(name,"ss")){
+						return true;
+					}
+				}
+			}
+			return false;
+		}
 		function dcsFPC(offset){
 			if (typeof(offset)=="undefined"){
 				return;
@@ -122,6 +133,7 @@
 			dCur.setTime(dCur.getTime()+adj);
 			var dExp=new Date(dCur.getTime()+315360000000);
 			var dSes=new Date(dCur.getTime());
+			WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 			if (document.cookie.indexOf(name+"=")==-1){
 				if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
 					WT.co_f=gWtId;
@@ -142,8 +154,8 @@
 				if (typeof(gWtAccountRollup)=="undefined"){
 					WT.vt_f_a="1";
 				}
-				WT.vt_f_s="1";
-				WT.vt_f_d="1";
+				WT.vt_f_s=WT.vt_f_d="1";
+				WT.vt_f_tlh=WT.vt_f_tlv="0";
 			}
 			else{
 				var id=dcsGetIdCrumb(name,"id");
@@ -154,8 +166,10 @@
 				}
 				WT.co_f=id;
 				var dLst=new Date(lv);
+				WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
 				dSes.setTime(ss);
 				if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+					WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
 					dSes.setTime(dCur.getTime());
 					WT.vt_f_s="1";
 				}
@@ -167,8 +181,8 @@
 			WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
 			var expiry="; expires="+dExp.toGMTString();
 			document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-			if (document.cookie.indexOf(name+"=")==-1){
-				WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d="";
+			if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
+				WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 				WT.vt_f=WT.vt_f_a="2";
 			}
 		}
@@ -176,7 +190,12 @@
 		// Code section for Use the new first-party cookie generated with this tag.
 		var gFpc="WT_FPC";
 		var gConvert=true;
+
 		
+		
+		
+		var gFpcDom=".nursingtimes.net"; 
+
 		function dcsAdv(){
 			dcsFunc("dcsET");
 			dcsFunc("dcsCookie");
@@ -210,8 +229,9 @@
 	
 	
 	<!-- START OF SmartSource Data Collector TAG -->
-	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-	<!-- $DateTime: 2006/02/24 12:41:04 $ -->
+	<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+	<!-- V8.0 -->
+	<!-- $DateTime: 2007/03/01 14:48:29 $ -->
 	<script type="text/javascript"><!--
 	var gDomain="statse.webtrendslive.com";
 	var gDcsId="dcs404c16erp17jutttvu26pa_7z5h";
@@ -220,7 +240,7 @@
 		document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 	}
 	//-->
-	</script>
+	</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs404c16erp17jutttvu26pa_7z5h/wtid.js"></script>
 	<script type="text/javascript"><!--
 	var gImages=new Array;
 	var gIndex=0;
@@ -230,8 +250,10 @@
 	var gQP=new Array();
 	var gI18n=false;
 	if (window.RegExp){
-		var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-		var I18NRE={"%25":/\%/g};
+		var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+		if (gI18n){
+			var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
+		}
 	}
 	
 	function dcsVar(){
@@ -250,17 +272,18 @@
 			WT.jo=navigator.javaEnabled()?"Yes":"No";
 		}
 		if (document.title){
-			WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
+			WT.ti=document.title;
 		}
 		WT.js="Yes";
 		WT.jv=dcsJV();
 		if (document.body&&document.body.addBehavior){
 			document.body.addBehavior("#default#clientCaps");
-			if (document.body.connectionType){
-				WT.ct=document.body.connectionType;
-			}
+			WT.ct=document.body.connectionType||"unknown";
 			document.body.addBehavior("#default#homePage");
 			WT.hp=document.body.isHomePage(location.href)?"1":"0";
+		}
+		else{
+			WT.ct="unknown";
 		}
 		if (parseInt(navigator.appVersion)>3){
 			if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
@@ -301,13 +324,14 @@
 				WT.le=document.characterSet;
 			}
 		}
+		WT.tv="8.0.3";
 		WT.sp="@@SPLITVALUE@@";
 		DCS.dcsdat=dCurrent.getTime();
 		DCS.dcssip=window.location.hostname;
+		DCS.dcsuri=window.location.pathname;
 		
 	
 		// customisation starts here
-		DCS.dcsuri='PrivacyPolicy';
 		
 			WT.cg_n = 'Privacy Policy';
 		
@@ -327,7 +351,6 @@
 	
 		if (window.location.search){
 			DCS.dcsqry=window.location.search;
-			DCS.edURI = '' + window.location.search;
 			if (gQP.length>0){
 				for (var i=0;i<gQP.length;i++){
 					var pos=DCS.dcsqry.indexOf(gQP[i]);
@@ -341,19 +364,41 @@
 		}
 		if ((window.document.referrer!="")&&(window.document.referrer!="-")){
 			if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-				DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
+				DCS.dcsref=window.document.referrer;			
 			}
 		}
 	}
 	
 	function dcsA(N,V){
+	if (gI18n&&!EXRE.test(N)){
+		if (N=="dcsqry"){
+			var newV="";
+			var params=V.substring(1).split("&");
+			for (var i=0;i<params.length;i++){
+				var pair=params[i];
+				var pos=pair.indexOf("=");
+				if (pos!=-1){
+					var key=pair.substring(0,pos);
+					var val=pair.substring(pos+1);
+					if (i!=0){
+						newV+="&";
+					}
+					newV+=key+"="+dcsEncode(val);
+				}
+			}
+			V=V.substring(0,1)+newV;
+		}
+		else{
+			V=dcsEncode(V);
+		}
+	}
 		return "&"+N+"="+dcsEscape(V, RE);
 	}
 	
 	function dcsEscape(S, REL){
 		if (typeof(REL)!="undefined"){
 			var retStr = new String(S);
-			for (R in REL){
+		for (var R in REL){
 				retStr = retStr.replace(REL[R],R);
 			}
 			return retStr;
@@ -370,9 +415,6 @@
 	function dcsCreateImage(dcsSrc){
 		if (document.images){
 			gImages[gIndex]=new Image;
-			if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-				gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-			}
 			gImages[gIndex].src=dcsSrc;
 			gIndex++;
 		}
@@ -390,33 +432,50 @@
 			elems=document.getElementsByTagName("meta");
 		}
 		if (typeof(elems)!="undefined"){
-			for (var i=1;i<=elems.length;i++){
-				var meta=elems.item(i-1);
-				if (meta.name){
-					if (meta.name.indexOf('WT.')==0){
-						WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
-					}
-					else if (meta.name.indexOf('DCSext.')==0){
-						DCSext[meta.name.substring(7)]=meta.content;
-					}
-					else if (meta.name.indexOf('DCS.')==0){
-						DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
-					}
+		var length=elems.length;
+		for (var i=0;i<length;i++){
+			var name=elems.item(i).name;
+			var content=elems.item(i).content;
+			var equiv=elems.item(i).httpEquiv;
+			if (name.length>0){
+				if (name.indexOf("WT.")==0){
+					WT[name.substring(3)]=content;
+				}
+				else if (name.indexOf("DCSext.")==0){
+					DCSext[name.substring(7)]=content;
+				}
+				else if (name.indexOf("DCS.")==0){
+					DCS[name.substring(4)]=content;
+				}
+			}
+			else if (gI18n&&(equiv=="Content-Type")){
+				var pos=content.toLowerCase().indexOf("charset=");
+				if (pos!=-1){
+					WT.mle=content.substring(pos+8);
 				}
 			}
 		}
 	}
+}
 	
 	function dcsTag(){
 		if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
 			return;
 		}
 		var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-		for (N in DCS){
+	for (var N in DCS){
 			if (DCS[N]) {
 				P+=dcsA(N,DCS[N]);
 			}
 		}
+	var keys=["co_f","vt_sid","vt_f_tlv"];
+	for (var i=0;i<keys.length;i++){
+		var key=keys[i];
+		if (WT[key]){
+			P+=dcsA("WT."+key,WT[key]);
+			delete WT[key];
+		}
+	}
 		for (N in WT){
 			if (WT[N]) {
 				P+=dcsA("WT."+N,WT[N]);
@@ -437,7 +496,12 @@
 		var agt=navigator.userAgent.toLowerCase();
 		var major=parseInt(navigator.appVersion);
 		var mac=(agt.indexOf("mac")!=-1);
-		var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+		var ff=(agt.indexOf("firefox")!=-1);
+		var ff0=(agt.indexOf("firefox/0.")!=-1);
+		var ff10=(agt.indexOf("firefox/1.0")!=-1);
+		var ff15=(agt.indexOf("firefox/1.5")!=-1);
+		var ff2up=(ff&&!ff0&&!ff10&!ff15);
+		var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
 		var nn4=(nn&&(major==4));
 		var nn6up=(nn&&(major>=5));
 		var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
@@ -448,7 +512,13 @@
 		var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
 		var op7up=(op&&!op5&&!op6);
 		var jv="1.1";
-		if (nn6up||op7up){
+		if (ff2up){
+			jv="1.7";
+		}
+		else if (ff15){
+			jv="1.6";
+		}
+		else if (ff0||ff10||nn6up||op7up){
 			jv="1.5";
 		}
 		else if ((mac&&ie5up)||op6){
@@ -477,7 +547,7 @@
 	</script>
 	
 	<noscript>
-	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsuuzogd00000gw74bto446y_5g3s/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs404c16erp17jutttvu26pa_7z5h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
 	</noscript>
 	<!-- END OF SmartSource Data Collector  TAG -->	
 
@@ -514,7 +584,7 @@
 			
 			
 			
-				<a href="/nursingtimes/pages/Home"><img src="/nursingtimes/repository/218014" width="170" height="88" border="0" alt=""></a>
+				<a href="/nursingtimes/pages/Home"><img src="/nursingtimes/repository/273035" width="170" height="113" border="0" alt="Comprises nursing jobs, NHS jobs, nursing careers and nurse jobs."></a>
 			
 		
 	</td>
@@ -611,7 +681,7 @@
 <tbody><tr>
 	<td nowrap="nowrap" id="LeftCol">
 		<!-- display current date -->
-		<span class="straplineDate">Sun May 13 13:45:07 BST 2007</span>			
+		<span class="straplineDate">Tue Oct 09 06:18:29 BST 2007</span>			
 	</td>
 	
 	
@@ -658,7 +728,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/Home" title="">
+	  				<a href="/nursingtimes/pages/Home" title="Home - back to Nursing Times home page">
 	  					Home 
 	  				</a>
 				
@@ -680,7 +750,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/Login" title="">
+	  				<a href="/nursingtimes/pages/Login" title="Login for the latest nursing jobs, NHS jobs and nurse information.">
 	  					Login 
 	  				</a>
 				
@@ -718,7 +788,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/HighTrafficJobSearch" title="">
+	  				<a href="/nursingtimes/pages/HighTrafficJobSearch" title="Click here for the latest nursing jobs, nurse jobs and NHS jobs.">
 	  					Jobs 
 	  				</a>
 				
@@ -740,7 +810,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/job/ViewBookmarks.do?pageName=JobBookmarks" title="">
+	  				<a href="/nursingtimes/job/ViewBookmarks.do?pageName=JobBookmarks" title="Click here for your bookmarked NHS jobs, nursing jobs and nurse jobs.">
 	  					Bookmarked jobs 
 	  				</a>
 				
@@ -762,7 +832,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/Register" title="">
+	  				<a href="/nursingtimes/pages/Register" title="Register with Nursing Times for the latest nursing jobs, nurse news and information.">
 	  					Register 
 	  				</a>
 				
@@ -784,7 +854,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/MyNursingTimes" title="My NT">
+	  				<a href="/nursingtimes/pages/MyNursingTimes" title="Click here for My NT - how to personalise this site for nursing jobs and NHS jobs">
 	  					My NT 
 	  				</a>
 				
@@ -806,7 +876,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/job/JobAlertView.do?pageName=JobAlertsView" title="">
+	  				<a href="/nursingtimes/job/JobAlertView.do?pageName=JobAlertsView" title="Click here to sign up to the nursing jobs alert, featuring nurse jobs and NHS jobs.">
 	  					Job Alert 
 	  				</a>
 				
@@ -828,7 +898,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/Editprofile#ca" title="Content Alerts">
+	  				<a href="/nursingtimes/pages/Editprofile#ca" title="Sign up for Nursing Times Content Alerts featuring the latest nurse news, nursing jobs and NHS jobs and more">
 	  					Content Alerts 
 	  				</a>
 				
@@ -850,7 +920,7 @@
 			
 				
 				
-	  				<a href="/nursingtimes/pages/EmailNewsletter" title="Newsletter">
+	  				<a href="/nursingtimes/pages/EmailNewsletter" title="Sign up to Nursing Times newsletter feature NHS jobs, nursing jobs and more.">
 	  					Newsletter 
 	  				</a>
 				
@@ -950,7 +1020,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/HighTrafficJobSearch" class="menulink1" title="Click here for the latest nursing jobs and NHS jobs"><li>Jobs</li></a>
+					<a href="/nursingtimes/pages/HighTrafficJobSearch" class="menulink1" title="Click here for the latest private sector nurse jobs, as well as nursing jobs and NHS jobs"><li>Jobs</li></a>
 				
 			
 			</ul>
@@ -1025,7 +1095,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/NTClinical" class="menulink1" title="NT Clinical and Archive"><li>NT Clinical and Archive</li></a>
+					<a href="/nursingtimes/pages/NTClinical" class="menulink1" title="Nursing Times Clinical and Archive"><li>NT Clinical and Archive</li></a>
 				
 			
 			</ul>
@@ -1075,7 +1145,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/Careers" class="menulink1" title="Everything you need to know about developing nursing careers"><li>Your Career</li></a>
+					<a href="/nursingtimes/pages/Careers" class="menulink1" title="Everything you need to know about developing nursing careers and NHS jobs"><li>Your Career</li></a>
 				
 			
 			</ul>
@@ -1100,7 +1170,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/Communities" class="menulink1" title="Communities"><li>Communities</li></a>
+					<a href="/nursingtimes/pages/Newcommspage" class="menulink1" title="Nursing Times Communities section"><li>Communities</li></a>
 				
 			
 			</ul>
@@ -1125,7 +1195,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/SharingPractice" class="menulink1" title="Sharing Practice"><li>Sharing Practice</li></a>
+					<a href="/nursingtimes/pages/SharingPractice" class="menulink1" title="Nursing Times Sharing Practice section for those in NHS jobs and all other areas of nursing"><li>Sharing Practice</li></a>
 				
 			
 			</ul>
@@ -1150,7 +1220,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/NTEventsandConferences" class="menulink1" title="NT Events and Conferences"><li>NT Events and Conferences</li></a>
+					<a href="/nursingtimes/pages/NTEventsandConferences" class="menulink1" title="Nursing Times Events and Conferences"><li>NT Events and Conferences</li></a>
 				
 			
 			</ul>
@@ -1175,7 +1245,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/NursingTimescampaigns" class="menulink1" title="NT Campaigns"><li>NT Campaigns</li></a>
+					<a href="/nursingtimes/pages/NursingTimescampaigns" class="menulink1" title="Nursing Times Campaigns"><li>NT Campaigns</li></a>
 				
 			
 			</ul>
@@ -1200,7 +1270,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/Offdutyhome" class="menulink1" title="Off Duty"><li>Off Duty</li></a>
+					<a href="/nursingtimes/pages/Offdutyhome" class="menulink1" title="Click here to access Nursing Times free giveaways section"><li>Off Duty</li></a>
 				
 			
 			</ul>
@@ -1225,7 +1295,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/NursingTimessupplements" class="menulink1" title="NT supplements"><li>Supplements</li></a>
+					<a href="/nursingtimes/pages/NursingTimessupplements" class="menulink1" title="Nursing Times clinical supplements"><li>Supplements</li></a>
 				
 			
 			</ul>
@@ -1250,7 +1320,7 @@
 			
 				
 				
-					<a href="/nursingtimes/pages/Handbooks" class="menulink1" title="Handbooks"><li>Handbooks</li></a>
+					<a href="/nursingtimes/pages/Handbooks" class="menulink1" title="Nursing Times handbooks"><li>Handbooks</li></a>
 				
 			
 			</ul>
@@ -1314,25 +1384,22 @@
 	
 	<div class="rightColBlurb">
 		
-		<div class="rightBlurbTxt"><table cellpadding="0" width="100%" border="0" cellspacing="0">
+		<div class="rightBlurbTxt"><table width="100%" cellspacing="0" border="0" cellpadding="0">
       <tbody><tr>
         <td>
-          <img alt="Make this site my homepage" border="0" height="20" src="/nursingtimes/repository/261760" width="15" title="Make this site my homepage"> 
+          <img alt="Make this site my homepage to stay up to date with the latest nurse information" title="Make this site my homepage to stay up to date with the latest nurse information and NHS jobs." src="/nursingtimes/repository/261760" height="20" border="0" width="15"> 
         </td>
         <td>
           &nbsp;
         </td>
         <td>
           <script type="text/javascript">//<!--
-          {document.write("<a href=\"#\" onClick=\"style.behavior='url(#default#homepage)';setHomePage('http://www.nursingtimes.net/nursingtimes/pages/Home');\" class=\"leftnav_end\" title=\"Click here to make this website your hompage\">Make this website<br>my home page</a>");}
+          {document.write("<a href=\"#\" onClick=\"style.behavior='url(#default#homepage)';setHomePage('http://www.nursingtimes.net/nursingtimes/pages/Home');\" class=\"leftnav_end\" title=\"Make this site my homepage to stay up to date with the latest nurse information and NHS jobs.\">Make this website<br>my home page</a>");}
           //-->
-          </script><a href="#" onclick="style.behavior='url(#default#homepage)';setHomePage('http://www.nursingtimes.net/nursingtimes/pages/Home');" class="leftnav_end" title="Click here to make this website your hompage">Make this website<br>my home page</a>
+          </script><a href="#" onclick="style.behavior='url(#default#homepage)';setHomePage('http://www.nursingtimes.net/nursingtimes/pages/Home');" class="leftnav_end" title="Make this site my homepage to stay up to date with the latest nurse information and NHS jobs.">Make this website<br>my home page</a>
         </td>
       </tr>
-    </tbody></table>
-    <p>
-       &nbsp;
-    </p></div>
+    </tbody></table></div>
 	</div>
 
 
@@ -1368,6 +1435,39 @@
 	</a>
 </noscript>
 </iframe>
+
+
+
+
+	
+
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	<div class="rightColBlurb">
+		
+		<div class="rightBlurbTxt"><p>
+      <a href="/nursingtimes/pages/JobAlertsView"><img alt="Click here to sign up to the nursing jobs alert for the latest nurse jobs, and NHS jobs." vspace="5" hspace="10" height="90" width="120" border="0" src="/nursingtimes/repository/280941" title="Click here to sign up to the nursing jobs alert for the latest nurse jobs, and NHS jobs."></a>
+    </p></div>
+	</div>
+
+
 
 
 
@@ -1680,7 +1780,7 @@
 	<div class="rightColBlurb">
 		
 		<div class="rightBlurbTxt"><p>
-       <a href="/nursingtimes/pages/ClinicalArchive"><img alt="Click here to search for clinical articles" title="Click here to search for clinical articles" hspace="25" height="97" src="/nursingtimes/repository/261354" width="90" border="0"></a>
+       <a href="/nursingtimes/pages/ClinicalArchive"><img alt="Click here to search for nurse specific clinical nursing articles" title="Click here to search for nurse specific clinical nursing articles" hspace="25" src="/nursingtimes/repository/261354" height="97" border="0" width="90"></a>
     </p></div>
 	</div>
 
@@ -1707,11 +1807,11 @@
 		<td class="rightMenuTxt">NT Poll Vote</td>
 	</tr>	
 	<tr>
-		<td class="rightMenuSmlTxt"><div align="left"><b>Are GPs getting paid for nurses’ work?</b></div></td>
+		<td class="rightMenuSmlTxt"><div align="left"><b>Does the saucy nurse image offend you?</b></div></td>
 	</tr>
 	<tr>
 		<td align="right">
-			<a href="#" title="Click here to vote for this issue" class="rightmenulink1" onclick="openWindow('/nav?page=nt.vote&amp;resource=6776845',800,400)"><img src="/nursingtimes/images/b_vote.gif" height="16" width="47" align="right" border="0" alt="Click here to vote for this issue"></a>
+			<a href="#" title="Click here to vote for this issue" class="rightmenulink1" onclick="openWindow('/nav?page=nt.vote&amp;resource=7012282',800,400)"><img src="/nursingtimes/images/b_vote.gif" height="16" width="47" align="right" border="0" alt="Click here to vote for this issue"></a>
 		</td>
 	</tr>
 	<tr>
@@ -1721,47 +1821,6 @@
 		<td>&nbsp;</td>
 	</tr>
 </tbody></table>
-	
-
-    
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	<div class="rightColBlurb">
-		
-		<div class="rightBlurbTxt"><p align="left">
-       <a href="/nursingtimes/pages/Productiveward"><img width="80" height="108" src="/nursingtimes/repository/263185" alt="Productive Ward" hspace="25" title="Productive Ward" align="left" border="0"></a><br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-       <strong><a href="/nursingtimes/pages/Productiveward">Click here</a></strong> <strong>to access &nbsp;&nbsp;&nbsp;Productive Ward</strong>
-    </p></div>
-	</div>
-
-
-
-
-
-
 	
 
     
@@ -1817,8 +1876,16 @@
 	
 	<div class="rightColBlurb">
 		
-		<div class="rightBlurbTxt"><p>
-       <a href="http://petitions.pm.gov.uk/nursespayrise/" target="_blank"><img hspace="10" border="0" title="Sign the petition by clicking here" alt="Sign the petition by clicking here" height="146" src="/nursingtimes/repository/262774" width="125"></a>
+		<div class="rightBlurbTxt"><p align="left">
+       <a href="/nursingtimes/pages/Productiveward"><img alt="Productive Ward: detailed information on nursing." hspace="25" border="0" title="Productive Ward: detailed information on nursing" src="/nursingtimes/repository/263185" align="left" height="108" width="80"></a><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+       <a href="/nursingtimes/pages/Productiveward"><strong>Click here</strong></a> <strong>to access &nbsp;&nbsp;&nbsp;Productive Ward: Releasing Time to Care</strong>
     </p></div>
 	</div>
 
@@ -1887,7 +1954,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/Help" title="">
+	  			<a href="/nursingtimes/pages/Help" title="Need help: Click here for help using Nursing Times">
 	  				Help 
 	  			</a>
 			
@@ -1900,20 +1967,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/ContactUs" title="">
-	  				Contact Us 
-	  			</a>
-			
-		
-		 | 
-		
-	
-
-	
-		
-			
-			
-	  			<a href="/nursingtimes/pages/GuideToNT" title="Guide to Nursing Times">
+	  			<a href="/nursingtimes/pages/GuideToNT" title="A guide to Nursing Times for those in nursing jobs or nurse students">
 	  				Guide to Nursing Times 
 	  			</a>
 			
@@ -1926,7 +1980,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/RelatedLinks" title="Related Links">
+	  			<a href="/nursingtimes/pages/RelatedLinks" title="Links a nurse will find useful">
 	  				Related Links 
 	  			</a>
 			
@@ -1939,7 +1993,7 @@
 		
 			
 			
-	  			<a href="http://www.ntdiscounts.com/ " title="NT Discounts">
+	  			<a href="http://www.ntdiscounts.com/ " title="Discounts for nurses and those working in nursing">
 	  				NT Discounts 
 	  			</a>
 			
@@ -1952,7 +2006,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/Shop" title="Shop">
+	  			<a href="/nursingtimes/pages/Shop" title="Nursing Times shop">
 	  				Shop 
 	  			</a>
 			
@@ -1965,7 +2019,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/TermsAndConditions" title="">
+	  			<a href="/nursingtimes/pages/TermsAndConditions" title="Nursing Times terms and conditions">
 	  				Terms And Conditions 
 	  			</a>
 			
@@ -1978,7 +2032,7 @@
 		
 			
 			
-	  			<a href="/nursingtimes/pages/PrivacyPolicy" title="">
+	  			<a href="/nursingtimes/pages/PrivacyPolicy" title="Nursing Times privacy policy">
 	  				Privacy Policy 
 	  			</a>
 			
@@ -2016,7 +2070,7 @@
 <table id="MastBottom" cellpadding="0" cellspacing="0" summary="Bottom navigation and legal information">
 
 <tbody><tr>
-	<td align="center" class="legaltxt">Copyright Sun May 13 13:45:07 BST 2007 Emap PLC - all rights reserved.</td>
+	<td align="center" class="legaltxt">Copyright Tue Oct 09 06:18:29 BST 2007 Emap PLC - all rights reserved.</td>
 </tr>
 <tr>	
 	<td align="center" class="legaltxt">Your use of this Web site is subject to our legal <a href="/nursingtimes/pages/TermsAndConditions" class="legallink" title="Click here for Terms &amp; Conditions">Terms &amp; Conditions</a>. Your privacy is protected in accordance with our <a href="/nursingtimes/pages/PrivacyPolicy" class="legallink" title="Click here for Privacy &amp; Cookie Policy">Privacy Policy</a>.</td>
