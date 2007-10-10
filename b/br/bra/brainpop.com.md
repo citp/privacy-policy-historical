@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123809id_/http%3A//www.brainpop.com/support/privacy_policy.weml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011012706id_/http%3A//www.brainpop.com/support/privacy_policy.weml) for the most accurate reproduction.*
 
 # BrainPOP - Health, Science, Technology, Math, English Animation and Educational Site for Kids.
 
