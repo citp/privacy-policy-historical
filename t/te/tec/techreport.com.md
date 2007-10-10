@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626134209id_/http%3A//techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010143749id_/http%3A//www.techreport.com/privacypolicy.x) for the most accurate reproduction.*
 
-# The Tech Report
-
-[](https://web.archive.org/)
-
-[](https://web.archive.org/reviews/)
-
-[Five flavors of Intel's P35 Express compared](https://web.archive.org/reviews/2007q2/p35-mobos/index.x?pg=1)  
-  
-[Intel's Core 2 Duo E6750 processor](https://web.archive.org/reviews/2007q2/core2duo-e6750/index.x?pg=1)  
-  
-[Western Digital's Caviar SE16 750GB hard drive](https://web.archive.org/reviews/2007q2/wd-caviar-750/index.x?pg=1)  
-  
-[AMD's Athlon X2 BE-2350 processor](https://web.archive.org/reviews/2007q2/athlon-x2-be2350/index.x?pg=1)  
-  
-[Intel's 'V8' media creation platform](https://web.archive.org/reviews/2007q2/intel-v8/index.x?pg=1)  
-  
-[GeForce 8600 series graphics cards compared](https://web.archive.org/reviews/2007q2/geforce-8600s/index.x?pg=1)  
-  
-[Intel's P35 Express chipset](https://web.archive.org/reviews/2007q2/intel-p35/index.x?pg=1)  
-  
-**[More...](https://web.archive.org/reviews/)** | 
+# Privacy policy - The Tech Report
 
 The Tech Report's Privacy Policy  
 The Tech Report, LLC has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for http://techreport.com. 
@@ -58,28 +38,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 The Tech Report, LLC  
 1322 SE Princeton Drive  
-Lee’s Summit, MO 64081  
+Lee's Summit, MO 64081  
 USA  
 damage@techreport.com  
 
-
-| 
-
-  
-
-
-[Poll: Do you play games on your PC or console(s)?](https://web.archive.org/redir_comments.x?id=12722)  
-  
-[Intel's Core 2 Duo E6750 processor](https://web.archive.org/redir_comments.x?id=12737)  
-  
-[Saturday science subject: Space tourism](https://web.archive.org/redir_comments.x?id=12680)  
-  
-[Vista Home Basic is a no go for virtualization](https://web.archive.org/redir_comments.x?id=12723)  
-  
-[Quake Wars will have in-game ads](https://web.archive.org/redir_comments.x?id=12706)  
-  
-[Analysts think AMD could pull out of manufacturing](https://web.archive.org/redir_comments.x?id=12698)  
-  
-[First Vista Service Pack may face delays](https://web.archive.org/redir_comments.x?id=12729)  
-  
-**[More...](https://web.archive.org/)**
