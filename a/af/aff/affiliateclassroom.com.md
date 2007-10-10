@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliateclassroom.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628234932id_/http%3A//www.affiliateclassroom.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateclassroom.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011013915id_/http%3A//www.affiliateclassroom.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Affiliate Classroom - www.affiliateclassroom.com
+# Affiliate Classroom Privacy Policy
 
 ## **Affiliate Classroom, Inc. Privacy Policy**
 
@@ -49,7 +49,7 @@ Affiliate Classroom provides you with the ability to review, correct and delete 
 
 
 
-If you have any questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20070628234932id_/http%3A//www.affiliateclassroom.com/contactus.php) or via email at: privacy@affiliateclassroom.com.
+If you have any questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20071011013915id_/http%3A//www.affiliateclassroom.com/contactus.php) or via email at: privacy@affiliateclassroom.com.
 
 This Privacy Policy was last updated: April 1, 2006  
 This Privacy Policy is effective as of: April 1, 2006
