@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629174846id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010062855id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
@@ -71,9 +71,13 @@
 >
 >> a. Our Contractors
 > 
-> We contract with other companies (credit card processors, shippers, sweepstakes promoters, website developers) to provide certain services to Orvis to fulfill orders, provide sweepstakes and create our website. In some instances, these contractors may have access to personally identifiable information but they contractually obligated to maintain the confidentiality of the information and to use it only for purposes of carrying out Orvis business.
+> We contract with other companies (credit card processors, shippers, sweepstakes promoters, website developers and others) to provide certain services to Orvis to fulfill orders, provide sweepstakes and create or maintain our website. In some instances, these contractors may have access to personally identifiable information but they contractually obligated to maintain the confidentiality of the information and to use it only for purposes of carrying out Orvis business.
 > 
-> These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Orvis.
+> These companies are usually prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Orvis. For example, when you submit a “product review” to the Orvis website, your information will be received and managed by an independent contractor that organizes the reviews and manages that element of the Orvis website. Before you submit a review, you should review the “Terms of Use” and “Standards for Reviews” that are linked on the Orvis website so that you can understand the terms and conditions for acceptance and use of your information. 
+> 
+> In some instances, you may choose to deal with some of these contractors directly and provide your personal information to them. In those instances, you should check the privacy policies on their independent websites to make sure you are willing to have your personal information handled to your satisfaction.
+> 
+> For example, when you make a purchase from Orvis with a credit card, you may choose to use an independent card processor, such as Google Checkout, or a particular form of credit, such as Bill Me Later (“BML”). When these or similar choices are available, you will be notified about the option of checking their respective privacy policies, which will govern the collection and use of personal information that you give to them directly. 
 >
 >> b. Third Parties
 > 
@@ -120,14 +124,6 @@
 > 
 > Occasionally we provide links on our web site to other sites we think you will enjoy. These sites operate independently of Orvis and have established their own privacy and security policies. Orvis does not have any control over these sites’ privacy practices. For the best online experience, we strongly encourage you to review these policies at any site you visit.
 > 
-> **Internet Advertisements**
-> 
-> We use third-party service providers to serve ads on our behalf across the Internet and to analyze the visits those ads bring to our website. They may collect anonymous information about your visits to our Web site, and your interaction with our ads, but this information cannot identify you as an individual. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about visits you or others made to this and other Web sites so that we can provide the most effective advertisements about our goods and services.
-> 
-> No personally identifiable information about you is collected in this process. We may share anonymous information with this service provider in an aggregate form, for purposes of analysis of and improvement to our site.
-> 
-> If you would like more information about the practices of such third party providers and to know your choices about not having this information used by our third-party advertiser, visit <http://www.nextaction.net/Privacy/>.
-> 
 > **Security**
 > 
 > It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
@@ -140,8 +136,13 @@
 > 
 > **Policy Changes**
 > 
-> From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically. This policy was last updated on June 17, 2005. 
+> From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically. This policy was last updated on September 7, 2007. 
 > 
 > **Questions or Comments?**
 > 
-> For questions, comments or assistance, we invite you to contact us at our address at the beginning of this policy. 
+> For questions, comments or assistance, we invite you to contact us:
+> 
+> The Orvis Company  
+>  Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012  
+>  888-235-9763  
+>  [customerservice@orvis.com](mailto:customerservice@orvis.com)
