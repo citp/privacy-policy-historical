@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627075716id_/http%3A//www.thelaw.com/faqs/site-legal-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010092218id_/http%3A//www.thelaw.com/faqs/site-legal-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # TheLaw.com - Free Legal Advice from Lawyers & Attorneys - Privacy Policy
 
