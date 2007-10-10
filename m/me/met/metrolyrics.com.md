@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018012650id_/http%3A//www.metrolyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011005750id_/http%3A//www.metrolyrics.com/privacy.html) for the most accurate reproduction.*
 
 # MetroLyrics: Privacy Statement for MetroLyrics and MetroPosts
 
@@ -81,6 +81,10 @@ MetroLyrics is committed to protecting the security of your personal information
 You must type the correct password to access your MetroLyrics information. It is your responsibility to ensure the security of your MetroLyrics account password and not to reveal this information to others. 
 
 Personal information collected by MetroLyrics may be stored and processed in Canada, the United States or any other country in which MetroLyrics or its affiliates, subsidiaries, or agents maintain facilities. By using the MetroLyrics Service, you consent to any such transfer of information outside of your country. 
+
+## LYRICS COPYRIGHT
+
+Lyrics posted in metrolyrics.com database are either copyrighted or in public domain. Lyrics may be in public domain if their owners decided to make them available to public, or if lyrics are old enough to become public domain. Most of the lyrics however are not in the public domain. Lyrics posted on metrolyrics.com are copyright of their rightfull owners. We receive lyrics directly from Labels, Independent Artists, and from site visitors. All lyrics are posted in our database unless specifically requested by rightfull copyright owners not to include them in our database. We believe that there is mutual interest to all parties to have lyrics posted in metrolyrics.com. Music listeners do not make decission not to purchase a song if they have read the lyrics. On the contrary, they may decide to purchase the song if they liked lyrics. Labels and artsists get more exposure to their work, and more sales as direct result of content posted on metrolyrics.com. There is a link from all lyrics pages to purchase music CD from amazon.com, contributing directly to hundreds of CDs purchased with referals from metrolyrics.com. Some label companies, realizing the value of MetroLyrics, provide lyrics to their newest releases or debute artists to get maximum exposure in short time. If you hold the publishing rights to any music and would like to include lyrics in our database, please contact us to grant a license for inclusion. We will pay you for the lyrics inclusion in our database. We are actively pursuing labels, music publishers, and lyrics copyright holders to license their lyrics for inclusion in our database. If on the other hand, you see lyrics in our database that you hold licensing rights for AND DO NOT WANT THEM INCLUDED in our database, contact us to exclude the lyrics from the database. 
 
 ## USE OF COOKIES
 
