@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205115120id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldpueblotraders.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010094519id_/http%3A//www.oldpueblotraders.com/pagebuilder/Security) for the most accurate reproduction.*
 
 # Old Pueblo Traders: Security Policy
 
