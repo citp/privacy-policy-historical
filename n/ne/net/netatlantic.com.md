@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netatlantic.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622163833id_/http%3A//www.netatlantic.com/about/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netatlantic.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011012822id_/http%3A//www.netatlantic.com/about/policies.html) for the most accurate reproduction.*
 
 # Net Atlantic Privacy Policy - Email Marketing, Web Hosting, SMS Technology
 
@@ -12,7 +12,7 @@ Employees and personnel of Net Atlantic who have access to a client's personally
 
 Spam Policy
 
-Net Atlantic does not tolerate spam (unsolicited email) of any kind. Any list owner sending spam will have their list terminated. Report any violation to [Abuse](mailto:abuse@netatlantic.com), or use the [Abuse Report Form](https://web.archive.org/web/20070622163833id_/http%3A//www.netatlantic.com/main/abuse.html). When reporting spam violations please be sure to include all message headers with the email message when you forward it to us. 
+Net Atlantic does not tolerate spam (unsolicited email) of any kind. Any list owner sending spam will have their list terminated. Report any violation to [Abuse](mailto:abuse@netatlantic.com), or use the [Abuse Report Form](https://web.archive.org/web/20071011012822id_/http%3A//www.netatlantic.com/main/abuse.html). When reporting spam violations please be sure to include all message headers with the email message when you forward it to us. 
 
 Net Atlantic fully supports the following anti-spam organizations.
 
@@ -24,4 +24,4 @@ Net Atlantic fully supports the following anti-spam organizations.
 
 [http://www.abuse.net](http://www.abuse.net/) \- Network Abuse Clearinghouse
 
-Also see our [Terms of Service](https://web.archive.org/web/20070622163833id_/http%3A//www.netatlantic.com/about/terms.html)
+Also see our [Terms of Service](https://web.archive.org/web/20071011012822id_/http%3A//www.netatlantic.com/about/terms.html)
