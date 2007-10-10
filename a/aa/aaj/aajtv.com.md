@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aajtv.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426073958id_/http%3A//www.aaj.tv/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aajtv.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010022837id_/http%3A//www.aaj.tv/privacy_statement.php) for the most accurate reproduction.*
 
 # AAJ TV : Pakistan's Premier Channel : Privacy Statements
 
