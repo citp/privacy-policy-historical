@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224213id_/http%3A//navicat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010164536id_/http%3A//www.navicat.com/privacy.html) for the most accurate reproduction.*
 
 # Navicat (Privacy Policy) - the Most Popular MySQL Front End for Windows and Mac OS X
 
@@ -20,5 +20,5 @@ At this Site, there may be links to companies with whom we have a relationship. 
 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
-If you have any questions about any of these practices, please feel free to [ [contact us]](https://web.archive.org/web/20070630224213id_/http%3A//navicat.com/contact.php3).   
+If you have any questions about any of these practices, please feel free to [ [contact us]](https://web.archive.org/web/20071010164536id_/http%3A//www.navicat.com/contact.php3).   
 
