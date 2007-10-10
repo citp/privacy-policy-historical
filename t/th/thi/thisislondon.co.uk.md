@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609055839id_/http%3A//www.thisislondon.co.uk/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010094506id_/http%3A//www.thisislondon.co.uk/privacy.do) for the most accurate reproduction.*
 
 # Privacy policy | This is London
 
