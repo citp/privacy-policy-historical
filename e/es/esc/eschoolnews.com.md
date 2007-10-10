@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218151457id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010050753id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # eSchool News online
 
