@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the imeem.com privacy policy that was archived on 2007-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616073910id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imeem.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011015824id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	imeem! - Privacy
-</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><link id="ctl00_MainCSSLink" rel="stylesheet" href="http://www.imeem.com/resources/css/main.css?v1.35"><script type="text/javascript">djConfig = { isDebug: false, baseScriptUri:"/resources/js/dojo-0.4.2/" };</script><script src="http://resources.imeem.com/resources/js/dojo-0.4.2/dojo.js" type="text/javascript" language="javascript" charset="utf-8"></script></head>
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><link id="ctl00_MainCSSLink" rel="stylesheet" href="http://www.imeem.com/resources/css/main.css?v1.61"><script type="text/javascript">djConfig = { parseWidgets:false, isDebug: false, baseScriptUri:"/resources/js/dojo-0.4.2/" };</script><script src="http://resources.imeem.com/resources/js/dojo-0.4.2/dojo.js" type="text/javascript" language="javascript" charset="utf-8"></script></head>
 
 <body>
-<!-- SRV0103-30 -->
+<!-- SRV0103-22 -->
 
 
 	<script type="text/javascript">
@@ -50,6 +50,9 @@
 			floatingWindow.setContent("<iframe src='/dialogs/login.aspx?url=" + redirectURL + forceLogin + forceType + "' frameborder='0' width='323px' height='" + height + "px' marginwidth='0' marginheight='0'></iframe>");
 			
 			floatingWindow.show();
+			try {
+				hideVideo();
+			} catch (e) { }
 		}
 		
 		function openSignup(redirectURL, ra, typeOfSignup) {
@@ -87,79 +90,106 @@
 			+ "<iframe src='" + url + "' frameborder='0' width='420px' height='505px' marginwidth='0' marginheight='0'></iframe>");
 			
 			floatingWindow.show();
+			
+			try {
+				hideVideo();
+			} catch (e) { }
 		}	
 				
 		function closeFloatingWindow()
 		{
 			floatingWindow.hide();
+			
+			try {
+				showVideo();
+			} catch (e) { }
 		}
+		
+		
 		
 		//-->
 	</script>
 
-	<div style="display:none;">
-	  <form id="searchbox_003030445444575434502:ozsdyqtfvfa" action="">
-		<input type="hidden" name="cx" value="003030445444575434502:ozsdyqtfvfa">
-		<input type="hidden" name="cof" value="FORID:11">
-		<input type="hidden" name="iq" id="siq" value="">
-		<input type="hidden" name="f" id="sf" value="">
-		<input name="q" type="text" size="40" id="sbi">
-		<input type="submit" name="sa" value="Search">
-		<img src="http://www.google.com/coop/images/google_custom_search_smnar.gif" alt="Google Custom Search">
-	  </form>
-	</div>
 
-	<div id="Topbar">
-		<div id="TopbarContent">
-			<div style="float:left;text-align:left;">
-				<a href="http://www.imeem.com/" title="Open imeem home."><img alt="logo" class="Logo" src="http://resources.imeem.com/resources/graphics/logo_tag.gif"></a>
-			</div>
-			<div id="TopRightLinks" style="float:right;">
-				
-				<a href="http://www.imeem.com/upload/" title="Upload content to imeem!">upload</a>
-				<a href="https://www.imeem.com/friendinvite/" title="Invite people to imeem!">invite</a>
-				
-				<a href="https://www.imeem.com/login.aspx" title="Login to imeem.">login</a>
-				
-			</div>
-			<div style="clear:both;"></div>
-			<div style="float:left;">
-				<div id="NavigationArea">
-					<ul style="float:left;" id="NavigationBar">
-						<li class="NoDropdown"><a href="http://www.imeem.com/playlists/">playlists</a></li>
-						<li class="NoDropdown"><a href="http://www.imeem.com/music/">music</a></li>
-						<li class="NoDropdown"><a href="http://www.imeem.com/videos/">video</a></li>
-						<li class="NoDropdown"><a href="http://www.imeem.com/photos/">photos</a></li>
-						<li class="NoDropdown"><a href="http://www.imeem.com/groups/">groups</a></li>
-						
-					</ul>
-					<a id="ctl00_NewSignupLink" title="Sign up with imeem!" class="SignupLink" href="https://www.imeem.com/createaccount.aspx"></a>
-					
+<script type="text/javascript">
+function showRecHelp()
+{
+	showDialog({
+		title: "imeem Recommendations",
+		text: "Click on the music, video or person icons to see imeem<br/> recommendations based on your media tastes.<br/><br/>The more <a href=\"http://www.imeem.com/friendinvite/\" target=\"_blank\">friends</a> you have the better your recommendations will be."
+	});
+	
+	return false;
+}
+
+function deleteRedirectCookie(url,domain)
+{
+	dojo.io.cookie.setCookie("loginredirect",0,0,"/",domain,0);
+	window.location = url;
+}
+</script>
+
+	<div id="TopBlackBar">
+		<div class="TopbarContent">
+			<table width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td valign="middle" align="left" width="120px">
+						<a href="http://www.imeem.com/" title="Open imeem home."><img alt="logo" src="http://resources.imeem.com/resources/graphics/nav/logo.gif"></a>
+					</td>
+					<td valign="bottom" align="left">
+						<div style="padding-bottom:1px;">
+							
+							<span class="TopNavigationTab" id="TopPlaylistTab"><a href="http://www.imeem.com/playlists/">Playlists</a></span>
+							<span class="TopNavigationTab" id="TopMusicTab"><a href="http://www.imeem.com/music/">Music</a></span>
+							<span class="TopNavigationTab" id="TopVideoTab"><a href="http://www.imeem.com/videos/">Video</a></span>
+							<span class="TopNavigationTab" id="TopCommunityTab"><a href="http://www.imeem.com/community/polls">Community</a></span>
+						</div>
+					</td>
+					<td valign="bottom" align="right" class="TopNavRightLinks">
+						<div style="padding-bottom:3px;">
+							<div style="float:right;padding-top:16px;">
+								
+								<a href="http://www.imeem.com/upload/" title="Upload content to imeem!">upload</a>
+								
+								<a href="https://www.imeem.com/login.aspx" title="Login to imeem.">login</a>
+								
+							</div>
+							
+							<div style="float:right;">
+							<a id="ctl00_NewSignupLink" title="Sign up with imeem!" class="SignupLink" href="https://www.imeem.com/createaccount.aspx"></a>
+								
+							</div>
+							<div style="clear:both;"></div>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+	<div id="TopGreyBar">
+		<div class="TopbarContent" style="padding-top:6px;.padding-top:4px;">
+			<form onsubmit="return false;">
+				<div style="float:left;padding-top:1px;padding-left:10px;">
+					<span style="font-size:12px;float:left;">see recommended (<a href="#" onclick="return showRecHelp();">?</a>):</span> <a class="RecommendationIcon" style="background-image:url('/resources/graphics/icons/music_random_icon.gif');" href="javascript:openLogin();"></a><a class="RecommendationIcon" style="background-image:url('/resources/graphics/icons/tv_random_icon.gif');" href="javascript:openLogin();"></a><a class="RecommendationIcon" style="background-image:url('/resources/graphics/icons/people_random_icon.gif');" href="javascript:openLogin();"></a>
 				</div>
-			</div>
-			<div style="float:right;">
-				<div id="SearchArea">
-					<form onsubmit="return false;">
-						<input name="ctl00$TopSearchBox" type="text" id="ctl00_TopSearchBox" class="SearchBox" onfocus="this.select()" style="width: 180px;">
-						<select name="ctl00$TopSearchFilter" id="ctl00_TopSearchFilter" class="SearchFilter">
+				<div style="float:right;">
+					<input name="ctl00$TopSearchBox" type="text" id="ctl00_TopSearchBox" class="SearchBox" onfocus="this.select()" style="width: 200px;">
+					<select name="ctl00$TopSearchFilter" id="ctl00_TopSearchFilter" class="SearchFilter">
 	<option value="">Everything</option>
 	<option value="photos">Photos</option>
-	<option value="albums">Albums</option>
 	<option value="videos">Videos</option>
 	<option value="music">Music</option>
 	<option value="blogs">Blogs</option>
 	<option value="groups">Groups</option>
 	<option value="people">People</option>
 	<option value="playlists">Playlists</option>
-	<option value="web">Web</option>
 </select>
-						<input type="button" value="Search" style="margin-left:4px;" onclick="initiateTagSearch(dojo.byId(ctl00_TopSearchBox).value, dojo.byId('ctl00_TopSearchFilter').value);">
-					</form>
+					<input type="button" class="SearchButton" value="Search" onclick="initiateTagSearch(dojo.byId(ctl00_TopSearchBox).value, dojo.byId('ctl00_TopSearchFilter').value);">
 				</div>
-			</div>
-			<div style="clear:both;"></div>
+			</form>
 		</div>
 	</div>
+			
 
 	<div id="Container">
 		<div id="FeaturedProfileHeader">
@@ -169,11 +199,13 @@
 		
 		<div id="Content">
 			<form name="aspnetForm" method="post" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkU8upmsY28ERH1RdEo00+jrqEV3M=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZORxvlMLYJ7+by3LGIFRLOVwVzo/">
 
 
-<script src="http://resources.imeem.com/resources/js/utility.js?v=1.2" type="text/javascript"></script>
-<script src="http://resources.imeem.com/resources/js/menu.js?v1" type="text/javascript"></script>
+<script src="http://resources.imeem.com/resources/js/utility.js?v=1.7" type="text/javascript"></script>
+<script src="http://resources.imeem.com/resources/js/menu.js?v1.1" type="text/javascript"></script>
+<script src="http://resources.imeem.com/resources/js/dialog.js?v1.6" type="text/javascript"></script>
+<script src="http://resources.imeem.com/resources/js/unlink.js?v1" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 document.cookie = "timezone=" + escape(new Date().getTimezoneOffset()/60) + "; domain=.imeem.com";// -->
@@ -280,7 +312,7 @@ San Francisco, CA 94107<br>
 
 				<div class="Break"></div>
 			
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLV0dzICwKczYioAQLIg454DhYFU4xnpJmlYfps6UqP0LgyeCU="></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKOxorAAgKczYioAQLIg454jaQwdQDx5crBh91GnOg/ATTHTiI="></form>
 		</div>
 	
 	<div id="ctl00_PanelNav">
@@ -292,22 +324,20 @@ San Francisco, CA 94107<br>
 					<form onsubmit="return false;">
 						<table class="SearchFieldContainer" cellpadding="0" cellspacing="0" border="0" style="padding-bottom:.75em;">
 							<tbody><tr>
-								<td><input name="ctl00$BottomSearchBox" type="text" id="ctl00_BottomSearchBox" onfocus="this.select()" class="SearchBox"></td>
+								<td><input name="ctl00$BottomSearchBox" type="text" id="ctl00_BottomSearchBox" onfocus="this.select()" class="SearchBox" style="width:200px"></td>
 								<td>
 									<select name="ctl00$BottomSearchFilter" id="ctl00_BottomSearchFilter" class="SearchFilter" style="margin-left:3px;">
 		<option value="">Everything</option>
 		<option value="photos">Photos</option>
-		<option value="albums">Albums</option>
 		<option value="videos">Videos</option>
 		<option value="music">Music</option>
 		<option value="blogs">Blogs</option>
 		<option value="groups">Groups</option>
 		<option value="people">People</option>
 		<option value="playlists">Playlists</option>
-		<option value="web">Web</option>
 	</select>
 								</td>
-								<td style="padding-left:10px;"><input type="button" value="Search" onclick="initiateTagSearch(dojo.byId('ctl00_BottomSearchBox').value, dojo.byId('ctl00_BottomSearchFilter').value);"></td>
+								<td style="padding-left:3px;"><input type="button" class="SearchButton" value="Search" onclick="initiateTagSearch(dojo.byId('ctl00_BottomSearchBox').value, dojo.byId('ctl00_BottomSearchFilter').value);"></td>
 							</tr>
 						</tbody></table>
 					</form>
@@ -319,7 +349,8 @@ San Francisco, CA 94107<br>
 					<a href="http://www.imeem.com/terms.aspx">Terms of Use</a>|
 					<a href="http://www.imeem.com/guidelines.aspx">Community Rules</a>|
 					<a href="http://www.imeem.com/privacy.aspx">Privacy</a>|
-					<a href="http://www.imeem.com/developers.aspx">Developers</a>|
+					
+					<a href="http://imeemblog.imeem.com">Blog</a>|
 					<a href="http://www.imeem.com/jobs/">Jobs</a>|
 					<a href="http://www.imeem.com/faq/">Help</a>
 				</td>
@@ -338,7 +369,8 @@ San Francisco, CA 94107<br>
 
 <script type="text/javascript">
 <!--
-dojo.event.connect(window, "onload", function (e) {
+dojo.event.connect(window, "onload", function (e)
+{
 	if (dojo.byId("ctl00_TopSearchBox")) {
 		dojo.event.connect(dojo.byId("ctl00_TopSearchBox"), "onkeypress", function (e)
 		{
@@ -396,42 +428,28 @@ function initiateTagSearch(tag, filter)
 	if (!isTagIISFriendly(tag)) {
 		url = 'http://www.imeem.com/tag/?q=' + normalizedTag + "&f=" + filter;
 	}
-
-	if (filter == "web")
-	{
-		dojo.byId("sbi").value = tag;
-		
-		if (!isTagIISFriendly(tag))
-		{
-			dojo.byId("sf").value = "web";
-			dojo.byId("siq").value = tag;
-		}
-		
-		dojo.byId("searchbox_003030445444575434502:ozsdyqtfvfa").action = url;
-		dojo.byId("searchbox_003030445444575434502:ozsdyqtfvfa").submit();
-	}
-	else
-	{
-		top.location = url;
-	}
+	
+	top.location = url;
 }
 //-->
 </script>
 
 
-<script src="http://resources.imeem.com/resources/js/s_code.js" language="javascript"></script>
+<script src="http://resources.imeem.com/resources/js/s_code.js?v1.2" language="javascript"></script>
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName=""
+s.pageName="Management : Privacy Policy"
 s.server=""
-s.channel=""
+s.channel="Management"
 s.pageType=""
 s.prop1=""
 s.prop2=""
 s.prop3=""
-s.prop4=""
+s.prop4="Logged Out"
 s.prop5=""
+s.prop6=""
+s.prop7=""
 /* E-commerce Variables */
 s.campaign=""
 s.state=""
