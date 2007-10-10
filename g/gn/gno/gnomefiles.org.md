@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomefiles.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615064843id_/http%3A//www.osnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomefiles.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011012001id_/http%3A//www.osnews.com/privacy.php) for the most accurate reproduction.*
 
 # OSNews.com
 
