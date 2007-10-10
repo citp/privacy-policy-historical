@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617030015id_/http%3A//shopping.com/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011001423id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
 # Shopping.com - Shopping made simple
 
