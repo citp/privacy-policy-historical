@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redferret.net privacy policy that was archived on 2007-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070424183612id_/http%3A//www.redferret.net/%3Fpage_id%3D6142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redferret.net privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010020748id_/http%3A//www.redferret.net/%3Fpage_id%3D6142) for the most accurate reproduction.*
 
 # Our Privacy Policy - The Red Ferret Journal
 
