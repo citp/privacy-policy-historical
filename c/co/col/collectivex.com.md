@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collectivex.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408144757id_/http%3A//www.collectivex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectivex.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011004916id_/http%3A//www.collectivex.com/privacy) for the most accurate reproduction.*
 
-# CollectiveX - Unleash your hidden Network!
+# CollectiveX - Create a Groupsite for sharing and keeping your group connected!
 
 CollectiveX is a group communication and networking platform. This policy describes the types of personal and/or group information we may collect and how we use it to provide the CollectiveX.com ("CollectiveX") service. The information that we collect is used to improve the content of our Web pages and the quality of our service and is not shared with or sold to other organizations for commercial purposes, except to provide products or services under the terms of this agreement.
 
