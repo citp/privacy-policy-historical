@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317004134id_/http%3A//www.citimortgage.com/Mortgage/Home.do%3Fpage%3Dprivacy%26td%3Did19103814%7C1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citimortgage.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010094928id_/http%3A//www.citimortgage.com/Mortgage/Home.do%3Fpage%3Dprivacy%26td%3Did19111997%7C1) for the most accurate reproduction.*
 
 # CitiMortgage.com – Home Mortgage Loans - Help : Privacy
 
