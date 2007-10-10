@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelotto.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112118id_/http%3A//www.freelotto.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelotto.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011004557id_/http%3A//www.freelotto.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # FREELOTTO - Privacy Pledge
 
