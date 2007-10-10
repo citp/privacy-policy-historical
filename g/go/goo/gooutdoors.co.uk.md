@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608002441id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010031032id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
 # GO Outdoors | Privacy Policy
 
@@ -29,4 +29,4 @@ The personal information which we hold will be held securely in accordance with 
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20070608002441id_/http%3A//www.gooutdoors.co.uk/contact-us). 
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20071010031032id_/http%3A//www.gooutdoors.co.uk/contact-us). 
