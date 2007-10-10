@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menmachine.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629065304id_/http%3A//www.menmachine.com/index.aspx%3Fpg%3DBottomContent1%26DisPge%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menmachine.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011004817id_/http%3A//menmachine.com/index.aspx%3Fpg%3DBottomContent1%26DisPge%3DPrivacy) for the most accurate reproduction.*
 
 # MenMachine.com
 
