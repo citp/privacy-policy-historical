@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601153557id_/http%3A//apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011164601id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Apartments for rent - ApartmentFinder.com
 
