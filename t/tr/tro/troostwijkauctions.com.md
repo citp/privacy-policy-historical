@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518073636id_/http%3A//www.troostwijkauctions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011100654id_/http%3A//www.troostwijkauctions.com/privacy.aspx) for the most accurate reproduction.*
 
 # Troostwijk Veilingen en Taxaties
 
@@ -44,17 +44,11 @@ Troostwijk Veilingen reserves the right to make amendments to this Privacy State
   
 _ © Troostwijk Veilingen January 2007_  
   
-| 11 Private treaty sales  
----  
-AGRI-, LOONWERK- EN GRONDVERZETMACHINES [NL]  
-Various agriculture machines  
-UBS LEASING AG [CH]  
-Paper working machines  
-SLUIS GROEP NV [NL]  
-Autom. Transport Carrier System  
-View all  
-  
-| 25/4/2007   
+|  | 25/4/2007   
 De Eendracht in top 10 Insolvencies in 2006   
-[Read more](https://web.archive.org/web/20070518073636id_/http%3A//www.troostwijkauctions.com/news.aspx?ID=223&itemDetails=49)  
+[Read more](https://web.archive.org/web/20071011100654id_/http%3A//www.troostwijkauctions.com/news.aspx?ID=223&itemDetails=49)  
+---  
+| 15/2/2007   
+Sale of the complete plant for DVD/CD production to Middle East.   
+[Read more](https://web.archive.org/web/20071011100654id_/http%3A//www.troostwijkauctions.com/news.aspx?ID=223&itemDetails=44)  
 ---
