@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607181939id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032102id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to BIOVEA
 
