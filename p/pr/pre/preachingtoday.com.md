@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506123853id_/http%3A//www.preachingtoday.com/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011072715id_/http%3A//preachingtoday.com/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PreachingToday.com
 
@@ -34,7 +34,7 @@ Personally identifiable information will be used for the purposes for which it w
 You can visit and browse CTI's websites without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself for the purposes described below.
 
 **E-mail Newsletters**  
-CTI offers free e-mail newsletters. We gather e-mail addresses of users who voluntarily subscribe. Subscribers may change their subscribed e-mail address, opt-out of receiving special e-mailed offers, or remove themselves from any mailing list by following the instructions contained in every newsletter.
+When you request a free e-mail newsletter from us, we will collect and store your e-mail address to provide you with the requested newsletter. We may also send you occasional special offers and information from CTI and other select sources we think would be of interest to you. You may change your subscribed e-mail address, opt-out of receiving special e-mailed offers, or remove yourself from any mailing list by following the instructions contained in every newsletter. We do not rent, sell, or exchange your e-mail address with any third party except to provide the services you request or as required by law (see "Other Entities" section below).
 
 **Requests for Magazines, Products or Services**  
 When you request a magazine, product, or service from us, we will collect and store your name, address, credit card number, and other basic personally identifiable information to provide you with the requested product or service and for billing purposes. We may also offer you, by direct mail, products from CTI and other select sources we think would be of interest to you.
@@ -46,13 +46,12 @@ We occasionally rent our customer list (not including e-mail addresses) to other
 
 _Opting Out of Third Party Direct Marketing:_ After receiving the product or service requested, you may "opt-out" of receiving Third Party Direct Marketing offers by sending an e-mail stating your request to opt-out along with your complete name, mailing address, and the name of the CTI magazine, product, or service you have received. This information is necessary so we can accurately process your request.
 
-  * Magazines: [CTIFulfill@ChristianityToday.com](mailto:CTIFulfill@ChristianityToday.com)
-  * Products & Services: [Store@ChristianityToday.com](mailto:Store@ChristianityToday.com)
+  * Magazines: [CTIFulfill@ChristianityToday.com](mailto:CTIFulfill@ChristianityToday.com)  
+
+  * Products & Services: [Store@ChristianityToday.com](mailto:store@ChristianityToday.com)  
 
 
 
-**Chat and Message Boards**  
-We collect the e-mail addresses of those who register for our chat and message boards to activate and manage their registrations. Subscribers' e-mail addresses automatically become accessible to message board visitors as a standard feature of the WebCrossing software. If you prefer not to have your e-mail publicly available, log-in as soon as you confirm your registration and click the "Preferences" button to change or delete your e-mail address.
 
 **Surveys**  
 CTI occasionally conducts reader surveys to better target content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share with any third party information collected via surveys about specific individuals.
@@ -88,16 +87,18 @@ CTI's Internet sites are general audience sites, and CTI does not knowingly coll
 How to Update Your Information
 
 **E-mail Newsletters**  
-You may subscribe and unsubscribe to our newsletters by going to [www.ChristianityToday.com/go/nltool](http://lists.christianitytoday.com:8080/#reloaded). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
+You may subscribe and unsubscribe to our newsletters by going to [www.ChristianityToday.com/go/nltool](http://www.christianitytoday.com/go/nltool). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
 **Magazines, Products or Services**  
 Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:
 
-  * Magazines: go to [this page](http://www.christianitytoday.com/help/features/contact.html#mag) and click on the appropriate magazine
+  * Magazines: go to [this page](https://web.archive.org/help/features/contact.html#mag) and click on the appropriate magazine
   * Products & Services: send your request to [Store@ChristianityToday.com](mailto:Store@ChristianityToday.com)
-  * PreachingToday.com: [click here](https://web.archive.org/help/contactus.html) to send your request
+  * PreachingToday.com: [click here](http://www.preachingtoday.com/help/contactus.html) to send your request
   * ChristianityTodayLibrary.com: [click here](http://ctlibrary.com/help/contact.html) to send your request
   * ChurchSiteCreator.com: [click here](http://churchsitecreator.com/templates/cuscti/details.asp?id=27256&PG=Contact) to send your request
+  * ChurchLawToday.com: [click here](http://www.churchlawtoday.com/contact.php) to send your request
+  * ReducingTheRisk.com: [click here](http://www.reducingtherisk.com/contact.php) to send your request
 
 
 
@@ -107,6 +108,6 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI
 **Updates to Privacy Policy**  
 From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.
 
-The Privacy Policy posted on this site was updated on or about February 22, 2005.
+The Privacy Policy posted on this site was updated on or about August 13, 2007.
 
-CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](http://www.christianitytoday.com/help/features/webmaster.html).
+CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/help/features/webmaster.html).
