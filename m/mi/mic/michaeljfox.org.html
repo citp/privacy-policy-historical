@@ -1,221 +1,281 @@
-<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2007-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070208070820id_/http%3A//www.michaeljfox.org/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011060221id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1">
+	
+		<title>The Michael J. Fox Foundation for Parkinson's Research
+		
+		
+			- Privacy Policy
+		
+		</title>
+	
+	<meta name="description" content="For The Michael J. Fox Foundation, there is one clear measure of success: delivering patients better treatments and, ultimately, a cure for Parkinson's disease.">
+	<meta name="keywords" content="Michael J. Fox, Michael J. Fox Foundation, research organization, Parkinson, Parkinsons, Parkinson's disease, Parkinson's, Parkinson's research, Neurology, Nonprofit organization, Movement disorder, Advocacy, fundraisers, cure, science, Genetics, Dopamine, Neuron, Dyskinesia, Levodopa, Stem cell, Biomarker, research, Fox, Michael, Neuroprotective, Animal Models, Alpha-Synuclein, LRRK2, Mitochondrial dysfunction, Lewy bodies,  Gene therapy, Neuroimaging, Cell replacement, Stem cells, Trophic factors, Clinical trials, Exercise, Symptoms, Dopa-non-responsive, non-motor symptoms, speech disorders, Dyskinesia, protein handling, pesticides, Serotonin, Basal Ganglia, Regenerative, Neuropharmacology, Parkin, GDNF, Postural instability, Antioxidents, Neuroimaging, Epidemiology, Complications, PD Subtypes, Nurr1, Environment, Antioxidents, Test in models, grant, funding, Team Fox, treatment, tremor, PD, patient, caregiver, diagnosis, donate, donation, efficiency, translational focus, clinical research, fellowships, understanding disease, MJFF, Parkinson's in the news, open funding programs, awarded grants, PDGene, tools, resources, therapeutic approaches">
+	<link rel="stylesheet" type="text/css" href="_styles.css" media="Screen">
+	<link rel="stylesheet" type="text/css" href="_styles_handheld.css" media="handheld">
+	<link rel="alternate stylesheet" type="text/css" href="_styles_large.css" title="largeFont" disabled="">
+	<link rel="stylesheet" type="text/css" href="_styles_print.css" media="print">
+	
+	
+	
+	<script src="_scripts.js" type="text/javascript"></script>
+	<script src="_styleSwitcher.js" type="text/javascript"></script>
+	<noscript>
+		<div id="noscript">
+			Javascript is required for this site to function correctly.<br />
+			Please enable Javascript support.
+		</div>
+	</noscript>
+	
+	
+	<script type="text/javascript" src="ajax/core/prototype.js"></script>
+	<script type="text/javascript" src="ajax/core/suggest.js"></script>
+	<script type="text/javascript" src="ajax/core/engine.js"></script>
+	<script type="text/javascript" src="ajax/core/util.js"></script>
+	<script type="text/javascript" src="ajax/core/settings.js"></script>
+	
+	<script type="text/javascript">
+	//<![CDATA[
+	var _cfscriptLocation = "_ajax_glossary.cfm";
+	var dataLookup1 = new Suggest(); 
+	var dataLookup2 = new Suggest(); 
+	
+	var searchString = "";
+	
+	function getData(qry)
+	{
+	searchString = qry;
+	DWREngine._execute(_cfscriptLocation, null, 'getDataList', searchString, getDataResult);
+	}
+	
+	function getDataResult(dataArray) {
+	
+		var key = Array();
+		var value = Array();
+		
+		for (i=0; i<dataArray.length; i++) {
+			key[i] = dataArray[i]['KEY'];
+			value[i] = dataArray[i]['VALUE'];
+		}
+		strQuery = selectedSuggestObject.name + '.showQueryDiv("' + searchString + '", key , value)';
+		eval (strQuery);
+	}
+	
+	function onInit() {
 
-<title>
-Privacy Policy</title>
+		dataLookup1.setListStyle("listStyle");
+		dataLookup1.setListItemStyle("listItemStyle");
+		dataLookup1.setListItemKey("listItemKey");
+		dataLookup1.setListItemValue("listItemValue");
+		//this is jacking with select boxes in IE so disable for now.
+		dataLookup1.setListWidth("173px");
+		dataLookup1.setShowKey(false);
+		dataLookup1.setQueryFieldHolds(1);
+		dataLookup1.InitQueryCode('dataLookup1','flddataLookup1')
+		
+		
+		
+		onSuggestFieldFocus(dataLookup1);
+	}
+	
+	//must have this in order for this ajax to work
+	window.onload=function(){
+			onInit()
+	}
+	//]]>
+	</script>
+</head>
 
-<meta name="keywords" content="Michael J. Fox, Parkinson, Parkinsons, Parkinson's disease, Parkinson's research, Neurology, Nonprofit organization, Movement disorder, Advocacy, fundraisers, cure, Genetics, Dopamine, Neuron, Dyskinesia, Levodopa, Stem cell, Biomarker, research, Fox, Michael"> 
+<body>
+<div id="mainContainer">
+<a name="top"></a>
 
-<meta name="description" content="The Michael J. Fox Foundation for Parkinson's Research is a nonprofit organization dedicated to ensuring the development of a cure for Parkinson's disease through an aggressively funded research agenda."> 
+	
+	<div id="header">
+		<div id="logo">
+			<a href="index.cfm"><img src="images/logo_mjff.gif" width="327" height="54" alt="The Michael J. Fox Foundation for Parkinson's Research" title="The Michael J. Fox Foundation for Parkinson's Research"></a>
+		</div>
+		<div id="search">
+			<form action="search.cfm" method="post">
+			<input id="flddataLookup1" name="flddataLookup1" value="" autocomplete="off" onfocus="onSuggestFieldFocus(dataLookup1)" class="searchText"> <input type="submit" value="Search" class="searchButton">
+			</form>
+		</div>
+		<div id="utilNav">
+			<ul id="utilNavbar">
+				<li id="unav1"><a href="index.cfm" title="Home"><span class="navText">Home</span></a></li>
+				<li id="unav2"><a href="https://donate.michaeljfox.org/NETCOMMUNITY/SSLPage.aspx?&amp;pid=202&amp;srcid=202" title="Donate Now"><span class="navText">Donate Now</span></a></li>
+				<li id="unav3"><a href="newsEvents.cfm" title="News &amp; Events"><span class="navText">News &amp; Events</span></a></li>
+				<li id="unav4"><a href="http://donate.michaeljfox.org/NETCOMMUNITY/Page.aspx?&amp;pid=230&amp;srcid=192" title="Email Sign Up"><span class="navText">Email Sign Up</span></a></li>
+				<li id="unav5"><a href="#" onclick="changeTextSize(); return false;" title="Text Size"><span class="navText">Text Size</span></a></li>
+			</ul>
+		</div>
+		
+		<br clear="all">
+		
+		
+		<div id="navArea">
+			<ul>
+				<li class="nav1"><a id="item1" href="about.cfm" title="About the Foundation"><span class="navText">About the Foundation</span></a></li>
+				<li class="nav2"><a id="item2" href="research.cfm" title="Research Programs"><span class="navText">Research Programs</span></a></li>
+				<li class="nav3"><a id="item3" href="living.cfm" title="Living With Parkinson's"><span class="navText">Living With Parkinson's</span></a></li>
+				<li class="nav4"><a id="item4" href="help.cfm" title="How You Can Help"><span class="navText">How You Can Help</span></a></li>
+			</ul>
+			<div class="clear"></div>
+			
+		</div>
+		
+	</div>
+	
+	
+	
+	
+	<div id="bodyArea">
+		
+		<div class="USLP_contentArea">
+			
+			
+			<h1 class="pageheader"><img src="images/pageheader_privacyPolicy.gif" width="141" height="19" alt="Privacy Policy" title="Privacy Policy"></h1>
+			
+			<div class="USLP_content contactus">
+								
+									
+									
+									
+									<p>The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site.</p>
+									
+									<p>The Foundation is the sole owner of and the only organization that uses the information collected on this site. We will not sell, share, or rent this information to others under any circumstances.</p>
+									
+									
+									<p><strong>"Cookies"</strong><br>
+									
+									Other than the specific instances outlined in this policy, the Foundation does not collect personal information about users or how they use the site. The Foundation also does not use the information-tracking devices made possible through "cookies," small pieces of data that may be sent to your Web browser from a server and stored on your computer's hard drive.</p>
+									
+									
+									<p><strong>Online Donations</strong><br>
+									
+									The Foundation collects the following information through our secure online financial-transaction pages: name, address, e-mail address, phone number, and credit card information. This personally identifiable information is used to acknowledge receipt of your donation for tax purposes and to include you on the Foundation's mailing list if you choose to join it.</p>
+									
+									<p>When you send a donation in honor or in memory of someone and request that an acknowledgement be sent to another individual or a family, we will use the name and address of that individual or family for acknowledgement purposes only.</p>
+									
+									
+									<p><strong>Mailing List</strong><br>
+									
+									The Foundation provides a separate online form to join our mailing list. The information we collect includes: name, address, e-mail address, and phone number. This information is securely stored internally and accessed only when we correspond with our mailing list periodically during the year, either via e-mail or regular mail.</p>
+									
+									<p>Please contact us directly by regular mail if at any time you wish to be removed from the mailing list or if you would like to correct or change the personal information you have previously provided. To protect your privacy and security, we will take certain steps to verify your identity before granting access to your information or making corrections. Callers will be asked specific questions, including full name, address, phone number, and, if applicable, credit card numbers and/or expiration date, in order to verify their identity and protect the privacy of the Foundation's donors and members of its mailing list.</p>
+									
+									
+									<p><strong>Links to Other Web Sites</strong><br>
+									
+									The Foundation's site includes links, some temporary and some permanent, to other Web sites. We are not responsible for the privacy and security practices of any other Web site or the nature of the content contained therein.</p>
+									
+									
+									<p><strong>Children's Privacy</strong><br>
+									
+									None of the content and information in the Foundation's Web site is targeted toward children under 13 years of age. We make every effort possible to ensure that we do not collect or maintain information on our Web site from those we know to be younger than 16 unless parental consent has been obtained in writing.</p>
+									
+									
+									<p><strong>Changes to This Policy</strong><br>
+									
+									In the event that the Foundation decides to alter its privacy policy, the changes will be added directly to this statement. We will, however, always use information in accordance with the version of the privacy policy under which it was originally collected.</p>
+									
+									
+									<p><strong>Contact Us</strong><br>
+									
+									If you have specific questions or concerns about the Foundation's privacy policy, please contact us at the following address:</p>
+									
+									   <p class="indentedCopy">
+										The Michael J. Fox Foundation for Parkinson's Research<br>
+										Church Street Station<br>
+									    P.O. Box 780<br>
+									    New York, NY 10008-0780
+										</p>
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									<div class="footerUtil">
+	<a href="#" onclick="javascript:print();"><img src="images/footerUtil_printPage.gif" width="109" height="14" alt="Print This Page" title="Print This Page"></a>
+	<img src="images/footerUtil_divider.gif" width="1" height="19" alt="">
+	
+	
+	<a href="javascript:void(0);" onclick="emailThisPage('michaeljfox.org/privacyPolicy.cfm');"><img src="images/footerUtil_emailPage.gif" width="111" height="14" alt="Email This Page" title="Email This Page"></a>
+	
+</div>
 
-<base href="http://www.michaeljfox.org/">
+					
+			
+					
+				<div class="clear"></div>
+				
+			</div>
+			
+		</div>
+		
+		
+	</div>
+	
+	
+	
+	
+<div id="footer">
+	<div id="copyright">
+		Copyright © 2007 The Michael J. Fox Foundation for Parkinson's Research
+	</div>
+	<div id="footerNav">
+		<a href="sitemap.cfm">Site Map</a>
+		<a href="contactUs.cfm">Contact Us</a>
+		<a href="privacyPolicy.cfm">Privacy Policy</a>
+		<a href="termsAndConditions.cfm">Terms and Conditions</a>
+	</div>
+</div>
 
-<!-- <script src="http://www.michaeljfox.org/script.js"></script> -->
 
-<script language="JavaScript">
-<!-- POPUP WINDOW
+</div>
 
-function windowPop(url,name,features) 
-          {
-          window.open(url,name,features);
-          }
-//-->
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1794727-1";
+urchinTracker();
 </script>
 
-<link rel="stylesheet" href="style.css" type="text/css"></head>
 
+<!-- Added to possibly fix a bug with IE7 Main Landing Pages -->
+<style>
+.landingPgCallout1,
+.landingPgCallout2,
+.landingPgCallout3,
+.landingPgCallout4,
+.landingPgCallout5,
+.landingPgCallout6,
+.landingPgCallout7,
+.landingPgCallout8,
+.landingPgCallout9			{position:relative; display:block; margin:0 23px 14px 37px; padding:12px 19px 8px 19px; width:273px;}
+/* Left Side */
+.landingPgCallout1,
+.landingPgCallout3,
+.landingPgCallout5,
+.landingPgCallout7,
+.landingPgCallout9			{float:left; display:inline;}
+/* Right Side */
+.landingPgCallout2,
+.landingPgCallout4,
+.landingPgCallout6,
+.landingPgCallout8			{margin-left:379px;}
+</style>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#990000" vlink="#990000" alink="#990000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-  <!-- TOP NAV - START -->
-  <tbody><tr> 
-    <td width="50%" height="100%" rowspan="3" background="images/back_bars2.gif" bgcolor="#660000"><img src="images/spacer.gif" width="1" height="1"></td>
-    <td width="1" rowspan="3" bgcolor="#000000"><img src="images/spacer.gif" width="1" height="200"></td>
-    <td width="800" height="1" align="center" valign="top">
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-<form action="http://search.freefind.com/find.html" method="GET" target="_self"></form><input type="HIDDEN" name="id" size="-1" value="53684027">
- <tbody><tr> 
-    <td width="359" height="86" rowspan="2" align="right" valign="top"><a href="http://www.michaeljfox.org/"><img src="images/top_logo.jpg" width="359" height="86" border="0"></a></td>
-    <td width="158" height="86" rowspan="2" align="left" valign="top"><img src="images/top_midbar.jpg" width="158" height="86"></td>
-      <td width="283" height="54" colspan="2" align="right" valign="middle" background="images/top_rightbar.jpg"> 
-        <input type="HIDDEN" name="id" size="-1" value="53684027">
-		<input type="HIDDEN" name="pid" size="-1" value="r">
-		<input type="HIDDEN" name="mode" size="-1" value="ALL">
-		<input type="HIDDEN" name="n" value="0">
-		<input type="TEXT" name="query" size="12" maxlength="50" value="Enter search">
-    	<input type="submit" name="Submit" value="Submit">
-        &nbsp;&nbsp;&nbsp;&nbsp; </td>
-  </tr>
-  <tr> 
-    <td width="81" height="32" align="left" valign="top"><a href="help/index.php"><img src="images/top_donate.jpg" width="81" height="32" border="0"></a></td>
-    <td width="202" height="32" align="left" valign="top"><a href="javascript:windowPop('http://www.michaeljfox.org/sendtofriend.php?pageurl=/privacypolicy.php','sendtofriend','width=400,height=400,location=no,directories=no,toolbar=no,resizable=no,status=no,scrollbars=no')"><img src="images/top_emailfriend.jpg" width="202" height="32" border="0"></a></td>
-  </tr>
-  
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td bgcolor="#000000"><img src="images/spacer_blk.gif" width="800" height="1"></td>
-  </tr>
-</tbody></table>
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#CCCCCC"> 
-    <td width="8"><img src="images/spacer.gif" width="8" height="20"></td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="research/index.php">Research</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="news/index.php">News&nbsp;and&nbsp;Events</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="foundation/index.php">About&nbsp;the&nbsp;Foundation</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="help/index.php">How&nbsp;to&nbsp;Help</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="parkinsons/index.php">About&nbsp;Parkinson's</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="community/index.php">Community&nbsp;Information</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="michael/index.php">About&nbsp;Michael</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="1" bgcolor="#CCCCCC" class="top_nav">&nbsp;&nbsp;<a href="jobs/index.php">Jobs</a>&nbsp;&nbsp;</td>
-    <td width="1" bgcolor="#000000"><img src="images/spacer_blk.gif" width="1" height="8"></td>
-    <td width="100%"><img src="images/spacer.gif" width="8" height="20"></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td bgcolor="#000000"><img src="images/spacer_blk.gif" width="800" height="1"></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td align="center" bgcolor="#000000"><img src="images/spacer_blk.gif" width="800" height="1"></td>
-  </tr>
-</tbody></table></td>
-    <td width="1" rowspan="3" bgcolor="#000000"><img src="images/spacer.gif" width="1" height="200"></td>
-    <td width="50%" height="100%" rowspan="3" background="images/back_bars2.gif" bgcolor="#660000"><img src="images/spacer.gif" width="1" height="1"></td>
-  </tr>
-  <!-- TOP NAV - END -->
-  <!--MAIN CONTENT - START -->
-  <tr> 
-    <td width="800" height="1" align="center" valign="top"> 
-      <table width="800" border="0" align="center" cellpadding="0" cellspacing="12">
-        <tbody><tr> 
-          <td align="left" valign="top"><span class="page_head">PRIVACY POLICY</span><span class="nav_where"><br>
-            &nbsp;<a href="http://www.michaeljfox.org/">Home</a> / <a href="privacypolicy.php">Privacy Policy</a></span> <br>
-            <br>
-            <br>
-            The Michael J. Fox Foundation for 
-                    Parkinson's Research is committed to safeguarding your privacy. 
-                    This statement explains our online information practices and 
-                    the choices you can make about the way the information you 
-                    provide us is collected and used. For easy and direct access, 
-                    we provide a link to this statement from our home page and 
-                    all other pages of the site.
-					<br><br>
-					The Foundation is the sole owner 
-                    of and the only organization that uses the information collected 
-                    on this site. We will not sell, share, or rent this information 
-                    to others under any circumstances.
-					<br>
-            <br>
-            <br>
-                  <span class="mid_head">"Cookies"</span>
-                  <br><br>Other than the specific instances outlined 
-                    in this policy, the Foundation does not collect personal information 
-                    about users or how they use the site. The Foundation also 
-                    does not use the information-tracking devices made possible 
-                    through "cookies," small pieces of data that may be sent to 
-                    your Web browser from a server and stored on your computer's 
-                    hard drive.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Online Donations</span>
-                  <br><br>The Foundation collects the following information 
-                    through our secure online financial-transaction pages: name, 
-                    address, e-mail address, phone number, and credit card information. 
-                    This personally identifiable information is used to acknowledge 
-                    receipt of your donation for tax purposes and to include you 
-                    on the Foundation's mailing list if you choose to join it.
-					<br><br>
-					When you send a donation in honor or in 
-                    memory of someone and request that an acknowledgement be sent 
-                    to another individual or a family, we will use the name and 
-                    address of that individual or family for acknowledgement purposes 
-                    only.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Mailing List</span>
-                  <br><br>The Foundation provides a separate online 
-                    form to join our mailing list. The information we collect 
-                    includes: name, address, e-mail address, and phone number. 
-                    This information is securely stored internally and accessed 
-                    only when we correspond with our mailing list periodically 
-                    during the year, either via e-mail or regular mail.
-					<br><br>
-					Please contact us directly by regular mail 
-                    if at any time you wish to be removed from the mailing list 
-                    or if you would like to correct or change the personal information 
-                    you have previously provided. To protect your privacy and 
-                    security, we will take certain steps to verify your identity 
-                    before granting access to your information or making corrections. 
-                    Callers will be asked specific questions, including full name, 
-                    address, phone number, and, if applicable, credit card numbers 
-                    and/or expiration date, in order to verify their identity 
-                    and protect the privacy of the Foundation's donors and members 
-                    of its mailing list.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Links to Other Web Sites</span>
-                  <br><br>The Foundation's site includes links, some 
-                    temporary and some permanent, to other Web sites. We are not 
-                    responsible for the privacy and security practices of any 
-                    other Web site or the nature of the content contained therein.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Children's Privacy</span>
-                  <br><br>None of the content and information in 
-                    the Foundation's Web site is targeted toward children under 
-                    13 years of age. We make every effort possible to ensure that 
-                    we do not collect or maintain information on our Web site 
-                    from those we know to be younger than 16 unless parental consent 
-                    has been obtained in writing.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Changes to This Policy</span>
-                 <br><br>In the event that the Foundation decides 
-                    to alter its privacy policy, the changes will be added directly 
-                    to this statement. We will, however, always use information 
-                    in accordance with the version of the privacy policy under 
-                    which it was originally collected.<br>
-            <br>
-            <br>
-                  <span class="mid_head">Contact Us</span>
-                  <br><br>
-            If you have specific questions or concerns about the Foundation's 
-            privacy policy, please contact us at the following address:<br>
-                  <blockquote>
-						The Michael J. Fox Foundation for Parkinson's Research<br>
-Grand Central Station<br>
-P.O. Box 4777<br>
-New York, NY 10163						</blockquote></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <!--MAIN CONTENT - END -->
-  <!-- BOTTOM - START -->
-  <tr> 
-    <td width="800" align="center" valign="top" bgcolor="#999999"> 
-      <table width="100%" height="1" border="0" cellpadding="5" cellspacing="0">
-  <tbody><tr>
-    <td align="center" valign="top" bgcolor="#999999"><span class="bottom1"><a href="http://www.michaeljfox.org/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="foundation/contact.php">Contact 
-      Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacypolicy.php">Privacy&nbsp;Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="termsofuse.php">Terms&nbsp;of&nbsp;Use</a><br>
-      </span> <span class="bottom2">Copyright © 2003 The Michael J. Fox Foundation 
-      for Parkinson’s Research</span> </td>
-  </tr>
-</tbody></table>    </td>
-  </tr>
-  <!-- BOTTOM - END -->
-</tbody></table>
 
 
 </body></html>
