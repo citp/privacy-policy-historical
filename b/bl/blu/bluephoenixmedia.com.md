@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluephoenixmedia.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031202id_/http%3A//bluephoenixmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluephoenixmedia.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011025219id_/http%3A//www.bluephoenixmedia.com/privacy.html) for the most accurate reproduction.*
 
 # Blue Phoenix Media - Privacy Policy
 
