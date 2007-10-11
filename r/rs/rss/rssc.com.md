@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625134849id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044341id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Regent Seven Seas Cruises : Privacy Policy
+# Privacy Policy
 
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have.
 
