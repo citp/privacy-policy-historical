@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209113228id_/http%3A//icims.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011133259id_/http%3A//www.icims.com/content/privacy.asp) for the most accurate reproduction.*
 
-# Recruiting Software | Applicant Tracking Systems (ATS)
+# Recruiting Software | Talent Platform
 
 iCIMS, Inc. has created this privacy statement to demonstrate a commitment to privacy and establish practices to be follow in good faith. The following discloses information gathering and dissemination practices for the iRecruiter Applicant Tracking System.
 
