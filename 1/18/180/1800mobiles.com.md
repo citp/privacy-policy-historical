@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614044543id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061517id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
 | Security and Privacy Statement for 1800Mobiles.com  
-[](http://www.truste.org/ivalidate.php?url=www.1800mobiles.com&sealid=101)   
-[_**Click here to start shopping at 1800mobiles.com for cell phones and accessories !**_](http://www.1800mobiles.com/)
+[](http://www.truste.org/ivalidate.php?url=www.1800mobiles.com&sealid=101)[ _ **Click here to start shopping at 1800mobiles.com for cell phones and accessories !**_](http://www.1800mobiles.com/)
 
 Effective September 22, 2006.
 
