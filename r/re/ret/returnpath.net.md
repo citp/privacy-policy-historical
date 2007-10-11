@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2007-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070312084927id_/http%3A//www.returnpath.net/company/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012003851id_/http%3A//www.returnpath.net/company/privacyPolicy.php) for the most accurate reproduction.*
 
 # Return Path Solutions for Increased Email Delivery, Performance
 
@@ -6,45 +6,32 @@
 
 **Download our Glossary of Email Terms:**
 
-**Download our Corporate Overview:**
-
 |  | 
 
 **Effective December 2003  
 RETURN PATH PRIVACY STATEMENT**
 
-**[](http://www.truste.org/ivalidate.php?url=www.returnpath.net&sealid=101)**
+We know that your privacy is important to you. At Return Path, we're  
+committed to helping you manage and protect it. We take privacy very  
+seriously, and have taken many steps to help safeguard the personal  
+information we collect from you at this Web site.
 
-We know that your privacy is important to you. At Return Path, we're committed to helping you manage and protect it. We take privacy very seriously, and have taken many steps to help safeguard the personal information we collect from you at this Web site.
-
-To demonstrate our commitment, we have agreed to disclose our information practices, and have them reviewed for compliance by TRUSTe and BBBOnLine, a Better Business Bureau program. Return Path is a licensee of the TRUSTe Privacy Program and the BBBOnLine Privacy and Dispute Resolution Program. TRUSTe and BBBOnLine are independent, non-profit organizations whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To that end, our privacy statement will tell you about:
+If you have questions or concerns regarding this statement, you should  
+contact Return Path at [privacy@returnpath.net](mailto:privacy@returnpath.net "Contact us"). Our privacy statement  
+will tell you about:
 
   * The organization collecting information at this Web site. 
   * The information we collect. 
-  * How it is used. 
   * With whom it may be shared. 
-  * What choices you have regarding the use and distribution of this information. 
   * The security procedures in place to protect it. 
-  * How you can correct any inaccuracies in the information. 
 
 
-
-If you have questions or concerns regarding this statement, contact Return Path at [privacy@returnpath.net](mailto:privacy@returnpath.net). If you do not receive acknowledgement of your inquiry or if your inquiry is not satisfactorily addressed, you should contact:
-
-  * [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-  * [BBBOnline](http://www.bbbonline.org/consumer/)
-
-
-
-To read our complete Privacy Statement, Click here.
 
 Thank you for using Return Path.
 
-Sincerely,
-
-Matt Blumberg  
-CEO  
-Return Path, Inc. 
+Sincerely,  
+Matt Blumberg, CEO  
+Tom Bartel, CPO 
 
 **RETURN PATH PRIVACY STATEMENT**  
 
