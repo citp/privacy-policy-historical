@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616042312id_/http%3A//volvooceanrace.org/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011062600id_/http%3A//www.volvooceanrace.org/help/privacy.aspx) for the most accurate reproduction.*
 
-# Volvo Ocean Race 2005 - 2006
+# Volvo Ocean Race 2008 - 2009
 
 ### Data Protection Policy & Terms & Conditions  
 
