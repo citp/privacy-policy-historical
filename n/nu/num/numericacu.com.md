@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224185131id_/http%3A//www.numericacu.com/htm/about_legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061034id_/http%3A//www.numericacu.com/htm/about_legal.php) for the most accurate reproduction.*
 
 # Numerica Credit Union
 
