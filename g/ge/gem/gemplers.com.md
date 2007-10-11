@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629220812id_/http%3A//www.gemplers.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemplers.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011175120id_/http%3A//www.gemplers.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # GEMPLER'S - Privacy and Security
 
@@ -11,7 +11,7 @@ We occasionally make our customer names, addresses (not e-mail addresses), and l
 
 1-800-382-8473 or send us an e-mail at [ customerservice@gemplers.com](mailto:customerservice@gemplers.com).
 
-Visitors are not required to accept cookies in order to shop online or order from GEMPLER'S®, but it will make your shopping experience easier and more enjoyable. Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+Visitors must accept cookies in order to shop online or order from GEMPLER'S®. Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
 We also collect anonymous usage data. We use the usage information to describe in aggregate terms how our website is utilized and navigated, including the number and frequency of visitors to each web page, the date and time of each visit, the duration of each visit, and other non-personally identifiable information.
 
