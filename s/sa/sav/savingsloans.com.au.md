@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2006-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060920015645id_/http%3A//www.savingsloans.com.au/Content.aspx%3Fp%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011111552id_/http%3A//www.savingsloans.com.au/Content.aspx%3Fp%3D36) for the most accurate reproduction.*
 
 # Savings & Loans - Privacy - Privacy and Security
 
@@ -77,4 +77,4 @@ Savings & Loans Credit Union has also made it convenient for you to be removed f
 
 
 
-[Top of page](http://www.savingsloans.com.au/Content.aspx?p=36#top)
+[Top of page](http://savingsloans.com.au/Content.aspx?p=36#top)
