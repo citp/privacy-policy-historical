@@ -1,107 +1,103 @@
-> *The following text is extracted and transformed from the easyweightlosstea.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626212137id_/http%3A//www.easyweightlosstea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweightlosstea.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011150510id_/http%3A//www.easyweightlosstea.com/privacy.php) for the most accurate reproduction.*
 
 # Wu-Yi Source (Privacy Policy)
 
-## Wu-Yi Source Privacy Policy
+## Privacy Policy
 
-Wu-Yi Source (collectively referred to in this Privacy Statement as "we" or "Wu-Yi Source") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our usersâ€™ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Wu-Yi Source. A current list of our publications, web sites, and products can be found at <http://www.wuyisource.com/>.
+Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the Canadian websites operated by us (collectively, our "Website") and our Online Products, and explains how we collect your personal information on our Website, or through our Online Products, how we protect such information, and the choices you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully. Wu-Yi Source will not sell, share, license, trade, or rent your personal information collected on our Website or through our Online Products to others.
 
-## Information Collection and Use
+We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis. By using our Website or any of our products, offerings, features, tools or resources that we provide on our Website (collectively, our "Online Products"), you agree to the terms of this Privacy Policy. 
 
-Wu-Yi Source collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers.
+**Please remember that this Privacy Policy applies only to information collected by our Website.**
 
-## Registration and Ordering
+**WHAT INFORMATION ABOUT ME IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?**  
+We collect two types of information: personally identifiable information and non-personally identifiable information. 
 
-When using some of our websites and signing up for certain selected services (such as archive searches or product ordering), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as hobbies, purchasing habits, and areas of interest ). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes.
+## Non-Personally Identifiable Information.
 
-Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as motherâ€™s maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes.
+When you become a registered user of our Website, subscribe to one of our current Online Products, or in connection with other Online Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you, such as demographic information (like age, profession or gender) and physical information (like current weight) ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. Non-Personally Identifiable Information is used to help us understand the characteristics of people who use our Website and to improve and market our Website in general and our Online Products in particular. In the event that we link any Non-Personally Identifiable Information with Personally Identifiable Information, we will treat such information as Personally Identifiable Information and only use such information in accordance with this Privacy Policy. 
 
-For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for billing purposes only, and is not otherwise shared.
+## Information from Other Sources.
 
-## E-mail Newsletters
+We may also supplement the information we collect with information from other sources to assist us in evaluating and improving our Website and Online Products, to determine your preferences so that we can tailor our Website and Online Products to your needs, and/or to study nutritional, weight-loss, behavioural and fitness questions in general.
 
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
+**WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)?**  
+We may collect information (including information that is Personally Identifiable Information) from you in different manners and at different places and times on our Website, such as when you register for our Website or subscribe to one of our Online Products. We also may collect information from you in connection with, or through, other Online Products we may make available on our Website from time to time. The following is a description of the areas and/or manner in which we primarily collect information about you.
 
-## Surveys and Contests
+## Becoming a Registered User and Subscription.
 
-From time to time we invite users to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or hobby). In addition to other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes, to monitor or improve the use and satisfaction of the site, and may be shared with sponsors of such surveys or contests.
+In order to access certain Online Products on our Website, such as message boards, weight-loss tools and food database, you must first complete certain steps to become either a registered user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as name, postal code and email address, and, if you subscribe to one of our Online Products, credit card and billing information. This information is used to help us understand the characteristics of people who use our Website, to improve our Website and our Online Products, to contact users about requested Online Products and/or for subscription billing purposes. It is optional for you to provide demographic information (such as profession and number of children), but providing this information is encouraged so we can provide a more personalized experience on our Website such as by providing you with information that we think would be of interest to you.
 
-## Interactive Features
+## Cookies and Action Tags.
 
-At some of our sites, we offer interactive and community features such as discussion boards. Note that all personal information sent or posted via such features becomes public information for which we are not responsible.
+We also collect Non-Personally Identifiable Information passively using "cookies" and "action tags." 
 
-## Email This Article
+"Cookies" are small text files that are placed on your computer in order to identify (i) your Web browser (ii) the activities of your computer on our Website and (iii) your activity in connection with our advertisements and other marketing and promotional efforts. Cookies may be used to: 
 
-If users elect to use our referral service for informing a friend about our articles, sites and services, we may ask them for the friend's name and e-mail address. Wu-Yi Source will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the subsequent message to request that no further communications be sent.
+  * personalize your experience on our Website (e.g., to dynamically generate content on web pages specifically designed for you), 
+  * assist you in using our Online Products (e.g., to save you time by not having to reenter your name upon each visit to our Website), and
+  * allow us to statistically monitor how you are using our Website for purposes of improving our online offerings.
 
-## Communications with Us
 
-We have features where users can submit information to us (such as our feedback forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better.
 
-## Communications from Us (Service Updates and Special Offers)
+We also may use cookies to conduct marketing and promotional efforts, tailor certain advertisements to your browser that we think may be of interest to you, or to determine the popularity of certain content. 
 
-In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we may send new members a welcoming message, confirmations on purchases, and verify password and username for our password-protected sites. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail.
+You do not have to accept cookies to use our Website, however, you may not be able to use certain products, offerings, features, or resources of our Website (including our Online Products) if you do not accept cookies. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. 
 
-We offer our users the option to receive information about our company, related products, services and special deals. Users can choose not to receive these communications, as set forth in our Permission section below.
+"Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of our Website, including advertisements, or e-mail sent on our behalf, may contain cookies that are associated with action tags that our located on our Website. Unlike cookies, action tags are not placed on your computer. 
 
-## Automatic Data Collection
+By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Online Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags. 
 
-Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users.
+Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
 
-We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our site through the use of pixel tags (also called clear gifs). The use of cookies and pixels enable us to track and target the interests of our users to enhance the experience on our sites.
+## Referral Programs.
 
-Some of our business affiliates use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information.
+Through third-party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 
-For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use.
-
-We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
-
-## With Whom Your Information Is Shared
-
-When we have co-branded, customized, private label, powered by or sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) personal information with them. We do not share credit card information with such third parties.
-
-On occasion, we may provide targeted lists of names and offline and online? contact information for marketing purposes to third parties, subject to our Permission policies. We give users the option of not having their name or contact information disclosed to third parties, as set forth in the Permission section.
+If you choose to apply to be a referral website, we use the data you provide strictly for conducting business with you. We have entered into certain agreements with third-party program operators for the purpose of administering our referral programs. Should you become a referral website of ours through one of our third-party program operators, any information you provide to them is subject to their privacy policies.
 
 Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission.
 
 We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information.
 
-## Correcting/Updating Personal Information
+**WHAT DO WE DO WITH THE INFORMATION WE COLLECT?**  
+In general, we use the information collected on our Website and through our Online Products to help us understand who uses our Website and Online Products and how they are used, to personalize your experience (such as by providing you with information we think may be of interest to you), to assist you in using our Online Products, to improve our Website and Online Products, and for subscription billing purposes, if applicable.
 
-If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Ogdenâ€™s Customer Service Department for the applicable product or service.
+If you become a registered user of our Website or subscribe to one of our Online Products, we may use your information to send you a welcoming email that may confirm your user name and password. If you "opt-in" we may send you electronic newsletters, contact you about Weight Loss products, services, information and news that may be of interest to you, and provide you with targeted feedback. If you no longer desire to receive these communications, we will provide you with an option to change your preferences. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. We may also use the information collected to send you important service announcements and updates regarding our Website or Online Products or, if you are a subscriber, about your billing account status. You will not be able to unsubscribe from these service announcements and updates as they contain important information relevant to your use of our Website and/or our Online Products. 
 
-## Permission
+We may also use the information gathered on our Website and through our Online Products to perform statistical analysis of user behavior, to analyze and evaluate issues relating to nutrition, weight loss, behavior and fitness, or to evaluate and improve our Online Products. We may link some of this information to Personally Identifiable Information for purposes such as understanding the characteristics of people who use our Website, to improve and market our Website in general and our Online Products in particular or to assist you in your personal weight loss efforts. 
 
-Our users are given the opportunity to choose whether to receive information from our affiliates and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise this choice are contained in e-mails sent by us, on our product websites and in each of our publications. Please note that we will endeavor to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
+**WHEN DO WE DISCLOSE INFORMATION TO THIRD PARTIES?**
 
-## Security
+Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Website.
 
-We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is 128 bit encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
+## Affiliates.
 
-## Purchasing Restrictions
+We may disclose information (including Personally Identifiable Information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliates" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Wu-Yi Source, whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy. We may share your information (including Personally Identifiable Information) with franchisees of Wu-Yi Source but only where we indicate to you at time of information collection that such information will be provided to a franchisee, or if we otherwise obtain your permission. 
 
-Wu-Yi Source does not sell products for purchase by children. If you are under 18, you may use our Web site only with the involvement of a parent or guardian.
+## Laws and Legal Rights.
 
-## Safe Shopping Guarantee
+We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms & Conditions or our Subscription Agreement, or to protect the safety and/or security of our users, our Website or the general public.
 
-Under the Fair Credit Billing Act, a credit card issuer cannot make you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. There are similar federal laws that relate to debit cards. Exceptions do apply, and you will have to comply with rules of you credit card or debit card issuer, so please contact your card issuer for further details.
+## Third Parties Generally.
 
-If through no fault of your own, a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Wu-Yi Source will reimburse you for such amount up to $50.00. Please contact our Customer Service for details.
+We may provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information of other users of our Website. For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of the registered users of our Website, or the activities that visitors to our Website engage in while on our Website. The third parties to which we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
-## Links
+**DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES?**  
+Our Website contains links to other websites not owned or operated by Wu-Yi Source or an Affiliate (for example, if you "click" on a banner advertisement, you will likely be taken off our Website), including links to websites operated by franchisees of Wu-Yi Source. We will attempt to make it obvious to you when you leave our Website and enter these websites by opening a new browser or otherwise notifying you that you are leaving our Website. However, please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware when our Website links to other websites and to read the privacy policies or statements of these websites. This Privacy Policy applies solely to information collected by our Website.
 
-Our web sites contain links to other sites. Wu-Yi Source is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information.
+**IS THE INFORMATION WE COLLECT SECURE?**  
+We want your information (including Personally Identifiable Information) to remain as secure as possible. We strive to provide secure transmission of your information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information you provide to us via the Internet at the time you elect to become a registered user or subscribe to our Online Products, we use Secured Socket Layer (SSL) encryption technology in transmitting such Personally Identifiable Information over the Internet to our servers. We secure the Personally Identifiable Information you provide on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees or agents who need access to your information to perform a specific task or function are granted access to such information. In addition, all Wu-Yi Source employees and agents must abide by this Privacy Policy and are kept up-to-date on security practices. Any employee who violates this Privacy Policy is subject to disciplinary action, up to and including termination.
 
-## Notification and Changes
+Notwithstanding the above commitments to protect your information (including Personally Identifiable Information) from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us.
 
-If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.
+**HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?**  
+If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you, at the time it was collected, we will notify you by email or otherwise, and you will have a choice as to whether or not we use your Personally Identifiable Information in a new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.
 
-For questions about this privacy statement, the practices of this site or any dealings with Wu-Yi Source, contact us at:
+**WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?**
 
-E-mail: [service@wuyisource.com](mailto:service@wuyisource.com)  
-Corporate Communications  
-Wu-Yi Source  
-1302 - 24St West, #350  
-Billings, MT  
-59102  
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at: 
 
+**BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
+
+Last modified as of July 27, 2007
