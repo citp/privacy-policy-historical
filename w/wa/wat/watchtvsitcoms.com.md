@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the watchtvsitcoms.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601162539id_/http%3A//www.watchtvsitcoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtvsitcoms.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041823id_/http%3A//www.watchtvsitcoms.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Watch TV Sitcoms.Com
 
-Privacy Policy for Watch TV Sitcoms.com
+Privacy Policy for WatchTVSitcoms.com
 
-Watch TV Sitcoms.com is committed to the highest standards of privacy. We collect information in order to provide you with better experiences and in order to make our website more efficient.
+WatchTVSitcoms.com is committed to the highest standards of privacy. We collect information in order to provide you with better experiences and in order to make our website more efficient.
 
-All pages on this website is automatically tracked by our servers in order to collect the following information: 
+All pages on this website are automatically tracked by our servers in order to collect the following information: 
 
 -What web pages are visited  
 -How long each user accesses a specific webpage  
@@ -21,6 +21,8 @@ We also track the following personal information, but only when provided by you:
 
 -When you fill out a webform to subscribe to a newsletter, we store your name, e-mail address, and any other information that you have submitted in a password-protected database. This information is only used to provide you with the newsletter.
 
+-When you fill out a webform to register for access to parts of this website that require registration, we store your user ID, e-mail address, date of birth, and IP address in a password-protected database. This information is used to allow you to log-in, and to prevent abuse of the review feature by restricting individuals who post SPAM or chain mail. 
+
 -If you contact us regarding this website, we store the contact information that you have submitted in a password-protected database. This information is only used in order to contact you.
 
 -If you donate money to this website through the donate button, Paypal or Google handles your payment information. We are only provided with your name, e-mail address, and other information that you provide. Such information is kept on a Paypal or Google server and we only use it to verify your payment and provide you with a receipt.
@@ -29,4 +31,4 @@ We also track the following personal information, but only when provided by you:
 
 We do not sell, rent, or otherwise share personal information that you have provided us with any third parties, under any circumstances. We will not provide any identifying information if served with a civil or criminal subpoena.
 
-If you have any questions, please use the contact form by clicking on the [contact](http://www.watchtvsitcoms.com/contact.php) link. 
+If you have any questions, please use the contact form by clicking on the [contact](http://www.watchtvsitcoms.com/contact.php) link.
