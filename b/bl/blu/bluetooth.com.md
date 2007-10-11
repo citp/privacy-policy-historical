@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630161422id_/http%3A//www.bluetooth.com/Bluetooth/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032411id_/http%3A//www.bluetooth.com/Bluetooth/Privacy.html) for the most accurate reproduction.*
 
 # Bluetooth.com | Privacy
 
