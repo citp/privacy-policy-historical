@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627182303id_/http%3A//podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011084224id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # podOmatic Podcast Portal: Create, Find, Share Podcasts!
 
