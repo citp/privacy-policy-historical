@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/showthread.php%3Fp%3D422676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/showthread.php%3Ft%3D36707) for the most accurate reproduction.*
 
 # EntropiaForum Privacy Policy - EntropiaForum
 
 EF Owner  
 Administrator
 
-[](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/member.php?s=56d2f30a93941b116800857e11c114f2&u=9992)
+[](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/member.php?u=9992)
 
 Joined: Aug 06
 
@@ -13,12 +13,12 @@ Gender:  Ingame:
 
 Location: EntropiaForum
 
-Posts: 1,613  
-EFD: 151,089     [Donate](https://web.archive.org/web/20070623113749id_/http%3A//www.entropiaforum.com/forums/vbplaza.php?do=donate&userid=9992)
+Posts: 1,897  
+EFD: 167,094     [Donate](https://web.archive.org/web/20071011134309id_/http%3A//www.entropiaforum.com/forums/vbplaza.php?do=donate&userid=9992)
 
-Fame: 44 
+Fame: 5 
 
-Reputation: Impressive   
+Reputation: Professional   
 Achievements: [2](http://www.entropiaforum.com/forums/search.php?do=process&starteronly=1&searchuser=711&childforums=1&exactname=1&forumchoice\[\]=9)
 
 | 
