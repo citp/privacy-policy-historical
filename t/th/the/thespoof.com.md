@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespoof.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623061357id_/http%3A//www.thespoof.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespoof.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011150243id_/http%3A//www.thespoof.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
@@ -10,7 +10,7 @@ The privacy policy of The Spoof is provided to give you details on how any infor
 
   1. TheSpoof will not use any email address or other contact information without direct permission and will never sell/distribute/use your email address outside of this site.
   2. TheSpoof will make all efforts to ensure any information you have given us will be stored securely.
-  3. Any information we store about you can be requested at any time. Please use the [enquiry form](https://web.archive.org/web/20070623061357id_/http%3A//www.thespoof.com/enquiry.cfm) or contact us directly: [webmaster@thespoof.com](mailto:webmaster@thespoof.com).
+  3. Any information we store about you can be requested at any time. Please use the [enquiry form](https://web.archive.org/web/20071011150243id_/http%3A//www.thespoof.com/enquiry.cfm) or contact us directly: [webmaster@thespoof.com](mailto:webmaster@thespoof.com).
   4. Any information we do store about you is immediately alterable/removeable on-line by yourself and you may unregister for any subscriptions at any time. We do not hold any further information than that which you freely provide.
   5. Cookies are used on this site in order to help us identify you upon return visits but in no way represent a challenge to your online security.
 
