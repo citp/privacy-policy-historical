@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516081215id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011023752id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
 
 # UW Medicine - Notice of Privacy Practices
 
-[](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#maincontent)  
+[](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#maincontent)  
   
 
 
@@ -17,15 +17,15 @@ Effective September 27, 2004
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-* [Overview](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#overview)
-* [The Providers](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#providers)
-* [Protected Health Information](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#phi)
-* [Use and Disclosure of Your Protected Health Information Without Your Authorization ](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#phi2)
-* [Use and Disclosure When You Have the Opportunity to Object](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#object)
-* [Use and Disclosure that Requires Your Authorization](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#requires)
-* [Heightened Confidentiality of Your Patient Health Information](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#Confidential)
-* [Your Individual Rights Regarding Patient Health Information](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#rights)
-* [Privacy Notice Changes](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#privacy)
+* [Overview](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#overview)
+* [The Providers](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#providers)
+* [Protected Health Information](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#phi)
+* [Use and Disclosure of Your Protected Health Information Without Your Authorization ](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#phi2)
+* [Use and Disclosure When You Have the Opportunity to Object](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#object)
+* [Use and Disclosure that Requires Your Authorization](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#requires)
+* [Heightened Confidentiality of Your Patient Health Information](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#Confidential)
+* [Your Individual Rights Regarding Patient Health Information](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#rights)
+* [Privacy Notice Changes](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#privacy)
 
 * * *
 
@@ -33,7 +33,7 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 We recognize our responsibility for safeguarding the privacy of your health information. This Notice provides information regarding use and disclosure of protected health information by UW Medicine, Seattle Cancer Care Alliance (SCCA), Children's University Medical Group (CUMG), non-UW physicians, and Children's Hospital and Regional Medical Center (Children's) (collectively, the Providers) when services are provided within UW Medicine or SCCA facilities, and/or when the Providers are acting as part of one or more of the joint arrangements described below. This Notice also describes your rights and our obligations for using your health information and informs you about laws that provide special protections for your health information. It also explains how your protected health information is used and how, under certain circumstances, it may be disclosed. It tells you how any changes in this Notice will be made available to you.
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -61,7 +61,7 @@ For dental services, the University of Washington School of Dentistry and Univer
 
 **Non-UW Physicians.** Occasionally, non-UW physicians participate in and provide services to patients within UW Medicine and SCCA facilities described in this Notice. When this occurs, protected health information is shared between the entities or providers as necessary for treatment, payment, and certain health care operations.
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -88,7 +88,7 @@ Understanding what is in your record and how your health information is used and
 
 
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -152,7 +152,7 @@ SCCA does not engage in fundraising but their parent organizations (FHCRC and UW
 
 
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -162,7 +162,7 @@ SCCA does not engage in fundraising but their parent organizations (FHCRC and UW
 
 **Disclosure to and Notification of Family, Friends, or Others.** Unless you object, your health care provider will use his or her professional judgment to provide relevant protected health information to your family member, friend, or another person that you indicate has an active interest in your care or the payment for your health care or for notifying these individuals of your location, general condition or death.
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -170,7 +170,7 @@ SCCA does not engage in fundraising but their parent organizations (FHCRC and UW
 
 Other than the uses and disclosures described above, we will not use or disclose your protected health information without your written authorization. If you provide us with written authorization, you may revoke that authorization at any time unless disclosure is required for us to obtain payment for services already provided, we have otherwise relied on the authorization or the law prohibits revocation. Also, in some situations, federal and state laws may provide special protections for certain kinds of protected health information, such as drug or alcohol treatment records. When required by those laws, we may contact you to receive written authorization to use or disclose that information. 
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -178,7 +178,7 @@ Other than the uses and disclosures described above, we will not use or disclose
 
 Special state and federal protections apply to certain classes of patient health information. For example, additional protections may apply to sexually transmitted diseases information, drug and alcohol abuse treatment records, mental health records, and HIV/AIDS. When required by law, UW Medicine will obtain your authorization before releasing this type of information.
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -225,7 +225,7 @@ If you believe that your privacy rights have been violated, you may also contact
 > (206) 615-2290; (206) 615-2296 (TDD)  
 > (206) 615-2297 FAX
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
 * * *
 
@@ -235,7 +235,7 @@ If you believe that your privacy rights have been violated, you may also contact
 
 We reserve the right to change the privacy practices described in this Notice. We reserve the right to make the revised or changed Notice effective for protected health information we already have as well as any information we may receive in the future. We will post a copy of the current Notice at each UW Medicine entity and at each SCCA facility. In addition, each time you register at or are admitted to a UW Medicine entity or the SCCA for treatment or health care services as an inpatient or outpatient, you may request a copy of the current Notice in effect from the location of your care provider or you may request a copy of this Notice from the UW Medicine Privacy Office or the SCCA Privacy Office. An electronic version of the notice is also posted at [http://www.uwmedicine.org](http://www.uwmedicine.org/) and [http://www.seattlecca.org](http://www.seattlecca.org/).
 
-[Return to Top](http://www.uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
+[Return to Top](http://uwmedicine.org/uwmed/Templates/content/uwmedicine_storyNoContact.aspx?NRMODE=Published&NRNODEGUID=%7b6B6329A5-2552-455B-96B9-9A4202E7733F%7d&NRORIGINALURL=%2fGlobal%2fLegal%2fprivacy%2ehtm&NRCACHEHINT=Guest#top)
 
   
 
