@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshaklee.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518051556id_/http%3A//www.myshaklee.com/colophon_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshaklee.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011215436id_/http%3A//www.myshaklee.com/colophon_privacy.shtml) for the most accurate reproduction.*
 
 # Shaklee Corporation: Providing a healthier life for everyone and a better life for anyone. Health, Wellness, Nature, Opportunity
 
