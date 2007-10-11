@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613163323id_/http%3A//www.afterlogic.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterlogic.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011155735id_/http%3A//www.afterlogic.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # MAILBEE POP3 SMTP WEBMAIL IMAP4 POP IMAP EMAIL COMPONENT VB ASP ACTIVEX COM VBA OCX NET .NET C# VB.NET ASP.NET DOWNLOAD QUEUE SSL SECURITY CENSOR ACCESS PARSER C++ DLL CONTROL LIBRARY MIME INTERFACE
 
