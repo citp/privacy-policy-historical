@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405021113id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011095028id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
 # The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
@@ -46,6 +46,12 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 | 
 
 TopJobs
+
+Ticket Center
+
+From The Colorado State Fair to the Pepsi Center, We have the tickets you want.  
+Visit our online ticket center and get yours today.  
+[Chieftain Tickets](http://tickets.pueblochieftain.com/)
 
 Ads
 
