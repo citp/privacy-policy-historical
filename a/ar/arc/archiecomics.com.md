@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003101id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041603id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Archie Comics Privacy Policy
 
 **PRIVACY POLICY OF Archie Comics Entertainment**
 
@@ -36,7 +36,7 @@ Archie does not solicit personally identifiable information from children. The C
 
 **Ability to Update or Delete Information.**
 
-** Parents or Legal Guardians are welcome to send an e-mail to [talkback@archiecomics.com](mailto:help@archiecomics.com) to request deletion of any information we may have on their child.
+** Parents or Legal Guardians are welcome to request deletion of any information we may have on their child. [(Click Here) ](https://web.archive.org/web/20071011041603id_/http%3A//www.archiecomics.com/talkback.html)
 
 ** Please note that information about a child may remain in back-up storage for some period of time after a request for deletion of that child's account. This may be the case even though no information about that account remains in our active user databases.
 
@@ -61,5 +61,5 @@ If you have questions or concerns about this privacy policy, you can contact us 
 Archie Comics Entertainment  
 488 Main Avenue, Suite 300  
 Norwalk, CT 06851  
-[e-mail: talkback@archiecomics.com](mailto:help@archiecomics.com)  
+[ Talkback](https://web.archive.org/web/20071011041603id_/http%3A//www.archiecomics.com/talkback.html)  
 Fax: (203) 849-9300
