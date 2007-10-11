@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604015518id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011202926id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
 
 # DHL: Privacy Policy
 
