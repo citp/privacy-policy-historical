@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garynorth.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210919id_/http%3A//www.garynorth.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garynorth.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011174237id_/http%3A//www.garynorth.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -32,4 +32,4 @@ We use a variety of security measures including encryption and authentication fr
 Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications. 
 
 **Other**  
-If you have questions regarding our privacy policy, feel free to [contact me](https://web.archive.org/web/20070629210919id_/http%3A//www.garynorth.com/public/7.cfm).
+If you have questions regarding our privacy policy, feel free to [contact me](https://web.archive.org/web/20071011174237id_/http%3A//www.garynorth.com/public/7.cfm).
