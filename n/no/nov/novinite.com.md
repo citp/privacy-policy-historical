@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205200021id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042404id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
 
 # Sofia News Agency - Privacy
-
-[](http://www.novinite.com/sofiaweekly/)  
-» PRIVACY
 
 **Novinite.com (Sofia News Agency) takes your privacy extremely seriously.  
 Please read the following to learn more about our privacy policy. **
@@ -21,6 +18,8 @@ We collect personal information from you through:
   * the forms for sending news to a friend  
 
   * every time you e-mail us your details  
+
+
 
 
 Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, the information you entered is not anonymous to us. 
@@ -42,3 +41,5 @@ Given that the Internet is a global environment, using the Internet to collect a
 **Questions or Suggestions**
 
 If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail at [novinite@novinite.com](mailto:novinite@novinite.com). 
+
+Advertisements
