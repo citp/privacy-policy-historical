@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630102048id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011151415id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home
+
+  
+
 
 **Effective June 28, 2007**
 
@@ -32,7 +35,7 @@ When you register for HomeGain online services, the information you provide to u
 
 Agents: We use a credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. 
 
-Service Providers: We use third party real estate agents to provide assistance in estimating the value of your home. When you sign up for our services, we will share all of your personally identifiable information so that the real estate agent can provide that service. In addition, we use a third party service. [www.careerbuilder.com](http://www.careerbuilder.com/), which hosts an online job application process for us. 
+Service Providers: We use third party real estate agents to provide assistance in estimating the value of your home. When you sign up for our services, we will share all of your personally identifiable information so that the real estate agent can provide that service. In addition, we use a third party service. Careerbuilder.com, which hosts an online job application process for us. Careerbuilder.com may collect personal information that you provide and forward it on to us as a part of a job application. As such, any information provided to Careerbuilder.com will be covered by its privacy policy as opposed to this one. 
 
 If you post a testimonial on this web site, you should be aware that any personally identifiable information you submit here can be read, collected or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to this site. 
 
@@ -52,7 +55,7 @@ HomeGain offers you the ability to control the email communications we make to y
 
 HomeGain operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission. You the consumer are ultimately responsible for the security of your HomeGain Member Name and password. Please take care to store your HomeGain Member Name separately from your account password, or better yet, choose a password that you don't need to write down at all. 
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://en.wikipedia.org/wiki/Transport_Layer_Security>. 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link http://en.wikipedia.org/wiki/Transport_Layer_Security. 
 
 **How you can correct any inaccuracies in the information**
 
@@ -80,7 +83,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 HomeGain.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the Web site [www.homegain.com](https://web.archive.org/index_html). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have any questions or concerns regarding this statement, you should first contact HomeGain's corporate counsel at [privacy@homegain.com](mailto:privacy@homegain.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSte will then serve as a liaison with us to resolve your concerns. 
+If you have any questions or concerns regarding this statement, you should first contact HomeGain's corporate counsel at [privacy@homegain.com](mailto:privacy@homegain.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSte will then serve as a liaison with us to resolve your concerns. 
 
 **Privacy questions**
 
@@ -88,3 +91,11 @@ If you have any questions about our privacy policy, please contact us at [privac
 
   
 
+
+Copyright © 2007 Yahoo! Inc. All rights reserved. 
+
+[Terms of Service](http://docs.yahoo.com/info/terms/) \- [Privacy Policy](http://privacy.yahoo.com/privacy/us/re/)
+
+HomeGain provides the services and information available through and collects personal information on this site.   
+For more information regarding HomeGain's privacy practices and terms, please consult our Privacy Policy and Terms of Use.   
+Yahoo! Inc. does not collect or receive any personal information submitted through this site. 
