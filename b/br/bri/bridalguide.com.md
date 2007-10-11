@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607165726id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011060641id_/http%3A//www.bridalguide.com/default.cfm%3Ffuseaction%3Dmisc_content%26bridal_file%3D5%26jwp%3D2050) for the most accurate reproduction.*
 
 # Wedding Planning, Advice | Bridal Guide Magazine
 
