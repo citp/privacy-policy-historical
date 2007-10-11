@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210657id_/http%3A//www.bitzipper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitzipper.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011181443id_/http%3A//bitzipper.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy Policy
 
@@ -67,7 +67,7 @@ We use cookies on the Sites to store information about the site you visited us t
 
 ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20070629210657id_/http%3A//www.bitzipper.com/contact.html)
+If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20071011181443id_/http%3A//bitzipper.com/contact.html)
 
   
   
