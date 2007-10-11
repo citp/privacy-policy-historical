@@ -1,579 +1,301 @@
-<!--The following is the downloaded HTML source of the tweeter.com privacy policy that was archived on 2006-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114221104id_/http%3A//www.tweeter.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tweeter.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011172750id_/http%3A//www.tweeter.com/aboutus/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="description" content="Tweeter offers full-service Video, Audio and Control solutions. We feature the best in electronics, televisions, DVD, DVR, HD DVD, home audio, car audio and more. We offer Expert Advice in all our product areas.">
 
-
-	<title>Tweeter Helpdesk</title>
-	<script language="Javascript">
-function trimString (str) {
-  while (str.charAt(0) == ' ')
-    str = str.substring(1);
-  while (str.charAt(str.length - 1) == ' ')
-    str = str.substring(0, str.length - 1);
-  return str;
-}
-
-
-function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
-{
- var email = trimString(document.emailForm.emailAddress.value);
-
-    if (!validEmail(email))
-	{
-        alert('Please enter a valid e-mail address.');
-        return false;
-    }
-	if(type == 1)
-	{
-        document.emailForm.submit();
-	}
-}
-
-function validEmail(email)
-{
-    var vAtSym    = email.indexOf('@')
-    var vPeriod   = email.lastIndexOf('.')
-    var vSpace    = email.indexOf(' ')
-    var vLength   = email.length - 1   // Array is from 0 to length-1
-
-    if (vAtSym < 1 ||                     // '@' cannot be in first position
-    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
-    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
-    	vSpace  != -1)                    // No empty spaces permitted
-	{
-        return false;
-    }
-	return true;
-}
-
-
-
-
-
-function showCustomPopUp(thisUrl,thisName,theseParams)
-{
-	remote = open(thisUrl, thisName, theseParams);
-}
-
-
-// WE SHOULD NOT NEED THESE jh
-
-
-
-//	verisign POP-UP WINDOW
-function popUp(url)
-{
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin";
-}
-
-function jump(url)
-{
-	if (url != "" && url != null)
-	{
-		self.location.href = url;
-	}
-}
-</script>
-
-    <link rel="stylesheet" type="text/css" href="../include/store.css">
-	<style>
-	.hdSubNav{font-size:10px; font-weight : bold; text-decoration : none; color:#333333;background-color:#F5F5F5;}
-	</style></head>
-<body bgcolor="#ff9900" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
-<a name="pageTop()"><!-- --></a>
+<meta name="keywords" content="Tweeter, Sound Advice, HiFi buys and Showcase Home Entertainment, electronics, televisions, DVD, DVR, HD DVD, home audio, car audio, plasma, LCD, GPS, Amplifiers, Receivers, Headphones, Satellite, Radio, Speakers,Surround Sound">
  
-<!--here-->
-<script language="JavaScript" type="text/javascript" src="../include/dhtml_menus.js"></script>
-<script language="JavaScript">
-if (document.images)
-{
-	var path = "http://TWTR.imageg.net/images/";
-	topnav_cart_on = new Image();
-	topnav_cart_on.src = path + "topnav_cart_on.gif";
-	
-	topnav_cart_off = new Image();
-	topnav_cart_off.src = path + "topnav_cart_off.gif";
-}
-function imgOn(imgName)
-{
-	if (document.images)
-	{
-    	document[imgName].src = eval(imgName + "_on.src");
-	}
-}
-function imgOff(imgName)
-{
-	if (document.images)
-	{
-		document[imgName].src = eval(imgName + "_off.src");
-	}
-}
-//end mouseover code
-</script>
+<link rel="stylesheet" type="text/css" href="../include/CSS0706.css">
+<link rel="stylesheet" type="text/css" href="../include/TWTRstore.css">
+<title>Tweeter - Privacy Policy </title>
+</head>
 
+<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
+<center>
 
-<script type="text/javascript">
-function clickclear(thisfield, defaulttext, color) {
-	if (thisfield.value == defaulttext) {
-		thisfield.value = "";
-		if (!color) {
-			color = "444444";
-		}
-		thisfield.style.color = "#" + color;
-	}
-}
-function clickrecall(thisfield, defaulttext, color) {
-	if (thisfield.value == "") {
-		thisfield.value = defaulttext;
-		if (!color) {
-			color = "993300";
-		}
-		thisfield.style.color = "#" + color;
-	}
-}
-	</script>
-<table width="763" border="0" background="http://TWTR.imageg.net/images/vibe-780x150.gif" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="202" valign="top" height="76" colspan="3" rowspan="2" nowrap=""><a href="/home/index.jsp"><img src="http://TWTR.imageg.net/images/header_logo_new.gif" width="202" height="70" border="0"></a><img src="http://TWTR.imageg.net/images/pixel.gif" width="6" height="1"></td>
-	<td align="right" valign="top" width="541" class="leftnavlink2">
-	<table height="80">
-		<tbody><tr>
-			<td align="right" valign="top" colspan="2" width="541" class="leftnavlink2">
-			<a href="https://www.tweeter.com/coreg/index.jsp?step=register" class="navbar">My Account</a>&nbsp;|
-			<a href="https://www.tweeter.com/coreg/index.jsp?step=ot" class="navbar">Order Status</a>&nbsp;|
-			<a href="/helpdesk/index.jsp" class="navbar">Customer Service</a>&nbsp;|
-			<a href="/cart/index.jsp?wlName=wishlist" class="navbar">Wish List</a>&nbsp;|
-			<a href="/cart/index.jsp" class="navbar" onmouseover="imgOn('topnav_cart');" onmouseout="imgOff('topnav_cart');">View Cart / CHECK OUT</a>&nbsp;<img name="topnav_cart" src="http://TWTR.imageg.net/images/topnav_cart_off.gif">&nbsp;&nbsp;&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr>
-			<td align="right" width="541" valign="bottom" class="topnavlink2">
-			<!-- OAS HEAD-->
-			<a href="http://www.tweeter.com/helpdesk/index.jsp" class="topnavlinkorder">Order by Phone&nbsp;&nbsp;1-866-690-2370</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-			</td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<table width="763" border="0" background="http://TWTR.imageg.net/images/vibe-780x150.gif" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td align="left" valign="bottom" class="leftnavlink2">
-	<img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="5"><br>
-	&nbsp;&nbsp;
-	<a href="/home/index.jsp" class="navbar">HOME</a>&nbsp;|
-	<a href="/emailUpdates/index.jsp" class="navbar">E-MAIL SPECIALS</a>&nbsp;|
-	<a href="http://wholehomesystems.tweeter.com" class="navbar">IN-HOME INSTALLATION</a>&nbsp;|
-	<a href="http://askchris.tweeter.com" class="navbar">EXPERT ADVICE</a>&nbsp;|
-	<a href="/corp/index.jsp?page=storeLocator" class="navbar">STORE LOCATOR</a>
-	</td>
-	<td valign="bottom" width="12"><img src="http://TWTR.imageg.net/images/searchcap.gif" align="absbottom"></td>
-	<td class="searchtd" width="180" align="right"><form name="search" style="display:inline;" action="/searchHandler/index.jsp" method="get">
-	<input name="keywords" class="searchbox" value="Search By Keyword or Item #" onclick="clickclear(this, 'Search By Keyword or Item #');" onblur="clickrecall(this,'Search By Keyword or Item #');" size="28"><!--<br><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="2"><br>-->
-		</form></td>
-		<td class="searchtd" width="38" align="center"><input type="image" src="http://TWTR.imageg.net/images/gosearch.gif" width="27" height="17" border="0" cache=""></td>
-</tr>
-</tbody></table>
-
-<style type="text/css">
-.transMenu {
-	position:absolute;
-	overflow:hidden;
-	left:-1000px;
-	top:-1000px;
-	z-index:10;
-	}
-
-.transMenu .content {
-	position:absolute;
-	z-index:10;
-	}
-
-.transMenu .items {
-	position:relative;
-	left:0px; top:2px;
-	z-index:20;
-	}
-
-.transMenu.top .items {
-	border-top:none;
-	}
-
-.transMenu .item {
-    color:#ffffff;
-    font-size:10px;
-    font-family:verdana, sans-serif;
-    text-decoration:none;
-	/* hack for mac/ie5*/
-	border:none;
-	cursor:pointer;
-	cursor:hand;
-	padding-left:8px;
-	padding:3px;
-	}
-
-.transMenu .background {
-	position:absolute;
-	left:0px; top:0px;
-	z-index:10;
-	-moz-opacity:.95;
-	filter:alpha(opacity=95);
-	}
-
-.transMenu .shadowRight {
-	position:absolute;
-	z-index:30;
-	top:3px; width:2px;
-	-moz-opacity:.4;
-	filter:alpha(opacity=40);
-	}
-
-.transMenu .shadowBottom {
-	position:absolute;
-	z-index:10;
-	left:3px; height:2px;
-	-moz-opacity:.4;
-	filter:alpha(opacity=40);
-	}
-
-.transMenu .item.hover {
-	background:#EAE4BA;
-	color:#444444;
-	font-weight:bold;
-	}
-
-.transMenu .item img {
-	margin-left:10px;
-	
-	}
-</style>
-<table width="763" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td colspan="6" bgcolor="#000000" height="1"><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="1"></td>
-</tr></tbody></table>
-<table width="763" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr bgcolor="#444444"> 
-	<td align="center" id="VIDEO"><a href="/category/index.jsp?categoryId=1124286" class="navchar">VIDEO &amp; TV&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-	<td><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>|</b></font></td>
-	<td align="center" id="AUDIO"><a href="/category/index.jsp?categoryId=1124285" class="navchar">AUDIO &amp; HOME&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-    <td><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>|</b></font></td>
-    <td align="center" id="PORT"><a href="/category/index.jsp?categoryId=1124287" class="navchar">MP3 / PORTABLES&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-	<td><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>|</b></font></td>
-    <td align="center" id="CAR"><a href="/category/index.jsp?categoryId=1124288" class="navchar">CAR&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-	<td><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>|</b></font></td>
-    <td align="center" id="SATELLITE"><a href="/category/index.jsp?categoryId=1303927" class="navchar">SATELLITE&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-	   <td><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>|</b></font></td> 
-    <td align="center" id="GIFTS"><a href="/giftCenter/index.jsp" class="navchar">GIFTS&nbsp;<img src="http://TWTR.imageg.net/images/dd_tri.gif" width="9" height="10" border="0" alt="Choose One"></a></td>
-    <td align="center" id="CLEARANCE" bgcolor="#666666"><a href="/category/index.jsp?categoryId=1181144" class="navchar">SPECIALS</a></td>
-</tr>
-</tbody></table>
-<script language="javascript">
-if (TransMenu.isSupported()) {
-var ms = new TransMenuSet(TransMenu.direction.down, 1, 1, TransMenu.reference.bottomLeft);
-var menu0 = ms.addMenu(document.getElementById("AUDIO"));
-					menu0.addItem("<B>Boomboxes</B>", "/family/index.jsp?categoryId=1328356&cp=1124285");
-					menu0.addItem("<B>CD Players</B>", "/category/index.jsp?categoryId=1124331&cp=1124285");
-					//menu0.addItem("- Recorders", "/home/index.jsp?cp=1124285.1124331&sublevel=2");
-					menu0.addItem("<B>Receivers / Amplifiers / Tuners</B>", "/category/index.jsp?categoryId=1124337&cp=1124285");
-					menu0.addItem("- Amplifiers", "/family/index.jsp?categoryId=1124370&cp=1124285.1124337&sublevel=2");
-					menu0.addItem("- Stereo Receivers", "/family/index.jsp?categoryId=1124379&cp=1124285.1124337&sublevel=2");
-					menu0.addItem("- Surround Sound Receivers", "/family/index.jsp?categoryId=1124380&cp=1124285.1124337&sublevel=2");
-					menu0.addItem("<B>Headphones</B>", "/category/index.jsp?categoryId=1124535&cp=1124285");
-					menu0.addItem("<B>Cassette Decks</B>", "/family/index.jsp?categoryId=1124381&cp=1124285");
-					menu0.addItem("<B>Speakers</B>", "/category/index.jsp?categoryId=1124339&cp=1124285");
-					menu0.addItem("<B>Surround Sound Systems</B>", "/category/index.jsp?categoryId=1124340&cp=1124285");
-					menu0.addItem("- Home Theater In a Box", "/family/index.jsp?categoryId=1124397&cp=1124285.1124340&sublevel=2");
-					menu0.addItem("- Surround Sound Speaker Packages", "/family/index.jsp?categoryId=1124394&cp=1124285.1124340&sublevel=2");
-					menu0.addItem("<B>Shelf Systems</B>", "/family/index.jsp?categoryId=1124396&cp=1124285");
-					menu0.addItem("<B>Home Networking</B>", "/family/index.jsp?categoryId=1766333&cp=1124285");
-					menu0.addItem("<B>Accessories</B>", "/category/index.jsp?categoryId=1124341&cp=1124285");
-					menu0.addItem("- Mounts, Cables, Mics, and more...", "/category/index.jsp?categoryId=1124341&cp=1124285");
-							 
-					var menu1 = ms.addMenu(document.getElementById("VIDEO"));
-					menu1.addItem("<B>Blu-ray Disc &amp; HD-DVD</B>", "/category/index.jsp?categoryId=2442723&cp=1124286");
-					menu1.addItem("<B>DVD Players / Recorders</B>", "/category/index.jsp?categoryId=1124353&cp=1124286");
-					menu1.addItem("- DVD Players", "/family/index.jsp?categoryId=1124444&cp=1124286.1124353&sublevel=2");
-					menu1.addItem("- DVD / VCR Combo Players", "/family/index.jsp?categoryId=1124420&cp=1124286.1124353&sublevel=2");
-					menu1.addItem("- DVD Changers", "/family/index.jsp?categoryId=1341114&cp=1124286.1124353&sublevel=2");
-					menu1.addItem("- Portable DVD", "/family/index.jsp?categoryId=1124422&cp=1124286.1124353&sublevel=2");
-					menu1.addItem("- Recordable DVD Players", "/family/index.jsp?categoryId=1124423&cp=1124286.1124353&sublevel=2");
-					menu1.addItem("<B>Televisions</B>", "/category/index.jsp?categoryId=1124354&cp=1124286");
-					menu1.addItem("- Projection TVs", "/family/index.jsp?categoryId=1124426&cp=1124286.1124354&sublevel=2");
-					menu1.addItem("- Flat Panel TVs (Plasma / LCDs)", "/family/index.jsp?categoryId=1124427&cp=1124286.1124354&sublevel=2");
-					menu1.addItem("- Video Projectors", "/family/index.jsp?categoryId=1766324&cp=1124286.1124354&sublevel=2");
-					menu1.addItem("- AV Furniture / Seating", "/family/index.jsp?categoryId=1124440&cp=1124286.1124354&sublevel=2");
-					menu1.addItem("- Universal Remotes", "/family/index.jsp?categoryId=1124411&cp=1124286.1124354&sublevel=2");
-					menu1.addItem("<B>Digital Imaging</B>", "/category/index.jsp?categoryId=1170694&cp=1124286");
-					menu1.addItem("<B>Accessories</B>", "/category/index.jsp?categoryId=1124356&cp=1124286");					 
-
-					var menu2 = ms.addMenu(document.getElementById("PORT"));
-					menu2.addItem("<B>GPS Navigation Systems</B>", "/category/index.jsp?categoryId=875821&cp=1124287");
-					menu2.addItem("- GPS / Nav Units", "/family/index.jsp?categoryId=1781377&cp=1124287.875821&sublevel=2");
-					menu2.addItem("- GPS / Nav Accessories", "/family/index.jsp?categoryId=1087861&cp=1124287.875821&sublevel=2");
-					menu2.addItem("<B>Table and Clock Radios</B>", "/family/index.jsp?categoryId=1124400&cp=1124287");
-					menu2.addItem("<B>iPods</B>", "/family/index.jsp?categoryId=1769572&cp=1124287");
-					menu2.addItem("- iPod Dock & Speakers", "/family/index.jsp?categoryId=2518125&cp=1124287&sublevel=2");
-					menu2.addItem("- iPod in Car", "/family/index.jsp?categoryId=2523317&cp=1124287&sublevel=2");
-					menu2.addItem("- iPod Accessories", "/family/index.jsp?categoryId=1769574&cp=1124287&sublevel=2");
-					menu2.addItem("<B>MP3 / Media Devices</B>", "/family/index.jsp?categoryId=1124538&cp=1124287");
-					menu2.addItem("<B>Portable Radios</B>", "/family/index.jsp?categoryId=1124450&cp=1124287");
-					menu2.addItem("<B>Portable DVD Players</B>", "/family/index.jsp?categoryId=1124422&cp=1124287");
-					menu2.addItem("<B>Headphones</B>", "/family/index.jsp?categoryId=1124377&cp=1124287");
-								
-					var menu3 = ms.addMenu(document.getElementById("CAR"));
-					menu3.addItem("<B>GPS Navigation Systems</B>", "/category/index.jsp?categoryId=875821&cp=1124288");
-					menu3.addItem("- GPS / Nav Units", "/family/index.jsp?categoryId=1781377&cp=1124288.875821&sublevel=2");
-					menu3.addItem("- GPS / Nav Accessories", "/family/index.jsp?categoryId=1087861&cp=1124288.875821&sublevel=2");
-					menu3.addItem("<B>Starters / Alarms / Keyless</B>", "/family/index.jsp?categoryId=1787091&cp=1124288");
-					menu3.addItem("<B>CD Players &amp; Changers</B>", "/category/index.jsp?categoryId=1124546&cp=1124288");
-					menu3.addItem("- CD Changers", "/family/index.jsp?categoryId=1124461&cp=1124288.1124546&sublevel=2");
-					menu3.addItem("- In-Dash CD Players", "/family/index.jsp?categoryId=1124466&cp=1124288.1124546&sublevel=2");
-					menu3.addItem("- Mobile Video Screens", "/family/index.jsp?categoryId=1124467&cp=1124288.1124546&sublevel=2");
-					menu3.addItem("<B>Radar / Laser Detectors</B>", "/family/index.jsp?categoryId=1124549&cp=1124288");
-					menu3.addItem("<B>Mobile Multi-Media</B>", "/category/index.jsp?categoryId=1124548&cp=1124288");
-					menu3.addItem("- Mobile Multi-Media DVD Players", "/family/index.jsp?categoryId=1124469&cp=1124288.1124548&sublevel=2");
-					menu3.addItem("- Mobile Video Packages", "/family/index.jsp?categoryId=1788056&cp=1124288.1124548&sublevel=2");
-					menu3.addItem("- Mobile Video Screens", "/family/index.jsp?categoryId=1124467&cp=1124288.1124548&sublevel=2");
-					menu3.addItem("- TV Tuners &amp; Video Distribution", "/family/index.jsp?categoryId=1787051&cp=1124288.1124548&sublevel=2");
-					menu3.addItem("<B>Speakers</B>", "/category/index.jsp?categoryId=1124550&cp=1124288");
-					menu3.addItem("<B>Accessories</B>", "/category/index.jsp?categoryId=1327949&cp=1124288");			 
-					menu3.addItem("- Antennas, Lighting, Kits, and more...", "/category/index.jsp?categoryId=1327949&cp=1124288");			 
-					
-					var menu4 = ms.addMenu(document.getElementById("SATELLITE"));
-					menu4.addItem("<B>XM Main Units</B>", "/family/index.jsp?categoryId=1999264&cp=1303927");
-					menu4.addItem("<B>XM Home Kits</B>", "/family/index.jsp?categoryId=1999265&cp=1303927");
-					menu4.addItem("<B>XM Car Kits</B>", "/family/index.jsp?categoryId=1999266&cp=1303927");
-					menu4.addItem("<B>XM Boomboxes</B>", "/family/index.jsp?categoryId=1999267&cp=1303927");
-					menu4.addItem("<B>XM Accessories</B>", "/family/index.jsp?categoryId=1999268&cp=1303927");
-					menu4.addItem("<B>Sirius Main Units</B>", "/family/index.jsp?categoryId=1999269&cp=1303927");
-					menu4.addItem("<B>Sirius Car Kits</B>", "/family/index.jsp?categoryId=1999273&cp=1303927");
-					//menu4.addItem("<B>Sirius Boomboxes</B>", "/family/index.jsp?categoryId=1999274&cp=1303927");
-					menu4.addItem("<B>Sirius Accessories</B>", "/family/index.jsp?categoryId=1999275&cp=1303927");
-					
-					var menu5 = ms.addMenu(document.getElementById("GIFTS"));
-					menu5.addItem("<B>Online Gift Certificates</B>", "/giftCertificates/index.jsp");
-					menu5.addItem("<B>Gifts under $50</B>", "/family/index.jsp?categoryId=1231168&cp=1181003");
-					menu5.addItem("<B>Gifts under $100</B>", "/family/index.jsp?categoryId=1181004&cp=1181003");
-					menu5.addItem("<B>Gifts under $200</B>", "/family/index.jsp?categoryId=1181005&cp=1181003");
-					menu5.addItem("<B>Gifts under $500</B>", "/family/index.jsp?categoryId=1181012&cp=1181003");
-					menu5.addItem("<B>Gifts under $1000</B>", "/family/index.jsp?categoryId=1181020&cp=1181003");
-					menu5.addItem("<B>Optics</B>", "/category/index.jsp?categoryId=2536669");
-					menu5.addItem("- Binoculars", "/family/index.jsp?categoryId=2286170&cp=2536669&sublevel=2");
-					menu5.addItem("- Monoculars", "/home/index.jsp?cp=2536669&sublevel=2");
-					menu5.addItem("- Telescopes", "/category/index.jsp?categoryId=1900623&cp=2536669&sublevel=2");
-					menu5.addItem("- Rangefinders", "/family/index.jsp?categoryId=702347&cp=2536669&sublevel=2");
-					menu5.addItem("- Optical Accessories", "/family/index.jsp?categoryId=713109&cp=2536669&sublevel=2");
-					menu5.addItem("<B>Phones</B>", "/family/index.jsp?categoryId=1257486&cp=1181003");
-					
-					
-					var menu6 = ms.addMenu(document.getElementById("CLEARANCE"));
-					menu6.addItem("<B>Wise Buys</B>", "/category/index.jsp?categoryId=1181002");
-					menu6.addItem("<B>Clearance</B>", "/category/index.jsp?categoryId=1181144");
-					menu6.addItem("- Audio Clearance", "/family/index.jsp?categoryId=1919732&cp=1181144");
-					menu6.addItem("- Video Clearance", "/family/index.jsp?categoryId=1919733&cp=1181144&sublevel=2");
-					menu6.addItem("- Mobile Clearance", "/family/index.jsp?categoryId=1919735&cp=1181144");
-					menu6.addItem("- Accessories Clearance", "/family/index.jsp?categoryId=1919736&cp=1181144&sublevel=2");
-					
-function showLayer(layerName)
-{
-    if (document.getElementById)
-    {
-        var targetElement = document.getElementById(layerName);
-        targetElement.style.visibility = 'visible';
-    }
-}
-
-function hideLayer(layerName)
-{
-    if (document.getElementById)
-    {
-        var targetElement = document.getElementById(layerName);
-        targetElement.style.visibility = 'hidden';
-    }
-}
-
-TransMenu.renderAll();
-TransMenu.initialize();
-
-menu0.onactivate = function() {WCH.Apply('TransMenu0') };
-menu0.ondeactivate = function() {WCH.Discard('TransMenu0') };
-menu1.onactivate = function() { WCH.Apply('TransMenu1') };
-menu1.ondeactivate = function() { WCH.Discard('TransMenu1') };
-menu2.onactivate = function() { WCH.Apply('TransMenu2') };
-menu2.ondeactivate = function() { WCH.Discard('TransMenu2') };
-menu3.onactivate = function() { WCH.Apply('TransMenu3') };
-menu3.ondeactivate = function() { WCH.Discard('TransMenu3') };
-menu4.onactivate = function() { WCH.Apply('TransMenu4') };
-menu4.ondeactivate = function() { WCH.Discard('TransMenu4') };
-menu5.onactivate = function() { WCH.Apply('TransMenu5') };
-menu5.ondeactivate = function() { WCH.Discard('TransMenu5') };
-menu6.onactivate = function() { WCH.Apply('TransMenu6') };
-menu6.ondeactivate = function() { WCH.Discard('TransMenu6') };
-}
+<!-- ++++++++++++++++++++++++++++++    TOP NAV   ++++++++++++++++++++++++++++++  --> 
  
-</script><div id="TransMenu0" class="transMenu top" style="width: 187px; height: 301px; visibility: hidden;"><div class="content" style="width: 185px; height: 299px; top: -300px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Boomboxes</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>CD Players</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Receivers / Amplifiers / Tuners</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Amplifiers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Stereo Receivers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Surround Sound Receivers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Headphones</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Cassette Decks</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Speakers</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Surround Sound Systems</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Home Theater In a Box</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Surround Sound Speaker Packages</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Shelf Systems</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Home Networking</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Accessories</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mounts, Cables, Mics, and more...</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 298px; width: 182px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 184px; height: 297px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 184px; height: 298px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu1" class="transMenu top" style="width: 169px; height: 283px; visibility: hidden;"><div class="content" style="width: 167px; height: 281px; top: -282px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Blu-ray Disc &amp; HD-DVD</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>DVD Players / Recorders</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- DVD Players</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- DVD / VCR Combo Players</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- DVD Changers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Portable DVD</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Recordable DVD Players</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Televisions</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Projection TVs</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Flat Panel TVs (Plasma / LCDs)</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Video Projectors</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- AV Furniture / Seating</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Universal Remotes</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Digital Imaging</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Accessories</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 280px; width: 164px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 166px; height: 279px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 166px; height: 280px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu2" class="transMenu top" style="width: 140px; height: 229px; visibility: hidden;"><div class="content" style="width: 138px; height: 227px; top: -228px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>GPS Navigation Systems</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- GPS / Nav Units</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- GPS / Nav Accessories</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Table and Clock Radios</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>iPods</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- iPod Dock &amp; Speakers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- iPod in Car</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- iPod Accessories</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>MP3 / Media Devices</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Portable Radios</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Portable DVD Players</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Headphones</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 226px; width: 135px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 137px; height: 225px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 137px; height: 226px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu3" class="transMenu top" style="width: 189px; height: 319px; visibility: hidden;"><div class="content" style="width: 187px; height: 317px; top: -318px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>GPS Navigation Systems</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- GPS / Nav Units</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- GPS / Nav Accessories</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Starters / Alarms / Keyless</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>CD Players &amp; Changers</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- CD Changers</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- In-Dash CD Players</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mobile Video Screens</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Radar / Laser Detectors</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Mobile Multi-Media</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mobile Multi-Media DVD Players</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mobile Video Packages</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mobile Video Screens</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- TV Tuners &amp; Video Distribution</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Speakers</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Accessories</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Antennas, Lighting, Kits, and more...</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 316px; width: 184px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 186px; height: 315px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 186px; height: 316px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu4" class="transMenu top" style="width: 111px; height: 157px; visibility: hidden;"><div class="content" style="width: 109px; height: 155px; top: -156px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>XM Main Units</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>XM Home Kits</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>XM Car Kits</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>XM Boomboxes</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>XM Accessories</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Sirius Main Units</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Sirius Car Kits</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Sirius Accessories</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 154px; width: 106px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 108px; height: 153px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 108px; height: 154px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu5" class="transMenu top" style="width: 130px; height: 247px; visibility: hidden;"><div class="content" style="width: 128px; height: 245px; top: -246px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Online Gift Certificates</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Gifts under $50</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Gifts under $100</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Gifts under $200</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Gifts under $500</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Gifts under $1000</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Optics</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Binoculars</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Monoculars</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Telescopes</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Rangefinders</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Optical Accessories</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Phones</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 244px; width: 125px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 127px; height: 243px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 127px; height: 244px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div><div id="TransMenu6" class="transMenu top" style="width: 130px; height: 121px; visibility: hidden;"><div class="content" style="width: 128px; height: 119px; top: -120px;"><table class="items" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Wise Buys</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item"><b>Clearance</b></td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Audio Clearance</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Video Clearance</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Mobile Clearance</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr onmouseover="this.style.backgroundColor='#EAE4BA';" onmouseout="this.style.backgroundColor='#999966';"><td nowrap="" class="item">- Accessories Clearance</td><td width="1" style="padding:3px; padding-right:8px;"><img src="../images/pixel.gif" width="1" height="5"></td></tr><tr><td height="1" bgcolor="#444444" colspan="2"></td></tr><tr><td colspan="2"><img src="../images/pixel.gif" width="1" height="5"></td></tr></tbody></table><div class="shadowBottom" style="top: 118px; width: 125px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="shadowRight" style="left: 127px; height: 117px; background-color: rgb(0, 0, 0);"><img src="../images/pixel.gif" width="1" height="1"></div><div class="background" style="width: 127px; height: 118px; background-color: rgb(153, 153, 102);"><img src="../images/pixel.gif" width="1" height="1"></div></div></div>
-<table width="763" border="0" cellspacing="0" cellpadding="0">
+<table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+  <tbody><tr>
+  <td width="1" background="/grfx/NAVline.gif" bgcolor="#ffffff"><img src="/grfx/pixel.gif" width="1" height="3"></td>
+  
+ <td nowrap="" valign="top"><a href="/default.asp"><img src="/grfx/logos/showcase-logo.gif" width="300" height="70" border="0"></a></td>
+		
+	 
+ 
+
+ <td width="461" valign="middle" align="right">
+<a href="/adrota.asp?url=/B2B/&amp;image=/grfx/banner/banner_TD.jpg"><img src="/grfx/banner/banner_TD.jpg" alt="We Mean Business to Business!" width="460" height="55" border="0"></a></td>
+  </tr>
+ 
+</tbody></table>
+ 
+ 
+
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td colspan="6" bgcolor="#000000" height="1"><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="1"></td>
+	<td bgcolor="#89957e" height="1"><img src="/grfx/pixel.gif" width="1" height="1"></td>
 </tr></tbody></table>
-<div style="display:none;">
 
 
-</div>
-<table width="763" border="0" cellpadding="0" cellspacing="0" valign="top">
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td bgcolor="#31006B" height="1" colspan="2"><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="1"></td>
+<td width="1" background="/grfx/NAVline.gif" bgcolor="#89957e"><img src="/grfx/pixel.gif" width="1" height="17"></td>
+		<td align="center" bgcolor="#dbe0d6"> <nobr> <font size="2" face="Arial, Helvetica, sans-serif" class="navbar"> 
+ <a href="/default.asp" class="navbar">HOME</a>
+<font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+ 
+<a href="/services/" class="navbar">SERVICES</a><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+
+<a href="/category/" class="navbar">PRODUCTS</a><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+
+
+<a href="http://expertadvice.tweeter.com" class="navbar">EXPERT ADVICE</a><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+
+<a href="/aboutus/" class="navbar">ABOUT US</a><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+
+<a href="/clearance/" class="navbar">CLEARANCE</a><font face="Arial, Helvetica, sans-serif" size="2" color="#999999"><b>&nbsp;|&nbsp;</b></font>
+ 
+<a href="/aboutus/storelocator.asp" class="navbar">STORE LOCATOR</a></font> 
+      &nbsp;&nbsp;</nobr>	 </td>
+	    <td width="1" background="/grfx/NAVline.gif" bgcolor="#89957e"><img src="/grfx/pixel.gif" width="1" height="17"></td>
+</tr></tbody></table>
+
+
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td bgcolor="#89957e" height="1"><img src="/grfx/pixel.gif" width="1" height="1"></td>
 </tr>
-<tr bgcolor="#FFFFFF">
-	<td height="24"><img src="http://TWTR.imageg.net/images/pixel.gif" width="5" height="1"></td>
-	<td width="100%"><table cellpadding="6" border="0" width="100%">
-    <tbody><tr><td>
-        <a href="/home/index.jsp" class="breadcrumb">
-       Return to shopping</a>&nbsp;
-|&nbsp;
+</tbody></table>
+ 
+<!-- ++++++++++++++++++++++++++++++    TOP NAV   ++++++++++++++++++++++++++++++  --> 
+ 
+ 
+ 
+ 
+ <table width="801" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="175" bgcolor="#ffffff" valign="top"><img src="/grfx/LNAVline_cap.gif" alt="-----------" width="183" height="16"></td>
+	<td width="100%" bgcolor="#ffffff">&nbsp;</td>
+	  <td width="5" background="/grfx/LNAVline_rrg2.gif" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+</tbody></table>
 
-    <a class="breadcrumb" href="/helpdesk/index.jsp">Customer Service</a>
 
-    </td></tr>
+ 
+<table width="798" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+  <tbody><tr><!-- LNAV -->  
+ 
+
+<!-- LNAV LINE  -->
+<td width="5" background="/grfx/LNAVline_lg2.gif" bgcolor="#ffffff">&nbsp;</td>
+
+<td width="176" bgcolor="#F5F7E8" valign="top">
+<!--CONTENT -->
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#F5F7E8">
+
+
+<!--SERVICES -->  
+   
+  
+  <!--/ SERVICES -->
+  
+  <!--PRODUCT --> 
+  
+  
+   
+  <!--/ PRODUCT --> 
+ 
+   <!-- AU -->  
+ 
+  
+  
+    <tbody><tr>
+    <td bgcolor="#dbe0d6">&nbsp;</td>
+    <td bgcolor="#dbe0d6" colspan="2"><a href="/aboutus/" class="navchar">ABOUT US</a></td>
+  </tr>
+ <tr><td bgcolor="#dbe0d6" colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+  <tr>
+  
+  
+      </tr><tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+	  
+	    
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/aboutus/experience.asp" class="navcharsub"><strong>The Store Experience</strong></a></td>
+  </tr>
+  
+  
+     <tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+ 
+  
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/aboutus/Guarantees.asp" class="navcharsub"><strong>Returns &amp; Guarantees</strong></a></td>
+  </tr>
+  
+  
+   <tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+   
+   
+
+
+	 
+  
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/aboutus/tcf.asp" class="navcharsub"><strong>Tweeter Charity Fund</strong></a></td>
+  </tr>
+  
+  
+     <tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+
+
+
+  
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/aboutus/onlinestore.asp" class="navcharsub"><strong>Online Store</strong></a></td>
+  </tr>
+  
+  
+     <tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+ 
+   	 
+  
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/careers/default.asp" class="navcharsub"><strong>Careers</strong></a></td>
+  </tr>
+  
+     <tr><td colspan="3"><img src="/grfx/pixel.gif" width="1" height="3"></td></tr>
+	 
+	 
+  
+  <tr>
+    <td>&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0"></td>
+    <td colspan="2">&nbsp;<a href="/aboutus/contact.asp" class="navcharsub"><strong>Contact Us</strong></a></td>
+  </tr>
+  
+  
+     <!-- / AU --> 
+  
+  
+  
+  
+  
+  
+  <tr>
+    <td colspan="3"><hr align="center" width="75%"></td>
+  </tr>
+  
+   <tr>
+    <td colspan="3">
+	
+
+<!-- Google CSE Search Box Begins  -->
+<form action="/search/default.asp" id="searchbox_008340540861213844757:ikww2xkhunm">
+&nbsp;<strong>Search</strong> <br>
+  <input type="hidden" name="cx" value="008340540861213844757:ikww2xkhunm">
+  <input type="hidden" name="cof" value="FORID:11">
+  <table width="173" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>&nbsp;<input type="text" name="q" size="17"></td>
+    <td><input type="image" src="/grfx/googsearch.gif" alt="Go Search" name="sa" value="Search"></td>
+  </tr>
+</tbody></table>
+ <hr align="center" width="75%">
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_008340540861213844757%3Aikww2xkhunm"></script>
+<!-- Google CSE Search Box Ends -->
+ </td>
+  </tr> 
+  
+ 
+  
+  <tr>
+    <td valign="top">&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0">&nbsp;</td>
+    <td colspan="2"><a href="/installation/solution.asp" class="navchar">Free In-Home Consultation</a></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/grfx/pixel.gif" width="1" height="6"></td>
+  </tr>
+  
+    
+   <tr>
+    <td valign="top">&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0">&nbsp;</td>
+    <td colspan="2"><a href="/feedback/" class="navchar">Send Us Feedback</a></td>
+  </tr>
+  
+   
+  
+  
+  
+  <tr>
+    <td colspan="3"><img src="/grfx/pixel.gif" width="1" height="6"></td>
+  </tr>
+  
+      	
+  <tr>
+    <td valign="top">&nbsp;<img src="/grfx/pixel.gif" width="5" height="9" alt=">" border="0">&nbsp;</td>
+    <td colspan="2"><a href="/catalog/" class="navchar">Sign Up</a></td>
+  </tr>
+     
+  
+  
 </tbody></table>
 <br>
+<br>	
+
+
+<!-- /CONTENT --> 	
+   
 
 
 
+<!-- LNAV LINE  -->
 
-</td>
-</tr>
-</tbody></table>
-<table border="0" width="763" cellpadding="0" cellspacing="0" bgcolor="#ffffff" valign="top">
-<tbody><tr>
-	<td valign="top">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0" valign="top">
-	<tbody><tr>
-		<td valign="top">
-<!--*********************************** STOREMAN HELPDESK STARTS**************************************-->
+</td><td width="5" background="/grfx/LNAVline_rg2.gif" bgcolor="#dbe0d6"><img src="/grfx/pixel.gif" width="5" height="5"></td>
+<td width="5" bgcolor="#ffffff"><img src="/grfx/pixel.gif" width="5" height="1"></td>
 
-								
+ 
+<!-- MAIN --> 
 
-<table width="763" border="0" valign="top">
-	<tbody><tr>
-		<td valign="top">
-<!-- navigation -->
-			<table width="200" border="0" cellpadding="0" cellspacing="0" valign="top">
-				<tbody><tr>
-					<td height="20" valign="middle" colspan="2" align="left">
-					<font class="hdSubNav">Safety, Security, and Privacy</font></td>
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-								
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a>
 
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-								
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a>
+<td valign="top" width="595" bgcolor="#ffffff">
 
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-								
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
+	
 
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-								
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-							<td valign="top">
-					
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a>
-									
-					</td>
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-				<tr>
-								
-							<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td>
-							<td valign="top">
-					
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a>
-								
-					</td>
-					
-				</tr>
-				<tr>
-					<td><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				
-			</tbody></table>
-		</td>
-		<td valign="top" width="550">
-				<a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border="0"></a>
-			
-						
-						
-						<!-- panel -->
-						<!--here is panelId::2042524-->
-<!--here is pd::null-->
-<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2042524 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/TWTR_safetySecurityAndPrivacy_9-3.21099.jsp-->
-
-								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
-
-<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
-<table width="98%" border="0" cellpadding="0" cellspacing="0">
+<!-- MAIN CONTENT --> 
+ 
+	  
+ <p class="header0706">Our Privacy Policy</p>
+      <table width="600" border="0" cellspacing="0" cellpadding="3">
+        <tbody><tr>
+          <td valign="top"> 
+            <table width="98%" border="0" cellpadding="0" cellspacing="0">
    <tbody><tr>
 
               <td valign="top">
 
-<p class="header"><b>Our Privacy Policy</b></p>
+ 
 
-<p>We at Tweeter Home Entertainment Group, Inc. ("Tweeter"), producer of Tweeter.com, believe that you have the right to know how your personal information may be used or disclosed.  You take your privacy seriously, and we respect your concerns.  We have created this privacy policy in order to educate you as to as to how we collect information, what we do with it, and what controls you have.  Please read it carefully, and if you have any questions or concerns, please send us a comment at <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a> or contact us by telephone at 1-866-690-2370.</p>
+<p>We at Tweeter, producers of Tweeter.com, believe that you have the right to know how your personal information may be used or disclosed.  You take your privacy seriously, and we respect your concerns.  We have created this privacy policy in order to educate you as to as to how we collect information, what we do with it, and what controls you have.  Please read it carefully, and if you have any questions or concerns, please send us a comment at <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a> or contact us by telephone at 1-800-TWEETER.</p>
 
-<p>This privacy policy applies only to personal information collected via this website, and not to any other activities of Tweeter or its affiliates or business partners.  Personal information means information about you that is personally identifiable like your name, address, e-mail address, phone number, or credit card information, and that is not otherwise publicly available.  This policy does not apply to the practices of companies that Tweeter does not own or control, or to people that Tweeter does not employ or manage, except as set forth below with respect to GSI Commerce Solutions, Inc.</p>
+<p>This privacy policy applies only to personal information collected via this website, and not to any other activities of Tweeter or its affiliates or business partners.  Personal information means information about you that is personally identifiable like your name, address, e-mail address, phone number, or credit card information, and that is not otherwise publicly available.  This policy does not apply to the practices of companies that Tweeter does not own or control, or to people that Tweeter does not employ or manage, except as set forth below.</p>
 
 <p><b>Information Collection and Use</b></p>
 
 <p><b>Information</b><br>
-When visiting any Web site, your browser sends information to the site_s hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting.  We log this information and we may also track and catalog the search terms that you enter in our search forms.  When you purchase a product on Tweeter.com, we ask you for the following information: name address, phone number, e-mail address and credit card and expiration date.  We may also receive information from you in connection with contests or sweepstakes on Tweeter.com, customer feedback you provide, and customer service help you request.
-<br><br>
+When visiting any Web site, your browser sends information to the site's hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting.  We log this information and we may also track and catalog the search terms that you enter in our search forms.  When you purchase a product on Tweeter.com, we ask you for the following information: name address, phone number, e-mail address and credit card and expiration date.  We may also receive information from you in connection with contests or sweepstakes on Tweeter.com, customer feedback you provide, and customer service help you request.
+<br>
+<br>
 We use information to administer and improve Tweeter.com, process and follow up on your order, and contact you.</p>
 
 <p><b>Cookies</b><br>
@@ -590,92 +312,108 @@ We use industry-standard SSL (Secure Socket Layer) encryption technology, a secu
 <p><b>Disclosure of Personal Information</b><br>
 Tweeter does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 </p><ul>
-	<li>We provide the information to trusted partners who work on behalf of or with Tweeter under confidentiality agreements.  These companies may use your personal information to help Tweeter fulfill orders, process credit card payment, evaluate Tweeter.com or communicate with you about offers from Tweeter and our marketing partners.  However, these companies do not have any independent right to share this information.  You may opt out of future marketing communications from Tweeter or our marketing partners at any time by e-mailing to <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a>  or calling us at 1-866-690-2370.
-	</li><li>We respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims.
+	<li>We provide the information to trusted partners who work on behalf of or with Tweeter under confidentiality agreements.  These companies may use your personal information to help Tweeter fulfill orders, process credit card payment, evaluate Tweeter.com or communicate with you about offers from Tweeter and our marketing partners.  However, these companies do not have any independent right to share this information.  You may opt out of future marketing communications from Tweeter or our marketing partners at any time by e-mailing to <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a>  or calling us at 1-800-TWEETER.	</li><li>We respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims.
 	</li><li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Tweeter.com terms of use, or as otherwise required by law.
-	</li><li>We transfer information about you if Tweeter is acquired by or merged with another company.  In this event, Tweeter will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+	</li>
+	<li>We transfer information about you if Tweeter is acquired by or merged with another company.  In this event, Tweeter will notify you before information about you is transferred and becomes subject to a different privacy policy. <strong> Please note that on July 13, 2007, the U.S. Bankruptcy Court for the District of   Delaware (in   case no. 07-10787 PJW) authorized the sale of the Tweeter businesses to new   owners.&nbsp; The new owners have adopted all of Tweeter's existing privacy   policies.&nbsp; As a result, all customer information will remain protected by   Tweeter's existing privacy policies. </strong></li>
 </ul>
-<p class="pagetext">
-Also, GSI Commerce Solutions, Inc. ("GSI") operates this website pursuant to agreements with Tweeter.  GSI collects and has access to all information collected in connection with Tweeter.com.  GSI has agreed in writing to be bound by the terms and conditions of this privacy policy.</p>
-
 <p><b>3rd Parties/Links</b><br>
 Tweeter.com contains links to other websites.  Please recognize that we cannot control the use or security of your personal information collected by other websites.  If you have any concerns regarding the security or privacy of these websites, you should feel free to browse their privacy policies, or even to contact them directly.  Tweeter is not responsible for the privacy practices, data collection, security or content of other websites.</p>
 
 <p><b>Correcting, Updating and Removing Your Personal Information</b><br>
-If you wish to correct, update or remove any personal information that you have provided through Tweeter.com, please email us at <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a> or contact us by telephone at 1-866-690-2370.</p>
+If you wish to correct, update or remove any personal information that you have provided through Tweeter.com, please email us at <a href="mailto:customersupport@tweeter.com? subject=Privacy Policy Questions" class="pagelink">customersupport@tweeter.com</a> or contact us by telephone at 1-800-TWEETER.</p>
 
 
 <p><b>Your Consent and Changes to this Privacy Policy</b><br>
 By using Tweeter.com, you consent to the collection and use of your information as we have outlined in this privacy policy.  If you do not agree to our policy, you may not use Tweeter.com. We may change this privacy policy at any time and without prior notice.  We will notify you about significant changes in the way we treat personal information by sending a notice to an e-mail address you have provided to us or by placing a prominent notice on Tweeter.com so that you may be aware of our actions.  Your continued use of Tweeter.com following any such notice will mean that you accept such changes.</p>
 <br><br>
 <br><br></td>
-</tr></tbody></table>
-</smpanel><!--END STOREMAN PANEL helpdesk/TWTR_safetySecurityAndPrivacy_9-3.21099.jsp-->
-<!--END STOREMAN GENERATION-->
-
-							
-		</td>
-	</tr>
-</tbody></table>
-
-								
-<!--*********************************** STOREMAN HELPDESK ENDS**********************************-->
-</td>
-<td valign="top" width="175"><br><br>
-       </td>
-   </tr>
-   <tr>
-   <td bgcolor="#ffffff" height="10"></td>
-   </tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!-- Start of New Pixel File -->
+</tr></tbody></table></td>
+          
+        </tr>
+      </tbody></table>
+	  
+ 
 
 
-<!-- End of New Pixel File -->
+
+ <!-- /MAIN CONTENT --> 
 
 
-<table width="763" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td colspan="6" bgcolor="#000000" height="1"><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="1"></td>
-</tr>
-<tr bgcolor="#95954A">
 
-	<td align="center" height="23" width="140"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footernavlink">PRIVACY POLICY</a></td>
-	<td align="center" height="23" width="105"><a href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact" class="footernavlink">CONTACT US</a></td>
-	<td align="center" height="23" width="98"><a href="/corp/index.jsp" class="footernavlink">ABOUT US</a></td>
-	<td align="center" height="23" width="176"><a href="http://www.twtr.com" class="footernavlink">INVESTOR RELATIONS</a></td>
-	<td align="center" height="23" width="140"><a href="/corp/index.jsp?page=financing" class="footernavlink">FINANCING</a></td>
-	<td align="center" height="23" width="92"><a href="http://careers.tweeter.com" class="footernavlink">CAREERS</a></td>
+<!-- /MAIN -->
+<br><img src="/grfx/pixel.gif" width="598" height="1">	  
+  </td>
+  <td bgcolor="#FFFFFF" width="9"><img src="grfx/pixel.gif" width="9" height="1"></td>
+  <td width="5" background="/grfx/LNAVline_rrg2.gif" bgcolor="#ffffff">&nbsp;</td>
   </tr>
-<tr>
-	<td colspan="6" bgcolor="#000000" height="1"><img src="http://TWTR.imageg.net/images/pixel.gif" width="1" height="1"></td>
-</tr>
-<tr bgcolor="#FF9900">
-	<td colspan="2" height="50" align="left" class="footertext" valign="top">
-	<br><font style="color:#333333;font-size:10px;">&nbsp;Customer Service 1-866-690-2370<br><br>
-&nbsp;**See product page for details.</font>
-<br>
-<br>
-<a href="http://www.tweeter.com/helpdesk/index.jsp?display=safety&amp;subdisplay=terms"><font style="color:#333333;font-size:10px;">Terms of Use</font></a><font style="color:#333333;font-size:10px;">
-	</font></td>
-	<td align="right">
-	
-		<!-- src changed to https for PS 37121 (PMO# 47015 -->
-	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.tweeter.com"><img width="65" height="38" border="0" src="https://images.scanalert.com/meter/www.tweeter.com/31.gif" align="absmiddle" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
-	
-	</td>
-	<td colspan="3" height="50" align="right" nowrap=""><br><font style="color:#333333;font-size:10px;">
-	
-	<a href="https://www.tweeter.com/coreg/index.jsp?step=register" class="footerlink">My Account</a>&nbsp;|&nbsp;
-	<a href="/cart/index.jsp?wlName=wishlist" class="footerlink">Wish List</a>&nbsp;|&nbsp;
-	<a href="/giftCertificates/index.jsp" class="footerlink">Gift Certificates</a>&nbsp;|&nbsp;
-	<a href="/affiliate/index.jsp" class="footerlink">Affiliate Program</a>&nbsp;<br><br>
-	© 2006 Tweeter Home Entertainment Group&nbsp;</font><br><br></td>
+</tbody></table>
+ 
+ <table width="802" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="175" bgcolor="#ffffff" valign="top"><img src="/grfx/LNAVline_capb.gif" alt="-----------" width="183" height="16"></td>
+	<td width="100%" bgcolor="#ffffff">&nbsp;</td>
+	  <td width="5" background="/grfx/LNAVline_rrg2.gif" bgcolor="#ffffff">&nbsp;</td>
 </tr>
 </tbody></table>
 
+ 
+ 
+
+ 
+<!-- F --> 
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td bgcolor="#89957e" height="1"><img src="/grfx/pixel.gif" width="1" height="1"></td>
+</tr></tbody></table>
+
+ 
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr bgcolor="#FDFDFA">
+	<td align="center" valign="top" bgcolor="#FDFDFA">
+ 
+ <br>
+ <a href="http://expertadvice.tweeter.com"><img src="/grfx/rss.gif" alt="RSS" width="14" height="14" border="0" align="bottom"></a>
+<a href="http://expertadvice.tweeter.com" class="footerlink">Expert Advice</a>
+&nbsp;|&nbsp; 
+<a href="/B2B/" class="footerlink">Corporate Sales</a>
+&nbsp;|&nbsp;
+<a href="/careers/" class="footerlink">Careers</a>
+&nbsp;|&nbsp; 
+<a href="/aboutus/privacypolicy.asp" class="footerlink">Privacy Policy</a>
+&nbsp;|&nbsp;
+<a href="/aboutus/tou.asp" class="footerlink">Terms of Use</a>&nbsp;<br>
+ <br>
+<font style="color:#333333;font-size:10px;"> © 2007 Tweeter &nbsp;
+<br>
+<a href="/tweeter.asp">Tweeter</a> | <a href="/soundadvice.asp">Sound Advice</a> | <a href="/showcase.asp">Showcase</a>  |  <a href="/hifibuys.asp">HiFi Buys</a>  </font>
+<br> 
+<br>
+	
+ 	 
+	</td>
+</tr>
+</tbody></table>
+
+      <br>
+      <br>
+	  
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1023563-12";
+urchinTracker();
+</script>
+
+
+	  
+
+
+</center>
 
 </body></html>
