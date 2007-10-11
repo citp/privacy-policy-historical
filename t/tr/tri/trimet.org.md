@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623183619id_/http%3A//trimet.org/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011164623id_/http%3A//www.trimet.org/legal/privacy.htm) for the most accurate reproduction.*
 
 # TriMet: Privacy Policy
 
