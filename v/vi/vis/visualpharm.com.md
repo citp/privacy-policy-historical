@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualpharm.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624001413id_/http%3A//www.visualpharm.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualpharm.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011095545id_/http%3A//www.visualpharm.com/pp.html) for the most accurate reproduction.*
 
 # VisualPharm Privacy Policy
 
