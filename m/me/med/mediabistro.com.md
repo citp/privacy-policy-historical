@@ -1,158 +1,79 @@
-> *The following text is extracted and transformed from the mediabistro.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210134337id_/http%3A//mediabistro.com/aboutus/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabistro.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032655id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
-# mediabistro: About Us: legal
+# Jupitermedia Privacy Policy
 
-|  |  |   
----|---|---  
-|  |  |   
----|---|---  
-|   
-email  
+[](http://www.jupitermedia.com/RealMedia/ads/click_lx.cgi/intm/www.jupitermedia.com/corporate/privacy/privacypolicy.html/179000501/336x280/OasDefault/HP_DL380_eBook_GEMS_1gd/Admin_Guide_ebook_bob.gif/34306430616362323437306439376630)
+
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the JUPM Network. The "JUPM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by Jupitermedia Corporation and each of its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Bananastock Ltd., Cover Imagen Y Publicaciones S.L., HAAP Media Services and Consulting, LLC, Hemera Technologies Inc., IFA Bilderteam GmbH, IT Stock International Ltd., Jupiterimages (UK) Ltd., Jupiterimages France SAS, Jupiterimages GmbH, Jupiterimages Pty Ltd., and Workbook Inc., as linked directly or indirectly from the Jupitermedia.com (collectively the ÒSiteÓ) home page (collectively hereafter "JUPM"). By accessing the JUPM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
+
+We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
+
+**What information are you collecting and how are you collecting it?**
+
+**Do you collect IP addresses?**  
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+
   
-password  
-  
-Remember me  
-[Forgot your password?](https://web.archive.org/web/20020210134337id_/http%3A//mediabistro.com/memberscenter/reminder.asp)  
-[Register](https://web.archive.org/web/20020210134337id_/http%3A//mediabistro.com/memberscenter/register.asp?ref=/aboutus/legal.asp) for free now!
+What are cookies?   
+From time to time, JUPM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-[AND, sign up](https://web.archive.org/web/20020210134337id_/http%3A//mediabistro.com/memberscenter/changeMailList.asp?lmlid=12) for Daily Media News Feeds!
+**How do you use single-pixel gifs?**  
+JUPM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. JUPM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
 
-|   
-|  |   
-|  |  |   
----|---|---  
-| 
+**What personal information do you collect?**  
+Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
 
-**I. PRIVACY POLICY**
+We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the JUPM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
 
-**II. TERMS OF SERVICE AGREEMENT**  
-  
----  
-  
-**I. PRIVACY POLICY**  
-mediabistro is committed to protecting the privacy of its users. We do not share our users' personal information unless you specifically authorize us to, or unless required by law. We do not derive any profit from selling or sharing email addresses or personally-identifiable information to any other party. The following discloses in more detail the information gathering and dissemination practices for the mediabistro.com Web site and all its site-related services (collectively, the "Site") provided by mediabistro inc ("Mediabistro", "Mediabistro.com", "we", "us") to you ("users", "visitors", "members"). By using the Site, you express your agreement with these terms. If you do not agree with these terms, please do not use the Site. If you have questions or concerns or suggestions regarding this statement, please contact wecare@mediabistro.com. 
+If you are purchasing something on the JUPM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
 
-1) Information Collected  
-2) Communications from mediabistro.com   
-3) Sharing of Information   
-4) Choice / Opt-out   
-5) Notification of Changes to this Privacy Policy   
-6) Links, and Security   
-7) How to contact us 
+JUPM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
 
-1) INFORMATION COLLECTED   
-We collect information from our users at several different points and in several ways on our Web site.  
-a) **Registration and Manage Account page**   
-In order to use portions of this Web site, a user must first complete the registration form. During registration a user gives contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest.   
-b) **Profile**  
-c) **Job Alerts**  
-d) **Post Resume**   
-e) **Order Forms**   
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used only for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.   
-f) **Surveys  
-** From time-to-time we may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information may include contact information (such as name and shipping address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.   
-g) **Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We use both session ID cookies and persistent cookies. Session ID cookies are temporary files, deleted when the user closes his browser, that are used to ease the user's navigation of the site, for instance by remembering what pages have been viewed or what parts of a form have been completed. Persistent cookies are small files stored on the user's hard drive for extended periods of time, which are used by mediabistro.com to identify returning users to the site, and to speed up the login process for these users. Persistent cookies can be deleted by following the instructions in your Internet browser software. Third-party advertisers may place and/or recognize cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising  
-h) Third Party Advertising Some ads appearing on this Web site are delivered to users by Doubleclick, our Web advertising partner. Information about users’ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by mediabistro.com only and does not cover the use of cookies by any advertisers.  
-i) **Log Files**  
-Like most standard Web sites we use log files. These files record site visitors' internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Log files are used to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. They are not linked to personally identifiable information.  
-j) **Clear Gifs** (Web Beacons/Web Bugs)   
-We employ [or our third party advertising company employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Clear gifs are not tied to users’ personally identifiable information. 
+When you sign up for a JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with JUPM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
 
-2) COMMUNICATIONS FROM THE SITE   
-a) **Special Offers and Updates**  
-We send all new members a welcoming email to verify password and username. Established members may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.   
-b) **Newsletter** If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.   
-c) **Service Announcements** On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.  
-d) **Customer Service** We communicate with users on a regular basis, including by email, to provide requested services and in regards to issues relating to users' accounts.
+When you sign up for a JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
 
-3) SHARING OF INFORMATION  
-mediabistro.com will not share any user's information with any other party, except for in the following limited instances:   
-a) **Disclosure** specifically authorized by the User For instance, if you opt to have your Email Address linked to your postings on the Bulletin Board, it will then be viewable by other visitors to the Bulletin Board section of the Site. Or, if you place a Resume on the Site, and then distribute the unique URL for that Resume to others, the resume will then be viewable on the Site to any web browser which goes to that URL.  
-b) **Legal Compliance**  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.   
-c) **Aggregate Information** (non-personally identifiable)   
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.   
-d) **Third Party Advertisers** (non-personally identifiable)  
-mediabistro inc. shares Web site usage information about users with Doubleclick for the purpose of targeting our Internet banner advertisements on this site and other sites. For example, mediabistro inc. uses cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they collect and share through this technology is not personally identifiable. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/NAIPRIVACY).   
-e) **Third Party Payments**   
-We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.  
-f) **Other Service Providers**   
-We currently partner with third-party service providers, (such as eRSVP.com, which provides us with event-management services). When the user employs or participates in these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.   
-g) **Business Transitions**  
-In the event mediabistro inc. goes through a business transition, such as a merger, being acquired by another company, or bankruptcy, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
 
-4) CHOICE / OPT-OUT   
-a) **Choice/Opt-out**  
-Users who no longer wish to receive our newsletter and other communications may opt-out of receiving these communications by emailing us at wecare@mediabistro.com or by going to the Manage Account page in the Members Center (http://www.mediabistro.com/memberscenter).  
-b) **Correcting/Updating/Deleting/Deactivating Personal Information**   
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way for the user to correct, update or delete this information. This can be done at the Members' Center (http://www.mediabistro.com/memberscenter) or by emailing us at wecare@mediabistro.com.   
-c) **Resumes**  
-Any resume a user creates on or uploads to the Site will be kept there until deleted by the user. Once deleted, a resume will not be used by mediabistro.com for any purpose, or in any way made available to other parties.
+We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from JUPM or third party companies. 
 
-5) NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+**Will you disclose the information you collect to outside third parties?**  
+JUPM will disclose personal information and/or an IP address: 
 
-6) LINKS, SECURITY   
-a) **Links**  
-This Web site contains links to other sites. Please be aware that we, mediabistro inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.   
-b) **Security**   
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment. 
+1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
+2) When required by law or in the good-faith belief that such action is necessary to:   
+   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM;   
+   b) Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties;   
+   c) Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties;   
+   d) Fulfill a user's order or request;   
+3) To process and fulfill your order or notify you of order status;   
+4) When we have your consent to share the information;   
+5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
 
-7) CONTACT INFORMATION   
-If you have any questions, concerns, or suggestions regarding our privacy policy, please contact us at:   
-Phone: (212) 929-2588   
-Email: wecare@mediabistro.com   
-Postal Address: PO Box 1918, New York, NY 10113   
-Web site URL: http://www.mediabistro.com 
 
-**II. TERMS OF SERVICE AGREEMENT  
-**The mediabistro.com Terms of Service Agreement  
-TRADEMARKS, COPYRIGHTS & RESTRICTIONS  
-All materials on this site, including, but not limited to, images, illustrations, posts, audio clips, video clips (the "Materials") are protected by copyrights that are owned or licensed by the Company. mediabistro.com and "jobs, parties, people: Where the Media Feeds" are registered trademarks. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from www.mediabistro.com or any other web site owned or operated by the Company without the prior written permission of the Company. However, you may download or make one copy of the Materials, and other downloadable items displayed on the site, for personal, non-commercial home use only, provided all copyright and other notices contained in the Materials are left intact. Any modification of the Materials, or any portion thereof, or use of the Materials for any other purpose constitutes an infringement of the Company's copyrights and other proprietary rights. Use of these Materials on any other web site or other networked computer environment is prohibited without prior written permission from the Company.  
-**  
-LINKS  
-**The Company is not responsible for the content of any sites that may be linked to or from www.mediabistro.com. These links are provided for your convenience only and you access them at your own risk.  
-**  
-DISCLAIMERS**  
-SBy using this web site and/or posting Materials, you agree to indemnify the Company, its officers, directors, employees, successors, agents, distributors, and affiliates for any and all claims, damages, losses, and causes of action (including attorneys' fees) arising out of or relating to your breach or alleged breach of this agreement or for any content that is provided by you or through your user I.D. and/or password. You agree to cooperate as fully as reasonably required in the defense of any claim. Company reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you.
+We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
-COMPANY'S SITE CONTAINS FACTS, VIEWS, OPINIONS, STATEMENTS, AND RECOMMENDATIONS OF THIRD-PARTY INDIVIDUALS AND ORGANIZATIONS. THE COMPANY DOES NOT REPRESENT OR ENDORSE THE ACCURACY, CURRENTNESS, OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT, OR OTHER INFORMATION DISPLAYED, UPLOADED, OR DISTRIBUTED THROUGH THE SITE. YOU ACKNOWLEDGE THAT ANY RELIANCE ON ANY SUCH OPINION, ADVICE, STATEMENT, OR INFORMATION WILL BE AT YOUR SOLE RISK. THE MATERIALS ON THIS SITE ARE TRANSMITTED AND DISTRIBUTED "AS IS" AND APPEAR ON THE SITE WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. THE COMPANY MAKES NO WARRANTY AS TO THE QUALITY, ACCURACY, COMPLETENESS, AND VALIDITY OF ANY MATERIALS ON THE WEB SITE AND DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED ON THE WEB SITE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED.
+**What else should I know about my privacy when online?**  
+JUPM may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
 
-Where applicable law does not allow the exclusion of implied warranties, the foregoing exclusions may not apply to you. Neither the Company, nor its officers, directors, employees, agents, successors, distributors or affiliates are responsible or liable for any loss, damage (including, but not limited to, actual, consequential, or punitive), liability, claim, or other injury or cause related to or resulting from any information posted on the Company's web site.  
-**  
-TERMINATION**  
-The Company may, in its sole discretion, terminate or suspend your access to all or part of the site, including, but not limited to, any Message Boards on its site, for any reason, including without limitation, breach of this Agreement. In the event this Agreement is terminated, the restrictions regarding Materials appearing on the site, and the representations and warranties, indemnities, and limitations of liabilities set forth in this Agreement will survive termination. In the event that you are unsatisfied with the services provided by Company, your sole remedy is to terminate this Agreement.  
-**  
-JURISDICTION**  
-This site is controlled and operated by the Company from the Company's headquarters in New York, New York. The Company does not represent or warrant that Materials on the site are appropriate or available for use in  
-other locations. If you choose to access this site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws. This agreement will be governed by and construed in  
-accordance with the laws of the State of New York, as it is applied to agreements entered into and performed within that State. Any action brought to enforce this agreement or matters related to the site will be brought in either the State or Federal Courts of Delaware. If any provision of this Agreement is deemed void, unlawful, or otherwise unenforceable for any reason, that provision will be severed from this Agreement and the remaining provisions of this Agreement will remain in force. This Agreement constitutes the entire agreement between you and the Company concerning your use of the site, and the Agreement will not be modified, except in writing, signed by both parties.
+The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
 
-This bulletin board service ("mediabistro Bulletin Board") is provided by mediabistro inc., a Delaware Corporation ("Company") to you ("you" or "user"), subject to the terms of this mediabistro Bulletin Board agreement ("Agreement"), and the rules that may be published from time to time by mediabistro. mediabistro bulletin boards are provided as a free service to users who agree to abide by the terms and conditions of this Agreement. mediabistro reserves the right to change the nature of this relationship at any time. Users who violate the terms of this Agreement will have their mediabistro bulletin board access canceled and they may permanently be banned from using mediabistro bulletin boards.
+If you use JUPM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, JUPM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
 
-**ENTERING A BULLETIN BOARD OF mediabistro WILL CONSTITUTE ACCEPTANCE OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO ABIDE BY THESE TERMS, PLEASE DO NOT ENTER mediabistro BULLETIN BOARDS.  
-**  
-**BULLETIN BOARD RULES:  
-**You are entirely responsible and liable for all activities conducted by you. Listed below are some, though not all, violations which may result in mediabistro terminating your access. You agree not to do any of the following actions while using mediabistro bulletin boards:
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-(1) harass, threaten, embarrass or cause distress or discomfort upon another mediabistro bulletin boards participant, user, or other individual or entity;
+Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
 
-(2) transmit via mediabistro bulletin boards any information, data, text, files, links, software, communication or other materials ("Content") that mediabistro considers to be unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, racially, ethnically or otherwise objectionable;
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
-(3) post or transmit any unsolicited advertising, promotional materials, or any other forms of solicitation in mediabistro bulletin boards;
+**Business transfers**  
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
 
-(4) intentionally or unintentionally violate any applicable local, state, national or international law, including but not limited to any regulations having the force of law while using or accessing mediabistro bulletin board in connection with your use of mediabistro in any manner;
+**Your Consent To This Agreement**  
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-(5) invade the privacy or violate any personal or proprietary right of any person or entity; and
+Please send any questions about JUPM's Privacy Policy to: [mailto:privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
 
-(6) infringe the intellectual property rights or similar rights, including but not limited to copyrights and trademarks, of any person or entity.  
-**  
-CONTENT:  
-**You and any user of your bulletin board name must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of any Content. mediabistro.com shall have the right, but not the responsibility, to  
-remove Content which is deemed in mediabistro's sole discretion harmful, offensive, or otherwise in violation of this Agreement or any rules mediabistro has in place at the time. mediabistro.com may elect at its sole discretion to monitor some, all, or no areas of mediabistro.com bulletin boards for adherence to this Agreement or mediabistro.com's rules.  
-****  
-  
-**[home](http://www.mediabistro.com/default.asp) | [job listings](http://www.mediabistro.com/joblistings/) | [members center](http://www.mediabistro.com/memberscenter/) | [events](http://www.mediabistro.com/events/) | [bulletin board](http://www.mediabistro.com/bbs/) | [resources](http://www.mediabistro.com/resources/)  
-[employers page](http://www.mediabistro.com/employers/) | [post a job](https://www.mediabistro.com/employers/postjob1.asp) | [about us](http://www.mediabistro.com/aboutus/) | [contact us](http://www.mediabistro.com/aboutus/contactus.asp) | [advertising](http://www.mediabistro.com/aboutus/advertising.asp) | [legal](http://www.mediabistro.com/aboutus/legal.asp)**  
-Copyright © 2000-2002 mediabistro.com inc. All rights reserved.
+Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+
+(Revised September 6, 2007) 
