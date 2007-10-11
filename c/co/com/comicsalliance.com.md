@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612205209id_/http%3A//about.aol.com/aolnetwork/mem_commitments) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicsalliance.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011204700id_/http%3A//about.aol.com/aolnetwork/mem_commitments) for the most accurate reproduction.*
 
 # AOL Member Privacy : Member Commitments - About AOL
 
