@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624021335id_/http%3A//www.mynewsletterbuilder.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsletterbuilder.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011155928id_/http%3A//www.mynewsletterbuilder.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security - MyNewsletter Builder
 
@@ -9,7 +9,7 @@ Protecting consumer privacy online is central to MyNewsletterBuilder. Accordingl
   1. We ensure that only designated staff has access to it. 
   2. We will use your information only for the stated purpose (the reason for which you gave it to us), and we will not sell or share it without your consent. 
   3. This includes your personal information and any email mailing list you upload to our server. 
-  4. Please read our [No Spam Policy](http://www.mynewsletterbuilder.com/home/nospam.php)
+  4. Please read our [No Spam Policy](http://mynewsletterbuilder.com/home/nospam.php)
 
 
 
