@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623230954id_/http%3A//leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011045001id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - LeaseTrader.com
 
