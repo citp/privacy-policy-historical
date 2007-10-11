@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217010615id_/http%3A//www.inventorspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012014554id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Inventor Spot
 
@@ -32,7 +32,7 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 We have contracted with certain companies to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, these commpanies may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by these companies, please contact us. 
 
-**Log Files**
+ **Log Files**
 
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
@@ -64,4 +64,5 @@ If a user’s personally identifiable information changes (such as your zip code
 
 If we decide to change our privacy policy, we will post those changes on our privacy policy so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. (Dated March 16, 2006) 
 
-[email this page](https://web.archive.org/forward/221 "Forward this page to a friend") | [printer friendly version](https://web.archive.org/node/221/print "Display a printer friendly version of this page.")
+  
+
