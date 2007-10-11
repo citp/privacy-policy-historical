@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115340id_/http%3A//email.exacttarget.com/ETWeb/company.aspx%3Fid%3D80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011074403id_/http%3A//email.exacttarget.com/ETWeb/company.aspx%3Fid%3D80) for the most accurate reproduction.*
 
-# ExactTarget: Company Information
+# Email Marketing Solutions from ExactTarget
 
 ** Privacy at ExactTarget  
 **ExactTarget is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how ExactTarget enforces permission email marketing with our clients, please see our Anti-spam policy.
