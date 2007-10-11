@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613034640id_/http%3A//www.ananova.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananova.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011033253id_/http%3A//www.ananova.com/about/privacy.html) for the most accurate reproduction.*
 
 # Ananova and your personal data
 
