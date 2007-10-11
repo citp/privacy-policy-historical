@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629012311id_/http%3A//www.smilebox.com/privacy.jsp%3Fpartner%3Dsmilebox%26campaign%3Dnone%26page%3DHomePage%26origin%3DHomePage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011111125id_/http%3A//www.smilebox.com/privacy.jsp%3Fpartner%3Dsmilebox%26campaign%3Dnone%26page%3DHomePage%26origin%3DHomePage) for the most accurate reproduction.*
 
 # Privacy Policy
 
