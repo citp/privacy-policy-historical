@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629122215id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061011id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.*
 
-# 
+# None
 
-## **PRIVACY POLICY**
+This site is owned and operated by The Scientist, LLC. Because we gather certain types of information from our users, we feel you should understand our policy and the terms and conditions surrounding the capture, use, and sharing of that information. This privacy policy discloses what information The Scientist gathers at this site and how we use it.
 
-This site is owned and operated by The Scientist, LLC.  Because we gather certain types of information from our users, we feel you should understand our policy and the terms and conditions surrounding the capture, use, and sharing of that information. This privacy policy discloses what information The Scientist gathers at this site and how we use it.
+##  **INTENDED AUDIENCE**
+
+This site is not intended for children under the age of 13. We do not intend to collect individually identifiable information from such individuals.
 
 ##  **INFORMATION THE SCIENTIST GATHERS AND TRACKS**
 
