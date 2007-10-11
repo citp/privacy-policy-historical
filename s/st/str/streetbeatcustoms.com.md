@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetbeatcustoms.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615064831id_/http%3A//www.streetbeatcustoms.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetbeatcustoms.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011202318id_/http%3A//www.streetbeatcustoms.com/privacypolicy.html) for the most accurate reproduction.*
 
 # StreetBeatCustoms.com Privacy Policy
 
