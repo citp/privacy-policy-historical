@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429232115id_/http%3A//www.kfoxtv.com/station/1940010/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011032055id_/http%3A//www.kfoxtv.com/station/1940010/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KFOX-TV News Story - KFOX El Paso
 
