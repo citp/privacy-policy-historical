@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617004543id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011111814id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
 
 # Spells 4 free - love spells, black magic, white magick, powerful voodoo, money, luck, protection, re
 
