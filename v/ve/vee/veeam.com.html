@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623024148id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011132046id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,7 +7,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 <link href="/main.css" rel="stylesheet" type="text/css">
-
+<link href="/menu.css" rel="stylesheet" type="text/css">
 <link href="/engine/dropdowntab.css" rel="stylesheet" type="text/css"> <!-- DROPDOWN CSS INCLUDE HERE -->
 <script type="text/javascript" src="/engine/dropdowntab.js"></script>    <!-- DROPDOWN SCRIPT INCLUDE HERE -->
 
@@ -29,7 +29,20 @@ function MM_validateForm() { //v4.0
       	if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(val)!= true){
  			errors+='- '+Label+' invalid email address.\n';
 		}
-      } else if (test!='R') { num = parseFloat(val);
+      }
+      else if (test.indexOf('isPhone')!=-1) {
+			  if (val == "") {
+				   errors += '- '+Label+' is required.\n';
+				}
+			  var stripped = val.replace(/[\(\)\+\-\ ]/g, '');
+		    if (/^\d+$/.test(stripped)!= true) {
+		       errors += '- '+Label+' contains illegal character(s).\n';
+		    }
+		    if (stripped.length <= 10) {
+					errors += '- '+Label+' format is invalid (e.g.:+1-440-555-5555).\n';
+		    } 
+		}      
+       else if (test!='R') { num = parseFloat(val);
         if (isNaN(val)) errors+='- '+Label+' must contain a number.\n';
         if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
           min=test.substring(8,p); max=test.substring(p+1);
@@ -44,6 +57,7 @@ function MM_validateForm() { //v4.0
 			  if(iSel == "1" || iSel == "2" || iSel == "39")
 			errors += '- '+Label+' is required.\n';
 		}
+		
 		else{
 			errors += '- '+Label+' is required.\n';
 		}
@@ -72,10 +86,13 @@ urchinTracker();
     <td class="main" style="width:50%;"><div align="center">
 		<div id="dropmenuProducts" class="dropmenudiv">
 <!--	<a class="diver">Products for ESX</a> -->
+	<a href="/veeam-backup-solution-esx-vi3.asp">Veeam Backup</a>
+	<a href="/veeam_monitor_vi.asp">Veeam Monitor</a>
+	<a href="/veeam_configurator.asp">Veeam Configurator</a>
 	<a href="/veeam_reporter.asp">Veeam Reporter</a>
-    <a href="/veeam_fast_scp.asp">Veeam FastSCP</a>
-	<a href="/veeam_monitor.asp">Veeam Monitor</a>
+<!--	<a href="/veeam_monitor.asp">Veeam Monitor</a>-->
 <!--	<a class="diver">Free utilities</a> -->
+   <a href="/veeam_fast_scp.asp">Veeam FastSCP <small>(free)</small></a>
 	<a href="/root_access/">Veeam RootAccess <small>(free)</small></a>
 	<a href="/veeam_reporter_stencil.asp">Veeam Stencils <small>(free)</small></a>
 <!--	<div></div>-->
@@ -88,6 +105,7 @@ urchinTracker();
 	<a href="/partners/">Partner login</a>
 </div><div id="dropmenuCompany" class="dropmenudiv">
 	<a href="/Company.asp">About</a>
+	<a href="/management.asp">Management Team</a>
 	<a href="/press.asp">Press coverage</a>
 	<a href="/release.asp">News release</a>
 	<a href="/contacts.asp">Contacts</a>
@@ -228,7 +246,10 @@ To help us improve our privacy policy, please <a href="/support.asp">give us</a>
 			<td bgcolor="#FFFFFF" width="100%"></td>
 			<td width="15px" height="7px"><img width="15" height="7" src="/images/bottom_r.png"></td></tr></tbody></table>
 			
-			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px">All rights reserved. © 2007 Veeam. </a>&nbsp;<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px" href="privacy.asp">Read Privacy Policy.</a>&nbsp;&nbsp;</td><td class="bottom_line">&nbsp;</td>
+			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px">All rights reserved. © 2007 Veeam. </a>&nbsp;
+			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px" href="privacy.asp">Read Privacy Policy.</a>&nbsp;&nbsp;
+</td>
+<td class="bottom_line">&nbsp;</td>
 		  </tr>
 
 </tbody></table>
