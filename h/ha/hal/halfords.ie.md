@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halfords.ie privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218143004id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_10651_langId_-1_partNumber_ST_378) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.ie privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011190117id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/product_storeId_10001_catalogId_10651_langId_-1_partNumber_ST_378) for the most accurate reproduction.*
 
-# Halfords Advice Centre - Halfords.com - Privacy Policy
+# Halfords Advice Centre -
 
 Halfords is registered under the Data Protection Act. We are committed to protecting your privacy and have taken steps to explain this in full below. We use the information we collect to enhance and improve your experience of using our websites. We do not disclose your information to anyone outside of Halfords unless we receive your permission to do so. We explain here, for your reassurance, why we ask for information and how this information is likely to be used. You can then make informed choices about the information you provide on the Halfords websites.
 
