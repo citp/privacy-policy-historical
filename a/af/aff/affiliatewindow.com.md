@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatewindow.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629033917id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatewindow.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011062704id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.*
 
 # Affiliate Network - Affiliate Window
 
