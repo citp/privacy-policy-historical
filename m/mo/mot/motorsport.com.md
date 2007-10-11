@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509045111id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsport.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011145245id_/http%3A//www.motorsport.com/etc/legal/privacy.asp) for the most accurate reproduction.*
 
 # Motorsport.com: Corporate info
 
@@ -29,4 +29,4 @@ This site incorporates appropriate safeguards to protect the security, integrity
 Motorsport.com provides links to various Web sites that we do not control as well as to our sponsors. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Even if an affiliation exists between our Web site and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to our site, you should consult that site's privacy policy before providing any personal information.  
 
 
-0.032
+0.017
