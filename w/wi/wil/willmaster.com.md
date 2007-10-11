@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607180731id_/http%3A//bontragerconnection.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011030846id_/http%3A//bontragerconnection.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bontrager Connection Privacy Statement
 
