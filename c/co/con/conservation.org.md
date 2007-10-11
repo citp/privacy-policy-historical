@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206012910id_/http%3A//www.conservation.org/xp/CIWEB/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011180413id_/http%3A//web.conservation.org/xp/CIWEB/privacy.xml) for the most accurate reproduction.*
 
 # Conservation International - Privacy Policy
 
   
   
-[](https://secure2.convio.net/cintl/site/Donation?ACTION=SHOW_DONATION_OPTIONS&CAMPAIGN_ID=2001&JServSessionIdr011=0g0jw2sk22.app2b)[](https://secure2.convio.net/cintl/site/Donation?ACTION=SHOW_DONATION_OPTIONS&CAMPAIGN_ID=2001&JServSessionIdr011=0g0jw2sk22.app2b)[](http://getinvolved.conservation.org/giftmembership)| | |   
   
-Thank you for visiting Conservation International's (CI) website. Visitors to www.conservation.org and all related sites are guaranteed privacy. Information collected on [www.conservation.org](http://www.conservation.org/) and all relatated sites is kept private and never shared with other organizations. We've created this privacy policy to inform you about the types of information gathered and disseminated on this website.   
+| | |   
+  
+Thank you for visiting Conservation International's (CI) website. Visitors to www.conservation.org and all related sites are guaranteed privacy. Information collected on [www.conservation.org](https://web.archive.org/xp/CIWEB/) and all related sites is kept private and never shared with other organizations. We've created this privacy policy to inform you about the types of information gathered and disseminated on this website.   
 Your IP (Internet Protocol) address is used to gather broad demographic information. CI logs IP addresses and browser types for systems administration purposes. These logs are analyzed to constantly improve the value of the materials available on this website. Your IP address also helps us diagnose problems with our server and administer the Web site. IP addresses do not provide us with any identifiable personal information. This means your session will be tracked, but you will remain anonymous to us.   
 In order to better understand the way our websites are used by visitors, CI employs the use of cookies, a small file that stores information on your hard disk drive. CI uses information derived from cookies strictly for tracking usage and developing site improvements.  
 This site contains links to sites outside www.conservation.org. CI is not responsible for the privacy practices, or the content, of such other Web sites.   
@@ -42,8 +43,8 @@ None of the websites covered by this policy knowingly collect identifiable perso
 CI does not utilize direct mail services or telemarketing so your information will never be used for solicitation.  
 Please update any changes to your personal information so we may maintain accurate records regarding your membership with CI. You may send changes using our [ Contact Us](https://web.archive.org/xp/CIWEB/contact.xml) form or, write to:  
 Conservation International   
-1919 M Street, NW Suite 600  
-Washington, DC 20036   
+2011 Crystal Drive, Suite 500  
+Arlington, VA 22202  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please use our [ Contact Us](https://web.archive.org/xp/CIWEB/contact.xml) form.  
 | | | |   
   
