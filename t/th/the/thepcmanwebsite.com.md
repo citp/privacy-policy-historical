@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627191326id_/http%3A//thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011211751id_/http%3A//www.thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - The PCman Website
 
