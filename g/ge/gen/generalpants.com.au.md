@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303215745id_/http%3A//generalpants.com.au/privacy_and_legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011141932id_/http%3A//generalpants.com.au/privacy_and_legal) for the most accurate reproduction.*
 
 # General Pants Co. - Privacy and Legal
 
