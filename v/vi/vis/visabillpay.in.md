@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visabillpay.in privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabillpay.in privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm) for the most accurate reproduction.*
 
 # Visa Bill Pay
 
@@ -26,24 +26,24 @@ Please read the following policy to understand how your personal information wil
 | ****On this page  
 ---  
 Notice  
-****[What personal information we collect and how we use it](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#1)  
-****[What are cookies and how does Visa Bill Pay use them ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#2)  
-****[Sweepstakes, contests, games, and surveys ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#3)  
-****[Email, mailing lists, and other services ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#4)  
-****[Affiliated businesses and links to other sites ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#5)  
-****[Our policy regarding selling or renting of personal information ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#6)  
-****[Agents ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#7)  
-****[Banners and other advertisements on Visa Bill Pay](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#8)  
-****[Business transfers ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#9)  
-****[Disclosure of personal information for legal purposes and protection of](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#10) **** **** ****[Visa and others](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#10)  
+****[What personal information we collect and how we use it](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#1)  
+****[What are cookies and how does Visa Bill Pay use them ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#2)  
+****[Sweepstakes, contests, games, and surveys ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#3)  
+****[Email, mailing lists, and other services ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#4)  
+****[Affiliated businesses and links to other sites ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#5)  
+****[Our policy regarding selling or renting of personal information ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#6)  
+****[Agents ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#7)  
+****[Banners and other advertisements on Visa Bill Pay](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#8)  
+****[Business transfers ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#9)  
+****[Disclosure of personal information for legal purposes and protection of](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#10) **** **** ****[Visa and others](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#10)  
 Choice  
-****[How you can decide what communication you'll receive from us](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#11)  
+****[How you can decide what communication you'll receive from us](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#11)  
 Security  
-****[How we protect your personal information ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#12)  
-****[Security precautions are in place to protect the loss, misuse, or alteration ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#13)     [of your information ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#13)  
+****[How we protect your personal information ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#12)  
+****[Security precautions are in place to protect the loss, misuse, or alteration ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#13)     [of your information ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#13)  
 Customer service and recourse   
-****[Changes to the Visa Bill Pay Privacy Policy ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#14)  
-****[How to contact Visa Bill Pay regarding your concerns and questions](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#15)  
+****[Changes to the Visa Bill Pay Privacy Policy ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#14)  
+****[How to contact Visa Bill Pay regarding your concerns and questions](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm#15)  
   
 ****  
   
@@ -168,7 +168,7 @@ Security precautions in place to protect the loss, misuse, or alteration of your
 ****  
 Your Visa Bill Pay account information is password-protected so that you and only you have access to this personal information. You may edit your Visa Bill Pay account information by using your Visa Bill Pay User ID and password. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Visa Bill Pay has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure all Personal Information that Visa Bill Pay collects online. To learn more about our security[ click here. ](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/security_vbp.htm)
+To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Visa Bill Pay has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure all Personal Information that Visa Bill Pay collects online. To learn more about our security[ click here. ](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/security_vbp.htm)
 
 We recommend that you do not divulge your password or your secret question and answer to anyone. Visa Bill Pay will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Visa Bill Pay account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
 
@@ -180,7 +180,7 @@ CUSTOMER SERVICE AND RECOURSE
 ****  
 Changes to the Visa Bill Pay Privacy Policy  
 ****  
-This Privacy Policy was revised and posted on June 15, 2005. Visa Bill Pay reserves the right to change, modify, or amend this policy at any time and post those updates on this page. You are responsible for revisiting this page to review our Privacy Policy updates. Please also read over the Visa Bill Pay [Terms and Conditions.](https://web.archive.org/web/20070623132436id_/http%3A//www.visabillpay.in/jsp/legal_vbp.htm)  
+This Privacy Policy was revised and posted on June 15, 2005. Visa Bill Pay reserves the right to change, modify, or amend this policy at any time and post those updates on this page. You are responsible for revisiting this page to review our Privacy Policy updates. Please also read over the Visa Bill Pay [Terms and Conditions.](https://web.archive.org/web/20071011024328id_/http%3A//www.visabillpay.in/jsp/legal_vbp.htm)  
 ****  
 ****  
 How to contact Visa Bill Pay regarding your concerns and  questions  
