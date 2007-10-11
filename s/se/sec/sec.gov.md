@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630111648id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011120743id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # On the SEC Site: Your Privacy
 
 |  |   
+|  |   
+---|---|---|---  
+  
+**Privacy Information**
+
+* * *
+
+[Privacy Office](https://web.archive.org/about/privacy/secprivacyoffice.htm)  
+  
+  
+|   
 
 
 At various places on our web site, we tell you how to contact us, and we encourage you to give us some personal details about yourself. You do not have to give us personal information to visit our site. We collect personal information from you only if you choose to give it to us.
@@ -61,7 +72,7 @@ The Freedom of Information Act (FOIA) generally allows the SEC to make your info
 
 Rule 83 of the SEC's Rules on Information and Requests, (17 CFR 200.83) explains how you should make your request for confidentiality. Your letter may be sent or faxed to our FOIA Officer at 100 F Street, NE, MS 0-5, Washington, DC 20549 or fax number (703) 914-1149. Alternatively, you may follow the instructions on our [on-line FOIA pages](https://web.archive.org/foia.shtml).
 
-_http://www.sec.gov/privacy.htm_   
+_http://www.sec.gov/privacy.htm_  
 
 
 * * *
