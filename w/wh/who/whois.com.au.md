@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whois.com.au privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625220136id_/http%3A//www.whois.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011054343id_/http%3A//www.whois.com.au/privacy.html) for the most accurate reproduction.*
 
-# whois.com.au | Privacy Policy
+# Privacy Policy
 
-##### Privacy policy 
+## Privacy policy 
 
 **Overview**  
 Whois.com.au values the privacy of it's users and strives to protect it wherever possible.  
