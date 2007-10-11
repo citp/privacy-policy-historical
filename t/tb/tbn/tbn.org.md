@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624192127id_/http%3A//www.tbn.org/index.php/3/19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031245id_/http%3A//www.tbn.org/index.php/3/19.html) for the most accurate reproduction.*
 
 # TBN - Trinity Broadcasting Network
 
