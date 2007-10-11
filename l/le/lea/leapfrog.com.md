@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the leapfrog.com privacy policy that was archived on 2007-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070328233104id_/http%3A//www.leapfrog.com/LeapFrog/static_content/policies-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfrog.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063520id_/http%3A//www.leapfrog.com/Primary/Support/Policies/PrivacyPolicies.jsp) for the most accurate reproduction.*
 
-# Policies Privacy
+# Privacy Policies
 
 LeapFrog Enterprises, Inc., and its affiliates (collectively LeapFrog) is committed to preserving your privacy. From time to time, we may update this policy to improve or clarify our privacy efforts.
 
-The people who bring LeapFrog® products to life are passionate about education and dedicated to enriching the lives of children and adults through learning. Because we believe that learning and personal development are best achieved in an atmosphere of fun and safety, your confidence in our products and conduct is essential to our aspirations. The following sections set forth policies designed to provide assurance to our customers, and to be the foundation of their trust. 
+The people who bring LeapFrog® products to life are passionate about education and dedicated to enriching the lives of children and adults through learning. Because we believe that learning and personal development are best achieved in an atmosphere of fun and safety, your confidence in our products and conduct is essential to our aspirations. The following sections set forth policies designed to provide assurance to our customers, and to be the foundation of their trust.
+
+ **Please note that not all data collection activities and accompanying services set forth in this privacy policy are provided on all LeapFrog websites.**
 
 ### Collection of Information
 
@@ -42,7 +44,7 @@ If you do not want LeapFrog to send you e-mail or regular mail about our product
 
 We ask for data that helps us personalize the experience for you and your family on our Web site and within our Internet-enabled products. LeapFrog takes reasonable steps to prevent disclosure of unauthorized information to anyone other than LeapFrog and its affiliates. 
 
-Regarding the use of ?cookies? on your computer: Our services may require the use of cookies. A cookie is a piece of information exchanged between your browser and our server. The file contains only basic non-identifying information and does not contain any secure information. When you sign in, our Web server reads this information and uses it to identify you during your site session. This eliminates the necessity for you to sign in on every page of our Web site. Cookies also allow for faster access to pages that you may have already have visited. If you turn off cookies in your browser, you may not be able to use some of the personalization in your My LeapFrog area, and certain areas may require you to re-authenticate (sign in) to perform a task. 
+Regarding the use of 'cookies' on your computer: Our services may require the use of cookies. A cookie is a piece of information exchanged between your browser and our server. The file contains only basic non-identifying information and does not contain any secure information. When you sign in, our Web server reads this information and uses it to identify you during your site session. This eliminates the necessity for you to sign in on every page of our Web site. Cookies also allow for faster access to pages that you may have already have visited. If you turn off cookies in your browser, you may not be able to use some of the personalization in your My LeapFrog area, and certain areas may require you to re-authenticate (sign in) to perform a task. 
 
 LeapFrog does not collect information passively through cookies or other tracking mechanisms except in the circumstances described above. Cookies DON'T contain any personal information about a specific user. We don't use cookies or other non-consensual methods to take personally identifiable or online contact information about you or your family off of your computer. Except for certain activities, which we talked about above, LeapFrog doesn't use cookies for direct marketing or promotional purposes. Cookies are also not used to collect information specifically about you or your family for sharing with third parties. 
 
@@ -101,8 +103,7 @@ If you have any questions about this privacy statement, your personal informatio
 LeapFrog  
 Attn: Consumer Services  
 6401 Hollis Street, Suite 100  
-Emeryville, CA 94608-1071
-
+Emeryville, CA 94608-1071  
 [Support](http://leapfrog.custhelp.com/cgi-bin/leapfrog.cfg/php/enduser/ask.php)
 
 ### Internet Safety
