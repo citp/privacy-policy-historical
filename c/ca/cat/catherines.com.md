@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623203420id_/http%3A//catherines.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011164905id_/http%3A//catherines.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
 
 # Catherines - Plus-size clothing and lingerie for women in sizes 16W-34W
 
-Internet Privacy Policy  
+  
   
 What is your Internet Privacy Policy?  
 What information do you collect when I visit your Web sites?  
@@ -65,16 +65,16 @@ Finally, if some or all of the business assets of any Charming Shoppes company a
 top
 
 What if my information changes?  
-You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20070623203420id_/http%3A//catherines.charmingshoppes.com/pagebuilder/my_account_update)
+You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20071011164905id_/http%3A//catherines.charmingshoppes.com/pagebuilder/my_account_update)
 
-If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20070623203420id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
+If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20071011164905id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
   
 top
 
 How do I opt out of sharing of my information?  
 You may opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures to affiliates unless required by law, disclosures to third parties as necessary to fulfill your requests, previously completed disclosures to third parties, or disclosures to third parties in connection with subsequent contests or promotions you may choose to enter.
 
-If at any time you need assistance with opting out of the sharing of information with unrelated third parties, [send us an e-mail](https://web.archive.org/web/20070623203420id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
+If at any time you need assistance with opting out of the sharing of information with unrelated third parties, [send us an e-mail](https://web.archive.org/web/20071011164905id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
   
 top
 
@@ -108,7 +108,7 @@ From time to time, our privacy and security practices may change. If we modify o
 top
 
 How can I contact you with my suggestions or questions?  
-To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20070623203420id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us)  
+To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20071011164905id_/http%3A//catherines.charmingshoppes.com/pagebuilder/customer_service_email_us)  
   
 top
 
