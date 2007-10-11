@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629090847id_/http%3A//www.yesmagazine.org/default.asp%3FID%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011132945id_/http%3A//www.yesmagazine.org/default.asp%3FID%3D41) for the most accurate reproduction.*
 
 # YES! magazine privacy policy
 
