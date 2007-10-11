@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505063441id_/http%3A//www.loopylove.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopylove.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011090159id_/http%3A//www.loopylove.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Online Chat - Privacy - LoopyLove
 
@@ -48,7 +48,7 @@ We collect information about you, our users, so that you are able to use our ser
     * To personalise aspects of our overall service to you by building an accurate customer profile of you;
     * To communicate with you about (a) profiles of other users who we believe will be of interest to you; (b) new users who have registered with the website; and (c) users who wish to communicate with you; and
     * In order to make available to you promotional or relevant information from Allegran relating to Allegran's products and services and those of third parties which may be of interest to you.
-If you have registered with this website and do not wish to receive promotional or relevant information then please [Login](http://www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=A715D9EE-C6D8-4651-8B7190BB92BA8CBA&action=login "Login") and access "My Profile" to opt out. You may also have your information removed at any time. If you remove your details, your access rights to the restricted parts of our website and your ability to benefit from certain aspects of our services will cease to exist as you will no longer be considered a registered user. 
+If you have registered with this website and do not wish to receive promotional or relevant information then please [Login](http://www.loopylove.com/index.cfm?cr_p=&cr_u=&cr_cb=1AA30670-FB9A-42D9-8B0AD98F65E1B478&action=login "Login") and access "My Profile" to opt out. You may also have your information removed at any time. If you remove your details, your access rights to the restricted parts of our website and your ability to benefit from certain aspects of our services will cease to exist as you will no longer be considered a registered user. 
   5. **DISCLOSURE OF INFORMATION ABOUT YOU**   
 We will only disclose information obtained from you to other third parties to enable us to perform services requested by you, or with your prior consent. The more we know about you, the more value we can offer by way of a personalised service. We may store certain personal information and use this to offer you personalised services, information and offers through our services. Once you have given consent you can of course ask us to stop providing such service to you at any time, which we will do. In addition by accepting this Privacy Policy you will be regarded as having given your consent to us disclosing your information to the following types of persons – 
     * Any company or other entity to whom we may sell all or part of our business;
@@ -78,17 +78,13 @@ If you have any questions or comments about our privacy policy, please send [fee
 |  |   
 ---  
 [ ](http://www.loopylove.com/index.cfm?action=register)  
-[](http://www.loopylove.com/index.cfm?action=offensive)  
-[LADY LUU](http://www.loopylove.com/index.cfm?action=register)  
+[ANDY1064_H](http://www.loopylove.com/index.cfm?action=register)  
 [ ](http://www.loopylove.com/index.cfm?action=register)  
-[](http://www.loopylove.com/index.cfm?action=offensive)  
-[BIGGLES633](http://www.loopylove.com/index.cfm?action=register)  
+[DAVIEBOY1032](http://www.loopylove.com/index.cfm?action=register)  
 [ ](http://www.loopylove.com/index.cfm?action=register)  
-[](http://www.loopylove.com/index.cfm?action=offensive)  
-[LEMMING_X](http://www.loopylove.com/index.cfm?action=register)  
+[RANDIMANDI](http://www.loopylove.com/index.cfm?action=register)  
 [ ](http://www.loopylove.com/index.cfm?action=register)  
-[](http://www.loopylove.com/index.cfm?action=offensive)  
-[CHIM1009](http://www.loopylove.com/index.cfm?action=register)  
+[NICK1132_P](http://www.loopylove.com/index.cfm?action=register)  
   
 |    |  **LoopyLove® - Online Dating and Chat ©[Allegran Limited](http://www.allegran.com/), 2002 **
 
