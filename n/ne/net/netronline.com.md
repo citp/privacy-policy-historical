@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428095733id_/http%3A//www.netronline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011052211id_/http%3A//www.netronline.com/privacy.asp) for the most accurate reproduction.*
 
 # NETR Privacy Policy
 
-|  |  NETR Privacy Policy  
----|---  
-  
-|    
----  
-|  | 
-
-  Introduction  
-  
----  
-  
-NETRonline has created this privacy statement in order to demonstrate our firm commitment to privacy and the protection of your personal information.  
-  
-   
-  
-Privacy Policy  
-  
-| _**  
+_**  
 Advertisers**_   
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. _**Cookies**_  
 This site uses cookies. Its use is restricted to simplifying the login process of certain sections of our Web site. _**Order Forms**_  
@@ -35,11 +18,4 @@ Each purchase is made by a separate credit card transaction.
 **2) Account** :   
 One initial purchase is made by either submitting funds to NETRonline by postal mail, or by a secure online credit card transaction. A running balance will be maintained by NETRonline , from which future purchases will be deducted. Balance information on a customer's account will be securely stored in our database with the other account information. 
 
-When a user wishes to terminate an account, all funds in that account will be returned in 7-10 business days by the method which they were submitted (either credited to the credit card or returned by postal mail). To notify NETRonline of your desire to terminate your account, you may contact NETR Account Services.   
-  
----  
-   
-  
-[Return to Top]  
-  
- 
+When a user wishes to terminate an account, all funds in that account will be returned in 7-10 business days by the method which they were submitted (either credited to the credit card or returned by postal mail). To notify NETRonline of your desire to terminate your account, you may contact NETR Account Services. 
