@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626032655id_/http%3A//www.iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011080239id_/http%3A//www.iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # iBaller.com - Privacy Policy
 
