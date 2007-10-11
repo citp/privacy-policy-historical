@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613144343id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011043448id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # WorldNetDaily: WorldNetDaily Privacy Policy
 
 **  
   
-[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=557&AdvertiserID=263&BannerID=1126&SiteID=1&RandomNumber=51439)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=996&SiteID=1&RandomNumber=63774)  
+[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=606&AdvertiserID=32&BannerID=1179&SiteID=1&RandomNumber=78750)[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=305&CampaignID=460&AdvertiserID=32&BannerID=993&SiteID=1&RandomNumber=34918)  
   | **   FREE News Flashes**  
 ---  
     
@@ -22,7 +22,8 @@ WND Directory|  
 [WND Forums](http://forums.wnd.com/)  
 [Letters to the Editor](https://web.archive.org/letters.asp)  
 [BizNetDaily](https://web.archive.org/biznetdaily)  
-[SportsNetDaily](http://www.breitbart.com/?ch=sports)  
+[Careers](http://worldnetdaily.4jobs.com/)  
+[SportsNetDaily](http://www.breitbart.com/index.php?category=5)  
 [TV Guide](http://www.tvguide.com/)  
 [Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
   
@@ -172,31 +173,28 @@ _Privacy statement updated Aug. 5, 2004._
   
      News  
    
-[Aide: Bill Clinton broke secret pact with Hillary](https://web.archive.org/news/article.asp?ARTICLE_ID=56136)  
-[National borders erased for airlines in new plan](https://web.archive.org/news/article.asp?ARTICLE_ID=56147)  
-[Failed plan still 'basis for moving forward'](https://web.archive.org/news/article.asp?ARTICLE_ID=56149)  
-[Christian fears torture if deported](https://web.archive.org/news/article.asp?ARTICLE_ID=56144)  
-[Hamas fighters seize U.S. armored carriers](https://web.archive.org/news/article.asp?ARTICLE_ID=56139)  
-['Clean' site takes on YouTube](https://web.archive.org/news/article.asp?ARTICLE_ID=56142)  
-[Chuck Norris hits Digg's Top 10](https://web.archive.org/news/article.asp?ARTICLE_ID=56141)  
+[Ex-Mexican prez: 'Amero' on the way](https://web.archive.org/news/article.asp?ARTICLE_ID=58052)  
+[Outrage erupts over Bush demands in murder case](https://web.archive.org/news/article.asp?ARTICLE_ID=58063)  
+[Radio station hushes Rush amid 'phony soldiers' feud](https://web.archive.org/news/article.asp?ARTICLE_ID=58064)  
+[Liberty Bell rangers halt minister's speech](https://web.archive.org/news/article.asp?ARTICLE_ID=58062)  
+[Ahmadinejad: Ground Zero like Holocaust 'false idol'](https://web.archive.org/news/article.asp?ARTICLE_ID=58056)  
+[REAL ID endorsed to solve problem with illegals](https://web.archive.org/news/article.asp?ARTICLE_ID=58067)  
   
      Commentary  
    
-[The growing threat of fascism  
-   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=56152)  
-[Why we should celebrate Flag Day  
-   \- By Judge Roy Moore](https://web.archive.org/news/article.asp?ARTICLE_ID=56143)  
-[Our blood-obsessed judges  
-   \- By Burt Prelutsky](https://web.archive.org/news/article.asp?ARTICLE_ID=56140)  
-[Paris Hilton Star Wars: Russia to the rescue?  
-   \- By Maralyn Lois Polak](https://web.archive.org/news/article.asp?ARTICLE_ID=56137)  
-[End government's monopoly on schools  
-   \- By Walter E. Williams](https://web.archive.org/news/article.asp?ARTICLE_ID=56138)  
-[Incoming! Mexican airplanes on radar  
-   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=56146)  
-[Purely fanatical  
-   \- By Jill Stanek](https://web.archive.org/news/article.asp?ARTICLE_ID=56145)  
-[Dreaming of a world without God  
-   \- By Ben Shapiro](https://web.archive.org/news/article.asp?ARTICLE_ID=56151)  
+[John Edwards, racist  
+   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=58053)  
+[The blurred vision of revisionist history  
+   \- By Judge Roy Moore](https://web.archive.org/news/article.asp?ARTICLE_ID=58059)  
+[A world gone mad  
+   \- By Burt Prelutsky](https://web.archive.org/news/article.asp?ARTICLE_ID=58057)  
+[NOLA still on my mind  
+   \- By Maralyn Lois Polak](https://web.archive.org/news/article.asp?ARTICLE_ID=58054)  
+[The rush to hush talk radio  
+   \- By Walter E. Williams](https://web.archive.org/news/article.asp?ARTICLE_ID=58055)  
+[Hillary, fake hawk  
+   \- By Ben Shapiro](https://web.archive.org/news/article.asp?ARTICLE_ID=58060)  
+[Why Dobson is right  
+   \- By Jill Stanek](https://web.archive.org/news/article.asp?ARTICLE_ID=58065)  
   
 
