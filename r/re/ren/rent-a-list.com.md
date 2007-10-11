@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609011858id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042958id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
 # Email Marketing and lead generation. business opportunity leads, mlm leads.
 
