@@ -1,516 +1,689 @@
-<!--The following is the downloaded HTML source of the indiacom.com privacy policy that was archived on 2006-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061117150848id_/http%3A//indiacom.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiacom.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011070946id_/http%3A//www.indiacom.com/yellowpage/disclaimer.asp) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-    function Scroll()
-    {
-      Str="  India's most comprehensive online Yellow Pages from Indiacom Limited."
-      SLen=Str.length
-      Invar=175
-      AScroll()
-    }
-
-    function Stop()
-    {
-      Invar=0
-      AScroll()
-    }
-
-    function AScroll()
-    {
-      if(Invar>0)
-      {
-        for(i=0;i<SLen;i++)
-        {
-          Char=Str.charAt(0)       
-          Str=Str.substr(1,SLen)    
-          SChar=Str+Char
-          SLen=SChar.length
-          Str=SChar
-          window.status=SChar
-          for(i=0;i<Invar;i++)
-          {}
-        }
-        setTimeout("AScroll()",Invar)
-      }
-    }
-Scroll()
-</script>
-
-
-
-<title>Privacy Policy - Indiacom</title>
+<html><!-- #BeginTemplate "/Templates/template1.dwt" --><head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Indian Yellow Pages - Disclaimer - Indiacom Limited</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Keywords" content="add your listing, add listing to yellow pages, online adding of listing">
-<meta name="Author" content="Indiacom Limited">
-<meta name="title" content="indian yellow pages, india yellow pages, yellow pages india , Add your Business Listing">
-<meta name="classification" content="Business representation in Indian yellow pages, Listing of business details">
-<meta name="distribution" content="global">
-<meta name="Keywords" content="Add your business details , Business Directory od India, Submit business entries online, india yellow pages, indian yellow pages, yellow pages india,india trade, india business directory, India Business Details,Business Listings in India">
+<meta name="Classification" content="Disclaimer">
+<meta name="Language" content="us-en"> 
+<meta name="rating" content="General"> 
+<meta name="Audience" content="All"> 
+<meta name="distribution" content="Global"> 
+<meta name="Revisit-After" content="15 days"> 
+<meta name="URL" content="http://www.indiacom.com"> 
+<meta name="Target" content="http://www.indiacom.com/Disclaimer.asp"> 
+<meta http-equiv="Content-Language" content="en-us"> 
+<meta http-equiv="PRAGMA" content="NO-CACHE"> 
+<meta content="en-gb" name="LANGUAGE"> 
+<meta content="MegriSoft" name="COPYRIGHT"> 
+<meta content="index,follow" name="ROBOTS"> 
+<meta content="General" name="RATING"> 
+<meta content="7 days" name="REVISIT-AFTER"> 
+<meta content="Web Page" name="RESOURCE-TYPE"> 
+<meta content="Web Page" name="DOC-TYPE"> 
+<meta content="Published" name="DOC-CLASS"> 
+<meta content="Public" name="DOC-RIGHTS"> 
+<meta content="MSHTML 6.00.2462.0" name="GENERATOR">
+<meta name="Author" content="webmaster@Indiacom.com">
 
-<script language="JavaScript">
+<meta name="Description" content="This is a disclaimer page">
+<meta name="KEYWORDS" content="Indian Yellow Pages ,Yellow Pages India ,General disclaimer,Content disclaimer,Legal disclaimer,Medical disclaimer,Risk disclaimer"> 
+<meta name="abstract" content="Indian Yellow Pages ,Yellow Pages India ,General disclaimer,Content disclaimer,Legal disclaimer,Medical disclaimer,Risk disclaimer"> 
+<meta name="Key-Phrases" content="Indian Yellow Pages ,Yellow Pages India ,General disclaimer,Content disclaimer,Legal disclaimer,Medical disclaimer,Risk disclaimer"> 
+
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=">
+<link rel="stylesheet" href="Templates/font-heading.css">
+<style type="text/css">
 <!--
+.nolink {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #666666; text-decoration: none; font-style: normal}
+-->
+</style>
+</head>
 
-function Chksec(ob)
-{
-if (ob.coname.value==0)
-{
- alert ('Please enter the company name...');
- ob.coname.focus();
- return false;
-}
-else
-if (ob.name.value==0)
-{
- alert ('Please enter the contact Persons name...');
- ob.name.focus();
- return false;
-}
-else
-if (ob.designation.value==0)
-{
- alert ('Please enter the Designation...');
- ob.designation.focus();
- return false;
-}
-else
-if (isNaN(ob.building.value))
-{
- alert ('Flat No/Room No should be numeric...');
- ob.building.focus();
- return false;
-}
-else
-if (ob.locality2.value==0)
-{
- alert ('Please enter the Street...');
- ob.locality2.focus();
- return false;
-}
-else
-if (ob.locality.value==0)
-{
- alert ('Please enter the Locality...');
- ob.locality.focus();
- return false;
-}
-else
-if (ob.pincode.value==0)
-{
- alert ('Please enter the Pincode...');
- ob.pincode.focus();
- return false;
-}
-else
-if (isNaN(ob.pincode.value))
-{
- alert ('Pincode should be numeric...');
- ob.pincode.focus();
- return false;
-}
-else
-if (ob.city.value=="0")
-{
- alert ('Please select the city..');
- ob.city.focus();
- return false;
-}
-else
-if (ob.teloff1.value==0)
-{
- alert ('Please enter the Office Telephone no...');
- ob.teloff1.focus();
- return false;
-}
-else
-if (isNaN(ob.teloff1.value))
-{
- alert ('Office Telephone no should be numeric...');
- ob.teloff1.focus();
- return false;
-}
-else
-if (isNaN(ob.mobileno.value))
-{
- alert ('Mobile no should be numeric...');
- ob.mobileno.focus();
- return false;
-}
-else
-if (isNaN(ob.pagerno.value))
-{
- alert ('Pager no should be numeric...');
- ob.pagerno.focus();
- return false;
-}
-else
-if (ob.email.value==0)
-{
- alert ('Please enter the E-mail address...');
- ob.email.focus();
- return false;
-}
-else
-if (ob.businessinfo.value==0)
-{
- alert ('Please enter the businessinformation...');
- ob.businessinfo.focus();
- return false;
-}
-else
-if (ob.productservice.value==0)
-{
- alert ('Please enter the Product/service info...');
- ob.productservice.focus();
- return false;
-}
-else
-if (ob.productservice.value.length>100)
-{
- alert ('Length of the Products and services should not be greater than 100 characters');
- ob.productservice.focus();
- return false;
-}
-else
-if (ob.businessinfo.value==0)
-{
- alert ('Please enter the businessinformation...');
- ob.businessinfo.focus();
- return false;
-}
-else
-if (ob.businessinfo.value.length>250)
-{
- alert ('Length of the Business information should not be greater than 250 characters');
- ob.businessinfo.focus();
- return false;
-}
-else
-if (ob.brands.value==0)
-{
- alert ('Please enter the Product brand...');
- ob.brands.focus();
- return false;
-}
-else
-if (ob.brands.value.length>30)
-{
- alert ('Length of the Brand names should not be greater than 30 characters');
- ob.brands.focus();
- return false;
-}
-else
-if (ob.unique.value==0)
-{
- alert ('Please enter the Uniqueness of your Business...');
- ob.unique.focus();
- return false;
-}
-else
-if (ob.unique.value.length>50)
-{
- alert ('Length of the Unique Business should not be greater than 50 characters');
- ob.unique.focus();
- return false;
-}
-else
-return true;
-}
-//-->
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td colspan="5"> 
+<style type="text/css">
+<!--
+.text-background {  background-color: #000000}
+-->
+</style>
+
+<!-- <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"> -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td colspan="2"><a name="up"></a><img src="images/toproundly1.jpg" width="165" height="20"></td>
+    <td> 
+      <div align="center"></div>
+    </td>
+    <td width="157">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="160" align="center" valign="top" height="70"> 
+      <div align="center"><img src="http://www.indiacom.com/panels/tellme.gif" width="120" height="60"></div>
+    </td>
+    <td width="6" bgcolor="#ffd900">&nbsp;</td>
+    <td>
+      <div align="center"><img src="logos/ic-logo.gif" alt="Most Popular Indian Yellow Pages and White Pages">
+  </div>
+    </td>
+    <td width="157" valign="bottom"><b>
+      <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="/"><img border="0" src="images/home-icon-01.jpg" align="absmiddle"> <font color="#000000">Home&nbsp;&nbsp;&nbsp;&nbsp;</font></a>
+</font></div></b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+    </font></td>
+  </tr>
+<tr><td colspan="4" height="4" bgcolor="#ffd900"></td>
+</tr></tbody></table>
+ </td>
+  </tr>
+  <tr bgcolor="#ffd900"> 
+    <td colspan="5" height="2"></td>
+  </tr>
+  <tr> 
+    <td width="159" rowspan="2" align="left" valign="top"> 
+<style type="text/css">
+<!--
+.no-underline {  font-style: normal; text-decoration: none}
+-->
+</style>
+
+  
+<table width="156" border="0" cellpadding="0" cellspacing="1">
+  <tbody><tr> 
+    <td align="left" valign="top" width="156"> 
+      <table cellpadding="0" cellspacing="1">
+        <tbody><tr> 
+          <td colspan="2" bgcolor="#c4c4c4"> 
+            <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;&nbsp;Search 
+              <br>
+              </b></font></div>
+          </td>
+        </tr>
+        <tr bgcolor="#000000" height="1"> 
+          <td colspan="2"></td>
+        </tr>
+        <tr> 
+          <td valign="top"> <!-- <form action="listCategory.asp?page=1&start=1" method="post" id=form1 name=form1> --> 
+            <form name="f1" onsubmit="return checkName(this);">
+              <input type="hidden" name="SearchOption">
+              <table width="156" border="0" cellpadding="0" cellspacing="0" class="darkborder">
+                <tbody><tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%"> <font face="Arial" size="1">&nbsp; </font></td>
+                  <td height="2" width="78%"><font face="Arial" size="1">Product 
+                    / Service Name</font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%"><font face="Arial" size="1">&nbsp; </font><font face="Arial" size="1">&nbsp; 
+                    </font><font face="Arial" size="1">&nbsp;</font></td>
+                  <td height="2" width="78%"><font face="Arial" size="1">  
+                    <input name="keyword" align="center" value="" size="15">
+                     </font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%"> 
+                    <div align="center"><font face="Arial" size="1"><b></b></font></div>
+                  </td>
+                  <td height="2"> 
+                    <div align="center"><font face="Arial" size="1"><b><font color="#ff0000" face="Arial">OR</font></b></font></div>
+                  </td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%">&nbsp;</td>
+                  <td height="2" width="78%"><font face="Arial" size="1">Company 
+                    / Firm Name</font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%">&nbsp;</td>
+                  <td height="2" width="78%"> 
+                    <input id="checkSelect" type="checkbox" name="chkstartwith">
+                              
+                           
+                    <font face="arial" size="1">Begins with</font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%"><font face="Arial" size="1">&nbsp; </font><font face="Arial" size="1">&nbsp;</font></td>
+                  <td height="2" width="78%"><font face="Arial" size="1">  
+                    <input name="businessname" align="center" style="LEFT: 1px; TOP: 16px" value="" size="15">
+                     </font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%"><font face="Arial" size="1">&nbsp; </font></td>
+                  <td height="2" width="78%"><font face="Arial" size="1">In the 
+                    City/State: </font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td height="2" width="11%">&nbsp;</td>
+                  <td height="2" width="78%"><font face="Arial" size="1">  
+                    <select name="city">
+                      <option value="1">Select the City </option>
+                       
+                      <option value="91">All Cities</option>
+                      <option value="1">==== States ===</option><option value="9101">Andhra Pradesh</option><option value="9107">Gujarat</option><option value="9114">Madhya Pradesh</option><option value="9113">Maharashtra</option><option value="9116">Orisa</option><option value="9120">Punjab &amp; Haryana</option><option value="1">===== Cities ====</option><option value="910779">Ahmedabad</option><option value="91072692">Anand-Kheda</option><option value="9113240">Aurangabad</option><option value="911180">Bangalore</option><option value="91072642">Bharuch</option><option value="9107278">Bhavnagar</option><option value="9116674">Bhubhaneswar</option><option value="9120172">Chandigarh</option><option value="912344">Chennai</option><option value="910511">Delhi</option><option value="9120129">Faridabad</option><option value="9106832">Goa</option><option value="91072672">Godhra</option><option value="9120124">Gurgaon</option><option value="910140">Hyderabad</option><option value="9114731">Indore</option><option value="9107288">Jamnagar</option><option value="91201681">Jind</option><option value="912633">Kolkata(Calcutta)</option><option value="9120161">Ludhiana</option><option value="9123452">Madurai</option><option value="91091905">Mandi</option><option value="911322">Mumbai</option><option value="9113712">Nagpur</option><option value="9113253">Nashik</option><option value="911320">Pune</option><option value="9114771">Raipur</option><option value="9107281">Rajkot</option><option value="91201274">Rewari</option><option value="9116661">Rourkela</option><option value="9107261">Surat</option><option value="9107265">Vadodara</option><option value="91072632">Valsad 
+                    </option></select>
+                    <!-- ===================================================================                            
+                              <select name="city">
+                                        <option value='910779' > 
+								 </option>
+												 
+                              </select>
+  =================================================================== --> </font></td>
+                </tr>
+                <tr bgcolor="#ffd900"> 
+                  <td></td>
+                  <td height="2" width="11%"><font face="Arial" size="1"> 
+                    <input type="hidden" name="criteria" value="1">
+		    <input type="hidden" name="searchtype" value="1">
+                    <input name="Page" type="hidden" value="1">
+                    <input name="Start" type="hidden" value="1">
+                    <input type="submit" name="Submit" value="Find">
+                    </font></td>
+                </tr>
+                <tr height="2" bgcolor="#ffd900"> 
+                  <td height="2">&nbsp;</td>
+                  <td height="2" width="11%">&nbsp;</td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2"> 
+                    <table width="100%" border="0" cellpadding="0" cellspacing="1" class="no-underline">
+                      <tbody><tr> 
+                        <td colspan="2" bgcolor="#c4c4c4"> 
+                          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;&nbsp;Browse 
+                            </b></font></div>
+                        </td>
+                      </tr>
+                      <tr height="1"> 
+                        <td colspan="2" bgcolor="#000000"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="browsecategory.asp?pageURL=browsecategory.asp" class="no-underline"><font color="#000000">Browse 
+                          by Category</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="TelephoneDirectories.asp?pageURL=TelephoneDirectories" class="no-underline"><font color="#000000">Telephone 
+                          Directory </font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td>  <div align="center"><img src="images/rydot.gif" width="7" height="7"></div></td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="browsecity.asp?pageURL=browsecity.asp" class="no-underline"><font color="#000000">City 
+                          Information</font></a></font></td>
+                      </tr>
+                                           
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"> </td>
+                      </tr>
+                         <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="emergencyservices.asp?pageURL=emergencyservices.asp" class="no-underline"><font color="#000000">Emergency Services</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="stdlink.asp?pageURL=stdlink.asp"><font color="#000000">STD 
+                          Code List</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="stdlink.asp?pageURL=stdlink.asp&amp;keyword=ISD"><font color="#000000">ISD 
+                          Code List</font></a></font></td>
+                      </tr>
+						<tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      
+                      </tbody></table>
+                  </td>
+                </tr>
+                <tr height="2">
+                  <td height="2" colspan="2">&nbsp;</td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2"> 
+                    <table width="100%" border="0" cellpadding="0" cellspacing="1" class="no-underline">
+                      <tbody><tr> 
+                        <td colspan="2" bgcolor="#c4c4c4"> 
+                          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;&nbsp;Our 
+                            Services </b></font></div>
+                        </td>
+                     
+                      </tr><tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="addyourlist.asp?pageURL=addyourlist.asp&amp;keyword=yellowpages" class="no-underline"><font color="#000000">Add 
+                          Your Listing</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="AdvertisementOptions.asp?pageURL=AdvertisementOptions.asp&amp;keyword=" class="no-underline"><font color="#000000">Advertise 
+                          With Us</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="linktous.asp?pageURL=linktous.asp&amp;keyword=yellowpages" class="no-underline"><font color="#000000">Link 
+                          To Us</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"> </td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="orderyp.asp?pageURL=orderyp.asp&amp;keyword=yellowpages" class="no-underline"><font color="#000000">Order 
+                          Printed Yellow Pages</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2">&nbsp;</td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2"> 
+                    <table width="100%" border="0" cellpadding="0" cellspacing="1" class="no-underline">
+                      <tbody><tr> 
+                        <td colspan="2" bgcolor="#c4c4c4"> 
+                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"></font></div>
+                          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;&nbsp;Useful 
+                            Links </b></font></div>
+                        </td>
+                      </tr>
+                      <tr bgcolor="#000000" height="1"> 
+                        <td colspan="2"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="InternationalYellowPages.asp?pageURL=InternationalYellowPages.asp&amp;keyword=yellowpages"><font color="#000000" class="no-underline">International 
+                          Yellow Pages</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="InternationalWhitePages.asp?pageURL=InternationalWhitePages.asp&amp;keyword=WhitePages"><font color="#000000"><span class="no-underline">International 
+                          White Pages</span></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.indianrail.gov.in/" target="_blank"><font color="#000000"><span class="no-underline">Indian 
+                          Railways</span></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"> </td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="medialink.asp?pageURL=medialink.asp&amp;keyword=media" class="no-underline"><font color="#000000">Media</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"> </td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="stocklink.asp?pageURL=stocklink.asp&amp;keyword=stock"><font color="#000000" class="no-underline">Stock 
+                          Markets</font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="http://www.timeanddate.com/worldclock" target="_blank"><font color="#000000"><span class="no-underline">World 
+                          Time</span></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="morelinks.asp"><font color="#000000"><span class="no-underline">More 
+                          Links...</span></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                    </tbody></table>
+
+                  </td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2">&nbsp;</td>
+                </tr>
+                <tr height="2"> 
+                  <td height="2" colspan="2"> 
+                    <table width="100%" border="0" cellpadding="0" cellspacing="1" class="no-underline">
+                      <tbody><tr> 
+                        <td colspan="2" bgcolor="#c4c4c4"> 
+                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"></font></div>
+                          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b>&nbsp;&nbsp;Features </b></font></div>
+                        </td>
+                      </tr>
+                      <tr bgcolor="#000000" height="1"> 
+                        <td colspan="2"></td>
+                      </tr>
+					    <tr> 
+                        <td> 
+                          <div align="center"><img src="http://www.indiacom.com/yellowpage/category-gyan/articles/images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                       <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.indiacom.com/yellowpage/catgyan.asp?pageURL=catgyan.asp&amp;keyword=catgyan"><font color="#000000" face="Arial, Helvetica, sans-serif"><font color="#000000"><span class="no-underline"><strong>Category-Gyan
+                          </strong></span></font></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+					  <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="event.asp?pageURL=event.asp&amp;keyword=event"><font color="#000000" face="Arial, Helvetica, sans-serif"><font color="#000000"><span class="no-underline"><strong>Events 
+                          </strong></span></font></font></a></font></td>
+                     </tr>
+					 <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+					  <tr> 
+                        <td height="13"> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">
+                        <a href="classifiedall.asp?pageURL=classifiedall.asp&amp;keyword=classifieds"><font color="#000000" face="Arial, Helvetica, sans-serif"><font color="#000000"><span class="no-underline"><strong>Classifieds</strong></span></font></font></a></font></td>
+                      </tr>
+					  <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                       <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="astrology.asp?pageURL=astrology.asp&amp;keyword=astrology"><font color="#000000"><span class="no-underline">Astrology </span></font></a></font></td>
+                     </tr>
+                     <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                      <tr> 
+                        <td> 
+                          <div align="center"><img src="images/rydot.gif" width="7" height="7"></div>
+                        </td>
+                        <td width="*" class="no-underline"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="fengshui.asp?pageURL=fengshui.asp&amp;keyword=fengshui"><font color="#000000"><span class="no-underline">Fengshui </span></font></a></font></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2" bgcolor="#FFF09B"></td>
+                      </tr>
+                    </tbody></table>
+
+					 
+                
+                  </td>
+                </tr>
+              </tbody></table>
+            </form>
+          </td>
+        </tr>
+      </tbody></table>
+      <script language="JavaScript" src="validationsIndex.js" type="text/javascript"></script>
+<script type="text/javascript" language="JavaScript">
+<!--
+/*
+function checkName(ob)
+	{	
+	var checkvar;
+	checkvar = 0;
+	
+
+	if ((ob.businessname.value==0) && (ob.keyword.value==0))
+				{
+					alert ('Please enter what you are looking for...');
+					document.f1.keyword.focus();
+					checkvar = 1;
+				//	ob.businessname.focus();
+				//  alert ("hello !");
+					return false;
+				}
+			if (ob.city.value==1) 
+				{
+				alert ('Please Select the City / State !');
+				ob.city.focus();
+				checkvar = 1;
+				return false;
+				}
+			if ((ob.businessname.value.length < 3) && (ob.businessname.value.length >0))
+			{
+				alert (' Partyname should be more than 2 characters !');
+				checkvar = 1;
+				//ob.query.focus();
+				return false;
+			}
+	
+			if ((ob.keyword.value.length < 3) && (ob.keyword.value.length >0))
+			{
+				alert (' keyword  should be more than 2 characters !');
+				checkvar = 1;
+				//ob.query.focus();
+				return false;
+			}
+			//==============================
+			
+				if (ob.businessname.value.length >=3) // !! (ob.businessname.value.length >=3) ) 
+				{
+				//alert("hello!");
+				var checkVar;
+				var FLAG;
+				FLAG=0;
+				
+				
+						var myArray = new Array();
+						myArray[0] = "ltd";
+						myArray[1] = "pvt";
+						myArray[2] = "pvtltd";
+						myArray[3] = "enterprise";
+						myArray[4] = "limited";
+						myArray[5] = "private";
+						myArray[6] = "private limited";
+						myArray[7] = "limited private";
+					
+					
+					
+					for (i=0 ; i < myArray.length; i++)
+						{
+						checkVar=((ob.businessname.value).toLowerCase());
+						if (myArray[i]==checkVar)
+								{
+								checkvar = 1;
+								FLAG =1;
+								alert("" + ob.businessname.value +":" +" This word is not allowed exclusively !");
+								return false;
+								}
+								
+						}
+				   }
+				
+			//==========================================
+			if (ob.keyword.value.length >=3) // !! (ob.businessname.value.length >=3) ) 
+				{
+				var checkVar;
+				var FLAG;
+				FLAG=0;
+				
+				
+						var myArray = new Array();
+						myArray[0] = "ltd";
+						myArray[1] = "pvt";
+						myArray[2] = "pvtltd";
+						myArray[3] = "enterprise";
+						myArray[4] = "limited";
+						myArray[5] = "private";
+						myArray[6] = "private limited";
+						myArray[7] = "limited private";
+					
+					
+					
+					for (i=0 ; i < myArray.length; i++)
+						{
+						checkVar=((ob.keyword.value).toLowerCase());
+						if (myArray[i]==checkVar)
+								{
+									checkvar = 1;
+								FLAG =1;
+								alert("" + ob.keyword.value +":" +" This word is not allowed exclusively !");
+								return false;
+								}
+								
+						}				
+					}	
+			//====================================
+	if (checkvar == 0)  
+	  {	
+
+			if (document.f1.businessname.value == "" ) 
+				{
+					document.f1.SearchOption.value="KW"
+					document.f1.action = "listCategory.asp?start=1&amp;page=1";
+					document.f1.method="get";
+					document.f1.target="_self";
+					document.f1.submit();
+					return true;
+				}
+			else
+				{
+				//	alert("hello!");
+				//document.f1.SearchOption.value="BN"
+					document.f1.action = "listingallcities.asp?start=1&amp;page=1";
+					document.f1.method="get";
+					document.f1.target="_self";
+					document.f1.submit();
+					return true;
+				}	
+		}
+				
+	if (checkvar == 1)
+		return false;
+	else
+	{
+	//alert ("helol!");
+	return true;
+	}
+	//return false;
+}				
+	*/
+
+//--></script>
+      <br>
+      <!-- google search --> 
+<script type="text/javascript"><!--
+google_ad_client = "pub-7813520229372374";
+google_ad_width = 120;
+google_ad_height = 90;
+google_ad_format = "120x90_0ads_al_s";
+google_ad_channel = "";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+    <td width="6" bgcolor="#ffd900" rowspan="2">&nbsp;</td>
+    <td align="center" valign="middle" width="*" height="70"> 
+      <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7813520229372374";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "400058";
+google_color_bg = "FFCC66";
+google_color_link = "000000";
+google_color_text = "940F04";
+google_color_url = "400058";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    </td>
+    <td width="6" bgcolor="#ffd900" rowspan="2">&nbsp;</td>
+    <td width="159" rowspan="2" align="left" valign="top">
 <style>
 A:Hover{ color:red }
 A{text-decoration:none}
 </style>
+
 <style type="text/css">
-.ulink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;  text-decoration: none; color: #000000}
-.hd {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: none; color: #000000}
-</style>
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" vlink="#000000">
-  <table width="100%" cellspacing="0" border="0" cellpadding="0">
-    <tbody><tr> 
-      <td colspan="2" align="right"><img src="images/toproundly1.JPG" width="200" height="20"></td>
-      <td rowspan="2" width="*" align="center"><img src="NEWLOGO/ic-logo.gif" width="217" height="60" alt="Indiacom Yellow Pages, Indian Yellow Pages , India Yellow Pages"></td>
-    </tr>
-    <tr> 
-      <td width="194" align="center" height="75" valign="top"><a href="redirect.asp?Id=4&amp;type=Pan"><img src="panels/1154165.gif" alt="Please Support Our Sponsors" border="0" width="120" height="60"></a></td>
-      <td width="6" bgcolor="#FFD900">&nbsp;</td>
-    </tr>
-  </tbody></table>
-  <table width="100%" cellspacing="0" border="0" cellpadding="0">
-    <tbody><tr> 
-      <td rowspan="2" align="center" valign="top" width="194"> 
-<style type="text/css">
-.ulink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;  text-decoration: none; color: #000000}
-</style>
-<script language="JavaScript">
 <!--
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
+.test {  border-color: #FF3333 black black; border-style: solid; border-top-width: thin}
+.bott {  border-color: black black #FF6600; border-style: solid; border-bottom-width: thin}
+.righ {  border-color: black #FF3333 black black; border-style: solid; border-right-width: thin}
+.lef {  border-color: black black black #FF3333; border-style: solid; border-left-width: thin}
+-->
+</style>
+  <!--  <marquee direction=down height="600" scrolldelay=100> -->
+                     
 
-function MM_showHideLayers() { //v3.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-//-->
-</script>
+<table width="90%" border="0" cellpadding="0" cellspacing="4" align="center">
+  <tbody><tr> 
+                        <td align="center" height="2"> 
 
-
-
-
-
-
-<!-- google search -->
-
-<table width="194" cellpadding="0" border="0" cellspacing="0"> <tbody><tr> <td valign="top" width="23%" bgcolor="#FFD900"> 
-<table width="100%" cellpadding="0" border="0" cellspacing="0">
- 
-
-                      
-<tbody><tr> <td height="22" width="23%">&nbsp;&nbsp;<img src="images/mark.gif" width="11" height="11" border="0"> 
-<font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Popular Categories</font></b></font></td></tr> 
-<tr> <td bgcolor="#404040"></td></tr> <tr> <td bgcolor="#ffffff"></td></tr> </tbody></table></td></tr> 
-<tr> <td valign="top" width="23%" height="203"> <table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#FFF09B"><tbody><tr bgcolor="#FFFFF9"><td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0"><a href="popularsearch.asp?kword=Bearings" class="ulink">&nbsp;Bearings</a></td></tr><tr bgcolor="#FFFFF9"><td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0"><a href="popularsearch.asp?kword=Builders" class="ulink">&nbsp;Builders</a></td></tr> 
-<tr bgcolor="#FFFFF9"> <td height="15"><b>&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;</b><a href="popularsearch.asp?kword=Chemicals" class="ulink" target="_parent">Chemicals</a> 
-</td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0"><a href="popularsearch.asp?kword=Computers" class="ulink">&nbsp;Computers 
-(HW/SW) </a> </td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="popularsearch.asp?kword=Doctors" class="ulink">Doctors</a> 
-</td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0"><a href="popularsearch.asp?kword=Educational%20Institutions" class="ulink">&nbsp;Educational 
-Institutions </a></td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="popularsearch.asp?kword=Hospitals" class="ulink">Hospitals</a> 
-</td></tr> <tr bgcolor="#FFFFF9"> <td height="15"><a href="popularsearch.asp?kword=Hotels" class="ulink">&nbsp;<img src="images/rydot.gif" width="8" height="8" border="0">&nbsp;Hotels</a> 
-</td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="popularsearch.asp?kword=Manpower%20Consultant" class="ulink">Manpower 
-Consultants </a></td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="popularsearch.asp?kword=Travel" class="ulink">Travel 
-</a> </td></tr> <tr bgcolor="#FFD900"> <td height="22"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&nbsp;&nbsp;<img src="images/mark.gif" width="11" height="11" border="0"> 
-<font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"></font></b></font></font>Useful 
-Links </b></font></td></tr>
- <tr> <td bgcolor="#000000"></td></tr>
-<tr bgcolor="#FFFFF9"><td height="15">&nbsp;<img src="images/rydot.gif" width="8" height="8" border="0">&nbsp;<a href="interyp.asp" class="ulink">International 
-Yellow Pages</a></td></tr> <tr bgcolor="#FFFFF9"> <td height="15">&nbsp;<img src="images/rydot.gif" width="8" height="8" border="0"> 
-<a href="interwp.asp" class="ulink">International White Pages</a> </td></tr> <tr bgcolor="#FFFFF9"> 
-<td height="15"> &nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="stocklink.asp" class="ulink">Stock 
-Markets</a></td></tr>
- <tr> <td bgcolor="#FFFFF9" height="15" onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0"><a class="ulink" href="morelinks.asp">&nbsp;More 
-Links ......</a></td></tr> </tbody></table></td></tr> <tr> <td width="23%" align="center"><div id="implinks" style="HEIGHT: 167px; LEFT: 109px; POSITION: absolute; TOP: 230px; WIDTH: 172px; Z-INDEX: 4; visibility: hidden; background-color: #FFD900; layer-background-color: #FFD900; border: 1px none #000000"><table border="0" cellpadding="0" cellspacing="0" align="center" width="99%" class="ulink"><tbody><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('otherlink','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"> 
-<td height="15" onmouseout="MM_showHideLayers('otherlink','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"><a href="air.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-Airlines</a></td></tr><tr bgcolor="#FFCC00" onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"><td></td></tr> <tr bgcolor="#FFFFF9" onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"> <td height="15"> 
-<a href="bankslink.asp"> &nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-Banks</a></td></tr> <tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr> </tbody><tbody> 
-<tr bgcolor="#FFFFF9" onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"> <td height="15"><a href="currency.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-Currency Convertor</a></td></tr> <tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr> <tr bgcolor="#FFFFF9" onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"> <td height="15"> 
-<a href="ministrieslink.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-Central Ministries</a></td></tr> <tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr> <tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15"> <a href="ahmedabad.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-</a><a href="embassy.asp">Embassies</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15"><a href="export.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-Export India</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15"><a href="ahmedabad.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-</a><a href="majorfin.asp">Financial Institutions</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15" nowrap=""><a href="ahmedabad.asp">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-</a><a href="govtlink.asp">Govt. Institutions</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15" nowrap="">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-<a href="http://www.indianrail.gov.in/" target="_blank">Indian Railways</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15" nowrap="">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-<a href="medialink.asp" class="ulink" target="_parent">Media</a> </td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr><tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')" height="15" nowrap="">&nbsp;<img src="images/rydot1.gif" width="8" height="8" border="0"> 
-<a href="http://www.whitepages.com.au/wp/search/time.html" class="ulink" target="_blank">World 
-Time</a></td></tr><tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('implinks','','show')"></td></tr> <!--
-<TR BGCOLOR="#FFFFF9"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" HEIGHT="15" NOWRAP>&nbsp;<IMG SRC="images/rydot1.gif" WIDTH="8" HEIGHT="8" BORDER="0"> 
-<A HREF="faridabad.asp">Media</A></TD></TR><TR BGCOLOR="#FFCC00"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" ></TD></TR><TR BGCOLOR="#FFFFF9"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" HEIGHT="15" NOWRAP>&nbsp;<IMG SRC="images/rydot1.gif" WIDTH="8" HEIGHT="8" BORDER="0"> 
-<A HREF="faridabad.asp">Stock Markets</A></TD></TR><TR BGCOLOR="#FFCC00"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" ></TD></TR><TR BGCOLOR="#FFFFF9"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" HEIGHT="15" NOWRAP>&nbsp;<IMG SRC="images/rydot1.gif" WIDTH="8" HEIGHT="8" BORDER="0"> 
-<A HREF="faridabad.asp">World Time</A></TD></TR><TR BGCOLOR="#FFCC00"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" ></TD></TR><TR BGCOLOR="#FFFFF9"><TD ONMOUSEOUT="MM_showHideLayers('implinks','','hide')" 
-      ONMOUSEOVER="MM_showHideLayers('implinks','','show')" HEIGHT="15" NOWRAP>&nbsp;<IMG SRC="images/rydot1.gif" WIDTH="8" HEIGHT="8" BORDER="0"> 
-<A HREF="faridabad.asp">World Trade Centr</A>e</TD></TR> </TBODY> </TABLE></TD>
-
-</TR> --> </tbody></table></div>
-
-<div id="otherlink" style="HEIGHT: 50px; LEFT: 256px; POSITION: absolute; TOP: 192px; WIDTH: 125px; Z-INDEX: 4; visibility: hidden"> 
-  <table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#FFCC00"> 
-<tbody><tr> <td> <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="ulink"> 
-<tbody><tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="airindia.asp">Air India</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="airdeccan.asp">Air Deccan</a></td></tr>
-
-<tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="airfrance.asp">Air France</a></td></tr>
-
-<tr bgcolor="#FFCC00"><td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"><td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="airmauritius.asp">Air Mauritius</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="americanairlines.asp">American Airlines</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="britishairways.asp">British Airways</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="cathaypacific.asp">Cathay Pacific</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="deltaairlines.asp">Delta Airlines</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="emirates.asp">Emirates</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="goair.asp">Go Air</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="gulfair.asp">Gulf Air</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="air.asp">Indian Airlines</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="japanairlines.asp">Japan Airlines</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9">
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="jet.asp">Jet Airways</a></td></tr> 
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="kingfisher.asp">Kingfisher</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="lufthansa.asp">Lufthansa</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="malaysiaairlines.asp">Malaysia Airlines</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="pakistanairlines.asp">Pakistan Airlines</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9">
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="sahara.asp">Sahara</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9">
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="saudiairlines.asp">Saudi Airlines</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9">
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="singaporeairlines.asp">Singapore Airlines</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="spicejet.asp">Spice Jet</a></td></tr>
-
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="thaiair.asp">Thai Airways</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="qantas.asp">Qantas</a></td></tr>
-
-<tr bgcolor="#FFCC00"> <td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')"></td></tr> 
-<tr bgcolor="#FFFFF9"> 
-<td onmouseout="MM_showHideLayers('otherlink','','hide');MM_showHideLayers('implinks','','hide')" onmouseover="MM_showHideLayers('otherlink','','show');MM_showHideLayers('implinks','','show')" height="15"> 
-<b>&nbsp;</b><img src="images/rydot.gif" width="8" height="8" border="0">
-<a href="qatarairways.asp">Qatar Airways</a></td></tr>
-
-</tbody></table></td></tr>
-</tbody></table></div></td></tr><tr> 
-<td>
-      <table width="100%" cellpadding="0" border="0" cellspacing="0">
-        <tbody><tr> 
-          <td height="21" bgcolor="#FFD900"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
-            <font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><img src="images/mark.gif" width="11" height="11" border="0"></font></b></font> 
-            &nbsp;</b></font>Features </b></font></td>
-        </tr>
-        <tr align="left" valign="top"> 
-          <td bgcolor="#000000"></td>
-        </tr>
-        <tr> 
-          <td height="21" bgcolor="#FFD900"> 
-            <table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#FFF09B" class="ulink">
-              <tbody><tr bgcolor="#FFFFF9"> 
-                <td> &nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="astrology.asp" class="ulink">Astrology</a></td>
-              </tr>
-              <tr> 
-                <td bgcolor="#FFFFF9">&nbsp;<img src="images/rydot.gif" width="7" height="7" border="0">&nbsp;<a href="fengshui.asp" class="ulink">Fengshui</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td valign="top" bgcolor="#000000"></td>
-        </tr>
-      </tbody></table>
-
-  </td></tr><tr><td width="194" align="center" height="2"><p><font face="Arial" color="#0000FF"> 
-
-<br>
-
-<br><br> </font> </p>
 <script type="text/javascript"><!--
 google_ad_client = "pub-7813520229372374";
 google_ad_width = 120;
@@ -526,322 +699,308 @@ google_color_text = "000000";
 //--></script>
 
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr>
- </tbody></table>
+</script>
+</td></tr></tbody></table>
 
+
+                      
+                   
+                  <!--   </marquee>  -->
+                    <font face="Arial" size="2" color="#ffffff"> 
+                    </font>
+           
 </td>
-      <td width="6" bgcolor="#FFD900">&nbsp;</td>
-      <td> 
-        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
-          <tbody><tr bgcolor="#FFD900"> 
-            <td height="22" bgcolor="#FFFFFF" width="*"><img src="heading/privacypolicy.gif" width="146" height="21"></td>
-            <td height="22" bgcolor="#FFFFFF"> 
-              <div align="right"><img src="heading/headingside.gif" width="13" height="22"></div>
-            </td>
-            <td width="54" height="22" bgcolor="#FFD900" align="center"><a class="hd" href="index.asp">Home 
-              | </a></td>
-            <td width="77" height="22" bgcolor="#FFD900" align="center"><a class="hd" href="http://www.indiacom.co.in/goal.htm" target="_blank">About 
-              us</a><a class="abus" href="index.asp">&nbsp; </a> |</td>
-            <td width="132" height="22" bgcolor="#FFD900" align="center"><a class="hd" href="pl_ad.asp">Advertise 
-              With Us</a>&nbsp;&nbsp;</td>
-          </tr>
-          <tr bgcolor="#FFD900"> 
-            <td bgcolor="#FFFFFF" colspan="5" align="left" valign="top"><img src="heading/line.gif" width="100%" height="1"></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr> 
-      <td width="6" bgcolor="#FFD900">&nbsp;</td>
-      <td width="*" valign="top" align="left"> 
-        <table width="100%" border="0" cellspacing="2" cellpadding="0">
-              <tbody><tr> 
-                <td> 
-                  <div align="center"></div>
-                  <div align="center"><br><a href="updateclickthroughsBann.asp?name=24426.gif&amp;url=http://www.universaltool-india.com" target="_new"><img src="banners/24426.gif" border="0"></a><br> 
-<br>
-   <table cellspacing="1" cellpadding="1" width="98%" align="center" border="0" valign="top"><tbody><tr height="1">
-<td width="6" bgcolor="#000000" colspan="4"></td>
-</tr>
-</tbody></table>
-</div>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" width="*"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td><!-- #BeginEditable "Page%20heading" -->&nbsp;&nbsp;<span class="page-heading">Disclaimer</span><!-- #EndEditable --></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><img src="images/line.gif" width="100%" height="1"></td>
+        </tr>
+        <tr align="left" valign="top"> 
+          <td><!-- #BeginEditable "Content%20for%20page" --> <br>
+            <table width="99%" border="0" cellspacing="0" cellpadding="0" align="center" class="ulink">
+              <tbody><tr align="left" valign="top"> 
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td> 
+                        <div align="center" class="arial-background"><font face="Arial, Helvetica, sans-serif" size="3"><b class="arial-background">INDIACOM.COM'S 
+                          PRIVACY POLICY</b></font></div>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  <br>
+                  <font face="Arial, Helvetica, sans-serif" size="2"><span class="body-grey">www.Indiacom.com 
+                  is the comprehensive yellow pages online service provided by 
+                  Indiacom Limited (hereby 'Indiacom'), Pune that offers complete 
+                  online directory services and features all content and information 
+                  that is produced by Indiacom Limited. </span></font> 
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">Indiacom 
+                    respects the privacy of its users and strives to protect it 
+                    to the maximum extent possible<br>
+                    .<br>
+                    With a view to meet the information needs of the users Indiacom 
+                    offers the Online Site www.indiacom.com The information collected 
+                    is of two types -- information supplied by users themselves 
+                    and information automatically tracked during the navigation 
+                    of the site, www.indiacom.com by the users.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                    avail certain information/services from our indiacom.com, 
+                    users are required to provide some personal details like - 
+                    Name, Address, Sex, Age, Email id etc., and the like. (All 
+                    required information is Service Dependent). The Information 
+                    supplied enables to improve the content and service. If you 
+                    choose not to provide us with certain personal information, 
+                    we may not be able to provide you with the information/services 
+                    you require, or of the desired quality we prefer to provide. 
+                    Occasionally, you may need to provide personal information 
+                    about others too (e.g. about your representatives, agents, 
+                    etc). If so, we rely on you to inform them that you are providing 
+                    their personal information to Indiacom and advise them that 
+                    we can be contacted for further information.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>USE 
+                    OF COOKIES<br>
+                    </b>Cookies are pieces of information that a Web site transfers 
+                    to your computers hard disk for record-keeping purposes. Cookies 
+                    can make the Web more useful by storing information about 
+                    your preferences on particular sites, thus enabling Web site 
+                    owners to provide more useful features for their users. (This 
+                    use of cookies is an accepted standard) Most browsers are 
+                    initially set to accept cookies. If you would prefer, you 
+                    could set your browser to refuse cookies, however, you may 
+                    not be able to take full advantage of a Web site if you do 
+                    so.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">Our 
+                    web servers automatically collect limited information about 
+                    your computer's connection to the Internet, including your 
+                    IP address, when you visit our site. (Your IP address is a 
+                    number that lets computers attached to the Internet know where 
+                    to send you data -- such as the web pages you view.) Your 
+                    IP address does not identify you personally. We use this information 
+                    to deliver our web pages to you upon request, to tailor our 
+                    site to the interests of our users, to measure traffic within 
+                    our site and let advertisers know the geographic locations 
+                    from where our visitors come.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>Collection 
+                    of Information:<br>
+                    </b></font> </span>
+                  <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">Indiacom.com 
+                  compiles information through various sources/channels like:<br>
+                  </font></span><font face="Arial, Helvetica, sans-serif" size="2">
+                  </font></p><ul><font face="Arial, Helvetica, sans-serif" size="2">
+                    <li><span class="body-grey">You provide us information through' 
+                      phone directly, via marketing or through' order forms filled 
+                      by you at the time of booking an advertisement with us.</span></li>
+                    <li><span class="body-grey">Your data is collected when you 
+                      login to our website for any information you seek.</span></li>
+                    <span class="body-grey"><br>
+                    </span>
+                    <li><span class="body-grey">Your feedback, suggestions &amp; 
+                      queries via emails or letters.</span></li>
+                    <span class="body-grey"><br>
+                    </span>
+                    <li><span class="body-grey">From publicly available sources 
+                      of information like newspapers, magazines.</span></li>
+                    <span class="body-grey"><br>
+                    </span>
+                    <li><span class="body-grey">From other Telecommunication &amp; 
+                      information service providers.</span></li>
+                    <span class="body-grey"><br>
+                    </span>
+                    <li><span class="body-grey">Your business associates, etc.</span></li>
+                  </font></ul><font face="Arial, Helvetica, sans-serif" size="2">
+                  <span class="body-grey"><br>
+                  If you do not want us to promote and market our products, services 
+                  and special offers to you please call Customer care on (91) 
+                  20 - 26603600 or mail at care@indiacom.com. In relation to marketing 
+                  and promotional material sent by email, we will only send such 
+                  material if you elect to receive it (i.e. opt-in) or if it is 
+                  provided in response to your request.</span></font> 
+                  <p></p>
+                  <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>Usage 
+                  of Information:<br>
+                  <br>
+                  </b>The information collected via various channels &amp; media 
+                  are well handled &amp; managed:To serve you better.</font> </span>
+                  <ul>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      verify your identity</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      inform you how to use our services better</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      conduct appropriate checks for credit-worthiness &amp; other 
+                      related financial matters.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      keep you updated with changes in our products &amp; services.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      assist you to understand your audience and confirm the value 
+                      of advertising on our website.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      promote &amp; market your services to our other users.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      contact you from time to time about the improvised &amp; 
+                      updated versions of your content which would provide the 
+                      users such features that would benefit you.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      provide response to your inquiry or to process your requests.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      research, develop, improvise &amp; monitor the performance 
+                      of the structure of our website.</font></span></li>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      deliver user-friendly website to the interest of our users.</font></span></li>
+                  </ul>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>Disclosure 
+                    of Information:<br>
+                    </b>In order to deliver the services you require and for the 
+                    purposes set out above, Indiacom may disclose your personal 
+                    information to entities outside Indiacom. The disclosure may 
+                    be done:</font><br>
+                    </span>
+                  </p><ul>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">For 
+                      the purpose of marketing, customer enquiry.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">For 
+                      Billing &amp; Debt recovery functions.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      credit providers, bankers.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      our professional consultants, advisors, auditors &amp; lawyers.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      other telecommunication &amp; information service providers.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">To 
+                      promote your business.</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">For 
+                      market research</font></span></li>
+                    <span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    </font> </span>
+                    <li><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2">Indiacom 
+                      takes reasonable steps to ensure confidentiality and privacy 
+                      obligations towards protection of your personal information.</font></span></li>
+                  </ul>
+                  <p></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>LINKS 
+                    TO OTHER SITES<br>
+                    </b>indiacom.com gives links to other websites. Such sites 
+                    are governed by their own respective privacy policies, which 
+                    are beyond our control. Once you leave our site, use of any 
+                    information you provide is governed by the privacy policy 
+                    of the operator of the site you are visiting. That policy 
+                    may differ from ours. If you can't find the privacy policy 
+                    of any of these sites via a link from the site's homepage, 
+                    you should contact the site directly for more information.<br>
+                    When we present information to our advertisers -- to help 
+                    them understand our audience and confirm the value of advertising 
+                    on our Website -- it is usually in the form of aggregated 
+                    statistics on traffic to various pages within our site. When 
+                    you register with Indiacom, we contact you from time to time 
+                    for updation of your content to provide the users such features 
+                    that we believe may be useful to you.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>SECURITY<br>
+                    </b>All information gathered by us is securely stored. The 
+                    database is stored on servers secured behind a firewall; access 
+                    to the servers is password-protected and is strictly limited. 
+                    However, as effective as our security measures are, no security 
+                    system is impenetrable. We cannot guarantee the security of 
+                    our database, nor can we guarantee that information you supply 
+                    will not be intercepted while being transmitted to us over 
+                    the Internet. And, of course, any information you include 
+                    in a posting to the discussion areas is accessible to anyone 
+                    with Internet access.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><br>
+                    <b>CHANGE OF POLICY<br>
+                    </b>We may change our privacy policy from time to time to 
+                    incorporate necessary future changes. Of course, our use of 
+                    any information we gather will always be consistent with the 
+                    policy under which the information was collected, regardless 
+                    of what the new policy may be.</font></span></p>
+                  <p><span class="body-grey"><font face="Arial, Helvetica, sans-serif" size="2"><b>For 
+                    any Queries/Clarifications</b> <br>
+                    contact at; websupport@indiacom.com or by post addressed to 
+                    Indiacom Limited, (Technical), Hermes Heritage, Phase I, (Commercial), 
+                    Shastri Nagar, Pune-Nagar Road, Pune-411006.</font></span></p>
                 </td>
               </tr>
             </tbody></table>
-        <table border="0" cellspacing="0" cellpadding="0" width="100%" height="">
-          <tbody><tr> 
-            <td valign="TOP" colspan="3" width="79%" align="center"> 
-              <table width="100%" border="0" cellpadding="5" cellspacing="3">
-                <tbody><tr valign="top"> 
-                  <td width="100%"> 
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr> 
-                        <td> 
-                          <div align="center"><font face="Arial, Helvetica, sans-serif" size="3"><b>INDIACOM.COM'S 
-                            PRIVACY POLICY</b></font></div>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2">www.Indiacom.com 
-                      is the comprehensive yellow pages online service provided 
-                      by Indiacom Limited (hereby 'Indiacom'), Pune that offers 
-                      complete online directory services and features all content 
-                      and information that is produced by Indiacom Limited. </font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2">Indiacom 
-                      respects the privacy of its users and strives to protect 
-                      it to the maximum extent possible<br>
-                      .<br>
-                      With a view to meet the information needs of the users Indiacom 
-                      offers the Online Site www.indiacom.com The information 
-                      collected is of two types -- information supplied by users 
-                      themselves and information automatically tracked during 
-                      the navigation of the site, www.indiacom.com by the users.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2">To avail 
-                      certain information/services from our indiacom.com, users 
-                      are required to provide some personal details like - Name, 
-                      Address, Sex, Age, Email id etc., and the like. (All required 
-                      information is Service Dependent). The Information supplied 
-                      enables to improve the content and service. If you choose 
-                      not to provide us with certain personal information, we 
-                      may not be able to provide you with the information/services 
-                      you require, or of the desired quality we prefer to provide. 
-                      Occasionally, you may need to provide personal information 
-                      about others too (e.g. about your representatives, agents, 
-                      etc). If so, we rely on you to inform them that you are 
-                      providing their personal information to Indiacom and advise 
-                      them that we can be contacted for further information.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>USE 
-                      OF COOKIES<br>
-                      </b></font><font face="Arial, Helvetica, sans-serif" size="2">Cookies 
-                      are pieces of information that a Web site transfers to your 
-                      computers hard disk for record-keeping purposes. Cookies 
-                      can make the Web more useful by storing information about 
-                      your preferences on particular sites, thus enabling Web 
-                      site owners to provide more useful features for their users. 
-                      (This use of cookies is an accepted standard) Most browsers 
-                      are initially set to accept cookies. If you would prefer, 
-                      you could set your browser to refuse cookies, however, you 
-                      may not be able to take full advantage of a Web site if 
-                      you do so.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2">Our 
-                      web servers automatically collect limited information about 
-                      your computer's connection to the Internet, including your 
-                      IP address, when you visit our site. (Your IP address is 
-                      a number that lets computers attached to the Internet know 
-                      where to send you data -- such as the web pages you view.) 
-                      Your IP address does not identify you personally. We use 
-                      this information to deliver our web pages to you upon request, 
-                      to tailor our site to the interests of our users, to measure 
-                      traffic within our site and let advertisers know the geographic 
-                      locations from where our visitors come.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Collection 
-                      of Information:<br>
-                      </b></font>
-                    <font face="Arial, Helvetica, sans-serif" size="2">Indiacom.com 
-                    compiles information through various sources/channels like:<br>
-                    </font></p><ul><font face="Arial, Helvetica, sans-serif" size="2">
-                      <li>You provide us information through' phone directly, 
-                        via marketing or through' order forms filled by you at 
-                        the time of booking an advertisement with us.</li>
-                      <li>Your data is collected when you login to our website 
-                        for any information you seek.</li>
-                      <br>
-                      <li>Your feedback, suggestions &amp; queries via emails 
-                        or letters.</li>
-                      <br>
-                      <li>From publicly available sources of information like 
-                        newspapers, magazines.</li>
-                      <br>
-                      <li>From other Telecommunication &amp; information service 
-                        providers.</li>
-                      <br>
-                      <li>Your business associates, etc.</li>
-                    </font></ul><font face="Arial, Helvetica, sans-serif" size="2">
-                    <br>
-                    If you do not want us to promote and market our products, 
-                    services and special offers to you please call Customer care 
-                    on (91) 20 - 26603600 or mail at care@indiacom.com. In relation 
-                    to marketing and promotional material sent by email, we will 
-                    only send such material if you elect to receive it (i.e. opt-in) 
-                    or if it is provided in response to your request.</font>
-                    <p></p>
-                    <font face="Arial, Helvetica, sans-serif" size="2"><b>Usage 
-                    of Information:<br>
-                    <br>
-                    </b></font><font face="Arial, Helvetica, sans-serif" size="2">The 
-                    information collected via various channels &amp; media are 
-                    well handled &amp; managed:</font><font face="Arial, Helvetica, sans-serif" size="2">To 
-                    serve you better.</font> 
-                    <ul>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        verify your identity</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        inform you how to use our services better</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        conduct appropriate checks for credit-worthiness &amp; 
-                        other related financial matters.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        keep you updated with changes in our products &amp; services.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        assist you to understand your audience and confirm the 
-                        value of advertising on our website.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        promote &amp; market your services to our other users.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        contact you from time to time about the improvised &amp; 
-                        updated versions of your content which would provide the 
-                        users such features that would benefit you.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        provide response to your inquiry or to process your requests.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        research, develop, improvise &amp; monitor the performance 
-                        of the structure of our website.</font></li>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        deliver user-friendly website to the interest of our users.</font></li>
-                    </ul>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Disclosure 
-                      of Information:<br>
-                      </b></font><font face="Arial, Helvetica, sans-serif" size="2">In 
-                      order to deliver the services you require and for the purposes 
-                      set out above, Indiacom may disclose your personal information 
-                      to entities outside Indiacom. The disclosure may be done:</font><br>
-                    </p><ul>
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">For 
-                        the purpose of marketing, customer enquiry.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">For 
-                        Billing &amp; Debt recovery functions.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        credit providers, bankers.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        our professional consultants, advisors, auditors &amp; 
-                        lawyers.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        other telecommunication &amp; information service providers.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">To 
-                        promote your business.</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">For 
-                        market research</font></li>
-                      <font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      </font> 
-                      <li><font face="Arial, Helvetica, sans-serif" size="2">Indiacom 
-                        takes reasonable steps to ensure confidentiality and privacy 
-                        obligations towards protection of your personal information.</font></li>
-                    </ul>
-                    <p></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>LINKS 
-                      TO OTHER SITES<br>
-                      </b></font><font face="Arial, Helvetica, sans-serif" size="2">indiacom.com 
-                      gives links to other websites. Such sites are governed by 
-                      their own respective privacy policies, which are beyond 
-                      our control. Once you leave our site, use of any information 
-                      you provide is governed by the privacy policy of the operator 
-                      of the site you are visiting. That policy may differ from 
-                      ours. If you can't find the privacy policy of any of these 
-                      sites via a link from the site's homepage, you should contact 
-                      the site directly for more information.<br>
-                      When we present information to our advertisers -- to help 
-                      them understand our audience and confirm the value of advertising 
-                      on our Website -- it is usually in the form of aggregated 
-                      statistics on traffic to various pages within our site. 
-                      When you register with Indiacom, we contact you from time 
-                      to time for updation of your content to provide the users 
-                      such features that we believe may be useful to you.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>SECURITY<br>
-                      </b></font><font face="Arial, Helvetica, sans-serif" size="2">All 
-                      information gathered by us is securely stored. The database 
-                      is stored on servers secured behind a firewall; access to 
-                      the servers is password-protected and is strictly limited. 
-                      However, as effective as our security measures are, no security 
-                      system is impenetrable. We cannot guarantee the security 
-                      of our database, nor can we guarantee that information you 
-                      supply will not be intercepted while being transmitted to 
-                      us over the Internet. And, of course, any information you 
-                      include in a posting to the discussion areas is accessible 
-                      to anyone with Internet access.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-                      <b>CHANGE OF POLICY<br>
-                      </b></font><font face="Arial, Helvetica, sans-serif" size="2">We 
-                      may change our privacy policy from time to time to incorporate 
-                      necessary future changes. Of course, our use of any information 
-                      we gather will always be consistent with the policy under 
-                      which the information was collected, regardless of what 
-                      the new policy may be.</font></p>
-                    <p><font face="Arial, Helvetica, sans-serif" size="2"><b>For 
-                      any Queries/Clarifications</b> <br>
-                      contact at; websupport@indiacom.com or by post addressed 
-                      to Indiacom Limited, (Technical), Hermes Heritage, Phase 
-                      I, (Commercial), Shastri Nagar, Pune-Nagar Road, Pune-411006.</font></p>
-                  </td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr> 
-  </tbody></table>
-<!-- Code for google analytical -->
+            <!-- #EndEditable --></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="159" height="2" bgcolor="#000000"></td>
+    <td width="6" bgcolor="#ffd900" height="2"></td>
+    <td align="left" valign="top" width="*" height="2" bgcolor="#000000"></td>
+    <td width="6" bgcolor="#ffd900" height="2"></td>
+    <td width="157" height="2" bgcolor="#000000"></td>
+  </tr>
+  <tr> 
+    <td colspan="5"><link rel="stylesheet" href="Templates/font-heading.css">
+<style type="text/css">
+<!--
+nolink-black {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-style: normal; color: #000000; text-decoration: none; cursor: hand}
+-->
+</style>
+
+
+<table width="100%" cellspacing="1" cellpadding="0" border="0">
+        <tbody><tr> 
+          <td colspan="2" height="15" class="nolink-black" bgcolor="#ffd900"> 
+            <div align="center">
+		<a href="http://www.indiacom.co.in/goal.htm"><font size="2" color="#000000"><b>About Us</b></font></a> | 
+		<a href="contact.asp"><font size="2" color="#000000"><b>Contact Us</b></font></a> | 
+		<a href="sitemap.asp"><font size="2" color="#000000"><b>Site Map</b></font></a> | 
+		<a href="help.asp"><font size="2" color="#000000"><b>Help</b></font></a> | 
+		<a href="feedback.asp"><font size="2" color="#000000"><b>Feedback</b></font></a> | 
+              	<a href="termscond.asp"><font size="2" color="#000000"><b>Terms and Conditions</b></font></a>
+	    </div>
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="15" class="nolink-black" bgcolor="#ffd900"> 
+            <div align="center">© All Intellectual Property Rights Reserved 
+              :<a href="http://www.indiacom.co.in" target="_new window"> <img src="images/Indiacom.gif" width="50" height="13" border="0"></a><font color="#0000FF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000"><a href="disclaimer.asp">REFER 
+              DISCLAIMER</a></font></font></div>
+          </td>
+        </tr>
+	<tr> 
+          <td colspan="2" height="2"> 
+            <div align="center"> <font color="#CC0000" face="arial" size="1">This site can be best 
+              viewed in <b>IE 5.0</b> or above, <b>1024 x 768</b> Resolution.</font></div>
+          </td>
+        </tr>
+      </tbody></table>
+
+
+
+
+  <!-- Code for google analytical -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-267249-1";
 urchinTracker();
 </script>
+<center>
+<div style="visibility:hidden;display:none"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.indiacom.com"></script></div>
+</center></td>
+  </tr>
+</tbody></table>
 
-
-<title>Untitled Document</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-<img src="heading\line.gif" width="100%" height="1"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="hd">
-<tbody><tr align="left" valign="top" height="0"></tr>
- <tr bgcolor="#FFD900"> 
-<td nowrap="" height="16"> <div align="center"><font face="Arial, Helvetica, sans-serif" size="2"><a href="sitemap.asp" class="hd">Sitemap</a> 
-&nbsp; I &nbsp;&nbsp;<a href="feedback.asp" class="hd">Feedback</a>&nbsp;&nbsp; 
-I &nbsp;&nbsp;<a href="http://www.indiacom.co.in/goal.htm" class="hd" target="_blank">About 
-Us</a>&nbsp;&nbsp; I &nbsp;&nbsp;<a href="addyourlist.asp">Add Your Listing</a> 
-&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.asp">Contact Us</a>&nbsp;&nbsp; I &nbsp;&nbsp;<a href="orderyp.asp" class="hd">Order 
-Printed Yellow Pages</a>&nbsp;&nbsp; I &nbsp;&nbsp;<a href="help.asp" class="hd">Help</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="termscond.asp" class="hd">Terms and Conditions</a></font></div></td></tr> 
-
-
-
-<tr> <td colspan="2" bgcolor="#EBEBEB" height="15" class="ulink"> 
-                  <div align="center">© All Intellectual Property Rights 
-                    Reserved :<a href="http://www.indiacom.co.in" target="_new window"> 
-                    <img src="images/Indiacom.gif" width="50" height="13" border="0"></a><font color="#0000FF">&nbsp;&nbsp;&nbsp;<a href="siteterms.asp">SITE 
-                    TERMS AND CONDITIONS</a>&nbsp;|&nbsp;<a href="privacypolicy.asp">PRIVACY 
-                    POLICY</a></font></div>
-                </td></tr>
- <tr class="ulink"> 
-                <td colspan="2" height="2" bgcolor="#EBEBEB"> 
-                  <div align="center"> <font color="#CC0000">This site can be 
-                    best viewed in <b>IE 4.0</b> or above, <b>1024 x 768</b> Resolution.</font></div>
-                </td></tr> </tbody></table> 
- 
-
-
-
- 
-<!-- Code for google analytical -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script> 
-<script type="text/javascript">
-_uacct = "UA-267249-1";
-urchinTracker();
-</script>
-
-
+<!-- #EndTemplate -->
 </body></html>
