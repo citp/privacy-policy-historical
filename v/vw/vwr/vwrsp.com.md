@@ -1,35 +1,73 @@
-> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207104426id_/http%3A//www.vwrsp.com/customer/index.cgi%3Ftmpl%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011143033id_/http%3A//www.vwrsp.com/customer/index.cgi%3Ftmpl%3Dprivacy_policy) for the most accurate reproduction.*
 
 # VWR.COM - Privacy Policy
 
 | 
 
-**VWR International Privacy Policy**
+VWR International respects your privacy. Our guidelines for protecting the information you provide us with during your visit to our web site are listed below.
 
-**We Protect Your Right to Privacy** VWR.COM respects your privacy. Our guidelines for protecting the information you provide us during your visit to our Web site appear below. 
+#### Privacy Statement
 
-**Privacy Statement** This statement discloses the privacy practices for www.vwr.com. We have designed VWR.COM so that no personal identifying information is displayed online or is accessible to the general public. You can browse the VWR Internationals' web site and online catalogs without telling us who you are or revealing any information about yourself. To obtain access to special site features including product availability and contract pricing, we ask that you register on our site. 
+This statement discloses the Internet Privacy Policy for the VWR International website, vwr.com. This site has been designed so that no personal identifying information is displayed online or is accessible to the general public. You can browse vwr.com and our online catalogs without telling us who you are or revealing any information about yourself. To obtain access to special features such as product availability, contract pricing and for ordering we ask that you register on our site.
 
-**Use of Data** For ordering and operations purposes, we collect only the following information about our users: name, account number (if applicable) street address, Zip Code, state, and country and email address. For promotions we collect other information to help us track the success of the promotion (i.e. how you learned about the offer).We use the name and email address to manage registrations. We do not sell or distribute that information to any third party. We do not reveal your email address or other personal information, except to complete transactions with our third party suppliers. The ZIP code, state, and country information is used only to assess our needs in the way of technology, for the purposes of offering the best possible service to our world-wide customer base. We do not sell or distribute this information to any third party. Information such as name, phone number, and credit card numbers are collected through third party partners of VWR.COM, such Visa, Mastercard, American Express. 
+#### Use of Data
 
-**Use of Your Email Address** When you provide us with your email address when you register as a customer or make a purchase from us, we will occasionally send you email with recommendations or notices of new products, prices, and services. This email may include paid advertisements from third parties. At the time that you register or make a purchase, you will be given an opportunity to opt out of this service. If you do not initially choose to opt out, you may still block future email of this type, simply by following the instructions at the bottom of the update messages. Separately, we send email to keep you informed about the status of your orders. These messages cannot be blocked. 
+**1\. Information collected during ordering and operations process** \- When you order and register with VWR International on the web, as well as through our Customer Contact Centers, we collect the following information: name, address, phone, email, payment method including credit card numbers, personal web settings and account numbers. We do not sell or distribute this information to any third party except to complete transactions with our freight companies and third party suppliers that are authorized to drop ship orders on our behalf. Location information is used by VWR International for distribution purposes to allow us to provide the best possible service levels to our customer base. Information such as name, phone number, and credit card numbers are collected by third party partners of VWR International, such as Visa, MasterCard, Discover and American Express for the payment process.
 
-**Registration** During the VWR.COM registration process, we ask you to provide us with contact information, such as name, email address, phone number, ZIP code, state, and country. Sharing of Information We do not sell, rent, or share any customer information that we collect on our site except for the purposes described here and to our suppliers for the same purposes. By contract, third parties such as must comply with their own privacy policies with regard to the renting, selling, or sharing of information. For advertising purposes, visitor and customer information is statistically aggregated and reported to advertisers. However, we do not disclose to these entities any information that could be used to personally identify you, such as your name, email address, account, password, or transaction history. 
+When you register as a customer and provide us with your email address, we will occasionally send you email with recommendations or notices of new products, prices, and services. This email may include paid or unpaid advertisements from third parties (VWR authorized suppliers). Once you register, you will be given an opportunity to opt out of this service by changing the settings in your profile or via the first email you receive from us. If you do not initially choose to opt out, you may still block future email of this type, simply by following the instructions at the bottom of the update messages. Users also have the ability to turn off order related e-mails. The types of emails a user receives when ordering through the web site include:
 
-**Links** VWR.COM contains links to other Web sites. Please note that when you click on one of these links, you are 'clicking' to another Web site. We encourage you to read the privacy statements of these linked sites, as their privacy policies may differ from ours. 
+  * Order Acknowledgment
+  * Shipping Notices
+  * Order Approval E-mails
 
-**Cookies** VWR.COM uses software tags called "cookies" to identify customers and track shopping baskets when they visit our site. Additionally, cookies help us to identify returning users so that we don't ask them to register with every visit. They also help us understand your buying preferences and customize our service to your needs. By recording which areas of the site you visit, cookies allow us to present information, products, and special offers that are most likely to be of interest to you. The information we collect with cookies is not sold, rented, or shared with any outside parties. We cannot provide a total secured shopping experience to users whose browsers are set to reject cookies. 
 
-**Log Files** VWR.COM maintains log files of the traffic that visits the VWR.COM site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
 
-**Newsletter** Newsletters are mailed only to users who opt into the newsletter service. Users who wish to receive the newsletter must subscribe to it by clicking on the link provided in the introductory email sent to newly registered subscribers. Users who have subscribed can cancel their subscription by following instructions contained in each issue of the newsletter. Only an email address is required to receive the newsletter. 
+**2\. Information collected during promotional programs** \- Information may be collected from you via direct mail, electronic and internet campaigns as well as through e-newsletters, requests for literature and support, and customer surveys. When you respond to a promotional campaign, VWR collects contact information as well as additional information to help us qualify the success of a promotion and to determine eligibility. Inclusion of your email address and contact information indicates permission to send notices of new products, prices and services, including paid advertisements from third parties (authorized VWR suppliers). VWR will not sell or distribute names and mailing and email addresses and other contact information to third party advertisers except for the joint promotion of VWR International and the third party. Your contact information, collected from the promotion, may be transferred to a third party (an authorized VWR supplier) when they are responsible for fulfillment of a free item, sample, information, etc. At any time you may request removal from our mail list, see instructions below. We also post surveys on our site. These surveys are optional. The information is collected to better understand our user community and will provide feedback to allow us to improve our service. From time to time, VWR International may obtain email addresses from outside vendors and will send these obtained email addresses electronic marketing materials from VWR. Removal from the VWR list can be accommodated.
 
-**Feedback** We collect user feedback. Users who would like a response to specific questions concerning the service or their subscriptions are directed to the customer service area. These questions will be respond to as quickly as possible. We read all of our customer service queries and use the information contained therein only to resolve the question at hand. We also post surveys on our site, ranging from one to ten questions. These surveys are optional and all information is collected anonymously. The information is collected to better understand our user population. It is not sold or transferred to any third party. Correct/Update/Delete User Information Users can update or correct, their personal information on VWR.COM by changing their profile information in "My Account". If you have and questions e-mail us at solutions@vwr.com 
+#### Links
 
-**Information security** All information gathered on the VWR.COM site is stored and maintained in secure facilities that limit access to authorized personnel only. Our personnel can only access the information through a series of access-control procedures. All VWR.COM employees are briefed about the company's privacy and security policies on a regular basis. The VWR.COM Web site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. 
+vwr.com contains links to other web sites. Please note that when you click on one of these links, you are leaving the VWR web site and entering a completely new web site. This new site may have a different privacy policy than vwr.com and the content found on that site is not the responsibility of VWR International, Inc.
 
-**SSL** Our current security technology is Secured Socket Layer (SSL). The SSL protocol provides connection security that has three basic properties: 
+#### Cookies
 
-* The connection is private. Encryption is used after an initial handshake to define a secret key. Symmetric cryptography is used for data encryption (e.g., DES[DES], RC4[RC4], etc.) 
-* The peer's identity can be authenticated using asymmetric, or public key, cryptography (e.g., RSA[RSA], DSS[DSS], etc.). 
-* The connection is reliable. Message transport includes a message integrity check using a keyed MAC. Secure hash functions (e.g., SHA, MD5, etc.) are used for MAC computations. We reserve the right to change this privacy policy at any time. 
+vwr.com uses software tags called "cookies" to identify customers and track shopping baskets when they visit our site. This benefits the customer by allowing them to stay logged in during their visit so they do not have to continually log-in. It also allows selected products within a shopping basket to remain as a customer goes to other areas to browse. To learn more about the two methods of cookie opt-out, and to exercise your choice, [click here](https://web.archive.org/customer/page.cgi?tmpl=opt_out)
+
+#### Log Files
+
+VWR International, Inc. maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and help provide reliable service, all with no association to your personal identity. Information collected includes IP addresses, browser types and pages visited.
+
+#### Feedback On Our Systems
+
+Within your VWR shopping experience on vwr.com, you have the opportunity to provide us with feedback. We collect user feedback to improve our systems. 
+
+#### Specific Customer Questions
+
+Users who would like a response to specific questions concerning their service are directed to the [Contact Us](https://web.archive.org/customer/forms/index.cgi?tmpl=form_contactus) section on our web site or our Customer Contact Centers at 800-932-5000. We read and review all of our customer service queries and use the information contained therein only to resolve the question at hand.
+
+#### Correct/Update/Delete User Information On vwr.com
+
+Users can update or correct, their personal information on vwr.com by changing their profile information in "[My Account](https://web.archive.org/myvwr/edit_profile/index.cgi)". If you have any questions, e-mail our [Solutions Team](https://web.archive.org/customer/forms/index.cgi?tmpl=form_contactus&subject=01).
+
+#### Removal from the VWR International Mail List
+
+Email your request to [The VWR Mail List Manager](https://web.archive.org/customer/forms/index.cgi?tmpl=form_contactus&subject=05) to be removed from our mail list.
+
+#### Information Security
+
+All information gathered on the vwr.com site is stored and maintained in secure facilities. Our web site is regularly tested for potential security breaches. Our current security technology is Secured Socket Layer (SSL).
+
+VWR International, Inc. reserves the right to change this Privacy Policy at any time. The revised policy will be posted on our website for visitors to review.
+
+## Data Theft Contingency Plan
+
+VWR International utilizes the Internet to provide a variety of features to our customers. In the course of conducting business functions via the Internet, we store data related to those functions within our systems. To protect the sensitive data that belongs to our customers, we have implemented a number of processes. These processes include, but are not limited to, encrypting data and utilizing Secure Hypertext Transfer Protocol (HTTPS).
+
+VWR makes every effort to ensure that data is secure. In the event that our processes fail to prevent the theft of sensitive data, we will undertake the following: 
+
+  * Customers that may be impacted by any data theft will be notified.
+  * Notification that data has been compromised will be given to the vendor bank within 48 hours of obtaining this knowledge.
+  * At the request of the customer, we will place on record the contact information for any impacted financial institution (i.e. credit card issuer) and notify the institution within the same time frame as given above.
+  * We will communicate to the customer whatever information may aid their efforts to prevent data theft from causing harm to their organization. This may include an estimate of the number of records, users, or accounts involved.
+  * Following any event that involves compromised data, we will collect feedback from the impacted customers. This feedback will be used to adjust this process to better serve our customers in any future event.
+
+
