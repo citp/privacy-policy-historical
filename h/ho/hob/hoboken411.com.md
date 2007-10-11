@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205071627id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031905id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
 # Privacy Policy - Hoboken411 » The NEW online guide for Hoboken, NJ
 
@@ -34,3 +34,5 @@ If you’re worried about your children’s activities or their privacy on our s
 **V. PRIVACY POLICY CONTACT**  
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
+
+_Related Link:_ [Xbox 360](http://www.forumla.de/f-microsoft-xbox-360-forum-34/) board. Discuss about the xbox360 console here. 
