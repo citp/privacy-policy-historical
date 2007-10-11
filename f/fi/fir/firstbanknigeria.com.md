@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615070701id_/http%3A//firstbanknigeria.com/resources/pola/pola_ppolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012005753id_/http%3A//www.firstbanknigeria.com/resources/pola/pola_ppolicy.asp) for the most accurate reproduction.*
 
 # FirstBank | Resources | Policy Statements - Privacy Policy
 
