@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twobillsdrive.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611125154id_/http%3A//www.twobillsdrive.com/articles/read.php%3Farticle%3D994874160) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twobillsdrive.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092846id_/http%3A//www.twobillsdrive.com/articles/read.php%3Farticle%3D994874160) for the most accurate reproduction.*
 
 # Two Bills Drive: Buffalo Bills News
 
