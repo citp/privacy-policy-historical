@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626083711id_/http%3A//www.livemetallica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053955id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.*
 
-# MetallicA -LIVE- Privacy Policy
+# LiveMetallica.com | Download Live MP3 and FLAC Shows | Terms of Use
+
+  
+
 
 Thank you for visiting the LiveMetallica.com website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at livemetallica.com. 
 
-**The Information We Collect**  
+The Information We Collect  
 At the LiveMetallica.com website, you can order products, express an opinion, subscribe to potential services such as online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information. 
 
 At certain parts of some of our site, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
-**How We Use the Information**  
+How We Use the Information  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
 We sometimes use this information to communicate with you, such as to notify you when a concert you have purchased is available for download or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
@@ -28,13 +31,13 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 Finally, the LiveMetallica.com website will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-**Cookies**  
+Cookies  
 To enhance your experience with our website, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at livemetallica.com (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our website. 
 
-**Our Commitment to Security**  
+Our Commitment to Security  
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-**How to Contact Us**  
+How to Contact Us  
 If you have any questions or concerns about the LiveMetallica.com online policy for this site or its implementation you may contact us at [webmaster@livemetallica.com ](mailto:webmaster@livemetallica.com). 
