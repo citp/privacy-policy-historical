@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519170909id_/http%3A//pcthreat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011140036id_/http%3A//www.pcthreat.com/privacy-en.html) for the most accurate reproduction.*
 
-# Info
+# Privacy policy
 
 As an organization concerned about the security of your computer, we take your privacy very seriously. Our website clearly states what kind of information we collect and store about you. 
 
@@ -8,15 +8,20 @@ Any collected personal information, like your name, email address, Instant messe
 
 Be aware that if you post any personal data on our discussion forum, it may be visible to everyone because search engines are able to grasp the data and keep it for a certain time even if it has been deleted from our servers. You have a right to delete your personal information whenever you wish. In case you would like to remove your account, feel free to contact us.
 
-Our website provides links to other websites. However, we do not take the responsibility for their actions associated with your personal data collection and processing. That is why we advise you to check their privacy policies separately. 
+Our website provides links to other websites. However, we do not take the responsibility for their actions associated with your personal data collection and processing. That is why we advise you to check their privacy policies separately.
+
+[](http://www.addthis.com/bookmark.php)  
+[](http://www.addthis.com/feed.php?pub=ZQ266O7Z7D8I7PD6&h1=http%3A%2F%2F87.247.113.185%2F%7Epcthret%2Fatom&t1= "Subscribe using any feed reader!")
+
+Today’s most dangerous parasites:
 
 SpyHunter  
-1,866 downloads
+9,535 Downloads
 
-CounterSpy  
-1,649 downloads
+Spyware Doctor  
+7,747 Downloads
 
-Spy sweeper  
-1,574 downloads
+Spy Sweeper  
+7,114 Downloads
 
-[](http://www.pcthreat.com/comparetools.html)
+[](http://www.pcthreat.com/rss) [](http://www.pcthreat.com/atom)
