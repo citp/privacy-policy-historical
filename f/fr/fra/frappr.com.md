@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626172231id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011214521id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Frappr Maps
 
