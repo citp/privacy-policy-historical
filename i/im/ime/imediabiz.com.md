@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513164651id_/http%3A//www.imediabiz.com/web/en/common/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011100721id_/http%3A//www.imediabiz.com/web/en/common/privacy_policy.php) for the most accurate reproduction.*
 
 # Web Hosting Australia - Imediabiz.com :: Privacy Policy
 
@@ -8,10 +8,10 @@
 ---  
 | 
 
-"Good service with very fast solution." **\- Ir. Nyoman Sulandika -**  
+"Running wild.. Unbelievable! Server Speed like a flash, and cheap like an ass. Damn I love it.. :-)" **\- FBI Cyber Team -**  
 
 |   
-|  |    [Home](https://web.archive.org/web/20070513164651id_/http%3A//www.imediabiz.com/web/en/common/ "Go to Home") » Privacy Policy  
+|  |    [Home](https://web.archive.org/web/20071011100721id_/http%3A//www.imediabiz.com/web/en/common/ "Go to Home") » Privacy Policy  
 ---  
 | **Our Basic Privacy Policy**  
 ---  
