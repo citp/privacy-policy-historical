@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050204id_/http%3A//www.untangle.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D85%26Itemid%3D227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011061023id_/http%3A//www.untangle.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D85%26Itemid%3D227) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
