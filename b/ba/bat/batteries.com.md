@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409031317id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044436id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
@@ -30,9 +30,7 @@ Contact Us
 batteries.com is the sole owner of the information collected on this site. We will not sell or rent this information to others in ways different from what is disclosed in this statement. batteries.com collects information from our users at several different points on our website. 
 
 **Signing up for My Power**  
-During My Power sign up we require users to give their contact information (such as name and email address). We use your email address to uniquely identify you to allow you access to your account and to keep track of your wish list. . We use your contact information from the account form to send you a newsletter and to inform you of sales and special offers. If you don't want to receive these types of emails from us you may opt-out. For more information on how to opt-out see the Choice/Opt-out section below. 
-
-We may occasionally send you site and service updates. You may not unsubscribe from these updates, which contain important information about the service. We will contact you to provide requested services and in regards to issues relating to your account via email or phone. 
+During My Power sign up we require users to give their contact information (such as name, zip code, and email address). We use your email address to uniquely identify you to allow you access to your account and to keep track of your wish list. . We use your contact information from the account form to send you a newsletter and to inform you of sales and special offers. If you don't want to receive these types of emails from us you may opt-out. For more information on how to opt-out see the Choice/Opt-out section below. 
 
 **Placing an Order with batteries.com**  
 We require you to set up a My Power account if you wish to place an order with batteries.com. On the Order Form we collect contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your order. We will use your contact information to contact you if we have trouble processing your order, if we have questions regarding your order, or we wish to notify you of the status of your order 
@@ -53,7 +51,7 @@ We use email links on our customer feedback page to allow you to contact us dire
 We read every message sent in and try to reply promptly to every one. We use the information you provide us to respond directly to your questions or comments. We may also retain your comments to improve the site and program, or we may review and discard the information. 
 
 **Cookies**  
-Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at batteries.com, tailoring the content to your interests. Our website requires the use of cookies. Turning off cookies or rejecting the batteries.com cookie will limit your experience with our website. 
+Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. It also lets us personalize your experience at batteries.com, tailoring the content to your interests. Our website requires the use of cookies. Turning off cookies or rejecting the batteries.com cookie will limit your experience with our website. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 Some of our business partners (e.g, advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by batteries.com only and does not cover the use of cookies by any advertisers. 
 
@@ -93,6 +91,7 @@ If we change our privacy policy, we will post a notice of the change on our home
 **Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on our Web site. 
 
+  
 **To Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with our Web site, you can contact:   
 Webmaster  
@@ -101,4 +100,4 @@ batteries.com, Inc.
 Indianapolis, IN 46278-1727  
 [webmaster@batteries.com](mailto:webmaster@batteries.com)
 
-Last Update: 12/22/2005 
+Last Update: 8/22/2007 
