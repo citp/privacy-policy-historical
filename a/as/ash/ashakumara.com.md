@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashakumara.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202231752id_/http%3A//join.ashakumara.com/ttrack/MDowOjQ/index.php%3Fsection%3D87%26nats%3DMDowOjQ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashakumara.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063119id_/http%3A//join.ashakumara.com/ttrack/MDowOjQ/index.php%3Fsection%3D87%26nats%3DMDowOjQ) for the most accurate reproduction.*
 
 # Asha Kumara - Sexy Indian Teen!
 
