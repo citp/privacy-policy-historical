@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502172642id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011034745id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
 
 # Pets 4 You - Privacy Policy
 
@@ -75,9 +75,6 @@ Lower Lake, California
 USA 95457   
 Website URL: |  [http://www.pets4you.com](http://www.pets4you.com/)  
   
-**Tell the Breeders you found them on the Pets 4 You ® Website!  
-**Can't find breeders in your area?  Click **[ here](http://breedersdirectory.com/)** for options!
-
 This site is served, operated and maintained by   
 [ Pets4You.com](mailto:webmaster@pets4you.com)®  
 P.O. Box 1584 - Lower Lake, CA 95457  
