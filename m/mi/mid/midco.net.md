@@ -1,32 +1,39 @@
-> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602124401id_/http%3A//www.midcocomm.com/CustomerService/Policies/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011101108id_/http%3A//www.midcocomm.com/CustomerService/Policies/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## Midcontinent Communications Cable and Internet Subscriber Privacy Notice
+##   
+Midcontinent Communications Cable, Internet, and Telephone Subscriber Privacy Notice
 
-We at Midcontinent Communications ("we" or "us") are providing this Notice to inform you of our practices regarding personally identifiable information that may be collected in the course of providing services to you over our cable system, including video programming services, ISP Services and telephony services ("cable-based services"). Not all services may be available in your particular geographic area. This Notice is being provided in accordance with the Cable Communications Policy Act of 1984 (the "Cable Act"). In addition to the Cable Act, this Notice also makes reference to the Electronic Communications Policy Act of 1986, as amended ("ECPA"), which is applicable if you are a subscriber to our ISP service provided over our cable system (an "ISP Service") or telephony services, and the Online Copyright Infringement Liability Limitation Act of 1998 ("Copyright Act"), which is also applicable if you are a subscriber to our ISP Service.
+We at Midcontinent Communications ("we" or "us") are providing this Notice to inform you of our practices regarding personally identifiable information that may be collected in the course of providing services to you over our cable system, including video programming services, ISP Services and telephony services ("cable-based services"). Not all services may be available in your particular geographic area. As to cable services, this Notice is being provided in accordance with the Cable Communications Policy Act of 1984 (the "Cable Act"). In addition to the Cable Act, this Notice also makes reference to the Electronic Communications Policy Act of 1986, as amended ("ECPA"), which is applicable if you are a subscriber to our ISP service provided over our cable system (an "ISP Service") or telephony services, and the Online Copyright Infringement Liability Limitation Act of 1998 ("Copyright Act"), which is also applicable if you are a subscriber to our ISP Service.
 
 This Notice pertains to personally identifiable information about you that you have furnished to us, or that we have collected, in connection with the provision of cable-based services to you. The provisions of this Notice also apply as indicated herein to personally identifiable information that you have furnished to us or that we have collected in connection with our provision of ISP Service. Personally identifiable information does not include aggregate data that does not identify you.
 
 The Cable Act's subscriber privacy provisions apply to cable operators, as defined in the privacy provisions of the Cable Act ("Cable Operators"), providing cable and other services over their systems.
 
-Seven areas are covered by this Notice:
+ _Eight areas are covered by this Notice:_
 
-  1. The nature of personally identifiable information collected about you and the way such information is used;
-  2. The nature, frequency, and purpose of any disclosure that may be made of such information;
-  3. Disclosure of information to governmental entities and through legal process;
-  4. The period of time such information will be maintained;
-  5. Your online communications on your ISP Service;
-  6. The times and place you may have access to the information collected; and
-  7. Your rights under the Cable Act.
+1\. The nature of personally identifiable information collected about you and the way such information is used; 
 
+2\. The nature, frequency, and purpose of any disclosure that may be made of such information; 
 
+3\. Disclosure of information to governmental entities and through legal process; 
 
-1\. _Collection and Use of Personally Identifiable Information_
+4\. The period of time such information will be maintained; 
 
-In order that we can provide service to you and operate efficiently, we collect the following types of information about you that may constitute personally identifiable information: your name, home, email and work address, telephone numbers, social security number, credit information, and bank account and credit card information used to pay for our services. Depending on the services we provide to you, our records also may include information on billing, payment, damage and security deposits, maintenance and repairs, how many television sets you have connected to cable or that are cable ready, the location of these television sets in your home, the number and location of PCs in your home and your PC configuration, the service options you have chosen, and the number of converters, cable modems or other cable equipment installed in your home. We may remotely check your PC to the extent necessary to determine whether it is susceptible to unauthorized access or the dissemination of computer viruses. We may also keep records of research concerning subscriber satisfaction with our services, which are obtained from subscriber interviews and questionnaires. Additionally, we may have a record of whether you rent or own your home in the event that landlord permission is required prior to installing our cable facilities. We also maintain copies of our correspondence with our subscribers (via e-mail or otherwise) and, if you are an ISP Service subscriber, we may keep records of violations and alleged violations of your Cable Subscription Terms and Conditions (your "Subscription Agreement") and other rules governing your use of the ISP Service, including, but not limited to, the Acceptable Use Policy. Finally, we may sometimes obtain from third parties publicly available information about our subscribers.
+5\. Your online communications on your ISP Service; 
 
-The information described in the preceding paragraph is used for purposes such as the following: to make sure you are being billed properly for the services you receive; to send you pertinent information about our services; to maintain or improve the quality of our services; to answer questions from subscribers (i.e., for troubleshooting); to ensure compliance with relevant law and contractual provisions; to market cable or other services or products that you may be interested in; and for tax and accounting purposes.
+6\. The times and place you may have access to the information collected; 
+
+7\. Your rights under the Cable Act;
+
+8\. Your rights under the rules governing customer proprietary network information.
+
+ **1. _Collection and Use of Personally Identifiable Information_  
+**  
+In order that we can provide service to you and operate efficiently, we collect the following types of information about you that may constitute personally identifiable information: your name, home, billing, email and work address, telephone numbers, driver’s license, social security number, credit information, and bank account and credit card information used to pay for our services. Depending on the services we provide to you, our records also may include information on billing, payment, damage and security deposits, maintenance, complaints and repairs, how many television sets you have connected to cable or that are cable ready, the location of these television sets in your home, the number and location of PCs in your home and your PC configuration, the service options you have chosen, and the number of converters, cable modems or other cable equipment installed in your home. We may remotely check your PC to the extent necessary to determine whether it is susceptible to unauthorized access or the dissemination of computer viruses. We may also keep records of research concerning subscriber satisfaction with our services, which are obtained from subscriber interviews and questionnaires. Additionally, we may have a record of whether you rent or own your home in the event that landlord permission is required prior to installing our cable facilities. We also maintain copies of our correspondence with our subscribers (via e-mail or otherwise) and, if you are an ISP Service subscriber, we may keep records of violations and alleged violations of your Cable Subscription Terms and Conditions (your "Subscription Agreement") and other rules governing your use of the ISP Service, including, but not limited to, the Acceptable Use Policy. Finally, we may sometimes obtain from third parties publicly available information about our subscribers.
+
+The information described in the preceding paragraph is used for purposes such as the following: to make sure you are being billed properly for the services you receive; to send you pertinent information about our services; to maintain or improve the quality of our services; to answer questions from subscribers (i.e., for troubleshooting); to ensure compliance with relevant law and contractual provisions; to protect against unauthorized use of the services we provide; to market cable or other services or products that you may be interested in; and for tax and accounting purposes.
 
 Our system, in delivering and routing the ISP Services, may automatically log information concerning Internet addresses you contact, and the duration of your visits to such addresses. We do not use or disclose any personally identifiable information that may be derived from these logs for marketing, advertising or similar purposes. We, in providing the ISP Service to you, also have access to personally identifiable information about you or your ISP account, including the name and address associated with a given IP address or, possibly, one or more e-mail accounts. You have consented, in your Subscription Agreement, to the collection of personally identifiable information as described in this paragraph.
 
@@ -34,19 +41,19 @@ In addition, if you use a telephony service we provide, then as a necessary inci
 
 Under the Cable Act, a Cable Operator may also collect personally identifiable information over a cable system without subscribers' consent if it is necessary to provide services to subscribers, or to prevent unauthorized access to services or subscriber data.
 
-2\. _Disclosure of Personally Identifiable Information_
+ **2. _Disclosure of Personally Identifiable Information_**
 
 Personally identifiable information that we maintain related to our subscribers will be disclosed by us without the prior written or electronic consent of subscribers only if: (1) it is necessary to render, or conduct a legitimate business related to, the services that are provided to you; (2) such disclosure is required by law or legal process as described below; or (3) for mailing lists as described below.
 
-The types of persons to whom information about you may be disclosed by us in the course of providing cable service to you include the employees of Midcontinent Communications and its related legal entities, agents, repair and installation subcontractors, sales representatives, accountants, billing and collection services and credit reporting agencies, consumer and market research firms, and authorized representatives of governmental bodies. Also upon reasonable request, personally identifiable information is disclosed to persons or entities with an equity interest in legal entities related to us when they have a legal right to inspect our books and records.
+The types of persons to whom information about you may be disclosed by us in the course of providing cable service to you include the employees of Midcontinent Communications and its related legal entities, agents, repair and installation subcontractors, sales representatives, accountants, billing and collection services and credit reporting agencies, consumer and market research firms, marketing companies, software developers and maintenance providers, and authorized representatives of governmental bodies. Also upon reasonable request, personally identifiable information is disclosed to persons or entities with an equity interest in legal entities related to us when they have a legal right to inspect our books and records.
 
-We may contact you ourselves from time to time to let you know about changes to your services, new service offerings, or maintenance work that may temporarily effect your service. We do not share your information with others, such as advertisers and direct mail or telemarketers, without your permission.
+We may contact you ourselves from time to time to let you know about changes to your services, new service offerings, or maintenance work that may temporarily affect your service. We do not share your information with others, such as advertisers and direct mail or telemarketers, without your permission.
 
-3\. _Disclosure of Information to Government Entities and Other Legal Process_
+ **3. _Disclosure of Information to Government Entities and Other Legal Process_**
 
-Federal law requires us to disclose personally identifiable information to a governmental entity or other third party pursuant to a court order. If the court order is sought by a governmental entity, the Cable Act requires that you be afforded the opportunity to contest in court any claims made in support of the court order sought. At such a proceeding, the Cable Act requires the governmental entity to offer clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. In addition, pursuant to an administrative subpoena, state welfare agencies may obtain the names and addresses of individuals as they appear in the subscriber records of cable companies with respect to those who owe, or are owed, welfare support. Such information may be obtained without a court order and does not require that a subscriber be given notice of and the opportunity to contest the disclosure.
+Federal law requires us to disclose personally identifiable information to a governmental entity or other third party pursuant to a court order. If the court order to obtain access to cable-related information is sought by a governmental entity, the Cable Act requires that you be afforded the opportunity to contest in court any claims made in support of the court order sought unless the government obtains a court order blocking us from providing you with notice. At such a proceeding, the Cable Act requires the governmental entity to offer clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. In addition, pursuant to an administrative subpoena, state welfare agencies may obtain the names and addresses of individuals as they appear in the subscriber records of cable companies with respect to those who owe, or are owed, welfare support. Such information may be obtained without a court order and does not require that a subscriber be given notice of and the opportunity to contest the disclosure.
 
-If you are a subscriber to an ISP Service or telephony services, ECPA requires us to reveal information to the government in certain additional circumstances. ECPA addresses both the content of communications as well as subscriber record information. ECPA requires us to disclose to governmental authorities the content of communications in response to a criminal warrant or court order without any notice to you and without your consent.
+If you are a subscriber to an ISP Service or telephony services, ECPA and state law require us to reveal information to the government in certain additional circumstances. ECPA addresses both the content of communications as well as subscriber record information. ECPA requires us to disclose to governmental authorities the content of communications in response to a criminal warrant or court order without any notice to you and without your consent.
 
 In addition, under ECPA the government may require us to disclose subscriber record information (but not the content of communications) pursuant to a warrant, court order or subpoena without any notice to you and without your consent.
 
@@ -54,22 +61,42 @@ If you subscribe to an ISP Service, a private party may use a subpoena under the
 
 In your Subscription Agreement, you have agreed that we may also disclose any information in our possession to protect our rights, property and/or operations, or where circumstances suggest that individual or public safety is in peril.
 
-4\. _Time Period That We Retain Personally Identifiable Information_
-
+ **4. _Time Period That We Retain Personally Identifiable Information_  
+**  
 We maintain personally identifiable information about subscribers for as long as it is necessary for business purposes. This period of time lasts as long as you are a subscriber and up to fifteen additional years so that we can comply with tax and accounting requirements. When information is no longer necessary for these purposes, we destroy the information unless there is a legitimate outstanding request or order to inspect the information.
 
-5\. _Your Online Communications on an ISP Service_
+ **5. _Your Online Communications on an ISP Service_**
 
 In addition to the situations described in Section 3, ECPA provides for other exceptional circumstances under which we may be compelled to disclose information about you or your communications, or are permitted to disclose such information. For example, such information may be disclosed to law enforcement if it appears to be evidence of child pornography, or was inadvertently obtained and appears to pertain to a crime. Such disclosure is also permitted to an addressee or intended recipient (or his or her agent), or to a person involved in forwarding such information to its destination; when it is necessarily incident to providing service or to protect our rights or property; to others with your consent or the consent of an addressee or intended recipient (or his or her agent) of communications sent by you; or as otherwise provided for by law.
 
-6\. _Access to Records_
-
+ **6. _Access to Records_  
+**  
 Under the Cable Act, you have the right to inspect our records that contain personally identifiable information about you and correct any errors in such information. If you wish to inspect these records, please notify us in writing and an appointment at our business office will be arranged during our regular business hours.
 
-7\. _Your Rights Under the Cable Act_
+ **7. _Your Rights Under the Cable Act_  
+**  
+The Cable Act provides cable subscribers with a cause of action for damages, attorneys' fees and costs in Federal District Court should you believe that any of the Cable Act's limitations on the collection, disclosure, and retention of personally identifiable information have been violated by us.
 
-The Cable Act provides you with a cause of action for damages, attorneys' fees and costs in Federal District Court should you believe that any of the Cable Act's limitations on the collection, disclosure, and retention of personally identifiable information have been violated by us.
+ **8. _Customer Proprietary Network Information_**
 
-### Oversight
+In the course of providing service to telephone customers, Midcontinent collects information concerning the telephone services you purchase and how you use them. This information is known as “customer proprietary network information” or “CPNI.” CPNI includes any information on the quantity, technical configuration, type, destination, location and amount of use of your service that we obtain because we are your telephone carrier. It does not include names and telephone numbers published in telephone directories or information we obtain as a result of providing cable or Internet service. We use CPNI to monitor the quality of the service we provide and to prepare your bills. We also use CPNI to market services and equipment to you and other customers, including telephone service and Internet access as well as to notify you when services may be out for maintenance or when there may be changes made to those services We share CPNI with companies that provide billing and other services that we use to offer telephone service, and with companies that are affiliated with us. When we share CPNI with unaffiliated companies, we require them to enter into agreements to protect the confidentiality of the information.
+
+You have a right, and we have a duty, under federal law to protect the confidentiality of CPNI. We have the right under federal law to use your CPNI to provide telephone service, to bill you, to market services related to services you already buy from us, to protect our facilities and property and in response to lawful demands from law enforcement agencies. You have the right to disapprove of our use of CPNI for marketing services other than those that are related to services you already buy from us and to withdraw access to CPNI at any time. Withdrawing access to CPNI will not affect our ability to provide telephone service to you, or the quality of the service we provide. However, if you do withdraw access to CPNI, it may be more difficult for us to help you if you want to purchase the most cost-effective service package. Allowing us to use your CPNI may enhance our ability to offer products and services tailored to your needs.
+
+If you do not wish to allow us to use your CPNI for marketing services other than those that are related to services we already provide to you, you can notify us at any time by email to mccomm@mico.net or in writing at the following address:
+
+Midcontinent Communications  
+Attn: CPNI Opt Out
+
+P.O. Box 5010  
+Sioux Falls, SD 57117
+
+The request must state that you want to deny access to CPNI, include your account number, list all of the telephone numbers that you wish to cover with the request and be signed by someone who is as an authorized party for your account. A request to deny access to CPNI is binding on us for the use of CPNI outside of the services to which you already subscribe until you affirmatively revoke or limit your approval or denial.
+
+###   
+Oversight
 
 If you have comments or questions about our privacy policy, please email us at [webmaster@midco.net](mailto:webmaster@midco.net).
+
+  
+
