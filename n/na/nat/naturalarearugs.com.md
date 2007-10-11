@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalarearugs.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501083323id_/http%3A//www.naturalarearugs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalarearugs.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011040336id_/http%3A//www.naturalarearugs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # NaturalAreaRugs : Find inexpensive rugs,handmade carpets and hand knotted rugs here
 
@@ -25,7 +25,7 @@ We at Natural Area Rugs do not disclose our clients’ or website visitors’ pe
 
 Natural Area Rugs adopts strict security measures to protect your personal information. However, since internet data transmissions cannot be guaranteed to be secure from access by unintended recipients, we shall not be liable for breach of security unless this is due to our negligence.
 
-More information about our [shopping cart security](https://web.archive.org/web/20070501083323id_/http%3A//www.naturalarearugs.com/cart-security.php).
+More information about our [shopping cart security](https://web.archive.org/web/20071011040336id_/http%3A//www.naturalarearugs.com/cart-security.php).
 
 **Acceptance of Privacy Policy and Modifications**
 
@@ -33,7 +33,7 @@ Natural Area Rugs reserves the right to make occasional changes to its privacy p
 
 **Contact Us**
 
-For comments or inquires concerning our privacy police, please do not hesitate to email us through our [contact page](https://web.archive.org/web/20070501083323id_/http%3A//www.naturalarearugs.com/customer-service.php), or write to us at the address below:
+For comments or inquires concerning our privacy police, please do not hesitate to email us through our [contact page](https://web.archive.org/web/20071011040336id_/http%3A//www.naturalarearugs.com/customer-service.php), or write to us at the address below:
 
 Natural Area Rugs   
 8306 Wilshire Blvd. #4500  
