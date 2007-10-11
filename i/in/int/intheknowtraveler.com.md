@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intheknowtraveler.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613092754id_/http%3A//intheknowtraveler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheknowtraveler.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011181623id_/http%3A//intheknowtraveler.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement » In the Know Traveler
+# Privacy » ITKT
 
 In The Know Traveler is concerned with protecting the privacy of all its visitors. We want you to be able to browse our site, join our newsletters and make use of our public forums without being bothered by unwanted spam and solicitors. We know there is normally some confusing jargon using technical terms concerning this privacy but we are not lawyers. We are writers. We want to be understood. We also hope your visit to our sites are fun, informative and problem free without any concerns about unwanted electronic intrusion. So here is our privacy statement in is in the simplest of terms: we do not collect personal information about you. The only time this ever changes is because you wrote us and requested contact, you have joined one of our newsletters or we are hiring and need specific information pertaining to contract work. If this answer is not enough please read on and if there is something we didn't cover, please write us.
 
