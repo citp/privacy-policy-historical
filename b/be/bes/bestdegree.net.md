@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdegree.net privacy policy that was archived on 2007-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070310003045id_/http%3A//www.bestdegree.net/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdegree.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063622id_/http%3A//www.bestdegree.net/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Bestdegree.net | Privacy Policy.html
 
