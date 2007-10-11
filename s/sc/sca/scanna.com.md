@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623164927id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012001548id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Scanna - easy way to meet Russian brides – Privacy Statement
 
@@ -67,7 +67,7 @@ Scanna uses information from members' profiles (login and password, email addres
 
 > 1\. Members' references in connection with the Agreement
 
-Scanna considers the references, associated with the present Agreement, including members inquiries, concerning their personal data usage, sent by the members to the following e-mail address: [info@scanna.com](mailto:info@scanna.com). Anonymous messages will not be considered. 
+Scanna considers the references, associated with the present Agreement, including members inquiries, concerning their personal data usage, sent by the members to [Customers support team](https://web.archive.org/CustomerService/ComposeLetter.aspx?category=148). Anonymous messages will not be considered. 
 
 > 2\. Correspondence to the Scanna address
 
