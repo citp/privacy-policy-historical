@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activecampaign.com privacy policy that was archived on 2005-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051003232900id_/http%3A//www.activecampaign.com/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activecampaign.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011025852id_/http%3A//www.activecampaign.com/sales_faq/index.php%3Farticle%3D1013) for the most accurate reproduction.*
 
-# ActiveCampaign - Development
+# Privacy Policy - Pre-Sales
 
 **Introduction**  
 ActiveCampaign respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at ActiveCampaign’s Web site. 
