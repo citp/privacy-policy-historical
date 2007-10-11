@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117150848id_/http%3A//indiacom.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacom.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011070946id_/http%3A//www.indiacom.com/yellowpage/disclaimer.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Indiacom
+# Indian Yellow Pages - Disclaimer - Indiacom Limited
 
 **INDIACOM.COM'S PRIVACY POLICY**
 
+  
 www.Indiacom.com is the comprehensive yellow pages online service provided by Indiacom Limited (hereby 'Indiacom'), Pune that offers complete online directory services and features all content and information that is produced by Indiacom Limited. 
 
 Indiacom respects the privacy of its users and strives to protect it to the maximum extent possible  
