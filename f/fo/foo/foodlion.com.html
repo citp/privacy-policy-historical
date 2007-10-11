@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foodlion.com privacy policy that was archived on 2006-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061015164853id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodlion.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011161045id_/http%3A//foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement - foodlion.com</title>
@@ -12,141 +12,19 @@
 <script>
 window.name='fl_main'; 
 </script>
-<!-- Image Fade Rotator Start -->
-<script>
-// ==============================
-// Set the following variables...
-// ==============================
 
-// Set the slideshow speed (in milliseconds)
-var SlideShowSpeed = 3000;
+<!-- Google Analytics Script -->
 
-// Set the duration of crossfade (in seconds)
-var CrossFadeDuration = 3;
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 
-var Picture = new Array(); // don't change this
-var Caption = new Array(); // don't change this
-
-// Specify the image files...
-// To add more images, just continue
-// the pattern, adding to the array below.
-// To use fewer images, remove lines
-// starting at the end of the Picture array.
-// Caution: The number of Pictures *must*
-// equal the number of Captions!
-
-Picture[1]  = 'images/toaster3.jpg';
-Picture[2]  = 'images/lunchbox-small.jpg';
-
-
-
-// Specify the Captions...
-// To add more captions, just continue
-// the pattern, adding to the array below.
-// To use fewer captions, remove lines
-// starting at the end of the Caption array.
-// Caution: The number of Captions *must*
-// equal the number of Pictures!
-
-Caption[1]  = "<a href='/promotions/Breakfast/default.htm' target='_blank'>Breakfast Savings</a>";
-Caption[2]  = "<a href='web-coupons/lunchbox.asp'>Lunch Box of Savings</a>";
-Caption
-
-// =====================================
-// Do not edit anything below this line!
-// =====================================
-
-var tss;
-var iss;
-var jss = 1;
-var pss = Picture.length-1;
-
-var preLoad = new Array();
-for (iss = 1; iss < pss+1; iss++){
-preLoad[iss] = new Image();
-preLoad[iss].src = Picture[iss];}
-
-function runSlideShow(){
-if (document.all){
-document.images.PictureBox.style.filter="blendTrans(duration=2)";
-document.images.PictureBox.style.filter="blendTrans(duration=CrossFadeDuration)";
-document.images.PictureBox.filters.blendTrans.Apply();}
-document.images.PictureBox.src = preLoad[jss].src;
-if (document.getElementById) document.getElementById("CaptionBox").innerHTML= Caption[jss];
-if (document.all) document.images.PictureBox.filters.blendTrans.Play();
-jss = jss + 1;
-if (jss > (pss)) jss=1;
-tss = setTimeout('runSlideShow()', SlideShowSpeed);
-}
-
+<script type="text/javascript">
+_uacct = "UA-1002630-3";
+urchinTracker();
 </script>
-<!-- Image Fade Rotator End -->
+<!-- End Google Analytics Script -->
+
 </head>
-<body onload="runSlideShow()" stats="1" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0071af" alink="#0071af" vlink="#0071af" id="bdy">
-<script language="javascript">
-<!-- Comment out for old browsers
-
-var DMNETdomain = "";
-var DMNETpage = window.location;
-var DMNETversion = "86";
-var DMNETsendTo = "//stats.foodlion.com/dm.gif?";
-var DMNETsession;
-
-function dmneterr(){return true;}
-
-window.onerror=dmneterr;
-var s = new Date();
-
-if (navigator.userAgent.indexOf('Mac') >= 0 && s.getTimezoneOffset() >= 720)
-  s.setTime (s.getTime() - 1440*60*1000);
-
-var dmnetURL = location.protocol + DMNETsendTo+"v="+DMNETversion+"&vst=1";
-var dmnetCookieString = document.cookie.toString();
-
-if(dmnetCookieString.indexOf("_dmnid") == -1)
-  {
-    DMNETsession = parseInt( Math.random()*1000000 ) + "_" + s.getTime();
-    var domStr = "";
-    if(DMNETdomain != "")
-    {
-      domStr = "domain="+ DMNETdomain +";";
-    }
-    document.cookie = "_dmnid=" + DMNETsession + ";expires=Mon, 31-Dec-2008 00:00:00 GMT;"+domStr+"path=/;";
-  }
-dmnetCookieString = document.cookie.toString();
-if(dmnetCookieString.indexOf('_dmnid') == -1)
-  {
-    DMNETsession = "";
-  }
-else
-  {
-    if(dmnetCookieString.indexOf(';') == -1)
-      dmnetCookieString = dmnetCookieString.replace(/_dm/g, ';_dm');
-
-    var start = dmnetCookieString.indexOf("_dmnid=") + 7;
-    var end = dmnetCookieString.indexOf(";",start);
-
-    if (end == -1)
-      end = dmnetCookieString.length;
-    DMNETsession = unescape(dmnetCookieString.substring(start,end));
-  }
-dmnetURL += "&id="+DMNETsession+"&url="+escape(DMNETpage) + "&ref="+escape(document.referrer)+"&lng=" + ((!document.all ||  navigator.userAgent.match('Opera')) ? navigator.language : navigator.userLanguage) + "&tz=" + (Math.round(new Date('dec 1, 2002').getTimezoneOffset()/60)*-1);
-if(screen)
-  dmnetURL += "&scr=" + escape( screen.width + "x" + screen.height + " " + screen.colorDepth + "bpp" );
-
-dmnetURL += "&rnd=" + new Date().getTime();
-
-if(document.layers)
-{
-  document.write("<la"+"yer name=\"DMStats\" visibility=hide><img src=\""+dmnetURL+"\" height=1 width=1></la"+"yer>");
-}
-else
-{
-  document.write("<di"+"v id=\"DMStats\" STYLE=\"position:absolute;visibility:hidden;\"><img src=\""+dmnetURL+"\" height=1 width=1></di"+"v>");
-}
-
-// -->
-</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://stats.foodlion.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20061015164853id_/http%253A//www.foodlion.com/PrivacyStatement.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580388165759" height="1" width="1"></div>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0071af" alink="#0071af" vlink="#0071af" id="bdy">
 
 <!-- Banner - Logo - Auxillary Nav -->
 
@@ -161,7 +39,13 @@ else
 		<td width="460" height="15" align="right" class="flblue" style="font-size:8pt;">
 		
 <!-- Auxillary Nav -->
-		<a href="/" class="aux">Home</a> | <a href="/GiftCards.asp" class="aux">Gift Cards</a> | <a href="/AboutFoodLion.asp" class="aux">About Food Lion</a> | <a href="/apps/FoodLionNews" class="aux">News</a> | <a href="/Vendors.asp" class="aux">Vendors</a> | <a href="/Associates.asp" class="aux">Associates</a>
+  <!-- ************* Change comments for production moves **************  -->
+
+		<!--DEV / Staging URLs-->
+		<!-- <a href="/" class="aux">Home</a> | <a href="/GiftCards.asp" class="aux">Gift Cards</a> | <a href="/AboutFoodLion.asp" class="aux">About Food Lion</a> | <a href="/apps/FoodLionNews" class="aux">News</a> | <a href="/Vendors.asp" class="aux">Vendors</a> | <a href="http://hrwebdev/apps/Associates/" class="aux">Associates</a> -->
+		
+		<!--Production URL-->
+		<a href="/" class="aux">Home</a> | <a href="/GiftCards.asp" class="aux">Gift Cards</a> | <a href="/AboutFoodLion.asp" class="aux">About Food Lion</a> | <a href="/apps/FoodLionNews" class="aux">News</a> | <a href="/Vendors.asp" class="aux">Vendors</a> | <a href="https://hrweb.foodlion.com/apps/Associates/" class="aux">Associates</a>
 		
 		</td>
 	</tr>
@@ -212,11 +96,10 @@ else
 				<tr>
 					<td class="">
 					
-					<a href="/redirect/redirect_apps.asp?type=weeklyspecials" class="sidenav">Weekly Specials</a><br>
+					<a href="/redirect/redirect_apps.asp?type=weeklyspecials" onclick="javascript:urchinTracker('/Weekly_Specials/SideNavigation');" class="sidenav">Weekly Specials</a><br>
 					
 					<a href="/ShoppingTools/Coupons.asp" class="sidenav">Coupons</a><br>
 	 				<a href="/ShoppingTools/SpecialOrder.asp" class="sidenav">Special Order Service</a><br>
-					<a href="/ShoppingTools/MoreOffers.asp" class="sidenav">More Offers</a><br>
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
 					</td>
 				</tr>
@@ -241,17 +124,12 @@ else
 				</tr>
 				<tr>
 					<td class="">
-					<!-- <a href="/MealsRecipes/MVPRecipe.asp" class="sidenav">MVP Recipe of the Week</a><br> -->
-					
-					
 					<!-- 7/14/06 Eric Phillips: Changed Recipe Archive to Recipe Search
 					and linked to Adplex database per Steve's request.-->  
 					<a href="/redirect/redirect_MVPRecipe.asp" class="sidenav">Recipe Finder</a><br>
-					<!-- <a href="/MealsRecipes/Recipes.asp" class="sidenav">Recipe Search</a><br> -->
-					<a href="/ButchersBrand/ButchersBrand.asp" target="_blank" class="sidenav">Meat Department</a><br>
+					<a href="/ButchersBrand/ButchersBrand.asp" class="sidenav" target="_blank">Meat Department</a><br>
 					<a href="/MealsRecipes/DeliOfferings.asp" class="sidenav">Party Platters</a><br>
-					<a href="/MealsRecipes/FoodSafety.asp" class="sidenav">Food Safety</a><br>
-					<!-- <a href="/MealsRecipes/redbowrecipes.asp" class="sidenav">Holiday Recipes</a><br> -->
+					<a href="/MealsRecipes/FoodSafety.asp" class="sidenav">Food Safety</a><br> 
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
 					</td>
 				</tr>
@@ -263,11 +141,9 @@ else
 				</tr>
 				<tr>
 					<td class="">
-					<a href="/TheGoodLife/BabyClub/BabyStep1.asp" class="sidenav" target="baby">Baby Steps</a><br>
-					<a href="http://ftdfloristsonline.com/foodlion/" class="sidenav" target="floral">Floral Ordering</a><br>
+					<a href="/babysteps/" class="sidenav" target="baby">Baby Steps</a><br>
 					<a href="/TheGoodLife/NaturesPlace.asp" target="organic" class="sidenav">Nature's Place</a><br>
-					<a href="/TheGoodLife/WineCorner.asp" class="sidenav">Wine Corner</a><br>
-					
+					<a href="/Wine/" class="sidenav">Wine Corner</a><br>
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
 					</td>
 				</tr>
@@ -280,23 +156,30 @@ else
 				<tr>
 					<td>
 					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
-					<a href="/IntheCommunity/"><img src="/images/nav_community.gif" width="157" height="28" alt="Fundraising" border="0"></a><br>
+					<a href="/WhatsNew/"><img src="/images/nav_whatsnew.gif" width="157" height="28" alt="What's New" border="0"></a><br>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
+					<a href="/IntheCommunity/"><img src="/images/nav_community.gif" width="157" height="28" alt="In the Community" border="0"></a><br>
 					</td>
 				</tr>
 				<tr>
 					<td class="">
 					<a href="/IntheCommunity/Fundraising.asp" class="sidenav">Fundraising</a><br>
 					<a href="/IntheCommunity/ShopAndShare/default.asp" class="sidenav">Lion Shop And Share</a><br>
-										
-					<a href="/IntheCommunity/CommunityPartners/default.asp" class="sidenav">Community Partners</a><br>
-					<a href="/IntheCommunity/TasteFLTour.asp" class="sidenav">Taste of Food Lion Tour</a><br>
-					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
+					
+					<a class="sidenav" href="/IntheCommunity/CommunityPartners/cmn.asp">Children's Miracle Network</a><br>
+									
+					<a class="sidenav" href="/IntheCommunity/CommunityPartners/default.asp">Community Partners</a><br>
+					
 					</td>
 				</tr>
 				<tr>
 					<td>
 					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
-					<a href="/NewsYouCanUse/"><img src="/images/nav_newsyoucanuse.gif" width="157" height="28" alt="Fundraising" border="0"></a><br>
+					<a href="/NewsYouCanUse/"><img src="/images/nav_newsyoucanuse.gif" width="157" height="28" alt="News You Can Use" border="0"></a><br>
 					</td>
 				</tr>
 				<tr>
@@ -308,9 +191,10 @@ else
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td class="">
 					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
 					<a href="/PharmacyHealth/"><img src="/images/nav_pharmhealth.gif" width="157" height="28" alt="Pharmacy &amp; Health" border="0"></a><br>
+					<a href="/PharmacyHealth/flushot.asp" class="sidenav">Onsite Flu Shots</a><br>
 					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
 					</td>
 				</tr>
@@ -416,7 +300,7 @@ else
 		<a href="https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=7392" target="Sentinel" class="bottom">Sentinel Line</a>
 		
 		<br>
-		Copyright © 2006 Food Lion - All rights reserved<br>
+		Copyright © 2007 Food Lion - All rights reserved<br>
 		</td>
 	</tr>
 </tbody></table>
