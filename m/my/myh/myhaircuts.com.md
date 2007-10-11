@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhaircuts.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624174355id_/http%3A//www.myhaircuts.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhaircuts.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024329id_/http%3A//www.myhaircuts.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
