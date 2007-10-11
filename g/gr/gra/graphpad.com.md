@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629010411id_/http%3A//www.graphpad.com/www/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011033258id_/http%3A//graphpad.com/www/privacy.htm) for the most accurate reproduction.*
 
 # GraphPad Software Privacy Statement
 
