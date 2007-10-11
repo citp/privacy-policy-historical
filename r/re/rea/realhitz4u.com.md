@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626151407id_/http%3A//www.realhitz4u.com/index.php%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011035635id_/http%3A//realhitz4u.com/index.php%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# RealHitz4u Manual Traffic Exchange
+# Manual Traffic Exchange - RealHitz4u
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR RealHitz4u.com**
 
@@ -20,4 +20,4 @@ Our users can cancel membership and be removed from all newsletters and database
 We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.
 
 **Notification of Changes**  
-If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
+If we decide to change our Privacy statement we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
