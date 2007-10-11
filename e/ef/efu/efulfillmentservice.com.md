@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624111447id_/http%3A//www.efulfillmentservice.com/index.php/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efulfillmentservice.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063531id_/http%3A//www.efulfillmentservice.com/index.php/company/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - PRODUCT FULFILLMENT COMPANY | FULFILLMENTSERVICES.COM
 
-Your security and right to privacy are important to us. Please take a moment to review our privacy policy. Feel free to email our [Sales Department](http://www.efulfillmentservice.com/index.php/contact/d.sales/) or call us between 8 a.m. and 5 p.m., E.S.T., at 1-231-276-5057 with any questions or concerns. 
+Your security and right to privacy are important to us. Please take a moment to review our privacy policy. Feel free to email our [Sales Department](http://efulfillmentservice.com/index.php/contact/d.sales/) or call us between 8 a.m. and 5 p.m., E.S.T., at 1-866-922-6783 with any questions or concerns. 
 
 ## Visitors
 
