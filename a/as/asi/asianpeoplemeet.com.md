@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asianpeoplemeet.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506104344id_/http%3A//www.asianpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianpeoplemeet.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011094205id_/http%3A//www.asianpeoplemeet.com/privacy) for the most accurate reproduction.*
 
-# ASIANPeopleMeet.com - The Asian People Network - 05/06/2007
+# ASIANPeopleMeet.com - The Asian People Network
 
-|  |  | [](https://web.archive.org/sign_up/?a=)  
+|  |  | [](https://web.archive.org/sign_up/)  
 ---|---  
   
 |   
