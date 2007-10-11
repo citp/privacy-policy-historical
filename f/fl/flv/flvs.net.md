@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607180405id_/http%3A//flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvs.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044954id_/http%3A//www.flvs.net/students_parents/right_to_privacy.php) for the most accurate reproduction.*
 
 # Welcome to Florida Virtual School
 
