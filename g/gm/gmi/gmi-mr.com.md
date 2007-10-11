@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426103047id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011152131id_/http%3A//www.gmi-mr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GMI Privacy Policy
 
