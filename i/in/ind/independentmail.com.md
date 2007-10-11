@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614110502id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011034755id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : News : Anderson Independent Mail
-
-Privacy Policy
+# Privacy Policy : News : Anderson Independent-Mail
 
 IndependentMail.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At IndependentMail.com we intend to give you as much control as possible over your personal information.
 
@@ -32,7 +30,7 @@ We may perform statistical analyses of aggregate user behavior. This allows us t
 
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared Web sites with businesses affiliated with us. Our privacy policy will apply to these Web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [online@independentmail.com](mailto:online@independentmail.com), or you can reach us by telephone at (864) 622-1712. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [online@independentmail.com](mailto:online@independentmail.com), or you can reach us by telephone at (864) 260-1241. You can also write us at:
 
 IndependentMail.com
 
