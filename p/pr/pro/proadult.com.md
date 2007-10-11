@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proadult.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623123942id_/http%3A//www.proadult.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proadult.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011162430id_/http%3A//www.proadult.com/privacy.html) for the most accurate reproduction.*
 
 # PROADULT
 
