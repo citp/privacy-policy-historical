@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520000901id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D26%26Itemid%3D100) for the most accurate reproduction.*
 
 # 2GB.com - Privacy Policy
 
@@ -62,9 +62,9 @@ If you feel that Macquarie Radio Network is not complying with this Privacy Poli
 
   * Telephone on 02 8570 0111 
   * Facsimile on 02 8570 0222 
-  * [E-mail Us](https://web.archive.org/web/20070520000901id_/http%3A//www.2gb.com/index.php?option=com_contact&task=view&contact_id=39&Itemid=124)
+  * [E-mail Us](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php?option=com_contact&task=view&contact_id=39&Itemid=124)
   * Mail to Level 1, Building C, 33-35 Saunders St, PYRMONT, NSW, 2099 
 
 
 
-[Back to Top](https://web.archive.org/web/20070520000901id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=26&Itemid=100#top)
+[Back to Top](https://web.archive.org/web/20071011065430id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=26&Itemid=100#top)
