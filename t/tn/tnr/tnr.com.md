@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612182245id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011185745id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
