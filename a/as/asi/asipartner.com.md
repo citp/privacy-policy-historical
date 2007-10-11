@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asipartner.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513171426id_/http%3A//asipartner.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asipartner.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011145222id_/http%3A//asipartner.com/Privacy.htm) for the most accurate reproduction.*
 
 # ASI - Intelligent Distribution
 
@@ -19,7 +19,7 @@ Cookies**
 ASI uses cookies in order to secure and confirm your information when logging into partner access with your private login name and password. We do not use this information for any other purpose than to gain you access to secured specific reseller only website pages.  
 **  
 E-mail Promotions**  
-ASI provides resellers with promotional announcement for savings, rebates, tech shows and product launches, these announcements can be stopped at any time by replying with “Remove�?in the subject line. We do not sell these e-mail lists to any of our business partners for any reason.
+ASI provides resellers with promotional announcement for savings, rebates, tech shows and product launches, these announcements can be stopped at any time by replying with “Remove?in the subject line. We do not sell these e-mail lists to any of our business partners for any reason.
 
 **Sony Disclaimer**
 
