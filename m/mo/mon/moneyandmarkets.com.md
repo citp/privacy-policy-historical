@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617101701id_/http%3A//www.moneyandmarkets.com/subpages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011060410id_/http%3A//www.moneyandmarkets.com/subpages/privacy.asp) for the most accurate reproduction.*
 
 # Money and Markets
 
@@ -11,11 +11,11 @@ Our company is committed to preserving your trust and confidence. Because your p
 
 **USE OF YOUR IP ADDRESS**
 
- An IP (Internet Protocol) address is a 32-bit numeric address written as four numbers separated by periods. It is a unique identifier for a computer or device on a network like the Internet. We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to help identify you and to gather broad information to help us better serve you. 
+An IP (Internet Protocol) address is a 32-bit numeric address written as four numbers separated by periods. It is a unique identifier for a computer or device on a network like the Internet. We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to help identify you and to gather broad information to help us better serve you. 
 
 **COOKIES**
 
- A "cookie" is a small piece of information that is stored by your Internet browser software on your computer's hard drive. Cookies are commonly used to facilitate secure website connections via a unique user name and password, so that you can buy things in an online store and access services that are in password protected areas of a site. They also may be used to facilitate automatic log-in (you can save your own user name and password so you don't have to re-enter it each time you visit). Cookies are used to authenticate website users and keep track of the user session. They allow us to better analyze our site's traffic patterns and to provide improved content, throughput, advertisements, products and services. They help us to refine and enhance the visitor registration process and add personalization features to customize the site to your needs. Cookies also help identify information that we may need to better serve you should there be any problems with your use of this site. This kind of information may include the web browser you use, the type of computer, the operating system, the Internet service providers, and other similar information. This information is used for various personalization features. We may share this information with our partners, suppliers, and other third parties so that they can better serve you too. We may sometimes display advertisements on this site from companies outside on our own. These ads may contain their own cookies. While we use cookies in other parts of our website, cookies received with electronic ads are collected by these other companies, and we do not have access to this information. Select customer data may be shared with the advertising companies.
+A "cookie" is a small piece of information that is stored by your Internet browser software on your computer's hard drive. Cookies are commonly used to facilitate secure website connections via a unique user name and password, so that you can buy things in an online store and access services that are in password protected areas of a site. They also may be used to facilitate automatic log-in (you can save your own user name and password so you don't have to re-enter it each time you visit). Cookies are used to authenticate website users and keep track of the user session. They allow us to better analyze our site's traffic patterns and to provide improved content, throughput, advertisements, products and services. They help us to refine and enhance the visitor registration process and add personalization features to customize the site to your needs. Cookies also help identify information that we may need to better serve you should there be any problems with your use of this site. This kind of information may include the web browser you use, the type of computer, the operating system, the Internet service providers, and other similar information. This information is used for various personalization features. We may share this information with our partners, suppliers, and other third parties so that they can better serve you too. We may sometimes display advertisements on this site from companies outside on our own. These ads may contain their own cookies. While we use cookies in other parts of our website, cookies received with electronic ads are collected by these other companies, and we do not have access to this information. Select customer data may be shared with the advertising companies.
 
 **COLLECTION AND USE OF DATA**
 
@@ -31,7 +31,7 @@ Our site uses order forms for customers to request information, products and ser
 
 **SUPPLEMENTAL** **INFORMATION**
 
- This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location. 
+This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location. 
 
 **UPDATING AND REMOVAL OF DATA**
 
@@ -39,7 +39,7 @@ You may have your name removed from our email marketing lists at any time, by vi
 
 **CONTACTING THE WEB SITE**
 
-If you have any questions about this statement, the practices of this web site, or your dealings with this web site, you can [use our online form](https://web.archive.org/contact.asp), call 1-800-291-8545, or write:
+If you have any questions about this statement, the practices of this web site, or your dealings with this web site, you can [use our online form](https://web.archive.org/contact.asp), call 1-800-291-8545, or write:
 
 Money and Markets Web Site  
 15430 Endeavour Drive   
