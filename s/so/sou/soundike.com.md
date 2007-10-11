@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508235537id_/http%3A//www.soundike.com/help.php%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092903id_/http%3A//www.soundike.com/help.php%3Fp%3D3) for the most accurate reproduction.*
 
 # soundike.com
 
 ## Privacy Policy
 
-This Privacy Policy explains how the web site Soundike.com collects and stores your personal information, when you are using our services. Before proceeding with your registration process on this web site you must:
+This Privacy Policy explains how the web site soundike.com collects and stores your personal information, when you are using our services. Before proceeding with your registration process on this web site you must:
 
 \- Read and fully understand this Privacy Policy
 
@@ -14,11 +14,11 @@ If you don't agree with at least one term of this Privacy Policy, you don't have
 
 Administration of the web site has a right to make changes/additions to this Privacy Policy from time to time, without prior notice to the user.
 
-Careful attitude towards confidential information of our users is a cornerstone underlying work of Soundike.com project. Ability to prevent outflow and wrongful use of the important information in the Internet-environment, in which the information extends most easily, is the base for high reputation of the Internet-project.
+Careful attitude towards confidential information of our users is a cornerstone underlying work of soundike.com project. Ability to prevent outflow and wrongful use of the important information in the Internet-environment, in which the information extends most easily, is the base for high reputation of the Internet-project.
 
 ### Personal Information
 
-Soundike.com collects personal information so that we can improve our services, to organize effective interaction with our visitors, to organize effective technical support, to inform our users about news and updates, and also to track downloaded files so that we can pay royalties to the Rightholders.
+soundike.com collects personal information so that we can improve our services, to organize effective interaction with our visitors, to organize effective technical support, to inform our users about news and updates, and also to track downloaded files so that we can pay royalties to the Rightholders.
 
 Administration guarantees, that all the personal information that you provide will never be disclosed to the 3rd parties without your agreement, except in the cases described in term 4 of this Privacy Policy.
 
@@ -28,12 +28,12 @@ When paying for services provided by us, users transfer the information about pa
 
 ### Other Technical Information
 
-Service Soundike.com in its work operates with IP-addresses of the visitors and cookies on their personal computers. It is a standard practice necessary for effective work of a dynamical resource, prevention of technical problems and for protection of financial operations. Besides cookies are necessary for identification of the user, and if you disable them, work with the site can be essentially complicated.
+Service soundike.com in its work operates with IP-addresses of the visitors and cookies on their personal computers. It is a standard practice necessary for effective work of a dynamical resource, prevention of technical problems and for protection of financial operations. Besides cookies are necessary for identification of the user, and if you disable them, work with the site can be essentially complicated.
 
 ### Exemption from Liability
 
-Soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Russian Federation.
+soundike.com can disclose your Personal Information only in cases stipulated by the Laws of Russian Federation.
 
-Soundike.com can contain links to the web sites of 3rd parties. Soundike.com doesn't take any responsibility for functioning and the resources of those sites, and also the possible damage caused by working with them.
+soundike.com can contain links to the web sites of 3rd parties. soundike.com doesn't take any responsibility for functioning and the resources of those sites, and also the possible damage caused by working with them.
 
 We value relationship with each user of our service and consequently, we will do everything depending on us that our cooperation brings only positive results to you.
