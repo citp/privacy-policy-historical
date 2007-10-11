@@ -1,0 +1,501 @@
+<!--The following is the downloaded HTML source of the bb-elec.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011073303id_/http%3A//www.bb-elec.com/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="Templates/about.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>B&amp;B Electronics: RS485, RS232, RS422, Ethernet, USB</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" --> <!-- InstanceEndEditable -->
+<script language="JavaScript">
+<!--
+// This is the New Window that opens for diagrams
+
+function new_window_images(url) {
+
+  Images = window.open(url,"Images","toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=640,height=480, left=150,top=100");
+  Images.focus()
+}
+
+// This is the New Window that opens for diagrams
+
+function new_window_imageslg(url) {
+
+  Images = window.open(url,"Images","toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=640,height=480,left=50,top=50");
+  Images.focus()
+}
+function new_window(url) {
+
+  Images = window.open(url,"Images","toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=250,left=50,top=50");
+  Images.focus()
+}
+
+// This is the function for the Mouse Over "Click for More Information" in table headings
+
+if (!document.layers&&!document.all)
+
+event="test";
+
+function showtip(current,e,text)
+
+{
+
+        if (document.all)
+
+        {
+                thetitle=text.split('<BR>')
+
+                if (thetitle.length>1)
+
+                {
+                        thetitles=''
+
+
+                        for (i=1;i<thetitle.length;i++)
+thetitles+=thetitle[i]
+current.title=thetitles
+}
+else
+current.title=text
+}
+
+else if (document.layers){
+document.tooltip.document.write('<layer bgColor="white" style="border:1px solid black;font-size:12px;">'+text+'</layer>')
+document.tooltip.document.close()
+document.tooltip.left=e.pageX+5
+document.tooltip.top=e.pageY+5
+document.tooltip.visibility="show"
+}
+}
+function hidetip(){
+if (document.layers)
+document.tooltip.visibility="hidden"
+}
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+ function doClear(theText) 
+{
+     if (theText.value == theText.defaultValue)
+ {
+         theText.value = ""
+     }
+ }
+ 
+// Add to Cart Script
+
+function submitItem (index,qdec,qmax,add_charge,btnflg) {
+  idx = fill(index,3,"0");
+  if (FmtQty(eval("document.ps2form.qty_" + idx),qdec,qmax) != false) {
+    document.ps2form.form_select.value = "";
+    document.ps2form.item_index.value = idx;
+    document.ps2form.add_charge.value = add_charge;
+    document.ps2form.submit();
+  } else if (btnflg) { return false }
+}
+
+function submitForm (thisForm, btnName, btnValue) {
+//
+// Generic submit a form via an HREF link tag:
+// i.e. <a href="javascript:submitForm('formname','buttonname','buttonvalue')">Submit Form</a>
+// or a button input tag:
+// i.e. <input type="button" name="submit" value="Submit Form"
+// onClick="submitForm('formname','buttonname','buttonvalue')">
+//
+//  eval("document." + thisForm + "." + btnName + ".value = '" + btnValue + "'");
+//  eval("document." + thisForm + ".submit()");
+}
+function FmtQty(gField,qtyDec,maxQty) {
+  var qtyVal = gField.value;
+  var regexp = / /g;
+  qtyVal = qtyVal.replace(regexp,""); // remove spaces
+  var regexp = /,/g;
+  qtyVal = qtyVal.replace(regexp,""); // remove commas
+
+  var pass = true;
+  var numVal = parseFloat(qtyVal);
+
+  if (qtyVal != "") {
+    var doubledec = /\.\./g; // check for double decimals
+    var singledec = /\./g; // check for multiple single decimals
+    var singleCount = 0;
+    singleResult = qtyVal.match(singledec);
+    if (singleResult) { singleCount=singleResult.length }
+	if (qtyVal.match(doubledec) || singleCount>1 ||
+        isNaN(numVal) || numVal<0) {
+      alert ("Quantity must be numeric and cannot be less than zero.");
+      pass = false;
+    } else {
+      if (numVal >= maxQty) {
+        alert ("Quantity entered exceeds maximum quantity allowed.\n" +
+		       "Quantity has been changed to maximum allowed.");
+        numVal = maxQty-1;
+        pass = false;
+      }
+      if (qtyDec > 0) { // format number with decimal
+	    var str = "" + Math.round(eval(numVal) * Math.pow(10,qtyDec));
+	    while (str.length <= qtyDec) { str = "0" + str; }
+        var decPoint = str.length - qtyDec;
+	    numVal = str.substring(0,decPoint) + "." + str.substring(decPoint,str.length);
+      }
+      gField.value = numVal;
+    }
+  }
+  if (pass == false) {
+    gField.focus();
+    gField.select();
+  }
+  return pass;
+}
+
+function MoveAhead(){
+ location.href = "test.html";
+ }
+
+var timer= null
+function move(){
+window.location = "test.html";
+}
+
+function TryThis(){
+ document.testform.submit();
+ }
+
+
+ 
+//-->
+</script>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+body {
+	background-color: #FFFFFF;
+}
+h1 {
+	font-size: 16px;
+	color: #003399;
+}
+h2 {
+	font-size: 20px;
+	color: #333333;
+}
+a:link {
+	color: #003399;
+	text-decoration: underline;
+}
+a:visited {
+	color: #003399;
+	text-decoration: underline;
+}
+a:hover {
+	color: #6699CC;
+	text-decoration: none;
+}
+a:active {
+	color: #6699CC;
+	text-decoration: underline;
+}
+-->
+</style>
+<link href="text.css" rel="stylesheet" type="text/css">
+<link href="css/homepage.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.style1 {color: #000000}
+.style3 {color: #FFFFFF; font-weight: bold; }
+.style4 {font-size: 11px}
+-->
+</style>
+</head>
+
+<body onload="MM_preloadImages('images/bb_nav_on_17.gif','images/bb_nav_on_18.gif','images/get-catalog-on.gif','images/BB-europe-on.gif','images/cart-on.gif','images/accountinfo_on.jpg','images/shoppingcart_on.jpg','images/bb_nav_on_06.gif','images/bb_nav_on_03.gif','images/bb_nav_on_04.gif','images/bb_nav_on_05.gif','images/bb_nav_on_06.gif','images/bb_nav_on_09.gif')">
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-bbelectronics.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM551201ICAR62EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" defer="" src="http://www.bb-elec.com/hbx_js/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr align="left" valign="top">
+    <td width="274" valign="middle" bgcolor="#FFFFFF"><a href="../welcome.asp" name="&amp;lid=Logo" id="&amp;lid=Logo"><img src="../images/bbelec_logo.gif" alt="B&amp;B Electronics Manufacturing Company" width="274" height="49" border="0" align="left"></a></td>
+    <td width="204" align="center" valign="top"><div align="left"><a href="https://www.bb-elec.com/EnterprisePortal/" onmouseover="MM_swapImage('ImageAcct','','../images/accountinfo_on.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="../images/accountinfo.jpg" alt="Log In for Account Information" name="ImageAcct" width="100" height="33" border="0" align="top" id="ImageAcct"></a><a href="https://www.bb-elec.com/EnterprisePortal/" onmouseover="MM_swapImage('Image11','','../images/shoppingcart_on.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="../images/shoppingcart.jpg" alt="Shopping Cart" name="Image11" width="104" height="33" border="0" align="top" id="Image11"><br>
+              <span class="style_links2"><img src="../images/spacer.gif" width="8" height="13" border="0" align="bottom"></span></a><span class="style_links2"><img src="../images/spacer.gif" width="1" height="1">Buy online or call 815-433-5100</span></div></td>
+    <form method="get" action="http://catsearch.atomz.com/search/"></form>
+      <td width="5" align="center" valign="bottom"><a href="www.bb-europe.com" class="style_smgraylinks"><img src="../.images/spacer.gif" width="5" height="5" border="0"></a></td>
+      <td width="136" align="center" valign="top"><div align="left">
+        <input type="hidden" name="sp_a" value="sp10036d87">
+        <input name="sp_q" value="Search" size="18" onfocus="doClear(this)">
+        <input type="hidden" name="sp_p" value="all">
+        <input type="hidden" name="sp_f" value="ISO-8859-1">
+        <input type="hidden" name="sp_sfvl_field" value="collection">
+        <input type="hidden" name="sp_t" value="catsearch">
+        <span class="style_links3">Enter keywords, product, or model # </span></div></td>
+      <td width="138" valign="top"><table border="0" cellpadding="0">
+        <tbody><tr>
+          <td align="left" valign="top"><input name="Image10" type="image" id="Image10" onmouseover="MM_swapImage('Image10','','images/search_on.gif',1)" onmouseout="MM_swapImgRestore()" src="../images/search_arrow.gif" alt="Search" align="top" width="18" height="18" border="0">          </td>
+          <td valign="bottom"><img src="images/spacer.gif" width="5" height="5" border="0"></td>
+          <td valign="top"><p align="center" class="style_smdate">October&nbsp;11, 2007</p></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"></td>
+          <td align="left" valign="top"></td>
+          <td align="left" valign="top"><a href="http://www.bb-europe.com/" class="style_smgraylinks">European Customers<br>
+            Click here </a></td>
+        </tr>
+      </tbody></table></td>
+    
+  </tr>
+</tbody></table>
+
+</td><td></td></tr>
+  <tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="left" valign="top">
+    <td><img src="../images/bb_nav_01.gif" width="100%" height="25"></td>
+    <td width="80"><div align="right"><a href="../welcome.asp" name="&amp;lid=HomeTab" id="&amp;lid=HomeTab" onmouseover="MM_swapImage('Image1','','../images/bb_nav_on_02.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_02.gif" alt="B&amp;B Electronics Home Page" name="Image1" width="88" height="25" border="0" align="right" id="Image1"></a></div></td>
+    <td width="80"><div align="right"><a href="../products.asp" name="&amp;lid=ProductsTab" id="&amp;lid=ProductsTab" onmouseover="MM_swapImage('Image2','','../images/bb_nav_on_03.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_03.gif" alt="Products available from B&amp;B Electronics" name="Image2" width="84" height="25" border="0" align="right" id="Image2"></a></div></td>
+    <td width="80"><div align="right"><a href="../partners.asp" name="&amp;lid=PartnersTab" id="&amp;lid=PartnersTab" onmouseover="MM_swapImage('Image3','','../images/bb_nav_on_04.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_04.gif" alt="B&amp;B Electronics Partner Programs" name="Image3" width="83" height="25" border="0" align="right" id="Image3"></a></div></td>
+    <td width="80"><div align="right"><a href="../support.asp" name="&amp;lid=SupportTab" id="&amp;lid=SupportTab" onmouseover="MM_swapImage('Image4','','../images/bb_nav_on_05.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_05.gif" alt="Technical Support available from B&amp;B Electronics" name="Image4" width="84" height="25" border="0" align="right" id="Image4"></a></div></td>
+    <td width="80"><div align="right"><a href="../technical_library.asp" name="&amp;lid=TechNotesTab" id="&amp;lid=TechNotesTab" onmouseover="MM_swapImage('Image5','','../images/bb_nav_on_06.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_06.gif" alt="Technical Library - B&amp;B Electronics" name="Image5" width="84" height="25" border="0" align="right" id="Image5"></a></div></td>
+    <td width="80"><div align="right"><a href="../econnections/" name="&amp;lid=eConnectionsTab" id="&amp;lid=eConnectionsTab" onmouseover="MM_swapImage('Image16','','../images/bb_nav_on_17.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_17.gif" alt="eConnections Email Newsletter" name="Image16" width="84" height="25" border="0" align="right" id="Image16"></a></div></td>
+    <td width="80"><div align="right"><a href="../catalog_request.asp" name="&amp;lid=CatalogTab" id="&amp;lid=CatalogTab" onmouseover="MM_swapImage('Image17','','../images/bb_nav_on_18.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_18.gif" alt="Request Your Free Catalog" name="Image17" width="83" height="25" border="0" align="right" id="Image17"></a></div></td>
+    <td width="80"><div align="right"><a href="../contact.asp" name="&amp;lid=ContactTab" id="&amp;lid=ContactTab" onmouseover="MM_swapImage('Image8','','../images/bb_nav_on_09.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../images/bb_nav_09.gif" alt="Contact B&amp;B Electronics" name="Image8" width="85" height="25" border="0" align="right" id="Image8"></a></div></td>
+  </tr>
+</tbody></table>
+</td></tr>
+  <tr> 
+    <td align="left" valign="top"><table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="7" align="left" valign="top" background="images/line-left.gif">&nbsp;</td>
+          <td width="170" align="left" valign="top" bgcolor="#FFFFFF"> <img src="images/spacer-white.gif" width="170" height="48"> 
+            <!-- InstanceBeginEditable name="subnav" --><!-- InstanceEndEditable -->          </td>
+          <td width="579" align="center" valign="top"><table width="550" border="0" cellspacing="0" cellpadding="4">
+              <tbody><tr> 
+                <td align="left" valign="top"><img src="images/spacer.gif" width="12" height="12"></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><!-- InstanceBeginEditable name="locator" --><a href="welcome.asp">Home</a> 
+                  &gt; <a href="about.asp">About</a> 
+                  &gt; Privacy Statement<!-- InstanceEndEditable --></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><img src="images/line1.gif" width="550" height="11"></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"> <!-- InstanceBeginEditable name="content" -->
+                  <p align="center"><b><font class="headingsm" face="Arial" size="3">Privacy 
+                    Statement for B&amp;B Electronics</font></b></p>
+                  <p><font class="basic" face="Arial" size="2">B&amp;B Electronics 
+                    has created this privacy statement in order to demonstrate 
+                    our firm commitment to privacy. The following discloses our 
+                    information gathering and dissemination practices for this 
+                    website: B&amp;B Electronics.</font></p>
+                  <p><font class="basic" face="Arial" size="2">We use your IP 
+                    address to help diagnose problems with our server, and to 
+                    administer our Web site. Your IP address is used to help identify 
+                    you and your shopping cart and to gather broad demographic 
+                    information. We do not use your IP address in any way to collect 
+                    or track your personal information.</font></p>
+                  <p><font class="basic" face="Arial" size="2">Our site uses cookies 
+                    to keep track of your shopping cart. Our site uses three cookies, 
+                    two are used by our e-commerce software to identify you and 
+                    your shopping cart, and the third is used by our usage analysis 
+                    software to help us determine how to make the site more beneficial 
+                    to you.</font></p>
+                  <p><font class="basic" face="Arial" size="2">Our site requires 
+                    registration only when placing an online order. The information 
+                    entered when you register and place an online order is used 
+                    to process that order and contact you regarding that order. 
+                    Financial information that is collected is used to bill the 
+                    user for that order, but the information is not maintained 
+                    for future use. All pages used to submit online orders are 
+                    secure and all financial data is stored in an encrypted format. 
+                    Contact information may be used for future communications 
+                    from B&amp;B Electronics (i.e. catalogs, special offer mailings, 
+                    etc.). </font></p>
+                  <p><font class="basic" face="Arial" size="2">Other online forms 
+                    on our site ask for contact information (like an email address). 
+                    Our catalog request form requests a mailing address. That 
+                    address is used to send the catalog that the visitor has requested. 
+                    The survey form asks for name and email address. This information 
+                    is only used to follow up on any questions or problems that 
+                    may have been addressed by the visitor when answering the 
+                    survey questions.</font></p>
+                  <p><font class="basic" face="Arial" size="2">Contact information 
+                    may be used by B&amp;B Electronics to contact customers in 
+                    the future with new catalogs or new information that may be 
+                    of interest to them. If a visitor would not like to receive 
+                    future mailings, etc they may contact B&amp;B Electronics 
+                    to be removed from the list. This "opt-out" choice 
+                    is explained below.</font></p>
+                  <p><b><font class="headingsm" face="Arial" size="3">Security<br>
+                    </font></b><font class="basic" face="Arial" size="2">This 
+                    site has security measures in place to protect the loss, misuse 
+                    and alteration of the information under our control. Standard 
+                    network security practices have been followed. All financial 
+                    data is stored in an encrypted format.</font></p>
+                  <p><b><font class="headingsm" face="Arial" size="3">Choice/Opt-Out<br>
+                    </font></b><font class="basic" face="Arial" size="2">If visitors 
+                    would not like to receive future communications from B&amp;B 
+                    Electronics, they may contact us using one of the following 
+                    methods.</font></p>
+                  <blockquote> 
+                    <p><font class="basic" face="Arial" size="2">1. Send email 
+                      to <a href="mailto:info@bb-elec.com" class="reg">info@bb-elec.com</a>.<br>
+                      2. Send mail to B&amp;B Electronics, PO Box 1040, Ottawa 
+                      IL 61350.<br>
+                      3. Call 815-433-5100.</font></p>
+                  </blockquote>
+                  <p><b><font class="headingsm" face="Arial" size="3">Correct/Update<br>
+                    </font></b><font class="basic" face="Arial" size="2">If visitors 
+                    would like to change or update the information that they have 
+                    previously provided, they may contact us using one of the 
+                    following methods.</font></p>
+                  <blockquote> 
+                    <p><font class="basic" face="Arial" size="2">1. Send email 
+                      to <a href="mailto:info@bb-elec.com" class="reg">info@bb-elec.com</a>.<br>
+                      2. Send mail to B&amp;B Electronics, PO Box 1040, Ottawa 
+                      IL 61350.<br>
+                      3. Call 815-433-5100.</font></p>
+                  </blockquote>
+                  <p><b><font class="headingsm" face="Arial" size="3">Contacting 
+                    the Web Site<br>
+                    </font></b><font class="basic" face="Arial" size="2">If you 
+                    have any questions about this privacy statement, the practices 
+                    of this site, or your dealings with this Web site, you can 
+                    contact:</font></p>
+                  <blockquote> 
+                    <p><font class="basic" face="Arial" size="2">Webmaster</font><font class="basic" face="Arial" size="2"><br>
+                      B&amp;B Electronics<br>
+                      PO Box 1040<br>
+                      Ottawa IL 61350<br>
+                      </font><font class="basic" face="Arial" size="2"><a href="mailto:webmaster@bb-elec.com" class="reg">webmaster@bb-elec.com</a></font></p>
+                  </blockquote>
+                  <p><font class="basic" face="Arial" size="2">&nbsp;</font></p>
+                  <!-- InstanceEndEditable --></td>
+              </tr>
+            </tbody></table></td>
+          <td width="1" align="right" valign="top" background="images/line-left.gif"><img src="images/spacer.gif" width="1" height="1"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top"><img src="images/line2.gif" width="1" height="11"><img src="images/line2.gif" width="758" height="11"></td>
+  </tr>
+  <tr> 
+    <td align="right" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tbody><tr>
+            <td><p align="center">&nbsp;</p>
+            <p align="center"><span class="style29"><a href="../welcome.asp" class="style_menu2">Home</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../products.asp" class="style_menu2">Products</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../partners.asp" class="style_menu2">Partners</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../support.asp" class="style_menu2">Support</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../technical_library.asp" class="style_menu2">Tech Notes</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../press_releases.asp" class="style_menu2">News</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../about.asp" class="style_menu2">About</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../contact.asp" class="style_menu2">Contact</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../sitemap.asp" class="style_menu2">Site Map</a><span class="style30"><img src="../images/10px_divider.gif" width="10" height="9"></span><a href="../privacy.asp" class="style_menu2">Privacy Policy</a><br>
+                <a href="mailto:webmaster@bb-elec.com" class="style_menu2">Questions
+        or Comments?</a> <font class="copywright"> Copyright</font><font class="copywright"> © 2007 B&amp;B Electronics Mfg</font></span></p></td>
+          </tr>
+        </tbody></table></td>
+  </tr>
+</tbody></table>
+<!-- Resonance code resxclsa.js v2.x Copyright 2004-2006 Certona Corporation www.certona.com -->
+<script type="text/javascript">
+
+//variables for all pages
+var resx = new Object();
+resx.appid="bbelec01";
+resx.top1=50000;
+resx.top2=100000;
+resx.lkmatch=/(multi)?familyid%3D\d+|sku%3D[\w-\/]+/gi;
+</script>
+<script language="JavaScript1.3" src="../scripts/resxclsa.js"></script>
+<!-- Resonance --> 
+
+<!-- BEGIN Invitation Positioning  -->
+<script language="javascript" type="text/javascript">
+var lpPosY = 100;
+</script>
+<!-- END Invitation Positioning  -->
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/20318209/x.js?cmd=file&amp;file=chatScript3&amp;site=20318209&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+<!-- InstanceEnd -->
+</body></html>
