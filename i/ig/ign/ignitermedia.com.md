@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503222734id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011143608id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.*
 
 # :: Igniter Media Group ::
 
