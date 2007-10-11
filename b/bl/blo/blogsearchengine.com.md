@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the blogsearchengine.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017223800id_/http%3A//www.blogsearchengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsearchengine.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011030240id_/http%3A//www.blogsearchengine.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Blog Search Engine
-
-Contributed by Loren Baker  
-posted @ October 31, 2005 11:10 pm in **[** [Blog News](http://www.blogsearchengine.com/category/uncategorized/ "View all posts in Blog News") **]**
 
 Privacy Policy
 
@@ -17,4 +14,4 @@ Internet ‘cookies’ are used on this web site to eliminate certain content, s
 
 When visiting any Internet site your unique address called an “IP address” is recorded. Blog Search Engine does not release any information about the collection of this address to any third party except under court order. 
 
-Blog Search Engine archives the log files in order to create aggregate statistical reports, detect errors at the website, and for security reasons. The log files are eventually deleted. 
+Blog Search Engine archives the log files in order to create aggregate statistical reports, detect errors at the website, and for security reasons. The log files are eventually deleted.
