@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metageek.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042818id_/http%3A//www.metageek.net/EditModule.aspx%3Ftabid%3D442%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metageek.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011184918id_/http%3A//www.metageek.net/EditModule.aspx%3Ftabid%3D442%26def%3DPrivacy) for the most accurate reproduction.*
 
 # MetaGeek | Makers of the Wi-Spy Spectrum Analyzer
 
