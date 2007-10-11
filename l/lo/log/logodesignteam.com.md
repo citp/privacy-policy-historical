@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427030911id_/http%3A//www.logodesignteam.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031527id_/http%3A//www.logodesignteam.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Logo Design by Logo Design Team - Custom Logo Design and Graphic Design Services
 
