@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504182534id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011180407id_/http%3A//blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: BlackWasp Software Development
 
