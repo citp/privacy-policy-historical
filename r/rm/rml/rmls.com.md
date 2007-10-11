@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625080041id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011113600id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
 
 # RMLS.com™ - Privacy Policy
 
