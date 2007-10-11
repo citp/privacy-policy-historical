@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629180348id_/http%3A//www.reyrey.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/privacy.asp) for the most accurate reproduction.*
 
 # Reynolds and Reynolds Privacy Policy
 
-  | 
+  
+| 
 
   PRIVACY POLICY
 
-Regarding Reynolds' responses to the GLB/FTC Safeguards Rule: 
-
-  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20070629180348id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
-  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20070629180348id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20070629180348id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
-  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20070629180348id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
+  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
+  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
+  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
 
 
 
@@ -89,12 +88,6 @@ We comply with government privacy and security standards, including:
 
 
 
-About Reynolds technologies for consumers Networkcar
-
-Our [Networkcar system](http://www.networkcar.com/) offers vehicle owners a cutting-edge tool for automotive security and maintenance. When you have a Networkcar system installed in your vehicle, you gain Internet access to dynamic automo-tive diagnostic data and location so you can monitor and maintain your vehicle’s location and performance. With Networkcar, your call for roadside assistance authorizes our call center to pinpoint your vehicle’s loca-tion, so that help can find you. Networkcar’s location-based technology also helps locate your vehicle in the event of theft. 
-
-View more information about the [Networkcar system](http://www.networkcar.com/) and the measures we take to safeguard the privacy of our Networkcar customers.
-
 Contact Information
 
 E-Mail us at [privsec@reyrey.com](mailto:privsec@reyrey.com) or contact us at:  
@@ -107,5 +100,3 @@ Dayton, OH 45430
 **Phone:** 937.485.9635  
 **Fax:** 866.246.0507  
 
-
-_updated on September 16, 2004_
