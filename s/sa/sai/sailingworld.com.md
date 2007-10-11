@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629025949id_/http%3A//www.sailingworld.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011070652id_/http%3A//www.sailingworld.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Sailing World
 
