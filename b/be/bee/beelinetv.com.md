@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624040158id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011203908id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
 
 # Beeline Software Express Privacy Policy
 
