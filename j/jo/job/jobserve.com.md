@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the jobserve.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115233503id_/http%3A//www.jobserve.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobserve.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012004122id_/http%3A//www.jobserve.com/Terms_Policy.aspx%3Ffile%3DPrivacy_Policy.txt%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# JobServe - Privacy Policy
+
+**JOBSERVE LIMITED PRIVACY POLICY**
 
   
-**JOBSERVE LIMITED PRIVACY POLICY**   
-JobServe Limited ("JobServe") is committed to preserving the privacy of all visitors to www.jobserve.com (“the Site”). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+JobServe Limited ("JobServe") is committed to preserving the privacy of all visitors to www.jobserve.com ("the Site"). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 **By registering or using this Site, you consent to the collection, use and transfer of your information under the terms of this policy.**
 
 INFORMATION THAT WE COLLECT FROM YOU 
 
-When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number, gender, role sought and availability. If you apply for jobs the information you provide in any application form will also be stored. In addition if you upload your CV to the Site it will be stored on our server. We may also collect information about your usage of our Site, as well as information about you from either e-mails or letters you send to us, or from e-mails you send in response to jobs advertised on our Site. 
+When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number, gender, role sought and availability. If you apply for jobs the information you provide in any application form will also be stored. In addition if you upload your CV to the Site it will be stored on our server. We may also collect information about your usage of our Site, as well as information about you from e-mails or letters you send to us. 
 
 USE OF YOUR INFORMATION 
 
@@ -25,8 +26,6 @@ JobServe reserves the right to retain information that you have requested be del
 If you use the "Job Basket" to reply to adverts then your emails will be sent with the relevant personal information to the advertisers via JobServe's servers. 
 
 If you set up our Jobs by Email Service then you will receive a list of jobs that match your specific criteria, preceded by a short advertising message from our daily website sponsor. 
-
-Where you have applied by e-mail for a job advertised on our Site we may contact you periodically by email to keep you informed of the services we provide. 
 
 DISCLOSURE OF YOUR INFORMATION 
 
