@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshine.co.uk privacy policy that was archived on 2007-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070108164833id_/http%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshine.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011184045id_/http%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.*
 
 # Sunshine Privacy Policy
 
@@ -12,6 +12,6 @@ Additionally, where your holiday is outside the European Economic Area (EEA), co
 
 Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would like to see it. 
 
-Your data controller is: Happy Holidayz
+Your data controller is: sunshine.co.uk Ltd
 
 You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for providing this to you].
