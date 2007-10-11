@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625030621id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011120913id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
 
 # TuneCore: Privacy Policy
 
-Your privacy is important to us. None of us at TuneCore would want our own personal information was used in ways we didn't agree to or know about. So here are the rules we live by:
+Your privacy is important to us. None of us at TuneCore would want our own personal information used in ways we didn't agree to or know about. So here are the rules we live by:
 
   * TuneCore will not sell your information to anyone.
   * TuneCore will not share your information with our partners unless they also agree not to sell or give it away.
@@ -68,7 +68,7 @@ As TuneCore grows, changes, and expands to suite your needs, we may need to modi
 
 ## Acceptance of this Privacy Policy
 
-**By using the TuneCore website, you consent to the collection, use and disclosure of your information by TuneCore and Dimensional in accordance with this Privacy Policy.**
+**By using the TuneCore website, you consent to the collection, use and disclosure of your information by TuneCore in accordance with this Privacy Policy.**
 
 ## Questions about the TuneCore Privacy Policy
 
