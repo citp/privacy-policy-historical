@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625044734id_/http%3A//thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011070858id_/http%3A//www.thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Christian Finn's Facts About Fitness
 
-[Home](https://web.archive.org/web/20070625044734id_/http%3A//thefactsaboutfitness.com/index.htm) **::** Privacy Policy
+[Home](https://web.archive.org/web/20071011070858id_/http%3A//www.thefactsaboutfitness.com/index.htm) **::** Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you, and is effective from November 9th 2004.
 
