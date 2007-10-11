@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629024545id_/http%3A//www.houstonpress.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055038id_/http%3A//houstonpress.com/about/policy.php) for the most accurate reproduction.*
 
 # Houston -
 
