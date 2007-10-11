@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626104826id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024238id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
 # Texas Monthly: the National Magazine of Texas
 
