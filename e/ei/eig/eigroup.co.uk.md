@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617010626id_/http%3A//www.eigroup.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063536id_/http%3A//www.eigroup.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Essential Information Group - UK Property Auctions
 
