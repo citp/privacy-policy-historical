@@ -1,373 +1,1103 @@
-<!--The following is the downloaded HTML source of the knowledgebase.net privacy policy that was archived on 2006-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060420033415id_/http%3A//knowledgebase.net/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knowledgebase.net privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011055741id_/http%3A//www.talisma.com/tal_about/privacy.asp%3FKBRU%3Dnone%26KBAC%3D) for the most accurate reproduction.-->
 
 <html><head>
-<title>Knowledge Base Privacy Policy</title>
-<meta name="keywords" content="Knowledge Base, Knowledge Management, Document Management, Documentation Software, Knowledge Base Software, Knowledgebase, eCRM, FAQ, FAQ software, Frequently Asked Questions, Keyword search, article management, natural language query, online documentation, Knowledge Management software, Knowledge Management tool, Knowledge Management application, Knowledge Management Solution, Document Management Software, knowledge bases, knowledge base system, knowledge base tool, knowledge base application, help desk knowledge base, Policy Manual Software, information management, support software, web based document management, web based knowledge base, inexpensive, affordable">
-
-<meta name="description" content="Knowledge Base is a Knowledge Management software that streamlines the entire documentation process for companies to share information with their employees, customers, &amp; partners">
-
-<meta name="abstract" content="Knowledge Base is a Knowledge Management software that streamlines the entire documentation process for companies to share information with their employees, customers, &amp; partners">
-
-<meta name="Author" content="Knowledge Base Solutions LLC.">
-<meta name="Owner" content="Knowledge Base Solutions LLC.">
-<meta name="robots" content="All">
-<meta name="revisit-after" content="20 days">
-<meta name="rating" content="general">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-89082-1";
-urchinTracker();
-</script>
-<script language="JavaScript" src="http://chat.talisma.com/NetAgent/Proactive/proactive.js"></script>
-
-<style type="text/css">
+	<title>Knowledge base, live support, email management, and chat software from Talisma Corporation</title>
+	<meta name="description" content="Customer Interaction Management - Call center software to improve customer service through integrated, online communication channels, including self-service, chat, email, phone, and VoIP.">
+	<meta name="keywords" content="customer service software, contact center software, call center software, customer service management, customer interaction software, customer relationship management">
+	<link rel="StyleSheet" href="/tal_includes/tal_style.css" type="text/css">
+	<script language="javascript" src="/tal_includes/object.js" type="text/javascript"></script>
+	<script language="javascript" src="/tal_includes/flashobject.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://chat.talisma.com/NetAgent/webcollab/includes/wc.js"></script>
+<script language="javascript" type="text/javascript">
 <!--
-body {
-	background-color: #F5F5F5;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
+var MainSwitch = 0;
+var ImageSwitch = 0;
+var topNavSwitch = 0;
+
+function turnOn() {
+	MainSwitch = 1;
 }
--->
-</style>
-<link href="/css/body.css" rel="stylesheet" type="text/css">
 
-<script language="JavaScript" src="/js/mm_menu.js"></script>
-<script language="JavaScript" src="/js/load_menu.js"></script>
-<script language="javascript" src="/js/main.js"></script>
+function show_tm(below_layer, ro) {
+	if (MainSwitch == 1) {
+		if (lastLayer != null) hide(lastLayer);
+		show(below_layer);
+		lastLayer = below_layer;
+	}
+	nav_rollover(ro);
+}
 
+function rollover(n) {
+	if (ImageSwitch == 1 && n != '') eval('document.' + n + '.src = ' + n + '_on.src;');
+}
+
+function rolloff(n) {
+	if (ImageSwitch == 1 && n != '') eval('document.' + n + '.src = ' + n + '_off.src;');
+}
+
+function nav_rollover(n) {
+	if (topNavSwitch == 1 && n != '') eval('document.' + n + '.src = ' + n + '_on.src;');
+}
+
+function nav_rolloff(n) {
+	if (topNavSwitch == 1 && n != '') eval('document.' + n + '.src = ' + n + '_off.src;');
+}
+
+function preload_images() {
+	icon_chat_on = new Image;
+	icon_chat_off = new Image;
+	icon_chat_on.src = '/tal_images/home/icon_chat_on.gif';
+	icon_chat_off.src = '/tal_images/home/icon_chat.gif';
+	icon_call_on = new Image;
+	icon_call_off = new Image;
+	icon_call_on.src = '/tal_images/home/icon_call_on.gif';
+	icon_call_off.src = '/tal_images/home/icon_call.gif';
+	icon_ctt_on = new Image;
+	icon_ctt_off = new Image;
+	icon_ctt_on.src = '/tal_images/home/icon_ctt_on.gif';
+	icon_ctt_off.src = '/tal_images/home/icon_ctt.gif';
+	icon_email_on = new Image;
+	icon_email_off = new Image;
+	icon_email_on.src = '/tal_images/home/icon_email_on.gif';
+	icon_email_off.src = '/tal_images/home/icon_email.gif';	
+	ImageSwitch = 1;
+}
+
+function pop_file(f, w, h) {
+	var temp_url = f;
+	var new_win = window.open(temp_url, 'pop' + h + w, 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=' + w + ',height=' + h + ',alwaysRaised=yes');
+	new_win.focus();
+}
+
+function pop_file2(f, w, h) {
+	var temp_url = f;
+	var new_win = window.open(temp_url, 'pop' + h + w, 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=' + w + ',height=' + h + ',alwaysRaised=yes');
+	new_win.focus();
+}
+
+var TALCOB = null;
+function OnWCSessionStarted( id ){g_theWCObj.launchPortalLogin( id, "http://chat.talisma.com/netagent/cimlogin.aspx?questid=2E1B568A-1C59-482D-9F43-F8F9DA90AABE&portid=7EE628E6-2EB8-40C1-BFA6-04DE5EDFC331");return true;}
+function StartWC(){TALCOB = window.open("about:blank","_blank","resizable=yes,width=450,height=500"); g_theWCObj.startNewSession();}
+
+function pop_chat() {
+	window.name = 'PushFrame';
+	StartWC();
+}
+
+function pop_ctt() {
+	window.open('http://chat.talisma.com/netagent/cimlogin.aspx?questid=2964F108-C0C7-423C-BC4C-651DEA13CB87&portid=2DF25E87-5C08-4470-B118-ABBCEF9759ED&nareferer='+escape(document.location),'_blank','resizable= yes,width=450,height=550');
+}
+
+function pop_call() {
+	var temp_url = '/tal_includes/popups/callback.asp';
+	var new_win = window.open(temp_url, 'pop_call', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=430,height=700,alwaysRaised=yes');
+	new_win.focus();
+}
+
+function pop_email() {
+	var temp_url = '/tal_includes/popups/quickemail.asp';
+	var new_win = window.open(temp_url, 'pop_email', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=425,height=580,alwaysRaised=yes');
+	new_win.focus();
+}
+
+function show_state() {
+	form = document.mail_form;
+	if (form.region[form.region.selectedIndex].value == 'U.S.') {
+		theobjs['StateLabel'].objShow();
+		theobjs['StateDropdown'].objShow();
+	} else {
+		form.state.selectedIndex = 0;
+		theobjs['StateLabel'].objHide();
+		theobjs['StateDropdown'].objHide();
+	}
+}
+//-->
+</script>
 </head>
 
-<body>
-<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 118px; height: 122px;">
-  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 120px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 119px; width: 115px; background-color: rgb(255, 255, 255);">
-<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2px;color:#666666;">Press&nbsp;Releases&nbsp;</div>
-<div id="menuItemHilite0" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Press&nbsp;Releases&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2px;color:#666666;">In&nbsp;the&nbsp;News&nbsp;</div>
-<div id="menuItemHilite1" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">In&nbsp;the&nbsp;News&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2px;color:#666666;">Customers&nbsp;</div>
-<div id="menuItemHilite2" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Customers&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2px;color:#666666;">Case&nbsp;Studies&nbsp;</div>
-<div id="menuItemHilite3" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Case&nbsp;Studies&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2px;color:#666666;">Awards&nbsp;</div>
-<div id="menuItemHilite4" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Awards&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2px;color:#666666;">Employment&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Employment&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2px;color:#666666;">Contact&nbsp;Us&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 128px; height: 54px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 52px; width: 126px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 51px; width: 125px; background-color: rgb(255, 255, 255);">
-<div id="menuItem7" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 124px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2px;color:#666666;">Technology&nbsp;Partners&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Technology&nbsp;Partners&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 124px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2px;color:#666666;">Apply&nbsp;Now&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Apply&nbsp;Now&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 124px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2px;color:#666666;">Lead&nbsp;Refferal&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Lead&nbsp;Refferal&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 152px; height: 71px;">
-  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 150px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 149px; background-color: rgb(255, 255, 255);">
-<div id="menuItem10" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 148px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2px;color:#666666;">Training&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Training&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 148px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2px;color:#666666;">Patches&nbsp;and&nbsp;Upgrades&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Patches&nbsp;and&nbsp;Upgrades&nbsp;</div></div><div id="menuItem12" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 148px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2px;color:#666666;">Email&nbsp;Support&nbsp;Form&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Email&nbsp;Support&nbsp;Form&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 148px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2px;color:#666666;">Network&nbsp;Status&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Network&nbsp;Status&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 118px; height: 54px;">
-  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 52px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 51px; width: 115px; background-color: rgb(255, 255, 255);">
-<div id="menuItem14" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:2px;color:#666666;">Case&nbsp;Studies&nbsp;</div>
-<div id="menuItemHilite14" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Case&nbsp;Studies&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:2px;color:#666666;">Customers&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Customers&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 114px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:2px;color:#666666;">Awards&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Awards&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 104px; height: 88px;">
-  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 86px; width: 102px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 85px; width: 101px; background-color: rgb(255, 255, 255);">
-<div id="menuItem17" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 100px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:2px;color:#666666;">Benefits&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Benefits&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 100px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:2px;color:#666666;">Features&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Features&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 100px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:2px;color:#666666;">Quick&nbsp;Tour&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Quick&nbsp;Tour&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 100px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:2px;color:#666666;">R.O.I.&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">R.O.I.&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 100px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:4px;top:2px;color:#666666;">Pilot&nbsp;Program&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Pilot&nbsp;Program&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(153, 153, 153); background-color: rgb(153, 153, 153); width: 124px; height: 156px;">
-  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 154px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 153px; width: 121px; background-color: rgb(255, 255, 255);">
-<div id="menuItem22" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:4px;top:2px;color:#666666;">Benefits&nbsp;</div>
-<div id="menuItemHilite22" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Benefits&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:4px;top:2px;color:#666666;">Features&nbsp;</div>
-<div id="menuItemHilite23" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Features&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:4px;top:2px;color:#666666;">Quick&nbsp;Tour&nbsp;</div>
-<div id="menuItemHilite24" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Quick&nbsp;Tour&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:4px;top:2px;color:#666666;">R.O.I.&nbsp;</div>
-<div id="menuItemHilite25" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">R.O.I.&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:4px;top:2px;color:#666666;">Pilot&nbsp;Program&nbsp;</div>
-<div id="menuItemHilite26" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Pilot&nbsp;Program&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:4px;top:2px;color:#666666;">&nbsp;</div>
-<div id="menuItemHilite27" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:4px;top:2px;color:#666666;">Hosted&nbsp;Edition&nbsp;</div>
-<div id="menuItemHilite28" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Hosted&nbsp;Edition&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:4px;top:2px;color:#666666;">Professional&nbsp;Edition&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Professional&nbsp;Edition&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 136px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(221, 221, 221); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:4px;top:2px;color:#666666;">Enterprise&nbsp;Edition&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:4px;top:2px;color:#0564B5;visibility:hidden;">Enterprise&nbsp;Edition&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-</span>
+<body class="PageBackground" onload="preload_images();">
 
-<div align="center">
-<img src="/images/blank.gif" width="1" height="5" border="0"><br>
-  <table width="780" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr valign="top" bgcolor="#FFFFFF">
-			<td><a href="/index.html"><img src="/images/kbtop1.jpg" border="0"></a></td>
-			<td><a href="http://admin.knowledgebase.net"><img src="/images/kbtop_login1.jpg" border="0"></a></td>
-			<td><a href="/company/contactus.html"><img src="/images/kbtop_contactus1.jpg" border="0"></a></td>
-    </tr>
-  </tbody></table>
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td><img src="/images/spacer.gif" width="780" height="5"></td>
-    </tr>
-  </tbody></table>
-  
-<!------------------- Top Navigation Area Begin---------------------------------------------------->	  
-  
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td width="144">
-	  		
-		<table width="144" height="23" border="0" cellpadding="0" cellspacing="0" background="/images/1pixel_drk_blue.jpg">
-          <tbody><tr>
-            <td colspan="2"><img src="/images/blank.gif" width="1" height="1"></td>
-          </tr>
-          <form action="/search.asp" method="post"></form>
-		  <tr>
-            <td width="143" valign="middle" nowrap="">
-				
-				<table border="0" cellpadding="0" cellspacing="0">	
-					<tbody><tr><td><img src="/images/blank.gif" width="5" height="19" align="absmiddle"><input style="font-size:8pt; color:#777777;" name="textfield" value="Search" type="text" size="15" onclick="this.value='';"></td><td>&nbsp;<input type="image" src="/images/searchgo.gif" border="0" alt="Search Knowledge Base" align="absmiddle"></td>
-					</tr>
-				</tbody></table>
-					
-			</td>
-            <td width="1" align="left"></td>
-          </tr>
-		  
-          <tr>
-            <td valign="middle"><img src="/images/blank.gif" width="1" height="1"></td>
-            <td align="right"><img src="/images/blank.gif" width="1" height="1"></td>
-          </tr>
-        </tbody></table>
-	  
-	  
-	  </td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/products/index.html" onmouseover="MM_showMenu(window.mm_menu_0520215406_0,0,25,null,'image6')" onmouseout="MM_startTimeout();"><img src="/images/products_n.jpg" name="image6" width="96" height="23" border="0" id="image6" alt="Knowledge Base Products"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/company/aboutus.html" onmouseover="MM_showMenu(window.mm_menu_0520214020_0,0,25,null,'image1')" onmouseout="MM_startTimeout();"><img src="/images/about_us_n.jpg" name="image1" width="96" height="23" border="0" id="image1" alt="About Knowledge Base"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/partners/introduction.html" onmouseover="MM_showMenu(window.mm_menu_0520214504_0,0,25,null,'image2')" onmouseout="MM_startTimeout();"><img src="/images/partners_n.jpg" name="image2" width="95" height="23" border="0" id="image2" alt="Knowledge Base Partners"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/support/index.html" onmouseover="MM_showMenu(window.mm_menu_0520214634_0,0,25,null,'image3')" onmouseout="MM_startTimeout();"><img src="/images/support_n.jpg" name="image3" width="95" height="23" border="0" id="image3" alt="Knowledge Base Support"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/company/customers.html" onmouseover="MM_showMenu(window.mm_menu_0520214824_0,0,25,null,'image4')" onmouseout="MM_startTimeout();"><img src="/images/customers_n.jpg" name="image4" width="96" height="23" border="0" id="image4" alt="Knowledge Base Customers"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><a href="/tour/tour1.html"><img src="/images/quick_tour_n.jpg" name="image5" width="96" height="23" border="0" id="image5" alt="Knowledge Base Quick Tour"></a></td>
-      <td><img src="/images/blank.gif" width="5" height="23"></td>
-      <td><img src="/images/nav_right.jpg" width="25" height="23"></td>
-    </tr>
-  </tbody></table>
-  
-<!------------------- Top Navigation Area End ---------------------------------------------------->	    
-  
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td><img src="/images/spacer.gif" width="780" height="5" border="0"></td>
-    </tr>
-  </tbody></table>
-  
-  
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td width="144" valign="top" align="left">
 
-          <table width="144" border="0" cellspacing="2" cellpadding="0">
-            <tbody><tr>
-              <td><img src="/images/spacer.gif" width="144" height="1"></td>
-            </tr>
-            <tr>
-              <td align="center" class="boxPadding5"><strong>About Us </strong></td>
-            </tr>
-            <tr>
-              <td background="/images/dotted.gif"><img src="/images/spacer.gif" width="144" height="1"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle"><img src="/images/spacer.gif" width="144" height="5"></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/press.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Press
-                  Releases</a></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/news.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;In
-                  the News</a> </td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/customers.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Customers</a></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/case.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Case Studies</a></td>
-            </tr>			
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/awards.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Awards</a></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/employment.html" target="_self"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Employment</a></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle" class="boxPadding15"><a href="/company/contactus.html"><img src="/images/arrow.gif" border="0" align="absmiddle">&nbsp;Contact Us </a></td>
-            </tr>
-            <tr>
-              <td align="left" valign="middle"><img src="/images/spacer.gif" width="144" height="5"></td>
-            </tr>
-            <tr>
-              <td background="/images/dotted.gif"><img src="/images/spacer.gif" width="144" height="1"></td>
-            </tr>
-        </tbody></table>
-		
-          <table width="120" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td><img src="/images/spacer.gif" width="120" height="16"></td>
-            </tr>
-            <tr>
-              <td><a href="" onclick="return callback();"><img src="/images/call.gif" height="34" border="0" alt="Have a Knowledge Base Account Manager Call You Back"></a></td>
-            </tr>
-            <tr>
-              <td><img src="/images/spacer.gif" width="120" height="12"></td>
-            </tr>
-            <tr>
-                            <td align="left"><a href="" onclick="window.open('http://chat.talisma.com/netagent/cimlogin.asp?questid=1AB19028-908F-427C-B585-3F7941E07408&amp;portid=DA6D823C-0DED-478B-93BC-0635CEB5DDCE&amp;CLOSEDLINK=http://www.talisma.com/no_chat.asp&amp;nareferer='+escape(document.location),'_blank','resizable= no,width=800,height=600');return false;"><img src="/images/chat.gif" height="35" border="0" alt="Chat with a Knowledge Base Account Manager"></a></td>
-            </tr>
-            <tr>
-              <td><img src="/images/spacer.gif" width="120" height="12"></td>
-            </tr>
-            <tr>
-              <td><a href="" onclick="return qemail();"><img src="/images/email.gif" height="35" border="0" alt="Click here to quickly email Knowledge Base sales department"></a></td>
-            </tr>
-            <tr>
-              <td><img src="/images/spacer.gif" width="120" height="12"></td>
-            </tr>
-        </tbody></table>			
 
-		
+<!-- set up top menus -->
+<!-- begin topmenu -->
+<div id="topmenu" style="position:absolute;  left:282px; top:17px; width:483px; z-index:2; visibility:hidden">
+<table cellpadding="0" cellspacing="0" border="0" width="483" height="41" class="">
+	<tbody><tr valign="middle">
+		<td id="tm_0" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_0', 'topNav0')" onmouseout="nav_rolloff('topNav0');"><img src="/tal_images/page_nav/nav_solutions.gif" name="topNav0" width="82" height="41" border="0" alt="Solutions"></a></td>
+		<td id="tm_1" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_1', 'topNav1')" onmouseout="nav_rolloff('topNav1');"><img src="/tal_images/page_nav/nav_products.gif" name="topNav1" width="77" height="41" border="0" alt="Products"></a></td>
+		<td id="tm_2" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_2', 'topNav2')" onmouseout="nav_rolloff('topNav2');"><img src="/tal_images/page_nav/nav_services.gif" name="topNav2" width="70" height="41" border="0" alt="Services"></a></td>
+		<td id="tm_3" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_3', 'topNav3')" onmouseout="nav_rolloff('topNav3');"><img src="/tal_images/page_nav/nav_resources.gif" name="topNav3" width="83" height="41" border="0" alt="Resources"></a></td>
+		<td id="tm_4" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_4', 'topNav4')" onmouseout="nav_rolloff('topNav4');"><img src="/tal_images/page_nav/nav_news_events.gif" name="topNav4" width="98" height="41" border="0" alt="News/Events"></a></td>
+		<td id="tm_5" class="NavTop"><a href="javascript:void(0)" onmouseover="show_tm('dd_5', 'topNav5')" onmouseout="nav_rolloff('topNav5');"><img src="/tal_images/page_nav/nav_about_us_on.gif" name="topNav5" width="73" height="41" border="0" alt="About Us"></a></td>
+	</tr>
+</tbody></table>
+</div>
+<!-- end topmenu -->
+		<!-- start dd_0 -->
+		<div id="dd_0" style="z-index:3; left:282px; visibility:hidden; width:150px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="150" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="150" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_0_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="148" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_solutions/cim.asp" onmouseover="window.over('dd_0_0','dd_0','#15436B')" onmouseout="window.over('dd_0_0','dd_0','#3079b2')" class="NavDropDown">Customer Interaction<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Management for<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Enterprises</a><br><img src="/tal_images/1x1trans.gif" width="148" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="150" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_0_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="148" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_solutions/smb.asp" onmouseover="window.over('dd_0_1','dd_0','#15436B')" onmouseout="window.over('dd_0_1','dd_0','#3079b2')" class="NavDropDown">Customer Interaction<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Management for<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Small / Medium Businesses</a><br><img src="/tal_images/1x1trans.gif" width="148" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="150" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_0_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="148" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_solutions/financial_services.asp" onmouseover="window.over('dd_0_2','dd_0','#15436B')" onmouseout="window.over('dd_0_2','dd_0','#3079b2')" class="NavDropDown">Customer Relationship<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Management for<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Financial Services</a><br><img src="/tal_images/1x1trans.gif" width="148" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="150" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_0_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="148" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="http://education.talisma.com" onmouseover="window.over('dd_0_3','dd_0','#15436B')" onmouseout="window.over('dd_0_3','dd_0','#3079b2')" class="NavDropDown" target="_blank">Customer Relationship<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Management for<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Higher Education</a><br><img src="/tal_images/1x1trans.gif" width="148" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="150" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="150">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="134" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_0 -->
+		<!-- start dd_1 -->
+		<div id="dd_1" style="z-index:3; left:364px; visibility:hidden; width:120px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="120" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/knowledgebase.asp" onmouseover="window.over('dd_1_0','dd_1','#15436B')" onmouseout="window.over('dd_1_0','dd_1','#3079b2')" class="NavDropDown">Knowledgebase /<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Self-service</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/email.asp" onmouseover="window.over('dd_1_1','dd_1','#15436B')" onmouseout="window.over('dd_1_1','dd_1','#3079b2')" class="NavDropDown">Email</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/chat.asp" onmouseover="window.over('dd_1_2','dd_1','#15436B')" onmouseout="window.over('dd_1_2','dd_1','#3079b2')" class="NavDropDown">Chat</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/phone.asp" onmouseover="window.over('dd_1_3','dd_1','#15436B')" onmouseout="window.over('dd_1_3','dd_1','#3079b2')" class="NavDropDown">Phone</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_4" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/voip.asp" onmouseover="window.over('dd_1_4','dd_1','#15436B')" onmouseout="window.over('dd_1_4','dd_1','#3079b2')" class="NavDropDown">VoIP</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_5" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/campaign.asp" onmouseover="window.over('dd_1_5','dd_1','#15436B')" onmouseout="window.over('dd_1_5','dd_1','#3079b2')" class="NavDropDown">Campaign</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_1_6" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_products/answer.asp" onmouseover="window.over('dd_1_6','dd_1','#15436B')" onmouseout="window.over('dd_1_6','dd_1','#3079b2')" class="NavDropDown">Answer</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="120">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="104" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_1 -->
+		<!-- start dd_2 -->
+		<div id="dd_2" style="z-index:3; left:441px; visibility:hidden; width:120px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="120" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_2_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_services/implementation.asp" onmouseover="window.over('dd_2_0','dd_2','#15436B')" onmouseout="window.over('dd_2_0','dd_2','#3079b2')" class="NavDropDown">Implementation</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_2_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_services/hosting.asp" onmouseover="window.over('dd_2_1','dd_2','#15436B')" onmouseout="window.over('dd_2_1','dd_2','#3079b2')" class="NavDropDown">Hosting</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_2_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_services/remote_services.asp" onmouseover="window.over('dd_2_2','dd_2','#15436B')" onmouseout="window.over('dd_2_2','dd_2','#3079b2')" class="NavDropDown">Remote Services</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_2_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_services/training.asp" onmouseover="window.over('dd_2_3','dd_2','#15436B')" onmouseout="window.over('dd_2_3','dd_2','#3079b2')" class="NavDropDown">Training</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="120">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="104" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_2 -->
+		<!-- start dd_3 -->
+		<div id="dd_3" style="z-index:3; left:511px; visibility:hidden; width:120px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="120" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_3_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="http://support.talisma.com" onmouseover="window.over('dd_3_0','dd_3','#15436B')" onmouseout="window.over('dd_3_0','dd_3','#3079b2')" class="NavDropDown" target="_blank">Support Portal</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_3_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="http://partners.talisma.com" onmouseover="window.over('dd_3_1','dd_3','#15436B')" onmouseout="window.over('dd_3_1','dd_3','#3079b2')" class="NavDropDown" target="_blank">Partner Support<br><img src="/tal_images/1x1trans.gif" height="1" width="5" border="0">Portal</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_3_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_resources/resource_center.asp" onmouseover="window.over('dd_3_2','dd_3','#15436B')" onmouseout="window.over('dd_3_2','dd_3','#3079b2')" class="NavDropDown">Resource Center</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_3_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_resources/links.asp" onmouseover="window.over('dd_3_3','dd_3','#15436B')" onmouseout="window.over('dd_3_3','dd_3','#3079b2')" class="NavDropDown">Industry Links</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="120">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="104" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_3 -->
+		<!-- start dd_4 -->
+		<div id="dd_4" style="z-index:3; left:594px; visibility:hidden; width:120px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="120" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_4_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_news/press_room.asp" onmouseover="window.over('dd_4_0','dd_4','#15436B')" onmouseout="window.over('dd_4_0','dd_4','#3079b2')" class="NavDropDown">Press Room</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_4_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_news/awards.asp" onmouseover="window.over('dd_4_1','dd_4','#15436B')" onmouseout="window.over('dd_4_1','dd_4','#3079b2')" class="NavDropDown">Awards</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_4_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_news/industry_news.asp" onmouseover="window.over('dd_4_2','dd_4','#15436B')" onmouseout="window.over('dd_4_2','dd_4','#3079b2')" class="NavDropDown">Industry News</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_4_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_news/customers.asp" onmouseover="window.over('dd_4_3','dd_4','#15436B')" onmouseout="window.over('dd_4_3','dd_4','#3079b2')" class="NavDropDown">Customers</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_4_4" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_news/webinars_events.asp" onmouseover="window.over('dd_4_4','dd_4','#15436B')" onmouseout="window.over('dd_4_4','dd_4','#3079b2')" class="NavDropDown">Webinars / Events</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="120">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="104" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_4 -->
+		<!-- start dd_5 -->
+		<div id="dd_5" style="z-index:3; left:645px; visibility:hidden; width:120px; position:absolute; top:58px">
+		<table class="" cellspacing="0" cellpadding="0" width="120" border="0">
+			<tbody><tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_0" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/default.asp" onmouseover="window.over('dd_5_0','dd_5','#15436B')" onmouseout="window.over('dd_5_0','dd_5','#3079b2')" class="NavDropDown">Talisma Overview</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_1" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/management.asp" onmouseover="window.over('dd_5_1','dd_5','#15436B')" onmouseout="window.over('dd_5_1','dd_5','#3079b2')" class="NavDropDown">Executive Team</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_2" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/careers.asp" onmouseover="window.over('dd_5_2','dd_5','#15436B')" onmouseout="window.over('dd_5_2','dd_5','#3079b2')" class="NavDropDown">Careers</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_3" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/partners/default.asp" onmouseover="window.over('dd_5_3','dd_5','#15436B')" onmouseout="window.over('dd_5_3','dd_5','#3079b2')" class="NavDropDown">Partner Program</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_4" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/contact.asp" onmouseover="window.over('dd_5_4','dd_5','#15436B')" onmouseout="window.over('dd_5_4','dd_5','#3079b2')" class="NavDropDown">Contact Us</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr valign="middle" class="MenuBackground1">
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+				<td id="dd_5_5" class="relative"><img src="/tal_images/1x1trans.gif" height="2" width="118" border="0"><br><img src="/tal_images/1x1trans.gif" height="10" width="5" border="0"><a href="/tal_about/privacy.asp" onmouseover="window.over('dd_5_5','dd_5','#15436B')" onmouseout="window.over('dd_5_5','dd_5','#3079b2')" class="NavDropDown">Privacy Statement</a><br><img src="/tal_images/1x1trans.gif" width="118" height="4" border="0"></td>
+				<td class=""><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3" class="NavBorderHor"><img src="/tal_images/1x1trans.gif" width="120" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table cellpadding="0" cellspacing="0" border="0" width="120">
+						<tbody><tr>
+							<td><img src="/tal_images/page_nav/bottom_left.gif" alt="" width="8" height="8" border="0"></td>
+							<td width="99%" class="MenuBackground1"><img src="/tal_images/1x1trans.gif" width="104" height="8" border="0" alt=""></td>
+							<td><img src="/tal_images/page_nav/bottom_right.gif" alt="" width="8" height="8" border="0"></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+		<!-- end dd_5 -->
+
+<script language="javascript" type="text/javascript">
+<!--
+var lastLayer = null;
+var x1 = 282;
+//var x2 = 765;
+var x2 = 988;
+var y1 = 17;
+var y2 = 600;
+
+var isDD0On = false;
+var dd0x1 = 282;
+var dd0x2 = 432;
+var dd0y1 = 17;
+var dd0y2 = 258;
+var isDD1On = false;
+var dd1x1 = 364;
+var dd1x2 = 484;
+var dd1y1 = 17;
+var dd1y2 = 226;
+var isDD2On = false;
+var dd2x1 = 441;
+var dd2x2 = 561;
+var dd2y1 = 17;
+var dd2y2 = 146;
+var isDD3On = false;
+var dd3x1 = 511;
+var dd3x2 = 631;
+var dd3y1 = 17;
+var dd3y2 = 160;
+var isDD4On = false;
+var dd4x1 = 594;
+var dd4x2 = 714;
+var dd4y1 = 17;
+var dd4y2 = 168;
+var isDD5On = false;
+var dd5x1 = 645;
+var dd5x2 = 765;
+var dd5y1 = 17;
+var dd5y2 = 190;
+var isDDLoginOn = false;
+var ddLx1 = 848;
+var ddLx2 = 988;
+var ddLy1 = 77;
+var ddLy2 = 150;
+
+if (window.captureEvents) {
+        window.captureEvents(Event.MOUSEMOVE);
+        window.onmousemove = mouseTracker;
+} else {
+        document.onmousemove = mouseTracker;        
+}
+
+function mouseTracker(e) {
+    e = e || window.Event || window.event;
+    window.pageX = e.pageX || e.clientX;
+    window.pageY = e.pageY || e.clientY;
+	if (document.body) {
+		window.pageX += document.body.scrollLeft;
+		window.pageY += document.body.scrollTop;
+	}
+	var current_width = determine_page_width();
+	if (current_width >	765) {
+		window.pageX -= Math.round((current_width-764)/2, 0);
+	}
+    setTimeout('',2000);
+	if (isDD0On == true) {
+		if (window.pageX < dd0x1 || window.pageX > dd0x2 || window.pageY < dd0y1 || window.pageY > dd0y2) {
+			hide('dd_0');
+			if (lastLayer != null && lastLayer != 'dd_0') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDD1On == true) {
+		if (window.pageX < dd1x1 || window.pageX > dd1x2 || window.pageY < dd1y1 || window.pageY > dd1y2) {
+			hide('dd_1');
+			if (lastLayer != null && lastLayer != 'dd_1') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDD2On == true) {
+		if (window.pageX < dd2x1 || window.pageX > dd2x2 || window.pageY < dd2y1 || window.pageY > dd2y2) {
+			hide('dd_2');
+			if (lastLayer != null && lastLayer != 'dd_2') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDD3On == true) {
+		if (window.pageX < dd3x1 || window.pageX > dd3x2 || window.pageY < dd3y1 || window.pageY > dd3y2) {
+			hide('dd_3');
+			if (lastLayer != null && lastLayer != 'dd_3') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDD4On == true) {
+		if (window.pageX < dd4x1 || window.pageX > dd4x2 || window.pageY < dd4y1 || window.pageY > dd4y2) {
+			hide('dd_4');
+			if (lastLayer != null && lastLayer != 'dd_4') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDD5On == true) {
+		if (window.pageX < dd5x1 || window.pageX > dd5x2 || window.pageY < dd5y1 || window.pageY > dd5y2) {
+			hide('dd_5');
+			if (lastLayer != null && lastLayer != 'dd_5') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if (isDDLoginOn == true) {
+		if (window.pageX < ddLx1 || window.pageX > ddLx2 || window.pageY < ddLy1 || window.pageY > ddLy2) {
+			hide('dd_login');
+			if (lastLayer != null && lastLayer != 'dd_login') hide(lastLayer);
+			lastLayer = null;
+		}
+	}
+	if ((window.pageX < x1 || window.pageX > x2 || window.pageY < y1 || window.pageY > y2) && lastLayer != null) {
+		hide(lastLayer);
+		lastLayer = null;
+	}
+}
+
+// hide element
+function hide(aLayer) {
+		if (aLayer == 'dd_0') isDD0On = false;
+		if (aLayer == 'dd_1') isDD1On = false;
+		if (aLayer == 'dd_2') isDD2On = false;
+		if (aLayer == 'dd_3') isDD3On = false;
+		if (aLayer == 'dd_4') isDD4On = false;
+		if (aLayer == 'dd_5') isDD5On = false;
+		if (aLayer == 'dd_login') isDDLoginOn = false;
+	theobjs[aLayer].objHide();
+}
+
+// show element
+function show(aLayer) {
+		if (aLayer == 'dd_0') isDD0On = true;
+		if (aLayer == 'dd_1') isDD1On = true;
+		if (aLayer == 'dd_2') isDD2On = true;
+		if (aLayer == 'dd_3') isDD3On = true;
+		if (aLayer == 'dd_4') isDD4On = true;
+		if (aLayer == 'dd_5') isDD5On = true;
+		if (aLayer == 'dd_login') isDDLoginOn = true;
+	theobjs[aLayer].objShow();
+}
+
+function preload_nav() {
+	topNav0_on = new Image;
+	topNav0_off = new Image;
+	topNav0_on.src = '/tal_images/page_nav/nav_solutions_on.gif';
+	topNav0_off.src = '/tal_images/page_nav/nav_solutions.gif';
+	topNav1_on = new Image;
+	topNav1_off = new Image;
+	topNav1_on.src = '/tal_images/page_nav/nav_products_on.gif';
+	topNav1_off.src = '/tal_images/page_nav/nav_products.gif';
+	topNav2_on = new Image;
+	topNav2_off = new Image;
+	topNav2_on.src = '/tal_images/page_nav/nav_services_on.gif';
+	topNav2_off.src = '/tal_images/page_nav/nav_services.gif';
+	topNav3_on = new Image;
+	topNav3_off = new Image;
+	topNav3_on.src = '/tal_images/page_nav/nav_resources_on.gif';
+	topNav3_off.src = '/tal_images/page_nav/nav_resources.gif';
+	topNav4_on = new Image;
+	topNav4_off = new Image;
+	topNav4_on.src = '/tal_images/page_nav/nav_news_events_on.gif';
+	topNav4_off.src = '/tal_images/page_nav/nav_news_events.gif';
+	topNav5_on = new Image;
+	topNav5_off = new Image;
+	topNav5_on.src = '/tal_images/page_nav/nav_about_us_on.gif';
+	topNav5_off.src = '/tal_images/page_nav/nav_about_us_on.gif';
+	topNavSwitch = 1;
+}
+
+function menu_center(opt) {
+	var current_width = determine_page_width();
+	if (current_width >	765)
+		new_left_position = Math.round((current_width-766)/2, 0);
+	else
+		new_left_position = 0;
+	if (document.layers && document.layers['topmenu'] && document.layers['topmenu'].left) {
+		document.layers['topmenu'].left = new_left_position + 282;
+		document.layers['dd_0'].left = new_left_position + 282;
+		document.layers['dd_1'].left = new_left_position + 364;
+		document.layers['dd_2'].left = new_left_position + 441;
+		document.layers['dd_3'].left = new_left_position + 511;
+		document.layers['dd_4'].left = new_left_position + 594;
+		document.layers['dd_5'].left = new_left_position + 645;
+	} else if (document.all && document.all['topmenu'] && document.all['topmenu'].style && document.all['topmenu'].style.left) {
+		document.all['topmenu'].style.left = new_left_position + 282;
+		document.all['dd_0'].style.left = new_left_position + 282;
+		document.all['dd_1'].style.left = new_left_position + 364;
+		document.all['dd_2'].style.left = new_left_position + 441;
+		document.all['dd_3'].style.left = new_left_position + 511;
+		document.all['dd_4'].style.left = new_left_position + 594;
+		document.all['dd_5'].style.left = new_left_position + 645;
+	} else if (document.getElementById && document.getElementById('topmenu') && document.getElementById('topmenu').style && document.getElementById('topmenu').style.left) {
+		document.getElementById('topmenu').style.left = new_left_position + 282;
+		document.getElementById('dd_0').style.left = new_left_position + 282;
+		document.getElementById('dd_1').style.left = new_left_position + 364;
+		document.getElementById('dd_2').style.left = new_left_position + 441;
+		document.getElementById('dd_3').style.left = new_left_position + 511;
+		document.getElementById('dd_4').style.left = new_left_position + 594;
+		document.getElementById('dd_5').style.left = new_left_position + 645;
+	}
+	if (opt == 'y' && MainSwitch == 1) {
+		theobjs['topmenu'].objShow();
+	}
+}
+
+function determine_page_width() {
+	var myWidth = 0;
+	if( typeof( window.innerWidth ) == 'number' ) {
+		//Non-IE
+		//myWidth = window.innerWidth; // doesn't work if there's a vertical scrollbar
+		myWidth = document.width; 
+	} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		//IE 6+ in 'standards compliant mode'
+		myWidth = document.documentElement.clientWidth;
+	} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		//IE 4 compatible
+		myWidth = document.body.clientWidth;
+	}
+	return myWidth;
+} 
+
+window.onresize = menu_center;
+//-->
+</script>
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="765" align="center">
+	<tbody><tr>
+		<td colspan="5">
+			<table cellpadding="0" cellspacing="0" border="0" width="765">
+				<tbody><tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" width="765">
+	<tbody><tr valign="bottom">
+		<td><img src="/tal_images/1x1trans.gif" width="5" height="57" border="0"></td>
+		<td><a href="/default.asp"><img src="/tal_images/talisma_logo.gif" alt="Talisma Homepage" width="144" height="41" border="0"></a></td>
+		<td><img src="/tal_images/1x1trans.gif" width="616" height="57" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/sub_page_bars.gif" alt="" width="765" height="56" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<script language="javascript" type="text/javascript">
+<!--
+function check_searchform() {
+	form = document.search_form;
+	el = '';
+	if (form.textfield.value == '' || form.textfield.value == 'Search here') el += 'Enter a term to search on';
+	if (el != '') {
+		alert('Please address the following and then click "Go" again. \n \n' + el);
+		form.textfield.value = 'Search here';
+		return false;
+	} else {
+		return true;
+	}
+}
+//-->
+</script>
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr valign="middle">
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="180">
+				<tbody><tr>
+					<td class="HomeBottomText"><img src="/tal_images/home/arrow.gif" width="22" height="11" align="absmiddle"></td>
+					<td class="HomeBottomText"><a href="http://www.de.talisma.com" target="_blank">German</a></td>
+					<td><img src="/images/1x1trans.gif" width="10" height="1" border="0" alt=""></td>
+					<td class="HomeBottomText"><img src="/tal_images/home/arrow.gif" width="22" height="11" align="absmiddle"></td>
+					<td class="HomeBottomText"><a href="http://partners.talisma.com" target="_blank">Partner Portal</a></td>
+				</tr>
+				<tr>
+					<td class="HomeBottomText"><img src="/tal_images/home/arrow.gif" width="22" height="11" align="absmiddle"></td>
+					<td class="HomeBottomText"><a href="http://www.japan.talisma.com" target="_blank">Japanese</a></td>
+					<td><img src="/images/1x1trans.gif" width="10" height="1" border="0" alt=""></td>
+					<td class="HomeBottomText"><img src="/tal_images/home/arrow.gif" width="22" height="11" align="absmiddle"></td>
+					<td class="HomeBottomText"><a href="http://support.talisma.com/login.asp" target="_blank">Support Portal</a></td>
+				</tr>
+			</tbody></table>
 		</td>
-      <td width="16" valign="top"><img src="/images/spacer.gif" width="16" height="300" border="0"></td>
-      <td width="605" valign="top"><img src="/images/spacer.gif" width="10" height="16" border="0"><br>
-<!------------------- Main Content Area Begin---------------------------------------------------->	  
-	  	   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>	
-				 <td align="left" valign="top" colspan="1">
-					    <span class="header">Privacy Policy</span>
-						<br><br>
-						
-						 			<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+		<td><img src="/images/1x1trans.gif" width="10" height="1" border="0" alt=""></td>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="151">
+				<form name="search_form" action="/search/search.asp" method="post" onsubmit="return check_searchform();"></form>
+				<tbody><tr>
+					<td><input type="text" name="textfield" value="Search here" class="SearchBox" onfocus="document.search_form.textfield.value='';"></td>
+					<td align="right"><input type="image" src="/tal_images/home/go_button.gif" border="0"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+		<td><a href="javascript:pop_chat();" onmouseover="rollover('icon_chat');" onmouseout="rolloff('icon_chat');"><img src="/tal_images/home/icon_chat.gif" name="icon_chat" alt="Chat Now" width="119" height="37" border="0"></a></td>
+		<td><a href="javascript:pop_call();" onmouseover="rollover('icon_call');" onmouseout="rolloff('icon_call');"><img src="/tal_images/home/icon_call.gif" name="icon_call" alt="Request Call" width="107" height="37" border="0"></a></td>
+		<td><a href="javascript:pop_ctt();" onmouseover="rollover('icon_ctt');" onmouseout="rolloff('icon_ctt');"><img src="/tal_images/home/icon_ctt.gif" name="icon_ctt" alt="Click to Talk" width="100" height="37" border="0"></a></td>
+		<td><a href="javascript:pop_email();" onmouseover="rollover('icon_email');" onmouseout="rolloff('icon_email');"><img src="/tal_images/home/icon_email.gif" name="icon_email" alt="Send Email" width="98" height="37" border="0"></a></td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<table cellpadding="0" cellspacing="0" border="0" width="765">
+				<tbody><tr>
+					<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="20" border="0"></td>
+				</tr>
+				<tr valign="bottom">
+					<td><img src="/tal_images/1x1trans.gif" width="152" height="1" border="0"></td>
+					<td width="451" class="Title">Privacy Statement</td>
+					<td><img src="/tal_images/1x1trans.gif" width="162" height="1" border="0"></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="20" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="139">
+				<tbody><tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" width="127">
+	<tbody><tr>
+		<td><table cellpadding="0" cellspacing="0" border="0" width="127">
+	<tbody><tr>
+		<td colspan="3"><img src="/tal_images/page_left/headers/about_us.gif" alt="Talisma About Us" width="127" height="21" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="12" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/default.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" width="113" class="LeftSideText"><a href="/tal_about/default.asp">Talisma Overview</a></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/management.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" class="LeftSideText"><a href="/tal_about/management.asp">Executive Team</a></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/careers.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" width="113" class="LeftSideText"><a href="/tal_about/careers.asp">Careers</a></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/partners/default.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" class="LeftSideText"><a href="/tal_about/partners/default.asp">Partner Program</a></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/contact.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" class="LeftSideText"><a href="/tal_about/contact.asp">Contact Us</a></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td><a href="/tal_about/privacy.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+		<td colspan="2" class="LeftSideTextOn"><a href="/tal_about/privacy.asp">Privacy Statement</a></td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="127">
 		<tbody><tr>
-			<td colspan="2"><br>
-				<table border="0" cellspacing="1" cellpadding="0" bgcolor="#FFFFFF">
-					<tbody><tr>
-						<td valign="top"> 
-						
-Knowledgebase Solutions LLC (Knowledgebase.net) a division of Talisma Corporation, with its principal offices located at 411 108th Avenue NE, Suite 900, Bellevue, WA 98004, together with its subsidiaries (hereinafter "Talisma") are committed to protecting the privacy of their clients. Talisma will not distribute, sell, or rent names, email addresses, or any other personally identifiable information to any third party. 
-<br>
-Talisma may share non-personal, non-individual information collectively with its marketing partners strictly for its own research purposes.  For example, Talisma will not provide specifics around who purchased a specific product, but rather how many customers purchased that product. 
-<br>
-Member profile information (e.g. name, title, address, items purchased) may be used to create personalized content, offers, services, and advertising to be used only by Talisma.
-<br>
-<br>
-<strong>Third Party Content:</strong><br>
-Talisma Web sites may contain content from third-party content providers, however the content provider(s) will not receive Talisma user or customer information from Talisma.
-<br>
-<br>
-<strong>Cookies:</strong><br>
-Talisma and/or third parties may use cookies to compile statistical data in order to analyze how visitors use the Talisma Web site. The process may involve setting cookies on local systems in order to gather the necessary information to perform the statistical analysis. The information collected is designed to measure the performance of various marketing initiatives and overall website performance. This information can include the link and referral Web site, as well as activity on the Talisma Web site, including dates and information submitted on Talisma's site. 
-<br>
-<br>
-<strong>Log Files </strong><br>
-Talisma uses IP addresses to analyze trends, administer the site, track user movement, and to gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-<br>
-<br>
-<strong>Surveys </strong><br>
-Talisma's site occasionally requests information from users via surveys. Participation in these surveys is completely voluntary.  Information requested may include contact and demographic information.  Survey data may be used to monitor or improve the use and satisfaction of Talisma's Web site, products, or services.  Talisma will retain ownership to all data provided via voluntary surveys. 
-<br>
-<br>
-<strong>Links </strong><br>
-Talisma's Web site contains links to other sites.  Such other sites are not under the control of Talisma. Therefore, Talisma makes no representations as to the accuracy or integrity of the content included on such other sites. 
-<br>
-<br>
-When you access a non-Talisma Web site, you do so at your own risk and Talisma is not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made on these sites. Talisma provides these links merely as a convenience and the inclusion of such links does not imply that Talisma endorses or accepts any responsibility for the content or uses of such Web sites. Talisma encourages all of its visitors to read the individual privacy statements of such Web sites. The Talisma Privacy Statement applies solely to information collected by the Talisma Web site.
-<br>
-<br>
-Additionally, while the Talisma Web site may be accessed from countries around the world and contains references to Talisma products, services, and programs such references do not obligate Talisma to provide such products, services, or programs in every country.  
-<br>
-<br>
+			<td colspan="3"><img src="/tal_images/page_left/dots.gif" alt="Customer Interaction Management - Call center software to improve customer service through integrated, online communication channels, including self-service, chat, email, phone, and VoIP." width="127" height="54" border="0"></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/tal_images/page_left/headers/try_it_today.gif" alt="Try It Today!" width="123" height="22" border="0"></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="12" border="0"></td>
+		</tr>
+		<tr valign="top">
+			<td><a href="/tal_products/request_demo.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+			<td colspan="2" width="113" class="LeftSideText"><a href="/tal_products/request_demo.asp">Request a Demo</a></td>
+		</tr>
+		<tr>
+			<td colspan="3"><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+		</tr>
+		<tr valign="top">
+			<td><a href="/tal_products/free_trial.asp"><img src="/tal_images/page_left/arrow.gif" alt="" width="14" height="14" border="0"></a></td>
+			<td colspan="2" class="LeftSideText"><a href="/tal_products/free_trial.asp">30 Day Free Trial</a></td>
+		</tr>
+</tbody></table>
 
-<strong>Opt-Out Policy</strong> <br>
-Please email privacy@talisma.com if you no longer wish to receive information from Talisma.
-<br>
-<br>
-
-<strong>Changes to this Privacy Statement:</strong> <br>
-Talisma reserves the right to modify this Talisma Privacy Statement, and will publish notification on this Web site no less than 30 days before the revised statement takes effect.
-<br>
-<br>
-<strong>Additional Information </strong><br>
-If you have any questions about this Talisma Privacy Statement or the practices of this 
-Web site, email privacy@talisma.com.
-
-<br>
-<br>
-
-
-						</td>
-					</tr>
-				</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+					</td>
+					<td><img src="/tal_images/1x1trans.gif" width="12" height="1" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="PageRule"><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="475">
+				<tbody><tr>
+					<td><img src="/tal_images/1x1trans.gif" width="12" height="1" border="0"></td>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" width="451">
+							<tbody><tr>
+								<td class="BodyText">
+                                  <p><span class="Subhead">Talisma Corporation Privacy Statement </span><br>
+                                    Talisma Corporation, with its principal offices located at 411 108th Avenue NE, Suite 900, Bellevue, WA 98004, together with its subsidiaries (hereinafter "Talisma") are committed to protecting the privacy of their clients. Talisma will not distribute, sell, or rent names, email addresses, or any other personally identifiable information to any third party.</p>
+                                  <p>Talisma may share non-personal, non-individual information collectively with its marketing partners strictly for its own research purposes. For example, Talisma will not provide specifics around who purchased a specific product, but rather how many customers purchased that product.</p>
+                                  <p>Member profile information (e.g. name, title, address, items purchased) may be used to create personalized content, offers, services, and advertising to be used only by Talisma.                                  </p>
+                                  <p><span class="Subhead">Third Party Content</span><br> 
+                                  Talisma Web sites may contain content from third-party content providers, however the content provider(s) will not receive Talisma user or customer information from Talisma.</p>
+                                  <p><span class="Subhead">Cookies</span><br>
+                                  Talisma and/or third parties may use cookies to compile statistical data in order to analyze how visitors use the Talisma Web site. The process may involve setting cookies on local systems in order to gather the necessary information to perform the statistical analysis. The information collected is designed to measure the performance of various marketing initiatives and overall Web site performance. This information can include the link and referral Web site, as well as activity on the Talisma Web site, including dates and information submitted on Talisma's site.</p>
+                                  <p><span class="Subhead">Log Files</span>        <br>
+                                    Talisma uses IP addresses to analyze trends, administer the site, track user movement, and to gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
+                                  <p><span class="Subhead">Surveys</span>          <br>
+                                  Talisma's site occasionally requests information from users via surveys. Participation in these surveys is completely voluntary. Information requested may include contact and demographic information. Survey data may be used to monitor or improve the use and satisfaction of Talisma's Web site, products, or services. Talisma will retain ownership to all data provided via voluntary surveys.</p>
+                                  <p> <span class="Subhead">Links</span>                                    <br>
+                                    Talisma's Web site contains links to other sites. Such other sites are not under the control of Talisma. Therefore, Talisma makes no representations as to the accuracy or integrity of the content included on such other sites.</p>
+                                  <p>When you access a non-Talisma Web site, you do so at your own risk and Talisma is not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made on these sites. Talisma provides these links merely as a convenience and the inclusion of such links does not imply that Talisma endorses or accepts any responsibility for the content or uses of such Web sites. Talisma encourages all of its visitors to read the individual privacy statements of such Web sites. The Talisma Privacy Statement applies solely to information collected by the Talisma Web site.</p>
+                                  <p>Additionally, while the Talisma Web site may be accessed from countries around the world and contains references to Talisma products, services, and programs such references do not obligate Talisma to provide such products, services, or programs in every country.</p>
+                                  <p><span class="Subhead">Opt-Out Policy</span>                                    <br>
+                                    Please email <a href="mailto:privacy@talisma.com">privacy@talisma.com</a> if you no longer wish to receive information from Talisma.</p>
+                                  <p><span class="Subhead">Changes to this Privacy Statement:</span>                    <br>
+                                    Talisma reserves the right to modify this Talisma Privacy Statement, and will publish notification on this Web site no less than 30 days before the revised statement takes effect.</p>
+                                  <p><span class="Subhead">Additional Information</span>                      <br>
+                                    If you have any questions about this Talisma Privacy Statement or the practices of this 
+                      Web site, email <a href="mailto:privacy@talisma.com">privacy@talisma.com</a>. </p>
+                                  <p><a href="/tal_about/legal.asp">Legal information </a><br>
+                                    <br>
+                                  </p></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td><img src="/tal_images/1x1trans.gif" width="12" height="1" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="PageRule"><img src="/tal_images/1x1trans.gif" width="1" height="1" border="0"></td>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="149">
+				<tbody><tr>
+					<td><img src="/tal_images/1x1trans.gif" width="12" height="1" border="0"></td>
+					<td>
+						<table cellpadding="0" cellspacing="0" border="0" width="137">
+	<tbody><tr>
+		<td><a href="/tal_news/webinars_events.asp"><img src="/tal_images/page_right/header_webinars_events.gif" alt="Webinars / Events" width="137" height="44" border="0"></a></td>
+	</tr>
+	<tr>
+      <td class="RightSideText"><a href="http://www.destinationcrm.com/webevents/details.asp?eventid=247">CRM Magazine Sponsored Webinar "How Proactive Service and Sales Solutions are Changing the Online Customer Expereince"
+</a></td>
+  </tr>
+	<tr>
+      <td><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+  </tr>
+	<tr>
+      <td class="RightSideText"><a href="http://www-306.ibm.com/software/data/conf/overview.html" target="_blank">IBM On Demand<br>
+      Las Vegas, NV <br>
+      Booth #109</a></td>
+  </tr>
+	<tr>
+      <td><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+  </tr>
+	<tr>
+      <td class="RightSideMore"><a href="/tal_news/webinars_events.asp">more</a></td>
+  </tr>
+	<tr>
+		<td><img src="/tal_images/page_right/dots.gif" alt="Customer Interaction Management - Call center software to improve customer service through integrated, online communication channels, including self-service, chat, email, phone, and VoIP." width="137" height="32" border="0"></td>
+	</tr>
+	<tr>
+		<td><a href="/tal_news/press_room.asp"><img src="/tal_images/page_right/header_news.gif" alt="News" width="137" height="44" border="0"></a></td>
+	</tr>
+	<tr>
+      <td class="RightSideText"><a href="/tal_news/press_releases/pr119.asp">Survey Reveals Top 100 U.S. Online Retailers’ Customer Service Shortfalls</a></td>
+  </tr>
+	<tr>
+      <td><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+  </tr>
+	<tr>
+      <td class="RightSideText"><a href="/tal_news/press_releases/pr117.asp">Talisma Partners with BT Global Services for Customer Intelligence Portfolio</a></td>
+  </tr>
+	<tr>
+      <td><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+  </tr>
+	<tr>
+      <td class="RightSideMore"><a href="/tal_news/press07.asp">more</a></td>
+  </tr>
+	<tr>
+		<td><img src="/tal_images/page_right/dots.gif" alt="Customer Interaction Management - Call center software to improve customer service through integrated, online communication channels, including self-service, chat, email, phone, and VoIP." width="137" height="32" border="0"></td>
+	</tr>
+	<tr>
+		<td><a href="/tal_resources/resource_center.asp"><img src="/tal_images/page_right/header_success_stories.gif" alt="Success Stories" width="137" height="44" border="0"></a></td>
+	</tr>
+	<tr>
+      <td class="RightSideText"><a href="/tal_resources/resource_center.asp">Outsell Case Study</a><br>
+          <a href="/tal_resources/resource_center.asp">eSignal Case Study</a> </td>
+  </tr>
+	<tr>
+      <td><img src="/tal_images/1x1trans.gif" width="1" height="8" border="0"></td>
+  </tr>
+	<tr>
+      <td class="RightSideMore"><a href="/tal_resources/resource_center.asp">more</a></td>
+  </tr>
+	<tr>
+		<td>
+			
 		</td>
 	</tr>
 </tbody></table>
 
-				</td>
-			</tr>
+					</td>
+				</tr>
 			</tbody></table>
-	  
-	  
-	  
-	  
-<!------------------- Main Content Area End---------------------------------------------------->		
- </td>
- <td><img src="/images/spacer.gif" width="15" height="10"></td> 
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5"><img src="/tal_images/1x1trans.gif" width="1" height="20" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<table cellpadding="0" cellspacing="0" border="0" width="765">
+				<tbody><tr>
+					<td>
+						<script language="javascript" type="text/javascript">
+<!--
+create_objects();
+preload_nav();
+menu_center('y');
+//-->
+</script>
 
-    </tr>
-  </tbody></table>
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td><img src="/images/spacer.gif" width="780" height="10"></td>
-    </tr>
-  </tbody></table>
-  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-      <td align="center" valign="middle">
-	  <img src="/images/blank.gif" width="1" height="25" align="absmiddle">
-	<a href="/company/privacy.html" class="copyright"><span class="copyright">Privacy Policy</span></a>&nbsp; | &nbsp;
-	<a href="/company/aup.html" class="copyright"><span class="copyright">Acceptable Use Policy</span></a>&nbsp; | &nbsp;
-	<a href="/company/security.html" class="copyright"><span class="copyright">Security Policy</span></a>&nbsp; | &nbsp;
-	<a href="http://www.talisma.com/tal_about/privacy.asp" class="copyright" target="new"><span class="copyright">Copyright © 2005 Talisma Corporation&nbsp;</span></a>&nbsp; | &nbsp;
-	<a href="http://www.talisma.com" class="copyright" target="_new"><span class="copyright">www.talisma.com&nbsp;</span></a>
-    </td></tr>
-  </tbody></table>
-</div>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+	<tbody><tr>
+		<td class="Footer"><a href="/default.asp">Home</a></td>
+		<td class="Footer">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+		<td class="Footer"><a href="/tal_about/legal.asp">Legal</a></td>
+		<td class="Footer">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+		<td class="Footer"><a href="/tal_about/contact.asp">Contact Us</a></td>
+		<td class="Footer">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+		
+		<td class="Footer"><a href="http://www.talisma.com/sitemap.asp">Site Map </a></td>
+		<td class="Footer">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+		<td class="Footer">800.474.1149</td>
+		<td><img src="/tal_images/1x1trans.gif" width="8" height="1" border="0" alt=""></td>
+		<td class="Footer">©2005-2007 Talisma Corporation.&nbsp;&nbsp;All rights reserved.</td>
+	</tr>
+</tbody></table>
+
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5"><img src="/tal_images/1x1trans.gif" width="1" height="12" border="0"></td>
+	</tr>
+</tbody></table>
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="1"><tbody><tr><td>
+	<!-- Google's new analytics tracking code -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	_uacct = "UA-89082-2";
+	urchinTracker();
+	</script>
+
+	<!-- LeadLander tracking code -->
+	<script type="text/javascript" language="javascript">i=11467</script>
+	<script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+	<!-- end LeadLander tracking code -->
+		<!-- ***  CLICK TRACKING CODE 3.0 *** --> 
+		<script language="JavaScript" type="text/javascript" defer="1" src="http://keywordmax.com/tracking/show.php?id=664621223&amp;location=Homepage"></script>
+		<noscript> 
+		<img src="http://keywordmax.com/tracking/log.php?id=664621223&loc=Homepage" border="0" width="1" height="1"> 
+		</noscript> 
+		<!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
+</td></tr></tbody></table>
+
+
+
 
 
 
