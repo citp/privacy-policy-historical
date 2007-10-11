@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608191449id_/http%3A//healthleadersmedia.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012000259id_/http%3A//www.healthleadersmedia.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # HealthLeadersMedia - Privacy Policy
 
