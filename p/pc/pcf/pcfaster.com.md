@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2007-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070413010300id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114244id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
 
 # Startup Faster! 2004 - Make your PC Faster than ever.
 
