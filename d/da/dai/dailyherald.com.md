@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617044745id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011101737id_/http%3A//dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Daily Herald | Privacy Policy
 
@@ -73,4 +73,4 @@ Paddock takes reasonable measures to protect the security of the information tra
 
 Paddock reserves the right to change this Privacy Policy at any time. It is your responsibility to review this policy from time to time to be familiar with changes. At the beginning of the policy, we will post the date on which it was last updated. You can e-mail us with any further questions at [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
 
-© 2005 Paddock Publications, Inc. 
+© 2007 Paddock Publications, Inc. 
