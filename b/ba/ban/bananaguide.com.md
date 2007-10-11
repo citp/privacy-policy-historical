@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627035448id_/http%3A//bananaguide.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063704id_/http%3A//www.bananaguide.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # BananaGuide
 
@@ -44,5 +44,5 @@ Questions and Suggestions
 If you have questions or suggestions, please contact us throught our feedback form. 
 
 **[BG Home](https://web.archive.org/php/pages/index.php)\- [Site Reviews ](https://web.archive.org/html/reviews/paysitesrevindex.htm)** **-** **[Movie Reviews](https://web.archive.org/cgi-bin/vmv/vmv_main.cgi)  
-** **[Sex Surfing 101](https://web.archive.org/web/20070627035448id_/http%3A//bananaguide.com/sexsurfing.htm)-** **[BG Wire](https://web.archive.org/php/pages/day.php) -** **[Map](https://web.archive.org/web/20070627035448id_/http%3A//bananaguide.com/sitemap.htm)** © 2000, 2005 Untangled Web Inc.   
+** **[Sex Surfing 101](https://web.archive.org/web/20071011063704id_/http%3A//www.bananaguide.com/sexsurfing.htm)-** **[BG Wire](https://web.archive.org/php/pages/day.php) -** **[Map](https://web.archive.org/web/20071011063704id_/http%3A//www.bananaguide.com/sitemap.htm)** © 2000, 2005 Untangled Web Inc.   
 
