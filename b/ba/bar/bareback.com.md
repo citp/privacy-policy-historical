@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareback.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406070730id_/http%3A//www.bareback.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareback.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011215023id_/http%3A//www.bareback.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome To Bareback.com
 
