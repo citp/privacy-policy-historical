@@ -1,215 +1,44 @@
-<!--The following is the downloaded HTML source of the pingidentity.com privacy policy that was archived on 2007-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426111927id_/http%3A//www.pingidentity.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pingidentity.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011091300id_/http%3A//pingidentity.com/privacy-policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-		<link href="/stylesheets/application.css?1177427137" media="screen" rel="Stylesheet" type="text/css">
-		<link href="/stylesheets/common.css?1177427137" media="screen" rel="Stylesheet" type="text/css">
-		<link href="/stylesheets/nav.css?1177427137" media="screen" rel="Stylesheet" type="text/css">
-		<link href="http://www.pingidentity.com/about/feed" rel="alternate" title="RSS" type="application/rss+xml">
-		<script src="/javascripts/prototype.js?1177427137" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1177427137" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1177427137" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1177427137" type="text/javascript"></script>
-<script src="/javascripts/application.js?1177427137" type="text/javascript"></script>
-		<script src="/javascripts/lightbox.js?1177427137" type="text/javascript"></script>
-		<link href="/stylesheets/lightbox.css?1177427137" media="screen" rel="Stylesheet" type="text/css">
-
-		
-		  <script src="/mint/?js" type="text/javascript" language="javascript"></script>
-		
-
-		<script type="text/javascript" language="javascript">
-		// <![CDATA[
-		
-			function showNav(section){
-				if(section != 'customers' && section != 'resources'){
-					hideAll();
-					var elementToShow = 'secondary-nav-' + section;
-					Element.show(elementToShow);
-				}
-			}
-
-			function hideAll(){
-				var sections = ['products', 'support', 'partners', 'about', 'customers', 'resources'];
-				for(var i = 0; i < sections.length; i++) {
-					var elementToHide = 'secondary-nav-' + sections[i];
-					Element.hide(elementToHide);
-				}
-			}
-	
-			function hideNav(section){
-				if(section != 'about') {
-					var elementToHide = 'secondary-nav-' + section;
-					if ($(elementToHide) != undefined) {
-						Element.hide(elementToHide);
-						if('about' != 'content'){
-							showNav('about');
-						}
-					}
-			  }
-			}
-			
-			function setNav(section) {
-				var imgWidth;
-				if(section != "content" && section != 'account'){
-
-					if(section == "products") {
-						imgWidth = "-94px";
-					} else if(section == "support"){
-						imgWidth = "-162px";
-					} else if(section == "resources"){
-						imgWidth = "-154px";
-					} else if(section == "customers"){
-						imgWidth = "-96px";
-					} else if(section == "partners"){
-						imgWidth = "-87px";
-					} else if(section == "about"){
-						imgWidth = "-85px";
-					} else if(section == "blog"){
-						imgWidth = "-60px";
-					}
-		
-					var downStateImage = section + '-image';
-					var navToSet = 'secondary-nav-' + section;
-					var backgroundInfo = "url('/images/nav/btn_" + section + ".png') no-repeat " + imgWidth + " 0px;";
-					Element.setStyle(downStateImage, {background: backgroundInfo});	
-			
-					if(section != 'customers' && section != 'resources'){
-						Element.setStyle(navToSet, {display:'block'});
-						Element.addClassName(navToSet, 'secondary-nav');
-
-						if('privacy_policy' != 'index'){
-							setSecNav('privacy_policy');
-						}
-					}
-				}
-			}
-			
-			function setSecNav(currentAction) {
-				if(false){ currentAction = 'management'}
-				if(false){ currentAction = 'news_events'}
-				if(false){currentAction = 'pingfederate'}
-				if(false){currentAction= 'licensing'}
-				var navLink = currentAction + "-link";
-				Element.setStyle(navLink, {color:"#D12D33"});
-			}
-	
-		function init(){
-			setNav('about');
-		}
-		
-		window.onload = init;
-		
-		// ]]>
-		</script>
-		
-	  <title>Privacy Policy - Ping Identity Corporation</title>
-  </head>
-  <body>
-	<div class="page">
-    <div id="header">
-	<div style="margin-bottom:5px;">
-		<a href="/" style="border:0; height:40px; width:186px">
-			<img src="/images/common/PingIdentityLogo.gif" alt="Ping Identity" border="0" height="40" width="186" style="margin:20px 10px 6px 20px"></a>
-	
-	</div>
-</div>
-    <div id="primary-nav">
-	
-		<span class="primary-nav-button" onmouseover="showNav('products');" onmouseout="hideNav('products');">
-			<a id="nav-products" href="http://www.pingidentity.com/products" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Products" id="products-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-products" class="secondary-nav" style="display:none;">
-				<a href="http://www.pingidentity.com/products/pingfederate" class="nav-text-link" id="pingfederate-link" style="text-decoration:none;">PingFederate</a>
-				<a href="http://www.pingidentity.com/products/pinglogin" class="nav-text-link" id="pinglogin-link" style="text-decoration:none;">PingLogin</a>
-				<a href="http://www.pingidentity.com/products/pingtrust" class="nav-text-link" id="pingtrust-link" style="text-decoration:none;">PingTrust</a>
-			</span>
-		</span>
-		
-		<span class="primary-nav-button" onmouseover="showNav('support');" onmouseout="hideNav('support');">
-			<a id="nav-support" href="http://www.pingidentity.com/support/index" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Support and Services" id="support-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-support" class="secondary-nav" style="display:none;">
-				<a href="/support/support_form" class="nav-text-link" id="support_form-link" style="text-decoration:none;">Support Request Form</a>
-				<a href="/support/consulting_services" class="nav-text-link" id="consulting_services-link" style="text-decoration:none;">Consulting Services</a>
-				<a href="/support/production_services" class="nav-text-link" id="production_services-link" style="text-decoration:none;">Production Services</a>
-				<a href="http://www.pingidentity.com/support/licensing" class="nav-text-link" id="licensing-link" style="text-decoration:none;">Licensing</a>
-			</span>
-		</span>
-		
-		<span class="primary-nav-button">
-			<a id="nav-resources" href="http://www.pingidentity.com/resources" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Information Library" id="resources-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-resources" class="secondary-nav" style="display:none;">&nbsp;</span>
-		</span>
-		
-		<span class="primary-nav-button">
-			<a id="nav-customers" href="http://www.pingidentity.com/customers" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Customers" id="customers-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-customers" class="secondary-nav" style="display:none;">&nbsp;</span>
-		</span>
-		
-		<span class="primary-nav-button" onmouseover="showNav('partners');" onmouseout="hideNav('partners');">
-			<a id="nav-partners" href="http://www.pingidentity.com/partners" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Partners" id="partners-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-partners" class="secondary-nav" style="display:none;">
-				<a href="http://www.pingidentity.com/partners/list" class="nav-text-link" id="list-link" style="text-decoration:none;">Partner List</a>
-				<a href="http://www.pingidentity.com/partners/program" class="nav-text-link" id="program-link" style="text-decoration:none;">Partner Program</a>	
-				<a href="http://www.pingidentity.com/partners/portal" class="nav-text-link" id="portal-link" style="text-decoration:none;">Partner Portal</a>
-			</span>
-		</span>
-		
-		<span class="primary-nav-button" onmouseover="showNav('about');" onmouseout="hideNav('about');">
-			<a id="nav-about" href="http://www.pingidentity.com/about/index" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="About Us" id="about-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-about" class="secondary-nav" style="display:none;">
-				<a href="/about/news_events" class="nav-text-link" id="news_events-link" style="text-decoration:none;">News and Events</a>
-				<a href="/about/management" class="nav-text-link" id="management-link" style="text-decoration:none;">Management</a>
-				<a href="/about/values" class="nav-text-link" id="contact-link" style="text-decoration:none;">Values</a>
-				<a href="/about/careers" class="nav-text-link" id="careers-link" style="text-decoration:none;">Careers</a>
-				<a href="/about/contact" class="nav-text-link" id="contact-link" style="text-decoration:none;">Contact Us</a>
-			</span>
-		</span>
-		
-		<span class="primary-nav-button">
-			<a id="nav-blog" href="http://blog.pingidentity.com/" style="margin:0;padding:0;border:0;">
-				<img src="/images/spacer.gif" alt="Blog" id="blog-image" style="margin:0;padding:0;border:0;">
-			</a>
-			<span id="secondary-nav-blog" class="secondary-nav" style="display:none;">&nbsp;</span>
-		</span>
-		
-</div>
-
-<div id="top-space">
-	<img src="/images/spacer.gif" width="738" height="27" border="0" alt="spacer element">
-</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright Ping Identity Corporation --><!-- Page generated 2007-10-11 03:12:59 by CommonSpot Internal Build 5.0.0.479 (2007-09-17 20:00:27) --><!-- JavaScript & DHTML Code Copyright 1998-2007 PaperThin, Inc.  All rights reserved --><head>
+<title>Privacy Policy</title>
+<meta name="Description" id="Description" content="Privacy Policy">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Keywords" id="Keywords" content="">
+<meta name="Generator" id="Generator" content="CommonSpot Content Server Internal Build 5.0.0.479">
 
 
-		<div id="local-pic" class="clearfix">
-			<img src="/images/sections/AboutUs.jpg" height="105" width="738" alt="About Us">
-		</div>
+<link rel="stylesheet" href="/style/common.css" type="text/css"><style type="text/css">
+	.mw { color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none; }
+	a.mw:link	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:visited	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:hover	{color:#0000FF;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+</style>
+<script type="text/javascript">
+<!--
+	var gMenuControlID = 0;
+	var menus_included = 0;
+	var jsDlgLoader = '/loader.cfm';
+	var jsSiteID = 1;
+	var jsSubSiteID = 1;
+	var js_gvPageID = 946;
+	var jsPageID = 946;
+	var jsPageType = 0;
+	var jsControlsWithRenderHandlers = ",36,1173,1173,1173,1173,1240,1240,1240,1273,1273,1296,1296,1296,1296,1305,1305,2105,";
+	var jsDefaultRenderHandlerProps = ",2105_1,";
+	var jsAuthorizedControls = ",1,2,3,4,6,7,8,9,10,11,16,18,20,21,22,23,25,26,27,28,29,30,31,34,36,37,38,39,40,41,42,43,44,45,46,47,50,51,53,54,1173,1240,1273,1296,1305,2105,";
+	var jsCustomRenderHandlerPairs = "";
+	var jsSiteSecurityCreateControls = 0;
+	var jsShowRejectForApprover = 1;
 
-		<div class="red-rule">&nbsp;</div>
-
-    <div id="left-col">
-    	<div id="local-nav">
-			
-
-
-
-				
-      </div>
-      <div id="contact-sales">
-	        <img src="/images/common/contact-sales.png" height="175" width="139" border="0" alt="Contact Sales">
-					<div id="subscribe">
-		        <script type="text/javascript">
+	document.CS_StaticURL = "http://auth.pingidentity.com/";
+	document.CS_DynamicURL = "http://auth.pingidentity.com/";
+// -->
+</script>
+<script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script>
+<link href="/style/background.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
 	function emailFieldFocused(field)
 	{
 		field.style.color = 'black';
@@ -227,161 +56,145 @@
 		}
 	}
 </script>
-<form action="/mailers/subscribe/2" method="get">
-  <input id="email" name="email" onblur="emailFieldBlurred(this)" onfocus="emailFieldFocused(this)" style="width: 100px; margin-bottom: 5px; color: #aaaaaa" type="text" value="e-mail address..."><br>
-  <input src="/images/button_subscribe.gif?1177427137" type="image">
-</form>
-		      </div>
-	    </div>
-    </div>
 
-    <div id="content">
-      ﻿
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss">
+<link href="/style/anonymous.css" rel="stylesheet" type="text/css"></head><body lang="en" class="CS_Document"><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script><div id="cs_control_731" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_946_731"><script language="JavaScript" type="text/javascript">
+	<!--
+	function emailpage()
+	{
+		var path = "/email_page.cfm?id=946";
+		var qs = "";
+		if (qs == "")
+		{
+			url = path;
+		}
+		else
+		{
+			url = path + "&qs=" + qs;
+		}
+		popMailWindow = window.open(url, 'MailWindow', 'width=440,height=450');
+		popMailWindow.focus();
+	}
+	
+	function printThisPage()
+	{
+		var path = "/privacy-policy.cfm";
+		var qs = window.location.search;
+		var fullPath;
+		if (qs == "")
+		{
+			fullPath = path + "?RenderForPrint=1";
+		}
+		else
+		{
+			fullPath = path + qs + "&RenderForPrint=1";
+		}
+		window.location = fullPath;
+	}
+	-->
+</script></div></div>
+<a href="/" style="width: 200px;float: left;"><img src="/images/logo.gif" alt="PingIdentity" width="200" height="79" border="0" style="width: 200px; display: block;"></a>
 
-<h2>
-  Privacy Policy
-</h2>
+<div id="toolsNav"><div id="cs_control_643" class="cs_control CS_Element_ImageGrid"><table class="clsControlBorder" border="0" summary="" cellpadding="0" cellspacing="0" width="100%">
+  	<tbody><tr><td width="100%" valign="top" style="text-align:left"><div align="left"><a href="/search.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--1','/images/tools_search.gif'); return true;" onmouseover=" setStatbar('/search.cfm'); ImageSet('AIID--1','/images/tools_search-over.gif'); return true;"><img name="AIID--1" src="/images/tools_search.gif" border="0" class="CS_BBar_Image" align="top" width="75" height="14" alt="Search" title="Search"></a><br><a href="/account/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--2','/images/tools_login.gif'); return true;" onmouseover=" setStatbar('/account/index.cfm'); ImageSet('AIID--2','/images/tools_login-over.gif'); return true;"><img name="AIID--2" src="/images/tools_login.gif" border="0" class="CS_BBar_Image" align="top" width="75" height="14" alt="Log In" title="Log In"></a><br><a href="/about-us/contact-us.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--3','/images/tools_contact_us.gif'); return true;" onmouseover=" setStatbar('/about-us/contact-us.cfm'); ImageSet('AIID--3','/images/tools_contact_us-over.gif'); return true;"><img name="AIID--3" src="/images/tools_contact_us.gif" border="0" class="CS_BBar_Image" align="top" width="75" height="14" alt="Contact Us" title="Contact Us"></a><br></div></td></tr></tbody></table></div>
 
-<p>
-  Ping Identity Corporation values privacy, and we want you to have the
-  information you need to make your own decisions about your privacy. When
-  you visit or supply information to any web site, you should understand what
-  that site's privacy policies are. The Ping Identity Corporation site
-  privacy policies are explained here.
-</p>
+</div>
+<div class="clear"></div>
+<div id="cs_control_650" class="cs_control mainNav"><table class="clsControlBorder" border="0" summary="" cellpadding="0" cellspacing="0" width="100%">
+  	<tbody><tr><td width="100%" valign="top" style="text-align:left"><div align="left"><a href="/products/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--4','/images/nav_products.gif'); return true;" onmouseover=" setStatbar('/products/index.cfm'); ImageSet('AIID--4','/images/nav_products-over.gif'); return true;"><img name="AIID--4" src="/images/nav_products.gif" border="0" class="CS_BBar_Image" align="top" width="95" height="26" alt="Products" title="Products"></a><a href="/solutions/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--5','/images/nav_solutions.gif'); return true;" onmouseover=" setStatbar('/solutions/index.cfm'); ImageSet('AIID--5','/images/nav_solutions-over.gif'); return true;"><img name="AIID--5" src="/images/nav_solutions.gif" border="0" class="CS_BBar_Image" align="top" width="90" height="26" alt="Solutions" title="Solutions"></a><a href="/support-services/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--6','/images/nav_support.gif'); return true;" onmouseover=" setStatbar('/support-services/index.cfm'); ImageSet('AIID--6','/images/nav_support-over.gif'); return true;"><img name="AIID--6" src="/images/nav_support.gif" border="0" class="CS_BBar_Image" align="top" width="162" height="26" alt="Support and Services" title="Support and Services"></a><a href="/information-library/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--7','/images/nav_info_library.gif'); return true;" onmouseover=" setStatbar('/information-library/index.cfm'); ImageSet('AIID--7','/images/nav_info_library-over.gif'); return true;"><img name="AIID--7" src="/images/nav_info_library.gif" border="0" class="CS_BBar_Image" align="top" width="156" height="26" alt="Information Library" title="Information Library"></a><a href="/customers/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--8','/images/nav_customers.gif'); return true;" onmouseover=" setStatbar('/customers/index.cfm'); ImageSet('AIID--8','/images/nav_customers-over.gif'); return true;"><img name="AIID--8" src="/images/nav_customers.gif" border="0" class="CS_BBar_Image" align="top" width="97" height="26" alt="Customers" title="Customers"></a><a href="/partners/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--9','/images/nav_partners.gif'); return true;" onmouseover=" setStatbar('/partners/index.cfm'); ImageSet('AIID--9','/images/nav_partners-over.gif'); return true;"><img name="AIID--9" src="/images/nav_partners.gif" border="0" class="CS_BBar_Image" align="top" width="85" height="26" alt="Partners" title="Partners"></a><a href="/about-us/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--10','/images/nav_about_us.gif'); return true;" onmouseover=" setStatbar('/about-us/index.cfm'); ImageSet('AIID--10','/images/nav_about_us-over.gif'); return true;"><img name="AIID--10" src="/images/nav_about_us.gif" border="0" class="CS_BBar_Image" align="top" width="85" height="26" alt="About Us" title="About Us"></a><a href="/blogs/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); ImageSet('AIID--11','/images/nav_blogs.gif'); return true;" onmouseover=" setStatbar('/blogs/index.cfm'); ImageSet('AIID--11','/images/nav_blogs-over.gif'); return true;"><img name="AIID--11" src="/images/nav_blogs.gif" border="0" class="CS_BBar_Image" align="top" width="65" height="26" alt="Blogs" title="Blogs"></a></div></td></tr></tbody></table></div>
 
-<hr>
-
-<h3>
-  Collection and Notice
-</h3>
-
-<p>
-  As a visitor to this site, you can undertake many activities without
-  providing any personal information. In connection with activities that
-  require sign-in or subscription, you may be asked to provide certain
-  information about yourself such as name, and e-mail address, etc. It is
-  completely optional for you to provide this information, but you may not be
-  able to complete the activity without providing some information.
-</p>
-
-<p>
-  When you request information, or other services, we will use your email
-  address and any other information you give us to provide you with the
-  information or service you have requested, as well as contact you, until
-  you ask us to cease such activity, or until the information or service is
-  no longer available.
-</p>
-
-<p>
-  This site will automatically capture some information about your session,
-  other technical and routing information, information about your computer,
-  and the paths taken as you move through the site. We may use this
-  information to optimize your use of this web site and the design of the
-  site.
-</p>
-
-<p>
-  While Ping Identity Corporation will never sell or rent information about
-  you or your use of this site to other companies, we may at times disclose
-  parts of your information to companies with which we have a strategic
-  partnership, or to our investors. Your information may be transferred to
-  another company in connection with a merger or the sale of a substantial
-  amount or all of the assets of Ping Identity Corporation.
-</p>
-
-<p>
-  Ping Identity Corporation may use or disclose any information available to
-  it, if required to do so by law, or if necessary to conform with the
-  requirements of the law or to comply with legal process served upon us, to
-  protect or defend our legal rights, or to investigate, prevent, or take
-  legal action regarding suspected fraud, threats to physical safety, or
-  other illegal activity.
-</p>
-
-<hr>
-
-<h3>
-  Linking to Other Sites
-</h3>
-
-<p>
-  This site contains links to other sites. Unless specifically stated
-  otherwise, the collection and use of your personal information at other
-  sites, linked to pingidentity.com, are not governed by this privacy policy.
-</p>
-
-<hr>
-
-<h3>
-  Choice
-</h3>
-
-<p>
-  Ping Identity Corporation may periodically send email or other
-  communications related to this site, if you have chosen to receive them.
-  You can choose to stop receiving such communications at any time. If you do
-  not explicitly choose to receive further information from us, we will not
-  include you on distributions of information related to this site.
-</p>
-
-<hr>
-
-<h3>
-  Access
-</h3>
-
-<p>
-  To modify or delete your personal information, follow the instructions
-  included in an email you receive from us, or send a reply stating your
-  request, and we will make the requested changes.
-</p>
-
-<hr>
-
-<h3>
-  Customer Service and Recourse
-</h3>
-
-<p>
-  If you have concerns about this policy, its implementation, or other
-  related inquiries or concerns, please contact
-  <a href="mailto:%69%6e%66%6f@%70%69%6e%67%69%64%65%6e%74%69%74%79.%63%6f%6d">info@pingidentity.com</a>.
-</p>
-
-<p>
-  This Privacy Policy was posted in January 2004. Ping Identity Corporation
-  reserves the right to modify or amend this policy at any time. When this
-  policy is updated, we will post those updates on this page.
-</p>
-
-    </div>
-  </div>
-    <div id="footer">
-	<span style="float:left; margin:0 0 0 10px; padding:0;">
-		© 2003-2007 Ping Identity Corporation
-	</span>
-	<span style="float:right; margin:0 10px 0 0; padding:0;">
-		
-			<a href="http://www.pingidentity.com/account/login" class="lbOn">Sign In</a>
-    	or
-			<a href="http://www.pingidentity.com/account/register">Register</a>
-     | 
-		<a href="/about/privacy_policy">Privacy Policy</a> | 
-		<a href="/about/contact">Contact Us</a>
-	</span>
+<div id="photobar">
+	<img src="/images/photobar_about-us.jpg" alt="Ping Identity Corporation" title="Ping Identity Corporation" width="948" height="101" style="display: block;">
+	
 </div>
 
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=578&amp;ref2=elqNone&amp;tzo=0&amp;ms=324" border="0" width="1" height="1"></layer>
+<div id="leftColumnNoNav">
+	<div id="cs_control_673" class="cs_control CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Element_leftcolumnpromos">
+<div id="cs_control_933" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><div class="promoBoxLeftCol"><img alt="Contact Sales" src="/images/prombox_header_contact-sales.gif" border="0" height="26" hspace="0" vspace="0" width="145"><img src="/images/promobox_sales_info.gif" alt="undefined" border="0" height="81" hspace="0" vspace="0" width="146"></div></div></div>
 
+<a name="customcf939" id="customcf939"></a><a name="CP_JUMP_939" id="CP_JUMP_939"></a><div id="cs_control_939" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_946_939">
+	<div class="promoBoxLeftCol" style="text-align: center;">
+		<img src="/images/promobox_header_newsletter.gif" alt="" width="145" height="26">
+		<p style="margin-top: 4px;">Your e-mail address:</p>
+		<form method="post" action="/account/subscribe.cfm">
+			<input id="email" name="contact_email" onblur="emailFieldBlurred(this)" onfocus="emailFieldFocused(this)" style="width: 110px; margin-bottom: 5px; color: #aaaaaa" type="text" value="e-mail address...">
+			<input type="image" src="/images/btn_subscribe.gif" style="margin-top: 5px;">
+		</form>
+	</div>
+</div></div></div></div>
+</div>
 
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-      </script>
-      <script type="text/javascript">
-      _uacct = "UA-336669-1";
-      
-      urchinTracker();
-      </script>
+<div id="centerColumn">
+	<div id="cs_control_652" class="cs_control CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Element_centercolumn">
+<div id="cs_control_707" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><h1>Privacy Policy</h1> <p>Ping Identity Corporation values privacy, and we want you to have the information you need to make your own decisions about your privacy. When you visit or supply information to any web site, you should understand what that site's privacy policies are. The Ping Identity Corporation site privacy policies are explained here.</p> <hr> <h3>Collection and Notice</h3> <p>As a visitor to this site, you can undertake many activities without providing any personal information. In connection with activities that require sign-in or subscription, you may be asked to provide certain information about yourself such as name, and e-mail address, etc. It is completely optional for you to provide this information, but you may not be able to complete the activity without providing some information.</p> <p>When you request information, or other services, we will use your email address and any other information you give us to provide you with the information or service you have requested, as well as contact you, until you ask us to cease such activity, or until the information or service is no longer available.</p> <p>This site will automatically capture some information about your session, other technical and routing information, information about your computer, and the paths taken as you move through the site. We may use this information to optimize your use of this web site and the design of the site.</p> <p>While Ping Identity Corporation will never sell or rent information about you or your use of this site to other companies, we may at times disclose parts of your information to companies with which we have a strategic partnership, or to our investors. Your information may be transferred to another company in connection with a merger or the sale of a substantial amount or all of the assets of Ping Identity Corporation.</p> <p>Ping Identity Corporation may use or disclose any information available to it, if required to do so by law, or if necessary to conform with the requirements of the law or to comply with legal process served upon us, to protect or defend our legal rights, or to investigate, prevent, or take legal action regarding suspected fraud, threats to physical safety, or other illegal activity.</p> <hr> <h3>Linking to Other Sites</h3> <p>This site contains links to other sites. Unless specifically stated otherwise, the collection and use of your personal information at other sites, linked to pingidentity.com, are not governed by this privacy policy.</p> <hr> <h3>Choice</h3> <p>Ping Identity Corporation may periodically send email or other communications related to this site, if you have chosen to receive them. You can choose to stop receiving such communications at any time. If you do not explicitly choose to receive further information from us, we will not include you on distributions of information related to this site.</p> <hr> <h3>Access</h3> <p>To modify or delete your personal information, follow the instructions included in an email you receive from us, or send a reply stating your request, and we will make the requested changes.</p> <hr> <h3>Customer Service and Recourse</h3> <p>If you have concerns about this policy, its implementation, or other related inquiries or concerns, please contact <a href="mailto:%69%6e%66%6f@%70%69%6e%67%69%64%65%6e%74%69%74%79.%63%6f%6d">info@pingidentity.com</a>.</p> <p>This Privacy Policy was posted in January 2004. Ping Identity Corporation reserves the right to modify or amend this policy at any time. When this policy is updated, we will post those updates on this page.</p></div></div>
+</div></div>
+</div>
+<div id="rightColumn">
+	<div id="cs_control_653" class="cs_control CS_Element_Schedule"><div class="CS_Element_Schedule" title="" id="CS_Element_rightcolumn"><div id="cs_control_705" class="cs_control CS_Element_ImageGrid"><table class="clsControlBorder" border="0" summary="" cellpadding="0" cellspacing="0" width="100%">
+  	<tbody><tr><td width="100%" valign="top" style="text-align:left"><div align="left"><a href="Javascript:emailpage();" style="text-decoration:none" onmouseout=" ImageSet('AIID--25','/images/util_email.gif'); return true;" onmouseover=" ImageSet('AIID--25','/images/util_email-over.gif'); return true;"><img name="AIID--25" src="/images/util_email.gif" border="0" class="CS_BBar_Image" align="top" width="125" height="18" alt="E-mail to a friend" title="E-mail to a friend"></a><a href="javascript:printThisPage();" style="text-decoration:none" onmouseout=" ImageSet('AIID--26','/images/util_print.gif'); return true;" onmouseover=" ImageSet('AIID--26','/images/util_print-over.gif'); return true;"><img name="AIID--26" src="/images/util_print.gif" border="0" class="CS_BBar_Image" align="top" width="62" height="18" alt="Print" title="Print"></a></div></td></tr></tbody></table></div>
+</div></div>
+</div>
 
-</body></html>
+<div id="footer">
+	<div class="copyright">© 2003-2007 Ping Identity Corporation</div>
+	<div class="navMirror">
+	<div id="cs_control_1401" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_946_1401"><p class="navMirrorItems"><a href="/account/index.cfm">Sign In</a> or <a href="/account/register.cfm">Register</a> | <a href="/site-map.cfm">Site Map</a> | <a href="/privacy-policy.cfm">Privacy Policy</a></p></div></div>
+	</div>
+</div>
+<div id="cs_control_3485" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_946_3485">
+<script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js"></script>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=578&amp;ref2=elqNone&amp;tzo=0&amp;ms=393" border="0" width="1" height="1"></layer>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-336669-1";
+	 urchinTracker();
+</script>
+</div></div><div id="cs_control_742" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_946_742"></div></div><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div><script type="text/javascript">
+		<!--
+			var jsPageContributeMode = 'read';
+			var jsPageSessionContributeMode = 'read';
+			var jsPageAuthorMode = 0;
+			var jsPageEditMode = 0;
+			// build commonspot.csPage, used by entrance.js and onDocumentLoaded
+			if(!commonspot)
+				var commonspot = {};
+			commonspot.csPage = {};
+			commonspot.csPage.url = location.pathname + ((location.pathname.match(/.cfm/i)) ? '' : 'index.cfm'); // use index.cfm if no filename
+			commonspot.csPage.id = 946;
+			commonspot.csPage.title = 'Privacy Policy';
+			commonspot.csPage.subsiteRoot = '/';
+			commonspot.csPage.siteRoot = '/';
+			commonspot.csPage.mode = jsPageSessionContributeMode;
+			commonspot.csPage.authorok = 0;
+			commonspot.csPage.showContainerUI = 0;
+			commonspot.csPage.userRights = {};
+			commonspot.csPage.userRights.isLoggedIn = 0;
+			commonspot.csPage.userRights.read = 1;
+			commonspot.csPage.userRights.author = 0;
+			commonspot.csPage.userRights.edit = 0;
+			commonspot.csPage.userRights.approve = 0;
+			commonspot.csPage.userRights.history = 0;
+			commonspot.csPage.userRights.design = 0;
+			commonspot.csPage.userRights.admin = 0;
+			commonspot.csPage.userRights.subsiteAdmin = 0;
+			commonspot.csPage.userRights.siteAdmin = 0;
+			commonspot.csPage.userRights.userAdmin = 0;
+			var doLviewRedirect;
+			if(parent && parent.commonspot && parent.commonspot.lview && (!doLviewRedirect))
+			{
+				onPageArrival = function()
+				{
+					parent.commonspot.lview.currentPage.onPageArrival(commonspot.csPage.mode, commonspot.csPage.url, commonspot.csPage.id, commonspot.csPage.title, commonspot.csPage.subsiteRoot, commonspot.csPage.siteRoot);
+				};
+				onPageUnload = function()
+				{
+					parent.commonspot.lview.currentPage.onPageUnload(location.pathname + '?' + document.location.search);
+				};
+				parent.Spry.Utils.addEventListener(window, 'load', onPageArrival, false);
+				parent.Spry.Utils.addEventListener(window, 'unload', onPageUnload, false);
+			}
+		
+			
+		// -->
+		</script></body></html>
