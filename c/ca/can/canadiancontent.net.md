@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608214826id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055800id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
 
 # Canadian Content Privacy Policy
 
@@ -7,7 +7,7 @@
   
 ## Our commitment
 
-     We created this privacy policy to ensure that any information obtained from our users is kept 100% confidential. We have never released any information to outside companies and never plan to. We have strong values against SPAMMERS (see Commentary about SPAM). Any users using our forum can be assured that their email address will not be given out to anybody. **Please use this privacy policy as a guarantee of our commitment to you**. 
+We created this privacy policy as a way to confirm our commitment to your privacy. Canadian Content has a long history, and along with that, a strong record of ensuring our members do not receive any commercial emails. As described below, we outline the steps we take and the promise we make that your information will never be released to any third parties. **Please use this privacy policy as a guarantee of our commitment to you**. 
 
 ## **Information Automatically Logged**
 
