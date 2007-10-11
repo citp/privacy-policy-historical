@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629115231id_/http%3A//www.49ers.com/privacy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041522id_/http%3A//www.49ers.com/privacy/privacy_policy.php) for the most accurate reproduction.*
 
 # Official Site of the San Francisco 49ers -
 
 San Francisco 49ers Website Privacy Policy
 
-Revised policy updated as of April 28, 2006. 
+Revised policy updated as of September 2007\. 
 
-[](http://www.truste.org/ivalidate.php?url=www.49ers.com&sealid=102)This privacy policy applies to San Francisco 49ers’ website located at [sf49ers.com](http://www.sf49ers.com/) and [49ers.com](http://www.49ers.com/)  (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=102&ctv_group=49ers)This privacy policy applies to San Francisco 49ers’ website located at [sf49ers.com](http://www.sf49ers.com/) and [49ers.com](http://www.49ers.com/)  (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by J&A Partners on behalf of the San Francisco 49ers. J&A does not own any information submitted through this website and cannot use this information for its own purposes. 
 
-The San Francisco 49ers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.49ers.com](http://www.49ers.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+The San Francisco 49ers is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.49ers.com](http://www.49ers.com/) and [http://www.sf49ers.com](http://www.sf49ers.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact our Privacy Policy Coordinator at 49ersweb@niners.nfl.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -80,7 +80,7 @@ WITH WHOM THE INFORMATION MAY BE SHARED
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared: 
 
-Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include web developing, web hosting, software management, fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. 
+Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include web developing, web hosting, software management, fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, sending text messages to your phone, providing marketing assistance, processing credit card payments, provide interactive services and functions and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. 
 
 [MBNA](http://image.applyonlinenow.com/us/49ers-mx2k/mx2k.html), [Sign Up 4](http://signup4.com/), [GSI](http://www.shop49ers.com/), [RazorGator](http://49ers.razorgator.com/) and [Ticket Master](http://www.ticketmaster.com/) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the 49ers, but you are actually entering your information on these third party sites. 
 
