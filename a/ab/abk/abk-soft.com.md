@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609093019id_/http%3A//www.abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011174644id_/http%3A//www.abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Dating Scripts, Matchmaking Software - Privacy Policy - Top PHP Dating Script Buy Online Matchmaker Service Software Order Best Personals Match Making Ultimate Internet Application
 
