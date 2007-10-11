@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522193507id_/http%3A//www.studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011030215id_/http%3A//www.studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
 
 # StudentCity - Spring Break Travel Packages
 
-|  |  [](https://web.archive.org/) |  [](https://web.archive.org/cancun_promo.php) |  [](https://web.archive.org/login/new/DisplayCustomer.php) [](https://web.archive.org/login.php)  
+|  |  [](https://web.archive.org/) |  [](https://web.archive.org/hotdeals.html#2008) |  [](https://web.archive.org/login.php) [](https://web.archive.org/login.php)  
 ---|---|---  
 |  |  [](https://web.archive.org/booking_engine_b/price_trip.php) |  [](https://web.archive.org/inforeq/new/request_info.php) |  [](https://web.archive.org/events/events.php) |  [](https://web.archive.org/travelfree.php) |  [](https://web.archive.org/celeb/celebbreak.php) |  [](https://web.archive.org/gallery.php) |  [](https://web.archive.org/cooljobs.php) |  [](https://web.archive.org/paa.php?action=why) |  [](https://web.archive.org/paa.php?typeID=1)  
 ---|---|---|---|---|---|---|---|---|---  
