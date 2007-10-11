@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205194312id_/http%3A//www.winterrowd.com/HomePage/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011094712id_/http%3A//www.winterrowd.com/HomePage/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# winterrowd.com - your only stop for online pranks!
+# winterrowd.com - the best place for online pranks!
 
 Winterrowd Solutions is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Winterrowd Solutions Web site and governs data collection and usage. By using the Winterrowd Solutions website, you consent to the data practices described in this statement.
 
