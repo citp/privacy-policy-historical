@@ -1,93 +1,197 @@
-<!--The following is the downloaded HTML source of the livemetallica.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626083711id_/http%3A//www.livemetallica.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livemetallica.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011053955id_/http%3A//www.livemetallica.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>MetallicA -LIVE- Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	LiveMetallica.com | Download Live MP3 and FLAC Shows | Terms of Use
+</title><link href="/css/styles.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/images/lmet_icon.ico">
 
+<script>
 
-<script language="JavaScript">
-window.name = "harpua"
-var cURL = '%2Fprivacy%2Easp%3F'
+var cur_lyr = '30Days'
 
-function gotoLogout() {
-		document.location ='http://www.livemetallica.com/pb/login.asp?cmd=logout&fromPage=' + cURL
+function toggleBox(szDivID, iState) // 1 visible, 0 hidden
+{
+    if(document.layers)	   //NN4+
+    {
+       document.layers[szDivID].visibility = iState ? "show" : "hide";
+    }
+    else if(document.getElementById)	  //gecko(NN6) + IE 5+
+    {
+        var obj = document.getElementById(szDivID);
+        obj.style.visibility = iState ? "visible" : "hidden";
+    }
+    else if(document.all)	// IE 4
+    {
+        document.all[szDivID].style.visibility = iState ? "visible" : "hidden";
+    }
 }
 
-function gotoLogin() {
-		window.open('http://www.livemetallica.com/pb/login.asp?cmd=login&fromPage=' + cURL,'login','scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=694,height=380')
+function swapLayers(lnk,id) {
+  //doLinkClass(lnk);
+  if (cur_lyr) hideLayer(cur_lyr);
+  showLayer(id);
+  cur_lyr = id;
 }
 
-function gotoRegister() {
-		window.open('http://www.livemetallica.com/pb/register.asp?cmd=login&fromPage=' + cURL,'login','scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=694,height=380')
+function showLayer(id) {
+  var lyr = getElemRefs(id);
+  if (lyr && lyr.css) lyr.css.visibility = "visible";
 }
 
-function gotoHelp() { document.location = 'http://www.livemetallica.com/faq.asp' }
-
-function gotoShowCatalog() { document.location = 'http://www.livemetallica.com/stash.asp' }
-
-function gotoViewCart() { document.location = 'http://www.livemetallica.com/pb/nncart.asp?cnd=view' }
-
-function gotoMetallicaVaultCom() { document.location = 'http://www.livemetallica.com/vault/default.asp' }
-
-function gotoCheckOut() {
-	window.open('http://www.livemetallica.com/pb/login.asp?cmd=checkoutCart&fromPage=' + cURL,'login','scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=694,height=380')
+function hideLayer(id) {
+  var lyr = getElemRefs(id);
+  if (lyr && lyr.css) lyr.css.visibility = "hidden";
+  
 }
 
-function gotoMetallicaCom() { window.open('http://www.metallica.com') }
+function getElemRefs(id) {
+	var el = (document.getElementById)? document.getElementById(id): (document.all)? document.all[id]: (document.layers)? getLyrRef(id,document): null;
+	if (el) el.css = (el.style)? el.style: el;
+	return el;
+}
 
-function gotoMyStash() { document.location = 'http://www.livemetallica.com/pb/myaccount.asp' }
+// get reference to nested layer for ns4
+function getLyrRef(lyr,doc) {
+	if (document.layers) {
+		var theLyr;
+		for (var i=0; i<doc.layers.length; i++) {
+	  	theLyr = doc.layers[i];
+			if (theLyr.name == lyr) return theLyr;
+			else if (theLyr.document.layers.length > 0)
+	    	if ((theLyr = getLyrRef(lyr,theLyr.document)) != null)
+					return theLyr;
+	  }
+		return null;
+  }
+}
 
-function gotoHome() { document.location = 'http://www.livemetallica.com/default.asp' }
 </script>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-<link href="/style.css" rel="stylesheet" type="text/css">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>    
+<script>
+    function doSearch(searchVal,e)
+    {
+        
+//the purpose of this function is to allow the enter key to 
+//point to the correct button to click.
+        var key;
+
+         if(window.event)
+              key = window.event.keyCode;     //IE
+         else
+              key = e.which;     //firefox
+    
+        if (key == 13)
+        {
+            //alert('test');
+            //event.keyCode = 0;
+            document.location='/searchRes.aspx?searchStr=' + searchVal;
+        }
+   }
+</script>    
 </head>
+<body onload="MM_preloadImages('images/login_btn_over.gif','images/help_btn_over.gif');hideLayer('alltime');">
 
-<body bgcolor="000000" link="#FFFFFF" vlink="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="762" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td background="/images/border_l.jpg"><img src="/images/spacer.gif" width="7" height="7"></td>
-    <td background="/images/bg.jpg"> <table width="750" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-                    <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="750" height="133">
-            <param name="movie" value="/images/header.swf?Login=0">
-            <param name="quality" value="high">
-            <embed src="/images/header.swf?Login=0" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="750" height="133">
-          </object></td>
+    <div>
+<table width="760" align="center" id="container" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+  <td><table width="100%" align="left" id="utilities" cellpadding="0" cellspacing="8">
+	    	<tbody><tr>
+            	<td valign="middle" align="center"><img src="/images/spacer.gif" name="spacer" width="430" height="15" alt="" id="spacer"></td>
+   	    	  <td valign="middle" align="center">        
+   	    	  
+<a id="ctl00_cphLoginToolbar_ctl00_hlLoginLogout" href="/login.aspx?rdto=terms.aspx"><img src="/images/login_btn.gif" id="ctl00_cphLoginToolbar_ctl00_imgLoginLogout" alt="Login to Your Live Metallica Account" name="login" width="29" height="9" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('login','','/images/login_btn_over.gif',1)"></a>
+
+
+        </td>
+       		  <td valign="middle"><a href="/help.aspx"><img src="/images/help_btn.gif" alt="Get Answers to your Live Metallica Questions" name="help" width="26" height="9" border="0" id="help" onmouseover="MM_swapImage('help','','images/help_btn_over.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+   	    	  
+
+<form method="get" action="/searchRes.aspx"></form>
+<td valign="middle" align="right">
+	<input name="searchStr" id="searchStr" type="text" class="searchField">
+</td>
+<td valign="middle" align="left">
+<input type="image" src="/images/search_btn.gif" border="0">
+</td>
+
+
+          </tr>
+        </tbody></table></td>
         </tr>
-        <tr>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td>
-            <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td align="center" valign="top">
-                    <table width="686" border="0" cellspacing="0" cellpadding="0" align="center">
-                      <tbody><tr>
-                        <td align="left" valign="top" width="686" height="60">
-                          <table width="686" border="0" cellspacing="0" cellpadding="0" align="left" height="60">
-                            <tbody><tr align="left" valign="top">
-                              <td height="60" width="300"><img src="/images/privacy_head.jpg" width="300" height="60" alt="checkout"></td>
-                              <td height="60" width="386"><img src="/images/showcatalogright.jpg" width="386" height="60"></td>
-                            </tr>
-                          </tbody></table></td>
-                      </tr>
-                      <tr>
-                        <td align="center" valign="top" width="686" background="/images/bg_middle.jpg">&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td width="686" align="center" valign="top" background="/images/bg_middle.jpg" class="text"><div align="left">
-                            <table width="95%" border="0" align="center" cellpadding="0" cellspacing="5">
-                              <tbody><tr>
-                                <td class="text"> Thank you for visiting the LiveMetallica.com website. Your privacy
+
+    <tr>
+    	<td>
+        	<table width="100%" align="center" id="mainContent" cellpadding="0" cellspacing="0">
+            	<tbody><tr><td align="left"><script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','760','height','200','title','header','src','/swf/header','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/swf/header','wmode','transparent' ); //end AC code
+</script><object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="760" height="200" title="header" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="/swf/header.swf"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <embed width="760" height="200" title="header" src="/swf/header.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent" type="application/x-shockwave-flash"></object><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="760" height="200" title="header">
+                  <param name="movie" value="/swf/header.swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="transparent">
+                  <embed src="/swf/header.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="760" height="200"></embed>
+          	  </object></noscript></td></tr>
+                <tr><td align="left">
+                	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                    	<tbody><tr>
+	                		<td valign="top"><a href="http://www.livemetallica.com/default.aspx"><img src="/images/nav_home.gif" width="63" height="50" alt="Live Metallica || Home" border="0" id="nav_home"></a></td>
+    	                    <td valign="top"><a href="http://www.livemetallica.com/catalog.aspx"><img src="/images/nav_catalog.gif" width="124" height="50" alt="Live Metallica || Show Catalog" border="0" id="nav_catalog"></a></td>
+        	                <td valign="top"><a href="http://www.livemetallica.com/myDownloads.aspx"><img src="/images/nav_downloads.gif" width="137" height="50" alt="Live Metallica || My Downloads" border="0" id="nav_downloads"></a></td>
+            	            <td valign="top"><a href="http://www.metallica.com" target="_blank"><img src="/images/nav_dotcom.gif" width="136" height="50" alt="Live Metallica || Metallica.com" border="0" id="nav_dotcom"></a></td>
+                	        <td valign="top"><a href="http://www.livemetallica.com/catalog.aspx?doVault=1"><img src="/images/nav_vault.gif" width="96" height="50" alt="Live Metallica || The Vault: FREE METALLICA DOWNLOADS" border="0" id="nav_vault"></a></td>
+                    	    <td valign="top"><a href="http://www.livemetallica.com/pb/nncart.asp?cnd=view"><img src="/images/nav_cart.gif" width="108" height="50" alt="Live Metallica || Show Cart" border="0" id="nav_cart"></a></td>
+                        	<td valign="top"><a id="ctl00_ctrlMainNav_hlBuyCart" href="https://www.livemetallica.com/pb/buycart.asp?cmd=checkoutCart"><img src="/images/nav_checkout.gif" width="96" height="50" alt="Live Metallica || Checkout" border="0" id="nav_checkout"></a></td>
+	                		
+                        </tr>
+                     </tbody></table>
+	               </td>
+                </tr> 
+        
+
+                <tr>
+                	<td>
+                    	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                        	<tbody><tr>
+                            	<td valign="top">
+                                	<img src="images/ban_privacy.jpg" width="740" height="40" alt="Live Metallica || Privacy Policy"><br>
+                                	<div id="largeContentWindow">
+Thank you for visiting the LiveMetallica.com website. Your privacy
                       is important to us. To better protect your privacy, we provide
                       this notice explaining our online information practices
                       and the choices you can make about the way your information
                       is collected and used at livemetallica.com. <br>
-                      <br> <b>The Information We Collect</b><br>
+                      <br> <span class="boldType">The Information We Collect</span><br>
                       At the LiveMetallica.com website, you can order products, express
                       an opinion, subscribe to potential services such as online
                       newsletters. The types of personally identifiable information
@@ -100,6 +204,7 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       will be able to order products, programs, and services or
                       otherwise participate in the site's activities and offerings.
                       <br>
+
                       <br>
                       We also may collect certain non-personally identifiable
                       information when you visit many of our web pages such as
@@ -107,7 +212,7 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       Explorer), the type of operating system you are using, (e.g.,
                       Windows 98 or Mac OS) and the domain name of your Internet
                       service provider (e.g., America Online, Earthlink). <br>
-                      <br> <b>How We Use the Information</b><br>
+                      <br> <span class="boldType">How We Use the Information</span><br>
                       We may use the information you provide about yourself to
                       fulfill your requests for our products, programs, and services,
                       to respond to your inquiries about our offerings, and to
@@ -120,6 +225,7 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       subscriber agreements, to fulfill a request by you for an
                       online newsletter, or to contact you about your account
                       with us. <br>
+
                       <br>
                       The information we collect in connection with our website
                       is used to provide an interactive experience. We use this
@@ -139,6 +245,7 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       or a subpoena. We also may disclose such information in
                       response to a law enforcement agency's request. <br>
                       <br>
+
                       Agents and contractors of livemetallica.com who have access
                       to personally identifiable information are required to protect
                       this information in a manner that is consistent with this
@@ -157,7 +264,8 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       unrelated to the ones described above without also providing
                       you with an opportunity to opt out of these unrelated uses.
                       <br>
-                      <br> <b>Cookies</b><br>
+                      <br> <span class="boldType">Cookies</span><br>
+
                       To enhance your experience with our website, many of our
                       web pages use "cookies." Cookies are text files we place
                       in your computer's browser to store your preferences. Cookies,
@@ -174,52 +282,40 @@ function gotoHome() { document.location = 'http://www.livemetallica.com/default.
                       (e.g., to recognize you by name when you return to our site),
                       save your password in password-protected areas, and enable
                       you to use shopping carts on our website. <br>
-                      <br> <b>Our Commitment to Security</b><br>
+                      <br> <span class="boldType">Our Commitment to Security</span><br>
                       We have put in place appropriate physical, electronic, and
                       managerial procedures to safeguard and help prevent unauthorized
                       access, maintain data security, and correctly use the information
                       we collect online. <br>
-                      <br> <b> How to Contact Us</b><br>
+                      <br> <span class="boldType"> How to Contact Us</span><br>
+
                       If you have any questions or concerns about the LiveMetallica.com
                       online policy for this site or its implementation you may
                       contact us at <a href="mailto:webmaster@livemetallica.com" class="white12">webmaster@livemetallica.com
                       </a>.
-                              </td></tr>
-                            </tbody></table>
-                            <p>&nbsp; </p>
-                          </div></td>
-                      </tr>
-                      <tr>
-                        <td align="center" valign="top" width="686" background="/images/bg_middle.jpg">&nbsp;
-                        </td>
-                      </tr>
-                      <tr>
-                        <td align="left" valign="top" width="686" height="27"><img src="/images/showcatalogdown.jpg" width="686" height="27"></td>
-                      </tr>
-                    </tbody></table>
-                </td>
-              </tr>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+
+
+                <tr>
+                	<td>
+
+<div id="footer">
+	©2007 Metallica All Rights Reserved - Designed by <a href="http://www.bluesaber.com" target="_blank">Blue Saber Productions</a> - Powered by <a href="http://www.nugs.net" target="_blank">nugs.net</a><br>
+	<a id="ctl00_ctrlFooter_hlTerms" href="http://www.livemetallica.com/terms.aspx">TERMS OF USE</a> | <a id="ctl00_ctrlFooter_hlPrivacy" href="http://www.livemetallica.com/privacy.aspx">PRIVACY POLICY</a> | <a id="ctl00_ctrlFooter_hlSupport" href="http://www.livemetallica.com/support">CUSTOMER SERVICE</a><br><br>
+</div>
+ 
+        			</td>
+               </tr>
             </tbody></table>
-          </td>
-        </tr>
-        <tr>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td background="/images/bg_footer.jpg"> <table width="100%" height="26" border="0" cellpadding="0" cellspacing="5">
-              <tbody><tr>
-                <td class="text-white"><div align="center">LIVEMETALLICA.COM ©2004 Metallica all rights reserved --Design by Iventa</div></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table></td>
-    <td background="/images/border_r.jpg"><img src="/images/spacer.gif" width="7" height="7"></td>
-  </tr>
-</tbody></table>
-<p align="center" class="text-white">
-	<a class="text-orange" href="/terms.asp">TERMS OF USE</a> | <a class="text-orange" href="/privacy.asp">PRIVACY POLICY</a> | <a class="text-orange" href="/support/">CUSTOMER SERVICE</a><br>
-	<span style="line-height: 25px;">powered by <a class="text-orange" style="text-decoration:none;" href="http://www.nugs.net/about" target="_nugs">nugs.net</a></span>  
-</p>
+        </td>
+    </tr>
+</tbody></table>    
+    </div>
 
 
 </body></html>
