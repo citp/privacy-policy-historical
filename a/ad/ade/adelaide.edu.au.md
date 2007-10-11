@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606164536id_/http%3A//www.adelaide.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011030434id_/http%3A//www.adelaide.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Conditions of Use | Privacy
 
