@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625013922id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011065451id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 		<base href="http://www.jobthread.com/">
@@ -155,20 +155,8 @@ td.common-header {
 	background-image: url('partners/jobthread/images/home/header_background.gif');
 }
 
-td#welcome-top-left {
-	background-image: url('partners/jobthread/images/home/welcome_top_left.gif');
-}
-
-td#welcome-top-center {
-	background-image: url('partners/jobthread/images/home/welcome_top_center.gif');
-}
-
-td#welcome-top-right {
-	background-image: url('partners/jobthread/images/home/welcome_top_right.gif');
-}
-
-td#welcome-middle {
-	background-image: url('partners/jobthread/images/home/welcome_main.png');
+div.normal-block div.normal-block-inner-menu {
+	background-image: url('partners/jobthread/images/home/menu_background.gif');
 }
 
 			</style>
@@ -227,7 +215,9 @@ td#welcome-middle {
 					$(this).blur();
 
 					box_id = $(this).attr("id") + "-box";
+					hide_id = $(this).attr("id") + "-hide";
 
+					$("div." + hide_id).hide();
 					$("div#" + box_id).show('normal');
 				}, function(){
 					$(this).blur();
@@ -252,6 +242,7 @@ td#welcome-middle {
 		$("div.block2:not(.block2-square)").corner();
 		$("div.block2-inner").corner();
 		$("div.step-active-block-inner").corner();
+		$("div.normal-block-inner-menu").corner();
 
 		$("div.home-alt-box").each(function(){
 			coords = getCoords('page-container');
@@ -490,6 +481,13 @@ td#welcome-middle {
 _uacct = "UA-229745-1";
 urchinTracker();
 </script>
+
+	<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+	<script type="text/javascript">
+	_qacct="p-dfaywUr_Oq7jw";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-dfaywUr_Oq7jw" target="_blank"><img src="//secure.quantserve.com/pixel/p-dfaywUr_Oq7jw.gif" border="0" style="display: none" height="1" width="1"></a></noscript>
+
 
 
 </div></body></html>
