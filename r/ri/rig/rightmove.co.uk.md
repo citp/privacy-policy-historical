@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210204808id_/http%3A//www.rightmove.co.uk/privacy.rsp%3Fhpt%3Df5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011040317id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
 
 # UK Estate agents with homes, houses & property for sale on rightmove.co.uk
 
 ## Who we are
 
-'We' are Rightmove plc, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/template/publicsite%2Caboutus%2CAboutRightmove.vm).
+'We' are Rightmove plc, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/template/publicsite%2Caboutus%2CAboutRightmove.vm).
 
 ## Introduction
 
@@ -23,7 +23,7 @@ In general, we use the information we collect about you to:
 
 ## Personal information collected
 
-When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you. Finally, we may collect information about your property and the type of property you wish to purchase.
+When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this Site including your searches, the properties you look at, agents or developers you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondance that you have with us.
 
 ## Information collection and use
 
@@ -63,6 +63,8 @@ If you have consented on '[your details](http://www.rightmove.co.uk/action/Regis
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
+If we offer a service to you from the Site that is provided by a third party we may have to pass your information to them in order to deliver the service. By using such services you consent to us providing your information to the third party. We may also use third parties to provide services on our behalf which may include processing (but not using themselves) your information e.g. to complete partial addresses or to augment the information we hold about you. In either case, we will not pass your data to anyone who is not also registered with the Data Protection Act or is not subject to these or similar provisions in our contract with them and we will not allow the third party to use your information commercially without your consent.
+
 We will not otherwise disclose, sell or distribute your information to any third party without your permission unless we are required to do so by law.
 
 ## Access to, changing or removing the information we hold
@@ -81,7 +83,7 @@ Like all websites, our servers automatically record 'log files' containing infor
 
 ## Security, storage and transfer of information
 
-We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
+We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission (unless they are providing services as outlined in the ‘who was access to your information’ section above) and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access. If we are working with third parties we will require them to have in place similar measures to protect your information.
 
 All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' page.
 
