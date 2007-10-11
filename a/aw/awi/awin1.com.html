@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awin1.com privacy policy that was archived on 2006-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061221122135id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awin1.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011062704id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Affiliate Network - Affiliate Window</title>
@@ -13,18 +13,7 @@ productsEnabled = ""
 </script>
 <script language="javascript" type="text/javascript">
 
-
-//Clear categories multiselect
-function DeselectAllList(CONTROL)
-{
-	for(var i = 0;i < CONTROL.length;i++)
-	{
-		CONTROL.options[i].selected = false;
-	}
-}
-
-
-
+// affiliates/general_merchant_report_form.inc.php only
 function unselectCategories(flag)
 {
 	for (var i = 0; i<document.getElementById('categories[]').length; i++)
@@ -38,11 +27,77 @@ function unselectCategories(flag)
 			document.getElementById('categories[]').options[i].selected=true;
 		}
 	}
+}
 
+// affiliates/general_merchant_report_form.inc.php only
+var arrOldValues;
+function GetCurrentListValues(CONTROL)
+{
+	var strValues = "";
+	strValues = GetSelectValues(CONTROL);
+	arrOldValues = strValues.split(",")
 }
 
 
+function GetSelectValues(CONTROL)
+{
+	var strTemp = "";
+	for(var i = 0;i < CONTROL.length;i++)
+	{
+		if(CONTROL.options[i].selected == true)
+		{
+			strTemp += "1,";
+		}
+		else
+		{
+			strTemp += "0,";
+		}
+	}
+	return strTemp;
+}
 
+//Following mimics the function explode in php
+function explode(inputstring, separators, includeEmpties) 
+{
+	inputstring = new String(inputstring);
+	separators = new String(separators);
+	
+	if(separators == "undefined") 
+	{
+		separators = " :;";
+	}
+	
+	fixedExplode = new Array(1);
+	currentElement = "";
+	count = 0;
+	
+	for(x=0; x < inputstring.length; x++) 
+	{
+		char = inputstring.charAt(x);
+		if(separators.indexOf(char) != -1) 
+		{
+			if ( ( (includeEmpties <= 0) || (includeEmpties == false)) && (currentElement == "")) { }
+			else 
+			{
+			fixedExplode[count] = currentElement;
+			count++;
+			currentElement = ""; 
+			} 
+		}
+		else { currentElement += char; }
+		
+		//document.write(currentElement+ " is brokenstring output<br />")
+	}
+	
+	if (( ! (includeEmpties <= 0) && (includeEmpties != false)) || (currentElement != "")) 
+	{
+		fixedExplode[count] = currentElement; 
+	}
+	return fixedExplode;
+}
+
+
+// all affiliate reports
 function unselectMerchants(flag)
 {
 	for (var i = 0; i<document.getElementById('merchants[]').length; i++)
@@ -60,9 +115,7 @@ function unselectMerchants(flag)
 }
 
 
-
-
-
+// all affiliate reports
 //Used by affiliate report pages via print preview pages.
 function printPage()
 {
@@ -403,7 +456,7 @@ function showGlobal(lname,showMyNum,hideMyNum)
 </script>
 <link rel="stylesheet" href="/css/brochure.css" type="text/css">
 </head>
-<body>
+<body id="body">
 <div id="frame">
 	<div id="contentheader"><a href="/"><img src="/images/logo_brochure.gif" alt="Affiliate Window" title="Affiliate Window"></a>
 				</div>
@@ -454,43 +507,66 @@ function showGlobal(lname,showMyNum,hideMyNum)
 	
 	<div id="mainmenu">
 	<ul>
-		<li>+ <a href="/index.php">Home</a></li>
-		<li>+ <a href="/explore.php">Explore</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/index.php">Home</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/explore.php">Explore</a></li>
 		<ul>
-				<li><a href="/new_frontier.php">The New Frontier</a></li>
-				<li><a href="/natural_performer.php">Natural Performer</a></li>
-				<li><a href="/affiliate_marketing.php">Affiliate Marketing</a></li>
-				<li><a href="/how_it_works.php">How does it work?</a></li>
-				<li><a href="/network.php">The network</a></li>
+				<li><a href="http://www.affiliatewindow.com/new_frontier.php">The New Frontier</a></li>
+				<li><a href="http://www.affiliatewindow.com/natural_performer.php">Natural Performer</a></li>
+				<li><a href="http://www.affiliatewindow.com/affiliate_marketing.php">Affiliate Marketing</a></li>
+				<li><a href="http://www.affiliatewindow.com/how_it_works.php">How does it work?</a></li>
+				<li><a href="http://www.affiliatewindow.com/network.php">The network</a></li>
 			</ul>
 	
-		<li>+ <a href="/our_merchants.php">Our clients</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/our_merchants.php">Our clients</a></li>
 		<li>+ Testimonials</li>
 			<ul>
-				<li><a href="/testimonials_responsive.php">Responsive</a></li>
-				<li><a href="/testimonials_performer.php">Natural Performer</a></li>
-				<li><a href="/testimonials_flexible.php">Flexible</a></li>
-				<li><a href="/testimonials_protection.php">Protection</a></li>
+				<li><a href="http://www.affiliatewindow.com/testimonials_responsive.php">Responsive</a></li>
+				<li><a href="http://www.affiliatewindow.com/testimonials_performer.php">Natural Performer</a></li>
+				<li><a href="http://www.affiliatewindow.com/testimonials_flexible.php">Flexible</a></li>
+				<li><a href="http://www.affiliatewindow.com/testimonials_protection.php">Protection</a></li>
 			</ul>
 		<li>+ Technology for Winners</li>
 			<ul>
-				<li><a href="technology_reporting.php">Reporting</a></li>
-				<li><a href="technology_innovation.php">Innovation</a></li>
+				<li><a href="http://www.affiliatewindow.com/technology_reporting.php">Reporting</a></li>
+				<li><a href="http://www.affiliatewindow.com/technology_innovation.php">Innovation</a></li>
 			</ul>
 		
-		<li>+ <a href="/merchants.php">Become a merchant</a></li>
-		<li>+ <a href="/affiliates.php">Become an affiliate</a></li>
-		<li>+ <a href="/about_us.php">The Team</a></li>
-		<li>+ <a href="/jobs.php">Employment</a></li>
-		<li>+ <a href="/contact_us.php">Contact us</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/merchants.php">Become a merchant</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/affiliates.php">Become an affiliate</a></li>
+			<ul>
+				<li><a href="http://www.affiliatewindow.com/signup/index.php">Signup</a></li>
+			</ul>
+		<li>+ <a href="http://www.affiliatewindow.com/about_us.php">The Team</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/jobs.php">Employment</a></li>
+		<li>+ <a href="http://www.affiliatewindow.com/contact_us.php">Contact us</a></li>
 	</ul>
-</div>	
+</div>
+	
 				<div id="contentfooter">
-				<span id="copyright">©1999 - 2006&nbsp;Digital Window Ltd </span>
+				<span id="copyright">©1999 - 2007&nbsp;Digital Window Ltd </span>
 				<span id="privacy"><a href="/privacy.php">Privacy</a>&nbsp;|&nbsp;<a href="/site_map.php">Site map</a></span>
 			</div>
 		</div>
 
+
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1462819-1";
+urchinTracker();
+</script>
+
+<script type="text/javascript" src="https://www.metricswindow.com/t/js/tracking.js"></script>
+<script type="text/javascript">
+
+_dw_iMerchantID = 1001;
+_dw_sCookieDomain = '.affiliatewindow.com';
+_dw_trackRequest();
+
+</script>
+
 	
+
 
 </body></html>
