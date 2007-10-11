@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
 
 # Kings of Chaos :: Massively Multiplayer Online Role Playing Game
 
-Bored? Play [Flash Games](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/flashgames.php)
+Bored? Play [Flash Games](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/flashgames.php)
 
 [](http://www.spreadfirefox.com/?q=affiliates&id=8415&t=71)  
 
@@ -97,8 +97,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:%61%64%6d%69%6e%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d). 
 
-[Report Spam](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/privacy.php) | [Advertising](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/advertising.php) | [Business Queries](mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d) | [Terms of Service](https://web.archive.org/web/20070629235559id_/http%3A//www.kingsofchaos.com/tos.php)
+[Report Spam](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/privacy.php) | [Advertising](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/advertising.php) | [Business Queries](mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d) | [Terms of Service](https://web.archive.org/web/20071011055546id_/http%3A//www.kingsofchaos.com/tos.php)
 
-Created by Rocco, Ben, Aman, and Nick  
-_Copyright © 2003-2006 Kings of Chaos, LLC. All rights reserved._  
+_Copyright © 2003-2007 Kings of Chaos, LLC. All rights reserved._  
 
