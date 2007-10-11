@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623061952id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011151018id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -88,4 +88,8 @@ _July 1, 2002:_ Document language finalized and published.
 
 _November 23, 2004_ Document amended.
 
-|  |  |  |    |  |  |  |  |  | 
+|  |  |  |    |  |  |  | 
+
+[](https://web.archive.org/ad/click2.mhtml?ad_name=greenguidance)
+
+|  | 
