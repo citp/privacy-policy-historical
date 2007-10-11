@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626160825id_/http%3A//www.superdrug.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011064912id_/http%3A//www.superdrug.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Superdrug - Privacy Policy
 
