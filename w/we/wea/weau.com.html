@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weau.com privacy policy that was archived on 2007-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070207104314id_/http%3A//www.weau.com/unclassified/647.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weau.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011030632id_/http%3A//www.weau.com/unclassified/647.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -10,11 +10,20 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=647";_qc+="&7=64907";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=647&7=64907&18=0.12261414112805735">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=647&7=64907&18=0.05378018900091541">
 </noscript>
 
                
 <title>WEAU - HomePage </title>
+<style>
+#cont {text-align:left; position:relative;width:98%;height:175px; overflow:hidden; padding:3px}
+.news {position:absolute;top:0px;left:0px;width:94%;height:175px;visibility:hidden;text-align:left}
+.storyOn {width:15px; border:thin solid black 1px;padding:0px; text-align:center;background-color:red;color:white;}
+.storyOff {width:15px; border:thin solid black 1px;padding:0px; text-align:center;background-color:white;color:red;}
+.storyLinkOn {text-decoration:none; font-family:arial;font-weight:bold;font-size:10pt;color:#ffffff}
+.storyLinkOff {text-decoration:none; font-family:arial;font-weight:bold;font-size:10pt;color:#000000}
+</style>
+
  <link rel="stylesheet" href="http://www.weau.com/includes/weau" type="text/css"> 
 
 <script type="text/javascript"><!--
@@ -45,6 +54,9 @@ return false;
 }
 //-->
 </script>
+
+
+
 <script language="JavaScript">
 function apvDwd(pid,title,pl,t) {
 if(!pl) {pl='';}
@@ -62,9 +74,68 @@ var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+t
                <script src="http://content.worldnow.com/global/tools/video/VideoFunctions.js?ver=3" type="text/javascript" language="javascript1.3"></script>
 
 
+<script type="text/javascript">
+<!--
+
+function playClip(videoPlayeId, clipId) {
+  playerObj = document.getElementById(videoPlayeId);
+	if (playerObj && clipId != '') {
+    var playerObjSrc = String(playerObj.src);
+    // set the clip id
+    if(playerObjSrc.indexOf('clipId') == -1) {
+//alert('no clipId');
+      playerObj.src += '&clipId=' + clipId;
+    } else {
+//alert('has clipId');
+      playerObj.src = playerObj.src.replace(/clipId=\d+/, 'clipId=' + clipId);       
+    }  
+    // set audo play
+    if(playerObjSrc.indexOf('autoStart') == -1) {
+      playerObj.src += '&autoStart=true';
+    } else {
+      playerObj.src = playerObj.src.replace(/autoStart=false/, 'autoStart=true');       
+    }      
+  } else {
+	  // nothing will happen if the browser cannot create the video player iframe object
+//    alert('no video player available');
+  }
+}
+
+// -->
+</script>
+<script type="text/javascript">
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=670,height=640,scrollbars=yes');
+return false;
+}
+//-->
+</script>
+<script type="text/javascript"><!--
+var active ='init'; 
+function ShowLayer(id) { 
+if (document.all) { document.all[active].style.visibility = "hidden"; } 
+if(document.layers){ document.layers[active].visibility = "hide";} 
+if(document.getElementById) {document.getElementById(active).style.visibility='hidden';} 
+active = id; 
+if (document.all) { document.all[active].style.visibility = "visible";} 
+if(document.layers) { document.layers[active].visibility = "show" ;} 
+if(document.getElementById) {document.getElementById(active).style.visibility='visible';} 
+}
+//-->
+</script>
 
 
-          <script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=6500&m=1737&d=64907&p=911&p=422&p=97&p=11&p=6&p=1316&p=1311"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.30581141058975136&amp;c=6500&amp;m=1737&amp;d=64907&amp;p=911&amp;p=422&amp;p=97&amp;p=11&amp;p=6&amp;p=1316&amp;p=1311"></script>
+
+
+          <script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=6500&m=1737&d=64907&p=911&p=422&p=97&p=11&p=6&p=1316&p=1311"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.6146761138868795&amp;c=6500&amp;m=1737&amp;d=64907&amp;p=911&amp;p=422&amp;p=97&amp;p=11&amp;p=6&amp;p=1316&amp;p=1311"></script>
                               
                
                <script language="Javascript" type="text/javascript">
@@ -230,19 +301,26 @@ menu1[2]='<a target=_parent href="/sunrise">news 13 sunrise</a>'
 menu1[3]='<a target=_parent href="/newscenter13today">news 13 today</a>'
 menu1[4]='<a target=_parent href="/news13noonand5">news 13 noon & 5</a>'
 menu1[5]='<a target=_parent href="/wijournal">wi journal</a>'
-menu1[6]='<a target=_parent href="/enews">e-news</a>'
+menu1[6]='<a target=_parent href="/technology">technology spot</a>'
+menu1[7]='<a target=_parent href="/enews">e-news</a>'
 var menu2=new Array()
 menu2[2]='<a target=_parent href="/localweather">community weather</a>'
-menu2[3]='<a target=_parent href="/skycamnetwork">skycam</a>'
-menu2[4]='<a target=_blank href="http://gray.ftp.clickability.com/weauwebftp/wx1_lg.jpg">radar</a>'
-menu2[5]='<a target=_parent href="/wxnotebook">Weather Notebook</a>'
+menu2[3]='<a target=_blank href="http://gray.ftp.clickability.com/weauwebftp/wx1_lg.jpg">radar</a>'
+menu2[4]='<a target=_parent href="/skycamnetwork">skycam network</a>'
+menu2[5]='<a target=_parent href="/sunrisepix">sunrise pix</a>'
+menu2[6]='<a target=_parent href="/wxcheck">weather check</a>'
+menu2[7]='<a target=_parent href="/wxnotebook">weather notebook</a>'
 var menu3=new Array()
-menu3[2]='<a target=_parent href="/lottery">lottery</a>'
-menu3[3]='<a target=_parent href="/entertainment">entertainment</a>'
-menu3[4]='<a target=_parent href="/home/misc/593842.html">wisconsin</a>'
-menu3[5]='<a target=_parent href="/unclassified/590347.html">desktop alert</a>'
-menu3[6]='<a target=_parent href="http://www.mobile13now.com/wireless/signup.cfm?sid=108">mobile 13 now</a>'
-menu3[7]='<a target=_parent href="http://www.weau.com/bragboard">Brag Board</a>'
+menu3[2]='<a target=_parent href="http://www.weau.com/bragboard">brag board</a>'
+menu3[3]='<a target=_parent href="/unclassified/590347.html">desktop alert</a>'
+menu3[4]='<a target=_parent href="/doubledollardeals">double dollar</a>'
+menu3[5]='<a target=_parent href="/entertainment">entertainment</a>'
+menu3[6]='<a target=_parent href="/lottery">lottery</a>'
+menu3[7]='<a target=_parent href="http://www.mobile13now.com/wireless/signup.cfm?sid=108">mobile 13 now</a>'
+menu3[8]='<a target=_parent href="/money">money</a>'
+menu3[9]='<a target=_parent href="/ourtown">our town</a>'
+menu3[10]='<a target=_parent href="/station">station</a>'
+menu3[11]='<a target=_parent href="/home/misc/593842.html">wisconsin</a>'
 var menuwidth='165px' //default menu width
 var menubgcolor='lightyellow'  //menu bgcolor
 var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -368,22 +446,27 @@ clearTimeout(delayhide)
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
 
-</script></head><body onload="  drawGoogleMap(); "><div id="dropmenudiv" style="visibility:hidden;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 
 
 
 
 
 
-<div style="text-align:center; width:986px; padding-bottom:2px;"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top of Page Banner']){ document.write(plpm['Top of Page Banner']);} else {  if(self['plurp'] && plurp['1516']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1516&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.8488174118510152&amp;p=1516&amp;c=6500&amp;m=1737&amp;d=64907"></script></div>
+
+
+
+
+<div id="pageContainer">
+<div style="text-align:center; width:986px; padding-bottom:2px;"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top of Page Banner']){ document.write(plpm['Top of Page Banner']);} else {  if(self['plurp'] && plurp['1516']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1516&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7910206439319678&amp;p=1516&amp;c=6500&amp;m=1737&amp;d=64907"></script></div>
 
 <table width="986" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
 <div id="headerContainer">
-<div id="primeLeft"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileLeft']){ document.write(plpm['primetileLeft']);} else {  if(self['plurp'] && plurp['1316']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1316&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.40833856282149483&amp;p=1316&amp;c=6500&amp;m=1737&amp;d=64907"></script>
-<div id="mainheader"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Header (980 Wide)']){ document.write(plpm['Header (980 Wide)']);} else {  if(self['plurp'] && plurp['911']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=911&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.3927570851889679&amp;p=911&amp;c=6500&amp;m=1737&amp;d=64907"></script>
-<div id="primeRight"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileRight']){ document.write(plpm['primetileRight']);} else {  if(self['plurp'] && plurp['1311']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1311&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.010469201882592039&amp;p=1311&amp;c=6500&amp;m=1737&amp;d=64907"></script>
+<div id="primeLeft"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileLeft']){ document.write(plpm['primetileLeft']);} else {  if(self['plurp'] && plurp['1316']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1316&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.459934355898423&amp;p=1316&amp;c=6500&amp;m=1737&amp;d=64907"></script>
+<div id="mainheader"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Header (980 Wide)']){ document.write(plpm['Header (980 Wide)']);} else {  if(self['plurp'] && plurp['911']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=911&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.05566735557712321&amp;p=911&amp;c=6500&amp;m=1737&amp;d=64907"></script>
+<div id="primeRight"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileRight']){ document.write(plpm['primetileRight']);} else {  if(self['plurp'] && plurp['1311']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1311&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6408857203795038&amp;p=1311&amp;c=6500&amp;m=1737&amp;d=64907"></script>
 </div></div></div></div>
 
 </td>
@@ -394,92 +477,39 @@ document.onclick=hidemenu
 <table border="0" cellpadding="0" width="980" cellspacing="0">
   <tbody><tr> 
 	<td class="searchBar" width="395" height="25">
-<script language="javascript" type="text/javascript">
-<!--
-    function IsBlankField(field){
-	var j = 0;
-	var chr;
-	for(j; j < field.length; j++){
-	    chr = field.charAt(j);
-	    if(chr != "" && chr != " " && chr != "n" && chr != "t"){
-		return false;
-	    }
-	}
-	return true;
-    }
-    function SendTo(id){
-        //shortening form elements
-        var myForm      = document.getElementById('myForm');
-        var txtSearch   = document.getElementById('wrdSearch');
-	var srchURL;    // this variable will hold the URL of the search engine to be used
-        var srchVar;    // this variable will hold the value of the text field 'name' which will hold the string to be searched 
-        if(IsBlankField(txtSearch.value)){
-            //if the form doesn't validate, send this alert
-            alert("there's nothing to search for!");
-        } else{
-            if(id == "google"){
-		srchURL = "http://www.google.com/search";
-		srchVar = "q";
-            } else if(id == "WEAU"){
-		srchURL = "/searchresults";
-		srchVar = "searchKeywords";
-            } else{
-		srchURL = "http://search.yahoo.com/search";
-		srchVar = "p";
-            }
-            //adding the attribute name and values to the form and text field elements
-	    myForm.setAttribute("action", srchURL);
-	    txtSearch.setAttribute("name", srchVar);
-	    myForm.setAttribute("target", "_parent"); //this, of course, will open a new browser window
-	    myForm.setAttribute("method", "get");
+<form name="myForm" id="myForm" class="frm" action="/searchresults?dateRange=60" method="get">
+    <input class="btn" type="text" name="searchKeywords" size="25">
+    <input type="hidden" name="dateRange" value="60">
+    <input class="btn" type="submit" value="Search">
 
-            myForm.submit();           
+&nbsp;&nbsp;<span class="timestamp">Oct 10, 2007</span>&nbsp;&nbsp;
+<span class="timestamp"><a href="/rss"><img align="bottom" border="0" src="http://media.graytvinc.com/images/rss.gif" hspace="3"></a></span><a href="/rss">
 
-        }
-    }
-//-->
-</script>
-
-<form name="myForm" id="myForm" class="frm">
-   <input class="btn" type="text" id="wrdSearch" value="Search" size="20">
-    <input class="btn" type="button" name="WEAU" id="WEAU" value="WEAU" onclick="SendTo(this.id)">
-    <input class="btn" type="button" name="google" id="google" value="Google" onclick="SendTo(this.id)">
-    <a class="timestamp">Feb 07, 2007</a>
-	<a href="/rss"><img border="0" align="center" src="http://media.graytvinc.com/images/rss.gif" hspace="3"></a>
-    <span style="cursor:hand; color:blue; text-decoration:underline" onclick="this.style.behavior='url(#default#homepage)';
-this.setHomePage('www.weau.com');">
-<img align="center" src="http://media.graytvinc.com/designimages/saveHome.gif" hspace="2" alt="Make WEAU your Homepage">
-</span> 
-
-</form>
-	</td>
-																						<td width="590" class="topNav" align="left" style="text-align:right; padding-right:3px">
-										<a target="_parent" class="topNav" href="/news">news</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weather">weather</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/sports">sports</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/community">community</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/jobsearch">job board</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/links">featured links</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/station">station/bios</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weauhdtv">HDTV</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/programming">what's on</a>			</td>
+</a></form></td>
+																						<td width="596" class="topNav" align="left" style="text-align:right; padding-right:3px">
+										<a target="_parent" class="topNav" href="/news">news</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weather">weather</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/sports">sports</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/community">community</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/jobsearch">job board</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/restaurants">restaurants</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/station">station/bios</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weauhdtv">HDTV</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/programming">what's on</a>			</td>
  </tr>
 </tbody></table>
 <table border="0" cellpadding="0" width="980" cellspacing="0">
   <tbody><tr> 
 	<td class="pullDown" width="325" height="25">
 
-<a class="pullDown" href="/news" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">news casts</a>&nbsp;·&nbsp;
-
-<a class="pullDown" href="/weather" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">more weather</a>&nbsp;·&nbsp;
-
+<a class="pullDown" href="/news" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">newscasts</a> &nbsp;·&nbsp; 
+<a class="pullDown" href="/weather" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">more weather</a> &nbsp;·&nbsp; 
 <a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">more info</a>
-
 	</td>
 
 																																	<td width="655" class="bottomNav" style="text-align:right; padding-right:3px">
 				
-			<a target="_parent" class="bottomNav" href="/myweau">myweau.com</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/closings">closings</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/medical">medical</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/elections">elections</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/recipes">recipes</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/keepitlocal">keep it local</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/skiingconditions">ski conditions</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/bragboard">big buck</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/ourtown">our town</a><a>			</a></td>
+			<a target="_parent" class="bottomNav" href="/doubledollardeals">double dollar deals</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/closings">closings</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/medical">medical</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/elections">elections</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/recipes">recipes</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/autos">autos</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/links">featured links</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/skiingconditions">ski conditions</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/">home</a>			</td>
 	</tr>
 </tbody></table>
 </div>
@@ -495,73 +525,134 @@ this.setHomePage('www.weau.com');">
 
 
 <div>
-	  					<table width="983" cellpadding="2" cellspacing="2" border="0">
-				<tbody><tr>
- 					<td class="marquee"><marquee scrollamount="3" scrolldelay="5">From SkyWarn 13 Weather... A WIND CHILL ADVISORY is in effect for WOOD COUNTY until WEDNESDAY at 9:00 AM.   If you must go outdoors, be sure to cover all exposed skin, as frostbite can occur in as little as 15 minutes under these conditions.</marquee></td>
-				</tr>
-			</tbody></table>
-			<!-- content ID: 647   false -->
+<span id="nointelliTXT">
+           
+     </span>
+<!-- content ID: 647   false -->
 
-<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Full Wide Banner']) document.write('<div align=center><table><tr><td>');if (self['plpm'] && plpm['Full Wide Banner']){ document.write(plpm['Full Wide Banner']);} else {  if(self['plurp'] && plurp['1376']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1376&c=6500&m=1737&d=64907&pre=%3Cdiv+align%3Dcenter%3E%3Ctable%3E%3Ctr%3E%3Ctd%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Full Wide Banner']) document.write('</td></tr></table></div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.20008247618999375&amp;p=1376&amp;c=6500&amp;m=1737&amp;d=64907&amp;pre=%3Cdiv+align%3Dcenter%3E%3Ctable%3E%3Ctr%3E%3Ctd%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3C%2Fdiv%3E"></script>
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Full Wide Banner']) document.write('<table width=100%><tr><td width=100% style=\'text-align:center\'>');if (self['plpm'] && plpm['Full Wide Banner']){ document.write(plpm['Full Wide Banner']);} else {  if(self['plurp'] && plurp['1376']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1376&c=6500&m=1737&d=64907&pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Full Wide Banner']) document.write('</td></tr></table>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.9391391101384645&amp;p=1376&amp;c=6500&amp;m=1737&amp;d=64907&amp;pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></script>
 
-<table width="980" cellpadding="0" cellspacing="0" border="0">
+
+    
+<table width="986" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<!-- Start Left Column: 208  -->
 		<td width="208" valign="top" style="padding-right:2px">
-								 				 	
+												 						 		
 
 
+		
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=4634511">
-								<a href="javascript:playVideo('1218051', 'SkyWarn 13 Weather (2/6)', 'v', 'Weather', '64267', 'Weather', 'fvCatNo=&amp;backgroundImageURL=', 'ww2.WEAU.com');"><b><font style="FONT-FAMILY:Arial, Helvetica, Sans-serif;FONT-SIZE:12;COLOR:#262D63;TEXT-DECORATION:UNDERLINE;"><img border="0" src="http://media.graytvinc.com/images/skywarnwebcastleft_weau.jpg"></font></b></a><b><font style="FONT-FAMILY:Arial, Helvetica, Sans-serif;FONT-SIZE:12;COLOR:#262D63;TEXT-DECORATION:UNDERLINE;">
-							</font></b></div><b><font style="FONT-FAMILY:Arial, Helvetica, Sans-serif;FONT-SIZE:12;COLOR:#262D63;TEXT-DECORATION:UNDERLINE;">
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7107386">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fdoubledollardeals&amp;41=DDD-TileNEW_weau.jpg&amp;18=0.4406470950133855"><img src="http://media.graytvinc.com/images/DDD-TileNEW_weau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
 			
-			 				 	
+
+			 						 		
 
 
+		
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=5344286">
-								<a href='javascript:playLiveVideo("mms://a1010.l1178232635.c11782.g.lm.akamaistream.net/D/1010/11782/v0001/reflector:32635", "Live Stream","Hard News","ww2.weau.com");'><img border="0" src="http://media.graytvinc.com/images/today-tile-small_weau.gif"></a>
-							</div>
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9740102">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Ftechnology&amp;41=techshowtile_weau.jpg&amp;18=0.5300785192134086"><img src="http://media.graytvinc.com/images/techshowtile_weau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
 			
-			 				 	
+
+			 						 		
 
 
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=10386057">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fmilitary%2Fmisc%2F10385927.html&amp;41=UnSungHeroestile_weau.jpg&amp;18=0.34171673205789765"><img src="http://media.graytvinc.com/images/UnSungHeroestile_weau.jpg" width="208" height="53" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=10385562">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fcontest%2Fmisc%2F10385347.html&amp;41=Overtheriverleftweau.jpg&amp;18=0.3289109583533987"><img src="http://media.graytvinc.com/images/Overtheriverleftweau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=10115101">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fmedical_moments&amp;41=left-Medical-tile_weau.jpg&amp;18=0.378647233136974"><img src="http://media.graytvinc.com/images/left-Medical-tile_weau.jpg" width="208" height="49" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9832562">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fsunrise%2Fmisc%2F4224881.html&amp;41=cookbookLefttile_weau.jpg&amp;18=0.5644785634204899"><img src="http://media.graytvinc.com/images/cookbookLefttile_weau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9785917">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fmoney%2Fmisc%2F9760317.html&amp;41=WEAU_Lottery_208x60.gif&amp;18=0.7882696226309742" target="_blank"><img src="http://media.graytvinc.com/images/WEAU_Lottery_208x60.gif" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6845222">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Funclassified%2F590347.html&amp;41=Desktop-Alertsmleft_weau.jpg&amp;18=0.7813914330031485"><img src="http://media.graytvinc.com/images/Desktop-Alertsmleft_weau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+
+		
 
  						<div align="center" style="padding-bottom:3px" ondblclick="window.status=4652711">
-				                                                                <a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.mobile13now.com%2Fwireless%2Fsignup.cfm%3Fsid%3D108&amp;41=Mobile13_weau.jpg&amp;18=0.8965245998301271"><img src="http://media.graytvinc.com/images/Mobile13_weau.jpg" width="208" height="70" alt="" title="" border="0"></a>
-                                  							</div>
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.mobile13now.com%2Fwireless%2Fsignup.cfm%3Fsid%3D108&amp;41=Mobile13leftsm_weau.jpg&amp;18=0.08121382926355503"><img src="http://media.graytvinc.com/images/Mobile13leftsm_weau.jpg" width="208" height="50" alt="" title="" border="0"></a>
+                    							</div>
 			
-			 				 	
+
+			 						 		
 
 
+		
 
- 									<div style="border: 1px solid ; margin-bottom:3px">
-							<table width="208" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ 										<div style="border: 1px solid ; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
 										<tbody><tr>
-						<td width="208" class="header" ondblclick="window.status=4639941">SkyWarn Doppler Radar</td>
+						<td width="100%" class="header" ondblclick="window.status=4639941">SkyWarn Doppler Radar</td>
 					</tr>
 										<tr>
-                    																					<td class="headlines" style="padding:3px">
+                    																					<td class="headlines" style="padding:2px">
 																											<center><a href="http://gray.ftp.clickability.com/weauwebftp/wx1_lg.jpg" onclick="return popup(this, 'still')"><img src="http://gray.ftp.clickability.com/weauwebftp/wx1_sm.jpg" border="0" width="200"></a></center>
 																			</td>
 					</tr>
 				</tbody></table>
 			</div>
 			
-			 				 	
+
+			 						 		
 
 
+		
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=4818791">
-				                                                                <img src="http://media.graytvinc.com/images/TBM_Feb07_200x90-animated.gif" width="200" height="90" alt="" title="" border="0">
-                                  							</div>
-			
-			 				 	
-
-
-
-	      		<div ondblclick="window.status=4710621" style="border: 1px solid ; margin-bottom:3px">
+	      		<div ondblclick="window.status=4710621" style="border: 1px solid ; margin-bottom:3px;">
 		<table width="208" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
 	<tbody><tr>
 		<td class="header" id="search">Search</td>
@@ -569,7 +660,7 @@ this.setHomePage('www.weau.com');">
 		<tr>
 		<td class="title" style="padding:5px; text-align:center">
 			<form action="#search" method="get">
-			Search WEAU - HomePage for:<br>
+			Search  WEAU - HomePage  for:<br>
 			<input type="text" name="keyword"><br>
 				<input type="submit" value="Search">
 			</form>
@@ -580,25 +671,93 @@ this.setHomePage('www.weau.com');">
 
 		</div>
       	
-			 						</font></b></td>
-<!-- END LEFT COLUMN  -->
 
-		<!-- Start Middle Column: 470  -->
+			 											</td>
+	<!-- END LEFT COLUMN  -->
+
+	<!-- Start Middle Column: 470  -->
+
 		<td width="470" valign="top" style="padding-right:2px">
-									<div style="border: 1px solid ; margin-bottom:3px">
-							
-		
+									<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top Banner']) document.write('<table width=100%><tr><td width=100% style=\'text-align:center\'>');if (self['plpm'] && plpm['Top Banner']){ document.write(plpm['Top Banner']);} else {  if(self['plurp'] && plurp['6']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=6&c=6500&m=1737&d=64907&pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Top Banner']) document.write('</td></tr></table>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.8140775551481887&amp;p=6&amp;c=6500&amp;m=1737&amp;d=64907&amp;pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></script>
+				<div style="border: 1px solid ; margin-bottom:3px;"><script type="text/javascript">
+function ChangeSize(Size)
+{
+  document.getElementById("storyText").style.fontSize = Size;
+}
+function ChangeWeight(Weight)
+{
+  document.getElementById("storyText").style.fontWeight = Weight;
+}
+</script>
+
+
+
+
+
+
+
+<!-- $story.vidPosition -->
+
+
+<script language="javascript1.2">var partnerID=64907; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
+
+
+
+
+
+
+                    
 	
-					
-			
-	 <!-- startclickprintinclude -->
-<table border="0" cellspacing="0" cellpadding="0" width="470" style="background-color: #ffffff">
-		 		<tbody><tr valign="top">   
-			<td width="95%" valign="top" style="padding:3px">
-														<div align="center"><script language="javascript1.2">var cid=647;var partnerID=64907;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button.js"></script><script language="javascript1.2">var _hb=1;	initBtn(1,1,1,1,0,1,'cc0000','cc0000');initSponsor(0,'right',' ','000000',' ',' ',' ');initAlt(1,1,1,1);eval(sponFunc);drawBtn('H',1);</script></div>
-																														<div class="topstory">GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS</div>
-												                                                                                                          																																								
-																																			 				  														<a class="headlines"> <table border="0" cellspacing="0" cellpadding="0" width="430" style="width:322.5pt;
+<!-- startclickprintinclude -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="background-color: #ffffff">
+	<tbody><tr>
+		<td width="100%">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td class="topstory" style="text-align:left; padding:2px">GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS</td>
+					<td valign="top" width="220" style="text-align:right; padding:4px;" nowrap="">
+<!-- startclickprintexclude -->
+											<a class="title" style="font-weight:normal" href="#" onclick="return(ST());" onmouseover="return(STMouseOver());" onmouseout="return(STMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/saveThis.jpg">Save</a>
+						<a class="title" style="font-weight:normal" href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/emailThis.jpg">Email</a>
+						<a class="title" style="font-weight:normal" href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/printThis.jpg">Print</a> 
+					<!-- endclickprintexclude -->
+
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="text-align:left">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td style="text-align:left; padding:3px">
+																		   <span class="title" style="padding:2px">Posted: 11:52 AM Jan 16, 2004<br></span>
+												   <span class="title" style="padding:2px">Last Updated: 5:12 PM May 4, 2007<br></span>				   
+																								<!-- startclickprintexclude -->
+						<div class="title" style="font-weight:normal;padding:2px;">
+																														</div>
+<!-- endclickprintexclude -->
+																														</td>
+					<td style="text-align:center;padding:2px;" valign="middle">
+								                    	      									</td>
+				</tr>		
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<hr>
+			</td>
+	</tr>
+
+	<tr>
+		<td style="text-align:left">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td style="padding:3px">
+												<span class="headlines"><table border="0" cellspacing="0" cellpadding="0" width="430" style="width:322.5pt;
  mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt">
   <tbody><tr>
     <td width="430" style="width:322.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
@@ -1043,131 +1202,155 @@ this.setHomePage('www.weau.com');">
        auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><font size="2"><a href="http://www.wrdw.com">www.wrdw.com</a></font></li>
       </ul>
       <p><font size="2" face="Times New Roman">This Privacy Policy was last
-      updated on Jan. 1, 2006 and is effective immediately.<br>
+      updated on Jan. 1, 2007 and is effective immediately.<br>
       <br>
-      Copyright © 2006 Gray Television Group, Inc. All rights reserved.</font></p>
+      Copyright © 2007 Gray Television Group, Inc. All rights reserved.</font></p>
     </td>
   </tr>
-</tbody></table></a>
-																				
-				
+</tbody></table></span>
+																	</td>
+				</tr> 
+			</tbody></table>
 		</td>
-			</tr>
-			
-<tr><td style="text-align:center">
-
-</td>
-</tr>
-
+	</tr>
 <!-- startclickprintexclude -->
-	  <!-- endclickprintexclude --> 
-</tbody></table>
+	<tr>
+		<td class="title" style="text-align:center;padding:3px;font-weight:normal">
+							<a class="title" style="font-weight:normal" href="#" onclick="return(ST());" onmouseover="return(STMouseOver());" onmouseout="return(STMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/saveThis.jpg">Save</a>
+			<a class="title" style="font-weight:normal" href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/emailThis.jpg">Email</a>
+			<a class="title" style="font-weight:normal" href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/printThis.jpg">Print</a>
+				
+			<a class="title" style="font-weight:normal" href="http://del.icio.us/post?url=http://www.weau.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://media.graytvinc.com/designimages/delicious.png" align="middle">&nbsp;del.icio.us&nbsp;</a>
+			<a class="title" style="font-weight:normal" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.weau.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://media.graytvinc.com/designimages/google.png" align="middle">&nbsp;Google&nbsp;
+			</a><a class="title" style="font-weight:normal" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS&amp;u=http://www.weau.com/unclassified/647.html"><img border="0" src="http://media.graytvinc.com/designimages/yahoo.png" align="middle">&nbsp;Yahoo&nbsp;</a>
+			<a class="title" style="font-weight:normal" href="http://digg.com/submit?phase=2&amp;url=http://www.weau.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://digg.com/img/digg-it-tiny.gif" align="middle"> digg</a>
+				</td>
+	</tr>
+			<tr>
+		<td width="100%" style="padding-top:4px; style=" text-align:center"="" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+											</table>
+		</td>
+	</tr>
+		<tr>
+		<td style="text-align:center">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+															<td width="50%" style="padding:5px" class="title" valign="top">
+						<u>More Stories</u><br>
+													<a class="title" href="http://www.weau.com/unclassified/7883337.html">Jam Cam Page</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/4678396.html">Chanukah</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/4678371.html">Holiday Shopping Safety</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/4678336.html">History and the Thoughts Behind Kwanzaa</a><br><br>
+											</td>
+										<td style="padding:15px" class="title" valign="top">
+													<a class="title" href="http://www.weau.com/unclassified/4678141.html">Holiday Travel Safety</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/3931191.html">Send in your Soups Recipes Today</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/1731546.html">Christopher Columbus</a><br><br>
+													<a class="title" href="http://www.weau.com/unclassified/1745796.html"><center>Columbus Day</center></a><br><br>
+											</td>
+										
+									</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+<!-- endclickprintexclude -->
+
 <!-- endclickprintinclude -->
+</div>
+									</td>
+	<!-- END MIDDLE COLUMN  -->
 
-
-
-				</div>
-										</td>
-<!-- END MIDDLE COLUMN  -->
-	
 	<!-- Start Right Column: 300  -->
 		<td width="300" valign="top" style="padding-right:2px">
-				
-					 				
+																									
 
 
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=5323771">
-				                                                                <a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.markquart.com%2F&amp;41=MarkquartBanner_300x250.jpg&amp;18=0.6668458560828008"><img src="http://media.graytvinc.com/images/MarkquartBanner_300x250.jpg" width="300" height="250" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
-			<div ondblclick="window.status=4634271" style="border: 1px solid ; margin-bottom:3px">
 		
-     
-<iframe id="wn_frame46890810728072" allowtransparency="true" scrolling="no" width="100%" height="0" marginwidth="0" marginheight="0" frameborder="0" src="http://ww2.weau.com/global/category.asp?c=52946&amp;title=Video+NOW&amp;maxItems=5&amp;WNResizeIframeID=wn_frame46890810728072&amp;clientType=wn_video_c&amp;WNResizeFileURL=http://www.weau.com/video/resize"></iframe>
+
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Right Tout 1']){ document.write(plpm['Right Tout 1']);} else {  if(self['plurp'] && plurp['61']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=61&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.5780531675824689&amp;p=61&amp;c=6500&amp;m=1737&amp;d=64907"></script></div>
+ 	
+
+													
+
+
+		
+
+ 										<div style="margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+                    																					<td class="headlines">
+																											<iframe id="flashvideoplayer" width="300" height="425" topmargin="0" leftmargin="0" marginwidth="0" border="0" frameborder="0" scrolling="no" allowtransparency="true" src="http://ww2.WEAU.com/global/video/flash/flashvideoplayer.asp?playerName=miniplayer.swf&amp;playerHeight=425&amp;topVideoCatNo=101154&amp;autoStart=false&amp;continuousPlay=true&amp;mute=false&amp;videoListType=verticalScrolling"></iframe>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+													
+
+
+		
+
+			<div ondblclick="window.status=4639776" style="border: 1px solid ; margin-bottom:3px;">
+		<table cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	   	<td class="header">NewsCenter13 Poll</td>
+	</tr>
+</tbody></table>
+	  							  							  							<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+ 	 		<tbody><tr valign="top">
+    			<td width="90%" class="title">
+      				<form action="http://polls.clickability.com/polls" target="_self">
+	  				<input type="hidden" name="pid" value="10420502">
+	  				<input type="hidden" name="mr" value="1">
+      				<input type="hidden" name="cid" value="6500">
+      					  	  				<input type="hidden" name="rurl" value="http://www.weau.com/polls?pollID=10420502">
+      				      				<div class="title" style="padding:3px">Do you think the frozen food you buy is safe to eat?</div>
+      				<br>
+      				<table border="0" cellspacing="0" cellpadding="0" width="90%">
+      				        			        				<tbody><tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="1">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">Yes
+          					</td>
+						</tr>
+       		 		        				<tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="2">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">No
+          					</td>
+						</tr>
+       		 		        			        				<tr valign="top">
+          					<td colspan="2"></td>
+        				</tr>
+           				<tr valign="top">
+         	 				<td colspan="2" style="padding-top: 5px;text-align:center"> 
+            					<input type="submit" value="submit" name="submit"><br><br><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Poll']){ document.write(plpm['Poll']);} else {  if(self['plurp'] && plurp['1076']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1076&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7979997446834466&amp;p=1076&amp;c=6500&amp;m=1737&amp;d=64907"></script>
+            				</td>
+						</tr>
+        			        				   				      				</tbody></table>
+      				</form>
+				</td>
+ 	 		</tr>
+	</tbody></table>
 
 		</div>
 	
-							
+
+													
 
 
+		
 
-	      	
-							
-
-
-
-	      	
-							
+			<div ondblclick="window.status=4640421" style="border: 1px solid ; margin-bottom:3px;">
+		
 
 
-
-			<div ondblclick="window.status=4639776" style="border: 1px solid ; margin-bottom:3px">
-		<table cellspacing="0" cellpadding="0" width="300">
-   <tbody><tr>
-    <td class="header">NewsCenter13 Poll</td>
-</tr>
-</tbody></table>
-
-    			  			  	<table cellspacing="0" cellpadding="0" width="300" bgcolor="#ffffff">
-  <tbody><tr valign="top">
-    <td width="90%" class="title">
-      <form action="http://polls.clickability.com/polls" target="_self">
-	  <input type="hidden" name="pid" value="5587616">
-	  <input type="hidden" name="mr" value="1">
-      <input type="hidden" name="cid" value="6500">
-      	    <input type="hidden" name="rurl" value="http://www.weau.com/polls?pollID=5587616">
-            <div class="title" style="padding:3px">Do you think Michael Kozlowski's trial should be moved from St. Croix county to Eau Claire?</div><br>
-      
-      <br>
-      <table border="0" cellspacing="0" cellpadding="0" width="90%">
-                      <tbody><tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="1">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            Yes
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="2">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            No
-          </td>
-        </tr>
-                        <tr valign="top">
-          <td colspan="2"></td>
-        </tr>
-        
-        <tr valign="top">
-          <td colspan="2" style="padding: 5px" align="center"> 
-            <input type="submit" value="submit" name="submit"><br><br><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Poll']){ document.write(plpm['Poll']);} else {  if(self['plurp'] && plurp['1076']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1076&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.02620182569963725&amp;p=1076&amp;c=6500&amp;m=1737&amp;d=64907"></script>
-		</td></tr>
-          
-        
-                	         </tbody></table>
-      </form>
-    </td>
-  </tr>
- 
-</tbody></table>
-
-
-
-		</div>
-	
-							
-
-
-
-			<div ondblclick="window.status=4640421" style="border: 1px solid ; margin-bottom:3px">
-		<table cellspacing="0" cellpadding="0" width="300" style="background-color: #ffffff">
+<table cellspacing="0" cellpadding="0" width="100%" style="background-color: #ffffff">
 	<tbody><tr>
 		<td colspan="2" class="header">WEAU.COM Most Popular</td>
 </tr>          
@@ -1181,51 +1364,75 @@ this.setHomePage('www.weau.com');">
 	       		
 	       		
 	       		
+	       		
 	       	</tbody></table>
 
 		</div>
 	
-							</td>
-<!-- END RIGHT COLUMN  -->
-		</tr>
+
+													
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=10115626">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.uwstout.edu&amp;41=Stout_weau.jpg&amp;18=0.9173272334955235" target="_blank"><img src="http://media.graytvinc.com/images/Stout_weau.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+
+		
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9855871">
+									                    	<a href="/r?19=950&amp;32=1737&amp;7=64907&amp;40=http%3A%2F%2Fwww.weau.com%2Fmoney%2Fmisc%2F9760317.html&amp;41=WEAU_Lottery_300x250.gif&amp;18=0.3662448060322725" target="_blank"><img src="http://media.graytvinc.com/images/WEAU_Lottery_300x250.gif" width="300" height="250" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+
+		
+
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Right Tout 5']){ document.write(plpm['Right Tout 5']);} else {  if(self['plurp'] && plurp['81']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=81&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6780598968207818&amp;p=81&amp;c=6500&amp;m=1737&amp;d=64907"></script></div>
+ 	
+
+													
+
+
+		
+
+ 										<div style="border: 1px solid ; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+						<td width="100%" class="header" ondblclick="window.status=9331856">Sponsored Headlines</td>
+					</tr>
+										<tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<script language="JavaScript" src="http://www.adfusion.com/adfusion.partnersite/fc28e8c0-4196-41a4-9a50-1ac3131a42e3.aspx"></script>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+																	</td>
+	<!-- END RIGHT COLUMN  -->
+	</tr>
 </tbody></table>
 <!-- Start Bottom Column -->
 <table width="986" cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-		<td width="986" valign="top" style="text-align:center">
+						<tbody><tr>
+				<td width="986" valign="top" style="text-align:center">
 
 
+		
 
-	      	</td>
-		</tr>			
-							<tr>
-		<td width="986" valign="top" style="text-align:center">
-
-
-
-	      	</td>
-		</tr>			
-							<tr>
-		<td width="986" valign="top" style="text-align:center">
-
-
-
-	      	</td>
-		</tr>			
-							<tr>
-		<td width="986" valign="top" style="text-align:center">
-
-
-
-	      	</td>
-		</tr>			
-							<tr>
-		<td width="986" valign="top" style="text-align:center">
-
-
-
-	      	</td>
-		</tr>			
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['BottomBanner2']){ document.write(plpm['BottomBanner2']);} else {  if(self['plurp'] && plurp['1411']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1411&c=6500&m=1737&d=64907"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.8195220138200989&amp;p=1411&amp;c=6500&amp;m=1737&amp;d=64907"></script></div>
+ 	
+</td>
+			</tr>			
 			<!-- End Bottom Column -->
 </tbody></table>
 </div>
@@ -1234,44 +1441,93 @@ this.setHomePage('www.weau.com');">
 <td width="986" class="header">&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align:center" class="footer">- 
+<td style="text-align:center" class="footer">
 <a class="footer" href="/news"><b>news</b></a> - 
 <a class="footer" href="/weather"><b>weather</b></a> - 
 <a class="footer" href="/sports"><b>sports</b></a> - 
 <a class="footer" href="/community"><b>community</b></a> - 
 <a class="footer" href="/jobsearch"><b>job board</b></a> - 
-<a class="footer" href="/links"><b>featured links</b></a> - 
+<a class="footer" href="/restaurants"><b>restaurants</b></a> - 
 <a class="footer" href="/station"><b>station/bios</b></a> - 
 <a class="footer" href="/weauhdtv"><b>HDTV</b></a> - 
 <a class="footer" href="/programming"><b>what's on</b></a> - 
 </td>
 </tr>
 <tr>
-<td style="text-align:center" class="footer">- 
-<a class="footer" href="/money">money</a> -
+<td style="text-align:center" class="footer">
+<a class="footer" href="http://www.weau.com/doubledollardeals">double dollar deals</a> -
 <a class="footer" href="/closings">closings</a> -
 <a class="footer" href="/medical">medical</a> -
 <a class="footer" href="/elections">elections</a> -
 <a class="footer" href="/recipes">recipes</a> -
-<a class="footer" href="/keepitlocal">keep it local</a> -
+<a class="footer" href="/autos">autos</a> -
+<a class="footer" href="/links">featured links</a> -
 <a class="footer" href="/skiingconditions">ski conditions</a> -
-<a class="footer" href="/ourtown">our town</a> -
 <a class="footer" href="http://www.weau.com">home</a> -
 </td>
 </tr>
-<tr><td class="footer" style="text-align:center">
+<tr><td class="footer" style="text-align:center"><img src="http://media.graytvinc.com/designimages/gray_logo.jpg" align="left" hspace="5">
 <a class="footer" href="/unclassified/666.html">Terms of Use</a> - 
 <a class="footer" href="/unclassified/647.html">Privacy Policy</a> - 
-<a class="footer" target="_blank" href="http://media.graytvinc.com/documents/WEAU.pdf">EEO Statement</a><br>
+<a class="footer" target="_blank" href="http://media.graytvinc.com/documents/EEO+Public+File+Report+2007.DOC">EEO Statement</a><br>
 <span class="footer">Gray Television Group, Inc. - Copyright © 2002-2007 - Designed and Powered by Clickability</span><br>
 <a class="footer" href="/station">Contact Us</a>
 </td>
 </tr>
 </tbody></table>
+</div>
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1699624-1";
+urchinTracker();
+</script>
 
 
 
 
 
 
-</div></body></html>
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
