@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closeronline.co.uk privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203000131id_/http%3A//www.closerdiets.com/general/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closeronline.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011180726id_/http%3A//www.closerdiets.com/general/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Closer Diets - Privacy Policy
 
@@ -6,6 +6,8 @@
 
 
 ## Privacy Policy
+
+Wednesday 29 November 2006
 
 ##### Confidentiality is Guaranteed
 
