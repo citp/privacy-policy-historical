@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the giantmag.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626121453id_/http%3A//www.giantmag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giantmag.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011082856id_/http%3A//www.giantmag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 	<title>GIANT Magazine | Privacy</title>
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.giantmag.com/xmlrpc.php?rsd">
+<script language="javascript1.4" type="text/javascript" src="http://www.giantmag.com/wp-content/plugins/audio-player/audio-player.js"></script>
 <meta name="description" content="At GIANTmag.com we respect your right to privacy. For this reason, we may ask you to register or to provide ...">
 
 <script type="text/javascript" src="http://www.giantmag.com/wp-content/plugins/wordtube/swfobject.js"></script>	<meta name="keywords" content="giant magazine, giant blog, giant, music, pop-culture, movies, tv, games, books, dvd, entertainment, gossip, girls, literature, fiction, nonfiction, authors, bestsellers, novels, reading, reviews, news, audio, rock, bands">
@@ -20,83 +21,8 @@
 	<link rel="alternate" type="application/rss+xml" title="GIANT Magazine RSS Feed" href="http://www.giantmag.com/feed/">
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<link rel="pingback" href="http://www.giantmag.com/xmlrpc.php">
-<!--mclude-->
-<!-- true -->
-
-<style type="text/css">
-<!--
-#sponsorAdDiv {	
-	background: #fff;
-	position: absolute; 
-	height: 1px; 
-	width: 1px; 
-	top: 0; 
-	left: 0; 
-	z-index: 9999;	
-	}
-#sponsorAdDiv a img {
-	border: 0;
-	float: left;
-	}
-#sponsorAdDiv div {
-	background: #fff;
-	float: left;
-
-	margin: 0;
-	padding: 0;
-	padding: 3px;
-	border: 1px solid #000;
-}
--->
-</style>
-
-<script type="text/javascript">
-//<![CDATA[
-adTime = 13;  // seconds ad reminder is shown
-chanceAd = 1; // ad will be shown 1 in X times (put 1 for everytime)
-
-var ns=(document.layers);
-var ie=(document.all);
-var w3=(document.getElementById && !ie);
-var calunit=ns? "" : "px"
-adCount=0;
-function initAd(){
-	if(!ns && !ie && !w3) return;
-	if(ie)		adDiv=eval('document.all.sponsorAdDiv.style');
-	else if(ns)	adDiv=eval('document.layers["sponsorAdDiv"]');
-	else if(w3)	adDiv=eval('document.getElementById("sponsorAdDiv").style');
-	randAd=Math.ceil(Math.random()*chanceAd);
-        if (ie||w3)
-        adDiv.visibility="visible";
-        else
-        adDiv.visibility ="show";
-	if(randAd==1) showAd();
-}
-function showAd(){
-if(adCount<adTime*10){adCount+=1;
-	if (ie){documentWidth  =truebody().offsetWidth/2+truebody().scrollLeft-20;
-	documentHeight =truebody().offsetHeight/2+truebody().scrollTop-20;}	
-	else if (ns){documentWidth=window.innerWidth/2+window.pageXOffset-20;
-	documentHeight=window.innerHeight/2+window.pageYOffset-20;} 
-	else if (w3){documentWidth=self.innerWidth/2+window.pageXOffset-20;
-	documentHeight=self.innerHeight/2+window.pageYOffset-20;} 
-	adDiv.left=documentWidth-200+calunit;adDiv.top =documentHeight-200+calunit;
-	setTimeout("showAd()",100);}else closeAd();
-}
-function closeAd(){
-if (ie||w3)
-adDiv.display="none";
-else
-adDiv.visibility ="hide";
-}
-
-function truebody(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-onload=initAd;
-//]]>
-</script>
+<!--mclude /wp-content/themes/giant/popupscript.php-->
+<!-- false -->
 <!--/mclude-->
 	<link rel="stylesheet" type="text/css" media="all" href="/css/_import.css?71906">
 <!--[if lte IE 6]>
@@ -163,9 +89,11 @@ urchinTracker();
 				window.location.href = "http://giantmag.com/news/" + strPath;
 			}
 		</script>
-		<form id="frmBloggers" name="frmBloggers" method="get" style="margin:0;padding:0;">
+		<form id="frmBloggers" action="get" method="get" style="margin:0;padding:0;">
+			<p style="margin:0;padding:0;">
 			<select id="selBloggers" name="selBloggers" style="width:150px;margin-top:7px;margin-left:10px;" onchange="javascript:jumpToBlog(this)">
 				<option value="">Blogs</option><option value="no-sleep-till">No Sleep Till…</option><option value="the-giant-type">The GIANT Type</option><option value="the-professional-hater">The Professional Hater</option><option value="the-scanner">The Scanner</option><option value="words-i-manifest">Words I Manifest</option></select>
+			</p>
 			<!--noscript><input type="submit" id="cmdBloggers" value="Go" /></noscript-->
 		</form>
 		</div> <!-- end #nav-main -->
@@ -177,7 +105,7 @@ urchinTracker();
 				<!--div id="hot-tags">
 					<h3>Hot Tags</h3>
 					<p>
-<a href="/tag/jay-z/">Jay Z</a> <a href="/tag/nas/">Nas</a> <a href="/tag/on-the-lot/">On the Lot</a> <a href="/tag/age-of-love/">Age of Love</a> <a href="/tag/the-4400/">The 4400</a> <a href="/tag/the-daily-show/">The Daily Show</a> <a href="/tag/top-chef/">Top Chef</a> <a href="/tag/the-new-adventures-of-superman/">The New Adventures of Superman</a> <a href="/tag/the-new-adventures-of-batman/">The New Adventures of Batman</a> <strong><a href="/tags/">view all &#187;</a></strong>					</p>
+<a href="/tag/jennifer-lopez/">Jennifer Lopez</a> <a href="/tag/marc-anthony/">Marc Anthony</a> <a href="/tag/brave/">Brave</a> <a href="/tag/common/">Common</a> <a href="/tag/q-tip/">Q Tip</a> <a href="/tag/entourage/">Entourage</a> <a href="/tag/the-seeker/">The Seeker</a> <a href="/tag/2k-sports/">2K Sports</a> <a href="/tag/hip-hop-honors/">Hip Hop Honors</a> <strong><a href="/tags/">view all &#187;</a></strong>					</p>
 				</div-->
 				
 				<div id="subscribe-box">
@@ -208,8 +136,8 @@ urchinTracker();
 		<div id="ad-skyscraper" class="clearfix"><div id="subscribead_sky"></div>
 
 <script type="text/javascript">
-   var so = new SWFObject("/images/advertising/digitalsub_ads-160x600.swf", "subscribead_flash", "160", "600", "7", "#ffffff");
-   so.addParam("wmode", "transparent");
+   var so = new SWFObject("/images/advertising/digitalsub_jlo-160x600.swf", "subscribead_flash", "160", "600", "7", "#000000");
+//   so.addParam("wmode", "transparent");
    so.write("subscribead_sky");
 </script>
 
@@ -228,6 +156,7 @@ urchinTracker();
 				</ul>
 				<h3>Giant Parties &amp; Pictures</h3>
 				<ul>
+					<li><a href="/2007/07/music/giant-rihanna-photos/">Giant Rihanna Party Pictures!</a></li>
 					<li><a href="/2006/11/music/giant-show-volume-1-party-pictures/">Giant Show: Volume 1</a></li>
 					<li><a href="/2007/04/music/giant-show-volume-2-party-pictures/">Giant Show: Volume 2</a></li>
 					<li><a href="/2007/05/music/exclusive-springfest-video-from-giant/">Springfest</a></li>
@@ -247,7 +176,11 @@ urchinTracker();
 				<fieldset>
 				<select name="archive_chrono" onchange="window.location = (document.forms.archiveform.archive_chrono[document.forms.archiveform.archive_chrono.selectedIndex].value);">
 				<option value="" selected="selected">Select month →</option>
-					<option value="http://www.giantmag.com/2007/06/"> June 2007 </option>
+					<option value="http://www.giantmag.com/2007/10/"> October 2007 </option>
+	<option value="http://www.giantmag.com/2007/09/"> September 2007 </option>
+	<option value="http://www.giantmag.com/2007/08/"> August 2007 </option>
+	<option value="http://www.giantmag.com/2007/07/"> July 2007 </option>
+	<option value="http://www.giantmag.com/2007/06/"> June 2007 </option>
 	<option value="http://www.giantmag.com/2007/05/"> May 2007 </option>
 	<option value="http://www.giantmag.com/2007/04/"> April 2007 </option>
 	<option value="http://www.giantmag.com/2007/03/"> March 2007 </option>
@@ -276,7 +209,7 @@ urchinTracker();
 					<li><a href="/subscribe/#digitalsubscription">Free Digital Subscription</a></li>
 					<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=GNT">Canadian (and other non-U.S) Subscription</a></li>
 					<li><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=GNT">Gift Subscription</a></li>
-					<li><a href="/backissues/">Order Back Issues</a></li>
+					<li><a href="http://giant.bigcartel.com" rel="external">Order Back Issues</a></li>
 					<!--li><a href="http://www.jhpro2.com/giant/forms/subscribe.html">Join our Mailing List</a></li-->
 					<li><a href="/get-giant-updates/">Join our Mailing List</a></li>
 				</ul>
@@ -298,9 +231,8 @@ urchinTracker();
 	<div id="hallmark"><a href="http://www.theMechanism.com/" class="credits">Designed, developed &amp; maintained in partnership with <span>theMechanism, <abbr title="Limited Liability Corporation">LLC</abbr>. http://www.themechanism.com/</span></a> <a href="#top" id="toplink">Scroll to top</a></div>
 	
 </div> <!-- end #wrap -->
-<!--mclude-->
-<!-- true -->
-<div id="sponsorAdDiv" style="visibility: visible; left: 463px; top: 164px;"><div><a href="javascript:closeAd();"><img src="/images/advertising/subscribead_closebutton.gif" width="445" height="49" alt="Close" title="Close this window."></a><a href="/subscribe/?addec06"><img src="/images/advertising/subscribead_dec06.jpg" width="445" height="340" alt="Subscribe now to GIANT. One year just $7.97"></a></div></div>
+<!--mclude /wp-content/themes/giant/showpopup.php-->
+<!-- false -->
 <!--/mclude-->
 
 	<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
@@ -311,7 +243,4 @@ urchinTracker();
 
 
 
-
-<!-- Dynamic Page Served (once) in 0.464 seconds -->
-<!-- Cached page served by WP-Cache -->
 </body></html>
