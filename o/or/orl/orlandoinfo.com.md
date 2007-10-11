@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045745id_/http%3A//www.orlandoinfo.com/other/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011220709id_/http%3A//www.orlandoinfo.com/company/privacy.cfm) for the most accurate reproduction.*
 
-# Orlando Travel & Visitors Bureau - Orlando Florida Vacation - Dining, Hotels, & Attractions
+# Orlando Travel & Visitors Bureau - Orlando Florida Vacation - Privacy Policy
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name.
 
@@ -14,7 +14,7 @@ Personally Identifiable Information may also be used for other purposes, includi
 
 Upon request, we send out free vacation information packages to postal addresses. You will receive only the information, which you requested when you provided us your postal address.
 
-**Cookies**
+### Cookies
 
 A "cookie" is a small data file transferred by a Web site to your computer's hard drive. When you surf our site, make purchases, request or personalize information, or register yourself for certain services, a cookie may be placed on to your computer. By accepting the cookie(s), it does not give us access to your personal information, but we may use it to identify your computer. This information helps us in tracking user activity and our Web site's useability. There are 2 cookies, "session" cookies and "permanent" cookies.
 
@@ -24,33 +24,33 @@ A "cookie" is a small data file transferred by a Web site to your computer's har
 
 Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:
 
-**Microsoft Internet Explorer:[ _http://www.microsoft.com/info/cookies.htm_](http://www.microsoft.com/info/cookies.htm)**
+Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
 
-**Mozilla Firefox:[ _http://www.mozilla.org/support/firefox/options#privacy_](http://www.mozilla.org/support/firefox/options#privacy)**
+Mozilla Firefox: <http://www.mozilla.org/support/firefox/options#privacy>
 
-**Netscape Navigator:[ _http://www.netscape.com/legal_notices/cookies.html_](http://www.netscape.com/legal_notices/cookies.html)**
+Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.html>
 
-**Web beacons**
+### Web beacons
 
 Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies.
 
-**Your choice to opt out**
+### Your choice to opt out
 
 Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting [_http://orlandoinfo.com/e-letters/unsubscribe/_](http://orlandoinfo.com/e-letters/unsubscribe/ "Unsubscribe") and following the instructions there.
+If you do not want to receive e-mail from us in the future, please let us know by visiting <http://orlandoinfo.com/enewsletter/unsubscribe.cfm> and following the instructions there.
 
-**Children**
+### Children
 
-Orlandoinfo.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that orlandoinfo.com has Personally Identifiable Information about anyone under the age of 13, please contact us at [_feedback@orlandocvb.com_](https://web.archive.org/web/20070630045745id_/http%3A//www.orlandoinfo.com/other/feedback@orlandocvb.com).
+Orlandoinfo.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that orlandoinfo.com has Personally Identifiable Information about anyone under the age of 13, please contact us at [feedback@orlandocvb.com](mailto:feedback@orlandocvb.com).
 
-**Changes to Our Privacy Policy**
+### Changes to Our Privacy Policy
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at [_feedback@orlandocvb.com_](mailto:feedback@orlandocvb.com).
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at [feedback@orlandocvb.com](mailto:feedback@orlandocvb.com).
 
 This policy and the use of this Site are subject to the laws and regulations of the State of Florida. Any claim related to the Site or this policy shall be brought in a federal or state court in Orlando, Florida, within one year after the claim arises. Users of Orlandoinfo.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-**Contact Us**
+### Contact Us
 
 Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at:
 
@@ -59,7 +59,7 @@ Orlandoinfo.com
 Orlando FL 32821  
 407-363-5823
 
-[_feedback@orlandocvb.com_](mailto:feedback@orlandocvb.com)
+[feedback@orlandocvb.com](mailto:feedback@orlandocvb.com)
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
