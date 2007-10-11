@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513141929id_/http%3A//www.teacollection.com/c.575156/site/InfoPgs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011234527id_/http%3A//teacollection.com/site/InfoPgs/privacy.htm) for the most accurate reproduction.*
 
-# Tea Collection
+# Tea Collection > help > privacy
 
-|  |   |  |  | 
+|  | [](https://web.archive.org/site/InfoPgs/help.htm)  
+---  
+  | 
 
 ## privacy
 
@@ -80,9 +82,9 @@ When you fill out one of our forms or other requests for information, you may ch
 
   * You can go to TeaCollection.com, access your Account profile, uncheck the box marked "Send me e-mails" and follow the instructions 
   * You can stop future emails by clicking on the link shown in the footer of every TeaCollection email and unsubscribe from our list. 
-  * Call us at (415) 233-4939 and ask to have your name removed from our emailing list.
+  * Call us at (866) 374-8747 and ask to have your name removed from our emailing list.
 
-As it relates to questions you might have about our Privacy Policy or if you have a concern that Tea Collection may have failed to adhere to this Privacy Policy, please call customer relations at 1-(415) 233-4939, e-mail service@teacollection.com, or write us as follows: 
+As it relates to questions you might have about our Privacy Policy or if you have a concern that Tea Collection may have failed to adhere to this Privacy Policy, please call customer relations at 1-(866) 374-8747, e-mail service@teacollection.com, or write us as follows: 
 
 Tea Collectcion  
 c/o Director of Customer Service  
@@ -110,6 +112,3 @@ Our website provides links to other websites. Other sites have their own terms o
 Beginning January 1, 2005, under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2005 will receive information regarding 2004 sharing activities). 
 
 To obtain this information, please send an e-mail message to [service@teacollection.com](mailto:service@teacollection.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
-
-|   
----|---|---
