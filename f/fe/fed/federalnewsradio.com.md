@@ -1,29 +1,22 @@
-> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017171341id_/http%3A//www.federalnewsradio.com/index.php%3Fnid%3D142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011141317id_/http%3A//www.federalnewsradio.com%3Fnid%3D377%26sid%3D1167922) for the most accurate reproduction.*
 
-# FederalNewsRadio - WFED: Privacy Statement
+# Federal News Radio - WFED: Privacy Statement
 
-[](http://tracker.bonnint.net/?copy_id=1034)
+_**PRIVACY STATEMENT**_
 
-Tuesday, October 17, 2006
+(Last Revised June, 2007) 
 
-## Privacy Statement
+**General.** This website (the "Site") is operated by Bonneville International Corporation, a Utah corporation that does business as Federal News Radio("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
-  
+**No Use by Children.** The Site is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger). Children should not use the Site or submit any information to Operator. 
 
+**What Information is Collected.** There are two (2) general types of information that can be collected as a result of your use of the Site: (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
 
-(Last Revised September 27, 2001) 
+**Personally Identifiable Information.** Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features may be offered by Operator, while others may be offered by third parties. (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF THE SITE FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST. In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement. 
 
-General. This web site (the "Site") is operated by WTOP AM/FM, a division of Bonneville International Corp. ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use available at the site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. You should review the Statement from time to time. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
+**Aggregate Information/Cookies.** Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site likely will not operate as efficiently for you. 
 
-No Use by Children. The Site is not directed to, or intended for use by, children (defined as anyone age thirteen or younger). Children should not use the Site or submit any information to Operator. 
+**_Inside WFED:_**  [ **Contact Us**](https://web.archive.org/index.php?nid=53) | [ **About Us**](https://web.archive.org/index.php?nid=128) | [ **Careers**](https://web.archive.org/?nid=226) |  [**News Staff**](https://web.archive.org/?nid=17) | [ **Weekend Programming**](http://www.wtopnews.com/?nid=409&sid=608335) | [ **My Account**](https://web.archive.org/?nid=264) | [ **Program Schedule**](https://web.archive.org/?sid=739997&nid=177) | [ **Community Active**](https://web.archive.org/?sid=1188255&nid=392)
 
-What Information is Collected. In connection with your use of the Site, Operator may collect personally identifiable information (such as your name, address, telephone number and email address) and aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
-
-Personally Identifiable Information. You may be asked to voluntarily provide personally identifiable information about yourself ("Personal Information") in order to participate in some features of the Site. (For example, you may be asked to provide Personal Information in order to enter an online contest or to receive news updates by email.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. In either case, you can always refuse to provide Personal Information, but this may result in decreased functionality of the Site for you and limit Operator's ability to inform you about products or services that may be of particular interest. 
-
-[](http://tracker.bonnint.net/?copy_id=1069)
-
-[](https://web.archive.org/?sid=&nid=317)
-
-[Home](https://web.archive.org/index.php) | [Advertise with Us](https://web.archive.org/index.php?nid=53) |  [Contact Us](https://web.archive.org/index.php?nid=53) | [Privacy Statement](https://web.archive.org/web/20061017171341id_/http%3A//www.federalnewsradio.com/index.php?nid=142) | [EEO Public File Report](http://www.wtopnews.com/docs/FCCEEODC0304.pdf)  
-AP material Copyright 2006 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
+[Home](https://web.archive.org/index.php) | [Advertise with Us](https://web.archive.org/index.php?nid=53) |  [Privacy Statement](https://web.archive.org/?nid=377&sid=1167922) | [Terms of Use](https://web.archive.org/?nid=377&sid=1167924) | [Copyright Infringement](https://web.archive.org/?nid=377&sid=1167927) | [EEO Public File Report](http://www.wtopnews.com/docs/FCCEEODC0304.pdf)  
+AP material Copyright 2007 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
