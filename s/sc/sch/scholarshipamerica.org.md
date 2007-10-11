@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206103116id_/http%3A//www.scholarshipamerica.org/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053402id_/http%3A//scholarshipamerica.org/privacy_policy.html) for the most accurate reproduction.*
 
-# Scholarship America -Privacy Policy
+# Scholarship America
 
 Scholarship America is committed to responsible information handling practices. You can visit most pages on our site without giving us any information about yourself, but sometimes we need information to provide services that you request. This privacy statement explains data collection and use in those situations. By visiting our Web site, you consent to the information practices described in this policy. Below are listed the answers to questions you may have.
 
-**What information does Scholarship America collect and how is the information used?  
-**_Information You Provide to Us_  
+**What information does Scholarship America collect and how is the information used?**  
+**_Information You Provide to Us_**  
 We may obtain personally identifiable information about you ONLY if you elect to give us that information. Types of personally identifiable information we ask you to provide may include the following: 
 
   * Name
-  * Address 
-  * Zip code 
-  * Telephone number 
+  * Address
+  * Zip code
+  * Telephone number
   * E-mail address
   * Credit card number and expiration date (for online purchases or donations)
 
 
 
-_Information Collected Automatically  
-_When you visit our Web site, we automatically collect information about your visit that does not identify you personally. We can tell the type of computer, browser, and Web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs.
+**_Information Collected Automatically_**   
+When you visit our Web site, we automatically collect information about your visit that does not identify you personally. We can tell the type of computer, browser, and Web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs.
 
 Generally, our uses of information collected online include:
 
