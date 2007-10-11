@@ -1,19 +1,31 @@
-> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401182519id_/http%3A//www.itmatchonline.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itmatchonline.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011093302id_/http%3A//www.itmatchonline.com/itprivacy.php) for the most accurate reproduction.*
 
-# Outsource Medical Transcription, Data Entry, Call Centre, Back-Office operations etc
+# Privacy Policy of Itmatchonline.com
 
-Itmatchonline.com recognizes the importance of protecting the privacy of personal information collected about you. To safeguard your right to privacy while at the same time collect reasonable business-related information that will allow us to serve you better and fulfill your requests, we have adopted the following privacy policy:
+We respect your privacy rights and privileges. 
 
-**1.** Notice. We will notify you as to the types of personal information we are collecting about you as well as the intended use of that information, e.g. membership system records, billing and shipping information, etc. 
+**Personal Information that may be collected at itmatchonline.com website**
 
-**2.** Security. We will only collect a reasonable amount of information that will allow us to serve you better and fulfill your requirements. We will maintain appropriate safeguards to ensure the security, integrity and privacy of the information.
+If you elect to join itmatchonline.com, certain types of personal and company specific information will be collected, which will be shared with other users of the itmatchonline.com web site. This "basic profile" information includes your name, company name, email addresses, and/or phone and facsimile numbers and postal address. After joining, you may elect to provide optional "extended profile" information relating to your company, which will also be shared with other users of the website. 
 
-**3.** Sign-Off Opportunities. We will offer you the opportunity to unsubscribe from any mailing lists you sign-up for with us.
+We Will Never Sell Or Rent Your Information 
 
-**4.** Sensitive Data. We will protect sensitive information with extra care. Sensitive information includes Social Security numbers, mother's maiden name, credit card information, and personal financial data such as salary-specific information. There will be no external distribution of this sensitive information outside Itmatchonline.com. 
+**Computer Tracking & Cookies **  
+Our web sites are not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our site. This information is used for internal purposes by technical support staff to provide better services to our customers 
 
-**5.** Outside Parties. From time to time, we are approached by companies and organizations that produce a product or service that we believe may be of interest to you. We see this as a value-added service helping you to find products or services to help you work or play smarter. We will from time to time share our mailing lists' e-mail addresses with very carefully selected parties outside Itmatchonline.com.  You can stop this from happening at any time by un-subscribing from the mailing lists.
+**Transmitting Your Credit Card and Personal Information via itmatchonline.com**  
+Transactions on itmatchonline.com are protected by powerful Secure Sockets Layer (SSL) encryption technology (128 bit encryption), in standard use by major ecommerce web sites. SSL encrypts your credit card number, name, address, and phone number before they are sent over the Internet. 
 
-We hope you will find this privacy policy to your satisfaction. If you have any suggestions, comments or concerns, please [contact us](https://web.archive.org/web/20030401182519id_/http%3A//www.itmatchonline.com/feedback.htm).
+Our web security system requires that customers use a browser that supports at least 40 bit encryption -- Netscape Navigator (version 3.0 or higher), Microsoft Internet Explorer (version 3.0 or higher), or the AOL browser (version 3.0 or higher). The use of these browsers ensures that data is authenticated and encrypted as it's transmitted. 
 
-Thank you.
+**Accessing Your Personnal Information**  
+Any connections to our server that request personal information must be validated by a unique User ID and password that you establish during registration. 
+
+**Your Web Session**  
+itmatchonline.com creates a random session ID attached to your encrypted web connection. This encrypted session will automatically time out after 30 minutes of inactivity and you will be prompted to login again. 
+
+**Statistical information**  
+Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information 
+
+**Changes to Privacy Policy**  
+Changes to this policy will be posted here. 
