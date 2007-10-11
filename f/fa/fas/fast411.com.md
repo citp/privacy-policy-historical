@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623110022id_/http%3A//fast411.com/aft/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031744id_/http%3A//fast411.com/aft/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
-|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20070623110022id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
+|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20071011031744id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
 ---|---|---|---|---|---|---|---|---|---|---  
   
 ## Privacy Statement for Fast411.com
