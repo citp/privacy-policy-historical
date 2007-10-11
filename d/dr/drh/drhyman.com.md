@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drhyman.com privacy policy that was archived on 2006-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061212074518id_/http%3A//drhyman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drhyman.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011094957id_/http%3A//www.drhyman.com/privacy.html) for the most accurate reproduction.*
 
 # Dr Hyman
 
