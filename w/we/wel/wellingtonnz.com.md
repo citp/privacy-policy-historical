@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellingtonnz.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429120009id_/http%3A//www.wellingtonnz.com/Administration/SupportPages/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellingtonnz.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011143517id_/http%3A//www.wellingtonnz.com/Administration/SupportPages/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Positively Wellington Tourism Privacy Undertaking
 
@@ -43,7 +43,7 @@ Address:** Level 28, Grand Plimmer Tower, Gilmer Terrace
 
   * We collect the personal data that you may volunteer while using our services. 
   * We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
-  * To access the table of personal data collected and purposes for which they are used, please [click here](http://www.wellingtonnz.com/Templates/Content/General.aspx?NRMODE=Published&NRNODEGUID=%7b886D7D87-7306-4704-B8CF-7E88B1FF4DF4%7d&NRORIGINALURL=%2fAdministration%2fSupportPages%2fPrivacyStatement%2ehtm&NRCACHEHINT=NoModifyGuest#data)
+  * To access the table of personal data collected and purposes for which they are used, please [click here](http://wellingtonnz.com/Templates/Content/General.aspx?NRMODE=Published&NRNODEGUID=%7b886D7D87-7306-4704-B8CF-7E88B1FF4DF4%7d&NRORIGINALURL=%2fAdministration%2fSupportPages%2fPrivacyStatement%2ehtm&NRCACHEHINT=NoModifyGuest#data)
   * We do not collect or use personal data for any purpose other than that indicated in the table below. 
   * If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected 
 
