@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dustinbrewer.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506130813id_/http%3A//dustinbrewer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dustinbrewer.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011214229id_/http%3A//dustinbrewer.com/privacy.php) for the most accurate reproduction.*
 
-# dustin brewer - the technology of design and marketing (based out of Oklahoma City)
-
-### :Privacy Policy 
+# dustin brewer | your source for web design stuff
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
