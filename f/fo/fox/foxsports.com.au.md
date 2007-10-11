@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606034018id_/http%3A//www.foxsports.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011172238id_/http%3A//www.foxsports.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-News Digital Media (NDM) and Premier Media Group (PMG) recognise the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to the foxsports.com.au web site, subscribers to and users of our services, purchasers of our products and advertising customers and references to 'we', 'our' or 'us' includes NDM and PMG.
+Premier Media Group (PMG) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to the FOXSPORTS.com.au web site, subscribers to and users of our services, purchasers of our products and advertising customers and references to 'we', 'our' or 'us' includes PMG.
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
@@ -23,11 +23,12 @@ We may collect certain non-personal information to optimise our goods and servic
 We may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes. 
 
 **Security**   
-NDM strives to ensure the security, integrity and privacy of personally identifiable information of our customers. NDM uses a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. 
+PMG strives to ensure the security, integrity and privacy of personally identifiable information of our customers. PMG uses a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. 
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
 
-**Access to Personal Information** You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. To request access, please contact one of our privacy officers as set out at the end of this document.
+**Access to Personal Information**  
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. To request access, please contact our privacy officers as set out at the end of this document.
 
 Public Information   
 Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
@@ -36,9 +37,9 @@ Any information posted on bulletin boards and/or communicated in chat areas beco
 Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
 
 **Online Links to Third Party and Co-Branded Sites**  
-We may establish relationships with business partners that allow visitors to the foxsports.com.au website to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. 
+We may establish relationships with business partners that allow visitors to the FOXSPORTS.com.au website to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. 
 
-We are not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of those third party sites. Once you have left the foxsports.com.au website via such a link, you should check the applicable privacy policy of the third party site. 
+We are not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of those third party sites. Once you have left the FOXSPORTS.com.au website via such a link, you should check the applicable privacy policy of the third party site. 
 
 **What else you should know about privacy on the Internet**   
 Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. 
@@ -46,17 +47,9 @@ Remember to close your browser when you have finished your user session. This is
 Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet. 
 
 **For further information**  
-Please contact NDM's Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
+Please contact ourPrivacy Officer to ask for access to your information, if you have a complaint concerning your information privacy, if you would like more information about our approach to privacy. 
 
 Privacy Officer  
-News Digital Media  
-Contact us through this online form  
-02 9288 3000  
-Level 3  
-2 Holt Street  
-Surry Hills 2010
-
-If you wish to access your information which may have been collected during the course of or in connection with a competition or trade promotion conducted by PMG or FOX SPORTS or in connection with any feedback or information you may have provided to PMG via any means including via the foxsports.com.au website or the Your Shout SMS service, please contact:  
 Premier Media Group Pty Limited  
 Business & Corporate Affairs Department  
 Level 2  
