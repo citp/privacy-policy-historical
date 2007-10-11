@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627011933id_/http%3A//www.digitalartsonline.co.uk/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011072703id_/http%3A//www.digitalartsonline.co.uk/about/privacy.cfm) for the most accurate reproduction.*
 
 # Digital Arts - Privacy Policy
 
@@ -10,6 +10,9 @@
   * [Subscribe](https://web.archive.org/buy/subscribe.cfm)
 
 
+  * [BIMA Awards 2007](https://web.archive.org/awards)
+
+
   * [Forums](https://web.archive.org/forums/index.cfm)
   * [Events](https://web.archive.org/events/index.cfm)
   * [Competitions](https://web.archive.org/intqa/index.cfm)
@@ -19,11 +22,11 @@
 
 [](http://www.digitalartsonline.co.uk/magazine/index.cfm)
 
-**[Digital Arts 2 - out now](http://www.digitalartsonline.co.uk/magazine/index.cfm)**  
-**Character creation**  
-T-shirt art  
-Labs: Compact cameras  
-CD: FREE! Creative Suite 3 videos, 30 stock images
+**[Digital Arts October - out now](http://www.digitalartsonline.co.uk/magazine/index.cfm)**  
+**Creative brainstorming**  
+Aardman chickens out  
+Labs: Pro photo printers  
+CD: FREE! Final Cut Studio tutorials, 50 stock images
 
 [](http://www.digitalartsonline.co.uk/forums/)
 
