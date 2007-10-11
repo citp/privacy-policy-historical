@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617174120id_/http%3A//onlineconversion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011052543id_/http%3A//www.onlineconversion.com/privacy.htm) for the most accurate reproduction.*
 
 # Online Conversion - Privacy Statement
 
