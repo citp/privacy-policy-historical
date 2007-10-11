@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbug.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011180512id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/privacy_policy) for the most accurate reproduction.*
 
-# Fashion Bug - Fun and affordable clothing for women in plus, misses, juniors, maternity and girls sizes
+# Fashion Bug - Fun and affordable clothing for women in plus, misses, juniors and girls sizes
 
+Privacy Policy
+
+What is your internet privacy policy?  
   
-internet privacy policy  
+What information do you collect when I visit your Web sites?  
   
-what is your internet privacy policy?  
+What is your e-mail policy?  
   
-what information do you collect when I visit your Web sites?  
+How do you use my information?  
   
-what is your e-mail policy?  
+What if my information changes?  
   
-how do you use my information?  
+How do I opt out of sharing of my information?  
   
-what if my information changes?  
+What is your position on children's privacy?  
   
-how do I opt out of sharing of my information?  
+What is your security policy?  
   
-what is your position on children's privacy?  
+How can I verify the security of your Web sites?  
   
-what is your security policy?  
+What are cookies, and do you use them?  
   
-how can I verify the security of your Web sites?  
+Will your privacy and security policies ever change?  
   
-what are cookies, and do you use them?  
-  
-will your privacy and security policies ever change?  
-  
-how can I contact you with my suggestions or questions?  
+How can I contact you with my suggestions or questions?  
   
 
 
@@ -36,7 +35,7 @@ This Web site is operated by Charming Shoppes Interactive, Inc. on behalf of Fas
   
 Charming Shoppes, Inc. and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.
 
-what is your internet privacy policy?  
+What is your internet privacy policy?  
 This Privacy Policy tells you what personally identifiable information and personal information we may collect from our customers and investors, how we may share this information, and how you can limit our sharing of your information. “Personally identifiable information” and “personal information” mean any information by which you can be identified, such as your name, address and telephone number.  
   
 Charming Shoppes, Inc. is a member of the Direct Marketing Association. As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association Privacy Promise to American consumers](http://www.the-dma.org/privacy/privacy_promise.pdf). Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from any of our brands.   
@@ -45,19 +44,19 @@ Our Web sites may contain links to other Web sites that are not under our contro
   
 top
 
-what information do you collect when I visit your Web sites?  
+What information do you collect when I visit your Web sites?  
 Generally, our customers and investors can visit our Web sites without providing or revealing any personal or personally identifiable information. We receive and store certain types of information whenever visitors interact with our Web sites. We may track the Internet domain address from which our visitors visit our Web sites and analyze this data for trends and statistics. Unless a visitor to our Web sites voluntarily provides personal information to us, each individual customer remains anonymous.  
   
 We receive and may store certain personal information that our visitors enter when visiting our Web sites or provide to us in other ways. For instance, we collect the information you provide to us when you place an order, register with us, send an e-mail or call us, enter a sweepstakes or contest, subscribe to a service, enroll in a club, request to receive a catalog, or participate in a promotion. This information may include your name, shipping/billing address, telephone number, e-mail address, credit card information, product purchases, birth date, gender, occupation, personal interests, and other similar personal or preference data that you provide to us. It may also include information you submit about other people such as the name and address of a gift recipient. Whether or not you provide such information to us is completely your own choice.  
   
 top
 
-what is your e-mail policy?  
+What is your e-mail policy?  
 We will not sell, rent, or trade your e-mail address to any unaffiliated third party. We believe that your e-mail address is personal and should be kept that way. We use your e-mail address to provide better customer service, and to be able to inform you of the Internet offers and promotions from the Charming Shoppes, Inc. family of businesses.  
   
 top
 
-how do you use my information?  
+How do you use my information?  
 We use the personal and/or personally identifiable information you provide for our internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products (including products of our affiliates), services and offers, and providing you with information from and about our stores, catalogs and Web sites.  
   
 From time to time, we may also work with other organizations that we believe are trustworthy and offer products or services that may be of interest to you. In such instances, we might share limited information (such as your name and postal address) that we have collected from you, including personally identifiable information, so that such organizations may contact you with offers that may interest you. Be assured, however, that we will not share your information with these organizations if you have requested that we refrain from doing so.  
@@ -76,49 +75,49 @@ Finally, if some or all of the business assets of any Charming Shoppes company a
   
 top
 
-what if my information changes?  
-You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/InputHandler/my_account_update)  
+What if my information changes?  
+You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences.](https://web.archive.org/web/20071011180512id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/InputHandler/my_account_update)  
   
-If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
-  
-top
-
-how do I opt out of sharing of my information?  
-You may [opt out of future unaffiliated third-party disclosures](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/login_register_account?loginclear=Y) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter.  
+If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/web/20071011180512id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us) with your request or write to us at Charming Shoppes, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.  
   
 top
 
-what is your position on children's privacy?  
+How do I opt out of sharing of my information?  
+You may [opt out of future unaffiliated third-party disclosures](https://web.archive.org/web/20071011180512id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/login_register_account?loginclear=Y) of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter.  
+  
+top
+
+What is your position on children's privacy?  
 Our Web sites are general-audience Web sites and are not directed to anyone under the age of thirteen (“Children”) (with the exception of our affiliated Web site fashionbuggirls.com, which does not solicit information from visitors). We do not seek to solicit information from Children. If Children submit information to us and we know that the individuals submitting the information are indeed Children, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. We urge parents and guardians to participate in their Children's online activities and use parental control or Web filtering technology to supervise Children's access to the Internet.  
   
 top
 
-what is your security policy?  
+What is your security policy?  
 Because we all benefit from secure online shopping, we have taken steps to build and manage a system that you can use with confidence. We use sophisticated encryption and authentication tools to protect the security of the personal information that you share with us. The personal information you provide to us is preserved behind a firewall, instead of being directly connected to the Internet. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your transmission, we have appropriate security measures in place within our physical facilities to protect against the loss, misuse, or alteration of the personal information you have provided to us.  
   
 We urge you to keep your password for our Web sites in a safe place and not divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit to any of our Web sites. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.  
   
 top
 
-how can I verify the security of your Web sites?  
+How can I verify the security of your Web sites?  
 We use industry-standard efforts such as firewalls, data-encryption methods and password-protected data sources to safeguard the confidentiality of your information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to reasonably safeguard and secure the information we collect online. If sensitive data is collected through this Web site, we will encrypt your personal information before it travels over the Internet using industry standards for secure online transactions.  
   
 top
 
-what are cookies, and do you use them?  
+What are cookies, and do you use them?  
 Our Web sites use cookies. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are; tailor our products and services to suit your personal interests; estimate the number of visitors to our Web sites; track visits to and sales at the stores referenced on our Web sites; process your order; track your status in our promotions, contests, and sweepstakes; and/or analyze our customers’ visiting patterns. You can generally set your browser to refuse to accept cookies, or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. We do not use cookies to store any of your personal or financial information on your computer.  
   
 In addition, we use third-party companies to help us gather data to assist us in improving your shopping experience and the quality of our Web site. Some of these companies may use cookies on our behalf to conduct this analysis.  
   
 top
 
-will your privacy and security policies ever change?  
+Will your privacy and security policies ever change?  
 From time to time, our privacy and security practices may change. If we modify our Privacy Policy, in whole or in part, to address these changes, we will indicate when such changes are made by changing the “Last Updated” date at the beginning of this Policy. Those changes will be effective as of the Last Updated date. The new policy will apply to all current and past users of our Web sites and will replace any prior policies that are inconsistent. We may change or add to this Policy, so we encourage you to review it periodically.  
   
 top
 
-how can I contact you with my suggestions or questions?  
-To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20070629232223id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us)  
+How can I contact you with my suggestions or questions?  
+To help us improve our privacy and security policies and practices, please send us your questions and feedback. [Send us an e-mail.](https://web.archive.org/web/20071011180512id_/http%3A//fashionbug.charmingshoppes.com/pagebuilder/customer_service_email_us)  
   
 top
 
