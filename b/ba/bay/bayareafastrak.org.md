@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617153649id_/http%3A//www.bayareafastrak.org/static/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayareafastrak.org privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011185103id_/http%3A//www.bayareafastrak.org/static/privacy/index.shtml) for the most accurate reproduction.*
 
 # FasTrak® - Keeping the Bay Area Moving
 
