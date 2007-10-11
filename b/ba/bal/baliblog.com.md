@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baliblog.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407073111id_/http%3A//www.baliblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliblog.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055235id_/http%3A//www.baliblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bali Blog
+# Privacy Policy
 
 BootsnAll Travel Network (”BTN”) is the owner of the information collected on http://www.BaliBlog.com. BTN collects information from our users at several different points on our Web sites.
 
