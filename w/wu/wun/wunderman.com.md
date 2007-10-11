@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626092051id_/http%3A//www.wunderman.com/privacy/214.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114039id_/http%3A//www.wunderman.com/privacy/214.asp) for the most accurate reproduction.*
 
 # Privacy
 
