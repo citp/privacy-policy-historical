@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075459id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astahost.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011085644id_/http%3A//www.astahost.com/info.php/privacy-policy_t2283.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
