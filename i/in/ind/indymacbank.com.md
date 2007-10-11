@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indymacbank.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626075609id_/http%3A//www.indymacbank.com/externalHost.asp%3Fl%3Dimbcorp%26p%3Ddefault.aspx%3Fpid%3Doc%5CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indymacbank.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011063257id_/http%3A//www.indymacbank.com/externalHost.asp%3Fl%3Dimbcorp%26p%3Ddefault.aspx%3Fpid%3Doc%5CPrivacyPolicy) for the most accurate reproduction.*
 
 # IndyMac Bank - Our Company : Privacy Policy
 
@@ -47,7 +47,7 @@ Our Former Customers
 
 Rest assured that even if you are no longer a customer of Indymac, we will continue to treat the information we have with the same level of confidentiality. We appreciate your business and want you to understand our commitment to maintaining the privacy of your personal information, as expressed in this Privacy Policy. This Privacy Policy applies to individual consumers. We reserve the right to amend this Privacy Policy at any time. 
 
-The following is a list, effective as of July 1, 2006, of the companies within the IndyMac family to which this Privacy Policy applies: IndyMac Bank, F.S.B., Financial Freedom Senior Funding Corporation, IndyMac Financial Services, Inc., IndyMac Agency, Inc., IndyMac Securities Corporation, IndyMac Escrow Company, Inc., IBA, LLC, IndyMac Housing Foundation, Inc., IndyMac Bancorp, Inc., Loan Associates, LLC, FrontPath, Inc. For updated information regarding our affiliated family of companies, please refer to our web site privacy policy at www.indymacbank.com. 
+The following is a list, effective as of July 1, 2007, of the companies within the IndyMac family to which this Privacy Policy applies: IndyMac Bank, F.S.B., Financial Freedom Senior Funding Corporation, IndyMac Financial Services, Inc., IndyMac Agency, Inc., IndyMac Securities Corporation, IndyMac Agencies Inc., IndyMac Retained Assets, IndyMac Commercial Lending Corporation, MortgageLine, LoanWorks, New York Mortgage Company, IndyMac Escrow Company, Inc., IBA, LLC, IndyMac Housing Foundation, Inc., IndyMac Bancorp, Inc., Loan Associates, LLC, FrontPath, Inc.
 
 Notice regarding rights under state laws: We will also comply with applicable state laws that provide you with greater privacy rights, to the extent not preempted by federal law. 
 
@@ -60,3 +60,6 @@ We honor our customers' privacy choices. For accounts with multiple customers we
 Your Rights
 
 You have the following rights to restrict the sharing of personal and financial information with our affiliates and outside companies that we do business with. You also have the right to limit our affiliates from marketing their products and services to you based on information that we share with them. Nothing prohibits the sharing of information necessary for us to follow the law, as permitted by law, or to give you the best service on your accounts with us. This includes sending you information about some other products or services.
+
+  
+
