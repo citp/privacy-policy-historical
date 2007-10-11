@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211081106id_/http%3A//party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -22,16 +22,17 @@
     [Sign-In Books](http://www.party411.com/sign-in-books.html)  
 • [Bottle Labels](http://www.party411.com/custom-labels.html)  
 • [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
-• [Favors, Accessories](https://web.archive.org/web/20061211081106id_/http%3A//party411.com/custom-favors.html)  
+• [Seating Cards](http://www.party411.com/custom-seating.html)  
+• [Favors, Accessories](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/custom-favors.html)  
     [and more!](http://party411.makesparties.com/)  
 • [Custom Party Plans](http://www.party411.com/partyhelp.html)  
-• [Creations for You](http://www.party411.com/custom)
+• [Creations for You](http://www.party411.com/custom.html)
 
 **Plan Your Party**  
 • [Theme Parties](http://www.party411.com/themes.html)  
 • [Special Occasions](http://www.party411.com/special-occasions.html)  
 • [Holiday Parties](http://www.party411.com/holidays.html)  
-• [Corporate Event](http://www.party411.com/corporate_events.html)  
+• [Corporate Event](http://www.party411.com/corp-guides.html)  
     [Planning](http://www.party411.com/corporate_events.html)  
 • [Party Decorating411](http://www.party411.com/decorating411.html)  
 • [Party Games](http://www.party411.com/gameguide.html)  
@@ -71,7 +72,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20061211081106id_/http%3A//party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20071011075044id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
