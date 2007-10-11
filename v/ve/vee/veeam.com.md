@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623024148id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011132046id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.*
 
 # Veeam - tools for VMware virtual machines management
 
