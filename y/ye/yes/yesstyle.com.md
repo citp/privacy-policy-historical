@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219212837id_/http%3A//www.yesstyle.com/Help/Section.aspx%3Fsection%3Dcs%26sectionId%3D754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011170856id_/http%3A//www.yesstyle.com/en/Help/Section.aspx%3Fsection%3Dcs%26sectionId%3D754) for the most accurate reproduction.*
 
 # YesStyle.com: Customer Support
 
