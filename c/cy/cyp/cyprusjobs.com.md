@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408162448id_/http%3A//www.cyprusjobs.com/content.php%3Fparent_id%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011041546id_/http%3A//www.cyprusjobs.com/content.php%3Fparent_id%3D13) for the most accurate reproduction.*
 
-# Cyprus Jobs
+# Privacy Policy
 
 **Privacy and other Policies of the Cyprus Vortal Network**
 
