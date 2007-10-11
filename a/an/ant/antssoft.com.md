@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antssoft.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618080845id_/http%3A//www.antssoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antssoft.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011092652id_/http%3A//www.antssoft.com/privacy.htm) for the most accurate reproduction.*
 
 # AntsSoft Privacy Policy
 
