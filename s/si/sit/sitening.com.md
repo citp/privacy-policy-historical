@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629101018id_/http%3A//sitening.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitening.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011144738id_/http%3A//sitening.com/privacy-policy) for the most accurate reproduction.*
 
-# Sitening Privacy Policy
+# Sitening Privacy Policy - Nashville SEO, SEM, Internet Strategy and Web Design
 
-_November 1, 2006_
+## Sitening Privacy Policy
+
+### November 1, 2006
 
 At Sitening we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Sitening LLC or its subsidiaries or affiliated companies (collectively, Sitening's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -91,8 +93,3 @@ Sitening regularly reviews its compliance with this Policy. Please feel free to 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o Sitening LLC, 3004 Poston Ave, Unit #B, Nashville, TN 37203, USA.
-
-Sitening provides SEO, SEM, PPC, Internet Strategy, Web Design and Web Development services. All Contents © 2004--2020 
-  *[SEO]: Search Engine Optimization
-  *[SEM]: Search Engine Marketing
-  *[PPC]: Pay Per Click
