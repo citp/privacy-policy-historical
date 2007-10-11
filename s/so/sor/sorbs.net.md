@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627123840id_/http%3A//www.au.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011101226id_/http%3A//www.au.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy [Doc Id: privacy.shtml 1.1.1.1 2007/02/24 09:50:29]
+# Privacy Policy [ Doc: privacy.shtml Changed: 06:47:01 19-07-2007 by matthew ]
 
 **Follows is the lawyer approved privacy statement that applies to all websites of:**
 
@@ -9,7 +9,7 @@ PO Box 5150
 Bruce   
 ACT 2617   
 AU   
-+61 2 6201 5928 
++61 2 800 46 200 
 
 [abuse@sorbs.net](mailto:abuse@sorbs.net)
 
