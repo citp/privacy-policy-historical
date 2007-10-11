@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aveeno.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607181724id_/http%3A//www.aveeno.com/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aveeno.com privacy policy that was archived on 2007-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011100542id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -33,70 +33,86 @@
 <body>
 <div id="container">
 	
-	<div id="choose_country">
-	<div id="choose_country_input" style="display:none;">
-		<a href="#" title="Go"><img src="images/b/go.gif" alt="Go"></a>
-		<select name="">
-			<option>Choose your Country</option>
-		</select>
+	<!-- begin of Disclaimer popup -->
+<div id="popup">
+	<div class="textPopup">
+		This link will take you to a Web site to which this <a href="privacy-policy.jsp" title="Privacy Policy">Privacy Policy</a> does not apply. We encourage you to read the <a href="privacy-policy.jsp" title="Privacy Policy">Privacy Policy</a> of every Web site you visit.		
 	</div>
+	<a href="#" onclick="closeDisclaimer('popup');" class="accept" id="link" target="_blank" title="Accept"></a>
+	<a href="javascript:closeDisclaimer('popup');void(0);" class="decline" title="Decline"></a>
 </div>
-<div id="header">
+<!-- end of Disclaimer popup -->
+
+<div id="choose_country">
+	<div id="choose_country_input">
+		<select id="country_select" onchange="if(this.value!=''){showDisclaimer('popup', this.value)}">
+			<option value="">Choose your Country</option>
+			<option value="http://www.aveeno.co.uk">United Kingdom</option>
+			<option value="http://www.aveeno.ca">Canada</option>
+			<option value="http://www.aveeno.co.kr">Korea</option>
+			<option value="http://www.aveeno.com.au">Australia</option>			
+		</select>
+  </div>
+</div>
+<div id="header" style="z-index:99;position:relative;">
+
 	<div id="nav_top">
 		<ul>
 			<li><a href="index.jsp" title="Home"><img src="images/m/home.gif" alt="Home" id="item_menu_1"></a></li>
-			<li><a href="products.jsp" title="Products"><img src="images/m/products.gif" alt="Products" id="item_menu_2"></a></li>
+			<li><a href="javascript:toggleProdMenu('menu_prod_container');void(0);" title="Products"><img src="images/m/products.gif" alt="Products" id="item_menu_2"></a></li>
 			<li><a href="active-naturals.jsp" title="Science of ACTIVE NATURALS®"><img src="images/m/science_active_naturals.gif" alt="Science of ACTIVE NATURALS®" id="item_menu_3"></a></li>
-			<li><a href="skin-care-advisor.jsp" title="Skin Care Advisor"><img src="images/m/skin_care_advisor.gif" alt="Skin Care Advisor" id="item_menu_4"></a></li>
-			<li style="display:none;"><a href="new-noteworthy.jsp" title="New &amp; Noteworthy"><img src="images/m/new_noteworthy.gif" alt="New &amp; Noteworthy" id="item_menu_5"></a></li>
+			<li><a href="skinCareAdvisor.do" title="Skin Care Advisor"><img src="images/m/skin_care_advisor.gif" alt="Skin Care Advisor" id="item_menu_4"></a></li>
+			<li><a href="newNoteworthy.do" title="New &amp; Noteworthy"><img src="images/m/new_noteworthy.gif" alt="New &amp; Noteworthy" id="item_menu_5"></a></li>
 			<li><a href="where-to-buy.jsp" title="Where to Buy"><img src="images/m/where_to_buy.gif" alt="Where to Buy" id="item_menu_6"></a></li>
-			<li style="display:none;"><img src="images/m/search.gif" alt="Search" title="Search"></li>
-			<li style="display:none;"><input name="" type="text" style="width:144px;"></li>
-			<li style="display:none;"><a href="#" title="Go"><img src="images/b/go_1.gif" alt="Go"></a></li>
+			<!-- 
+			<li><img src="images/m/search.gif" alt="Search" title="Search" /></li>
+			<li><input name="" type="text" style="width:144px;" /></li>
+			<li><a href="#" title="Go"><img src="images/b/go_1.gif" alt="Go" /></a></li>
+			  -->  
 		</ul>
 	</div>
 	<div id="menu_prod_container">
 		<div id="menu_prod_1">
 			<p>FACIAL CARE</p>
 			<ul>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Cleansers</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Toners</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
+				<li><a href="segmentAction.do?segid=1000&amp;catid=1000"><img src="images/i/arrow_1.gif" alt="">Cleansers</a></li>
+				<li><a href="segmentAction.do?segid=1002&amp;catid=1000"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
 			</ul>
 		</div>
 		<div id="menu_prod_2">
 			<p>BODY CARE</p>
 			<ul>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Body Washes</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Bath Additives</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Shave Gels</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Anti-itch Products</a></li>
+				<li><a href="segmentAction.do?segid=1003&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Body Washes</a></li>
+				<li><a href="segmentAction.do?segid=1004&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Bath Additives</a></li>
+				<li><a href="segmentAction.do?segid=1005&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
+				<li><a href="segmentAction.do?segid=1006&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Shave Gels</a></li>
+				<li><a href="segmentAction.do?segid=1007&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Anti-itch Products</a></li>
 			</ul>
 		</div>
 		<div id="menu_prod_3">
 			<p>LIP CARE</p>
 			<ul>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Lip Conditioners</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Cold Sore Products</a></li>
+				<li><a href="segmentAction.do?segid=1014&amp;catid=1003"><img src="images/i/arrow_1.gif" alt="">Lip Conditioners</a></li>
+				<li><a href="segmentAction.do?segid=1015&amp;catid=1003"><img src="images/i/arrow_1.gif" alt="">Cold Sore Products</a></li>
 			</ul>
 		</div>
 		<div id="menu_prod_4">
 			<p>BABY CARE</p>
 			<ul>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Bath Products</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Lotions &amp; Creams</a></li>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Diaper Rash</a></li>
+				<li><a href="segmentAction.do?segid=1008&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Bath Products</a></li>
+				<li><a href="segmentAction.do?segid=1009&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Lotions &amp; Creams</a></li>
+				<li><a href="segmentAction.do?segid=1010&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Diaper Rash</a></li>
+				<li><a href="segmentAction.do?segid=1018&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Sun Care</a></li>
 			</ul>
 		</div>
 		<div id="menu_prod_5">
 			<p>SUN CARE</p>
 			<ul>
-				<li><a href="#"><img src="images/i/arrow_1.gif" alt="">Sun Protection</a></li>
+				<li><a href="sunCare.do"><img src="images/i/arrow_1.gif" alt="">Sun Protection</a></li>
 			</ul>
 		</div>
 		<div id="prod_lines">
-			<a href="products-main.jsp" title="Browse the AVEENO® Product Lines"><img src="images/b/browse_prod_line.gif" alt="Browse the AVEENO® Product Lines"></a>
+			<a href="productsMain.do" title="Browse the AVEENO® Product Lines"><img src="images/b/browse_prod_line.gif" alt="Browse the AVEENO® Product Lines"></a>
 		</div>
 		<div id="right_shadow" style="display:none">
 		</div>
@@ -225,16 +241,63 @@ If this Privacy Policy changes, the revised policy will be posted on this site. 
 		<li class="footer_spacer"></li>
 		<li><a href="javascript:openPopup(300,200,'contact-pop.jsp','ContactUs');void(0);">Contact Us</a></li>
 	</ul>
-	<p>
-		© Johnson &amp; Johnson Consumer Companies Inc. 2005 - 2007.
-		This site is published by Johnson &amp; Johnson Consumer Companies, which is solely responsible for its content.<br>
-		It is intended for visitors from the U.S.
-	</p>
+	<p>© Johnson &amp; Johnson Consumer Companies, Inc. 2005 - 2007. This site  is published by Johnson &amp; Johnson Consumer Products Company  Division of Johnson &amp; Johnson Consumer Companies, Inc. which is  solely responsible for its content. It is intended for visitors from  the U.S.</p>
 </div>
-<script type="text/javascript" src="js/tabControl.js"></script>
+  <div id="menu_prod_container">
+		<div id="menu_prod_1">
+			<p>FACIAL CARE</p>
+			<ul>
+				<li><a href="segmentAction.do?segid=1000&amp;catid=1000"><img src="images/i/arrow_1.gif" alt="">Cleansers</a></li>
+				<li><a href="segmentAction.do?segid=1001&amp;catid=1000"><img src="images/i/arrow_1.gif" alt="">Toners</a></li>
+				<li><a href="segmentAction.do?segid=1002&amp;catid=1000"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
+			</ul>
+		</div>
+		<div id="menu_prod_2">
+			<p>BODY CARE</p>
+			<ul>
+				<li><a href="segmentAction.do?segid=1003&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Body Washes</a></li>
+				<li><a href="segmentAction.do?segid=1004&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Bath Additives</a></li>
+				<li><a href="segmentAction.do?segid=1005&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Moisturizers</a></li>
+				<li><a href="segmentAction.do?segid=1006&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Shave Gels</a></li>
+				<li><a href="segmentAction.do?segid=1007&amp;catid=1001"><img src="images/i/arrow_1.gif" alt="">Anti-itch Products</a></li>
+			</ul>
+		</div>
+		<div id="menu_prod_3">
+			<p>LIP CARE</p>
+			<ul>
+				<li><a href="segmentAction.do?segid=1014&amp;catid=1003"><img src="images/i/arrow_1.gif" alt="">Lip Conditioners</a></li>
+				<li><a href="segmentAction.do?segid=1015&amp;catid=1003"><img src="images/i/arrow_1.gif" alt="">Cold Sore Products</a></li>
+			</ul>
+		</div>
+		<div id="menu_prod_4">
+			<p>BABY CARE</p>
+			<ul>
+				<li><a href="segmentAction.do?segid=1008&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Bath Products</a></li>
+				<li><a href="segmentAction.do?segid=1009&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Lotions &amp; Creams</a></li>
+				<li><a href="segmentAction.do?segid=1010&amp;catid=1002"><img src="images/i/arrow_1.gif" alt="">Diaper Rash</a></li>
+			</ul>
+		</div>
+		<div id="menu_prod_5">
+			<p>SUN CARE</p>
+			<ul>
+				<li><a href="sunCare.do"><img src="images/i/arrow_1.gif" alt="">Sun Protection</a></li>
+			</ul>
+		</div>
+		<div id="prod_lines">
+			<a href="productsMain.do" title="Browse the AVEENO® Product Lines"><img src="images/b/browse_prod_line.gif" alt="Browse the AVEENO® Product Lines"></a>
+		</div>
+		<div id="right_shadow" style="display:none">
+		</div>
+	</div>
 
 	
 </div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2385172-1";
+urchinTracker();
+</script>
 
 
 </body></html>
