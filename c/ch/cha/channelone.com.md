@@ -1,82 +1,97 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509125745id_/http%3A//www.channelone.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011082808id_/http%3A//www.channelone.com/static/privacy) for the most accurate reproduction.*
 
 # ChannelOne.com - Privacy Policy - ChannelOne.com policies regarding personal information
 
 ## **Privacy Policy**
 
-Updated: May 6, 2007 
+Updated: October 9, 2007 
 
-We at ChannelOne.com care about your safety and privacy. That's why we've set up this area of our site to tell you about our Online Privacy Policy. We'll tell you what personally identifiable information of yours may be collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information that ChannelOne.com has about you; and how you can correct any inaccuracies in the information. 
+_We at ChannelOne.com care about your safety and privacy. That's why we've set up this area of our site to tell you about our Online Privacy Policy. We'll tell you what personally identifiable information of yours may be collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information that ChannelOne.com has about you; and how you can correct any inaccuracies in the information._
 
-We hope teens, their teachers and their parents visit our site often, and share their comments and questions. 
+**CHANNELONE.COM PRIVACY POLICY**  
+Thank you for visiting [www.channelone.com](http://www.channelone.com/) ("the Site")! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website owned and operated by Channel One, LLC. 
 
-**So...Who operates this site?**  
-This site is operated by ChannelOne.com, a PRIMEDIA, Inc. company. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site. 
+Disclosure Regarding Collection and Use of Personal Information Through the Site, users may enter Personal Information about themselves. This Policy explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your Personal Information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline. 
 
-**Hey Parents!**  
-The Children's Online Privacy Protection Act of 1998 (COPPA) and the guidelines of the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc. establish special rules on the collection of personal information online from children under 13. Parents, you can help by spending time online with your children and monitoring your children's online use. Please help us protect your child's privacy by instructing them never to provide personal information on this site or any other without your permission. Please review the information below to familiarize yourself with our policies on Web site privacy.
+**REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO PLEASE REVIEW IT FROM TIME TO TIME.**
 
-We do not knowingly collect and keep any personal information online from you or your child unless it is volunteered and submitted by a person 13 or older. We also do not collect and keep personal information online from children under the age of 13 without their parent's consent except in limited circumstances authorized by law and described in this policy. We do not require a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation. 
+**The Information We Collect**  
+We may collect information about you through a variety of methods, such as games, quizzes, contests, participation in our chat rooms, forums or the like or from other documents that you submit to us, transactions in which you may engage with us or our affiliated companies, via phone or through other modes of communication or through visits that you may make to the Site. This Policy applies to all personally identifiable information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history), federal loan history information (e.g., loan amount, loan type, school and lender) or identifying information (e.g., social security number, date of birth) that we may obtain in connection with providing services ("Personal Information"). You may view or change your information at any time by emailing us at [privacy@channelone.com](mailto:privacy@channelone.com). 
 
-**What's "Personal Information" and why should I care about it?**  
-Personal Information is defined as anything that allows you to be located online or offline, like: 
+**Other Collected Information**  
+We also may collect certain non-Personal Information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS), the IP address you are using to connect to the Site and the domain name of your Internet service provider (e.g., America Online or Earthlink). 
 
-  * First and Last Name
-  * Physical Address (street, city, state, etc.)
-  * Email Address
-  * Telephone Number
-  * Social Security Number
-  * A Persistent Identifier (like your e-mail address)
-  * Information Collected Online and Combined with identifying information
+**How We Use Your Personal Information**  
+The Site uses your Personal Information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, the Site may use your Personal Information to communicate with you or to send you information that you have requested. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share Personal Information provided online with companies affiliated with or owned directly or indirectly by our parent company, [Alloy, Inc.](http://www.alloymarketing.com/) ("Alloy"). Any of these companies may use and further share this information in the same ways we do. However, if we pass on Personal Information to a family company, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a family company may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you. A family company may also contact you offline. If you want to opt-out from Channel One's database (or from that of a family company) using the Personal Information you provided in these ways, please [email us](mailto:privacy@channelone.com). 
+
+**Updating or Removing Your Personal Information**  
+Please [email us](mailto:privacy@channelone.com) at any time to update or remove your Personal Information.
+
+**How We Share Your Personal Information**  
+We will not share with third parties the Personal Information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons or companies with whom we contract to carry out internal site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. Examples of us sharing your Personal Information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as sending an e-mail). As stated above, we do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy and may also share Personal Information provided online with companies affiliated with or owned directly or indirectly by Alloy. Any of these companies may use and further share this information in the same ways we do. However, if we pass on Personal Information to a family company, we require that it protect such information in a manner that is consistent with this policy. If you want us to stop sharing your Personal Information among Alloy-owned companies, please [email us](mailto:privacy@channelone.com). 
+
+Additionally, with your consent, we may share the Personal Information you provide online with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as sending to you an e-mail). Companies with whom we might share your Personal Information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you want us to stop sharing your Personal Information with these companies, please [email us](mailto:privacy@channelone.com). If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your Personal Information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. 
+
+If we do share Personal Information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your Personal Information. 
+
+**Use and Disclosure of Anonymous Information**  
+We sometimes use the non-Personal Information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including affiliated companies and non-affiliated companies. 
+
+**Email Choice/Opt-out**  
+If you would prefer not to receive email updates from us that may relate, for example, to new services or offerings, or other email notifications, you may opt-out of receiving these communications by [emailing us](mailto:privacy@channelone.com).
+
+**Collection of Information by Others**  
+The Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Site to be aware of when they leave the Site, and to read the privacy policies of each and every website that collects Personal Information. This privacy policy applies solely to information collected by the Site, through the Site.
+
+We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain information.
+
+**Cookies**  
+To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other Personal Information unless you choose to provide this information to us. However, once you choose to provide the Personal Information, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer. 
+
+We use cookies as a convenience feature to save you time, to understand how the Site is used, and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to the Site). We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit the Site in order to participate in certain functions of the Site. You should also know that companies that advertise on the Site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies. 
+
+**Clickstream Data**  
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use Clickstream Data as a form of non-Personal Information to anonymously determine how much time visitors spend on each page of the Site, how visitors navigate throughout the Site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve the Site. Any collection or use of Clickstream Data will be anonymous and aggregate. 
+
+**Supplementing Information**  
+From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources. 
+
+**Discussions and Community Tools**  
+We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your Personal Information in these areas, since anyone - not just us - may use publicly posted information. 
+
+**Our Commitment to Security**  
+We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online as well as offline. Whenever Personal Information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so. 
+
+**California-based Users**  
+Please refer to our specific "[California Privacy Policy](http://www.channelone.com/static/California_Privacy_Rights/index.html)" page. 
+
+**International Users**  
+If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. **IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION** (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML)). Users of the Site located in countries outside of the United States of America who submit Personal Information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.
+
+**How You Can Access or Correct Your Personal Information**  
+For instructions on how you can access the Personal Information that we have collected about you online, or how to correct any errors in such information, please [contact us](mailto:privacy@channelone.com).
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+**Special Note for Parents**  
+We will not knowingly accept Personal Information from anyone under 13 years old in violation of applicable laws. If you believe that your child under 13 has gained access to the Site without your permission, please [contact us](mailto:privacy@channelone.com). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
+
+**Transfer of Business Assets**  
+The Personal Information you provide is considered a company asset and may be included among transferred assets if we or any or all of its subsidiaries or affiliates or any of our assets are ever acquired by a third party. 
+
+**Changes to this Policy**  
+Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your Personal Information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of August 24, 2007. 
+
+**How to Contact Us**   
+If you have any questions or concerns about this privacy policy you may [email us](mailto:privacy@channelone.com) or write to the following address:   
 
 
+www.channelone.com  
+c/o Channel One, LLC  
+151 W. 26th Street, 11th Floor  
+New York, NY 10001   
+Attn: Privacy 
 
-In other words, personal information tells people how to get in touch with you-- online or offline-- and, when combined with other information (like if you're a guy or a girl, your favorite color, your favorite sport, or stuff like that), it tells someone who you are. 
-
-Why should you care? Because you shouldn't give out personal information to just anybody! That's why we've structured our site so that most of the time, you can interact with us and with our ChannelOne.com community without being identified. And, when we do have personal information about you, we use it only to fulfill your requests. 
-
-**OK. That makes sense. So what kind of personal information does ChannelOne.com collect from visitors, why do you collect it, and what do you guys do with it?**  
-We collect some types of non-personal information automatically. We only collect other information if you voluntarily provide it to enter a game or contest, participate in our chat rooms or forums, or the like. 
-
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send your data -- such as the web pages you view.) Your IP address does not identify you personally, and we don't associate it with other personal information you may voluntarily share with us. 
-
-We also collect limited information voluntarily supplied by visitors to answer your questions, allow you to post a comment or participate in chat or forums, and register for or enter our online games, sweepstakes and contests. 
-
-To make use of both the comments and chat functions, users may be asked to provide certain information as part of the registration process. To post comments or participate in chat, first name, age and city or state (used only for the purpose of publishing to accompany a comment or to participate in a chat). This is not the type of information that allows you to be located online or offline. Our chat areas are really message or bulletin boards, and special rules apply. They do not take place in real time, and we always delete your information before posting anything online. Our postings are moderated and reviewed by staff prior to posting to insure that information including your full name, offline address or e-mail address has been removed. 
-
-For online games and contests we may ask for name, email address, physical address, telephone number, age, school name and zip code, your gender, and your likes and dislikes, but only for the purpose of administering the prizes/awards. The information that we collect is for the sole purpose of administering the contest/s and awarding prizes/awards. It is available only to ChannelOne.com and those who provide services to our site or help us administer contests and sweepstakes. To be eligible to win, however, the parents of anyone under 18 must sign an affidavit of eligibility before the prize is awarded. 
-
-Our bottom line: we don't collect any data except to fulfill your requests and we don't sell it or share it with anybody who doesn't work for us to provide this web site service. 
-
-**OK. That's simple. So what about users under 13?**  
-We do not collect personal information online from users under 13 without their parent's consent except in special, limited circumstances authorized by COPPA. 
-
-For example, if a child under 13 sends us a request, we may use their email address to respond but delete this information from our system after we answer the question. If we offer opportunities for a child under 13 to sign up for an e-mail newsletter or other activity which requires multiple online contact with the child, we will ask the child for a parent's e-mail address so we can notify the parent and give them an opportunity to opt the child out. Sometimes we have special site activities or promotions, like sweepstakes or contests, which are open to children under 13. If we need more than just a first name or screen name and email address for you to participate, we may ask for your parent's email address so that we can notify your parents and/or get their permission for you to provide additional information we may need to administer the activity. When we ask for your parent's permission, we will tell them what information we need, what we will do with the information, and how to review your information and ask us to update or delete it. We will delete the information you provided if we don't get your parent's permission within a reasonable time or as specified in the rules for our sweepstakes or contests.
-
-**You offer some links to other sites. What can you tell me about their privacy policies?**  
-To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Although we do try to link only with sites who share our philosophy regarding information collection, and who indicate they do not intend to sell or share data with third parties, we don't control the privacy policies of other sites. Once you leave our servers (you can tell where you are by checking the Uniform Resource Locator (URL) in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
-
-**What security measures do you take regarding personal information?**  
-Only authorized ChannelOne.com employees and consultants who work directly on the site and who agree to keep information secure can access personal information. Our servers are in a secure location. Since we only collect and retain limited personal information to begin with, and we don't sell or share it with third parties, we're confident that any information we do have is protected. 
-
-**What are cookies and Web beacons, and how does ChannelOne use them?**  
-Many people believe that cookies are secret tracking devices that "spy" on everything you do. While it's true that cookies are used to identify you, they do not identify you personally. Instead, cookies contain a random, anonymous ID number which tells our server that you've been to our site before. Cookies are also used to "remember" whether or not you've seen certain things before, such as pop-up windows. Once you've seen a pop-up window (such as surveys or other ChannelOne.com promotions), a cookie is placed which will prevent the box from popping up again for a certain amount of time. 
-
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel GIFs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns. 
-
-Some of the banner ads displayed in our Website are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Primedia in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. DoubleClick is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see http://www.doubleclick.com/us/corporate/privacy.
-
-**Are there any exceptions to your privacy policy, and will you ever change your policy?**  
-We may use, retain or disclose personal information if required to do so by law, to cooperate in a legal investigation, or to protect the integrity of the site. Our privacy policy will be updated to reflect changes in legislation or fair information collection standards, but we won't make any retroactive change in how we handle personal data unless required to do so by law. 
-
-**What should I do if I have questions or want to update, change, or access information?**  
-If you have questions regarding our privacy policy, or would like to update, access or change your information, please e-mail us at [**privacypolicy@primedia.com**](mailto:privacypolicy@primedia.com) (be sure to include Channel One in the "Subject" line of your email), or contact us at:
-
-Privacy Coordinator  
-Primedia, Inc.  
-745 5th Ave.  
-New York, NY 10151
-
-Or you can fax us at (212) 745-0131, Att: Privacy Coordinator
-
-If you are a parent of a child under 13, you can, with proper identification, review the personal information we have about your child, request deletion, or refuse to allow further collection or use, by writing to our Privacy Coordinator at the above address. However, if you or your parent asks us to delete your information, we may have to ask you not to participate in our activities. 
+Telephone: (212) 401-0079  
+Facsimile: (212) 244-4311  
+E-mail: [privacy@channelone.com](mailto:privacy@channelone.com)
