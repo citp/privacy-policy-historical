@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sefcu.com privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503010644id_/http%3A//www.sefcu.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sefcu.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011023448id_/http%3A//www.sefcu.com/privacy.aspx) for the most accurate reproduction.*
 
 # SEFCU -
 
@@ -44,8 +44,6 @@ OR by phone at: 518-452-8183 (Capital Region), or 800-727-3328 (outside the 518 
 |  |  Search:   
 ---  
   
-[ ](https://web.archive.org/Pages/ABOUT%20SEFCU/News%20_%20Happenings/Scam%20Alerts)
-
 [ ](https://web.archive.org/Pages/Personal/Account%20Access%20_%20Customer%20Serv/In%20Person/ATM%20Safety%20Tips)
 
   
