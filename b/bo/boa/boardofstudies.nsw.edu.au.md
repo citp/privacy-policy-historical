@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620171029id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011074107id_/http%3A//boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
-# OBOS - Privacy Management Plan
+# - Board of Studies NSW
+
+  1. [Home](https://web.archive.org/)
+
+
 
   1. Introduction
 
@@ -891,5 +895,4 @@ Exemptions to section 19 apply. Exemptions which may apply to the Office include
   * where the individual expressly consents
 
 
-  
 
