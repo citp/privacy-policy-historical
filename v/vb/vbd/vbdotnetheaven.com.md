@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011031649id_/http%3A//www.vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mindcracker Network - Privacy Policy
 
-|  |   
----  
+|  |  |  |  |   
+---|---|---  
 |   
 ---  
 |   
 ---  
 | 
 
-Date: April 28, 2007
+Date: October 10, 2007
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
   
@@ -27,7 +27,7 @@ Information Collection and Use
 
 The information we collect may include your email, name, address, phone number, business name and address. We may also ask you to provide us with information regarding your personal or professional interests, demographics, and education. We use your information to understand you better and improve our services. If you have subscribed to our newsletter, you may receive our newsletter and website updates from time to time. We may also use your information for our marketing research to understand the demographics and other preferences of our users. To protect a great respect for our users and do not share, sell, or rent your personal information to others unless we have your permission or are required by law.
 
-If you ever has concerned about sharing your information, please send us email [**here**](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or contact us by mail at 1135 Kirk Road , Boothwyn, PA 19061, Attention: Melanie Chand   
+If you ever has concerned about sharing your information, please send us email [**here**](http://www.c-sharpcorner.com/ContactUs.aspx).   
   
 ---  
   
@@ -61,15 +61,6 @@ Use of Cookies
 **
 
 A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, we may use cookies to store your login credentials and other small information such as user Id and password. Mindcracker wants to ensure that you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data we store on your machine. This practice is strictly enforced. We are aware that a lot of people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns.   
-  
-  
-**
-
-Contact Information 
-
-**
-
-If you have any questions or comments regarding our privacy policy, please send us mail [**here**](https://web.archive.org/web/20070428182720id_/http%3A//vbdotnetheaven.com/frmContactUs.aspx) or 1135 Kirk Road,Boothwyn, PA 19061, Attention: Melanie Chand by mail.   
   
   
 **
