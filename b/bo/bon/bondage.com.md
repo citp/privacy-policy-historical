@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bondage.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110214033id_/http%3A//bondage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bondage.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011091822id_/http%3A//bondage.com/privacy.html) for the most accurate reproduction.*
 
 # Bondage | Privacy Policy
 
