@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625175024id_/http%3A//www.kbhome.com/Page%7EPageID%7E28.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhome.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011085448id_/http%3A//www.kbhome.com/Page%7EPageID%7E28.aspx) for the most accurate reproduction.*
 
 # KB Home - Privacy Policy
 
@@ -16,5 +16,7 @@ Our policy only addresses the use and disclosure of information we may collect f
 
 These privacy policies are subject to change at anytime. If there are material changes to any of these privacy policies, we will post those changes and update the effective date of this policy. The policies and procedures described herein replace all previous policies and procedures regarding this subject.
 
-This Privacy policy, effective July 1, 2004 is incorporated into and subject to the [Terms and Conditions](https://web.archive.org/web/20070625175024id_/http%3A//www.kbhome.com/PageDisp~PageID~27.aspx) For Use of This Website. **  
-**
+This Privacy policy, effective July 1, 2004 is incorporated into and subject to the [Terms and Conditions](https://web.archive.org/web/20071011085448id_/http%3A//www.kbhome.com/PageDisp~PageID~27.aspx) For Use of This Website. **  
+**  
+  
+[](https://web.archive.org/statictemplates/cover_flow.aspx)
