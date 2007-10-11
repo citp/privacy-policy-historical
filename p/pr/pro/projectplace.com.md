@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403045752id_/http%3A//www.projectplace.com/terms/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053916id_/http%3A//www.projectplace.com/en/terms/privacy_statement) for the most accurate reproduction.*
 
-# Projectplace - Privacy Statement
-
-  * ### [Terms & Conditions](http://www.projectplace.com/terms.html)
-
-  * [Security Policy](http://www.projectplace.com/terms/security_policy.html)
-  * [Privacy Statement](http://www.projectplace.com/terms/privacy_statement.html)
-  * [Terms of Use](http://www.projectplace.com/terms/termsofuse.html)
-  * [Customer Agreement](http://www.projectplace.com/terms/agreement.html)
-  * [Legal Disclaimer](http://www.projectplace.com/terms/disclaimer.html)
-
-|  | 
+# Privacy Statement - Projectplace
 
 Projectplace International AB (hereinafter referred to as "Projectplace") has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. 
 
@@ -33,9 +23,9 @@ We use cookies to save your email address and language preference so you don't h
 **Security**  
 We recognize the importance our customers place on security. We exercise great care to see to that any information you enter or upload to your account is handled in a secure manner. Therefore, all communication between your computer and our servers is encrypted using SSL encryption technology. Furthermore, any document you upload to your account is securely transmitted (using SSL) and is then stored in an encrypted format. 
 
-This service has security measures in place to protect the loss, misuse and alteration of the information under our control. Internally, we restrict access to personally identifiable information to employees who need access to the information to do their job. All employees have to execute comprehensive nondisclosure agreements with us. Employees are not allowed to access your project data or uploaded documents. In fact, our extensive encryption procedures effectively prevents anyone (including our employees) to access this information. This information can only be accessed by the people you choose to share it with within a project. Backups of user and project data are scheduled on a regular basis and these backups are stored encrypted and safely locked up. For further information on the security of Projectplace.com we refer to our Security policy, which is available at <http://www.projectplace.com/terms/security_policy.html>[](http://www.projectplace.com/terms/security_policy.html)
+This service has security measures in place to protect the loss, misuse and alteration of the information under our control. Internally, we restrict access to personally identifiable information to employees who need access to the information to do their job. All employees have to execute comprehensive nondisclosure agreements with us. Employees are not allowed to access your project data or uploaded documents. In fact, our extensive encryption procedures effectively prevents anyone (including our employees) to access this information. This information can only be accessed by the people you choose to share it with within a project. Backups of user and project data are scheduled on a regular basis and these backups are stored encrypted and safely locked up. For further information on the security of Projectplace.com we refer to our Security policy, which is available at [http://www.projectplace.com/terms/security_policy.html](/en/terms/security_policy/)[](http://www.projectplace.com/terms/security_policy.html)
 
-**Choice/Opt-Out**  
+ **Choice/Opt-Out**  
 Our service provides users the opportunity to opt-out of receiving communications from us at the point of registration/sign-up for the service and also anytime when logged in by modifying user options. To modify your user options, go to your personal Preferences by clicking on the Preferences icon in the sidebar, and then the Options tab. 
 
 Registered users who have not chosen to opt-out will receive periodical newsletters regarding our service. We may also use the information provided to contact the users for customer surveys or CRM, sales and marketing contacts. 
@@ -52,8 +42,8 @@ This service gives users the opportunity to remove their information from our da
 Projectplace reserves the right to modify or amend this Privacy Statement at any time and for any reason. Users will be notified about changes in the Privacy Statement via our web sites and newsletters. 
 
 **Additional information**  
-Additional security information is available at <http://www.projectplace.com/terms/security_policy.html>.   
-Additional information on the terms of use is available at <http://www.projectplace.com/terms/termsofuse.html>. 
+Additional security information is available at [http://www.projectplace.com/terms/security_policy.html](/en/terms/security_policy/).   
+Additional information on the terms of use is available at [http://www.projectplace.com/terms/termsofuse.html](/en/terms/termsofuse/). 
 
 **Contact information**  
 If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact: 
@@ -67,5 +57,3 @@ Sweden
 
   
 
-
-|  | 
