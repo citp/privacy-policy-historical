@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224021519id_/http%3A//www.monarch.co.uk/templates/Page.aspx%3Fid%3D314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011181146id_/http%3A//www.monarch.co.uk/templates/Page____314.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - aluminium profiles, building systems and heat transfer strip
 
