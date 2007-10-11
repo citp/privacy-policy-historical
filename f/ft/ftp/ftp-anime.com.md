@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223230632id_/http%3A//www.ftp-anime.com/page.php%3F19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftp-anime.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011081605id_/http%3A//www.ftp-anime.com/page.php%3F19) for the most accurate reproduction.*
 
 # FTP-Anime: Privacy Policy
 
-rjd22, Wednesday 08 November 2006 - 23:48:22
+rjd22, Wednesday 08 November 2006 - 18:48:22
 
   
 Privacy Policy:  
