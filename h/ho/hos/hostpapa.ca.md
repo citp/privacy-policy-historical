@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423082006id_/http%3A//hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011082315id_/http%3A//hostpapa.ca/Privacy.shtml) for the most accurate reproduction.*
 
-# HostPapa
+# Host Papa - Canada's Web Hosting Provider
 
-We at [www.HostPapa.ca](https://web.archive.org/) ("HostPapa") are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our site visitors. 
+Statement of Privacy Policy   
+We at [HostPapa.ca](https://web.archive.org/) ("HostPapa") are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our site visitors. 
 
 Type of Information Collected  
 HostPapa is a site offering web hosting services. Information is collected from site visitors in two ways: when they voluntarily sign up for a web hosting account and when they contact our support staff using the feedback/contact form whereby they submit their name and e-mail address.
@@ -25,11 +26,11 @@ Delete/Deactivate
 Correct and Update Information  
 Personal information collected through HostPapa may be corrected or updated through various methods. All information must be updated by contacting HostPapa staff either through e-mail or postal mail. All changes may be sent to HostPapa by sending an e-mail to [info@HostPapa.ca](mailto:info@hostpapa.ca). Alternatively, you may contact us in writing at: 
 
-HostPapa  
-200 North Service Road West  
-Unit 1-434  
-Oakville, Ontario  
-Canada L6M 2Y1
+**HostPapa**  
+115 George St.  
+Suite 511  
+Oakville, ON  
+L6J 0A2 
 
 Notification of Changes  
 In the event that there is a change in the privacy practices at HostPapa, all members of HostPapa will be contacted via the e-mail address on record. 
