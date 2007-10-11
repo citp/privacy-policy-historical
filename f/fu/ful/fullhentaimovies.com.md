@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullhentaimovies.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629013131id_/http%3A//www.fullhentaimovies.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhentaimovies.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011121542id_/http%3A//www.fullhentaimovies.com/pp.html) for the most accurate reproduction.*
 
 # Full Hentai Movies: Hentai Movies Hentai Manga Hentai Games CGs
 
