@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613123347id_/http%3A//cpp.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011081840id_/http%3A//www.cpp.com/private.asp) for the most accurate reproduction.*
 
 # CPP - Privacy Statement
 
@@ -16,9 +16,11 @@ YOUR PRIVACY
   
 CPP, Inc. and Davies-Black® Publishing strive to protect your privacy. We work diligently to protect confidentiality, restrict transfer of personal data, incorporate technical safeguards and appropriate security policies, and identify privacy implications in new services. To that end, we would like you to know how we use the personal information you entrust to us.   
   
-CPP, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites:  [www.cpp.com](http://www.cpp.com/), [www.skillsone.com](http://www.skillsone.com/), online.cpp.com, fulfillment.cpp.com, [www.cppsurveys.com](http://www.cppsurveys.com/), and soap.cpp.com. Because CPP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+   
+  
+CPP, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites:  [www.cpp.com](http://www.cpp.com/), [ www.skillsone.com](http://www.skillsone.com/), online.cpp.com, fulfillment.cpp.com, [ www.cppsurveys.com](http://www.cppsurveys.com/). Because CPP wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact the Legal Department of CPP, Inc. by email at [privacy@cpp.com](mailto:privacy@cpp.com), by phone (1-800-624-1765) or by mail (Legal Department, 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043).  If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Legal Department of CPP, Inc. by email at [ privacy@cpp.com](mailto:privacy@cpp.com), by phone (1-800-624-1765) or by mail (Legal Department, 1055 Joaquin Road, 2nd Floor, Mountain View, CA 94043).  If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
 CPP, Inc. complies EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.  
   
@@ -56,9 +58,7 @@ online.cpp.com  \- The cookie used on this site does not contain any personally
 
 fulfillment.cpp.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.
 
-www.cppsurveys.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.
-
-soap.cpp.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.  
+www.cppsurveys.com - The cookie used on this site does not contain any personally identifiable information cookie and contains session-based information.  
   
    
   
