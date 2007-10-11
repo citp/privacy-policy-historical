@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622095556id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
 
-# A1-Webmarks
+# A1-Webmarks - Privacy Policy
 
 ## Bottom Line
 
@@ -29,4 +29,4 @@ We offer links to other web sites. Please note: When you click on links to other
 If our policy on information collection or uses changes, we will advise you by putting a note on the site's home page for at least one month. If you have any further questions about privacy, please contact us by sending an email to: [office@a1-webmarks.com](mailto:office@a1-webmarks.com).
 
   
-[Terms of Use](https://web.archive.org/web/20070622095556id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20070622095556id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20070622095556id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2007 Q-Success
+[Terms of Use](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20071011121659id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2007 Q-Success
