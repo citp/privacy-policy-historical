@@ -1,79 +1,88 @@
-> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426101844id_/http%3A//www.yikers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yikers.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011053924id_/http%3A//www.yikers.com/privacy.html) for the most accurate reproduction.*
 
-# Yikers Privacy Policy
+# Privacy Policy - Yikers.com
 
-|  |  |   
----|---|---  
-|  | Yikers.com Privacy Policy  
----  
-Welcome to Yikers.com (the "Site"). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Yikers.com (collectively, "Services") ("Authorized Customers").   
-  
-Personally Identifiable Information  
----  
-This refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.   
-  
-What Personally Identifiable Information is collected?  
----  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, as well as all information submitted to us by the Customer necessary in aquiring a membership, not limited to billing information.   
-  
-What organizations are collecting the information?  
----  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.   
-  
-How does the Site use Personally Identifiable Information?  
----  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.   
-  
-With whom may the information may be shared?  
----  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.   
-  
-How is Personally Identifiable Information stored?  
----  
-Personally Identifiable Information collected by Yikers.com is securely stored and is not accessible to third parties or employees of Yikers.com except for use as indicated above.   
-  
-What choices are available to Visitors regarding collection, use and distribution of the information?  
----  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@yikers.com](mailto:privacy@yikers.com)  
-  
-Are Cookies Used on the Site?  
----  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.   
-  
-How does Yikers.com use login information?  
----  
-Yikers.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.   
-  
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?  
----  
-Yikers.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.   
-  
-Disclosure of Personally Identifiable Information to comply with law  
----  
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.   
-  
-How does the Site keep Personally Identifiable Information secure?  
----  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.   
-  
-How can Visitors correct any inaccuracies in Personally Identifiable Information?  
----  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@yikers.com](mailto:privacy@yikers.com)  
-  
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
----  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@yikers.com](mailto:privacy@yikers.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.   
-  
-What happens if the Privacy Policy Changes?  
----  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.   
-  
-  
-|  |   
-[Contact Us](mailto:help@yikers.com) \- [Webmasters](https://web.archive.org/web/20070426101844id_/http%3A//www.yikers.com/webmasters.html) \- [Privacy Policy](https://web.archive.org/privacy_policy.html) \- [Advertise With Us](http://www.liveuniverse.com/advertise/)[RSS / XML Feed](http://www.yikers.com/rss/rss.xml) \- [Unsubscribe](http://www.yikers.com/unsubscribe.html) \- [DMCA](http://www.yikers.com/dmca.html)
+### Privacy Policy
 
-[ ](http://extremetracking.com/open?login=yikers)
+LAST UPDATED: 01/02/2007
 
-  
-  
+Protecting the privacy of all of our users (�Users�, �you� or �your�) is a dedicated commitment of Yikers.com and all of the services brought to you by Yikers.com (collectively, "Yikers", �us� or �we�). This Privacy Policy (�Privacy Policy�), applies to all URLs and services provided under the Yikers name and in connection with the Yikers marks. It explains how Yikers treats personal information that we collect and receive on the Yikers website from our users and visitors. 
 
+Personal information is information about you that is not otherwise available to the public. As the words imply, this information personally identifies you. Personal information may include, but is not limited to, your name, location, e-mail address, birth date, or other identifying information. 
+
+You should be aware that this Privacy Policy applies ONLY to the Yikers website, the Yikers URLs, and the services and features provided by Yikers. This Privacy Policy does not apply to websites that you visit before or after us, to the other third party services featured on the Yikers site, or to third party advertisers or affiliates (collectively, �Third Party Services�). Please be sure to familiarize yourself with all of these Third Party Services� privacy policies. For your convenience ONLY, we have listed links to third party privacy policies for some of the parties that we do business with. However, not all Third Party Services may be listed. 
+
+Now that you know what this Privacy Policy covers, you may have the following questions: 
+
+**WHAT INFORMATION DOES YIKERS COLLECT?**
+
+First and foremost, we DO NOT intentionally collect information from children under the age of 13. We realize that the reach of Yikers may be broad and we have taken steps to ensure the safety of our users or visitors. 
+
+**General User Registration** : When you register to become a general member of a Yikers, we collect certain information about you. This information is your desired username, e-mail address, country and gender (collectively, "General Membership Information"). Once registered, you will have the opportunity to create your personal profile. ANY PERSONAL INFORMATION ABOUT YOURSELF THAT YOU DO NOT WISH TO SHARE WITH THE PUBLIC SHOULD NOT BE INCLUDED ON YOUR PERSONAL PROFILE..
+
+**Non-Personally Identifiable Information** : Yikers also collects non-personally identifiable information about you. Currently, upon registration, Yikers only collects your IP address, which cannot personally identify you. Yikers also complies user data in the aggregate for purposes of demographic compilations and other data that can help us enhance our user�s experience. 
+
+**Yikers Community Features** : Once you register for Yikers, you will also have a chance, at your sole determination, to share other information about yourself via your personal profile. This information will be included on your personal Yikers profile and is meant for sharing with other community members of Yikers. You will always have the ability to change and edit this information. Further information on this is provided below. 
+
+NOTE: Please remember that any personal information voluntarily disclosed by you through e-mail, in public-view personal profiles, public-view uploaded materials, chat rooms, message boards, or intra-site message systems, can be seen and used by others. For your safety, do not include information on your personal profile that you do not want others to know!!
+
+**Contests / Sweepstakes** : Some contests, sweepstakes and other promotions that may appear from time to time on Yikers may be sponsored by other companies. These companies may seek to collect personal information from you in order to obtain entry. You can avoid providing your personal information to these companies and sponsors by not participating in these contests, sweepstakes or promotions. In any event, we encourage you to make yourself familiar with the privacy policy specific to any such event prior to your agreement to participate. Yikers will endeavor to conspicuously distinguish Yikers sponsored contests and sweepstakes from that of any third party sponsored contest or sweepstakes. 
+
+**WHAT IS COLLECTING THE ABOVE INFORMATION?**
+
+**Cookies** : Yikers places cookies on your computer to retain your individual preferences and improve your user experience on our website, as well as to tell us what features of our sites are most popular. From time to time, we randomly track what videos and user profiles our users are looking at via client-side cookies. We do this through a randomly generated username only and cannot tie this to your personal data. So in short, we do not store any personal information in cookies, nor do we use cookies to obtain any personal information from you. You can always adjust your web browser�s acceptance of cookies in your browser preferences.
+
+Also, affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites via Yikers. You should be aware of this and always consult with their privacy policies. 
+
+**Our Database** : All of the General Membership Information Information is stored in our database. Yikers does not use external, file-based or xml storage devises. 
+
+**HOW DO WE USE GENERAL / DIRECTOR MEMBERSHIP INFORMATION AND NON-PERSONALLY IDENTIFIABLE INFORMATION?**
+
+General Membership Information: Yikers will not distribute, sell or rent any of the personal information about you to other people or nonaffiliated companies except to enable the provision of services or products you have requested or when we have your permission to do so. 
+
+Our advertisers will never be privy to your General Membership Information unless you permit us to give it to them so that they can provide you with products or services. 
+
+Your e-mail address may be used by us for communications related to the Yikers services, including but not limited to, sending notices about new features, products, or other information of interest to you. Again, you can always opt out of receiving these notices. 
+
+Non-Personally Identifiable Information: Our advertisers and affiliates may be provided general information or data regarding member usage patterns or interests, or other general demographic information so that they can better serve your needs and preferences. However, such disclosure will not include individually identifiable information. The collection of usage and interest information allows us to provide a constantly evolving innovative services, products, and features designed to satisfy member needs, wants and desires. 
+
+**WHEN WILL WE SHARE OR DISCLOSE GENERAL MEMBERSHIP / DIRECTOR MEMBERSHIP INFORMATION?**
+
+Despite our commitment to protecting your privacy, in certain circumstances, Yikers may disclose your General Membership Information under the following circumstances: 
+
+(a) If required to do so by law; 
+
+(b) Pursuant to a good faith belief that such access, preservation or disclosure is reasonably necessary to: 
+
+1) Enforce the Yikers Terms of Service;   
+2) Respond to claims that any uploaded materials violate the rights of third-parties;   
+3) Respond to your customer service requests;   
+4) Comply with legal process; and/or   
+5) Protect the rights, property, or personal safety of Yikers, its users, or the public.   
+**HOW DO I EDIT MY MEMBERSHIP INFORMATION?**
+
+All of your General Membership Information is located in your personal Yikers account. Your profile can be edited at any time, by logging in with your username and password, then clicking on the "Edit Profile" link on the top-right of the page. In addition, within all communications send to you from us at Yikers, we will always provide you with instructions for opting out from additional communication. 
+
+**HOW DOES YIKERS PROTECT MY INFORMATION? (SECURITY)**
+
+Your personal account is protected by your password, which you select. Yikers uses commercially reasonable efforts to protect our user data and restricts our employees access to such data, except to those who�s primary job function it is to maintain this data. Please note that apart from the commercially reasonable efforts we employ, due to conditions beyond our control, we cannot guarantee 100% security of user personal data.
+
+**WHAT ABOUT SAFETY FOR CHILDREN?**
+
+Again, we at Yikers take the online safety of children very seriously. We do our best not to allow children under the age of 13 to obtain a general membership account or director account. 
+
+**I AM AN INTERNATIONAL USER, WHAT ABOUT MY PRIVACY?**
+
+Yikers treats everyone the same. Yikers is owned and operated in the United States of America and our servers are located in the United States of America. Therefore, the collection of user data is governed, to the extent they exist, by United States federal and state privacy law. 
+
+**WHAT IF YIKERS MAKES CHANGES TO THIS PRIVACY POLICY?**
+
+Yikers may periodically update this Privacy Policy. We will attempt, at our sole discretion, to notify our users of any updates to this Privacy Policy via email. However, we encourage you to periodically revisit the Privacy Policy link on the Yikers homepage to ensure that you are familiar with the current version. You are responsible for reviewing any revisions to this Privacy Policy, and your continued use of the Yikers website and services after any change to the policy constitutes your acceptance of the Privacy Policy. 
+
+**CAN I CONTACT YIKERS ABOUT MY PRIVACY CONCERNS / QUESTIONS?**
+
+YES! If you have a privacy concern regarding the Yikers website or this Privacy Policy feel free to write us at privacy@yikers.com. Alternatively, we can be reached by our postal mail address: 
+
+Attention: Privacy Officer / Yikers  
+840 Apollo Street, Suite 251  
+El Segundo, CA 90245
