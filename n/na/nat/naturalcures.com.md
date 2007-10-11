@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506193916id_/http%3A//naturalcures.com/NC/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011054233id_/http%3A//www.naturalcures.com/NC/privacy.aspx) for the most accurate reproduction.*
 
 # NaturalCures.com | Privacy Policy
 
-[](http://www.naturalcures.com/)
-
-Search the NaturalCures Site For:
+[>> Cover Page](https://web.archive.org/index.aspx) >> Privacy Policy
 
 Natural Cures (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users' right to privacy to guide our relationships with our users.
 
