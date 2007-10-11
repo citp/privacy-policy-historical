@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505111021id_/http%3A//www.gophila.com/Phila/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophila.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011065718id_/http%3A//gophila.com/Phila/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: gophila.com - The Official Visitor Site for Greater Philadelphia
 
