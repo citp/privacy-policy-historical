@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428100801id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011042611id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - University of the Sunshine Coast, Queensland, Australia
 
@@ -26,4 +26,4 @@ Email correspondence sent to this site may be treated as a public record and ret
 
 An individual has the right under the _Freedom of Information Act 1992_ to have access to and correction of their personal information held by the University of the Sunshine Coast.
 
-To obtain further information contact the FOI Coordinator, University of the Sunshine Coast, Maroochydore DC 4558 or email [FOI@usc.edu.au](mailto:FOI@usc.edu.au). Information on how the University manages personal privacy can be found in our [ Privacy Plan](https://web.archive.org/University/AbouttheUniversity/Governance/Policies/PrivacyPlan.htm).
+To obtain further information contact the FOI Coordinator, University of the Sunshine Coast, Maroochydore DC 4558 or email [FOI@usc.edu.au](mailto:FOI@usc.edu.au). Information on how the University manages personal privacy can be found in our [ Privacy Plan](https://web.archive.org/University/AbouttheUniversity/Governance/Policies/PrivacyPlan/PrivacyPlan.htm).
