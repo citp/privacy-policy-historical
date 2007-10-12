@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425094141id_/http%3A//www.pricerunner.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012205409id_/http%3A//www.pricerunner.co.uk/user-guide/privacy-policy.html) for the most accurate reproduction.*
 
 # PriceRunner UK Privacy Policy
 
+At Pricerunner.com ("we", "us", "Site") we respect your privacy and want to ensure that each and every member feels comfortable in sharing their personal data. We make every effort to keep your information confidential and protect your privacy when using our site and services. We take your privacy and our responsibility under the privacy laws very seriously. Pricerunner is the data controller, for the purposes of the Data Protection Act 1998, in respect of the information which you provide to us.
+
 Please read this privacy policy carefully since by visiting the Site and sharing information with us you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by us in writing. Read through the document, or click on any of these links to jump to that point in the document.
-
-  * Information We Collect
-  * Information Sharing
-  * Consumer Choice and Access
-  * Security
-  * Consent and Changes
-  * Children's Privacy and Spam
-  * Data Processing
-  * Limitation of Liability, Third Party Information, and Language
-  * Contact Us
-
-
 
 ## I. Information We Collect
 
@@ -74,7 +64,7 @@ PriceRunner is committed to proper Internet practices and full compliance with t
 
 Please note that under the Privacy and Electronic Communications (EC Directive) Regulations 2003, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use.
 
-To receive no further emails | Opt-Out Mechanism to Use  
+| To receive no further emails | Opt-Out Mechanism to Use  
 ---|---  
 about the advertiser | Advertiser's  
 about the email marketing company | Marketer's  
@@ -91,3 +81,6 @@ You understand and agree that any dispute over privacy is subject to the terms a
 You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to PriceRunner with regard to: (a) the purposes for which such third party's data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
 
 For more information or if you have questions or concerns regarding the PriceRunner Privacy Policy, please send an email to infouk@pricerunner.com, or you can send correspondence to the following address: PriceRunner, Oxford House, 182 Upper Richmond Road, Putney, London SW15 2SH, United Kingdom.
+
+  
+ 
