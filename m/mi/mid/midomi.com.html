@@ -1,26 +1,29 @@
-<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624075148id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2007-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012194202id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <title>midomi</title>
-            <meta name="description" content="midomi.com find and discover music and people. Use your voice to instantly connect to your favorite music, and to a community of people that share your musical interests. Sing your over versions, listen to voices, see pictures, rate singers, send messages, buy music">
+            <meta name="description" content="midomi.com find and discover music and people. Use your voice to instantly connect to your favorite music, and to a community of people that share your musical interests. Sing your own versions, listen to voices, see pictures, rate singers, send messages, buy music">
             <meta name="keywords" content="Music search, lyrics, community, singing search, voice recognition, name that tune, karaoke online, query by humming, sound recognition, speech recognition, sing, midomi, melodis">
             <meta name="robots" content="index, follow">
             <link rel="icon" href="images/favicon.ico" type="image/x-icon"><noscript>
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.midomi.com/index.php?action=main.noscript">
 </noscript>
 
-<link rel="stylesheet" type="text/css" href="parsed/combined_52.css">
+
+<link rel="stylesheet" type="text/css" href="parsed/combined_72.css">
 <script src="/index.php?action=main.js_messages" type="text/javascript"></script>
-<script src="parsed/combined_54.js" type="text/javascript"></script>
+<script src="parsed/combined_79.js" type="text/javascript"></script>
 <script type="text/javascript">
   var flashLoader = new YAHOO.widgets.FlashLoader();
+  var playlist = new YAHOO.widgets.Playlist();
 </script>
 </head>
 <body>
+
 
 <div id="doc2" class="yui-t8"> 
 <div id="doc2-inner">
@@ -79,7 +82,8 @@
 
       </div> <!-- right_hd -->
       <div id="right_bd">
-      <div class="container standard-margin" style="margin:5px 10px">
+      <div class="container standard-margin" style="margin:5px 10px"><div class="legalStuff">
+
 <div class="container_hd">Privacy Notice</div>
     <p style="margin-left: 5" align="justify">Melodis Corporation (referred to herein as "Melodis") 
     values the privacy of our customers, users, members, and others 
@@ -363,8 +367,9 @@
       <br>
       <b>Effective Date: August 15, 2006</b><br></p>
 </li>
-    </ol></div>
-      </div>
+    </ol>
+    
+</div></div>      </div>
 
     </div>
   </div>
@@ -374,52 +379,61 @@
 <div id="left-nav">
   <div class="text_search">
     <form action="index.php?action=" method="get" name="search" id="search">
-      <input type="hidden" name="type" value="text">  
       <input type="hidden" name="action" value="main.search">
+      <input type="hidden" name="type" value="text">  
       <div class="text-search-input"><input class="textfield" type="text" id="searchTerm" name="searchTerm" autocomplete="off" value="Search"></div>
     </form>
   </div>    
 
 
 <a class="navItem rollover " href="index.php?action=main.sing" id="sing_s">My Studio</a>
-<a class="navItem rollover " href="index.php?action=main.charts" id="charts_s">Top Recordings</a>
+<a class="navItem rollover " href="index.php?action=main.charts" id="charts_s">midomi Stars</a>
 </div>
 
 <div id="voice_search_in_progress_block" class="voice_search_in_progress_block hidden">Searching...</div>
 <div id="voice_search_box" class="voice_search_box">
   <div id="flash_search" class="flash_search"></div>
   <div class="voice_img" id="voice_img" onclick="voiceSearch.onClickRecordButton();">Start Voice Search</div>
-  <div id="volume_bar_container" class="volume_bar_container" onclick="voiceSearch.onClickRecordButton();">
+  <div id="volume_bar_container" class="volume_bar_container">
     <div id="volume_bar_text" class="volume_bar_text">RECORDING</div>
     <div id="volume_bar_line" class="volume_bar_line"></div>
-  </div>
   <div id="voice_search_controls" class="left hidden voice_search_controls"><a class="bold" onclick="voiceSearch.onClickSubmit();">DONE</a>&nbsp;&nbsp;<a onclick="voiceSearch.onClickCancel();">CANCEL</a></div>
+</div>
 </div>  
 <div id="advanced_permissions_question" class="hidden advanced_permissions_question"><a onclick="voiceSearch.doAdvancedPermissionsCheck();">Don‘t want to see this box again?</a></div>
 <div id="connection_error_block" class="connection_error_block hidden warningColor">
 There appears to be a connection problem. Please check your firewall settings and refresh this page to try again.</div>
 
 <div style="margin:3px 0px 0px 6px;" id="video_demo_link">
+<a href="index.php?action=main.video" class="bold">What is this?</a>
 <div><a href="index.php?action=main.mic_check">Test your microphone.</a></div>
-How does this work?<br>
-<a href="index.php?action=main.video">Watch the video</a>
 </div>
 
 <script>
 var left_text_search = new YAHOO.widgets.TextField('searchTerm', "Search");
 var elIds = {voiceImg:"voice_img", voiceSearchBox:"voice_search_box", volumeBarContainer:"volume_bar_container", volumeBarLine:"volume_bar_line", statusMessage:"voice_search_status_message", advancedPermissionsQuestion:"advanced_permissions_question", controls:"voice_search_controls", voiceSearchInProgressBlock:"voice_search_in_progress_block", recordButton:"voice_search_record_button", flashVoiceSearchId:"flash_voice_search", flashContainerId:"flash_search", connectionErrorBlock:"connection_error_block", volumeBarText:"volume_bar_text"};
-var voiceSearch = new YAHOO.widgets.VoiceSearch("","6qaa4rc6qu99qkmm2bgr65vr57", "en_US", 1, elIds);</script>  </div> <!-- left side -->
+var voiceSearch = new YAHOO.widgets.VoiceSearch("","r89n1lbh4cguntr0sjf8n2ttf5", "en_US", elIds);</script>
+      	<div id="left_ad_block">
+	<script type="text/javascript"><!--
+google_ad_client = "pub-8187854137171344";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel = "0098297280+0159305101+9584297694+0038205407+3190561530";
+google_ui_features = "rc:0";
+//-->
+</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>	</div>
+	      </div> <!-- left side -->
 </div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">_uacct = "UA-277226-4"; urchinTracker();</script>
-<input type="hidden" id="post_id" value="5ae0102b35e5c067f47fcd8bbe6f125a">
-<input type="hidden" name="login_salt" id="login_salt" value="835797067">
+<input type="hidden" id="post_id" value="12dd41cd39fd5bc747f2fb7c15fb119b">
+<input type="hidden" name="login_salt" id="login_salt" value="589013403">
 <div id="ft">
-  <div class="footer_right"><span><a href="index.php?action=main.video" class="link_text_light">Video Tour</a> | <a href="index.php?action=main.about_us" class="link_text_light">About Us</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Blog</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contact Us</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Terms of Use</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Privacy Notice</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
-</div>
-
-</div>
+  <div class="footer_right"><span><a href="index.php?action=main.video" class="link_text_light">Video Tour</a> | <a href="index.php?action=main.about_us" class="link_text_light">About Us</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Blog</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contact Us</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Terms of Use</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Privacy Notice</a> | <a class="link_text_light" href="index.php?action=main.careers">Careers</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
+</div></div>
 <div id="ft-bottom">
   <div></div>
 </div>
@@ -427,50 +441,25 @@ var voiceSearch = new YAHOO.widgets.VoiceSearch("","6qaa4rc6qu99qkmm2bgr65vr57",
 </div>
 
 <div id="language-container">
-  <div id="language-selection">
-   <span class="bold gray">View midomi in:&nbsp;</span>
-   <a href="index.php?action=main.set_locale&amp;locale=en">English</a>&nbsp;|&nbsp;
-   <a href="index.php?action=main.set_locale&amp;locale=es">Español</a>&nbsp;|&nbsp;
-   <a href="index.php?action=main.set_locale&amp;locale=fr">Français</a>&nbsp;|&nbsp;
-   <a href="index.php?action=main.set_locale&amp;locale=zh">简体中文</a>&nbsp;|&nbsp;
-   <a href="index.php?action=main.set_locale&amp;locale=ja">日本語</a>
- </div>
-</div>
-<div id="postFeedback" class="modal">
-<div class="hd"><div class="tl"></div><span>Feedback</span><div class="tr"></div></div>
-<div class="bd">
-	<form name="feedbackForm" id="feedbackForm" method="post" action="index.php?action=main.post_feedback">
- <input type="hidden" name="post_id" value="5ae0102b35e5c067f47fcd8bbe6f125a">
-   <div>Please enter your feedback about the website below:</div>
-		<textarea id="feedbackTextArea" name="feedbackTextArea" cols="45" rows="5"></textarea>
-	</form>
-</div>
-</div>
-<div id="sendInvite" class="modal">
-<div class="hd"><div class="tl"></div><span>Invite a friend</span><div class="tr"></div></div>
-<div class="bd">
-<form name="inviteForm" id="inviteForm" method="POST" action="index.php?action=main.invite">   
-   <input type="hidden" name="post_id" value="5ae0102b35e5c067f47fcd8bbe6f125a">
-<table>
-<tbody><tr>
-<td>Your email address:</td>
-<td><input type="text" value="" id="inviteFrom" name="from" size="20"></td>
-</tr>
-<tr>
-<td>Friend's email address:</td>
-<td><input type="text" value="" id="inviteTo" name="to" size="20"></td>
-</tr>
-<tr>
-<td>Include a message:</td>
-<td><textarea id="inviteBody" name="body" cols="15" rows="5"></textarea></td>
-</tr>
-</tbody></table>
-</form>
-</div>
-</div>
 
+<div id="language-selection">
+  <div class="lang_line">
+  <span class="bold gray">midomi.com:&nbsp;</span>
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=en&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">English</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=es&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Español</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=fr&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Français</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=it&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">Italiano</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=zh&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">简体中文</a>
+  &nbsp;&nbsp;
+  <span class="bold gray">midomi.co.jp:&nbsp;</span>
+  <a href="http://www.midomi.co.jp/index.php?action=main.set_locale&amp;locale=ja&amp;sid=r89n1lbh4cguntr0sjf8n2ttf5">日本語</a>
+  </div>  
+</div></div>
+
+<div id="amazonModal" class="modal">
+   <div class="hd"><div class="tl"></div><span>&nbsp;</span><div class="tr"></div></div>
+<div class="bd">Loading...</div>
+</div>
 <script language="javascript" type="text/javascript"></script>
-
-
 
 </body></html>
