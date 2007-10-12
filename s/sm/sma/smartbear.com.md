@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629164922id_/http%3A//www.smartbear.com/about-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbear.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012205850id_/http%3A//smartbear.com/about-privacy.php) for the most accurate reproduction.*
 
 # About Smart Bear | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Our team balked at code reviews at first. Now we can't imagine working without Code Collaborator. 
 
-—Brandon Fuller  
+—Brian Toombs  
 Cisco Systems®   
   
 ---  
