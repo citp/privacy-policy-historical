@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320153354id_/http%3A//www.customwritings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritings.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012114623id_/http%3A//customwritings.com/privacy.html) for the most accurate reproduction.*
 
 # Custom Writing Service
 
-The following statement explains our policy regarding the personal information we collect about you when you visit The customwritings.com web site (www.customwritings.com).   
+The following statement explains our policy regarding the personal information we collect about you when you visit the Customwritings.com web site (www.customwritings.com).   
 This information is used to improve the content of our web pages, to customise the content and/or layout of our page. We never sell, rent or share any of the information we collect by this method (except anonymous aggregate information) with any third party.   
   
 ## Information we collect as you browse our web site 
@@ -17,7 +17,7 @@ Cookies themselves only record those areas of the site that have been visited by
   
 ## Use of optional information
 
-On certain web pages, you may be asked to provide your name, e-mail address or other personal information (for example, when requesting a prospectus or brochure). We will not use this information for any other purpose; it is never sold, rented or shared with any third party. We will however, use any demographic information you provide for internal market research purposes only.   
+On certain web pages, you may be asked to provide your name, e-mail address or other personal information (for example, when requesting a prospectus or brochure). We will not use this information for any other purpose; it is never sold, rented or shared. We will however, use any demographic information you provide for internal market research purposes only.   
 If you contact us by e-mail to request information, report a problem or provide feedback on our services we will only use the information you provide (including your e-mail address) to respond to your message. We do not share this information in any way.   
   
 ## Future developments
