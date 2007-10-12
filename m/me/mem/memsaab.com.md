@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Memsaab.com
 
-| [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20070304025212id_/http%3A//www.memsaab.com/shoppingcart/store/default.asp) | 
+| [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20071012143337id_/http%3A//www.memsaab.com/shoppingcart/store/default.asp) | 
 
     
 
