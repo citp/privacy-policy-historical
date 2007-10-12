@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608071521id_/http%3A//www.timelife.com/custserv/custserv.jsp%3FsectionId%3D829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012070509id_/http%3A//www.timelife.com/webapp/wcs/stores/servlet/HelpView%3FlangId%3D-1%26storeId%3D1001%26catalogId%3D10001%26pageName%3Dprivacy_policy.html) for the most accurate reproduction.*
 
-# TimeLife.com | Privacy Policy
+# Customer Service
 
   
 **The Site**
@@ -14,12 +14,12 @@ Direct Holdings Americas Inc. values its customers and respects their need to fe
 If you still have privacy concerns that you feel are not addressed in this information,   
 please contact a Direct Holdings Americas Inc. Customer Service Representative at: 
 
-Direct Holdings Americas Inc. - Customer Service  
-8280 Willow Oaks Corporate Drive  
-Fairfax, Virginia 22031-4511  
+Time Life Customer Service  
+P.O. Box 4002011  
+Des Moines, Iowa 50340-2011   
 or call 1-800-950-7887
 
-or click to [ e-mail Customer Service](https://web.archive.org/custserv/contact_us.jsp)
+or click to [ e-mail Customer Service](https://web.archive.org/webapp/wcs/stores/servlet/HelpView?langId=-1&storeId=1001&catalogId=10001&pageName=contact_us.html)
 
 This Site is not intended for use by children. We will not knowingly collect any personally identifiable information submitted by visitors to the Site who are under the age of 13. 
 
@@ -31,11 +31,11 @@ We will only collect the personal information that you provide us while on the S
 
 When purchasing from the Site, you have the option to log in as a "Registered User" or shop as a guest. Although optional, registration allows us to personalize your shopping experience. Registration also offers a number of convenience features such as stored billing and shipping and credit card information, and allows access to members-only areas. 
 
-We may also use your email address to send you emails about hot products, specials and online promotions. From time to time, we may also use your email address to send you information about selected third party products, services or offers we think may be of interest to you. Each email you receive from us provides a link to unsubscribe to future mailings by following the unsubscribe directions that appear at the bottom of each email. If you do not want to receive emails about our offers or products or those of these selected third parties, just contact a Direct Holdings Americas Inc. Customer Service Representative via [e-mail](https://web.archive.org/custserv/contact_us.jsp) or 1-800-950-7887. If you are a Registered User, you can also choose not to receive marketing emails from us or these selected third parties by simply logging in and going to your [Personal Profile](https://web.archive.org/user/profile.jsp). There you can UNCHECK the boxes giving us permission to continue emailing you about our offers or third party offers. Please note that even if you choose not to receive marketing emails from us, you may still hear from us regarding your order status and any other service issues and order status updates that will allow us to provide you with the optimal shopping experience. 
+We may also use your email address to send you emails about hot products, specials and online promotions. From time to time, we may also use your email address to send you information about selected third party products, services or offers we think may be of interest to you. Each email you receive from us provides a link to unsubscribe to future mailings by following the unsubscribe directions that appear at the bottom of each email. If you do not want to receive emails about our offers or products or those of these selected third parties, just contact a Direct Holdings Americas Inc. Customer Service Representative via [e-mail](https://web.archive.org/webapp/wcs/stores/servlet/HelpView?langId=-1&storeId=1001&catalogId=10001&pageName=contact_us.html) or 1-800-950-7887. If you are a Registered User, you can also choose not to receive marketing emails from us or these selected third parties by simply logging in and going to your [Personal Profile](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&storeId=1001&catalogId=10001). There you can UNCHECK the boxes giving us permission to continue emailing you about our offers or third party offers. Please note that even if you choose not to receive marketing emails from us, you may still hear from us regarding your order status and any other service issues and order status updates that will allow us to provide you with the optimal shopping experience. 
 
-We may also use your name, postal delivery information and phone number to contact you offline. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please [Contact Us](https://web.archive.org/custserv/contact_us.jsp), call 1-800-950-7887, or write to us at: Direct Holdings Americas Inc. - Customer Service, 8280 Willow Oaks Corporate Drive, Farifax, Virginia 22031-4511. 
+We may also use your name, postal delivery information and phone number to contact you offline. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please [Contact Us](https://web.archive.org/webapp/wcs/stores/servlet/HelpView?langId=-1&storeId=1001&catalogId=10001&pageName=contact_us.html), call 1-800-950-7887, or write to us at: Time Life Customer Service P.O. Box 4002011 Des Moines, Iowa 50340-2011. 
 
-Direct Holdings Americas Inc. gives Registered Users the opportunity to review and update the personal information that you have provided to us by visiting your [Personal Profile](https://web.archive.org/user/profile.jsp). Please note that deletions of your personal information or changes in your [Personal Profile](https://web.archive.org/user/profile.jsp) may not be effective immediately. 
+Direct Holdings Americas Inc. gives Registered Users the opportunity to review and update the personal information that you have provided to us by visiting your [Personal Profile](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&storeId=1001&catalogId=10001). Please note that deletions of your personal information or changes in your [Personal Profile](https://web.archive.org/webapp/wcs/stores/servlet/LogonForm?langId=-1&storeId=1001&catalogId=10001) may not be effective immediately. 
 
 **Financial Information  
 **  
@@ -43,7 +43,7 @@ We may collect your financial information such as credit and debit card numbers 
 
 **When You Ship to Another Recipient**
 
-We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Direct Holdings catalog mailings. If you do not wish us to send these individuals such mailings, please contact us by calling 1-800-950-7887, email us by clicking here: [Customer Service](https://web.archive.org/custserv/custserv.jsp?sectionId=633), or write to us at: Direct Holdings Americas Inc. - Customer Service, 8280 Willow Oaks Corporate Drive, Fairfax, Virginia 22031-4511. If you are a Registered User, you have the option to either maintain or delete contacts from your "Address Book" at any time. 
+We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Direct Holdings catalog mailings. If you do not wish us to send these individuals such mailings, please contact us by calling 1-800-950-7887, email us by clicking here: [Customer Service](https://web.archive.org/webapp/wcs/stores/servlet/HelpView?langId=-1&storeId=1001&catalogId=10001&pageName=customer_service.html), or write to us at: Time Life Customer Service P.O. Box 4002011 Des Moines, Iowa 50340-2011 . If you are a Registered User, you have the option to either maintain or delete contacts from your "Address Book" at any time. 
 
 **When You Use the "Tell-A-Friend" Option**
 
@@ -91,4 +91,4 @@ Direct Holdings Americas Inc. is dedicated to implementing measures to protect a
 
 **Changes to the Direct Holdings Americas Inc. Privacy Pledge**
 
-We reserve the right to update and modify this Privacy Policy at any time. Your use of the Site constitutes your agreement to the policies and procedures set forth in this Privacy Policy. If our information practices change, we will post these changes on the Site. Your use of the Site following the posting of such changes to the Privacy Policy will constitute your acceptance of such changes on the Site. We encourage you to review our Privacy Policy periodically. If you have any additional questions, please contact a Direct Holdings Americas Inc. Customer Service Representative via [email](https://web.archive.org/custserv/contact_us.jsp) or 1-800-950-7887. 
+We reserve the right to update and modify this Privacy Policy at any time. Your use of the Site constitutes your agreement to the policies and procedures set forth in this Privacy Policy. If our information practices change, we will post these changes on the Site. Your use of the Site following the posting of such changes to the Privacy Policy will constitute your acceptance of such changes on the Site. We encourage you to review our Privacy Policy periodically. If you have any additional questions, please contact a Direct Holdings Americas Inc. Customer Service Representative via [email](https://web.archive.org/webapp/wcs/stores/servlet/HelpView?langId=-1&storeId=1001&catalogId=10001&pageName=contact_us.html) or 1-800-950-7887. 
