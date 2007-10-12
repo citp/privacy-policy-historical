@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2007-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070215005641id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D2037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012232216id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D2037) for the most accurate reproduction.*
 
 # Econocom
 
@@ -65,5 +65,11 @@ When your cooperation is requested in a web survey on our website we will articu
 ## 8\. Links to Other Websites
 
 The Econocom website contains links to other websites of product and service vendors, manufacturers and partner companies. When you use the links to visit these sites the privacy policy of the visited website will be applicable from the moment you enter the new domain.
+
+## 9\. Photography
+
+AX069602 © Jim Craigmyle/Corbis  
+42-15211837 © LWA-Dann Tardif/zefa/Corbis  
+David Lees / Nick Clements / Jon Feingersh / Getty Images
 
 top  
