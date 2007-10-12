@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033625id_/http%3A//wickedweasel.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012043759id_/http%3A//wickedweasel.com/info/privacy) for the most accurate reproduction.*
 
-# Wicked Weasel Bikinis - Micro Bikini Shop - Sexy Bikini Girl Contest
+# info | privacy | Wicked Weasel
 
 ## Introduction
 
@@ -62,4 +62,4 @@ Wicked Weasel will only collect, use or disclose Personal Information in complia
 
 ## Contact Wicked Weasel
 
-If you have any queries regarding the Privacy Policy or would like to examine, amend or delete any of the Personal Information, please [contact](https://web.archive.org/web/20070630033631id_/http://wickedweasel.com/usd/contact) Wicked Weasel by email.
+If you have any queries regarding the Privacy Policy or would like to examine, amend or delete any of the Personal Information, please [contact](https://web.archive.org/web/20071012043759id_/http://wickedweasel.com/contact) Wicked Weasel by email.
