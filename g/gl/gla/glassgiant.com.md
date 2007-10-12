@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassgiant.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622225449id_/http%3A//www.glassgiant.com/help.php%3Ftopic%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassgiant.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012074556id_/http%3A//www.glassgiant.com/help.php%3Ftopic%3D32) for the most accurate reproduction.*
 
 # GlassGiant.com Help
 
