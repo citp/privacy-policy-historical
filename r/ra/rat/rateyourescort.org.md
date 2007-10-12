@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rateyourescort.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608150044id_/http%3A//www.rateyourescort.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourescort.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012214750id_/http%3A//rateyourescort.org/privacy.php) for the most accurate reproduction.*
 
-# Rate Your Escort Privacy and Policy
+# Rate Your Escort | Privacy And Policy
 
 ####   
 Privacy Policy 
