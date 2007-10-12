@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voip-info.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626105548id_/http%3A//voip-info.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip-info.org privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013011534id_/http%3A//www.voip-info.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ To provide advertisers and other third parties with aggregate information about 
 
 Survey and poll responses are only disclosed to outside parties in aggregate.  If the survey includes a comment or other text response area, such comments or textual responses may be disclosed but without personal data identifying the respondent.
 
-Data and information you voluntarily place in public areas of the website may be publically viewable or otherwise used by  voip-info.org.  See [Terms of Service](https://web.archive.org/web/20070626105548id_/http%3A//voip-info.org/terms_of_service.html) for more information. 
+Data and information you voluntarily place in public areas of the website may be publically viewable or otherwise used by  voip-info.org.  See [Terms of Service](https://web.archive.org/web/20071013011534id_/http%3A//www.voip-info.org/terms_of_service.html) for more information. 
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our  Terms of Service (e.g.,  to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so.
 
@@ -59,4 +59,4 @@ In the event that voip-info.org becomes aware that site security is compromised 
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit voip-info.org, your visit and any dispute over privacy is subject to this Notice and our [Terms of Service](https://web.archive.org/web/20070626105548id_/http%3A//voip-info.org/terms_of_service.html), including limitations on damages, arbitration of disputes, and application of the law of the state of Hawaii. If you have any concern about privacy at voip-info.org, please send us a thorough description to support@voip-info.org, and we will try to resolve it.  Our business changes constantly. This Notice and the [Terms of Service](https://web.archive.org/web/20070626105548id_/http%3A//voip-info.org/terms_of_service.html) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use.   You should check our Web site frequently to see recent changes.
+If you choose to visit voip-info.org, your visit and any dispute over privacy is subject to this Notice and our [Terms of Service](https://web.archive.org/web/20071013011534id_/http%3A//www.voip-info.org/terms_of_service.html), including limitations on damages, arbitration of disputes, and application of the law of the state of Hawaii. If you have any concern about privacy at voip-info.org, please send us a thorough description to support@voip-info.org, and we will try to resolve it.  Our business changes constantly. This Notice and the [Terms of Service](https://web.archive.org/web/20071013011534id_/http%3A//www.voip-info.org/terms_of_service.html) will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use.   You should check our Web site frequently to see recent changes.
