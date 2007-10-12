@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630174628id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012042138id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
 # Biblio: privacy and security
 
-[](http://www.truste.org/ivalidate.php?url=www.biblio.com&sealid=101)   
   
+**BiblioUnbound**  
+| 
+
+[](http://www.truste.org/ivalidate.php?url=www.biblio.com&sealid=101)
+
 Biblio Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio Inc. follows certain procedures designed to safeguard the information you entrust to it. These procedures are set forth in the following paragraphs. 
 
 Biblio Inc. is the sole owner of the information collected on Biblio.com. Biblio, Inc. collects personally identifiable information from our users at several different points on our Web site. Biblio Inc. does not materially alter the information provided by its Web site visitors, nor does it supplement the information from its own or third party sources. 
@@ -30,7 +34,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you use a bulletin board, blog, or post book reviews or comments on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-We do not sell, rent or share your Personally Identifiable Information with Third Parties. Except as disclosed in this privacy policy.
+We do not sell, rent or share your Personally Identifiable Information with Third Parties unless we have your prior consent to do so.
 
 **Choice/Opt-out:**  
 When you register for an account on Biblio.com you are asked if you would like to receive the Biblio.com monthly newsletter.  
@@ -84,3 +88,18 @@ Asheville, NC 28804
 **Telephone:** 800-813-9432
 
 Last Updated on 1/5/2007
+
+| 
+
+[](https://www.scanalert.com/RatingVerify?ref=www.biblio.com)
+
+  
+
+
+[](http://www.biblio.com/bargain_books/)
+
+**Tip of the day**   
+Learn how Biblio.com can [save you money on shipping](http://www.biblio.com/faq_detail.php?faqid=91)! 
+
+**Did you know?**  
+Every shipment on Biblio.com is [eco-friendly](https://web.archive.org/ecosend)! [](https://web.archive.org/ecosend)
