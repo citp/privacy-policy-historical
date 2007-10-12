@@ -1,0 +1,336 @@
+<!--The following is the downloaded HTML source of the giblink.com privacy policy that was archived on 2007-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012060012id_/http%3A//www.giblink.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+<meta name="description" content="gibLink :: Global Internet Business Link is a social networking community for business, entrepreneurs and marketing professionals.  Membership is free.">
+<meta name="keywords" content="gibLink, gibLine, gibLinked, Automated Marketing Systems, Professional, Automated Marketing, CRM, Community, Business, Portal, Opportunity, business events, face to face, online professional, social networking">
+<title>gibLink::Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="themes/handshakes_plain/gfx/style.css">
+<link rel="stylesheet" type="text/css" href="themes/handshakes_plain/gfx/css/ticker.css">
+<link rel="stylesheet" href="http://www.giblink.com/css/lightbox.css" type="text/css" media="screen">
+<style type="text/css">
+<!--	
+	#BLIND {
+		position: absolute; 
+		visibility: hidden; 
+		top: 0; 
+		left: 0; 
+		width: 180px;
+		height: 115px;
+		z-index: 1;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+	#blinds_panel {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 1;
+	}
+	#body{
+		position: relative;
+		z-index: 2;
+	}
+	.blind{
+		width: 180;
+		height: 115;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+//-->
+</style>
+<script language="JavaScript">
+<!--
+	var NotiTimer = new Array;
+	var BlindIDCount = 0;	
+	function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}//MM_preloadImages
+	function HS_LaunchIM(){
+		url = MainURL+"modules/instant_messenger.php?action=launch";   
+		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		imwin.focus();
+	}//HS_LaunchIM
+	function HS_LaunchChat(per_id){
+		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
+		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		newwin.focus();
+	}//HS_LaunchChat
+	function HS_BuildBlind(){		
+		BlindIDCount++;
+		var BlindID = "BLIND_"+BlindIDCount;
+		var BlindTemplate = document.getElementById("BLIND").innerHTML;
+		var Temp = new Array;
+		Temp = BlindTemplate.split("BLIND");
+		BlindTemplate = Temp.join(BlindID);
+		var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
+		var BlindsHandler = document.getElementById("blinds_panel");
+		if(BlindsHandler.offsetHeight >= 117){
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
+		}//if
+		else{
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
+		}//else
+		BlindsHandler.innerHTML+= BlindContent;
+		return BlindID;
+	}//HS_BuildBlind
+	function HS_BuildNotification(NotiType,NotiMessage){
+		BlindID = HS_BuildBlind();
+		switch(NotiType){
+			case 'im':
+				var Link = "<a href=\"javascript:HS_LaunchIM();\">"+NotiMessage+"</a>";
+				break;
+			case 'calendar':
+				var Link = "<a href=\"index.php?page=calendar\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+			case 'mailbox':
+				var Link = "<a href=\"index.php?page=mailbox&section=inbox\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+			case 'view':
+				var Link = "<a href=\"index.php?page=views\" target=\"_blank\">"+NotiMessage+"</a>";
+				break;
+		}//switch
+		var MessageHandler = document.getElementById("notification_message_"+BlindID);
+		MessageHandler.innerHTML = Link;
+		HS_FadeBlind(BlindID,"in");
+		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
+	}//HS_BuildNotification
+	function HS_FadeBlind(BlindID,Direction){		
+		var Timer = 0;
+		var Speed = 50;		
+		if(Direction == "in"){
+			HS_ChangeAlign('blinds_panel',3);
+			for(var i=10;i<=100;i=i+10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 
+            	Timer++;
+			}//for
+		}//if
+		else if(Direction == "out"){			
+			for(var i=90;i>=0;i=i-10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 				
+            	Timer++;
+			}//for
+			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
+			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
+		}//else if
+	}//HS_FadeBlind
+	function HS_ChangeOpacity(OpacityValue,BlindID){		
+		var BlindObjStyle = document.getElementById(BlindID).style;
+    	BlindObjStyle.opacity = (OpacityValue / 100); 
+    	BlindObjStyle.MozOpacity = (OpacityValue / 100); 
+    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100); 
+    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")"; 
+	}//HS_ChangeOpacity
+	function HS_PosBlinds(){
+		var ns = (document.layers)?1:0;
+		var Position = new Array;		
+		if(ns){
+			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+		}//if
+		else{
+			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+		}//else
+		var BlindsPanel = document.getElementById("blinds_panel");
+		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
+		BlindsPanel.style.left = Position['Left'] - 180;
+		setTimeout("HS_PosBlinds()",500);
+	}//HS_PosBlinds
+	function HS_ChangeAlign(BlindID,Pos){	
+		var BlindObjStyle = document.getElementById(BlindID).style;
+		BlindObjStyle.zIndex = Pos;
+	}//HS_ChangeAlign
+	function HS_RemoveBlind(BlindID){
+		var BlindObj = document.getElementById(BlindID);
+		BlindObj.innerHTML = "";
+	}//HS_RemoveBlind
+	function HS_CloseNotification(BlindID){
+		clearTimeout(NotiTimer[BlindID]);
+		HS_FadeBlind(BlindID,'out');
+	}//HS_CloseNotification
+//-->
+</script>
+<script src="http://www.giblink.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="http://www.giblink.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.giblink.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.giblink.com/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.giblink.com/js/lightbox.js"></script>
+<script src="./js/ajaxticker.js" type="text/javascript"></script>
+<script language="JavaScript">
+<!--
+	var MainURL = "./";
+//-->
+
+
+var activename = "blogs";
+function switchsearchtab(name)
+{
+	if (activename != name)
+	{
+		var the_a = document.getElementById(name);
+		
+		var children = the_a.parentNode.childNodes;
+		
+		for (var i = 0; i < children.length; i++) 
+		{
+			if (String(children[i].tagName).toLowerCase() == 'a')
+				children[i].className = "inactive";
+		}
+		
+		the_a.className = "active";
+			
+		if (name != "web")
+		{
+			if (activename == "web")
+			{
+				var the_tempdiv = document.getElementById("tempdiv");
+				var the_topsearchform = document.getElementById("topsearchform");
+				
+				var temp = the_topsearchform.innerHTML;
+				the_topsearchform.innerHTML = the_tempdiv.innerHTML;
+				the_tempdiv.innerHTML = temp;
+			}
+			document.srch.search_type.value = name;
+		}
+		else
+		{
+			var the_tempdiv = document.getElementById("tempdiv");
+			var the_topsearchform = document.getElementById("topsearchform");
+			
+			var temp = the_topsearchform.innerHTML;
+			the_topsearchform.innerHTML = the_tempdiv.innerHTML;
+			the_tempdiv.innerHTML = temp;
+		}
+		
+		activename = name;
+	}
+	
+	return false;
+}
+
+</script>
+
+</head>
+<body onload="HS_PosBlinds();;">
+<div id="BLIND">
+<div class="noti"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
+	<tbody><tr height="20"><td height="20" align="center" class="noti-header">Notification [<a href="javascript:HS_CloseNotification('BLIND')">x</a>]</td></tr>
+	<tr><td align="center" style="padding:5px;" class="noti-body"><div id="notification_message_BLIND"></div></td></tr>
+</tbody></table></div>
+<div id="notification_message_BLIND"></div>
+</div>
+<div id="blinds_panel" style="top: 763px; left: 1181px;"></div>
+<iframe name="notifications_js" id="notifications_js" src="index.php?handler=my_handshakes&amp;action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe> 
+<div class="handler">
+	<div class="page">
+	<div class="top">
+		<div class="logo" style="width:250px;"><a href="./index.php"><img src="themes/handshakes_plain/gfx/logo.gif" alt="" border="0" width="185" height="120"></a></div>
+		<div style="text-align:right">
+			<div class="topmenu"><a target="" href="./index.php?page=mailbox&amp;section=inbox">Mailbox</a>
+ | <a target="" href="./index.php?page=calendar">Calendar</a>
+ | <a target="" href="./index.php?page=bookmarks&amp;section=profiles">Bookmarks</a>
+ | <a target="" href="./index.php?page=history">History</a>
+ | <a target="_blank" href="http://www.giblink.com/profiles/">My Profile</a>
+ | <a target="" href="javascript:HS_LaunchIM()">IM Manager</a>
+ | </div>
+			<div class="topsearch">
+            <div class="topsearchnav" style="width:468px; float:left; text-align:center;">
+<a href="http://www.lynxdigital.com/max/www/delivery/ck.php?n=a193d6b7&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://www.lynxdigital.com/max/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a193d6b7" border="0" alt=""></a>
+				</div>
+			</div>
+					</div>
+		<div style="clear:both"></div>
+	</div>
+	
+	<div class="menubar">
+		
+	<a target="" href="./index.php?page=my_handshakes">My gibLink</a>
+ | <a target="" href="./index.php?page=search&amp;section=members">Search</a>
+ | <a target="" href="./index.php?page=blogs">Blogs</a>
+ | <a target="" href="./index.php?page=classifieds">Classifieds</a>
+ | <a target="" href="./index.php?page=clubs">Clubs</a>
+ | <a target="" href="./index.php?page=events">Events</a>
+ | <a target="" href="./index.php?page=chat">Chat</a>
+ | <a target="" href="./index.php?page=ecards">eCards</a>
+ | <a target="" href="./index.php?page=videos">Videos</a>
+ | <a target="" href="./index.php?page=forum">Forum</a>
+ | <a target="_blank" href="http://shop.giblink.com">Shop</a>
+ | <a href="http://www.gibline.com">Join Now!</a>	
+	</div>
+	
+		
+		
+		<div class="banner-header"><script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.lynxdigital.com/max/www/delivery/ajs.php':'http://www.lynxdigital.com/max/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=43");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.lynxdigital.com/max/www/delivery/ajs.php?zoneid=43&amp;cb=51584967333&amp;loc=https%3A//web.archive.org/web/20071012060012id_/http%253A//www.giblink.com/index.php%253Fpage%253Dprivacy"></script></div>
+	<div class="padded">
+
+<div class="padded">
+
+	<div class="blue-header">Privacy Policy</div>
+<div class="blue-body">	
+	
+<div class="padded">Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.</div>
+<div class="padded">This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.</div>
+<div class="padded">gibLink is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.</div>
+<div class="padded">gibLink collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. </div>
+<div class="padded">Like many other Web sites, gibLink uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use gibLink. Members who disable cookies will not be able to use gibLink. </div>
+<div class="padded">Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their gibLink list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of gibLink members are never displayed to other users on the system. Users within a Personal Network communicate on gibLink with each other through the gibLink service without disclosing their email addresses.</div>
+<div class="padded">We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. </div>
+<div class="padded">If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. gibLink does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. gibLink stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.</div>
+<div class="padded">The gibLink site may contain links to other Web sites. Please be aware that gibLink is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than gibLink, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. </div>
+<div class="padded">Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.</div>
+	
+	<div style="clear:both;"></div>
+</div>	
+</div>
+
+</div><div style="clear:both;height:5px;"><img src="themes/handshakes_plain/gfx/spacer.gif" alt="" border="0" width="1" height="1"></div>
+	<div class="banner-footer"><a href="http://www.lynxdigital.com/max/www/delivery/ck.php?n=ab73e3a9&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://www.lynxdigital.com/max/www/delivery/avw.php?zoneid=42&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab73e3a9" border="0" alt=""></a></div>
+<div></div>
+<div class="subfooter"><img src="http://www.giblink.com/images/icons/lightbulb.png" alt="Learn More!" border="0">&nbsp; <strong>Learn more about:</strong>&nbsp; <a target="" href="./index.php?page=giblink">gibLink</a>
+ | <a target="" href="./index.php?page=gibline">gibLine</a>
+ | <a target="" href="./index.php?page=gibsale">gibSales</a>
+</div>
+<div class="footer"><a target="" href="./index.php?page=about">About gibLink</a>
+ | <a target="" href="./index.php?page=privacy">Privacy Policy</a>
+ | <a target="" href="./index.php?page=terms">Terms of Use</a>
+ | <a target="" href="./../html/contact.php">Contact gibLink</a>
+<br><br>© Copyright 2007.  gibLink.com™.  All Rights Reserved.
+</div>
+</div>
+</div>
+<p> 
+</p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1885478-8";
+urchinTracker();
+</script>
+
+</body></html>
