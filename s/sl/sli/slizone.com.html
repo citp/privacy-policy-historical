@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the slizone.com privacy policy that was archived on 2007-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616163527id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slizone.com privacy policy that was archived on 2007-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071013014415id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>NVIDIA Privacy Notice</title><meta name="robots" content="noodp"><meta name="keywords" content=""><script src="/docs/TEMPLATE/72/flyout.js" type="text/javascript" language="JavaScript"></script><script src="/docs/TEMPLATE/72/productdropdown.js" type="text/javascript" language="JavaScript"></script><script language="JavaScript">
-     function openGlossary(strAlias){
-      newwin = window.open('/object/' + strAlias + '.html?_templateId=13', 'GlossaryWindow','toolbar=no,status=no,width=266,height=216,directories=no,scrollbars=yes,location=no,resizable=yes,menubar=no');
+     function openGlossary(stype, nid){
+      newwin = window.open('/object/' + strAlias + '.html?_templateId=13',  'GlossaryWindow','toolbar=no,status=no,width=250,height=201,directories=no,scrollbars=yes,location=no,resizable=yes,menubar=no');
       newwin.focus();
      }
     </script><style type="text/css">
@@ -30,7 +30,7 @@
   </script>
 <link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/content/rss/nvidia_podcast.xml" title="NVIDIA Podcast"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_nvidia_pressroom" title="NVIDIA Press Room"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_success_stories" title="NVIDIA Success Stories"><style type="text/css">
 
-/*********************************
+/*********************************s
 Top Nav Header and Menu CSS Library (no tables)
 *********************************/
 
@@ -238,6 +238,14 @@ position: relative;
 z-index:25
 }
 
+#globalselector {
+position:relative; 
+left:230px;
+top:31px; 
+z-index: 98; 
+width:220px; 
+}
+
 img {behavior: url(/content/includes/masthead/pngHack.htc);}
 
 div.newSearch {
@@ -253,131 +261,15 @@ font-size: 11px;
 color: #666666;
 text-indent: 3px;
 }
-/*********************************
-END: New Masthead
-*********************************/
-/*********************************
-START: Region drop down menu
-*********************************/
-#CountryTop
-{
-width: 150px;
-height: 15px;
-cursor: pointer;
-}
-#CountryMenu
-{
-width: 152px;
-padding-left: 0px;
-background-color:#414141; 
-filter: alpha(opacity=90); 
--moz-opacity:0.9; 
-KhtmlOpacity:.9; 
-opacity:.9; 
-padding-top:1px; 
-padding-bottom:10px; 
-border:solid; 
-border-width:1px; 
-border-color:#000000;
-}
-#Country1
-{
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
-#Country1 li
-{
-line-height: 20px;
-font-family: arial;
-font-size:11px;
-height:25px;
-list-style-type:none;
-}
-#Country1 a
-{
-text-decoration: none;
-display:block;
-color: #cccccc;
-font-family: arial;
-font-size:11px;
-}
-#Country1 a:hover
-{
-text-decoration: none;
-display:block;
-background-color:#666666;
-color: #76B900;
-font-family: arial;
-font-size:11px;
-}
-#Country2
-{
-list-style-type: none;
-margin: 0;
-padding: 0;
-}
-#Country2 li
-{
-line-height: 20px;
-font-family: arial;
-font-size:11px;
-height:25px;
-list-style-type:none;
-}
-#Country2 a
-{
-text-decoration: none;
-display:block;
-color: #cccccc;
-font-family: arial;
-font-size:11px;
-}
-#Country2 a:hover
-{
-text-decoration: none;
-display:block;
-background-color:#666666;
-color: #76B900;
-font-family: arial;
-font-size:11px;
-}
-#CountrySelect
-{
-width: 152px;
-height: 20px;
-cursor: pointer;
-background-color:#414141;
-color : #cccccc;
-font-family : Arial, Helvetica, sans-serif;
-font-size : 11px;
-filter: alpha(opacity=90); 
--moz-opacity: 0.9; 
-KhtmlOpacity: .9; 
-opacity: .9;
-border:solid; 
-border-width:1px; 
-border-color:#000000;
-}
-#CountrySelectOn
-{
-width: 152px;
-height: 20px;
-cursor: pointer;
-background-color:#414141;
-color: #76b900;
+
+select.worldwide {
 font-family: Arial, Helvetica, sans-serif;
 font-size: 11px;
-filter: alpha(opacity=90); 
--moz-opacity: 0.9; 
-KhtmlOpacity: .9; 
-opacity: .9;
-border:solid; 
-border-width:1px; 
-border-color:#000000;
+color: #000000;
+width:150px;
 }
 /*********************************
-END: Region drop down menu
+END: New Masthead
 *********************************/
 
 
@@ -488,75 +380,6 @@ if (document.all && document.getElementById)
 }
 }
 
-//Flag region drop down
-
-  function showCountryList(DivID)
-  {
-   var myDiv = document.getElementById(DivID);
-   if(myDiv.style.display == 'none')
-       showDiv(DivID);
-       //document.getElementById(DivID).style.display = "block";
-   else
-       hideDiv(DivID);
-  }
-  
-  function hideCountryList(DivID)
-  {
-   hideDiv(DivID);
-   //document.getElementById(DivID).style.display = "none";
-  }
-  
-  //remainder unnecessary if not doing fadein/fadeout
-  var iMyOpacity = 90;
-  function showDiv(strDIVID) {
-   iMyOpacity = 0;
-   var myDiv = document.getElementById(strDIVID);
-   myDiv.style.display = "";
-    
-   changeOpac(iMyOpacity, strDIVID);  
-   setTimeout("fadeInDiv('" + strDIVID + "')", 0);
-  }
-  function hideDiv(strDIVID) {
-   iMyOpacity = 100;
-   setTimeout("fadeOutDiv('" + strDIVID + "')", 0);
-  }
-    
-  function fadeInDiv(strDIVID)
-  {
-   iMyOpacity += 10;
-   changeOpac(iMyOpacity, strDIVID);
-   if(iMyOpacity < 100) {
-    setTimeout("fadeInDiv('" + strDIVID + "')", 0);
-   }
-   else
-   {
-    var object = document.getElementById(strDIVID).style; 
-    object.opacity = ""; 
-    object.MozOpacity = ""; 
-    object.KhtmlOpacity = ""; 
-    object.filter = ""; 
-    iMyOpacity = 100;
-      }
-  }
-  function fadeOutDiv(strDIVID) {
-   iMyOpacity -= 25;
-   changeOpac(iMyOpacity, strDIVID);
-   if(iMyOpacity > 0) {
-    setTimeout("fadeOutDiv('" + strDIVID + "')", 0);
-   }
-   else {
-    document.getElementById(strDIVID).style.display = "none";
-   }
-  }
-  function changeOpac(opacity, id) { 
-   var object = document.getElementById(id).style; 
-   object.opacity = (opacity / 100); 
-   object.MozOpacity = (opacity / 100); 
-   object.KhtmlOpacity = (opacity / 100); 
-   object.filter = "alpha(opacity=" + opacity + ")"; 
-  }
-
-
 </script><style type="text/css">
 body
 {
@@ -664,7 +487,7 @@ font-size:8pt;
    {
     menuInit();
    }
-  </script></head><body bgcolor="#FFFFFF"><!--noindex--><div class="headerLeft">&nbsp;</div><div class="headerCenter"><img usemap="#header" border="0" align="center" src="/docs/TEMPLATE/474/Header.jpg"><map name="header"><area href="/object/language_world.html" alt="NVIDIA Worldwide" coords="458,37,577,49" shape="rect"><area href="/" alt="Home" coords="0,18,213,54" shape="rect"></map><div class="search"><form name="search" action="http://search.nvidia.com/" method="get"><input name="q" maxlength="50" size="16" type="text"><br><a href="javascript:document.search.submit()"><img src="/docs/TEMPLATE/474/search.gif" align="right" border="0" alt="Search"></a></form></div></div><div class="headerRight">&nbsp;</div><div class="menuContainer"><div class="menuSubContainer" id="MainMenu"><table border="0" cellspacing="0" cellpadding="0" align="center" id="mainMenuUL"><tbody><tr><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img01');" onmouseover="onMouseOver('img01');" class="liMenuLevel1" name="menuLevel1Item" id="li01"><a class="linkMenuLevel1" href="../page/home.html"><img alt="Home" mouseoverimage="/props/CP/1/181/home_on.jpg" mouseoutimage="/props/CP/1/182/home_off.jpg" listitemid="li01" border="0" src="/props/CP/1/182/home_off.jpg" align="center" id="img01"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img02');" onmouseover="onMouseOver('img02');" class="liMenuLevel1" name="menuLevel1Item" id="li02"><a class="linkMenuLevel1" href="/content/drivers/drivers.asp"><img alt="Download Drivers" mouseoverimage="/props/CP/2/181/drivers_on.jpg" mouseoutimage="/props/CP/2/182/drivers_off.jpg" listitemid="li02" border="0" src="/props/CP/2/182/drivers_off.jpg" align="center" id="img02"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/content/drivers/drivers.asp">Download Drivers</a></li><li class="liMenuLevel2"><a href="/page/software.html">NVIDIA Software</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img03');" onmouseover="onMouseOver('img03');" class="liMenuLevel1" name="menuLevel1Item" id="li03"><a class="linkMenuLevel1" href="http://store.nvidia.com/DRHM/servlet/SecureControllerServlet?Action=DisplayHomePage&amp;SiteID=nvidia"><img alt="Shop" mouseoverimage="/props/CP/30001/181/nav_Shop_us_on.gif" mouseoutimage="/props/CP/30001/182/nav_Shop_us_off.gif" listitemid="li03" border="0" src="/props/CP/30001/182/nav_Shop_us_off.gif" align="center" id="img03"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img04');" onmouseover="onMouseOver('img04');" class="liMenuLevel1" name="menuLevel1Item" id="li04"><a class="linkMenuLevel1" href="../page/products.html"><img alt="Products" mouseoverimage="/props/CP/3/181/nav_Products_us_on.gif" mouseoutimage="/props/CP/3/182/nav_Products_us_off.gif" listitemid="li04" border="0" src="/props/CP/3/182/nav_Products_us_off.gif" align="center" id="img04"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="../page/desktop.html">Desktop</a></li><li class="liMenuLevel2"><a href="../page/workstation.html">Workstation</a></li><li class="liMenuLevel2"><a href="/page/nforce_pro.html">Servers</a></li><li class="liMenuLevel2"><a href="../page/mediacenter.html">Media Center</a></li><li class="liMenuLevel2"><a href="../page/mobo.html">Motherboard</a></li><li class="liMenuLevel2"><a href="/object/notebooks.html">Notebook</a></li><li class="liMenuLevel2"><a href="../page/handheld.html">Handheld</a></li><li class="liMenuLevel2"><a href="../page/business_solutions.html">Business</a></li><li class="liMenuLevel2"><a href="../page/macintosh.html">Mac</a></li><li class="liMenuLevel2"><a href="../page/software.html">Software</a></li><li class="liMenuLevel2"><a href="../page/home_entertainment.html">Home Entertainment</a></li><li class="liMenuLevel2"><a href="../page/console.html">Game Console</a></li><li class="liMenuLevel2"><a href="../page/legacy.html">Legacy Products</a></li><li class="liMenuLevel2"><a href="../page/po3d_promotions.html">Promotions</a></li><li class="liMenuLevel2"><a href="/content/wheretobuy/consumer.asp">Where to Buy</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img05');" onmouseover="onMouseOver('img05');" class="liMenuLevel1" name="menuLevel1Item" id="li05"><a class="linkMenuLevel1" href="../page/technologies.html"><img alt="Technologies" mouseoverimage="/props/CP/5449/181/nav_Technologies_us_on.gif" mouseoutimage="/props/CP/5449/182/nav_Technologies_us_off.gif" listitemid="li05" border="0" src="/props/CP/5449/182/nav_Technologies_us_off.gif" align="center" id="img05"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="http://www.slizone.com/page/home.html">NVIDIA SLI</a></li><li class="liMenuLevel2"><a href="../page/turbocache.html">NVIDIA TurboCache</a></li><li class="liMenuLevel2"><a href="/object/nvidia_purevideo.html">NVIDIA PureVideo</a></li><li class="liMenuLevel2"><a href="../page/mxm.html">MXM</a></li><li class="liMenuLevel2"><a href="../page/pci_express.html">PCI Express</a></li><li class="liMenuLevel2"><a href="../page/technology_vista_main.html">Windows Vista</a></li><li class="liMenuLevel2"><a href="../page/technology_extreme_hd_home.html">Extreme HD</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img06');" onmouseover="onMouseOver('img06');" class="liMenuLevel1" name="menuLevel1Item" id="li06"><a class="linkMenuLevel1" href="/object/nvidia_zones.html"><img alt="Communities" mouseoverimage="/props/CP/5/181/nav_Communities_us_on.gif" mouseoutimage="/props/CP/5/182/nav_Communities_us_off.gif" listitemid="li06" border="0" src="/props/CP/5/182/nav_Communities_us_off.gif" align="center" id="img06"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img07');" onmouseover="onMouseOver('img07');" class="liMenuLevel1" name="menuLevel1Item" id="li07"><a class="linkMenuLevel1" href="../page/companyinfo.html"><img alt="Company Info" mouseoverimage="/props/CP/4/181/nav_CompanyInfo_us_on.gif" mouseoutimage="/props/CP/4/182/nav_CompanyInfo_us_off.gif" listitemid="li07" border="0" src="/props/CP/4/182/nav_CompanyInfo_us_off.gif" align="center" id="img07"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=116466&amp;p=irol-IRHomeDisclaimer">Investor Relations</a></li><li class="liMenuLevel2"><a href="/page/channel.html">Channel Partners</a></li><li class="liMenuLevel2"><a href="../page/contact_information.html">Contact Information</a></li><li class="liMenuLevel2"><a href="../page/corporate_timeline.html">Corporate Milestones</a></li><li class="liMenuLevel2"><a href="../page/pg_20010527369917.html">Corporate Citizenship</a></li><li class="liMenuLevel2"><a href=" http://www.nvidia.com/content/careers/">Employment</a></li><li class="liMenuLevel2"><a href="../page/university_relations.html">University Relations</a></li><li class="liMenuLevel2"><a href="../page/pg_20011011487525.html">Executive Profiles</a></li><li class="liMenuLevel2"><a href="../page/corporate_awards.html">Corporate Awards</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img08');" onmouseover="onMouseOver('img08');" class="liMenuLevel1" name="menuLevel1Item" id="li08"><a class="linkMenuLevel1" href="../page/newsandevents.html"><img alt="News and Events" mouseoverimage="/props/CP/6/181/nav_NewsEvents_us_on.gif" mouseoutimage="/props/CP/6/182/nav_NewsEvents_us_off.gif" listitemid="li08" border="0" src="/props/CP/6/182/nav_NewsEvents_us_off.gif" align="center" id="img08"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="../page/press_room.html">Press Room</a></li><li class="liMenuLevel2"><a href="../page/product_reviews.html">Product Reviews</a></li><li class="liMenuLevel2"><a href="../page/events.html">Events Calendar</a></li><li class="liMenuLevel2"><a href="../page/pg_20040317553375.html">Success Stories</a></li><li class="liMenuLevel2"><a href="../page/nv_news.html">NVIDIA in the News</a></li><li class="liMenuLevel2"><a href=" http://lyris01.nvidia.com/NVRegister/frmLoginRegisterSLI.asp">NVIDIA Newsletter</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img09');" onmouseover="onMouseOver('img09');" class="liMenuLevel1" name="menuLevel1Item" id="li09"><a class="linkMenuLevel1" href="../page/support.html"><img alt="Support" mouseoverimage="/props/CP/10249/181/nav_Support_us_on.gif" mouseoutimage="/props/CP/10249/182/nav_Support_us_off.gif" listitemid="li09" border="0" src="/props/CP/10249/182/nav_Support_us_off.gif" align="center" id="img09"></a></li></ul></td></tr></tbody></table></div></div><!--/noindex--><div class="contentArea"><table border="0" cellspacing="0" cellpadding="0" align="center" class="contentContainer"><tbody><tr><td colspan="2" class="contentTopLeft3"></td><td class="contentTopMiddle2"></td><td colspan="2" class="contentTopRight3"></td></tr><tr><td class="contentTopLeft2"></td><td class="contentTopLeft"></td><td class="contentTopMiddle"></td><td class="contentTopRight"></td><td class="contentTopRight2"></td></tr><tr><td></td><td class="mainContent" colspan="3"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center"><table cellspacing="0" cellpadding="0" border="0" width="728"><tbody><tr><td colspan="5"><img alt="" height="5" width="1" src="/images/shim.gif"></td></tr><tr><td colspan="5"><img alt="" height="5" width="1" src="/images/shim.gif"></td></tr><tr valign="top"><td>&nbsp;</td><td width="196"><table cellpadding="0" border="0" cellspacing="0" width="195"><tbody><tr><td align="right"><a href="javascript:history.back();"><img border="0" alt="Back" src="/docs/TEMPLATE/487/button_back.jpg"></a><br><br></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="196"><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table></td><td width="20"><img alt="" border="0" height="1" width="20" src="/docs/IO/10274/img10274.gif"></td><td width="512"><table cellspacing="0" cellpadding="0" width="512" border="0"><tbody><tr><td><font class="header">NVIDIA Privacy Notice</font><br><br></td></tr><tr valign="top"><td class="text"><p>NVIDIA gathers certain information from and about visitors to our website.&nbsp; We pay close attention to how information about our visitors is used and shared, and we use that information carefully and sensibly.&nbsp; This notice describes our privacy policy.&nbsp; <strong>By visiting NVIDIA's website, you are accepting the practices described in this Privacy Notice.</strong> </p>
+  </script></head><body bgcolor="#FFFFFF"><!--noindex--><div class="masthead"><table cellspacing="0" cellpadding="0" align="center" border="0" width="980"><tbody><tr><td width="36"><img border="0" height="80" width="36" alt="" src="/content/includes/masthead/nvidia/spacer_nvidia.gif"></td><td align="right" width="325"><a href="/page/home.html"><img border="0" height="80" width="325" alt="NVIDIA" src="/content/includes/masthead/nvidia/zonelogo_nvidia.jpg"></a></td><td valign="top" class="globalsearchBG" width="619"><div id="globalselector"><form style="padding:0;margin:0" name="nav" id="nav"><script src="/content/includes/js/global_menu.js" type="text/javascript"></script></form></div><div style="position:relative; height:35px; left:433px; top:10px; z-index: 97;width:200px; "><form name="search" action="http://search.nvidia.com/" method="get"><input value="Search NVIDIA.com" onfocus="javascript:document.search.q.value = '';" maxlength="50" size="20" name="q" type="text" style="font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #666666;text-indent: 3px;"></form></div></td></tr></tbody></table></div><div class="menuContainer"><div class="menuSubContainer" id="MainMenu"><table border="0" cellspacing="0" cellpadding="0" align="center" id="mainMenuUL"><tbody><tr><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img01');" onmouseover="onMouseOver('img01');" class="liMenuLevel1" name="menuLevel1Item" id="li01"><a class="linkMenuLevel1" href="/page/home.html"><img alt="Home" mouseoverimage="/props/CP/1/181/home_on.jpg" mouseoutimage="/props/CP/1/182/home_off.jpg" listitemid="li01" border="0" src="/props/CP/1/182/home_off.jpg" align="center" id="img01"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img02');" onmouseover="onMouseOver('img02');" class="liMenuLevel1" name="menuLevel1Item" id="li02"><a class="linkMenuLevel1" href="/page/drivers.html"><img alt="Download Drivers" mouseoverimage="/props/CP/2/181/drivers_on.jpg" mouseoutimage="/props/CP/2/182/drivers_off.jpg" listitemid="li02" border="0" src="/props/CP/2/182/drivers_off.jpg" align="center" id="img02"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/page/pg_20030521269172.html">Download Drivers</a></li><li class="liMenuLevel2"><a href="/page/pg_20020828381205.html">NVIDIA Software</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img03');" onmouseover="onMouseOver('img03');" class="liMenuLevel1" name="menuLevel1Item" id="li03"><a class="linkMenuLevel1" href="/page/shop.html"><img alt="Shop" mouseoverimage="/props/CP/30001/181/nav_Shop_us_on.gif" mouseoutimage="/props/CP/30001/182/nav_Shop_us_off.gif" listitemid="li03" border="0" src="/props/CP/30001/182/nav_Shop_us_off.gif" align="center" id="img03"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img04');" onmouseover="onMouseOver('img04');" class="liMenuLevel1" name="menuLevel1Item" id="li04"><a class="linkMenuLevel1" href="/page/products.html"><img alt="Products" mouseoverimage="/props/CP/3/181/nav_Products_us_on.gif" mouseoutimage="/props/CP/3/182/nav_Products_us_off.gif" listitemid="li04" border="0" src="/props/CP/3/182/nav_Products_us_off.gif" align="center" id="img04"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/page/desktop.html">Desktop</a></li><li class="liMenuLevel2"><a href="/page/workstation.html">Workstation</a></li><li class="liMenuLevel2"><a href="/page/pg_20051028206728.html">Servers</a></li><li class="liMenuLevel2"><a href="/page/mobo.html">Motherboard</a></li><li class="liMenuLevel2"><a href="/page/hpc.html">High Performance Computing</a></li><li class="liMenuLevel2"><a href="/page/notebook.html">Notebook</a></li><li class="liMenuLevel2"><a href="/page/handheld.html">Handheld</a></li><li class="liMenuLevel2"><a href="/page/business_solutions.html">Business</a></li><li class="liMenuLevel2"><a href="/page/macintosh.html">Mac</a></li><li class="liMenuLevel2"><a href="/page/software.html">Software</a></li><li class="liMenuLevel2"><a href="/page/home_entertainment.html">Home Entertainment</a></li><li class="liMenuLevel2"><a href="/page/console.html">Game Console</a></li><li class="liMenuLevel2"><a href="/page/legacy.html">Legacy Products</a></li><li class="liMenuLevel2"><a href="/page/po3d_promotions.html">Promotions</a></li><li class="liMenuLevel2"><a href="/page/pg_20010611291062.html">Where to Buy</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img05');" onmouseover="onMouseOver('img05');" class="liMenuLevel1" name="menuLevel1Item" id="li05"><a class="linkMenuLevel1" href="/page/technologies.html"><img alt="Technologies" mouseoverimage="/props/CP/5449/181/nav_Technologies_us_on.gif" mouseoutimage="/props/CP/5449/182/nav_Technologies_us_off.gif" listitemid="li05" border="0" src="/props/CP/5449/182/nav_Technologies_us_off.gif" align="center" id="img05"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/page/sli.html">NVIDIA SLI</a></li><li class="liMenuLevel2"><a href="/page/turbocache.html">NVIDIA TurboCache</a></li><li class="liMenuLevel2"><a href="/page/pg_20070418845144.html">NVIDIA PureVideo</a></li><li class="liMenuLevel2"><a href="/page/mxm.html">MXM</a></li><li class="liMenuLevel2"><a href="/page/pci_express.html">PCI Express</a></li><li class="liMenuLevel2"><a href="/page/technology_vista_main.html">Windows Vista</a></li><li class="liMenuLevel2"><a href="/page/technology_extreme_hd_home.html">Extreme HD</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img06');" onmouseover="onMouseOver('img06');" class="liMenuLevel1" name="menuLevel1Item" id="li06"><a class="linkMenuLevel1" href="/page/powerof3d.html"><img alt="Communities" mouseoverimage="/props/CP/5/181/nav_Communities_us_on.gif" mouseoutimage="/props/CP/5/182/nav_Communities_us_off.gif" listitemid="li06" border="0" src="/props/CP/5/182/nav_Communities_us_off.gif" align="center" id="img06"></a></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img07');" onmouseover="onMouseOver('img07');" class="liMenuLevel1" name="menuLevel1Item" id="li07"><a class="linkMenuLevel1" href="/page/companyinfo.html"><img alt="Company Info" mouseoverimage="/props/CP/4/181/nav_CompanyInfo_us_on.gif" mouseoutimage="/props/CP/4/182/nav_CompanyInfo_us_off.gif" listitemid="li07" border="0" src="/props/CP/4/182/nav_CompanyInfo_us_off.gif" align="center" id="img07"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/page/investor_relations.html">Investor Relations</a></li><li class="liMenuLevel2"><a href="/page/pg_20061109828788.html">Channel Partners</a></li><li class="liMenuLevel2"><a href="/page/contact_information.html">Contact Information</a></li><li class="liMenuLevel2"><a href="/page/corporate_timeline.html">Corporate Milestones</a></li><li class="liMenuLevel2"><a href="/page/pg_20010527369917.html">Social Responsibility</a></li><li class="liMenuLevel2"><a href="/page/employment.html">Employment</a></li><li class="liMenuLevel2"><a href="/page/university_relations.html">University Relations</a></li><li class="liMenuLevel2"><a href="/page/pg_20011011487525.html">Executive Profiles</a></li><li class="liMenuLevel2"><a href="/page/corporate_awards.html">Corporate Awards</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img08');" onmouseover="onMouseOver('img08');" class="liMenuLevel1" name="menuLevel1Item" id="li08"><a class="linkMenuLevel1" href="/page/newsandevents.html"><img alt="News and Events" mouseoverimage="/props/CP/6/181/nav_NewsEvents_us_on.gif" mouseoutimage="/props/CP/6/182/nav_NewsEvents_us_off.gif" listitemid="li08" border="0" src="/props/CP/6/182/nav_NewsEvents_us_off.gif" align="center" id="img08"></a><ul class="ulMenuLevel2"><li class="liMenuLevel2"><a href="/page/press_room.html">Press Room</a></li><li class="liMenuLevel2"><a href="/page/product_reviews.html">Product Reviews</a></li><li class="liMenuLevel2"><a href="/page/events.html">Events Calendar</a></li><li class="liMenuLevel2"><a href="/page/pg_20040317553375.html">Success Stories</a></li><li class="liMenuLevel2"><a href="/page/nv_news.html">NVIDIA in the News</a></li><li class="liMenuLevel2"><a href="/page/pg_20070517815014.html">NVIDIA Newsletter</a></li></ul></li></ul></td><td><ul class="ulMenuLevel1"><li onmouseout="onMouseOut('img09');" onmouseover="onMouseOver('img09');" class="liMenuLevel1" name="menuLevel1Item" id="li09"><a class="linkMenuLevel1" href="/page/support.html"><img alt="Support" mouseoverimage="/props/CP/10249/181/nav_Support_us_on.gif" mouseoutimage="/props/CP/10249/182/nav_Support_us_off.gif" listitemid="li09" border="0" src="/props/CP/10249/182/nav_Support_us_off.gif" align="center" id="img09"></a></li></ul></td></tr></tbody></table></div></div><!--/noindex--><div class="contentArea"><table border="0" cellspacing="0" cellpadding="0" align="center" class="contentContainer"><tbody><tr><td colspan="2" class="contentTopLeft3"></td><td class="contentTopMiddle2"></td><td colspan="2" class="contentTopRight3"></td></tr><tr><td class="contentTopLeft2"></td><td class="contentTopLeft"></td><td class="contentTopMiddle"></td><td class="contentTopRight"></td><td class="contentTopRight2"></td></tr><tr><td></td><td class="mainContent" colspan="3"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center"><table cellspacing="0" cellpadding="0" border="0" width="728"><tbody><tr><td colspan="5"><img alt="" height="5" width="1" src="/images/shim.gif"></td></tr><tr><td colspan="5"><img alt="" height="5" width="1" src="/images/shim.gif"></td></tr><tr valign="top"><td>&nbsp;</td><td width="196"><table cellpadding="0" border="0" cellspacing="0" width="195"><tbody><tr><td align="right"><a href="javascript:history.back();"><img border="0" alt="Back" src="/docs/TEMPLATE/487/button_back.jpg"></a><br><br></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="196"><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table></td><td width="20"><img alt="" border="0" height="1" width="20" src="/docs/IO/10274/img10274.gif"></td><td width="512"><table cellspacing="0" cellpadding="0" width="512" border="0"><tbody><tr><td><font class="header">NVIDIA Privacy Notice</font><br><br></td></tr><tr valign="top"><td class="text"><p>NVIDIA gathers certain information from and about visitors to our website.&nbsp; We pay close attention to how information about our visitors is used and shared, and we use that information carefully and sensibly.&nbsp; This notice describes our privacy policy.&nbsp; <strong>By visiting NVIDIA's website, you are accepting the practices described in this Privacy Notice.</strong> </p>
 <p><strong>Information Gathered by NVIDIA</strong><br>The information we gather from visitors to our website helps us learn about end-users and potential end-users of our products so that we can better tailor product features, performance and support, and offer additional information and opportunities.&nbsp; </p>
 <p>We collect information you enter on our website, such as when you search for products or participate in a contest or questionnaire.&nbsp; We may also&nbsp; collect information you provide to us in other ways, such as when you communicate with us by telephone or e-mail.&nbsp; Information collected may include your name, address, phone number, details of purchases, personal preferences, financial information, and other descriptive information. </p>
 <p>We may also gather certain information automatically whenever you interact with our website.&nbsp; Like many websites, we may use "cookies" (alphanumeric files transferred to your computer hard drive that enable our computers to recognize your computer) that allow us to obtain certain types of information when your web browser accesses our website.&nbsp; Information collected may include the Internet Protocol address used to connect you to the Internet, computer information such as browser type and operating system, the Uniform Resource Locators (URL) to, through, and from our website, date and time of your visit, products and information you viewed or searched for, phone numbers used to call us, and confirmation of when you open e-mail from us.</p>
@@ -673,7 +496,15 @@ font-size:8pt;
 <p>We are not in the business of selling information about our customers or visitors to our website.&nbsp; We may, however, share information with select partners working with us to deliver better graphics and multimedia capabilities.&nbsp; We work with other companies throughout the design, manufacturing, integration, delivery, support, and servicing process, and may provide information we have collected to them to assist in improving their processes and so that they too can offer you useful information and special offers.&nbsp; </p>
 <p>NVIDIA may sell or buy assets from or to other companies.&nbsp; Customer information may be one of the transferred business assets, and would likely be one of the transferred assets in the unlikely event that NVIDIA or substantially all of its assets were acquired.</p>
 <p>We may release information on customers and visitors to our website when we believe release is appropriate to comply with laws, to enforce or apply our terms of use or terms of agreements we have entered into, or to protect our rights and property. </p>
-<p><strong>Conditions of Use and Revisions</strong> <br>If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.&nbsp; This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.&nbsp; You should check our website frequently to see recent changes. </p><br><br><br><hr color="#f2f2f2" size="2" align="center" width="100%" noshade="true"><br><table border="0" cellspacing="0" cellpadding="0" align="right"><tbody><tr valign="top"><td style="padding-right:10px;text-align:right;" class="copyright" align="right"><a class="copyright" href="/object/geforce_family.html">GeForce</a> | <a class="copyright" href="/page/mobo.html">nForce</a> | <a class="copyright" href="/page/mobile.html">GeForce Go</a> | <a class="copyright" href="/page/workstation.html">Quadro</a> | <a class="copyright" href="/page/handheld.html">GoForce</a><br><a class="copyright" href="http://developer.nvidia.com">Developers</a> | <a class="copyright" href="/page/channel.html">Channel Partners</a> | <a class="copyright" href="http://phx.corporate-ir.net/phoenix.zhtml?c=116466&amp;p=irol-IRHome">Investor Relations</a> | <a class="copyright" href="http://careers.nvidia.com">Employment</a><br>Copyright © 2007 NVIDIA Corporation | <a class="copyright" href="/object/legal_info.html">Legal Info</a> | <a class="copyright" href="/object/privacy_policy.html">Privacy Policy</a> | <a class="copyright" href="/object/rss_home.html">RSS Feeds</a></td></tr></tbody></table><br></td></tr></tbody></table></td><td>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td><td></td></tr></tbody></table><br><br></div>
+<p><strong>Conditions of Use and Revisions</strong> <br>If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.&nbsp; This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.&nbsp; You should check our website frequently to see recent changes. </p><br><br><br><hr color="#f2f2f2" size="2" align="center" width="100%" noshade="true"><br><table border="0" cellspacing="0" cellpadding="0" align="right"><tbody><tr valign="top"><td style="padding-right:10px;text-align:right;" class="copyright" align="right"><a class="copyright" href="http://www.slizone.com/object/slizone_buyprebuilt_us2.html">Gaming PC</a> | <a class="copyright" href="http://www.slizone.com/object/slizone_buyprebuilt_nb_us2.html"> Gaming Laptop</a> | <a class="copyright" href="http://www.slizone.com/object/slizone_learn_howtoguide.html">Build a PC</a> | <a class="copyright" href="http://www.slizone.com/object/slizone_marketplace.html">Buy a PC</a><br><a class="copyright" href="http://developer.nvidia.com">Developers</a> | <a class="copyright" href="/page/channel.html">Channel Partners</a> | <a class="copyright" href="http://phx.corporate-ir.net/phoenix.zhtml?c=116466&amp;p=irol-IRHome">Investor Relations</a> | <a class="copyright" href="http://careers.nvidia.com">Employment</a><br>
+              
+              Copyright 
+              
+              ©
+              
+               2007 NVIDIA Corporation
+              
+               | <a class="copyright" href="/object/legal_info.html">Legal Info</a> | <a class="copyright" href="/object/privacy_policy.html">Privacy Policy</a> | <a class="copyright" href="/object/rss_home.html">RSS Feeds</a></td></tr></tbody></table><br></td></tr></tbody></table></td><td>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td><td></td></tr></tbody></table><br><br></div>
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script type="text/javascript" language="javascript">
