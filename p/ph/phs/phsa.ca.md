@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501172143id_/http%3A//www.phsa.ca/links/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012184229id_/http%3A//www.phsa.ca/links/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 |  |   
 ---  
-| | [Copyright](https://web.archive.org/links/Copyright.htm "Copyright")  
-| | [Privacy](https://web.archive.org/links/Privacy.htm "Privacy")  
-| | [Terms of Use](https://web.archive.org/links/TermsOfUse.htm "Terms of Use")  
+| | [Copyright](http://www.phsa.ca/links/Copyright.htm "Copyright")  
+| | [Privacy](http://www.phsa.ca/links/Privacy.htm "Privacy")  
+| | [Terms of Use](http://www.phsa.ca/links/TermsOfUse.htm "Terms of Use")  
   
 We are committed to maintaining confidentiality and personal privacy. Collection, use, disclosure and retention of personal information must comply with the provisions of the BC [Freedom of Information and Protection of Privacy Act](http://www.qp.gov.bc.ca/statreg/stat/F/96165_01.htm) _._
 
@@ -36,7 +36,7 @@ Some of our web pages use “cookies” which are small amounts of information s
 
  ****
 
-Information sent to our website over the Internet is not secure. This means that if the visitor uses the [_Contact Us_ ](https://web.archive.org/Contact/ContactForm.htm)page, or other e-mail addresses published on this site, to send an e-mail, the information provided may be intercepted as it travels to our website. We will not be responsible for any damages suffered by individuals as a result of the transmission and information that is sent to us or for any errors or changes made to transmitted information.  
+Information sent to our website over the Internet is not secure. This means that if the visitor uses the [_Contact Us_ ](http://www.phsa.ca/Contact/ContactForm.htm)page, or other e-mail addresses published on this site, to send an e-mail, the information provided may be intercepted as it travels to our website. We will not be responsible for any damages suffered by individuals as a result of the transmission and information that is sent to us or for any errors or changes made to transmitted information.  
 
 
 **Related Links**
