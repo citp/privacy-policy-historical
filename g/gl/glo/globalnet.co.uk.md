@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalnet.co.uk privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426091448id_/http%3A//globalnet.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalnet.co.uk privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012142545id_/http%3A//www.globalnet.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Global Internet - Privacy Policy
 
