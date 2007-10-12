@@ -1,50 +1,59 @@
-> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy-calendars.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012120848id_/http%3A//www.pregnancy-calendars.net/policy.html) for the most accurate reproduction.*
 
 # Pregnancy Calendar Privacy Policy
 
-**OVERVIEW**
+Updated 7th September 2007
 
-This privacy policy describes the information we collect through the Pregnancy-Calendars.Net website, and how we use and protect it. Our privacy policy may be updated to meet the needs of consumers and Partners. We will always post our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective upon posting pursuant to our notification of changes section. By using the Web Site, you are agreeing to accept the terms of our privacy policy as currently posted on the Web Site. If you have any questions about our privacy policy, please [**contact us**](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/about.html). 
+**Disclaimer:**  
+We are not doctors or health professionals. Any material on Pregnancy-Calendars.Net is for information and entertainment purposes only. Material on our site should not take the place of a doctor or qualified professional.
 
-**GENERAL PROVISIONS**
+**Liability:**  
+You agree that your use of this website is at your sole risk. We do not warrant reliability of any statement or information displayed, distributed through or accessible from this website. As a convenience to you, we may provide links to websites operated by other entities, and you agree that we have no responsibility for information which is referenced or linked by this site. We are not responsible for any third party transactions via other websites users or advertisers or affiliates associated with Pregnancy-Calendars.Net.
 
-Privacy Philosophy for Pregnancy-Calendars.Net
+If you have had an unsatisfactory transaction please resolve this directly with the third party. If you have had an unethical experience with one of our users, advertisers or affiliates please email us at feed.back@pregnancy-calendars.net and we will review the complaint and may remove them from our site in our sole discretion but we are not obligated to respond to your complaint. In the event that you have a dispute with one or more other users of this site or other persons or entities advertising on the site, you release Pregnancy-Calendars.Net from any claims, damages and demands of any kind and nature, known and unknown, arising out of or in any way connected with such disputes. You agree to indemnify and hold Pregnancy-Calendars.Net, Inc. harmless against all claims and expenses, including reasonable attorney’s fees, arising out of or related to your use of the Pregnancy-Calendars.Net site, violation of any law or regulation, violation of these terms and conditions, or violation of any proprietary or privacy right, or contracts formed with you through this site.
 
-Pregnancy-Calendars.Net has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for data collected through Pregnancy-Calendars.Net and received from Website Partners. 
+**Privacy Statement:**   
+Pregnancy-Calendars.Net is dedicated to protecting your privacy.  You can visit our site without giving any information about yourself.  We do, however, require registration to post messages on our forums or to email or send private messages to members on our forums or to enter the members area of the site.  
 
-What non-personally identifiable information is collected and how is it used?
+**Information collected on Pregnancy-Calendars.Net:**
 
-IP Address and Other Non-personally Identifiable Information. We collect and use your IP address to help administer the Web Site. Your IP address is used to help identify you and your previous activity on the Pregnancy-Calendars.Net. We may also collect information such as browser type, domain name, access time, and page views. This information may be used to help analyze site traffic and improve our services to our customers. 
+When you register to use the forums or the members area at Pregnancy-Calendars.Net we collect your email address and member name, your full name, due date, country and state.  We will use this to contact you periodically to announce site updates or if there is a violation of our terms of service.  You will also have the option to fill out a profile.  You can provide information such as your location, birthdate, instant messenger information or personal information about yourself.  Pregnancy-Calendars.Net also collects standard information for gathering statistics about your IP address, the browser you are using, the operating system on your computer, the site referring you to Pregnancy-Calendars.Net and the time you visited. 
 
-Cookies
+**Use of cookies:**   
+Pregnancy-Calendars.Net web site and forums do use cookies.  A cookie is placed on your computer to store information about the user.  Usage of cookies does not collect personal information about the user.  It is used to store your log in information so that you do not have to log in with each visit. 
 
-For your convenience, we place cookies on your computer, so we can keep track of your personal information and previous promotion selections, make sure that you don't see the same promotional offer repeatedly, and otherwise customize your experience on the Pregnancy-Calendars.Net website. If your system does not accept cookies, we cannot customize your experience on the Pregnancy-Calendars.Net website.
+**Use of your personal information:**   
+Although we strive to protect your personal privacy, there are events in which we may need to disclose your personal information. Pregnancy-Calendars.Net may disclose your information if required to do so by law, if we have a good-faith belief that it is necessary to comply with a legal proceeding against Pregnancy-Calendars.Net, or if it is necessary to protect copyrighted property of Pregnancy-Calendars.Net ****
 
-What personally identifiable information of yours is collected & how is it used?
+**Users of our Forums must not:**   
+Use vulgar language, any derogatory racial or religious comments, or any content that is illegal. We do not allow profanity on our forums. This includes disguised profanity. For example, the word b**ch is considered the same as posting the actual word. Any posts containing profanity will be edited or removed.
 
-Pregnancy-Calendars.Net collects personally identifiable information. 
+Post links to pornographic material. We do not allow pictures or links to pictures with nudity. (Exclusions include pictures of birth stories or pictures for educational purposes, must have prior approval from a moderator before posting).
 
-The personally identifiable information we receive from Pregnancy-Calendars.Net has been voluntarily submitted by you, during an online registration. This information is not passed on to any third party whatso ever, and is simple required to verify your free membership on Pregnancy-Calendars.Net.
+Attack other members through posts on the board, email or private messages. We do not allow name calling, harassment or personal insults. You may express opposing view points but we want our members to feel safe from abuse. Please take the time to read your posts before you hit the post button and make sure that your posts are worded in a respectful nature. Posts that are not respectful, rude or insulting to other members will be removed.
 
-Contact Us and Feedback Forms.
+Use our forums for recruiting members to other forums. This includes posts, emails, or pms saying “email me” or “instant message me” in the context of recruiting members to another forum. Pregnancy-Calendars.Net is an open community. Members are welcome to post on other sites but we do not allow members to use Pregnancy-Calendars.Net to poach members for another forum site. User must not post links to competing forums. You may post links to helpful articles or informational sites.
 
-Pregnancy-Calendars.Net collects contact information, like your email address, on [**About Us**](https://web.archive.org/web/20070630033549id_/http%3A//www.pregnancy-calendars.net/about.html). The personally identifiable information that we collect from these forms is used to better understand your needs and provide you with the type of services and information that you may be interested in. We may store such information to be used for future mailings or to otherwise contact you.
+Pot stir or post disruptive posts on the forums. Pregnancy-Calendars.Net is a supportive community. We do not allow members to post disruptive posts on the forums. Any posts that are made simply to “stir the pot” or be disruptive will be removed.
 
-**OTHER PROVISIONS**
+**Troll on our forums:**  
+We do not allow multiple accounts to be registered at Pregnancy-Calendars.Net. We do not allow impersonating another member’s identity, stealing photos from others, or fictitious posting.  
+Post “mod/admin bashing” topics. Any topics insulting or antagonizing the moderation team at Pregnancy-Calendars.Net will be deleted. If you disagree with a moderation decision, you may send a respectful private message or email to an administrator expressing your concerns. If you choose to send profanity, personal insults, or any other abusive messages to an administrator or moderator your account will be permanently banned from Pregnancy-Calendars.Net. Pregnancy-Calendars.Net is a friendly community and we will not tolerate abuse of our staff. 
 
-Legal Requirements.
+Post any spam, solicitations for money, charitable causes, or other products including diapers, formula, coupons, etc.  
+Post research or journalism surveys on our forums.  
+Post copyrighted material. If you have no personally written or created what is posted then do not post it. You can post links to articles or information.
 
-We may, however, disclose personally identifiable information to other parties if required to do so by law or if we reasonably believe that such action is necessary (i) to conform to the requirements of the law or to comply with legal process served on Pregnancy-Calendars.Net, (ii) to protect and defend the legal rights or property of Pregnancy-Calendars.Net, the Web Site or our customers, or (iii) in an emergency, to protect the health and safety of our customers or the general public. 
+When posting be aware that this is a public forum. Do not post personal information about yourself. If for some reason a member should choose to delete their account from Pregnancy-Calendars.Net, we will not be responsible for removing any pictures, posts, or other personal information from the forums.  
+Post appropriate topics on our forums. We have a Heated Debates forum for controversial topics. Please post all debates on this forum. Controversial topics posted on other forums will be moved to the debate board or locked.
 
-Transfer of Assets.
+Although we do moderate our forums, we make no representations or warranties regarding the accuracy of any representations made and you agree that you will not hold us liable for any advice given or statements made via our message boards.
 
-If another entity acquires Pregnancy-Calendars.Net or all or substantially all of its assets, personally identifiable information, aggregate information, and any other information that we have collected about our customers will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against Pregnancy-Calendars.Net, all such information may be considered an asset of Pregnancy-Calendars.Net and as such may be sold or transferred to third parties. Users will be notified via email prior to the transfer of ownership or control of your information and will be presented with an opportunity to opt-out of having their information shared with the new entity.
+Pregnancy-Calendars.Net reserves the right to suspend members’ accounts who repeatedly violate our terms of service and to immediately discontinue, suspend, terminate or block users’ access to this site at any time.
 
-Third Party Advertising  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [_click here_](http://www.maxonline.com/privacy_policy/index.php).  
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We reserve the right, in our sole discretion, to correct any errors or omissions in any portion of the Pregnancy-Calendars.Net.com website.
 
-Third-Party Links.
+**Copyright:**  
+All materials on Pregnancy-Calendars.Net is copyrighted and Pregnancy-Calendars.Net retains ownership of all rights, title and interest in all copyrights in all documents, text, images created or owned by Pregnancy-Calendars.Net and displayed on this site. Do not reprint or reproduce any material for website or public use without permission from the owners of this site. You agree not to post or distribute on this site any information which infringes on a third party’s copyright or other proprietary rights.
 
-For your convenience, Pregnancy-Calendars.Net contains links to other sites, including site owned or operated by our Partners. Although every Partner (but not advertiser whose banner or other advertising is displayed on the Web Site) is required to sign a contract that requires them to adhere to Pregnancy-Calendars.Net's privacy policy, we have no real control over the linked sites and we are not responsible for the privacy practices or the content of any third-party sites linked to or from Pregnancy-Calendars.Net. We encourage you to note when you leave Pregnancy-Calendars.Net and to read the privacy statement of these third-party sites.
+Thank you for reviewing our terms of service.  Please check back periodically to see if there are any changes. If you have any questions concerning our terms of service or privacy policy please contact us at [_feed.back@pregnancy-calendars.net_](mailto:feed.back@pregnancy-calendars.net).
