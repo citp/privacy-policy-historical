@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628215804id_/http%3A//www.nationalresearch.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012034525id_/http%3A//www.nationalresearch.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # National Research Corporation - Main Page
 
