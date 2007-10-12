@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/index.htm) [ Home](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/index.htm) | [Technology](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/electricexperience.htm) | [Photos](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/photos.htm) | [Videos](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/videos.htm) | [Community](http://community.zeromotorcycles.com/) | [News](https://web.archive.org/web/20070625132954id_/http%3A//www.zeromotorcycles.com/news.htm) | [Zero Store](http://store.zeromotorcycles.com/)
+[](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/index.htm) [ Home](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/index.htm) | [Technology](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/electricexperience.htm) | [Photos](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/photos.htm) | [Videos](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/videos.htm) | [Community](http://community.zeromotorcycles.com/) | [News](https://web.archive.org/web/20071012074227id_/http%3A//www.zeromotorcycles.com/news.htm) | [Zero Store](http://store.zeromotorcycles.com/)
 
 We want you to get the most out of our Zero Motorcycles, Inc. site. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our web services, as well as some of the steps we take to safeguard it. 
 
 ## Data collection
 
-Zero collects limited non-personally identifying information your browser makes available whenever you visit a website. Examples of this type of data are: the name of your Internet service provider, the site that referred you to us, any pages you request, and the time and date of those requests, etc. 
+Zero collects limited non-personally identifying information your browser makes available whenever you visit a website. Examples of this type of data are the name of your Internet service provider, the site that referred you to us, any pages you request, and the time and date of those requests. 
 
 There are instances where Zero requests personally identifiable information to provide site visitors with a service. This information, such as name, mailing address, email address, and type of request, is collected and stored in a manner appropriate to the nature of the request, as determined by Zero Motorcycles, Inc. to fulfill your needs. 
 
