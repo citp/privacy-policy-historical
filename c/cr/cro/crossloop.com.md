@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630010145id_/http%3A//www.crossloop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012214145id_/http%3A//www.crossloop.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CrossLoop - Simple Secure Screen Sharing
 
