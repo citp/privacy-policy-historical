@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612063413id_/http%3A//www.vrbo.com/global/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012130635id_/http%3A//www.vrbo.com/global/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - VRBO Vacation Rentals by Owner
 
@@ -46,5 +46,5 @@ VRBO® is Vacation Rentals by Owner® - The largest and most popular vacation re
 Specializing in BY OWNER vacation rentals, homes, condos, cabins, villas and apartments. ALSO privately owned properties offered thru rental agencies and management companies.  
 To report any problems with this site, please contact [ webmaster@vrbo.com](mailto:webmaster@vrbo.com)  
 URL: http://www.vrbo.com/global/privacy.htm  
-©Copyright 1995-2007 by VRBO.com, Inc., [All rights reserved.](https://web.archive.org/global/copyright.htm) Use of this website constitutes acceptance of the [VRBO Terms and Conditions](https://web.archive.org/global/disclaim.htm) and [Privacy Policy.](https://web.archive.org/global/privacy.htm)  
+©Copyright 1995-2007 by VRBO.com, Inc., [All rights reserved.](https://web.archive.org/global/copyright.htm) Use of this website constitutes acceptance of the [VRBO Terms and Conditions](https://web.archive.org/global/termsandconditions.htm) and [Privacy Policy.](https://web.archive.org/global/privacy.htm)  
 "VRBO", "Vacation Rentals by Owner", & "Carpe Vacationum-'Seize the Vacation'" Reg. U.S. Pat. & TM Off 
