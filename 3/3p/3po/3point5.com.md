@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3point5.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629162401id_/http%3A//www.3point5.com/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3point5.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012031653id_/http%3A//www.3point5.com/action/privacy) for the most accurate reproduction.*
 
-# 3point5 - Online Training Community
+# 3point5.com - Your Online Campus!
 
 _**3point5 is committed to protecting your privacy online.**_ In order to fully understand your rights, please read this privacy statement before using the 3point5 website (the "Site"), which includes any Retail Management Module or 3point5 link from a manufacturers site that is powered by 3point5.
 
