@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052532id_/http%3A//www.filefactory.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012030433id_/http%3A//www.filefactory.com/info/privacy.php) for the most accurate reproduction.*
 
 # FileFactory. Privacy Policy.
 
