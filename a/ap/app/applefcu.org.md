@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017132530id_/https%3A//www.applefcu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012102501id_/http%3A//www.applefcu.org/privacy.asp) for the most accurate reproduction.*
 
 # Apple Federal Credit Union - Privacy Policy
 
@@ -13,9 +13,10 @@ We are committed to providing you with competitive products and services to meet
 We do not permit these companies to sell to other third parties the information we provide.
 
 Information We Collect And Disclose About You  
-We collect the following nonpublic personal information about you from a variety of sources and may disclose all the information we collect to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements. 
+We collect the following nonpublic personal information about you from a variety of sources and may disclose all the information we collect to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint agreements. 
 
-  * Information we receive from you on applications or other forms;
+  * Information we receive from you on applications, online forms or other forms we receive via branches, website or home banking. These forms are transmitted via secured means.
+  * Information we receive from our website via cookies, which do not store or collect confidential information. Cookies are necessary for online banking.
   * Information about your transactions with us, our affiliates, or others;
   * Information you send to us via mail or e-mail;
   * Information we receive from a consumer reporting agency; and;
@@ -39,5 +40,7 @@ What Members Can Do To Help Assure The Privacy of Their Non-Public Personal Info
 
 
 At Apple Federal Credit Union, protecting your privacy is one of our top priorities. It is also an ongoing process. We will continually review our privacy policy and, where appropriate, make changes to enhance the quality of your protection. As technology advances, we pledge to update our policies and procedures accordingly.
+
+Updated: June 8, 2007 
 
 | 
