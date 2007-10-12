@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528043928id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012132235id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ _Please note: we have discontinued the use of the TRUSTe certification program, 
 
 We at Novell value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web sites, access our online services, or participate in our online offerings. Although our web sites have unique services and offerings, they share a similar privacy philosophy. Therefore, we drafted this corporate online privacy policy to represent Novell's general privacy approach to the information practices of our web sites. In addition to this privacy policy, you can find specific web site privacy statements that provide more detailed information about the web site data handling practices-see links below:
 
-  * [novell.com privacy statement](https://web.archive.org/web/20070528043928id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
+  * [novell.com privacy statement](https://web.archive.org/web/20071012132235id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
   * [myrealbox.com privacy statement](http://www.myrealbox.com/a?.BQ.EM.Z1wQ.d)
 
 
