@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arofanatics.com privacy policy that was archived on 2005-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050909005025id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arofanatics.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012231332id_/http%3A//www.arofanatics.com/index.php%3Fcontent%3Dprivacy%26right%3Dno) for the most accurate reproduction.*
 
 # Arofanatics.com - Arowana Community for Aro collectors around the World!
 
@@ -34,11 +34,7 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 **Advertising Privacy**
 
-This website receives advertising from BURST! Media advertising network. Demographical data is collected when visitors fill up the voluntary survey that collects only data required to form a demographical model. No information will be used to contact visitors as anonymity is ensured. For more information of BURST! Media's privacy policies, please visit http://www.burstmedia.com/release/privacy.asp for more information. 
-
-This website receives advertising from the CMG Enterprises network. For more information on what data is collected from Internet consumers through CMG Enterprises ads please see their privacy policy statement at http://cmgenterprise.com/policy.htm
-
-We also receive from time to time, pop-under advertisements from the Everyone.net limited to no more than 3 times per day per user within a 24 hour period. Please review their privacy policy statement at http://www.everyone.net/main/html/p_policy.html 
+This website may place advertisements on parts of the site. No confidential information will be collected or provided to this company. 
 
 **Security**
 
