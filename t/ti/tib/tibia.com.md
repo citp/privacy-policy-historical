@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623121005id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibia.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012222258id_/http%3A//www.tibia.com/support/%3Fsubtopic%3Dlegaldocuments%26page%3Dprivacy) for the most accurate reproduction.*
 
-# Tibia - Support
+# Tibia - Free Multiplayer Online Role Playing Game - Support
 
 CipSoft GmbH, Gabelsbergerstrasse 11, 93047 Regensburg, Germany (referred to herein as "CipSoft") respects the privacy rights of all users and is aware of the importance of protecting stored personal data. Substantial organisational and technical measures have been taken to ensure the security of all personal data that is collected. This privacy policy explains in detail which information is collected and for which purposes it can be processed and used. 
 
