@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502182558id_/http%3A//www.onemeet.net/ext.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012204537id_/http%3A//www.onemeet.net/ext.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# OneMeet: a date can change your life !
+# Incontri Italia | Incontro | Chat | Singles
+
+**Information Privacy**
 
 OneMeet Incorporated has the following Privacy Policy with respect to information gathered on Web pages hosted by OneMeet.net. 
 
