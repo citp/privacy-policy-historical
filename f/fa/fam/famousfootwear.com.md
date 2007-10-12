@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018202150id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012032438id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ This privacy statement discloses the privacy practices for FamousFootwear.com. 
   7. How you can correct any inaccuracies in the information.
 
   
-     | If you feel that we are not abiding by our posted privacy policy, you should contact Famous Footwear.com Customer Service via email at [service@famousfootwear.com](mailto:service@famousfootwear.com), via postal mail at Famous Footwear, 7010 Mineral Point Road, Madison, WI 53717-1701, or by telephone at 1-866-432-6687  
+     | If you feel that we are not abiding by our posted privacy policy, you should contact Famous Footwear.com Customer Service via email at [service@famousfootwear.com](mailto:service@famousfootwear.com), via postal mail at Famous Footwear, 7010 Mineral Point Road, Madison, WI 53717-1701, or by telephone at 1-888-869-1053  
      | **Information Collection and Use**  
 Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com website is operated by the Famous Footwear Division of Brown Shoe Company. Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the FamousFootwear.com website.  
      | **REWARDS Customers**  
