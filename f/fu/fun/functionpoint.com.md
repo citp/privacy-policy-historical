@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416070046id_/http%3A//www.functionpoint.com/index/pageID/632/currentNavigation/AAC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012121202id_/http%3A//www.functionpoint.com/index/pageID/632/currentNavigation/AAC) for the most accurate reproduction.*
 
 # Function Point - Web-based Productivity Software
 
