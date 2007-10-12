@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520191049id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012102421id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Chat Bazaar - Chat and See what others chatting - chatbazaar.com
+# Privacy Policy : www.chatbazaar.com
 
 ### Disclaimer and Terms of Use
 
