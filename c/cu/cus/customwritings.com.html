@@ -1,84 +1,475 @@
-<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2007-03-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070320153354id_/http%3A//www.customwritings.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2007-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012114623id_/http%3A//customwritings.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Custom Writing Service</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Custom Writing Service provides students with custom written papers and essays, written by professional academic writers with no possibility of plagiarism.">
 <meta name="Keywords" content="custom writing service, custom writing, custom essay service, papers, essays, research, reports, speeches, reviews, no plagiarism, custom papers">
-<link href="styles_new.css" type="text/css" rel="stylesheet">
-<link href="online.css" type="text/css" rel="stylesheet">
-<script language="JavaScript" src="scripts.js" type="text/javascript">
-</script>
+<!-- InstanceParam name="google_adwords" type="boolean" value="false" -->
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Custom Writing Service</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
 <script type="text/JavaScript">
 <!--
-function setTrig() {
-	status=document.inquire.servicetype.value;
-	if (document.inquire.servicetype.value == '8') {
-			document.getElementById('service_option').style.display='block';
-		}
-	else {
-			document.getElementById('service_option').style.display='none';
-	}
-}
-function ValidateForm()
-{
-	var email=document.inquire.email.value;
-	var toptitle=document.inquire.toptitle.value;
-	var pages=document.inquire.pagesreq.value;
-	if (email=="")
-	{
-		alert('Please Enter your Email Address');
-		document.inquire.email.focus();
-		return(false);
-	}
-    else
-	{
-		if(!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.inquire.email.value)))
-		{
-			alert("Please enter a valid email address");
-			document.inquire.email.focus();
-			return false;
-		}
-	}
-	if (toptitle=="")
-	{
-		alert('Please Enter Topic Title');
-		document.inquire.toptitle.focus();
-		return(false);
-	}
-	if (pages==""||pages==0)
-	{
-		alert('Please Enter Pages Required');
-		document.inquire.pagesreq.focus();
-		return(false);
-	}
-	else {
-		if (isNaN(pages))
-			{
-				alert('Please Enter A Numeric Value');
-				document.inquire.pagesreq.focus();
-				return(false);
-			}
-	}
-return true;
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
 }
 //-->
 </script>
+<!-- InstanceEndEditable -->
+<link href="/styles_new.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+
+function MM_goToURL() { //v3.0
+	var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+	for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+
+function MM_findObj(n, d) { //v4.01
+	var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+		if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+		for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+		if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function tooltip (it) {
+	l=MM_findObj(it.id+'_tt');
+	if(l) {l.style.display = (l.style.display=='block')?'none':'block';}
+}
+
+function addBookmark(title,url) {
+	if (window.sidebar) {
+		window.sidebar.addPanel(title, url,"");
+	} else if( document.all ) {
+		window.external.AddFavorite( url, title);
+	} else if( window.opera && window.print ) {
+		return true;
+	}
+}
+//-->
+</script>
+<style>
+#deadline1  {display:none}
+#deadline2  {display:none}
+#deadline3 {display:none}
+#deadline4  {display:none}
+#service_option_tr {visibility:hidden}
+#topcat_other_tr {visibility:hidden}
+select {width: 80%;}
+.textinput {width: 80%;}
+
+
+.readonlyinput {
+    width: 80%;
+	background:white;
+	border:none;
+	color:black;
+}
+
+
+</style>
+
+<script type="text/javascript" language="JavaScript" src="/client_core/lib/JsHttpRequest/JsHttpRequest.js"></script>
+<script type="text/javascript" language="JavaScript">
+function do_discount() {
+	JsHttpRequest.query(
+	'/client_core/discount.php',
+	{ coupon: document.getElementById('coupon').value},
+	function(responseJS, responseText) {
+		// This function is called on data ready (readyState=4).
+		// Write result to page element ($_RESULT become responseJS).
+
+		if (responseJS.percent != null && (responseJS.percent) != 0) {
+      		document.getElementById('page_free').value = 0;
+			document.getElementById('percent').value = responseJS.percent;
+			document.getElementById('coupon_code').value = responseJS.coupon;
+			if (typeof additional_payment != "undefined") {
+				total_charge_additional();
+			}
+			else {
+				total_charge();
+			}
+		}
+		else {
+		 if (responseJS.page_free != null && (responseJS.page_free) != 0) {
+			document.getElementById('page_free').value = responseJS.page_free;
+      		document.getElementById('percent').value = 0;
+			document.getElementById('coupon_code').value = responseJS.coupon;
+			if (typeof additional_payment != "undefined") {
+				total_charge_additional();
+			}
+			else {
+				total_charge();
+			}
+		} 
+		else { 
+			document.getElementById('discount_div').innerHTML = 'Incorrect coupon code.';
+     		document.getElementById('percent').value = '';
+			document.getElementById('page_free').value = '';
+			document.getElementById('coupon_code').value = '';
+			if (typeof additional_payment != "undefined") {
+				total_charge_additional();
+			}
+			else {
+				total_charge();
+			}
+		}
+		}
+		// Write debug information too (output become responseText).
+		//document.getElementById('debug').innerHTML = responseText;
+		//document.getElementById('result').innerHTML = responseJS;
+	},
+	false // do not disable caching
+	);
+}
+</script>
+
+<script type="text/javascript">
+var prices = new Array(
+0,0,0,0,0,0,0,0,0,0,0,
+10,11,12,13,15,18,24,0,0,0,
+12,13,14,17,20,24,30,0,0,0,
+15,16,17,20,24,27,36,0,0,0,
+20,21,23,25,30,35,44
+);
+
+prevlvl = 0;
+
+function showdlselector() {
+	var corslevel = document.getElementById('corslevel').value;
+	for(var i=1; i<=4; i++) {
+		document.getElementById('deadline' + i).style.display='none';
+		document.getElementById('deadline' + i).disabled = true;
+	}
+	if (corslevel == '') {
+		document.getElementById('deadline0').style.display='block';
+		return;
+	}
+
+	document.getElementById('deadline0').style.display='none';
+	document.getElementById('deadline' + corslevel).style.display='block';
+	document.getElementById('deadline' + corslevel).disabled = false;
+	if (prevlvl != 0) {
+		document.getElementById('deadline' + corslevel).selectedIndex = document.getElementById('deadline' + prevlvl).selectedIndex;
+	}
+	prevlvl = corslevel;
+}
+function pad_with_zeros(rounded_value, decimal_places) {
+	var value_string = rounded_value.toString()
+	var decimal_location = value_string.indexOf(".")
+	if (decimal_location == -1) {
+		decimal_part_length = 0
+		value_string += decimal_places > 0 ? "." : ""
+	}
+	else {
+		decimal_part_length = value_string.length - decimal_location - 1
+	}
+	var pad_total = decimal_places - decimal_part_length
+	if (pad_total > 0) {
+		for (var counter = 1; counter <= pad_total; counter++)
+		value_string += "0"
+	}
+	return value_string;
+}
+
+function round_decimals(original_number, decimals) {
+	var result1 = original_number * Math.pow(10, decimals);
+	var result2 = Math.round(result1);
+	var result3 = result2 / Math.pow(10, decimals);
+	return pad_with_zeros(result3, decimals);
+}
+
+function total_charge() {
+	//function to calculate total charges
+	var corselevel = document.getElementById('corslevel').value;
+	var percent = document.getElementById('percent').value;
+	var free_page = document.getElementById('page_free').value;
+	var coupon_code = document.getElementById('coupon_code').value;
+	if (percent > 0) {
+		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount.';
+	}
+	if (free_page > 0) {
+		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br />when you`ll submit the form. This coupon code will give you discount for one page.';
+	}
+	try {
+		var deadline_selected_val = document.getElementById('deadline'+document.getElementById('corslevel').value).value;
+	}
+	catch(err) {
+		return;
+	}
+	if (corselevel == false) {
+		document.getElementById('totcharg').value = "0.00";
+		document.getElementById('totcharg_span').innerHTML = "Select course level first!";
+		return;
+	}
+	if (deadline_selected_val == "")
+	{
+		document.getElementById('totcharg').value = "0.00";
+		document.getElementById('totcharg_span').innerHTML = "Please select Deadline first.";
+		try {
+			document.getElementById('delivered_time').innerHTML = 'Please select deadline first.';
+		}
+		catch(err) {
+			return;
+		}
+		return;
+	}
+	var pagesreq = document.getElementById('pagesreq').value;
+	if (pagesreq == "")
+	{
+		document.getElementById('totcharg').value = "0.00";
+		document.getElementById('totcharg_span').innerHTML = "#of Pages Required cannot be zero";
+		return;
+	}
+	//package value
+	var price = prices[deadline_selected_val];
+	//	alert('corselevel '+corselevel+'\n'+'dlselectref '+deadline_selected_val+'\n'+'price '+price+'\n'+'papers '+pagesreq);
+	var totcharg = round_decimals(price * pagesreq, 2);
+	if (!isNaN(totcharg))
+	{
+		document.getElementById('totcharg').value = totcharg;
+		if (percent != 0) {
+			var discount_value = round_decimals(totcharg * percent / 100, 2);
+			var end_price = round_decimals(totcharg - discount_value, 2);
+			document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount ($' + discount_value + ').';
+			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
+		} else if (free_page != 0) {
+			if (pagesreq == 1 && free_page == 1) {
+				document.getElementById('discount_div').innerHTML = 'Your order should be a minimum of 2 pages, to receive 1 page for free ';
+				document.getElementById('totcharg_span').innerHTML = '$' + totcharg;	
+		    } else {
+				var pre_discount_value = totcharg / pagesreq;
+				var discount_value = round_decimals(pre_discount_value * free_page, 2);
+				var end_price = round_decimals(totcharg - discount_value, 2);
+				document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br />when you`ll submit the form. This coupon code will give you discount for one page.';
+				document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
+			}
+		}
+		else {
+			document.getElementById('totcharg_span').innerHTML = '$' + totcharg;
+		}
+	}
+	document.getElementById('deadline').value = document.getElementById('deadline'+document.getElementById('corslevel').value).value;
+	try {
+		count_date_finished();
+	}
+	catch (err) {
+		return;
+	}
+}
+
+function total_charge_additional() {
+
+	var percent = document.getElementById('percent').value;
+	var coupon_code = document.getElementById('coupon_code').value;
+	var free_page = document.getElementById('page_free').value;
+	var totcharg = document.getElementById('totcharg').value;
+	if (percent != '') {
+		document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount.';
+	}
+	if (!isNaN(totcharg))
+	{
+		document.getElementById('totcharg').value = totcharg;
+		if (percent != 0) {
+			var discount_value = round_decimals(totcharg * percent / 100, 2);
+			var end_price = round_decimals(totcharg - discount_value, 2);
+			document.getElementById('discount_div').innerHTML = 'Coupon '+ coupon_code +' will be applied,<br /> when you`ll submit the form.<br /> You will get ' + percent + '% discount ($' + discount_value + ').';
+			document.getElementById('totcharg_span').innerHTML = '<strong>$' + totcharg + ' - $' + discount_value + ' = $' + end_price + '</strong>'
+		} else if (free_page != 0) {
+				document.getElementById('discount_div').innerHTML = 'This coupon code gives discount for one page.<br> Please use it on the order page.';
+				document.getElementById('totcharg_span').innerHTML = '$' + totcharg;
+		}
+		else {
+			document.getElementById('totcharg_span').innerHTML = '$' + totcharg;
+		}
+	}
+}
+
+function countwords() {
+	var pagesreq = document.getElementById('pagesreq').value;
+	if (!isNaN(pagesreq))
+	{
+		document.getElementById('words').innerHTML = pagesreq * 275;
+	}
+	else
+	{
+		document.getElementById('words').innerHTML = "";
+	}
+}
+function typeofservice_other() {
+	var typeofservice = document.getElementById('typeofservice').value;
+	if (typeofservice == "other") {
+		//document.getElementById('typeofservice_tr').style.display = "none";
+		document.getElementById('service_option_tr').style.visibility = "visible";
+		document.getElementById('service_option').disabled = false;
+	}
+	else {
+		//document.getElementById('typeofservice_tr').style.display = "block";
+		document.getElementById('service_option_tr').style.visibility = "hidden";
+		document.getElementById('service_option').disabled = true;
+	}
+}
+
+
+
+function g_off(ref)
+{
+	var rightNow = new Date();
+	var date1 = new Date(rightNow.getFullYear(), 0, 1, 0, 0, 0, 0);
+	var date2 = new Date(rightNow.getFullYear(), 6, 1, 0, 0, 0, 0);
+	var temp = date1.toGMTString();
+	var date3 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+	var temp = date2.toGMTString();
+	var date4 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+	var hoursDiffStdTime = (date1 - date3) / (1000 * 60 * 60);
+	var hoursDiffDaylightTime = (date2 - date4) / (1000 * 60 * 60);
+
+	if (!document.getElementById(ref)) return true;
+	var off = new Date().getTimezoneOffset() / 60;
+	document.getElementById(ref).selectedIndex=12+hoursDiffStdTime;
+}
+
+function count_date_finished() {
+	var rightNow = new Date();
+	var date1 = new Date(rightNow.getFullYear(), 0, 1, 0, 0, 0, 0);
+	var date2 = new Date(rightNow.getFullYear(), 6, 1, 0, 0, 0, 0);
+	var temp = date1.toGMTString();
+	var date3 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+	var temp = date2.toGMTString();
+	var date4 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+	var hoursDiffStdTime = (date1 - date3) / (1000 * 60 * 60);
+	var hoursDiffDaylightTime = (date2 - date4) / (1000 * 60 * 60);
+
+	var month_names = new Array ( );
+	month_names[month_names.length] = "January";
+	month_names[month_names.length] = "February";
+	month_names[month_names.length] = "March";
+	month_names[month_names.length] = "April";
+	month_names[month_names.length] = "May";
+	month_names[month_names.length] = "June";
+	month_names[month_names.length] = "July";
+	month_names[month_names.length] = "August";
+	month_names[month_names.length] = "September";
+	month_names[month_names.length] = "October";
+	month_names[month_names.length] = "November";
+	month_names[month_names.length] = "December";
+
+	var day_names = new Array ( );
+	day_names[day_names.length] = "Sunday";
+	day_names[day_names.length] = "Monday";
+	day_names[day_names.length] = "Tuesday";
+	day_names[day_names.length] = "Wednesday";
+	day_names[day_names.length] = "Thursday";
+	day_names[day_names.length] = "Friday";
+	day_names[day_names.length] = "Saturday";
+
+	var timezones = new Array();
+	timezones[-12] = 'GMT-12:00';
+	timezones[-11] = 'GMT-11:00';
+	timezones[-10] = 'GMT-10:00';
+	timezones[-9] = 'GMT-09:00';
+	timezones[-8] = 'GMT-08:00';
+	timezones[-7] = 'GMT-07:00';
+	timezones[-6] = 'GMT-06:00';
+	timezones[-5] = 'GMT-05:00';
+	timezones[-4] = 'GMT-04:00';
+	timezones[-3] = 'GMT-03:00';
+	timezones[-2] = 'GMT-02:00';
+	timezones[-1] = 'GMT-01:00';
+	timezones[0] = 'GMT';
+	timezones[1] = 'GMT+01:00';
+	timezones[2] = 'GMT+02:00';
+	timezones[3] = 'GMT+03:00';
+	timezones[4] = 'GMT+04:00';
+	timezones[5] = 'GMT+05:00';
+	timezones[6] = 'GMT+06:00';
+	timezones[7] = 'GMT+07:00';
+	timezones[8] = 'GMT+08:00';
+	timezones[9] = 'GMT+09:00';
+	timezones[10] = 'GMT+10:00';
+	timezones[11] = 'GMT+11:00';
+	timezones[12] = 'GMT+12:00';
+	timezones[13] = 'GMT+13:00';
+
+	var hours_needed = new Array();
+	hours_needed[7] = 264;
+	hours_needed[6] = 168;
+	hours_needed[5] = 96;
+	hours_needed[4] = 72;
+	hours_needed[3] = 48;
+	hours_needed[2] = 24;
+	hours_needed[1] = 8;
+
+	function y2k(number) { return (number < 1000) ? number + 1900 : number; }
+	function leadingZero(nr)
+	{
+		if (nr < 10) nr = "0" + nr;
+		return nr;
+	}
+	var deadline_selected_index = document.getElementById('deadline'+document.getElementById('corslevel').value).selectedIndex;
+	//alert(deadline_selected_index);
+	if (deadline_selected_index == 0)
+	{
+		document.getElementById('delivered_time').innerHTML = 'Please select deadline first.';
+		return;
+	}
+
+	var date=new Date();
+	date.setHours(date.getHours()+hours_needed[deadline_selected_index]);
+
+	var Hours = date.getHours();
+	var ampm = "AM";
+	if (Hours == 0) Hours = 12;
+	if (Hours > 11)
+	ampm = "PM";
+	if (Hours > 12)
+	Hours -= 12;
+	Hours = leadingZero(Hours);
+
+	document.getElementById('delivered_time').innerHTML = date.getDate() + ' ' + month_names[date.getMonth()] +  ' - ' + Hours + ' ' + ampm + ' ' + timezones[hoursDiffStdTime];
+
+}
+
+function topcat_other() {
+    var topcat = document.getElementById('topcat').value;
+	if (topcat == "other") {
+		//document.getElementById('typeofservice_tr').style.display = "none";
+		document.getElementById('topcat_other_tr').style.visibility = "visible";
+		document.getElementById('topcat_option').disabled = false;
+	}
+	else {
+		//document.getElementById('typeofservice_tr').style.display = "block";
+		document.getElementById('topcat_other_tr').style.visibility = "hidden";
+		document.getElementById('topcat_option').disabled = true;
+	}	
+}
+
+</script><script language="JavaScript">
+bot_checked = 0;
+</script>
 <style type="text/css">
 <!--
-.style6 {color: #FF0000}
+.style6 {font-size: 9px}
 -->
 </style>
 </head>
-<body onload="g_off('gmt')">
+<body><div class="hackerConsole" style="background: black; z-index: 999999999; position: relative; text-align: left; padding: 4px; margin: 0px; width: 100%; max-width: 770px; height: 1px; overflow: auto; border: 1px solid black; color: rgb(0, 238, 0); font: 15px &quot;Courier new&quot;, Courier; display: none;"><div style="margin-bottom: 7px;"><div style="font-weight: bold; font-size: 20px;">GET:</div><div style="margin-left: 1em; padding-left: 4px; border-left: 3px double;"><div title="at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 12, out" style="cursor: pointer;">Array[0]</div><div title="at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 13, out" style="cursor: pointer;">Array[0]</div></div></div><div style="margin-bottom: 7px;"><div style="font-weight: bold; font-size: 20px;">COOKIE:</div><div style="margin-left: 1em; padding-left: 4px; border-left: 3px double;"><div title="at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 14, out" style="cursor: pointer;">Array[5]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[id]&nbsp;=&gt;&nbsp;58926<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[key]&nbsp;=&gt;&nbsp;hgRnVbQbQk<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[s_date]&nbsp;=&gt;&nbsp;1192189262<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[s_query]&nbsp;=&gt;&nbsp;/College-essay.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[s_ref]&nbsp;=&gt;&nbsp;deleted</div></div></div></div>
 <!-- #BeginBehavior showTooltip1 -->
 <div id="dHTMLToolTip" style="position: absolute; visibility: hidden; width:10; height: 10; z-index: 1000; left: 0; top: 0"></div>
 <!-- #EndBehavior showTooltip1 -->
 
 <div id="outercontainer">
   <div id="container">
-    <div id="header">      <div id="headerpic"><img src="/images/header.jpg" alt="Custom essay, custom term paper, custom research paper writing service" width="830" height="125"> </div>
+    <div id="header">
+      <div id="headerpic"><img src="/images/header.jpg" alt="custom writing service header" width="830" height="125"> </div>
       <div id="missionstatement"> <img src="/images/mission1.gif" alt="custom writing service" width="331" height="15"> </div>
       <div id="hdelivery">
         <p>Have your Paper <br>
@@ -86,21 +477,23 @@ completed <span class="redboldtext"><br>
 Overnight</span></p>
       </div>
 <div id="addfav">
-<p><a onmousedown="addBookmark('Custom Essay Service: Customwritings.com','http://www.customwritings.com')" href="#"><img height="25" alt="Add to favorites" src="/images/addfav.gif" width="28" border="0"><span class="redboldtext">Bookmark this page </span></a></p>
-</div></div>
+<p><a onmousedown="addBookmark('Custom Writing Service: CustomWritings.com','http://www.customwritings.com')" href="#"><img height="25" alt="Add to favorites" src="/images/addfav.gif" width="28" border="0"><span class="redboldtext">Bookmark this page </span></a></p>
+</div>
+    </div>
     <!-- RAIL THREE -->
     <div id="leftcol">
-      <div id="leftmenu">				<a class="leftbtn" href="/order_inquiry.php">
+      <div id="leftmenu"> 
+		<a class="leftbtn" href="/inquiry.html">
         <div class="leftbutton" id="inquirenow"><span>free inquiry</span><br>
             <span class="sublink">Not sure? Not in a hurry? Inquire for free
             and receive a quote from the best available writer. </span></div>
-                </a> <a class="leftbtn" id="ordernow" href="/order.htm">
+        </a> <a class="leftbtn" id="ordernow" href="/order.html">
         <div class="leftbutton">order now<br>
             <span class="sublink">Order the writing you need. Starting from $10/page. </span></div>
                   </a> 
 		<a class="leftbtn" id="about" href="/index.html">
-        <div class="leftbutton">about us <br>
-            <span class="sublink">Our company, operating principles and advantages.</span></div>
+        <div class="leftbutton">about our custom writing service <br> 
+            <span class="sublink">Our company, operating principles</span></div>
         </a> <a class="leftbtn" id="prices" href="/pricing.html">
         <div class="leftbutton">prices <br>
             <span class="sublink">Prices for our services. <strong>How to apply
@@ -114,12 +507,15 @@ Overnight</span></p>
             <span class="sublink">What other customers say about their experience
             with CustomWritings.com. </span></div>
               </a> 
-		<a class="leftbtn" id="chatnow" href="/chat/flashchat.php" target="_blank">
-        <div class="leftbutton"><img src="images/blinker.gif" alt="online" width="42" height="12" border="0"> live
-          person chat <br>
-              <span class="sublink">Do you have a question? We will gladly help
-              you to find an answer.</span></div>
-                  </a> </div>
+				<a class="leftbtn" id="chatnow" href="/chat/flashchat.php" target="_blank">
+        <div class="leftbutton" style="display:block"><img src="/images/blinker.gif" alt="online" width="42" height="12" border="0">
+
+		 live person chat <br>
+          <span class="sublink">Do you have a question? We will gladly help you to find an answer.</span>
+
+		</div>
+        	    </a> 
+	  </div>
       <!--
 	  why us? Our company, operating principles and advantages. 
 	  faq - Guarantees, grades, policies, writers.
@@ -149,16 +545,11 @@ Overnight</span></p>
           <li>Editing</li>
           <li>(free) revising </li>
         </ul>
-        <div align="center">
-          <p><a href="/guarantee.html"><img src="images/seal_moneyback_guarranteed.jpg" alt="Money Back" border="0"></a> </p>
-          <p><a href="http://www.2co.com" target="_blank"><img src="images/2cocc06.gif" alt="2checkout.com" width="190" height="54" border="0"></a> </p>
-          <p><a href="http://www.2co.com"><img src="images/visa_verified.gif" alt="Verified By Visa" width="126" height="85" border="0"></a></p>
-        </div>
         <div class="contactdiv">
-          <h1 class="redboldtext"> <img src="images/mail1.gif" alt="Mail us" width="20" height="20" border="0"> Contacts:</h1>
+          <h1 class="redboldtext"> <img src="/images/mail1.gif" alt="Mail us" width="20" height="20" border="0"> Contacts:</h1>
           <p>Email us:</p>
           <p><a href="mailto:info@customwritings.com"> info@customwritings.com</a></p>
-          <div id="online2co">
+          <div id="online2co" style="display:none">
             <div class="tollfree">
               <h2>Customer support: </h2>
               <p class="hed">Please see your 2CO.COM Sales Receipt for your order
@@ -172,11 +563,11 @@ Overnight</span></p>
               <p class="posted style6">Please note that you can only call 2CO
                 support office in regards to the existing order. For pre-order
                 inquiries please see our <a href="/faq.html">frequently asked
-                questions</a> section or <a href="mailto:info@customwritings.com">email
-                us</a>. </p>
+                  questions</a> section or <a href="mailto:info@customwritings.com">email
+                    us</a>. </p>
             </div>
           </div>
-          <div id="online">
+          <div id="online" style="display:block">
             <div class="tollfree">
               <h2>Call us toll free:</h2>
               <p class="events">(US &amp; Canada only, international callers
@@ -184,106 +575,148 @@ Overnight</span></p>
               <h5 class="tp-company-sub">New customers: </h5>
               <h4 class="accent"> 1-888-52-00986</h4>
               <h5 class="tp-company-sub">Existing customers: </h5>
-              <h4 class="accent">1-8778-my-term<br>
-                1-8778-69-8376 </h4>
+              <h4 class="accent">1-888-my-term0<br>
+                1-888-698-3760 </h4>
               <p class="accent">Extension 0: Operator </p>
             </div>
-            <p align="center"><a href="/chat/flashchat.php" target="_blank"><img src="images/support1.gif" alt="Ask your question now" width="92" height="135" border="0"></a></p>
-            <p align="center"><a href="/chat/flashchat.php" target="_blank" class="redboldtext"><span>Chat
-                  online now!</span></a> </p>
+            <p align="center"><a href="/chat/flashchat.php" target="_blank"><img src="/images/support1.gif" alt="Ask your question now" width="92" height="135" border="0"></a></p>
+            <p align="center"><a href="/chat/flashchat.php" target="_blank" class="redboldtext">Chat
+              online now!</a> </p>
             <p style="vertical-align:middle">&nbsp;</p>
             <p align="center" style="vertical-align:middle">IM support:<br>
                 <a href="http://web.icq.com/whitepages/message_me?uin=304801918&amp;action=message"><img src="http://web.icq.com/whitepages/online?icq=304801918&amp;img=5" alt="ICQ" width="18" height="18" border="0"></a>&nbsp;<a href="aim:GoIM?screenname=customwritings"> <img src="http://api.oscar.aol.com/SOA/key=PandorasBoxGoodUntilJan2006/presence/customwritings" alt="AOL" border="0"> </a></p>
           </div>
         </div>
-        <div align="center"><br>
+        <p>&nbsp;</p>
+        <div align="center">
+          <p>&nbsp;</p>
+          <p><a href="/guarantee.html"><img src="/images/seal_moneyback_guarranteed.jpg" alt="Money Back" border="0"></a> </p>
+          <p><a href="http://www.2co.com" target="_blank"><img src="/images/2cocc06.gif" alt="2checkout.com" width="190" height="54" border="0" style="display:none"></a> </p>
+		  <p><br><a href="http://www.2checkout.com/" target="_blank"><img src="/images/11.jpg" border="0"></a></p>
+		  <p><!-- PayPal Logo --></p><table border="0" cellpadding="10" cellspacing="0" align="center"><tbody><tr><td align="center"></td></tr>
+<tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/vertical_solution_PP.gif" border="0" alt="Solution Graphics"></a></td></tr></tbody></table><!-- PayPal Logo --><p></p>
+          <p><img src="/images/paypal_secure.gif" alt="Secure payments by PayPal" style="display:none">
+		  <!-- PayPal Logo --></p><table border="0" cellpadding="10" cellspacing="0" align="center"><tbody><tr><td align="center"></td></tr>
+<tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/bnr_paymentsBy_150x60.gif" border="0" alt="Additional Options"></a></td></tr></tbody></table><!-- PayPal Logo -->
+		  
+		  <p></p>
+          <p><img src="/images/visa_verified.gif" alt="Verified By Visa" width="126" height="85"></p>
         </div>
+        <h1>Paper format: </h1>
+        <ul>
+          <li>Approx. 275 words / page</li>
+          <li> Font: 12 point Arial </li>
+          <li> Double line spacing </li>
+          <li> Any citation style </li>
+          <li> FREE bibliography page </li>
+          <li> FREE title page</li>
+          <li> FREE revisions </li>
+          <li> FREE email delivery</li>
+          <li> Original and creative work</li>
+        </ul>
+        <div id="testimony" style="padding-bottom:10px; padding-right: 10px; width: 81%; padding-left: 10px; padding-top: 10px; margin-left: 10px;" onmousedown="MM_goToURL('parent','/testimonials.html');return document.MM_returnValue">
+          <p><a href="/testimonials.html"><img src="/images/testimony1.gif" alt="customer testimony" width="165" height="60" border="0"></a></p>
+          <p>Sylvia, ON: </p>
+          <p class="hed">"Thank you very very much, the paper is fantastic,
+            it even sounds like my writing. I'll let you know how I am graded
+            on it. Your service is excellent, a far cry from what I had gone
+            through with other services. Thank you again, you will be seeing
+            me again! "</p>
+          <p class="updatedSlug">[customer real names are changed as it is private
+            information]</p>
+        </div>
+		<div align="center"><br>
+<p class="sidetext">2Checkout.com, Inc. is an authorized retailer of goods and services provided
+    by Custom Writing Services L.L.C<br>
+          <br>
+          <img src="/images/cc.gif" alt="2co.com" width="120" height="21"></p>
+	    </div>
       </div>
     </div>
-	
-    <!-- RAIL ONE -->
     <div id="middlecol">
-      <div id="middletext"> <a name="top" id="top"></a>
-        <div style="position:relative; float:right; clear:none; width:204px; padding-left: 15px; padding-bottom: 0px;"></div>
-        <div style="padding-left:5px;">
-          <h1>Privacy Policy</h1>
+      <div id="middletext">		<img src="/images/1x1.gif" id="st">
+<!-- InstanceBeginEditable name="main_content" -->
+        <div id="div"> <a name="top" id="top"></a>
+            <div style="position:relative; float:right; clear:none; width:204px; padding-left: 15px; padding-bottom: 0px;"></div>
+          <div style="padding-left:5px;">
+              <h1>Privacy Policy</h1>
             <table cellspacing="0" cellpadding="0" width="100%" border="0">
-              <tbody>
-                <tr>
-                  <td></td>
-                </tr>
-                <tr>
-                  <td valign="top">The following statement explains our policy
-                    regarding the personal information we collect about you when
-                    you visit The customwritings.com web site (www.customwritings.com). <br>
-                    This information is used to improve the content of our web
-                    pages, to customise the content and/or layout of our page.
-                    We never sell, rent or share any of the information we collect
-                    by this method (except anonymous aggregate information) with
-                  any third party. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Information we collect as you browse our
+                <tbody>
+                  <tr>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">The following statement explains our policy
+                      regarding the personal information we collect about you when
+                      you visit the Customwritings.com web site (www.customwritings.com). <br>
+                      This information is used to improve the content of our web
+                      pages, to customise the content and/or layout of our page.
+                      We never sell, rent or share any of the information we collect
+                      by this method (except anonymous aggregate information) with
+                      any third party. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Information we collect as you browse our
                       web site </h2>
-                  Our web server automatically collects standard information,
-                    including your IP address, browser type, operating system
-                    and access times. <br>
-                    Sometimes we may use cookies to customise web page content
-                    based on your browser type, IP address or other anonymous
-                    information.</td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>About Cookies</h2>
-                  Cookies are text files that identify your computer to our
+                      Our web server automatically collects standard information,
+                      including your IP address, browser type, operating system
+                      and access times. <br>
+                      Sometimes we may use cookies to customise web page content
+                      based on your browser type, IP address or other anonymous
+                      information.</td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>About Cookies</h2>
+                      Cookies are text files that identify your computer to our
                       server. Cookies in themselves do not identify the individual
                       user, just the computer used. Many web sites do this whenever
                       a user visits their site in order to monitor visitor traffic. <br>
-                    Cookies themselves only record those areas of the site that
-                    have been visited by the computer in question, and for how
-                    long. Users have the opportunity to set their computers to
-                    accept all cookies, to notify them when a cookie is issued,
-                    or not to receive cookies at any time. The last of these,
-                    of course, means that certain personalised services cannot
-                    then be provided to that user. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Use of optional information</h2>
-                  On certain web pages, you may be asked to provide your name,
+                      Cookies themselves only record those areas of the site that
+                      have been visited by the computer in question, and for how
+                      long. Users have the opportunity to set their computers to
+                      accept all cookies, to notify them when a cookie is issued,
+                      or not to receive cookies at any time. The last of these,
+                      of course, means that certain personalised services cannot
+                      then be provided to that user. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Use of optional information</h2>
+                      On certain web pages, you may be asked to provide your name,
                       e-mail address or other personal information (for example,
                       when requesting a prospectus or brochure). We will not
                       use this information for any other purpose; it is never
-                      sold, rented or shared with any third party. We will however,
+                      sold, rented or shared. We will however,
                       use any demographic information you provide for internal
                       market research purposes only. <br>
-                    If you contact us by e-mail to request information, report
-                    a problem or provide feedback on our services we will only
-                    use the information you provide (including your e-mail address)
-                    to respond to your message. We do not share this information
-                    in any way. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Future developments</h2>
-                  From time to time, we may use your information for new, unanticipated
+                      If you contact us by e-mail to request information, report
+                      a problem or provide feedback on our services we will only
+                      use the information you provide (including your e-mail address)
+                      to respond to your message. We do not share this information
+                      in any way. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Future developments</h2>
+                      From time to time, we may use your information for new, unanticipated
                       uses not previously disclosed in our privacy policy. If
                       our information practices change at some time in the future
                       we will post the policy changes on this page. <br>
-                    If you are concerned about how your information is used,
-                    you should check this page periodically. We will only use
-                    data collected from the time of the policy change onwards
-                    for these new purposes.</td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Security </h2>
-                  We have appropriate security measures in place to protect
+                      If you are concerned about how your information is used,
+                      you should check this page periodically. We will only use
+                      data collected from the time of the policy change onwards
+                      for these new purposes.</td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Security </h2>
+                      We have appropriate security measures in place to protect
                       against the loss, misuse or alteration of information we
                       have collected from you. <br>
-                    These security measures include the necessary protection
-                    to prevent, as far as possible, access to our databases by
-                    parties other than The Solomon Papers. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Links Disclaimer </h2>
-                  In order to provide visitors with certain information, this
+                      These security measures include the necessary protection
+                      to prevent, as far as possible, access to our databases by
+                      parties other than The Solomon Papers. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Links Disclaimer </h2>
+                      In order to provide visitors with certain information, this
                       web site provides links to local, State and federal government
                       agencies, and web sites of other organizations. A link
                       does not constitute an endorsement of the content, viewpoint,
@@ -292,10 +725,10 @@ Overnight</span></p>
                       this web site, including one maintained by the State, you
                       are subject to the terms and conditions of that web site,
                       including, but not limited to, its privacy policy. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>§537. Disclosures Prohibited</h2>
-                  Use of information acquired from employers or employees pursuant
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>§537. Disclosures Prohibited</h2>
+                      Use of information acquired from employers or employees pursuant
                       to this article shall be for the exclusive use and information
                       of the commissioner in the discharge of his or her duties
                       hereunder. It shall not be open to the public nor be used
@@ -307,20 +740,20 @@ Overnight</span></p>
                       affected and, at the commissioner's discretion, may be
                       made available to the parties affected in connection with
                       effecting placement. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Will Our Privacy Policy Change in the
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Will Our Privacy Policy Change in the
                       Future?</h2>
-                  We are always improving and updating our website to further
-                    enhance your shopping experience. As a result, our policies
-                    will continue to evolve. As we implement new technology and
-                    provide new services, we will update our Privacy Policy.
-                    We encourage you to refer to this page on an ongoing basis
-                    for our most current policy and practices. </td>
-                </tr>
-                <tr>
-                  <td valign="top"><h2>Access to information </h2>
-                  You have the right to request a copy of the personal information
+                      We are always improving and updating our website to further
+                      enhance your shopping experience. As a result, our policies
+                      will continue to evolve. As we implement new technology and
+                      provide new services, we will update our Privacy Policy.
+                      We encourage you to refer to this page on an ongoing basis
+                      for our most current policy and practices. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><h2>Access to information </h2>
+                      You have the right to request a copy of the personal information
                       The customwritings.com ® holds about you and to have
                       any inaccuracies corrected. (We charge $35 for information
                       requests). Upon such a request we will provide you with
@@ -328,31 +761,34 @@ Overnight</span></p>
                       to the conditions of the Data Protection Act 1998. Please
                       request this service by writing to us at the address below
                       - <a href="mailto:info@customwritings.com">info@customwritings.com</a>.</td>
-                </tr>
-              </tbody>
-            </table>
+                  </tr>
+                </tbody>
+              </table>
             <h3>&nbsp;</h3>
-        </div>
-        <div style="clear:both"></div>
-        <a name="inquiry" id="inquiry"></a><br>
-          <div id="didntfind">
-            <h2>Did not find what you were looking for? </h2>
-            <h3>Get an answer to your question for free right now: </h3>
-            <p>Ask a question online concerning your assignment right away to
-              receive a free consultation. </p>
-            <div align="center">
-              <input name="Submit3" type="button" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')" value="Start chat">
-            </div>
           </div>
-      </div>
+          <div style="clear:both"></div>
+          <a name="inquiry" id="inquiry"></a><br>
+            <div id="didntfind" style="display:block">
+              <h2>Did not find what you were looking for? </h2>
+              <h3>Get an answer to your question for free right now: </h3>
+              <p>Ask a question online concerning your assignment right away to
+                receive a free consultation. </p>
+              <div align="center">
+                <input name="Submit3" type="button" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')" value="Start chat">
+              </div>
+            </div>
+        </div>
+<!-- InstanceEndEditable --></div>
     </div>
-    <!-- RAIL FOUR -->
-    <div id="footer">      <p class="motto" style="display:none"><a href="/essays/">essays</a> | <a href="/papers/">term papers </a> | <a href="/researches/">researches | </a><a href="/reports/">reports</a> | <a href="/reviews/">reviews</a> | <a href="/speeches/">speeches</a> | <a href="/projects/">projects</a> | <a href="/presentations/">presentations</a> </p>
-      <p class="motto"><a href="/order_inquiry.php">Free quote</a> | <a href="/faq.html">FAQ</a> | <a href="/pricing.html">Pricing</a> | <a href="/testimonials.html">Testimonials</a> | <a href="/privacy.htm">Privacy Policy</a> | <a href="mailto:info@customwritings.com">Contact Us</a></p>
+    <div id="footer">
+      <p class="motto"><a href="/inquiry.html">Free quote</a> | <a href="/faq.html">FAQ</a> | <a href="/pricing.html">Pricing</a> | <a href="/testimonials.html">Testimonials</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="mailto:info@customwritings.com">Contact Us</a></p>
+<p class="motto">------------------------------------------------------------------------------------------------------------</p>
+      <p class="style9 style6">| <a href="/buy-essay.html" target="_self">Buy Essay</a> | <a href="/College-essay.html" target="_self">College Essay</a> | <a href="/critical-essay.html" target="_self">Critical Essay</a> | <a href="/custom-essay.html" target="_self">Custom Essay</a> | <a href="/essay-paper.html" target="_self">Essay Paper</a> | <a href="/essay-writing.html" target="_self">Essay Writing</a> | <a href="/example-essay.html" target="_self">Example Essay</a> | <a href="/free-essay.html" target="_self">Free Essay</a> | <a href="/non-plagiarized-essay.html" target="_self">Non - Plagiarized Essay</a> |</p>
+      <p class="style9 style6">| <a href="/sample-essay.html" target="_self">Sample Essay</a> | <a href="/shakespeare-essay.html" target="_self">Shakespeare Essay</a>|  </p>
       <p class="motto"><span class="accent">© 2003-2006 Custom Writing Services
           L.L.C. All Rights Reserved.</span><br>
-                  <br>
-        CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio </p></div>
+        CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio. <br>
+      Disclaimer: Custom Writing Services L.L.C. provides custom term paper writing services inclusive of research material, for assistance purposes only. The term papers should be used with proper reference.  </p></div>
   </div>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -361,9 +797,176 @@ Overnight</span></p>
 _uacct = "UA-235285-1";
 urchinTracker();
 </script>
-<div id="pLayer" style="position:absolute; width:200; visibility:hidden; z-index:200">
+<div id="pLayer" style="position:absolute; width: 200; visibility: hidden; z-index:200">
   <!--Empty div-->
 </div>
 
 
-</body></html>
+<!-- ##################### -->
+<!-- ### HackerConsole ### -->
+<!-- ##################### -->
+<script type="text/javascript" language="JavaScript">//<![CDATA[
+/**
+ * Debug_HackerConsole_Js: JavaScript frontend for hacker console.
+ * (C) 2005 Dmitry Koterov, http://forum.dklab.ru/users/DmitryKoterov/
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * See http://www.gnu.org/copyleft/lesser.html
+ *
+ * @version 1.x $Id: Js.js 160 2007-01-09 11:36:50Z dk $
+ */
+ 
+function Debug_HackerConsole_Js(top) { this.construct(window) }
+Debug_HackerConsole_Js.prototype = {
+	top: null,
+	div: null,
+	height: parseInt('400'),  // JS syntax OK
+	curHeight: 0,
+	step: 0,
+	speedOn: 0.3,
+	speedOff: 10,
+	dt: 50,
+	fontsize: 15,
+	groups: null,
+	scrollTimeout: null,
+
+	construct: function(t) { with (this) {
+		top = t || window;
+		groups = {};
+		if (!top.document.body) {
+		    top.document.writeln("<" + "body><" + "/body>");
+		}
+		with (top.document) {
+			div = body.insertBefore(createElement('div'), body.childNodes[0]);
+			div.className = 'hackerConsole';
+			with (div.style) {
+				display = 'none';
+				background = 'black';
+				zIndex = 999999999;
+				position = 'relative';
+				textAlign = 'left';
+				padding = '4px';
+				margin = '0px';
+				width = '100%';
+				maxWidth = (screen.width-30) + 'px';
+				height = this.height + 'px';
+				overflow = 'auto';
+				border = '1px solid black';
+				color = '#00EE00';
+				font = 'normal ' + this.fontsize + 'px "Courier new", Courier';
+			}
+			var th = this;
+			var owner = window.HTMLElement? window : body;
+			var prevKeydown = owner.onkeydown;
+			owner.onkeydown = function(e) {
+				if (!e) e = window.event;
+				if (e.ctrlKey && (e.keyCode == 192 || e.keyCode == 96)) {
+					th.toggle(-1);
+					return false;
+				}
+				if (prevKeydown) {
+					this.__prev = prevKeydown;
+					return this.__prev(e);
+				}
+			}
+			toggle(null);
+		}
+	}},
+  
+	toggle: function(on, onstart) {
+		var cookName = 'hackerConsole';
+		if (on == null) on = Math.round(this.getCookie(cookName));
+		if (on < 0) on = !Math.round(this.getCookie(cookName));
+		if (on) {
+			this.curHeight = 0;
+			this.step = this.speedOn;
+		} else {
+			this.curHeight = this.div.style.display!='none'? this.height : 0;
+			this.step = -this.speedOff;
+		}
+		var th = this;
+		var fResizer = function() {
+			th.div.style.display = on? '' : 'none';
+			th.curHeight = th.curHeight + th.height*th.step;
+			if (th.curHeight < 0) th.curHeight = 0;
+			if (th.curHeight > th.height) th.curHeight = th.height;
+			th.div.style.height = (Math.round(th.curHeight)+1) + "px";
+			th.div.style.display = '';
+			if (th.curHeight <= 1) {
+				th.div.style.display = 'none';
+				return;
+			} else if (th.curHeight >= th.height) {
+				return;
+			}
+			setTimeout(fResizer, th.dt);
+		}
+		fResizer();
+		this.setCookie(cookName, on? 1 : 0, '/', new Date(new Date().getTime()+3600*24*365*1000));
+	},
+  
+ 	out: function(msg, title, group) { with (this) {
+		if (!msg) return;
+		var span = top.document.createElement('div');
+		span.innerHTML = msg;
+		var container = div;
+		if (group) {
+			container = groups[group];
+			if (!container) {
+				var groupDiv = top.document.createElement('div');
+				div.appendChild(groupDiv);
+				groupDiv.style.marginBottom = "7px";
+				var headDiv = top.document.createElement('div');
+				groupDiv.appendChild(headDiv);
+				headDiv.innerHTML = group + ":";
+				headDiv.style.fontWeight = "bold";
+				headDiv.style.fontSize = (fontsize+5)+"px";
+				container = top.document.createElement('div');
+				groupDiv.appendChild(container);
+				container.style.marginLeft = "1em";
+				container.style.paddingLeft = "4px";
+				container.style.borderLeft = "3px double";
+				groups[group] = container;
+			}
+		}
+		container.appendChild(span);
+		if (scrollTimeout) clearTimeout(scrollTimeout);
+		var d = this.div;
+		scrollTimeout = setTimeout(function() { d.scrollTop = 10000000 }, 100);
+		if (title != null) {
+			span.title = title;
+			try { span.style.cursor = "pointer"; } catch (e) {}
+		}
+	}},
+
+	// ������� ��������� �������� cookie.
+	setCookie: function(name, value, path, expires, domain, secure) {
+	  var curCookie = name + "=" + escape(value) +
+	    ((expires) ? "; expires=" + expires.toGMTString() : "") +
+	    ((path) ? "; path=" + path : "; path=/") +
+	    ((domain) ? "; domain=" + domain : "") +
+	    ((secure) ? "; secure" : "");
+	  document.cookie = curCookie;
+	},
+	
+	// ������� ������ �������� cookie.
+	getCookie: function(name) {
+	  var prefix = name + "=";
+	  var cookieStartIndex = document.cookie.indexOf(prefix);
+	  if (cookieStartIndex == -1) return null;
+	  var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length);
+	  if (cookieEndIndex == -1) cookieEndIndex = document.cookie.length;
+	  return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+	}
+}
+window.hackerConsole = window.hackerConsole || window.Debug_HackerConsole_Js && new window.Debug_HackerConsole_Js();
+if (window.hackerConsole) setTimeout(function() { with (window.hackerConsole) {
+  out('Array[0]', 'at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 12, out', 'GET');
+  out('Array[0]', 'at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 13, out', 'GET');
+  out('Array[5]<'+'br /'+'>\n&nbsp;&nbsp;&nbsp;&nbsp;[id]&nbsp;=&gt;&nbsp;58926<'+'br /'+'>\n&nbsp;&nbsp;&nbsp;&nbsp;[key]&nbsp;=&gt;&nbsp;hgRnVbQbQk<'+'br /'+'>\n&nbsp;&nbsp;&nbsp;&nbsp;[s_date]&nbsp;=&gt;&nbsp;1192189262<'+'br /'+'>\n&nbsp;&nbsp;&nbsp;&nbsp;[s_query]&nbsp;=&gt;&nbsp;/College-essay.html<'+'br /'+'>\n&nbsp;&nbsp;&nbsp;&nbsp;[s_ref]&nbsp;=&gt;&nbsp;deleted', 'at /usr/home/customwrit/domains/customwritings.com/client_site/client_core/includes.php line 14, out', 'COOKIE');
+}}, 200);
+//]]></script>
+
+<!-- InstanceEnd --></body></html>
