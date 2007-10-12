@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619212914id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suse.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012132235id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
 
-# NOVELL: Privacy Policy
+# Privacy Policy
 
 ## Novell Online Privacy Policy  
 Effective on: 15 March 2006
@@ -9,7 +9,7 @@ _Please note: we have discontinued the use of the TRUSTe certification program, 
 
 We at Novell value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web sites, access our online services, or participate in our online offerings. Although our web sites have unique services and offerings, they share a similar privacy philosophy. Therefore, we drafted this corporate online privacy policy to represent Novell's general privacy approach to the information practices of our web sites. In addition to this privacy policy, you can find specific web site privacy statements that provide more detailed information about the web site data handling practices-see links below:
 
-  * [novell.com privacy statement](https://web.archive.org/web/20060619212914id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
+  * [novell.com privacy statement](https://web.archive.org/web/20071012132235id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
   * [myrealbox.com privacy statement](http://www.myrealbox.com/a?.BQ.EM.Z1wQ.d)
 
 
@@ -34,11 +34,11 @@ When you visit our web sites, information may be requested of you in order for y
 
 If we change our information handling practices or other privacy aspects, we will post a prominent notice on our homepage of those changes to this privacy statement, at least 30 days prior to their implementation. You will have a choice as to whether or not we may use your information in this different manner.
 
-### We offer you choices regarding how personally identifiable information you provide us may be used
+### We offer you choices regarding how your information may be used
 
 You may browse our web sites without providing personal information to us. However, if you want to receive our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. Providing this information is optional and not a requirement to access our sites. When you provide personally identifiable information to us that may be used for secondary purposes (i.e., uses not related to the purpose for which the information was collected), we give you the opportunity to decline or opt-out of such uses.
 
-### We strive to provide you the opportunity to update or correct the contact information that you have provided to us
+### We strive to provide you the opportunity to update or correct your information
 
 We provide a variety of mechanisms for you to modify and update the contact information that you have provided to us. When you visit our web sites, we let you know in our privacy statements how you can modify the contact information that you have provided.
 
@@ -46,6 +46,6 @@ We provide a variety of mechanisms for you to modify and update the contact info
 
 We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, we take measures to ensure that the information used to process your request is accurate and current. See our site privacy statements for details about how we protect information.
 
-### We provide you with means to contact us about our information practices and other privacy issues
+### We provide you with means to contact us about our information practices
 
 We are committed to protecting the privacy of our customers and web site visitors. Should you have any questions or concerns about this privacy policy or the practices of our web sites, please contact us at [privacy@novell.com](mailto:privacy@novell.com). Novell corporate headquarters are located at 404 Wyman Street, Suite 500, Waltham, MA 02451.
