@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043254id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012040515id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # AllNutri.com - Best Price Leading Brands
 
