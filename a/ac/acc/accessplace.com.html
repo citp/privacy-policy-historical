@@ -1,63 +1,130 @@
-<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2006-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017224734id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2007-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012235740id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>accessplace privacy policy, personal user data, third party sites, children and user consent</title>
 
 
+<link rel="shortcut icon" href="http://www.accessplace.com/favicon.ico" type="image/x-icon">
 <title> UK</title>
 <script language="JavaScript">
 <!--
-function checkform(){
+function checkform(theform){
 
-	if (document.business.qh.value=='type of company'){ document.business.qh.value=''; } 
-	if (document.business.qn.value=='name of company'){ document.business.qn.value=''; } 
-	if (document.business.qloc.value=='town or area code'){ document.business.qloc.value=''; return false; }
+	if (theform.qh.value=='type of company'){ theform.qh.value=''; } 
+	if (theform.qn.value=='name of company'){ theform.qn.value=''; } 
+	if (theform.qloc.value=='town or area code'){ theform.qloc.value=''; }
+	
+	if ((theform.qloc.value == '') && (theform.qn.value=='') && (theform.qh.value=='')) {
+		alert("Please type in at least a business name and location, or a location and type of company.")
+		return false;
+	} else {
+		if (theform.qn.value=='') {
+			if ((theform.qloc.value == '') || (theform.qh.value=='')) {
+				alert("Please type in at least a location and a type of company, or a company name and location.");
+				return false;
+			} else {
+				theform.submit();
+			}
+		} else {
+			if (theform.qloc.value=='') {
+				alert("Please type in a location along with the company name.");
+				return false;
+			} else {
+				theform.submit();
+			}
+		}
+	}
 }
 -->
 </script>
+<style type="text/css">
+
+#dhtmltooltip{
+font-size: 12px;
+position: absolute;
+width: 150px;
+border: 2px solid #2b96d4;
+padding: 2px;
+background-color: #e8e8e8;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+</style>
 <link href="http://www.accessplace.com/accessplace.css" type="text/css" rel="stylesheet"></head>
 
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
-
-	<div align="center">
-		<div style="position:relative; background-color: 2D98D6; height: 15px; width : 900px;">
-			<div class="breadcrumb"><a href="http://www.accessplace.com/" class="breadcrumb">accessplace business directory</a>&nbsp;&nbsp;
-
-			</div>
-		</div><br> 
-		<table width="900" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><!-- 
-				<FORM action="http://www.accessplace.com/search.php" method="post" name="searchform">
-					<TD><FONT class="lighttext"><BR>search the web</FONT>						
-						<INPUT type=text name=term size=24 value='' class=form>						
-						<INPUT type=submit value="  Find  " class="form"><BR>
-					</TD>
-
-				</FORM> -->
-				<td align="right"><a href="http://www.accessplace.com/"><img src="http://www.accessplace.com/images/accesslogo.gif" width="336" height="49" alt="" border="0"></a>
-				</td>
-			</tr>
-		</tbody></table>
-		<div style="position:relative; background-color: 2D98D6; height: 72px; width : 900px;  background-image: url(http://www.accessplace.com/images/newbanner3.gif);">
-
-			<div class="areatitle">accessplace</div>
-			
-			
-			<div class="categorytitle1">privacy policy</div>
-			<div class="breadcrumb2"><a href="http://www.accessplace.com/" class="breadcrumb">accessplace</a> &nbsp;»&nbsp;</div>
-		</div>
-		
-		<table width="900" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td valign="top" width="170">
-			<table width="170" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td bgcolor="#DCDCDC"><font class="navheader"><strong>&nbsp;» privacy section</strong></font>
-					</td>
-				</tr>
-				<tr>
-				<td bgcolor="#F0F0F0"><font class="navheader">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0 " marginwidth="0">
+<!-- Start Holding Table -->
+	<div style="position : absolute; left : 196;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed;"><tbody><tr>
+			<td width="794" valign="top">	<!-- Main Cell of Holding Table -->
+				<!-- top logo table -->
+				<table width="794" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td height="8" width="783" bgcolor="#2B96D4">
+						</td>
+						<td height="8" width="4">
+						</td>
+					</tr>
+					<tr>
+						<td width="783" height="31" align="right"><a href="http://www.accessplace.com/index.htm"><img src="http://www.accessplace.com/images/naccesslogo.gif" width="177" height="31" alt="" border="0"></a><br>
+						</td>
+						<td height="31" width="4">
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							<div style="position:relative; background-color: 2D98D6; height: 76px; width : 792px;  background-image: url(http://www.accessplace.com/images/ntopbar.gif);">
+								<div class="areatitle">accessplace</div><div class="categorytitle1">privacy policy</div><div class="breadcrumb2"><a href="http://www.accessplace.com/" class="breadcrumb">accessplace</a> &nbsp;&nbsp;</div>							</div>
+						</td>
+					</tr>
+				</tbody></table>	<!-- End top logo table --><br style="line-Height : 3px;">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="10">
+						</td>
+						<td valign="top">	<!-- Main central content area --><br style="line-Height : 3px;"></td></tr></tbody></table></td></tr></tbody></table></div>
+<div style="position : absolute; width : 196px;">
+		<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="196" valign="top">	<!-- Left Cell of Holding Table -->
+				<table width="196" border="0" cellspacing="0" cellpadding="0" background="http://www.accessplace.com/images/nleftbar.gif">
+					<tbody><tr>
+						<td valign="top"><img src="http://www.accessplace.com/images/ntopleft.gif" alt="" width="197" height="118" border="0"><br>
+						
+						
+						<div style="position : absolute; top: 9px; left: 26px; width : 160px;"><font class="leftNavBold">privacy section</font><br>
+						</div>
+						<div style="position : absolute; top: 41px; left: 19px; width : 169px;">
+							<table width="169" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td height="4" colspan="2" bgcolor="#94B5BE">
+									</td>
+								</tr>
+								<tr>
+									<td height="1" colspan="2">
+									</td>
+								</tr>
+								<tr>
+									<td height="26" bgcolor="#D2D8D8" width="10">
+									</td>
+									<td height="26" bgcolor="#D2D8D8"><font class="leftNav"><img src="http://www.accessplace.com/images/downArrow.gif" width="5" height="8" alt="" border="0"> privacy</font>
+									</td>
+								</tr>
+								<tr>
+									<td height="1" colspan="2" bgcolor="#CBD1D1">
+									</td>
+								</tr>
+								<tr>
+									<td>
+									</td>
+								</tr>
+							</tbody></table>
+						</div>
+						<div style="position : relative; top: -42px; left: 19px; width : 169px;">
 					&nbsp;» <a href="#Privacy" class="nav">Privacy</a><br>
 					 &nbsp;» <a href="#PersonalUserData" class="nav">Personal User Data</a><br>					
 					 &nbsp;» <a href="#ThirdPartySites" class="nav">Third Party Sites</a><br>
@@ -67,33 +134,41 @@ function checkform(){
 					 &nbsp;» <a href="#Children" class="nav">Children</a><br>
 					 &nbsp;» <a href="#NotestoParents" class="nav">Notes to Parents</a><br>
 					 &nbsp;» <a href="#UserConsent" class="nav">User Consent</a><br><br>
-					</font></td>
+						</div>
+						
+						<div style="position : relative; left: 19px; top: -30px; width : 169px;"><font face="arial" color="#03639b" size="2">
+
+							<font face="arial" color="#03639b" size="2">
+							&nbsp;» <a href="http://www.accessplace.com/" class="nav">accesshome</a><br>
+							&nbsp;» <a href="http://www.accessplace.com/welcome.htm" class="nav">accesshelp</a><br>
+							&nbsp;» <a href="http://www.accessplace.com/usage.htm" class="nav">accesstips</a><br>
+							<hr width="90%" size="1" color="#DCDCDC" noshade="">
+							&nbsp;» <a href="http://www.accessplace.com/about.htm" class="nav">accessabout</a><br>
+							&nbsp;» <a href="http://www.accessplace.com/privacy.htm" class="nav">accessprivacy</a><br>
+							&nbsp;» <a href="http://www.accessplace.com/welcome.htm#CopyrightNotice" class="nav">accesscopyright</a>
+						</font></font></div><font face="arial" color="#03639b" size="2"><font face="arial" color="#03639b" size="2">
+					</font></font></td>
 				</tr>
 
-				
-				
 				<tr>
-					<td bgcolor="#DCDCDC"><font class="navheader"><strong>&nbsp;» accessplace</strong></font>
+					<td><img src="http://www.accessplace.com/images/nleftbottom.gif" width="196" height="13" alt="" border="0"><br>
 					</td>
 				</tr>
-				<tr>
-					<td bgcolor="#F0F0F0"><font class="navheader">
-					&nbsp;» <a href="http://www.accessplace.com/" class="nav">accesshome</a><br>
-					&nbsp;» <a href="http://www.accessplace.com/welcome.htm" class="nav">accesshelp</a><br>
-					&nbsp;» <a href="http://www.accessplace.com/usage.htm" class="nav">accesstips</a><br>
-					<hr width="90%" size="1" color="#DCDCDC" noshade="">
-					&nbsp;» <a href="http://www.accessplace.com/about.htm" class="nav">accessabout</a><br>
-					&nbsp;» <a href="http://www.accessplace.com/privacy.htm" class="nav">accessprivacy</a><br>
-					&nbsp;» <a href="http://www.accessplace.com/welcome.htm#CopyrightNotice" class="nav">accesscopyright</a><br><br>
-					</font></td>
-												</tr><tr>
-					<td><img src="http://www.accessplace.com/images/bottomline.gif" alt="" width="170" height="13" border="0"></td>
-				</tr>
-			</tbody></table>
+			</tbody></table>	<!-- End Left Cell of Holding Table -->
 		</td>
-		<td width="10">
-		</td>
-		<td width="720">
+	</tr>
+</tbody></table>	<!-- End Holding Table -->
+</div>
+	<div style="position : relative; left : 196; top: 135px; width:794px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0" style="table-layout:fixed;"><tbody><tr>
+			<td width="794" valign="top">	<!-- Main Cell of Holding Table -->
+				<!-- top logo table -->
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="10">
+						</td>
+						<td valign="top">	<!-- Main central content area -->
+
 <font size="-1"><b><a href="http://www.accessplace.com/">accessplace</a> &gt; privacy</b></font><br>
 <br> 
 						<table width="100%" cellspacing="0" cellpadding="0">
@@ -151,31 +226,103 @@ It is a accessplace policy that we will not disclose personally identifiable inf
 By using our Web site, you consent to the collection and uses of the information detailed here. Any changes in our Privacy Policy will appear on this page so you are aware of what we collect and how we use it.<br><br> 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact <a href="mailto:privacy@accessplace.com">privacy@accessplace.com</a></font><br><br>
-		</font></td>
+<!-- End Main Cell of Holding Table -->
+</font></td>
 </tr>
-</tbody></table><br>
-		<table cellspacing="0" width="900" border="0">
-			<tbody>
-				<tr>
-					<td height="1" colspan="2" bgcolor="#2D98D6">
-					</td>
-				</tr>
-				<tr>
-					<td align="right"><a class="footer" href="javascript:window.external.AddFavorite('http://www.accessplace.com//',%20'accessplace%20-%20Web%20Directory')">Bookmark 
+</tbody></table>	<!-- Start footer --><br>
+	<table cellspacing="0" width="794" border="0">
+		<tbody>
+			<tr>
+				<td height="1" colspan="2" bgcolor="#2D98D6">
+				</td>
+			</tr>
+			<tr>
+					<td align="right"><a class="footer" href="javascript:window.external.AddFavorite('http://www.accessplace.com/',%20'accessplace%20-%20Web%20Directory')">Bookmark 
       for later</a> | 
 	  	  
 	  <a class="footer" href="http://www.accessplace.com/welcome.htm">Help</a> | <a class="footer" href="http://www.accessplace.com/welcome.htm#CopyrightNotice">Copyright</a><font class="footer"> © 1999-2006 accessplace.com - All Rights 
       Reserved</font><font size="-1"> | <a class="footer" href="http://www.accessplace.com/privacy.htm">Privacy Policy</a> | </font>
 						</td><td valign="bottom"><a href="http://www.accessplace.com/"><img src="http://www.accessplace.com/images/tinylogo.gif" alt="" width="103" height="20" border="0"></a>
-						</td>
-					
-				</tr>
-			</tbody>
-		</table><br>
-	</div>
+					</td>
+				
+			</tr>
+		</tbody>
+	</table><br><!-- End footer --></td></tr></tbody></table>
+</div>
+<div id="dhtmltooltip"></div>
 
+<script type="text/javascript">
 
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
 
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script>
 
 
 </body></html>
