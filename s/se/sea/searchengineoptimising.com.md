@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineoptimising.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629113406id_/http%3A//www.searchengineoptimising.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineoptimising.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012174815id_/http%3A//www.searchengineoptimising.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # SearchEngineOptimising.com Submission Programs Privacy Policy from Babylon Technologies Ltd
 
