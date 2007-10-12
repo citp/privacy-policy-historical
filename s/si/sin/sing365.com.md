@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518232739id_/http%3A//sing365.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sing365.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012082309id_/http%3A//www.sing365.com/privacy.html) for the most accurate reproduction.*
 
 # Sing365 Privacy Policy
 
