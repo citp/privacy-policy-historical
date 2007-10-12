@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607214614id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012200642id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # DAN Divers Alert Network : Privacy Policy
 
-  
-
+|  | 
 
 Your Privacy 
 
@@ -59,6 +58,4 @@ Other than DAN, what companies provide DAN membership benefits?
 
   * DAN welcomes your questions and comments about privacy. To send feedback, [click here](https://web.archive.org/contact/email.asp?RE=Website). 
 
-
-
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F)
+| 
