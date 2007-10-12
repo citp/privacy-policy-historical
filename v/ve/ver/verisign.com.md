@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013010034id_/http%3A//www.verisign.com/Privacy/index.html) for the most accurate reproduction.*
 
 # About VeriSign - Privacy Statement from VeriSign, Inc.
 
@@ -8,6 +8,8 @@
 ## Privacy Statement
 
 Version 2.15 - Effective May 31, 2007   
+[](http://www.truste.org/ivalidate.php?url=www.verisign.com&sealid=101)
+
 [](https://www.truste.org/ivalidate.php?url=www.verisign.com)VeriSign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign.com site and about special privacy practices related to our Safe Harbor Participation (see below section on “EU Safe Harbor Participation”).  This Privacy Statement is not applicable to any of our other privacy practices, including, without limitation, data collected from other VeriSign sites or offline. VeriSign services may be hosted on partner sites on behalf of VeriSign, and if this VeriSign Privacy Statement is listed on that site, then it will also apply.   
 
 
@@ -23,7 +25,9 @@ VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use th
 
 Questions regarding this Privacy Statement should be directed to [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-650-426-5555. If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
 
-[](http://www.truste.org/ivalidate.php?url=www.verisign.com&sealid=102)VeriSign adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing certain services.  Information about VeriSign’s participation in Safe Harbor can be found in the section below entitled “Safe Harbor Participation”.”
+[](http://www.truste.org/ivalidate.php?url=www.verisign.com&sealid=101)
+
+VeriSign adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing certain services.  Information about VeriSign’s participation in Safe Harbor can be found in the section below entitled “Safe Harbor Participation”.”
 
 ### Overview
 
@@ -113,7 +117,7 @@ If you would like to change your preferences online, please visit [http://www.ve
 
 ### Our Security Procedures
 
-We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the [Secure Sockets Layer](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html) (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+We consider the protection of all personal information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the [Secure Sockets Layer](https://web.archive.org/web/20071013010034id_/http%3A//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html) (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
 
 ### How You Can Update or Correct Your Personal Information
 
@@ -123,7 +127,7 @@ If you would like to update or correct any personal information in our records t
 
 ### How You Can Revoke (Deactivate) Your Digital ID
 
-When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/ssl/revoke.html](https://web.archive.org/web/20070630180042id_/http%3A//www.verisign.com/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
+When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked). The third party may do this by accessing our repository and querying for the status of the Digital ID. We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status. You may, however, revoke (deactivate) your Digital ID. A revoked Digital ID will still appear in our repository with an indication that it has been revoked. If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at [http://www.verisign.com/ssl/revoke.html](https://web.archive.org/web/20071013010034id_/http%3A//www.verisign.com/ssl/revoke.html) and follow the listed instructions or contact us via e-mail at [id-support@verisign.com](mailto:id-support@verisign.com) (for Class 1 and Class 2 Digital IDs) or at [support@verisign.com](mailto:support@verisign.com) (for Class 3 Digital IDs) or at the address given at the end of this Privacy Statement.
 
 ### Email this Page
 
