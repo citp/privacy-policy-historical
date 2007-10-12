@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611181446id_/http%3A//boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012102454id_/http%3A//www.boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Box Office Mojo Privacy Policy
 
@@ -46,4 +46,5 @@ Box Office Mojo, LLC
 **_RELATED LINK_**  
  **•[ _Box Office Mojo_ Terms of Use](http://www.boxofficemojo.com/about/termsofuse.htm)**
 
-Copyright © 1998-2007, Box Office Mojo, LLC. All rights reserved.
+® 2007 and Copyright © 1998-2007 [**Box Office Mojo, LLC**](mailto:info@boxofficemojo.com). All rights reserved.  
+Charts and data cannot be published or posted elsewhere without the expressed permission of Box Office Mojo. To publish or use the stats for professional purposes, please inquire at [info@boxofficemojo.com](mailto:info@boxofficemojo.com).
