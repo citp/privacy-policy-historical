@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101124232id_/http%3A//www.highlights.com/custserv/customerservicemain.jsp%3Fcid%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlights.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012161244id_/http%3A//www.highlights.com/custserv/customerservicemain.jsp%3Fcid%3D225) for the most accurate reproduction.*
 
 # Highlights for Children
 
 **Highlights for Children's Online Privacy Notice**
 
-For more than 55 years, we at Highlights for Children have developed relationships with our customers based upon respect and integrity. We're aware of the trust and confidence you demonstrate when providing us with information. This notice describes our online privacy policy. We promise to treat your information with the same honesty and sensitivity we have displayed throughout our history. By visiting Highlights.com, you are accepting the practices described in this Online Privacy Notice. 
+For more than 60 years, we at Highlights for Children have developed relationships with our customers based upon respect and integrity. We're aware of the trust and confidence you demonstrate when providing us with information. This notice describes our online privacy policy. We promise to treat your information with the same honesty and sensitivity we have displayed throughout our history. By visiting Highlights.com, you are accepting the practices described in this Online Privacy Notice. 
 
 **Application:**
 
