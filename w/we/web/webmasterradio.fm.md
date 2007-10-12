@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430133211id_/http%3A//www.webmasterradio.fm/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012074500id_/http%3A//www.webmasterradio.fm/Help/Privacy.htm) for the most accurate reproduction.*
 
-# Free Internet Radio, just load Webmaster Radio 24/7
+# Privacy Policy for Internet Radio Station - WebmasterRadio.FM
 
 This is the web site of **WebmasterRadio.FM, LLC.**.
 
-Our postal address is   
+Our postal address is:
+
 **350 Jim Moran Blvd., Suite 101  
 Deerfield Beach, Florida 33442**
 
-We can be reached via e-mail at [brandy@webmasterradio.fm](mailto:brandy@webmasterradio.fm)  
-or you can reach us by telephone at 954-379-1314
+We can be reached via our [Contact Form](https://web.archive.org/Help/Contact.htm) or you can reach us by telephone at 954-379-1308.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -23,7 +23,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
 
@@ -43,4 +43,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [**mgoldberger@the-dma.org**](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau.
