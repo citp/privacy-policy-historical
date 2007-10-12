@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617103640id_/http%3A//www.webroot.com/company/privacy.html%3Fid%3DH2-FOOTER-PRIVACY%26WRSID%3D0d8c7e786d9d01b206ed4ede131df052) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013005134id_/http%3A//www.webroot.com/company/privacy.html%3Fid%3DH2-FOOTER-PRIVACY%26WRSID%3D8e23dde97cb9bd0fa9f80380bfeebab3) for the most accurate reproduction.*
 
 # Webroot's Privacy Policy
 
@@ -78,7 +78,7 @@ Webroot reserves the right to amend, revise or modify this policy and our other 
 ## Webroot Contact information
 
   * **For sales questions:** (800) 772-9383 (option #1)
-  * **For technical support:** [www.webroot.com/company/support](http://www.webroot.com/company/support/)
+  * **For technical support:** [http://webroot.custhelp.com](http://webroot.custhelp.com/)
   * **For software updates:** [www.webroot.com/consumer/downloads](http://www.webroot.com/consumer/downloads/)
 
 
