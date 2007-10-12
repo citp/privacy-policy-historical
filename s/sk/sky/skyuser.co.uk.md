@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyuser.co.uk privacy policy that was archived on 2007-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070324144652id_/http%3A//www.skyuser.co.uk/forum/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyuser.co.uk privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012224540id_/http%3A//www.skyuser.co.uk/forum/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# SkyUser - The unofficial support forum for everything Sky! Privacy Policy
+# Sky User - The unofficial support forum for everything Sky! Privacy Policy
 
 1\. If you choose to provide us with your personal information on the Web, we may use it to better understand and improve on the services that SkyUser and its web site offer. In addition, if consent is given, you will be added to our private mailing list, which we will use to provide you with the latest information and promotional offers.
 
