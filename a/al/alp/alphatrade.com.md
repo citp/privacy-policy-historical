@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphatrade.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613182818id_/http%3A//www.alphatrade.com/privacyStatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphatrade.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013015819id_/http%3A//www.alphatrade.com/privacyStatement.php) for the most accurate reproduction.*
 
 # AlphaTrade.com
 
@@ -18,4 +18,4 @@ AlphaTrade.com has several partners in its operations that provide services to A
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employee access to your information is controlled and limited to a need to know basis. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20070613182818id_/http%3A//www.alphatrade.com/contact.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20071013015819id_/http%3A//www.alphatrade.com/contact.php). 
