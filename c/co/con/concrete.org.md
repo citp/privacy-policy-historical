@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618065217id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012102321id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # ACI Privacy Policy
 
@@ -72,4 +72,4 @@ ACI allows you to change or modify your personal information by visiting [ACI's 
   
 Questions  
 
-Your privacy is important to us. If you have any questions about this privacy policy or the practices of the ACI web site, please contact the ACI [Webmaster](mailto:webmaster@concrete.org) at American Concrete Institute, 38800 Country Club Dr, Farmington Hills, MI, 48331; Phone: (248) 848-3700. 
+Your privacy is important to us. If you have any questions about this privacy policy or the practices of the ACI web site, please contact the ACI [Webmaster](mailto:webmaster@concrete.org) at American Concrete Institute, 38800 Country Club Dr, Farmington Hills, MI, 48331; Phone: (248) 848-3700.
