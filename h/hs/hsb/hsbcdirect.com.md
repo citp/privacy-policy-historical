@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630095322id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012102802id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
 
 # Privacy, Inside, HSBC Personal
 
@@ -16,9 +16,11 @@ _At HSBC Bank USA, National Association (HSBC), we are committed to protecting y
   1. We never sell your personal information to other companies for their independent marketing purposes.
   2. We maintain physical, electronic and procedural safeguards to prevent unauthorized access to your personal information, and to protect you against the criminal misuse of that information.
   3. All HSBC employees are required to keep your personal information confidential.
-  4. We honor your preferences about the information we share within the HSBC family of companies for marketing purposes. _If you have already notified us of your privacy preferences, you don't need to contact us again unless you want to change your preferences._
+  4. We honor your preferences about the information we share within the HSBC family of companies for marketing purposes.
 
 
+
+_If you have already notified us of your privacy preferences, you don't need to contact us again unless you want to change your preferences._
 
 _Why Do We Collect Information?_
 
@@ -65,7 +67,7 @@ _How Do We Protect Your Privacy Online?_
 
 To help us learn which products, services and sections of our Web site interest you, and to improve your experience, we sometimes use "cookies." A cookie is a small file that our web server places on your hard drive to track activity on the site during a browsing session, and across multiple sessions. We also use a cookie to "remember" which online service you last logged into, so that we can pre-select that service on your next visit. The cookies we set contain no personal information and are not shared with anyone. They can only track activity on our Web site, and cannot be read by any non-HSBC Web sites. We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you voluntarily give us personal information while online.
 
-We also work with other third parties to learn more about activity on our Web site. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our Web site design. These vendors do not share any personally identifiable information about you. If you prefer that your Web site visits are not tracked or analyzed in these ways, please visit the [web tracking](https://web.archive.org/1/2/3/personal/inside/webtracking "Web Tracking Notification") to learn more about these technologies, and about ways to opt-out.
+We also work with other third parties to learn more about activity on our Web site. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our Web site design. These vendors do not share any personally identifiable information about you. If you prefer that your Web site visits are not tracked or analyzed in these ways, please visit [web tracking](https://web.archive.org/1/2/3/personal/inside/webtracking "Web Tracking Notification") to learn more about these technologies, and about ways to opt-out.
 
 If you use our EasyView service or other online aggregation services, we collect information about the accounts and relationships included in your EasyView service, including registration information such as your name and e-mail address. We also collect information about the accounts you have designated for the EasyView service, such as account balances, transactions, transaction histories, e-mail information, bills, payment history and other account activity.
 
@@ -81,76 +83,96 @@ _Special Notice For Residents Of Vermont_
 
 HSBC does not share your information within the HSBC family of companies, other than information relating to your account transactions and our experiences with you.
 
-This Privacy Policy has been adopted by HSBC Bank USA, National Association (including Domestic Private Banking and excluding HSBC Tax Payer Financial Services Division), HSBC National Bank USA, HSBC Mortgage Corporation (USA), HSBC Investments (USA) Inc., HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., and HSBC Motor Credit (USA) Inc. It covers your current or former consumer banking and financial services relationships with these HSBC companies.
+_Special notice for residents of Nevada_
+
+At any time, you may request to be placed on HSBC's internal do not call list by following the instructions in the "Why do we share information within the HSBC family of companies?" section above. Nevada law also requires that we provide you with the following contact information:
+
+HSBC Bank USA, N.A.  
+P.O. Box 2013  
+Buffalo, NY 14240  
+Phone: (800) 975-4722  
+us.hsbc.com
+
+Bureau of Consumer Protection  
+Office of the Nevada  
+Attorney General  
+555 E. Washington Street  
+Suite 3900  
+Las Vegas, Nevada 89101  
+Phone: (702) 486-3132  
+Email: BCPINFO@ag.state.nv.us
+
+This Privacy Policy has been adopted by HSBC Bank USA, National Association (including Domestic Private Banking and excluding HSBC Tax Payer Financial Services Division and credit cards), HSBC National Bank USA, HSBC Mortgage Corporation (USA), HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., HSBC Motor Credit (USA) Inc., HSBC Investments (USA) Inc., and Halbis Capital Management (USA) Inc. It covers your current or former consumer banking and financial services relationships with these HSBC companies.
 
 _Special Notice For Residents Of California_
 
 [Click here](https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us "California Opt-Out") for California Privacy Opt-Out Preferences
 
-Revised: October, 2006
+Revised: September, 2007
 
-#### [](https://web.archive.org/web/20070630095322id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank Nevada, N.A. - Privacy Statement
+#### [](https://web.archive.org/web/20071012102802id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/%E2%80%9D%E2%80%9D "creditcard"")HSBC Bank Nevada, N.A. - Privacy Statement
 
 _Our Commitment to You_
 
-HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is the proud issuer of the HSBC Credit Card. We are part of a financial services organization that has been providing superior products and services to its customers for more than a century. We greatly appreciate the trust that you and millions of other customers have placed in us, and we protect that trust by respecting your privacy even if our relationship with you ends.
+HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is proud to be part of a financial services organization that has been providing superior products and services to its customers for more than a century. We greatly appreciate the trust that you and millions of other customers have placed in us, and we protect that trust by respecting your privacy, even if our relationship with you ends.
 
-This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices so you can make an informed decision about whom you allow us to share your information with in order to offer you additional products and services. Although most customers enjoy receiving offers and information about additional products and services, if you prefer that we don't share your information for marketing purposes we will respect your choice. If you have selected a credit insurance product, the privacy statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.
+This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices so you can make an informed decision about whom you allow us to share your information with in order to offer you additional products and services. Although most customers enjoy receiving offers and information about additional products and services, if you prefer that we don't share your information for marketing purposes, we will respect your choice. If you have selected a credit insurance product, the privacy statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.
 
 _Types of Information We Collect_
 
-It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, HSBC Bank Nevada collects demographic information (such as your name and address) and credit information (such as information related to your Accounts with us and others). This information comes either directly from you, for instance, from your application and transactions on your Account; or, it may come from an outside source such as your credit bureau report. In addition, if you visit our Internet website, we may collect certain information about your Internet usage. Gathering this information helps us to identify our customers and manage our customer relationships. It also assists us in the development of products and services to meet the continuing needs of our customers.
+It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, HSBC Bank Nevada collects demographic information (such as your name and address) and credit information (such as information related to your Accounts with us and others). This information comes either directly from you, for instance, from your application and transactions on your Account; or, it may come from an outside source such as your credit bureau report. In addition, when you visit our Internet website, we may collect certain information about your Internet usage. Gathering this information helps us to identify our customers and manage our customer relationships. It also assists us in the development of products and services to meet the continuing needs of our customers.
 
 _We Respect Your Privacy_
 
-Since some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access. Because HSBC Bank Nevada respects your privacy and values your trust, the only employees or companies who can access your nonpublic personal information are those who use it to service your Account or provide services to you or to us. HSBC Bank Nevada diligently maintains physical, electronic and procedural safeguards that comply with applicable federal standards to guard your non-public personal information and to assist us in preventing unauthorized access to that information.
+Since some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access. Because HSBC Bank Nevada respects your privacy and values your trust, the only employees or companies who can access your non-public personal information are those who use it to service your Account or provide services to you or to us. HSBC Bank Nevada diligently maintains physical, electronic and procedural safeguards that comply with applicable federal standards to guard your non-public personal information and to assist us in preventing unauthorized access to that information.
 
 _How We Share Information with Our Affiliates*_
 
-From time to time, for general business purposes such as fraud control, or when we think it may benefit you, we share certain information with other companies within our corporate family (i.e., Affiliates). These companies all provide financial services such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names Household, Beneficial, or HSBC. We may also share certain information with non-financial service providers that become our Affiliates in the future (such as travel, auto and shopping clubs). The information we share might come from your application, such as your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your Account balance, payment history, and parties to the transaction), your Internet usage, or credit card usage. Except for Vermont residents, the information we share with our Affiliates may also include your assets, income or credit reports, which we collect from the sources described above. With this information, our Affiliates can determine if the products they specialize in, such as mortgages, automobile loans and insurance, may be of benefit to you.
+From time to time, for general business purposes such as fraud control, or when we think it may benefit you, we share certain information with other companies within our corporate family (i.e., Affiliates). These companies all provide financial services such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names Household, Beneficial, or HSBC. We may also share certain information with non-financial service providers that become our Affiliates in the future (such as travel, auto and shopping clubs). The information we share might come from your application, such as your name, address, telephone number, Social Security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your Account balance, payment history, and parties to the transaction), your Internet usage, or credit card usage. Except for Vermont residents, the information we share with our Affiliates may also include your assets, income or credit reports, which we collect from the sources described above. With this information, our Affiliates can determine if the products they specialize in, such as mortgages, automobile loans and insurance, may be of benefit to you.
 
 _How We Share Information Outside the HSBC Bank Nevada Family_
 
 Except for California and Vermont residents, we also may share information with companies outside our corporate family (i.e., non-Affiliates) that are able to extend special offers we feel might be of value to you. These companies may be financial service providers (such as mortgage bankers or insurance product providers) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information we may provide them comes from the sources described above and might include your name, address and phone number. For California and Vermont residents, state law restricts how we share information about you, and we have chosen not to share your information in this way.
 
-We may also provide information to non-Affiliates that perform operational services related to your Account or marketing services for us. Sharing information with these types of companies is permitted by law. Such a company might include a financial company (such as a mortgage banker or insurance service provider) with whom we have a joint marketing agreement or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number and Account experience with us.
+We may also provide information to non-Affiliates that perform operational services related to your Account or marketing services for us. Sharing information with these types of companies is permitted by law. Such a company might include a financial company (such as a mortgage banker or insurance service provider) with whom we have a joint marketing agreement or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number and Account history with us.
 
 Finally, we provide information about you to non-Affiliates such as credit reporting agencies and companies which provide services related to your Account. This information sharing is also permitted by law.
 
 _Privacy and Security on the Internet_
 
-Our website offers you the opportunity to view general information about our company and products. You may view information about Internet Security by [clicking here](https://web.archive.org/1/2/3/personal/inside/securitysite "clicking here").
+Our website, us.hsbc.com, offers you the opportunity to view your current Account information and make payments online, in addition to providing general information about our company and products. You may view information about Internet Security by [clicking here](https://web.archive.org/1/2/3/personal/inside/securitysite "clicking here").
 
 _HOW TO REQUEST THAT YOUR INFORMATION NOT BE SHARED_
 
 _Information Sharing with Our Affiliates*_
 
-If you do not want us to share your credit information (such as your credit bureau information) with our Affiliates, please let us know by simply printing, completing and mailing the attached opt-out [reply form](https://web.archive.org/1/2/3/personal/inside/privacy/optout "reply form"). We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Your request will not apply to information about your transactions or experience with us (such as Account information, Account usage, or payment history) and will only apply to the HSBC credit card Account you have designated on the opt-out form by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account.
+If you do not want us to share your credit information (such as your credit bureau information) with our Affiliates, please let us know by simply printing, completing and mailing the opt-out [reply form](https://web.archive.org/1/2/3/personal/inside/privacy/optout "reply form"). We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Your request will not apply to information about your transactions or experience with us (such as Account information, Account usage, or payment history) and will only apply to the credit card Account you have designated on the opt-out form by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account.
 
 _Information Sharing with Non-Affiliates_
 
-If you do not want us to share your non-public personal information with non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the attached opt-out [reply form](https://web.archive.org/1/2/3/personal/inside/privacy/optout "reply form"). We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the HSBC credit card Account you have designated on the opt-out form by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account. Opt-out requests will not apply to information sharing that is permitted by law.
+If you do not want us to share your non-public personal information with non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the opt-out [reply form](https://web.archive.org/1/2/3/personal/inside/privacy/optout "reply form"). We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the credit card Account you have designated on the opt-out form by Account number. An opt-out request by any party on a joint Account will apply to all parties on the joint Account. Opt-out requests will not apply to information sharing that is permitted by law.
 
 Once you have completed the reply form, please mail it to HSBC Card Services, P.O. Box 60173, City of Industry, CA 91716-0173. Please allow sufficient time for us to process your request. _Please do not include any other correspondence in with your request._
 
-_How to Be Removed from Solicitation Lists of Companies Participating in the Direct Marketing Association (DMA) Preference Service_
-
-If you wish to be removed from mailing solicitation lists at a national level, please send your name and address (with zip code) to the Direct Marketing Association at the following address:
-
-Mail Preference Service (DMA), P. O. Box 9008, Farmingdale, NY 11735-9008
-
 * "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates include HFC®, Beneficial®, HSBC Auto Finance Inc., Household Insurance Group Holding Company, and HSBC companies such as HSBC Bank USA, N.A., and HSBC Mortgage Corporation.
 
-_HOUSEHOLD INSURANCE GROUP HOLDING COMPANY  
-SOUTHERN COUNTY MUTUAL INSURANCE COMPANY_  
-Privacy Statement for Customers with Insurance
+_HOUSEHOLD INSURANCE GROUP HOLDING COMPANY**_  
+Privacy Statement for Customers with Insurance Products
 
-This paragraph applies only to customers with insurance products provided by Household Insurance Group Holding Company ("HIG"), or Southern County Mutual Insurance Company ("Southern County").** HIG and Southern County respect and protect your privacy. To administer the insurance requested by you or provided in connection with your Account, HIG and Southern County collect demographic information (like your name and address) and Account information (like information related to your Account with HSBC). This information comes either directly from you, for instance, from your application, or it may come from HSBC, such as information about your Account. HIG, and Southern County take great care to protect the privacy of this information. For example, the only employees or companies that can access such information are those who need it to provide services in connection with your insurance. Moreover, HIG, and Southern County maintain physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG and Southern County do not disclose information about you to their respective Affiliates or to third parties, except as permitted by law.
+_Introduction - Our Commitment to You_  
+Household Insurance Group Holding Company ("HIG") is proud to be part of a financial services organization that has been providing superior products and services to its customers for more than 150 years. We greatly appreciate the trust that you and millions of customers have placed in us, and we will protect that trust by continuing to respect the privacy of all our applicants and customers even if our formal customer relationship ends.
 
-_NOTE:_ When your relationship with us ends, your information with us remains protected as outlined above.
+_How We Handle Information We Obtain_  
+It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, HIG collects demographic information (like your name and address) and information related to your insurance coverage (like insurance application information). This information comes either directly from you, for instance, from your application, or from your transactions with us. In addition, if you visit our Internet website, we may collect certain information about your Internet usage.
 
-** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services) includes Household Insurance Group, Inc. Household Life Insurance Company (formerly known as Alexander Hamilton Life Insurance Company), Wesco Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
+Because some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access, and we will not share the information in violation of any regulation or law. HIG diligently maintains physical, electronic and procedural safeguards that comply with applicable federal standards to guard your private personal information and to assist us in preventing unauthorized access to that information.
 
-Updates and Modifications: This Privacy Statement was last updated on May 30, 2006. We reserve the right to modify out privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law.
+If you have selected insurance or another product offered by HIG, the Privacy Statement is set forth herein and is applicable to information used by HIG in connection with the insurance or other product you purchased. HIG does not disclose information about you to HIG's affiliates or to third parties, except as permitted by law.
 
-_© HSBC Card Services Inc. 2004-2006.   All rights reserved._
+We reserve the right to change our privacy practices at any time in accordance with applicable law. Notice of such changes will be provided if required by applicable law.
+
+** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
+
+Updates and Modifications: This Privacy Statement was last updated on July 5, 2007. We reserve the right to modify our privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law.
+
+_© HSBC Card Services Inc. 2004-2007.   All rights reserved._
