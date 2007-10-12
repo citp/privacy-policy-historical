@@ -1,17 +1,65 @@
-> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080426id_/http%3A//www.byowner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpotato.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013011741id_/http%3A//hotpotato.com/index.mv%3Fscreen%3Dprivacy) for the most accurate reproduction.*
 
-# ByOwner.com 1-800-ByOwner, For Sale By Owner, Homes For Sale
+# HotPotato.com - The world's largest Hot Potato game
 
-|  ByOwner.com may distribute from time to time your name, email address and interests(if stated) to identifiable companies or vendors which we authorize. We will not knowingly distribute any of your personal home address information or credit card information to other users without your permission. 
+  
+[I did not receive my activation email.](https://web.archive.org/web/20071013011741id_/http%3A//hotpotato.com/index.mv?screen=activate)
 
-In order to provide the maximum exposure for properties listed on our site, ByOwner.com has formed partnerships with many other listing services,portals and other sites. These partners are provided with your listing information so that your property can be viewed with some detail on our partners' sites. When your listing information is received by ByOwner.com, your listing contact information may be transferred electronically to partner sites.
+* * *
 
-Credit Card Information
+  
+**Top Potato Passers:**  
+| 1\. cmanganello| 1500  
+---|---  
+2\. pynkbyrd| 400  
+3\. spilleliz| 400  
+4\. shoreham4| 200  
+5\. cm| 200  
+6\. starbucks| 100  
+7\. parvez_savage| 100  
+8\. riiana| 100  
+9\. onionchef| 100  
+10\. 6ladybug| 100  
+  
 
-ByOwner.com does not accept credit card information directly from you the customer, rather it uses a Coach network to provide you with a Local human contact. The Coach acts as a sales agent would in any retail store. All credit card information is protected by SSL encryption technology. Once submitted, your credit card information is stored behind our firewall to ensure that it remains safe and secure. 
 
-Changing or Omiting your information
+* * *
 
-You, as a home seller, can change or omit your personal information and listing information at any time. This procedure is accomplished by emailing your coach. If you would like you may email byowner.com directly at: 
+  
+[Rules & Instructions](https://web.archive.org/web/20071013011741id_/http%3A//hotpotato.com/index.mv?screen=rules)  
+[Disclaimer](https://web.archive.org/web/20071013011741id_/http%3A//hotpotato.com/index.mv?screen=disclaimer)  
+[Privacy Policy](https://web.archive.org/web/20071013011741id_/http%3A//hotpotato.com/index.mv?screen=privacy)  
+[wiki](http://en.wikipedia.org/wiki/Hot_Potato)  
 
-[_changes@byowner.com_](mailto:changes@byowner.com) |  
+
+Privacy Policy
+
+General Policy  
+At HotPotato.com, we respect the privacy concerns of visitors to our website and the importance of protecting the privacy of personally identifiable information collected from them. As a general policy, no personal information, such as a visitor's name, address, e-mail address, or telephone number, is automatically collected on our website. Such information is collected only when knowingly and voluntarily submitted. We maintain reasonable and appropriate safeguards to ensure the security, integrity and privacy of such information in our possession.
+
+Collection and Use of Personal Information  
+We collect and use personal information for the purpose for which it was submitted. In addition, we may use personal information you submit to this site for research, advertising and marketing purposes, including sending you information about products and services that we think you will be interested in. You can instruct us not to use your personal information for a different purpose by emailing support@hotpotato.com.
+
+If you do supply us with an e-mail address and/or other corporate information, we adhere to a strict policy that respects your time and privacy. Such information is accepted via e-mail or form submissions from our website and we may use that information to inform you of services and products we provide. However, we do not rent or sell e-mail addresses or corporate information to brokers or any other third party.
+
+IP Addresses & Cookies  
+Our web server collects non-personal user information (for example, IP addresses and referrers). An IP address is a number given to a user by an Internet Service Provider. Examples of information provided by an IP address include service provider, type of browser and type of system used. We may use this information to make our web site better and more responsive to the needs of our users. This non-personal information is not shared with third parties for marketing, advertising or research purposes. From time to time, we may use "cookies" to compile aggregate statistics about the site, however neither "cookies" nor IP addresses are used to obtain personal information about a user unless we have collected information with the consent of a user.
+
+Restrictions  
+HotPotato.com makes no representations or claims of any kind regarding its website or website content. They are provided as a service in "AS IS" condition. HotPotato.com makes no legal claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. Use of our site and the information provided does not constitute contractual obligation of any kind, implied, expressed or statutory, between the user and HotPotato.com
+
+Changes to this Policy  
+This policy will be that which covers users of this website unless it is superseded by a more recent version. Any changes to our Privacy Policy will be placed here. We will take reasonable steps to draw your attention to any changes in our Policy. However, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+
+|    
+| 92| players activated.  
+---|---  
+2| player(s) waiting to play.  
+0| player(s) playing now.  
+0| game(s) being played now.  
+  
+[](http://www.starbucks.com/)
+
+[](http://www.apple.com/)
+
+[](http://www.nike.com/)
