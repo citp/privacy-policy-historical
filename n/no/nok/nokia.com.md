@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061412id_/http%3A//www.nokia.com/nokia/0%2C%2C76817%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012025348id_/http%3A//www.nokia.com/privacypolicy) for the most accurate reproduction.*
 
 # Nokia - Privacy Policy
 
