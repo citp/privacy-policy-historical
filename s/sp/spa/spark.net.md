@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spark.net privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613080213id_/http%3A//www.spark.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012170929id_/http%3A//www.spark.net/privacy.htm) for the most accurate reproduction.*
 
 # Spark Networks
 
@@ -21,5 +21,3 @@ This website contains links to our various online personals websites which we ow
 This website may also contain links to other websites, which are operated by unrelated third parties. The websites to which we provide links may use cookies and may collect information about your browsing and Internet navigational history. The linked websites may also allow opportunities for you to voluntarily provide information. The linked sites, may have different privacy policies than that of this website. Therefore, before you provide any personal information, we recommend that you review the privacy policy associated with the webpage where you will be submitting your information.
 
 If you are visiting our site from a location outside of the U.S., your connection will be through and to servers located in the U.S. Information you provide will be maintained in web servers and internal systems located within the U.S. The laws on holding personal data in the U.S. may differ from other countries and may not always be equivalent to the level of protection that may be provided in your own country.
-
-| 
