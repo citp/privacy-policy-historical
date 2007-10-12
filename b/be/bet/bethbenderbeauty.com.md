@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195406id_/http%3A//www.bettesboutique.com/index.php/page/content/id/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012112158id_/http%3A//www.bettesboutique.com/index.php/page/content/id/5) for the most accurate reproduction.*
 
-# Bettes Boutique --Beauty, Accessories, Clothing
+# Bettes Boutique --Beauty, Accessories
 
 **ORDER PROCESSING**
 
