@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618131125id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012124012id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
 
-# India Property - Properties - Real Estate India
+# India Property, Real Estate India, Properties in India, India's No. 1 property portal
 
 **Privacy Statement**
 
