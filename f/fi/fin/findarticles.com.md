@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504112426id_/http%3A//www.findarticles.com/p/page%3Fsb%3Daboutus%26pg%3Dprivacy%26tb%3Dart) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findarticles.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012163748id_/http%3A//findarticles.com/p/page%3Fsb%3Daboutus%26pg%3Dprivacy%26tb%3Dart) for the most accurate reproduction.*
 
 # Find Articles - Privacy Policy
 
