@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622071858id_/http%3A//www.rocketprofit.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketprofit.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012074405id_/http%3A//www.rocketprofit.com/privacypolicy.html) for the most accurate reproduction.*
 
-# RocketProfit.com Affiliate Marketing Network - CPA Advertising
+# RocketProfit.com Affiliate Network
 
 Notwithstanding the foregoing, if you are a California state resident you may opt-out from having your personal information transferred to third parties for use is such third parties' direct marketing efforts by [clicking here]() and completing an opt-out request or by sending a written e-mail request to [CAoptout@traffixinc.com](mailto:CAoptout@traffixinc.com). However, where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from RocketProfit(tm), in accordance with the law 
 
