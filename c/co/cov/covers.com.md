@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202194538id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012223207id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Sports Betting and Gambling Odds Online
 
@@ -97,17 +97,12 @@ Certain SportsDirect Inc. services may be co-branded and offered in conjunction 
 
 **SportsDirect Inc. Companies Sites**   
 Covers.com   
-Coversexperts.com   
+Experts.covers.com   
 Sportsdirectinc.com   
+Prosportsdaily.com   
 Pokerfan.com   
-Davemalinsky.com   
-Patmillersports.com   
-Bgsports.com   
-Tonygeorgesports.com   
-Williamfoote.com   
-Stevemerril.com   
-Leonardsports.com   
-Wagerline.com 
+Wagerline.com   
+Bullysports.com 
 
 **The SportsDirect Inc. Privacy Policy in Detail**
 
@@ -288,19 +283,16 @@ A Person shall be able to challenge the accuracy and completeness of the Persona
 A Person shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the compliance of SportsDirect Inc. with the   
 SportsDirect Inc. Privacy Policy. 
 
-10.1 SportsDirect Inc. shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about SportsDirect Inc.'s handling of their Personal Information. If any Person at any time has any questions or concerns about SportsDirect Inc.'s privacy practices, the Person can either: 
+10.1 SportsDirect Inc. shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about SportsDirect Inc.'s handling of their Personal Information. If any Person at any time has any questions or concerns about SportsDirect Inc.'s privacy practices, please contact us at:
 
-i) Write to: 
+**SportsDirect Inc  
+77 Chain Lake Drive  
+Halifax, Nova Scotia  
+B3S 1E3 Canada**
 
-Customer Service - Privacy, SportsDirect Inc.   
-ATT: Kelly Moss   
-77 Chain Lake Drive   
-Halifax, NS   
-B3S 1E1 
-
-or 
-
-ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1). 
+You may contact us through our [feedback page ](https://web.archive.org/includes/Email_us.aspx?uid=1)  
+You may contact us by phone on 902.835.3320  
+You may visit our corporate web site at [www.sportsdirectinc.com](http://www.sportsdirectinc.com/)
 
 10.2 SportsDirect Inc. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
 
