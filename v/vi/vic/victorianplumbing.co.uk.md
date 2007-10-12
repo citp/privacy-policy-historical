@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513151057id_/http%3A//www.victorianplumbing.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012205907id_/http%3A//www.victorianplumbing.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Victorian Plumbing Selling Bathroom Taps, Showers, Towel Rails and Baths
 
