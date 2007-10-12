@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429233120id_/http%3A//www.optimalprint.com/static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013001740id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.*
 
-# Optimalprint - Privacy Policy
+# Privacy Policy | Optimalprint
 
-### Part of optimalprint's Terms and Conditions
+### Part of optimalprint's [Terms and Conditions](https://web.archive.org/en-US/terms)
 
 * * *
 
