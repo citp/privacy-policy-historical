@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623140320id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012185755id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | PTO Today
 
@@ -68,10 +68,9 @@ Wrentham, MA 02093
 
 | 
 
-"Thank you!! Thank You!! What a wonderful thing you started with PTO Today! I hope you will continue this mission to inspire, teach, and encourage future parent leaders."
+"About 80% of the decisions we made were based on information we got from your Web site, conferences and magazine. I compare your organization to an onion...there are so many layers of vital information!"
 
-Cheryl Peters, PTO Secretary  
-South Butler Inter-Elementary School  
-Saxonburg, PA  
+Jane McCarthy, President  
+Marion, MA  
   
 ---
