@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062949id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012042626id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
 
 # HairBoutique.com - Privacy Policy
 
