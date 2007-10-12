@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084439id_/http%3A//www.free-ebooks.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012020113id_/http%3A//www.free-ebooks.net/privacy.html) for the most accurate reproduction.*
 
 # Free-ebooks.net | Privacy Policy
 
@@ -72,7 +72,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [ Info@ParadisePublishers.com](mailto:info@ParadisePublishers.com)
+  1. You can send email to [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
   2. You can send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
 
 
@@ -89,7 +89,7 @@ Paradise Publishers is controlled, operated and administered entirely within Bri
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [ Info@ParadisePublishers.com](mailto:info@ParadisePublishers.com)
+  1. email [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
   2. send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
 
 
@@ -98,7 +98,7 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Nicolas Gremion   CANADA Info@paradisepublishers.com   
+Nicolas Gremion   CANADA [CustomerService@Free-eBooks.net](mailto:CustomerService@Free-eBooks.net)  
 
 Paradise Publishers Inc. reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
@@ -134,4 +134,4 @@ Paradise Publishers Inc. reserves the right to change this policy at any time. P
 
 Site Network Maintained By [Paradise Publishers Inc.](http://www.paradisepublishers.com/)  
 Nicolas Gremion, Canada, Tel : 604-6287898  
-Contact us at [ Info@ParadisePublishers.com](mailto:info@paradisepublishers.com)
+Contact us at [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
