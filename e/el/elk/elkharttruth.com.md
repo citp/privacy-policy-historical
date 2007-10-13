@@ -1,57 +1,49 @@
-> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203054639id_/http%3A//www.etruth.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013070056id_/http%3A//www.elkharttruth.com/Know/Legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# eTruth.com - The Truth Online Edition
 
-Privacy Policy
+Fundamental Principles  
+Our Privacy Policy is based upon the following four fundamental principles. 
 
-Fundamental Principles
+  * We will not use information about you without your permission.
+  * We will not disclose information about you without permission unless compelled to by a court of law or unless you violate terms of service.
+  * We will provide the means for you to manage and control the information that you have provided to us.
+  * We will provide mechanisms for you to communicate your privacy concerns to us and we will respond to them thoroughly and thoughtfully. 
 
-Our Privacy Policy is based upon the following three fundamental principles. 
 
-1\. We will not use information about you without your permission. 
-
-2\. We will provide the means for you to manage and control the information that you have provided to us. 
-
-3\. We will provide mechanisms for you to communicate your privacy concerns to us and that we will respond to them thoroughly and thoughtfully. 
 
 We thank you for your participation in the services and products provided on our Web site. 
 
-Registration 
+Registration  
+You can visit our Web site and use many of the services without telling us who you are or revealing any personal information about yourself. Some of our services, however, do require some form of customer registration. During the registration process we require you to complete certain fields, request that you complete other fields and ask you to select a username and password. The username you select will be your public identity on eTruth.com and will remain so as long as your account remains valid.
 
-You can visit our Web site and use most of the services without telling us who you are or revealing any personal information about yourself. Some of our services, however, do require some form of customer registration. During the registration process we require you to complete certain fields, request that you complete other fields and ask you to select a username and password. 
+With your permission we may share the information that you provide to us with selected third parties, primarily our advertisers and sponsors. You may opt-out of such sharing of information at the time of registration. If you opt to receive email communications from us, we may also send you news about our Web site and our services, as well as relevant offers made by our advertisers and sponsors. You will only receive those communications if you opt-in at the time of registration
 
-With your permission we may share the information that you provide to us with selected third parties, primarily our advertisers and sponsors. You may opt-out of such sharing of information at the time of registration. If you opt to receive email communications from us, we may also send you news about our Web site and our services, as well as relevant offers made by our advertisers and sponsors. You will only receive those communications if you opt-in at the time of registration. 
-
-During your use of our site and our services, we may collect additional demographic and profile data. We may use this data to personalize your experience at our site, show you content that we believe may be of interest to you, and displaying the certain content according to your preferences. We may share this information with selected advertisers and sponsors. If you do not wish demographic or profile information to be shared, then you may opt-out at the time of registration. 
+During your use of our site and our services, we may collect additional demographic and profile data. We may use this data to personalize your experience at our site, show you content that we believe may be of interest to you, and displaying the certain content according to your preferences. We may share this information with selected advertisers and sponsors. If you do not wish demographic or profile information to be shared, then you may opt-out at the time of registration.
 
 From time to time we may offer contests on our site in which we ask participants for contact information, e.g., their email addresses. If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about our Web site, our services and selected sponsors. You may opt-out of receiving such mailings at the time of registration for the contest.
 
-Cookies and How We Use Them 
-
-A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our site. For example, we may store your zip code in a cookie and this would enable us to show you your local weather when you visit our site. 
+Cookies and How We Use Them  
+A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our site. For example, we may store your zip code in a cookie and this would enable us to show you your local weather when you visit our site.
 
 You can choose whether to accept the cookies that we send to you by changing the settings of your browser. If you choose not to accept these cookies, your experience at our site may be inferior and some features will not work as intended. 
 
 We may, from time to time, use an outside company to serve advertising on our site. In this event the outside advertising company uses cookies to ensure that you do not see the same advertisements too often. Cookies that are received with advertisements are read and placed by our advertising company and we do not have access to them. 
 
-Third-Party Relationships 
+Third-Party Relationships  
+You will find direct links on our Web site to sites offered by third parties. Some of these sites are authorized to use the etruth.com brand and/or logo. We carefully evaluate all parties that are authorized to use our brand and logo and believe that all such sites have adopted acceptable privacy policies. However, no third-party sites are covered by this Privacy Policy. We will forward your comments to the appropriate third parties and may, in particular circumstances, decide to advocate on your behalf to attempt to cause the third parties to change their privacy policies.
 
-You will find direct links on our Web site to sites offered by third parties. Some of these sites are authorized to use the etruth.com brand and/or logo. We carefully evaluate all parties that are authorized to use our brand and logo and believe that all such sites have adopted acceptable privacy policies. However, no third-party sites are covered by this Privacy Policy. We will forward your comments to the appropriate third parties and may, in particular circumstances, decide to advocate on your behalf to attempt to cause the third parties to change their privacy policies. 
+We also provide certain user information to third parties in aggregate form in order to facilitate the sale of advertising and the sponsorship of services on our Web site.
 
-We also provide certain user information to third parties in aggregate form in order to facilitate the sale of advertising and the sponsorship of services on our Web site. 
-
-Shopping
-
-When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update, or delete the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site.
+Shopping  
+When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site.
 
 We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Provider Partners to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Provider Partners in accordance with this Privacy Policy. If you consent (for example, by checking a box or by some other means), we will make your information available to third parties so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.
 
-Security
+Security  
+We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make efforts to prevent such unfortunate occurrences.
 
-We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make efforts to prevent such unfortunate occurrences. 
-
-Contacting Us 
-
+Contacting Us   
 If you have questions about this privacy policy or the practices of this site, please contact: 
 
 Privacy Information  
