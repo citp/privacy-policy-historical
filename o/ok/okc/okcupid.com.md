@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630235224id_/http%3A//okcupid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013020622id_/http%3A//www.okcupid.com/privacy) for the most accurate reproduction.*
 
 # OkCupid! Privacy Policy
-
-OkCupid - Free Online Dating
 
 This policy is effective as of December 13, 2006.
 
