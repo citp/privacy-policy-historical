@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603124925id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013034930id_/http%3A//www.oneupweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Oneupweb :: Professional Search Engine Marketing Company: Privacy Policy
 
@@ -38,7 +38,7 @@ Except as described, Oneupweb® will not willfully disclose any individually ide
 
 We welcome any questions or comments you have about the Oneupweb® site.
 
-Oneupweb® 7322 E Duck Lake Rd Lake Leelanau, MI 49653 Ph: 231.256.9811 Fax: 231.256.9877
+Oneupweb® 13561 S West Bayshore Drive Suite 3000 Traverse City, MI 49684 Ph: 231.922.9977 Fax: 231.922.9966
 
 ### Canine Security
 
