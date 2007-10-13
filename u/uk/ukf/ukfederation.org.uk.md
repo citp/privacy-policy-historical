@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukfederation.org.uk privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614054413id_/http%3A//www.ukfederation.org.uk/content/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfederation.org.uk privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013083958id_/http%3A//ukfederation.org.uk/content/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
-# UK Federation Documentation Centre | Documents / PrivacyPolicy browse
+# UK Federation Information Centre | Documents / PrivacyPolicy browse
 
 ## JANET(UK) PRIVACY POLICY
 
