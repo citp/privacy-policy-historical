@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626124258id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013223617id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.*
 
 # MonoPrice.com - Best quality products at the lowest price
 
