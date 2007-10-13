@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrpl.co.in privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609161731id_/http%3A//www.mrpl.co.in/privacy.php%3FPOSTNUKESID%3D4b4942c3f0dc8950688d1016de86719d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpl.co.in privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013220539id_/http%3A//www.mrpl.co.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
