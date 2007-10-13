@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the sportsjournalists.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609003645id_/http%3A//www.sportsjournalists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsjournalists.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013164731id_/http%3A//www.sportsjournalists.com/%3Fpage_id%3D5) for the most accurate reproduction.*
 
-# SportsJournalists.com
-
-**Privacy policy statement**  
-
+# Privacy policy | SportsJournalists.com
 
 This is the web site of SportsJournalists.com.  
-
-
 We can be reached via e-mail at webmaster@sportsjournalists.com.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -34,7 +29,7 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
