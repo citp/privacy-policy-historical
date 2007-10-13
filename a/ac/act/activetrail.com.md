@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617001505id_/http%3A//www.activetrail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activetrail.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013021647id_/http%3A//www.activetrail.com/privacy.html) for the most accurate reproduction.*
 
-# activetrail
+# ActiveTrail: Privacy Policy
 
 ## ActiveTrail is committed to personal privacy and the ethical use of email business and marketing communications.
 
-This statement discloses the privacy practices of ActiveTrail™ under the auspices of The CommerceAge Group. 
+This statement discloses the privacy practices of ActiveTrail™ under the auspices of The CommerceAge Group.
 
 ## Information Sharing and Disclosure
 
@@ -18,16 +18,19 @@ This statement discloses the privacy practices of ActiveTrail™ under the auspi
 
 ## Email and Direct Response Contact
 
-All of our direct response methods are opt-in. If you subscribed to the list of one of our customers but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the body of the email. 
+All of our direct response methods are opt-in. If you subscribed to the list of one of our customers but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the body of the email.
 
 ## Security
 
-ActiveTrail takes precautions to protect data regarding our customers and their lists of users and prospects. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information. The servers that we store personally identifiable information on are kept in a secure environment behind firewalls and protection encryption algorithms. 
+ActiveTrail takes precautions to protect data regarding our customers and their lists of users and prospects. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information. The servers that we store personally identifiable information on are kept in a secure environment behind firewalls and protection encryption algorithms.
 
 ## Trademarks
 
-The name "ActiveTrail" is a registered trademark owned by ActiveTrail™ and The CommerceAge Group. The trademarks, tradenames, service marks and logos ("Trademarks") used and displayed on this Website are registered and unregistered Trademarks of ActiveTrail. No display or use of such Trademarks may be made without the express prior written permission of ActiveTrail or The CommerceAge Group. 
+The name "ActiveTrail" is a registered trademark owned by ActiveTrail™ and The CommerceAge Group. The trademarks, tradenames, service marks and logos ("Trademarks") used and displayed on this Website are registered and unregistered Trademarks of ActiveTrail. No display or use of such Trademarks may be made without the express prior written permission of ActiveTrail or The CommerceAge Group.
 
 ## General
 
-We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please email us at [info@activetrail.com](mailto:info@activetrail.com) Please see our [Spam Policy. ](https://web.archive.org/web/20070617001505id_/http%3A//www.activetrail.com/anti-spam.html)
+We may change our privacy policy in the future. Any changes to our privacy policy will be made available online. If you have any questions about our privacy policy, the practices of this website, or your dealings with our company, please email us at [info@activetrail.com](mailto:info@activetrail.com) Please see our [Spam Policy. ](https://web.archive.org/web/20071013021647id_/http%3A//www.activetrail.com/anti-spam.html)
+
+  
+
