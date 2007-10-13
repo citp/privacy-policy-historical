@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523224247id_/http%3A//reignofblood.net/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013052847id_/http%3A//reignofblood.net/priv.php) for the most accurate reproduction.*
 
 # PP
 
@@ -24,4 +24,4 @@ Your password is created and used by you to login to your account. We try to pro
 Sharing:  
 We will not sell your passwords,emails,personal information to another company. 
 
-[[Back](https://web.archive.org/web/20070523224247id_/http%3A//reignofblood.net/index.php)]
+[[Back](https://web.archive.org/web/20071013052847id_/http%3A//reignofblood.net/index.php)]
