@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016080131id_/http%3A//www.jackrabbitclass.com/privacysecurity.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013144905id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
 
 # Jackrabbit Class - Web-based class management and billing software
 
 | Jackrabbit is committed to respecting your privacy. We recognize your need for appropriate protection and management of personally identifiable information you share with us. We want you to understand the care with which we treat your personal information.  
 ---  
-[**Frequently Asked Questions**](http://www.jackrabbittech.com/faqs.cfm)  
+[**Frequently Asked Questions**](http://www.jackrabbitclass.com/faqs.asp)  
 To protect your privacy, we have adopted the following principles:  
 **Information**  
 Jackrabbit will not disclose your private and confidential information to any outside organization. Information regarding your organization (such as organization name, address and phone number) will not be given or sold to any outside organization.  
