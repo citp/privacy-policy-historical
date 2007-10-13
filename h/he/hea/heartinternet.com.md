@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013065023id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,18 +16,18 @@
 
 7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
 
-[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/domainprivacy-d.shtml)
+[ ](https://web.archive.org/web/20071013065023id_/http%3A//www.heartinternet.co.uk/reseller-h.shtml)
 
-Protect your online identity, hide your details in the WHOIS domain name database.
+The UKs fastest growing and most advanced reseller package.
 
-[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/order.shtml)
+[ ](https://web.archive.org/web/20071013065023id_/http%3A//www.heartinternet.co.uk/extend-h.shtml)
 
-Always the best prices for hosting and domains.
+The worlds most powerful web hosting control panel - designed for you.
 
-[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/virus-h.shtml)
+[ ](https://web.archive.org/web/20071013065023id_/http%3A//www.heartinternet.co.uk/webtools-h.shtml)
+
+Resources and free software to help you design and manage your site.
+
+[ ](https://web.archive.org/web/20071013065023id_/http%3A//www.heartinternet.co.uk/virus-h.shtml)
 
 Ensure your email is safe and secure with our high end scanning technology.
-
-[ ](https://web.archive.org/web/20070621115715id_/http%3A//www.heartinternet.co.uk/order.shtml)
-
-All accounts activated instantly online!
