@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005041450id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013034958id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
 
 # SGI - Protecting your privacy
 
@@ -86,7 +86,7 @@ To ensure that SGI has accurate information please notify us when there are chan
 
 **Privacy policy**
 
-For a complete copy of SGI’s corporate privacy policy, [click here](https://web.archive.org/web/20061005041450id_/http%3A//www.sgi.sk.ca/pdf/sgi_privacy.pdf) (PDF, 40kB).
+For a complete copy of SGI’s corporate privacy policy, [click here](https://web.archive.org/web/20071013034958id_/http%3A//www.sgi.sk.ca/pdf/sgi_privacy.pdf) (PDF, 40kB).
 
 **Privacy contact**
 
