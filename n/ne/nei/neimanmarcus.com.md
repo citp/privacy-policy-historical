@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175759id_/http%3A//www.neimanmarcus.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014011130id_/http%3A//www.neimanmarcus.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus - Fashion's premier designers, plus beauty's best brands
 
@@ -16,7 +16,7 @@ We have posted this privacy policy in order to explain our information collectio
 
 As we continue to develop our Web site and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
 
-If you have a Neiman Marcus or Bergdorf Goodman credit card, click to [review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement](https://web.archive.org/store/nav/javascript:popUp\('/category/ccapplication/agreement/privacy_policy.html',555,450,'yes'\);jsessionid=10EYC3RU5UQ2OCQAAKIBACY;) online.   
+If you have a Neiman Marcus or Bergdorf Goodman credit card, click to [review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement](https://web.archive.org/store/nav/javascript:popUp\('/category/ccapplication/agreement/privacy_policy.html',555,450,'yes'\);jsessionid=OT2TKO1NXG30YCQAAKPBACI;) online.   
 This Privacy Policy was last updated on August 3, 2005. 
 
 **The information we collect**   
