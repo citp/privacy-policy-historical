@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624100457id_/http%3A//www.wetseal.com/customer_service/default.asp%3Fcid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013055340id_/http%3A//www.wetseal.com/customer_service/default.asp%3Fcid%3D9) for the most accurate reproduction.*
 
 # Teen Clothing for Girls: Fashion Tops, Dresses, Shoes and more by Wet Seal
 
