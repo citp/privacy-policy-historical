@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohnsonline.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623061700id_/http%3A//www.papajohns.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohnsonline.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014003622id_/http%3A//www.papajohns.com/policy.htm) for the most accurate reproduction.*
 
 # Papa John's Pizza Privacy Policy
 
