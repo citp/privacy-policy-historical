@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043428id_/http%3A//www.sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureyearly.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013082531id_/http%3A//www.sixfigureyearly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Six Figure Yearly Privacy Policy
 
@@ -50,10 +50,7 @@ Children
 Six Figure Yearly.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Six Figure Yearly.com has any information from or about anyone under 13, please contact us at the address listed below.  
 
 
-Contacting Us.  
-
-
-We can be reached by contacting:  
+We can be reached in reguards to the above matter by contacting:  
 
 
 Email: under13@sixfigureyearly.com  
@@ -68,10 +65,10 @@ Six Figure Yearly.com reserves the right to change this policy at any time. Plea
 Governing law  
 
 
-This policy and the use of this Site are governed by Indiana law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: St Joseph County, Indiana. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.  
+This policy and the use of this Site are governed by in our personal jurisdiction and city, state and country where we are physicaly located. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in our personal jurisdiction and city, state and country where we are physicaly located. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.  
 
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: St Joseph County, Indiana, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.  
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration in our personal jurisdiction and city, state and country where we are physicaly located, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.  
 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
