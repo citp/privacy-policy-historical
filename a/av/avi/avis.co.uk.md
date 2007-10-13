@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624021414id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014011724id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
 
 # Avis Car Rental UK - Privacy Policy
 
