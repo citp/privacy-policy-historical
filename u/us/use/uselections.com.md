@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218160306id_/http%3A//www.uselections.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013044819id_/http%3A//www.uselections.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: USElections.com
 
-[Home](http://www.uselections.com/)
+**>** [Home](http://www.uselections.com/)
 
-[Election Listing  
-**Submissions**](http://www.uselections.com/submit/)
+**>** [Election Listing  
+   **Submissions**](http://www.uselections.com/election-sub.html)
 
-[Sitemap](http://www.uselections.com/sitemap.shtml)
+**>** [Site Map](http://www.uselections.com/sitemap.shtml)
 
   
   
