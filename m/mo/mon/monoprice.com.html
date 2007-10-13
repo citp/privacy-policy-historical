@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monoprice.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626124258id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monoprice.com privacy policy that was archived on 2007-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071013223617id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy%26style%3D) for the most accurate reproduction.-->
 
 <html><head>
 <title>MonoPrice.com - Best quality products at the lowest price</title>
@@ -17,16 +17,112 @@ A:hover {color:#CC0000; text-decoration:none;}
 </style>
 
 <!-- Start - Added by Andypark - 04/02/07 -->
+<!--div id="recent_view_layer" onmouseover="Recent_View_Over()" onmouseout="Recent_View_Out()" style="background: width:200; display:none; position:absolute; z-index:1"-->
+<div id="recent_view_layer" style="background: width:200; display:none; position:absolute; z-index:1">
+	<table border="0" cellpadding="0" cellspacing="0" width="200">
+		<tbody><tr>
+			<td>
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td align="center" bgcolor="#CCCCCC"> 
+							<table cellspacing="1" cellpadding="1" width="100%">
+								<tbody><tr>
+									<td align="center" width="5"></td>
+									<td align="center">Recently Viewed Item(s)</td>
+									<td align="center" width="5"><a href="javascript:Recent_View_Out()"><img src="/images/x.gif" border="0"></a></td>
+								</tr>
+								<tr>
+									<td align="center" bgcolor="#FFFFFF" colspan="3">
+										
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+	<tbody><tr> 
+		<td align="center">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr><td align="center" valign="middle" width="200"><a href="/products/product.asp?c_id=107&amp;cp_id=10705&amp;cs_id=1070501&amp;p_id=3129&amp;seq=1&amp;format=2"><img src="http://64.27.0.105/productimages/3129s.jpg" width="80" height="80" border="0"><br>MPI Q2612A Compatible Laser Toner Cartridge for HP 1012, 1022, 3015, 3020, 3030 printers Page Yield 2,200</a></td></tr><tr><td align="center" valign="middle" width="200"><a href="/products/product.asp?c_id=105&amp;cp_id=10514&amp;cs_id=1051401&amp;p_id=973&amp;seq=1&amp;format=2"><img src="http://64.27.0.105/productimages/973s.jpg" width="80" height="80" border="0"><br>Cat6 Panel 110 Type 24 Port (568A/B Compatible)</a></td></tr><tr><td align="center" valign="middle" width="200"><a href="/products/product.asp?c_id=105&amp;cp_id=10509&amp;cs_id=1050902&amp;p_id=2990&amp;seq=1&amp;format=2"><img src="http://64.27.0.105/productimages/2990s.jpg" width="80" height="80" border="0"><br>F type Crimping Tool w/Ratchet and Waterproof connector [HT-508]</a></td></tr><tr><td align="center" valign="middle" width="200"><a href="/products/product.asp?c_id=104&amp;cp_id=10425&amp;cs_id=1042504&amp;p_id=3025&amp;seq=1&amp;format=2"><img src="http://64.27.0.105/productimages/3025s.jpg" width="80" height="80" border="0"><br>3 RCA component / F connector Decora Style Wall Plate (RGB componet + F connector) - Coupler Type</a></td></tr><tr><td align="center" valign="middle" width="200"><a href="/products/product.asp?c_id=104&amp;cp_id=10425&amp;cs_id=1042501&amp;p_id=2730&amp;seq=1&amp;format=2"><img src="http://64.27.0.105/productimages/2730s.jpg" width="80" height="80" border="0"><br>HDMI Decora Style Wall Plate with 4 inches built-in flexible extension cable - Single Port (1P) - White</a></td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+
+
+
+<script language="javascript">
+
+var stime;
+
+function Recent_View_Over()
+{
+	window.clearTimeout(stime);
+}
+
+function Recent_View_Out()
+{
+	//stime = window.setTimeout("recent_view_layer.style.display='none';", 200);
+	document.all.recent_view_layer.style.display='none';
+}
+
+function ViewRecentItems(obj)
+{
+	var c_top = document.body.clientTop;
+	var c_left = document.body.clientLeft;
+	if (c_top == undefined) c_top = 2;
+	if (c_left == undefined) c_left = 2;
+	
+	var top = c_top + GetObjectTop(obj) - 4;
+	var left = c_left + GetObjectLeft(obj) + 3;
+	//var top = document.body.clientTop + GetObjectTop(obj) - 4;
+	//var left = document.body.clientLeft + GetObjectLeft(obj) + 3;
+	
+	//document.all.recent_view_layer.style.pixelTop = top;
+	//document.all.recent_view_layer.style.pixelLeft = left + obj.offsetWidth;
+	document.all.recent_view_layer.style.top = top;
+	document.all.recent_view_layer.style.left = left + obj.offsetWidth;
+
+	document.all.recent_view_layer.style.display='block';
+}
+
+function GetObjectTop(obj)
+{
+	if (obj.offsetParent == document.body)
+		return obj.offsetTop;
+	else
+		return obj.offsetTop + GetObjectTop(obj.offsetParent);
+}
+
+function GetObjectLeft(obj)
+{
+	if (obj.offsetParent == document.body)
+		return obj.offsetLeft;
+	else
+		return obj.offsetLeft + GetObjectLeft(obj.offsetParent);
+}
+</script>
 
 <!-- End - Added by Andypark - 04/02/07 -->
 
 
- 
+
 <table width="745" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="10">&nbsp;</td>
     
-    <td width="230"><a href="http://www.monoprice.com/home/?style="><img src="../images/logo.gif" border="0" width="243" height="41"></a> 
+    <td width="230"><a href="http://www.monoprice.com/home/"><img src="../images/logo.gif" border="0" width="243" height="41"></a> 
       
     </td>
 	<td width="50"><img src="../images/none.gif" width="50" height="1"></td>
@@ -34,9 +130,8 @@ A:hover {color:#CC0000; text-decoration:none;}
       <table width="100%" border="0" cellspacing="0" cellpadding="4">
         <tbody><tr> 
           <td bgcolor="#FFFFCC">
-            <div align="center"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 13px"><b>We 
-              welcome<font color="#CC0000"> OEM order</font> and fulfill from 
-              ISO 14001:2004 factory.</b></span></div>
+            <div align="center"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 13px"><b>We welcome <font color="CC0000">OEM orders</font> and fulfill them through an ISO 14001:2004 factory.
+</b></span></div>
           </td>
         </tr>
         <tr>
@@ -58,22 +153,32 @@ A:hover {color:#CC0000; text-decoration:none;}
                         <div align="left"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 13px"><font face="Verdana, Arial, Helvetica, sans-serif">
                         	<!-- Edited by Andypark - 02/20/07 -->
                         	
-                        	<a href="https://www.monoprice.com/myaccount/index.asp?style=">MY ACCOUNT </a>
+                        	<a href="https://www.monoprice.com/myaccount/index.asp">MY ACCOUNT </a>
                         	
                         	</font></span></div>
                       </td>
                       <td width="15"> 
-                        <div align="center"><a href="../products/cart.asp?style="><img src="../Icons/shoppingcart.gif" width="15" border="0"></a></div>
+                        <div align="center"><a href="../products/cart.asp"><img src="../Icons/shoppingcart.gif" width="15" border="0"></a></div>
                       </td>
-                      <td width="100"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 12px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.monoprice.com/products/cart.asp?style=">SHOPPING 
+                      <td width="100"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 12px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.monoprice.com/products/cart.asp">SHOPPING 
                         CART </a></font></span></td>
                       <td width="15"><img src="../Icons/gima0102.gif" width="11"></td>
                       
-                      <td width="45"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 12px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="https://www.monoprice.com/home/myaccount.asp?er=3&amp;style=">LOG 
+                      <td width="45"><span style="FONT-SIZE: 8pt;  LINE-HEIGHT: 12px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="https://www.monoprice.com/home/myaccount.asp?er=3">LOG 
                         IN</a></font></span></td>
                       
                       <!-- Start - Added by Andypark - 04/01/07 -->
                       
+	                      <td width="10"> 
+	                        <div align="right"><img src="../Icons/a1.gif" width="9" height="9"></div>
+	                      </td>
+	                      <td width="95">
+	                      	
+                        <div id="recent_view_layer2"> <span style="FONT-SIZE: 8pt; LINE-HEIGHT: 12px"><font face="Verdana, Arial, Helvetica, sans-serif"> 
+                          <a href="javascript:ViewRecentItems(document.all.recent_view_layer2)"> 
+                          VIEWED ITEM(s)</a></font></span> </div>
+	                      </td>
+                      	
                       <!-- End   - Added by Andypark - 04/01/07 -->
                     </tr>
                   </tbody></table>
@@ -126,11 +231,11 @@ A:hover {color:#CC0000; text-decoration:none;}
             <td width="5" bgcolor="#BB001B">&nbsp; </td>
           
           <td width="485" bgcolor="#BB001B"> 
-            <div align="right"><font color="#FFFFFF"><span style="FONT-SIZE: 9pt;  LINE-HEIGHT: 21px"><font color="#FFFFFF"><span style="FONT-SIZE: 9pt; LINE-HEIGHT: 21px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.monoprice.com/home/home.asp?pn=aboutus&amp;style="><font color="#FFFFFF">Company 
-              Info</font></a> | <a href="http://www.monoprice.com/home/home.asp?pn=support&amp;style="><font color="#FFFFFF">Support</font></a> 
-              | <a href="http://www.monoprice.com/home/home.asp?pn=contact&amp;style="><font color="#FFFFFF">Contact</font></a></font></span></font><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"> 
-              | <a href="http://www.monoprice.com/home/home.asp?pn=privacy&amp;style="><font color="#FFFFFF">Privacy 
-              Policy</font></a> | <a href="https://www.monoprice.com/myaccount/index.asp?style="><font color="#FFFFFF">Order 
+            <div align="right"><font color="#FFFFFF"><span style="FONT-SIZE: 9pt;  LINE-HEIGHT: 21px"><font color="#FFFFFF"><span style="FONT-SIZE: 9pt; LINE-HEIGHT: 21px"><font face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.monoprice.com/home/home.asp?pn=aboutus"><font color="#FFFFFF">Company 
+              Info</font></a> | <a href="http://www.monoprice.com/home/home.asp?pn=support"><font color="#FFFFFF">Support</font></a> 
+              | <a href="http://www.monoprice.com/home/home.asp?pn=contact"><font color="#FFFFFF">Contact</font></a></font></span></font><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"> 
+              | <a href="http://www.monoprice.com/home/home.asp?pn=privacy"><font color="#FFFFFF">Privacy 
+              Policy</font></a> | <a href="https://www.monoprice.com/myaccount/index.asp"><font color="#FFFFFF">Order 
               Tracking</font></a>&nbsp;</font></span></font></div>
           </td>
         </tr>
@@ -166,14 +271,14 @@ A:hover {color:#CC0000; text-decoration:none;}
   </tr>
 </tbody></table>
 <map name="Map">
-  <area shape="rect" coords="2,1,51,28" href="http://www.monoprice.com/home/?style=">
-  <area shape="rect" coords="53,2,134,23" href="http://www.monoprice.com/products/department.asp?c_id=101&amp;style=">
-  <area shape="rect" coords="134,2,194,23" href="http://www.monoprice.com/products/department.asp?c_id=102&amp;style=">
-  <area shape="rect" coords="195,1,266,26" href="http://www.monoprice.com/products/department.asp?c_id=103&amp;style=">
-  <area shape="rect" coords="267,2,341,23" href="http://www.monoprice.com/products/department.asp?c_id=104&amp;style=">
-  <area shape="rect" coords="343,2,434,23" href="http://www.monoprice.com/products/department.asp?c_id=105&amp;style=">
-  <area shape="rect" coords="435,1,520,25" href="http://www.monoprice.com/products/department.asp?c_id=107&amp;style=">
-  <area shape="rect" coords="521,2,574,23" href="http://www.monoprice.com/products/department.asp?c_id=108&amp;style=">
+  <area shape="rect" coords="2,1,51,28" href="http://www.monoprice.com/home/">
+  <area shape="rect" coords="53,2,134,23" href="http://www.monoprice.com/products/department.asp?c_id=101">
+  <area shape="rect" coords="134,2,194,23" href="http://www.monoprice.com/products/department.asp?c_id=102">
+  <area shape="rect" coords="195,1,266,26" href="http://www.monoprice.com/products/department.asp?c_id=103">
+  <area shape="rect" coords="267,2,341,23" href="http://www.monoprice.com/products/department.asp?c_id=104">
+  <area shape="rect" coords="343,2,434,23" href="http://www.monoprice.com/products/department.asp?c_id=105">
+  <area shape="rect" coords="435,1,520,25" href="http://www.monoprice.com/products/department.asp?c_id=107">
+  <area shape="rect" coords="521,2,574,23" href="http://www.monoprice.com/products/department.asp?c_id=108">
 </map>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -186,20 +291,35 @@ self.name = "mainWin";
 }
 </script>
 
+
+
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody><tr> 
     <td> 
       <!-- START SCANALERT CODE -->
       <div align="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.monoprice.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.monoprice.com/23.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> 
         <!-- END SCANALERT CODE -->
+<table width="100%" border="0" cellpadding="1" cellspacing="1"><tbody><tr><td width="100%" align="center"><script src="http://sealserver.trustkeeper.net/compliance/seal_js.php?code=x4izAYWieVRIByu5amMpiNc3FoIqDb"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=x4izAYWieVRIByu5amMpiNc3FoIqDb" target="hATW"><img src="http://sealserver.trustkeeper.net/compliance/seal.php?code=x4izAYWieVRIByu5amMpiNc3FoIqDb" border="0" alt="Trusted Commerce"/></a></noscript></td></tr></tbody></table>
       </div>
     </td>
   </tr>
 </tbody></table>
+
+
+
+
+<!-- START - ADDED BY Andypark - 10/05/2007 -->
+
+
+<!-- END - ADDED BY Andypark - 10/05/2007 -->
+
+
+
+
 <span style="FONT-SIZE: 9pt;  LINE-HEIGHT: 14px"> 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
@@ -211,7 +331,7 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -223,7 +343,7 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -235,7 +355,7 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -247,7 +367,7 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -259,7 +379,7 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -272,22 +392,21 @@ self.name = "mainWin";
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
   <tbody><tr> 
     <td bgcolor="#E8E8FF"> 
-      <div align="center">Most <b>USPS Priority and First Class orders</b>, placed 
-        <b>before 7AM Pacific Time</b>, get <b>shipped out on the same day</b>, 
-        excluding weekend and holiday !! <b>3rd Day, 2nd Day, and Next Day Air 
-        shipments cut-off time</b> is still <b>11AM PT</b>.</div>
+      <div align="center">Most orders, placed <b>before 11AM Pacific Time</b>, 
+        get <b>shipped out on the same day</b>, excluding weekend and holiday 
+        !!</div>
     </td>
   </tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="../Icons/line8.gif"><img src="http://images.monoprice.com/Icons/none.gif" width="1" height="1"></td>
+    <td background="../Icons/line8.gif"><img src="/Icons/none.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="156" border="0" cellspacing="0" cellpadding="5">
@@ -298,12 +417,15 @@ self.name = "mainWin";
         <br>
         <script src="https://seal.verisign.com/getseal?host_name=www.monoprice.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
         <br>
-        <img src="http://images.monoprice.com/Icons/visalogos.jpg" width="140" height="66"><br>
-        <img src="../images/badge_pill_white.gif" width="114" height="20"><br>
+        <img src="/Icons/visalogos.jpg" width="140" height="66"><br>
+<link rel="stylesheet" href="https://checkout.google.com/seller/accept/s.css" type="text/css" media="screen">
+<script type="text/javascript" src="https://checkout.google.com/seller/accept/j.js"></script>
+<script type="text/javascript">showMark(3);</script>
+<noscript><img src="https://checkout.google.com/seller/accept/images/sc.gif" width="72" height="73" alt="Google Checkout Acceptance Mark" /></noscript>
         <br>
-        <img src="http://images.monoprice.com/images/bbb2.gif" width="50" height="76" border="0"><br>
-        <img src="none.gif" width="1" height="5" border="0"><br>
-        <img src="http://images.monoprice.com/images/paypalseal.gif" width="88" height="33" border="0"></div>
+        <img src="/images/bbb2.gif" width="50" height="76" border="0"><br>
+        <img src="/images/none.gif" width="1" height="5" border="0"><br>
+        <img src="/images/paypalseal.gif" width="88" height="33" border="0"></div>
     </td>
   </tr>
 </tbody></table>
