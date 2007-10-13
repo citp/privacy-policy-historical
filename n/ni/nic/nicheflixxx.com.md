@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nicheflixxx.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602054043id_/http%3A//www.nicheflixxx.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheflixxx.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013052342id_/http%3A//nicheflixxx.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # NicheFlixxx
 
-Nicheflixxx Privacy Notice  
+|    
+---  
+  |  Nicheflixxx Privacy Notice  
 Nicheflixxx.com. ("Nicheflixxx") recognizes that its customers, visitors, users, and others who use www.Nicheflixxx.com or other web sites owned or operated by Nicheflixxx (the "Nicheflixxx Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Nicheflixxx Sites. Nicheflixxx provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Nicheflixxx Sites.  
 This Privacy Notice is incorporated into and is subject to the Nicheflixxx Terms of Use. Your use of the Nicheflixxx Sites and any personal information you provide on the Nicheflixxx Sites remains subject to the terms of this Privacy Notice and our Terms of Use.  
 Please note that any video, image, or other content posted at the direction of Users onto the Nicheflixxx Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.  
@@ -41,4 +43,5 @@ In the Event of Merger, Sale, or Bankruptcy:
 In the event that Nicheflixxx is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
 Changes and updates to this Privacy Notice:  
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Nicheflixxx Sites constitutes your agreement to this Privacy Notice and any future revisions.  
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.  |    
+ 
