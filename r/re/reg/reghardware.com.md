@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513164717id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013120902id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
 
 # Your Privacy and Reg Hardware
 
-### Reg Hardware is owned and operated by Situation Publishing.
+### Reg Hardware is owned and operated by Situation Publishing
 
 Situation Publishing  
 5th Floor  
@@ -34,7 +34,7 @@ Readers who choose to subscribe to our optional headlines-by-email service, or c
 
 If permission is granted, this information may be used to send occasional emails containing offers from our partners. This will only ever be provided to readers who have specifically given us permission to use their information in this way.
 
-Reg Hardware will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](http://forms.reghardware.co.uk/register/). Make sure that you enter exactly the same e-mail address as you used to sign up.
+Reg Hardware will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](http://hardware.regaccount.com/register/). Make sure that you enter exactly the same e-mail address as you used to sign up.
 
 ### Competitions
 
@@ -84,7 +84,7 @@ Skinkers run Reg Hardware's NewsAlerts Service. [Privacy Policy](http://www.skin
 
 ### Data Protection
 
-Anyone who provides Reg Hardware with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://forms.reghardware.co.uk/register/register) or by contacting Philip Mitchell.
+Anyone who provides Reg Hardware with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://hardware.regaccount.com/register/) or by contacting Philip Mitchell.
 
 ### Accessing your Data
 
@@ -102,11 +102,11 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 
 ### By Post:
 
-The Data Controller   
-Situation Publishing   
-5th Floor   
-33 Charlotte Street   
-London   
+The Data Controller  
+Situation Publishing  
+5th Floor  
+33 Charlotte Street  
+London  
 W1T 1RR
 
 ### By Email
