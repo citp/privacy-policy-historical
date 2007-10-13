@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627045548id_/http%3A//cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014015936id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.*
 
 # Cincinnati Bell Privacy Policy
 
