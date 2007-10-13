@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615095247id_/http%3A//www.mp3raid.com/mp3general/disclaim.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3raid.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014003400id_/http%3A//www.mp3raid.com/mp3general/disclaim.shtml) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer @ Mp3Raid.com
 
