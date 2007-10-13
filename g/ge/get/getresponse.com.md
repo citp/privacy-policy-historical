@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622171642id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014013023id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Privacy Policy**
 
 Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our website, you are accepting and consenting to the practices described in this Privacy Policy. 
 
 Any personal information provided or acquired by Implix is controlled primarily by the Implix Company, Balladyny 26, 81-524 Gdynia, Poland, hereinafter referred to as "Implix". 
 
-Implix recognizes the importance of respecting the privacy of those who visit our website and choose to take advantage of the services we offer. 
-
 We believe it is important to you, our Customer, to know how we treat the information about you which we receive during your visits to our site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information we receive when you visit and browse our website. We encourage you to take the time to read this Privacy Policy as well as those of any other sites you visit, whether through a link on that site or otherwise. 
-
-THIS PRIVACY POLICY APPLIES ONLY TO THIS SITE, IMPLIX BEST PRACTICES AND DATA ACQUIRED ONLINE. IT IS A PART OF THE SITE'S TERMS OF USE. 
-
-Implix guarantees to use and process your private information within the scope and purpose stated in the Terms of Service. 
 
 Implix undertakes all commercially reasonable endeavors to keep all disclosed personal information secure. Information collected through tracking and registration will not be shared or sold to third parties for any purpose without your express consent, except as provided in this Privacy Policy, or in a contract between Implix and you, our valuable Customer. 
 
 When you visit our website, we receive and may collect two types of information: (1) Site Use Information and Cookies, and (2) personal information you knowingly choose to disclose, which is collected on individual basis. 
 
-**Site Use Information**
+## Information We Collect
+
+Implix collects personal information from Customers who visit this Site and register with our GetResponse Service. When the Customers registers with our GetResponse Service, we require: (i) username, (ii) password, (iii) email address, (iv) first and last name, (v) zip code, (vi) country and (vii) billing information such as billing address and credit card number (ix) tax id number. We may also ask Customers to provide additional personal information such as (i) company name, (ii) title, (iii) education institution and (iv) other company and (v) personal details that the Customer may opt out of by not entering data when asked. We use the Customer’s registration information to authenticate users and provide access to GetResponse Service. We also use the email addresses used in the registration information to communicate with our Customers. From time to time, Implix may contact you via email to notify you of changes to its Service, scheduled maintenance, information about Implix and promotional materials from Implix. 
+
+Implix shall use all reasonable endeavors to give you free access to your personal information in an appropriate scope. You may change or delete your personally identifiable information at any time by [contacting us](http://getresponse.cs.implix.com/ModSupportTicket/CreateTicket/visitor) and clearly indicating that you wish to change or deactivate and delete such information. 
+
+You agree and acknowledge that your information collected through this Site and related Services or in connection with the GetResponse Service may be transferred across national boundaries and stored and processed in any of the countries around the world in which Implix maintains offices, including the United States. 
+
+## Passwords
+
+Your Implix and GetResponse account information, your username, password and a customer’s profile are password-protected so that you have secure access to entering and editing personal data. It is the user's responsibility to protect the security of their password. Access to GetResponse Service is protected by a unique username and password that is known to you only. Implix has designed internal security processes that encrypt Customer’s password to protect it from being divulged or accessed by anyone other than you. Neither Implix employees nor any of its contractors can obtain or access your password. Neither Implix employees or nor any of its contractors will ask you for your password via mail, email, telephone or in any other unsolicited manner. 
+
+## Site Use Information
 
 Our servers automatically collect site use information, each time you visit our site. 
 
@@ -30,13 +34,13 @@ Similar to other commercial websites, the technology called "cookies" may be use
 
 Information we collect may be used to enhance your use of our website, and to provide you with a service that you ordered, arrange the website in the most customer friendly way, communicate special offers and featured items, and/or respond to your questions and suggestions. 
 
-**Implix collects only personal information that you choose to provide voluntarily registering to our service.**
-
 In the case of an agreement, personal information includes data that identifies you as the specific individual, i.e. your name, email address, phone number, geographical address, and/or company name and company address. This information is used to complete the account application process, customer's information request, and/or to verify the validity of the request, and to process payment. 
 
-We will use this information **solely** for processing payments for services that you ordered. 
+We will use this information solely for processing payments for services that you ordered. 
 
-**Mailing Policy**
+Implix collects only personal information that you choose to provide voluntarily registering to our GetResponse Service. Implix shall advise you which information is mandatory to provide and what you do not have to enclose. 
+
+## Mailing Policy
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use. 
 
@@ -46,11 +50,11 @@ When you request information or other services from us, we use your email addres
 
 We will never use your email address or other information to provide you with any unsolicited messages or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use. 
 
-**Your Customers' Private Information Policy**
+## Your Customers' Private Information Policy
 
 Implix recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We make every effort to safeguard their security. Implix will never use the information about the customers you collect within our services to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use. 
 
-**Information Security**
+## Information Security
 
 We believe that keeping personal information secure is one of our most significant responsibilities. 
 
@@ -60,4 +64,10 @@ When we request customers to enter sensitive information, such as their name, ge
 
 All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (e.g. our billing clerk or a customer service representative) are personally granted access to sensitive information. 
 
-[Order NOW!](http://www.getresponse.com/order/autoresponders.html)
+## Security
+
+Implix stores its servers in a highly secure server environment, with surveillance and support to prevent unauthorized access and data security. 
+
+We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but Implix cannot ensure or warrant the security of any information you transmit to our website or Services. Any data transmissions you make over the Internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
+
+[Back to home page](http://www.getresponse.com/)
