@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402231659id_/http%3A//www.oneworld.com/ow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013070008id_/http%3A//www.oneworld.com/ow/privacy-policy) for the most accurate reproduction.*
 
 # oneworld - Privacy Policy
 
