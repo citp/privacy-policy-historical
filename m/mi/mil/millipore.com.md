@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428000215id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013134418id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.*
 
 # Millipore - E-Commerce - Security and Privacy
 
-|  |   
 ---  
 | 
 
 |   
+---  
 ---  
 |  |  |  |  |    
 Millipore Security protocols adhere to the latest US and European standards; your information is encrypted during your e-commerce sessions with Millipore. We do not store credit card or purchasing card information on our web server, and do require a re-entry of the credit card number for each purchase. This is an added level of security, and helpful in laboratories or purchasing departments with multiple users of a central computer. Security audits are conducted by third parties in order to further ensure security.
