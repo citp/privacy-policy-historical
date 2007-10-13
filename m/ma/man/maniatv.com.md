@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529031111id_/http%3A//www.maniatv.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniatv.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014011740id_/http%3A//www.maniatv.com/About/Privacy) for the most accurate reproduction.*
 
 # ManiaTV! ::
 
