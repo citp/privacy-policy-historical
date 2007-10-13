@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206150110id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014015850id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy - Hysterectomy Information and Support - HysterSisters
-
-  
-
 
 **We respect your privacy!**
 
@@ -56,8 +53,3 @@ The Hyster Sisters website retains the right to provide any information we know 
 Updated Privacy Policy Feburary 1, 2006
 
 ***Clarification added regarding search engine spiders indexing HS for search engine results.
-
-Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-04-2005 - 11:36 AM 
-
-  
-
