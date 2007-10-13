@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018202451id_/http%3A//www.eharmony.com/servlet/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013082205id_/http%3A//www.eharmony.ca/servlet/privacy/statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
