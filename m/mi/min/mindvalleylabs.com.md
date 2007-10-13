@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindvalleylabs.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231033651id_/http%3A//mindvalleylabs.com/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindvalleylabs.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013124305id_/http%3A//www.mindvalleylabs.com/about/privacypolicy.php) for the most accurate reproduction.*
 
-# MindValley Labs - 40 Ecommerce Tactics
+# How To Build and Automate Your Internet Business Using Chain Reaction Marketing
 
 Here's a Privacy Policy in a nutshell:
 
