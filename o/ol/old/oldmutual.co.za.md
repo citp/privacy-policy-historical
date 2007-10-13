@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624072544id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014014137id_/http%3A//www.oldmutual.co.za/help/site-usage-and-information/terms-of-use/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Old Mutual - Privacy Policy
 
