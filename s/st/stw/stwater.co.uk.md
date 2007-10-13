@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629111007id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013185817id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
 
 # privacy policy : Severn Trent Water
 
