@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430144917id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013173950id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
 
-# Web Privacy Statement
+# U of L Web Privacy Statement
 
-## Web Privacy Statement
+## U of L Web Privacy Statement
 
 The University of Lethbridge is committed to respecting the privacy of all individuals. This document outlines the standards for electronic data collection and use to ensure all members of the University community and public understand and are comfortable with the stewardship of their privacy.
 
