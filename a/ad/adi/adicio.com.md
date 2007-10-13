@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609191941id_/http%3A//www.adicio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013210239id_/http%3A//www.adicio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Adicio Privacy Policy
 
   |  | 
+
+[](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
 
 #### Overview
 
@@ -11,6 +13,8 @@ Adicio is committed to respecting the privacy of our users and complying with Pr
 Your data will be stored and processed in whole or in part in the United States. If you access an Adicio website outside the United States, your usage of that site constitutes consent to the transfer of your data out of your country and into the United States. 
 
 Our sites contain links to other websites over which we have no control. Adicio is not responsible for the privacy policies or practices of other websites to which you choose to link from an Adicio website. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on an Adicio website, and does not apply to information we collect in any other fashion.
+
+If you have questions or concerns regarding this statement, you should first contact us via [privacy@adicio.com](mailto:privacy@adicio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
 
 #### Collection and Retention of Information
 
@@ -110,7 +114,7 @@ Adicio is a name under which Adicio, Inc., a California corporation with its pri
 
 Adicio, Inc. has a Privacy Officer who is responsible for Adicio, Inc.'s compliance with and enforcement of this Policy. Adicio, Inc.'s Privacy Officer, Michael Cavallo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Adicio, Inc.'s Privacy Officer may be contacted by email at [mike@adicio.com](mailto:mike@adicio.com), by telephone at 760.692.4151 or by mail at Adicio, Inc., 2382 Faraday Avenue, Suite #350, Carlsbad, CA 92008. If users have questions or concerns regarding this statement, they should first contact Michael Cavallo. If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the website to resolve your concerns.
 
-We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [privacy@Adicio.com](mailto:privacy@Adicio.com) or by calling us at 760.602.9502. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [privacy@adicio.com](mailto:privacy@adicio.com) or by calling us at 760.602.9502. We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 ### II. Adicio, Inc.'s ASP Privacy Policy
 
@@ -231,8 +235,7 @@ Adicio, Inc. reserves the right to seek all remedies available at law and in equ
 
 You agree to submit to the laws of the State of California and applicable federal law. Any claim relating to Content on the Site shall be governed by the substantive laws of the State of California, excluding its principals as to conflicts of laws. Any dispute arising out of or in connection with the use or access or otherwise related to the Site may be settled by a court of competent jurisdiction, except for a claim of violation of data privacy covered by the Privacy Policy dispute resolution terms.
 
-(c) 2006 Adicio, Inc. All Rights Reserved  
-Revised 11/06
+(c) 2007 Adicio, Inc. All Rights Reserved....................................................................Revised 9/07
 
 * * *
 
