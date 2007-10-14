@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615010538id_/http%3A//www.mcdonalds.com.sg/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014025620id_/http%3A//www.mcdonalds.com.sg/%40q%3Dprivacy.htm) for the most accurate reproduction.*
 
 # McDonald's Internet Privacy Policy | McDonald's Singapore
 
@@ -68,7 +68,7 @@ This privacy policy is effective as of 1st April, 2006. From time to time, it ma
 
 **How to Contact Us**
 
-If you have any questions about our McDonald's Internet Privacy Policy, please [contact](http://www.mcdonalds.com.sg/?q=feedback) us at: 
+If you have any questions about our McDonald's Internet Privacy Policy, please [contact](https://web.archive.org/web/20071014025620id_/http%3A//www.mcdonalds.com.sg/@q=feedback.htm) us at: 
 
 Mcdonald's Restaurants  
 Communications Department  
