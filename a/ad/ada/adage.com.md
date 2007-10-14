@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206164919id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014175319id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
 
 # Advertising Age
 
