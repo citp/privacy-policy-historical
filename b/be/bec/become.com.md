@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616041806id_/http%3A//www.become.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014152359id_/http%3A//www.become.com/privacy.html) for the most accurate reproduction.*
 
 # Become: Privacy Policy
 
@@ -10,7 +10,7 @@ By using our website, you agree to the terms of this Privacy Policy.
 Collection of Personal Information  
 We collect Personal Information that you submit to us voluntarily through our website. If you create an account in order to access advanced features and services, we will collect your name, user name, and password. If you opt-in to receiving our newsletter, we will collect your email address. If you apply for a job at Become, we will collect any information contained in the email message you send to us, plus any information contained in your resume. If you email us directly via an e-mail hyperlink to provide us feedback or to ask us a question regarding our site or our business, we will collect any information contained in such email, and we will treat any such information in accordance with this Privacy Policy. If you provide any such feedback to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. 
 
-If you decide to email search results to a friend or family member, we will collect your friend’s or family member’s email address in order to send this email. We will also collect your name, email address, and any personal message you decide to include in the email. We will not send additional emails to your friends or family, unless you specifically request us to do so.
+If you decide to email search results to a friend or family member, we will collect your friend's or family member's email address in order to send this email. We will also collect your name, email address, and any personal message you decide to include in the email. We will not send additional emails to your friends or family, unless you specifically request us to do so.
 
 As you navigate our website, certain passive information will also be collected, including Internet Protocol addresses, cookies and navigational data. This type of information will be used in the aggregate for the purposes of gathering data to improve our website, and to improve the quality of your experience when interacting with our website. This information will not be linked with any Personal Information. 
 
