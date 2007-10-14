@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623092251id_/http%3A//videoegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoegg.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014033024id_/http%3A//www.videoegg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Videoegg
 
