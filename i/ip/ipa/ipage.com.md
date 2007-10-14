@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417185645id_/http%3A//www.ipage.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014044208id_/http%3A//www.ipage.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Website Builder, Affordable Website Design, Hosting Company - iPage
 
