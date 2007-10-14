@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2007-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070419071819id_/http%3A//www.dimensiondata.com/Legalities/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014102914id_/http%3A//www.dimensiondata.com/Legalities/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Dimension Data :: Privacy Policy
 
