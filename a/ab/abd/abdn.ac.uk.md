@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062840id_/http%3A//www.abdn.ac.uk/dit/docu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014232108id_/http%3A//www.abdn.ac.uk/dit/docu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for the University of Aberdeen Web Site
 
@@ -96,7 +96,7 @@ The University of Aberdeen website includes links to third party websites. These
   2. <http://www.nedstat.com/>
   3. <http://www.blackbaud.com/netcommunity/>
   4. <http://www.google.com/analytics/>
-  5. <http://www.abdn.ac.uk/diss/ie5/osl.php>
+  5. <http://www.abdn.ac.uk/diss/ie5/osl.php> (Internal access only) 
   6. [http://www.abdn.ac.uk/alumni/](https://web.archive.org/alumni/)
   7. [http://www.abdn.ac.uk/giving/](https://web.archive.org/giving/)
   8. [http://www.abdn.ac.uk/dit/docu/pubcond.hti](https://web.archive.org/dit/docu/pubcond.hti)
