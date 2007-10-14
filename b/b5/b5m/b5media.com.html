@@ -1,51 +1,27 @@
-<!--The following is the downloaded HTML source of the b5media.com privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627121240id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the b5media.com privacy policy that was archived on 2007-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014053734id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 			<title>
 			b5media -
-			  privacy		</title>
+			  b5media Privacy Policy		</title>
 
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta http-equiv="imagetoolbar" content="no">
 
-		<meta name="generator" content="WordPress 2.2.1">
+		<meta name="generator" content="WordPress 2.2.3">
 		<meta name="description" content="a global blog network">
 
-		<link rel="stylesheet" href="http://www.b5media.com/wp-content/themes/b5/style.css" type="text/css" media="screen">
-		<!--[if IE]>
-			<link rel="stylesheet" href="http://www.b5media.com/wp-content/themes/b5/iehacks.css" type="text/css" media="screen" />
-		<![endif]-->
-
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/3rd-party/prototype.lite.js"></script>
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/3rd-party/moo.fx.js"></script>
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/3rd-party/moo.fx.pack.js"></script>
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/3rd-party/moo.ajax.js"></script>
-<!--		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/3rd-party/prototype-1.4.0.js"></script>-->
-		
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/b5.adsense.js"></script>
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/scripts/b5.scripts.js"></script>
-		
-				
-		<script language="javascript" type="text/javascript">
-			var blog_url = 'http://b5media.com/wp-content/themes/b5/';
-			var channel_id;
-			var channel_index;
-			
-			b5.api.send('channel_id');
-			b5.api.send('channel_order');
-		</script>
-
-		<script language="javascript" type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/ibox/ibox.js"></script>
-		<link rel="stylesheet" href="http://www.b5media.com/wp-content/themes/b5/ibox/ibox.css" type="text/css" media="screen">
-
+		<link rel="stylesheet" href="http://www.b5media.com/wp-content/themes/b5/style.css?rev=2" type="text/css" media="screen">
 		<link rel="alternate" href="http://www.b5media.com/feed/" type="application/rss+xml" title="b5media's RSS Feed">
 		<link rel="shortcut icon" href="http://www.b5media.com/wp-content/themes/b5/images/favicon.png" type="image/png">
 		<link rel="pingback" href="http://www.b5media.com/xmlrpc.php">
 			<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.b5media.com/xmlrpc.php?rsd">
-<style type="text/css" media="screen">
+	<style type="text/css">
+	.b5Ad { border:1px solid #999; padding:10px; margin: 5px; background:#fff; }
+	</style><style type="text/css" media="screen">
 
 /* Begin Contact Form CSS */
 .contactform {
@@ -82,15 +58,48 @@
 
 	</style>
 
+		<script type="text/javascript" src="http://www.b5media.com/wp-includes/js/jquery/jquery.js"></script>
+		<script type="text/javascript" charset="utf-8">
+		$j = jQuery.noConflict();
+		$j(document).ready(function() {
+			var chanPos;
+			var ih;		
+			
+			load_discovery( 'tab1' );
+			
+			$j('.tabs').bind('click', function()
+			{
+				$j('.tabs').removeClass('selected');
+				$j(this).addClass('selected');
+				load_discovery($j(this).attr('id'))
+			});
+				
+			$j('.channellist').toggle('fast');
+			$j('.switch').bind('click', function() {
+				chanPos = $j(this).attr('id');
+				chanPos = chanPos.substr(3);
+				ih = $j('#channel' + chanPos).is(":hidden");
+				$j('.channellist').hide('slow');
+				if( ih )
+					$j('#channel' + chanPos).slideDown('slow');
+			});
+			
+		});
+		
+		function load_discovery( id )
+		{
+			$j('#discovery ul li').removeClass('selected');
+			$j( id ).addClass('selected');
+			if( id == 'tab1' )
+				$j.get('http://www.b5media.com/wp-content/themes/b5/advertise.html', function(data) { $j('#ajaxcontentarea').html(data); });
+			if( id == 'tab2' )
+				$j.get('http://www.b5media.com/wp-content/themes/b5/blog.html', function(data) { $j('#ajaxcontentarea').html(data); });
+			if( id == 'tab3' )
+				$j.get('http://www.b5media.com/wp-content/themes/b5/subscribe.html', function(data) { $j('#ajaxcontentarea').html(data); });
+		}
+		</script>
 	
-	
-	<script type="text/javascript" src="http://www.b5media.com/wp-content/themes/b5/js/ajaxtabs.js">
-	/***********************************************
-	* Ajax Tabs Content script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-	* This notice MUST stay intact for legal use
-	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-	***********************************************/
-	</script>
+
 	</head>
 
 <body>
@@ -110,7 +119,8 @@
 		</div><!-- end of header -->
                 <div id="content_bottom">
                         <div id="static_left">
-                                                                 <p>b5media is just as concerned about privacy as you are. To protect your privacy when you visit any of our blogs, we give you as much control as possible over the information you give and receive. This Privacy Policy will give you more details on the types of information we collect, how we use it, and how you can decide how much to share while you are at our sites. </p>
+                                                                 <h2>b5media Privacy Policy</h2>
+<p>b5media is just as concerned about privacy as you are. To protect your privacy when you visit any of our blogs, we give you as much control as possible over the information you give and receive. This Privacy Policy will give you more details on the types of information we collect, how we use it, and how you can decide how much to share while you are at our sites. </p>
 <p>What information does b5media collect? </p>
 <p>b5media believes in conversations. As such, every post on every one of our blogs allows you to leave a “comment.” This comment form asks for your name, email address and website address. While you can obviously make up any name, we encourage those who are comfortable doing so to at least leave their real first names (so you know if others are responding to you later in the conversation). In addition, your IP address is recorded when you leave a comment, purely as a spam prevention measure. </p>
 <p>b5media also collects statistics about visitors on their geographical location, time and date of visit, number of repeat visits, and what webpages are viewed. However, this information is never tied to your IP address and is never associated with you as an individual, it is purely so we know how each blog is doing from a traffic perspective </p>
@@ -144,6 +154,9 @@
                                 &nbsp;&nbsp;Canada
                                 </li></ul>
                                 <br>
+								<br><br><br>
+                                <h3 class="norm">b5media Mobile RSS</h3>
+								<a href="http://www.virtualreach.com/b5media.htm" title="b5media Mobile RSS"><img src="http://www.b5media.com/wp-images/viigo_300x147.gif" alt="b5media Mobile RSS"></a>
 
                         </div><!-- end of static_right -->
                 </div><!-- end of content_bottom -->
@@ -154,40 +167,8 @@
 			<p>All content is Copyright © 2005-2007 b5media.  All rights reserved.  Proudly powered by <a href="http://www.wordpress.org">WordPress</a>.</p>
 		</div>		
 	</div><!-- end of wrap -->
-<!-- GoStats JavaScript Based Code -->
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-var go_aid=590583;
-var go_cid=5;
-var go_iid=1;
-var go_z='';
-var go_serv='c2.gostats.com';
-var go_cw=0;
-var go_ch=0;
-var go_js="1.0";
-var go_r=Math.random()+"&amp;a="+go_aid+"&amp;t="+go_cid+"&amp;i="+
-go_iid+"&amp;r="+
-escape(document.referrer)+"&amp;p="+escape(window.location.href);
-document.cookie="gostats=1; path=/";
-go_r+="&amp;c="+(document.cookie?"y":"n");
-//--><!]]></script>
-<script type="text/javascript" language="javascript1.1"><!--//--><![CDATA[//><!--
-go_js="1.1";
-go_r+="&amp;j="+(navigator.javaEnabled()?"y":"n");
-//--><!]]></script>
-<script type="text/javascript" language="javascript1.2"><!--//--><![CDATA[//><!--
-go_js="1.2";
-go_r+="&amp;w="+screen.width+"&amp;h="+screen.height+"&amp;d="+
-(((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth);
-//--><!]]></script>
-<script type="text/javascript" language="javascript1.3"><!--//--><![CDATA[//><!--
-go_js="1.3";
-//--><!]]></script>
-<script type="text/javascript" src="http://c2.gostats.com/js/count4.js?id=590583"></script>
-<noscript><div><img
-src="http://c2.gostats.com/bin/count?a=590583&amp;t=5&amp;i=1&amp;z="
-style="border-width:0px;width:0px;height:0px" alt="" 
-width="0" height="0" /><br /></div></noscript>
-<!-- End GoStats JavaScript Based Code -->
+
 	
 
+<!-- time: 1.193 -->
 </body></html>
