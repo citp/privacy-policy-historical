@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529120658id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014032647id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WHOLESALE DIRECTORY
 
@@ -47,4 +47,4 @@ However, no transmission of data over the Internet or any other public network c
 Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this privacy policy. We may change our privacy policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like notice of changes to the privacy policy or terms of use, contact us online.
 
 ** » Your comments**  
- **WWW.WHOLESALEDIR.COM** Welcomes feedback concerning its privacy policy. To send us your comments and questions, **[ Contact us online](https://web.archive.org/web/20070529120658id_/http%3A//www.wholesaledir.com/contact_us.html).**
+ **WWW.WHOLESALEDIR.COM** Welcomes feedback concerning its privacy policy. To send us your comments and questions, **[ Contact us online](https://web.archive.org/web/20071014032647id_/http%3A//www.wholesaledir.com/contact_us.html).**
