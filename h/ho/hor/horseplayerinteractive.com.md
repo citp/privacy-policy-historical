@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/privacy.asp) for the most accurate reproduction.*
 
 # HorsePlayer Interactive | Privacy Policy
 
   
 [ ](http://www.hpibet.com/)  
-[](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/hpitv_welcome.asp)  
+[](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/hpitv_welcome.asp)  
 [](https://hpifund.horseplayerinteractive.com/)  
   
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/login.asp)  
-[](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/join_horseplayer.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/services-internet.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/hpirewards.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/schedules.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/ivrcodes.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/newsletter_menu.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/login.asp)  
+[](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/join_horseplayer.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/services-internet.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/hpirewards.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/schedules.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/ivrcodes.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/newsletter_menu.asp)  
   
 [ ](http://www.equibase.com/scratch/wos.cfm)  
 [ ](http://www.equibase.com/scratch/wot.cfm)  
   
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/corporate.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/contact.asp)  
-[ ](https://web.archive.org/web/20061109155524id_/http%3A//www.horseplayerinteractive.com/sitemap.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/corporate.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/contact.asp)  
+[ ](https://web.archive.org/web/20071014041727id_/http%3A//www.horseplayerinteractive.com/sitemap.asp)  
 
 
 [](http://www.racingtrustmark.com/)   
