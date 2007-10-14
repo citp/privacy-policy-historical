@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the firstrade.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512011151id_/http%3A//www.firstrade.com/public/support/privacyandsecuritypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstrade.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014031937id_/http%3A//www.firstrade.com/public/en_us/support/privacyandsecuritypolicy) for the most accurate reproduction.*
 
-# Firstrade [Privacy and Security Policy]
+# Online Trading Security, Internet Privacy Info - Firstrade
 
 |   | 
 
   
 **  
-| [Click Here](https://web.archive.org/public/knowledgecenter/securitycenter/identitytheft/) for Important Information on Identity Theft   
+| [Click Here](https://web.archive.org/public/en_us/knowledgecenter/securitycenter/identitytheft/ "trading stock") for Important Information on Identity Theft   
 ---  
   
 Your Privacy is our Priority**  
@@ -40,7 +40,7 @@ We disclose information to nonaffiliated companies that work for us in providing
 Finally, FIRSTRADE discloses nonpublic personal information to nonaffiliated third parties as permitted or required by law. These parties include government/regulatory organizations such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC). Disclosures for which you have provided your consent are also permitted.
 
 **How does FIRSTRADE protect the confidentiality and security of my nonpublic personal information?**  
-We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our website. Our servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing your nonpublic personal information that you provide or access during a secure session. In addition, we employ Entrust's digital certificate services to encrypt the information exchanged between you and Firstrade.com. 
+We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our website. Our servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing your nonpublic personal information that you provide or access during a secure session. In addition, we employ Entrust's digital certificate services to encrypt the information exchanged between you and Firstrade web servers. 
 
 Access to your nonpublic personal information is limited to those employees who need to know that information to provide products or services to you, such as customer service personnel.
 
