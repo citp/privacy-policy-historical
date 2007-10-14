@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425173105id_/http%3A//www.jda.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014121043id_/http%3A//www.jda.com/privacy.html) for the most accurate reproduction.*
 
 # JDA Privacy/Legal Statement
 
-|  |   |    
+|    
+|   |    
 
 
 **THE CONDITIONS OF USE OF THIS SITE**  
@@ -64,13 +65,17 @@ If you have any questions about this Privacy Policy, the practices of this Web S
   
 
 
-[4/23/2007](https://web.archive.org/company/press-release-details.html?ID=1612 "Scottsdale, Ariz. – April 23, 2007 – JDA® Software Group, Inc. announced financial results for the first quarter ended March 31, 2007.") \- JDA Software Reports Substantial Earnings Growth in First Quarter 2007
+[10/8/2007](https://web.archive.org/company/press-release-details.html?ID=1635 "JDA Software Group today announced the commercial release of a new revenue management system for tour operators called Tour Revenue Optimizer \(TRO\).") \- JDA Software Launches New Revenue Management Solution for Tour Operators Following Successful Implementation with TUI UK
 
-[4/17/2007](https://web.archive.org/company/press-release-details.html?ID=1610 "JDA® Software Group, Inc. announced on April 16, 2007 preliminary financial results for the first quarter ended March 31, 2007 in order to provide early visibility into first quarter 2007 results for the Analyst Meeting scheduled to take place on Tuesday, April 17th in New Orleans at JDA’s annual FOCUS user conference.") \- JDA Software Announces Preliminary First Quarter 2007 Results In Preparation for Analyst Meeting at FOCUS 2007
+[10/2/2007](https://web.archive.org/company/press-release-details.html?ID=1634 "JDA has expanded its partnership with The Rainmaker Group, the world leader in automated revenue management software and services to the gaming hospitality industry. The new agreement extends The Rainmaker Group's right to market and sublicense JDA's hospitality revenue management software in the hospitality industry.") \- JDA Software Group and The Rainmaker Group Continue Partnership, Expand Relationship in Hospitality Market
 
-[3/9/2007](http://www.jda.com/file_bin/casestudies/JDA-CS_Pharmavite.pdf "Pharmavite, LLC is a leading manufacturer of quality vitamins, herbs and other dietary supplements under the popular brands Nature Made, OLAY and Nature’s resource. With the support of JDA’s collaborative solutions, the company has improved inventory turns by 30 to 50 percent, decreased weeks of supply by 30 to 50 percent, improved initial fill rates by up to seven percentage points, as well as improved on-time deliveries by two to four percentage points. Realizing that it needed to strengthen brands with retailers and predict demand more accurately, Pharmavite implemented JDA’s Marketplace Replenish by E3 and Advanced Store Replenishment by E3 solutions. Read on to discover how the manufacturer is leveraging technology to maintain quality service while reducing inventory. ") \- Pharmavite Improves Service Levels, Inventory Turns and On-Time Deliveries with JDA Collaborative Solutions
+[10/17/2007](https://web.archive.org/company/EventDisplay.html?ID=640) \- MMS Upgrade & Educate Forum
 
-[2/19/2007](http://www.jda.com/file_bin/casestudies/JDA-CS_Dollar_Thrifty.pdf "Dollar Thrifty Automotive Group is a $1.5 billion car rental supplier managing more 1,600 locations worldwide, which includes approximately 250 Dollar Rent A Car and 340 Thrifty Car Rental locations in the United States. In its first year utilizing JDA’s Rental Car Revenue Management System, the company improved its bottom line by more than $7 million by leveraging the solution to more accurately forecast demand and reduce “turn away” business. Read on for more information on how Dollar Thrifty is continuing to realize improvements, and is collaborating with JDA to develop a truly visionary system that predicts demand, optimizes rates and fulfills demand precisely each day. ") \- Dollar Thrifty Automotive Group Improved Its Bottom Line by More Than $7 million in Its First Year of Leveraging JDA Technology
+[10/21/2007](https://web.archive.org/company/EventDisplay.html?ID=634 "CSCMP- Council of Supply Chain Management Professionals ") \- CSCMP- Council of Supply Chain Management Professionals 
+
+[5/14/2007](http://www.jda.com/file_bin/CaseStudies/JDA-CS_Co-op.pdf "The Co-operative Group's largest division, Co-operative Food Retail, implemented JDA's Space & Category Management solutions to ensure delivery of a customer-driven range of products to the right store clusters, as well as to better align the retailer's product mix to boost profitability. Thanks to the JDA solutions, the company is realizing real results that inlcude increased sales, improved partnerships with suppliers and the ability to place products in the right stores to drive profits.") \- The Co-operative Group Enables Delivery of Customer-Driven Product Ranges with JDA's Space & Category Management Solutions
+
+[5/1/2007](http://www.jda.com/file_bin/casestudies/JDA-CS_Edcon_May2007.pdf "Edgars Consolidated Stores Ltd. \(Edcon\), a leading clothing, footwear and textiles group in South Africa, has realized a 12.9 percent improvement in stock balances across its Department Store Division and a 7.9 percent improvement across its Discount Division. The retailer attributes these results to JDA® Allocation software, which it has been using for six months following an accelerated implementation that was completed on time and on budget. ") \- Edgars Consolidated Stores Ltd. Optimises Product Mix to Boost Sales and Profits with JDA Allocation Software
 
   
   
