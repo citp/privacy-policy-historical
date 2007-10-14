@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408085227id_/http%3A//www.associatedbank.com/AboutAssociated/CustomerCare/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014174556id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.*
 
 # Associated Bank : Privacy
 
-Privacy
-
-  
-
+## Privacy
 
 To serve you better, the Associated Web site was set up to capture your domain name and email address. By capturing this information we will be able to provide you with updates to our Web site, notify you of new products and services being offered, and allow us to enhance our Web site based on traffic trends. 
 
@@ -25,17 +22,17 @@ Understanding Privacy Regulations & Terminology
 
 Throughout this communication we may use terms you are not familiar with, so please take a moment to review the following definitions. We hope you find them helpful.
 
-We, Our, Us –Refers to Associated Banc-Corp and its affiliates ("the Associated family").
+We, Our, Us – Refers to Associated Banc-Corp and its affiliates ("the Associated family").
 
-The use of "you" and "your" –Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services.
+The use of "you" and "your" – Refers to all of our current and former customers who have or had a deposit account, loan, safe deposit box, Individual Retirement Account and customers from whom we collect a fee for fiduciary, financial, investment or insurance services, including advisory or brokerage services.
 
-Nonpublic personal information –Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
+Nonpublic personal information – Refers to information collected as a result of providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
 
-Affiliate –A company Associated Banc-Corp owns or controls.
+Affiliate – A company Associated Banc-Corp owns or controls.
 
-Nonaffiliated third party –A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.
+Nonaffiliated third party – A company that is not affiliated with Associated Banc-Corp, but with whom we may have a joint marketing agreement or other relationship.
 
-Opt out –A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and nonaffiliated third parties.
+Opt out – A choice you can make to prevent the sharing of certain information between Associated Banc-Corp affiliates and nonaffiliated third parties.
 
 Protecting Your Privacy and Confidentiality is a Job We Take Seriously
 
@@ -75,21 +72,17 @@ If you have provided an opt out notice in the past, we will continue to honor th
 
 To opt out, please click on the button below. 
 
- [](https://www.associatedbank.com/AboutAssociated/CustomerCare/OptOut.asp)
+ [](https://www.associatedbank.com/apps/AboutUs/CustomerCare/Optout.asp)
 
 OR
 
-Mail your request to: 
+Mail your request to:
 
-| 
-
-Associated Banc-Corp  
+**Associated Banc-Corp**  
 Attn: Opt Out - MS 7710  
 1305 Main Street   
-Stevens Point, WI 54481  
-  
----|---  
-  
+Stevens Point, WI 54481
+
 Questions regarding this information should be directed to Customer Care at 1-800-682-4989. 
 
-Back to Top
+Back to Top 
