@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sharperimage.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624090442id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharperimage.com privacy policy that was archived on 2007-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014032859id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta name="Description" content="Sharperimage.com is a safe and secure shopping environment. At The Sharper Image we appreciate your business and respect your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We have put safeguards in place to ensure the security and privacy or your information. These safeguards are detailed below.">
@@ -26,6 +26,19 @@
 
 
 
+<script>
+window.onerror = null;
+window.defaultStatus = '';	// copied from topnavlv1.js & topnav.js
+</script>
+
+
+
+
+		
+				<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/mbox/mbox.js" type="text/javascript"></script>
+			
+
+	
 
 
 
@@ -36,28 +49,24 @@
 
 
 
+		
+		
+			
+		
+
+	
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+	
+			
 
 <script>
-	// replaces topnavlv1.js and topnav.js
 	window.onerror=null;
 	window.defaultStatus = '';
 </script>
-  
 
 
 
@@ -81,372 +90,853 @@
     
 
 
-        <script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/header.js" type="text/javascript"></script>
+        <link href="http://images.sharperimage.com/us/en/styles/header.css" type="text/css" rel="stylesheet">
+    
+
+
+
+        <link href="http://images.sharperimage.com/us/en/styles/headermenu.css" type="text/css" rel="stylesheet" title="headermenu" disabled="">
+    
+
+        <link href="http://images.sharperimage.com/us/en/styles/headermenussl.css" type="text/css" rel="stylesheet" title="headermenussl">
+    
+
+
+<!-- conditionally include the css for the menus - these contain background images and are depending on the protocol -->
+
+<script language="javascript1.2" type="text/javascript">
+
+	function setActiveStyleSheet(title) {
+	  var i, a, main;
+	  for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
+	    if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title")) {
+	      a.disabled = true;
+	      if(a.getAttribute("title") == title) a.disabled = false;
+	    }
+	  }
+	}
+
+	if (location.protocol == 'https:')
+		setActiveStyleSheet('headermenussl');
+	else
+		setActiveStyleSheet('headermenu');
+
+</script>
+
+
+
+        <link href="http://images.sharperimage.com/us/en/styles/buttons2.css" type="text/css" rel="stylesheet">
+    
+
+
+        <script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/header.js" type="text/javascript">
+        </script>
     
 
 		<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/util.js" type="text/javascript"></script>
 	
 
+		<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/ajax/jquery.js" type="text/javascript"></script>
+	
 
-<!-- Initializes the SessionBean
-<droplet src="/us/en/include/initsession.jhtml">
-</droplet>
- -->
- 
+<!-- read in a new sourceCode if necessary -->
 
 
+<!--==============================================================================
+// Initialize pathSecure and pathNormal parameters from the SessionBean
+// for use elsewhere in this page.
+//=============================================================================-->
 
 
 
 
 
-<script language="JAVASCRIPT">
-akamizeMenuImages("http://images.sharperimage.com")
-preloadBlackRolloverImgs("http://images.sharperimage.com")
+<script language="javascript1.2" type="text/javascript">
+	function searchBlankOut() {
+		// erase prompt from search-box input when it gets focus
+		if (document.searchForm0.search_query.value=="SEARCH") {
+			document.searchForm0.search_query.value="";
+		}
+		
+		//change class so text is now left aligned
+		if (document.getElementById('search_query'))
+			document.getElementById('search_query').className="hdrsearchboxLeftText";		
+	}
 </script>
-
-
 
 
 		<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/script.js"></script>
-	    
+    
 
-
+<!-- ===================================================
+//  Begin top table layout.
+//  Row 1: logo plus top & middle nav lines
+//  Row 2: category nav line
+//======================================================-->
 <table width="780" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#000000">
-	<td width="419">
+<!--
+-->
+<tbody><tr height="4">
+	<td colspan="4">
+		<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="12" border="0" alt=""></td>
+</tr>
+<tr bgcolor="white" valign="top">
+	<td width="154" align="center" valign="middle"><!-- *** LOGO *** -->
+			<a style="margin-left:4px;" href="http://www.sharperimage.com/us/en/index.jhtml"><img src="http://images.sharperimage.com/us/en/images/header/TSIweblogo134.gif" border="0" alt="The Sharper Image"></a></td>
+	<td>
+		<!-- ===================================================
+		//  Row 1 (right of logo): top & middle nav lines
+		//======================================================-->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr valign="top" class="hdrtoplink">
 
-		
-			<a href="http://www.sharperimage.com/us/en/index.jhtml"><img src="http://images.sharperimage.com/us/en/images/topnav/TSI_logo_anim.gif" width="269" height="42" border="0" alt="The Sharper Image"></a><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="90" height="42" border="0" alt=""><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="60" height="42" border="0" alt=""></td>
-		
-
-	<td width="360" align="right">
-		<table width="360" border="0" cellspacing="0" cellpadding="0" align="right">
-		<tbody><tr>
-			<td width="30" height="20" valign="bottom" title="Click here to view your shopping basket and edit your order"><a href="http://www.sharperimage.com/us/en/order/shopbasket1.jhtml">
-		    	<img src="http://images.sharperimage.com/us/en/images/header/shoppingCart3.gif" width="27" height="18" border="0" alt="Click here to view your shopping basket and edit your order"></a></td>
-			<td width="90" align="center" title="Click here to view your shopping basket and edit your order"><a style="color: #FFFFFF; font-size: 10px" href="http://www.sharperimage.com/us/en/order/shopbasket1.jhtml"><b>View Basket</b></a>
-			</td>
-			<td valign="bottom" width="1"><img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="1" height="17" border="0" alt=""></td>
-			<td width="90" align="center">
-				
-				
-						<a style="color: #FFFFFF; font-size: 10px" href="https://www.sharperimage.com/us/en/order/orderhistorynonmem.jhtml"><b>Order Status</b></a>
-					
-			</td>
-			<td valign="middle" width="1"><img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="1" height="12" border="0" alt=""></td>
-			<td align="center" width="62">
-				
-				
-						<a style="color: #FFFFFF; font-size: 10px" href="https://www.sharperimage.com/us/en/account/signin.jhtml"><b>Sign In</b></a>
-					
-			</td>
-			
-			
-			
-			
-				<td valign="middle" width="1"><img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="1" height="12" border="0" alt=""></td>
-				<td align="center" width="85">
-					
-							<a style="color: #FFFFFF; font-size: 10px" href="https://www.sharperimage.com/us/en/account/namepwentry.jhtml"><b>Register</b></a>
+				<!-- Welcome message -->
+				<td align="left" nowrap="">
+				<div>
+					<div style="float:left;">
+						<span class="hdrwelcome">
 						
-				</td>			
-			
-			
+								
+										Welcome to The Sharper Image!
+									
+							
+						</span>
 						
-		</tr>
-		<tr>
-			<td colspan="2" align="left" width="120">
-				<div style="font-size: 10px; margin-right: 20px; color: #FFFFFF">
-                	<b>Total: $0.00</b></div>
-			</td>
-			<td valign="top" width="1"><img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="1" height="17" border="0" alt=""></td>
-			<td colspan="5" align="center" width="239">
-				<table width="239" border="0" cellspacing="0" cellpadding="0">
-
-					<form name="searchForm0" action="http://www.sharperimage.com/us/en/search1/searchresults.jhtml?_DARGS=/us/en/include/standardheader1.jhtml.13" method="post"></form>
-					<input type="hidden" name="setToDefaults" value="true">
-										
-					<input type="hidden" name="logSearch" value="yes">
-					<input type="hidden" name="includePhotos" value="noChange">
-					<input type="hidden" name="s" value="1">
-					<input type="hidden" name="e" value="10">
-
+					</div>
+				
 					
-							<input type="hidden" name="storeType" value="StoreSearch">
-						
+					<div style="float:right;">
+						<table border="0" cellspacing="0" cellpadding="0">
 						<tbody><tr>
-						<td width="179" align="center"><input type="text" name="search_query" value="" size="28" style="font-size: 10px" maxlength="30"><input type="hidden" name="_D:search_query" value=" "></td>
-						<td width="60" align="left">
-								<input type="image" src="http://images.sharperimage.com/us/en/images/header/button_search.gif" alt="Product Search" width="50" height="17" name="search" border="0" style="vertical-align:bottom">
+							<td style="padding-right:10px;">
+								<!-- My account: goes to account info or signin -->
+								
+										<a class="hdrtoplink" href="https://www.sharperimage.com/us/en/account/signin.jhtml">My Account</a>
+									
+							</td>						
+							<!-- Order Status -->
+							<td>
+								
+										<a class="hdrtoplink" title="See the status of your previous orders." href="https://www.sharperimage.com/us/en/order/orderhistorynonmem.jhtml">Order Status</a>
+									
 							</td>
 						</tr>
-					
+						</tbody></table>
+					</div>
+				</div>	
+				</td>
 
-				</tbody></table>
-			</td>
-		</tr>
+				<!-- Search input & Go button -->
+				<td align="right" valign="bottom" width="195" style="padding-left:10px;">
+					
+						<form style="margin:0px; padding: 0px; display:inline" name="searchForm0" action="http://www.sharperimage.com/us/en/search1/searchresults.jhtml?_DARGS=/us/en/include/standardheader2.jhtml.6" method="post">
+							<input type="hidden" name="setToDefaults" value="true">
+							<input type="hidden" name="logSearch" value="yes">
+							<input type="hidden" name="includePhotos" value="noChange">
+							<input type="hidden" name="s" value="1">
+							<input type="hidden" name="e" value="10">
+							<input type="hidden" name="storeType" value="StoreSearch">
+								<table border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td style="padding-right:5px;">
+									<input type="text" name="search_query" value="SEARCH" size="20" id="search_query" class="hdrsearchboxCenterText" maxlength="30" onfocus="searchBlankOut();"><input type="hidden" name="_D:search_query" value=" ">
+								</td>
+								
+								<td style="background:#761216">
+									<input type="image" value="GO" width="40" height="17" src="http://images.sharperimage.com/us/en/images/header/head_btn_go.gif" border="0" title="Search for products" alt="Search for products">
+								</td>
+								</tr>
+								</tbody></table>
+						</form>
+					</td>
+			</tr>
 		</tbody></table>
+
+		<!-- middle space -->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<!--===========================================================================
+				// Show top text message from the DB.
+				// Invoke the handler to Url encode the Top text message
+				//==========================================================================-->
+				<td height="83" valign="middle" align="center" width="414">		
+					
+					<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__40259300;sessionid=KVRUZRBEKZL23QFIA2TCGWQ" class="topTextLink"><div id="topTextFirst" class="topTextFirst" onmouseover="underline()" onmouseout="nounderline()">Gift Cards: Always a great choice!</div></a>
+					
+					
+					
+				</td>
+
+				<td align="right" valign="middle" width="146" style="padding-top:13px;">
+						
+						<div>							
+							
+										<a class="hdrtoplink" href="http://www.sharperimage.com/us/en/order/shopbasket1.jhtml">Shopping Basket</a>
+								
+						</div>
+						
+						<span class="hdramount">
+	                	
+								
+							
+						</span>
+					
+				</td>
+
+				<!--Shopping Cart icon -->
+				<td align="right" valign="middle" width="44" nowrap="" title="Click here to view your shopping basket and edit your order">
+					<a href="http://www.sharperimage.com/us/en/order/shopbasket1.jhtml">
+					<img src="http://images.sharperimage.com/us/en/images/header/TSIbag_72dpi_40sq.gif" border="0" alt=""></a>
+				</td>
+			</tr>
+			
+			<tr>			
+			<td colspan="3" height="20">
+			<!-- space for Natalie's banner -->
+						
+			</td>
+			</tr>
+			
+		</tbody></table>
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" valign="bottom">
+			<!-- ===================================================
+			// Best Sellers, etc., navigation line
+			//======================================================-->
+			<tbody><tr class="hdrbestlink">
+				<!-- Best Sellers -->
+				<td width="16%" align="left" valign="bottom" nowrap="">
+				
+				<a class="hdrbestlink" href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__21">
+				BESTSELLERS</a></td>
+
+				 <!-- New Products -->
+				<td width="21%" align="center" valign="bottom" nowrap="">
+				
+				<a class="hdrbestlink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__22">
+				NEW PRODUCTS</a></td>
+
+				<!-- Gift Ideas -->
+				<td width="16%" align="center" valign="bottom" nowrap="">
+				<a class="hdrbestlink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__20">
+				GIFT IDEAS</a></td>
+
+				<!-- Store Locations -->
+				<td width="23%" align="center" valign="bottom" nowrap="">
+				<a class="hdrbestlink" href="http://www.sharperimage.com/us/en/cs_retaillist.jhtml" title="Find a Sharper Image Store near you.">
+				STORE LOCATIONS</a></td>
+
+				<!-- Customer Service -->
+				<td width="24%" align="right" valign="bottom" nowrap="">
+				<a class="hdrbestlink" style="padding-right:0px;" href="http://www.sharperimage.com/us/en/cust_help/index.jhtml">
+				CUSTOMER SERVICE</a></td>
+			</tr>
+
+		</tbody></table>
+
 	</td>
-	<td width="1" bgcolor="#000000"><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	<td><!-- right margin -->
+		<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
 </tr>
 <tr>
-	<td width="780" colspan="3" bgcolor="#FFFFFF">
-		<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="2" border="0" alt=""></td>
+	<td width="100%" colspan="4" bgcolor="#FFFFFF">
+		<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="10" border="0" alt=""></td>
 </tr>
 </tbody></table>
 
-
-<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<tbody><tr valign="top">
-	
-	<td width="65"><a href="http://www.sharperimage.com/us/en/index.jhtml" onmouseover="document.images['nav1_home'].src= blackRolloverImages[1];" onmouseout="document.images['nav1_home'].src = blackRolloverImages[0];">
-    <img src="http://images.sharperimage.com/us/en/images/header9/nav1_home.gif" width="65" height="17" border="0" alt="Back to Home Page" name="nav1_home"></a></td>
-
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-	<td width="87">
-	
-	<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__21" onmouseover="document.images['nav1_best_sellers'].src= blackRolloverImages[3];" onmouseout="document.images['nav1_best_sellers'].src = blackRolloverImages[2];">
-    <img src="http://images.sharperimage.com/us/en/images/header9/nav1_best_sellers.gif" width="87" height="17" border="0" alt="Best Sellers" name="nav1_best_sellers"></a></td>
-		
-	
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-	<td width="114"><a href="http://www.sharperimage.com/us/en/cust_help/index.jhtml" onmouseover="document.images['nav1_customer_service'].src= blackRolloverImages[5];" onmouseout="document.images['nav1_customer_service'].src = blackRolloverImages[4];">
-    <img src="http://images.sharperimage.com/us/en/images/header9/nav1_customer_service.gif" width="114" height="17" border="0" alt="Customer Service" name="nav1_customer_service"></a></td>
-
-
-	
-	<td width="1">
-	  		<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-	<td width="110"><a href="http://www.sharperimage.com/corporatesales/?cs_name=welcome" onmouseover="document.images['nav1_corporate_sales'].src= blackRolloverImages[7];" onmouseout="document.images['nav1_corporate_sales'].src = blackRolloverImages[6];">
-    <img src="http://images.sharperimage.com/us/en/images/header9/nav1_corporate_sales.gif" width="110" height="17" border="0" alt="Corporate Incentive and Rewards Programs" name="nav1_corporate_sales"></a></td>
-
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-	<td width="102"><a href="http://www.sharperimage.com/us/en/cs_retaillist.jhtml" onmouseover="document.images['nav1_store_locations'].src= blackRolloverImages[9];" onmouseout="document.images['nav1_store_locations'].src = blackRolloverImages[8];">
-    <img src="http://images.sharperimage.com/us/en/images/header9/nav1_store_locations.gif" width="102" height="17" border="0" alt="Find a Sharper Image Store near you." name="nav1_store_locations"></a></td>
-
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-    <td width="97"><a href="http://www.sharperimage.com/us/en/cs_promotions.jhtml" onmouseover="document.images['nav1_special_offers'].src= blackRolloverImages[11];" onmouseout="document.images['nav1_special_offers'].src = blackRolloverImages[10];">
-			<img src="http://images.sharperimage.com/us/en/images/header9/nav1_special_offers.gif" width="97" height="17" border="0" alt="Special Offers" name="nav1_special_offers"></a></td>
-
-	
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-	
-	
-	<td width="133"><a href="http://www.sharperimage.com/us/en/order/quickcatalog.jhtml" onmouseover="document.images['nav1_catalog_quick_order'].src= blackRolloverImages[13];" onmouseout="document.images['nav1_catalog_quick_order'].src = blackRolloverImages[12];">
-		<img src="http://images.sharperimage.com/us/en/images/header9/nav1_catalog_quick_order.gif" width="133" height="17" border="0" alt="Catalog Quick Order!" name="nav1_catalog_quick_order"></a></td>
-
-	
-	<td width="1"><img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-	
-   <td width="65"><a href="http://www.sharperimage.com/us/en/outlet/" onmouseover="document.images['nav1_outlet'].src= blackRolloverImages[15];" onmouseout="document.images['nav1_outlet'].src = blackRolloverImages[14];">
-		<img src="http://images.sharperimage.com/us/en/images/header9/nav1_outlet.gif" width="65" height="17" border="0" alt="Shop our Outlet" name="nav1_outlet"></a></td>
-</tr>
-</tbody></table>
+<!-- BLUE CATEGORY NAVIGATION BUTTONS -->
 
 
 
 
-	
-	<table width="780" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="780" bgcolor="#FFFFFF" colspan="16"><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="2" border="0" alt=""></td>
-	</tr>
-
-	
-	
-	<tr valign="top" bgcolor="#FFFFFF">
-		 
-		<td width="72">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__29905500" onmouseout="currentMenu = 1; popDown('HM_Menu1');" onmouseover="currentMenu = 0; popUp('HM_Menu1',event); document.images['nav1'].src = menuImages[1]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_gift_ideas.gif" width="72" height="17" border="0" alt="" name="nav1"></a></td>
-
-
-		<td width="1">
-				<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="85">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__676889373" onmouseout="currentMenu = 2; popDown('HM_Menu2');" onmouseover="currentMenu = 0; popUp('HM_Menu2',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[3]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_new_products.gif" width="85" height="17" border="0" alt="" name="nav2"></a></td>
-
-
-		<td width="1">
-				<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="73">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__204" onmouseout="currentMenu = 3; popDown('HM_Menu3');" onmouseover="currentMenu = 0; popUp('HM_Menu3',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[5]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_electronics.gif" width="73" height="17" border="0" alt="" name="nav3"></a></td>
-
-
-		<td width="1">
-				<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="105">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__201" onmouseout="currentMenu = 4; popDown('HM_Menu4');" onmouseover="currentMenu = 0; popUp('HM_Menu4',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[7]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_toys_recreation.gif" width="105" height="17" border="0" alt="" name="nav4"></a></td>
-
-
-		<td width="1">
-			<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="129">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__676889503" onmouseout="currentMenu = 5; popDown('HM_Menu5');" onmouseover="currentMenu = 0; popUp('HM_Menu5',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[9]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_personalcare_health.gif" width="129" height="17" border="0" alt="" name="nav5"></a></td>
-
-
-		<td width="1">
-			<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="71">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__101" onmouseout="currentMenu = 6; popDown('HM_Menu6');" onmouseover="currentMenu = 0; popUp('HM_Menu6',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[11]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[14];">
-	    			<img src="http://images.sharperimage.com/us/en/images/header9/nav2_homecare.gif" width="71" height="17" border="0" alt="" name="nav6"></a></td>
-
-
-		<td width="1">
-			<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-
-		<td width="123">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__108" onmouseout="currentMenu = 7; popDown('HM_Menu7');" onmouseover="currentMenu = 0; popUp('HM_Menu7',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[13]; document.images['nav8'].src = menuImages[14];">
-				<img src="http://images.sharperimage.com/us/en/images/header9/nav2_kitchen_entertaining.gif" width="123" height="17" border="0" alt="" name="nav7"></a></td>
-
-
-		<td width="1">
-			<img src="http://images.sharperimage.com/us/en/images/header/nav_divider_tall.gif" width="1" height="17" border="0" alt=""></td>
-
-		<td width="115">
-			
-			<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__401" onmouseout="currentMenu = 8; popDown('HM_Menu8');" onmouseover="currentMenu = 0; popUp('HM_Menu8',event); document.images['nav1'].src = menuImages[0]; document.images['nav2'].src = menuImages[2]; document.images['nav3'].src = menuImages[4]; document.images['nav4'].src = menuImages[6]; document.images['nav5'].src = menuImages[8]; document.images['nav6'].src = menuImages[10]; document.images['nav7'].src = menuImages[12]; document.images['nav8'].src = menuImages[15];">
-				<img src="http://images.sharperimage.com/us/en/images/header9/nav2_office_travel_auto.gif" width="115" height="17" border="0" alt="" name="nav8"></a></td>
-	</tr>
-
-	<tr>
-		<td width="780" bgcolor="#FFFFFF" colspan="16">
-			<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="4" border="0" alt=""></td>
-	</tr>
-	</tbody></table>
-	
-
-
-
-<table width="780" border="0" cellspacing="0" cellpadding="0">
 
 
 
 
-		
 
 
 
 
-<script language="JavaScript" type="text/javascript">
+<script language="javascript1.2" type="text/javascript">
 
-function blankOut() {
-
-	if (document.signupSo.emailaddress.value=="Enter email here") {
-		document.signupSo.emailaddress.value="";
-	}
-}
+GlideParams = {
+	START_SPEED : 	400,// px per second
+	HIDE_DELAY_MS : 300,
+	SHOW_DELAY_MS : 5000,// pause before showing submenu
+	ACCELERATION_OUT :  .00055,// px/second/millisecond
+	ACCELERATION_BACK : .0009,// px/second/millisecond
+	FRAME_PAUSE : 1,
+	CLICK_HIDE : false,
+	CLICK_SHOW : false,
+	IMG_OVER_EXT : "_over"
+  };
 
 </script>
 
-<tbody><tr valign="bottom">
+
+	<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/menu/GlideMenu.js" type="text/javascript"></script>
 	
+
+
+		<link href="http://images.sharperimage.com/us/en/styles/menuDOM.css" type="text/css" rel="stylesheet">
+	
+
+
+		<link href="http://images.sharperimage.com/us/en/styles/glidemenu.css" type="text/css" rel="stylesheet">
+	
+
+
+<!--[if IE]>
+	<style type="text/css">
+		.menu ul li {
+			width: 210px;
+		}
+	</style>
+<![endif]-->
+
+
+
+<div id="catmenu1Frame" class="menuFrame">
+					<div id="catmenu1" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__686100243">
+								XBOX 360</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__204">
+								Stereo &amp; Speakers</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__679321933">
+								iPod &amp; MP3</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__680096663">
+								Headphones</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__207">
+								Music CD's</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__206">
+								Cameras &amp; Photo Frames</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__208">
+								TV, DVD &amp; Video</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__107">
+								Phones &amp; Communication</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__38053500">
+								Clocks &amp; Weather Stations</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__680370843">
+								GPS &amp; Automotive</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__59805900">
+								Watches</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu2Frame" class="menuFrame">
+					<div id="catmenu2" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__201">
+								Toys</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__680370823">
+								Electronic Gaming</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__203">
+								Games &amp; Activities</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__43480600">
+								Golf</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__24697500">
+								Bikes, Scooter &amp; Skates</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__679355363">
+								Pool &amp; Beach</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__59806200">
+								Binoculars &amp; Telescopes</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu3Frame" class="menuFrame">
+					<div id="catmenu3" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889503">
+								Massage Chairs</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__304">
+								Massagers</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__306">
+								Fitness Equipment</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__305">
+								Health &amp; Wellness</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__301">
+								Men's Personal Care</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__302">
+								Women's Personal Care</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__43479900">
+								Bath Accessories</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__104">
+								Bedroom</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu4Frame" class="menuFrame">
+					<div id="catmenu4" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__101">
+								Air Purifiers</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889473">
+								Vacuums &amp; Cleaning</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889483">
+								Lamps &amp; Lighting</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889493">
+								Fans &amp; Cooling</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__307">
+								Heaters &amp; Humidifiers</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu5Frame" class="menuFrame">
+					<div id="catmenu5" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__108">
+								Kitchen Electronics</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__111">
+								Cutlery &amp; Gadgets</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__685320823">
+								Storage &amp; Accessories</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__685320833">
+								Bar &amp; Entertaining</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__685320843">
+								Barbeque</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__109">
+								Outdoor Furniture &amp; Lighting</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__112">
+								Lawn &amp; Garden</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu6Frame" class="menuFrame">
+					<div id="catmenu6" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__401">
+								Luggage &amp; Travel Storage</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__404">
+								Travel Electronics</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889513">
+								Travel Comfort</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__43480500">
+								GPS &amp; Automotive Electronics</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__103">
+								Weather &amp; Emergency</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__402">
+								Tools &amp; Flashlights</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__406">
+								Desk Accessories &amp; Lighting</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__676889443">
+								Office Electronics &amp; Gadgets</a></li>
+
+						
+					</ul>
+					</div>
+				</div><div id="catmenu7Frame" class="menuFrame">
+					<div id="catmenu7" class="menu">
+					<ul>
+
+					
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__31200000">
+								Hot Buys</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__39250800">
+								New Discounts</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__35023500">
+								50% Off &amp; More</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__39060900">
+								Home &amp; Clean Air</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__39250600">
+								Electronics &amp; Toys</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__39250500">
+								Personal Care</a></li>
+
+						
+							
+
+							<li><a href="/us/en/catalog/categoryview/catid__39250700">
+								Office &amp; Travel</a></li>
+
+						
+					</ul>
+					</div>
+				</div><table class="standardtable">
+
+<tbody><tr valign="top">
+
 	
 	
 			
-			    	<td width="365" colspan="3" valign="center" align="left" style="font-size:10px; font-family:Verdana,Arial,Helvetica;color:#000000; padding-left:20px; padding-right:5px">
-					<form name="signupSo" action="http://www.sharperimage.com/us/en/account/signupso.jhtml?_DARGS=/us/en/include/emailspecialoffers.jhtml" method="post">
-						Sign up for email special offers
-						<input style="font-size: 10px; font-family: Verdana,Arial,Helvetica" type="text" name="emailaddress" onfocus="blankOut()" value="Enter email here" size="17"><input type="hidden" name="_D:emailaddress" value=" ">
-							
-						
-						      <input type="image" align="absmiddle" src="http://images.sharperimage.com/us/en/images/buttons/btn_wht_submit.gif" width="50" height="17" name="signup" border="0" alt="Submit" onmouseover="this.src= emailSignupOver;" onmouseout="this.src=emailSignup;">
-						    
-					</form></td>	
-					
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__2" id="topcatlink2" onmouseover="actuatorMouseover(event, 'catmenu1','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu1');return true;">
+
+						Electronics
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__685328103" id="topcatlink685328103" onmouseover="actuatorMouseover(event, 'catmenu2','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu2');return true;">
+
+						Toys &amp; Recreation
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__3" id="topcatlink3" onmouseover="actuatorMouseover(event, 'catmenu3','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu3');return true;">
+
+						Personal Care &amp; Health
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__1" id="topcatlink1" onmouseover="actuatorMouseover(event, 'catmenu4','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu4');return true;">
+
+						Home Care
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__685328113" id="topcatlink685328113" onmouseover="actuatorMouseover(event, 'catmenu5','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu5');return true;">
+
+						Kitchen &amp; Entertaining
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__4" id="topcatlink4" onmouseover="actuatorMouseover(event, 'catmenu6','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu6');return true;">
+
+						Office, Travel &amp; Auto
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+
+		
+			
+			
+			<td class="hdrcat" nowrap="">
+
+			
+					<a class="hdrcatlink" href="/us/en/catalog/topcat/pcat__24" id="topcatlink24" onmouseover="actuatorMouseover(event, 'catmenu7','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'catmenu7');return true;">
+
+						On Sale
+						</a>
+				
+			</td>
+
+			<td width="1" class="hdrcatgap"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 
 		
 
-
-	<td align="right" colspan="3" width="395">
-	    
-		<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="200" height="3" border="0" alt="">
-	
-	<!-- Temporaily disable web chat
-		<droplet bean="Switch">
-       		<param name="value" value="bean:WebHelpBean.IndexwebHelpAvailable">
-       		<oparam name="true">
-			<A HREF="#" onClick="StartChat('default')" name="window_open" value="Sharper Image Live Customer Help">      
-		<IMG SRC="/us/en/images/buttons/btn_wht_live_customer_help.gif" width="113" height="17" border=0 alt="Live Customer Help" name="liveCustomerHelp"
-			ONMOUSEOVER="document.images['liveCustomerHelp'].src= liveHelpOver;" ONMOUSEOUT="document.images['liveCustomerHelp'].src=liveHelp;">
-		</a> 
-		</oparam>
-		</droplet> End of webchat disable -->
-		</td>
-</tr>
-	
-
-<tr>
-	<td><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="240" height="3" border="0" alt=""></td>
-	<td><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="75" height="3" border="0" alt=""></td>
-	<td><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="50" height="3" border="0" alt=""></td>
-	<td><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="395" height="3" border="0" alt=""></td>
-	<td><img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="20" height="3" border="0" alt=""></td>
-</tr>
-
-
-<tr valign="center">
-	
-
-	<td width="240" colspan="1" align="left" style="padding-right: 5px">
+	<td width="4" style="background-color: white;"><img src="http://images.sharperimage.com/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 
 	
-	       <img src="http://images.sharperimage.com/all/en/images/spacer.gif" border="0" width="1" height="1" alt="">
-	</td>
 
+		
+		
+				
+				
 
-	<td align="right" colspan="3" width="520" style="font-size: 10px; padding-bottom: 2px">
-
-	
-	
-	
-
+				
 
 			
-		</td>
-	<td width="20">
-	               <img src="http://images.sharperimage.com/all/en/images/spacer.gif" nowrap="" width="1" height="20" border="0" alt="">
+				
+				
+
+				
 
 			
+				
+				
+
+				
+
+			
+				
+				
+
+				
+
+			
+				
+				
+
+				
+
+			
+				
+				
+
+				
+
+			
+				
+				
+
+				
+
+			
+
+		
+
+</tr>
+
+<tr><td colspan="15">
+<img src="http://images.sharperimage.com/all/en/images/spacer.gif" width="780" height="10" border="0" alt=""></td>
+</tr>
+
+</tbody></table>
+
+
+
+
 
 
 
@@ -474,6 +964,7 @@ function blankOut() {
 	</script>
 
 	
+	
 
 	
 	
@@ -481,6 +972,9 @@ function blankOut() {
 	
 	<script language="javascript1.1" src="http://images.sharperimage.com/us/en/js/cmdatatagutils.js"></script>
 
+	
+	
+	<script language="javascript1.1" src="http://images.sharperimage.com/us/en/js/cmframeset.js"></script>
 
 	
 	
@@ -532,7 +1026,6 @@ function blankOut() {
 		<script language="javascript1.1">
 			cmCreateDefaultPageviewTag();
 		</script>
-
 	
 
 	
@@ -544,80 +1037,24 @@ function blankOut() {
 
 
 
-	</td>
-
-
-</tr>
-
-
-
-<tr valign="center">
-	<td colspan="5" align="right" style="padding-right:20px; padding-bottom:5px;">
 		
-		       	
-
-
-
-<script language="JavaScript" type="text/javascript">
-
-function preOpenBML90DaysPopupUrl() 
-{
-	var myPage = "https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PMP32WEU&content=/bmlweb/np90drollingiw.html";
-	OpenBMLWinHosted(myPage, 506, 1070);
-}
-
-function preOpenBMLCorePopupUrl() 
-{
-	var myPage = "https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PMP32WEU&content=/bmlweb/np90drollingiw.html";
-	OpenBMLWinHosted(myPage, 506, 1070);
-}
-</script>
-
-<a href="javascript:preOpenBML90DaysPopupUrl();">
-    <span style="color:blue;font-weight:bold;text-decoration:underline;">
-	Bill Me Later - 90 Days Same as Cash-click here to learn more!
-    </span>
-</a>
-		
-	</td>
-</tr>
-
-</tbody></table>
 
 
 
 
 
- 		
-		<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/HM_Arrays1.js" type="text/javascript"></script>
-	    
-	<script> 
-		
-				// akamize variable used by HM_loader to construct proper HM_Scriptxxx filename.
-				HM_Base = "http://images.sharperimage.com/us/en/js/HM_Script";
-			
-	</script>
-	
-		<script language="javascript1.2" src="http://images.sharperimage.com/us/en/js/HM_Loader.js" type="text/javascript"></script>
-	    
-
-	
 
 
-	
-	
-	
-<!-- content goes here -->	
-	
 
 
-<!-- content starts -->
+
+
 
 
 <a name="top"></a>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		
+
     <td width="1"> <img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td width="17"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td width="1" bgcolor="#999999"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
@@ -639,20 +1076,20 @@ function preOpenBMLCorePopupUrl()
 		<td><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td bgcolor="#999999"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td>
-			
+
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td width="370" height="27" bgcolor="666699"><img src="/us/en/images/cust_help/title_bluecustomerservice.gif" width="192" height="27" border="0" alt=""></td>
 					<td width="375" align="right" bgcolor="666699">
-						
+
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr><td></td></tr>
 						</tbody></table>
-						
+
 					</td>
 				</tr>
 			</tbody></table>
-			
+
 		</td>
 		<td bgcolor="#999999"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
@@ -664,17 +1101,17 @@ function preOpenBMLCorePopupUrl()
 		<td bgcolor="#999999"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td>
 			<img src="/us/en/images/spacer.gif" width="1" height="8" border="0" alt=""><br>
-			
+
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr valign="top">
-					
+
 					<td width="196" nowrap="">
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr valign="TOP">
 								<td bgcolor="#999999"></td>
 								<td width="8" valign="TOP"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 								<td>
-				<!--  this is the includes for the side navigation menu -->
+				
 						
 
 <link rel="stylesheet" href="/us/en/styles/fonts.css" type="text/css">
@@ -751,14 +1188,14 @@ function preOpenBMLCorePopupUrl()
 </tr>
 </tbody></table>
 	
-				<!-- end includes -->
+				
 					</td>
 					</tr></tbody></table>
 					</td><td width="20" nowrap=""><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
           <td width="520" nowrap="">
 
 						<p><b class="header">Privacy &amp; Security</b></p>
-												
+
 						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#security" class="bodyLink">Security</a><br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#howtotell" class="bodyLink">How You Can Tell You're Browsing a Secure Website</a><br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#datacollection" class="bodyLink">Data Collection in a Secure Environment</a><br>
@@ -769,144 +1206,144 @@ function preOpenBMLCorePopupUrl()
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#unsubscribe" class="bodyLink">Unsubscribe to Email</a><br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#cookies" class="bodyLink">"Cookie" Use</a><br>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;<a href="#access" class="bodyLink">Access/Correction</a></p>
-						
+
 						<p>This is the Website of Sharper Image Corporation<br>
 						Our postal address is:<br><br>
 						<b>The Sharper Image<br>
 						350 The Embarcadero, Sixth Floor<br>
 						San Francisco, CA, 94105-1218</b><br><br>
-						We can be reached via <a href="mailto:care@web.sharperimage.com" class="blueBodyLink"><b>care@web.sharperimage.com</b></a>. Or you can reach us by telephone at <b>1-800-344-5555</b>, our customer service line, Monday-Friday 7 am to 5 pm and Saturday 8 am to 2 pm PST.</p> 
-						
+						We can be reached via <a href="mailto:care@web.sharperimage.com" class="blueBodyLink"><b>care@web.sharperimage.com</b></a>. Or you can reach us by telephone at <b>1-800-344-5555</b>, our customer service line, Monday-Friday 7 am to 5 pm and Saturday 8 am to 2 pm PST.</p>
+
 						<p>Sharperimage.com is committed to protecting your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We offer 128-bit SSL encryption, which encrypts your personal and credit card information as it is transferred over the Internet.
 						<br><br>
 						We electronically verify each order with the credit company, returning an order confirmed message <b>only</b> if the issuing bank authorizes it. Our experienced staff then manually checks all orders which still appear unusual, canceling any order we feel is not valid.
 						</p>
-						
+
 						<p><b><a name="security">Security</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
-						If you're ever a victim of credit card fraud, the Fair Credit Act specifies that your credit card company can hold you liable for no more than $50 in fraudulent charges to your account. With sharperimage.com, you'll be reimbursed for any amount up to $50 billed to you by your credit card company for fraudulent charges to your account if the credit card number was obtained from purchases made at sharperimage.com while using our secure server. For this protection, you must promptly notify your credit card company of any fraudulent charges and follow the procedures for doing so as outlined in your credit card agreement. 
+						If you're ever a victim of credit card fraud, the Fair Credit Act specifies that your credit card company can hold you liable for no more than $50 in fraudulent charges to your account. With sharperimage.com, you'll be reimbursed for any amount up to $50 billed to you by your credit card company for fraudulent charges to your account if the credit card number was obtained from purchases made at sharperimage.com while using our secure server. For this protection, you must promptly notify your credit card company of any fraudulent charges and follow the procedures for doing so as outlined in your credit card agreement.
 						</blockquote>
-						
+
 						<p><b><a name="howtotell">How You Can Tell You're Browsing a Secure Website</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
 						In order to be sure that information transferred between your browser and the Sharper Image server is secure, it is important to be aware of the security information available to you through your browser.
 						<br><br>
-						
+
 						Once you enter the Checkout process (when you're ready to purchase the items you have put into your shopping basket), your connection to our server becomes secure. To confirm this, look at the bottom of your browser window. If you see an unbroken key or a closed lock (depending upon your browser) you can be sure that your information is secure.
 						<br><br>
-						
-						You can also ensure security by checking the URL line of your browser. When you enter the secure area of our site, the first characters of the site address will change from "http" to "https". 
+
+						You can also ensure security by checking the URL line of your browser. When you enter the secure area of our site, the first characters of the site address will change from "http" to "https".
 						</blockquote>
-						
+
 						<p align="center"><img src="/us/en/images/cust_help/ie_closedLock.gif" alt="" width="502" height="40" border="0"><br>
 						<b>Example of a "closed lock" symbol in an Internet Explorer Browser</b></p>
-						 
+
 						<p align="center"><img src="/us/en/images/cust_help/ns_closedLock.gif" alt="" width="504" height="40" border="0"><br>
 						<b>Example of a "closed lock" symbol in a Netscape Communicator Browser</b></p>
-						 
+
 						<p align="center"><img src="/us/en/images/cust_help/ie_secureURL.gif" alt="" width="502" height="79" border="0"><br>
 						<b>Example of a secure URL in an Internet Explorer Browser</b></p>
-						 
+
 						<p align="center"><img src="/us/en/images/cust_help/ns_secureURL.gif" alt="" width="504" height="74" border="0"><br>
 						<b>Example of a secure URL in a Netscape Communicator Browser</b></p>
-						
-						<p><b><a name="datacollection">Data Collection in a Secure Environment</a></b> (<a href="#top" class="bodyLink">top</a>)</p>						
-						
+
+						<p><b><a name="datacollection">Data Collection in a Secure Environment</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
+
 						<blockquote>
 						In several areas of our site, we ask you to provide information by filling out and submitting an online form. These areas include:
-						
+
 						<blockquote>
-						Checkout, where we ask for name, address, email, credit card and other information needed to complete your order. 
+						Checkout, where we ask for name, address, email, credit card and other information needed to complete your order.
 						<br><br>
-						
-						Catalog requests, where we ask for a name, postal address and email address. 
+
+						Catalog requests, where we ask for a name, postal address and email address.
 						<br><br>
-						
-						Email Registration, where we ask for your email address. 
+
+						Email Registration, where we ask for your email address.
 						<br><br>
-						
-						Registration, where we give you the opportunity to store your bill-to and ship-to details (up to 99 ship-to addresses for easy online gift giving) and securely store credit card information for faster online ordering using quick checkout and the opportunity to bid in our online auctions. 
+
+						Registration, where we give you the opportunity to store your bill-to and ship-to details (up to 99 ship-to addresses for easy online gift giving) and securely store credit card information for faster online ordering using quick checkout and the opportunity to bid in our online auctions.
 						</blockquote>
-						
-						<p>Once you've registered, you may click on Account Info (at the top of any page) to edit or delete your personal information. All information relating to our customers is stored in a secure environment separate from our Website.</p> 
-						
+
+						<p>Once you've registered, you may click on Account Info (at the top of any page) to edit or delete your personal information. All information relating to our customers is stored in a secure environment separate from our Website.</p>
+
 						<p><i>The Sharper Image contracts with Coremetrics, a service partner, to provide us with data collection, storage and reporting services in order to help us improve our Website and your shopping experience. When you visit our Website, Coremetrics collects, on our behalf, first name and email address (if you provide them) as well as your navigation path through <a href="http://www.sharperimage.com/" class="bodyLink">www.sharperimage.com, </a> Coremetrics is contractually restricted from using your information in any manner, other than in helping us to make our site more useful to our visitors. For more information, including how to opt out, please <a href="http://www.coremetrics.com/company/privacy.html#optout" class="bodyLink">click: http://www.coremetrics.com/company/privacy.html#optout</a>.</i></p>
 						</blockquote>
-						
+
 						<p><b><a name="datause">Data Use</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
-						The information we collect is used to improve our Website, to notify consumers about updates to our Website and for special offers and promotions. Also, sharperimage.com may provide aggregate statistics about our online sales, traffic patterns and related site information to reputable third-party vendors, but these general statistics will include no personally identifying information.<p></p> 
+						The information we collect is used to improve our Website, to notify consumers about updates to our Website and for special offers and promotions. Also, sharperimage.com may provide aggregate statistics about our online sales, traffic patterns and related site information to reputable third-party vendors, but these general statistics will include no personally identifying information.<p></p>
 						</blockquote>
-						
+
 						<p><b><a name="communications">Communications</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
 						We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through <a href="mailto:care@web.sharperimage.com" class="blueBodyLink">email</a>, postal mail or by phone, please let us know by sending us an <a href="mailto:care@web.sharperimage.com" class="blueBodyLink">email</a> or calling us at 1-800-344-4444.<p></p>
 						</blockquote>
-						
+
 						<p><b><a name="mailing">Mailing Lists</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
 						We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please <a href="mailto:care@web.sharperimage.com" class="blueBodyLink">click here</a> to send us an email to be removed from the list.
 						<br><br>
-						
+
 						Additionally, if you do not want to receive our catalog, please <a href="mailto:care@web.sharperimage.com" class="blueBodyLink">click here</a> to send us an email to be removed from the list.
 						<br><br>
-						
+
 						When emailing to be removed from a list, please include the following information in the email:<br>
 						-FIRST AND LAST NAME<br>
 						-STREET, CITY, STATE AND ZIP<br>
 						-ACCOUNT NUMBER<br>
-						(nine digit number that usually begins with a #P and is found above your name/address on the back of the catalog). 
+						(nine digit number that usually begins with a #P and is found above your name/address on the back of the catalog).
 						<br><br>
-						
+
 						Please note that such requests may take up to 8 to 12 weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order.
 						<br><br>
-						From time to time we make portions of our customer mailing lists, which include name and street address, available to carefully screened companies. This may include your name and postal address, but never your email address.  
+						From time to time we make portions of our customer mailing lists, which include name and street address, available to carefully screened companies. This may include your name and postal address, but never your email address.
 						<br><br>
 						By purchasing online, you are automatically added to our catalog mailing list. You may also receive periodic mailings from us with information on new products and services or upcoming events. You may also request to be added to our mailing list online by <a href="/us/en/account/requestcatalog.jhtml">requesting a catalog</a>.
 						</blockquote>
-						
+
 						<p><b><a name="emaillist">Email List</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-												
+
 						<blockquote>
 						As a strict policy, sharperimage.com does not sell, trade, rent or otherwise share your email address with any other company or third party.  To change your email preferences, this includes opting in or opting out, <a href="/us/en/account/emailoptinout.jhtml">click here</a>.
 						</blockquote>
-						
+
 						<p><b><a name="unsubscribe">Unsubscribe to Email</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
 						You may unsubscribe to email special offers and/or update your email preferences on the <a href="/us/en/account/emailoptinout.jhtml" class="blueBodyLink">email options</a> page.
 						<br><br>
-						Click on "No thanks. I would like to unsubscribe from your email list" to unsubscribe. If you are signed in, your email address will auto populate for you.  Otherwise you must enter your email address and sign in to unsubscribe. You will be taken to the email options page where you may click submit to unsubscribe. 
+						Click on "No thanks. I would like to unsubscribe from your email list" to unsubscribe. If you are signed in, your email address will auto populate for you.  Otherwise you must enter your email address and sign in to unsubscribe. You will be taken to the email options page where you may click submit to unsubscribe.
 						<br><br>
 						Please allow one week for your changes to take place. If you have any questions or concerns you may also contact us by email at <a href="mailto:care@web.sharperimage.com" class="blueBodyLink">care@web.sharperimage.com</a> or by telephone at 1-800-344-5555, Monday-Friday 7 am to 5 pm PT and Saturday 8 am to 2 pm PT.
 						<br><br>
 						You may also click the unsubscribe link on any special offer email you receive from us and follow the instructions onscreen.
 						</blockquote>
-						
+
 						<p><b><a name="cookies">"Cookie" Use</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
 						<blockquote>
 						"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as welcoming you back to our site using your name and storing items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. In order to add products to your shopping basket and complete a purchase, sharperimage.com requires that your browser accepts cookies.
 						</blockquote>
-						
-												
+
+
 						<p><b><a name="access">Access/Correction</a></b> (<a href="#top" class="bodyLink">top</a>)</p>
-						
+
 						<blockquote>
 						You may update or change information related to your sharperimage.com account by accessing the Account Info section of the Website with your email account and password.
 						</blockquote>
 
 						<p>&nbsp;</p>
-						
+
 					</td>
 					<td width="9"><img src="/us/en/images/spacer.gif" width="9" height="1" border="0" alt=""></td>
 				</tr>
 			</tbody></table>
-			
+
 		</td>
 		<td bgcolor="#999999"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
 		<td colspan="2"><img src="/us/en/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
@@ -920,7 +1357,7 @@ function preOpenBMLCorePopupUrl()
 
 
 
-<!-- content ends -->
+
 <br><br>
 
 
@@ -932,182 +1369,240 @@ function preOpenBMLCorePopupUrl()
 
 
 
-	<!--
-	<droplet bean="Switch">
-	<param name="value" value="bean:SessionBean.eAwards">
-	<oparam name="true">
-		<droplet src="eawardsfooter.jhtml">
-		</droplet>
-	</oparam>
-	<oparam name="false">
-	-->
-		<!-- 
-// a594 - adding links to major categories
-// a1130 - footer change to include Email options
-// a1817 - caching the footer - exlcuding upromise logo.
-// a2867 - dh 10/11/2004 revise subcats - new default Personal Care subcat; New Product subcats
-// a2867 - dh 10/15/2004 revise subcats - get top subcat from db, not hardcoded
-// a2914 -  nk 10/22/04 including two links in footer
-// a2925 - sk 11/08/04 muliple sub cats for Best Sellers
-// a3660 - sk 05/05/05 Add Footer Links to European Site to sharperimage.com
-// a4245 - dh 11/9/05 New layout Special Offer page, corrected 'std compliance' spacing
-// a4324 - sk 11/22/05 Akamaize font.css on home page
-// a4332 - sk 11/23/05 Add paypal logo to footer and change upromise
-// a4333 - sd 11.25.05 add "Store Locations" and "Holiday Shipping" links to footer
-// a4364 - bwh 11/29/05 paypal reside=yes
-// a4650 - rglasener 03/29/06 - remove pcatid from links to category view
-// a4683 - rglasener 04/11/06 - remove pcatid from outlet links
-// a4714 - rglasener 04/26/06 reformat outlet url
-// a4742 - skumbera 05/09/2006 - new footer
-// a5098 - skumbera 09/28/2006 - Add BML
-// a5012 - dharm 10/20/06 - drop fonts.css
-// a5198 - skumbera 11/06/2006 - Add Holiday Shipping
-// a5414 - vbattle 12/22/2006 - Remove Holiday Shipping
-// a5463 - vbattle 01/09/07 - Add Licensing Opportunites to Footer
-// sk 04/13/07 a5705: category change header changes
--->
-
-
-
-
-
-
-
-
-        <link href="http://images.sharperimage.com/us/en/styles/footer.css" type="text/css" rel="stylesheet">
-    
-
-
-
-
-
-
-<!-- NOTE: Cache caches the urls, so image urls are not rendered correctly when going from http to https.
-		Hence all cacheable content is within the cache output block, but images are outside it.
- -->
-
-	
-		<table cellpadding="0" cellspacing="0" border="0" width="780" style="margin-top:20px;margin-left:2px;border:solid black 2px;font-family:verdana,arial,helvetica,geneva;">
-		<tbody><tr valign="top">
-		<td class="foot" style="width:116px;"><span class="footnonlinkbold">Shop by Category</span><br>
-		
-		<!-- Best Sellers -->
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__21" class="footlink">Best Sellers</a><br>
-		
-		<!-- Electronics & Toys -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__204" class="footlink">Electronics</a><br>
-		
-		<!-- Gift Guide -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__29905500" class="footlink">Gift Ideas</a><br>
-		
-		<!-- Home & Clean Air -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__101" class="footlink"> Home Care</a><br>
-		
-		<!-- New Products -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__676889373" class="footlink">New Products</a><br>
-		
-		<!-- Office & Travel -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__401" class="footlink">Office, Travel &amp; Auto</a><br>
-		
-		<!-- Personal Care -->
-		
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__676889503" class="footlink">Personal Care &amp; Health</a><br>
-		</td>
-		
-		<td class="foot" style="width:135px;padding-left:5px;">
-		<a href="http://www.sharperimage.com/us/en/cust_help/cserv_giftservices.jhtml" class="footlinkbold">Gift Services</a><br>
-		<a href="http://www.sharperimage.com/us/en/registry/regindex.jhtml" class="footlink">Gift Registry</a><br>
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__2012" class="footlink">Online Gift Certificates</a><br>
-		<a href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__40259300" class="footlink">Gift Cards</a><br>
-		<span class="footnonlinkbold">Specials Areas</span><br>
-		<a href="http://www.sharperimage.com/us/en/outlet" class="footlink">Outlet Store</a><br>
-		<a href="http://www.sharperimage.com/us/en/cs_promotions.jhtml" class="footlink">Special Offers</a><br>
-		<a href="http://www.sharperimage.com/us/en/intlshopping.jhtml" class="footlink">International Sites</a><br>
-		</td>
-    		
-		<td width="1" style="padding-top:15px;"><img src="http://images.sharperimage.com/us/en/images/footer/spacer000.gif" width="1" height="105"></td>
-
-
-
-		<td class="foot" style="width:127px;">
-		
-		<a href="http://www.sharperimage.com/us/en/cs_retaillist.jhtml" class="footlinkbold" style="">Store Locations</a><br><br>
-		<a href="http://www.sharperimage.com/us/en/cust_help/index.jhtml?clpos=2" class="footlinkbold">Customer Service</a><br>
-		<a href="https://www.sharperimage.com/us/en/order/orderhistorynonmem.jhtml" class="footlink">Where's My Order</a><br>
-		<a href="http://www.sharperimage.com/us/en/cust_help/cserv_returnsandexchanges.jhtml" class="footlink">Returns &amp; Exchanges</a><br>
-		<a href="http://www.sharperimage.com/us/en/cust_help/cserv_shipping.jhtml" class="footlink">Shipping</a><br>
-		<a href="http://www.sharperimage.com/us/en/cust_help/cserv_ordering.jhtml" class="footlink">Ordering</a><br>
-		<a href="http://www.sharperimage.com/us/en/cust_help/index.jhtml" class="footlink">Search Help</a><br>
-		</td>
-	    	
-		<td width="1" style="padding-top:15px;"><img src="http://images.sharperimage.com/us/en/images/footer/spacer000.gif" width="1" height="105"></td>
-
-
-			
-		<td class="foot" style="width:150px;">
-		
-		<div style="padding-bottom:4px;"><a href="http://www.sharperimage.com/us/en/account/emailoptinout.jhtml" class="footlinkbold" style="">Email Options</a></div>
-		<div style="padding-bottom:4px;"><a href="http://www.sharperimage.com/us/en/account/requestcatalog.jhtml?cs_name=requestcatalog" class="footlinkbold" style="">Request a Catalog</a></div>
-		<a href="http://www.sharperimage.com/corporatesales/?cs_name=welcome" class="footlinkbold">Corporate Sales</a><br>
-		<a href="http://www.sharperimage.com/corporatesales/products.jhtml" class="footlink">Product Programs</a><br>
-		<a href="http://www.sharperimage.com/corporatesales/faqs.jhtml" class="footlink">FAQ's on Sales Programs</a><br>
-		<!--<a href="`request.getParameter("normalRoot") + "/corporatesales/salesmap.jhtml"`" class="footlink">Find an Account Manager</a><br>-->
-		<a href="http://www.sharperimage.com/corporatesales/contactus.jhtml" class="footlink">Contact Corporate Sales</a><br>
-		</td>
-			
-		<td width="1" style="padding-top:15px;"><img src="http://images.sharperimage.com/us/en/images/footer/spacer000.gif" width="1" height="105"></td>
-		
 
 		
-		<td class="foot" style="width:170px;">
-		
-		<div style="padding-bottom:4px;">
-		<a href="http://www.sharperimage.com/sitemap.jhtml" class="footlinkbold" style="">Site Map</a></div>
-		<a href="http://www.sharperimage.com/us/en/cust_help/cserv_aboutus.jhtml?clpos=6" class="footlinkbold">About The Sharper Image</a><br>
-		<a href="http://www.sharperimage.com/us/en/cust_serv/contactUs.jhtml" class="footlink">Contact Us</a><br>
-		<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=101256&amp;p=irol-IRHome" class="footlink">Investor Relations</a><br>
-		<!--<a href="`request.getParameter("normalRoot") + "/SharperImageIonicResponse.html"`" class="footlink">Ionic Response</a><br>-->
-		<a href="http://www.sharperimage.com/us/en/employment.jhtml?cs_name=overview" class="footlink">Employment Opportunities</a><br>
-		<a href="http://www.sharperimage.com/us/en/affiliateprogram.jhtml?cs_name=affiliateprogram" class="footlink">Affiliate Programs</a><br>
-		<a href="http://www.sharperimage.com/licensing.jhtml" class="footlink">Licensing Opportunities</a>
-		</td>
-		</tr>
-		</tbody></table>
-		
-		<table width="780" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" style="margin-left:2px;margin-bottom:15px;">
-			<tbody><tr>
-			
-				<td><img src="http://images.sharperimage.com/us/en/images/footer/foot_crnr_lft.gif" width="25" height="25" border="0"></td>
-
 				
 
-				<td width="730">
-					<div style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;letter-spacing:-1px;float:left;padding-left:75px;"><a href="http://www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml" style="color:white;">Privacy and Legal Policy</a></div>
-					<div style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;letter-spacing:-1px;float:left;padding-left:25px;"><a href="http://www.sharperimage.com/us/en/termsofuse.jhtml" style="color:white;">Terms of Use</a></div>
-					<div style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;letter-spacing:-1px;color:white;padding-right:75px;" align="right">Copyright © 2007 by The Sharper Image. All rights reserved. (v2.0c)</div></td>
-		
-				<td><img src="http://images.sharperimage.com/us/en/images/footer/foot_crnr_rt.gif" width="25" height="25" border="0"></td>
 
 
-				
-			</tr>
-		</tbody></table>
-		
-		<div style="padding-left:135px; padding-bottom:5px;font-size: 10px; color: #000000; font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;">Our toll free customer service number is 1-800-344-5555 | Order toll free at 1-800-344-4444</div>
-		<div style="padding-left:134px;font-size: 10px;color:#000000;font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;"><span>Sharper Image Gift Certificates have no expiration date. Valid Certificates are always honored.</span></div>
-	
 
+
+
+
+
+
+        <link href="http://images.sharperimage.com/us/en/styles/footer3.css" type="text/css" rel="stylesheet">
     
+<script language="JavaScript" type="text/javascript">
+	function blankOutEmail() {
+		if (document.emailSignUpForm.emailaddr.value=="enter email") {
+			document.emailSignUpForm.emailaddr.value="";
 		
-    <!--Upromise / PayPal Logos -->
-	
+			// change class to left align
+			if (document.getElementById('emailaddr'))
+				document.getElementById('emailaddr').className="emailInputLeftText";
+		}
+
+	}
+	function resetEmail() {
+		if (document.emailSignUpForm.emailaddr.value=="") {
+			document.emailSignUpForm.emailaddr.value="enter email";
 			
-		
+			// change class to center align
+			if (document.getElementById('emailaddr'))
+				document.getElementById('emailaddr').className="emailInput";
+		}
+	}
+</script>
+<style type="text/css">
+.buttonWhiteTextOnGreyDarkGreyBorder {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight: bold;
+	color:#FFFFFF;
+	background-color : #666666;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+	border-style: solid;
+	border-top-color: #C6C6C6;
+	border-left-color: #C6C6C6;
+	border-bottom-color: #808080;
+	border-right-color: #808080;
+	border-width: 1px;
+	cursor:pointer;
+	height:18px;
+}
+</style>
+
+<br>
+<table width="780px" border="0" cellpadding="1" cellspacing="1">
+	<tbody><tr valign="middle">
+		<td>&nbsp;</td>
+		<td class="footerHeaderContainer" width="33%" align="center" valign="middle">
+			<a class="footerHeaderLink" href="http://www.sharperimage.com/us/en/account/requestcatalog.jhtml?cs_name=requestcatalog"><span class="footerHeaderLabel">FREE CATALOG&nbsp;<img src="/us/en/images/footer/arrow.png" border="0" alt="Free Catalog"></span></a>
+		</td>
+		<td class="footerHeaderContainer" width="33%" align="center" valign="middle">
+			<a class="footerHeaderLink " href="http://www.sharperimage.com/us/en/account/signupso.jhtml"><span class="footerHeaderLabel">EMAIL SIGN-UP&nbsp;<img src="/us/en/images/footer/arrow.png" border="0" alt="Email Sign-Up"></span></a>			
+		</td>
+		<td class="footerHeaderContainer" width="33%" align="center" valign="middle">
+			<a class="footerHeaderLink" href="http://sharper.know-where.com/sharper/"><span class="footerHeaderLabel">FIND YOUR STORE&nbsp;<img src="/us/en/images/footer/arrow.png" border="0" alt="Find Your Store"></span></a>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td style="padding:1px 5px 1px 5px" width="33%">
+			<a class="footerBannerText" href="http://www.sharperimage.com/us/en/account/requestcatalog.jhtml?cs_name=requestcatalog">Click here to join the mailing list of The Sharper Image Catalog. It's fun to shop and FREE!</a>
+		</td>
+		<td style="padding:1px 5px 1px 5px" width="33%">
+			<a class="footerBannerText" href="http://www.sharperimage.com/us/en/account/signupso.jhtml">Be the first to see sneak previews of new products and take advantage of unadvertised special offers.</a>
+			<div style="text-align:center;vertical-align:top">
+				<form id="emailSignUpForm" name="emailSignUpForm" class="footerEmailForm" action="http://www.sharperimage.com/us/en/account/signupso.jhtml?_DARGS=/us/en/include/standardfooter3.jhtml.5" method="post">
+			 		<input id="emailaddr" name="emailaddr" onblur="resetEmail()" onfocus="blankOutEmail()" class="emailInput" type="text" length="23" size="23" value="enter email"><input type="hidden" name="_D:emailaddr" value=" ">
+			 		&nbsp;
+					<input type="submit" value="submit" style="width:55px" class="buttonWhiteTextOnGreyDarkGreyBorder" title="Email Sign-Up">
+			 	</form>
+			</div>
+		</td>
+		<td style="padding:1px 3px 1px 3px" width="33%">
+			<a class="footerBannerText" href="http://sharper.know-where.com/sharper/">Our more than 185 stores are fun to shop and exciting. Click here for maps, phone numbers and directions.</a>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr valign="middle">
+		<td style="padding:0px;margin:5px 0px 5px 0px" align="center" colspan="5" height="1">
+			<spacer type="block" height="1" width="1">
+			
+					<img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="99%" height="1">
+				
+		</spacer></td>
+	</tr>
+</tbody></table>
+
+<table width="780px" border="0" cellpadding="1" cellspacing="1">
+	<tbody><tr class="footerElementRow">
+		<td class="footerElementCell">
+			<a class="footerElementLabel" href="http://www.sharperimage.com/sitemap.jhtml">Shop By Category</a>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__21">Bestsellers</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__22">New Products</a>
+			</div>			
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__20">Gift Ideas</a>
+			</div>			
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__2">Electronics</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__685328103">Toys &amp; Recreation</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__3">Personal Care &amp; Health</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__1">Home Care</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__685328113">Kitchen &amp; Entertaining</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__4">Office, Travel &amp; Auto</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/topcat/pcat__24">On Sale</a>
+			</div>
+		</td>
+		<td class="footerElementCell">
+			<div>
+				<a class="footerElementLabel" href="http://www.sharperimage.com/us/en/cust_help/index.jhtml">Customer Service</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="https://www.sharperimage.com/us/en/order/orderhistorynonmem.jhtml">Order Tracking</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml">Privacy &amp; Security</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/cust_help/cserv_returnsandexchanges.jhtml">Guaranteed Satisfaction</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/cust_help/cserv_returnsandexchanges.jhtml">Returns &amp; Exchanges</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/cust_help/cserv_shipping.jhtml">Shipping Charges</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/order/quickcatalog.jhtml">Catalog Quick Order</a>
+			</div>			
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/account/emailoptinout.jhtml">Email Options</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/cust_serv/contactUs.jhtml">Contact Us</a>
+			</div>
+		</td>
+		<td class="footerElementCell">
+			<div>
+				<a class="footerElementLabel" href="http://www.sharperimage.com/us/en/cust_help/cserv_giftservices.jhtml">Gift Services</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__40259300">Gift Cards</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/registry/regindex.jhtml">Wish List</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/catalog/categoryview/catid__2012">Online Gift Certificates</a>
+			</div>
+
+			<div style="margin-top:10px">
+				<a class="footerElementLabel" href="http://www.sharperimage.com/sitemap.jhtml">Site Map / See All</a>
+			</div>
+		</td>
+		<td class="footerElementCell">
+			<div>
+				<a class="footerElementLabel" href="http://www.sharperimage.com/us/en/cust_help/cserv_aboutus.jhtml?clpos=6">About The Sharper Image</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://phx.corporate-ir.net/phoenix.zhtml?c=101256&amp;p=irol-IRHome">Investor Relations</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://cytiva.com/cejobs/templatesharp.asp">Job Opportunities</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/affiliateprogram.jhtml?cs_name=affiliateprogram">Affiliate Programs</a>
+			</div>
+			<div class="footerElementLinkContainer">
+				<a class="footerElementLink" href="http://www.sharperimage.com/us/en/intlshopping.jhtml">International Sites</a>
+			</div>
+			<div style="padding-top:10px">
+				<a class="footerElementLabel" href="http://www.sharperimage.com/licensing.jhtml">Brand Licensing</a>
+			</div>
+			<div style="padding-top:10px">
+				<a class="footerElementLabel" href="http://www.sharperimage.com/corporatesales/rewardcards.jhtml">Corporate Sales</a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding:0px;margin:5px 0px 0px 0px" align="center" colspan="4" height="1">
+			
+					<img src="http://images.sharperimage.com/us/en/images/spacer999999.gif" width="99%" height="1" alt="" border="0">
+				
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<div class="customerService">
+				Our toll free customer service number is 1-800-344-5555&nbsp;&nbsp;<span class="bar">|</span>&nbsp;&nbsp;Order toll free at 1-800-344-4444
+			</div>
+			<div class="disclaimerText">
+				<a class="disclaimerText" href="http://www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml">Privacy &amp; Legal Policy</a>
+				&nbsp;&nbsp;<span class="bar">|</span>&nbsp;&nbsp;
+				<a class="disclaimerText" href="http://www.sharperimage.com/us/en/termsofuse.jhtml">Terms of Use</a>
+				&nbsp;&nbsp;<span class="bar">|</span>&nbsp;&nbsp;
+				Copyright © 2007 by The Sharper Image. All Rights Reserverd
+			</div>
+			<div class="disclaimerText">
+				Sharper Image Gift Certificates have no expiration date. Valid Certificates are always honored.
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+
+
+	
 
 
 
@@ -1174,19 +1669,13 @@ function preOpenBMLCorePopupUrl()
 </td>
 </tr>
 </tbody></table>
-	
-	
-	<!-- server name -->
-	
-	
-	<span style="color: #FFFFFF; padding-left:350px;">06W91</span>
-	 
 
-	<!--
-	</oparam>
-	</droplet>
-	-->
 
+
+
+<span class="server">07W90</span>
+			
+	
 
 
 
