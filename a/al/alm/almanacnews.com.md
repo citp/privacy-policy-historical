@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the almanacnews.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207053419id_/http%3A//www.almanacnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanacnews.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014040530id_/http%3A//www.almanacnews.com/privacy.php) for the most accurate reproduction.*
 
 # Almanac: Privacy Policy
 
-Last updated:  Wednesday, October 4, 2006 4:01 PM
+Last updated:  Wednesday, March 7, 2007 11:27 AM
 
 **Privacy Policy   
 **We respect the privacy of the personal information you give us, such as your name, street address, telephone number and e-mail address, and other personal information you may provide. The following policy is intended to explain how we treat this information. This policy may change from time to time. 
@@ -32,7 +32,7 @@ We retain the right to use your e-mail address collected for the distribution of
 Protecting the privacy of young children is important to us. For that reason, we will not collect or maintain information at our Web site from those actually known to be under 13. The sole exception to this is our mailing lists. If a child under 13 signs up for our newsletter or any of our mailing lists, they will remain a member unless we are asked to remove them by their parent or legal guardian, or they elect to opt-out themselves. 
 
 **Other Disclosure of Personal Information**  
-We will not otherwise disclose or make use of personal information without consent of the user except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any online bulletin board, chat room, newsgroup or other public forum within our sites. 
+We will not otherwise disclose or make use of personal information without consent of the user except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any online bulletin board, chat room, newsgroup, reviews or other public forum within our sites. 
 
 **Other Sites**   
 Our sites contain links to sites on the Internet operated by others. We cannot control and are not responsible for the privacy practices or content of such other Web sites. 
