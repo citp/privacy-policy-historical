@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopmag.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618043224id_/http%3A//www.laptopmag.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopmag.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014040033id_/http%3A//laptopmag.com/Privacypolicy) for the most accurate reproduction.*
 
 # :: LAPTOP Magazine • Privacy Policy ::
 
