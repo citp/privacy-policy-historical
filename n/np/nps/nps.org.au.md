@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109061548id_/http%3A//nps.org.au/index.php%3Fname%3Dhtml/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014073928id_/http%3A//nps.org.au/index.php%3Fname%3Dhtml/privacy.html) for the most accurate reproduction.*
 
 # National Prescribing Service Limited
 
