@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220951id_/http%3A//active-domain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015002016id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement for Active-Domain's domain registration services
 
 **Information Collection and Use**
 
-Active-Domain is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collects information from our users at several different points on our website. 
+Active-Domain is the sole owner of the information collected on this site. We do not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collects information from our users at several different points on our website. 
 
 **Registration**
 
-In order to register domain names and certain section of this site, a user must complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
+In order to register domain names and access certain sections of this site, a user must complete a registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have purchased/subscribed. The types of personal information collected at these pages include but not limited to the following:
+
+> Name  
+>  Address  
+>  Email Address  
+>  Phone Number  
+>  etc.
 
 **Order**
 
@@ -16,9 +22,9 @@ We request information from the user on our order form. Here a user must provide
 
 **Cookies**
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
 **Log Files**
 
@@ -38,13 +44,13 @@ This web site contains links to other sites. Please be aware that we are not res
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+When our registration/order form asks users to enter sensitive personal information, that information is encrypted through SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Mozilla Firefox or Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our office. Only employees who need the information to perform a specific job (for example, our billing staff or a customer service representative) are granted access to personally identifiable information. Our employees are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
 
 **Special Offers**
 
-We send all customers a confirmation email for every order and provide you username and password to access your domain name. Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+We send all customers a confirmation email for every order completed and provide you username and password to access your domain name. Established customers will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Such request can be made by contacting our Sales Department at http://support.domainpanel.com. 
 
 **Site and Service Updates**
 
@@ -52,16 +58,8 @@ We also send the user site and service announcement updates. Customers are not a
 
 **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done by emailing our Customer Support 
-
-**Choice/Opt-out**
-
-Our customers are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
-
-Customers who no longer wish to receive our newsletter or our recommendations of new products may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [_support@active-domain.com_](mailto:support@active-domain.com). 
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+If a user’s personally identifiable information changes (such as your address o phone number), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done by contacting our Customer Support at http://support.domainpanel.com.
 
 **Notification of Changes**
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Customers will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Customers will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
