@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triond.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618054907id_/http%3A//www.triond.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triond.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014032000id_/http%3A//www.triond.com/privacy.php) for the most accurate reproduction.*
 
 # Triond - Privacy Policy
 
@@ -8,7 +8,7 @@ a.  Triond regards the privacy of your personal information very seriously. Thi
 
 b.  Personal information refers to information about you that is personally identifiable, as further detailed herein, that is provided by you and which is not otherwise publicly available. 
 
-c.  Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Triond Standard Terms of Use and/or the [Publishing Agreement](https://web.archive.org/web/20070618054907id_/http%3A//www.triond.com/useragreement.php), the provisions of this Privacy Policy shall be incorporated into such agreements, and you shall be deemed to have expressly consented to the use of your personal information in the manner described herein. 
+c.  Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Triond Standard Terms of Use and/or the [Publishing Agreement](https://web.archive.org/web/20071014032000id_/http%3A//www.triond.com/useragreement.php), the provisions of this Privacy Policy shall be incorporated into such agreements, and you shall be deemed to have expressly consented to the use of your personal information in the manner described herein. 
 
 d.  This policy may be revised by Triond from time to time, and at any time. Any material changes will be effective only after Triond will provide prior notice of the amended Privacy Policy at least 10 days in advance. Notice of the amended Privacy Policy may be given by general notice on the Web-Site ( [www.Triond.com ](http://www.triond.com/)) (the “ **Site** ”) or by e-mail. Any amended Privacy Policy will be clearly posted on the Site. If such changes will result in the use or disclosure of your personal information in a manner materially different from that stated at the time Triond collected the information, you will have choice whether or nor Triond shall use or disclose your information in accordance with the amended Privacy Policy. Notice of your choice not to disclose your information is to be delivered in the manner instructed on the Site. 
 
