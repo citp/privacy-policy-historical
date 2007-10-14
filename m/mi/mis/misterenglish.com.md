@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterenglish.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514215202id_/http%3A//www.misterenglish.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterenglish.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014060040id_/http%3A//www.misterenglish.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
