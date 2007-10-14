@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205233735id_/http%3A//www.topcashback.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014052812id_/http%3A//www.topcashback.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # TopCashBack Privacy Policy
 
@@ -12,7 +12,8 @@ Member nicknames & basic related statistics may occassionally be exposed. A mem
 
   * We may monitor traffic patterns in order to improve our services, to help monitor purchases and commissions and keep accounts up to date. 
   * We do not send Junk Email or Spam. We may send emails with site updates or offers, but users will be able to specify the type of emails received. 
-  * We do not pass users details on to third parties, unless specifically requested to do so by the users.
+  * We do not pass users details on to third parties, unless specifically requested to do so by the users. 
+  * An exception to the above is that we may pass your details on to the merchants or their agents for verification of transactions only and for fraud prevention measures. These details passed on will not be used for marketing or any other purposes.
 
 Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £10. 
 
@@ -28,4 +29,6 @@ We recommend that all users enable cookies in their browsers in order to make fu
 
 If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page. 
 
-|  
+|    
+  
+Can you send us traffic from your website? Become an affiliate of ours at [ Affiliate Future](http://www.affiliatefuture.co.uk/registration/affiliates.asp?AffiliateID=29123). 
