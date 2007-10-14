@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110170510id_/http%3A//www.williams-sonoma.com/cust/privacy/cust.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonoma.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014101507id_/http%3A//www.williams-sonoma.com/cust/privacy/cust.cfm) for the most accurate reproduction.*
 
 # Williams-Sonoma | Legal and Privacy Policy
 
 |   
   
   
-Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, and Williams-Sonoma Home.
+Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, and Williams-Sonoma Home®.
 
 Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
@@ -36,7 +36,7 @@ From time to time there may be information on our Web Site or in our catalog tha
 
 * * * * * * * * * *
 
-Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. Last Updated: September 2006 
+Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California. Last Updated: April 2007 
 
   
   
@@ -101,7 +101,7 @@ To help us improve our privacy policy and practice, please give us your feedback
   
 
 
-[Copyright 2006 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/) All Rights Reserved.
+[Copyright 2007 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/) All Rights Reserved.
 
 Williams-Sonoma® is a registered trademark of Williams-Sonoma, Inc. 
 
