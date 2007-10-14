@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627121240id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014053734id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.*
 
-# b5media - privacy
+# b5media - b5media Privacy Policy
 
 b5media is just as concerned about privacy as you are. To protect your privacy when you visit any of our blogs, we give you as much control as possible over the information you give and receive. This Privacy Policy will give you more details on the types of information we collect, how we use it, and how you can decide how much to share while you are at our sites. 
 
