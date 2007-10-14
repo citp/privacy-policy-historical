@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610002059id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courierpress.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014034554id_/http%3A//www.courierpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement : News : Evansville Courier Press
 
