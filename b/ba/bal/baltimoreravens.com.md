@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406075023id_/http%3A//baltimoreravens.com/news/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014205048id_/http%3A//www.baltimoreravens.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Baltimore Ravens
 
-Revised: February 15, 2006 
+Revised: February 15, 2006
 
-[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=Baltimore%20Ravens)
+[ ](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=101&ctv_group=Baltimore%20Ravens)
 
-This privacy policy applies to the Baltimore Raven's website located at [www.baltimoreravens.com](http://www.baltimoreravens.com/) and [www.baltimoreravensstore.com](http://www.baltimoreravensstore.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+This privacy policy applies to the Baltimore Raven's website located at [www.baltimoreravens.com](http://www.baltimoreravens.com/) and [www.baltimoreravensstore.com](http://www.baltimoreravensstore.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by Epic Cycle Interactive on behalf of the Baltimore Ravens (collectively, the "Baltimore Ravens", "we", "our", or "us"). Epic Cycle Interactive does not own any information submitted through this website and cannot use this information for its own purposes.
 
@@ -16,31 +16,31 @@ If you have questions or concerns regarding this statement, you should first con
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
-When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
+When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
 Please read the information below to learn more about our data collection policies and practices.
 
-  1. Types Of Information That May Be Collected
-  2. How Information May Be Collected
-  3. How We Use The Information Collected
-  4. With Whom The Information May Be Shared
-  5. Security
-  6. Links To Other Websites
-  7. A Special Note For Parents Concerning Privacy
+  1. Types Of Information That May Be Collected 
+  2. How Information May Be Collected 
+  3. How We Use The Information Collected 
+  4. With Whom The Information May Be Shared 
+  5. Security 
+  6. Links To Other Websites 
+  7. A Special Note For Parents Concerning Privacy 
   8. Notification Of Changes And Your Acceptance Of The Privacy Policy
   9. Correcting/Updating Personal Information
   10. Your California Privacy Rights
-  11. Questions About This Privacy Policy
+  11. Questions About This Privacy Policy 
 
 
 
-TYPES OF INFORMATION THAT MAY BE COLLECTED 
+TYPES OF INFORMATION THAT MAY BE COLLECTED
 
-The following are the types of information we may collect: 
+The following are the types of information we may collect:
 
-**Information You Provide Us:** In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number, unique identifiers, such as your social security number, demographic information, such as your date of birth, age, gender, education, household income, occupation, ticket holder status, game attendance, home ownership, marital status, or number of children, financial information, such as your credit card number or similar information. 
+**Information You Provide Us:** In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, or fax number, unique identifiers, such as your social security number, demographic information, such as your date of birth, age, gender, education, household income, occupation, ticket holder status, game attendance, home ownership, marital status, or number of children, financial information, such as your credit card number or similar information.
 
-**Site Usage Information:** We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and session based cookie stores IP address. 
+**Site Usage Information:** We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and session based cookie stores IP address.
 
 **Email Communications:** When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
@@ -54,7 +54,7 @@ We may collect information from you in several different areas on the Website, i
 
 **Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email to [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). When a user signs up for the newsletter, they may also receive direct mail, etc. To discontinue these mailings please write to: Baltimore Ravens Mailing List, 1 Winning Drive, Owings Mills, MD 21117 or send an email to [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net) requesting your name and information be taken off the Ravens distribution lists. We do not share your email address with 3rd parties for marketing purposes.
 
-**Contests or Sweepstakes:** We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. 
+**Contests or Sweepstakes:** We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
 **Surveys or Voting:** From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
@@ -70,7 +70,7 @@ We may collect information from you in several different areas on the Website, i
 
 Back to the Top
 
-HOW WE USE THE INFORMATION COLLECTED 
+HOW WE USE THE INFORMATION COLLECTED
 
 As applicable, the information you provide to us may be used to:
 
@@ -103,7 +103,7 @@ When ordering tickets, the consumer will be brought to the TicketMaster website 
 
 **Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See "Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy" section below.
 
-**Administrative or Legal Process:** Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website. 
+**Administrative or Legal Process:** Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
 Back to the Top
 
@@ -133,7 +133,7 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 Back to the Top
 
-CORRECTING/UPDATING PERSONAL INFORMATION 
+CORRECTING/UPDATING PERSONAL INFORMATION
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using the opt out message in an email, or by emailing us at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). If you create a profile account within [baltimoreravensstore.com](http://baltimoreravensstore.com/) you may access your personally identifiable information within your account page to make changes or delete your profile.
 
@@ -147,19 +147,19 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an email to [CAPrivacyRights@ravens.nfl.net](mailto:CAPrivacyRights@ravens.nfl.net) or write to us at CA Privacy Rights, c/o Baltimore Ravens, 1 Winning Drive, Owings Mills, MD 21117. 
+If you are a California resident and have questions about our compliance with this law, please send an email to [CAPrivacyRights@ravens.nfl.net](mailto:CAPrivacyRights@ravens.nfl.net) or write to us at CA Privacy Rights, c/o Baltimore Ravens, 1 Winning Drive, Owings Mills, MD 21117.
 
 Back to the Top
 
 QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact the Ravens at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). 
+If you have any questions about this privacy policy or the privacy practices of this Website, contact the Ravens at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net).
 
-Questions regarding this statement should be directed to:   
+Questions regarding this statement should be directed to:  
 Baltimore Ravens  
 Attn: Website Privacy Policy  
-1 Winning Drive   
-Owings Mills, MD 21117 
+1 Winning Drive  
+Owings Mills, MD 21117
 
 Back to the Top
 
