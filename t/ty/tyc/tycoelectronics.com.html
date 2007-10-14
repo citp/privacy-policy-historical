@@ -1,13 +1,18 @@
-<!--The following is the downloaded HTML source of the tycoelectronics.com privacy policy that was archived on 2007-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070611210902id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tycoelectronics.com privacy policy that was archived on 2007-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071014024222id_/http%3A//www.tycoelectronics.com/aboutus/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	  
-	  <meta name="keywords" content=" ">
-	  <meta name="description" content=" ">
-      <meta name="robots" content="index,follow">
-<title>Privacy Policy - Tyco Electronics</title>
-	<meta name="author" content="Tyco Electronics, UKSalesSystems">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><script>document.cookie = "language_id=1; path=/; domain=.tycoelectronics.com";</script>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="robots" content="index,follow">
+<title>Privacy Policy - Tyco Electronics - Products</title>
+
+<meta name="author" content="Tyco Electronics, UKSalesSystems">
 <meta name="copyright" content="Tyco Electronics Corporation Copyright 1995-2003,http://www.tycoelectronics.com/copyright.stm">
 <meta http-equiv="pragma" content="no-cache">
 <meta name="distribution" content="Global">
@@ -48,14 +53,22 @@
 
 <![endif]-->
 
+<script type="text/javascript">
+	if (window.top != window.self) {
+		window.top.location = window.self.location;
+	}
+</script>
+
 <!--  Dojo Configuration Settings
       Must be before include of dojo.js
 
       Settings here will affect all pages
 -->
 <script type="text/javascript">
-        djConfig = {
-                preventBackButtonFix: false
+        djConfig = {		 
+		parseWidgets: false,  // widgets are not parsed - this parsing can take significant time on large pages like GPI 
+		searchIds: [], // this is an empty list of widgets to parse directly - list is addeded to by individual pages as they add widgets
+                preventBackButtonFix: false // allows the back button to work in AJAX in some circumstances
         };
  </script>
 
@@ -64,6 +77,7 @@
 	dojo.require("dojo.event.*");       // sophisticated AOP event handling
 	dojo.require("dojo.io.*");          // for Ajax requests
 	dojo.require("dojo.i18n.common");   // internationalization
+	dojo.require("dojo.lfx.toggle");
 	dojo.registerModulePath("te", "../te_CustomDojo");
 </script>
 <script type="text/javascript" src="/_TEincludes/TEscripts/x_dojo_adapter.js"></script>
@@ -72,185 +86,225 @@
 <script type="text/javascript" src="/_TEincludes/TEsearch/inquiraSearch.js"></script><div id="TE_searchTipsDiv" style="display:none;">	<h3 style="padding:2px;"><input type="button" onclick="TE_ShowTips()" class="TE_darkSmallButton" value="X" style="float:right;margin:0;padding:0;font-size:0.6em;">Search Tips</h3>	<iframe id="TE_searchTipsDivIframe" src="/_TEincludes/TEsearch/tipsBlank.html" "=""></iframe>	<input type="button" onclick="TE_ShowTips()" class="TE_darkButton" value="Close">	</div>	<div id="TE_searchErrorDiv" style="display:none;">		<p>Tyco Electronics Part Numbers are limited to 40 characters. If you wish to <b>search by Part Number</b>, please click the 		Part Search button below.  Be sure to enter just the part number (or a portion of the part number if the full part number is unknown.)</p>		<p>If you intended to <b>search by text or product attributes</b>, please		click the Text Search button below to switch to Text search.		</p><p>		</p><div>			<input type="BUTTON" value="Part Search" name="partSearchButton" class="TE_darkSmallButton" onclick="inquiraTruncatePartNumber(inquiraMaxPartSearchLength);">   <input type="BUTTON" value="Text Search" name="textSearchButton" class="TE_darkSmallButton" onclick="TE_SetSearchType(&quot;inquiraTypeText&quot;);xGetElementById(&quot;TE_searchErrorDiv&quot;).style.display = &quot;none&quot;;">			<input type="button" onclick="xGetElementById('TE_searchErrorDiv').style.display = 'none'" class="TE_darkSmallButton" value="Close">		</div>	</div>	<div id="TE_blankSearchErrorDiv" style="display:none;">		<p>Please enter your search text first.</p><div>			<input type="button" id="TE_blankSearchErrorDivButton" onclick="xGetElementById(&quot;TE_blankSearchErrorDiv&quot;).style.display = &quot;none&quot;;xGetElementById(&quot;question_box&quot;).focus();" class="TE_darkSmallButton" value="Close"></div>	</div>
 <script type="text/javascript" src="/_TEincludes/TEscripts/TE_env.js"></script>
 <script type="text/javascript" src="/_TEincludes/TEscripts/TE_locale.js"></script>
+<script type="text/javascript" src="/_TEincludes/TEscripts/TE_languageNotice.js"></script>
 <script type="text/javascript" src="/_TEincludes/TEscripts/TE_greeting.js"></script>
+<script type="text/javascript" src="/_TEincludes/TEscripts/TE_nav.js"></script>
+<script type="text/javascript" src="/_TEincludes/TEscripts/TE_cookie.js"></script>
 
-  	
-  
- <a href="#content" id="TE_SkipToContent">Skip to content</a>
-	<div id="TE_outerDiv">
+<script type="text/javascript"> 
+	dojo.require("te.NavigationMenu");
+	
+	dojo.addOnLoad(function() {
+
+		new te.NavigationMenu("Products", "ProductsExpand");
+
+
+	});
+	
+</script>
+
+<script type="text/javascript">
+	
+		dojo.addOnLoad(function() {
+			
+dojo.html.setStyle("WhoWeAreExpand","display","block");
+dojo.html.setClass("WhoWeAre","TE_corp_nav_current");
+	
+	});
+</script>
+
+
+
+<a href="#content" id="TE_SkipToContent">Skip to content</a>
+<div id="TE_outerDiv">
+
+<!-- CORP HEADER NAVIGATION //-->
+<div id="TE_corpnav_header"></div>
+
+<!-- LANGUAGE SELECTOR START //-->
+<div id="TE_langSelector">
+		
+	<div id="TE_langSelector_langContent" style="display:none;">
+		<div id="TE_langSelector_langContentHeader">
+		<a href="javascript:void;"><img src="/_TEincludes/TEimages/LangSelector/close.gif" alt="[Dojo Generated]" title="[Dojo Generated]" id="TE_langSelector_closeImg"></a>
+		</div>
+			
+		<div id="TE_langSelector_langCountryHeader">
+			<div id="TE_langSelector_languageHeading"></div>
+				<ul class="TE_langSelector_listSelections">
+					<li id="langId1">English</li>
+					<li id="langId2">Français</li>
+					<li id="langId3">Deutsch</li>
+					<li id="langId4">Italiano</li>
+					<li id="langId5">Español</li>
+					<li id="langId6">日本語</li>
+					<li id="langId8">국어</li>
+					<li id="langId9">中文 (简体)</li>
+					<li id="langId10">Português (do Brasil)</li>
+					<li id="langId14">Русский</li>
+					<li id="langId15">Magyar</li>
+					<li id="langId16">Česky</li>				
+					<li id="langId17">Polski</li>
+				</ul>
+			
+			<div id="TE_langSelector_countrySiteHeading"></div>
+				<ul class="TE_langSelector_listSelections">
+					<li><a href="http://www.tycoelectronics.com/japan/">Japan</a></li>
+				</ul>
+		</div>
+	</div>
+		
+	<div id="TE_langSelector_bottom" style="display:none;">
+		<div id="TE_langSelector_langHeader"></div>
+			
+		<span id="TE_langSelector_expandLink"><a href="javascript:void"><img src="/_TEincludes/TEimages/LangSelector/down_arrow.gif" alt="[Dojo Generated]" title="[Dojo Generated]" id="TE_langSelector_expandImg"></a></span>
+		<span id="TE_langSelector_collapseLink" style="display:none;"><a href="javascript:void"><img src="/_TEincludes/TEimages/LangSelector/up_arrow.gif" alt="[Dojo Generated]" title="[Dojo Generated]" id="TE_langSelector_collapseImg"></a></span>
+	</div>
+		
+</div>
+
+<!-- LANGUAGE SELECTOR END //-->
 
 <!-- TE HEADER ELEMENTS //-->
 <div id="TE_header_parent">
 	
 	<div id="TE_header_logo">
-	<a href="http://www.tycoelectronics.com/default.asp"><img src="/_TEincludes/TEimages/TE_transparent.gif" alt="Tyco Electronics Home" title="Tyco Electronics Home"></a>
+	<a href="/default.asp"><img src="/_TEincludes/TEimages/TE_logo.gif" alt="Tyco Electronics Home" title="Tyco Electronics Home"></a>
 	</div>
 	
-	<!--<div id="TE_header_tag"></div>//-->
+	<div id="TE_header_tag"><img src="/_TEincludes/TEimages/TE_tagline.gif" alt="Tyco Electronics - Our commitment. Your advantage." title="Tyco Electronics - Our commitment. Your advantage."></div>
 	
 	<div id="TE_header_search">
 	
-	<form onsubmit="return search_inquira_submitQuestion();" target="_top" action="http://search.tycoelectronics.com/electronics/" method="get" id="inquiraSearchForm" class="TE_Inquira_search">
-		
+		<form onsubmit="return search_inquira_submitQuestion();" action="http://search.tycoelectronics.com/electronics/" method="get" id="inquiraSearchForm" class="TE_Inquira_search">	
 		<input type="hidden" id="ui_mode" name="ui_mode" value="question">
 		<input type="hidden" id="charset" name="charset" value="UTF-8">
 		<input type="hidden" id="language" name="language" value="en-US">
 		<input type="hidden" id="questionsource" name="questionsource" value="electronics">
 		<input type="hidden" id="search_type" name="search_type" value="Part">
-				
 		<input type="text" name="question_box" id="question_box" maxlength="135" onfocus="showTE_Inquira_searchselector('TE_Inquira_searchselector');" value="">
-		
-		
 		<input type="submit" value="  Search  " id="TE_searchButton">
 		
-		<div id="TE_Inquira_searchselector">
-		Search By:
+		<div id="TE_Inquira_searchselector" class="TE_Inquira_searchselector">
+		<span id="TE_Inquira_searchBy"></span>
 		<select id="search_selector">
-		<option id="inquiraTypePart" selected="selected">Part Number</option>
-		<option id="inquiraTypeText">Text</option>
+		<option id="inquiraTypePart" selected="selected"></option>
+		<option id="inquiraTypeText"></option>
 		</select>
+		
 		<a href="javascript:closeTE_Inquira_searchselector('TE_Inquira_searchselector');">
-		<img src="/_TEincludes/TEimages/icons/orange/close.gif" id="TE_close_searchselector" alt="Close Search Selector" title="Close Search Selector">
+		<img src="/_TEincludes/TEimages/icons/orange/close.gif" alt="[Dojo Generated]" title="[Dojo Generated]" id="TE_close_searchselector">
 		</a>
 		</div>
 		</form>
 
 	</div>
+</div>
 	
 	<div id="TE_signIn"></div>
-	<script type="text/javascript">TE_displayGreeting();</script>
-</div>
+	<script type="text/javascript">
+		TE_initLanguageSelection();
+		TE_displaySearchText();
+		TE_displayGreeting();
+		var searchForm = dojo.byId("inquiraSearchForm");
+		searchForm.action = TE_getSearchServerUrl() + "/electronics/"
+	</script>
+	
+<!-- END TE HEADER ELEMENTS //-->
 
-<!-- END TE HEADER ELEMENTS //--><!-- Use Cache XMLDOM --><div id="TE_corpMenu"><div id="imcontainer10" align="left" style="width: 620px; height: 19px;"><div id="imcontainer20"><div style="display: block; width: 620px;" id="imouter0"><ul id="imenus0" style="width: 620px;"><li style="width:80px;" id="ulitem0z0"><a href="http://www.tycoelectronics.com/components/products/" id="ulaitem0z0"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Products</a><div align="left" style="z-index: 1;"><div style="width:170px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z0"><li id="ulitem0z0z0"><a href="http://www.tycoelectronics.com/components/default.asp?TE_showdiv=Product" id="ulaitem0z0z0"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:0px;left:0px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/_TEincludes/images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/_TEincludes/images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>By Type</a><div align="left" style="z-index: 2;"><div style="width:210px;top:-19px;left:158px;" class="imsubc"><ul style="" id="x1ub0z0z0"><li id="ulitem0z0z0z0"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=17560&amp;BML=10576,16358&amp;LG=1&amp;I=13" id="ulaitem0z0z0z0">Connectors</a></li><li id="ulitem0z0z0z1"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=16354&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z1">Electromechanical Components</a></li><li id="ulitem0z0z0z2"><a href="http://em.tycoelectronics.com" id="ulaitem0z0z0z2">Electronic Modules</a></li><li id="ulitem0z0z0z3"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=22645&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z3">Fiber Optics</a></li><li id="ulitem0z0z0z4"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=16356&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z4">Filters</a></li><li id="ulitem0z0z0z5"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=12933&amp;BML=10576,16358&amp;LG=1&amp;I=13" id="ulaitem0z0z0z5">Identification Labeling Products</a></li><li id="ulitem0z0z0z6"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=16366&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z6">Passive Components</a></li><li id="ulitem0z0z0z7"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=16370&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z7">Power Sources</a></li><li id="ulitem0z0z0z8"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=12713&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z8">RF &amp; Microwave Products</a></li><li id="ulitem0z0z0z9"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=12673&amp;BML=10576&amp;LG=1&amp;I=13" id="ulaitem0z0z0z9">Tooling Products</a></li><li id="ulitem0z0z0z10"><a href="http://www.elotouch.com/products" id="ulaitem0z0z0z10">Touch Screen Displays</a></li><li id="ulitem0z0z0z11"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=12473&amp;BML=10576,16358&amp;LG=1&amp;I=13" id="ulaitem0z0z0z11">Tubing, Molded and Harnessing Products</a></li><li id="ulitem0z0z0z12"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=MENU&amp;ID=11462&amp;BML=10576,16358&amp;LG=1&amp;I=13" id="ulaitem0z0z0z12">Wire, Cable and Cable Assemblies</a></li><li id="ulitem0z0z0z13"><a href="http://www.tycoelectronics.com/components/default.asp?TE_showdiv=product&amp;TE_showAll=true" id="ulaitem0z0z0z13">List all Product Types</a></li></ul></div></div></li><li id="ulitem0z0z1"><a href="http://www.tycoelectronics.com/components/default.asp?TE_showdiv=Industry" id="ulaitem0z0z1"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:0px;left:0px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/_TEincludes/images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/_TEincludes/images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>By Industry</a><div align="left" style="z-index: 2;"><div style="width:200px;top:-18px;left:158px;" class="imsubc"><ul style="" id="x1ub0z0z1"><li id="ulitem0z0z1z0"><a href="http://www.tycoelectronics.com/industry/aerospace/" id="ulaitem0z0z1z0">Aerospace &amp; Defense</a></li><li id="ulitem0z0z1z1"><a href="http://www.tycoelectronics.com/industry/appliance/" id="ulaitem0z0z1z1">Appliance</a></li><li id="ulitem0z0z1z2"><a href="http://www.tycoelectronics.com/industry/automotive/" id="ulaitem0z0z1z2">Automotive</a></li><li id="ulitem0z0z1z3"><a href="http://www.tycoelectronics.com/industry/communications" id="ulaitem0z0z1z3">Communications</a></li><li id="ulitem0z0z1z4"><a href="http://www.tycoelectronics.com/industry/computer/" id="ulaitem0z0z1z4">Computer &amp; Consumer Electronics</a></li><li id="ulitem0z0z1z5"><a href="http://www.tycoelectronics.com/industry/industrial/" id="ulaitem0z0z1z5">Industrial &amp; Commercial</a></li><li id="ulitem0z0z1z6"><a href="http://www.tycoelectronics.com/industry/instrumentation/" id="ulaitem0z0z1z6">Instrumentation &amp; Medical Equipment</a></li></ul></div></div></li><li id="ulitem0z0z2"><a href="http://www.tycoelectronics.com/components/default.asp?TE_showdiv=Brand" id="ulaitem0z0z2">By Brand</a></li><li id="ulitem0z0z3"><a href="http://www.tycoelectronics.com/components/default.asp?TE_showdiv=AtoZ" id="ulaitem0z0z3">A to Z</a></li></ul></div></div></li><li style="width:122px;" id="ulitem0z1"><a href="http://www.tycoelectronics.com/documentation/" id="ulaitem0z1"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Documentation</a><div align="left" style="z-index: 1;"><div style="width:185px;top:;left:;" class="imsubc"><ul style="" id="x1ub0z1"><li id="ulitem0z1z0"><a href="http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController" id="ulaitem0z1z0">Find Documents &amp; Drawings</a></li><li id="ulitem0z1z1"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=CADSRCH&amp;LG=1&amp;I=13" id="ulaitem0z1z1">Find CAD Models</a></li><li id="ulitem0z1z2"><a href="http://www.tycoelectronics.com/documentation/spiceelectricalmodels" id="ulaitem0z1z2">SPICE/Electrical Models</a></li><li id="ulitem0z1z3"><a href="http://ecommas.tycoelectronics.com/commerce/nafta/PreNaftaHome.do" id="ulaitem0z1z3">NAFTA Certificate of Origin</a></li><li id="ulitem0z1z4"><a href="http://www.tycoelectronics.com/documentation/whitepapers/" id="ulaitem0z1z4">White Papers</a></li></ul></div></div></li><li style="width:92px;" id="ulitem0z2"><a href="http://www.tycoelectronics.com/resources/" id="ulaitem0z2"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Resources</a><div align="left" style="z-index: 1;"><div style="width:195px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z2"><li id="ulitem0z2z0"><a href="http://ecommas.tycoelectronics.com/commerce/alt/RohsAltHome.do" id="ulaitem0z2z0">RoHS Compliance &amp; Alternates</a></li><li id="ulitem0z2z1"><a href="http://ecommas.tycoelectronics.com/commerce/pcr/" id="ulaitem0z2z1">Cross Reference Products</a></li><li id="ulitem0z2z2"><a href="http://catalog.tycoelectronics.com/TE/bin/TE.Menu?M=Multi&amp;I=13" id="ulaitem0z2z2">Compare Multiple Products</a></li><li id="ulitem0z2z3"><a href="http://ecommas.tycoelectronics.com/commerce/sck/cdi.do  " id="ulaitem0z2z3">Check Distributor Inventory</a></li><li id="ulitem0z2z4"><a href="https://ecommerce.tycoelectronics.com/wheretobuylookup/wtbuy_main_dist_inv.asp" id="ulaitem0z2z4">Find Authorized Distributors</a></li></ul></div></div></li><li style="width:100px;" id="ulitem0z3"><a href="https://ecommerce.tycoelectronics.com/myaccount/" id="ulaitem0z3"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>My Account</a><div align="left" style="z-index: 1;"><div style="width:175px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z3"><li id="ulitem0z3z0"><a href="https://ecommerce.tycoelectronics.com/commerce/secure/commerce.asp?ID=16" id="ulaitem0z3z0">Commerce</a></li><li id="ulitem0z3z1"><a href="https://ecommerce.tycoelectronics.com/commerce/secure/commerce.asp?ID=19" id="ulaitem0z3z1">Reset Your Password</a></li><li id="ulitem0z3z2"><a href="http://www.brainshark.com/tycoelectronics/eCommerceSignIn" target="_blank" id="ulaitem0z3z2">Commerce Sign In Demo</a></li><li id="ulitem0z3z3"><a href="https://ecommerce.tycoelectronics.com/commerce/secure/commerce.asp?ID=16" id="ulaitem0z3z3">Sign In  |  Why Register?</a></li></ul></div></div></li><li style="width:144px;" id="ulitem0z4"><a href="http://www.tycoelectronics.com/customersupport/" id="ulaitem0z4"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Customer Support</a><div align="left" style="z-index: 1;"><div style="width:150px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z4"><li id="ulitem0z4z0"><a href="http://www.tycoelectronics.com/customersupport/support.asp" id="ulaitem0z4z0">Support</a></li><li id="ulitem0z4z1"><a href="http://www.tycoelectronics.com/customersupport/rohssupportcenter" id="ulaitem0z4z1">RoHS Support Center</a></li><li id="ulitem0z4z2"><a href="http://www.tycoelectronics.com/customersupport/glossary.asp" id="ulaitem0z4z2">Glossary of Terms</a></li><li id="ulitem0z4z3"><a href="http://www.tycoelectronics.com/customersupport/newsletter.asp" id="ulaitem0z4z3">eBulletin Newsletter</a></li></ul></div></div></li><li style="width:82px;" id="ulitem0z5"><a href="http://www.tycoelectronics.com/aboutus/" id="ulaitem0z5"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:hand;cursor:pointer;text-align:right;"><div style="position:relative;width:100%;height:0px; text-align:right;top:5px;left:-1px;"><div style="visibility:hidden;position:absolute;text-align:right;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/_TEincludes/images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>About Us</a><div align="left" style="z-index: 1;"><div style="width:155px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z5"><li id="ulitem0z5z0"><a href="http://www.tycoelectronics.com/aboutus/news" id="ulaitem0z5z0">Product News</a></li><li id="ulitem0z5z1"><a href="http://www.tycoelectronics.com/aboutus/careers.asp" id="ulaitem0z5z1">Careers</a></li><li id="ulitem0z5z2"><a href="http://www.tycoelectronics.com/aboutus/quality/" id="ulaitem0z5z2">Quality</a></li><li id="ulitem0z5z3"><a href="http://www.tycoelectronics.com/aboutus/environmentalinitiatives/" id="ulaitem0z5z3">Environmental Initiatives</a></li><li id="ulitem0z5z4"><a href="http://www.tycoelectronics.com/aboutus/companyinformation.asp" id="ulaitem0z5z4">Company Information</a></li></ul></div></div></li></ul><div style="clear:left;"></div></div></div></div><script language="JavaScript" src="/_TEincludes/TEmenu/TEmenu.js" type="text/javascript"></script><style id="ssimenus0" type="text/css">#ulitem0z0 {float:left;}#ulitem0z1 {float:left;}#ulitem0z2 {float:left;}#ulitem0z3 {float:left;}#ulitem0z4 {float:left;}#ulitem0z5 {float:left;}#imcontainer10 {z-index:999999;position:relative;block}#imcontainer20 {position:absolute;}#imenus0,#imenus0 ul{margin:0;list-style:none;}#imouter0 {text-align:left;background-color:#0087CA; border-style:solid; border-width:0px; padding:0px; }BODY #imouter0 {}#imenus0 {padding:0px;}#imenus0 ul {padding:0px;background-color:#cce3f8; border-style:solid; border-color:#008ace; border-width:1px; padding:5px; margin:0px; position:relative;top:0px;left:0px;}BODY #imenus0 ul {}#imenus0 li div {position:absolute;}#imenus0 li .imsubc {position:absolute;visibility:hidden;}#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc,#imenus0 li.ishow li li li li li  .imsubc,#imenus0 li.ishow li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc,#imenus0 li li li li li.ishow .imsubc,#imenus0 li li li li li li.ishow .imsubc,#imenus0 li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li li.ishow .imsubc{visibility:visible;}#imenus0,#imenus0 li {font-size:1px}#imenus0,#imenus0 ul{text-decoration:none;}#imenus0 ul li a.ihover {background-color:#ffffff; }#imenus0 li a.ihover {background-color:#cce3f8; color:#111111; }#imenus0 li a.iactive {undefined}#imenus0 ul li a.iactive{text-decoration:underline; }#imenus0 li a.iactive div img{visibility:visible;}#imenus0 a{display:block;position:relative;font-size:12px;background-color:#0087CA;color:#e6e6e6; text-align:center; font-family:Arial; font-size:12px; font-weight:bold; text-decoration:none; border-style:none; border-color:#cccccc; border-width:0px 1px; padding:2px 3px 3px 2px; }BODY #imenus0 a{}#imenus0 ul a{display:block; font-size:12px;background-color:#cce3f8;color:#111111; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-width:1px; padding:2px 5px; }BODY #imenus0 ul a{}#imenus0 li{cursor:hand;cursor:pointer;}</style><noscript>Infinite Menus, Copyright 2005, OpenCube Inc. All Rights Reserved.<a href="http://www.opencube.com">OpenCube - The Internets #1 CSS Menu, Drop Down Menu, Flyout Menu, and Pop Up menu Developer</a></noscript></div><div id="TE_BreadCrumb"><a href="/components/">Home</a>&nbsp;&gt; <span>Privacy Policy</span></div>
-		  <div id="TE_mainBody"><a name="content"></a>
-		  <!-- Start of your body //-->
-			  <h1 class="TE_pageTitle">Privacy Policy</h1>
+<!-- SUPERGRAPHIC ELEMENT //-->
+<div id="TE_supergr"></div>
+<!-- END SUPERGRAPHIC ELEMENT //-->
 
-Tyco Electronics is committed to protecting any personal information that you may provide to us. Further, Tyco Electronics recognizes the importance of informing you how we treat information about you that we may receive from this Site.
-<p>
-<strong>Information Collected</strong><br>
-In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web servers may collect the domain names, but not the e-mail addresses, of visitors. In addition, there are portions of this Site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. You may refuse any request for personal information. This Site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
-</p><p>
-<strong>Use of Collected Information</strong><br>
-Domain name information that we collect is not used to personally identify you. It is used to measure viewer statistics, such as the number of viewers that visit the Site, pages viewed, etc. We use this information to measure the use of our Site and to improve the content of our Site.
-</p><p>When other information is collected from you, such as your name and e-mail address, Tyco Electronics will make reasonable efforts to let you know at the time of collection how this information will be used. Usually, the personal information you provide will only be used to respond to an inquiry you make or to process your request. This information may be shared with support partners, but only if necessary to fulfill your request or for related purposes. 
-Tyco Electronics does not share, sell, or lease personal information about you to any third-parties for their marketing use. Tyco Electronics will release information about you if you direct it to do so, if Tyco Electronics is required by law to do so, or in other legally limited circumstances.
-</p><p>
-<strong>Links to Other Sites</strong><br>
-The Tyco Electronics website may contain links to other sites such as authorized distributors and sales affiliates. While Tyco Electronics makes reasonable efforts to try to link only to sites that share our high standards and respect for privacy, Tyco Electronics is not responsible for the content, security, or privacy practices employed by other sites.
-</p><p>
-<strong>Security of Collected Information</strong><br>
-Tyco Electronics maintains strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. Tyco Electronics restricts access to information about you to those Tyco Electronics workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
-</p><p>
-<strong>Access to Collected Information</strong><br>
-You may review and update the information that you provide to Tyco Electronics through this Site by contacting us as described below.
-</p><p>
-<strong>Contacting Us</strong><br>
-If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics <a href="http://tycoelectronics.custhelp.com/cgi-bin/tycoelectronics.cfg/php/enduser/ask.php">welcomes your questions and suggestions</a> about this privacy policy.
-</p><p>
-<strong>Changes to this Policy</strong><br>
-Please check this privacy policy periodically to inform yourself of any changes. Although Tyco Electronics reserves the right to modify or supplement this privacy policy, Tyco Electronics will provide notice to you on this Site of any major changes for at least 30 days following the change.
-			  <!-- End of your body //-->
-		  </p></div>
-		   
-			<!-- FOOTER BEGINS -->
-		<script language="JavaScript" type="text/javascript" src="/_TEincludes/TEscripts/TE_languageNotice.js"></script> 
-		<div id="TE_changeLanguageDiv" style="display: none"> 
-		    <div style="padding: 2px">
-			<span id="TE_language_info" class="TE_important">Some Content will not be displayed in the chosen language</span>
+<!-- MAIN CONTENT ELEMENTS //-->
+<div id="TE_corp_mainBody"><a name="content"></a>
+
+	<!-- BEGIN LEFT SIDE BAR & NAVIGATION //-->
+	<div id="TE_corp_leftBar">
+		<!-- BEGIN CORPORATE NAVIGATION //-->
+		<div id="TE_corp_nav">
+			<div id="WhoWeAre" class="TE_corp_nav_current"><a href="/aboutus/default.asp">Who We Are</a>
+						<div id="WhoWeAreExpand" style="display: block;">
+						<ul class="TE_corp_nav_list">
+						<li><a href="/aboutus/management.asp">Management Team</a></li>
+						<li><a href="/aboutus/boardofdirectors.asp">Board of Directors</a></li>		
+						<li><a href="/aboutus/history.asp">Our History</a></li>	
+						<li><a href="/aboutus/quality/default.asp">Quality</a>		
+						</li><li><a href="/aboutus/environmentalinitiatives/default.asp">Environment/Health/Safety</a></li>																		
+						<li><a href="/aboutus/community/default.asp">Corporate Citizenship</a></li>
+						<li><a href="/aboutus/ombudsman.asp">Ombudsman Office</a></li>
+						<li><a href="/aboutus/contact.asp">Contact Us</a></li>						
+						</ul>
+						</div>
 			</div>
-			<div style="padding: 2px">
-			<form id="TE_changeLanguageFormId" action="" method="post">
-			<input type="hidden" name="languageurl" value="language.asp?id=1"> 
-            <input type="submit" id="TE_blankChangeLanguageDivButton" value="Continue">
-			</form>
+			<div id="Products" class="TE_corp_nav_item_expand"><a href="/products/default.asp">Products</a>
+						<div id="ProductsExpand" style="display:none;">
+						<ul class="TE_corp_nav_list">
+						<li><a href="/aboutus/news/">Product News</a></li>
+						</ul>
+						</div>
+			</div>
+			<div id="Investors" class="TE_corp_nav_item_noexpand"><a href="http://investors.tycoelectronics.com">Investors</a></div>
+			<div id="NewsRoom" class="TE_corp_nav_item_noexpand"><a href="http://newsroom.tycoelectronics.com">News Room</a>
+						<!--
+						<div id="NewsRoomExpand" style="display:none;">
+						<ul class="TE_corp_nav_list">
+						<li><a href="/aboutus/media.asp">Media Contacts</a></li>
+						</ul></div> 
+						-->
+			</div>
+			<div id="Suppliers" class="TE_corp_nav_item_noexpand"><a href="javascript:window.location = TE_getSupplierServerUrl();void 0;">Suppliers</a></div>
+
+			<div id="Careers" class="TE_corp_nav_item_noexpand"><a href="/aboutus/careers.asp">Careers</a>
+						<div id="CareersExpand" style="display:none;"></div>
+
 			</div>
 		</div>
-		<div id="TE_footer">
-		<p><strong>Languages</strong>:
-English  | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=3" onclick="return TE_showLanguageDisclaimer(3);
-		">
-			Deutsch
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=5" onclick="return TE_showLanguageDisclaimer(5);
-		">
-			Español
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=10" onclick="return TE_showLanguageDisclaimer(10);
-		">
-			Português (do Brasil)
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=14" onclick="return TE_showLanguageDisclaimer(14);
-		">
-			Русский
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=4" onclick="return TE_showLanguageDisclaimer(4);
-		">
-			Italiano
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=7" onclick="return TE_showLanguageDisclaimer(7);
-		">
-			正體中文 (繁體)
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=9" onclick="return TE_showLanguageDisclaimer(9);
-		">
-			中文 (简体)
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/language.asp?ID=6" onclick="return TE_showLanguageDisclaimer(6);
-		">
-			日本語
-		</a>
-			<br><strong>Country Sites</strong>:  <a href="http://www.tycoelectronics.cn/" target="_blank">China</a>  |  <a href="http://www.tycoelectronics.com/japan" target="_blank">Japan</a>  
-</p><p></p><div id="TE_Feedback_footer">
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/survey&#10;&#9;&#9;">
-			Provide Website Feedback
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/customersupport/support.asp&#10;&#9;&#9;">
-			Contact Customer Support
-		</a>
-			</div>
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/components/&#10;&#9;&#9;">
-			Home
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/customersupport/&#10;&#9;&#9;">
-			Customer Support
-		</a>
-			 | 
-		<a href="https://ecommerce.tycoelectronics.com&#10;&#9;&#9;&#9;/supplier/default.pl" target="_blank
-		">
-			Supplier
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/components/sitemap.asp&#10;&#9;&#9;">
-			Site Map
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/aboutus/privacy.asp&#10;&#9;&#9;">
-			Privacy Policy
-		</a>
-			 | 
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/browsersupport.asp&#10;&#9;&#9;">
-			Browser Support
-		</a>
-			<br> ©
-		<a href="http://www.tycoelectronics.com&#10;&#9;&#9;&#9;/aboutus/copyright.asp&#10;&#9;&#9;">
-				2007 Tyco Electronics Corporation All Rights Reserved
-			</a>
-				<br></div></div><!-- id="TE_outerDiv" //-->
-<!-- FOOTER ENDS-->
-<script type="text/javascript" language="javascript" src="/_TEincludes/TEscripts/s_code_remote.js"></script><img name="s_i_tycoeglobal" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/tycoeglobal,tycoemain/1/G.9p2/s56672533718995?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A24%3A41%204%200&amp;cdp=2&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20070611210902id_/http%253A//www.tycoelectronics.com/aboutus/privacy.asp&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+		<!-- END CORPORATE NAVIGATION //-->
+	</div>
+	<!-- END LEFT SIDE BAR & NAVIGATION //-->
+
+	<!-- CONTENT AREA //-->
+	<div id="TE_corp_contentFull">
+	
+	<div id="TE_corp_breadcrumbs"><a href="/default.asp">Home</a> &gt; Privacy Policy</div>
+
+	<h1 id="TE_corp_pagetitle">Privacy Policy</h1>
+
+Tyco Electronics is committed to protecting any personal information that you may provide to us. Further, Tyco Electronics recognizes the importance of informing you how we treat information about you that we may receive from this Site.<p>
+<strong>Information Collected</strong><br>In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our web servers may collect the domain names, but not the e-mail addresses, of visitors.In addition, there are portions of this Site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. You may refuse any request for personal information. This Site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
+</p><p>
+<strong>Use of Collected Information</strong><br>Domain name information that we collect is not used to personally identify you. It is used to measure viewer statistics, such as the number of viewers that visit the Site, pages viewed, etc. We use this information to measure the use of our Site and to improve the content of our Site.
+</p><p>When other information is collected from you, such as your name and e-mail address, Tyco Electronics will make reasonable efforts to let you know at the time of collection how this information will be used. Usually, the personal information you provide will only be used to respond to an inquiry you make or to process your request. This information may be shared with support partners, but only if necessary to fulfill your request or for related purposes. Tyco Electronics does not share, sell, or lease personal information about you to any third-parties for their marketing use. Tyco Electronics will release information about you if you direct it to do so, if Tyco Electronics is required by law to do so, or in other legally limited circumstances.
+</p><p>
+<strong>Links to Other Sites</strong><br>
+The Tyco Electronics website may contain links to other sites such as authorized distributors and sales affiliates. While Tyco Electronics makes reasonable efforts to try to link only to sites that share our high standards and respect for privacy, Tyco Electronics is not responsible for the content, security, or privacy practices employed by other sites.</p><p>
+<strong>Security of Collected Information</strong><br>
+Tyco Electronics maintains strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. Tyco Electronics restricts access to information about you to those Tyco Electronics workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.</p><p>
+<strong>Access to Collected Information</strong><br>You may review and update the information that you provide to Tyco Electronics through this Site by contacting us as described below.</p><p>
+<strong>Contacting Us</strong><br>
+If you have any questions about this privacy policy, please use the Contact Us page. Tyco Electronics <a href="http://tycoelectronics.custhelp.com/cgi-bin/tycoelectronics.cfg/php/enduser/ask.php">welcomes your questions and suggestions</a> about this privacy policy.</p><p>
+<strong>Changes to this Policy</strong><br>
+Please check this privacy policy periodically to inform yourself of any changes. Although Tyco Electronics reserves the right to modify or supplement this privacy policy, Tyco Electronics will provide notice to you on this Site of any major changes for at least 30 days following the change.
+<!-- END MAIN CONTENT ELEMENTS //-->
+	
+</p></div>
+</div>
+
+<!-- FOOTER //-->
+<div id="TE_corp_footer">
+<div id="TE_Feedback_footer">
+<a href="/survey">Provide Website Feedback</a> | <a href="/customersupport/support.asp">Contact Customer Support</a>
+</div>
+<a href="/default.asp">Home</a>&nbsp; | &nbsp;<a href="/aboutus/default.asp">Who We Are</a>&nbsp;  |  &nbsp;<a href="/products/default.asp">Products</a>&nbsp; | &nbsp;<a href="http://investors.tycoelectronics.com">Investors</a>&nbsp; | &nbsp;<a href="http://newsroom.tycoelectronics.com">News Room</a>&nbsp; | &nbsp;<a href="javascript:window.location = TE_getSupplierServerUrl();void 0;">Suppliers</a>&nbsp; | &nbsp;<a href="/aboutus/careers.asp">Careers</a>&nbsp; | &nbsp;<a href="/sitemap.asp">Site Map</a> 	
 
 
-		
-  
-</body></html>
+<br>© <a href="/aboutus/copyright.asp">2007 Tyco Electronics All Rights Reserved</a>&nbsp; | &nbsp;<a href="/aboutus/privacy.asp">Privacy Policy</a></div>
+<script type="text/javascript" language="javascript" src="/_TEincludes/TEscripts/s_code_remote.js"></script><img name="s_i_tycoeglobal" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/tycoeglobal,tycoemain/1/G.9p2/s55943433077547?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A24%3A49%204%200&amp;cdp=2&amp;pageName=Privacy%20Policy%20-%20Tyco%20Electronics%20-%20Products&amp;g=https%3A//web.archive.org/web/20071014024222id_/http%253A//www.tycoelectronics.com/aboutus/privacy.asp&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+
+
+<!-- END FOOTER //-->
+
+
+
+</div></body></html>
