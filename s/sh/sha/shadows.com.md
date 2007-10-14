@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadows.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617154055id_/http%3A//shadows.com/content/privacypolicy.rails) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadows.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014032046id_/http%3A//www.shadows.com/content/privacypolicy.rails) for the most accurate reproduction.*
 
 # Privacy Policy - Shadows
 
