@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607152619id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015234743id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
 
 # ACBL - ACBL Privacy Policy
 
-## Last updated: November 2004
+## Last updated: June 2007
 
 The American Contract Bridge League (“ACBL”) is committed to respecting both your online and non-online privacy. Please read the following policy to understand how your personal information provided by you and collected by us will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
 
@@ -21,9 +21,9 @@ The American Contract Bridge League (“ACBL”) is committed to respecting both
 
 ## 1\. What personally identifiable information is collected from me? 
 
-We ask you when you join the ACBL to provide us with your name, e-mail address, date of birth, and standard contact information, including addresses and phone numbers (as well as credit card information if you are paying for membership or making a purchase online from the ACBL Shop). We then assign you a player number. Other information in your member profile is your member status as a bridge teacher, club director, unit official, and the like. The ACBL also records your participation in ACBL activities in your member profile.
+We ask you when you join the ACBL to provide us with your name, e-mail address, date of birth, and standard contact information, including addresses and phone numbers (as well as credit card information if you are paying for membership). We then assign you a player number. Other information in your member profile is your member status as a bridge teacher, club director, unit official, and the like. The ACBL also records your participation in ACBL activities in your member profile.
 
-On some ACBL web pages, whether you are an ACBL member or not, you may make requests and/or receive materials, as well as make online purchases from the ACBL Shop. The types of personal information collected at these pages are your name, e-mail address and standard contact information, including addresses and phone numbers. Wherever the ACBL collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+On some ACBL web pages, whether you are an ACBL member or not, you may make requests and/or receive materials. The types of personal information collected at these pages are your name, e-mail address and standard contact information, including addresses and phone numbers. Wherever the ACBL collects personal information, we make an effort to include a link to this Privacy Policy on that page.
 
 back to top
 
@@ -39,9 +39,9 @@ back to top
 
 If you are an ACBL member, information you provide to the ACBL and information the ACBL gathers about you for your member profile is used by the ACBL for membership services. In addition, such information is routinely used and distributed by the ACBL to ACBL affiliates, club, unit and district officials, tournament directors and organizers, and teacher and club membership recruiters for membership retention, masterpoint races and tournaments.
 
-For both members and non-members, we want to help you quickly find information and alert you to specific offers, updated information, and other new products and services from the ACBL. Accordingly, we may send you e-mails about our various products and services or other products and services we feel may be of interest to you. 
+For both members and non-members, we want to help you quickly find information and alert you to specific offers, updated information, and other new services from the ACBL. Accordingly, we may send you e-mails about our various products and services or other services we feel may be of interest to you. 
 
-Credit card information that you provide to us when paying dues or for other membership services online, as well as for online purchases at Shop ACBL, is only used by the ACBL for the express purposes for which such credit card information was requested by us and provided by you.
+Credit card information that you provide to us when paying dues or for other membership services online is only used by the ACBL for the express purposes for which such credit card information was requested by us and provided by you.
 
 Notwithstanding, the ACBL reserves the right to do research on our users’ demographics, interests and behavior based on the information provided to us during use of the ACBL Web site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. The ACBL may share this aggregated data with others.
 
@@ -57,7 +57,7 @@ back to top
 
 ## 5\. With whom does the ACBL share my information?
 
-We may share the personal data you provide with other ACBL agents, contractors or our business partners for the purposes of performing services for the ACBL. Credit card information provided by you to pay for membership fees and services or to pay for products and services purchased by you at Shop ACBL is shared with Verisign, which processes credit card payments on our behalf. As was noted above, we also routinely distribute information about members (but not credit card information) to ACBL affiliates, club, unit and district officials, tournament directors and organizers, and teacher and club membership recruiters for membership retention, masterpoint races and tournaments.
+We may share the personal data you provide with other ACBL agents, contractors or our business partners for the purposes of performing services for the ACBL. Credit card information provided by you to pay for membership fees and services is shared with Verisign, which processes credit card payments on our behalf. As was noted above, we also routinely distribute information about members (but not credit card information) to ACBL affiliates, club, unit and district officials, tournament directors and organizers, and teacher and club membership recruiters for membership retention, masterpoint races and tournaments.
 
 The ACBL may distribute your name and address to charitable and other organizations and companies that are selected by the ACBL to provide member or ACBL-endorsed services. While these organizations and companies are contractually obligated by the ACBL to use member information only as authorized and directed by the ACBL, the ACBL can not and does not guarantee that your information may not be used by them for some other purpose.
 
@@ -67,7 +67,7 @@ back to top
 
 ## 6\. How do I access, update or delete my information?
 
-Members may change their addresses and other contact information when they access My ACBL and/or click onto "Change My Information" on the "Resources for Members" web page. They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 901-332-5588, ext. 1295 or e-mail at [customerservice@acbl.org](mailto:customerservice@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
+Members may change their addresses and other contact information when they access My ACBL and/or click onto "Change My Information" on the "Resources for Members" web page. They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 901-332-5586, ext. 1295 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
 
 back to top
 
@@ -77,7 +77,7 @@ To “opt-out” means that you have notified the ACBL that we no longer have pe
 
   * If you are not an ACBL member, each time you download a sample program you will receive an e-mail notice from the ACBL which includes a link to unsubscribe from receiving any further electronic communications from the ACBL.  
 
-  * If you are an ACBL member but do not belong to the ACBL online community (My ACBL), each time you receive an e-mail communication from the ACBL for a product, service, tournament, or the like the e-mail will contain a link to unsubscribe from that type of e-mail communication or all e-mail communications.  
+  * If you are an ACBL member but do not belong to the ACBL online community (My ACBL), each time you receive an e-mail communication from the ACBL for a service, tournament, or the like the e-mail will contain a link to unsubscribe from that type of e-mail communication or all e-mail communications.  
 
   * If you are an ACBL member and also a member of the ACBL online community (My ACBL), you may select your e-mail communication preferences when you click onto the option that reads “Manage My ePrivacy.”
 
@@ -93,7 +93,7 @@ Members may also “opt out” of having their information shared by the ACBL in
 
 
 
-To select one or both “opt outs,” e-mail [customerservice@acbl.org](mailto:customerservice@acbl.org) or contact the ACBL Customer Service Department at 901-332-5588, ext. 1295. Please allow up to four weeks for your selection to be fully implemented.
+To select one or both “opt outs,” e-mail [service@acbl.org](mailto:service@acbl.org) or contact the ACBL Customer Service Department at 901-332-5586, ext. 1295. Please allow up to four weeks for your selection to be fully implemented.
 
 back to top
 
@@ -111,6 +111,6 @@ back to top
 
 ## 10\. Other legal notices.
 
-Any dispute over privacy is subject to this privacy policy and our Conditions of Use, including limitations on damages and submission to arbitration in Memphis TN. If you have any concern about your privacy in connection with this policy, please send us a thorough description to [customerservice@acbl.org](mailto:customerservice@acbl.org) and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our web site frequently to see recent changes. 
+Any dispute over privacy is subject to this privacy policy and our Conditions of Use, including limitations on damages and submission to arbitration in Memphis TN. If you have any concern about your privacy in connection with this policy, please send us a thorough description to [service@acbl.org](mailto:service@acbl.org) and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our web site frequently to see recent changes. 
 
 back to top
