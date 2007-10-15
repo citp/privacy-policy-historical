@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628135737id_/http%3A//www.wesabe.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015070344id_/http%3A//www.wesabe.com/page/privacy) for the most accurate reproduction.*
 
-# Wesabe
+# Wesabe: Privacy Policy
 
 This notice provides the Wesabe privacy policy, which describes the privacy practices that apply to Wesabe's web service worldwide ("the service"). Additionally you can check our [data bill of rights](https://web.archive.org/page/security) — our commitment to our users' privacy.
 
