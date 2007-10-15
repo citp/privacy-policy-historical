@@ -1,0 +1,384 @@
+<!--The following is the downloaded HTML source of the wholesalesurvivalkits.com privacy policy that was archived on 2007-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015044316id_/http%3A//www.wholesalesurvivalkits.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="http://www.wholesalesurvivalkits.com/indexcart/common/hkc_style.css" type="text/css">
+<script language="javascript" src="http://www.wholesalesurvivalkits.com/indexcart/includes/validation.js"></script>
+<script language="javascript">//Title cartfunctions.js
+//Author : Harish Chauhan
+//Date   : 24 Aug,2004
+//This file contains the functions for cart
+//at client side with the help of java script.
+
+//  this function checks the email format is correct or not
+//  and return true or false accordingly.
+
+function compareProd()
+{
+	thispage=location.href;
+	mypage=thispage.split(/\?/);
+	thispage=mypage[0];
+	
+	prodids="";
+	coma="";
+	for(j=0;j<document.forms.length;j++)
+	{
+		theForm=document.forms[j];
+		for(i=0;i<theForm.elements.length;i++)
+		{
+			if(theForm.elements[i].name=='chkCompProd')
+			{
+				if(theForm.elements[i].checked)
+				{
+					prodids = prodids + coma + theForm.elements[i].value;
+					coma=",";
+				}
+			}
+		}
+	}
+	
+	if(prodids!="")
+		location.href=thispage+"?mode=comp&prodids="+prodids+"&cat=";
+	return false;
+}
+
+function UPSOrderTrack(TrackingNo)
+{
+	track=TrackingNo.split(/,/);
+	var trackstr='';
+	for(i=1;i<=track.length && i<=5;i++)
+		trackstr+="InquiryNumber"+i+"="+track[i-1]+"&";
+	var strURL = "http://wwwapps.ups.com/WebTracking/OnlineTool?" + trackstr + "UPS_HTML_License=8BD2C53DF22E8830&TypeOfInquiryNumber=T&IATA=us&Lang=eng";
+	wndUPSOrderTrack = window.open(strURL, "UPSOrderTrack", "menubar,scrollbars,resizeable,height=625,width=750");
+	wndUPSOrderTrack.focus();
+}
+
+function showPic(file)
+{
+	var win=window.open('http://www.wholesalesurvivalkits.com/indexcart//includes/show_photos.php?file='+file,'photo','toolbar:0,status=0,scrollbars=1')	;	
+}
+
+function showBigPic(file)
+{
+	var win=window.open('http://www.wholesalesurvivalkits.com/indexcart//cart/show_photos.php?file='+file,'photo','toolbar:0,status=0,scrollbars=1')	;	
+}
+
+function resizeWinToPic(margin)
+{
+   var NS = (navigator.appName=="Netscape")?true:false; 
+   iWidth = (NS)?window.innerWidth:document.body.clientWidth; 
+   iHeight = (NS)?window.innerHeight:document.body.clientHeight; 
+   iWidth = document.images[0].width - iWidth; 
+   iHeight = document.images[0].height - iHeight; 
+  
+   window.resizeBy(iWidth+margin, iHeight+margin); 
+   
+   self.focus(); 
+}
+
+if(!document.getElementById)
+{
+  if(document.all)
+  {
+	document.getElementById=function()
+	{
+		if(typeof document.all[arguments[0]]!="undefined")
+		    return document.all[arguments[0]];
+	    else
+			return null;
+	}
+  }
+  else if(document.layers)
+  {
+	 document.getElementById=function()
+	 {
+		if(typeof document[arguments[0]]!="undefined")
+		    return document[arguments[0]];
+	    else
+			return null;
+	}
+  }
+}
+
+
+function checkall(obj,objName,myform)
+{
+	for(i=0;i<document.forms[myform].elements.length;i++)
+	{
+		if(document.forms[myform].elements[i].name==objName)
+			if(obj.checked)		
+				document.forms[myform].elements[i].checked=true;
+			else
+				document.forms[myform].elements[i].checked=false;
+	}
+}
+
+function checkall2(obj,objName,myform)
+{
+	for(i=0;i<document.forms[myform].elements.length;i++)
+	{
+		if(document.forms[myform].elements[i].name.indexOf(objName)>=0)
+			if(obj.checked)		
+				document.forms[myform].elements[i].checked=true;
+			else
+				document.forms[myform].elements[i].checked=false;
+	}
+}
+
+function openRem(data)
+{
+	var win=window.open('','mywin','toolbar=0,status=0,height=300,width=450,scrollbars=yes');
+	win.document.write("<p align='justify' style='font-family:verdana;font-size:11px;'>"+data+"</p><p align='center'><a href='javascript:window.close()'>Close</a>");
+	win.moveTo(win.screen.width/2-200,win.screen.height/2-200);
+}
+
+function randomString(string_length,type)
+{
+	var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+	
+	if(type=="NUMBER")
+		chars = "0123456789";
+	else if(type=="STRING")
+		chars = "ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+	else if(type=="UPPER_STRING")
+		chars = "ABCDEFGHIJKLMNOPQRSTUVWXTZ";
+	else if(type=="LOWER_STRING")
+		chars = "abcdefghijklmnopqrstuvwxtz";
+
+	if(string_length == null || string_length=='undefined')
+		string_length = 8;
+	var randomstring = '';
+	for (var i=0; i<string_length; i++) {
+		var rnum = Math.floor(Math.random() * chars.length);
+		randomstring += chars.substring(rnum,rnum+1);
+	}
+	return randomstring;
+}
+
+function fillRandom(obj,prefix,string_length,type)
+{
+	obj.value=prefix+randomString(string_length,type);
+}
+
+function printIt(prndata)
+{
+	var mywin;
+	mywin=window.open('','prnwin','toolbar=0,status=0,width=650,height=550,scrollbars=yes,resizable=yes');
+	mywin.document.write("<html><head></head><body>");
+	mywin.document.write(prndata);
+	mywin.document.write("</body><script>window.print();<\/script></html>");
+	mywin.location.reload();
+}
+function rowover(obj)
+{
+	obj.className = "rowover" ;
+}
+
+function rowout(obj,cls)
+{
+	obj.className = cls ;
+}</script>
+<script>var imgdir="http://www.wholesalesurvivalkits.com/indexcart/common/images/";</script>
+<script language="javascript" src="http://www.wholesalesurvivalkits.com/indexcart/includes/popcalendar.js"></script>
+
+
+
+
+<title>Emergency Survival Gear-Emergency Survival Kits,Preparedness Kit</title>
+
+<meta name="description" content="Emergency Survival Gear For Emergency Preparedness.72 Hour Emergency Survival Kits From Wholesale Survival Kits-Manufacturer Of Emergency Survival Kits.>
+
+<meta name=" keywords"="">
+
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="js/over.js" type="text/javascript"></script>
+<script src="flash_activation/FLRelease1.js" type="text/javascript" language="javascript">
+</script>
+<script src="flash_activation/FLRelease2.js" type="text/javascript" language="javascript">
+</script>
+<script src="js/sample_settings.js" type="text/javascript"></script>
+<script src="js/dqm_loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="js/browser_ns.js"></script>
+<script src="includes/popup.js" type="text/javascript"></script>
+</head>
+<body onload="MM_preloadImages('images/bt_wholesale_over.gif','images/bt_wholesale_product_over.gif','images/bt_quick_ordering_over.gif','images/guardian_button_home_h.gif','images/guardian_button_contactus_h.gif','images/guardian_button_sitemap_h.gif','images/bt_become_over.gif','images/bt_request_over.gif','images/bt_whyprice_over.gif','images/bt_forretail_over.gif');">
+<table width="779" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><img src="images/patch.gif" width="5" height="10"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="259" align="left" valign="top"><a href="index.php"><img src="images/logo_1.gif" alt="Guardian Survivalgear" width="259" height="68" border="0"></a></td>
+        <td width="38" align="left" valign="top"><img src="images/top_1.gif" alt="" width="38" height="68"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td height="68" align="right" valign="bottom" style="background-image:url(images/bg.gif); p"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="left" valign="top">
+				<form action="products.php" method="post" name="frmsearch" style="margin-bottom:auto">
+				
+<input type="hidden" name="mode" value="search"> 
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="47%" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td width="20%" align="left" valign="top"><strong class="link4">Search :
+                            <label></label>
+                          </strong></td>
+                          <td width="56%" align="left" valign="top"><strong class="link4">
+						   <input name="searchkey" type="text" class="textbox" onclick="document.frmsearch.searchkey.focus();" style="width:120px">
+                          </strong></td>
+                          <td width="24%" align="left" valign="middle"><strong class="link4">
+						  <input type="image" class="btnSubmit" src="images/go.gif" alt="Go" width="20" height="16" border="0"></strong></td>
+                        </tr>
+                      </tbody></table></td>
+                      <td width="53%" align="left" valign="middle"><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/guardian_button_home_h.gif',1)"><img src="images/guardian_button_home.gif" alt="home" name="Image9" width="44" height="21" border="0" id="Image9"></a><img src="images/guardian_header_nav_img.gif" alt="" width="21" height="21" border="0"><a href="contactus.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/guardian_button_contactus_h.gif',1)"><img src="images/guardian_button_contactus.gif" alt="Contact Us" name="Image11" width="79" height="21" border="0" id="Image11"></a><img src="images/guardian_header_nav_img.gif" alt="" width="21" height="21" border="0"><a href="sitemap.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/guardian_button_sitemap_h.gif',1)"><img src="images/guardian_button_sitemap.gif" alt="Site Map" name="Image13" width="79" height="21" border="0" id="Image13"></a></td>
+                    </tr>
+                  </tbody></table>
+                                </form>                </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><a href="wholesale_survival_kit.php?mode=prod&amp;cat=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/bt_wholesale_over.gif',1)"><img src="images/bt_wholesale.gif" name="Image5" width="184" height="21" border="0" id="Image5"></a><a href="products.php?mode=prod&amp;cat=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/bt_wholesale_product_over.gif',1)"><img src="images/bt_wholesale_product.gif" name="Image6" width="193" height="21" border="0" id="Image6"></a><a href="quick_order.php?mode=prod" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/bt_quick_ordering_over.gif',1)"><img src="images/bt_quick_ordering.gif" name="Image7" width="102" height="21" border="0" id="Image7"></a></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><img src="images/patch.gif" width="5" height="3"></td>
+              </tr>
+            </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/patch.gif" width="5" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="background-color:#C4C4C4"><a href="users.php?mode=userinfo" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/bt_become_over.gif',1)"><img src="images/bt_become.gif" name="Image19" width="213" height="21" border="0" id="Image19"></a><img src="images/guardian_header_dots.gif" alt="" width="1" height="21"><a href="request_a_quote.php?mode=order" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/bt_request_over.gif',1)"><img src="images/bt_request.gif" name="Image21" width="125" height="21" border="0" id="Image21"></a><img src="images/guardian_header_dots.gif" alt="" width="1" height="21"><a href="low_price.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images/bt_whyprice_over.gif',1)"><img src="images/bt_whyprice.gif" name="Image23" width="190" height="21" border="0" id="Image23"></a><a href="retail_sale.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','images/bt_forretail_over.gif',1)"><img src="images/bt_forretail.gif" name="Image24" width="129" height="21" border="0" id="Image24"></a></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/patch.gif" alt="" width="5" height="1"></td>
+  </tr>
+  <tr>
+    <td height="141" align="left" valign="top"><script>
+//<!--
+AC_RunFlContentX ("src","header_new.swf","quality","high","width","779","height","141","wmode","transparent");
+//-->
+</script><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="779" height="141">
+<param name="movie" value="header_new.swf">
+<param name="wmode" value="opaque">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed src="header_new.swf" quality="high" width="779" height="141" wmode="transparent" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash">
+</object>
+</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img src="images/patch.gif" alt="" width="5" height="3"></td>
+  </tr>
+</tbody></table><table width="779" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="15" colspan="2"></td>
+  </tr>
+  <tr>
+     <td class="padding_left">
+
+
+<p align="center" style="text-align: center;"><strong><span style="font-size: 16pt;">Privacy
+Policy</span></strong><span style="font-size: 16pt;"><o:p></o:p></span></p>
+
+<p><br>
+Your privacy is a top concern. We make sure to keep all of your information secure
+and safe from any outside attacks. Our system is checked regularly to ensure no
+identity theft occurs. We safeguard all information entered herein. Guardian
+Survival Gear, Inc. does not sell or give out your information to any
+advertising company, organization, or other group. <o:p></o:p></p>
+
+<p>Information Collected<br>
+<br>
+The information we automatically collect or store is used to improve the
+content of our web services and to help us understand how people are using our
+services. This information does not identify you personally and is used for
+gathering web site statistics. The information we automatically collect and
+store in our logs about your visit helps us to analyze our web site to
+continually improve the value of the materials available. Our web site logs do
+not identify a visitor by personal information,<o:p></o:p></p>
+
+<p>The following information is recorded:<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">1.<span style="font-size-adjust: none; font-stretch: normal;"> </span>The type of browser you used<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">2.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Keywords used in search<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">3.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Screen size used<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">4.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Top Products viewed and sold<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">5.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Visited by what country<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">6.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Used Language<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">7.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Source of visit<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">8.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Most visited categories<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;">9.<span style="font-size-adjust: none; font-stretch: normal;"> </span>Page hit counter<o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;"><font face="times new roman,times,serif"></font><o:p></o:p></p>
+
+<p style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-size: 10pt;"></span><o:p></o:p></p>
+
+ 
+
+	</td>
+      </tr>
+      <tr>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="top"></td>
+      </tr>
+      <tr>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+    </tbody></table>
+  
+
+<table width="779" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="10" align="left" valign="top"><img src="images/b_1.gif" alt="" width="10" height="28"></td>
+        <td align="center" valign="middle" style="background-image:url(images/b_1_2.gif)" class="bottam_nav_new"><a href="privacy_policy.php">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    <a href="refund_return_policy.php">Refund/Return Policy</a>  &nbsp;&nbsp;&nbsp;  |   &nbsp;&nbsp;&nbsp; <a href="terms.php">Terms and Conditions</a>  &nbsp;&nbsp;&nbsp;  |  &nbsp;&nbsp;&nbsp;  <a href="links.php">Links</a>   &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;   <a href="download.php">Downloads</a>  &nbsp;&nbsp;&nbsp;  |&nbsp;&nbsp;&nbsp;    <a href="faq.php">FAQ</a>&nbsp;&nbsp;&nbsp;    | &nbsp;&nbsp;&nbsp;   <a href="aboutus.php">About Us</a> &nbsp;&nbsp;&nbsp;   |   &nbsp;&nbsp; <a href="disclaimer.php">Disclaimer</a> &nbsp;&nbsp;  |  &nbsp;&nbsp; <a href="submit_site.php">Link Exchange</a> </td>
+        <td width="10" align="left" valign="top"><img src="images/b_2.gif" alt="" width="10" height="28"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="20" align="center" valign="middle">Copyright © 2006 <strong>Guardian Survival</strong> Gear, Inc</td>
+  </tr>
+</tbody></table>
+<!-- Start of StatCounter Code -->
+
+<script type="text/javascript" language="javascript">
+
+var sc_project=2329892; 
+
+var sc_invisible=1; 
+
+var sc_partition=21; 
+
+var sc_security="d362ed27"; 
+
+</script>
+
+ 
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c22.statcounter .com/counter.php?sc_project=2329892&java=0&security=d362ed27&invisible=1 " alt="free hit counter code" border="0"></a> </noscript>
+
+<!-- End of StatCounter Code -->
+
+
+
+</body></html>
