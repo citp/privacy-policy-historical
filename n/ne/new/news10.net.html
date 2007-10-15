@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news10.net privacy policy that was archived on 2007-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070206223813id_/http%3A//www.news10.net/company/terms_of_service/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news10.net privacy policy that was archived on 2007-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015080331id_/http%3A//www.news10.net/company/terms_of_service/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -33,7 +33,7 @@ function OAS_NORMAL(pos) {
       if (OAS_version >= 11)
         document.write('<SCR' +'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://gcirm.gannett-tv.com/RealMedia/ads/adstream_mjx.ads/communities.news10.net/1410521065@160x600_1,728x90_1,300x250_1?"></script><script language="JavaScript">
+</script><script language="JavaScript1.1" src="http://gcirm.gannett-tv.com/RealMedia/ads/adstream_mjx.ads/communities.news10.net/1045854251@160x600_1,728x90_1,300x250_1?"></script><script language="JavaScript">
 <!--
 document.write('');
 function OAS_AD(pos) {
@@ -67,24 +67,294 @@ OAS_NORMAL(pos);
     <td height="30" background="/images/site/search_bar_bg.jpg">
       <div align="left">
        <!-- Start Navbar include -->
-        <table width="920" height="30" border="0" cellspacing="0" cellpadding="0">
-         <form name="form1" method="post" action="/search.aspx"></form>
-		  <tbody><tr>
-            <td width="12"><span class="gtv_toolstable">&nbsp;&nbsp;&nbsp;</span></td>
-            
-			<td width="107"><span class="gtv_toolstable">News Search&nbsp;</span></td>
-			<td width="330"><input name="postterm" id="postterm" type="text" size="55" maxlength="150" align="absmiddle" height="23"></td>
-            <td width="33"><input name="image" value="Submit" type="image" src="/images/site/go_alt.gif" alt="Start search" border="0"></td>
-            <td width="10">&nbsp;</td>
-            <td width="420" valign="middle"><script language="JavaScript">
+       <!------ Searchbar Functions Begin ------>
+<script type="text/javascript">
+  function testForClass() {
+    if(document.getElementById('news10SearchButton').value == 'Search Classifieds') {
+      document.searchform.searchkeyword.value = document.searchform.keywords.value;
+    }
+    if(document.getElementById('news10SearchButton').value == 'Search Red Pages') {
+       document.searchform.keywords.value = document.searchform.advkeywords.value;
+    }
+	if(document.getElementById('news10SearchButton').value == 'Search Dining') {
+       document.searchform.keywords.value = document.searchform.advkeywords2.value;
+	   document.searchform.address.value = document.searchform.address2.value;
+	   document.searchform.catId.value = "16000000";
+    }
+	if(document.getElementById('news10SearchButton').value == 'Search Events') {
+      // document.searchform.address.value = "";
+    }
+  }
+   
+  function showHide(myItem) {
+    var myItem = document.getElementById(myItem);
+    var advsearch = document.getElementById('advsearch');
+    var simplesearch = document.getElementById('simplesearch');
+	var dinsearch = document.getElementById('dinsearch');
+	switch (myItem)
+	{
+	case (advsearch):
+		advsearch.style.display = "block";
+        simplesearch.style.display = "none";
+		dinsearch.style.display = "none";
+		break;
+	case (simplesearch):
+		advsearch.style.display = "none";
+        simplesearch.style.display = "block";
+		dinsearch.style.display = "none";
+		break;
+	case (dinsearch):
+		advsearch.style.display = "none";
+        simplesearch.style.display = "none";
+		dinsearch.style.display = "block";
+		break;
+    }
+  }
+
+  function changeAff(aff,hi,catId) {
+        var result;
+        result = parseInt(hi);
+        document.searchform.aff.value = aff;
+        document.searchform.catId.value = catId;
+        for (var i=0; i<=7; i++) {
+        document.getElementById('searchLink'+i).style.fontWeight = 'bold';
+        document.getElementById('searchLink'+i).style.color = "#FFFFFF";
+        }
+        document.getElementById('searchLink'+hi).style.fontWeight = 'bold';
+        document.getElementById('searchLink'+hi).style.color = "#ffe506";
+       
+        switch (result) {
+            case 0:
+            document.getElementById('news10SearchButton').value = 'Search All';
+        showHide('simplesearch');
+            break;
+            case 1:
+            document.getElementById('news10SearchButton').value = 'Search News';
+        showHide('simplesearch');
+                break;
+
+            case 2:
+                document.getElementById('news10SearchButton').value = 'Search Video';
+        showHide('simplesearch');
+                break;
+
+            case 3:
+                document.getElementById('news10SearchButton').value = 'Search Events';
+        showHide('simplesearch');
+                break;
+
+            case 4:
+                document.getElementById('news10SearchButton').value = 'Search Red Pages';
+        showHide('advsearch');
+                break;
+            case 5:
+                document.getElementById('news10SearchButton').value = 'Search Classifieds';
+        showHide('simplesearch');
+                break;
+            case 6:
+                document.getElementById('news10SearchButton').value = 'Search Things to Do';
+        showHide('simplesearch');
+                break;
+            case 7:
+                document.getElementById('news10SearchButton').value = 'Search Movies';
+        showHide('simplesearch');
+                break;
+            case 8:
+                document.getElementById('news10SearchButton').value = 'Search Dining';
+        showHide('dinsearch');
+                break;
+
+        }
+    }
+   
+    function setKeywords() {
+    document.searchform.keywords.value = getURLParam('keywords');
+	document.searchform.advkeywords.value=getURLParam('advkeywords');
+	var lastcat = getURLParam('aff');	
+	if (lastcat != "") {
+		var lasthi="";
+		switch (lastcat) {
+            case '100':
+	            lasthi='0';
+	            break;
+            case '101':
+			    lasthi='1';
+	            break;
+            case '122':
+			    lasthi='2';
+	            break;
+			case '103':
+			    lasthi='3';
+	            break;
+			case '109':
+			    lasthi='4';
+	            break;
+			case '102':
+			    lasthi='5';
+	            break;
+			case '126':
+			    lasthi='6';
+	            break;
+			case '105':
+			    lasthi='7';
+	            break;
+			case '109':
+			    lasthi='8';
+	            break;
+			}
+		changeAff(lastcat,lasthi,'');
+		}
+	//document.searchform.advkeywords2.value=getURLParam('advkeywords2');
+	//document.searchform.address.value=getURLParam('address');
+	//document.searchform.address2.value=getURLParam('address2');
+    }
+   
+    function getURLParam(strParamName){
+        var strReturn = "";
+        var strHref = window.location.href;
+
+        if ( strHref.indexOf("?") > -1 ){
+            var strQueryString =
+strHref.substr(strHref.indexOf("?")).toLowerCase();
+            var aQueryString = strQueryString.split("&");
+
+            for ( var iParam = 0; iParam < aQueryString.length; iParam++ ){
+
+                if (aQueryString[iParam].indexOf(strParamName + "=") > -1 ){
+                    var aParam = aQueryString[iParam].split("=");
+                    strReturn = aParam[1];
+                    break;
+                }
+            }
+        }
+    	strReturn = strReturn.replace(/\+/g,' ');
+		strReturn = strReturn.replace(/\%22/g,'"');
+		strReturn = strReturn.replace(/\%27/g,"'");
+	
+        return strReturn;
+    }
+</script>
+<!------ Searchbar Functions End ------>
+
+
+ <table width="920" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <!-- search bg here -->
+	<td background="http://www.news10.net/images/search/redwireconnect-search.jpg">
+	<table width="920" border="0" cellspacing="0" cellpadding="0" height="60">
+	  
+	  <tbody><tr>
+    <td width="146">&nbsp;</td>
+	<td width="511" valign="middle"> <form name="searchform" action="http://search.news10.net/sp" method="get" id="searchform" onsubmit="testForClass()">
+              <div align="left">
+
+<a id="searchLink0" onclick="changeAff('100','0','')" href="javascript:void(0);" class="planetd">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.news10.net/images/search/search_ALL.jpg" width="26" height="13" border="0" name="s_all"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink1" onclick="changeAff('101','1','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_NEWS.jpg" name="s_news" width="26" height="13" border="0" id="s_news"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink2" onclick="changeAff('122','2','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_VIDEO.jpg" width="33" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink3" onclick="changeAff('103','3','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_EVENTS.jpg" width="39" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink4" onclick="changeAff('109','4','');document.searchform.advkeywords.value=document.searchform.keywords.value;" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_REDPAGES.jpg" width="55" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink5" onclick="changeAff('102','5','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_CLASSIFIEDS.jpg" width="66" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink6" onclick="changeAff('126','6','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_THINGSTODO.jpg" width="70" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+<a id="searchLink7" onclick="changeAff('105','7','')" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_MOVIES.jpg" width="38" height="13" border="0"></a>
+<img src="http://www.news10.net/images/search/search_SEPARATOR.jpg" width="2" height="14">
+
+
+<a id="searchLink8" onclick="changeAff('109','8',''); document.searchform.advkeywords2.value=document.searchform.keywords.value;" href="javascript:void(0);" class="planetd">
+<img src="http://www.news10.net/images/search/search_DINING.jpg" width="37" height="13" border="0"></a></div>
+              <input type="hidden" id="aff" name="aff" value="100">
+              <input type="hidden" id="searchkeyword" name="searchkeyword" value="">
+              <input type="hidden" id="searchcategory" name="searchcategory" value="*">
+              <input type="hidden" name="catId" value="">
+              
+              
+              
+              <!-- THIS LINE GOOD FOR ALL BUT RED PAGES SEARCH -->
+              <div id="simplesearch">
+                  <table width="493" height="26" border="0" align="left" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td width="66" valign="middle">&nbsp;</td>
+                      <td width="257" align="left">
+					  <input type="text" id="keywords" name="keywords" style="width: 242px; height: 21px; margin-left: 6px; margin-top: 5px; margin-bottom:0px; background-color: #ffffff;" maxlength="250"></td>
+                      <td width="170" align="middle"><input name="submit" type="submit" class="news10SearchButton" id="news10SearchButton" value="Search All" style="color:WHITE; cursor:hand;"></td>
+                    </tr>
+                </tbody></table>
+              </div>
+    
+	  <!-- THIS LINE FOR RED PAGES ONLY -->
+              <div id="advsearch" style="display:none" class="planetd">
+             
+			 
+			  <table width="493" height="26" border="0" align="left" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td width="68" valign="middle">&nbsp;</td>
+<td width="130" align="left"> <input type="text" id="advkeywords" name="advkeywords" style="width: 122px; height: 21px; margin-left: 8px; margin-top: 6px;margin-right: 0px; margin-bottom:0px; background-color: #ffffff;" maxlength="250" onclick="this.select();"></td>
+<td width="126" align="right" valign="middle"><div align="left"><img src="http://www.news10.net/images/search/ziptext.gif" border="0">
+    <input type="text" id="address" name="address" style="width: 60px; margin-top: 6px; margin-bottom:0px; height: 21px; background-color: #ffffff; margin-right: 0px; margin-left: 0px;" maxlength="40" onclick="this.select();">  
+</div>
+  </td>
+<td width="13" align="right">
+</td><td width="160"> <input type="submit" id="news10SearchButton" class="news10SearchButton" value="Search Red Pages" style="color:white;"></td>
+                    </tr>
+                </tbody></table>
+              </div>		
+			  
+			    <!-- THIS LINE FOR DINING ONLY -->
+              <div id="dinsearch" style="display:none" class="planetd">
+               <table width="493" height="26" border="0" align="left" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td width="68" valign="middle">&nbsp;</td>
+<td width="130" align="left"> <input type="text" id="advkeywords2" name="advkeywords2" style="width: 122px; height: 21px; margin-left: 8px; margin-top: 6px;margin-right: 0px; margin-bottom:0px; background-color: #ffffff;" maxlength="250" onclick="this.select();"></td>
+<td width="126" valign="middle"><div align="left"><img src="http://www.news10.net/images/search/ziptext.gif" border="0">
+    <input type="text" id="address2" name="address2" style="width: 60px; margin-top: 6px; margin-bottom:0px; height: 21px; background-color: #ffffff; margin-right: 0px; margin-left: 0px;" maxlength="40" onclick="this.select();">  
+</div>
+  </td>
+<td width="13" align="right">
+</td><td width="160"> <input type="submit" id="news10SearchButton" class="news10SearchButton" value="Search Dining" style="color:white;"></td>
+                    </tr>
+                </tbody></table>
+              </div>	
+			  	  
+			<!-- END OF SPECIAL CODE FOR CATEGORIES -->
+				  
+  </form>   </td>
+    <td width="263" valign="middle"><table width="100%" height="56" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td class="planetd_title"><div align="right">
+		<script language="JavaScript">
 	<!--
 	OAS_AD('x07');
 	//-->
-	            </script></td>
-            <td width="8" align="right"></td>
-		  </tr>
-		  
-        </tbody></table>
+	                </script></div>
+					</td>
+      </tr>
+      
+    </tbody></table></td>
+	  </tr>
+</tbody></table></td>
+  </tr>
+</tbody></table>
 
        <!-- End Navbar include -->
       </div></td>
@@ -103,10 +373,17 @@ OAS_NORMAL(pos);
        <tbody><tr>
          <td height="25" background="/images/site/home_button_bg.jpg" bgcolor="#FFFF33"><span>&nbsp;<a href="/" class="menuHeader1">HOME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></span></td>
        </tr>
-           <tr><td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#C30000">&nbsp;<span class="menuHeader">NEWS</span> </td>
+           <tr><td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#C30000">&nbsp;<span class="menuHeader">NEWS&nbsp;&nbsp;</span> <a href="/tech/rss/default.aspx"><img src="/tech/images/xmlbox2.gif" width="35" height="13" border="0"></a></td>
     </tr><tr>
       <td background="/images/menu/bg.gif"><a href="/news/default.aspx" class="nav">News Headlines</a></td>
-    </tr><tr><td><img src="/images/menu/divider.gif" width="130" height="5"></td></tr><tr>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/live/" class="nav">Live Online </a></td>
+    </tr>
+    <tr><td><img src="/images/menu/divider.gif" width="130" height="5"></td></tr><tr>
       <td background="/images/menu/bg.gif"><a href="/weather/default.aspx" class="nav">Weather</a></td>
     </tr><tr><td><img src="/images/menu/divider.gif" width="130" height="5"></td></tr>
     <tr>
@@ -117,6 +394,12 @@ OAS_NORMAL(pos);
     </tr>
     <tr>
       <td background="/images/menu/bg.gif"><a href="/sports/default.aspx" class="nav">Sports</a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/fnf/default.aspx" class="nav">Friday Night Football </a></td>
     </tr>
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
@@ -144,6 +427,12 @@ OAS_NORMAL(pos);
       <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="menuHeader">&nbsp;VIDEO</td>
     </tr>
     <tr>
+      <td background="/images/menu/bg.gif"><a href="/video/upload.aspx" class="nav">Upload Video </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
       <td background="/images/menu/bg.gif"><a href="/video/default.aspx" class="nav">News Video</a></td>
     </tr>
     <tr>
@@ -153,10 +442,31 @@ OAS_NORMAL(pos);
       <td background="/images/menu/bg.gif"><a href="/video/featured-video.aspx" class="nav">Featured Video</a></td>
     </tr>
     <tr>
+      <td><img src="/images/menu/divider.gif" alt="TV Spots" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/life/promo/promos-default.aspx" class="nav">News10 TV Spots </a></td>
+    </tr>
+    <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
-      <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="menuHeader">&nbsp;HOT TOPICS </td>
+      <td background="/images/menu/bg.gif"><a href="/news/specials/emmys/default.aspx" class="nav">2007 Emmys  </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="menuHeader">SPECIAL REPORTS </td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/life/content/living-green/default.aspx" class="nav">Living Green</a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/news/specials/climate-change/home-default.aspx" class="nav">Climate Change</a></td>
     </tr>
     
     
@@ -164,36 +474,27 @@ OAS_NORMAL(pos);
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
-      <td background="/images/menu/bg.gif"><a href="/news/specials/climate-change/home-default.aspx" class="nav">Climate Change </a></td>
+      <td background="/images/menu/bg.gif"><a href="/news/specials/race-and-education/default.aspx" class="nav">Race and Education </a></td>
     </tr>
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
-      <td background="/images/menu/bg.gif"><a href="/news/specials/oscar/default.aspx" class="nav">Academy Awards  </a></td>
-    </tr>
-    <tr>
-      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
-    </tr>
-    <tr>
-      <td background="/images/menu/bg.gif"><a href="/news/specials/marijuana/default.aspx" class="nav">Pot Houses </a></td>
+      <td background="/images/menu/bg.gif"><a href="/news/specials/news10_reports/default.aspx" class="nav">See All Reports</a></td>
     </tr>
     <tr><td><img src="/images/menu/divider.gif" width="130" height="5"></td></tr>
-    <tr>
-      <td bgcolor="#CC0000"><a href="/news/specials/flood-2006-07/flood-index-default.aspx" class="nav">Flood Readiness </a></td>
-    </tr>
-    <tr>
-      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
-    </tr>
-    <tr>
-      <td background="/images/menu/bg.gif"><a href="/news/specials/race-and-education/default.aspx" class="nav">Race and Education  </a></td>
-    </tr><tr><td><img src="/images/menu/divider.gif" width="130" height="5"></td></tr>
     <tr>
       <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="style5">&nbsp;<span class="menuHeader">COMMUNITY
       </span></td>
     </tr>
     <tr>
       <td background="/images/menu/bg.gif"><a href="/life/community/default.aspx" class="nav">Overview</a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/life/community/coats-for-kids/participate-index.aspx" class="nav">Coats for Kids </a></td>
     </tr>
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
@@ -206,6 +507,27 @@ OAS_NORMAL(pos);
     </tr>
     <tr>
       <td background="/images/menu/bg.gif" bgcolor="#990000"><a href="/life/community/events/events-default.aspx" class="nav">Events </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif" bgcolor="#990000"><a href="/life/community/events/harvest-photos/default.aspx" class="nav">Harvest Festival Pics </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif" bgcolor="#990000"><a href="/life/community/events/wx-wizard.aspx" class="nav">Weather Wizard  </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/life/community/volunteer-opportunities.aspx" class="nav">
+	  <span class="nav">Volunteer <br>
+&nbsp;&nbsp;&nbsp;	  Opportunities</span>
+    </a></td>
     </tr>
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
@@ -225,6 +547,12 @@ OAS_NORMAL(pos);
     </tr>
     <tr>
       <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="style5">&nbsp;<span class="menuHeader">GET CONNECTED </span></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/blog/default.aspx" class="nav">Blogs</a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
       <td background="/images/menu/bg.gif"><a href="/tech/podcasts/default.aspx" class="nav">Podcasts</a></td>
@@ -258,6 +586,12 @@ OAS_NORMAL(pos);
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
+      <td background="/images/menu/bg.gif"><a href="http://www.calmoms.com" class="nav">CalMoms </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
       <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000" class="menuHeader">&nbsp;FEATURES </td>
     </tr>
     <tr>
@@ -275,7 +609,25 @@ OAS_NORMAL(pos);
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
+      <td background="/images/menu/bg.gif"><a href="/news/specials/mumm-movies/default.aspx" class="nav">Mumm at the Movies  </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
       <td height="25" background="/images/site/main_cat_but_bg.jpg" bgcolor="#c30000"><span class="menuHeader">&nbsp;EDUCATION </span></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif" bgcolor="#990000"><a href="/life/community/events/wx-wizard.aspx" class="nav">Weather Wizard </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/life/community/events/toty-07.aspx" class="nav">Teacher of the Year </a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
     <tr>
       <td background="/images/menu/bg.gif"><a href="/news/education/teacher/default.aspx" class="nav">Teacher of the Month </a></td>
@@ -291,6 +643,12 @@ OAS_NORMAL(pos);
     </tr>
     <tr>
       <td background="/images/menu/bg.gif"><a href="/news/education/cool-at-school/" class="nav">Cool at School</a></td>
+    </tr>
+    <tr>
+      <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
+    </tr>
+    <tr>
+      <td background="/images/menu/bg.gif"><a href="/news/education/college-prep/default.aspx" class="nav">College Prep Help</a></td>
     </tr>
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
@@ -351,8 +709,13 @@ OAS_NORMAL(pos);
     <tr>
       <td><img src="/images/menu/divider.gif" width="130" height="5"></td>
     </tr>
-    <tr><td height="22" valign="top" bgcolor="#c30000"><p><a href="http://www.sacticket.com" target="_blank"><br>
-      &nbsp;&nbsp;<img src="/images/sacticket-logo2.gif" width="110" height="53" border="0"></a></p>
+    <tr><td height="22" valign="top" bgcolor="#c30000"><p><br>
+      &nbsp;&nbsp;<a href="http://www.sacticket.com" target="_blank"><img src="/images/site/sacticket.gif" width="110" height="55" border="0"></a><br><br><img src="/images/site/spacer_10x5.gif" border="0" width="3">
+    
+	
+	
+	
+	</p>
         </td></tr>
     </tbody></table>
 </td>
@@ -610,7 +973,7 @@ return queryString(key);
  
  <!-- 
  /* Specify the Report Suite ID(s) to track here */
- var s_account="gntbcstglobal,gntbcstkxtv" 
+ var s_account="gntbcstkxtv,gntbcstglobal" 
  /* value to use if there is no document title */ 
  var NO_TITLE_VAR=myNO_TITLE_VAR  
  //--></script> 
@@ -651,8 +1014,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
  DM_addToLoc("zipcode", escape(s.prop30));
  DM_addToLoc("age", escape((gciYear-s.prop31)));
  DM_addToLoc("gender", escape(s.prop32));
- DM_addToLoc("Section",escape(s.prop6));
- DM_addToLoc("SubSection",escape(s.prop7));
+ DM_cat("broadcast > " + escape(s.prop6) + " > "  +  escape(s.prop7) );
  DM_tag();
 //-->
 </script>
