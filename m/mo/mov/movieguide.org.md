@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieguide.org privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509071340id_/http%3A//www.movieguide.org/index.php%3Fs%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieguide.org privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015051514id_/http%3A//www.movieguide.org/index.php%3Fs%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # MovieGuide.org - Ted Baehr's Movieguide
 
