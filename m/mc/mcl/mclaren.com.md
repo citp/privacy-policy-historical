@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mclaren.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220358id_/http%3A//www.mclaren.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mclaren.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015034023id_/http%3A//www.mclaren.com/privacy.php) for the most accurate reproduction.*
 
 # Vodafone McLaren Mercedes -
 
