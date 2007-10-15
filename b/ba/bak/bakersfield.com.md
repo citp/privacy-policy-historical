@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019054701id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016005508id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bakersfield.com - Kern County news, events, shopping & search
 
@@ -104,7 +104,7 @@ This site has security measures in place to protect against the loss, misuse and
 **Newsletters**  
 
 
-Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to [http://newsletters.bakersfield.com](http://newsletters.bakersfield.com/) To remove your personally identifiable information from our databases, send e-mail to [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) explaining your request.  
+Bakersfield.com offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information such as name, e-mail address and demographic information. You always may opt-out of receiving future mailings from bakersfield.com. To unsubscribe from our newsletters, go to <http://www.bakersfield.com/newsletters> To remove your personally identifiable information from our databases, send e-mail to [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com) explaining your request.  
 
 
 **Your role in protecting your privacy**  
