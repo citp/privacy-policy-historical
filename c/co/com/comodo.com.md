@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623105223id_/http%3A//www.comodo.com/repository/privacy_agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016005134id_/http%3A//www.comodo.com/repository/privacy_agreement.html) for the most accurate reproduction.*
 
 # SSL Certificate Authority Digital Certificate SSL Apache Server Certificate
 
