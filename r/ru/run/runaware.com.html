@@ -1,695 +1,192 @@
-<!--The following is the downloaded HTML source of the runaware.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211201233id_/http%3A//runaware.com/action%3Dshow_page%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runaware.com privacy policy that was archived on 2007-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015072837id_/http%3A//www.runaware.com/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<title>Runaware - Privacy</title>
-<meta name="title" content=" The world’s first true, on-line software evaluation site. We take the guesswork out of purchasing software by offering you the opportunity to test and compare software applications BEFORE making a purchase decision by providing access to full-featured software demonstrations over the Internet. Information">
-<meta name="description" content=" Runaware offers free unlimited software testing in your browser with no downloads.  Runaware also has all the information, reviews and guidelines for you to find, test, demo, use and compare software.  We also offer Linux and Windows software applications.  Our goal is to allow you to try out top software products from Macromedia, Corel, ACT!, Intuit, Quicken, Quickbooks, Borland, and many others.">
-<meta name="keywords" content="software, evaluation, testing, information, comparison, purchase, sales, online, web testing, marketing, information, LINUX, Windows, free office, web application, business, asp, cad, graphics, graphics program, corel, macromedia flash, financial, ACT!2000, Bryce, Intuit, Dreamweaver">
-<meta name="rating" content="GENERAL">
-<meta name="classification" content="software">
-<meta name="copyright" content="runaware.com">
-<meta name="distribution" content="GLOBAL">
-<meta http-equiv="reply-to" content="webmaster@runaware.com">
+<link rel="stylesheet" type="text/css" media="screen" href="/runaware.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/menu.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/lightbox.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/video.css">	
 
-<script language="JavaScript">
-
-function scrollon() {
-        document.body.scroll = 'yes';
-}
-function scrolloff() {
-        document.body.scroll = 'no';
-}
-
-function BrowserDetector(ua) {
-
-      this.browser = "other"
-      this.platform = "unknown"
-      this.version = "unknown";
-browser = 'other'
-ver = 'unknown'
-platform = 'unknown'
-      this.majorver = "";
-      this.minorver = "";
+<link rel="stylesheet" type="text/css" media="handheld" href="/mobile.css">
+<!--<meta http-equiv="Content-type" content="text/html; charset=windows-1252" />-->
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<meta name="Copyright" content="Copyright (c) 2007 Runaware AB">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="Runaware is the global leader in online software demonstration services.  Runaware's flagship solution, TestDrive, and its related services are revolutionizing online sales and marketing for ISVs. ">
+<meta name="keywords" content="online demo, software Demo, online software demo, demo, TestDrive, software marketing, software marketing services, Increase Sales, Sales Leads, Leads, lead profiling, lead capture, Software">
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/src/scriptaculous.js"></script>
+<script type="text/javascript" src="/js/swf_1.4.4/swfobject.js"></script>
+<script type="text/javascript" src="/js/runaware.js"></script>
+<script type="text/javascript" src="/js/JavaScriptFlashGateway.js"></script>	
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<script src="/flash/activescripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="/flash/activescripts/AC_ActiveX.js" type="text/javascript"></script>
 
 
-} // function BrowserCap
+<title>Runaware Privacy Policy</title>
+</head>
 
-// a simple check
-
-var bd = new BrowserDetector(navigator.userAgent);
-var ns = (document.layers)?1:0;
-var goodIE = (document.all)?1:0;
-var ns6 = (bd.browser == "Netscape" && bd.majorver > 4)?true:false;
-var ie5 = (bd.browser == "IE" && bd.majorver > 4)?true:false;
-var opera = (navigator.userAgent.indexOf("Opera") != -1)?true:false;
-
-if(ns){
-	if(bd.platform =='Win')
-		document.write('<link rel=\"stylesheet\" href=\"/runaware2/ns_pc.css\">');
-	
-	else if(bd.platform =='Unix' || bd.platform == 'Linux')
-		document.write('<link rel=\"stylesheet\" href=\"/runaware2/ns_unix.css\">');
-	else
-		document.write('<link rel=\"stylesheet\" href=\"/runaware2/standard.css\">');
-} else {
-document.write('<link rel=\"stylesheet\" href=\"/runaware2/standard.css\">');
-}
-
-
-function rCookie(name) { // Include
-	name = name+'runaware';
-    if(document.cookie == '') { // there's no cookie, so go no further.....
-	return false; 
-    } else {
-	var firstChar, lastChar;
-	var theBigCookie = document.cookie;
-	firstChar = theBigCookie.indexOf(name);	// find the start of 'name'
-	var NN2Hack = firstChar + name.length;
-	if((firstChar != -1) && (theBigCookie.charAt(NN2Hack) == '=')) { // if you found the cookie
-	    firstChar += name.length + 1; // skip 'name' and '='
-	    lastChar = theBigCookie.indexOf(';', firstChar); // Find the end of the value string (i.e. the next ';').
-	    if(lastChar == -1) lastChar = theBigCookie.length;
-	    return unescape(theBigCookie.substring(firstChar, lastChar));
-	} else { // If there was no cookie of that name, return false.
-	    return false;
-	}
-    }	
-}
-
-function setCookieT (name,value) { // Include
-	name = name+'runaware';
-	document.cookie = name + '=' + escape(value) + '; path=/' + '; domain=.runaware.com';
-}  
-
-if(!rCookie('ref')) {
-    if(document.images) {
-        var ref_img = new Image();
-        ref_img.src = '/action=log_ref'+ ((document.referrer)?'?ref='+escape(document.referrer):'');
-    }
-    setCookieT('ref', 'foo');
-}
-</script><link rel="stylesheet" href="/runaware2/standard.css">
-
-<script src="/runaware2/js_tabs_lib.js" language="JavaScript1.1"></script>
-<script language="JavaScript">
-
-var loaded = false;
-var tabs = new Array();
-
-if (ns) {
-	var layerstart = "document.";
-	var layerstyle = "";
-	var origWidth = innerWidth;
-	var origHeight = innerHeight;
-	onresize = reDo;
-
-
-} else if (goodIE) {
-	layerstart = "document.all.";
-	layerstyle = ".style";
-	}
-
-function getActiveTab(group) { // For Cookie tabs only // Include
-	var myCookie = readCookie(group); // Check if there´s a active tab for the group
-	if(parseInt(myCookie) > 9) {
-		 return myCookie;
-	} else if(group == 'OStabs') { // If not, return a hardcoded value
-		if(bd.platform == 'Win' || bd.platform == 'Mac')
-			return 10;
-		else if(bd.platform == 'Unix' || bd.platform == 'Linux')
-			return 11;
-	} else if(group == 'myRuntabs') {
-		return 15;
-	} else if(group == 'mostPopTabs') {
-		return 13;
-	}
-	return null;
-}
-
-function printTabContents(group) {	// This function is hardcoded for tabs with categories.....
-	activeTab = getActiveTab(group);
-	currentCat = null;
-	currentPlatform = 'null';
-	if(goodIE || ns6 || ns) {
-		for(tab = 0; tab < tabs.length; tab++) {
-			/* if(currentPlatform == tabs[tab].tabName) {
-				activeTab = tabs[tab].tabId;
-				setCookie(tabs[tab].group,activeTab);
-			} */
-			if(tabs[tab].group == group) {
-				var printIt = (ns)?false:true;
-				if(ns) {
-					printIt = (activeTab == tabs[tab].tabId)?true:false;
-				}
-				if(printIt) {
-					
-					//var display = (activeTab == tabs[tab].tabId)?'':'none';
-					//var tableStyle = (goodIE || ns6)?'id="'+tabs[tab].tabName+'" style="display: '+display+';"':'';
-					var visibility = (activeTab == tabs[tab].tabId)?'visible':'hidden';
-					var position = (activeTab == tabs[tab].tabId)?'relative':'absolute';
-					var tableStyle = (goodIE || ns6)?'id="'+tabs[tab].tabName+'" style="position: '+position+'; visibility: '+visibility+';"':'';
-					document.writeln('<table '+tableStyle+' border="0" cellspacing="0" cellpadding="0">\n');
-					for(i = 0; i < tabs[tab].categories.length; i++) {
-						if(tabs[tab].categories[i].parentCatId == 0) {
-							var catChilds = getCatChilds(tabs[tab].categories[i].catId,tabs[tab].tabName);
-							// var arrow_color = (tabs[tab].categories[i].catId == currentCat && tabs[tab].tabName == currentPlatform)?'blue':'orange';
-							var arrow_or_bullit = (catChilds.length > 0)?"arrow_cat_off.gif":"bullet_cat.gif";
-							var overAction = (catChilds.length > 0)?'doOverCat(\''+tabs[tab].categories[i].catId+'\',\''+tabs[tab].tabName+'\')':'';
-							var hrefAction = (catChilds.length > 0)?'javascript:doOverCatAction(\''+tabs[tab].categories[i].catId+'\',\''+tabs[tab].tabName+'\')':'action=cat_list?c_cat_id='+tabs[tab].categories[i].catId+'&platform='+tabs[tab].tabName;
-							var text_color = (tabs[tab].categories[i].catId == currentCat && tabs[tab].tabName == currentPlatform)?'Active':'';
-							document.writeln('<tr valign="top"><td height="18">')
-							if(ns) {
-								document.writeln('<ilayer name="cat'+tabs[tab].categories[i].catId+tabs[tab].tabName+'" height="0" width="0" visibility="show"></ilayer>');
-							}
-							document.writeln('<img src="/runaware2/graphics/'+arrow_or_bullit+'" name="img'+tabs[tab].categories[i].catId+tabs[tab].tabName+'" width="9" height="9"><img src="/runaware2/graphics/spacer.gif" width="4" height="18"></td><td height="18"><img src="/runaware2/graphics/spacer.gif" width="4" height="18"><a onfocus="this.blur()" href="'+hrefAction+'" onMouseOver="'+overAction+'" onMouseOut="doOutCat()" class="ProgramCategoriesLink'+text_color+'">' + tabs[tab].categories[i].catName + '</a><br>');
-							if(catChilds.length > 0) {
-								tabs[tab].categories[i].isParent = true;
-								var cont = '';
-								var ns6buggfix = (ns6)?'display: none;':'';
-								if(goodIE || ns6) {
-									cont += '<div id="cat'+tabs[tab].categories[i].catId+tabs[tab].tabName+'" style="position: relative; top: 3px; left: -12px; visibility: visible;">'
-									cont += '<div id="subcat'+tabs[tab].categories[i].catId+tabs[tab].tabName+'" style="position: absolute; top: 0px; left: 0px; visibility: hidden; '+ns6buggfix+'">'
-								}
-								cont += '<table cellspacing="0" cellpadding="0" border="0">';
-								cont += '<tr>';
-								cont += '<td width="6" height="5"><img width="6" height="5" src="/runaware2/graphics/window_darkgrey_shadow_corner_topleft.gif"></td>';
-								cont += '<td valign="top" bgcolor="#d3d2ce" height="5" background="/runaware2/graphics/window_darkgrey_shadow_top.gif"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>';
-								cont += '<td width="6" height="5"><img width="6" height="5" src="/runaware2/graphics/window_darkgrey_shadow_corner_topright.gif"></td>'
-								cont += '</tr>';
-								cont += '<tr>';
-								cont += '<td valign="top" bgcolor="#d3d2ce" width="6" background="/runaware2/graphics/window_darkgrey_shadow_left.gif"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>';
-								cont += '<td bgcolor="#d3d2ce" nowrap><span class="RegularText">';
-								cont += (!ns6)?'<a href="javascript:hideSubCatLayer(visibleSubCat)" onmouseover="return ShowStatus(\' \')"><img border="0" align="right" src="/runaware2/graphics/button_smallX_off.gif" width="21" height="9"></a>':'';
-								for(childN = 0; childN < catChilds.length; childN++) {
-									var text_color = (catChilds[childN].catId == currentCat && tabs[tab].tabName == currentPlatform)?'Active':'';
-									cont += '<nobr><a href="action=cat_list?c_cat_id=' + catChilds[childN].catId + '&platform=' + tabs[tab].tabName +'" class="ProgramCategoriesLink'+text_color+'">' + catChilds[childN].catName + '</a>&nbsp;&nbsp;&nbsp;</nobr><br>'
-								}
-								cont += '<img height="1" src="/runaware2/graphics/spacer.gif" width="150"></span></td>';
-								cont += '<td bgcolor="#d3d2ce" width="6" background="/runaware2/graphics/window_darkgrey_shadow_right.gif"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>';
-								cont += '</tr>';
-								cont += '<tr>';
-								cont += '<td width="6" height="7"><img width="6" height="7" src="/runaware2/graphics/window_darkgrey_shadow_corner_bottomleft.gif"></td>';
-								cont += '<td valign="top" bgcolor="#d3d2ce" height="7" background="/runaware2/graphics/window_darkgrey_shadow_bottom.gif"><img height="7" src="/runaware2/graphics/spacer.gif" width="1"></td>';
-								cont += '<td width="6" height="7"><img width="6" height="7" src="/runaware2/graphics/window_darkgrey_shadow_corner_bottomright.gif"></td>'
-								cont += '</tr>';
-								cont += '</table>';
-								if(goodIE || ns6) {
-									cont += '</div></div>';
-									document.writeln(cont);
-								} else if(ns) {
-									tabs[tab].categories[i].catLayer = eval('document.cat'+tabs[tab].categories[i].catId+tabs[tab].tabName);
-									tabs[tab].categories[i].catLayerCont = cont;
-								}
-							}
-							document.writeln('</td></tr>\n');
-						}
-					}
-					document.writeln('</table>\n')
-				}
-			}
-		}
-	}
-}
-
-function doPreload() {
-  	if(document.images)
-  	{
-  		var the_images = new Array('/runaware2/graphics/mainmenu_home_on.gif','/runaware2/graphics/mainmenu_about_on.gif','/runaware2/graphics/mainmenu_faq_on.gif','/runaware2/graphics/intro_joinbutton2_on.gif','/runaware2/graphics/button_takesitetour_on.gif','/runaware2/graphics/button_frontlogin_on.gif','/runaware2/graphics/button_search_on.gif','/runaware2/graphics/button_gosmall_on.gif','/runaware2/graphics/button_info_on.gif','/runaware2/graphics/button_addtofav_on.gif','/runaware2/graphics/button_buy_on.gif','/runaware2/graphics/button_deletesmall_on.gif','/runaware2/graphics/button_editdata_on.gif','/runaware2/graphics/button_editsmall_on.gif','/runaware2/graphics/button_gotomyrun_on.gif','/runaware2/graphics/button_logout_on.gif','/runaware2/graphics/button_ok_on.gif','/runaware2/graphics/button_register_on.gif','/runaware2/graphics/button_runbig_on.gif','/runaware2/graphics/button_runsmall_on.gif','/runaware2/graphics/button_submit_on.gif','/runaware2/graphics/mainmenu_addsoft_on.gif','/runaware2/graphics/button_tellafriend_on.gif','/runaware2/graphics/button_homepage_on.gif','/runaware2/graphics/mainmenu_codie_on.gif','/runaware2/graphics/mainmenu_sitetour_on.gif');
-  		preloadImages(the_images);
-  	}
- }
-
- function preloadImages(the_images_array) {
-   	for(loop = 0; loop < the_images_array.length; loop++)
-  	{
-   		var an_image = new Image();
-  		an_image.src = the_images_array[loop];
-  	}
- }
-
-function fillOSTabs()
-{
-	addTab(10,'Windows','ostabs_0',false,'ostabs_mid1_0',false,false,'/runaware2/graphics/ostabs_inactive_to_inactive.gif','/runaware2/graphics/ostabs_active_to_inactive.gif','OStabs',false,'/runaware2/graphics/ostabs_0_off.gif','/runaware2/graphics/ostabs_0_on.gif');
-	addTab(11,'Linux','ostabs_1','ostabs_mid1_0',false,'/runaware2/graphics/ostabs_inactive_to_inactive.gif','/runaware2/graphics/ostabs_inactive_to_active.gif',false,false,'OStabs',false,'/runaware2/graphics/ostabs_1_off.gif','/runaware2/graphics/ostabs_1_on.gif');
-
-addCategory('Windows',341,'Business', 0);addCategory('Windows',382,'CAD', 381);addCategory('Windows',383,'Clip Art & Fonts', 381);addCategory('Windows',384,'Design & Illustration', 381);addCategory('Windows',386,'Desktop publishing', 381);addCategory('Windows',343,'Finance & Accounting', 341);addCategory('Windows',344,'Forms and Labels', 341);addCategory('Windows',425,'Genealogy', 421);addCategory('Windows',381,'Graphics', 0);addCategory('Windows',421,'Hobbies', 0);addCategory('Windows',346,'Office suites', 341);addCategory('Windows',321,'Other', 0);addCategory('Windows',347,'PIMs & Contact Mgrs', 341);addCategory('Windows',345,'Payroll & HR', 341);addCategory('Windows',385,'Photo editing', 381);addCategory('Windows',482,'Process Management', 341);addCategory('Windows',401,'Utilities', 0);addCategory('Windows',387,'Web development', 381);
-addCategory('Linux',341,'Business', 0);addCategory('Linux',384,'Design & Illustration', 381);addCategory('Linux',381,'Graphics', 0);addCategory('Linux',346,'Office suites', 341);
-}
-fillOSTabs();
-function fillmostPopTabs() {
-addTab(12,'Mostpopular','mostpop','mostpop_mid',false,'/runaware2/graphics/myruntabs_inactive_to_inactive.gif','/runaware2/graphics/myruntabs_active_to_inactive.gif',false,false,'mostPopTabs','MostPopLayer','/runaware2/graphics/tabs_mostpop_off.gif','/runaware2/graphics/tabs_mostpop_on.gif');
-	addTab(13,'Recentlyadded','recadd',false,'mostpop_mid',false,false,'/runaware2/graphics/myruntabs_inactive_to_inactive.gif','/runaware2/graphics/myruntabs_inactive_to_active.gif','mostPopTabs','RecAddLayer','/runaware2/graphics/tabs_recadd_off.gif','/runaware2/graphics/tabs_recadd_on.gif');
-}
-fillmostPopTabs();
-var OStabsStatus = true;
-var myRuntabsStatus = false;
-var mostPopTabsStatus = false;
-function init() {
-    // Preload some images
-	doPreload();
-	for(i = 0; i < tabs.length; i++) { // this is done after the document is loaded to set the object handles for the images and layers
-		if(eval(tabs[i].group+'Status'))
-			tabs[i].active = true;
-
-		if(tabs[i].active) {
-				tabs[i].mImg = getImage(tabs[i].mImg);
-			if(tabs[i].lImg)
-				tabs[i].lImg = getImage(tabs[i].lImg);
-			if(tabs[i].rImg)
-				tabs[i].rImg = getImage(tabs[i].rImg);
-			if(tabs[i].layer){
-				if(ns && eval('document.'+tabs[i].group)) {
-					tabs[i].layer = eval('document.'+tabs[i].group+'.document.'+tabs[i].layer);
-				} else if(ns) {
-					tabs[i].layer = eval('document.'+tabs[i].layer);
-				} else if(goodIE) {
-  					if(!loaded)
-						tabs[i].layer = eval('document.all.'+tabs[i].layer+'.style');
-				} else if(ns6) {
-					tabs[i].layer = eval("document.getElementById('"+tabs[i].layer+"').style");
-				}
-			}
-		}
-	}
-	var currentGroup = -1;
-	for(n = 0; n < tabs.length; n++) { // This (re-)activates the tabs
-			if(currentGroup != tabs[n].group && tabs[n].active) {
-				currentGroup = tabs[n].group;
-				activateThis = getActiveTab(tabs[n].group);
-				activateTab(activateThis);
-			}
-	}
-	if(ns)
-		initCats();
-	loaded = true;
-}
+<body>
+	<div id="contentbackground">
+		<div id="contentwrapper">
+			<div id="headwrapper">
+				<div id="headleft">
+					<div id="logo">
+						<a href="/"><img src="images/runaware_logo.jpg" border="0" alt="Runaware – the global leader in online software demos"></a>
+					</div>
+					<div id="logo_mobile"><a href="/"><img src="images/runaware_logo_mobile.jpg" alt="Runaware – the global leader in online software demos" border="0"></a></div>
+					<div id="nav_screen">
+	<ul style="display:none" id="context_home" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li></li>
+	</ul>	
+	<ul style="display:none" id="context_products" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li><a href="/products.jsp">Products Overview</a></li>
+		<li><a href="/testdrive.jsp">TestDrive</a></li>
+		<li><a href="/allianceprogram.jsp">Alliance Program</a></li>
+		<li><a href="/hotspot.jsp">HotSpot Program</a></li>
+		<li><a href="/marketing.jsp">Marketing Services</a></li>
+		<li><a href="/leadcapture.jsp">Lead Capture</a></li>
+		<li><a href="/downloads.jsp">CDs and Downloads</a></li>
+	</ul>	
+	<ul style="display:none" id="context_clients" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li><a href="/clients.jsp">Sample Clients List</a></li>
+		<li><a href="/cases.jsp">Case Studies</a></li>
+	</ul>
+	<ul style="display:none" id="context_partnerss" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li></li>
+	</ul>	
+	<ul style="display:none" id="context_about_us" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li><a href="/about.jsp">About Runaware</a></li>
+		<li><a href="/management.jsp">Management Team</a></li>
+		<li><a href="/board.jsp">Board of Directors</a></li>
+		<li><a href="/careers.jsp">Careers</a></li>
+		<li><a href="/contact.jsp">Contact Us</a></li>
+	</ul>	
+	<ul style="display:none" id="context_investor_relations" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li><a href="http://www.runaware.se">Investor Relations</a></li>
+		<li><a href="http://www.runaware.se/stock.jsp">Runaware Stock</a></li>
+		<li><a href="http://www.runaware.se/calendar.jsp">Financial Calendar</a></li>
+		<li><a href="http://www.runaware.se/reports.jsp">Financial Reports</a></li>		
+	</ul>	
+	<ul style="display:none" id="context_news" class="SimpleContextMenu" onmouseout="start_hide()" onmouseover="keep_menu_timer(this.id)">
+		<li><a href="/presskit.jsp">News Center</a></li>
+		<li><a href="/companynews.jsp">Company News</a></li>
+		<li><a href="/industrynews.jsp">Industry News</a></li>
+		<li><a href="/presskit.jsp">Press Center</a></li>
+	</ul>	
+	<a href="/" onmouseout="start_hide()" onmouseover="set_menu_position('home')"><img src="/images/menu/home.jpg" width="79" height="39" border="0" alt="" id="home"></a><a href="/products.jsp" onmouseout="start_hide()" onmouseover="set_menu_position('products')"><img src="/images/menu/products.jpg" width="93" height="39" border="0" alt="" id="products"></a><a href="/clients.jsp" onmouseout="start_hide()" onmouseover="set_menu_position('clients')"><img src="/images/menu/clients.jpg" width="82" height="39" border="0" alt="" id="clients"></a><a href="/partners.jsp" onmouseout="start_hide()" onmouseover="set_menu_position('partnerss')"><img src="/images/menu/partnerss.jpg" width="89" height="39" border="0" alt="" id="partnerss"></a><a href="http://www.runaware.se" onmouseout="start_hide()" onmouseover="set_menu_position('investor_relations')"><img src="/images/menu/investor_relations.jpg" width="142" height="39" border="0" alt="" id="investor_relations"></a><a href="/about.jsp" onmouseout="start_hide()" onmouseover="set_menu_position('about_us')"><img src="/images/menu/about_us.jpg" width="95" height="39" border="0" alt="" id="about_us"></a><a href="/presskit.jsp" onmouseout="start_hide()" onmouseover="set_menu_position('news')"><img src="/images/menu/news.jpg" width="83" height="39" border="0" alt="" id="news"></a>
+</div>
+<div id="nav_mobile">
+	<a href="/index.jsp">Home</a><span class="divider">|</span>
+	<a href="/products.jsp">Products</a><span class="divider">|</span>  
+	<a href="/clients.jsp">Clients</a><span class="divider">|</span> 
+	<a href="/partners.jsp">Partners</a><span class="divider">|</span> 
+	<a href="http://www.runaware.se">Investor Relations</a><span class="divider">|</span> 
+	<a href="/about.jsp">About Us</a><span class="divider">|</span> 
+	<a href="/news.jsp">News</a>	
+</div>
+					<div id="screen"><img src="images/header_about_left.jpg" alt=""></div>		
+				</div>
+				<div id="headright">
+					<div id="quicklinks"><a href="/index.jsp">Home</a> | <a href="contact.jsp">Contact Us</a> | <a href="/customer_login.jsp" target="_blank">Customer Login</a></div>
+					<div id="mainimage"><img src="images/header_about_right.jpg" alt=""></div>	
+				</div>
+			</div>
+			<div id="crumb_about">
+				<a href="/about.jsp">About Us</a> &nbsp;|&nbsp; <a href="/management.jsp">Management Team</a> &nbsp;|&nbsp; <a href="/board.jsp">Board of Directors</a> &nbsp;|&nbsp; <a href="/careers.jsp">Careers</a> &nbsp;|&nbsp; <a href="/contact.jsp">Contact Us</a>
+			</div>
+			<div id="contentback" style="background-image: url(images/content_background_about.jpg);background-repeat:repeat-x;">
+				<div id="content">
+					<div id="onecol">
+						<h1>Runaware Privacy Statement</h1>
+						
+						<p>Runaware deems privacy a central issue of Internet use. Runaware attempts to have reasonable measures in place to assure the anonymity of visitors to the Runaware web site. Runaware feels as part of responsible disclosure that Runaware web site users are aware of what information is being logged.
+						
+						</p><h2>Privacy Policy</h2>
+						
+						<p>This policy covers how Runaware treats personal information that it collects and receives, including information related to your use of Runaware’s Online Press Center. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available.
+						</p><p>When you register, we ask for information such as your name, title, company, address, contact phone number and email.  Once you register with Runaware and sign into our service, you are not anonymous to us.  
+						</p><p>Runaware uses information for the following general purposes: to track access to press materials and to provide interested press members news and information about Runaware and its products.
+						</p><p>Runaware automatically receives and records information on our server logs from your browser, including your "IP address" and the page you request. An Internet Protocol (IP) address is assigned to your computer by your Internet Service Provider (ISP). We use your IP address to determine the fastest route for your computer to connect to our site, report aggregate information, administer and improve the site.  This log is a standard method of reporting to statistically find out which parts of our web site are visited and how long visitors spend there. We also log the type of browser and operating system you are using. We do not link IP addresses to personally identifiable information.
+						</p><p>Like many other commercial web sites, the Runaware web site may use a standard technology called a “cookie” to collect information about how you use the site. Cookies were originally designed to help a web site distinguish a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie is a small string of text that a web site can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. Currently, web sites use cookies to enhance the user’s visit; in general, cookies can securely store a user’s ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections in a “shopping cart.” It is possible to set your browser to inform you when a cookie is being placed — this way, you have the opportunity to decide whether to accept the cookie. 
+						</p><p>At times we may request that you voluntarily supply us with personal information, such as your e-mail address, for purposes such as corresponding with us, registering at a site, making a purchase, entering a sweepstakes, or participating in an online survey.
+						</p><h2>Consent</h2>
+						<p>In using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
+						</p><h2>Information Sharing and Disclosure</h2>
+						<p>Runaware does not rent, sell or share personal information about your with other people or companies.  Your information is only retained for reference and to verify your status as a working member of the press.
+						</p><p>We reserve the right to send you certain communications relating to Runaware, such as press releases, announcements or a Runaware Newsletter without offering you the opportunity to opt-out of receiving them.
+						</p><h2>Confidentiality and Security </h2>
+						<p>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide assistance to the press or in order to do their jobs.
+						</p><h2>Changes to this Privacy Policy</h2>
+						<p>Runaware may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your registration or by placing a prominent notice on our site.
+						</p><h2>Questions and Suggestions</h2>
+						<p>If you have questions or suggestions, please contact us at:
+						</p><p>Runaware<br>
+						6360 NW 5th Way, Suite 203<br>
+						Fort Lauderdale, Florida 33309<br>
+						+1 [954] 302 5340<br><br>
+						Revision date: March, 2007
 
 
+					</p></div>
+				</div>
+			</div><img src="images/bottom_corners.gif" alt="" border="0" class="hide_for_mobile"></div>
+	</div>
+	<div id="footerbackground">
+	<div id="footerwrapper">
+		<div id="footlinks">
+			<p class="mainsections">
+				<a href="/index.jsp">Home</a><span class="divider">|</span>
+				<a href="/products.jsp">Products</a><span class="divider">|</span>  
+				<a href="/clients.jsp">Clients</a><span class="divider">|</span> 
+				<a href="/partners.jsp">Partners</a><span class="divider">|</span> 
+				<a href="http://www.runaware.se">Investor Relations</a><span class="divider">|</span> 
+				<a href="/about.jsp">About Us</a><span class="divider">|</span> 
+				<a href="/news.jsp">News</a>
+			</p>
+			<p class="subsections">
+				<a href="/careers.jsp">Careers</a><span class="divider">|</span>
+				<a href="/tos.jsp">Terms of Service</a><span class="divider">|</span>
+				<a href="/privacy.jsp">Privacy Statement</a><span class="divider">|</span>
+				<a href="/contact.jsp">Contact Us</a><span class="divider">|</span>
+				<a href="/customer_login.jsp">Customer Login</a>
+			</p>
+			<p class="copy">
+				Copyright 2007 Runaware AB. All rights reserved
+			</p>
+		</div>
+		<div id="footaddress">
+			<table border="0" cellspacing="0" cellpadding="0" align="right" class="footaddresstable">
+				<tbody><tr>	
+					<td valign="top">
+						NORTH AMERICAN OFFICE<br>
+						Phone: +1 954 302 5340<br>
+						Fax: +1 954 489 0209
+					</td>
+					<td valign="top">
+						EUROPEAN OFFICE<br>
+						Phone: +46 (0)31 743 0150<br>
+						Fax: +46 (0)31 743 0169
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 
 </script>
-<style media="screen" type="text/css">
-#myRuntabs		{ position: relative; top: 0px; left: 0px; visibility: visible }
-#myHistory		{ position: absolute; top: 0px; left: 0px; visibility: hidden }
-#myFavorites	{ position: absolute; top: 0px; left: 0px; visibility: hidden }
-#myData			{ position: absolute; top: 0px; left: 0px; visibility: hidden }
-#mostPopTabs	{ position: relative; top: 0px; left: 0px; visibility: visible }
-#MostPopLayer	{ position: absolute; top: 0px; left: 0px; visibility: hidden }
-#RecAddLayer	{ position: absolute; top: 0px; left: 0px; visibility: hidden }
-</style>
-</head>
-<body bgcolor="#ffffff" onload="init()" alink="#3295d2" link="#666666" vlink="#666666" leftmargin="8" topmargin="8" marginheight="8" marginwidth="8">
-<!-- Begin member header  -->
-<table width="750" height="70" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td rowspan="5" width="10" valign="top"><img height="70" src="/runaware2/graphics/header_edge_left.gif" width="10"></td>
-    <td width="730" height="12"><img height="12" src="/runaware2/graphics/header_topstripe.gif" width="730"></td>
-    <td rowspan="5" width="10" valign="top"><img height="70" src="/runaware2/graphics/header_edge_right.gif" width="10"></td>
-  </tr>
-  <tr> 
-    <td width="730" bgcolor="#edece9" height="32"><a href="/action=frontpage"><img height="16" border="0" src="/runaware2/graphics/logotype_header.gif" width="124"></a><img height="8" src="/runaware2/graphics/spacer.gif" width="15"><img height="18" src="/runaware2/graphics/payoff_header.gif" width="211"><img height="8" src="/runaware2/graphics/spacer.gif" width="260"><img height="25" src="/runaware2/graphics/citrix_header.gif" width="119"></td>
-  </tr>
-  <tr> 
-    <td width="730" height="4"><img height="4" src="/runaware2/graphics/header_menushadow.gif" width="730"></td>
-  </tr>
-  <tr> 
-    <td width="730" bgcolor="#4a8db6" height="21" valign="top"><table width="730" height="21" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="/action=frontpage" onmouseover="swapImg(1,'mainmenu_home','0'); showContextPopUp('visible','Frontpage')" onmouseout="swapImg(0,'mainmenu_home','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_home_off.gif" border="0" width="50" name="mainmenu_home"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=about" onmouseover="swapImg(1,'mainmenu_about','0'); showContextPopUp('visible','Information about Runaware')" onmouseout="swapImg(0,'mainmenu_about','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_about_off.gif" width="85" border="0" name="mainmenu_about"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=faq" onmouseover="swapImg(1,'mainmenu_faq','0'); showContextPopUp('visible','Common questions about Runaware')" onmouseout="swapImg(0,'mainmenu_faq','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_faq_off.gif" width="45" border="0" name="mainmenu_faq"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=link2us" onmouseover="swapImg(1,'mainmenu_linktous','0'); showContextPopUp('visible','Promote Runaware!')" onmouseout="swapImg(0,'mainmenu_linktous','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_linktous_off.gif" width="66" border="0" name="mainmenu_linktous"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="javascript:openWindow('/runaware2/flash/main.html','flashdemo',520,520);" onmouseover="swapImg(1,'mainmenu_sitetour','0'); showContextPopUp('visible','Take a tour of the site and learn about Runaware!')" onmouseout="swapImg(0,'mainmenu_sitetour','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_sitetour_off.gif" width="64" border="0" name="mainmenu_sitetour"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=pav_codie" onmouseover="swapImg(1,'mainmenu_codie','0')" onmouseout="swapImg(0,'mainmenu_codie','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_codie_off.gif" width="76" border="0" name="mainmenu_codie"></a></td><td align="right" height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="http://business.runaware.com" target="_blank" onmouseover="swapImg(1,'mainmenu_addsoft','0'); showContextPopUp('visible','Want to add your software? CLICK HERE')" onmouseout="swapImg(0,'mainmenu_addsoft','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_addsoft_off.gif" width="102" border="0" name="mainmenu_addsoft"></a></td></tr></tbody></table></td>
-  </tr>
-  <tr>
-    <td width="730" height="1" bgcolor="#4a8db6"><img height="1" src="/runaware2/graphics/blackdot.gif" width="730"></td>
-  </tr>
-</tbody></table>
-<!-- End member header  -->
-<!-- Main content  -->
-<table width="740" border="0" cellspacing="0" cellpadding="0" name="MainContentTable">
-  <tbody><tr> 
-    <td width="510" valign="top">
-    <img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
 
-<!-- Content  -->
-<table width="510" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="10" rowspan="12">&nbsp;</td>
-<td colspan="2">
-<span class="Headline">RUNAWARE PRIVACY POLICY</span> 
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"></span>
-</td>
-</tr>
-<tr>
-<td width="410">
-<p><span class="RegularText">This confirms that Runaware is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:</span></p>
-</td>
-<td valign="top" width="100">
-<div align="center"><a href="https://www.truste.org/validate/8705" target="_blank"><img src="/runaware2/graphics/clickseal.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a></div>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="/runaware2/graphics/spacer.gif" width="100" height="5"><br>
-<span class="RegularText">1. What personally identifiable information of yours or third party personally 
-<br>
-2. The organization collecting the information
-<br>
-3. How the information is used.
-<br>
-4. With whom the information may be shared.
-<br>
-5. What choices are available to you regarding collection, use and distribution of the information.
-<br>
-6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Runaware control.
-<br>
-7. How you can correct any inaccuracies in the information.
-<br>
-<br>
-If you have questions or concerns regarding this statement complete a <a href="http://www.runaware.com/service=runaware/owner=sys/action=feedback_form?c_app_id=">feedback form</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.org/watchdog.html" target="_blank">TRUSTe</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.</span><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="2"> 
-<span class="Headline">Information Collection and Use </span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
+<script type="text/javascript">
 
-Runaware enables users worldwide to evaluate different programs on the Internet.  Our business concept is based on providing the service to our users free of charge.  In exchange, the companies presenting their programs on the site have access to information about the traffic related to their own software.
-<br>
-<br>
-The data collected on Runaware's site is forwarded to software companies that use Runaware to present their programs to the public. The data we collect can largely be divided into three categories - membership information, demographic information and detailed information taken from users who expressly request more information about certain software.
-<br>
-<br>
-The demographic information comprises the number of visitors that have chosen to test particular software, when this evaluation took place and the length of time the user took to evaluate the software. No personal information or identifying details are issued.
-<br>
-<br>
-If, on the other hand, a user requests more information about one or more software products, this information is forwarded to the party that can fulfill this request - usually the producer/ manufacturer or a local retailer. This voluntary information includes your name, country and e-mail.
-Membership information is primarily used by Runaware to help build the site around the needs of the user. Besides gaining unlimited testing times, those opting for membership also get a vote, which may possibly influence developments. By communicating with our members, we hope to develop the site's design and content.
-<br>
-<br>
-All information submission is voluntary. If you have not expressly given your authorization, no information will be released. And, if you so wish, it is also fully possible to change any information you have submitted.
-</span>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<span class="Headline">Cookies</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
+_uacct = "UA-1253741-1";
 
-Usage of cookies on the Runaware site are not linked to any personally identifiable information.
-<br>
-<br>
-Should the user reject a cookie, that user will still have access to the site but will have limited access to certain areas and features.
-<br>
-<br>
-Cookies are also used to track the interests of our users to enhance the experience on  the Runaware site. 
-<br>
-<br>
-Some of our advertisers use cookies on our site.  However, we have no access to or control over these cookies.
-</span>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2"> <span class="Headline">Log Files</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
+urchinTracker();
 
-IP addresses are used to learn more about how the site is being used and to gather general demographic information. IP addresses are not in any way linked to personally identifiable information.
-</span>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">Communication</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-Registered users of Runaware have the option of subscribing to a Runaware newsletter that will inform them of site updates.  Users have the option of unsubscribing from this newsletter at any time.
-<br>
-<br>
-Registered users of Runaware may also receive promotional and information via email from the Software vendors directly. 
-<br>
-<br>
-Runaware and Runaware partners will not contact users in any other way unless they expressly wish it.
-<br>
-<br>
-</span></td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">Choice/Opt-out </span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-Users may opt-out of having their information used by Runaware or Runaware partners when they register for the site.
-<br>
-<br>
-At any time users may update their profile within Runaware to reflect changes in personal information or to deny usage of the information by Runaware or Runaware partners.
-<br>
-<br>
-Runaware users will be notified when third parties are collecting their information.  We do this to enable users to decide whether or not to opt-out of the services offered by the third party.
-<br>
-<br>
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by changing their settings
-here “<a href="http://www.runaware.com/service=runaware/owner=sys/action=myrunaware_data_edit">My Data</a>”.
-<br>
-<br>
-</span></td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">Updating Personal Information</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-At any time users may update their personal information by logging into their “<a href="http://www.runaware.com/service=runaware/owner=sys/action=myrunaware_data_edit">My Runaware</a>” page. They may change any and all information previously submitted, may add information and subtract information.
-<br>
-<br>
-This will help ensure that user information is up to date and accurate.
-<br>
-<br>
-</span></td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">External Links</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-This web site contains links to other web sites.  Please note that when you click on one of these links, you are 'clicking' to another web site.  We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
-</span>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">Notification of Changes</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-</span>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2"><span class="Headline">We Protect our Customers</span>
-<span class="RegularText"><br>
-<img src="/runaware2/graphics/spacer.gif" width="20" height="5"><br>
-<img src="/runaware2/graphics/divider_dotted_500px.gif" width="500" height="1"><br>
-All information you submit to Runaware is protected with the highest security available.  We adhere to the security regulations and legislation required to guarantee correct storage and issuing of information so that nothing happens concerning your personal details.</span><br><br>
-</td>
-</tr>
-</tbody></table>
-<!-- End Content  -->
-
-
-    </td>
-    <td width="10"><img src="/runaware2/graphics/spacer.gif" width="10" height="10"></td>
-    <td width="220" valign="top"><img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
-		<!-- My-mini-runaware area  -->    
-		<table width="220" border="0" cellspacing="0" cellpadding="0" name="Mini-MyRunaware">
-        <tbody><tr> 
-          <td width="6" height="6" colspan="2"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_topleft.gif" width="6"></td>
-          <td width="208" height="6" valign="top" bgcolor="#edece9" colspan="2"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="208"></td>
-          <td width="6" height="6" colspan="2"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_topright.gif" width="6"></td>
-        </tr>
-
-	<tr height="1">
-		<td bgcolor="#666666" width="1" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		<td bgcolor="#edece9" width="5" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		<td colspan="2" bgcolor="#edece9"><span class="BoldHeadline">FREE Member Services</span></td>
-		<td bgcolor="#edece9" width="5" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		<td bgcolor="#666666" width="1" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
-	</tr>
-	<tr> 
-		<td width="100" bgcolor="#edece9" valign="top">
-				<span class="SmallText">
-				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
-				<img border="0" height="7" src="/runaware2/graphics/arrow_orange_small.gif" width="4">&nbsp;<a class="OrangeLink" href="action=register_form"><span class="OrangeText">Join now!</span></a><br>
-				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
-				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=benefits">Member benefits</a><br>
-				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
-				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=privacy">Your privacy</a><br>
-				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
-				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=passprob">Password problems?</a>
-			</span>
-		</td>
-		<form name="formlogin" action="action=login_submit" method="post" onsubmit="return doLogin(this)"></form> 
-		<td bgcolor="#edece9" width="100" align="right">
-				<span class="SmallText">
-				<img height="1" src="/runaware2/graphics/spacer.gif" width="100"><br>
-				e-Mail Address<br>
-				<input name="c_login" size="12"><br>
-			
-				<input type="hidden" name="error_page" value="show_page&amp;page=passprob" width="12" style="HEIGHT: 22px; WIDTH: 97px">
-				<input type="hidden" name="org_ref" value="" width="12" style="HEIGHT: 22px; WIDTH: 95px">
-				<input type="hidden" name="ref" value="" width="12" style="HEIGHT: 22px; WIDTH: 95px">
-			
-				Password<br>
-				<input name="c_password" type="password" size="12">
-				<br>
-				<img height="5" src="/runaware2/graphics/spacer.gif" width="1">
-			</span>
-		</td>
-	</tr>
-		<tr align="right"> 
-			<td bgcolor="#edece9" colspan="2"><span class="SmallText">
-				Remember me 
-				<input class="GreyBackground" type="checkbox" name="c_remember" value="yes" checked="">
-				<input type="image" src="/runaware2/graphics/button_frontlogin_off.gif" align="absBottom" border="0" name="button_frontlogin" onmouseover="return ShowStatus('Login')">
-				</span></td>
-	</tr>
-</tbody></table>
-
-
-<table width="220" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	    <td valign="bottom" width="6" height="6"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_bottomleft.gif" width="6"></td>
-	    <td valign="bottom" width="208" bgcolor="#edece9" height="6"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="208"></td>
-	    <td valign="bottom" width="6" height="6"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_bottomright.gif" width="6"></td>
-	</tr>
-</tbody></table>
-		<img src="/runaware2/graphics/spacer.gif" width="10" height="10"><br>
-		<!-- Start categories tab -->
-		<table width="220" border="0" cellspacing="0" cellpadding="0" height="16" name="OSTabs">
-		  <tbody><tr valign="bottom"> 
-		    <td height="16" valign="bottom"><img height="1" src="/runaware2/graphics/spacer.gif" width="5"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="107"></td>
-		    <td width="42" height="16"><a href="javascript:activateTab(11)" onmouseover="return ShowStatus(' ')" onfocus="this.blur()"><img height="16" src="/runaware2/graphics/ostabs_1_off.gif" width="42" border="0" name="ostabs_1"></a></td>
-		    <td width="20" height="16"><img height="16" src="/runaware2/graphics/ostabs_inactive_to_inactive.gif" width="20" name="ostabs_mid1_0"></td>
-		    <td width="46" height="16"><a href="javascript:activateTab(10)" onmouseover="return ShowStatus(' ')" onfocus="this.blur()"><img height="16" src="/runaware2/graphics/ostabs_0_off.gif" width="46" border="0" name="ostabs_0"></a></td>
-		  </tr>
-		</tbody></table>
-		<table width="220" border="0" cellspacing="0" cellpadding="0" name="CategoryWindowTopBorder">
-		  <tbody><tr>
-		    <td height="5" width="259" bgcolor="#d3d2ce"><img height="5" src="/runaware2/graphics/window_category_corner_topleft.gif" width="6"><img height="5" src="/runaware2/graphics/spacer.gif" width="213"></td>
-		    <td height="5" width="1" bgcolor="#666666"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		  </tr>
-		</tbody></table>
-		<table width="220" border="0" cellspacing="0" cellpadding="0" name="CategoryWindowContent">
-		  <tbody><tr>
-		    <td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		    <td bgcolor="#d3d2ce" colspan="2" width="218">
-              <form name="searchForm" action="action=dosearch">
-              <input type="hidden" name="c_type" value="apps">
-              <span class="SmallText"><img height="1" src="/runaware2/graphics/spacer.gif" width="218"><br>
-              &nbsp;&nbsp;Search for program
-              <br>
-              <img height="5" src="/runaware2/graphics/spacer.gif" width="1"><br>
-              <table width="218" height="19" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr> 
-                  <td align="right" height="19">
-                    <input name="pat" size="15">
-                  </td>
-                  <td width="60" height="19">&nbsp;<a href="javascript:document.searchForm.submit()" onmouseover="return ShowStatus('Search')" onfocus="this.blur()" onmouseup="swapImg(0,'button_search','0')" onmousedown="swapImg(1,'button_search','0')" onmouseout="swapImg(0,'button_search','0')"><img height="19" src="/runaware2/graphics/button_search_off.gif" width="48" align="top" border="0" name="button_search"></a></td></tr>
-              </tbody></table>
-              </span>
-			<img height="5" src="/runaware2/graphics/spacer.gif" width="1"><br>
-		    <center><img height="2" src="/runaware2/graphics/divider_grey.gif" width="210"></center></form> 
-		   </td>
-		    <td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		  </tr>
-		  <tr>
-		    <td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		    <td width="15" bgcolor="#d3d2ce"><img height="1" src="/runaware2/graphics/spacer.gif" width="15"></td>
-			<td bgcolor="#d3d2ce" width="198" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="198"><br><span class="Headline">Browse categories<br><img height="5" src="/runaware2/graphics/spacer.gif" width="1"><br></span>
-				
-					<script>
-						printTabContents('OStabs');
-					</script>
-			
-				<img src="/runaware2/graphics/spacer.gif" width="3" height="7"><br>
-
-
-
-            </td>
-		    <td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-		  </tr>
-<tr>
-<td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-<td colspan="2" bgcolor="#d3d2ce" align="center">
-<span class="SmallText"><img src="/runaware2/graphics/spacer.gif" width="1" height="1">
-
-
-</span>
-</td>
-<td bgcolor="#666666" width="1"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"></td>
-</tr>
-</tbody></table>
-		<table width="220" border="0" cellspacing="0" cellpadding="0" name="CategoryWindowBottomBorder">
-		  <tbody><tr>
-		    <td width="6" height="6"><img height="6" src="/runaware2/graphics/window_category_corner_bottomleft.gif" width="6"></td>
-		    <td width="208" height="6" valign="bottom" bgcolor="#d3d2ce"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="208"></td>
-		    <td width="6" height="6"><img height="6" src="/runaware2/graphics/window_category_corner_bottomright.gif" width="6"></td>
-		  </tr>
-		</tbody></table>
-<img src="/runaware2/graphics/spacer.gif" height="10" width="1"><br>
-
-		<!-- end categories tab -->
-		<img src="/runaware2/graphics/spacer.gif" width="10" height="10"><br>
-		
-
-		  
-     </td>
-  </tr>
-</tbody></table>
-<br>
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr><td colspan="2" width="750"><img src="/runaware2/graphics/divider_grey.gif" width="750" height="2" border="0"></td> 
-  </tr>
-  <tr>
-    
-<td width="628">
-	
-<table width="628" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="360"><span class="footer">Would you like to have your software on runaware.com? <a href="http://business.runaware.com" target="_blank">Click here!</a><br>
-		<a href="/action=feedback_form?c_app_id=">Feedback!</a>&nbsp;  <a href="/action=show_page?page=contact">Contact runaware</a>&nbsp;  <a href="/action=show_page?page=service">Terms of service</a>&nbsp; <a href="/action=show_page?page=privacy">Privacy statement</a><br>
-		Copyright © 2001 Runaware AB. All rights reserved.
-</span></td>
-<td width="268" valign="top"><a href="/action=show_page?page=privacy"><img src="/runaware2/graphics/truste.gif" width="114" height="29" border="0"></a></td>
-</tr>
-</tbody></table>
-<span class="footer">		</span></td>
-    <!--<td width="228"><img src="/runaware2/graphics/truste.gif" width="114" height="29"></td>-->
-    <td width="122" align="right" valign="top"><a href="http://www.compaq.com"><img src="/runaware2/graphics/footer_compaq.gif" border="0" width="112" height="12"></a><img src="/runaware2/graphics/spacer.gif" width="10" height="12"></td>
-  </tr>
-<tr>
-<td width="628"><img src="/runaware2/graphics/spacer.gif" width="628" height="1"></td>
-<td width="122"><img src="/runaware2/graphics/spacer.gif" width="122" height="1"></td>
-</tr></tbody></table>
-<div id="contextLayer"></div>
+</script>
 
 
 
