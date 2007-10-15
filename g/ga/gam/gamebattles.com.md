@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611200720id_/http%3A//corp.gamebattles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015063006id_/http%3A//www.gamebattles.com/privacy.php) for the most accurate reproduction.*
 
-# GameBattles Privacy Policy
+# GameBattles: Privacy Policy
 
 **Our Approach to Privacy.** GameBattles respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of GameBattles, Inc.
 
@@ -80,9 +80,9 @@ o Email updates and special offers: You may cancel participation in the email an
 
 **Still Have Questions?**
 
-If you have any other questions about the GameBattles Privacy Policy, please contact us via our online form, available at http://www.GameBattles.com/email.html or write to us at:   
-GameBattles   
-Attn: Customer Service   
-3765 Marburg Ave   
-Cincinnati, OH 45209  
-*Be sure to include the specific GameBattles Site to which you are a member.
+If you have any other questions about the GameBattles Privacy Policy, please contact us via our online form, available at http://www.gamebattles.com/contact.php or write to us at: 
+
+Major League Gaming, Inc.  
+Attn: Customer Service  
+420 Lexington Ave, Suite 2820  
+New York, NY 10170
