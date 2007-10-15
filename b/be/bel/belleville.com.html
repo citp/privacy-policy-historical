@@ -1,41 +1,48 @@
-<!--The following is the downloaded HTML source of the belleville.com privacy policy that was archived on 2007-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070503162816id_/http%3A//www.belleville.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belleville.com privacy policy that was archived on 2007-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071015234340id_/http%3A//www.bnd.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- Start: /pubsys/production/shared/head.comp  --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="imagetoolbar" content="false">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!--Start: /pubsys/production/shared/head.comp--><head>
 
-<title>
-www.belleville.com | Privacy Policy &amp; Terms of Use
-</title>
+ 
+<title>Privacy Policy &amp; Terms of Use | www.bnd.com</title>
 
 <!-- /mi/switch, 
     target=>'[/mi/registration/request/user_run_mode]',
     regex=>'1',
     case=>{
-        '.' => ' | Registration | [/mi/registration/request/user_run_mode]' } -->
+        '.' => 'www.bnd.com | Registration | [/mi/registration/request/user_run_mode]' } -->
+  
+<meta http-equiv="description" content="Privacy Policy &amp; Terms of Use  extra description">
+<meta http-equiv="keywords" content="Privacy Policy &amp; Terms of Use  extra keywords">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="imagetoolbar" content="false">
+
+
+
+
+ 
+
 
 <link href="http://media.belleville.com/styles/mi/browser_conformity.css" rel="stylesheet" type="text/css">
 <link href="http://media.belleville.com/styles/mi/layout.css" rel="stylesheet" type="text/css">
 <link href="http://media.belleville.com/styles/mi/site.css" rel="stylesheet" type="text/css">
 <link href="http://media.belleville.com/styles/mi/thickbox.css" rel="stylesheet" type="text/css">
 <link href="http://media.belleville.com/styles/mi/layout_floated.css" rel="stylesheet" type="text/css">
-<link href="/styles/belleville.css" rel="stylesheet" type="text/css">
+<link href="http://media.belleville.com/styles/belleville.css" rel="stylesheet" type="text/css">
+<link href="http://media.belleville.com/styles/mi/DC_headlines.css" rel="stylesheet" type="text/css">
 
 
-<!--[if lt IE 7]><link href="/styles/mi/ie6.css" rel="stylesheet" type="text/css"><![endif]-->
+
+<!--[if lt IE 7]><link href="http://media.belleville.com/styles/mi/ie6.css" rel="stylesheet" type="text/css"><![endif]-->
+
 
              
 
+<!--  has_highlights call -->
 
-<script src="http://media.belleville.com/scripts/mi/jquery.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/mi/mi-utilities.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/mi/polls.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/site.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/mi/init_overhaul.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/mi/thickbox.js" type="text/javascript"></script>
-<script src="http://media.belleville.com/scripts/form_val_subscription.js" type="text/javascript"></script>
-<script src="/scripts/belleville.js" type="text/javascript"></script>
+
+
 
 
 <!-- START /pubsys/production/ad_dart_init.comp -->
@@ -126,12 +133,143 @@ var path = breadcrumb.toLowerCase();
 
 <!-- END /pubsys/production/shared/ads/ad_dart_self_awareness.comp -->
 
-
-
     
 
-</head>
+<script text="text/javascript" language="Javascript">
+// JavaScript Document
+// this is version 1.1 of the initialization script. I has been updated to work with jquery 1.1 Last Update 2/15/07
+var t="";
+
+/* Custom onload handler */
+var dolFunctions = new Array(); // array to hold customized affiliate functions and params for "DOM load" functions
+var wolFunctions = new Array(); // array to hold customized affiliate functions and params for "window load" functions
+
+// add custom load fucntions to correct array
+function onloadFunctions(myFunction,flag) {
+ if(flag == "d")
+ {
+ dolFunctions[wolFunctions.length] = myFunction;
+ }
+ else
+ {
+ wolFunctions[wolFunctions.length] = myFunction;
+ }
+}
+
+
+$(function() { //Initialization function, runs when the DOM has loaded
+ var columnsList = "#col1, #col2, #col3";
+ equalHeight(columnsList);
+ setLeftRightWidth();
+ $("#footer").css({margin: "5px 0 0 0"});
+ $(window).load(function() {
+ equalHeight(columnsList);
+ setLeftRightWidth();
+ });
+ customInit(); // this will fire off any customized affiliate "load" functions
+});
+
+function equalHeight(colList) {
+ $(colList).each(function() {$(this).height("auto");});
+ var topHeight = 0;
+ var staticTop = -1;
+ $(colList).each(function() {
+ if ($(this).height() >= topHeight) {
+ topHeight = $(this).height();
+ }
+ if ($(this).css("position") == "static") {
+ staticTop = findPos(document.getElementById($(this).attr("id"))).y;
+ }
+ });
+ topHeight = topHeight + "px";
+ staticTop = staticTop + "px"
+ $(colList).each(function() {
+ $(this).height(topHeight);
+ if (staticTop != -1) $(this).css("top",staticTop);
+ });
+};
+
+function equalHeightLR() {
+ var topHeight = 0;
+ var leftCol = "div.left_half";
+ var rightCol = "div.right_half";
+ $(leftCol).each(function(i) {
+ $(this).height("auto");
+ $(rightCol).eq(i).height("auto");
+ topHeight = $(this).height();
+ if ($(rightCol).eq(i).height() >= topHeight) {
+ topHeight = $("div.right_half").eq(i).height();
+ }
+ topHeight = topHeight + "px";
+ $(this).height(topHeight);
+ $(rightCol).eq(i).height(topHeight);
+ });
+};
+
+function findPos(obj) { //returns the x & y coordinates of an element
+ var curleft = obj.offsetLeft || 0;
+ var curtop = obj.offsetTop || 0;
+ while (obj = obj.offsetParent) {
+ curleft += obj.offsetLeft
+ curtop += obj.offsetTop
+ }
+ return {x:curleft,y:curtop};
+}
+
+function setLeftRightWidth() {
+ if(window.leftRightWidth) {
+ $("div.left_half").each(function(i){
+ if(i < leftRightWidth.length){ // Check to see if a custom width has been defined for this DIV
+ if(leftRightWidth[i][0]<=100) { // Only apply left width if it is less than or equal to 100
+ $(this).width(leftRightWidth[i][0]+"%");
+ }
+ }
+ })
+ $("div.right_half").each(function(i){
+ if(i < leftRightWidth.length){ // Check to see if a custom width has been defined for this DIV
+ if(leftRightWidth[i][0]<=100) { // Only apply right width if the left width is less than or equal to 100
+ if(leftRightWidth[i][0]+leftRightWidth[i][1]>100) { // If sum of the left and right widths is greater than 100 just right width
+ leftRightWidth[i][1]=100-leftRightWidth[i][0];
+ }
+ $(this).width(leftRightWidth[i][1]+"%");
+ }
+ }
+ })
+ equalHeightLR();
+ }
+}
+
+function customInit() {
+ for(var i=0; i < dolFunctions.length; i++)
+ {
+ eval(dolFunctions[i]);
+ }
+}
+
+function initLoad(){
+ for(var i=0; i < wolFunctions.length; i++)
+ {
+ eval(wolFunctions[i]);
+ }
+}
+addEvent(window,'load',initLoad);
+</script>
+
+
+<script src="http://media.belleville.com/scripts/mi/jquery.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/mi/mi-utilities.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/mi/polls.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/site.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/mi/init_overhaul.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/mi/thickbox.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/form_val_subscription.js" type="text/javascript"></script><script src="http://media.belleville.com/scripts/belleville.js" type="text/javascript"></script></head>
+
+
+
+
+
+
+
+
+
+
+
 <!-- End: /pubsys/production/shared/head.comp -->
+
 
 <!-- START TAKEOVER AD -->
 <!-- START /pubsys/production/shared/ads/ad_dart_billboard1.comp -->
@@ -140,7 +278,7 @@ var path = breadcrumb.toLowerCase();
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=billboard1;sz=972x30;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=billboard1;sz=972x30;tile=1;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=billboard1;sz=972x30;tile=1;ord=1580419427359?"></script>
 
 <noscript>
 <a href="http://ad.doubleclick.net/jump/;pos=billboard1;sz=972x30;ord='+_krdDartOrd+'?" target="_blank">
@@ -157,10 +295,10 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
     <!-- Start: /pubsys/production/shared/masthead.comp -->
 <div id="masthead">
     <div id="mast_subscribe">
-        <a href="/subscriptions"><img src="http://media.belleville.com/images/sm_logo_newsdemocrat.jpg" alt="Subscribe Today"><br>Subscriber Services</a>
+        <a href="https://www.formrouter.net/forms01@BNDIL/maincirc.html"><img src="http://media.belleville.com/images/sm_logo_newsdemocrat.jpg" alt="Subscribe Today"><br>Subscriber Services</a>
     </div>
         
-    <a href="/" id="mast_logo"><img src="http://media.belleville.com/images/site_logo_340x60.gif" alt="www.belleville.com"></a>
+    <a href="/" id="mast_logo"><img src="http://media.belleville.com/images/site_logo_340x60.gif" alt="www.bnd.com"></a>
         
     <div id="mast_content">
         <div id="weathernode">
@@ -187,7 +325,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=header;group=160x60;dcopt=ist;sz=160x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=header;group=160x60;dcopt=ist;sz=160x60;tile=2;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=header;group=160x60;dcopt=ist;sz=160x60;tile=2;ord=1580419427359?"></script>
 
 <noscript><a href="http://ad.doubleclick.net/jump/;pos=header;group=160x60;sz=160x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;pos=header;group=160x60;sz=160x60;ord='+_krdDartOrd+'?" width="160" height="60" border="0" ></a></noscript>
 
@@ -205,7 +343,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/;pos=top;group=banner;sz=728x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=top;group=banner;sz=728x90;tile=3;ord=1580419428535?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=top;group=banner;sz=728x90;tile=3;ord=1580419427359?"></script>
 
 <noscript>
 <A HREF="http://ad.doubleclick.net/jump/;pos=top;group=banner;sz=728x90;ord='+_krdDartOrd+'?" TARGET="_blank">
@@ -222,6 +360,7 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 			<span class="legend">Search</span>
 			<input type="radio" name="aff" value="100" id="pd_search" checked="checked" class="radio"><label for="pd_search">Belleville.com</label>
 			<input type="radio" name="aff" value="archives" id="archives_search" class="radio"><label for="archives_search">Archives</label>
+                        <input type="radio" name="aff" value="web" id="web_search" class="radio"><label for="web_search">Web</label>
 			<span class="legend">for</span>
 			<input type="text" name="keywords" size="30">
 			<input type="submit" name="submit" value="Go" class="button">
@@ -235,10 +374,73 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
         <a href="https://registration.site.com/reg/createAccount.do">Signup</a> |<a href="https://registration.site.com/reg/login.do">Sign in</a> | <a href="https://registration.site.com/reg/memberBenefits.do">Member benefits</a>
     </div>
 -->
-<!-- Temporary Link to Classifieds and Member Benefits -->
-        <div id="myclassifieds">
+
+<div id="registration">
+<script type="text/javascript">
+// GENERIC COOKIE FUNCTIONS
+function getCookieVal(offset) {
+ var endstr=document.cookie.indexOf(";",offset);
+ if (endstr==-1)
+ endstr=document.cookie.length;
+ return unescape(document.cookie.substring(offset,endstr));
+}
+function GetCookie(cname) {
+ var arg=cname+"="; var alen=arg.length;
+ var clen=document.cookie.length; var i=0;
+ while (i<clen) {
+        var j=i+alen;
+        if (document.cookie.substring(i,j)==arg) return getCookieVal (j); i=document.cookie.indexOf("",i)+ 1;
+        if (i==0) break;
+ } return null;
+}
+function SaveCookie(cname,cvalue,cdays,cpath) {
+        ex = new Date; ex.setTime(ex.getTime() + (cdays*86400000));
+        if (cpath == null) { cpath = "/" } else { cpath = "; path=" + cpath }
+        sitedom=location.hostname.replace(/www\./,"");
+        document.cookie=cname + '=' + cvalue + '; expires=' + ex.toGMTString() + cpath + "; domain="+sitedom;
+}
+
+//SHOW HIDE CSS
+var insitecookie=document.cookie.match('belleville_user_auth');
+var icname = GetCookie(insitecookie);
+if (icname && icname.indexOf('.threshold') == -1) { 
+    document.write("<style>#nonmember{display:none;}</style>");
+ } else {
+    document.write("<style>#member{display:none;}</style>");
+ }
+</script><style>#member{display:none;}</style>  
+<script language="JavaScript">
+var rurl_qs = '';
+if (document.referrer)
+{
+    rurl_qs = ";goto=" + escape(document.referrer);
+}
+else 
+{ 
+    // customer defined fall-through 
+}
+var insitecookie=document.cookie.match('belleville_user_auth');
+if (GetCookie(insitecookie)) {              
+    var name = (GetCookie(insitecookie).replace(/\|.*/,""));
+    name = name.replace(/\.threshold/ig,'Guest');
+} else 
+{
+     name = 'Guest'
+}
+document.write('Welcome <span style="font-weight: bold;">' + name + ' </span><br />');
+document.write('<span id="nonmember"><a href="http://www.bnd.com/static/insite/login.html?' + rurl_qs + '">Login</a> | <a href="/reg-bin/int.cgi?mode=register">Register</a> | <a href="https://secure.belleville.com/listit/myclassifieds/">Sign in to Classifieds</a></span>')
+</script>Welcome <span style="font-weight: bold;">Guest </span><br><span id="nonmember"><a href="http://www.bnd.com/static/insite/login.html?">Login</a> | <a href="/reg-bin/int.cgi?mode=register">Register</a> | <a href="https://secure.belleville.com/listit/myclassifieds/">Sign in to Classifieds</a></span>
+<span id="member">
+    <a href="/reg-bin/tint.cgi?mode=logout">Logout</a> | <a href="/reg-bin/tint.cgi?mode=edit">Member Center</a> | <a href="https://secure.belleville.com/listit/myclassifieds/">Sign in to Classifieds</a>
+</span>
+</div>
+<div style="clear:both;"></div>
+
+
+<!-- cnc: Temporary Link to Classifieds and Member Benefits
+        <div id='myclassifieds'>
           <a href="https://secure..com/listit/myclassifieds/">Sign in to your Classified Account</a>
-        </div>
+        </div>-->
 
 </div>
 
@@ -250,8 +452,10 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <ul id="classifieds_link_box" class="navigation">
     <li><a href="/jobs/index.html">Jobs</a></li>
     <li><a href="/cars/index.html">Cars</a></li>
-    <li><a href="/homes/index.html">Real Estate</a></li>
-    <li><a href="/classifieds/rentals/index.html">Rentals</a></li>
+    <li><a href="/homes/index.html">Real Estate</a>
+            <ul><li><a href="http://newspaperads.belleville.com/ROP/VSearchProp.aspx?sstarg=prop"><b>Homes for Sale <img src="http://media.belleville.com/static/images/newred.gif"></b></a></li></ul>
+      
+       </li><li><a href="/classifieds/rentals/index.html">Rentals</a></li>
     <li><a href="http://www.shoplocal.com/belleville/new_user_entry.aspx?CityStateZip=62220&amp;EntryPageOption=0&amp;ShoppingZoneRadius=50&amp;AdRef=link02">Shop Local</a></li>
     <li><a href="/classifieds/index.html">All Classifieds</a>
         <ul>
@@ -277,7 +481,15 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <!-- site nav -->
 <ul class="navigation">
     <li class="header"></li>
-    <li><a href="/news/index.html">News</a></li>
+    <li><a href="/news/index.html">News</a><ul>
+<li><a href="/news/crime/index.html">Crime &amp; Courts</a></li>
+<li><a href="/news/local/index.html">Local/State</a></li>
+<li><a href="/news/index.html">Nation/World</a></li>
+<li><a href="/404/index.html">Military</a></li>
+<li><a href="http://www.legacy.com/Belleville/">Obituaries</a></li>
+<li><a href="/living/community/index.html">Your community</a></li>
+<li><a href="/news/spiers/index.html">Wally Spiers</a></li>
+</ul></li>
     <li><a href="/sports/index.html">Sports</a></li>
     <li><a href="/entertainment/index.html">Entertainment</a></li>
     <li><a href="/business/index.html">Business</a></li>
@@ -288,8 +500,10 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <!-- online extras -->
 <ul class="navigation">
     <li class="header">Online Extras</li>
+    <li><a href="http://media.belleville.com/static/frontpagePdfs/BellevilleNewsDemocrat.pdf">Today's Front Page</a></li>
+     <li><a href="http://www.bnd.com/189/index.html">Our War: WWII <img src="http://media.belleville.com/static/images/newred.gif"></a></li>
     <li><a href="/blogs/index.html">Blogs</a></li>
-    <li><a href="http://www.mcclatchy.com/static/frontpagePdfs/BellevilleNewsDemocrat.pdf">Today's Front Page</a></li>
+    
     <li><a href="http://forums.belleville.com/dir-app/nav/forumdirectory.aspx?webtag=kr-bellevillez&amp;byName=y">Discussion Boards</a></li>
     <li><a href="http://shoplocal.planetdiscover.com/sp?aff=18&amp;map=true">Maps &amp; Directions</a></li>
     <li><a href="/multimedia/index.html">Multimedia</a><br>
@@ -298,6 +512,8 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 	</ul>
 	</li>
     <li><a href="http://newspaperads.belleville.com/RopCategory.aspx">Newspaper Ads</a></li>
+    <li><a href="http://newspaperads.belleville.com/SS/Page.aspx?&amp;secid=29978&amp;pagenum=1">Graduation Section</a></li>
+     <li><a href="http://newspaperads.belleville.com/SS/Page.aspx?&amp;secid=29740&amp;pagenum=1">Summer Fun</a></li>
     <li><a href="/archives/index.html">Past Articles</a></li>
     <li><a href="/rss/index.html">RSS Headlines</a></li>	
     <li><a href="http://shoplocal.planetdiscover.com/sp?aff=18">Yellow Pages</a></li>
@@ -352,43 +568,43 @@ document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <div style="font-size:9pt;">
 <h5>Effective Date: April 9, 2007</h5>
 </div>
-<p>BellevilleNewsDemocrat.com has a firm commitment to privacy. We take your privacy concerns seriously and want
+<p>BND.com has a firm commitment to privacy. We take your privacy concerns seriously and want
 to make every effort to address them as we strive to offer our site visitors a high quality,
 interactive and personalized experience. That is why we have adopted the following policy,
 which explains our position on information-gathering and how we intend to use and share any
 information we collect. It is important to note that this policy applies only to information
-collected by BellevilleNewsDemocrat.com and does not apply to information obtained or used by The Belleville News-Democrat or
+collected by BND.com and does not apply to information obtained or used by The Belleville News-Democrat or
 its affiliates through other means.</p>
 
-<p>BellevilleNewsDemocrat.com collects and stores Personally Identifiable Information such as your name, address,
+<p>BND.com collects and stores Personally Identifiable Information such as your name, address,
 e-mail address, etc.  What information we collect and store depends on the page you are
 visiting and the services you elect to participate in.  We use this information to operate
 our services, provide you with the highest quality services, offer you opportunities we think
 will be of interest, and better tailor the advertising you see from us to suit you.  This
-information is not shared with anyone outside of The Belleville News-Democrat and BellevilleNewsDemocrat.com, except as
+information is not shared with anyone outside of The Belleville News-Democrat and BND.com, except as
 provided for in this Privacy Policy.  More specifics on the information we collect are
 outlined within this policy.</p>
 
 <p>This privacy policy is subject to change from time to time. If the policy is revised, a
 notice will be placed in the Member Center where registered members of our service may also
 update their personal information, subscribe to e-mail newsletters and revise the permissions
-that they previously granted BellevilleNewsDemocrat.com.  They may also receive an e-mail outlining the change.
-Non-registered users of BellevilleNewsDemocrat.com may view the privacy policy, including any revisions, by
-clicking on the "Privacy Policy" link on the home page of BellevilleNewsDemocrat.com. If the changes represent
+that they previously granted BND.com.  They may also receive an e-mail outlining the change.
+Non-registered users of BND.com may view the privacy policy, including any revisions, by
+clicking on the "Privacy Policy" link on the home page of BND.com. If the changes represent
 a material departure from our current policy or materially affect users' rights and
 obligations, if feasible, the changes will be posted on this page 30 days in advance of their
 effective date.</p>
 
 <h2>What information we collect and how it is used</h2>
-<p>Access to special content, services and features on BellevilleNewsDemocrat.com requires users to be subscribers
-to The Belleville News-Democrat and to become registered members at BellevilleNewsDemocrat.com. Member registration requires you
+<p>Access to special content, services and features on BND.com requires users to be subscribers
+to The Belleville News-Democrat and to become registered members at BND.com. Member registration requires you
 to provide certain Personally Identifiable Information, such as your name, e-mail address,
 street address, gender, and date of birth. You will be asked to select a membername and
 password so that you have access to this information and can revise it in the future.  To
 complete the registration process, we will send you a validation e-mail message.  You must
 click the link in the e-mail to fully activate your membership account.  You will also have the
 opportunity to subscribe to e-mail newsletters and alerts and elect to receive E-mail Offers
-sent to you on behalf of BellevilleNewsDemocrat.com advertisers.  Some features and services may require additional
+sent to you on behalf of BND.com advertisers.  Some features and services may require additional
 Personally Identifiable Information or other demographic information.  We may collect other
 personal information when you provide feedback, comments, engage in chat, message boards,
 interactive forums or participate in surveys, or if you contact us offline.  For example, when
@@ -398,7 +614,7 @@ choosing not to register on the web site or use our services.  Only registered m
 may access certain content, services and features.</p>
 
 <p>You may also be asked to create a separate registration account with some of the services
-provided by partners and other providers on BellevilleNewsDemocrat.com.  An example is the sacbeeMail e-mail service.
+provided by partners and other providers on BND.com.  An example is the sacbeeMail e-mail service.
 Be aware that the information collected by a provider may be subject to the privacy policy and
 terms of use of that provider, and we recommend reviewing these prior to submitting your
 registration.</p>
@@ -409,12 +625,12 @@ sell, rent, or market your friend's personal information, and retain the informa
 as necessary to provide this service.</p>
 
 <h2>Passive Data Collection and Use</h2>
-<p>Like most Web sites, BellevilleNewsDemocrat.com also collects and logs information automatically and through the
+<p>Like most Web sites, BND.com also collects and logs information automatically and through the
 use of electronic tools that may be transparent to you, such as your IP address, the name and
 location of your Internet Service Provider, the type and version of your browser, the length of
-time that you stay on BellevilleNewsDemocrat.com, search queries, your click-stream data, the location that referred
-you to BellevilleNewsDemocrat.com and the average number of pages viewed. If you visit another website prior to
-browsing BellevilleNewsDemocrat.com, that website might place personally identifiable information within a URL, which
+time that you stay on BND.com, search queries, your click-stream data, the location that referred
+you to BND.com and the average number of pages viewed. If you visit another website prior to
+browsing BND.com, that website might place personally identifiable information within a URL, which
 may be logged by us.  Your IP address is the identifier assigned to your particular computer when
 you access the Internet. Depending on how you connect to the Internet, your IP address may always
 be the same, or it may change each time you access the Internet.  Note that logging your IP
@@ -431,47 +647,47 @@ information or newspaper subscription records.</p>
 information about a user's visit to that Web site in a small data text file that is stored on the
 user's computer.  Our use of cookie technology will likely be transparent to you and is used to
 recognize you and hold information from one visit to the next in an effort to increase your ease
-of use of BellevilleNewsDemocrat.com and to allow us to better understand how people use our site through click-stream
+of use of BND.com and to allow us to better understand how people use our site through click-stream
 analysis.  For example, cookies are used to store your membername and password, sparing you from
 having to re-enter that information each time you visit.   Another example is that we may use
 cookie technology to control the number of times you see a particular advertisement while visiting
-BellevilleNewsDemocrat.com.   You can turn the cookies feature off by using your browser preference options, but doing
-so will severely limit your access to BellevilleNewsDemocrat.com and may prevent you from registration.</p>
+BND.com.   You can turn the cookies feature off by using your browser preference options, but doing
+so will severely limit your access to BND.com and may prevent you from registration.</p>
 
-<p>Some of BellevilleNewsDemocrat.com's third-party content providers also may place a cookie on the user's computer.
+<p>Some of BND.com's third-party content providers also may place a cookie on the user's computer.
 If a user chooses to monitor or restrict cookies that are placed on his computer, the user can
 determine the Web site that is attempting to place a cookie. Those cookies are controlled by the
 content provider, and users should refer to that provider's privacy policy for further information
 regarding its use of cookies.</p>
 
-<p>We use software developed by another company, RealMedia, to display advertising on BellevilleNewsDemocrat.com, and
+<p>We use software developed by another company, RealMedia, to display advertising on BND.com, and
 we may use cookies in conjunction with displaying those ads. In addition, advertisers may elect to
-use other advertising companies to serve their ads on BellevilleNewsDemocrat.com, and advertisers themselves may also
+use other advertising companies to serve their ads on BND.com, and advertisers themselves may also
 place a cookie on a user's computer. We do not have access to the cookies or their contents that
 are placed by advertisers or by third-party advertising companies.</p>
 
 <h2>Use of Personally Identifiable Information</h2>
 <p>Personally Identifiable Information may be accessed by the user who entered it, by The
-Belleville News-Democrat and BellevilleNewsDemocrat.com personnel, and by certain third parties, such as those who provide technical support or content services to BellevilleNewsDemocrat.com.  We ask these third parties to keep any personal information supplied by us confidential.   We also endeavor to keep your Personally Identifiable Information inaccessible to other users or advertisers of BellevilleNewsDemocrat.com.  Note that your first name may be displayed on BellevilleNewsDemocrat.com when you visit BellevilleNewsDemocrat.com as a logged in member.   We will also display your e-mail address and contact information in your Member Center.   We make every effort to make the Member Center secure, such that it can only be accessed by logging in with your membername and password.</p>
+Belleville News-Democrat and BND.com personnel, and by certain third parties, such as those who provide technical support or content services to BND.com.  We ask these third parties to keep any personal information supplied by us confidential.   We also endeavor to keep your Personally Identifiable Information inaccessible to other users or advertisers of BND.com.  Note that your first name may be displayed on BND.com when you visit BND.com as a logged in member.   We will also display your e-mail address and contact information in your Member Center.   We make every effort to make the Member Center secure, such that it can only be accessed by logging in with your membername and password.</p>
 
 <p>We also reserve the right to disclose Personally Identifiable Information when deemed necessary
 or appropriate to comply with the law, respond to claims, protect our computer systems and customers,
 ensure the integrity and operation of our business and systems, or protect the rights, property or
-safety of BellevilleNewsDemocrat.com, its affiliates, or others.</p>
+safety of BND.com, its affiliates, or others.</p>
 
 <p>We will not disclose your Personally Identifiable Information without your advance permission
 except as explained in this privacy policy or as explained at the time the information was collected.</p>
 
 <h2>Use of Aggregated information</h2>
 <p>In order to describe our services to prospective partners, advertisers and others, we may use your
-Personally Identifiable Information to create a compiled, aggregate view of the BellevilleNewsDemocrat.com audience and their usage patterns.  We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services.  Aggregated Information may also be shared with third parties we contract with to provide content and services on BellevilleNewsDemocrat.com as well as advertisers so that they can better understand our audience.  For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes. </p>
+Personally Identifiable Information to create a compiled, aggregate view of the BND.com audience and their usage patterns.  We use Aggregated Information to operate our services and to better understand our audience as we develop new content and services.  Aggregated Information may also be shared with third parties we contract with to provide content and services on BND.com as well as advertisers so that they can better understand our audience.  For example, we might disclose that a certain percentage of our users are female or within a certain age range or live within a cluster of zip codes. </p>
 
-<h2>Children's Privacy</h2>
-<p>BellevilleNewsDemocrat.com is particularly concerned with providing a safe online environment for children.  Children under the age 13 will not be allowed to register and become a member of BellevilleNewsDemocrat.com in order to access general BellevilleNewsDemocrat.com content, features and services.</p>
+<a name="child"><h2>Children's Privacy</h2></a>
+<p>BND.com is particularly concerned with providing a safe online environment for children.  Children under the age 13 will not be allowed to register and become a member of BND.com in order to access general BND.com content, features and services.</p>
 
 <p>In the near future, parents and legal guardians of children under age 13 who register are able to
 establish a member account for their child by accessing the Member Center.  Other areas and services
-operated by BellevilleNewsDemocrat.com that do not require registration but that ask for Personally Identifiable
+operated by BND.com that do not require registration but that ask for Personally Identifiable
 Information from children under age 13 will require a parental consent before collecting the
 information.  The Belleville News-Democrat does not ask children under age 13 for more personal information, as a
 condition of participation, than is reasonably necessary to participate in a given activity or
@@ -483,31 +699,31 @@ of a completed Parental Consent Form, including your signature, to the facsimile
 the Parental Consent Form. This form will be available in applicable areas of our site. (2) Mail a
 completed Parental Consent Form to the address indicated.</p>
 
-<p>BellevilleNewsDemocrat.com will not knowingly disclose personal information about users under the age of 13 without
+<p>BND.com will not knowingly disclose personal information about users under the age of 13 without
 prior parental or legal guardian consent, except as required by law. If for any reason you wish to
-access, update or remove information about your child that has been previously provided to BellevilleNewsDemocrat.com,
+access, update or remove information about your child that has been previously provided to BND.com,
 you may fax us (at (618) 234-9597), call us (at (618) 239-2451) or send an e-mail to newsroom@bnd.com.</p>
 
-<p>BellevilleNewsDemocrat.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.</p>
+<p>BND.com strongly recommends parental supervision when a child uses the Internet, particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas.</p>
 
 <h2>Member Mail and E-mail Offers</h2>
-<p>BellevilleNewsDemocrat.com does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to as E-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may go to the Member Center and change one or more of the category-specific permission related to receiving e-mail from The Belleville News-Democrat and BellevilleNewsDemocrat.com advertisers.</p>
+<p>BND.com does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific contest or service. If a user granted permission to receive solicitations (referred to as E-mail Offers) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may go to the Member Center and change one or more of the category-specific permission related to receiving e-mail from The Belleville News-Democrat and BND.com advertisers.</p>
 
-<p>All registered users will receive periodic Member Mail via e-mail related to their membership account or various features and services on BellevilleNewsDemocrat.com that their membership entitles them to access.  Because Member Mail is an important part of our service to you, users cannot opt-out of receiving Member Mail.</p>
+<p>All registered users will receive periodic Member Mail via e-mail related to their membership account or various features and services on BND.com that their membership entitles them to access.  Because Member Mail is an important part of our service to you, users cannot opt-out of receiving Member Mail.</p>
 
-<p>Separate from BellevilleNewsDemocrat.com Member Mail, The Belleville News-Democrat may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers.  If you don't want to receive this information, you can opt out by changing your permission setting for The Belleville News-Democrat Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of E-mail Offers might interest you.</p>
+<p>Separate from BND.com Member Mail, The Belleville News-Democrat may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers.  If you don't want to receive this information, you can opt out by changing your permission setting for The Belleville News-Democrat Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of E-mail Offers might interest you.</p>
 
 <p>When a user specifically authorizes e-mail solicitations, we make available the user names and other Personally Identifiable Information in accordance with the applicable license.</p>
 
 <p>Our HTML-encoded e-mail messages may include graphic files, which we use to gather information about e-mails sent our members.  When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information.  These HTML-encoded e-mail messages may also read cookies.</p>
 
 <h2>Affiliated sites, linked sites and advertisements</h2>
-<p>BellevilleNewsDemocrat.com expects its partners, providers of content and services and advertisers to respect the privacy of our users.  Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices.  For example, during your visit to BellevilleNewsDemocrat.com you may link to, or view as part of a frame on a BellevilleNewsDemocrat.com page, certain content that is actually created or hosted by a third party.  Also through BellevilleNewsDemocrat.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties.   The Belleville News-Democrat and BellevilleNewsDemocrat.com are not responsible for the actions
+<p>BND.com expects its partners, providers of content and services and advertisers to respect the privacy of our users.  Be aware, however, that third parties, including our partners, providers of content and services, advertisers and others accessible through our site may have their own privacy and data collection policies and practices.  For example, during your visit to BND.com you may link to, or view as part of a frame on a BND.com page, certain content that is actually created or hosted by a third party.  Also through BND.com you may be introduced to, or be able to access information, services, Web sites, features, contest or sweepstakes offered by other parties.   The Belleville News-Democrat and BND.com are not responsible for the actions
 or policies of such third parties.  You should check the applicable privacy policies of those third parties
 when providing information on a feature or page operated by a third party.</p>
 
 <h2>Electronic commerce with The Belleville News-Democrat</h2>
-<p>For certain electronic commerce services on BellevilleNewsDemocrat.com, such as placing classified ads electronically or
+<p>For certain electronic commerce services on BND.com, such as placing classified ads electronically or
 subscribing to The Belleville News-Democrat newspaper, we require additional information. To complete these transactions,
 we may collect information from you such as your name, credit card number and other financial or Personally
 Identifiable Information. We endeavor to protect the security of your payment information during transmission
@@ -520,14 +736,14 @@ or as otherwise set forth in this policy.</p>
 <p>In general, a registered member may return to his or her account information page in the Member Center to
 update the information he or she previously provided to us.  To prevent minors from improperly entering
 contests for which they are not eligible, we may require additional proof from people asking to change their
-birth date information.  Information you provide to BellevilleNewsDemocrat.com may be stored by us for an indefinite time. This
+birth date information.  Information you provide to BND.com may be stored by us for an indefinite time. This
 information includes the registration data as well as information provided in conjunction with various
-membership services, contests or features available on BellevilleNewsDemocrat.com</p>
+membership services, contests or features available on BND.com</p>
 
-<p>You can delete your BellevilleNewsDemocrat.com membership account in Member Center by clicking on the link labeled "delete my account."  By doing so, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media.  Note that by deleting your account, you will cancel your membership and no longer be able to access BellevilleNewsDemocrat.com.</p>
+<p>You can delete your BND.com membership account in Member Center by clicking on the link labeled "delete my account."  By doing so, all but a transactional record of your membership account will be removed from our databases, though some records may remain on back-up media.  Note that by deleting your account, you will cancel your membership and no longer be able to access BND.com.</p>
 
 <h2>Remember the risks when you use the Internet</h2>
-<p>You should know that when you voluntarily disclose personal information on the BellevilleNewsDemocrat.com Web site (for
+<p>You should know that when you voluntarily disclose personal information on the BND.com Web site (for
 example, in the discussion forums), that information can be collected and used by others and may result in
 unsolicited messages from other people. While we do our best to protect your personal information, we cannot
 be responsible for information that you choose to publicly disclose. Further, you are solely responsible for
@@ -536,13 +752,13 @@ to store the information we collect in a secure operating environment that is no
 to work with responsible third parties, we cannot guarantee complete security for your information.</p>
 
 <p>In addition, our advertisers, content providers, partners and other Internet sites or services that may be
-accessible through BellevilleNewsDemocrat.com have separate data and privacy practices that are independent of us, and we disclaim
+accessible through BND.com have separate data and privacy practices that are independent of us, and we disclaim
 any responsibility or liability for their policies or actions. Please contact those sites directly if you have
 questions about their privacy policies.</p>
 
 <h2>International users</h2>
-<p>If you are an international user, by using BellevilleNewsDemocrat.com or by registering for any of its services, you agree
-that BellevilleNewsDemocrat.com may collect, use and transfer your personal information as described in this privacy policy,
+<p>If you are an international user, by using BND.com or by registering for any of its services, you agree
+that BND.com may collect, use and transfer your personal information as described in this privacy policy,
 including transfers outside the country where you live. If you reside in a country in the European Union or
 other jurisdiction that provides access rights under law, you may access your personal information or have
 it corrected or updated by going to your account information page and personally updating the information.
@@ -550,7 +766,7 @@ in accordance with applicable law by contacting us. In some jurisdictions, you m
 fee for access to information.</p>
 
 <h2>Platform for Privacy Preferences.</h2>
-<p>BellevilleNewsDemocrat.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies,
+<p>BND.com supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies,
 to the extent possible, in standardized, machine-readable code.  While our site supports P3P, the resulting
 code has inherent limitations such that it does not fully and may not accurately express all of our data
 practices.  Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may
@@ -562,7 +778,7 @@ This Privacy Policy remains our primary policy, and takes precedence over the P3
 <p>In the event of the sale or merger of The Belleville News-Democrat Company and/or The McClatchy Company, ownership of
 the information described in this Privacy Policy will be transferred to the acquiring or successor company.</p>
 
-<p>BellevilleNewsDemocrat.com endorses and abides by the privacy principles approved by the Interactive Services Association and
+<p>BND.com endorses and abides by the privacy principles approved by the Interactive Services Association and
 the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached
 at P.O. Box 427, Belleville, IL 62222, at (618) 239-2451 or at newsroom@bnd.com.</p>
 
@@ -616,7 +832,7 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1;group=cube;sz=160x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1;group=cube;sz=160x90;tile=4;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1;group=cube;sz=160x90;tile=4;ord=1580419427359?"></script>
 
 <noscript>
 <a href="http://ad.doubleclick.net/jump/;pos=right1;group=cube;sz=160x90;ord='+_krdDartOrd+'?" target="_blank">
@@ -629,7 +845,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<scri'+'pt type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1a;group=cube;sz=160x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1a;group=cube;sz=160x90;tile=5;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1a;group=cube;sz=160x90;tile=5;ord=1580419427359?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/;pos=right1a;group=cube;sz=160x90;ord='+_krdDartOrd+'?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/;pos=right1a;group=cube;sz=160x90;ord='+_krdDartOrd+'?" width="160" height="90" border="0" ></a>
@@ -641,7 +857,7 @@ document.write('<scri'+'pt type="text/javascript" language="JavaScript1.1" src="
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1b;group=cube;sz=160x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1b;group=cube;sz=160x90;tile=6;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right1b;group=cube;sz=160x90;tile=6;ord=1580419427359?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/;pos=right1b;group=cube;sz=160x90;ord='+_krdDartOrd+'?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/;pos=right1b;group=cube;sz=160x90;ord='+_krdDartOrd+'?" width="160" height="90" border="0" ></a>
@@ -653,7 +869,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script type="text/javascript" language="JavaScript1.1">
 _krdDartInc++;
 document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right2;group=tower;sz=160x600;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right2;group=tower;sz=160x600;tile=7;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=right2;group=tower;sz=160x600;tile=7;ord=1580419427359?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/jump/;pos=right2;group=tower;sz=160x600;ord='+_krdDartOrd+'?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/;pos=right2;group=tower;sz=160x600;ord='+_krdDartOrd+'?" width="160" height="600" border="0" ></a>
@@ -711,7 +927,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script type="text/javascript"><!--
 	showTopJobs ("top_jobs", 0);
 //--></script><!-- START /pubsys/production/story/assets/topix.comp -->
-<script type="text/javascript" language="javascript" src="/scripts/mi/kr_topix_global.js"></script>
+<script type="text/javascript" language="javascript" src="http://media.belleville.com/scripts/mi/kr_topix_global.js"></script>
 <div class="relatedtopix">
 
 <script language="JavaScript">
@@ -719,13 +935,13 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
   var krd_site = "kansas";
   var krd_site_display_name = "Kansas.com";
   var krd_publication = "kansas";
-  var test = 'http://www.belleville.com///.html';
+  var test = 'http://www.bnd.com///.html';
   test = test.replace(/:/g,'%3A');
   test = test.replace(/\//g,'%2F');
 </script>
 <script language="JavaScript">var topixcats = new Array();</script>
 <script language="JavaScript" src="http://ctx.topix.net/ctx/program.js"></script>
-<script language="JavaScript" src="/scripts/mi/kr_topix_links.js"></script>
+<script language="JavaScript" src="http://media.belleville.com/scripts/mi/kr_topix_links.js"></script>
 
 </div>
 
@@ -746,7 +962,7 @@ document.write('<script type="text/javascript" language="JavaScript1.1" src="htt
 <script type="text/javascript" language="JavaScript1.1">
     _krdDartInc++;
     document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=footer;group=contextual;sz=420x200;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
-</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=footer;group=contextual;sz=420x200;tile=8;ord=1580419428535?"></script>
+</script><script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/;pos=footer;group=contextual;sz=420x200;tile=8;ord=1580419427359?"></script>
 
 <!-- END /pubsys/production/shared/ad_dart_footer.comp -->
 </div>
@@ -796,11 +1012,11 @@ popular_headline='';
 override_version=''; 
 
 
-stats_dir="//www.belleville.com/static/includes/mi/stats/";
+stats_dir="//media.belleville.com/static/includes/mi/stats/";
 scr=new Date();lst=scr.getTime();
 // -->
 </script>
-<script src="http://www.belleville.com/static/includes/mi/stats/stats.js"></script>
+<script src="http://media.belleville.com/static/includes/mi/stats/stats.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 y=new Date();outer_end_time=y.getTime();outer_time=outer_end_time-outer_start_time;
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-');
