@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630105327id_/http%3A//www.eds.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015230602id_/http%3A//www.eds.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # About eds.com: Privacy and Data Protection Policy | eds.com
 
@@ -6,8 +6,21 @@ EDS believes in your right to privacy and data protection. We have created this 
 
 The following topics address our information gathering abilities, our philosophy on handling personal data and our privacy practices.
 
-Data Collection and Registration 
-    
+  * How is data collected on eds.com and is registration necessary?
+  * How long do you keep my information?
+  * How do we use cookies?
+  * How do we use beacons?
+  * How do I correct or update my information?
+  * How do you protect against misuse of my information?
+  * What if I want to opt-out of future communications?
+  * How will I know if you change your privacy policy?
+  * How do you treat information submitted by juniors or users under the age of 13?
+  * I have been invited to participate in a survey of your site. Can you tell me more?
+  * Who do I contact if I have questions about security or privacy on eds.com?
+
+
+
+### Data Collection and Registration 
 
 The site collects data through a feedback form that allows users to request information about EDS and its products and services. For this purpose we request and collect user's contact information, consisting of first name, last name, position title and e-mail address. The form also allows a user to provide such other information as he or she may desire to provide. Information so collected is used solely for the purpose of responding to the request of the user. Such request may include provision of EDS news releases and if so, the user's contact information will be used for mailings of such information by EDS. Users may opt-out of receiving future mailings; see the Opt-Out section below. 
 
@@ -23,69 +36,61 @@ Data submitted to the site may be transferred within EDS, including to subsidiar
 
 Back to Top
 
-Retention of Personal Information 
-    
+### Retention of Personal Information 
 
 Eds.com will retain data submitted to the Web site for as long as it is needed to fulfill a user’s request, maintain records of interaction with users, and/or to facilitate and support the use of registration. 
 
-Cookies
-    
+### Cookies
 
 Periodically, the eds.com team will collect non-personally identifiable information from people who visit the site. We do this by using cookies – a small piece of data that our site sends to a person's computer where it is stored. For example, eds.com might use a cookie to identify a person interested in an industry and the next time that person visits the site the previously viewed industry will automatically populate the screen.
 
 The cookies that eds.com uses are strictly for improving overall user experience and site performance. If people do not want to accept cookies, they can disable them by working with their settings in their browsers.
 
-Beacons
-    
+### Beacons
 
-Eds.com will periodically use beacons or spotlight tags in their Web page and newsletters to gather metrics in their aggregate form. A beacon is usually an electronic image called a clear GIF or a 1x1 GIF. These files look for specific non-personally identifiable information on a person’s computer. This information includes browser information, cookie number, page views and any other basic data that we can use to improve messaging and usability on eds.com.
+eds.com will periodically use beacons or spotlight tags in their Web page and newsletters to gather metrics in their aggregate form. A beacon is usually an electronic image called a clear GIF or a 1x1 GIF. These files look for specific non-personally identifiable information on a person’s computer. This information includes browser information, cookie number, page views and any other basic data that we can use to improve messaging and usability on eds.com.
 
 EDS does not allow for third-party ads on their Web site but we do occasionally contract with advertising companies that place ads on behalf of EDS. The advertising company may use beacons for campaign success measurements.
 
 Beacons used by EDS collect data that is anonymous, is not linked to personally identifiable information nor attached to any databases.
 
-Individuals can prevent the use of beacon and/or cookies by disabling them in the security settings of the Internet browsers.
+Individuals can prevent the use of beacon and/or cookies by disabling them in the security settings of the Internet browsers. 
 
-How to Correct/Update Personal Information 
-    
+### How to Correct/Update Personal Information 
 
-Regular users may change or modify information previously provided to this site through e-mail to [info@eds.com (info@eds.com)](mailto:info@eds.com). Registered users may log in to the registration area to correct and/or update their profile.
+Regular users may change or modify information previously provided to this site through e-mail to [info@eds.com (info@eds.com)](mailto:info@eds.com). Registered users may log in to the registration area to correct and/or update their profile. 
 
-Protection against Misuse of Personal Information 
-    
+### Protection against Misuse of Personal Information 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Any EDS employee who may have access to such information is aware of the EDS Web Privacy and Data Protection Policy through direct notification and training. Access to such information is limited to those required to fulfill the applicable user request, and security procedures in place include password protection and, as appropriate, physical protection. 
 
-How to Opt-Out of Future Communications 
-    
+### How to Opt-Out of Future Communications 
 
-Regular users may opt-out of receiving further communications through e-mail to [info@eds.com (info@eds.com)](mailto:info@eds.com). Users registered for the newsletter may opt-out through the newsletter opt-out field at the bottom of the newsletter or by e-mailing [info@eds.com (info@eds.com)](mailto:info@eds.com). Job seekers may opt-out of employment-related communication by accessing the job database supported by Yahoo! Resumix at [www.edscareers.com](http://www.edscareers.com/).
+Regular users may opt-out of receiving further communications through e-mail to [info@eds.com (info@eds.com)](mailto:info@eds.com). Users registered for the newsletter may opt-out through the newsletter opt-out field at the bottom of the newsletter or by e-mailing [info@eds.com (info@eds.com)](mailto:info@eds.com). Job seekers may opt-out of employment-related communication by accessing the job database supported by Yahoo! Resumix at [www.edscareers.com](http://www.edscareers.com/). 
 
-Notification of Privacy Policy Changes
-    
+### Notification of Privacy Policy Changes
 
 In the event of any changes by EDS of its EDS Web Privacy and Data Protection Policy that may impact the practices described on this Web site will be posted on this site. In no event will any such changes to this policy apply with respect to data previously collected through this site.
 
-Registered users will be notified of changes to the privacy statement if it effects the way their personal information is being handled.
+Registered users will be notified of changes to the privacy statement if it effects the way their personal information is being handled. 
 
 Back to Top
 
-Policy on Data Collection from Juniors (under the age of 13) 
-    
+### Policy on Data Collection from Juniors (under the age of 13) 
 
-We do not intentionally invite data from Juniors (under the age of 13) to this site, but where we are aware of such submissions for educational purposes, we will treat such data as ‘Sensitive Data’. Data known to be from Juniors and which is not specifically submitted for educational purposes will be immediately deleted.
+We do not intentionally invite data from Juniors (under the age of 13) to this site, but where we are aware of such submissions for educational purposes, we will treat such data as ‘Sensitive Data’. Data known to be from Juniors and which is not specifically submitted for educational purposes will be immediately deleted. 
 
-Site Survey Participation 
-    
+### Site Survey Participation 
 
-Users may be invited (by pop-up screen) to participate in a site survey carried out by an independent organization. You may opt-out of participation at the time the survey is offered. The survey collects generalized statistics only. No personal data is held as a result of the site survey, unless you opt to provide specific comments. In this case your comments and address information will be passed directly to EDS and subject to the same provisions and safeguards as provided for information collected on the eds.com Web site. Contact for personal data submitted via the survey is [info@eds.com (info@eds.com)](mailto:info@eds.com). Personal data submitted through the survey will be used only by EDS, and only in order to respond to, and where appropriate to action, your comments. 
+Users may be invited (by pop-up screen) to participate in a site survey carried out by an independent organization. You may opt-out of participation at the time the survey is offered. The survey collects generalized statistics only. No personal data is held as a result of the site survey, unless you opt to provide specific comments. In this case your comments and address information will be passed directly to EDS and subject to the same provisions and safeguards as provided for information collected on the eds.com Web site. Contact for personal data submitted via the survey is [info@eds.com (info@eds.com)](mailto:info@eds.com).
+
+Personal data submitted through the survey will be used only by EDS, and only in order to respond to, and where appropriate to action, your comments. 
 
 The survey organization will place cookies on users opting to participate in the survey, solely for the purpose of avoiding repeat surveys within 180 days. Cookies will automatically expire after 180 days. 
 
-Contact Information 
-    
+### Contact Information 
 
-In the event of any question relating to this site, please e-mail us at [info@eds.com (info@eds.com)](mailto:info@eds.com) or mail us at:
+In the event of any question relating to this site, please e-mail us at [info@eds.com (info@eds.com)](mailto:info@eds.com) or mail us at: 
 
 EDS Online Marketing and Communications  
 Electronic Data Systems Corporation  
