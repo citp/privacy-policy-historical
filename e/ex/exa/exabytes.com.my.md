@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exabytes.com.my privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625042208id_/http%3A//www.exabytes.com.my/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exabytes.com.my privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015070330id_/http%3A//www.exabytes.com.my/about/legal/privacy) for the most accurate reproduction.*
 
 # Exabytes Malaysia // Legal Information // Privacy Policy
 
