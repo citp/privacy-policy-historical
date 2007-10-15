@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santacruzsentinel.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084953id_/http%3A//www.santacruzsentinel.com/departments/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santacruzsentinel.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015114723id_/http%3A//www.santacruzsentinel.com/departments/privacy.html) for the most accurate reproduction.*
 
 # Santa Cruz County Sentinel - Customer Service
 
