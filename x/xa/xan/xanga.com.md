@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629023428id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015232450id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20070629023428id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
+[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20071015232450id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
 
-Effective: July 14, 2006
+Effective: October 3, 2007
 
 **XANGA PRIVACY POLICY**
 
@@ -37,10 +37,12 @@ We take your privacy seriously and so should you. Xanga has many features design
     * Third Party Advertisers
   * **Information Xanga Retains**
   * **How Others Use Your Information**
-    * Links to Third Party Sites 
-    * Third Party Search Engines & Syndication Feed Readers 
-    * Third Party Advertisers 
+    * Links to Third Party Sites
+    * Widgets
+    * Third Party Search Engines & Syndication Feed Readers
+    * Third Party Advertisers
     * Third Party Trackers and Scripts
+    * Xanga Mobile
   * **Confidentiality& Security**
   * **Changes to this Privacy Policy**
   * **Non-US Residents**
@@ -145,7 +147,7 @@ Xanga uses this information in order to verify that you are the parent or legal 
 
 _Browser Information_
 
-Every time you visit a page on the Internet, your web browser sends specific information to the web site you are visiting. Xanga's servers automatically collect and store this information, including your IP address, specific type of browser software, the pages you visit at Xanga, and information from Xanga cookies (see below).
+Every time you visit a page on the Internet, your web browser sends specific information to the web site you are visiting. Xanga's servers automatically collect and store this information, including your IP address, specific type of browser software, the pages you visit at Xanga, and information from Xanga cookies (see below). This information is also collected by third-party tracking companies that provide traffic analytics to Xanga.
 
 _Cookies_
 
@@ -269,6 +271,10 @@ When you delete information submitted through your Xanga account, when you shut 
 
 The Xanga site contains many links to websites operated by third parties. When you follow a link to a third party website, the information you provide to that site will be subject to the privacy policy of that site and not Xanga’s policy. Xanga is not responsible for the use or disclosure of any information that you provide to a third party site accessed from a link on the Xanga site.
 
+**Widgets**
+
+Some of the widgets in the [Xanga Widget Directory](http://widgets.xanga.com/) are provided by third parties and/or contain links to third-party websites. Information collected within widgets provided by third parties or at third-party websites linked to from the widget will be subject to the privacy policy of the party collecting the information and not Xanga’s policy. Xanga is not responsible for the use or disclosure of any information that you provide to any third party via a widget or a site accessed from a link on the Xanga site.
+
 **Third Party Search Engines & Syndication Feed Readers**
 
 Any information you publish _publicly_ to your Xanga Site may be indexed by _third party_ search engines (e.g. Google or Yahoo) and appear in the search results provided and controlled by those third parties. Xanga does not control the search indexes or results of those third parties. For help with removing your information from any third party search engines, please visit the websites of those third parties.
@@ -285,9 +291,15 @@ Any information that you provide to a third party advertiser will be subject to 
 
 **Third Party Trackers and Scripts**
 
-Be aware that some Xanga users may install third party tracking software or other scripts on their Xanga Sites. If you visit a Xanga Site with any third party software installed, that software may collect your browser information or attempt to place its own cookies on your computer.
+As of October 2007, Xanga provides registered members with tracking software from [Site Meter](http://www.sitemeter.com/). Xanga does not share your registration information with Site Meter. Xanga members may provide Site Meter additional information at Site Meter’s website in order to facilitate additional features. This additional data is collected by Site Meter, is subject to Site Meter’s privacy policy, and is not shared with Xanga.
+
+Site Meter’s service allows you to access detailed information about who is visiting your Xanga site. Be aware that Xanga users may use Site Meter’s service or install other third party tracking software or scripts on their Xanga Sites. If you visit a Xanga Site with any third party software installed, that software may collect information about your visit including, but not limited to, your IP address, location, ISP, the time and pages you visited, and the words you entered into a search engine to find the site. The software also may attempt to place its own cookies on your computer.
 
 Most browsers come with the ability to restrict software (scripts) or cookies from specific or unknown sources. Please review your browser’s documentation for more information.
+
+**Xanga Mobile**
+
+In order to download the Xanga Mobile platform software to their cell phones, users need to provide their mobile phone number to Xanga’s platform software provider, [Intercasting Corporation](http://www.intercastingcorp.com/), who then sends users a link to the download. The mobile number provided to Intercasting Corporation is neither collected by nor shared with Xanga.
 
 **CONFIDENTIALITY & SECURITY** (top)
 
