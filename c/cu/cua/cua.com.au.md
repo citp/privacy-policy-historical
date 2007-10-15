@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610051615id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015185243id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Credit Union Australia: Australia's Friendliest Banking - Privacy policy
 
