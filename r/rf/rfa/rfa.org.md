@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614070824id_/http%3A//www.rfa.org/english/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015235315id_/http%3A//www.rfa.org/english/about/privacy_policy) for the most accurate reproduction.*
 
 # RFA: Privacy Policy
 
