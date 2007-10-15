@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607141725id_/http%3A//att.sbc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the att.jobs privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015215012id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
-[](http://www.thenewatt.com/)
-
-[](http://www.att.com/gen/press-room?pid=5097&cdvn=news&newsarticleid=22104)
+[](http://www.att.com/gen/corporate-citizenship?pid=6426)
 
 ## Sign-up and Save!
 
@@ -47,7 +45,8 @@ Additional privacy policies apply to certain AT&T services, including AT&T Yahoo
   * We do not provide personal identifying information to third parties for the marketing of their products and services without your consent. We may provide the information to third parties, such as shipping companies, AT&T-authorized marketing agents, Web designers and analysts, so that they may fulfill specific functions or services in providing certain AT&T-offered products and services. We may also provide the information, where permitted or required by law, in order to enforce our rights or protect our property, as well as comply with court orders, subpoenas or other legal or regulatory requirements. [More](https://web.archive.org/gen/privacy-policy?pid=7666#9 "More")
   * We use Web usage information to enable the functioning of our Web site and to expand and improve our Web visitors' online experience. When we combine the Web usage information with personal identifying information, we use it to provide a better online experience and to market and provide advertising about goods and services that may be of particular interest. [More](https://web.archive.org/gen/privacy-policy?pid=7666#104 "More")
   * We, or a third party acting on our behalf, may use “cookies” and “Web beacons” to tailor and improve the Web content we deliver to you, make recommendations based on information you previously provided and gauge the effectiveness of our marketing campaigns and e-mail correspondence. [More](https://web.archive.org/gen/privacy-policy?pid=7666#11 "More")
-  * We publish customers' names, addresses and telephone numbers in directories and make the information available through directory assistance and the Internet. [More](https://web.archive.org/gen/privacy-policy?pid=7666#12 "More") Customers have the option of choosing to have a non-published or non-listed number. [More](https://web.archive.org/gen/privacy-policy?pid=7666#101 "More")
+  * We publish customers' names, addresses and telephone numbers in directories and make the information available through directory assistance and the Internet. [More](https://web.archive.org/gen/privacy-policy?pid=7666#12 "More")
+  * Customers have the option of choosing to have a non-published or non-listed number. [More](https://web.archive.org/gen/privacy-policy?pid=7666#101 "More")
 
   
   
@@ -65,9 +64,9 @@ Additional privacy policies apply to certain AT&T services, including AT&T Yahoo
 
 **How to Contact Us**
 
-  * Please [contact us ](https://web.archive.org/gen/privacy-policy?pid=7666#18)to address any concerns regarding your personal information.
-  * Please e-mail us at [privacypolicy@ATT.com](mailto:privacypolicy@att.com)or write to AT&T Privacy Policy, 175 E. Houston St. , San Antonio , TX 78205 to address any concerns you may have about our privacy practices and policies.
-  * AT&T is a licensee of the TRUSTe Privacy Program and you may [contact TRUSTe ](http://www.truste.org/consumers/watchdog_complaint.php)if a privacy question is not properly addressed. AT&T also displays the BBBOnLine Privacy Program Seal and you may also [contact BBBOnLine](http://www.bbbonline.org/). [More](https://web.archive.org/gen/privacy-policy?pid=7666#19 "More")
+  * Please [contact us](https://web.archive.org/gen/privacy-policy?pid=7666#18) to address any concerns regarding your personal information. 
+  * Please e-mail us at [privacypolicy@ATT.com](mailto:privacypolicy@att.com) or write to AT&T Privacy Policy, 175 E. Houston St., San Antonio, TX 78205 to address any concerns you may have about our privacy practices and policies. 
+  * AT&T is a licensee of the TRUSTe Privacy Program and you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) if a privacy question is not properly addressed. AT&T also displays the BBBOnLine Privacy Program Seal and you may also [contact BBBOnLine](http://www.bbbonline.org/). [More](https://web.archive.org/gen/privacy-policy?pid=7666#19 "More")
 
   
   
