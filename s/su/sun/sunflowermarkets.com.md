@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2006-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060424091911id_/http%3A//www.sunflowermarkets.com%3A80/sunflower-webapp/legal/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015230023id_/http%3A//sunflowermarkets.com%3A80/sunflower-webapp/content/legal/privacypolicy.jsp) for the most accurate reproduction.*
 
 # SUNFLOWER MARKET PRIVACY STATEMENT
 
