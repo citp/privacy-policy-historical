@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206223813id_/http%3A//www.news10.net/company/terms_of_service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015080331id_/http%3A//www.news10.net/company/terms_of_service/privacy.aspx) for the most accurate reproduction.*
 
 # News10.net
 
