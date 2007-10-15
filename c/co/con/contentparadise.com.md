@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contentparadise.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616210912id_/http%3A//www.contentparadise.com/us/user/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentparadise.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015100534id_/http%3A//www.contentparadise.com/us/user/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# Content Paradise- Help section - Poser Content, Shade Content and more 3D Content, Figures, Clothing, Hair, Poses and Props by e frontier
+# CP! Content Paradise- Help section
 
 | 
 
@@ -11,7 +11,7 @@ Privacy statement
 
 Content Paradise collects, maintains and uses a database of member/user information to facilitate our operations whilst at the same time ensuring that your privacy rights are not prejudiced. The following sets out our more detailed treatment of your information: 
 
-• E-mail and IP Addresses: Member/User IP and email addresses are collected, and stored in a database to help diagnose, track, and manage issues and send requested information within the user/membership group. This information is not shared except in instances of Forced Disclosure (see below).   
+• Email and IP Addresses: Member/User IP and email addresses are collected, and stored in a database to help diagnose, track, and manage issues and send requested information within the user/membership group. This information is not shared except in instances of Forced Disclosure (see below).   
 
 
 • General Use: We use your information to facilitate the services you request. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases.   
