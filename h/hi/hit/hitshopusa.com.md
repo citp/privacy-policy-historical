@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitshopusa.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612093903id_/https%3A//www.hitshopusa.com/content.aspx%3Fid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitshopusa.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016102829id_/https%3A//www.hitshopusa.com/content.aspx%3Fid%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy HIT Shop USA:
 
