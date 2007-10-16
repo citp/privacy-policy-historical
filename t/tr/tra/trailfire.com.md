@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailfire.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602124147id_/http%3A//trailfire.com/pages/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfire.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016115610id_/http%3A//www.trailfire.com/pages/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Trailfire Privacy Policy
 
@@ -47,7 +47,7 @@ If we decide to change our stated privacy policy, we will prominently post a not
 ## 11\. Contact Information
 
 Trailfire, Inc.  
-83 S. King Street, Ste. 412  
+101 Yesler Way, Suite 207  
 Seattle, WA 98104  
 FAX (206) 254-0596  
 
