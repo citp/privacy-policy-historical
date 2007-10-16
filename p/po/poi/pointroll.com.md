@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointroll.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PointRoll - Online Advertising Rich Media Provider
 
@@ -9,17 +9,10 @@
 ---  
 |   
   
-[view all](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/suggestions.aspx)
+In this PointRoll Entertainment Performance Analysis report, we provide insights from almost 800 rich media entertainment campaigns conducted in 2006 and Q1 2007.
 
-Got an idea for a PointRoll product or feature?  
-Or feedback about our service?  
-Whatever it is, we want to hear from you!   
-  
----  
-  
-  
-|   
-  
+[](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/downloads/Pointroll_PowerPack_Entertainment_\(2007\).pdf)
+
 12/02/2007
 
 | 
@@ -27,22 +20,22 @@ Whatever it is, we want to hear from you!
 iMedia Agency Summit  
   
 ---|---  
-[](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/events---happenings.aspx)
+[](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/events---happenings.aspx)
 
-[view all](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press.aspx)
+[view all](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press.aspx)
 
-[03/12/07](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06075.aspx) | [AOL Announces Strategic Alliance...](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06075.aspx)  
+[10/01/07](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_071002.aspx) | [Undertone Networks Extends Rich...](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_071002.aspx)  
 ---|---  
-[01/17/07](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06074.aspx) | [PointRoll Empowers Advertisers...](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06074.aspx)  
-[01/04/07](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06072.aspx) | [PointRoll, Inc. Promotes Gian...](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06072.aspx)  
-[12/18/06](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06071.aspx) | [PointRoll Rolls into The Motor City...](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06071.aspx)  
-[12/06/06](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06069.aspx) | [PointRoll’s PaperBoy Delivers...](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press_release_06069.aspx)  
+[09/05/07](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_070905.aspx) | [PointRoll Rolls Out The Red Carpet...](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_070905.aspx)  
+[06/26/07](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_070626.aspx) | [PointRoll Still Innovating While...](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_070626.aspx)  
+[03/12/07](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_06075.aspx) | [AOL Announces Strategic Alliance...](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_06075.aspx)  
+[01/17/07](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_06074.aspx) | [PointRoll Empowers Advertisers...](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press_release_06074.aspx)  
   
-  * [Executive Team](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/executive-team.aspx)
-  * [Press](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/press.aspx)
-  * [Careers](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/careers.aspx)
-  * [Locations](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/locations.aspx)
-  * [Privacy Policy](https://web.archive.org/web/20070612161557id_/http%3A//www.pointroll.com/privacy-policy.aspx)
+  * [Executive Team](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/executive-team.aspx)
+  * [Press](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/press.aspx)
+  * [Careers](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/careers.aspx)
+  * [Locations](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/locations.aspx)
+  * [Privacy Policy](https://web.archive.org/web/20071016210116id_/http%3A//www.pointroll.com/privacy-policy.aspx)
 
 
 
