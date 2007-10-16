@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630025223id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016202401id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
 
 # University of Denver -- Privacy Policy
 
@@ -38,15 +38,15 @@ If there are any questions or concerns about the University’s online privacy p
 
 ###  VII. Family Educational Rights and Privacy 
 
-The University is bound by the Family Educational Rights and Privacy Act (FERPA) regarding the release of student education records and, in the event of conflict with the University Policy, FERPA will govern. A guide to understanding FERPA is available in the office of the Registrar. The full text of the University’s policy with regard to FERPA can be found in Appendix A immediately following this policy, in the University of Denver undergraduate bulletin, or in the Schedule of Classes booklet.
+The University is bound by the Family Educational Rights and Privacy Act (FERPA) regarding the release of student education records and, in the event of conflict with the University Policy, FERPA will govern. A guide to understanding FERPA is available in the office of the Registrar. The full text of the University's policy with regard to FERPA can be found at <http://www.du.edu/registrar/general/ferpa_student.html>
 
 ###  VIII. Health Records/ Information 
 
-Users of the University Health and Counseling Center are protected under federal Health Insurance Portability and Accountability Act (HIPAA) regulations and state of Colorado laws regarding confidentiality of medical and mental health information/records. The full text of the University Health and Counseling Center’s policy can be found in Appendix B immediately following this document.
+Users of the University Health and Counseling Center are protected under federal Health Insurance Portability and Accountability Act (HIPAA) regulations and state of Colorado laws regarding confidentiality of medical and mental health information/records. The full text of the University Health and Counseling Center’s policy can be found in Appendix A immediately following this document.
 
 ###  IX. University Bookstore 
 
-The University Bookstore online privacy policy is, by reference here, incorporated in the University of Denver Privacy Policy. The full text of the Bookstore’s online privacy policy can be found in Appendix C immediately following this policy.
+The University Bookstore online privacy policy is, by reference here, incorporated in the University of Denver Privacy Policy. The full text of the Bookstore’s online privacy policy can be found in Appendix B immediately following this policy.
 
 ###  X. Release or Access 
 
@@ -55,48 +55,7 @@ All requests for release of or access to confidential information maintained in 
 
 * * *
 
-### APPENDIX A 
-
-### **Disclosure of Student Information/FERPA**
-
-**T** he Family Educational Rights and Privacy Act (FERPA) affords students certain rights with respect to their education records. The FERPA law, and its implementing regulations, may be reviewed in the Office of the Registrar, University Hall, B-133. A student has the right to file a complaint with the U. S. Department of Education concerning alleged failures by the University of Denver to comply with FERPA requirements with:
-
-Family Policy Compliance Office  
-U. S. Dept. of Education  
-400 Maryland Avenue, SW  
-Washington, DC 20202-4605
-
-#### **Directory Information**
-
-The law provides the “Directory Information” may be released without the consent of the student unless s/he has specifically asked that prior consent be obtained. The University of Denver designates the following student information as “Directory Information:”
-
-The student’s full name, address (local and home/permanent), telephone number, campus electronic mail address, digitized I.D. photograph, date and place of birth, major field of study, full time or part time status, class (i.e., sophomore, junior, etc.), participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, anticipated date of graduation, degrees and awards received, the most recent previous education agency or institution attended by the student.
-
-Any student wishing that directory information not be released must submit a "Request to Prevent Disclosure of Directory Information" form (available from the Office of the Registrar) to the Office of the Registrar, University Hall, B133. 
-
-#### **Disclosure Policies**
-
-University Officials with a "legitimate educational interest" may receive all student data, including mailing labels, regardless of any restrictions, as provided by FERPA. A school official has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility. A school official is defined as a person employed by the University in an administrative, supervisory, academic, or support staff position (including law enforcement unit and health staff); a person or company with whom the University has contracted (such as an attorney, auditor, or collection agent); a person serving on the Board of Trustees; or assisting another school official in performing his or her tasks. It also may include those University students who are selected to serve as members of University committees that select students for membership in honor societies or University awards. However, access to education records by such students is limited to access to information directly bearing on the membership matter or award being considered by the committee on which the student serves. Any student may request that his or her education records not be reviewed by students serving on such committees by notifying the Office of the Registrar in writing. 
-
-Parents who claim students as dependents on their Federal Income Tax return may request grades and other information as provided by FERPA. Parents need to complete a "Parental Statement" form during the Autumn quarter in each year of the student's attendance, available from and to be submitted to the Office of the Registrar. 
-
-A student's record may be released in compliance with a court order or subpoena. The Office of the Registrar or other official will make a reasonable effort to notify the student in advance of compliance. 
-
-Student information may be released for health and emergency reasons.
-
-For more information on FERPA and your rights please contact the Office of the Registrar:
-
-Physical Address: University of Denver   
-Office of the Registrar   
-2197 South University Boulevard (B1333)   
-Denver , CO 80208
-
-Website: <http://www.du.edu/registrar/policies/privacy.html>**  
-**
-
-* * *
-
-###  APPENDIX B 
+###  APPENDIX A 
 
 ###  UNIVERSITY OF DENVER   
 **STUDENT HEALTH and** **COUNSELING** **** **CENTER** **   
@@ -132,7 +91,7 @@ Website: <http://www.du.edu/duhealth/healthcenter/>
 
 * * *
 
-### **Appendix C**
+### **Appendix B**
 
 ### **University** **of** **Denver** **Bookstore  
 ****Website Privacy Policy**
@@ -195,15 +154,7 @@ Denver, CO 80208
 
 Website: [www.dubookstore.com](http://www.dubookstore.com/)
 
-Ippolicy/privacypolicy072301.doc 
-
 * * *
 
-Vice Chancellor for Intellectual Property and Events:  
-Daniel L. Ritchie Sports and Wellness Center, Room 4227, Denver, CO 80208  
-Telephone: 303.871.3345 · FAX: 303.871.4638 · E-mail: [jcoombe@du.edu](mailto:jcoombe@du.edu)
-
-* * *
-
-Copyright © 2004 University of Denver, 2199 S. University Blvd., Denver, Colorado 80208  
-(303) 871-2000 All rights reserved. · page last revised May 18, 2005\. 
+Copyright © 2007 University of Denver, 2199 S. University Blvd., Denver, Colorado 80208  
+(303) 871-2000 All rights reserved. 
