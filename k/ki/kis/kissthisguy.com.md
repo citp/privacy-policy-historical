@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630225731id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017003414id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
 
 # The Archive of Misheard Lyrics :: Privacy Policy
 
