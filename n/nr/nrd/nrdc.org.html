@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrdc.org privacy policy that was archived on 2007-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070509045020id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrdc.org privacy policy that was archived on 2007-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071016103753id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>NRDC Privacy Policy</title>
@@ -30,14 +30,15 @@ isMenu = (NS4 || (IE4 && !isMac));
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<!-- BEGIN: site/section styles -->
 	<link rel="stylesheet" href="/stylesheets/basic.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/stylesheets/print_fix.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="/stylesheets/well.css" type="text/css" media="all">
 	<style type="text/css" media="all">
 		@import url(/stylesheets/common.css);
 		@import url(/stylesheets/layout.css);
 	</style>
 	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/stylesheets/IE7styles.css" media="all" /><![endif]-->
 	<!-- END: site/section styles -->
-	<script src="/js/AC_activeX.js" type="text/javascript"></script>
-	<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
 
 <!-- Top Nav -->
 
@@ -69,7 +70,7 @@ isMenu = (NS4 || (IE4 && !isMac));
 				<input type="hidden" name="oe" value="UTF-8">
 				<input type="hidden" name="ie" value="UTF-8">
 				<input type="hidden" name="proxystylesheet" value="default_frontend">
-				<input type="hidden" name="site" value="nrdc_main">
+				<input type="hidden" name="site" value="default_collection">
 			<fieldset>
 
 			<a href="#" onclick="javascript:document.forms['search'].submit();return false;"><img src="/_images/header-footer/btn.go.jpg" alt="go" class="btnGo"></a>
@@ -82,31 +83,23 @@ isMenu = (NS4 || (IE4 && !isMac));
 	</div>
 			<!-- END: header -->
 
-
-
-
-			<div id="headerWrapper">
-
-				<div id="headerLeft">
-					<div id="logo">
-					<a href="/default.asp"><img src="/_images/header-footer/nrdc.logo.jpg" alt="logo"></a>
-
-					</div>
-
-				</div>
-
-				<div id="headerCenter">
-					<div class="donate">
-					<a href="/joingive/default.asp"><img src="/_images/header-footer/btn.donate.jpg" alt="Donate"></a>
-					</div>
-					<div class="take-action">
-					<a href="/action/default.asp"><img src="/_images/header-footer/btn.take.action.jpg" alt="Take Action"></a>
-
-					</div>
-					<!--<p class="email_print"><img src="/_images/btn.email.jpg" alt="email" class="emailprint_btn" /> <a href="TEST_NRDC">Email this Article</a> | <img src="/_images/btn.print.jpg" alt="print" class="emailprint_btn" /> <a href="TEST_NRDC">Print this Article</a></p>-->
-
-					<div class="header-bar">
-					<img src="/_images/header-footer/titlebar_action.gif" alt="Take Action">
+<div id="headerWrapper">
+<div id="headerLeft">
+<div id="logo">
+<a href="/default.asp"><img src="/_images/header-footer/nrdc.logo.jpg" alt="logo"></a>
+</div>
+</div>
+<div id="printLogo"><img src="/_images/header-footer/nrdc.logo.text.jpg" alt="print logo"></div>
+<div id="headerCenter">
+<div class="donate">
+<a href="/joingive/default.asp"><img src="/_images/header-footer/btn.donate.jpg" alt="Donate"></a>
+</div>
+<div class="take-action">
+<a href="/action/default.asp"><img src="/_images/header-footer/btn.take.action.jpg" alt="Take Action"></a>
+</div>
+<p class="email_print"><a href="#" onclick="javascript:window.print();return false;"><img src="/_images/btn.print.jpg" alt="print" class="emailprint_btn"> Print this Page</a></p>
+<div class="header-bar">
+					<img src="/_images/header-footer/titlebar_action.gif" alt="">
 					</div>
 				</div>
 
@@ -119,7 +112,7 @@ isMenu = (NS4 || (IE4 && !isMac));
 				</div>	
 			</div></div></div>
 			<p class="clear"></p>
-		
+		<!--</div>-->
 		
 			
 <div id="columnWrapper">
@@ -203,21 +196,66 @@ When you donate to NRDC via our website your donation information is encrypted a
 		</tbody></table>
 	<br>
 <!-- NavBottomBase -->
+
+    
 </div>
 </div>
 <div id="rightColumn">
 
-		</div>
+	<div class="fm_raw_html">
+<h4>Sign Up For Our Monthly Newsletter</h4>
+<script type="text/javascript">
+<!--
+function popupform(myform, windowname)
+{
+if (! window.focus)return true;
+window.open('', windowname, 'height=300,width=550,scrollbars=yes,resizable=yes');
+myform.target=windowname;
+return true;
+}
+//-->
+</script>
+<form action="http://www.nrdconline.org/offsite-join.tcl" method="post" onsubmit="popupform(this, 'join')" name="nrdcJoinEmailVal">
+<input name="domain" value="nrdc" type="hidden">
+<input name="return_url" value="http://www.nrdcaction.org/thankspop.html" type="hidden">
+<input name="update" value="t" type="hidden">
+<input name="source" value="nrdc_subscribe" type="hidden">
+<input name="group1" value="nrdconline" type="hidden">
+<input style="margin: 5px; padding: 0pt; font-size: 90%; height: 15px; width: 110px;" onfocus="javascript:if(this.value=='Email Address')this.value='';" name="email" value="Email Address" type="text">
+<input src="/_images/header-footer/btn.go.jpg" value="Go" type="image">
+</form>
+<br>
+<a href="/newsletter/">See the latest issue here</a>
+</div>
+
+<div class="fm_raw_html">
+<div align="left"><img height="25" alt="Watch Our Wolf-Saving Ad" width="183" border="0" nosend="1" src="http://img.getactivehub.com/08/custom_images/actioncenter/wolfad9.07boxtitle_nrdc.gif"></div>
+<div align="left"><a href="http://www.nrdcactionfund.org/campaigns/wildlife/save-endangered-gray-wolves.html"><img height="116" alt="Wolf Photo" width="174" vspace="5" border="0" nosend="1" src="http://img.getactivehub.com/08/custom_images/actioncenter/wolfadphoto9.07.jpg"></a></div>
+A new TV ad will alert millions of Americans to the Bush administration's wolf-killing plan -- and spark an outcry that can stop the massacre. Please go to the <a href="http://www.nrdcactionfund.org/campaigns/wildlife/save-endangered-gray-wolves.html">NRDC Action Fund website</a> to take action for wolves.
+</div>
+
+		</div></div>
+		<p class="clear"></p>
+		
 	
+		<div id="shareFooter">
+			<ul>
+			<li><a href="http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http://nrdc.org/action/privacy.asp&amp;title=" title="del.icio.us"><img src="/_images/icon-delicious.png" alt=""></a> <a href="http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http://nrdc.org/action/privacy.asp&amp;title=" title="del.icio.us">del.icio.us</a></li>
+			<li><a href="http://digg.com/submit?phase=2&amp;url=http://nrdc.org/action/privacy.asp&amp;title=" title="Digg"><img src="/_images/icon-digg.gif" alt=""></a> <a href="http://digg.com/submit?phase=2&amp;url=http://nrdc.org/action/privacy.asp&amp;title=" title="Digg">digg</a></li>
+			<li><a href="http://www.newsvine.com/_tools/seed&amp;save?u=http://nrdc.org/action/privacy.asp&amp;h=" title="NewsVine"><img src="/_images/icon-newsvine.png" alt=""></a> <a href="http://www.newsvine.com/_tools/seed&amp;save?u=http://nrdc.org/action/privacy.asp&amp;h=" title="NewsVine">newsvine</a></li>
+			<li><a href="http://www.facebook.com/sharer.php?u=http://nrdc.org/action/privacy.asp&amp;h=&amp;t="><img src="/_images/btn.facebook.gif" alt=""></a> <a href="http://www.facebook.com/sharer.php?u=http://nrdc.org/action/privacy.asp&amp;h=&amp;t=">facebook</a></li>
+			<li><a href="http://www.stumbleupon.com/submit?url=http://nrdc.org/action/privacy.asp&amp;title=" title="Stumble Upon"><img src="/_images/icon-stumbleupon.png" alt=""></a> <a href="http://www.stumbleupon.com/submit?url=http://nrdc.org/action/privacy.asp&amp;title=" title="Stumble Upon">stumbleupon</a></li>			</ul>
+		</div>
+		
 		<!-- BEGIN: footer -->
 			<div id="pageFooter">
 				<img src="/_images/header-footer/footer_nrdc.gif" alt="NRDC" class="bottomLogo">
 				<div id="bottomNav">
-					<p><a href="/default.asp">Home</a> | <a href="/about/">About Us</a> | <a href="/contactus/">Contact Us</a> | <a href="/action/privacy.asp">Privacy</a> | <a href="/reference/">Reference/Links</a> |  <a href="/sitemap/">Site Map</a> | <a href="http://www.nrdcaction.org/subscribe.html">Subscriptions</a> | <a href="/rss/">RSS</a> <a href="/rss/"><img src="/_images/header-footer/btn.rss.gif" alt="rss"></a><br>
+					<p><a href="/default.asp">Home</a> | <a href="/about/">About Us</a> | <a href="/contactus/">Contact Us</a> | <a href="/jobs/">Jobs</a> | <a href="/action/privacy.asp">Privacy</a> | <a href="/reference/">Reference</a> |  <a href="/sitemap/">Site Map</a> | <a href="http://www.nrdcaction.org/subscribe.html">Subscriptions</a> | <a href="/rss/">RSS</a> <a href="/rss/"><img src="/_images/header-footer/btn.rss.gif" alt="rss"></a><br>
 					© Natural Resources Defense Council</p>
 				</div>
 			</div>
-		</div>
+		
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -225,6 +263,8 @@ When you donate to NRDC via our website your donation information is encrypted a
 _uacct = "UA-532044-1";
 urchinTracker();
 </script>
+
+<div id="printFooter">© <strong>Natural Resources Defense Council</strong> | www.nrdc.org</div>
 
 
 
