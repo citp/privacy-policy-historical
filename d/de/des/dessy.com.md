@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dessy.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630112501id_/http%3A//www.dessy.com/index.cfm%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dessy.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016210907id_/http%3A//www.dessy.com/index.cfm%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Bridesmaid Dresses and Formal Gowns: The Dessy Group
 
