@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618081120id_/http%3A//www.judysbook.com/about/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016121504id_/http%3A//www.judysbook.com/about/terms) for the most accurate reproduction.*
 
 # Judy's Book: Terms of Use
 
@@ -26,6 +26,44 @@ If you believe content on Judy's Book infringes your copyright or other intellec
 
   
 
+
+## Judy's Book Earnings
+
+As a User of Judy's Book, you have the ability to earn money which is separate and apart from, and in addition to, any other discounts available through Judy's Book. ("Judy's Book Earnings"). This section identifies the manner in which you may earn Judy's Book Earnings, when you will be paid, what rights you have as a User to the Judy's Book earnings you have accrued, and Judy's Book's rights and responsibilities with respect to the Judy's Book Earnings program. 
+
+**1\. Overview.** Users can earn commissions when the user or other visitors shop through any merchant supported links and make a purchase.  The Program is free to Users, and is conferred as a benefit of registration with Judy's Book. You are under no obligation to participate or redeem your Judy's Book Earnings.
+
+As a User, Judy's Book Earnings are automatically earned when you or another user makes a qualifying online purchase from a merchant participating in the Program. Not all merchants listed on our Stores page participate in the Program. 
+
+**2\. Eligibility.** The Program is offered for purchases made through links on the Judy's Book website. You must have Internet access and a valid working e-mail address to receive the privileges of the Program. Further, participation in the Program is limited to individuals that are 18 years of age or older.
+
+Determination of whether or not a purchase made through a Participating Merchant is at the discretion of Judy's Book and the Participating Merchant. Judy's Book is not responsible for tracking problems resulting from incorrect usage of the Judy's Book site, disabling cookies, computer issues resulting from unknown causes such as third-party software or other issues, merchant partner errors/omissions or from any other failure of tracking mechanisms.
+
+Upon registration of your user name with Judy's Book, an account will be set up in your name for all Judy's Book commissions you earn. The appropriate Judy's Book earnings will be posted to your account as "Reported" within thirty (30) days of the date on which a Participating Merchant reports a transaction to Judy's Book. For a period of ninety one (91) to one hundred twenty one (121) days thereafter, your account will refer to the Judy's Book earnings as "Pending." This time period is in accordance with the Participating Merchant's right to reverse a transaction for return purposes. Once the participating merchant authorizes the payment of Judy's Book's commission in connection with a qualifying purchase made, we will credit your account with the applicable Judy's Book earnings. You can view your balance and history by clicking My Deals in the upper right corner of any page and then on the Earnings link.
+
+**4\. Process for payment of Judy's Book Earnings.** Judy's Book members will receive a standard check for any earnings designated as "available" over $5.00. Judy's Book will send checks on a monthly basis and amounts less than $5.00 will remain in your earnings account until you accrue the minimum $5.00 or you request payment from us by sending an email to [dealinfo@judysbookteam.com](mailto:dealinfo@judysbookteam.com). The Judy's Book earnings will be distributed by check on the 15th of each month and will include all earnings up to the last day of the previous month. Standard checks will be sent to the address provided upon sign up. If an address is not provided, Judy's Book will send an email requesting this information. It is the member's responsibility to make sure that Judy's Book has updated information. Judy's Book is not responsible for lost mail or any other event beyond the control of Judy's Book that would prevent a user from receiving their payment. After 90 days, any earnings checks that have not been cashed may become void. Judy's Book employees are not eligible to receive earnings through Judy's Book. 
+
+**5\. Account Adjustments.** Judy's Book earnings awarded to you are subject to adjustments for returns and cancellations based on Judy's Book's receipt of information and payments on such purchases/orders from Participating Merchants, and other events. Judy's Book reserves the right to make adjustments to User's accounts at any time in accordance with this Agreement. If you disagree with any adjustments made to your account, contact Judy's Book at [dealinfo@judysbookteam.com](mailto:dealinfo@judysbookteam.com).
+
+Judy's Book is not responsible for changes to, or discontinuance of, any Participating Merchant, or any Participating Merchant's withdrawal from the Program, or for any effect on accrual of Judy's Book earnings caused by such changes, discontinuance or withdrawal.
+
+Judy's Book will flag accounts that carry a negative balance and future payments will not be sent to this member or any other member associated with the address on the account until the balance is positive, funds are over $5 and designated as "available".
+
+**6\. Termination of Program.** Judy's Book reserves the right to terminate the Program in whole or in part at any time with notice. In the event the Program is terminated, you will have sixty (60) days to redeem your Judy's Book earnings from the date notice is transmitted by Judy's Book to the email address specified in your account. Notification will be sent to the email address provided to Judy's Book during the registration process. Judy's Book will not be responsible for failing to notify you of Program termination where such failure is caused by an inaccurate email address, your failure to check email online, or your failure to inform Judy's Book of a change in your email address.
+
+**7\. Member Responsibilities.** You are responsible for maintaining accurate account information at all times, including valid email address information. You are responsible for keeping your email address, password and all other information concerning your account confidential. Judy's Book is entitled to act on instructions received under your username and password. Judy's Book is not responsible for any credits or debits made to your account by someone else who uses your username or password. Judy's Book will not be responsible for any losses or liabilities incurred through the use of your password by a third party.
+
+You are also responsible for reviewing your account balance on a regular basis, and for checking to ensure that all Judy's Book earnings have been properly credited to your account. If a discrepancy occurs in your Judy's Book earnings account, such as a rebate not being credited to the account, then you must contact Judy's Book via our customer support link on the Site, within sixty (60) days of the purchase/order date from a Participating Merchant. If you fail to contact Judy's Book within that sixty (60) day period , such purchase/order shall be deemed to be accurate and you hereby waive any right to dispute said purchase/order.
+
+**8\. General.**
+
+(a) Participation in the Program is personal to you. Judy's Book earnings received under the Program may not be assigned or transferred to any third party, except as expressly permitted by Judy's Book, in writing. The sale, transfer, lending, exchange, pooling or barter of any Judy's Book earnings, other than by Judy's Book, is expressly prohibited. Any Judy's Book earnings assigned, sold, or otherwise transferred in violation hereof may be confiscated or canceled.
+
+(b) Judy's Book will use information collected from you as set forth in our Privacy Policy. You are encouraged to read our Privacy Policy to understand our information collection and use practices.
+
+(c) You are responsible for any taxes that may be due on Judy's Book earnings redeemed by you.
+
+(d) Judy's Book earnings have no cash value until such time as you receive a payment in accordance with Section 4, herein above, and you shall have no property rights or other legal interest in Judy's Book earnings.
 
 ## Termination
 
