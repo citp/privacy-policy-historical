@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402202309id_/http%3A//gadgets.in/content/view/15/38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016043630id_/http%3A//gadgets.in/content/view/15/38) for the most accurate reproduction.*
 
-# Gadgets.in - Online gadget Shop|New Gadget| - gizmos and gadget | gadget shop | privacy policy
+# Gadgets.in - Online gadget Shop|New Gadget|India - gizmos and gadget | gadget shop | privacy policy
 
 On Gadgets.in, privacy issues are a high priority for us and we follow standard industry practices to maintain your personal information. We respect and are committed to protecting your privacy. Please read the following to learn more about our privacy policy. 
 
