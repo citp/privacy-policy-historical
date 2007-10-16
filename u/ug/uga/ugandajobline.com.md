@@ -1,24 +1,21 @@
-> *The following text is extracted and transformed from the ugandajobline.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230172022id_/http%3A//www.ugandajobline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugandajobline.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016091644id_/http%3A//www.ugandajobline.com/privacy.php) for the most accurate reproduction.*
 
-# Uganda Jobline |Top jobs, resumes & career resources across Uganda
+# Privacy Policy
 
-**Privacy Policy**
+Uganda Jobline has the following Privacy Policy with respect to information gathered on Web pages hosted by Uganda Jobline. Such information is received by Uganda Jobline 
 
-UgandaJobline.com has the following Privacy Policy with respect to information gathered on Web pages hosted by UgandaJobline.com. Such information is received by UgandaJobline.com. 
+The terms "we" and "us" refer to Uganda Jobline.  
+**The Information We Collect**
 
-The terms "we" and "us" refer to UgandaJobline.com.
+  This notice applies to all information collected on the Uganda Jobline Web site or submitted to Uganda Jobline at any time.
 
-  **The Information We Collect**
-
-  This notice applies to all information collected on the UgandaJobline.com Web site or submitted to UgandaJobline.com at any time.
-
-Personally Identifiable Information—When visiting UgandaJobline.com and signing up for or using UgandaJobline.com services, you may choose to supply UgandaJobline.com with information that identifies you personally. For **End-Users** , this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For **Clients** , this information may include the Client's name and contact information, the Client's Web site information (name, URL, visitors per day, page views per month, description, categorization), payment information, and user comments. 
+Personally Identifiable Information—When visiting Uganda Jobline and signing up for or using Uganda Jobline services, you may choose to supply Uganda Jobline with information that identifies you personally. For **End-Users** , this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For **Clients** , this information may include the Client's name and contact information, the Client's Web site information (name, URL, visitors per day, page views per month, description, categorization), payment information, and user comments. 
 
   **The Way We Use Information**
 
   We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as search, community, advertising sales, ecommerce; completing an order; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
 
-  From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the UgandaJobline.com services. 
+  From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the Uganda Jobline services. 
 
   Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
@@ -28,6 +25,6 @@ Personally Identifiable Information—When visiting UgandaJobline.com and signin
 
    **How You Can Access or Update Your Information**
 
-  **Clients** can access their personally identifiable information that UgandaJobline.com collects online and maintains by logging in to their password-protected account and selecting "Edit My Profile." 
+  **Clients** can access their personally identifiable information that Uganda Jobline collects online and maintains by logging in to their password-protected account and selecting "Edit Your Profile." 
 
   To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information
