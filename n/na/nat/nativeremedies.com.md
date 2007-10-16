@@ -1,23 +1,32 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629155406id_/http%3A//nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016081526id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Native Remedies Privacy Policy
 
-**Open Policy on the Issue of Privacy:** We at Native Remedies adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.  
-**  
-Our Commitment To Privacy**  
+## Privacy Policy
+
+### Open Policy on the Issue of Privacy:
+
+We at Native Remedies adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.
+
+### Our Commitment To Privacy
+
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**The Information We Collect**   
-This notice applies to all information collected or submitted on the nativeremedies.com website whether from customers or prospects. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+### The Information We Collect 
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit Card Information 
+This notice applies to all information collected or submitted on the nativeremedies.com website whether from customers or prospects. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-**The Way We Use Information**  
-We use the information you provide about yourself when placing an order only to complete that order, to contact you with regard to your order, to respond to email inquires, to participate in chat room discussions, or to send an email newsletter. We do not share this information with outside parties except to the extent necessary to complete that order.
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit Card Information
+
+
+
+### The Way We Use Information
+
+We use the information you provide about yourself when placing an order only to complete that order, to contact you with regard to your order, to respond to email inquires, to participate in chat room discussions, or to send an email newsletter. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
@@ -29,11 +38,14 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-**Our Commitment To Data Security**  
+### Our Commitment To Data Security 
+
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**How You Can Access Or Correct Your Information**  
-You can access all your personally identifiable information that we collect online and maintain by accessing Your Account on any page. You can correct factual errors in your personally identifiable information by editing it online. To protect your privacy and security, we require that you select a password, and then log on using that password to access or change your information.  
-**  
-How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +1 (253) 620-4542 or send us an email at [service@nativeremedies.com](mailto:service@nativeremedies.com)
+### How You Can Access Or Correct Your Information 
+
+You can access all your personally identifiable information that we collect online and maintain by accessing Your Account on any page. You can correct factual errors in your personally identifiable information by editing it online. To protect your privacy and security, we require that you select a password, and then log on using that password to access or change your information. 
+
+### How To Contact Us 
+
+Should you have other questions or concerns about these privacy policies, please call us at +1.561.544.6006 Ext. 2 or send us an email at [service@nativeremedies.com](mailto:service@nativeremedies.com)
