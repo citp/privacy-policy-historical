@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617175628id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016152841id_/http%3A//www.wine.com/customercare/PrivacyInfo.asp) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
