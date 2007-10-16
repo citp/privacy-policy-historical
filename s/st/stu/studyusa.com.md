@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyusa.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630064254id_/http%3A//www.studyusa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyusa.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017003840id_/http%3A//www.studyusa.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
