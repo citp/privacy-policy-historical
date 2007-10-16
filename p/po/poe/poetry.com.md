@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629210319id_/http%3A//poetry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016231355id_/http%3A//poetry.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Poetry.com
 
@@ -28,3 +28,5 @@ If you have any questions about our privacy policy or information security, you 
 
 
 We may update this policy from time to time as our information practices are modified or changed. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+Rev. 09/25/2007
