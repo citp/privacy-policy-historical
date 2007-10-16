@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the brainfall.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626192639id_/http%3A//www.brainfall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainfall.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016065705id_/http%3A//www.brainfall.com/privacy.php) for the most accurate reproduction.*
 
 # BrainFall.com - Personality Tests for College Students
 
 | 
 
 **BrainFall.com, Inc. Privacy Policy**  
-**(Last Updated: June 18, 2007)**
+**(Last Updated: June 18, 2007)**   
 
-  
+
 BrainFall.com, Inc. (“BrainFall”) has created this privacy policy (the “ **Policy** ”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“ **Service** ”) and Web site (“ **Site** ”) located at **_[http://www.brainfall.com](http://www.rupture.com/)_**. By using the Service, you consent to the privacy practices described in this Policy.  
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit.  
 **INFORMATION ABOUT YOU**  
@@ -16,14 +16,15 @@ Our definition of personal information does not include “aggregate” informat
 Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose and protect this information:  
 **Information You Give Us.**  
 We collect information you give us at various times when you register with us and use our Service. Examples include the following:  
-**Registration and Transaction Information.   **When you register to use the Service, we may collect various kinds of contact information about you including your e-mail address. You will also be asked to create a user-chosen ID and password for your use when accessing the Service.   
-**Submissions and Customer Service.**  From time-to-time we may post surveys, contests or sweepstakes on our Service, which may request demographic information and customer feedback.  Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information.  We may also collect personal information if you provide it via e-mail, message boards, or other interactive services. Please do not post any information that you expect to keep private.  In addition, we may collect and retain information that identifies you personally when you send us comments, questions or suggestions.   
+**Registration and Transaction Information.   **When you register to use the Service to share the results of your quizzes, we may collect various kinds of contact information about you including your e-mail address.   
+**Submissions and Customer Service.**  From time-to-time we may post surveys, contests or sweepstakes on our Service, which may request demographic information and customer feedback.  Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information.  We may also collect personal information if you provide it via e-mail, message boards, or other interactive services. Please do not post any information that you expect to keep private.  In addition, we may collect and retain information that identifies you personally when you send us comments, questions or suggestions. 
+
 **Automatically Collected Information.**  
 We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems may automatically collect your IP address and the type of operating system or browser you use. In addition, when you opt to record the results of your quizzes on your profile for the Facebook service, available at [http://www.facebook.com](http://www.facebook.com/) (“Facebook”), we automatically collect your Facebook user id and the results of any quizzes taken via the Service.  
 We may also collect information pertaining to any transactions conducted by you on the Site, information pertaining to the files accessed or used by you, and standard access information, such as the time and date of accessing the Service, the country from which the Service is being accessed, and usage of the Service. We use such information to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage.  
 We may use cookie technology to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to allow you to visit the Site without re-entering your member ID and/or password. In addition, our third party advertisers may also place cookies on your browser. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies or those of our third party advertisers, you may not be able to use some of the Site’s features or services, and you may have a less satisfactory experience.   
 **No Information about Children.**  
-Our Service is not intended to be used by children under the age of 13, and we do not knowingly, directly or passively, collect information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy.  
+Our Service is not intended to be used by children under the age of 13, and we do not knowingly, directly or passively, collect information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy.  If it comes to our attention that children under the age of 13 are utlizing the Service, we will discontinue that person’s use of and registration for the Service.  
 **USE OF PERSONAL INFORMATION**  
 **Internal Use of Personal Information.**  
 All contact information submitted by you is stored in our database and may be archived elsewhere. Our records are stored indefinitely in the form of a database, as are our archival backup copies.    
@@ -54,6 +55,6 @@ We may revise and update this Policy if our practices change, as technology chan
 **CALIFORNIA PRIVACY RIGHTS**  
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the contact point below. Please reference your request as “California Disclosure Information.”  
 **CONTACTING US**  
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with BrainFall, please contact us at: **feedback@brainfall.com**
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with BrainFall, please contact us at: **feedback@brainfall.com**.
 
 | 
