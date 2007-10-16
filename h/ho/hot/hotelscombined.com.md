@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527120525id_/http%3A//www.hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016084632id_/http%3A//hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Hotels Combined - Compare Hotel Prices from Top Hotel Sites
+# HotelsCombined.com Privacy Statement
 
   
   
