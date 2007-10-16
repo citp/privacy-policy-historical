@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626102411id_/http%3A//www.gigsalad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016165610id_/http%3A//www.gigsalad.com/privacy.php) for the most accurate reproduction.*
 
 # Gig Salad | About Us | Acrobats, Jazz Bands, Clowns, Wedding Entertainment
 
