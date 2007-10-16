@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211045545id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016064853id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
 
 # Download ebooks at Diesel eBooks
 
 | Fiction eBooks  
 ---  
   
-[General Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC000001/General-Fiction)  
-[Romance](http://www.diesel-ebooks.com/cgi-bin/category/FIC027001/Romance)  
-[Erotica](http://www.diesel-ebooks.com/cgi-bin/category/FIC005000/Erotica)  
-[Fantasy](http://www.diesel-ebooks.com/cgi-bin/category/FIC009001/Fantasy)  
-[Science Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC028001/Science-Fiction)  
-[Mystery & Detective](http://www.diesel-ebooks.com/cgi-bin/category/FIC022001/Mystery-&-Detective)  
-[Suspense & Thrillers](http://www.diesel-ebooks.com/cgi-bin/category/FIC032000/Suspense-&-Thrillers)  
-[Action & Adventure](http://www.diesel-ebooks.com/cgi-bin/category/FIC002001/Action-&-Adventure)  
-[Children's Fiction](http://www.diesel-ebooks.com/cgi-bin/category/JUV000001/Childrens-Fiction)  
-[Classics & Drama](http://www.diesel-ebooks.com/cgi-bin/category/DRA000001/Classics-&-Drama)  
-[Literary & Poetry](http://www.diesel-ebooks.com/cgi-bin/category/POE000001/Literary-&-Poetry)  
-[Free eBooks](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
+[General Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC000001/General-Fiction.html)  
+[Romance](http://www.diesel-ebooks.com/cgi-bin/category/FIC027001/Romance.html)  
+[Erotica](http://www.diesel-ebooks.com/cgi-bin/category/FIC005000/Erotica.html)  
+[Fantasy](http://www.diesel-ebooks.com/cgi-bin/category/FIC009001/Fantasy.html)  
+[Science Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC028001/Science-Fiction.html)  
+[Mystery & Detective](http://www.diesel-ebooks.com/cgi-bin/category/FIC022001/Mystery-&-Detective.html)  
+[Suspense & Thrillers](http://www.diesel-ebooks.com/cgi-bin/category/FIC032000/Suspense-&-Thrillers.html)  
+[Action & Adventure](http://www.diesel-ebooks.com/cgi-bin/category/FIC002001/Action-&-Adventure.html)  
+[Children's Fiction](http://www.diesel-ebooks.com/cgi-bin/category/JUV000001/Childrens-Fiction.html)  
+[Classics & Drama](http://www.diesel-ebooks.com/cgi-bin/category/DRA000001/Classics-&-Drama.html)  
+[Literary & Poetry](http://www.diesel-ebooks.com/cgi-bin/category/POE000001/Literary-&-Poetry.html)  
+[Free eBook downloads](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
   
   
 Non-Fiction  
 ---  
-[](http://www.diesel-ebooks.com/cgi-bin/category/AAT000001/Art) [](http://www.diesel-ebooks.com/cgi-bin/category/BIO000001/Biography) [](http://www.diesel-ebooks.com/cgi-bin/category/OCC000001/Body-Mind-&-Spirit) [](http://www.diesel-ebooks.com/cgi-bin/category/BUS000001/Business-&-Economics) [](http://www.diesel-ebooks.com/cgi-bin/category/COM000001/Computers) [](http://www.diesel-ebooks.com/cgi-bin/category/CRA000001/Crafts-Hobbies-&-Home) [](http://www.diesel-ebooks.com/cgi-bin/category/EDU000000/Education) [](http://www.diesel-ebooks.com/cgi-bin/category/FAM000000/Family-&-Relationships) [](http://www.diesel-ebooks.com/cgi-bin/category/HIS000000/History) [](http://www.diesel-ebooks.com/cgi-bin/category/HUM000000/Humor) [](http://www.diesel-ebooks.com/cgi-bin/category/JNF000000/Childrens-Nonfiction) [](http://www.diesel-ebooks.com/cgi-bin/category/LAN000000/Language-Arts) [](http://www.diesel-ebooks.com/cgi-bin/category/LAW000000/Law) [](http://www.diesel-ebooks.com/cgi-bin/category/MED000000/Medical) [](http://www.diesel-ebooks.com/cgi-bin/category/PHI000000/Philosophy) [](http://www.diesel-ebooks.com/cgi-bin/category/POL000000/Political-Science) [](http://www.diesel-ebooks.com/cgi-bin/category/PSY000000/Psychology-Psychiatry) [](http://www.diesel-ebooks.com/cgi-bin/category/REF000000/Reference-&-Study-Aids) [](http://www.diesel-ebooks.com/cgi-bin/category/REL000000/Religion) [](http://www.diesel-ebooks.com/cgi-bin/category/SCI000000/Science-&-Nature) [](http://www.diesel-ebooks.com/cgi-bin/category/SOC000000/Social-Science) [](http://www.diesel-ebooks.com/cgi-bin/category/SPO000000/Sports-&-Fitness) [](http://www.diesel-ebooks.com/cgi-bin/category/TEC000000/Technology) [](http://www.diesel-ebooks.com/cgi-bin/category/TRV000000/Travel) [](http://www.diesel-ebooks.com/cgi-bin/category/TRU000000/True-Crime)  
+[](http://www.diesel-ebooks.com/cgi-bin/category/AAT000001/Art.html) [](http://www.diesel-ebooks.com/cgi-bin/category/BIO000001/Biography.html) [](http://www.diesel-ebooks.com/cgi-bin/category/OCC000001/Body-Mind-&-Spirit.html) [](http://www.diesel-ebooks.com/cgi-bin/category/BUS000001/Business-&-Economics.html) [](http://www.diesel-ebooks.com/cgi-bin/category/COM000001/Computers.html) [](http://www.diesel-ebooks.com/cgi-bin/category/CRA000001/Crafts-Hobbies-&-Home.html) [](http://www.diesel-ebooks.com/cgi-bin/category/EDU000001/Education.html) [](http://www.diesel-ebooks.com/cgi-bin/category/FAM000001/Family-&-Relationships.html) [](http://www.diesel-ebooks.com/cgi-bin/category/HIS000001/History.html) [](http://www.diesel-ebooks.com/cgi-bin/category/HUM000001/Humor.html) [](http://www.diesel-ebooks.com/cgi-bin/category/JNF000001/Childrens-Nonfiction.html) [](http://www.diesel-ebooks.com/cgi-bin/category/LAN000001/Language-Arts.html) [](http://www.diesel-ebooks.com/cgi-bin/category/LAW000001/Law.html) [](http://www.diesel-ebooks.com/cgi-bin/category/MED000001/Medical.html) [](http://www.diesel-ebooks.com/cgi-bin/category/PHI000001/Philosophy.html) [](http://www.diesel-ebooks.com/cgi-bin/category/POL000001/Political-Science.html) [](http://www.diesel-ebooks.com/cgi-bin/category/PSY000000/Psychology-Psychiatry.html) [](http://www.diesel-ebooks.com/cgi-bin/category/REF000001/Reference-&-Study-Aids.html) [](http://www.diesel-ebooks.com/cgi-bin/category/REL000001/Religion.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SCI000001/Science-&-Nature.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SOC000001/Social-Science.html) [](http://www.diesel-ebooks.com/cgi-bin/category/SPO000001/Sports-&-Fitness.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TEC000001/Technology.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TRV000001/Travel.html) [](http://www.diesel-ebooks.com/cgi-bin/category/TRU000001/True-Crime.html)  
   
 Download Free  
 eBook Readers  
 ---  
 [Microsoft MS Reader](http://www.microsoft.com/reader/downloads/default.asp)   
-[Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html)   
+[Adobe Reader](http://www.adobe.com/products/acrobat/readstep2_allversions.html)   
 [Palm eReader](http://www.ereader.com/product/browse/software)  
 To browse or view on:  
 Pocket PC PDA  
@@ -35,6 +35,12 @@ Palm PDA
 Handspring PDA  
 Wireless Phone  
 Personal PC   
+  
+_Thanks once again for your fabulously quick reply - I will certainly keep your site bookmarked for future ebook purchases._
+
+ **Suzanne Byrne  
+Victoria, Australia**
+
   
   
 ---  
