@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618044425id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016195000id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 This is the web site of **Free MIDI Zone**.  
 Our web address: [http://www.free-midi.org](http://www.free-midi.org/)  
-We can be reached via e-mail at [webmaster@free-midi.org](mailto:webmaster@free-midi.org)
+We can be reached via e-mail at [contact](http://www.free-midi.org/feedback.php)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -15,9 +15,6 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-<http://www.google.com/privacy.html>   
-<http://www.mamma.com/info/privacy.html>   
-<http://www.claria.com/help/privacy/>  
-<http://www.clickxchange.com/privacy.phtml>
+<http://www.google.com/privacy.html>
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
