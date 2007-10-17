@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628232121id_/http%3A//www.mhprofessional.com/%3Fpage%3D/mhp/content/help/new_customers/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhprofessional.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017155710id_/http%3A//www.mhprofessional.com/%3Fpage%3D/mhp/content/help/new_customers/privacy_statement.html) for the most accurate reproduction.*
 
 # McGraw-Hill Professional - McGraw-Hill Professional Customer Privacy Statement
 
