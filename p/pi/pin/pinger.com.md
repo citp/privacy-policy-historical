@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626210849id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017191325id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Pinger Privacy Policy
 
 ## Overview
 
-This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger’s products, services, and website. Our primary goal in collecting information is to provide and improve our products and services.
+This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger's products, services, and website. Our primary goal in collecting information is to provide and improve our products and services.
 
 ## Information Pinger Collects and Uses
 
-Pinger collects information when you establish and use Pinger services and when you use and access Pinger’s website.  The information collected includes Personal Information, Contact Data, Message Data, and Traffic Data (collectively, “Customer Information”).  “Personal Information” is information about you that is personally identifiable, like your name, address, email address, billing information, passwords, home and business addresses, phone numbers, and information that is not otherwise publicly available. “Contact Data” is contact information you’ve developed that you may provide to Pinger to enhance your use of Pinger’s products and services. “Message Data” includes the messages sent and received using Pinger services, information about those messages, and your account activity, such as log-in times and message storage capacity.  “Traffic Data” is anonymous information about the nature of your usage of Pinger’s website and products and services and can include:  IP addresses, domain servers, referring/exit pages, operating system, date/time stamp, clickstream data, type of computer or mobile phone, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information.
+Pinger collects information when you establish and use Pinger services and when you use and access Pinger's website. The information collected includes Personal Information, Contact Data, Message Data, and Traffic Data (collectively, "Customer Information"). "Personal Information" is information about you that is personally identifiable, like your name, address, email address, billing information, passwords, home and business addresses, phone numbers, and information that is not otherwise publicly available. "Contact Data" is contact information you've developed that you may provide to Pinger to enhance your use of Pinger's products and services. "Message Data" includes the messages sent and received using Pinger services, information about those messages, and your account activity, such as log-in times and message storage capacity. "Traffic Data" is anonymous information about the nature of your usage of Pinger's website and products and services and can include: IP addresses, domain servers, referring/exit pages, operating system, date/time stamp, clickstream data, type of computer or mobile phone, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information.
 
 ## Information Sharing and Disclosure
 
-Pinger uses Customer Information to enhance your use of the Pinger services by processing such information for various purposes, including providing information to you about Pinger’s products and services, formatting and displaying elements of Contact Data and Message Data to you and to those whom you send messages, delivering advertisements and related links, storing your messages, and other purposes relating to offering you Pinger products and services.
+Pinger uses Customer Information to enhance your use of the Pinger services by processing such information for various purposes, including providing information to you about Pinger's products and services, formatting and displaying elements of Contact Data and Message Data to you and to those whom you send messages, delivering advertisements and related links, storing your messages, and other purposes relating to offering you Pinger products and services.
 
 ## Pinger does not rent, sell, or share any Customer Information unless we have your express consent and in the following circumstances:
 
@@ -24,19 +24,19 @@ Pinger uses Customer Information to enhance your use of the Pinger services by p
 
 (iv) Pinger may share Customer Information when legally required to do so, at the request of governmental authorities conducting an investigation.
 
-(v) Pinger may share Customer Information to verify or enforce compliance with user agreements and applicable laws, to protect against fraud, to detect and prevent security or technical issues, to protect against misuse or unauthorized use of the Pinger products, services, or website, or to protect against imminent harm to the rights, property or safety of Pinger, its subscribers or the public as required or permitted by law 
-
 (v) Pinger may share Customer Information with a successor entity or in connection with a corporate merger, consolidation, sale of assets or other corporate reorganization.
+
+(vi) Pinger may share your Customer Information with a third party if you have consented to receive information from that third party through registration from a co-branded version of the Pinger service operated with a third party or through a communication or promotional program of a third party that is enabled by the Pinger service. Such third parties will handle, store, retain and access such user information in accordance with the terms and conditions of their agreements with you, if any, as well as their own privacy policies. It is your responsibility to carefully review such agreements and privacy policies. You acknowledge that Pinger shall have no liability to you for sharing of such information to such third parties and Pinger disclaims any and all liability relating thereto
 
 If Pinger desires to use Personal Information for any purposes other than those described in this Privacy Policy, we will offer you the opportunity to opt out of such use of your Personal Information for those other purposes.
 
 ## Cookies
 
-When you visit Pinger, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer.  If you disable cookies, you may not be able to utilize certain Pinger products and services.
+When you visit Pinger, we may send cookies to your computer that uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking usage information. Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer. If you disable cookies, you may not be able to utilize certain Pinger products and services.
 
 ## Security
 
-When you access your account information, Pinger uses a Secure Socket Layer (SSL) that encrypts all information you input before it is sent to us. Further, Pinger limits access to Customer Information to Pinger personnel who need to come into contact with that information to provide products or services to you or in order to do their jobs.  We have physical, electronic, and procedural safeguards to protect the loss, misuse, and alteration of the Customer Information under our control. Customer information we collect is stored in a secure manner that is accessible only by authorized Pinger personnel and is only disclosed under the provisions of this Privacy Policy.
+When you access your account information, Pinger uses a Secure Socket Layer (SSL) that encrypts all information you input before it is sent to us. Further, Pinger limits access to Customer Information to Pinger personnel who need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards to protect the loss, misuse, and alteration of the Customer Information under our control. Customer information we collect is stored in a secure manner that is accessible only by authorized Pinger personnel and is only disclosed under the provisions of this Privacy Policy.
 
 ## Children's Personal Information
 
@@ -52,7 +52,7 @@ If you want us to remove your Personal Information from our database, or would l
 
 ## Modifications of Privacy Policy
 
-Pinger reserves the right, at our discretion, to change, update or modify this Privacy Policy at any time by posting such change, update or modification on the Pinger website. Any such change, update or modification will be effective immediately upon posting on the Pinger website. Please check this policy periodically for changes. Your continued use of the Pinger website and/or any Pinger products and services following the posting of changes will mean you accept those changes. Use of information that we gather is subject to the Privacy Policy in effect at the time of use.
+Pinger reserves the right, at our discretion, to change, update or modify this Privacy Policy at any time by posting such change, update or modification on the Pinger website. Any such change, update or modification will be effective immediately upon posting on the Pinger website and, if required by applicable law, notice to you via the Pinger service. Please check this policy periodically for changes. Your continued use of the Pinger website and/or any Pinger products and services following the posting of changes will mean you accept those changes. Use of information that we gather is subject to the Privacy Policy in effect at the time of use.
 
 ## Contact Us
 
