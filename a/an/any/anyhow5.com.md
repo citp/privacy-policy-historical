@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104225832id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017060444id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Arts and Crafts - Privacy policy: anyhow5.com
 
@@ -41,7 +41,7 @@ If you have a question about this privacy policy, you can send an email to the a
 
 How can I access or correct any personally identifying information about me?
 
-To request a copy of the personally identifiable information you have sent to anyhow5, please send an e-mail containing your request to monicajeleriu@anyhow5.com. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent). You may then correct or delete such information using the procedures specified in the e-mail. 
+To request a copy of the personally identifiable information you have sent to anyhow5, please send an e-mail containing your request to privacy@anyhow5.com. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent). You may then correct or delete such information using the procedures specified in the e-mail. 
 
 Notification of Changes 
 
