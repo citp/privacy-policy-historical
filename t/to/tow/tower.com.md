@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616193628id_/http%3A//www.tower.com/help/help_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017021744id_/http%3A//www.tower.com/help/help_security.htm) for the most accurate reproduction.*
 
 # Tower.com
 
@@ -11,7 +11,7 @@ Security and Privacy Information
   
 Effective date: May 18th, 2007
 
-**Tower.com Commitment to Safe Internet Shopping**
+**Tower.com's Commitment to Safe Internet Shopping**
 
 We offer 128-bit SSL encryption, which encrypts your personal and credit card information as it is transferred over the Internet. 
 
@@ -229,8 +229,6 @@ Return to the Top
 
   * With whom is your personal information shared?  
 
-  * What choices do I have on the collection, use and distribution of my personal information?  
-
   * How can I access, update or delete my personal information?  
 
   * How does Tower.com protect your personal information?  
@@ -264,12 +262,10 @@ Tower.com does not sell, trade or rent your personal information to others. We w
 
 Return to Questions
 
-**What choices do I have on the collection, use and distribution of my personal information?**  
-You can sign in to the Account section at Tower.com and choose "Update Communication Preferences." There you can specifically select the mailings you would like to receive and deselect the mailings you would rather not receive. You can also instruct us to have your name and address removed from our mailing list at any time. The easiest way is to click the "Unsubscribe" link at the bottom of any promotional email you receive, but you can also unsubscribe from all mailings in the "Update Communications Preferences" section.
+**How can I access, update or delete my personal information?  
+**You may edit your Tower.com Account information at any time by signing in to your account and clicking "Update Account." Here you can access, review and update your personal information. Your Tower.com Account can be deleted, but doing so will result in not being able to access any members-only areas of Tower.com. To delete your account, please email us at [feedback@tower.com](mailto:feedback@tower.com) from the email address attached to your account. Include specific instruction to delete your account.
 
-**How can I access, update or delete my personal information?**
-
-You may edit your Tower.com Account information at any time by signing in to your account and clicking "Update Account Profile." Here you can access, review and update your personal information. Your Tower.com Account can be deleted, but doing so will result in not being able to access any members-only areas of Tower.com. To delete your account, please email us at [feedback@tower.com](mailto:feedback@tower.com) from the email address attached to your account. Include specific instruction to delete your account. You can also call us at the phone numbers listed below.
+Return to Questions
 
 **How does Tower.com protect my personal information?**  
 We use state-of-the-art technology to safeguard your personal information. All Tower.com employees are required to acknowledge that they understand and will comply with this privacy policy. Employees who violate this policy will be subjected to disciplinary action, up to, and including termination.
@@ -292,13 +288,4 @@ If, however, we are going to use users’ personally identifiable information in
 Return to the Top  
   
   
-**Still Have Questions? TALK TO US!**  
----  
-  
-**Email:**  
-[reply@tower.com](mailto:reply@tower.com)
 
-**Phone:  
-1-800-ASK-TOWER** (1-800-275-8693)  
-Monday-Friday: 9:00 a.m. – 6:00 p.m. PST  
-*Telephone service only available to Continental US customers
