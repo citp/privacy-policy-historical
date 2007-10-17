@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/about/generic/privacy_security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017045230id_/http%3A//www.medicareaustralia.gov.au/about/generic/privacy_security.shtml) for the most accurate reproduction.*
 
 # Medicare Australia - :: Privacy & Security::
 
-**Page last modified:** 6 June, 2007
+**Page last modified:** 12 October, 2007
 
 Our policy is to respect and protect the privacy of our consumers and users. This policy statement explains how we collect online information and how we use it.
 
@@ -60,7 +60,7 @@ You will know that you are using a secure connection when:
 
 
 
-Medicare Australia is using available technology to protect the security and confidentiality of your transmissions over the Internet. However, if you do not wish to send personal details online, you can contact us by phone, in person, or in writing (see [contact us](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details).
+Medicare Australia is using available technology to protect the security and confidentiality of your transmissions over the Internet. However, if you do not wish to send personal details online, you can contact us by phone, in person, or in writing (see [contact us](https://web.archive.org/web/20071017045230id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details).
 
 ## General security advice
 
@@ -106,7 +106,7 @@ A cookie is a piece of information contained within a small file that an Interne
 
 ## Transmission of data via the Internet
 
-While Medicare Australia endeavours to make this site secure, users should be aware that the World Wide Web is an insecure network that may be at risk of transactions being viewed, intercepted or modified by third parties. If you wish to contact Medicare Australia without sending information via the Internet, please see [contact us](https://web.archive.org/web/20070608204854id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details.
+While Medicare Australia endeavours to make this site secure, users should be aware that the World Wide Web is an insecure network that may be at risk of transactions being viewed, intercepted or modified by third parties. If you wish to contact Medicare Australia without sending information via the Internet, please see [contact us](https://web.archive.org/web/20071017045230id_/http%3A//www.medicareaustralia.gov.au/corporate/contact_us.shtml) for details.
 
 ## Disclaimer
 
