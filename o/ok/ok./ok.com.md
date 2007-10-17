@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2007-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070305184934id_/http%3A//www.ok.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017043014id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy :: ContentWatch Internet Filtering
+# Privacy Policy :: Net Nanny Parental Controls
 
 Your privacy is important to ContentWatch Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with ContentWatch Inc.
 
