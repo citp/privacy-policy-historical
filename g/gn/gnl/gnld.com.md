@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2006-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060810070723id_/http%3A//www.gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017145410id_/http%3A//www.gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.*
 
 # GNLD: A Better Way of Life.
 
@@ -23,7 +23,8 @@ We do not sell your personal information to third parties. We may share such inf
 
   * Any consultant/agent appointed by GNLD to plan, provide and/or administer distributor benefits.
   * Any employee of GNLD and its local and foreign affiliated/associated companies who have a need to access your personal information in order to carry out their responsibilities.
-  * Any government agency or governmental, police or regulatory authority in order to meet legal security and regulatory requirements  
+  * Any government agency or governmental, police or regulatory authority in order to meet legal security and regulatory requirements 
+  * Up-line sponsoring Distributors with a need to know your status, progress and involvement.  
 
 
 
