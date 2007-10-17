@@ -1,34 +1,50 @@
-> *The following text is extracted and transformed from the membershipme.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109050040id_/http%3A//www.dealpass.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipme.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017091857id_/http%3A//www.dealpass.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DealPass Privacy Policy
 
-DealPassSM understands how important privacy is to our members. We have created this online Privacy and Security Policy to demonstrate our commitment to protecting your privacy and providing you with a secure and enjoyable member experience.
+PRIVACY POLICY 
 
-Our mission is to adhere to policies that prevent unauthorized use of your personal information; to maintain the accuracy of the information provided; and to protect the privacy of your information through the use of secure servers and encryption devices. The intent of this statement is to answer your questions about our online Privacy and Security Policy.
+**
+
+_DealPass_
+
+**
+
+[](http://www.truste.org/ivalidate.php?companyName=Vertrue,%20Inc.&sealid=101)
+
+**
+
+_Privacy and Security Policy_
+
+**
+
+DealPassSM (www.dealpass.com) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Privacy and Security Policy covers the site www.dealpass.com. Because this Web site wants to demonstrate its commitment to your privacy, we have partnered with TRUSTe to provide you with a secure and enjoyable member experience. 
+
+If you have questions or concerns regarding this Privacy and Security Policy, you should first contact Member Savings at membershipservices@dealpass.com. If you do not receive acknowledgement of your inquiry about this Privacy and Security Policy or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with DealPass to resolve your concerns.
 
 **What information is collected?**
 
-Generally, we gather two types of information. The first type of information is the personally identifiable information ("Personal Information") that you expressly provide when you enroll in a program through DealPass. This information includes your name, mailing address, e-mail address, and date of birth or some other unique personal identifier that we can use to confirm sales and billing information (e.g. city of birth or mother's maiden name). Occasionally, we may request other information from you that may be used by our Membership Services department to confirm enrollment, update your account or confirm your order. From time to time, we may offer you optional surveys that may ask you for your opinions or demographic data (e.g. age and gender) so that we can improve our program and offerings.
+Generally, we gather two types of information. The first type of information is the personally identifiable information ("Personal Information") that you expressly provide when you enroll in a program through DealPass. This information includes your name, mailing address or e-mail address or some other unique personal identifier (e.g. city of birth or mother's maiden name) that we can use to confirm sales and billing information (e.g. credit card number) . Occasionally, we may request other information from you that may be used by our Membership Services department to confirm enrollment, update your account or confirm your order. From time to time, we may offer you optional surveys that may ask you for your opinions or demographic data (e.g. age and gender) so that we can improve our program and offerings.
 
 The second type of information is technical and statistical information that is collected automatically whenever you visit our Web site. This type of information may include things such as your IP address, operating system, type of browser and Web site activity. We collect this data to help us improve the quality of our Web site and make your visits to the site easy, convenient and meaningful.
 
-We do not link aggregate user data with personally identifiable information.
+We do not link aggregate user data with personally identifiable information. 
 
 **Who is collecting the information?**
 
-The programs offered on DealPass are marketed and distributed by Adaptive Marketing LLC, a leading marketing solutions company. The information collected on the site is owned by Adaptive Marketing LLC and/or its marketing partners depending on who offered you membership in the program.
+The programs offered on DealPass are marketed and distributed by Adaptive Marketing LLC, a leading marketing solutions company. The information collected on the site is owned by Adaptive Marketing LLC and/or its marketing partners depending on who offered you membership in the program. 
 
 **How do you use the information collected?**
 
-We use the Personal Information you provide to service your membership. For example, we request your mailing address so we know where to send the merchandise certificates, gift cards and other benefits that you may purchase, and any other information you may request. We also may send you additional membership information such as updates about our program and special offers. We use your credit card information to bill you for the membership fee and any benefits you may purchase. We use your e-mail address to notify you of program updates, special offers and promotions. If you prefer not to receive e-mail notifications from us, simply visit our Contact Us page, select "Unsubscribe to future marketing" from the drop-down menu, and e-mail us your request. Be sure to include your name and membership ID number as well as the e-mail address to remove from our list.
+We use the Personal Information you provide to service your membership. For example, we request your mailing address so we know where to send the merchandise certificates, gift cards and other benefits that you may purchase, and any other information you may request. We also may send you additional membership information such as updates about our program and special offers. We use your credit card information to bill you for the membership fee and any benefits you may purchase. We use your e-mail address to notify you of program updates, special offers and promotions. If you prefer not to receive e-mail notifications from us, simply visit our Contact Us page, select “Unsubscribe to future marketing” from the drop-down menu, and e-mail us your request. Be sure to include your name and membership ID number as well as the e-mail address to remove from our list.
 
-The Personal Information that is collected may also be shared with other groups within the Adaptive Marketing organization, and with Adaptive Marketing’s affiliates and /or marketing partners, to bring you additional information and special savings offers.
+The Personal Information that is collected may also be shared with other groups within the Adaptive Marketing organization, and with Adaptive Marketing’s affiliates and /or marketing partners, to bring you additional information and special savings offers. 
 
 The technical and statistical information that is automatically collected from your computer whenever you visit DealPass is used to help us improve the site and the member experience. From time to time we may disclose general statistical information about our Web site and its visitors such as the number of visitors, the number and type of products purchased, etc.
 
 **Do you share Personal Information with third parties?**
 
-DealPass may share Personal Information with third parties whom we employ to perform functions on our behalf. For example, DealPass uses a third party to verify and process your credit card information in order to charge you for requested benefits or services. All third parties are contractually obligated to use your Personal Information only for the purpose for which it is given. We are not responsible for the information practices of third parties. The collection, use and disclosure of information by third parties are subject to their respective privacy policies, which may differ from our policy.
+DealPass may share Personal Information with third parties whom we employ to perform functions on our behalf and with whom we have contractual relationships. For example, DealPass uses a third party to verify and process your credit card information in order to charge you for requested benefits or services. All such third parties are contractually obligated to use your Personal Information only for the purpose for which it is given. Dealpass is not responsible for the information practices of third parties outside of such contractual relationships. The collection, use and disclosure of information by third parties are subject to their respective privacy policies, which may differ from our policy. 
 
 From time to time, we may also share Personal Information with our affiliates and/or marketing partners who offer products and services that we think will be of interest to you. If you prefer not to have your Personal Information shared with our affiliates and/or marketing partners, please indicate what offers you are not interested in receiving on the E-mail Preferences page, if available, or by sending us an e-mail using the Contact Us page. If you are enrolling online, you may also opt-out of receiving e-mails from third parties outside of Dealpass by de-selecting the check box on the enrollment page. If you accept a third-party offer provided via or linked to from our Web site, you consent to our providing your Personal Information and/or billing information to the third-party marketer that offered the product or service so they may process your acceptance of the offer.
 
@@ -48,7 +64,7 @@ You can change, modify or update your member information by sending us an e-mail
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This Privacy and Security Policy covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
 
-We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies on the login page to store your Membership ID and for re-direction of members to membership enabled Web sites. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file.
+We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies on the login page to store your Membership ID and for re-direction of members to membership enabled Web sites. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
 Most Internet browsers will allow you to erase or block cookies. Instructions for disabling cookies may differ from one browser version to another. Please refer to the Help section of your browser for instructions to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our sites features, so we recommend that you leave them turned on.
 
@@ -56,7 +72,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 **What are pixels and how do you use them?**
 
-"Pixels" or "pixel tags" are tiny graphic images placed on certain pages of our Web site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit; at no time is your Personal Information collected by the pixel tag. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Web site. We may also utilize pixel tags provided by our affiliates and/or marketing partners for the same purposes.
+“Pixels" or "pixel tags” are tiny graphic images placed on certain pages of our Web site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit; at no time is your Personal Information collected by the pixel tag. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Web site. We may also utilize pixel tags provided by our affiliates and/or marketing partners for the same purposes. 
 
 **How can I disable my pixel tags?**
 
@@ -70,7 +86,7 @@ Internal access to member information is protected and can only be accessed by p
 
 **Do these same policies apply to third-party Web sites that I access through DealPass or programs offered on DealPass?**
 
-No. The Privacy and Security Policy appearing on this Web site relates to DealPass. You will notice that our Web site may contain links to other sites such as our benefit providers. We cannot be responsible for the privacy and security practices of other Web sites that you may access through our site, even if displayed within a frame on our site. As an online consumer, you should always review a particular Web site’s privacy and security policies when linking to that site before revealing any Personal Information to that site.
+No. The Privacy and Security Policy appearing on this Web site relates to DealPass. You will notice that our Web site may contain links to other sites such as our benefit providers. We cannot be responsible for the privacy and security practices of other Web sites that you may access through our site, even if displayed within a frame on our site. As an online consumer, you should always review a particular Web site’s privacy and security policies when linking to that site before revealing any Personal Information to that site. 
 
 **How do you update your Privacy and Security Policy?**
 
@@ -85,6 +101,8 @@ If you have any questions about the practices of this Web site or your dealings 
 By using our Web site, you consent to the collection and use of information as it is disclosed in this Privacy and Security Policy statement. If you do not agree we ask that you do not use our site. Thank You.
 
 Effective July 1, 2004  
-Updated: July 7, 2006
+Updated: December 4, 2006
 
 **
+
+RETURN TO TOP | GO BACK 
