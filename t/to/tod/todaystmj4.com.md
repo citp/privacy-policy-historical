@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626212121id_/http%3A//www.todaystmj4.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017071229id_/http%3A//www.todaystmj4.com/about/privacy) for the most accurate reproduction.*
 
-# TODAY'S TMJ4 - Milwaukee, Wisconsin News, Weather, Sports - WTMJ NBC | WTMJ Privacy Policy
+# Today's TMJ4 - Milwaukee, Wisconsin News, Weather, Sports, WTMJ | WTMJ Privacy Policy
 
 **PRIVACY POLICY TERMS OF USE**   
 PLEASE READ USER AGREEMENT BEFORE USING THIS SERVICE. BY CONTINUING TO USE TODAYSTMJ4.COM, YOU AGREE TO ABIDE BY THE CONDITIONS OF THIS AGREEMENT. 
