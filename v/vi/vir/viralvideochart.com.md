@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralvideochart.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623052841id_/http%3A//www.viralvideochart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvideochart.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017033152id_/http%3A//www.viralvideochart.com/privacy) for the most accurate reproduction.*
 
-# 
+# Viral Video Chart - Privacy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages people access or visit, and information volunteered by the end-user (such as survey information and/or site registrations). The information we collect is used to improve the content of our web pages and the quality of our services, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
