@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629202114id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017043014id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Net Nanny Parental Controls
 
