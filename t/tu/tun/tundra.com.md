@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tundra.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518200216id_/http%3A//www.tundra.com/corporate.aspx%3Fid%3D457) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tundra.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017111040id_/http%3A//www.tundra.com/corporate.aspx%3Fid%3D457) for the most accurate reproduction.*
 
 # Tundra Legal Notices & Privacy Policy
 
@@ -21,7 +21,7 @@ Tundra trademarks represent valuable assets to the Company, and are protected ag
 
 TUNDRA and the Tundra logo are registered marks of Tundra Semiconductor Corporation in Canada, the European Union and the People's Republic of China (Registration is pending in the United States). 
 
-Tsi106, Tsi107, Tsi108, Tsi109, Tsi110, Tsi205, Tsi206, Tsi248, Tsi252, Tsi257, Tsi301, Tsi308, Tsi310, Tsi340, Tsi350, Tsi352, Tsi384, Tsi400, Tsi500, Tsi564A, Tsi568A, Tsi574, Tsi576, Tsi578, Tsi148, Universe II, PowerSpan II, PowerSpan, QSpan II, QSpan, SCV64, DESIGN.CONNECT.GO, RIOLAB, the RIOLAB logo, SLE, the SLE logo and Think Physical are trademarks of Tundra Semiconductor Corporation.
+Tsi106, Tsi107, Tsi108, Tsi109, Tsi110, Tsi205, Tsi206, Tsi248, Tsi252, Tsi257, Tsi301, Tsi308, Tsi310, Tsi340, Tsi350, Tsi352, Tsi381, Tsi384, Tsi400, Tsi500, Tsi564A, Tsi568A, Tsi574, Tsi576, Tsi578, Tsi148, Universe II, PowerSpan II, PowerSpan, QSpan II, QSpan, SCV64, DESIGN.CONNECT.GO, RIOLAB, the RIOLAB logo, SLE, the SLE logo and Think Physical are trademarks of Tundra Semiconductor Corporation.
 
 All rights are reserved except for the logos, trademarks and copyrighted text of other companies. Product names, company names and logos are trademarks or registered trademarks of their respective holders. Copyrighted text belonging to others is so marked.
 
