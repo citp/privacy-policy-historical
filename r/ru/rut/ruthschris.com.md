@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613143348id_/http%3A//www.ruthschris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017133551id_/http%3A//www.ruthschris.com/privacy) for the most accurate reproduction.*
 
 # Ruth's Chris Steak House : Privacy/Terms & Conditions
 
