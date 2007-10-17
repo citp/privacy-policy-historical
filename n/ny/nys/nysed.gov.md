@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630130110id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017041557id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
   
-|  |  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20070630130110id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+|  |  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20071017041557id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
