@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205101936id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017065243id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | MuseumStuff.com
+# Privacy Information : MuseumStuff.com
 
-## Privacy Policy for MuseumStuff.com
-
-_MuseumStuff.com and its parent company Discovery Media are committed to safeguard and respect our visitors rights to honest and secure privacy. This current policy was updated and strengthened on September 4, 2003._
+_MuseumStuff.com and its parent company Discovery Media are committed to safeguard and respect our visitors rights to honest and secure privacy. This current policy was updated and strengthened on September 24, 2007._
 
 **What personal information does MuseumStuff.com collect?** .. If you take part in advanced features of our network, such as signing up for a newsletter or participating in contests, we may collect personal information such as your name, location, email address, and general age information. If this advanced activity has taken place on behalf of one of our member organizations (i.e. participating museums) then there is the potential for your information to be shared with appropriate member organizations. - For general site visits the information we collect is restricted anonymous statistics such as what site or search engine you used to enter our network, which browser and platform you are using, and in some cases the search terms you employed that brought you to our virtual doorstep. - This general and we stress, ANONYMOUS information may at time be shared with strategic partners as described below. 
 
@@ -23,16 +21,3 @@ In aligning our network with this ruling, in situations where we collect persona
 _The statute includes a "safe harbor" program for industry groups or others who wish to create self-regulatory programs to govern participants' compliance. Commission-approved safe harbors will provide Web site operators with the opportunity to tailor compliance obligations to their business models with the assurance that if they follow the safe harbor they will be in compliance with the rule._
 
 **Security issues that are beyond our control** .. Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas, that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online 
-
-  
-| 
-
-| **ABOUT THIS SITE**  
----  
-  
-MuseumStuff.com is one of the world's leading gateways to educational and entertaining museum "stuff" .. Our network has helped over one million visitors interact with 1000's of museum and related organizations around the world.
-
-If you are an educator, this is quite significant .. since museums offer resources and information that are credible and for the most part, peer reviewed, you can feel secure in using "museum stuff" in the classroom .. 1000's of K-12 and college courses, classrooms, and home schoolers already have .. [learn more](http://www.museumstuff.com/pages/faq.html) about this project.  
-  
-  
-
