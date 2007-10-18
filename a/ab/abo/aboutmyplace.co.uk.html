@@ -1,47 +1,70 @@
-<!--The following is the downloaded HTML source of the aboutmyplace.co.uk privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623073231id_/http%3A//www.aboutmyplace.co.uk/action/GetMicrosoftMapAction%3Feventsubmit_dogetprivacystatement%3D0%26id%3D%2524id%26type%3D%2524itemType%26interactivemap%3D%2524interactiveMap) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aboutmyplace.co.uk privacy policy that was archived on 2007-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071018044504id_/http%3A//www.aboutmyplace.co.uk/action/GetMicrosoftMapAction%3Feventsubmit_dogetprivacystatement%3D0%26id%3D%2524id%26type%3D%2524itemType%26interactivemap%3Dtrue) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
- <title>aboutmyplace</title>
+ <title>aboutmyplace : Privacy statement</title>
+<link rel="SHORTCUT ICON" href="/i/rm/maps/interactive/favicon.ico">
 
 <style type="text/css">
-@import '/css07171/p/style_myplace.css';
-</style>
-<script type="text/javascript">
-function focusBox() {
-var theField;
-if ( document.getElementById ) {
-theField = document.getElementById('searchlocation');
-if(theField){
-theField.focus();
-}
-}
-}
+ @import '/css07276/p/style_myplace2.css';
+ </style>
+<!--[if lt IE 6]>
+<link rel="stylesheet" type="text/css" href="/css07276/p/style_myplace_ie5.css" />
+<![endif]-->
 
-function openUrlInOpener(url) {
-if (window.opener) {
-window.opener.location.href = url;
-window.opener.focus();
-return false;
-} else {
+<script type="text/javascript">
+function openNormalWindowWithName(url,windowName) {
+var popupWin = null;
+try {
+if(url && url != '') {
+popupWin = window.open(url, windowName, 'scrollbars=yes,menubar=yes,resizable,dependent,width=600,height=400,left='+(self.screen.availWidth/2-300)+',top='+(self.screen.availHeight/2-300));
+popupWin.focus();
 return true;
 }
 }
+catch(e){
+
+}
+
+return false;
+}
 </script>
-<!--[if lt IE 6]>
-<link rel="stylesheet" type="text/css" href="/css07171/p/style_myplace_ie5.css" />
-<![endif]-->
 </head>
 
 <body id="privacystatement">
 
-<div id="header">
-<a href="/" title="aboutmyplace homepage"><h1 id="logo">aboutmyplace</h1></a>
+
+ <div id="header" class="popup">
+  <div id="locationsearch" class="help">
+<a name="top"><img id="logo" src="/i/rm/maps/interactive/logo-small.gif" alt="aboutmyplace"></a>
+<form action="/showlocations" method="get">
+<input type="text" name="search_location" id="searchlocation" value="">
+<input type="hidden" name="type" value="location">
+<input id="interactiveMap" type="hidden" name="interactiveMap" value="false">
+<input id="searchBox" type="hidden" name="searchBox" value="sb_">
+<button id="searchbtn" value="Search" type="submit"><img src="/i/rm/maps/interactive/btn-go.gif" alt="Click here to search"></button>
+</form>
+<p id="mapinstructions">Search for your place in the UK (e.g. 'York', 'TW1' or 'Euston')</p>
+</div>
 </div>
 
-<div id="contentwrapper">
-<div class="contentblock">
-<h1 id="pagename">Privacy statement</h1>
+
+<div id="content" class="contentblock">
+
+
+<div class="contentheader clearfix">
+<h1>Privacy statement</h1>
+<script type="text/javascript">
+document.write('<ul id="sitelinks" class="contentlinks clearfix">');
+document.write('<li class="last"><a href="#" onclick="self.close();" title="Close help window">Close</a></li>');
+document.write('</ul>');
+</script><ul id="sitelinks" class="contentlinks clearfix"><li class="last"><a href="#" onclick="self.close();" title="Close help window">Close</a></li></ul>
+</div>
+
+
+
+
+
 <h2>Who we are</h2>
 <p>'We' are Rightmove plc, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to display local information.</p>
 
@@ -85,21 +108,7 @@ return true;
 <h2>Changes to the policy</h2>
 <p>We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.</p>
 
-<script type="text/javascript">document.write('<p><a href="#" onclick="history.back(-1); return false;">Back</a></p>');</script><p><a href="#" onclick="history.back(-1); return false;">Back</a></p>
-
-
-
-
-
-
-</div>
-</div>
-
- <div id="aboutfooter">
-<p>
- <a href="http://www.aboutmyplace.co.uk/action/GetMicrosoftMapAction?eventsubmit_dogettermsofuse=0&amp;id=%24id&amp;type=%24itemType&amp;interactivemap=true">Terms of use</a> |
-<a href="http://www.aboutmyplace.co.uk/action/GetMicrosoftMapAction?eventsubmit_dogetprivacystatement=0&amp;id=%24id&amp;type=%24itemType&amp;interactivemap=true">Privacy statement</a>
- </p>
+<br>
 </div>
 
 
