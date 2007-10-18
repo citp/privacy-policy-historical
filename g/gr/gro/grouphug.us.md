@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouphug.us privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629090724id_/http%3A//grouphug.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouphug.us privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018032838id_/http%3A//grouphug.us/privacy) for the most accurate reproduction.*
 
 # group hug // privacy policy/agreement
 
