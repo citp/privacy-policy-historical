@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410130402id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3D1a79fc6dee3dea4582bd938984394478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018235817id_/http%3A//christianaudio.com/privacy.php) for the most accurate reproduction.*
 
-# Christian Audio: Privacy Notice
+# Privacy Notice - Christianaudio.com
 
-| 
+## Privacy Notice
 
-| 
-
-##  Privacy Notice   
-  
----  
-  
 Hovel Audio takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 What This Privacy Policy Covers
@@ -79,6 +73,7 @@ NOTICE: [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for
 
 Hovel Audio, Inc.  
 Customer Care  
-623 Concord Pl.  
-San Marcos, CA 92069  
+926 S. Andreasen Dr.  
+Suite 106  
+Escondido, CA 92029  
 (760) 745-2411 
