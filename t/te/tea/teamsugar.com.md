@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teamsugar.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505044555id_/http%3A//teamsugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsugar.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018020327id_/http%3A//teamsugar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | teamsugar
 
 |  |  | 
 
-#### Sugar Publishing Privacy Policy
+## Sugar Publishing Privacy Policy
 
 This privacy statement ("Privacy Policy") covers all the websites owned, affiliated or operated by Sugar Publishing, Inc. ("Sugar Publishing", "we", "us", "our"). Sugar Publishing knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Sugar Publishing websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
