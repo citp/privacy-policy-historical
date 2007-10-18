@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218173304id_/http%3A//www.plasticjungle.com/privacy.asp%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticjungle.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018165204id_/http%3A//www.plasticjungle.com/privacy.asp%3Fid%3D0) for the most accurate reproduction.*
 
 # PlasticJungle.com : Privacy Policy
 
@@ -6,7 +6,11 @@
 ---  
 |  |  |   
 ---  
+  
+**Notice:** Plastic Jungle will have a new Privacy Policy effective November 5, 2007. [Click here to see the new Privacy Policy](https://web.archive.org/web/20071018165204id_/http%3A//www.plasticjungle.com/privacy_new.asp?id=0). 
+
 Plastic Jungle is strongly committed to protecting your privacy and providing a safe online experience for our users. This privacy statement discloses what information we gather, how the information is used, and what steps are taken to safeguard personal information provided to us. We will occasionally update this Privacy Policy as necessary. We encourage you to read the complete Privacy Policy below and contact us if you have any questions.  
+  
    
 **Q: DEFINE PAYPAL?**  
 When you register, PlasticJungle.com requires a valid Paypal account for transaction purposes. If you do not have an existing Paypal account, you will be required to register for one. It is fast and easy. This is also done for the protection of everyone on the site. We want to uphold an honest and open site.  
