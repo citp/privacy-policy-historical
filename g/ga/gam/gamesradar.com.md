@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527144035id_/http%3A//www.gamesradar.com/us/us_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesradar.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018073532id_/http%3A//www.gamesradar.com/us/us_privacy.jsp) for the most accurate reproduction.*
 
 # GamesRadar - Privacy Policy
 
