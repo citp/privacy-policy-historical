@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003535id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018063211id_/http%3A//webcargo.net/en/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
-_Last modified: May 25, 2003_  
-  
+| 
+
+#### Last modified: May 25, 2003
+
 Welcome to WEBCARGO.net operated by WEBCARGO, Inc. WEBCARGO.net consists of web pages at the URLs www.webcargo.net, and pages linked thereto which display the WEBCARGO branding bar and which include a footer link to the WEBCARGO.net Terms and Conditions (the "Terms and Conditions") or to this WEBCARGO privacy policy (the "Privacy Policy"). 
 
 This statement discloses the privacy practices of WEBCARGO.net. By using the WEBCARGO.net or by agreeing to the Terms and Conditions you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed in WEBCARGO.net web site. 
@@ -112,3 +114,18 @@ You are responsible for the security of your WEBCARGO.net ID and password. Pleas
 Know the risks. 
 
 When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available. 
+
+|  [](https://web.archive.org/web/20071018063211id_/http%3A//webcargo.net/en/signup.php "Sign Up")
+
+  
+“WEBCARGO, simply put, saves us time.” _-BBDO Montréal_
+
+  
+
+
+**Questions? Call Us!**  
+1 (866) 905-0123  
+or [write to us](https://web.archive.org/web/20071018063211id_/http%3A//webcargo.net/en/contact.php "Contact Us")
+
+  
+
