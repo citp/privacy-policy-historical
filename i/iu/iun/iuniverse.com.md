@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630165519id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018081322id_/http%3A//www.iuniverse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Updated: March 4, 2004_
+_Updated: July 17, 2007_
 
 iUniverse respects your privacy. As the sole owner of information collected on this Web site, it is our policy not to sell, share, or rent the information we collect about any user.
 
@@ -48,7 +48,7 @@ Our Web site contains links to other sites. Please be aware that we are not resp
 
 ## Newsletters and Announcements
 
-If you wish to subscribe to one of our newsletters or to receive periodic product and service announcements, we ask for your e-mail address, so we can send you the newsletter. If you no longer wish to receive the newsletter, please send an e-mail to [listserv@info.iuniverse.com](mailto:listserv@info.iuniverse.com) with the words "SIGNOFF iUniverse News" in the body of the e-mail.
+If you wish to subscribe to one of our newsletters or to receive periodic product and service announcements, we ask for your e-mail address, so we can send you the e-mail. If you no longer wish to receive the e-mail, please use the "Unsubscribe" and "Subscription Center" links located at the bottom of each e-mail. If you have a myUniverse account, you should edit your [myUniverse Profile](https://web.archive.org/login/pass/?target=https://www.iuniverse.com/myiu_misc/profile) rather than using the e-mail links.
 
 ## Surveys and Contests
 
