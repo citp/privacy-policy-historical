@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptshare.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611170427id_/http%3A//www.conceptshare.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptshare.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018064717id_/http%3A//www.conceptshare.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # ConceptShare Privacy Policy
 
@@ -33,4 +33,4 @@ ConceptShare Inc. may periodically update this policy. We will notify you about 
 
 ### QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to Support at ConceptShare.com, by mail at: ConceptShare Inc., 73 Elm St, Suite 33, Sudbury, ON P3C1R6 Canada, or by phone: 1-800-705-5541 (Outside of North America 705-222-8052).
+Any questions about this Privacy Policy should be addressed to Support at ConceptShare.com, by mail at: ConceptShare Inc., 2041 Long Lake Rd., Sudbury, ON P3E 4M8 Canada, or by phone: 1-800-705-5541 (Outside of North America 705-222-8052).
