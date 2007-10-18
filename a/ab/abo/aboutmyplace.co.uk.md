@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623073231id_/http%3A//www.aboutmyplace.co.uk/action/GetMicrosoftMapAction%3Feventsubmit_dogetprivacystatement%3D0%26id%3D%2524id%26type%3D%2524itemType%26interactivemap%3D%2524interactiveMap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018044504id_/http%3A//www.aboutmyplace.co.uk/action/GetMicrosoftMapAction%3Feventsubmit_dogetprivacystatement%3D0%26id%3D%2524id%26type%3D%2524itemType%26interactivemap%3Dtrue) for the most accurate reproduction.*
 
-# aboutmyplace
+# aboutmyplace : Privacy statement
 
 ## Who we are
 
@@ -66,4 +66,5 @@ We will retain your information for a reasonable period or for as long as is req
 
 We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
 
-Back
+  
+
