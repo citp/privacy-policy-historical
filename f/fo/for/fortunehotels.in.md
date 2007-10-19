@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortunehotels.in privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617083902id_/http%3A//www.fortunehotels.in/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunehotels.in privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019040004id_/http%3A//www.fortunehotels.in/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Fortune Park Hotels India Best first class hotel chain,Kolkata,Ludhiana,Cochin, Kerala,Vijayawada,ooty,trivandrum,port blair,darjeeling,ahmedabad,indore,jamshedpur
 
