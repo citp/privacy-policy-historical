@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627062415id_/http%3A//www.chinavasion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019021146id_/http%3A//www.chinavasion.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice at www.chinavasion.com - Your China Wholesale Shop
 
