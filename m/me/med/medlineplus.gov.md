@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607080401id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019123854id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -10,8 +10,6 @@ Skip navigation
   
 [](http://www.nlm.nih.gov/medlineplus/spanish/privacy.html) [ ](http://medlineplus.gov/) [](http://www.nlm.nih.gov/medlineplus/healthtopics.html) [](http://www.nlm.nih.gov/medlineplus/druginformation.html) [](http://www.nlm.nih.gov/medlineplus/encyclopedia.html) [](http://www.nlm.nih.gov/medlineplus/mplusdictionary.html) [](http://www.nlm.nih.gov/medlineplus/newsbydate.html) [](http://www.nlm.nih.gov/medlineplus/directories.html) [](http://www.nlm.nih.gov/medlineplus/otherresources.html)  
   
-
-
 ### MedlinePlus Privacy Policy
 
 The National Library of Medicine (NLM) provides this Web site as a public service. We do **not** collect personal information about you when you visit our Web sites unless you choose to provide that information to us. 
