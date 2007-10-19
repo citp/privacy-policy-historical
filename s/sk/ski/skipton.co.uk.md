@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609171946id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019212017id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
 
 # Legal notice - Skipton Building Society
 
