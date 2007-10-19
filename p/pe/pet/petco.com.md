@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616010400id_/http%3A//www.petco.com//Content/petco_HelpList_PC_helplist_Nav_17_TopicID_8.aspx%3Fcm_re%3D051806-_-ftr-_-privacy%233040) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019132824id_/http%3A//www.petco.com//Content/petco_HelpList_PC_helplist_Nav_17_TopicID_8.aspx%3Fcm_re%3D051806-_-ftr-_-privacy%233040) for the most accurate reproduction.*
 
 # Help Topics at PETCO
 
@@ -14,10 +14,15 @@
 |  |   
 
 
+At PETCO, we value you and your pets, and we want to make sure that you have an enjoyable and rewarding shopping experience in our stores and online during every visit. 
+
+You may find the answer to your question by browsing or searching our Help topics below. To contact a store directly, please visit our 
+
+[Store Locator](https://web.archive.org/Page.aspx?PC=storelocator&Nav=2). 
+
 [Help](https://web.archive.org/Page.aspx?PC=Help&nav=17) Privacy Concerns  
 
 
-  
 **Security**  
 
 
@@ -124,14 +129,12 @@ If you have any questions about this privacy statement, the practices of this we
 |  |  |  |    
 **Free Newsletters:** Pet Care Tips, Discounts & More!  
   
-[](https://web.archive.org/Landing/Promo.aspx?PromoCode=summerfun&Nav=1&cm_sp=siteoffer-_-freeship-_-061007)   
+[](https://web.archive.org/Landing/Promo.aspx?PromoCode=halloween&cm_sp=siteoffer-_-fs50-_-101907)   
   
-[](https://web.archive.org/Content/PetcoStars.aspx?nav=1&cm_sp=siteoffer-_-stars-_-061007)   
-  
-  
-  
-[](https://web.archive.org/Page.aspx?PC=shutterfly&nav=371&cm_sp=siteoffer-_-shutterlfy-_-060107)   
-  
+|   
+---  
+[](https://secure.petco.com/Content/GiftCardCertificate.aspx?PC=gc&Nav=328&cm_sp=site-_-giftcard-_-shop)  
+[](https://web.archive.org/Page.aspx?PC=fetchmysalesinfo&Nav=15&cm_sp=site-_-fms-_-shop)  
   
   
-|  | 
+| 
