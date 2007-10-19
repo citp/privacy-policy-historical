@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129111407id_/http%3A//www.forex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019051631id_/http%3A//forex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FOREX.com > Privacy Policy
+
+| 
 
   
 
@@ -10,7 +12,7 @@ Protecting the privacy and safeguarding the personal and financial information o
 By opening a GAIN Capital Group account or by using GAIN Capital Group Web sites, you give your consent to the collection and use of personal information by GAIN Capital Group as explained in this privacy statement.
 
 Collection of personal information  
-We collect information required to open an account, to transact business effectively and to safeguard your assets or your privacy. To do this, we gather information to help us assess your needs and preferences.
+We collect information required to open an account, to transact business effectively and to safeguard your privacy. To do this, we gather information to help us assess your needs and preferences.
 
 The information we collect directly from you includes information required to communicate with you, including your name, mailing address, telephone number, e-mail address; and, as required by law, to identify who you are, including Social Security or Passport/Tax ID number; address, etc. We also collect demographic information when you open an account, including gender, birth date, education, occupation, etc. Our regulatory bodies also require us to assess your trading experience, your approximate annual income, approximate net worth, and available risk capital to assess your financial position.
 
@@ -57,4 +59,6 @@ In the event GAIN Capital Group materially changes this Privacy Statement, the r
 
 VeriSign is a trademark of VeriSign, Inc. All rights reserved.
 
-_Last Updated: May 9, 2006_
+_Last Updated: March 19, 2007_
+
+| 
