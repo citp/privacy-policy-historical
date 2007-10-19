@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condenet.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625060627id_/http%3A//www.condenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condenet.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019051621id_/http%3A//www.condenet.com/privacy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines
 
@@ -10,9 +10,9 @@ Kids and parents click here!
 
 The following Privacy Policy summarizes the various ways that **CondeNet, Inc**. ("Service Provider," "we" or "our") treats the information you provide while using **www.CondeNet.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.condenet.com/privacy.html](https://web.archive.org/web/20070625060627id_/http%3A//www.condenet.com/privacy.html). **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.condenet.com/privacy.html](https://web.archive.org/web/20071019051621id_/http%3A//www.condenet.com/privacy.html). **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/web/20070625060627id_/http%3A//www.condenet.com/useragreement.html). Your use of the Website constitutes agreement to its terms and conditions as well.
+In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/web/20071019051621id_/http%3A//www.condenet.com/useragreement.html). Your use of the Website constitutes agreement to its terms and conditions as well.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
