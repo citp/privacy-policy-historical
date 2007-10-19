@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111154017id_/http%3A//www.esl-lounge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-lounge.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019221321id_/http%3A//www.esl-lounge.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,15 +40,11 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 
 This site contains links to other sites. _esl-lounge.com_ is not responsible for the privacy practices or the content of such Web sites. 
 
-### Public Forums
-
-This site makes one or more of the following available to its users: chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
 ### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving the site newsletter.
 
-You can send e-mail to [the webmaster](https://web.archive.org/web/20061111154017id_/http%3A//www.esl-lounge.com/contact.shtml)
+You can send e-mail to [the webmaster](https://web.archive.org/web/20071019221321id_/http%3A//www.esl-lounge.com/contact.shtml)
 
 ### Data Quality/Access
 
@@ -56,4 +52,4 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20061111154017id_/http%3A//www.esl-lounge.com/contact.shtml)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20071019221321id_/http%3A//www.esl-lounge.com/contact.shtml)
