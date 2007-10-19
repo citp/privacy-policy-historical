@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.gov.my privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609204646id_/http%3A//www.gov.my/MyGov/BI/Site/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.gov.my privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019035401id_/http%3A//www.gov.my/MyGov/BI/Site/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
