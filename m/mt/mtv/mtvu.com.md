@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623060118id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019035448id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # mtvU.com
 
-[](http://www.bestmusiconcampus.com/)
+[](https://web.archive.org/music/woodie_awards/2007/)
 
   
   |  | 
