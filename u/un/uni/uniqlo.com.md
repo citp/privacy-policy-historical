@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072102id_/http%3A//www.uniqlo.com/us/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019054524id_/http%3A//www.uniqlo.com/us/privacy_policy/index.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Uniqlo.com
 
@@ -6,9 +6,9 @@
 
 This Privacy Policy applies to the UNIQLO.com website (the "Site"). We value our customers' privacy and appreciate your confidence that we will respect your privacy in a careful and sensible manner. By visiting the Site and/or using the products and services made available to you on the Site, you are agreeing to the terms of this Privacy Policy. Please read this policy carefully.
 
-Our business is constantly evolving and our Privacy Policy and the Website [Terms of Use](https://web.archive.org/web/20070630072102id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE") will change also. We may e-mail periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+Our business is constantly evolving and our Privacy Policy and the Website [Terms of Use](https://web.archive.org/web/20071019054524id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE") will change also. We may e-mail periodic reminders of our notices and terms of business, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Website [Terms of Use](https://web.archive.org/web/20070630072102id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE").
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Website [Terms of Use](https://web.archive.org/web/20071019054524id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE").
 
 ## What Personal Information About Customers Does the Site Collect?
 
@@ -30,7 +30,7 @@ We share customer information only on a limited basis and with our parent compan
 
 We use information about our customers for the specific purpose for which it was volunteered. In addition, if you supply us with your postal address online, you may receive periodic mailings from us with information regarding a new collection, new products, new store locations, or upcoming promotional offers or events. Sometimes we also send offers to selected groups of UNIQLO customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not wish to receive such mailings and e-mail updates, or otherwise wish to remove your name from our list, please contact us at [usa@uniqlo.com](mailto:usa@uniqlo.com).
 
-We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Website [Terms of Use](https://web.archive.org/web/20070630072102id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE") and other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Website [Terms of Use](https://web.archive.org/web/20071019054524id_/http%3A//www.uniqlo.com/us/terms_of_use/index.html "TERMS OF USE") and other agreements; or protect the rights, property, or safety of the Site, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
 
 In case UNIQLO, or substantially all of its assets are acquired by one or more third parties as a result of a merger, sale, consolidation or liquidation, customer information may be one of the transferred assets.
 
