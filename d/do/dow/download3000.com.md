@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026104112id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019091341id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Download3000.com
 
