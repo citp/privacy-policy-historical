@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220925id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019051958id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
 
 # Diversity Jobs | Hispanic Jobs | Bilingual Jobs | Spanish Jobs
 
@@ -71,7 +71,7 @@ In the event LatPro.com goes through a business transition, such as a merger, ac
   
 Opting out   
   
-We provide you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
+We provide you the opportunity to �opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. 
 
 When registering as a candidate, we provide an opportunity to 'opt-out' from our job seeker newsletters.
 
@@ -113,7 +113,7 @@ Resumes
   
 As an employment/career site, LatPro.com, allows you to put your resume in our database. There are two ways of doing this:
 
-  1. You can store your resume in our database, but not allow it to be searchable by employers/recruiters. This will allow you to respond to a job posting without ever making your resume accessible to employers/recruiters searching our resume database. 
+  1. You can store your resume in our database, but not allow it to be searchable by employers/recruiters. This will allow you to respond to a job posting without ever making your resume accessible to employers/recruiters searching our resume database.� 
   2. If you allow your resume to be searchable, then all employers and recruiters who have registered on our site and been approved by LatPro.com will have access to your resume.
 
 
@@ -130,7 +130,7 @@ LatPro.com allows you to change or correct your personal information and email a
   
 Cookies  
   
-To enhance your experience at  LatPro.com we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names, passwords and preferences, tracking click streams, and for load balancing. While we use cookies to store your user name and password, we encrypt the data contained within the cookie(s) to protect your personally identifiable information. This feature is completely optional, and will not affect the user experience in our site. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will prevent you from using our site effectively. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+To enhance your experience at� LatPro.com we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names, passwords and preferences, tracking click streams, and for load balancing. While we use cookies to store your user name and password, we encrypt the data contained within the cookie(s) to protect your personally identifiable information. This feature is completely optional, and will not affect the user experience in our site. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will prevent you from using our site effectively. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 3rd Party Cookies: Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by LatPro.com only and does not cover the use of cookies by any advertisers. The systems that may post cookies are Google, Adjugler and Bluestreak.  
   
