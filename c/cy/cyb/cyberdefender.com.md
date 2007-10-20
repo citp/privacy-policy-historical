@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527022024id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020080311id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Early Network | Security for your computer from phishing, virus, adware, spyware attacks
 
