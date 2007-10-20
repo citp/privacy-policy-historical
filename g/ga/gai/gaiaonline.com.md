@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423063449id_/http%3A//www.gaiaonline.com/info/%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020111846id_/http%3A//www.gaiaonline.com/info/%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# Gaia :: Privacy Notice
+# Privacy Notice | Gaia Online
 
 Gaia Interactive, Inc. ("Gaia") values the privacy of its users, members, customers, subscribers, and others who visit and use (collectively or individually, "Members") [www.gaiaonline.com](http://www.gaiaonline.com/) and any other web sites or services owned or operated by Gaia (collectively, "Gaia Online"). 
 
@@ -63,7 +63,7 @@ Currently, Gaia has relationships with the following third-party ad servers or a
   * **TrafficMP** \- [_http://trafficmp.com/trafficmp /overview/privacy.asp_](http://trafficmp.com/trafficmp/overview/privacy.asp)
   * **Yahoo** \- [_http://docs.yahoo.com/info /privacy/us/yas.html_](http://docs.yahoo.com/info/privacy/us/yas.html)
   * **Google** \- [_http://www.google.com/privacy.html_](http://www.google.com/privacy.html)
-  * **Blue Lithium** \- [_http://www.bluelithium.com /privacy-policy.html_](http://www.bluelithium.com/privacy-policy.html)
+  * **Blue Lithium** \- [_http://www.bluelithium.com /privacy-policy.html_](http://www.bluelithium.com/privacy_policy.html)
   * **EuroClick** \- [_http://www.euroclick.com/en /main.aspx?FrameID=PrivacyPolicy_](http://www.euroclick.com/en/main.aspx?FrameID=PrivacyPolicy)
 
 
@@ -109,4 +109,4 @@ Gaia Online Privacy Notice last modified on January 23, 2006.
 
 ### Gaia Contact Information:
 
-Please contact Gaia with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at [_privacy@gaiaonline.com_](mailto:privacy@gaiaonline.com) or by postal mail at PMB 414, 105 Serra Way, Milpitas, CA 95035. We will respond to your inquiry within 30 days of its receipt. 
+Please contact Gaia with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices at [_privacy@gaiaonline.com_](mailto:privacy@gaiaonline.com) or by postal mail at PO Box 612680, San Jose, CA 95161-2680. We will respond to your inquiry within 30 days of its receipt. 
