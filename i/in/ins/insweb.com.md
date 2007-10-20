@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205060347id_/http%3A//www.insweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020033234id_/http%3A//www.insweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # InsWeb: Car Insurance - Auto Insurance - Life Insurance - Health Insurance - Home - Rates and Quotes.
 
-[](https://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
 
 InsWeb Takes Your Privacy Seriously
 
-Last update to policy: July 1, 2006 
+Last update to policy: July 1, 2007 
 
   * What types of information does InsWeb collect?
   * How does InsWeb use my personal information?
@@ -19,9 +19,10 @@ Last update to policy: July 1, 2006
   * After I request quotes at InsWeb, who will contact me?
   * What about information for promotions?
   * Does InsWeb store my information?
-  * Does InsWeb allow me to correct the information? 
-  * Does InsWeb send emails, and can I opt out? 
-  * What do sites that have links from InsWeb do with my information? 
+  * Does InsWeb allow me to correct the information?
+  * Does InsWeb send emails, and can I opt out?
+  * What do sites that have links from InsWeb do with my information?
+  * How does InsWeb obtain testimonials?
   * What is framing?
   * How does InsWeb protect my information as it passes over the Internet?
   * Does InsWeb use "cookies"?
@@ -37,7 +38,7 @@ Last update to policy: July 1, 2006
 
 We believe you should know the privacy policies of the sites you visit. InsWeb Corporation and its Website InsWeb.com (collectively "InsWeb") are committed to data security, and protect your personally identifiable information (name, address, social security number, etc.). For questions about this privacy statement, you may write to us at InsWeb Corporation, 11290 Pyrites Way, Suite 200, Gold River, CA 95670.
 
-This statement covers the privacy and information sharing practices of the InsWeb Website (located at [www.insweb.com](http://www.insweb.com/)), and InsWeb's subsidiary, InsWeb Insurance Services.
+This statement covers the privacy and information sharing practices of the InsWeb Website (located at [secure1.insweb.com](http://secure1.insweb.com/)), and InsWeb's subsidiary, InsWeb Insurance Services.
 
 InsWeb is a licensee of the TRUSTe Privacy Programs. When you visit a Website displaying the TRUSTe Trustmark, expect to be notified regarding:
 
@@ -51,13 +52,13 @@ InsWeb is a licensee of the TRUSTe Privacy Programs. When you visit a Website di
 
 
 
-If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five business days, or you're not satisfied with the answer you received, you can contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/consumers/watchdog_complaint.php). 
+If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five business days, or you're not satisfied with the answer you received, you can contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
 
 ### Questions and Answers about InsWeb's Privacy Policy
 
 **_What types of information does InsWeb collect?_**
 
-    InsWeb collects both **personal information** (such as name, telephone number, and email address, etc.) and **non-personal Information** (such as the number of visitors that log on to our Website, the pages they access, etc.).
+    InsWeb collects both **personal information** (such as name, telephone number, and email address, etc.) and **non-personal information** (such as the number of visitors that log on to our Website, the pages they access, etc.). Included in personal information is **sensitive information** (such as personal health information).
 
 **_How does InsWeb use my personal information?_**
 
@@ -69,7 +70,7 @@ If you have questions regarding this statement, you can email our customer care 
 
 **Insurance Agents**. Personal information submitted through InsWeb’s 
 
-[AgentInsider™](https://www.agentinsider.com/) lead generation program will be used by InsWeb to qualify certain insurance agents for InsWeb’s insurance lead bidding program. InsWeb may share a participating Captive Agent’s personal information with the Captive Agent’s parent company as permitted by this Privacy Statement and applicable law.
+[AgentInsider™](https://dotnetweb.corp.insweb.net/) lead generation program will be used by InsWeb to qualify certain insurance agents for InsWeb’s insurance lead bidding program. InsWeb may share (i) a participating Captive Agent’s personal information with the Captive Agent’s parent company (ii) an Independent Agent’s license number and/or contact information with our participating insurance provider(s); or (iii) as permitted by this Privacy Statement, the AgentInsider™ Participation and License Agreement, or applicable law. InsWeb may verify an agent’s license through the NIPR Producer Database or through applicable state insurance department databases.
 
 **Prospective Business Partners**. Personal information submitted through InsWeb’s online lead referral application will be used only by InsWeb to qualify prospective business affiliates for InsWeb’s lead referral program. 
 
@@ -81,8 +82,8 @@ If you have questions regarding this statement, you can email our customer care 
 
     InsWeb may share your personal information with the following types of companies outside of InsWeb:
 
-  * **Third-Party Insurance Providers**. InsWeb will share your personal information with insurance providers from which you have requested quote(s).
-  *  **Third-Party Fulfillment Providers**. InsWeb may share your personal information with companies that perform fulfillment services on our behalf (such as data processing, research or email services).
+  * **Third-Party Insurance Providers**. InsWeb will share your personal information with our participating insurance providers.
+  *  **Third-Party Fulfillment Providers**. InsWeb may share your personal information with companies that perform fulfillment services on our behalf (such as data processing, research or email services). These companies do not use your information for any purposes other than this.
 
 
 
@@ -104,7 +105,7 @@ If you have questions regarding this statement, you can email our customer care 
 
 **_After I request quotes at InsWeb, who will contact me?_**
 
-    Representatives of the companies you choose will contact you with information regarding your quotes, coverage, or insurance needs. For more information, refer to the privacy and information sharing practices of InsWeb Insurance Services below.
+    Representatives of the companies participating in our program will contact you with information regarding your quotes, coverage, or insurance needs. For more information, refer to the privacy and information sharing practices of InsWeb Insurance Services below.
 
 **_What about information for promotions?_**
 
@@ -112,7 +113,7 @@ If you have questions regarding this statement, you can email our customer care 
 
 **_Does InsWeb store my information?_**
 
-    Yes. All information submitted through our quote request forms is stored on our secured computer servers. For further information, see InsWeb’s Security Policy at <http://www.insweb.com/internetsecurity.htm>.
+    Yes. All information submitted through our quote request forms is stored on our secured computer servers. For further information, see InsWeb’s Security Policy at <http://secure1.insweb.com/internetsecurity.htm>.
 
 **_Does InsWeb allow me to correct the information?_**
 
@@ -128,11 +129,17 @@ If you have questions regarding this statement, you can email our customer care 
 
 
 
-**Advertising.** If you would like to unsubscribe from receiving email advertisements from InsWeb, you can either follow the instructions in the advertisement itself, or simply [click here](https://www.insweb.com/unsubscribe.htm). Please note that it will take up to 10 days to process your request.
+**Advertising.** If you would like to unsubscribe from receiving email advertisements from InsWeb, you can either follow the instructions in the advertisement itself, or simply [click here](https://web.archive.org/unsubscribe.htm). Please note that it will take up to 10 days to process your request. 
+
+**Refer-A-Friend.** Our newsletter contains an opportunity for you to forward the newsletter to a friend(s). If you utilize this feature, all email addresses you enter (including your own) will be collected and processed by a third-party email vendor contracted by InsWeb solely to facilitate this service. The information collected by the third-party is used only by the third-party, and is never released to InsWeb. This information is used for no purposes other than this. The friends who are referred to InsWeb will be sent a one-time email only.
 
 **_What do sites that have links from InsWeb do with my information?_**
 
-    Please be aware that Websites that have links on our site may collect personal information about you. When you click on one of these links, you are being transferred to another Website. We encourage you to carefully read the privacy policies of these linked sites as their privacy policies may differ from ours. This privacy statement does not cover the information practices of Websites linked to the InsWeb site.
+    Please be aware that Websites that have links on our site may collect personal information about you. When you click on one of these links, you are being transferred to another Website. In some instances, the website you are transferred to will be co-branded with the InsWeb mark. No personal information is shared with InsWeb and InsWeb does not share personal information with the co-branded site. We encourage you to carefully read the privacy policies of these linked sites (including any co-branded versions) as their privacy policies may differ from ours. This privacy statement does not cover the information practices of websites linked to the InsWeb site.
+
+**_How does InsWeb obtain testimonials?_**
+
+    Testimonials also exist on our web site. Before we publicly place testimonials on the site, we receive expressed written consent from the individual to place not only his/her words, but also his/her name and hometown on the web site.
 
 **_What is framing?_**
 
@@ -142,7 +149,7 @@ If you have questions regarding this statement, you can email our customer care 
 
     With SSL, when you enter a request for quotes or provide personal information, your information is encrypted as it travels between your computer and our computer servers. To support this technology, you need an SSL-capable browser. We recommend using a strong encryption, 128-bit browser. Netscape Navigator 4.06 or higher and Microsoft's Internet Explorer 4.01 or higher are 128-bit browsers. You can tell when you are visiting a secure area in our site by looking at the symbol on the bottom of your browser screen. If you are using Netscape Navigator or Internet Explorer, you will see either a lock or a key. When the symbol appears unbroken or the padlock is in the locked position, your session connection is taking place via a secure server. 
 
-When you agree to send information, we transmit your information to the company you select. We offer encryption to each of our participating insurance companies. We require encryption when transmitting information such as Social Security numbers or credit card information. 
+When you agree to send information, we transmit your information to our participating insurance providers. All personal information provided to InsWeb (including personal health and credit card information) is encrypted. 
 
 **_Does InsWeb use "cookies"?_**
 
