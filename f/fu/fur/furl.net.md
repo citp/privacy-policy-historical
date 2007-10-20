@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630054313id_/http%3A//www.furl.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020042906id_/http%3A//furl.net/privacy.jsp) for the most accurate reproduction.*
 
 # LookSmart's Furl - Privacy Policy
 
