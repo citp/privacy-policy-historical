@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626082648id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolate.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020052436id_/http%3A//www.chocolate.com/articles/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,5 +56,4 @@ We stand behind the promises we make, however, and will never materially change 
 
 \-- __
 
-  
-
+**Next Article:[Contact Us](https://web.archive.org/articles/contact-us.html "Contact Us")**
