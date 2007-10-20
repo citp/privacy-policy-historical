@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629211801id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021015924id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
@@ -27,6 +27,7 @@ Cooking.com respects your privacy. Our Internet site, [StarbucksStore.com](https
   
 
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
+  * **automatically send you emails to collect feedback related to your purchases.**
 
 **b. Your Subsequent Use of the Shopping Cart at StarbucksStore.com** \- If you entered personal information into the Shopping Cart at StarbucksStore.com before, unless you edit your subscription profile, your subscription status will remain unchanged.
 
