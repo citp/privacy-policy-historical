@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2007-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628135337id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2007-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071020034504id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<meta name="description" content="Wetpaint.com: free wiki, free website. Start a free wiki in 3 easy steps. Great for families, hobbies, causes, fan sites, and anything in between. Wetpaint combines the best elements of wikis, blogs, and social networks in a single application.">
-		<meta name="keywords" content="Wiki, Wikis, Free Wiki, Free Website, Free Websites, Free Web site, Free Web sites, Make a Free Website, Make a Free Web site, Free Site, Free Sites, Create a Free Website, Create a Free Web site, Wetpaint, Wet Paint, Wetpaint wiki, Wet paint wiki, Wetpaint.com wiki, Wetpaint.com, Webpaint, Web Paint">
+		<meta name="description" content="Wetpaint powers free wiki website anyone can start in 3 easy steps. Wetpaint wikis are easy to edit so groups, classes, families, and more can share information.">
+		<meta name="keywords" content="wiki, website, free, wetpaint, wet, paint, collaboration, hosting, wysiwyg, click and type, easy, easyedit, password protected, group website, community">
 		<title> Privacy Policy for Wet Paint - Create a free wiki - Wetpaint</title>
-			<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20070621143546"; /*]]>*/</style>
-			<script src="/js/prototype.js?20070621143546" type="text/javascript"></script>
-		<script src="/js/effects.js?20070621143546" type="text/javascript"></script>
+			<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20071005152824"; /*]]>*/</style>
+			<script src="/js/prototype.js?20071005152824" type="text/javascript"></script>
+		<script src="/js/effects.js?20071005152824" type="text/javascript"></script>
 
 		
 	</head>
@@ -16,7 +16,7 @@
 	<div id="userBrand">
 	<div id="userCredentials">
 			<ul>
-				<li class="first" id="credentials_login"><a class="strong" href="#signin" id="loginOpen">Sign in to see your Wetpaint Wikis</a>
+				<li class="first" id="credentials_login"><a href="#signin" id="loginOpen">Sign in to Wetpaint<span class="logo">&nbsp;</span></a>
 							<div id="loginDiv" style="display:none;">
 								<div style=" border:1px solid #ADADAD; border-width:0px 1px; background:#FFF url(/img/signonFormBG.png) repeat-x top left; padding:10px; clear:both; line-height:1.4em">
 									<table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:.5em;"><tbody><tr>
@@ -32,7 +32,7 @@
 									<table cellpadding="1" cellspacing="0">
 										<tbody><tr>
 											<td class="label">Username</td>
-											<td class="input" align="left"><input type="text" class="text" name="userName" id="userName" maxlength="255" style="width:150px;"></td>
+											<td class="input" align="left"><input type="text" class="text" name="userName" id="userName" maxlength="50" style="width:150px;"></td>
 										</tr>
 										<tr>
 											<td class="label">Password</td>
@@ -52,7 +52,7 @@
 										</tr>
 									</tbody></table>
 									<input type="hidden" name="referer" id="referer" value="http://www.wetpaint.com:80/singleSignOnResponse">
-										<input type="hidden" name="singleSignOnServer" id="singleSignOnServer" value="http://www.wetpaint.com">
+										<input type="hidden" name="singleSignOnServer" id="singleSignOnServer" value="http://www.wetpaint.com/auth">
 									</form>
 								</div>
 								<div style="background:#fff url(/img/signonFormCorners.png) no-repeat bottom left;padding-top:9px;"></div>
@@ -64,7 +64,13 @@
 						<script>
 							var login = {
 								signInTxt : '',
+								clear : function(){
+									$('loginResponse').innerHTML='';
+									$('userName').value='';
+									$('password').value='';
+								},
 								open : function(){
+									this.clear();
 									new Effect.SlideDown($('loginDiv'), {duration:.4})
 									new Effect.Appear($('loginDiv'), {
 										duration:.4,
@@ -117,29 +123,28 @@
 		</div>
 		
 		<div id="userActions">
-			<ul>
-				<li class="first"><a href="/">Wetpaint</a></li>
-					</ul>
+			
+			&nbsp;
+			
 		</div>
 	</div>
 </div>
 <div id="wrap">
 			<div class="row r_pageHeader">
 	<div class="row_tr">
-		<form id="pageSearch" action="/pageSearch" method="get" onsubmit="if (this.elements['contains'].value == '') { $('pageSearchResponseEmpty').style.display='block'; return false;} else { $('pageSearchResponseEmpty').style.display='none'; }">
-			<input type="text" class="text" name="contains" id="contains" value="Search Wetpaint Wikis" onkeyup="document.getElementById('pageSearchResponseEmpty').style.display='none';" onfocus="$(this).addClassName('focus');this.value=this.value.replace('Search Wetpaint Wikis','');" onblur="$(this).removeClassName('focus');if(this.value=='')this.value='Search Wetpaint Wikis';" style="width:180px;text-indent:.2em">&nbsp;<button class="button" id="searchSubmit" onclick="if ($('pageSearch').elements['contains'].value == '') { $('pageSearchResponseEmpty').style.display='block'; return false; } else { $('pageSearchResponseEmpty').style.display='none'; $('pageSearch').submit(); } return false;">
-				search</button><div class="buttonEnd"></div>
-			<div id="pageSearchResponseEmpty" style="display:none" class="error">Please enter a search term.</div>
+		<form id="pageSearch" action="/pageSearch" method="get" onsubmit="var isValid = !(/^(Search Wetpaint Wikis)?$/.test(this.elements['contains'].value));$('pageSearchResponseEmpty').style.display = (isValid) ? 'none' : 'block';return isValid;">
+				<input type="text" class="text" name="contains" id="contains" value="Search Wetpaint Wikis" onkeyup="if (!(/^(Search Wetpaint Wikis)?$/.test(this.value))) $('pageSearchResponseEmpty').style.display = 'none';" onfocus="$(this).addClassName('focus');this.value=this.value.replace(/^Search Wetpaint Wikis$/,'');" onblur="$(this).removeClassName('focus');this.value=this.value.replace(/^\s*$/,'Search Wetpaint Wikis');" style="width:180px;padding-left:.2em;">&nbsp;
+				<input type="submit" class="button" id="searchSubmit" value="search"><div class="buttonEnd"></div>
+			<div id="pageSearchResponseEmpty" style="display: none;" class="error">Please enter a search term.</div>
 		</form>
 	</div>
 	<div class="row_tl">
-		<a href="/"><img src="/img/wetpaint_logo.png" alt="Wetpaint" title="Wetpaint" width="127" height="82" border="0"></a>
+		<a href="/"><img src="/img/logoHome.png" alt="Wetpaint" title="Wetpaint" width="127" height="82" border="0"></a>
 		<h1 style="display:none;">Wetpaint</h1>
 	</div>
 	<div class="clear"></div>	
 </div>
 	
-
 <!-- Search Wetpaint Wikis --><div id="pageContent">
 				<div class="breadcrumbs">
 	<a href="/">home</a> &gt; 
@@ -152,7 +157,7 @@
 <br>
 <a name="privacy"></a>
 <p>At Wetpaint, we are committed to ensuring the privacy of our users.
-This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), <a href="${activeSession.cyoServer}">http://www.wetpaint.com</a>,
+This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), <a href="http://www.wetpaint.com">http://www.wetpaint.com</a>,
 and any Wetpaint based Web site ("Sites"), for users of our
 services. By using the Site, you consent to the terms of this
 privacy policy.</p>
@@ -339,31 +344,59 @@ this privacy policy, please <a href="/static/contact">contact&nbsp;us</a>.</p>
 		<div class="row_tr">© 2007 <a href="http://www.wetpaint.com">wetpaint.com, inc.</a></div>
 		<div class="row_tl">
 			<ul>
-				<li><a href="/static/about" class="active">about us</a></li>
-				<li><a href="/static/jobs">jobs</a></li>
+				<li><a href="/static/about">about us</a></li>
+				<li><a href="http://www.wetpaintfreshcoats.com" class="active">blog</a></li>
+				<li><a href="http://press.wetpaint.com">press</a></li>
+				<li><a href="/page/Jobs">jobs</a></li>
+				<li><a href="/page/Partner-With-Wetpaint">partner with us</a></li>
 				<li><a href="/static/contact">contact us</a></li>
 				<li><a href="http://wetpaintcentral.wetpaint.com/page/faq">FAQ</a></li>
 				<li><a href="http://wetpaintcentral.wetpaint.com/page/feedback" target="_blank">feedback</a></li>
-				<li><a href="http://press.wetpaint.com">press</a></li>
 				<li><a href="/static/privacy">privacy</a></li>
-				<li><a href="/static/terms">terms of use</a></li>
+				<li><a href="/static/terms">terms of service</a></li>
 			</ul>
-			<div class="clear"></div>
+		</div>
+		<div class="clear">&nbsp;</div>
+		<div class="row_full">
+		  <h4>wiki categories:</h4>
+		  <ul>
+		    <li><a href="/category/Arts">arts</a></li>
+		    <li><a href="/category/Business">business</a></li>
+		    <li><a href="/category/Education">education</a></li>
+		    <li><a href="/category/Entertainment">entertainment</a></li>
+		    <li><a href="/category/Games">games</a></li>
+		    <li><a href="/category/Hobbies">hobbies</a></li>
+		    <li><a href="/category/Lifestyles">lifestyles</a></li>
+		    <li><a href="/category/Music">music</a></li>
+		    <li><a href="/category/Technology">technology</a></li>
+		  </ul>
+		</div>
+		<div class="row_full">
+		  <h4>random sites we like:</h4>
+		  <ul>
+		    <li><a href="http://www.buddytv.com">buddy tv</a></li>
+		    <li><a href="http://www.newsvine.com">news</a></li>
+		    <li><a href="http://www.redfin.com">real estate</a></li>
+		    <li><a href="http://www.yelp.com/seattle">seattle reviews</a></li>
+		  </ul>
 		</div>
 	</div>
+	
 	<div class="clear"></div>
 	
 <script type="text/javascript">
-	var s_account='wetpaintcom,wetpaintglobal';
+	var s_account='wetpaintglobal,wetpaintcom';
 </script>
-<script type="text/javascript" src="/js/omniture/s_w_code.js?20070621143546"></script>
+<script type="text/javascript" src="/js/omniture/s_w_code.js?20071005152824"></script>
 <script type="text/javascript">
-if (typeof(s_w) != 'undefined') {
-	s_w.pageName='www.wetpaint.com - Privacy Policy for Wet Paint';s_w.server='web12.wetpaint.com';s_w.channel='';s_w.pageType='';s_w.prop1='www.wetpaint.com';s_w.prop2='';s_w.prop3='';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.eVar1='www.wetpaint.com';s_w.eVar2='';s_w.eVar3='';s_w.eVar4=location.hostname;s_w.eVar5='';s_w.eVar6='';s_w.eVar7='anonymous';s_w.state='';s_w.zip='';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)
+if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName='www.wetpaint.com - Privacy Policy for Wet Paint';s_w.server='web7.wetpaint.com';s_w.channel='';s_w.pageType='';s_w.prop1='www.wetpaint.com';s_w.prop2='';s_w.prop3='';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.eVar1='www.wetpaint.com';s_w.eVar2='';s_w.eVar3='';s_w.eVar4=location.hostname;s_w.eVar5='';s_w.eVar6='';s_w.eVar7='anonymous';s_w.state='';s_w.zip='';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)
 }
 </script>
-<!-- Server: web12.wetpaint.com Build Version: rel-22-2 Build Date: 20070621143546 -->
+<!-- Server: web7.wetpaint.com Build Version: rel-26-11 Build Date: 20071005152824 -->
+			
+</div>
+		
+		<div style="height:auto; top:0; position:absolute;">
 			</div>
-		
-		
+	
 </body></html>
