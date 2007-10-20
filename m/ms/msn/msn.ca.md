@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msn.ca privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612170012id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msn.ca privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020040511id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
 
 # Sympatico / MSN - Privacy Statement
 
@@ -16,10 +16,10 @@ In order to provide you with these services, better understand your needs, and o
 
 Bell Inc. and MSN each maintain separate privacy policies, which describe in more detail how they handle your personal information. Please take a moment to read our privacy policies.
 
-[Bell Inc. Privacy](http://www.bell.ca/ecare/PrsCSrvPrvc_Landing.page "Bell Inc. Privacy")
+[Bell Inc. Privacy](http://www.bell.ca/ecare/PrsCSrvPrvc_Landing.page)
 
-[MSN Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=74170 "MSN Privacy Statement")
+[MSN Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=74170)
 
 Personal information collected through the Sympatico / MSN services may be stored and processed in Canada or the United States and may be subject to the legal jurisdiction of these countries.
 
-If you have any questions or concerns about your privacy relating to the Sympatico / MSN Internet services, you may visit [ www.bell.ca](http://www.bell.ca/ "www.bell.ca"), call 310-BELL or send e-mail to [ bell.direct@bell.ca](mailto:bell.direct@bell.ca)
+If you have any questions or concerns about your privacy relating to the Sympatico / MSN Internet services, you may visit [www.bell.ca](http://www.bell.ca/), call 310-BELL or send e-mail to [bell.direct@bell.ca](mailto:bell.direct@bell.ca)
