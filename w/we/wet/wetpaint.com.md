@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628135337id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020034504id_/http%3A//www.wetpaint.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Wet Paint - Create a free wiki - Wetpaint
 
@@ -6,7 +6,7 @@
 
 Last Updated: 3/27/2007
 
-At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](https://web.archive.org/web/20070628135337id_/http%3A//www.wetpaint.com/static/$%7BactiveSession.cyoServer%7D), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
+At Wetpaint, we are committed to ensuring the privacy of our users. This privacy policy explains Wetpaint's privacy practices for this Web site ("Site"), [http://www.wetpaint.com](http://www.wetpaint.com/), and any Wetpaint based Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
 
 ## What is Personal Information?
 
