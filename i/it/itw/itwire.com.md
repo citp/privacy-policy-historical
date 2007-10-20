@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504052531id_/http%3A//www.itwire.com.au/content/view/1945/893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020212605id_/http%3A//www.itwire.com/content/view/1945/893) for the most accurate reproduction.*
 
 # iTWire - PRIVACY
 
