@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800dentist.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630050120id_/http%3A//www.1800dentist.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800dentist.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020045339id_/http%3A//www.1800dentist.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1-800-DENTIST — We protect your information
 
