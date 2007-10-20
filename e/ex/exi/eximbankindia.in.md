@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2007-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070303235102id_/http%3A//www.eximbankindia.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020131914id_/http%3A//www.eximbankindia.in/privacy.asp) for the most accurate reproduction.*
 
 # Finance & Services : Export Services
 
