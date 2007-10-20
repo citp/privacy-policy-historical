@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108083151id_/http%3A//bighugelabs.com/flickr/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighugelabs.com privacy policy that was archived on 2007-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071020043247id_/http%3A//bighugelabs.com/flickr/privacy.php) for the most accurate reproduction.*
 
 # fd's Flickr Toys Privacy Policy
 
