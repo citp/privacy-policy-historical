@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314145756id_/http%3A//www.mastercard.com/au/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021114348id_/http%3A//www.mastercard.com/au/general/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MasterCard® Australia
 
@@ -86,7 +86,7 @@ The Privacy Officer by e-mail to: [privacy@mastercard.com ](mailto:privacy@maste
 If the information you are requesting includes sensitive data, such as an account number, we will ask you to identify yourself properly when you request access to the information. 
 
 **MasterCard's Formal Privacy Position**   
-The foundation for all of MasterCard's efforts in the area of consumer privacy is [MaslterCard's Privacy Position ](http://www.mastercardintl.com/newsroom/privacy_position.html), adopted at the end of 1995. The purpose of the Privacy Position is to provide flexible guidelines that can be adapted to meet the demands of changing technology and varying consumer expectations regarding privacy. These guidelines apply worldwide, but note that in Australia and certain other countries additional privacy protections or procedures are required by law and are observed by MasterCard.   
+The foundation for all of MasterCard's efforts in the area of consumer privacy is [MasterCard's Privacy Position](http://www.mastercardintl.com/newsroom/privacy_position.html), adopted at the end of 1995. The purpose of the Privacy Position is to provide flexible guidelines that can be adapted to meet the demands of changing technology and varying consumer expectations regarding privacy. These guidelines apply worldwide, but note that in Australia and certain other countries additional privacy protections or procedures are required by law and are observed by MasterCard.   
 
 
 **Providing More Information**   
