@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624100337id_/http%3A//www.football-lineups.com/default/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021130247id_/http%3A//www.football-lineups.com/default/privacy.php) for the most accurate reproduction.*
 
 # Football Tactics and Lineups History
 
+  
   
 
 
@@ -16,3 +17,8 @@
     This privacy statement applies solely to personal information collected on this Web site. 
 
 | 
+
+**We are looking for  
+[photos](https://web.archive.org/web/20071021130247id_/http%3A//www.football-lineups.com/photos/) !  
+Submit yours**  
+
