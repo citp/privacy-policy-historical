@@ -1,27 +1,31 @@
-<!--The following is the downloaded HTML source of the nai.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629170129id_/http%3A//mcafee.com/us/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nai.com privacy policy that was archived on 2007-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071021211831id_/http%3A//mcafee.com/us/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>McAfee® - about - Privacy policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 
+
 <meta http-equiv="Content-Language" content="en">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <style type="text/css" media="screen">
 	@import url("/common/stylesheets/default.css");
-	@import url("/common/stylesheets/help_wizard.css");
+	@import url("/common/stylesheets/help_wizard.css");	
+  	@import url("/common/stylesheets/menu.css");
 	@import url("/us/stylesheets/lang.css");	
+
 </style>
 <script type="text/javascript" src="/common/js/help_wizard.js"></script>
 <script type="text/javascript" src="/us/help_wizard/js/help_wizard_local.js"></script>
+<script type="text/javascript" src="/common/js/menu.js"></script>
+<script type="text/javascript" src="/common/js/global.js"></script>
 <script type="text/javascript" src="/common/js/global.js"></script>
 <meta name="robots" content="all">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="imagetoolbar" content="false">
 
-<script type="text/javascript" src="/common/js/wrappertabselection.js"></script>
 <script type="text/javascript" src="/common/js/global.js"></script>
 <script type="text/javascript" src="/common/js/tabs.js"></script>
 
@@ -49,28 +53,55 @@
 		<h2 class="access-aid">Navigation</h2>
 		
 		<h3 class="access-aid">Utility Navigation</h3>
+<div>
 <form id="global-search" method="get" action="http://search.mcafee.com/search">
 	<label for="global-search-field">Search this</label>
-	<input id="global-search-field" type="text" name="q" size="15" value="Keyword Search" onfocus="if(this.value=='Keyword Search')this.value='';" onblur="if(this.value=='')this.value='Keyword Search';">
-	<img src="/common/media/images/style/search_icon.gif" alt="Search">
-	<input class="button" type="submit" value="Go">
+	<input id="global-search-field" type="text" name="q" size="15" value="Search" onfocus="onSearchSetFocus();" onblur="onSearchLostFocus();">
+	<input class="button" type="submit" value="Go" onclick="setSearchString();">
 	<input type="hidden" name="getfields" value="description">
-<input type="hidden" name="site" value="us_site.AllTopics">
-<input type="hidden" name="type" value="enterprise">
-<input type="hidden" name="origin" value="us">
+	<input type="hidden" name="site" value="us_site.AllTopics">
+	<input type="hidden" name="type" value="enterprise">
+	<input type="hidden" name="origin" value="us">
 	<input type="hidden" name="output" value="xml_no_dtd">
 	<input type="hidden" name="proxystylesheet" value="default_frontend">
 	<input type="hidden" name="client" value="default_frontend">
 </form>
+</div>
 
+<ul id="utility-navigation">
 
+	<li id="threat-nav"><a href="#">Threat Center</a>
+			<ul id="section-threatnav">
+				<li><a href="/us/threat_center/default.asp">Threat Center</a></li>
+				<li><a href="http://www.avertlabs.com/research/blog/" target="_blank">Avert Labs blog</a></li>
+				<li><a href="http://podcasts.mcafee.com/audioparasitics/">Avert Labs podcasts</a></li>
+			</ul>
+	</li>
+	
+	<li id="help-nav"><a href="#">Need help?</a>
+	<ul id="section-helpnav">
+		<li><a href="/us/about/site_map.html">Site map</a></li>
+		<li><a href="/us/about/contact/index.html">Contact us</a></li>
+	</ul>
+	</li>
+	
+	<li id="support-nav"><a href="#">Support</a>
+	<ul id="section-supportnav">
+		<li><a href="http://us.mcafee.com/root/support.asp">Home</a></li>
+		<li><a href="/us/small/support/index.html">Small business</a></li>
+		<li><a href="/us/medium/support/index.html">Medium business</a></li>
+		<li><a href="/us/enterprise/support/index.html">Enterprise</a></li>
+		<li><a href="/us/partners/channel/restricted/support_form.asp">Partner</a></li>
+	</ul>
+	</li>
 
-<div id="globalnav" class="flyout">
-	<h4>Global Sites</h4>
+	
 
-	<ul id="nav-global">
+	<li id="global-nav"><a href="#">United States - English</a>
+		<ul id="section-globalnav">
 		<li id="globalnav-ltam">
 		<a href="http://www.mcafee.com/ltam/">América Latina - Español</a></li>
+
 		<li id="globalnav-au">
 		<a href="http://www.mcafee.com/au/">Australia - English</a></li>
 		<li id="globalnav-br">
@@ -78,136 +109,225 @@
 		<li id="globalnav-ca-en">
 		<a href="http://www.mcafee.com/ca-en/?langid=34">Canada - English</a></li>
 		<li id="globalnav-ca-fr">
+
 		<a href="http://www.mcafee.com/ca-fr/?langid=48">Canada - Français</a></li>
 		<li id="globalnav-cn">
 		<a href="http://www.mcafee.com/cn/">China - 中国 (Simplified Chinese)</a></li>
 		<li id="globalnav-dk">
 		<a href="http://www.mcafee.com/dk/">Danmark - Dansk</a></li>
 		<li id="globalnav-de">
+
 		<a href="http://www.mcafee.com/de/">Deutschland - Deutsch</a></li>
 		<li id="globalnav-es">
 		<a href="http://www.mcafee.com/es/">España- Español</a></li>
 		<li id="globalnav-fr">
 		<a href="http://www.mcafee.com/fr/">France - Français</a></li>
 		<li id="globalnav-hk">
+
 		<a href="http://www.mcafee.com/hk/">Hong Kong - English</a></li>
 		<li id="globalnav-it">
 		<a href="http://www.mcafee.com/it/">Italia - Italiano</a></li>
 		<li id="globalnav-jp">
 		<a href="http://www.mcafee.com/japan/">Japan - 日本 (Japanese)</a></li>
 		<li id="globalnav-kr">
+
 		<a href="http://www.mcafee.com/korea/">Korea - 한국 (Korean)</a></li>
 		<li id="globalnav-mx">
 		<a href="http://www.mcafee.com/mx/">México - Español</a></li>
 		<li id="globalnav-nl">
 		<a href="http://www.mcafee.com/nl/">Nederland - Nederlands</a></li>
+
 		<li id="globalnav-no">
 		<a href="http://www.mcafee.com/no/">Norge - Norsk</a></li>
-<li id="globalnav-pl">
+		<li id="globalnav-pl">
 		<a href="http://www.mcafee.com/pl/">Polska - Polski</a></li>
 		<li id="globalnav-pt">
 		<a href="http://www.mcafee.com/pt/">Portugal - Portuguese</a></li>
+		<li id="globalnav-ru">
+		<a href="http://www.mcafee.com/ru/">Russia - Pусский (Russian)</a></li>
 		<li id="globalnav-se">
 		<a href="http://www.mcafee.com/se/">Sverige - Svensk</a></li>
 		<li id="globalnav-sg">
 		<a href="http://www.mcafee.com/sg/">Singapore - English</a></li>
 		<li id="globalnav-tw">
 		<a href="http://www.mcafee.com/tw/">Taiwan - 台灣 (Traditional Chinese)</a></li>
+		<li id="globalnav-us">
+		<a href="http://www.mcafee.com/us/">United States - English</a></li>
 		<li id="globalnav-uk">
 		<a href="http://www.mcafee.com/uk/">United Kingdom - English</a></li>
-		<li id="globalnav-us" class="selected">
-		<a href="http://www.mcafee.com/us/">United States - English</a></li>
+		
 	</ul>
-</div>
+	</li>
 
-
-<div id="helpnav" class="flyout">
-	<h4>Need Help?</h4>
-	<ul id="nav-help">
-		<li><a href="/us/help_wizard/helpwizard_home.html" onclick="init();return clickHandler(this);">Help me navigate</a></li>
-		<li><a href="/us/about/site_map.html">Site map</a></li>
-		<li><a href="/us/about/contact/index.html">Contact us</a></li>
-	</ul>
-</div>
-
-<div id="threatnav" class="flyout">
-	<h4>Threat Center</h4>
-	<ul id="nav-threat">
-		<li><a href="/common/redirectgeneric.asp?rurl=/us/threat_center/default.asp">Threat Center</a></li>
-		<li><a href="http://www.avertlabs.com/research/blog/" target="_blank">Avert Labs blog</a></li>
-		<li><a href="http://podcasts.mcafee.com/audioparasitics/">Avert Labs podcasts</a></li>
-	</ul>
-</div>
+</ul>
 
 <div id="wizardWindow" onmousedown="mD(this,event);" title="">
 	<div id="wizardFrame"></div>
 	<div id="wizardPromo"></div>
 </div>
 
+
+
 		
 
-<h3 class="access-aid">Segment Navigation</h3>
-<ul id="nav-segment">
+<ul id="segment-navigation">
  
 
-<li class="first" id="hho"><a accesskey="h" href="http://us.mcafee.com/" target="_blank">Home &amp; Home Office</a></li>
+<li id="hho"><a accesskey="h" href="http://us.mcafee.com/" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho.asp')" target="_blank">Home and Home Office</a>
+<ul id="segment-hho">
+
+<li class="top"></li>
+<li id="desc-hho"><p><span>1 to 10 computers</span>These solutions are ideal for home users, even if you have more than one computer.</p></li>
 
 
 
 
+<li><a href="http://us.mcafee.com/root/campaign.asp?cid=11344" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_buyonline.asp')" target="_blank">Buy online</a></li>
+
+<li><a href="http://cs.mcafeehelp.com/" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_customer_service.asp')" target="_blank">Customer service</a></li>
+
+<li><a href="/us/downloads/index.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_downloads.asp')">Downloads</a></li>
+
+<li><a href="http://us.mcafee.com/root/login.asp" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_my_account.asp')" target="_blank">My account</a></li>
+
+<li><a href="http://us.mcafee.com/root/campaign.asp?cid=11344" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_products.asp')" target="_blank">Products</a></li>
+
+<li><a href="http://us.mcafee.com/root/identitytheft.asp?cid=23903" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_security_advice.asp')" target="_blank">Security advice</a></li>
+
+<li><a href="http://ts.mcafeehelp.com/" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_technical_support.asp')" target="_blank">Technical support</a></li>
+
+<li><a href="http://us.mcafee.com/root/upgradecenter.asp?cid=10356" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/dropdown_hho_upgrade_center.asp')" target="_blank">Upgrade center</a></li>
 
 
 
 
-
-<li id="smb"><a accesskey="s" href="/us/smb/index.html">Small &amp; Medium Business</a></li>
-
-
-
+<li class="bottom"></li>
+</ul>
+</li>
 
 
+<li id="sma"><a accesskey="s" href="/us/small/index.html">Small Business</a>
+<ul id="segment-sma">
 
-
-
-
-<li id="ent"><a accesskey="e" href="/us/enterprise/index.html">Enterprise</a></li>
+<li class="top"></li>
+<li id="desc-sma"><p><span>10 to 100 computers</span>These solutions are ideal if you don't have full-time IT staff. If you do have full-time IT staff, consider our solutions for medium business.</p></li>
 
 
 
 
+<li><a href="http://mvt.mcafee.com/mvt/index.asp" target="_blank">Am I protected?</a></li>
+
+<li><a href="http://shop.mcafee.com/ecommerce/redirect.aspx?pid=HOME&amp;CID=MFE-1008&amp;ref=mcafee.com&amp;lang=en-us" target="_blank">Buy online</a></li>
+
+<li><a href="/us/small/downloads/index.html">Downloads</a></li>
+
+<li><a href="/apps/partners/channel/find/default.asp">Find a partner</a></li>
+
+<li><a href="/us/small/services/product_training/index.html">Product education</a></li>
+
+<li><a href="/us/small/products/index.html">Products and Solutions</a></li>
+
+<li><a href="/us/small/support/index.html">Support</a></li>
 
 
 
 
-
-<li id="par"><a accesskey="p" href="/us/partners/default.asp">Partners</a></li>
-
-
-
+<li class="bottom"></li>
+</ul>
+</li>
 
 
+<li id="med"><a accesskey="m" href="/us/medium/index.html">Medium Business</a>
+<ul id="segment-med">
 
-
-
-
-
+<li class="top"></li>
+<li id="desc-med"><p><span>100 to 1000 computers</span>These solutions are ideal if you have full-time IT staff, but don't have much time to spend on security. If you have full-time security staff or rigid compliance requirements, you might also want to look at our enterprise products.</p></li>
 
 
 
 
+<li><a href="http://mvt.mcafee.com/mvt/index.asp" target="_blank">Am I protected?</a></li>
+
+<li><a href="/us/medium/downloads/index.html">Downloads</a></li>
+
+<li><a href="/us/medium/products/index.html">Products and Solutions</a></li>
+
+
+
+<li><a href="/us/medium/support/index.html">Support</a></li>
 
 
 
 
+<li class="bottom"></li>
+</ul>
+</li>
+
+
+<li id="ent"><a accesskey="e" href="/us/enterprise/index.html">Large Enterprise</a>
+<ul id="segment-ent">
+
+<li class="top"></li>
+<li id="desc-ent"><p><span>1000 or more computers</span>These solutions are ideal for large organization, or any organization with full-time security staff or rigid compliance requirements.</p></li>
 
 
 
 
+<li><a href="http://mvt.mcafee.com/mvt/index.asp" target="_blank">Am I protected?</a></li>
+
+<li><a href="/us/enterprise/downloads/index.html">Downloads</a></li>
+
+<li><a href="/us/enterprise/services/product_training/index.html">Product education</a></li>
+
+<li><a href="/us/enterprise/products/index.html">Products and Solutions</a></li>
+
+<li><a href="/us/enterprise/services/index.html">Professional services</a></li>
+
+<li><a href="/us/enterprise/security_risk_management/index.html">Security risk management</a></li>
+
+<li><a href="/us/enterprise/support/index.html">Support</a></li>
 
 
 
 
+<li class="bottom"></li>
+</ul>
+</li>
 
+
+<li id="par"><a accesskey="p" href="/us/partners/default.asp">Partners</a>
+<ul id="segment-par">
+
+<li class="top"></li>
+<li id="desc-par"><p><span>Partners</span>Find information on the McAfee Consumer Partner Program, McAfee Global SecurityAlliance<sup>TM</sup> Partner Program, McAfee Security Innovation Alliance Partner Program and other McAfee Partnerships.</p></li>
+
+
+
+
+<li><a href="/us/partners/channel/become/enrollment_form/becomepartnershort.asp">Become a channel partner</a></li>
+
+
+
+<li><a href="/apps/partners/channel/find/default.asp">Find a partner</a></li>
+
+<li><a href="/us/partners/default.asp">MAX login</a></li>
+
+<li><a href="http://www.mcafee.com/us/partners/channel/restricted/support_form.asp?bypass=true" target="_blank">MAX partner support</a></li>
+
+<li><a href="http://www.mcafeerewards.com" target="_blank">McAfee rewards</a></li>
+
+<li><a href="http://www.mcafeesecurityalliance.com" target="_blank">SecurityAlliance partner program</a></li>
+
+<li><a href="/us/partners/security_innovation_alliance/overview.html">Security Innovation Alliance partner </a></li>
+
+<li><a href="/us/partners/service_providers/index.html">Service provider</a></li>
+
+
+
+
+<li class="bottom"></li>
+</ul>
+</li>
 
 
 </ul>
@@ -378,19 +498,19 @@ Santa Clara, CA 95054</strong></p>
 <ul id="nav-footer">
  
 
-<li class="first" id="abo"><a href="/us/about/index.html">About McAfee</a></li>
+<li class="first" id="abo"><a href="/us/about/index.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_about_mcafee.asp')">About McAfee</a></li>
 
-<li><a href="http://www.mcafeecareers.com/" target="_blank">Careers</a></li>
+<li><a href="http://www.mcafeecareers.com/" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_careers.asp')" target="_blank">Careers</a></li>
 
-<li><a href="/us/about/contact/index.html">Contact Us</a></li>
+<li><a href="/us/about/contact/index.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_contact_us.asp')">Contact Us</a></li>
 
-<li><a href="/us/about/site_map.html">Site Map</a></li>
+<li><a href="/us/about/site_map.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_sitemap.asp')">Site Map</a></li>
 
-<li><a href="/apps/about/web_feedback/web_feedback_form.asp">Web Site Feedback</a></li>
+<li><a href="/apps/about/web_feedback/web_feedback_form.asp" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_website_feedback.asp')">Web Site Feedback</a></li>
 
-<li><a href="/us/about/privacy.html">Privacy Policy</a></li>
+<li><a href="/us/about/privacy.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_privacy_policy.asp')">Privacy Policy</a></li>
 
-<li><a href="/us/about/antipiracy_policy.html">Anti-Piracy Policy</a></li>
+<li><a href="/us/about/antipiracy_policy.html" onclick="dcsMultiTrack('DCS.dcsuri','/us/homepage_link_tracking/footer_anti_piracy_policy.asp')">Anti-Piracy Policy</a></li>
 
 </ul>
 <p id="legal"> Copyright © 2003-2007 McAfee, Inc. All Rights Reserved.
