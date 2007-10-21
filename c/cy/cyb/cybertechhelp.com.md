@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630081455id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021020605id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
