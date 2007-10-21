@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630104917id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021032652id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-**This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it’s used, and how you can “opt-out”**
+This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it’s used, and how you can “opt-out”
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
@@ -38,7 +38,7 @@ are stored in a log file and/or database. Any search terms that you enter into t
 
 This information is kept on a secure dedicated server hosted by [RackSpace](http://www.rackspace.com/) as well as servers within the SitePoint offices. 
 
-The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletters/manage.php>
+The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletter/manage.php>
 
 The email addresses collected at SitePoint from subscribers to the opt-in lists (AKA "Information Announcement Lists") are used by Postmaster Direct to send announcements to individuals who requested them. You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any third party besides Postmaster Direct. Instructions for removal from these mailings are included in each individual email message that is sent to you. 
 
