@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conduit.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623184430id_/http%3A//www.conduit.com/privacy/WebsitePrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conduit.com privacy policy that was archived on 2007-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071021033117id_/http%3A//www.conduit.com/privacy/WebsitePrivacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy
 
@@ -65,3 +65,5 @@ The TRUSTe program only covers information that is collected through this Websit
 Park Ta’asiyot Hamada   
 Ness Ziona 74140   
 Israel**
+
+Let us show you how easy and quick it is to create your Conduit community toolbar
