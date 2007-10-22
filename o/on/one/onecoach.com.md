@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625035858id_/http%3A//www.onecoach.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022110240id_/http%3A//www.onecoach.com/privacy.htm) for the most accurate reproduction.*
 
-# OneCoach™ Number one in small-business growth
+# OneCoach Privacy Policy - Executive Coaching
 
 OneCoach Online Privacy Policy
 
