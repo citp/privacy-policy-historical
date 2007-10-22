@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sureshkumar.net privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501012654id_/http%3A//sureshkumar.net/html/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sureshkumar.net privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022034126id_/http%3A//sureshkumar.net/html/privacy_policy.asp) for the most accurate reproduction.*
 
-# :: WELCOME TO SURESHKUMAR.NET A PLACE TO SHARE KNOWLEDGE ::
+# :: WELCOME TO SURESHKUMAR.NET A PLACE TO SHARE KNOWLRDGE ::
 
 |   
 ---  
