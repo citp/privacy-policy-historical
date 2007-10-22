@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629123158id_/http%3A//www.bodis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022030412id_/http%3A//www.bodis.com/privacy.html) for the most accurate reproduction.*
 
 # Bodis.com - Privacy Policy
 
