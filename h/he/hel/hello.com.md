@@ -1,67 +1,65 @@
-> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022040153id_/http%3A//www.hello.com/privacy.php) for the most accurate reproduction.*
 
-# Google Privacy Center: Privacy Policy
+# Hello : Privacy Policy
 
-**Google Privacy Policy**
+|  | 
 
-Version 07/01/2004
+### Scope
 
-At Google, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Google's services, as well as some of the steps we take to safeguard it.
+The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided to Hello.  In addition, the following describes our practices that are specific to Hello. 
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
+### Personal Information
 
-**Data collection**
-
-  * Google search, the Google Toolbar, Google News and some other services do not require any personally identifying information. 
-  * Google collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
-  * Some of our services require you to register for an account. Google asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers. 
-  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
-
-
-
-**Cookies**
-
-  * Upon your first visit to Google, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. Google does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features or services may not function properly without cookies. 
+  * You can enable Hello by registering for a Hello Account and providing a username, password and e-mail address.
+  * You can create a “friends list” of other Hello users by adding their email addresses to your list.  Google will store the friends list on Google’s servers, allowing you to access it whenever you log into your account.  If you invite another user to be on your friends list, that user will see your e-mail address with the invitation.  If you accept an invitation to be on another user’s friends list, that user’s list will show your e-mail address and whether you are currently logged in to Hello.
+  * Your photographs are stored on your computer and transferred directly to other Hello users at your direction.  Google does not have access to your photographs unless you choose to send them to Google, such as by using Hello to post pictures on [Blogger](http://www.hello.com/how_bloggerbot_works.php).
+  * During login, Hello will connect with our servers to check for security updates and new releases.  Our servers automatically record information about your connection in our log files.
+  * When you use Hello, Google's servers automatically record certain information about your use. Google records information such as account activity (including number of log-ins); and other log information (including firewall type). Google servers record each connection made with another user; however, filenames, file contents, and number of files shared are not stored.
 
 
 
-**Information sharing**
+### Uses
 
-  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
-    * We have your consent.
-    * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Google, its users or the public. 
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
-  * We may store and process personal information collected on our site in the United States or any other country in which Google Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-  * In the event of a transfer of ownership of Google Inc., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy. 
-  * We may share aggregated information with others. Examples of this include the number of users who searched for "Mars Rover" or how many users clicked on a particular advertisement. 
+  * We use your Hello username and password to protect your account from unauthorized access.
+  * We use the stored copy of your friends list to allow you to access the list from any computer that you use to log into Hello, by downloading the list over an encrypted connection to that computer.
 
 
 
-**Information security**
+### Information sharing and onward transfer
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
-
-
-
-**Updating your information**
-
-  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
+  * When you share pictures with other Hello users, those users may save and forward the pictures without your permission (much like e-mail).
 
 
 
-**Links**
+### Information Security
 
-  * The sites displayed as search results or linked to by Google's services are developed by people over whom Google exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
-  * Google may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Google's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
+  * Hello uses Peer-to-Peer (P2P) networking to connect you directly to other users’ computers.  It will only connect you to users that you have approved.
+  * All chat transmissions and files that you send using Hello are protected with AES encryption.
+  * Hello will use an encrypted connection to deliver your friends list to the computer you are using.
 
 
 
-**Changes to this Policy**
+### Your Choices
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. [Prior versions of this Privacy Policy](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy_archive.html) will be kept in an archive for you to view.
+  * You can terminate your Hello Account at any time by contacting our user support group from the [picasa.google.com/support](http://picasa.google.com/support/) website.  We may ask you to send e-mail from the address you used to create your account, in order to confirm the termination request.
+  * You can revise or delete your friends list at any time through the Hello interface.
 
-If you have any additional questions, please feel free to [contact us any time](http://www.google.com/support/bin/request.py?contact_type=user&hl=en).
 
-For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, click on the links to the side of this page. 
+
+### Important information
+
+  * Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce’s web site](http://www.export.gov/safeharbor/).
+  * Further information about the Hello service is available [here](http://hello.com/support.php)
+
+
+
+### How to contact us
+
+  * For more information about our privacy practices, go to the full privacy statement [on our website](http://www.google.com/intl/en/privacy.html).  
+Contact us [through our web site](http://www.google.com/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=remove_info&continue=Continue)  
+Or write us at  
+Privacy Matters, c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View, CA 94043 (USA)
+
+
