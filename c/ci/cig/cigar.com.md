@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022205541id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022051430id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
 
 # Cigar.com - Privacy Statement
 
@@ -32,15 +32,13 @@ Cigar.com does not sell products for purchase by anyone under the age of eightee
 Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
 
   
-In an effort to enhance your shopping experience, we may use your contact and demographic information we have collected through our website, surveys, or other data gathering methods to send you news, offers and e-mails from some of our partners. To opt out of receiving news, offers and e-mails [[click here](https://web.archive.org/email/default.asp?sid=&cmd=remove)]. 
-
-As a part of our business relationships, we may from time to time have banner or link redirects to a third party accessible from the Cigar.com Site. Any transactions that occur between you and a third party are strictly between you and the third party and are not the responsibility of Cigar.com. We do not control the privacy policies of our advertisers or other third parties that have Web sites linked to the Site. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. 
+Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, there is a chance we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged, contact [service@cigar.com](mailto:service@cigar.com) at any time. 
 
   
 As our company grows, there is a possibility that we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company. 
 
   
-If you do not wish to receive announcements or special offers from us or third parties, you can [[click here](https://web.archive.org/email/default.asp?sid=&cmd=remove)] to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders. 
+If you do not wish to receive announcements or special offers from us, you can [[click here](https://web.archive.org/email/optout.asp?sid=&cmd=remove)] to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders. 
 
   
 If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. Use of this site is when this privacy effective date begins. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. 
