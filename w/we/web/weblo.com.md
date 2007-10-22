@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the weblo.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621202623id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblo.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022062413id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.*
 
 # Weblo - Privacy policy
 
+| **Weblo Privacy Policy**  
+---  
 (Last updated on September 23, 2006)  
   
 ###### This privacy policy ("Privacy Policy") applies to your accessing, browsing, and using the services available from and/or otherwise accessing the domain and sub-domains of www.weblo.com which are owned and operated by Weblo.com Corp. ("Weblo", "us", "our" or "we") and all linked pages owned and operated by Weblo (collectively, the "Site"). This Privacy Policy is incorporated by reference into your Terms of Service Agreement. Your privacy and security are important to us. Please read this Privacy Policy carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Privacy Policy. We reserve the right to make changes to this Privacy Policy at any time, so please check back periodically.  
   
-## I. WHAT INFORMATION WE COLLECT FROM YOU.   
+**I. WHAT INFORMATION WE COLLECT FROM YOU.**  
   
 ###### A. **Information You Provide To Us.** We receive and store any information you enter on the Site or provide us in any other way. This may include, among other things, your first and last name, mailing and email addresses, telephone number, credit card number, user name and password, and the content of emails you send to us or through the Site.   
   
@@ -19,7 +21,7 @@
   
 ###### C. **About Children.** The Weblo Site is intended for use by adults and we never knowingly solicit, collect, store or disclose personal information from individuals who are under the age of 18.   
   
-## II. USE AND DISCLOSURE OF PERSONAL INFORMATION.  
+**II. USE AND DISCLOSURE OF PERSONAL INFORMATION.**  
   
 ###### A. **Use of Personal Information and Non Personal Information.** We use the information that we collect, as disclosed in this Privacy Policy, in a variety of ways to make the Site function smoothly and to personalize your experience. Specific examples of how we use information that we collect are as follows:  
   
@@ -43,17 +45,17 @@
   
 ###### B. **Retention of Personal Information.** We will retain your personal information as long as is necessary to meet Weblo's business and legal requirements.   
   
-## III. OPTING-OUT  
+**III. OPTING-OUT**  
   
 ###### We may from time to time send you email or other communications regarding current promotions, specials and new additions to the Site. You may "opt out," or unsubscribe from our newsletters and non-transactional related emails and disclosures to third parties for promotional purposes by following the unsubscribe instructions in any email you receive from us.  
   
-## IV. SAFEGUARDING YOUR PERSONAL INFORMATION  
+**IV. SAFEGUARDING YOUR PERSONAL INFORMATION**  
   
 ###### A. **Our Security Measures.** We have put into place reasonable physical, electronic and managerial procedures to help safeguard and prevent unauthorized access to, use and/or disclosure of your personal information. Although we use reasonable efforts to safeguard the security of your personal information, transmissions made on or through the Internet and personal information stored on our servers are vulnerable to attack and cannot be guaranteed to be secure. In addition, submissions made via e-mail are not protected by encryption and are vulnerable to interception during transmission.
 
-B. **Protecting Yourself.** You are solely responsible for safeguarding and maintaining the secrecy of your account, passwords and/or any account information in your possession or control, and it is important to keep us updated with your most current contact information. Please be careful and responsible whenever you are online. The Site contains links to third parties who may collect information directly from you. Each of the websites linked from the Site may have separate privacy policies and data collection practices, independent of Weblo. Weblo has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites, nor does Weblo make any warranties or representations about the contents, products or services offered on such websites or the security of any information you provide to them. You may learn more about Internet privacy from government websites such as [www.ftc.gov/privacy/](https://web.archive.org/web/20070621202623id_/http%3A//www.weblo.com/main/www.ftc.gov/privacy/).  
+B. **Protecting Yourself.** You are solely responsible for safeguarding and maintaining the secrecy of your account, passwords and/or any account information in your possession or control, and it is important to keep us updated with your most current contact information. Please be careful and responsible whenever you are online. The Site contains links to third parties who may collect information directly from you. Each of the websites linked from the Site may have separate privacy policies and data collection practices, independent of Weblo. Weblo has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites, nor does Weblo make any warranties or representations about the contents, products or services offered on such websites or the security of any information you provide to them. You may learn more about Internet privacy from government websites such as [www.ftc.gov/privacy/](https://web.archive.org/web/20071022062413id_/http%3A//www.weblo.com/main/www.ftc.gov/privacy/).  
   
-## V. GENERAL  
+**V. GENERAL**  
   
 ######  A. **Changes To Our Policy.** This Privacy Policy is effective with respect to any personal information collected on or after the effective date first set forth above. Weblo reserves the right to modify or supplement this Privacy Policy at any time. If we make any changes, we will update the Site and Privacy Policy to include such change and notice thereof. Please review this Privacy Policy often to review any changes that may affect your use of the Site. Your continued use of the Site once the revised Privacy Policy has been posted on the Site affirms your agreement to such changes. 
 
@@ -70,4 +72,6 @@ c/o Weblo.com
 Montreal, Quebec, Canada, H3A 2L1  
 By phone: (514) 364-3636  
 By fax: (514) 845-5135  
-By email: [privacy@weblo.com](mailto:privacy@weblo.com)
+By email: [privacy@weblo.com](mailto:privacy@weblo.com)  
+  
+ 
