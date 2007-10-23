@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606074614id_/http%3A//twistmagazine.hollywood.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistmagazine.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023080321id_/http%3A//twistmagazine.hollywood.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Twist Magazine
 
