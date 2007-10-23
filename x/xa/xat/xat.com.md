@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612220127id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023221435id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
 
 # xat.com Privacy Policy
 
@@ -55,5 +55,3 @@ We will use reasonable efforts to comply with this Privacy Policy and will take 
 ## Modifications of the Privacy Policy
 
 xat reserves the rights to modify its Privacy Policy at any time. Such modifications will become effective on the day they are posted. xat encourages you to frequently review the Privacy Policy for any modifications.
-
-[xat.com](http://www.xat.com/)
