@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607151649id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu-siemens.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023102552id_/http%3A//www.fujitsu-siemens.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Fujitsu Siemens Computers
 
@@ -45,6 +45,6 @@ The content and layout of the Fujitsu Siemens Computers Internet pages are prote
 
 In case of any question or comments please contact the Fujitsu Siemens Computers Privacy Protection Officer.
 
-As the Internet evolves, so will also evolve our Data Privacy Protection Policy. Changes to our Security and Data Protection Policy will be posted on this page.  
+As the Internet evolve, so will also evolve our Data Privacy Protection Policy. Changes to our Security and Data Protection Policy will be posted on this page.  
   
 | | | | 
