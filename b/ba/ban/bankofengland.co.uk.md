@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616142412id_/http%3A//www.bankofengland.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023171259id_/http%3A//www.bankofengland.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Bank of England|Privacy Statement
 
