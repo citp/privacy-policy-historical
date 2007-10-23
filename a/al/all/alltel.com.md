@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621071827id_/http%3A//www.alltel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2007-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071023062631id_/http%3A//www.alltel.com/privacy.html) for the most accurate reproduction.*
 
 # Alltel.com Privacy Statement
 
@@ -8,7 +8,7 @@
 
 [](http://ardownload.adobe.com/pub/adobe/reader/win/7x/7.0.8/enu/AdbeRdr708_en_US.exe)
 
-This Privacy Policy last updated on: 03/30/2007
+This Privacy Policy last updated on: 06/29/2007
 
 Alltel has created this privacy statement ("Policy") to communicate our privacy practices and policies. This privacy statement outlines what information we collect, use, disclose, and how we protect such information when you access or use any of our services. Alltel may revise or update this Policy from time to time, so you should refer back to this page often for the latest information.
 
@@ -88,4 +88,4 @@ Because we appreciate the trust you have placed in us, we continually look for w
 As with all Alltel sites, we will constantly strive to improve the services we may offer, and may update this privacy policy from time to time in connection with that effort. You should refer back to this page often for the latest information. 
 
 **How can I contact Alltel?**  
-Contact us with questions about your account through your Customer Care representative or [contact us](http://www.alltel.com/contact_us.html). If you have any questions, comments or concerns about this Policy, please contact [Office.of.Privacy@alltel.com](mailto:Office.of.Privacy@alltel.com). 
+If you have any questions, comments or concerns about Alltel's Privacy Policy, please contact Office.of.Privacy@alltel.com. If you have questions about your account, your service, our products, etc., please [contact a Customer Care Representative](http://www.alltel.com/contact_us.html). 
