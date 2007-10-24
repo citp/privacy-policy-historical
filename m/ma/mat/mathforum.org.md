@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617043733id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024143117id_/http%3A//www.mathforum.org/announce/privacy.html) for the most accurate reproduction.*
 
 # Math Forum: Privacy Policy
 
