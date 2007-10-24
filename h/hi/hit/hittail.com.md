@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610022446id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hittail.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024175006id_/http%3A//www.hittail.com/privacy) for the most accurate reproduction.*
 
-# HitTail - Beta Privacy Policy
+# HitTail - Privacy Policy
 
 Last updated March 19, 2007
 
