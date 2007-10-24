@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626232501id_/http%3A//www.ratemarketplace.com/rateMarketplace/privacy-20125.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemarketplace.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024183040id_/http%3A//www.ratemarketplace.com/rateMarketplace/privacy-20125.html) for the most accurate reproduction.*
 
 # RateMarketplace - Privacy Policy
 
 Privacy Policy
 
-Effective April 4, 2005
+Effective September 12, 2007
 
 RateMarketplace is owned and operated by Adchemy, Inc.
 
@@ -13,11 +13,11 @@ Adchemy knows that you care about how your personal information is used and shar
 **What Does This Privacy Policy Cover?  
 **This Privacy Policy covers Adchemy’s treatment of personally identifiable information ("Personal Information") that Adchemy gathers when you are accessing Adchemy Sites and when you use Adchemy services. Also, this Privacy Policy covers Adchemy’s treatment of any Personal Information that Adchemy’s business partners share with Adchemy. This Privacy Policy does not apply to the use of your Personal Information by third parties to which such information is provided by Adchemy that Adchemy does not own or control, or to individuals that Adchemy does not employ or manage.
 
-**What Personal Information Does Adchemy Collect AND MAINTAIN?  
+**What Personal Information Does Adchemy Collect And Maintain?  
 **We collect the following types of information from our customers:
 
 **Personal Information You Provide to Us:  
-**We receive and store any information you enter on Adchemy Sites or provide to us in any other way. The types of Personal Information collected may include name, address, phone number, and email address. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about specials and new products. 
+**We receive and store any information you enter on Adchemy Sites or provide to us in any other way. The types of Personal Information collected may include name, address, phone number, and email address. The Personal Information you provide is used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about specials and new products. 
 
 **Personal Information Collected Automatically:**
 
@@ -58,8 +58,8 @@ Adchemy knows that you care about how your personal information is used and shar
 
   * As stated previously, you can always opt not to disclose information to us, even though it may be needed to take advantage of certain features on Adchemy Sites.
   * If you opt to disclose Personal Information to Adchemy through an Adchemy Site (whether by filling out an electronic form or otherwise), you acknowledge that Adchemy may disclose your Personal Information to third parties for the third parties’ direct marketing purposes.
-  * If you decide that you do not want Adchemy to disclose your Personal Information to third parties for the third parties’ direct marketing purposes, you may prevent such disclosure by sending email to optout at Adchemy.
-  * If at any time you decide you no longer want to be contacted by Adchemy or its affiliated businesses, you may opt out by sending email to optout at Adchemy. To have your personal information completely removed from our databases you should send email to removeme at Adchemy. Please note that if you decide to opt out, you will not receive legal notices from us, such as this Privacy Policy, but those legal notices will still govern your use of the Adchemy Sites, and you are responsible for reviewing such legal notices for changes.
+  * If you decide that you do not want Adchemy to disclose your Personal Information to third parties for the third parties’ direct marketing purposes, you may prevent such disclosure by sending email to optout [at] adchemy.com.
+  * If at any time you decide you no longer want to be contacted by Adchemy or its affiliated businesses, you may opt out by sending email to optout [at] adchemy.com. To have your personal information completely removed from our databases you should send email to removeme at Adchemy. Please note that if you decide to opt out, you will not receive legal notices from us, such as this Privacy Policy, but those legal notices will still govern your use of the Adchemy Sites, and you are responsible for reviewing such legal notices for changes.
   * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access or Correct” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
   * As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if you do not enable cookies, you will not be able to take advantage of some of our attractive features.  
 
