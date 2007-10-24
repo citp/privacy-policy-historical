@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072146id_/http%3A//wordtracker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024104621id_/http%3A//www.wordtracker.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wordtracker
+# Privacy Policy
 
 **Zero spam tolerance**
 
-We do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email.  
-
+We do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email.
 
 Our site's registration form requires users to give us just the basic contact information (i.e., name and email address). This is used to send out a free top-500 keyword report on a weekly basis. Users may opt out of receiving future mailings; see the choice/opt-out section below.
 
@@ -31,4 +30,4 @@ If you would like to be removed from our database or mailing list, please let us
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this Web site, please [contact us.](http://www.wordtracker.com/help/index.php?_a=tickets&_m=submit)
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this Web site, please [contact us.](http://help.wordtracker.com/index.php?_a=tickets&_m=submit)
