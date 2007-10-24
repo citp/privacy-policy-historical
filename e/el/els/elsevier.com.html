@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elsevier.com privacy policy that was archived on 2004-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605034903id_/http%3A//www.elsevier.com/wps/find/privacypolicy.cws_home/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elsevier.com privacy policy that was archived on 2007-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071024151937id_/http%3A//www.elsevier.com/wps/find/privacypolicy.cws_home/privacypolicy) for the most accurate reproduction.-->
 
 <html><head><noscript>
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=/framework_home/NoScript.html">
@@ -11,7 +11,8 @@
 
 
 
-	<title>Elsevier.com</title>
+
+	<title>Elsevier</title>
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta http-equiv="Content-Style-Type" content="text/css">
 
@@ -25,8 +26,10 @@
 	<link rel="stylesheet" href="/authored_framework/include/css/elsevier2.css" type="text/css">
 	<link rel="stylesheet" href="/authored_framework/include/css/v5/menu_ns.css" type="text/css">
 	<link rel="stylesheet" href="/authored_framework/include/css/v5/menu_ns2.css" type="text/css">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	
 	<script language="JavaScript" src="/authored_framework/include/js/javascriptLoader.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/framework_home/mission.js" type="text/javascript"></script>
 	<script language="JavaScript" type="text/javascript">
 	<!--
 		onload_add(initTopBar)
@@ -85,6 +88,28 @@ function submitSearchForm(form) {
 
 }
 
+function selectSemiRandomImage() {
+
+	var now = new Date();
+	var second = now.getSeconds();
+	var selectedImage = "/authored_framework/" + "images/topbar_1.jpg";
+	
+	if (second > 0 && second <= 9) {
+		selectedImage = "/authored_framework/" + "images/topbar_1.jpg"; 
+	} else if (second > 9 && second <= 19) {
+		selectedImage = "/authored_framework/" + "images/topbar_2.jpg";
+	} else if (second > 19 && second <= 29) {
+		selectedImage = "/authored_framework/" + "images/topbar_3.jpg";
+	} else if (second > 29 && second <= 39) {
+		selectedImage = "/authored_framework/" + "images/topbar_4.jpg";
+	} else if (second > 39 && second <= 49) {
+		selectedImage = "/authored_framework/" + "images/topbar_5.jpg";
+	} else if (second > 49 && second <= 59) {
+		selectedImage = "/authored_framework/" + "images/topbar_6.jpg";
+	}
+	return selectedImage;
+} // end of function
+
 function picswapper(name, images, ms) {
 // don't attempt DOM based stuff if the browser isn't DOM compliant. This specifically excludes IE4.
 		if (document.getElementById) {
@@ -98,17 +123,159 @@ function picswapper(name, images, ms) {
 	}
 }
 // --> 
+
+var dom = (document.getElementById) ? true : false; 
+var ns5 = ((navigator.userAgent.indexOf("Gecko")>-1) && dom) ? true: false; 
+var ie5 = ((navigator.userAgent.indexOf("MSIE")>-1) && dom) ? true : false; 
+var ns4 = (document.layers && !dom) ? true : false; 
+var ie4 = (document.all && !dom) ? true : false; 
+var nodyn = (!ns5 && !ns4 && !ie4 && !ie5) ? true : false; 
+
+
+var origWidth, origHeight; 
+if (ns4) { 
+ origWidth = window.innerWidth; origHeight = window.innerHeight; 
+ window.onresize = function() { if (window.innerWidth != origWidth || window.innerHeight != origHeight) history.go(0); } 
+} 
+
+if (nodyn) { event = "nope" } 
+
+var tipFollowMouse= true;
+var tipWidth= 360; 
+var offX= 20; // how far from mouse to show tip 
+var offY= 12; 
+//var tipFontFamily= "Verdana, arial, helvetica, sans-serif"; 
+var tipFontFamily= "arial"; 
+var tipFontSize= "8pt"; 
+var tipFontColor= "#000000"; 
+var tipBgColor= "#FFFFCC"; 
+var tipBorderColor= "#666666"; 
+var tipBorderWidth= 1; 
+var tipBorderStyle= "outset"; 
+var tipPadding= 4; 
+
+var startStr = '<table width="' + tipWidth + '"><tr><td align="center" width="100%">'; 
+var midStr = '</td></tr><tr><td valign="top">'; 
+var endStr = '</td></tr></table>'; 
+
+var tooltip, tipcss; 
+function initMiss() { 
+
+
+ if (nodyn) return; 
+ tooltip = (ns4)? document.tipDiv.document: (ie4)? document.all['tipDiv']: (ie5||ns5)? document.getElementById('tipDiv'): null; 
+tipcss = (ns4)? document.tipDiv: tooltip.style; 
+if (ie4||ie5||ns5) { 
+  tipcss.width = tipWidth+"px"; 
+  tipcss.fontFamily = tipFontFamily; 
+  tipcss.fontSize = tipFontSize; 
+  tipcss.color = tipFontColor; 
+  tipcss.backgroundColor = tipBgColor; 
+  tipcss.borderColor = tipBorderColor; 
+  tipcss.borderWidth = tipBorderWidth+"px"; 
+  tipcss.padding = tipPadding+"px"; 
+  tipcss.borderStyle = tipBorderStyle; 
+ } 
+if (tooltip&&tipFollowMouse) { 
+  if (ns4) document.captureEvents(Event.MOUSEMOVE); 
+ // document.onmousemove = trackMouse; 
+ // document.images["mission"].onmousemove = trackMouse; 
+ // document.images["mission_two"].onmousemove = trackMouse; 
+ } 
+} 
+
+//window.onload = initMiss; 
+
+var t1,t2;
+var tipOn = false;
+function doTooltip(evt,num) { 
+
+ initMiss();
+ if (!tooltip) return; 
+ if (t1) clearTimeout(t1); if (t2) clearTimeout(t2); 
+ tipOn = true; 
+ // set colors if included in messages array 
+ if (messages[num][2]) var curBgColor = messages[num][2]; 
+ else curBgColor = tipBgColor; 
+ if (messages[num][3]) var curFontColor = messages[num][3]; 
+ else curFontColor = tipFontColor; 
+ if (ns4) { 
+  var tip = '<table bgcolor="' + tipBorderColor + '" width="' + tipWidth + '" cellspacing="0" cellpadding="' + tipBorderWidth + '" border="0"><tr><td><table bgcolor="' + curBgColor + '" width="100%" cellspacing="0" cellpadding="' + tipPadding + '" border="0"><tr><td>'+ startStr +  midStr + '<span style="font-family:' + tipFontFamily + '; font-size:' + tipFontSize + '; color:' + curFontColor + ';">' + messages[num][1] + '</span>' + endStr + '</td></tr></table></td></tr></table>'; 
+  tooltip.write(tip); 
+  tooltip.close(); 
+ } else if (ie4||ie5||ns5) { 
+  var tip = startStr  + midStr + '<span style="font-family:' + tipFontFamily + '; font-size:' + tipFontSize + '; color:' + curFontColor + ';">' + messages[num][1] + '</span>' + endStr; 
+  tipcss.backgroundColor = curBgColor; 
+   tooltip.innerHTML = tip; 
+ } 
+ //if (!tipFollowMouse) 
+ positionTip(evt); 
+ //else
+ //t1=setTimeout("tipcss.visibility='visible'",100); 
+} 
+
+var mouseX, mouseY; 
+function trackMouse(evt) { 
+
+	mouseX = (ns4||ns5)? evt.pageX: window.event.clientX + document.body.scrollLeft; 
+ 	mouseY = (ns4||ns5)? evt.pageY: window.event.clientY + document.body.scrollTop; 
+ 	if (tipOn) positionTip(evt); 
+
+} 
+
+function positionTip(evt) { 
+ //if (!tipFollowMouse) { 
+  mouseX = (ns4||ns5)? evt.pageX: window.event.clientX + document.body.scrollLeft; 
+  mouseY = (ns4||ns5)? evt.pageY: window.event.clientY + document.body.scrollTop; 
+// } 
+ 
+ // tooltip width and height 
+ var tpWd = (ns4)? tooltip.width: (ie4||ie5)? tooltip.clientWidth: tooltip.offsetWidth; 
+ var tpHt = (ns4)? tooltip.height: (ie4||ie5)? tooltip.clientHeight: tooltip.offsetHeight; 
+ // document area in view (subtract scrollbar width for ns) 
+ var winWd = (ns4||ns5)? window.innerWidth-20+window.pageXOffset: document.body.clientWidth+document.body.scrollLeft; 
+ var winHt = (ns4||ns5)? window.innerHeight-20+window.pageYOffset: document.body.clientHeight+document.body.scrollTop; 
+ // check mouse position against tip and window dimensions 
+ // and position the tooltip 
+ if ((mouseX+offX+tpWd)>winWd) 
+  //tipcss.left = (ns4)? mouseX-(tpWd+offX): mouseX-(tpWd+offX)+"px"; 
+   tipcss.left = (ns4)? 179: 179+"px"; 
+ else 
+ 	//tipcss.left = (ns4)? mouseX+offX: mouseX+offX+"px"; 
+ 	 tipcss.left = (ns4)? 179: 179+"px"; 
+ if ((mouseY+offY+tpHt)>winHt) 
+   //tipcss.top = (ns4)? winHt-(tpHt+offY): winHt-(tpHt+offY)+"px"; 
+   tipcss.top = (ns4)? 125: 125+"px"; 
+ else 
+   // tipcss.top = (ns4)? mouseY+offY: mouseY+offY+"px"; 
+   tipcss.top = (ns4)? 125: 125+"px"; 
+ 
+ //if (!tipFollowMouse)
+  t1=setTimeout("tipcss.visibility='visible'",100); 
+} 
+
+function hideTip() { 
+ if (!tooltip) return; 
+ 
+ t2=setTimeout("tipcss.visibility='hidden'",100); 
+ tipOn = false; 
+
+} 
+
+
 </script>
+<div id="tipDiv" style="position:absolute; visibility:hidden; z-index:100"></div>
 
 	<div id="logoDiv">
-		<div id="logoDivInner" class="verdana10White" style="Z-INDEX: 1; LEFT: 0px; WIDTH: 200px; POSITION: absolute; TOP: 105px; HEIGHT: 18px">
-		&nbsp;<a href="/wps/find/homepage.cws_home">Home</a> | <a href="/wps/find/sitemap.cws_home/sitemap">Site map</a>
+	<!--Added alerts link on banner part, for PT 1821--> 
+		<div id="logoDivInner" class="verdana10White" style="Z-INDEX: 1; LEFT: 0px; WIDTH: 300px; POSITION: absolute; TOP: 105px; HEIGHT: 18px">
+		&nbsp;<a href="/wps/find/homepage.cws_home">Home</a> | <a href="/wps/find/sitemap.cws_home/sitemap">Site map</a> | <a href="/wps/find/elsevierwebsites.cws_home/elsevierwebsites">Elsevier websites</a> | <a href="/wps/find/home_content.cws_home/alertingservices">Alerts</a>
 		</div>
-		<img src="/authored_framework/images/bg_logo.gif" width="441" height="121" border="0" alt="Elsevier">
+		<img name="mission" src="/authored_framework/images/bg_logo.gif" width="441" height="121" border="0" onmouseover="doTooltip(event,0)" onmouseout="hideTip()">
 	</div>
 
 	<div id="tagLineDiv">
-		<img src="/authored_framework/images/tagLine.gif" width="192" height="38" border="0" alt="Building Insights. Breaking Boundaries.">
+		<img name="mission_two" src="/authored_framework/images/tagLine.gif" width="192" height="38" border="0" onmouseover="doTooltip(event,0)" onmouseout="hideTip()">
 	</div>
 
 	<div id="topSearchBoxDiv">
@@ -118,9 +285,18 @@ function picswapper(name, images, ms) {
 			</tr>
 			<tr>
 				<td bgcolor="#ffffff"><img src="/authored_framework/images/empty.gif" width="1" height="121" border="0" alt=""></td>
-				<td><img id="picswap" src="/authored_framework/images/topbar_1.jpg" width="157" height="121" border="0" alt="Elsevier">
-					<script>picswapper("picswap", [/authored_framework/ + "images/topbar_1.jpg", /authored_framework/ + "images/topbar_2.jpg", /authored_framework/ + "images/topbar_3.jpg", /authored_framework/ + "images/topbar_4.jpg", /authored_framework/ + "images/topbar_5.jpg", /authored_framework/ + "images/topbar_6.jpg"], 5000)</script>
+
+				<td>
+					<img id="picswap" src="/authored_framework/images/topbar_3.jpg" width="157" height="121" border="0" alt="Elsevier">
+					<script>
+						document.getElementById("picswap").src = selectSemiRandomImage()
+					</script>
 				</td>
+				
+				<!-- <td><img id='picswap' src="/authored_framework/images/topbar_1.jpg" width="157" height="121" border="0" alt="Elsevier" />
+					<script>picswapper("picswap", [/authored_framework/ + "images/topbar_1.jpg", /authored_framework/ + "images/topbar_2.jpg", /authored_framework/ + "images/topbar_3.jpg", /authored_framework/ + "images/topbar_4.jpg", /authored_framework/ + "images/topbar_5.jpg", /authored_framework/ + "images/topbar_6.jpg"], 5000)</script>
+				</td> -->
+				
 				<td bgcolor="#ffffff"><img src="/authored_framework/images/empty.gif" width="1" height="121" border="0" alt=""></td>
 				<td bgcolor="#ff9933">
 
@@ -132,6 +308,8 @@ function picswapper(name, images, ms) {
 <input type="HIDDEN" name="pubtype" value="Any">
 <input type="HIDDEN" name="boost" value="true">
 <input type="HIDDEN" name="needs_keyword" value="true">
+<input type="HIDDEN" name="adv" value="false">
+
 <tbody><tr>
 <td colspan="3"><img src="/authored_framework/images/empty.gif" width="1" height="2" border="0" alt=""></td>
 </tr>
@@ -194,7 +372,7 @@ function picswapper(name, images, ms) {
 
 	<table background="/authored_framework/images/bg.gif" cellpadding="0" cellspacing="0" border="0" width="100%">
 		<tbody><tr>
-			<td style="width:178px;height:122px;"><a href="/wps/find/homepage.cws_home"><img src="/authored_framework/images/logo_tree.gif" width="178" height="121" border="0" alt="Home page"></a></td>
+			<td style="width:178px;height:122px;"><a href="/wps/find/homepage.cws_home"><img src="/authored_framework/images/logo_tree.gif" width="178" height="121" border="0" alt="Go to Elsevier home page"></a></td>
 		</tr>
 	</tbody></table>
 
@@ -240,7 +418,7 @@ function picswapper(name, images, ms) {
 
 
 
-    <!--<a name="1034"></a>-->
+    <!--<a name="7397"></a>-->
     <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="wpsPortletBody">
         <tbody><tr height="100%">
             <td width="100%" valign="top">
@@ -524,20 +702,6 @@ var selectedSubitem = -1
 			<td class="subItemLine" id="line19"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
 		</tr>
 		<tr>
-			<td id="subItem20" class="itemLink" height="14" onclick="window.location.href=&quot;/wps/find/productrelatednews.cws_home/?action=news_search&amp;doctype=NA&amp;newstype=product&amp;newsjsp=product&amp;sort_by=pubdate&quot;" onmouseover="subItemOver2(this, 20, 'Product news', '#336699')" onmouseout="subItemOut2(this)">			
-				<table cellpadding="0" cellspacing="0" border="0" width="153">
-					<tbody><tr>
-						<td width="5"><img src="/authored_framework/images/empty.gif" width="5" height="1" border="0" alt=""></td>
-						<td class="itemLinkText"><a href="/wps/find/productrelatednews.cws_home/?action=news_search&amp;doctype=NA&amp;newstype=product&amp;newsjsp=product&amp;sort_by=pubdate">Product news</a></td>
-						<td width="6"><img id="arrow20" src="/authored_framework/images/empty.gif" width="3" height="7" border="0" alt=""></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td class="subItemLine" id="line20"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
-		</tr>
-		<tr>
 			<td class="item" height="14" width="153">
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
@@ -551,32 +715,32 @@ var selectedSubitem = -1
 			<td class="itemLine"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
 		</tr>
 		<tr>
-			<td id="subItem23" class="subItem" height="14" onclick="window.location.href=&quot;/wps/find/productsupportfaq.cws_home/overview&quot;" onmouseover="subItemOver2(this, 23, 'Help and FAQ', '#6699CC')" onmouseout="subItemOut2(this)">			
+			<td id="subItem21" class="subItem" height="14" onclick="window.location.href=&quot;/wps/find/productsupportfaq.cws_home/overview&quot;" onmouseover="subItemOver2(this, 21, 'Help and FAQ', '#6699CC')" onmouseout="subItemOut2(this)">			
 				<table cellpadding="0" cellspacing="0" border="0" width="153">
 					<tbody><tr>
 						<td width="10"><img src="/authored_framework/images/empty.gif" width="10" height="1" border="0" alt=""></td>
 						<td class="subItemText"><a href="/wps/find/productsupportfaq.cws_home/overview">Help and FAQ</a></td>
-						<td width="6"><img id="arrow23" src="/authored_framework/images/empty.gif" width="3" height="7" border="0" alt=""></td>
+						<td width="6"><img id="arrow21" src="/authored_framework/images/empty.gif" width="3" height="7" border="0" alt=""></td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr>
 		<tr>
-			<td class="subItemLine" id="line23"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
+			<td class="subItemLine" id="line21"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
 		</tr>
 		<tr>
-			<td id="subItem24" class="subItem" height="14" onclick="window.location.href=&quot;/wps/find/productcontact.cws_home/regional&quot;" onmouseover="subItemOver2(this, 24, 'Support &amp; sales offices', '#6699CC')" onmouseout="subItemOut2(this)">			
+			<td id="subItem22" class="subItem" height="14" onclick="window.location.href=&quot;/wps/find/productcontact.cws_home/regional&quot;" onmouseover="subItemOver2(this, 22, 'Support &amp; sales offices', '#6699CC')" onmouseout="subItemOut2(this)">			
 				<table cellpadding="0" cellspacing="0" border="0" width="153">
 					<tbody><tr>
 						<td width="10"><img src="/authored_framework/images/empty.gif" width="10" height="1" border="0" alt=""></td>
 						<td class="subItemText"><a href="/wps/find/productcontact.cws_home/regional">Support &amp; sales offices</a></td>
-						<td width="6"><img id="arrow24" src="/authored_framework/images/empty.gif" width="3" height="7" border="0" alt=""></td>
+						<td width="6"><img id="arrow22" src="/authored_framework/images/empty.gif" width="3" height="7" border="0" alt=""></td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr>
 		<tr>
-			<td class="subItemLine" id="line24"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
+			<td class="subItemLine" id="line22"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
 		</tr>
 		<tr>
 			<td class="subItemLineBottom"><img src="/authored_framework/images/empty.gif" width="153" height="1" border="0" alt=""></td>
@@ -606,13 +770,13 @@ var selectedSubitem = -1
 			<td><img src="/authored_framework/images/empty.gif" height="8" width="1" border="0" alt=""></td>
 		</tr>
 	</tbody></table>
-	<table cellpadding="0" cellspacing="0" border="0" class="tableTextHeader" onclick="window.location.href='/wps/find/intro.cws_home/intro'" onmouseover="headerOver('About Elsevier')" onmouseout="headerOut()">
+	<table cellpadding="0" cellspacing="0" border="0" class="tableTextHeader" onclick="window.location.href='/wps/find/intro.cws_home/ataglance'" onmouseover="headerOver('About Elsevier')" onmouseout="headerOut()">
 		<tbody><tr>
 			<td class="textHeader" colspan="3"><img src="/authored_framework/images/empty.gif" height="2" width="1" border="0" alt=""></td>
 		</tr>
 		<tr>
 			<td class="textHeader" width="5"><img src="/authored_framework/images/empty.gif" height="1" width="5" border="0" alt=""></td>
-			<td class="textHeader"><a href="/wps/find/intro.cws_home/intro">About Elsevier</a></td>
+			<td class="textHeader"><a href="/wps/find/intro.cws_home/ataglance">About Elsevier</a></td>
 			<td class="textHeader" width="5"><img src="/authored_framework/images/empty.gif" height="1" width="5" border="0" alt=""></td>
 		</tr>
 		<tr>
@@ -689,12 +853,76 @@ var selectedSubitem = -1
 
 
 
-    <!--<a name="1036"></a>-->
+    <!--<a name="7399"></a>-->
     <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="wpsPortletBody">
         <tbody><tr height="100%">
             <td width="100%" valign="top">
-                <!--?xml-stylesheet type="text/xsl"-->
+                
 
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="GENERATOR" content="IBM WebSphere Studio">
+<title>SiteStat.jsp</title>
+
+
+
+
+<!-- Begin Sitestat4 code -->
+<script language="JavaScript1.1">
+<!--
+function sitestat(ns_l){ns_l+="&ns__t="+(new Date()).getTime();ns_pixelUrl=ns_l;
+ns_0=document.referrer;
+ns_0=(ns_0.lastIndexOf("/")==ns_0.length-1)?ns_0.substring(ns_0.lastIndexOf("/"),0):ns_0;
+if(ns_0.length>0)ns_l+="&ns_referrer="+escape(ns_0);
+if(document.images){ns_1=new Image();ns_1.src=ns_l;}else
+document.write("<img src="+ns_l+" width='1' height='1'>");}
+sitestat("http://nl.sitestat.com/elsevier/elsevier-com/s?general_info.privacypolicy.privacypolicy&category=cws_home");
+//-->
+</script>
+<noscript>
+<img src="http://nl.sitestat.com/elsevier/elsevier-com/s?general_info.privacypolicy.privacypolicy&category=cws_home" width="1" height="1">
+</noscript>
+<!-- End Sitestat4 code -->
+
+
+
+
+            </td>
+        </tr>
+    </tbody></table>
+    
+
+
+
+        </td>
+    </tr>
+    
+    <tr>
+        <td width="100%" valign="top">
+        
+
+
+
+
+
+
+
+
+
+    <!--<a name="7400"></a>-->
+    <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="wpsPortletBody">
+        <tbody><tr height="100%">
+            <td width="100%" valign="top">
+                
     
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link type="text/css" rel="STYLESHEET" href="/framework_include/css/elsevier.css">
@@ -713,11 +941,10 @@ var selectedSubitem = -1
                             <td colspan="3"><a name="top"></a><img width="1" src="/framework_images/empty.gif" height="20" border="0" alt=""></td>
                         </tr>
                         <tr>
-                            <td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td><img src="/framework_home/images/headers/privacypolicyheader.gif" alt="Privacy Policy"><br>
-                            </td><td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td>
+                            <td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td><span class="verdana18aDarkGrey" title="PRIVACY POLICY">PRIVACY POLICY</span></td><td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td>
                         </tr>
                         <tr>
-                            <td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td style="background-color:#E3E3E3"><img width="1" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td>
+                            <td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td style="background-color:#E3E3E3"><img width="0" src="/framework_images/empty.gif" height="1" border="0" alt=""></td><td style="width:25px;"><img width="25" src="/framework_images/empty.gif" height="1" border="0" alt=""></td>
                         </tr>
                         <tr>
                             <td colspan="3"><img width="1" src="/framework_images/empty.gif" height="10" border="0" alt=""></td>
@@ -727,99 +954,359 @@ var selectedSubitem = -1
                                 <table width="100%" cellspacing="0" cellpadding="0" border="0">
                                     <tbody><tr>
                                         <td class="verdana11DarkGrey">
-                                            <p>This web site (“Site”) is owned and operated by Elsevier B.V., Sara Burgerhartstraat 25, 1055 KV Amsterdam, The Netherlands, Reg. No. 33156677, BTW No. 002967455B65 ("Elsevier"). </p>
-
-                                            <p>Elsevier is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information and the choices you have about how we use your information.</p>
 
                                             <p>
-                                                <b>Collection and Registration of Personal Information</b>
-                                            </p>
-
-                                            <p>We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user’s name, e-mail address, and postal address.</p>
+This web site (“Site”) is owned and operated by Elsevier B.V., Radarweg 29, 
+1043 NX Amsterdam, The Netherlands, Reg. No. 33156677, BTW No. 002967455B65 
+(”Elsevier,” “we,” “us” or “our”).
+</p>
 
                                             <p>
-                                                <b>How Personal Information Is Used</b>
+Elsevier is committed to maintaining your confidence and trust with respect to 
+the information we collect from you. This privacy policy sets forth what 
+information we collect about you, how we use your information and the choices 
+you have about how we use your information.
+</p>
+
+                                            <p>
+
+                                                <b>Collection of Information Provided By Your Browser And Through Use Of 
+Cookies</b>
+
                                             </p>
 
-                                            <p>We use the personal information that you provide for such purposes as: </p>
+                                            <p>
+This Site uses <font color="#FF6600"><img width="14" src="/framework_images/externalLink_3.gif" height="12" border="0" alt="External link">
+		&nbsp;<a target="_blank" href="http://www.nedstat.com/">NedStat 
+B.V.</a></font>’s SiteStat software to collect information from your web 
+browser regarding your use of the Site. Examples of information we collect 
+automatically from all users include the Internet protocol (IP) address used 
+to connect your computer to the Internet; computer and connection information 
+such as browser type and version, operating system, and platform; and full 
+Uniform Resource Locator (“URL”) click stream data, including date and time, 
+and content you viewed or searched for on the Site. &nbsp;For more information on 
+Nedstat and the kind of information that SiteStat collects and processes, 
+please visit <font color="#FF6600"><img width="14" src="/framework_images/externalLink_3.gif" height="12" border="0" alt="External link">
+		&nbsp;<a target="_blank" href="http://www.nedstat.com/">Nedstat’s 
+web site</a></font> and its <font color="#FF6600"><img width="14" src="/framework_images/externalLink_3.gif" height="12" border="0" alt="External link">
+		&nbsp;<a target="_blank" href="http://www.nedstat.com/web/nedstatnl.nsf/pages/privacy">SiteStat 
+privacy policy</a>.</font>
+
+                                            </p>
+
+                                            <p>
+This Site also collects information through the use of “cookies.” &nbsp;Cookies are 
+anonymous, unique alphanumeric identifiers sent to your browser from a web 
+site’s computers and stored on your computer's hard drive. &nbsp;The type of 
+information we collect as a result of a cookie being stored on your computer 
+is specific to your computer. &nbsp;We use “session” cookies to collect information 
+about your use of the Site. These cookies are temporary and are deleted when 
+you close your browser. &nbsp;We use “persistent” cookies to give you a more 
+personalized browsing experience and help you navigate the Site more 
+efficiently.
+</p>
+
+                                            <p>
+We collect and use, and may from time to time supply third parties with, this 
+information only as anonymous, aggregated user data for the purposes of usage 
+analysis, quality control and administering and improving the Site.
+</p>
+
+                                            <p>
+You can prevent your browser from accepting new cookies, have the browser 
+notify you when you receive a new cookie, or disable cookies altogether by 
+accessing your browser’s preferences menu. &nbsp;If you choose to disable cookies 
+altogether, you can use the Site but will not be able to make use of any 
+advanced personalization features of the Site, although the basic features and 
+functionality of the Site will be possible to use.
+</p>
+
+                                            <p>
+
+                                                <b>Collection of Personal Information</b>
+
+                                            </p>
+
+                                            <p>
+We sometimes request users of the Site to provide personal information. The 
+information collected from a user is strictly voluntary and may include 
+contact information such as the user’s name, e-mail address, and postal 
+address.<br>
+                                                <br>In order to access certain content and to make use 
+of the full functionality and advanced personalization of the Site such as "my 
+home", we ask you to register and obtain a personal Username and Password. You 
+may be prompted to register when you choose:
+</p>
 
                                             <ul>
 
-                                                <li>Completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries;</li>
+                                                <li>
+"register"
+</li>
 
-                                                <li>Web site and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents;</li>
+                                                <li>
+"register as a new user"
+</li>
 
-                                                <li>Tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits;</li>
-
-                                                <li>Research and development to enhance, evaluate and improve the Site and our services;</li>
-
-                                                <li>Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and</li>
-
-                                                <li>Communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys. </li>
+                                                <li>
+"login"
+</li>
 
                                             </ul>
 
-                                            <p></p>
+                                            <p>
+The information collected from the registration form that is presented to 
+users when they choose to register may include contact information such as the 
+user's name, title, e-mail address, organization name, department name, 
+street, zip/post code, city, country, telephone and fax ("Registration 
+Information"). The Registration Information is linked directly to a personal 
+Username and Password chosen by the user and can only be retrieved by 
+supplying the correct Username and Password that is linked to that account.
+</p>
 
                                             <p>
-                                                <b>Disclosure of Personal Information to Third Parties</b>
+
+                                                <br>
+
+
                                             </p>
 
-                                            <p>Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing, printing and fulfillment operations, and entities for whom we are acting as an agent or publisher, such as societies and our affiliated group companies, for the purposes set forth above. &nbsp;Your personal information may be used by all of our trading names and transferred to countries outside of the European Economic Area (“EEA”), including to the United States, for processing. &nbsp;These countries may not have similar data protection laws to the EEA. &nbsp;If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. &nbsp;In addition, if you access the Site while you are outside of the EEA, your information may be transferred outside of the EEA in order to provide you with such access.</p>
+                                            <p>
 
-                                            <p>We will not otherwise disclose any personal information without your consent except under the following circumstances:</p>
+                                                <b>How Personal Information Is Used</b>
+
+                                            </p>
+
+                                            <p>
+We use the personal information that you provide for such purposes as:
+</p>
 
                                             <ul>
 
-                                                <li>in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;</li>
+                                                <li>
+Completion and support of the activity for which the information was provided, 
+such as allowing access to or delivery of our products or services, processing 
+or fulfilling an order, or responding to your requests or inquiries;
+</li>
 
-                                                <li>if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and</li>
+                                                <li>
+Web site and system administration, such as for the technical support of the 
+Site and its computer system, including processing computer account 
+information, information used in the course of securing and maintaining the 
+Site, and verification of Site activity by the Site or its agents;
+</li>
 
-                                                <li>if Elsevier, this Site or a related asset or line of business is acquired by or merged with another company.<br>
+                                                <li>
+Tailoring or customizing content or design of the Site during a single visit 
+to the Site and individualized personalization of the Site on repeat visits;
+</li>
+
+                                                <li>
+Research and development to enhance, evaluate and improve the Site and our 
+services;
+</li>
+
+                                                <li>
+Pseudonymous analysis to create a profile used to determine the habits, 
+interests or other characteristics of users for purposes of research, analysis 
+and anonymous reporting; and
+</li>
+
+                                                <li>
+Communicating with you about changes or updates to the Site and our services 
+and, with your consent, special offers, promotions or market research surveys.
+</li>
+
+                                            </ul>
+
+                                            <p>
+
+
+                                            </p>
+
+                                            <p>
+
+                                                <b>Disclosure of Personal Information to Third Parties</b>
+
+                                            </p>
+
+                                            <p>
+Access to your personal information is restricted to our employees, agents, 
+representatives and service providers, such as our data processing, printing 
+and fulfillment operations, and entities for whom we are acting as an agent, 
+licensee or publisher, such as societies and our affiliated group companies, 
+for the purposes set forth above. &nbsp;Your personal information may be used by 
+all of our trading names and transferred to countries outside of the European 
+Economic Area (“EEA”), including to the United States, for processing. &nbsp;These 
+countries may not have similar data protection laws to the EEA. &nbsp;If we 
+transfer your information outside of the EEA in this way, we will take steps 
+to ensure that your privacy rights continue to be protected. &nbsp;In addition, if 
+you access the Site while you are outside of the EEA, your information may be 
+transferred outside of the EEA in order to provide you with such access.
+</p>
+
+                                            <p>
+With your consent, we also may share your personal information with our 
+affiliated group companies located both inside and outside of the EEA in 
+Argentina, Australia, Brazil, Canada, China, India, Japan, Malaysia, New 
+Zealand, Philippines, Russia, Singapore, South Korea, Switzerland, Taiwan and 
+the United States and/or with non-affiliated third parties located inside and 
+outside of the EEA that wish to send you information about their products and 
+services that may be of interest to you, and users who have consented to 
+receive such information may receive communications from these third parties. 
+If you wish us to pass your personal information to third parties, please tick 
+the appropriate check box when you register or amend your preferences by 
+logging in and clicking on the "Change Personal Details" link in "My Home" at 
+any time.
+</p>
+
+                                            <p>
+We will not otherwise disclose any personal information without your consent 
+except under the following circumstances:
+</p>
+
+                                            <ul>
+
+                                                <li>
+in response to subpoenas, court orders, or legal process, or to establish or 
+exercise our rights to defend against legal claims;
+</li>
+
+                                                <li>
+if we believe it is necessary to investigate, prevent, or take action 
+regarding illegal activities, suspected fraud, safety of person or property, 
+violation of our policies, or as otherwise required by law; and
+</li>
+
+                                                <li>
+if Elsevier, this Site or a related asset or line of business is acquired by, 
+transferred to, or merged with another company.<br>
 
                                                 </li>
 
                                             </ul>
 
                                             <p>
+
+
+                                            </p>
+
+                                            <p>
+
+                                                <b>Access and Changes to Your Registration Information and Preferences</b>
+
+                                            </p>
+
+                                            <p>
+Registered Users may access their identified contact information and other 
+Registration Information and correct any discrepancies or update information 
+by contacting our Customer Service Center at the address or telephone number 
+detailed below or logging in and clicking on the "Change Personal Details" 
+link in "My Home" at any time. The accuracy of such information is solely the 
+responsibility of the user. No access is given to other data that may have 
+been collected about users.
+</p>
+
+                                            <p>
+If you wish to receive alerts, newsletters, new product announcements, market 
+surveys, special offers or promotions, please tick the appropriate check box 
+when you register for personalized services or access. &nbsp;If you wish to cease 
+receiving any of this information, amend your preferences either by contacting 
+our Customer Service Center at the address or telephone number detailed below 
+or by using the “opt-out” or unsubscribe option or other means provided within 
+the communications you receive. &nbsp;We reserve the right to notify you of changes 
+or updates to the Site whenever necessary.
+</p>
+
+                                            <p>
+
                                                 <b>Retention of Personal Information</b>
+
                                             </p>
 
-                                            <p>We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting our Customer Service Department at the address or telephone number detailed below. </p>
+                                            <p>
+We retain the personal information we collect from you for as long as the 
+information is relevant to our business purposes or until you request that we 
+remove the data by contacting our Customer Service Department at the address 
+or telephone number detailed below.
+</p>
 
                                             <p>
+
                                                 <b>Our Commitment to Data Security</b>
+
                                             </p>
 
-                                            <p>We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of personal information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties' use or misuse of personal information.</p>
+                                            <p>
+We recognize that your privacy is important to you, and therefore we endeavor 
+to keep your personal information confidential. The personal and demographic 
+information about each user is stored on servers that are behind a firewall 
+and physically housed within a secured data center. Furthermore, our internal 
+practices help protect your privacy by limiting employee access to and use of 
+personal information. However, we do not represent, warrant, or guarantee that 
+your personal information will be protected against unauthorized access, loss, 
+misuse, or alterations, and do not accept any liability for the security of 
+the personal information submitted to us nor for your or third parties' use or 
+misuse of personal information.
+</p>
 
                                             <p>
+
                                                 <b>About This Privacy Policy</b>
+
                                             </p>
-
-                                            <p>The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights. </p>
-
-                                            <p>This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). </p>
-
-                                            <p>This Site may contain links to other web sites that are beyond our control. Other web sites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each web site you visit before submitting any information to them.</p>
 
                                             <p>
+The foregoing is the current privacy policy of the Site. We reserve the right 
+to change this policy at any time without notice. Any changes to this policy 
+will be posted on this web page. Our policy does not create a contract or any 
+legal rights.
+</p>
+
+                                            <p>
+This privacy policy applies solely to the information you provide while 
+visiting this Site. The terms of this privacy policy do not govern personal 
+information furnished through any means other than this Site (such as via 
+telephone or postal mail).
+</p>
+
+                                            <p>
+This Site may contain links to other web sites that are beyond our control. 
+Other web sites to which you link may contain privacy policies that are 
+different from this privacy policy. We encourage you to check the privacy 
+policy of each web site you visit before submitting any information to them.
+</p>
+
+                                            <p>
+
                                                 <b>Questions, Complaints, and Dispute Resolution</b>
+
                                             </p>
 
-                                            <p>If you have any questions or comments regarding this privacy policy, please contact our Customer Service Department at:</p>
+                                            <p>
+If you have any questions or comments regarding this privacy policy, please 
+contact our Customer Service Department at:
+</p>
 
-                                            <p>P.O. Box 211<br>
-1000 AE, Amsterdam<br>
-The Netherlands<br>
-Tel: +31 20 485 3767<br>
-Fax: +31 20 485 3432<br>
-E-mail: <a href="mailto:nlinfo-f@elsevier.com"><font color="#FF6600">nlinfo-f@elsevier.com</font></a>
+                                            <p>
+P.O. Box 211<br>1000 AE, Amsterdam<br>The Netherlands<br>Tel: 
++31 20 485 3757<br>Fax: +31 20 485 3432<br>E-mail: <font color="#FF6600"><a href="mailto:nlinfo-f@elsevier.com">nlinfo-f@elsevier.com</a></font>
+
                                             </p>
 
-                                            <p>If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem. </p>
+                                            <p>
+If at any time you believe that we have not adhered to this privacy policy or 
+you have a complaint regarding the way your personal information is being 
+handled, please contact our Customer Service Department. Disputes under this 
+privacy policy will be resolved by our Customer Service Department, which will 
+use commercially reasonable efforts to promptly investigate and, if necessary, 
+to correct any problem.
+</p>
 
-                                            <p>Last revised: 31 October 2003</p>
+                                            <p>
+Last revised: 13 November 2006
+</p>
+
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -888,6 +1375,7 @@ function openPrinterFriendlyPage() {
 		var printUrl = ""
 		/***************Temp Fix for cws_home print theme ***************/
 		var home = ""
+		var placeName = ""
 		/***************End of Temp Fix for cws_home print theme ***************/
 		
 		for (var i = 0; i < pieces.length; i++) {
@@ -897,11 +1385,11 @@ function openPrinterFriendlyPage() {
 			if (prvPiece == "find") {
 				if (pieces[i].indexOf(".") > -1) {
 					dotPos = pieces[i].indexOf(".")
-					/***************Temp Fix for cws_home print theme ***************/
 					if (pieces[i].substring(dotPos).indexOf("cws_home") > -1) {
 						home = "cws_home"
+					}else{
+						home = "cws_home"
 					}
-					/***************End of Temp Fix for cws_home print theme ***************/
 					printUrl += pieces[i].substring(0, dotPos) + ".print"
 				} else {
 					alert("This page does not have a printer-friendly version")
@@ -923,13 +1411,11 @@ function openPrinterFriendlyPage() {
 		
 		qryStr = "?avoidEmail=true"
 
-		/***************Temp Fix for cws_home print theme ***************/
-		if (home == "cws_home") {
+		if (home != "") {
 		
 			qryStr += "&" + "printHome=" + home			
 			home = ""
 		}
-		/***************End of Temp Fix for cws_home print theme ***************/	
 		
 		if(isTheirParams == "true") {			
 			qryStr += "&" + qpString
@@ -1015,7 +1501,7 @@ function openPrinterFriendlyPage() {
 <tr><td bgcolor="#ffffff" colspan="2"><img src="/authored_framework/images/empty.gif" width="1" height="1"></td></tr>
 <tr>
 <td align="left" colspan="2" bgcolor="#ffffff" style="font-size: 10px;">
-&nbsp;Copyright © 2004 <a href="/wps/find/homepage.cws_home" style="FONT-SIZE: 10px; CURSOR: default; COLOR: #ff9933; FONT-FAMILY: verdana, arial, sans-serif;">Elsevier B.V.</a> All rights reserved.
+&nbsp;Copyright © 2007 <a href="/wps/find/homepage.cws_home" style="FONT-SIZE: 10px; CURSOR: default; COLOR: #ff9933; FONT-FAMILY: verdana, arial, sans-serif;">Elsevier B.V.</a> All rights reserved.
 </td>
 </tr>
 </tbody></table>
