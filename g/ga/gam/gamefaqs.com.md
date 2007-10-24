@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefaqs.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607051641id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html%3Ftag%3Dgs.ft.no) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefaqs.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024191044id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html%3Ftag%3Dgs.ft.no) for the most accurate reproduction.*
 
 # CNET Networks - Editorial - Privacy Policy
 
@@ -23,7 +23,7 @@ Your Internet browser has a feature called cookies, which stores small amounts o
 
 We also use technologies, including electronic images known as _Web bugs_ —sometimes called _transparent GIFs, clear GIFs_ , or _beacons_ —that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
-We use cookies and tracking technologies in a variety of ways, including: 
+We use cookies and tracking technologies in a variety of ways, including:
 
   1. Keeping count of return visits to our site or our advertisers' or partners' sites;
   2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
@@ -36,7 +36,7 @@ We use cookies and tracking technologies in a variety of ways, including:
 We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
 **3\. How does CNET Networks use the information?**  
-We use the information we gather for four general purposes: 
+We use the information we gather for four general purposes:
 
   1. To customize the advertising and the content you see;
   2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
@@ -46,6 +46,8 @@ We use the information we gather for four general purposes:
 
 
 **4\. How does CNET Networks share the information?**  
+
+
 **_Personally identifiable information_**  
 We will make your personally identifiable information available to other companies or people when: 
 
@@ -71,7 +73,7 @@ We are always seeking to improve our network of Web sites and our business. In a
 
 **5\. What are my options?**  
 Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
-We also give users the following options: 
+We also give users the following options:
 
   1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
   2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
@@ -98,11 +100,12 @@ CNET News.com Account Management: <http://news.com.com/1340-52-34.html>
 CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)
 
 **GameSpot**  
-Account management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
+Help Center: <http://www.gamespot.com/misc/helpcenter.html>  
 E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=gamespot>  
-Registration management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
-GameSpot Complete: <http://www.gamespot.com/gamespot/misc/complete/signup.html>  
-GameSpot Basic: <http://www.gamespot.com/gamespot/misc/basic/signup.html>
+Billing Management: <https://secure.gamespot.com/rps/manage/editbilling.php>  
+GameSpot Total Access: <https://secure.gamespot.com/rps/signup/totalaccess.php>  
+GameSpot Plus: <https://secure.gamespot.com/rps/signup/plus.php>  
+GameSpot Free Registration: <https://secure.gamespot.com/rps/signup/free.php>
 
 **MP3.com**  
 Email Newsletters: <http://nl.com.com/acct_login.jsp?brand=mp3>  
@@ -121,7 +124,7 @@ E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
 **TechRepublic**  
 Account management: <http://techrepublic.com.com/1341-22-20.html>  
 E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
-Registration management: <http://www.techrepublic.com/login.jhtml?gotoURL=%2Findex.jhtml>
+Registration management: <http://techrepublic.com.com/1320-4-55.html>
 
 **Webshots**  
 Premium Membership: <http://www.webshots.com/MyAccount/MyAccount.fcgi>
