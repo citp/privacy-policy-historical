@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607153905id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024164243id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
