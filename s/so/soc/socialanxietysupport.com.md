@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502200415id_/http%3A//www.socialanxietysupport.com/page33.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024165819id_/http%3A//www.socialanxietysupport.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Social Anxiety Support
+# Social Anxiety Support Privacy Policy
 
-**Contact Information**
-
-Our postal address is   
-**4206 Irish Hills Dr Apt 1C  
-South Bend, In, 46614**
-
-  
+**Contact Information**  
 We can be reached via e-mail at  
 [Dispute Resolution](mailto:webmaster@socialanxietysupport.com)
 
@@ -111,6 +105,5 @@ Anxiety Support treats data as an asset that must be protected against loss and 
 
 10\. **Notice**
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days notice of changes by sending email to members. We provide you with (30) days notice to allow you the opportunity to notify Social Anxiety Support if you do not agree to such changes.
+We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days notice of changes by sending email to members. We provide you with (30) days notice to allow you the opportunity to notify Social Anxiety Support if you do not agree to such changes.  
 
- [](https://web.archive.org/web/20070502200415id_/http%3A//www.socialanxietysupport.com/pagemaster-PAGE_user_op-view_printable-PAGE_id-33-lay_quiet-1.html)
