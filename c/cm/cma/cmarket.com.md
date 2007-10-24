@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208184702id_/http%3A//www.cmarket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024132046id_/http%3A//www.cmarket.com/privacy.htm) for the most accurate reproduction.*
 
 # cMarket - Online Fundraising Auction Services for Nonprofits
-
-cMarket Privacy Policy
 
 The privacy of your personal information is very important to us. As such, cMarket, Inc. ("cMarket") presents this statement to give our users a clear understanding of how we operate our Web site and how we handle your personal information. If you have any questions or concerns relating to privacy or security, please send an email to [webmaster@cmarket.com](mailto:webmaster@cmarket.com). cMarket may modify this statement at any time, and, if we do, we will notify our users that we have done so.
 
@@ -21,6 +19,8 @@ Because we consider any personal information you give us as confidential, except
 Except as described below, cMarket will not disclose to third parties any identifying personal information gathered from you unless (1) we tell you how your information will be used and you give cMarket specific permission to share this information or (2) cMarket is required to disclose such information by any applicable law or legal process (like a subpoena or court order).
 
 The exception to this general rule concerns our role as a facilitator of online fundraising events. In order to fulfill this role effectively, cMarket must be able to provide personal information of users to the organization holding the event. Specifically, cMarket discloses the following information: (1) name, email and mailing address (and/or other contact information) of all donors, (2) name and email of all "interested parties" - e.g., individuals who access the cMarket site via refer your friends, email-this-page and/or "guestbook" functionalities, as well as individuals who place watches on items, and (3) name, email, mailing address (and/or other contact information) and credit card number or all high bidders and second-highest bidders (in case the high bidder is ineligible).
+
+Please note that we do share non-personally-identifiable information (such as anonymous usage data, referring/exit pages and URLs, number of clicks, etc.) with interested third-parties so that they can understand usage patterns on our Site and assist us both in enhancing the cMarket Service and improving your experience.
 
 **Security**
 
