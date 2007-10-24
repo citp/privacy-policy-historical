@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220344id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024191850id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -68,4 +68,4 @@ Lockergnome
 Seattle, WA 98122-3813   
 1.888.472.0604 
 
-Fly High with Publicity in the In-Flight Magazines: Almost three-quarters of the Frequent Flyers read an in-flight magazine during every flight. And the average pass-along rate for in-flight magazines is 5.5. This often overlooked media can be a goldmine to your publicity campaign if you can match your needs with what their editors want. [ Expert Advice for $9 / Download ]... [[Click Here to Download](http://tutorials.lockergnome.com/library/20021202_fly_high_with_publicity_in_the_inflight_magazines.phtml)] 
+Betty's Beer Bar: Help Betty leave her workplace and buy her own island in the Caribbean! Serve the most fun and wacky characters in four different bars around the world, rendered in a beautiful hand-drawn, cartoon-like style. Enjoy this game of non-violence and fun bartending action for all ages! Meet beautiful Betty. Her dream is to own a bar on a tropical beach, but she's got to work in less-than-favorable dives in the meantime. Help her raise... [[Click Here to Download](http://windows.fileoftheday.com/archives/games_bettys_beer_bar.html)] 
