@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429083822id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024195519id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Finance jobs, banking jobs, recruitment in investment banking & in the financial markets
 
