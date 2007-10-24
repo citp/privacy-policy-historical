@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205205414id_/http%3A//www.silpada.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silpada.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024195951id_/http%3A//www.silpada.com/public/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Silpada Designs Privacy Policy
 
@@ -26,4 +26,4 @@ Privacy Contact Information
 
 
 
-Please also visit our [Terms of Use](https://web.archive.org/legal/terms.jsp) prior to using our Site.
+Please also visit our [Terms of Use](https://web.archive.org/public/legal/terms.jsp) prior to using our Site.
