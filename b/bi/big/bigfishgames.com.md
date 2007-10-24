@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614165845id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025002246id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Big Fish Games :: A New Free Game Download Every Day
 
@@ -33,7 +33,7 @@ Any information you provide to us as part of your use of any Big Fish Games Web 
 
 The sole purpose of cookies is to enhance your online experience. Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from Big Fish Games is only accessible by the Big Fish Games Web sites. Personal information stored in our cookies is limited to: My Game Space affiliate identifier, Principal Network Partner affiliate identifier,you're your Username. This information enables us to run our affiliate programs, allows customized advertising, lets you automatically sign in when you visit Big Fish Games, and offers other operational site activities. The information in our cookies is kept private and secure. 
 
-#### USE OF COLELCTED INFORMATION
+#### USE OF COLLECTED INFORMATION
 
 Your username, e-mail address, and password will be used to uniquely identify you as a user on any Big Fish Games Web site. We may use or display your username for the purposes of rankings, competitions, lottery winnings, chat identification, or game high scores. 
 
