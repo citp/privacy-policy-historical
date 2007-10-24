@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewcy.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425120157id_/http%3A//www.jewcy.com/jewcy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewcy.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024130910id_/http%3A//www.jewcy.com/jewcy/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewcy.com
 
@@ -32,6 +32,3 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at [info@jewcy.com](mailto:info@jewcy.com).
-
-  
-
