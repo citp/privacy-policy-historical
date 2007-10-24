@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nengun.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615154357id_/http%3A//www.nengun.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nengun.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024185305id_/http%3A//www.nengun.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nengun Performance
 
@@ -6,8 +6,7 @@ Nengun Performance is strongly committed to your privacy whilst still providing 
 
 ## Personal Information
 
-We collect personal information via our registration process for the purpose of handling orders placed via the website, this includes name, address and optionally your vehicle details. Registration is only required if you wish to place an order and you can browse the website without providing any personal information without limitation.  
-
+We collect personal information via our registration process for the purpose of handling orders placed via the website, this includes name, address and optionally your vehicle details. Registration is only required if you wish to place an order and you can browse the website without providing any personal information without limitation.
 
 We do not collect any credit card information under any circumstances. We utilize Paypal for the processing of credit card and a number of other payment methods. Paypal does not disclose the full credit card information and this information is only used for the processing of your order payment.
 
@@ -23,7 +22,7 @@ From this information we can determine what are the most popular products and co
 
 Email address information is collected as part of our registration process. These addresses will only ever be used for communication regarding orders, products or website inquiries and when selected for the distribution of a regular newsletter. 
 
-To be removed from our newsletter distribution list you can un-select the _Nengun Newsletter_ option under Change Details or simply send us a [Website Enquiry](http://www.nengun.com/enquiry/default/website) and we will action your request as soon as possible. 
+To be removed from our newsletter distribution list you can un-select the _Nengun Newsletter_ option under Change Details or simply send us a [Website Enquiry](http://www.nengun.com/enquiry/) and we will action your request as soon as possible. 
 
 Collected email addresses will not be used for the distribution of unsolicited (known as spam), email and will never be provided to third party as per the following section.
 
@@ -38,5 +37,5 @@ For more information regarding Security please see our detailed [Security Policy
 
 ## Any further questions, complaints or concerns?
 
-If you have any further questions, complaints, concerns or requests feel free to send us a [Website Enquiry](http://www.nengun.com/enquiry/default/website) and we will get back to you as soon as possible.  
+If you have any further questions, complaints, concerns or requests feel free to send us a [Website Enquiry](http://www.nengun.com/enquiry/) and we will get back to you as soon as possible.  
 
