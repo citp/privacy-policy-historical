@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206233346id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024142126id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - FXCM
 
 ## Security and Disclosure
 
-Forex Capital Markets ("FXCM") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former customers as well as our current customers. 
+Forex Capital Markets ("FXCM") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. 
 
 ### Personal Information
 
 * * *
 
-When you apply for or maintain a live or demo account with FXCM, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include:   
+When you apply for or maintain a live or demo account with FXCM, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing client service. Such information may include:   
 
 
   * Application Information - Information you provide to us on applications and other forms, such as your name, address, birth date, social security number, occupation, assets, and income.
@@ -35,7 +35,7 @@ FXCM uses Secure Socket Layer (SSL) encryption technology in order to protect ce
 
 * * *
 
-We may share personal information described above with our affiliates for business purposes, such as servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies which have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address and account information. Our affiliates maintain the privacy of your information to the same extent FXCM does in accordance with this Policy. 
+We may share personal information described above with our affiliates for business purposes, such as servicing client accounts and informing clients about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies which have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address and account information. Our affiliates maintain the privacy of your information to the same extent FXCM does in accordance with this Policy. 
 
 ### Sharing Information With Third Parties
 
