@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084013id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025013550id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
-# Wedding Reception Card Stationery Decoration Candles Photo Albums
+# Your Privacy Is Important | Customer Service | The American Wedding
 
 ## Privacy & Security
 
