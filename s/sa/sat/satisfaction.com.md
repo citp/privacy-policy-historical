@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626120227id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024144432id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
-# Satisfaction - MySpace Comments - Free MySpace Layouts - Funny MySpace Comments Codes - Free Online Auctions
+# Satisfaction - MySpace Comments Codes - Free MySpace Layouts - Funny MySpace Graphics - Online Auctions
 
 Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
 
