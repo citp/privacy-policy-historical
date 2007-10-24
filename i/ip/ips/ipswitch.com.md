@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612201412id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024173845id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Ipswitch, Inc. - Ipswitch Privacy Policy
 
@@ -28,7 +28,7 @@ We use "cookies" to help create a more effective and convenient site experience.
 
 **WHAT MEASURES ARE IN PLACE TO PROTECT CUSTOMER INFORMATION?**
 
-Our order process is encrypted using the SSL (Secure Socket Layer) protocol. For more information [click here](http://store.ipswitch.com/ccc/index.html?cccid=%5BDASID_3910%5D&publisherid=50384&languageid=1). 
+Our order process is encrypted using an Extended Validation (EV) SSL (Secure Socket Layer) certificate. [More information](http://www.digicert.com/ev-ssl-certification.htm)
 
 * * *
 
