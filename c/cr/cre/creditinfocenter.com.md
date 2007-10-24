@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216002804id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024161627id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy/Acceptable Use Policy - creditinfocenter.com
 
-Web Nation, Inc. takes your privacy seriously 
+## Web Nation, Inc. takes your privacy seriously!
 
 ## What this policy covers
 
@@ -14,7 +14,7 @@ Creditinfocenter collects personally identifiable information when you use our d
 
 ## Web Nation, Inc. uses information for two purposes
 
-To fulfill your requests for certain products and services; and to contact you about specials and new products. 
+To fulfill your requests for certain products and services; and to contact you about specials and new products that we sell. 
 
 ## Information sharing and disclosure
 
@@ -34,8 +34,3 @@ Web Nation, Inc. does not use cookies on this site.
 ## Changes to this privacy policy
 
 Web Nation, Inc. may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages. 
-
-* * *
-
-Do you have a question we haven't answered? [E-mail us!](https://web.archive.org/askKristy/clarify.html)  
-Policy last modified May 22, 2002 
