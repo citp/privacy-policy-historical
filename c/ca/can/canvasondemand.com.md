@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626150316id_/http%3A//www.canvasondemand.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024200223id_/http%3A//www.canvasondemand.com/privacy.asp) for the most accurate reproduction.*
 
 # Canvas On Demand Privacy Policy
 
