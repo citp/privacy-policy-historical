@@ -1,13 +1,31 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118053724id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024053644id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews: StudentsReview : Over 44000 College Reviews!
+# College Reviews: StudentsReview : Over 51800 College Reviews! (3,156 schools reviewed)
+
+  
+   **Main**
 
  
 
-_Answers to the questions students wished they had _known_ to ask._
+  
+   **Summer**
 
-   
-      |  | 
+ 
+
+  
+   **Featured**
+
+ 
+
+  
+   **University**
+
+ 
+
+  
+   **Community**
+
+  |  | 
 
 Students Review, Inc. Privacy Policy
 
@@ -34,5 +52,9 @@ As always, it is the individuals right and duty to remain fully aware of the inf
 
 Additionally, in the unlikely circumstance, where there is third party distribution of individually identifiable information, collected online from the individual, unrelated to the purpose for which it was collected, the individual will be given a clear opportunity to opt out of information submission. 
 
-|  |  |  [](http://www.studentsreview.com/forward.php3?url=http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/1425932398&tag=studentsrevie-20&camp=1789&creative=9325)  
----
+ 
+
+  
+
+
+|  | 
