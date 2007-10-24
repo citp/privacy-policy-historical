@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630141502id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024142610id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
 
 # chumby › privacy policy
 
@@ -41,7 +41,7 @@ Your Registered User Account that you create when you register on our Website to
 
 As you navigate our Website, certain information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. This type of information is collected to better understand how you use our community and make the community and services we provide more useful to you.
 
-When you access the Services with your Chumby Device or Virtual Chumby, the Services collect information about your Chumby Device or Virtual Chumby, such as the Widgets that are on your Chumby Device or Virtual Chumby, the configuration of such Widgets, or the exchange of data between the Services and the Chumby Device or Virtual Chumby. We may associate such information with other information (including Personal Information) we have collected from you.
+When you access the Services with your Chumby Device or Virtual Chumby, the Chumby Device or Virtual Chumby will provide and the Services will collect information about your Chumby Device or Virtual Chumby, such as, but not limited to, the Widgets that are on your Chumby Device or Virtual Chumby, the configuration of such Widgets, the exchange of data between the Services and the Chumby Device or Virtual Chumby and the performance of such exchange, and any events or problems that may occur while using your Chumby Device or Virtual Chumby with or without the Services (e.g. error codes and messages, losses of connection, crashes and/or freezes and the like). We may associate such information with other information (including Personal Information) we have collected from you. 
 
 Depending on the Widgets you may use on your Chumby Device or Virtual Chumby and how you use such Widgets, the Services may also store parts of the data that you access with your Chumby Device or Virtual Chumby for a limited amount of time and/or transactional data that you have entered for authorization purposes.
 
@@ -107,12 +107,12 @@ We use reasonable measures to maintain the security of your Personal Information
 
 ## Contact Us
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us at [privacy@chumby.com](mailto:privacy@chumby.com?subject=Privacy%20Policy) .
+Should you have any questions or concerns regarding this Privacy Policy, please contact us at [privacy@chumby.com](mailto:privacy@chumby.com?subject=Privacy%20Policy).
 
 ## Privacy Policy Updates
 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Services. Continued use of our Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-Updated: May 2007
+Updated: July 2007
 
 Copyright © 2006 - 2007 Chumby Industries. All rights reserved.
