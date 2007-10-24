@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528163648id_/http%3A//www.burrp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrp.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024150926id_/http%3A//burrp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Burrp! - Privacy Statement
 
