@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618212920id_/http%3A//www.smartertools.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024172258id_/http%3A//www.smartertools.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
-# SmarterTools Inc.
-
-* * *
+# Privacy Policy | SmarterTools Inc.
 
 This privacy policy has been created to show the integrity of SmarterTools and its level of commitment to the privacy of customer and non-customer information.
 
@@ -15,7 +13,7 @@ SmarterTools Inc.
 Suite 106  
 Phoenix, AZ 85027
 
-We can be reached via e-mail at [ sales@smartertools.com](mailto:sales@smartertools.com) or you can reach us toll-free by telephone at 877.357.6278
+We can be reached via e-mail at [ sales@smartertools.com](mailto:sales@smartertools.com) or you can reach us toll-free by telephone at **877.357.6278**
 
 We collect the e-mail addresses of those who post messages to our community forum, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or product registrations. However, we do not give this information out to third parties and we only use it for internal purposes. We will occasionally send our customers emails regarding new features and upgrades to our products and services that will benefit them. We DO NOT send email to non-customers, except in cases where those email addresses are used as points-of-contact when product or service is ordered. We do not harvest emails nor do we do any data mining on the information we collect.
 
