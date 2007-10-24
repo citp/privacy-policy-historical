@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607103150id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024025652id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
 # American Education Services - Privacy Policy
 
