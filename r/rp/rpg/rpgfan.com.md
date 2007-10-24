@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427052742id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024182844id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Privacy Policy
 
@@ -14,6 +14,7 @@
   
 [Soundtracks](https://web.archive.org/soundtracks1.html)  
   
+[Editorials](https://web.archive.org/editorials2.html)  
 [Features](https://web.archive.org/features.html)  
 [Staff](https://web.archive.org/staff.html)  
 [Contact Us](https://web.archive.org/contactus.html)
