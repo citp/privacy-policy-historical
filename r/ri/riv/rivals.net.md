@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rivals.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608165322id_/http%3A//www.rivals.net/default.asp%3Fsid%3D0%26p%3D51%26blip%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivals.net privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024184622id_/http%3A//www.rivals.net/default.asp%3Fsid%3D0%26p%3D51%26blip%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Rivals.net
+# Rivals.net - Football - Rivals.net
 
 **SPORTING LIFE NETWORK PRIVACY POLICY**
 
