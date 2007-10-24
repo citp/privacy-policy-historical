@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518183916id_/http%3A//www.roguewave.com/aboutus/legal/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stingray.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025012041id_/http%3A//www.roguewave.com/aboutus/legal/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | About Rogue Wave Software
 
-Roguewave.com (this "Site") is operated by Rogue Wave Software ("Rogue Wave," "we," "us," or "our"), a division of Quovadx, Inc. ("Quovadx"). 
+Roguewave.com (this "Site") is operated by Rogue Wave Software ("Rogue Wave," "we," "us," or "our").
 
 This Internet Privacy Policy (this "Policy") describes generally how Rogue Wave collects, uses, and transfers the personal information we collect through this Site. Because privacy laws vary from state to state within the United States and from country to country around the world, this Policy may be supplemented or amended by state or country-specific disclosures ("Privacy Notice(s)"), which will be provided to you at the time and on the page where you provide the personal information to which they apply.
 
@@ -42,7 +42,7 @@ _E-Mail Addresses_
 
 Rogue Wave collects e-mail address information from you when enter your e-mail address on this Site to order a Rogue Wave product or service, register for a course, subscribe to one of our free online newsletters, or participate in one of our surveys. Rogue Wave collects e-mail address information from you so that we may confirm and/or deliver your purchase; communicate with you regarding your order or registration; and alert you to other Rogue Wave programs, products, and services that may be of interest to you. Often times, our "topical" programs are only advertised through e-mail.
 
-You may "opt out" of receiving these e-mail notices at any time. To opt out of receiving email notices from us, please send an e-mail to unsubscribe@quovadx.com. Please provide your name and email address so that we can identify your email address in our database and record your request.
+You may "opt out" of receiving these e-mail notices at any time. To opt out of receiving email notices from us, please send an e-mail to unsubscribe@Rogue Wave.com. Please provide your name and email address so that we can identify your email address in our database and record your request.
 
 **_2\. Information Sent to Us by Your Web Browser_**
 
@@ -64,13 +64,13 @@ If you do not wish to receive cookies, you may set your browser to reject cookie
 
 ## Sharing and Transferring Personal Information
 
-Rogue Wave may share your personal information with other Quovadx business units. When we do so, these other Quovadx business units will use your information in the same manner we do. For example, if they are permitted to do so under applicable law, they may use the information we collected through this Site for market research, to improve their products and services, and to contact you and your company with information and offers they believe may be of interest to you. In addition, they may remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes.
+Rogue Wave may share your personal information with other Rogue Wave business units. When we do so, these other Rogue Wave business units will use your information in the same manner we do. For example, if they are permitted to do so under applicable law, they may use the information we collected through this Site for market research, to improve their products and services, and to contact you and your company with information and offers they believe may be of interest to you. In addition, they may remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes.
 
-Rogue Wave may also share your personal information with companies we hire to perform support services for us, such as web hosting or credit card processing. These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential. To learn which third-party service providers we use, please contact us at [webmaster@quovadx.com](mailto:webmaster@quovadx.com).
+Rogue Wave may also share your personal information with companies we hire to perform support services for us, such as web hosting or credit card processing. These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential. To learn which third-party service providers we use, please contact us at [webmaster@Rogue Wave.com](mailto:webmaster@Rogue%20Wave.com).
 
-In certain, limited circumstances we may share or transfer personal information to unrelated third parties. For example, we may provide personal information to a third party (i) at your request; (ii) to comply with a legal requirement or court order; (iii) to investigate a possible crime, such as identity theft; or (iv) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Rogue Wave or another Quovadx business unit. If such an event occurs, we will take appropriate steps to protect your personal information.
+In certain, limited circumstances we may share or transfer personal information to unrelated third parties. For example, we may provide personal information to a third party (i) at your request; (ii) to comply with a legal requirement or court order; (iii) to investigate a possible crime, such as identity theft; or (iv) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Rogue Wave or another Rogue Wave business unit. If such an event occurs, we will take appropriate steps to protect your personal information.
 
-While it is in our possession, your personal information will generally be stored in Quovadx databases or databases maintained by our service providers. Most, if not all, of these databases will stored on servers and storage devices located in the United States. United States data protection laws may not provide as much protection as the data protection laws in force in your country. If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United States.
+While it is in our possession, your personal information will generally be stored in Rogue Wave databases or databases maintained by our service providers. Most, if not all, of these databases will stored on servers and storage devices located in the United States. United States data protection laws may not provide as much protection as the data protection laws in force in your country. If you are located in a country outside the United States, by using this Site you consent to the transfer of your personal information to the United States.
 
 ## Security of Personal Information
 
@@ -78,7 +78,7 @@ Although we maintain reasonable safeguards to protect your personal information 
 
 ## Links to Third Party Internet Sites
 
-This Site may contain links to other Web sites operated by Rogue Wave or by Quovadx or one of its affiliates. It may also contain links to third-party Web sites that neither Rogue Wave, Quovadx, nor Quovadx's affiliates control. This Policy applies only to personal information collected through this Site and does not apply to personal information collected on any other Web site operated by Rogue Wave, by Quovadx, nor by Quovadx's affiliates, nor to personal information collected on third-party Web sites. If you access other Web sites through a link on this Site, please take a few minutes to review the terms of use and privacy statement posted on each Web site you visit.
+This Site may contain links to other Web sites operated by Rogue Wave or by Rogue Wave or one of its affiliates. It may also contain links to third-party Web sites that neither Rogue Wave, Rogue Wave, nor Rogue Wave's affiliates control. This Policy applies only to personal information collected through this Site and does not apply to personal information collected on any other Web site operated by Rogue Wave, by Rogue Wave, nor by Rogue Wave's affiliates, nor to personal information collected on third-party Web sites. If you access other Web sites through a link on this Site, please take a few minutes to review the terms of use and privacy statement posted on each Web site you visit.
 
 ## Access to Personal Information
 
@@ -87,7 +87,7 @@ If you would like to review, correct and update the personal information you hav
 WEBMASTER  
 5500 Flatiron Parkway  
 Boulder, CO 80303  
-[webmaster@quovadx.com](mailto:webmaster@quovadx.com)
+[webmaster@roguewave.com](mailto:webmaster@roguewave.com)
 
 We will use commercially reasonable efforts to comply with your request.
 
@@ -97,7 +97,7 @@ Rogue Wave retains the personal information collected on this Site as long as ne
 
 ## Governing Law
 
-Quovadx is a United States corporation. The servers that support this Site are located in the United States of America. This Agreement shall be governed under the laws of the State of Colorado, United States of America without regard to its conflicts of law provisions.
+Rogue Wave is a United States corporation. The servers that support this Site are located in the United States of America. This Agreement shall be governed under the laws of the State of Colorado, United States of America without regard to its conflicts of law provisions.
 
 ## Questions about this Policy or our Data Practices
 
@@ -106,4 +106,4 @@ If you have questions or concerns about this Policy or any Privacy Notice, pleas
 WEBMASTER  
 5500 Flatiron Parkway  
 Boulder, CO 80303  
-[webmaster@quovadx.com](mailto:webmaster@quovadx.com)
+[webmaster@roguewave.com](mailto:webmaster@roguewave.com)
