@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627040545id_/http%3A//www.meteor.ie/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024165800id_/http%3A//www.meteor.ie/misc/privacy.html) for the most accurate reproduction.*
 
 # Meteor: Policy
 
 |  | 
 
-[Homepage](https://web.archive.org/web/20070627040545id_/http%3A//www.meteor.ie/index.html) | [Policy](https://web.archive.org/web/20070627040545id_/http%3A//www.meteor.ie/misc/policy.html) [](https://web.archive.org/web/20070627040545id_/http%3A//www.meteor.ie/index.html) | Privacy Policy
+[Homepage](https://web.archive.org/web/20071024165800id_/http%3A//www.meteor.ie/index.html) | [Policy](https://web.archive.org/web/20071024165800id_/http%3A//www.meteor.ie/misc/policy.html) [](https://web.archive.org/web/20071024165800id_/http%3A//www.meteor.ie/index.html) | Privacy Policy
 
 Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.   
 
@@ -139,6 +139,6 @@ This policy should be read in conjunction with our Acceptable Use Policy and the
 
 Back to top 
 
-  * [Back to Meteor policy ](https://web.archive.org/web/20070627040545id_/http%3A//www.meteor.ie/misc/policy.html)
+  * [Back to Meteor policy ](https://web.archive.org/web/20071024165800id_/http%3A//www.meteor.ie/misc/policy.html)
 
 
