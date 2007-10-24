@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427025042id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024175300id_/http%3A//www.idp.com/corporate/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - IDP Education Pty Ltd
 
