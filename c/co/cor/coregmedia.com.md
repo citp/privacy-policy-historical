@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617041421id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coregmedia.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024120930id_/http%3A//www.coregmedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Coregistrations | Coregistration | Co-registration | Co-registrations| CoregMedia
 
@@ -105,4 +105,4 @@ CoregMedia or its successors and assigns may amend the terms and conditions of t
 
 If you are not in agreement with the terms of this Policy, please unsubscribe from the CoregMedia email list, please visit http://www.coregmedia.com/optout.php or write to us at CoregMedia, PO Box 5860, Redwood City, CA 94063 and request to be removed. 
 
-If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20070617041421id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
+If you feel that CoregMedia is not abiding by its posted privacy policy, please contact us by clicking [here](https://web.archive.org/web/20071024120930id_/http%3A//www.coregmedia.com/company-contact.php) or write us at CoregMedia, PO Box 5860, Redwood City, CA 94063.
