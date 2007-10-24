@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113020348id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025004603id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
 
-# Bollywoodsargam privacy trailers video photos live TV biography filmography wallpapers at BollywoodSARGAM
+# BollywoodSARGAM.com Privacy Policy - Defination - Tutorial
 
-**Bollywood Sargam Privacy Policy**
+**BollywoodSARGAM Privacy Policy**
 
 **BollywoodSARGAM,** ("BollywoodSARGAM") recognizes that its customers, visitors, users, and others who use [ www.BollywoodSARGAM.com](http://www.bollywoodsargam.com/) or other web sites owned or operated by BollywoodSARGAM (the "BollywoodSARGAM Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the BollywoodSARGAM Sites. BollywoodSARGAM provides this Privacy Notice to help you make an informed decision about whether to use or continue using the BollywoodSARGAM Sites.
 
@@ -128,4 +128,4 @@ This Privacy Notice was last modified June 05, 2006.
 
 **Contact Information:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-support(AT)BollywoodSargam.com or [Click here](https://web.archive.org/modules.php?name=Feedback).
+support(AT)BollywoodSargam.com or [Click here](https://web.archive.org/bollywoodsargam_contact_us.html).
