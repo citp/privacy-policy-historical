@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506102825id_/http%3A//theworknumber.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024135126id_/http%3A//www.theworknumber.com/Privacy) for the most accurate reproduction.*
 
 # The Work Number Privacy Statement
 
@@ -8,9 +8,9 @@
 ---  
   
   
- The Work Number® is a service of TALX Corporation, which has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for TALX Corporation Web properties, including our corporate and branded sites.
+ The Work Number® is a service of TALX, which has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for TALX Web properties, including our corporate and branded sites.
 
-This site may contain links to other sites, and we take great care in selecting those links. However, TALX Corporation is not responsible for the privacy practices or the content of other Web sites. We strongly encourage you to look for and review the privacy policies of every Web site you visit. 
+This site may contain links to other sites, and we take great care in selecting those links. However, TALX is not responsible for the privacy practices or the content of other Web sites. We strongly encourage you to look for and review the privacy policies of every Web site you visit. 
 
 ## General Statistics & Web Site Measurements:
 
@@ -75,12 +75,12 @@ Return to top
 
 If you have any questions or comments about this privacy statement, the practices of this site, or your experience with this Web site, you can contact:  
 TWN Web Site Administration  
-TALX Corporation  
+TALX  
 [webservices@talx.com](mailto:webservices@talx.com)  
 (314) 214-7000 
 
 Return to top
 
 |   
-| [Terms and Conditions](https://web.archive.org/web/20070506102825id_/http%3A//TermsConditions) | [](https://web.archive.org/web/20070506102825id_/http%3A//TermsConditions) |   | Copyright © 2007 TALX Corporation. All Rights Reserved |    
+| [Terms and Conditions](https://web.archive.org/web/20071024135126id_/http://theworknumber.com/TermsConditions) | [](https://web.archive.org/web/20071024135126id_/http://theworknumber.com/TermsConditions) |   | Copyright © 2007 TALX. All Rights Reserved |    
 ---|---|---|---|---
