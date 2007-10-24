@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221010820id_/http%3A//beta.abs-cbn.com/Main/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024123911id_/http%3A//beta.abs-cbn.com/Main/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # ABS-CBN.com Beta
 
@@ -44,4 +44,4 @@ ABS-CBN will occasionally update this Statement of Privacy to reflect company an
 
 Contact Information
 
-ABS-CBN welcomes your comments regarding this Statement of Privacy. If you believe that ABS-CBN has not adhered to this Statement, please contact ABS-CBN at [mikepehipol@gmail.com](mailto:mikepehipol@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+ABS-CBN welcomes your comments regarding this Statement of Privacy. If you believe that ABS-CBN has not adhered to this Statement, please contact ABS-CBN at [webmaster@abs-cbn.com](mailto:webmaster@abs-cbn.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
