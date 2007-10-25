@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617203203id_/http%3A//cruise.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026012256id_/http%3A//www.cruise.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Cruise.co.uk
 
