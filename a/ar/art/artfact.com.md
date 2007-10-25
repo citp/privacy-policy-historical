@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611182242id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026013958id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # ARTFACT.COM : Find, Price & Research Antiques and Fine Art
 
@@ -124,4 +124,4 @@ Attention: William M. Peverill
 
 Newton, MA 02458.
 
-This policy document 1.50 was last revised April 4, 2006.
+This policy document 1.60 was last revised June 22, 2007.
