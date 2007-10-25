@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalchocolate.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607224245id_/http%3A//www.digitalchocolate.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchocolate.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025060823id_/http%3A//www.digitalchocolate.com/about/privacy) for the most accurate reproduction.*
 
 # Digital Chocolate: Privacy
 
