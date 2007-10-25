@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205151058id_/http%3A//www.case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025174324id_/http%3A//www.case.org/Content/Miscellaneous/Display.cfm%3FcontentItemID%3D3397) for the most accurate reproduction.*
 
-# Council for Advancement and Support of Education - Privacy Statement
+# CASE - Privacy Statement
 
   
-[Home](https://web.archive.org/index.cfm?crumb=1) > Privacy Statement
+[Home](https://web.archive.org/index.cfm?crumb=1) > [Matching Gifts](https://web.archive.org/container.cfm?CONTAINERID=80&CRUMB=2&NAVID=64&PF=1) > Privacy Statement
 
 ### Privacy Statement
 
