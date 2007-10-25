@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507103614id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025033404id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.html) for the most accurate reproduction.*
 
 # ING Direct > Home > Privacy Policy
 
@@ -16,9 +16,9 @@ The privacy of our website users is important to us and we take care to safeguar
 > **Processing applications and providing services to you**  
 >  If you apply for or use our products, we will also use your personal information in accordance with the following:
 > 
->   * [ING Direct Savings and Your Personal Information](https://web.archive.org/web/20070507103614id_/http%3A//www.ingdirect.co.uk/savings/savings_fpn.pdf)
->   * [ING Direct Insurance and Your Personal Information](https://web.archive.org/web/20070507103614id_/http%3A//www.ingdirect.co.uk/home/personal_info.pdf)
->   * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/web/20070507103614id_/http%3A//www.ingdirect.co.uk/mortgages/personal_info.pdf)
+>   * [ING Direct Savings and Your Personal Information](https://web.archive.org/web/20071025033404id_/http%3A//www.ingdirect.co.uk/savings/savings_fpn.pdf)
+>   * [ING Direct Insurance and Your Personal Information](https://web.archive.org/web/20071025033404id_/http%3A//www.ingdirect.co.uk/home/personal_info.pdf)
+>   * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/web/20071025033404id_/http%3A//www.ingdirect.co.uk/mortgages/personal_info.pdf)
 > 
 
 
