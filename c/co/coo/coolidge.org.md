@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolidge.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629081650id_/http%3A//www.coolidge.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolidge.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026014134id_/http%3A//www.coolidge.org/privacy) for the most accurate reproduction.*
 
 # Privacy, Security, and Return Policies | The Coolidge Corner Theatre
 
