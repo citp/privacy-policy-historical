@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202225037id_/http%3A//www.onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopenglish.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025033549id_/http%3A//www.onestopenglish.com/section.asp%3Fcatid%3D59647) for the most accurate reproduction.*
 
-# One Stop English | Privacy
+# Onestopenglish | Privacy
 
 We want to protect the privacy of all visitors to onestopenglish. Please read the following policy; it will help you to understand how we use your personal data. We may change our Privacy policy at any time without giving you notice, so please check it each time you visit this website.
 
