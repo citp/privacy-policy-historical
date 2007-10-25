@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the havefunteaching.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205171205id_/http%3A//www.havefunteaching.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havefunteaching.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025061227id_/http%3A//www.havefunteaching.com/privacystatement.html) for the most accurate reproduction.*
 
 # Have Fun Teaching - Printable Worksheets, Flashcards, Fun Activities, Thematic Units and Projects, and Test Preparation
 
