@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606124851id_/http%3A//www.diet.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025032623id_/http%3A//www.diet.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Diet.com: Your #1 source for smart diet information
 
@@ -81,7 +81,7 @@ Go back to the top
   
 Security  
   
-Diet.com has numerous security measures in place to protect you from the loss, misuse, and alteration of your information under our control, including personal credit card information if you choose to conduct an e-commerce transaction through the Diet.com site. To help ensure the integrity and privacy of all of your information provided to us via the Internet, we use Secured Socket Layer (SSL) encryption technology in transmitting such information over the Internet to our servers. We secure your information provided to us on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees on a need-to-know basis have access to your information to perform a specific task or function. Our employees must abide by this Privacy Policy, are kept up-to-date on security practices, and execute written agreements with us to protect private and confidential information. We will meet a violation of this Privacy Policy by an employee with disciplinary action. Notwithstanding the foregoing, we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. We strive to protect your information but do not ensure the security and privacy of any information you transmit to us, and you do so at your own risk. For additional information about the security measures we use on Diet.com, please contact us at [privacy@diet.com](mailto:privacy@diet.com).  
+Diet.com has numerous security measures in place to protect you from the loss, misuse, and alteration of your information under our control, including personal credit card information if you choose to conduct an e-commerce transaction through the Diet.com site. To help ensure the integrity and privacy of all of your information provided to us via the Internet, we use Secured Socket Layer (SSL) encryption technology in transmitting such information over the Internet to our servers. We secure your information provided to us on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees on a need-to-know basis have access to your information to perform a specific task or function. Our employees must abide by this Privacy Policy, are kept up-to-date on security practices, and execute written agreements with us to protect private and confidential information. We will meet a violation of this Privacy Policy by an employee with disciplinary action. Notwithstanding the foregoing, we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. We strive to protect your information but do not ensure the security and privacy of any information you transmit to us, and you do so at your own risk. For additional information about the security measures we use on Diet.com, please contact us using our [Contact Form](https://web.archive.org/corporate/contact.php).  
   
   
 Go back to the top  
@@ -104,7 +104,7 @@ Go back to the top
   
 Contacting the Website  
   
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at [privacy@diet.com](mailto:privacy@diet.com) or write to us at Diet Health, Inc., Attn: Privacy, 106 S. 7th Street, Philadelphia, PA 19106.  
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us using our [Contact Form](https://web.archive.org/corporate/contact.php) or write to us at Diet Health, Inc., Attn: Privacy, 106 S. 7th Street, Philadelphia, PA 19106.  
   
   
 Go back to the top
