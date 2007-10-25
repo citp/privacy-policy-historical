@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ida.gov.sg privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627000712id_/http%3A//www.ida.gov.sg/General/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ida.gov.sg privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026003915id_/http%3A//www.ida.gov.sg/General/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # IDA Singapore - Privacy Statement
 
@@ -28,10 +28,7 @@
 ---  
   |    
   
-|  |  |  |  |  |   
----|---|---|---|---|---  
+|  |  | Last Updated on 12 September 2006  
+---|---|---  
    
-|   [Privacy statement](https://web.archive.org/web/20070627000712id_/http%3A//www.ida.gov.sg/General/PrivacyStatement.aspx)  |  [Terms of use](https://web.archive.org/web/20070627000712id_/http%3A//www.ida.gov.sg/General/TermsOfUse.aspx) | © 2007 Infocomm Development Authority of Singapore    
----|---  
- Best viewed using IE 6.0+ or Netscape 7.0+ , Screen Resolution 1024 x 768    
  
