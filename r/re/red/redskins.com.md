@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024172340id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redskins.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025033407id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.*
 
 # Washington Redskins
 
@@ -127,3 +127,6 @@ If your personally identifiable information (such as your address) changes, or i
 
 If you have any questions about this privacy policy or the privacy practices of this Site, you can contact: [webmaster@redskins.com](mailto:webmaster@redskins.com).   
 To change or modify information previously provided by you in the Redskins Online Store, please click on the Shop tab and then choose "My Account" and update your information using the options on this page. 
+
+**PRIVACY**  
+Advertisers using Spotlight tags are contractually obligated to disclose the use of pixels on their website. The text below is suggested disclosure language which should be posted on an advertiser's site along with any other related privacy disclosures. "[Advertiser name] uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to[<http://www.doubleclick.net/us/corporate/privacy>]." 
