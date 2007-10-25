@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhattangmat.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603171241id_/http%3A//www.manhattangmat.com/manhattan-gmat-company-info-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhattangmat.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026015359id_/http%3A//www.manhattangmat.com/manhattan-gmat-company-info-privacy.cfm) for the most accurate reproduction.*
 
 # Manhattan GMAT - Our Company - Privacy Policy
 
