@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613222916id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025035346id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Commons
 
@@ -34,4 +34,4 @@ Questions? If you have questions about this Privacy Policy, please contact us by
 
 We hope this policy clarifies our procedures regarding your personal information. Creative Commons may revise this policy at any time by updating this posting. 
 
-**Effective Date** : October 4, 2005 ([previous Privacy Policy](https://web.archive.org/web/20070613222916id_/http%3A//creativecommons.org/privacy-old)) 
+**Effective Date** : October 4, 2005 ([previous Privacy Policy](https://web.archive.org/web/20071025035346id_/http%3A//creativecommons.org/privacy-old)) 
