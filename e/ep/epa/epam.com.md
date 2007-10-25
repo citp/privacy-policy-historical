@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607194052id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025075431id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
 
 # EPAM Systems - Privacy Policy
 
 |   
 
 
-Print version [](https://web.archive.org/web/20070607194052id_/http%3A//www.epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20071025075431id_/http%3A//www.epam.com/privacy-pv.htm)
 
 |  |  |  | 
 
@@ -24,7 +24,7 @@ By accessing this site you agree to the terms of the EPAM Privacy Policy outline
 
 Collection of information
 
-EPAM does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you choose to Downloads, request information online, subscribe to EPAM newsletters, etc. 
+EPAM does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you use such sections of the website as Downloads, request information online, subscribe to EPAM newsletters, etc. 
 
 We do recognize and collect the IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. 
 
@@ -40,7 +40,7 @@ EPAM Systems, Inc classifies your personal information as Confidential Informati
 
 Links
 
-This web-site contains links to web-sites of third parties. EPAM has no control over, and is not responsible for, the content, privacy policies or reliability of such sites. 
+This web-site contains links to web-sites of third parties. EPAM has no control over, and is not responsible for the content, privacy policies or reliability of such sites. 
 
 Changes to the policy
 
