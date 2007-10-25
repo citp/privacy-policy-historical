@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625214537id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025051340id_/http%3A//www.iherb.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
-Effective on 01/18/2005
+Your Privacy and Security are Top Priority at iHerb.
 
-**iHerb.com** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site: www.iherb.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+**In a nutshell:**
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service by info@iHerb.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+When you submit personal information on our website, your information is protected both online and offline. We can only access your credit card (but not your actual credit card information) to issue credits, never actual charges. Only you can produce a charge by placing an order in your password-protected account. 
 
-| 
+While on a secure page, such as our order form which is hosted in a secure data facility, the lock icon of your web browser becomes locked. This indicates that the connection between your web browser and our web server is secured. While on a secure page, the 'http' on your browser changes to 'https'. 
 
-[](http://www.truste.org/ivalidate.php?url=www.iHerb.com&sealid=101)
+When you submit sensitive information (such as your credit card number), that information is encrypted and protected with the best encryption software in the industry —(Secure Socket Layer). 
 
-[](https://www.scanalert.com/RatingVerify?ref=www.iHerb.com)  
-  
----|---  
-  
+We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. 
+
+And as always, iHerb.com will never sell, rent, or share your personal information with any other parties. And we will never share it unless required by law.
+
 Information Collected and How it is Used
 
 If you opted to register with us you are asked for a login ID and a password to establish the registration. Once registered, you must input your name and address to facilitate ordering and reordering from iHerb. Registration is required to order from us. 
@@ -74,4 +74,4 @@ If you have any questions about this privacy statement, the practices of this si
 iHerb Inc.  
 5012 4th Street,  
 Irwindale, CA 91706, USA  
-Phone: 866.328.1171 (626.939.7800), Fax: 626.338.1326
+Phone: 866.328.1171 (626.939.7800) Fax: 626.338.1326
