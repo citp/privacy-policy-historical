@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homesandland.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429222253id_/http%3A//www.homesandland.com/PrivacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homesandland.com privacy policy that was archived on 2007-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025034743id_/http%3A//www.homesandland.com/PrivacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -17,43 +17,46 @@
 
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
 
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
 	_uacct = "UA-321726-1";
 	urchinTracker();
 	</script>
 	
-<script language="javascript" type="text/javascript">
-	function LoadAds() {
-		var ads = ["AdLeaderboard","AdSkyscraper","AdBoombox","AdTextLinks"];
-		var i, adHolder, adSpot;
-		for(i=0; i < ads.length; i++) {
-			adHolder=GetById(ads[i] + "_Holder");
-			adSpot=GetById(ads[i]);
-			while(adHolder && adHolder.firstChild) {
-				var child = adSpot.appendChild(adHolder.firstChild);
-				// Stupid fix for IE7
-				if (child.tagName == 'IFRAME' && child.style && child.style.display == '') {
-					child.style.display = 'inline';
+	<script language="javascript" type="text/javascript">
+		function LoadAds() {
+			var ads = ["AdLeaderboard","AdSkyscraper","AdBoombox","AdTextLinks"];
+			var i, adHolder, adSpot;
+			for(i=0; i < ads.length; i++) {
+				adHolder=GetById(ads[i] + "_Holder");
+				adSpot=GetById(ads[i]);
+				while(adHolder && adHolder.firstChild) {
+					var child = adSpot.appendChild(adHolder.firstChild);
+					// Fix for IE7
+					if (child.tagName == 'IFRAME' && child.style && child.style.display == '') {
+						child.style.display = 'inline';
+					}
 				}
+				//adSpot.innerHTML = adHolder.innerHTML; // duplicates content and not standards also not xhtml
 			}
-			//adSpot.innerHTML = adHolder.innerHTML; // duplicates content and not standards also not xhtml
 		}
-	}
-</script>
-<link href="/Styles/HNLSite.css" rel="stylesheet" type="text/css" media="all">
+	</script>
+	<link href="/Styles/HNLSite.css" rel="stylesheet" type="text/css" media="all">
 <link href="/Styles/Layout01.css" rel="stylesheet" type="text/css" media="all">
 <link href="/Styles/Theme_RealEstate.css" rel="stylesheet" type="text/css" media="all">
 <link href="/Styles/MagazineNetwork.css" rel="stylesheet" type="text/css" media="all">
+<script language="JavaScript" type="text/javascript" src="/ClientSide/Scripts/jQuery/jquery.js"></script>
 <script language="JavaScript" type="text/javascript" src="/ClientSide/Scripts/Common.js"></script>
 <script language="JavaScript" type="text/javascript" src="/ClientSide/Scripts/DivMagic.js"></script>
 <script language="JavaScript" type="text/javascript">
+//<![CDATA[
 function RunEvents() {
 LoadAds();
   return true;
 }
-if (AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
+if (window.AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
+//]]>
 </script>
 </head>
 <body>
@@ -62,7 +65,7 @@ if (AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
 	</colgroup><tbody><tr>
 		<td id="SiteLeaderboardTD" colspan="3">
 			<div id="SiteLogo"> 
-				<img src="/Images/Logos/HAL_Logo.gif" border="0" alt="HomesAndLand.com" title="Homes &amp; Land" style="cursor:pointer;" onclick="parent.location='/index.cfm'">
+				<img src="/Images/Logos/HAL_Logo.gif" border="0" alt="Search Real Estate, Homes for Sale and Apartments" title="Homes and Land Real Estate Magazine" style="cursor:pointer;" onclick="parent.location='http://www.homesandland.com/index.cfm'">
 			</div>
 			<div id="AdLeaderboardContainer"><div id="AdLeaderboard">
 	
@@ -82,9 +85,9 @@ if (AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
 					<ul id="tabnav">
 					  <li class="tab6"><h2><a href="http://www.homesandland.com/Fav/FavSignIn.cfm">View My Favorites</a></h2></li>
 					  <li class="tab5"><h2><a href="http://www.homesandland.com/OrderMagazine.cfm">Order Magazines</a></h2></li>
-					  <li class="tab4"><h2><a href="http://www.homesandland.com/VacationRentals.cfm">Vacation Rentals</a></h2></li>
-					  <li class="tab3"><h2><a href="http://www.rentalguideapartments.com/Apartments.cfm">Apartments</a></h2></li>
-					  <li class="tab2"><h2><a href="http://www.homesandland.com/NewHomes.cfm">New Homes</a></h2></li>
+					  <li class="tab4"><h2><a href="http://www.homesandland.com/Vacation_Rentals.html">Vacation Rentals</a></h2></li>
+					  <li class="tab3"><h2><a href="http://www.rentalguideapartments.com/Apartments.html">Apartments</a></h2></li>
+					  <li class="tab2"><h2><a href="http://www.homesandland.com/New_Homes.html">New Homes</a></h2></li>
 					  <li class="tab1"><h2><a href="http://www.homesandland.com" class="Active">Real Estate</a></h2></li>
 					</ul>
 				</div>
@@ -195,11 +198,8 @@ if (AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
 				<div class="AdNotice">ADVERTISEMENT</div>
 				<div id="AdBoombox">
 	
-		<script language="javascript" type="text/javascript">
-			<!--
-			OAS_AD('Right');
-			//-->
-		</script>
+				<script type="text/javascript" src="http://jlinks.industrybrains.com/jsct?sid=652&amp;ct=HOMES_LAND_HOME_FINANCE&amp;tr=REAL_ESTATE&amp;num=3&amp;layt=5&amp;fmt=simp"></script>
+			
 	
 </div>
 				
@@ -210,39 +210,50 @@ if (AddOnload) {AddOnload(RunEvents);} else {window.onload = RunEvents;}
 		<td colspan="3">
 			
 		<div id="FooterLinks">
-			<a href="http://www.homesandland.com/ContactUs.cfm" class="footerlinks_link">Contact Homes &amp; Land</a> &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/ContactUs.cfm" class="footerlinks_link">Contact Us</a> &nbsp;|&nbsp;
 			<a href="http://www.homesandland.com/SiteMap/SiteMap.html" class="footerlinks_link">Real Estate Site Map</a> &nbsp;|&nbsp;
+			<a href="/New_Homes.html" class="footerlinks_link">New Homes</a> &nbsp;|&nbsp;
 			<a href="http://www.rentalguideapartments.com" class="footerlinks_link">Apartments</a> &nbsp;|&nbsp;
+			<a href="/Vacation_Rentals.html" class="footerlinks_link">Vacation Rentals</a> &nbsp;|&nbsp;
 			<a href="http://www.homesandland.com/Franchise/" class="footerlinks_link">Franchise Info</a> &nbsp;|&nbsp;
 			<a href="http://www.homesandland.com/AdvertisingInfo.cfm" class="footerlinks_link">Advertiser Info</a> &nbsp;|&nbsp;
-			<a href="http://www.homesandland.com/OrderMagazine.cfm" class="footerlinks_link">Request A Magazine</a> &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/Articles/index.cfm" class="footerlinks_link">Real Estate Guide</a> &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/OrderMagazine.cfm" class="footerlinks_link">Free Magazine</a> &nbsp;|&nbsp;
 			<a href="http://www.homesandland.com/AboutUs.cfm" class="footerlinks_link">About Us</a> &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/Partners.cfm" class="footerlinks_link">Partners</a> &nbsp;|&nbsp;
 			<a href="http://www.homesandland.com/MagazineNetwork.cfm" class="footerlinks_link">Magazine Directory</a> &nbsp;|&nbsp;
 			<a href="http://admaker.homesandland.com" class="footerlinks_link">Advertiser Log-in</a>
+			<br>
+			Information deemed reliable but not guaranteed. All measurements are approximate. &nbsp;|&nbsp; Copyright ©2007 Homes &amp; Land Affiliates, LLC. All Rights Reserved. &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/TermsAndConditions.cfm" class="footerlinks_link">Terms and Conditions</a> &nbsp;|&nbsp;
+			<a href="http://www.homesandland.com/PrivacyPolicy.cfm" class="footerlinks_link">Privacy Policy</a>
+			<br>
+			<div class="FooterHUDOutSide">
+				<div class="FooterHUD" onclick="javascript:popupWindowURL('/PopupEOH.cfm','_EOH',600,600,false,true,true);" title="View the Equal Housing Opportunity Statement">
+					<a href="http://www.homesandland.com/PopupEOH.cfm" class="footerlinks_link" title="View the Equal Housing Opportunity Statement" onclick="javascript:popupWindowURL('/PopupEOH.cfm','_EOH',600,600,false,true,true);return false;">Equal Housing Opportunity</a>
+				</div>
+			</div>
 		</div>
 		
 			<div id="AdTextLinks">
 	
-			
-			<script type="text/javascript" src="http://jlinks.industrybrains.com/jsct?sid=652&amp;ct=HOMES_LAND_HOME_FINANCE&amp;tr=REAL_ESTATE&amp;num=3&amp;layt=2&amp;fmt=simp"></script>
-		
+	
 </div>
 			
 		<div id="FooterCopyright">
-			Copyright ©2007 Homes &amp; Land Affiliates, LLC. All Rights Reserved.<br>
-			<a href="/TermsAndConditions.cfm" class="footerlinks_link">Terms and Conditions</a> &nbsp;|&nbsp;
-			<a href="/PrivacyPolicy.cfm" class="footerlinks_link">Privacy Policy</a>
-			<div class="FooterHUDOutSide">
-				<div class="FooterHUD" onclick="javascript:popupWindowURL('/PopupEOH.cfm','_EOH',600,600,false,true,true);" title="View the Equal Housing Opportunity Statement">
-					<a href="javascript:popupWindowURL('/PopupEOH.cfm','_EOH',600,600,false,true,true);" class="footerlinks_link" title="View the Equal Housing Opportunity Statement">Equal Housing Opportunity</a>
-				</div>
-			</div>
+	
+			About Homes And Land:  Homes &amp; Land Magazine is the most popular and 
+			widely read <a href="/Real_Estate.html" class="footerlinks_link">real estate listings</a> 
+			publication in the US and Canada.  Each magazine contains detailed listings for homes, houses, condos and land for sale, as well as 
+			<a href="/New_Homes.html" class="footerlinks_link">new homes</a> and <a href="http://www.rentalguideapartments.com" class="footerlinks_link">apartment rentals</a>.  
+			Each listing is also available here on our web site through our <a href="/Real_Estate.html" class="footerlinks_link">listings search.</a>  
+			You can also <a href="http://www.homesandland.com/OrderMagazine.cfm" class="footerlinks_link">order magazines</a> for your local area to carry with you to find homes for sale.
 		</div>
 		
 		</td>
 	</tr>
 </tbody></table>
-<img src="/ClientSide/Images/TrackerImage.cfm?UID=1177885372570646853&amp;IP=64%2E208%2E172%2E179&amp;PN=www%2Ehomesandland%2Ecom%2FPrivacyPolicy%2Ecfm&amp;CFID=29423319&amp;CFT=98016305&amp;WID=&amp;MID=&amp;AID=&amp;PID=&amp;LID=&amp;CI=&amp;ST=&amp;ZIP=&amp;CO=&amp;HR=" alt="">
+<img src="/ClientSide/Images/TrackerImage.cfm?UID=1193284063113117367&amp;IP=64%2E208%2E172%2E179&amp;PN=www%2Ehomesandland%2Ecom%2FPrivacyPolicy%2Ecfm&amp;CFID=&amp;CFT=&amp;WID=&amp;MID=&amp;AID=&amp;PID=&amp;LID=&amp;CI=&amp;ST=&amp;ZIP=&amp;CO=&amp;LAD=&amp;HR=" alt="">
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
 <script language="javascript" type="text/javascript">
@@ -334,7 +345,7 @@ if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.ind
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://oascentral.homesandland.com/RealMedia/ads/adstream_mjx.ads/www.homesandland.com/privacypolicy/1260822343@Top,Left,Right?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.homesandland.com/RealMedia/ads/adstream_mjx.ads/www.homesandland.com/privacypolicy/1797621261@Top,Left,Right?"></script>
 
 <script language="javascript" type="text/javascript">
 <!--
