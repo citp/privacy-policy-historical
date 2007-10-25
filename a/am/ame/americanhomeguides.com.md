@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608034223id_/http%3A//www.americanhomeguides.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025055749id_/http%3A//www.americanhomeguides.com/privacy-policy.html) for the most accurate reproduction.*
 
-# New Homes: Homebuyers Privacy Statement
+# American Home Guides Homebuyers Privacy Statement
 
-|  |  | **PRIVACY POLICY**  
+|  |  | [New Home Search](http://www.americanhomeguides.com/) | **PRIVACY POLICY**  
 ---  
 **WE TAKE YOUR PRIVACY VERY SERIOUSLY**  
   
@@ -16,6 +16,7 @@
 | We may link information collected from you through various means, including information collected automatically and through the use of cookies and purchase information, or other Personal Information you provide to help us (or our service providers and listing providers, partners or affiliates) offer content (including, without limitation, listing recommendations), advertisements, products and services that we believe will be of interest to you, pre-populate certain data-fields (to assist in your registration or subsequent use of the tools and/or services available on the Sites), and share such information among the Sites. In addition, we may share this information, in aggregate form, with our current and potential advertisers and service providers so they can present advertisements more effectively.  
 | The Personal Information you provide when you become a registered user or customer of one of the Sites is used primarily to help us customize your online experience, increase the convenience of accessing new tools, products and services, and, if applicable, provide the products and/or services you purchase. This Personal Information may also be shared among the Sites to make your use of the Sites more convenient by, for example, limiting the number of times you have to register with us. Your email address serves as a unique identifier in our record system, and it is used together with your password to prevent unauthorized access to any information you choose to store on the Sites. The data you give us about your personal preferences and demographics (e.g., your age, ZIP code, occupation or the like) may be used to help us offer content, advertisements, products, and services that we believe will be of interest to you. In addition, we may share this information, in aggregate form, with our current and potential advertisers so that they can present advertisements more effectively.  
 | American Home Guides has a data sharing relationship with www.BeHomeWise.Com, a contact management service used by several builder advertisers. If you contact a builder who is a BeHomeWise client, American Home Guides will forward your information to that builder through BeHomeWise saving you the time and effort of providing your information directly to the builder.   
+| We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).   
 | In the event we are required by law or by governmental authority through a lawfully issued subpoena or otherwise to provide any of your information, we will comply to their requests.  
 **2\. Security**  
   
@@ -45,8 +46,8 @@
 
 Privacy Administrator  
 American Home Guides  
-6365 Taft Street - Suite 1006  
-Hollywood, Florida 33024
+9000 Sheridan Street - Suite 140  
+Pembroke Pines, Florida 33024
 
 Phone: (813) 282-3535  
 Email: [sales@americanhomeguides.com](mailto:sales@americanhomeguides.com)  
