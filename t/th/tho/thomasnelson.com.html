@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thomasnelson.com privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617044239id_/http%3A//www.thomasnelson.com/consumer/dept.asp%3Fdept_id%3D1117903) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thomasnelson.com privacy policy that was archived on 2007-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071025100336id_/http%3A//www.thomasnelson.com/consumer/dept.asp%3Fdept_id%3D1117903) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/JavaScript">
 <!--
@@ -137,105 +137,31 @@ function Old_NewWindow(mypage, myname, w, h, scroll, menubar, status, location) 
 				<a href="/consumer"><img src="images/dept_logo.gif" width="213" height="69" border="0" alt="ThomasNelson.com : Link to Home"></a></td>
 	<td id="deptheader" class="headertxt" align="RIGHT" valign="TOP">
 	 	      <!--  S E A R C H    B O X  -->
-      
-<script language="javascript">
-<!--
-
-//function validateDate() {
-function validateDate(form0) {
-//alert('hey');
-//form = window.document.SearchForm[0];
-//var InputDate = SearchForm.SearchText.value;
-//setTimeout("document.AnswerForm.submit();", 500); 
-var InputDate = window.document.forms[0].SearchText.value;
-//rcvEnter.receiptTypeField.options[rcvEnter.receiptTypeField.selectedIndex].value;
-//alert('hey2');
-//var varSearchType = SearchForm.SearchType.value;
-var TypeIndex = window.document.forms[0].SearchType.selectedIndex;
-var varSearchType = window.document.forms[0].SearchType.options[TypeIndex].value;
-
-//alert('stype: ' + varSearchType);
-	if (varSearchType == 'Date') {
-	//alert('hey-if');
-		if (InputDate != "" ){
-		//alert('hey-if2');
-			var datePat = /^(.+)\/(.+)\/(.+)$/;
-			var formvalue = InputDate; 
-			var dateArray = formvalue.match(datePat);
-			if (dateArray == null) {
-			alert("    Please enter a valid date in form 'mm/dd/yy'\rfor example, enter '01/31/02' for Jan 31st, 2002");  
-			window.document.forms[0].SearchText.focus();
-			window.document.forms[0].SearchText.select();
-			return false;  // alert will pop up if slashes are missing
-			}
-			
-			var monthValue = dateArray[1];
-			var dayValue = dateArray[2];
-			var yearValue = dateArray[3];
-			
-			var generalPat = /\D/;  // each value must be a number. This pattern will check if there are other characters than digits
-			
-			var monthCheck = monthValue.match(generalPat);
-			var dayCheck = dayValue.match(generalPat);
-			var yearCheck = yearValue.match(generalPat);
-			
-			if ((monthCheck != null) || (dayCheck != null) || (yearCheck != null)) {
-					alert("    Please enter a valid date in form 'mm/dd/yy'\rfor example, enter '01/31/02' for Jan 31st, 2002");
-					window.document.forms[0].SearchText.focus();
-					window.document.forms[0].SearchText.select();
-					return false;    // return false if the date contained characters other than digits
-					}
-			
-			if ((monthValue > 12) || (dayValue > 31)) {
-					alert("    cPlease enter a valid date in form 'mm/dd/yy'\rfor example, enter '01/31/02' for Jan 31st, 2002");  
-					window.document.forms[0].SearchText.focus();
-					window.document.forms[0].SearchText.select();
-					return false;   // This alert will pop up if numbers are too big
-					}
-			}
-	}
-}
-
-// -->
-</script>
-
- <table border="0" cellspacing="0" cellpadding="0" height="99">
-		<tbody><tr>
-		  <td height="13">&nbsp;</td>
-		</tr>
-		  <form name="SearchForm" method="get" action="SearchResults.asp"></form>
-		<tr>
-		  <td class="headertxt" nowrap="" align="RIGHT" valign="BOTTOM">
-		
-           
-              <font color="#FFFFFF"> Search:</font>   
-			   <select name="SearchType" class="searchbox"> 
-                           
-<!---------------------------------------->
-
-<!------------------------------------->
+      <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_010583570442384130615%3A-_d1iomngrm"></script>
+<script type="text/javascript"></script>
 
 
-			       <option name="SEARCH" value="Title" class="searchbox">
-										Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
-                    <option name="SEARCH" value="Author" class="searchbox">
-										Author</option>
-                    <option name="SEARCH" value="ISBN">
-										ISBN</option>
-                    <option name="SEARCH" value="Style">
-										Style#</option>
-                    <!--<OPTION NAME="SEARCH" VALUE="Date">MM/DD/YY</OPTION>-->
-              </select>&nbsp;
-			   <input name="SearchText" type="text" size="20" maxlength="20" class="searchbox">
-            
-			   <input type="submit" name="submit" value="GO" class="searchbox">
-			
-            <!-- <img src="images/spacer.gif" height=8 width=20></TD>
-			 -->
-            
-        </td>
-		  </tr> 
-     </tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" height="99">
+  <tbody><tr>
+    <td height="13">&nbsp;</td>
+  </tr>
+  <tr>
+	<td class="headertxt" nowrap="" align="RIGHT" valign="BOTTOM">
+<form method="POST" action="ResultsProcessor.asp" name="gsearch">
+<select name="stype">
+  <option name="stype" value="all" selected="">All</option>
+  <option name="stype" value="products">Products</option>
+  <option name="stype" value="authors">Authors</option>
+  <option name="stype" value="ISBN">ISBN</option>
+  <option name="stype" value="Style">Style #</option>
+</select>
+<input name="q" type="text" value="">
+<input type="hidden" name="start" value="0">
+<input type="image" src="images/search.png" name="Search" value="Search">
+</form>
+    </td>
+  </tr>
+</tbody></table>
       <!--end search box-->
 
 	  
