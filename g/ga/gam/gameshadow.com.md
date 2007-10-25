@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523020321id_/http%3A//www.gameshadow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025060838id_/http%3A//www.gameshadow.com/privacy.asp) for the most accurate reproduction.*
 
 # GameShadow.com – Get the latest patch, demo or trailer for your games
 
