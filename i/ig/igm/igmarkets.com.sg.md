@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2007-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070213170922id_/http%3A//www.igmarkets.com.sg/content/sites/sgx/en_GB/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034325id_/http%3A//www.igmarkets.com.sg/content/sites/sgx/en_GB/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -82,7 +82,7 @@ If you want to:
 phone us on (65) 6390 5118 or write to us at:
 
 IG Markets  
-#22-04 Caltex House  
+#22-04 Chevron House  
 30 Raffles Place  
 Singapore 048622  
 
