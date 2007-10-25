@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531121443id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-pokemon.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025142526id_/http%3A//www.go-pokemon.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pokémon - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 [ ](https://www.esrb.org/confirm/pokemon-confirmation.htm)
 
-##### Last updated July 26, 2006
+##### Last updated July 6, 2007
 
 ## Our Privacy Commitment
 
@@ -178,7 +178,7 @@ If you contact us, please include the name of the website you used to register a
 
 [ ](https://www.esrb.org/confirm/pokemon-confirmation.htm)
 
-##### Last updated July 26, 2006
+##### Last updated July 6, 2007
 
 ## OUR PRIVACY COMMITMENT
 
