@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the automotix.net privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608181755id_/http%3A//www.automotix.net/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automotix.net privacy policy that was archived on 2007-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026015238id_/http%3A//www.automotix.net/policy.html) for the most accurate reproduction.-->
 
 <html><head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -70,6 +70,20 @@
          document.orderForm.model.value=model;
          document.orderForm.submit();
       }
+      
+      function addProductToOrderYP(provider_key, product_key,year,make,model){
+         href = xtranslate('');
+         z = href.indexOf('[provider_key]');
+         if (z>=0)
+            href = href.substring(0,z)+provider_key+href.substring(z+14,href.length);
+         document.orderForm.action=href
+         document.orderForm.add_product.value=product_key;
+         document.orderForm.year.value=year;
+         document.orderForm.make.value=make;
+         document.orderForm.model.value=model;
+         document.orderForm.submit();
+      }
+      
       function showProduct(cid){        
         href = xtranslate('nbbfwyymhpgzuabgigbm_zhqbyy[sgiigrmb/xmr]znbij');
         z = href.indexOf('[commodity_id]');
@@ -78,9 +92,25 @@
         pw = window.open(href,'product_window','top=100,left=100,height=380,width=540,status=no,toolbar=no,menubar=no,location=no, resizable=yes, scrollbars=yes');
         pw.focus();
       } 
+      function showProductX(cid, provider_key){        
+        href = xtranslate('nbbfwyymhpgzuabgigbm_zhqbyy[sgiigrmb/xmr]znbij');
+        z = href.indexOf('[commodity_id]');
+        if (z>=0)
+            href = href.substring(0,z)+cid+href.substring(z+14,href.length);
+        z = href.indexOf('[provider_key]');
+        if (z>=0)
+            href = href.substring(0,z)+provider_key+href.substring(z+14,href.length);
+        pw = window.open(href,'product_window','top=100,left=100,height=380,width=540,status=no,toolbar=no,menubar=no,location=no, resizable=yes, scrollbars=yes');
+        pw.focus();
+      } 
       function goTo(a){
         location.href=a;
       }
+      
+      function submitInsuranceForm(id){
+        var form = document.getElementById(id).submit();
+      }
+
        
      
    function sendForm()
@@ -121,11 +151,72 @@
       f.action=xtranslate('');
       f.submit(); 
    }
-   </script><script>
+
+   function launchAweberScript(){
+        var script = document.getElementById('aweberScript');
+        if (script == null){
+           if (document.createElement && ((script = document.createElement('script')))) {
+              script.type = 'text/javascript';
+              script.src = 'http://forms.aweber.com/form/37/2049611337.js';
+              script.id = 'aweberScript';
+              var heads = document.getElementsByTagName('head');
+              if (heads[0]) {
+                 heads[0].appendChild(script);
+              }
+           }
+        } else launcher();
+   }
+   
+   function getTireGuide(){
+        var script = document.getElementById('tire_guide_script');
+        if (script == null){
+           if (document.createElement && ((script = document.createElement('script')))) {
+              script.type = 'text/javascript';
+              script.src = 'http://forms.aweber.com/form/80/1966778180.js';
+              script.id = 'tire_guide_script';
+              var heads = document.getElementsByTagName('head');
+              if (heads[0]) {
+                 heads[0].appendChild(script);
+              }
+           }
+        } else launcher();
+   }
+   
+   function launchStoreScript(){
+        var script = document.getElementById('store_script');
+        if (script == null){
+           if (document.createElement && ((script = document.createElement('script')))) {
+              script.type = 'text/javascript';
+              script.src = 'http://forms.aweber.com/form/47/66685147.js';
+              script.id = 'store_script';
+              var heads = document.getElementsByTagName('head');
+              if (heads[0]) {
+                 heads[0].appendChild(script);
+              }
+           }
+        } else launcher();
+   }
+   
 function page(page) {
    document.location.href = "http://info.automotix.net/" +page;
 }
-         </script></head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0"><table cellspacing="0" cellpadding="0" width="100%" height="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="101" rowspan="3"><img src="/images/logo-automotix.jpg" width="280" height="116"></td><td class="top" height="20" valign="bottom" colspan="2" style="background:#CCCCCC url('/images/top.gif') repeat-x;"><img src="/images/clear.gif" width="20" height="1"><img src="/images/top-text.jpg" width="345" height="20"></td><td nowrap="" width="100%" class="top" align="right">&gt;&gt; <a href="http://www.automotix.net/login.html">Automotix WEB Login</a> &lt;&lt;&nbsp;</td></tr><tr><td height="1" colspan="3"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td height="95" class="main" style="background:#5978B7 url('/images/main-3.gif') repeat;"><img src="/images/main-3a.jpg" width="350" height="95" border="0"><img src="/images/clear.gif" width="20" height="1"></td><td colspan="2" height="95" width="100%" class="main" align="right" style="background:#5978B7 url('/images/main-3.gif') repeat; padding-right:6"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center" valign="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.automotix.net"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.automotix.net/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><br><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=106042811046"><img style="margin-top:10" border="0" src="/images/bbb.gif" alt="Member of The Better Business Bureau"></a></td><td align="right"><a href="http://ix.automotix.net/downloads/ix-setup.exe"><img src="/images/download.jpg" width="116" height="38" vspace="4" border="0" onmouseover="this.src='/images/download-a.jpg'" onmouseout="this.src='/images/download.jpg'" alt="Download Automotix Now!!!"></a><br><img src="/images/pp.gif" width="90" height="28"></td></tr></tbody></table></td></tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/index.html">Home</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/download.html">Download</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/cars.html">Cars</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/parts.html">Parts</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/new_cars.html">New Cars</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/carlocator.html">Used Cars</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/partlocator.html">Auto Parts Locator</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/carshotline.html">Auto Classifieds</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/partshotline.html">Parts Hotline</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/login.html">Register</a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td height="100%"><table cellspacing="0" cellpadding="0" width="100%" height="100%" border="0"><tbody><tr height="100%"><td><table width="100%" cellpadding="0" cellspacing="0" border="0" height="100%"><tbody><tr><td valign="top" width="4"><img src="/images/clear.gif" width="4" height="1"></td><td valign="top" class="lm" width="200"><table width="200" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="tc"><img src="/images/tc-l.gif" width="5" height="5"></td><td class="tc" align="right"><img src="/images/tc-r.gif" width="5" height="5"></td></tr><tr><td bgcolor="#FFFFFF" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td bgcolor="#DDDDDD" height="5" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td bgcolor="#FFFFFF" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table><table width="200" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="138" align="center" valign="bottom"><a href="/download.html"><img src="/images/download-now.gif" width="188" height="128" border="0"></a></td></tr><tr><td height="10"></td></tr></tbody></table><table width="188" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm1" height="30" align="center"><a href="/forgot_password.html">Forgot password / passport ID?</a></td></tr><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td height="10"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table><table width="188" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm1" style="padding:4">What's Automotix?</td></tr><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm2" style="padding:4">
+   </script></head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0"><table cellspacing="0" cellpadding="0" width="1000px" height="100%" border="0" align="left" style="border-right:1px solid #d9d9d9'"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="101" rowspan="3" width="280px"><img src="/images/logo-automotix.jpg" width="280" height="116"></td><td class="top" height="20" valign="center" colspan="3" nowrap="" style="font-family:verdana,tahoma,arial;font-size:12px;font-weight:lighter;color:#555555;background:#CCCCCC url('/images/top.gif') repeat-x;"><img src="/images/clear.gif" width="20" height="1">Shop For Auto Parts Online!!! &nbsp;Buy/Sell Used Auto &amp; Parts!!! &nbsp;Find Automotive Businesses!!!</td></tr><tr><td height="1" colspan="3"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td height="95" width="372px" class="main" style="background:#5978B7 url('/images/main-3.gif') repeat;"><img src="/images/main-3a.jpg" width="350" height="95" border="0"><img src="/images/clear.gif" width="22px" height="1"></td><td colspan="2" height="95" width="50%" class="main" align="right" style="background:#5978B7 url('/images/main-3.gif') repeat; padding-right:6"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.automotix.net"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/www.automotix.net/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><br><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=106042811046"><img style="margin-top:10" border="0" src="/images/bbb.gif" alt="Member of The Better Business Bureau"></a></td></tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/index.html">Home
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/parts.html">Auto Parts
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/partlocator.html">Part Locator
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/partshotline.html">Parts Hotline
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar3" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/yellowpages/">Yellow Pages
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/autoinsurancequote.html">Get Insurance Quote!
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/carlocator.html">Car Finder
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/carshotline.html">Cars Wanted
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/autosalvage.html">Auto Salvage
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://autorepairforums.automotix.net">Forums
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/videos.html"><big>Videos</big>
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td><td class="toolbar" nowrap="" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><a href="http://www.automotix.net/hotdeals.html"><div nowrap=""><img src="/images/hotdeals.gif" border="0" align="absmiddle" width="10px" height="23px">&nbsp;Hot Deals</div>
+      </a></td><td class="toolbar" align="center" style="background:#C4D3EF url('/images/toolbar-3a.gif') repeat-x;"><img src="/images/toolbar-div-3a.gif" width="12"></td></tr></tbody></table></td></tr></tbody></table><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td></td></tr></tbody><thead><tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="20" class="dot3" align="left" style="padding-left:10; background:#E7EDF7 url('/images/d3.gif') repeat-x;"><a name="top"></a><a href="http://www.automotix.net/about_us.html">About</a>&nbsp;|&nbsp;<a href="javascript:page('contacts.html')">Contact</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/testimonials.html">Testimonials</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/download.html"><b>Download</b></a>&nbsp;|&nbsp;<a href="http://www.automotix.net/releasenotes.html">Notes</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/faq.html">FAQ</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/cars.html">Car Exchange</a>&nbsp;|&nbsp;<a href="javascript:page('links.html')">Links</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/affiliate.html">Affiliate</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/login.html">Login</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/newsletter.html">Newsletter</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/articles.html">Articles</a></td><td height="20" class="dot3" align="right" style="padding-right:10; background:#E7EDF7 url('/images/d3.gif') repeat-x;"><a name="top"></a><a href="javascript:goOrderTracking()">Order Tracking</a>&nbsp;|&nbsp;<a href="javascript:goCheckout()"><b><font color="green">Checkout</font></b></a></td></tr><tr><td colspan="2" height="8"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table></td></tr><script>
+  function goCheckout(){  
+      location = xtranslate('nbbfwyymhpgzuabgigbm_zhqbygdrqdznbij');      
+  }
+</script></thead></table></td></tr><tr><td height="100%"><table cellspacing="0" cellpadding="0" width="100%" height="100%" border="0" align="left"><tbody><tr height="100%"><td><table width="100%" cellpadding="0" cellspacing="0" border="0" height="100%"><tbody><tr><td valign="top" width="4"><img src="/images/clear.gif" width="4" height="1"></td><td valign="top" class="lm" width="200"><table width="200" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="tc"><img src="/images/tc-l.gif" width="5" height="5"></td><td class="tc" align="right"><img src="/images/tc-r.gif" width="5" height="5"></td></tr><tr><td bgcolor="#FFFFFF" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td bgcolor="#DDDDDD" height="5" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td bgcolor="#FFFFFF" colspan="2"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table><table width="200" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="138" align="center" valign="bottom"><a href="/download.html"><img src="/images/download-now.gif" width="188" height="128" border="0"></a></td></tr><tr><td height="10"></td></tr></tbody></table><table width="188" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm1" height="30" align="center"><a href="/forgot_password.html">Forgot password / passport ID?</a></td></tr><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td height="10"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table><table width="188" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm1" style="padding:4">What's Automotix?</td></tr><tr><td class="lmDiv"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="lm2" style="padding:4">
 
 Automotix is a patent pending desktop technology designed for the automotive industry. Sellers and buyers can download the software to their PC and enjoy instant exchange. A FREE desktop 
 <font class="smallFont">
@@ -262,13 +353,35 @@ Phone: 913-236-9629<br></p>
 <a href="javascript:history.back()">back</a>
 </font>
 
-       <br>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><thead><tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="20" class="dot3" align="left" style="padding-left:10; background:#E7EDF7 url('/images/d3.gif') repeat-x;"><a name="top"></a><a href="http://www.automotix.net/about_us.html">About Us</a>&nbsp;|&nbsp;<a href="javascript:page('contacts.html')">Contact Us</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/buyers.html">Buyers</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/sellers.html">Sellers</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/affiliate.html">Affiliate</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/releasenotes.html">Release Notes</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/testimonials.html">Testimonials</a>&nbsp;|&nbsp;<a href="http://www.automotix.net/faq.html">FAQ</a>&nbsp;|&nbsp;<a href="javascript:page('forgot_password.html')">Forgot Password</a>&nbsp;|&nbsp;<a href="javascript:page('links.html')">Links</a></td><td height="20" class="dot3" align="right" style="padding-right:10; background:#E7EDF7 url('/images/d3.gif') repeat-x;"><a name="top"></a><a href="javascript:goOrderTracking()">Order Tracking</a>&nbsp;|&nbsp;<a href="javascript:goCheckout()"><font color="green">Checkout</font></a></td></tr><tr><td colspan="2" height="8"><img src="/images/clear.gif" width="1" height="1"></td></tr></tbody></table></td></tr><script>
-  function goCheckout(){  
-      location = xtranslate('nbbfwyymhpgzuabgigbm_zhqbygdrqdznbij');      
-  }
-</script></thead></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr style="padding-top:10;padding-bottom:10;"><td align="center"><a href="javascript:goTo('http://www.insurance.com/autolanding.aspx?cp=1533')"><img src="/images/auto-ins-ban.jpg" alt="Save Up to 600$ on your Auto Insurance" width="689" height="119" border="0"></a></td></tr><tr><td class="border" height="1"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="aboveFooter" height="20" align="center"><span class="footer"><a href="/bodyparts/">Buy Car Body Parts Now</a> | <a href="/keystone/">Buy Wheels / Rims &amp; Lights Now</a> | <a href="/engines/">Buy Remanufactured Engines Now</a></span></td></tr><tr><td class="border" height="1"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="footer" height="40" align="center"><text><a href="/license_agreement.html">Terms</a> :: <a href="/policy.html">Privacy policy</a><p></p>
+       <br>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr style="padding-top:10;padding-bottom:10;"><td align="center">
+<table style="text-align: left; width: 693px; height: 153px;" border="0" cellpadding="2" cellspacing="0">
+  <form action="http://www.automotix.net/carinsresults.html" method="get" target="_blank" name="qoute_form_footer" id="qoute_form_footer"></form>
+  <tbody>
+    <tr>
+      <td style="height: 130px;"><img style="width: 183px; height: 119px;" alt="Save up to $600 or more on your auto insurance" src="/images/top-left.jpg"></td>
+      <td align="left">
+          <table cellpadding="0" cellspacing="0" border="0" class="footer_big" align="left" width="100%">
+              <tbody><tr><td>You could <font color="#970c0f" style="font-size:22px"><b>SAVE</b></font> up to <font color="#970c0f" style="font-size:22px"><b>$600</b></font> <b>or more*</b></td></tr>
+              <tr><td align="RIGHT">on your <b>auto insurance</b></td></tr>
+          </tbody></table>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 20px; text-align: right; background-color: rgb(255, 255, 204);" valign="top" align="right" colspan="2">
+        <table border="0" cellpadding="0" cellspacing="0" align="right">
+        <tbody><tr>
+            <td><img style="width: 177px; height: 17px;" alt="Enter your zip code" src="/images/enter-zip.gif" align="middle"></td>
+            <td>&nbsp;<input type="text" name="zipcode" size="11" maxlength="13" value="Your Zip Code" onfocus="if (this.value=='Your Zip Code') {this.value=''; this.maxLength=5}"></td>
+            <td style="padding-top:2px">&nbsp;<a href="javascript:submitInsuranceForm('qoute_form_footer')"><img style="width: 98px; height: 29px;" alt="New Quote!" src="/images/new_qoute.gif" border="0"></a></td>
+        </tr> 
+        </tbody></table> 
+      </td>
+    </tr>
+  </tbody>
+</table>
+       <!--a href="javascript:goTo('http://www.insurance.com/autolanding.aspx?cp=1533')"><img src="/images/auto-ins-ban.jpg" alt="Save Up to 600$ on your Auto Insurance" width="689" height="119" border="0"/></a--></td></tr><tr><td class="border" height="1"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="aboveFooter" height="20" align="center"><span class="footer"><a href="/bodyparts/">Buy Car Body Parts Now</a> | <a href="/keystone/">Buy Wheels / Rims &amp; Lights Now</a> | <a href="/engines/">Buy Remanufactured Engines Now</a></span></td></tr><tr><td class="border" height="1"><img src="/images/clear.gif" width="1" height="1"></td></tr><tr><td class="footer" height="40" align="center"><text><a href="/license_agreement.html">Terms</a> :: <a href="/policy.html">Privacy policy</a><p></p>
         © Copyright: Automotive Instant Exchange is a patent pending proprietary technology provided by Automotix LLC
-      </text><script>
+        <br><div style="padding-top:5px"><a href="http://www.automotix.net">Auto Parts Marketplace</a> | <a href="http://www.automotix.net/carlocator.html">Buy Used Cars</a> | <a href="http://ix.automotix.net/downloads/ix-setup.exe">Download</a> | <a href="http://www.automotix.net/used-parts_archive.html">Archive</a> | <a href="http://www.automotix.net/login.html">Register</a><br><a href="http://www.automotix.net/index.html">Home</a> | <a href="http://www.automotix.net/parts.html">Auto Parts</a> | <a href="http://www.automotix.net/partlocator.html">Part Locator</a> | <a href="http://www.automotix.net/partshotline.html">Parts Hotline</a> | <a href="http://www.automotix.net/yellowpages/">Yellow Pages</a> | <a href="http://www.automotix.net/autoinsurancequote.html">Get Insurance Quote!</a><br><a href="http://www.automotix.net/carlocator.html">Car Finder</a> | <a href="http://www.automotix.net/carshotline.html">Cars Wanted</a> | <a href="http://www.automotix.net/autosalvage.html">Auto Salvage</a> | <a href="http://autorepairforums.automotix.net">Forums</a> | <a href="http://www.automotix.net/videos.html">Videos</a> | <a href="http://www.automotix.net/hotdeals.html">Hot Deals</a></div></text><script>
           // motix stat engine
           document.write('<img width="1" height="1" style="background-color:transparent" src="'+xtranslate("nbbfwyymhpgzuabgigbm_zhqbw8083ycbubxjgoy")+"?app=pw_automotix&host=automotix.net&zone=static&from="+escape(document.referrer)+"&to="+escape(document.URL)+'">');
-      </script><img width="1" height="1" style="background-color:transparent" src="http://info.automotix.net:8083/stat_log/?app=pw_automotix&amp;host=automotix.net&amp;zone=static&amp;from=&amp;to=https%3A//web.archive.org/web/20070608181755id_/http%253A//www.automotix.net/policy.html"></td></tr></tbody></table></td></tr></tbody></table></body></html>
+      </script><img width="1" height="1" style="background-color:transparent" src="http://info.automotix.net:8083/stat_log/?app=pw_automotix&amp;host=automotix.net&amp;zone=static&amp;from=&amp;to=https%3A//web.archive.org/web/20071026015238id_/http%253A//www.automotix.net/policy.html"></td></tr></tbody></table></td></tr></tbody></table></body></html>
