@@ -1,38 +1,41 @@
-> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509182123id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025034457id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
 
 # phpBBHacks.com - Privacy Policy
 
-phpBBHacks.com and it's affiliates value your privacy. We do not share any information we receive from you, including your e-mail address and/or name. Our advertisers abide by this same policy.
+phpBBHacks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for phpBBHacks.com. 
 
-**Does this website use cookies?**  
-Yes, this website uses cookies for browsing statistics. 
+**Information Automatically Logged**
 
-**What types of information does this website collect?**  
-We collect the following types of information: 
+We use your IP address to help diagnose problems with our server and to administer our website. The IP address is not displayed anywhere on the website. 
 
-  * Internet contact information such as email addresses.
+**Cookies**
 
+This site uses cookies to store your login information. You have the option as to whether or not you want to save your login information. If you wish to turn this option off, you can do so in your profile management area. 
 
+**Advertisers**
 
-**Why is this website collecting the information?**  
-We collect the information for the following purposes: 
+Now or at some time in the future, we may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by our ad company and we do not have access to this information. 
 
-  * For website administration purposes.
-  * To evaluate, review or improve the website.
+**Registration Forms**
 
+Our site's registration form requires users to give us contact information (such as their e-mail address). This contact information is used to help us administer our website and to contact members in regard to activities related to this website and community. 
 
+**External Links**
 
-**Who will receive the information?**  
-The information will be shared with the following parties: 
+This site contains links to other sites. phpBBHacks.com is not responsible for the privacy practices or the content of such websites. However, we do moderate submissions and posts, in line with our submission and User Guidelines, as to minimize the impact of inappropriate content that enters our website.
 
-  * Our internal staff.
+**Security**
 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
+**Data Quality and Access**
 
-**How long will the information be kept?**  
-The information is only kept as required and will be destroyed as quickly as possible.
+This site gives users the following options for changing and modifying information previously provided: 
 
-**What if I think there are inaccuracies in my information?**  
-If you believe that the information collected is inaccurate, please contact our customer service department/privacy compliance department.
+1\. For submissions to our database, you can visit the following URL: <http://www.phpbbhacks.com/submit.php>   
+2\. For other content in the non forums sections of our website, you may e-mail: [patrick@phpbbhacks.com  
+](mailto:patrick@phpbbhacks.com)3\. For our forums, you can visit the following URL: <http://www.phpbbhacks.com/forums/profile.php?mode=editprofile>
 
-If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
+**Contacting the Website**
+
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please contact us at [patrick@phpbbhacks.com](mailto:patrick@phpbbhacks.com).
