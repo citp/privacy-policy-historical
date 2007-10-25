@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608021652id_/http%3A//www.ozlotteries.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025043451id_/http%3A//www.ozlotteries.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
