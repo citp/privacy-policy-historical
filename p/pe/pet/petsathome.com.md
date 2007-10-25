@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218162810id_/http%3A//www.petsathome.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025041837id_/http%3A//www.petsathome.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Petsathome.com - Privacy policy
 
