@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610122240id_/http%3A//peanutlabs.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025041209id_/http%3A//peanutlabs.com/pl/privacyPolicy.php) for the most accurate reproduction.*
 
 # Peanut Labs - Privacy Policy
 
