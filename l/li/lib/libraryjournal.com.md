@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220543id_/http%3A//www.libraryjournal.com/index.asp%3Flayout%3Ddocument%26doc_id%3D111259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026064651id_/http%3A//www.libraryjournal.com/info/CA6424878.html) for the most accurate reproduction.*
 
-# Privacy Policy on LibraryJournal.com
+# Privacy Policy - Library Journal
 
 Last Revised: May 2006
 
 **Overview**
 
-[www.libraryjournal.com](http://www.libraryjournal.com/) appreciates your visiting this web site.  Our site visitors’ privacy and trust are important to us.  We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. 
+[**www.libraryjournal.com**](http://www.libraryjournal.com/) appreciates your visiting this web site.  Our site visitors’ privacy and trust are important to us.  We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. 
 
 This Privacy Policy describes the policies of Reed Business Information (“ **RBI** ” or “ **we** ”), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-• Information obtained when you (“ **you** ” or “ **User** ”) visit the [www.libraryjournal.com](http://www.libraryjournal.com/) web site (the “Site”).  
+• Information obtained when you (“ **you** ” or “ **User** ”) visit the [**www.libraryjournal.com**](http://www.libraryjournal.com/) web site (the “Site”).  
 • Information obtained through e-mail communications with you related to the Site.
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources.  Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
@@ -37,14 +37,14 @@ We also may use your information to better understand our Users and to improve o
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates.  These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services.  All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter.  All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
 
-We also may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line “ **opt out – third party**.”
+We also may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [**privacymanager@reedbusiness.com**](mailto:privacymanager@reedbusiness.com) with the subject line “ **opt out – third party**.”
 
 **Our Disclosure of Your Information**  
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:  
 • Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address  ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.  
 • To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.  
 • Portions of this Site may be provided as “Premium” or “Sponsored” content.  Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers.  We will always disclose when you are registering or being provided with Premium or Sponsored content.  
-• To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line: “ ** _do not disclose_**.”  
+• To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to [**privacymanager@reedbusiness.com**](mailto:privacymanager@reedbusiness.com) with the subject line: “ ** _do not disclose_**.”  
 • To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.  
 • When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.  
 • When disclosure is necessary to accomplish the purpose for which you provide it.  
@@ -54,7 +54,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 ** We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure.  However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
 **Right to Access and Change Information**  
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [subsmail@reedbusiness.com](mailto:subsmail@reedbusiness.com).  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process. 
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [**subsmail@reedbusiness.com**](mailto:subsmail@reedbusiness.com).  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process. 
 
 **Links  
 ** This Site contains content, services, advertising and other materials that link to Web sites operated by third parties.  We have no control over those other sites, and this Privacy Policy does not apply to them.  We encourage you to refer to the privacy policies, if any, of those sites. 
@@ -63,4 +63,4 @@ You may view and update information that you previously submitted to this Site b
 _** Reed Business Information  
 360 Park Avenue South  
 New York, NY  10010  
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
+Email: [**privacymanager@reedbusiness.com**](mailto:privacymanager@reedbusiness.com)
