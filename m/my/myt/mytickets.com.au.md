@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytickets.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626205234id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytickets.com.au privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026122206id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - MyTickets
 
@@ -76,10 +76,10 @@ Please contact us to find out more about our procedures and policies in relation
 If at any time you wish to know what information we are holding about you, think we may hold information about you which is incorrect / out of date, you request we delete your personal information, or link(s);  you have any questions about our Privacy Policy, you can contact us on: 
 
 Email: [support@tickets.com.au](mailto:support@tickets.com.au)  
-Phone: +61 02 9251 2353  
+Phone: 1300 TICKETS  
 Post: User Help Desk  
 MyTickets  
-Level 8, 35 Pitt Street Sydney NSW 2000  
+Level 10, 45 Market Street Sydney NSW 2000  
 Australia
 
 If you still require further information then you should contact the Office of the Federal Privacy Commissioner whose details follow:   
