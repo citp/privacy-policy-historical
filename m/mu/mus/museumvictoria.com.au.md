@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618180502id_/http%3A//www.museum.vic.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026031511id_/http%3A//www.museum.vic.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # Museum Victoria: Privacy
 
