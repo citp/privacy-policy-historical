@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130028id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026050841id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
