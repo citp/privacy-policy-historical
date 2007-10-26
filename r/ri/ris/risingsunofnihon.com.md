@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risingsunofnihon.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429023744id_/http%3A//www.risingsunofnihon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risingsunofnihon.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026153532id_/http%3A//www.risingsunofnihon.com/privacy.html) for the most accurate reproduction.*
 
 # RisingSunofNihon: Privacy Policy
 
