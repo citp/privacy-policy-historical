@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibbits.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501172059id_/http%3A//www.nibbits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibbits.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026060822id_/http%3A//www.nibbits.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
