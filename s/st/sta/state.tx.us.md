@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627060508id_/http%3A//www.state.tx.us/page.jsp%3Flanguage%3Deng%26pageId%3Dpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026123654id_/http%3A//www.state.tx.us/page.jsp%3Flanguage%3Deng%26pageId%3Dpolicies%23privacy) for the most accurate reproduction.*
 
 # TexasOnline : TexasOnline Accessibility & Site Policies
 
@@ -59,7 +59,7 @@ Additional information about accessibility programs in Texas is available from t
 
 #### Contact Information
 
-If you use assistive technology and the format of any material on our web site interferes with your ability to access the information, please email [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us). To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the web address of the requested material, and your contact information.
+If you use assistive technology and the format of any material on our web site interferes with your ability to access the information, please email [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the web address of the requested material, and your contact information.
 
 If you have any questions or concerns about the TexasOnline Accessibility Policy, please contact us at [accessibility@www.state.tx.us](mailto:accessibility@www.state.tx.us). Each [state agency](http://www.tsl.state.tx.us/trail/agencies.html) and [local government](https://web.archive.org/category.jsp?language=eng&categoryId=11) has its own accessibility policy, which can be accessed through [TexasOnline](http://texasonline.com/).
 
@@ -158,7 +158,7 @@ To the extent allowed by the laws that establish the framework of open governmen
 
 ### Contact Information
 
-If you have any questions or concerns about the TexasOnline Privacy and Security Policy, please contact us at [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us). If you have any questions or concerns about how state agencies and local governments handle personal information, please contact those governmental bodies directly.
+If you have any questions or concerns about the TexasOnline Privacy and Security Policy, please contact us at [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). If you have any questions or concerns about how state agencies and local governments handle personal information, please contact those governmental bodies directly.
 
 ## Linking Policy
 
@@ -222,7 +222,7 @@ TexasOnline reserves the right to deny links if it determines that a web site co
 
 #### Review Process
 
-  1. Email link requests to [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us). Each link request should address how the site meets the two acceptance criteria outlined above.
+  1. Email link requests to [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us). Each link request should address how the site meets the two acceptance criteria outlined above.
   2. The link request will be reviewed against the acceptance criteria set forth above. The decision of the Division Director is final as to whether the requesting site may have a link from TexasOnline.
   3. Approved sites must comply with the following conditions for link maintenance and may be required to enter into a written linking agreement with DIR. 
 
@@ -261,7 +261,7 @@ The decision of the Division Director is final as to whether a link is to be rem
 
 ### Contact Information
 
-For questions and concerns regarding the linking policy, email us at [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us).
+For questions and concerns regarding the linking policy, email us at [webmaster@dir.state.tx.us](mailto:webmaster@dir.state.tx.us).
 
 ## Legal Notices
 
