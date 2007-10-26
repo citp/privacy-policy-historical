@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412172740id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026141349id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
