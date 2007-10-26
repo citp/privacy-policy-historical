@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drobo.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601044806id_/http%3A//www.drobo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drobo.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026060217id_/http%3A//drobo.com/privacy.aspx) for the most accurate reproduction.*
 
 # Data Robotics, Inc. | Privacy Policy
 
