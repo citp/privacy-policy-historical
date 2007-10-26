@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417031147id_/http%3A//www.leeds.gov.uk/page.aspx%3FegmsIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.gov.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026084709id_/http%3A//www.leeds.gov.uk/page.aspx%3FegmsIdentifier%3DBF207A6A0A90CCA380256E14003DDACB) for the most accurate reproduction.*
 
 # Leeds City Council - Privacy statement
 
