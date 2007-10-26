@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatoday.org privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627164641id_/http%3A//www.nea.org/aboutnea/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatoday.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026023226id_/http%3A//www.nea.org/aboutnea/privacy.html) for the most accurate reproduction.*
 
 # NEA: Privacy Policy and Information Security Program
 
