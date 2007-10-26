@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mimeo.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630045521id_/http%3A//www.mimeo.com/privacy-and-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mimeo.com privacy policy that was archived on 2007-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026101538id_/http%3A//mimeo.com/privacy-and-security.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy &amp; Security - Mimeo.com</title>
@@ -9,6 +9,7 @@
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="mimeostyle.css" type="text/css">
+<script src="cookies.js" type="text/javascript"></script>
 <script language="JavaScript"> 
 if (document.images) {
 //BEGIN MAIN NAV ROLLOVER
@@ -490,6 +491,23 @@ function rollOff (imgName) {
 <script type="text/javascript">
 _uacct = "UA-1340494-3";
 urchinTracker();
+</script>
+
+<script language="javascript" src="http://fetchback.com/serve/fb/pdp.js?cat=&amp;name=landing&amp;sid=187"></script>
+
+<script type="text/javascript">
+if (get_cookie('referrer')==null) {
+if (document.referrer != '') {
+	if (get_cookie('referrer')==null) {
+		var now = new Date();
+		var expiresTime = now.getTime()+1000*60*60*24*30;
+		var expires = new Date();
+		expires.setTime(expiresTime);
+		set_cookie('referrer', document.referrer, expires.getFullYear(), expires.getMonth(), expires.getDate(), '/');
+		set_cookie('landingPage', document.location.pathname, expires.getFullYear(), expires.getMonth(), expires.getDate(), '/');
+	}
+}
+}
 </script>
 
 
