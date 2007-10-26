@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208132937id_/http%3A//photobiz.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026082142id_/http%3A//www.photobiz.com/privacy.cfm) for the most accurate reproduction.*
 
 # PhotoBiz - Online Proofing Solutions for Photographers
 
