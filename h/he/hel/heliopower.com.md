@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630010959id_/http%3A//www.heliopower.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026142022id_/http%3A//www.heliopower.com/privacy_policy.html) for the most accurate reproduction.*
 
 # HelioPower | Solar Energy Solutions
 
