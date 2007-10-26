@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209011232id_/http%3A//eq.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magelo.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026060547id_/http%3A//eq.magelo.com/privacy_policy.jspa) for the most accurate reproduction.*
 
 # Magelo - EQ - Privacy policy
 
