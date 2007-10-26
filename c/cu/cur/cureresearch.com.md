@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032851id_/http%3A//www.cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026055158id_/http%3A//www.cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - CureResearch.com
+
+  
+  
+
 
 _Adviware_ recognises and values the protection of your personal information. _Adviware_ also recognises our customers’ concerns about the collection of any personal information and how _Adviware_ will use that information. _Adviware_ observes and is governed by the National Privacy Principles pursuant to the Australian Privacy Act 1988 (Cth). _Adviware_ has implemented this privacy policy in order to reassure our customers about how _Adviware_ will use any collected personal information. 
 
@@ -81,3 +85,5 @@ If you have any concerns or questions, please contact _Adviware_ via our email p
 We appreciate you taking the time to read the _Adviware_ Privacy Statement. 
 
 © 2005 Adviware Pty Ltd. All Rights Reserved 
+
+_Privacy Statement last updated 4 January 2005_
