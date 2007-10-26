@@ -1,30 +1,52 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175030id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026083927id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
 
-# NearlyGood.com - Privacy Policy
+# Nearly Good - Privacy Policy
 
-NearlyGood.com does not sell, rent, or disclose any personal information about our visitors to our subsidiaries or other organisations.
+**Introduction**
 
-NearlyGood.com does not collect any unique information about you (such as your name, E-mail address, etc.) except when you specifically and knowingly provide such information. NearlyGood.com currently collects information about browser types, operating systems, screen resolution, screen colors, and other information which we can use to help design our web sites. These are basic computer statistics which can only be used to make a demographic of the visitors to the Site which can then be used for the following purposes: 
+Nearly Good respects the privacy of the visitors to this website and thus, have a firm commitment which we uphold. 
 
-  * Technical administration of the Web Site 
-  * Research and development 
-  * Customer administrationr 
-  * Marketing 
+On this page you will find our policies towards information gathering and dissemination practices which cover NearlyGood.com. 
 
-  
-NearlyGood.com uses cookies to store or link information about visitors. This is for the following purposes: 
+From now on NearlyGood.com will be referred as 'we', 'us' and 'the site'. 
 
-  * Message boards 
-  * Services related to the Message boards 
+**Information Logged**
 
-  
-We, or our advertisers may automatically log information about NearlyGood.com visitors, this is done for the following purposes: 
+We may log your IP address at various points around the site. Such as; when you leave a comment, rate an item or follow an internal advertising link. 
 
-  * Research and development 
-  * Marketing 
-  * General Administration 
+We may also log your IP address to aid us in diagnosing problems with our website or server or to administer the site. 
 
-  
-NearlyGood.com is not responsible for anything on its affiliates web sites The sites linked to by NearlyGood.com are developed by people over whom NearlyGood.com exercises no control. These other sites may send their own cookies to users, collect data, or solicit personal information. We recommend going to the affiliates web site for information on their privacy policy.
+Your IP address will never be used to attempt to identify you or your computer and will never be passed on to any 3rd parties. 
 
-If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please contact me at nearlygood@gmail.com 
+We do not collect any unique information about you (such as your name, E-mail address, etc.) except when you specifically and knowingly provide such information. 
+
+Currently, we collect information about browser types, operating systems, screen resolution, screen colors, and other information which we can use to help design our web sites. These are basic computer statistics which can only be used to make a demographic of the visitors to the site. 
+
+**Cookies**
+
+Our member system uses cookies to recognise you when you are logged into the site. 
+
+Other cookies may be used throughout the site by external ad providers. Please see 'advertisers' header below for more information on this. 
+
+**External Links**
+
+We regularly provide links to external web sites. We cannot be held responsible for the content or the privacy policies of these sites. 
+
+Please be careful when clicking on external links and be sure to check their own privacy policy if you are unsure. 
+
+**Mailing List**
+
+Our mailing list is strictly opt-in only and you can always unsubscribe by going to [this page](https://web.archive.org/maillist.html) or following the instructions at the bottom of any newsletter e-mail. 
+
+**Advertisers**
+
+We make use of a number of external ad providers to serve adverts which will be of interest to our visitors. These ad providers may collect information such as your IP address, country and browser. For more information you should look up their privacy policies. 
+
+Here are the advertisers we are currently using: 
+
+\- [Ad Brite](http://www.adbrite.com/)  
+\- [Target Point](http://www.targetpoint.com/)
+
+**Contacting Nearly Good**
+
+If you have any questions about our privacy policy, you can contact me [here](https://web.archive.org/contact.html). 
