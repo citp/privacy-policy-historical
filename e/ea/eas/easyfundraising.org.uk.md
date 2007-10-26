@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609001658id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026091512id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
-# Easy Fundraising Ideas | EasyFundRaising.org.uk | easyfundraising
+# Privacy | Easy Fundraising Ideas | EasyFundRaising.org.uk | easyfundraising
 
 [Home](https://web.archive.org/home/) > [privacy](https://web.archive.org/privacy/)  
   
@@ -36,19 +36,21 @@ We do not transfer information in this way unless we need to transfer informatio
 ---  
 | 
 
-[**Accorhotels**  
-](https://web.archive.org/new_retailers)[ **Cloggs**  
-](https://web.archive.org/new_retailers)[ **WEGOLO**  
-](https://web.archive.org/new_retailers)[ **Lowcostbeds**  
-](https://web.archive.org/new_retailers)[ **Furniture123**  
-](https://web.archive.org/new_retailers)[ **Wickes**  
+[**Saverstore**  
+](https://web.archive.org/new_retailers)[ **Wilkinsons**  
+](https://web.archive.org/new_retailers)[ **Eurotunnel**  
+](https://web.archive.org/new_retailers)[ **HSBC**  
+](https://web.archive.org/new_retailers)[ **Gadgetshop**  
+](https://web.archive.org/new_retailers)[ **The Toy Shop**  
+](https://web.archive.org/new_retailers)[ **Currys i-shop**  
+](https://web.archive.org/new_retailers)[ **Hotels.com**  
 ](https://web.archive.org/new_retailers)[ more>>](https://web.archive.org/new_retailers)
 
 |   
 | 
 
   
-[](http://www.easyfundraising.org.uk/offer.php?lid=598)  
+[](http://www.easyfundraising.org.uk/offer.php?lid=152)  
 
 
 |   
