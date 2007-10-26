@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626233629id_/http%3A//humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026063637id_/http%3A//www.humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Statement
 
@@ -13,7 +13,7 @@ Relationships are built on trust. One of the most important elements of trust is
 
 ### TRUSTe
 
-Humana Inc. is a licensee of the TRUSTe Privacy Program. This Internet privacy statement applies only to information on [humana.com](https://web.archive.org/default). 
+Humana Inc. is a licensee of the TRUSTe Privacy Program. This Internet privacy statement applies only to information on Humana.com. 
 
 [](http://www.truste.org/consumers/watchdog_complaint.php)
 
@@ -43,7 +43,7 @@ Louisville, KY 40202
 **E-mail Address**  
 [privacyoffice@humana.com](mailto:privacyoffice@humana.com)
 
-If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php).  
+If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then contact [TRUSTe.](http://www.truste.org/consumers/watchdog_complaint.php)  
 TRUSTe will then serve as a liaison with the Website to resolve your concerns.
 
 ### Commitment to Confidentiality
