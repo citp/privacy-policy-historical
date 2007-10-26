@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630002607id_/http%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefarchitect.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026150807id_/http%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.*
 
 # Home Design Software - Privacy Policy
 
