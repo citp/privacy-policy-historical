@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122829id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026043517id_/http%3A//bbb.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Council of Better Business Bureaus, Inc. Online Privacy Policy
 
