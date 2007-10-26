@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2007-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070412043234id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026130400id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
 
 # Car Rental Express Privacy Policy
 
@@ -10,7 +10,7 @@ Information about Privacy on CarRentalExpress.com
 
 Car Rental Express.com Inc. is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. 
 
-If you have questions or concerns regarding this statement, please contact Stanley S Levy, President, Car Rental Express.Com Inc., via email at [ stan@carrentalexpress.com ](mailto:stan@carrentalexpress.com), by phone at 1-888-557-8188, or mail at 3337 W 4th Ave, Vancouver, B.C., Canada, V6R 1N6. This privacy policy statement covers only information that is collected through http://www.carrentalexpress.com, and does not cover information collected through any other site. 
+If you have questions or concerns regarding this statement, please contact our support department via email at [help@carrentalexpress.com ](mailto:help@carrentalexpress.com) This privacy policy statement covers only information that is collected through http://www.carrentalexpress.com, and does not cover information collected through any other site. 
 
 Collection and Use of your Personal Information
 
@@ -69,13 +69,13 @@ Car Rental Express will disclose your personal information only if required to d
 Control of your Personal Information
 
 **Choice and Opt-out**  
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you reserve a vehicle but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you do not wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@carrentalexpress.com](mailto:optout@carrentalexpress.com). We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo) or you may contact us at 1-888-557-8188 or write us at 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6.
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you reserve a vehicle but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you do not wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@carrentalexpress.com](mailto:optout@carrentalexpress.com). We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo)
 
 You will be notified before personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
 Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service(s), you may you may edit your information or opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at optout@carrentalexpress.com. We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo) or you may contact us at 1-888-557-8188 or write us at 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6 
+If your personally identifiable information changes, or if you no longer desire our service(s), you may you may edit your information or opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at optout@carrentalexpress.com. We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo) 
 
 Security of your Personal Information
 
@@ -99,7 +99,7 @@ Car Rental Express co-brands with car rental agencies world-wide. All these agen
 
 Business Transitions
 
-In the event Car Rental Express goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. You will be able to notify us if you do not wish your personally identifiable information to be transferred. You may email us at [info@carrentalexpress.com](mailto:info@carrentalexpress.com), contact us at 1-888-557-8188 or write us at 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6. 
+In the event Car Rental Express goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. You will be able to notify us if you do not wish your personally identifiable information to be transferred. You may email us at [info@carrentalexpress.com](mailto:info@carrentalexpress.com), write us at 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6. 
 
 Changes in this Privacy Statement
 
@@ -107,9 +107,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: email at privacy [policy@carrentalexpress.com](mailto:policy@carrentalexpress.com), phone 1-888-557-8188 or write to Car Rental Express.Com Inc/Privacy Policy, 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6. 
+If you have any questions or suggestions regarding our privacy policy, please contact us at: email at privacy [help@carrentalexpress.com](mailto:help@carrentalexpress.com). 
 
-Please click to view our [Terms of Use Policy](https://web.archive.org/web/20070412043234id_/http%3A//www.carrentalexpress.com/disclaimer.html) . 
+Please click to view our [Terms of Use Policy](https://web.archive.org/web/20071026130400id_/http%3A//www.carrentalexpress.com/disclaimer.html) . 
 
 © Car Rental Express.Com, Inc., 1999 - 2007. ALL RIGHTS RESERVED.  
 [Vancouver Law Firms: Piché & Company](http://www.pichelaw.com/)
