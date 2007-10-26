@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527140035id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026051441id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - TAXI Design Network
 
@@ -141,9 +141,8 @@ Due to the artistic and creative nature of HCA, its sites and its end-users, cer
 If end-users have any questions or concerns about the HCA online policy for this site or its implementation end-users may contact us by means of
 
 Main Office  
-18B Teck Lim Road  
-Singapore 088390  
-Republic of Singapore
+51A Neil Road  
+Singapore 088829
 
 Postal Address  
 Robinson Road Post Office  
