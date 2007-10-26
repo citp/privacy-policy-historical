@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212092928id_/http%3A//warpradio.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026102102id_/http%3A//www.warpradio.com/privacy.asp) for the most accurate reproduction.*
 
-# WarpRadio.com - Privacy Statement
+# WarpRadio
 
-|   | 
+Privacy Statement
 
-**What personally identifiable information WarpRadio.com collects and how it is used**
+We take guarding the privacy of the information which you provide when using WarpRadio.com seriously. Please read this policy to understand how we will treat the personal information which you give to us. Since this policy may change over time as we modify or expand our service, we suggest that you check back from time to time in order to understand how we treat your information. WarpRadio.com will include a link from this page to a page detailing any additions or changes made to this policy over the past several months, so that you can see at a glance what, if anything, has changed. 
+
+What personally identifiable information WarpRadio.com collects and how it is used:
 
 During registration,WarpRadio.com collects personal information such as your name, address, email address, birth date, gender, zip code and phone number. After providing WarpRadio.com with this information, you are no longer anonymous. You never have to answer these questions, and you can decline to provide WarpRadio.com with this information at any time. However, if you should choose to withhold requested information, you will not be eligible to participate in the WarpRadio.com Promotions and we may not be able to provide you with some of the other services dependent upon the collection of such information. We also use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
@@ -18,18 +20,18 @@ We develop summary - not individual - reports for our advertisers with the infor
 
 As we note above, WarpRadio.com may link you to third parties that we do not control. We strongly encourage you to review the policies of any such third parties to whom you may give personally identifiable information. 
 
-**What choices are available to you regarding the collection, disclosure and distribution of your information**  
+What choices are available to you regarding the collection, disclosure and distribution of your information?  
 
 
 You can always choose whether or not to disclose information through WarpRadio.com. If you wish to participate in the WarpRadio.com Promotions and register on WarpRadio.com, you must provide certain information. At your option, you may also provide us with additional information from time to time. For example, WarpRadio.com may offer additional services from time to time which may require that you provide personally identifiable information in order to use that service. We use "cookies" to let you use our services more easily, to let us keep track of certain statistical information that helps us improve our site and in connection with the operation of the WarpRadio.com promotions. 
 
-**What cookies are and how they are used**
+What cookies are and how they are used:
 
 As a standard practice, WarpRadio.com assigns a random number to each user for anonymously tracking content preferences and traffic patterns. This random number is kept in a file on your computer called a "cookie." WarpRadio.com uses cookies to track user entries in the WarpRadio.com Promotions, as well as other contests. Cookies also allow WarpRadio.com to keep track of how often users are using specific areas of our site - like limiting the number of times you hear an audio clip - without really knowing who those users are. Cookies, by themselves, cannot be used to determine the identity of any user: Unless you specifically tell us, WarpRadio.com will never know who you are. 
 
 WarpRadio.com does not require users to accept cookies in order to enjoy the site. You can set your browser to reject cookies, or to notify you when WarpRadio.com sends you a cookie. You should be aware, however, that some areas of WarpRadio.com will be significantly slower, or may not function at all, if cookies are disabled. Most importantly, if you reject cookies, you may not be able to participate in the WarpRadio.com Promotions. 
 
-**Who has access to your personally identifiable information**
+Who has access to your personally identifiable information?
 
 The individually identifiable information that you provide will be used extensively within WarpRadio.com to provide a personalized experience to you and in connection with the operation of the WarpRadio.com Promotions. It will also be shared with WarpRadio.com's partners that provide some of the personalized content on our site and other third parties unrelated to offerings on WarpRadio.com, but only if you have given your permission for this to occur. 
 
@@ -39,16 +41,19 @@ WarpRadio.com will not disclose your personally identifiable information without
 
 While WarpRadio.com strives to protect its user's personal information and privacy, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, WarpRadio.com cannot ensure or warrant the security of any information you transmit to us or from our online products. 
 
-**What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control**
+What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control?
 
 WarpRadio.com operates secure data networks that are password protected and are not available to the public. WarpRadio.com reviews its security policies on a regular basis, and changes are made as necessary. Only a select group of authorized individuals have access to our users information. 
 
-**About children's privacy**
+About children's privacy:
 
 WarpRadio.com is committed to the safety of our children. Children under 18 may not register or participate in the WarpRadio.com Promotions. If children under 18 nonetheless elect to use the WarpRadio.com service, they should always ask a parent for permission before sending any information to the site, or sending personal information to anyone online. WarpRadio.com will not request or knowingly collect from a child any information online that can be traced to the child, such as an e-mail address, name or information about the child's family. WarpRadio.com will not knowingly use personal information from children under age 13 for any marketing or promotional purposes. 
 
-**Questions regarding this policy**
+Questions regarding this policy:
 
-Questions regarding this statement should be directed to [talkback@WarpRadio.com](mailto:talkback@WarpRadio.com) or send mail to the following postal address: 6535 S. Dayton Street, Suite 3000, Greenwood Village, CO 80111   
-  
----|---
+Questions regarding this statement should be directed to:  
+[support@WarpRadio.com](mailto:support@WarpRadio.com)  
+or send mail to the following postal address:  
+10940 South Parker Road   
+#516  
+Parker, CO 80134 
