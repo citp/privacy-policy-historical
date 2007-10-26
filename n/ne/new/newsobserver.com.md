@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618091058id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026024828id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
 
 # newsobserver.com | Privacy policy
 
