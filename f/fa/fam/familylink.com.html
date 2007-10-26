@@ -1,0 +1,336 @@
+<!--The following is the downloaded HTML source of the familylink.com privacy policy that was archived on 2007-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026092033id_/http%3A//www.familylink.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="verify-v1" content="vFWeuszpo6N8yyIppRQaSmtWq0huuxWYacZjphIoHFY=">
+<title>FamilyLink.com :: Privacy</title>
+<link rel="stylesheet" type="text/css" href="themes/css/gfx/fl.css">
+<link rel="stylesheet" type="text/css" href="themes/css/gfx/fl_2.css">
+<style type="text/css">
+<!--	
+	#BLIND {
+		position: absolute; 
+		visibility: hidden; 
+		top: 0; 
+		left: 0; 
+		width: 180px;
+		height: 115px;
+		z-index: 1;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+	#blinds_panel {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 1;
+	}
+	#body{
+		position: relative;
+		z-index: 2;
+	}
+	.blind{
+		width: 180;
+		height: 115;
+		opacity: 0;
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		filter: alpha(opacity=0);
+	}
+//-->
+</style>
+<script language="JavaScript">
+<!--
+	var NotiTimer = new Array;
+	var BlindIDCount = 0;	
+	function MM_preloadImages() { //v3.0
+		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}//MM_preloadImages
+	function HS_LaunchIM(){
+		url = MainURL+"modules/instant_messenger.php?action=launch";   
+		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		imwin.focus();
+	}//HS_LaunchIM
+	function HS_LaunchChat(per_id){
+		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
+		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+		newwin.focus();
+	}//HS_LaunchChat
+	function HS_BuildBlind(){		
+		BlindIDCount++;
+		var BlindID = "BLIND_"+BlindIDCount;
+		var BlindTemplate = document.getElementById("BLIND").innerHTML;
+		var Temp = new Array;
+		Temp = BlindTemplate.split("BLIND");
+		BlindTemplate = Temp.join(BlindID);
+		var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
+		var BlindsHandler = document.getElementById("blinds_panel");
+		if(BlindsHandler.offsetHeight >= 117){
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
+		}//if
+		else{
+			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
+		}//else
+		BlindsHandler.innerHTML+= BlindContent;
+		return BlindID;
+	}//HS_BuildBlind
+	/*
+	function HS_BuildNotification(NotiType,NotiMessage){
+		BlindID = HS_BuildBlind();
+		switch(NotiType){
+			case 'im':
+				var Link = "<a href="javascript:HS_LaunchIM();">"+NotiMessage+"</a>";
+				break;
+			case 'calendar':
+				var Link = "<a href="index.php?page=calendar" target="_blank">"+NotiMessage+"</a>";
+				break;
+			case 'mailbox':
+				var Link = "<a href="index.php?page=mailbox&section=inbox" target="_blank">"+NotiMessage+"</a>";
+				break;
+			case 'view':
+				var Link = "<a href="index.php?page=views" target="_blank">"+NotiMessage+"</a>";
+				break;
+		}//switch
+		var MessageHandler = document.getElementById("notification_message_"+BlindID);
+		MessageHandler.innerHTML = Link;
+		HS_FadeBlind(BlindID,"in");
+		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
+	}//HS_BuildNotification
+	*/
+	function HS_FadeBlind(BlindID,Direction){		
+		var Timer = 0;
+		var Speed = 50;		
+		if(Direction == "in"){
+			HS_ChangeAlign('blinds_panel',3);
+			for(var i=10;i<=100;i=i+10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 
+            	Timer++;
+			}//for
+		}//if
+		else if(Direction == "out"){			
+			for(var i=90;i>=0;i=i-10){
+				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 				
+            	Timer++;
+			}//for
+			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
+			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
+		}//else if
+	}//HS_FadeBlind
+	function HS_ChangeOpacity(OpacityValue,BlindID){		
+		var BlindObjStyle = document.getElementById(BlindID).style;
+    	BlindObjStyle.opacity = (OpacityValue / 100); 
+    	BlindObjStyle.MozOpacity = (OpacityValue / 100); 
+    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100); 
+    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")"; 
+	}//HS_ChangeOpacity
+	function HS_PosBlinds(){
+		var ns = (document.layers)?1:0;
+		var Position = new Array;		
+		if(ns){
+			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+		}//if
+		else{
+			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+		}//else
+		var BlindsPanel = document.getElementById("blinds_panel");
+		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
+		BlindsPanel.style.left = Position['Left'] - 180;
+		setTimeout("HS_PosBlinds()",500);
+	}//HS_PosBlinds
+	function HS_ChangeAlign(BlindID,Pos){	
+		var BlindObjStyle = document.getElementById(BlindID).style;
+		BlindObjStyle.zIndex = Pos;
+	}//HS_ChangeAlign
+	function HS_RemoveBlind(BlindID){
+		var BlindObj = document.getElementById(BlindID);
+		BlindObj.innerHTML = "";
+	}//HS_RemoveBlind
+	function HS_CloseNotification(BlindID){
+		clearTimeout(NotiTimer[BlindID]);
+		HS_FadeBlind(BlindID,'out');
+	}//HS_CloseNotification
+//-->
+</script>
+<script src="http://www.familylink.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="http://www.familylink.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
+<script src="http://www.familylink.com/jscript/ajax_functions.js" type="text/javascript"></script>
+<script src="http://www.familylink.com/jscript/3rdparty/prototype.js" type="text/javascript"></script>
+<script src="http://www.familylink.com/jscript/3rdparty/scriptaculous.js" type="text/javascript"></script>
+<script src="/jscript/helper_functions.js" type="text/javascript"></script>
+<script src="/jscript/tree-ajax-handler.js" type="text/javascript"></script> 
+<script language="Javascript" src="/jscript/homepage-ajax-handler.js" type="text/javascript"></script>
+
+<script language="JavaScript">
+<!--
+    var MainURL = "{$url}/";
+-->
+</script>
+
+</head>
+<!--body onLoad="/*HS_PosBlinds();*/;">
+<div class="handler">
+    <div class="page family_group_page">
+                -->
+<body onload="/*HS_PosBlinds();*/;" class="profile">
+    <div id="familylink">
+   		<div class="clearfix" id="wide_column">
+			<div id="logo_left" class="clearfix">
+				<a href="http://www.familylink.com"><h2><img src="/images/spacer.gif" class="logo_left" height="75"></h2></a>
+			</div><!--logo_left-->
+			<div id="wide_top_nav">
+													<ul class="right_nav" id="wide_top_nav_2">
+					<li class="inner_right_nav">
+						<a href="">What is FamilyLink.com?</a> |
+						<a href="/index.php?page=join">Join FamilyLink.com</a> |
+						( Already a member? <a href="/index.php?page=login">Login</a>)
+					</li>
+               </ul>
+			   			</div><!-- #wide_top_nav -->
+					
+						</div><!--wide_column-->
+
+		<!--..submenu..-->
+								<div class="web_link" id="submenu">
+								 <!--PROFILE-->
+																	</div>
+				<!--web_link-->
+				
+		<div style="clear:both;"></div>
+        <!---->
+  
+		<div id="page_col" class="pagecol profile">
+	
+                        <div>
+
+<div>
+
+	<div class="blue-header">Terms of Use</div>
+<div class="sub-header"></div>
+<div class="blue-body">	
+	
+<h1 class="blue">FamilyLink.com Privacy Policy </h1>
+<div class="padded">
+  <p>This privacy statement("Privacy Statement") covers the Web site:   http://www.familylink.com, owned by WorldVitalRecords.com, and all   FamilyLink.com (“FamilyLink” “the Site”) services provided on the Site ("the   Service"). By visiting the Site, submitting information or using the Service,   you are accepting the practices outlined in this Privacy Statement.</p>
+  <p>Online privacy is important to FamilyLink. If you have any questions about   this privacy policy, please contact FamilyLink at <a href="mailto:customerservice@familylink.com">feedback@familylink.com.</a></p>
+  <p><strong>About FamilyLink</strong> </p>
+  <p>FamilyLink is a social network Web site that provides an innovative platform   to connect with individuals, research family history, and preserve memories<strong>. </strong>At FamilyLink, users set up a unique personal profile that can be viewed by   individuals throughout the world. </p>
+  <p>FamilyLink users can view the profiles of other individuals, communicate with   individuals who have researched or are currently researching in their area of   interest, meet new individuals who also participate in the service, share   photos, genealogical information, post comments, and also provide personal   information about themselves in their profile.</p>
+  <p>FamilyLink displays some personal information of members to members and   visitors to allow individuals to connect with each other and to find and   preserve their heritage.</p>
+  <br>
+  <p><strong>Information Collected by FamilyLink</strong> </p>
+  <p>FamilyLink collects user-generated information, such as name and email   address, which is used to identify users and also send notification related to   the user of the Service, such as a system-generated email that allows users to   opt in to the Service. </p>
+  <p><strong>Information Members Submit to FamilyLink </strong></p>
+  <p>Profile information including (but not limited to) name, gender, status,   location, connection, years of experience doing family history, family history   software, willingness to do local record research, as well as Internet research   for people, languages spoken and read, phone number, and Google Talk address can   be posted by the member at FamilyLink. You may choose not to submit this   information listed in the Profile and various sections on the Site., but then   you may be at a disadvantage for connecting with individuals and participating   in the Site features. This information is displayed according to whether the   member classifies his or her posting on the site as (1) visible for all to see;   (2) limited profile – only my connections can view. Photos uploaded to the site   will be visible for all who visit the site.</p>
+  <p>Members may also create AncestorPages, which allows the member to display   information about their ancestors, such as name, birth date, death dates,   historical information, as well as photos. Members who create a MyAncestor Page   have the following options for displaying the information (a) Visible to   everyone; (b) limited profile – only my connections can view; (c) private – for   personal use only. </p>
+  <p><strong>Information Collection and Use</strong> </p>
+  <p>FamilyLink will not rent, sell, trade, share, or give away any of your   personal information, unless your consent is provided.</p>
+  <p>FamilyLink automatically receives and records information on its server from   your browser, including information such as your Internet Protocol address, and   browser type information, such as cookies, and the pages you request. This   information assists FamilyLink in understanding the information that is valuable   to you, helps in managing the Web site, and also provides FamilyLink with   information to make any necessary site changes to give you the best user   experience possible.</p>
+  <p>FamilyLink may use a member’s email address to send news updates, or   promotional material. Members who does not wish to receive this information of   this type may unsubscribe by clicking on the <em>Unsubscribe or change subscriber   options</em> link located at the bottom of every email.<br>
+  </p>
+  <p>Updating/Removing Personal Information </p>
+  <p>FamilyLink members have the capability to change their profile information at   any time and can control how other members and visitors communicate with them,   as well as the personal information that is displayed.</p>
+  <p>Members may terminate their account by sending an email to   unsubscribe@familylink.com.</p>
+  <p><strong>Invitations to Non-Members</strong> </p>
+  <p>FamilyLink members can invite friends and family members to join the service   by sending them invitation emails through our automated FamilyLink system. These   individuals will participate in the same setup process by providing their name   and email address.</p>
+  <p>FamilyLink members may also store email addresses in their MyConnections   page. Invitations to join FamilyLink can be sent to individuals listed in this   location.</p>
+  <br>
+  <p><strong>Use of Cookies</strong><br>
+  </p>
+  FamilyLink uses   cookies to prepare customized Web pages for its members. Cookies are used to   store information such as preferences, and also allows the FamilyLink system to   recognize its members whenever they use their Web browser. You may be able to   configure your Web browser to accept or reject some or all of the cookies.   Cookies must be enabled on FamilyLink to access some of the features on the   site. <br>
+  <p><strong>Links</strong><br>
+      <br>
+    FamilyLink members   may post links to various sites. FamilyLink is not responsible for any content,   privacy policies or practices located on other Web sites. Members and visitors   should read and understand the privacy policies of these sites when they access   them from FamilyLink. <br>
+  </p>
+  <p><strong>Privacy Policy Changes</strong> </p>
+  <p>FamilyLink reserves the right to update this policy from time to time.   Members are bound to any minor changes in the Privacy Policy upon using the   site, once the changes have been made. Members will be notified of any   significant changes to this policy by email. <br>
+  </p>
+  <p><strong>Questions and Suggestions. </strong></p>
+  <p>If you have questions or suggestions regarding this Privacy Policy, please   send an email to <a href="mailto:feedback@familylink.com">feedback@familylink.com</a>.</p>
+  <p>You may also contact us at:</p>
+  <p>FamilyLink<br>
+    1234 North 900 East, Suite 201<br>
+    Provo, UT 84606 </p>
+</div>
+	<div style="clear:both;"></div>
+</div>	
+</div>
+
+</div></div><!-- #page_body -->
+
+<div style="clear:both;height:5px;"><img src="themes/css/gfx/spacer.gif" alt="" border="0" width="1" height="1"></div>
+
+
+<div class="footer"> FamilyLink.com, a service of <a href="http://www.worldvitalrecords.com/?cpn=familylink" class="wvr">WorldVitalRecords.com</a> | <a href="/index.php?page=terms">Terms</a> | <a href="/index.php?page=privacy">Privacy</a></div>
+
+</div><!-- #sidebar -->
+
+<!-- #book -->
+
+ 
+<!-- SiteCatalyst code version: H.9.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+
+
+
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://plabfamilylink.112.2O7.net/b/ss/plabfamilylink/1/H.9--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.9. -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-acpqa6Vva0516";quantserve();</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-acpqa6Vva0516.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+
+</body></html>
