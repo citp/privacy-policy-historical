@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404212528id_/http%3A//www.checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026033137id_/http%3A//www.checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
 
 # CheckM8 - Rich Media and Online Ad Technology
 
@@ -6,7 +6,7 @@
 
  **
 
-\- Last Updated 1/7/06 -
+\- Last Updated 7/14/07 -
 
 **
 
@@ -28,15 +28,27 @@ CheckM8 uses collected consumer data information for the sole purposes of provid
 
 CheckM8 cookie usage and ad delivery and reporting data upholds full compliance to the Network Advertising Initiative definition of Non-Personally Identifiable Information (Non-PII) and the Safe Harbor agreement under Directive 95/46/EC with the European Union. This means that none of the data can be correlated to any individual Internet consumer, and therefore it cannot be applied for profiling purposes. 
 
+**Consumer Advisory on Blocking or Deleting Cookies**
+
+End-users may block or delete cookies stored on your computer. The following information is an informative guideline on how to do so on the majority share of user browsers at this point in time: 
+
+_Step by Step Instructions to Block Cookies on Internet Explorer 6.x or 7.x_ :   
+1.Click the Tools button, click Internet Options, and then select the Privacy tab.   
+2\. Move the slider completely up to Block All Cookies. On this setting, websites will not be able to store cookies on your computer.   
+* Note: Blocking all cookies may prevent you from accessing websites. 
+
+_Step by Step Instructions to Delete Cookies on Internet Explorer 6.x or 7.x_ :   
+1.Click the Tools button, click Internet Options, and then select Settings tab.   
+2.Select the View Files button.   
+3.Select and delete the cookies you want to be removed from your hard drive. 
+
+_Step by Step Instructions to Block Cookies on Firefox 1.x or 2.x_ :   
+1.Click the Tools button, click Options, and then select the Privacy tab.   
+2\. Unselect "Accept Cookies from Sites”. On this setting, websites will not be able to store cookies on your computer.   
+* Note: Blocking all cookies may prevent you from accessing websites. 
+
+_Step by Step Instructions to Delete Cookies on Firefox 1.x or 2.x_ :   
+1.Click the Tools button, click Options, and then select the Privacy tab.   
+2.Click the “Clear Now” button, select “Cookies”, and then click on “Clear Private Data Now”. 
+
 CheckM8, Inc. reserves the right to modify this privacy policy statement at any time without notice. As such, and for the sake of ease for interested parties to keep up-to-date with the policy, a Last Updated denotation will be clearly posted whenever modified. Please address any questions or concerns to: [privacy@checkm8.com](mailto:privacy@checkm8.com). 
-
-| | 
-
-**Testimonials**
-
-"We have evaluated several different technologies, and we found CheckM8 technology far more advanced than any other technology. CheckM8 technology will allow us to improve campaign performance through rich media while maintaining fastest time-to-market and controlling production costs, and allow us to continue leading the market in Japan while providing the best service to our clients".
-
-**Toshio Arai, President & CEO, CCI**
-
-  
-
