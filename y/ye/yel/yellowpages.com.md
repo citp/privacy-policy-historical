@@ -1,70 +1,104 @@
-> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617103145id_/http%3A//info.yellowpages.com/asp/static/corpinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026152501id_/http%3A//www.yellowpages.com/about/privacy) for the most accurate reproduction.*
 
-# YellowPages.com (SM) > Privacy Policy > How We Respect Yours!
+# Privacy Policy - YELLOWPAGES.COM
 
-How We Handle Your Privacy at YellowPages.com 
+## Our Commitment: Respecting and Protecting Your Privacy
 
-Welcome to YellowPages.com!
+Your privacy is important to us. YELLOWPAGES.COM respects and takes steps to protect the privacy of our customers. We strive to take reasonable care of information we may receive from you.
 
-It is of the utmost importance for us at YellowPages.com to ensure that this, and every subsequent visit you make to our website, is with complete peace of mind. You have every right to trust and to expect confidentiality, and it is our duty to respect this right. 
+#### The Scope of This Privacy Policy
 
-Your privacy is our priority. As such, we believe you should have an unrestricted view into how we collect data about the people who visit our site - yourself included - and what we do with that data. 
+This Privacy Policy addresses the privacy of visitors to the YELLOWPAGES.COM Web sites. It identifies the type of data and information YELLOWPAGES.COM collects from visitors, how we use and disclose it, and the steps we take to protect privacy.
 
-So, this is the part where we show our true colors. In black, white and Yellow, here is your Privacy Policy from YellowPages.com.
+#### What Information We Collect and How We Use It
 
-Every time you visit YellowPages.com, you may be providing some, even all, of the following information: 
+##### Information We Collect
 
-If you harbor any concerns about YellowPages.com selling any personally identifiable information to any telemarketing, direct marketing or commercial mass email companies, agents or representatives, don't. Because we won't. Ever.
+YELLOWPAGES.COM collects personal information when you register with YELLOWPAGES.COM, when you use YELLOWPAGES.COM products and services, when you visit YELLOWPAGES.COM pages or the pages of certain YELLOWPAGES.COM partners, and when you enter promotions or sweepstakes.
 
-Okay, except if you tell us it's okay to do so. Here are the only instances YellowPages.com could maybe, perhaps, possibly send personally identifiable information to other companies or people: 
+We may, additionally, track non-personal information about your visit, including the domain name and the name of the Web page from which you entered our site, how much time you spend on each of our pages, and the IP address associated with your computer. We use this information to improve the performance and operation of our site.
 
-It works like this: the more we know about your visit to YellowPages.com, the more you benefit. 
+When you register, we ask for information such as your name, e-mail address, birth date, gender, ZIP code, occupation, industry, and personal interests. For the purchase of YELLOWPAGES.COM Advertising Products we may also ask for your address, Social Security number, and credit card information. Once you register with YELLOWPAGES.COM and sign in to our services, you are not anonymous to us and we protect your personal information (see Security below).
 
-Which is why we collect information. Not about you personally, because that would be less than honest, but about what you did while visiting our website. 
+YELLOWPAGES.COM collects information about your transactions with us and with some of our business partners, including information about your use of products and services that we offer.
 
-"So how do I benefit from this?" you ask? 
+YELLOWPAGES.COM automatically receives and records information on our server logs from your browser, including your IP address, YELLOWPAGES.COM cookie information, and the page you request.
 
-Good question. It's what we do with this information that matters. For instance, it provides YellowPages.com with valuable feedback which we use to improve both our site and our services. One good example: we can inform YellowPages.com advertisers how many people saw or clicked on their ads - plus, how many people saw or clicked on ads in different sections of our website. 
+YELLOWPAGES.COM uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide statistical reporting for internal and external clients.
 
-We also monitor information so that we can produce aggregate reports for internal use - and for use by third parties, including YellowPages.com advertisers. Aggregate reports are mostly statistical and deal with people behavior on the website, not individual behavior. 
+##### Your Ability to Edit Your Account Information and Preferences
 
-From time to time we may release information about aggregate user characteristics. But - and this is a big but - we do not include any personally identifiable information about you or your individual online usage patterns. Rest assured. 
+You can edit your YELLOWPAGES.COM Account Information, including your marketing preferences, at any time. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. We reserve the right to send you certain communications relating to the YELLOWPAGES.COM service, such as service announcements and administrative messages that are considered part of your YELLOWPAGES.COM account, without offering you the opportunity to opt-out of receiving them.
 
-YellowPages.com collects information about your site usage through cookies (the computer variety!) and through our server log files, including IP Addresses. Importantly, YellowPages.com does not link IP Addresses to any personally identifiable information. 
+##### Cookies and Related Technologies
 
-With cookies, we can customize areas of YellowPages.com content according to your preferences. What's more, Cookies allow us to target our advertisements and limit the number of times you see pop-unders on our site. Some people consider this a distinct bonus! 
+A cookie is a small file that is stored on the hard drive of your computer, ready for future access when you return to our site. We may use cookies to tailor and improve the content we deliver to you while you are on our site. The cookies do not contain or capture any personal information. You can configure your computer's browser to alert you when a site is attempting to send you a cookie, and then you can accept or refuse the cookie. Your decision to refuse cookies from YELLOWPAGES.COM will not prevent you from using our site, but may limit your ability to take advantage of some of our advanced features.
 
-Cookies tell us nothing about you personally, unless of course you elect to give us additional information about yourself. 
+On some of the pages on our site we may also use small bits of computer code called "one-pixel gifs," "clear gifs," or "Web beacons" embedded in Web pages to monitor the activity on our Web site. Again, the technology does not capture or contain any personal information.
 
-You can always disable the cookie function if you so choose. However, the YellowPages.com website will still be viewable, even though you may lose the ability to use some of its advanced features. (Which will be a great pity because we built our website for you to enjoy. ) 
+##### Children
 
-Some of the banner and display ads on YellowPages.com are provided by third party ad servers. These ads may also contain cookies. Information collected through cookies associated with third party ads are collected by the third party and we do not always have access to this information. It is our policy, however, to only use reputable third parties to serve the advertisements that are placed within our site. 
+Protecting the privacy of the very young is especially important. The YELLOWPAGES.COM web site is not designed to attract children under the age of 13 and YELLOWPAGES.COM does not knowingly collect personal information from children on our Web site.
 
-We urge you to find out more about the information gathering practices and 'opt-out' procedures of our third party ad servers, by looking at their privacy policies at: 
+##### Third Party Advertisers and External Links
 
-<http://www.doubleclick.net/us/corporate/privacy>   
-<http://www.realmedia.com/privacy.html>   
-<http://www.advertising.com/privacy_policy.htm>   
-<http://www.specificclick.com/privacy.htm>
+Some YELLOWPAGES.COM Web sites may accept advertisements from third-party advertisers or provide links to external Web sites. Please check the privacy policy of these advertisers and sites for information regarding their collection of information and use of cookies. We are not responsible for the content or privacy practices of other Web sites. Our partners or advertisers may use third parties to serve or present the ads that appear on our site. These third parties may place cookies on your browser when you visit our site. Any third party cookies are subject to the privacy policy of the company placing them.
 
-If you should (hopefully!) order any product(s) from YellowPages.com, we will collect personally identifiable data from you in order to process the transaction and to provide you with the support and tools required to maintain and modify your directory listings. 
+##### Information We Disclose To Third Parties
 
-YellowPages.com also collects personally identifiable data from you when you request corrections to, or deletions of, directory listings in order to process your request. 
+We may use aggregated information concerning how visitors use our Web site and share such information with third parties in order to improve our Web site and to help us attract advertisers and listings. For example, we may share how many individuals visited our Web site and on average how long they stayed on each page. Such use and sharing of aggregated information will not reveal any of your personal information to third parties.
 
-We also collect personally identifiable data in other situations where you knowingly provide us with such information. For example, when you complete online surveys, participate in a sweepstakes or contest, or communicate with our Member Services team. 
+YELLOWPAGES.COM does not rent, sell, disclose or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-Should you ever need to, you can change or correct information about yourself and your account by contacting us at: [support@YellowPages.com](mailto:support@yellowpages.com). 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of YELLOWPAGES.COM's terms of use, or as otherwise required by law;
+  * We transfer information about you if YELLOWPAGES.COM is acquired by or merged with another company. In this event, YELLOWPAGES.COM will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-YellowPages.com understands how important it is to protect you and your information. We take security seriously, online and offline. All sensitive information, including credit card details, is encrypted using the very latest server technology. 
 
-Your browser should let you know when you are about to make a secure connection by an image of an unbroken key or a closed lock (as shown below) at the bottom corner of your browser. If the image is broken or open, your connection is not secure. 
 
-Changes to this Privacy Policy 
+YELLOWPAGES.COM does not provide any personal information to the advertiser when you interact with or view an ad.
 
-From time to time YellowPages.com may amend this Policy. 
+##### Security
 
-Should we at any stage make substantial changes in the way we use your personal information, we will alert you by posting a prominent announcement on our website homepage. 
+YELLOWPAGES.COM takes your security seriously and takes reasonable steps to protect your information. No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of any firewalls or secure server software we may employ. YELLOWPAGES.COM continues to evaluate and implement enhancements in security technology and practices, however we can only take steps to help reduce the risks of unauthorized access. YELLOWPAGES.COM has taken the following steps in this regard:
 
-We invite you to return as often as possible to check for any such announcement or just because you enjoy using YellowPages.com. Or for any reason you may have, we really don't mind!
+  * ##### Secure Socket Layer (SSL)
 
-Against the grain we know, but YellowPages.com actually will reply to you personally with any questions, suggestions, criticisms or unrestrained joy you may experience with this Privacy Policy. Don't be shy! Contact us at: [p3p@yellowpages.com](mailto:p3p@yellowpages.com)
+YELLOWPAGES.COM uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as registration information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time YELLOWPAGES.COM asks you for a credit card number on YELLOWPAGES.COM for payment or for verification purposes, it will be SSL encrypted. The information you provide will be stored securely on our servers. Once you choose to store or enter your credit card number on YELLOWPAGES.COM, it will not be displayed back to you in its entirety when you retrieve or edit it in the future. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
+
+  * ##### Secure Storage
+
+YELLOWPAGES.COM maintains reasonable physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+
+  * ##### Vendors and Partners
+
+YELLOWPAGES.COM works with vendors and partners to protect the security and privacy of user information.
+
+  * ##### Employee and Contractor Access to Information
+
+YELLOWPAGES.COM limits access to personal information about you to those employees who we reasonably believe need to come into contact with that information to provide products or services to you or in order to do their jobs.
+
+  * ##### Education and Training for Employees
+
+YELLOWPAGES.COM has implemented a company-wide education and training program about security that is required of every YELLOWPAGES.COM employee.
+
+
+
+
+If YELLOWPAGES.COM learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. YELLOWPAGES.COM may post a notice on our Web site if a security breach occurs. If this happens, you will need a Web browser enabling you to view the YELLOWPAGES.COM Web site. YELLOWPAGES.COM may also send an e-mail to you at the e-mail address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving an electronic notice) you should notify us at [privacy@yellowpages.com](mailto:privacy@yellowpages.com).
+
+If you believe your YELLOWPAGES.COM account has been compromised, please report the incident using our [contact form](https://web.archive.org/contact_us/comments). In the event that you believe that your personal safety is at risk or if you believe that you may be the victim of identity theft or other illegal conduct, please contact the appropriate federal, state or local law enforcement agencies directly.
+
+#### Privacy Policy Updates
+
+This Privacy Policy supersedes and replaces all previously posted Privacy Policies.
+
+Our Privacy Policy is regularly reviewed and revised to make sure we continue to serve the best interests of our customers. We reserve the right to update this Privacy Policy to reflect any changes. If we decide to change our Privacy Policy, we will post those changes to this Policy and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If the change would cause us to use or disclose personal information in a manner that is materially less restrictive from that stated at the time of collection, we will notify Web visitors before implementing the change.
+
+#### Contacting Us: Questions, Comments, & Concerns:
+
+YELLOWPAGES.COM will happily address any concerns about its online privacy practices and policies; please e-mail us at [privacy@yellowpages.com](mailto:privacy@yellowpages.com).
+
+To be removed from future YELLOWPAGES.COM marketing e-mail campaigns, please e-mail [remove@yellowpages.com](mailto:remove@yellowpages.com).
+
+Effective: July 27, 2006
