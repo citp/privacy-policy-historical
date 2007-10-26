@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026103825id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
 ## General Privacy Policies
 
-_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically request to be added to any lists. Now here is the legal stuff:
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20071026103825id_/http%3A//www.godandscience.org/newsletter.html). Now here is the legal/technical stuff:
 
 ## About Us
 
@@ -19,7 +19,7 @@ We invite you to contact us if you have questions about this policy. You may con
     Pasadena, CA 91117
     USA
 
-You may contact us by e-mail by [clicking here](https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/contact/contact.php?Rich). 
+You may contact us by e-mail by [clicking here](https://web.archive.org/web/20071026103825id_/http%3A//www.godandscience.org/formmail.html).
 
 ## Dispute Resolution and Privacy Seals
 
@@ -39,7 +39,7 @@ P3P policies declare the data they collect in groups (also referred to as "state
 
 * * *
 
-### Group "Basic information"
+## Group "Basic information"
 
 We collect the following information:
 
@@ -65,7 +65,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-### Group "Cookies"
+## Group "Cookies"
 
 We collect the following information:
 
@@ -90,7 +90,7 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-### Group "Mailing registration"
+## Group "Mailing registration"
 
 At the user's option, we will collect the following data: 
 
@@ -129,7 +129,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 ## Compact Policy Summary
 
-The compact policy which corresponds to this policy is:
+The compact policy which corresponds to this privacy policy is:
 
   
     CP="CAO DSP COR CURa ADMa DEVa TAIa CONi OUR IND ONL UNI COM NAV INT PRE"  
@@ -137,7 +137,7 @@ The compact policy which corresponds to this policy is:
 
 The following table explains the meaning of each field in the compact policy. 
 
-**Field**|  **Meaning**  
+Compact Policy Field | Meaning  
 ---|---  
 CP= | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 CAO |  Access is available to contact and other information.   
@@ -157,7 +157,5 @@ NAV |  Navigation and clickstream data is collected.
 INT |  Interactive data is collected.   
 PRE |  Preference information is collected.   
   
-<< back
-
-https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/privacy.html   
-Last Modified May 18, 2006
+https://web.archive.org/web/20071026103825id_/http%3A//www.godandscience.org/privacy.html   
+Last Modified September 15, 2007
