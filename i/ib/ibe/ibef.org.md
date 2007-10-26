@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibef.org privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430002621id_/http%3A//www.ibef.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibef.org privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026071430id_/http%3A//www.ibef.org/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
