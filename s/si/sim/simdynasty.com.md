@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514020312id_/http%3A//www.simdynasty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026065540id_/http%3A//www.simdynasty.com/privacy.jsp) for the most accurate reproduction.*
 
 # SimDynasty values your privacy and is dedicated to protecting your personal information
 
