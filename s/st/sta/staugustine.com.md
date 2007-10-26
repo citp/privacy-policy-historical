@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624144322id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026053804id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
 # staugustine.com: the oldest city's home on the Net
 
@@ -136,7 +136,6 @@ In the case of a conflict between these terms and the terms of any electronic or
 
 * * *
 
-» Get 60% off the news delivered to your home. That's just 24¢ per day. [Click here to subscribe to The St. Augustine Record.](https://secure.staugustine.com/ecart/catalog/New_Subscriber_Special.html)
+» Get 60% off the news delivered to your home. That's just 24¢ per day. [Click here to subscribe to The St. Augustine Record.](http://www.staugustine.com/subscribe.shtml)
 
-|  Find More Great Deals **Featured Advertisers**  
-
+| 
