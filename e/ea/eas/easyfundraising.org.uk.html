@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the easyfundraising.org.uk privacy policy that was archived on 2007-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070609001658id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyfundraising.org.uk privacy policy that was archived on 2007-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071026091512id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.-->
 
 <html><head>
-<title>Easy Fundraising Ideas | EasyFundRaising.org.uk | easyfundraising</title>
+<title>Privacy | Easy Fundraising Ideas | EasyFundRaising.org.uk | easyfundraising</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/css/style.css" rel="stylesheet" type="text/css">
-<script src="http://www.easyfundraising.org.uk/js/ajaxRPC.js"></script>
-<script src="http://www.easyfundraising.org.uk/js/js_functions.js"></script>
+<script src="/js/ajaxRPC.js"></script>
+<script src="/js/js_functions.js"></script>
 <script language="JavaScript" type="text/javascript">
 function toggle(t,d){
 	tt=document.getElementById(t);
@@ -131,7 +131,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 </head>
 
 
-<body>
+<body onload="posImgToObj('easysearchObj', 'easysearchAdFooter', 128, 10);" onresize="posImgToObj('easysearchObj', 'easysearchAdFooter', 128, 10);">
 
 <table width="745" border="0" align="center" cellpadding="0" cellspacing="0">
 
@@ -144,7 +144,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 <tr>
     <td width="26" valign="top"><img src="/images/header_left.gif" width="26"></td>
     <td width="200" valign="middle"><a href="http://www.easyfundraising.org.uk/"><img src="/images/logo.gif" border="0" alt="Easyfundraising.org.uk" title="Easyfundraising.org.uk" width="200"></a></td>
-    <td width="493" align="right" style="padding-bottom: 9px;"><a href="http://www.easyfundraising.org.uk/offer.php?lid=17" target="_blank"><img src="http://www.easyfundraising.org.uk//banners/1162450515.gif" border="0"></a></td>
+    <td width="493" align="right" style="padding-bottom: 9px;"><a href="http://www.easyfundraising.org.uk/offer.php?lid=488" target="_blank"><img src="http://www.easyfundraising.org.uk//banners/1175340523.gif" border="0"></a></td>
     <td width="26" valign="top"><img src="/images/header_right.gif" width="26"></td>
 </tr>
 </tbody></table>
@@ -183,6 +183,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
+
 <td valign="bottom"><img src="/images/vertical_line.jpg" border="0"></td>
 <td><a href="/my_favourites/"><img src="/images/favourites_menu.gif" alt="My Favourites" title="My Favourites" border="0" onmouseover="this.src='/images/favourites_menu_hover.gif'" onmouseout="this.src='/images/favourites_menu.gif'"></a></td>
 <td><a href="/my_account/"><img src="/images/my_account_menu.jpg" alt="My Account" title="My Account" border="0" onmouseover="this.src='/images/my_account_menu_hover.jpg'" onmouseout="this.src='/images/my_account_menu.jpg'"></a></td>
@@ -214,7 +215,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 	
 	<table height="19" cellpadding="0" cellspacing="0" width="100%">
     	<tbody><tr height="19" align="center">
-    		<td height="19" valign="middle"><span class="menuset1" align="left">&nbsp;&nbsp; <a href="/">Home</a>&nbsp;|&nbsp; <a href="/how_it_works/">How it Works</a>&nbsp;|&nbsp; <a href="/using_this_site/">Using This Site</a>&nbsp;|&nbsp; <a href="/find_a_cause/">Find a Cause</a>&nbsp;|&nbsp; <a href="/Register/">Register</a>&nbsp;|&nbsp; <a href="/refer_a_friend/">Refer a Friend</a><!-- &nbsp;|&nbsp; <a href='/my_account/'>My Account</a> -->&nbsp;|&nbsp; <a href="/faq">FAQ</a></span></td>
+    		<td height="19" valign="middle"><span class="menuset1" align="left">&nbsp;&nbsp; <a href="/">Home</a>&nbsp;|&nbsp; <a href="/how_it_works/">How it Works</a>&nbsp;|&nbsp; <a href="/using_this_site/">Using This Site</a>&nbsp;|&nbsp; <a href="/find_a_cause/">Find a Cause</a>&nbsp;|&nbsp; <a href="/Register/">Register</a>&nbsp;|&nbsp; <a href="/refer_a_friend/">Refer a Friend</a><!-- &nbsp;|&nbsp; <a href='/my_account/'>My Account</a> -->&nbsp;|&nbsp; <a href="/faq">FAQ</a> </span></td>
     	</tr>
     </tbody></table>
 	</td>
@@ -259,7 +260,100 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 		</td>
       </tr>
       <tr>
-        <td colspan="3"><img name="orgsupport_r8_c3" src="/images/cat.jpg" width="154" height="43" border="0"></td>
+        <td colspan="3"><img name="orgsupport_r8_c3" src="/images/thirdbox3.gif" width="154" height="22" border="0"></td>
+      </tr>
+
+      <script language="JavaScript" type="text/javascript">
+
+	//Get Y absolute co-ords if object is relative
+	function objPos (obj) { 
+		var cY = obj.offsetTop;
+		var cX = obj.offsetLeft;
+		while((obj = obj.offsetParent) != null) { 
+			cY += obj.offsetTop;
+			cX += obj.offsetLeft;
+		}
+		return {x:cX, y:cY};
+	}
+
+	// Png Image HTML
+	function imgPng (i) {
+		
+		//Browser Version
+		var arVersion = navigator.appVersion.split("MSIE");
+		var ieVersion = parseFloat(arVersion);
+
+		var cssWidth = i.width ? 'width: '+i.width+';' : '';
+		var cssHeight = i.height ? 'height: '+i.height+';' : '';
+		var css = i.css ? i.css : '';
+		var alt = i.alt ? 'title="'+i.alt+'"' : '';
+
+		i.iclass = i.iclass ? 'class="'+i.iclass+'"' : '';
+		i.width = i.width ? 'width="'+i.width+'"' : '';
+		i.height = i.height ? 'height="'+i.height+'"' : '';
+		i.border = i.border ? 'border="'+i.border+'"' : 'border="0"';
+		i.alt = i.alt ? 'alt="'+i.alt+'"' : 'alt=""';
+		i.css = i.css ? 'style="'+i.css+'"' : '';
+
+		//Apply IE 5.5, 6 PNG Fix
+		var png = ((ieVersion >= 5.5 && ieVersion < 7) && (document.body.filters)) ? '<div '+i.iclass+' style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\''+i.src+'\', sizingMethod=\'scale\'); '+cssWidth+cssHeight+css+alt+'"></div>' : '<img src="'+i.src+'" '+i.width+' '+i.height+' '+i.iclass+' '+i.border+' '+i.alt+' '+i.css+'>';
+
+		return png;
+
+	}
+
+	function posImgToObj(imgId, objId, offsetX, offsetY) {
+		
+		//Get object target position
+		obj = document.getElementById(objId);
+		var objP = objPos(obj);
+
+		img = document.getElementById(imgId);
+		img.style.top = objP.y + offsetY + 'px';
+		img.style.left = objP.x + offsetX + 'px';
+		img.style.display = '';
+	}
+
+</script>
+
+
+      <tr>
+        <td colspan="3"><img name="orgsupport_r8_c3" src="/images/box_container/heading_easysearch.gif" width="154" height="24" border="0" style="cursor: pointer;" onclick="location.href('/how_it_works:_easysearch/');"></td>
+      </tr>
+      <tr>
+        <td width="12" background="/images/orgsupport_r6_c3.jpg" style="cursor: pointer;" onclick="location.href('/how_it_works:_easysearch/');">
+			<img name="orgsupport_r6_c3" src="/images/orgsupport_r6_c3.jpg" width="10" height="38" border="0">
+		</td>
+		<td width="134" valign="top" bgcolor="#F0F4FB" class="content" style="font-family: arial; font-size: 11px; font-weight: normal; cursor: pointer;" onclick="location.href('/how_it_works:_easysearch/');">
+			<div style="padding-left: 3px; padding-top: 10px; padding-bottom: 12px;">
+				<div style="width: 128px; background-image: url('/images/custom/icon-magnify.gif'); background-repeat: no-repeat; background-position: center right; line-height: 120%;">
+					Now raise funds for<br>
+					your cause when<br>
+					you search the web....
+				</div>
+
+				<!--
+				<div style="padding-top: 5px; padding-left: 0px;">
+					<div><img src="/images/small_arrow.gif" border="0" alt="" style="vertical-align: middle;"> <a href="/how_it_works_easysearch/">How it works</a></div>
+					<div><img src="/images/small_arrow.gif" border="0" alt="" style="vertical-align: middle;"> <a href="http://www.easysearch.org.uk/" target="_blank">Go to easysearch.org.uk</a></div>
+				</div>
+				 -->
+
+			</div>
+			<a href="/how_it_works:_easysearch/"><img src="/images/box_container/easysearch_new_sticker.gif" id="easysearchObj" border="0" alt="" style="position: absolute; top: 506px; left: 453px;"></a>
+		</td>
+		<td width="8" background="/images/orgsupport_r6_c5.jpg">
+			<img name="orgsupport_r6_c5" src="/images/orgsupport_r6_c5.jpg" width="8" height="38" border="0">
+		</td>
+      </tr>
+      <tr>
+        <td colspan="3"><div style="padding-bottom: 5px;"><a href="/how_it_works:_easysearch/"><img src="/images/box_container/easysearch.jpg" id="easysearchAdFooter" width="154" height="38" border="0"></a></div></td>
+      </tr>
+
+	  <!-- cursor: pointer;" onclick="window.open('http://www.easysearch.org.uk/', '_blank');" -->
+
+      <tr>
+        <td colspan="3"><img name="orgsupport_r8_c3" src="/images/box_container/heading_categories.gif" width="154" height="26" border="0"></td>
       </tr>
       <tr>
         <td background="/images/orgsupport_r10_c3.jpg" bgcolor="#F0F4FB">&nbsp;</td>
@@ -399,7 +493,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
     <td width="120" bgcolor="#F0F4FB" style="padding-top:8px;padding-left:7px;" align="center"><center>
 	
 	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="120" height="88" id="side banner yellow free" align="center">
-		<param name="movie" value="/eletter/images/2007_may/side_banner_030507.swf"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <param name="bgcolor" value="#FFFFFF"> <embed src="/eletter/images/2007_may/side_banner_030507.swf" quality="high" bgcolor="#FFFFFF" width="132" height="88" name="side banner" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+		<param name="movie" value="/eletter/images/2007_oct/side_banner_300907.swf"> <param name="quality" value="high"> <param name="wmode" value="transparent"> <param name="bgcolor" value="#FFFFFF"> <embed src="/eletter/images/2007_oct/side_banner_300907.swf" quality="high" bgcolor="#FFFFFF" width="132" height="88" name="side banner" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 	</object>
 
 	<script type="text/javascript" src="/templates/ieupdate.js"></script>
@@ -434,14 +528,14 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
 <tr>
 <td width="12" background="/images/orgsupport_r6_c3.jpg"><img height="38" alt="" src="/images/orgsupport_r6_c3.jpg" width="10" border="0" name="orgsupport_r6_c3"></td>
 <td valign="top" width="134" bgcolor="#F0F4FB"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font color="black"><font size="1"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font color="black"><font size="1"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font face="Arial"><font color="#0000ff">
-<p align="center"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font color="black"><font size="1"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font face="Arial"><font color="#0000ff"><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Accorhotels</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Cloggs</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>WEGOLO</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Lowcostbeds</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Furniture123</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Wickes</b><br></a><a href="/new_retailers"><font color="#0000ff">more&gt;&gt;</font></a></font></font></font></span></span></span></font></font></font></span></p></font></font></font></span></span></span></font></font></font></span></span></span></span></font></font></font></span></td>
+<p align="center"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font color="black"><font size="1"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><span style="FONT-SIZE: 11px; font-color: black"><font color="black"><font face="Arial"><font color="#0000ff"><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Saverstore</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Wilkinsons</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Eurotunnel</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>HSBC</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Gadgetshop</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>The Toy Shop</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Currys i-shop</b><br></a><a href="/new_retailers" style="FONT-SIZE: 11px; font-size:11px; color: black; font-family:arial;"><b>Hotels.com</b><br></a><a href="/new_retailers"><font color="#0000ff">more&gt;&gt;</font></a></font></font></font></span></span></span></font></font></font></span></p></font></font></font></span></span></span></font></font></font></span></span></span></span></font></font></font></span></td>
 <td width="8" background="/images/orgsupport_r6_c5.jpg"><img height="38" alt="" src="/images/orgsupport_r6_c5.jpg" width="8" border="0" name="orgsupport_r6_c5"></td></tr>
 <tr>
 <td colspan="3"><img src="/images/custom//offers2.jpg"></td></tr>
 <tr>
 <td background="/images/orgsupport_r10_c3.jpg"></td>
 <td style="VERTICAL-ALIGN: top; BACKGROUND-COLOR: #f0f4fb; TEXT-ALIGN: left" valign="top" bgcolor="#F0F4FB">
-<p align="center"><br><a href="http://www.easyfundraising.org.uk/offer.php?lid=598" target="_blank"><img src="http://www.easyfundraising.org.uk//banners/1177967122.gif" border="0"></a><br></p></td>
+<p align="center"><br><a href="http://www.easyfundraising.org.uk/offer.php?lid=152" target="_blank"><img src="http://www.easyfundraising.org.uk//banners/1189834656.gif" border="0"></a><br></p></td>
 <td background="/images/orgsupport_r10_c5.jpg"></td></tr>
 <tr>
 <td colspan="3"><img height="22" alt="" src="/images/orgsupport_r18_c3.jpg" width="154" border="0" name="orgsupport_r18_c3"></td></tr><!-- Start -->
@@ -486,7 +580,7 @@ function openTree(l, p, link, sub_links, current_id, load_my_children) {
     <td align="right"><img src="/images/bottom.jpg" width="741" height="22"></td>
   </tr>
   <tr>
-    <td colspan="4"><div class="menuset1" align="center"><a href="/privacy/">Privacy Policy</a> | <a href="/terms/">Terms &amp; Conditions</a> | <a href="/contact_us/">Contact Us</a> | <a href="/new_charities_organisations/">New Charities/Organisations</a></div></td>
+    <td colspan="4"><div class="menuset1" align="center"><a href="/privacy/">Privacy Policy</a> | <a href="/terms/">Terms &amp; Conditions</a> | <a href="/contact_us/">Contact Us</a> | <a href="/new_charities_organisations/">New Charities/Organisations</a> | <a href="/how_it_works:_easysearch/">easysearch.org.uk</a></div></td>
   </tr>
   </tbody></table>
   </td></tr>
