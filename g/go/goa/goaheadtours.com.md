@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527143432id_/http%3A//www.goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026070632id_/http%3A//www.goaheadtours.com/master/info/privacy.asp) for the most accurate reproduction.*
 
 # Go Ahead Tours
 
-**Effective date: June 1, 2004**
-
- **Our Commitment to Privacy**
+**Our Commitment to Privacy**
 
 Goaheadtours.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadtours.com website. 
 
