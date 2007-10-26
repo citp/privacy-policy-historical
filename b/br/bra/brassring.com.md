@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614061547id_/http%3A//www.brassring.com/en/html/constants/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brassring.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026052700id_/http%3A//www.brassring.com/en/html/constants/privacy.asp) for the most accurate reproduction.*
 
-# BrassRing: Privacy Policy
+# Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.brassring.com&sealid=103)The following sets forth Kenexa BrassRing, Inc.’s  privacy policy, which contains four separate sections as follows: 
 
