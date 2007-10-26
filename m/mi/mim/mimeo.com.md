@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045521id_/http%3A//www.mimeo.com/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026101538id_/http%3A//mimeo.com/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Mimeo.com
 
