@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 511tactical.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504045037id_/http%3A//www.511tactical.com/index.asp%3FdlrID%3D511%26pageID%3DCSIDprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 511tactical.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026042301id_/http%3A//www.511tactical.com/index.asp%3FdlrID%3D511%26pageID%3DCSIDprivacy) for the most accurate reproduction.*
 
 # 5.11 Tactical Series
 
