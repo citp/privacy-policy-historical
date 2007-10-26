@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2007-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070117213518id_/http%3A//rebelsport.com.au/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelsport.com.au privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026150740id_/http%3A//rebelsport.com.au/help/privacy.html) for the most accurate reproduction.*
 
 # Rebel Sport
 
