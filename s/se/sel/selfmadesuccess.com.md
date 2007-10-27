@@ -1,93 +1,60 @@
-> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607000832id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027082724id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-   **Privacy Statement**
+...
 
-This privacy statement covers www.selfmadesuccess.com which is a website for the marketing and promotion services of "JoNaf Marketing Ltd" and covers the following areas: 
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by JoNaf Marketing Ltd (collectively, "Services") ("Authorized Customers"). 
 
-What personally identifiable information "JoNaf Marketing Ltd" collects. How "JoNaf Marketing Ltd" uses the information. What choices are available to users regarding collection and use of the information. What types of security procedures are in place to protect the loss, misuse or alteration of information under "JoNaf Marketing Ltd" control. How users can correct any inaccuracies in the information. 
+  
+**"Personally Identifiable Information"**   
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
-If users have questions or concerns regarding this statement, they should contact "JoNaf Marketing Ltd" by email at: [ privacy@selfmadesuccess.com](mailto:privacy@selfmadesuccess.com) This policy covers only information that is collected through this Web site. Through this privacy statement selfmadesuccess.com has agreed to notify users of: 
+**What Personally Identifiable Information is collected?**  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-**Information Collection and Use**
+**What organizations are collecting the information?**  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-**Information Collection**
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-"JoNaf Marketing Ltd" is the sole owner of the information collected on selfmadesuccess.com. "JoNaf Marketing Ltd" collects information from our users at the following points on our Web site. 
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
 
-**Registration**   
-You can access our Web site home page and browse our site without disclosing your personal data. 
+**How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by JoNaf Marketing Ltd is securely stored and is not accessible to third parties or employees of JoNaf Marketing Ltd except for use as indicated above.
 
-**Order**   
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. 
+**What choices are available to Visitors regarding collection, use and distribution of the information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com)
 
-**Information Use**   
-The information collected through our website on the order form and subscription form will not be passed to any third party without your consent. When you provide any information to us it will only be used in the matter for which it is intended as described in this document. Your personal information will only be used for: 
+**Are Cookies Used on the Site?**  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**Purchasing Our Products or Annual Subscription:** When you place an order for our products or annual subscription. 
+**How does JoNaf Marketing Ltd use login information?**  
+JoNaf Marketing Ltd uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-We respect your privacy and will not disclose or sell any of your personal or business information for any reason. 
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+JoNaf Marketing Ltd has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
+Our privacy policy does not cover their collection or use of this information.
 
-**Cookies**   
-Many websites including selfmadesuccess.com use cookies to improve the experience of our users. A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
-The use of cookies on our site is simply to track where an order has been referred from so we know where the most effective places to advertise are and also to track how many times a user has visited our site so they are only presented with a popup invitation the first time they visit. This will prevent users being inundated with popup windows every time they open a page. We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
+**How does the Site keep Personally Identifiable Information secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-This privacy statement covers the use of cookies by selfmadesuccess.com only and does not cover the use of cookies by any advertisers. 
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com)
 
-**Log Files**   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@jonafmarketing.com](mailto:privacy@jonafmarketing.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
-**Clear Gifs (Web Beacons/Web Bugs)**   
-We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. 
+**What happens if the Privacy Policy Changes?**  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-In addition, we may use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
+**Links:**  
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-**Communications from the Site**
+© 2007 **JoNaf Marketing Ltd** , All rights reserved.   
 
-**Special Offers and Updates** We send all new members a welcoming email. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
-
-**Customer Service**   
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
-
-**Sharing**
-
-**Legal Disclaimer**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
-
-**Third Party Intermediaries**  
-We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. 
-
-**Business Transitions**  
-In the event "K & J Promotions" goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
-
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes related to our site at the point where we ask for information. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at: [unsubscribe@selfmadesuccess.com ](mailto:unsubscribe@selfmadesuccess.com)
-
-**Links**  
-This Web site contains links to some of our other sites. Please be aware that we, "JoNaf Marketing Ltd" , are also responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-**Surveys [ & Contests]**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. "JoNaf Marketing Ltd" will automatically send the friend a one-time email inviting them to visit the site. "JoNaf Marketing Ltd" does not store this information and it's sole purpose is for sending this one-time email. 
-
-**Security**  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only personnel who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at: [support@selfmadesuccess.com ](mailto:support@selfmadesuccess.com)
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us below: 
