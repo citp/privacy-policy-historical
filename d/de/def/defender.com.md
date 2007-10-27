@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501174928id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027090246id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
 
 # Defender Privacy Statement
 
   | 
 
-  
 **Defender Privacy Statement**
+
+[**www.defender.com**](http://www.defender.com/) , **www.defenderus.com** , and **www.defender-outlet.com**  
+are the web sites of: **Defender Industries, Inc.**
 
 > Our postal address is:
 > 
