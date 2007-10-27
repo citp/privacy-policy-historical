@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043447id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027145129id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: About Us
 
@@ -58,7 +58,7 @@ If you need information or have any questions or concerns about this Privacy Pol
 
 **This policy is effective as of March 1, 2007**
 
-[Terms of Use](https://web.archive.org/web/20070627043447id_/http%3A//www.masterlock.com/legal.shtml)
+[Terms of Use](https://web.archive.org/web/20071027145129id_/http%3A//www.masterlock.com/legal.shtml)
 
 Master Lock Company LLC  
 World Headquarters  
