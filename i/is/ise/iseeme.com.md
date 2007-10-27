@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624010802id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027115156id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # I See Me! Personalized Children's Gifts
 
