@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625033238id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027064644id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
 # Gore Privacy Policy and Legal Information
 
