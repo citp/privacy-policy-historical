@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605031753id_/http%3A//presentation.brainshark.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027064725id_/http%3A//presentation.brainshark.com/privacy.asp) for the most accurate reproduction.*
 
-# Sales Training and Lead Generation with On-Demand Business Communications
+# Sales Training with On-Demand Business Communications
 
 ##  Your privacy is important to us 
 
-Copyright© 2006 Brainshark, Inc. All rights reserved.
+Copyright© 2007 Brainshark, Inc. All rights reserved.
 
 Under the copyright laws, the content of these pages may not be copied, in whole or in part, without prior written consent of Brainshark, Inc. or its assignees. 
 
@@ -50,3 +50,7 @@ This site contains links to other sites controlled by third parties. Brainshark,
 
 **Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact: [info@brainshark.com](mailto:info@brainshark.com).
+
+To view terms and conditions for Brainshark enterprise applications, [click here](https://web.archive.org/forms/subscription.asp). 
+
+To view terms and conditions for Brainshark Express, [click here](https://web.archive.org/forms/express.asp). 
