@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232024id_/http%3A//zmanda.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028012322id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Zmanda, Inc. - Privacy Policy
+# Zmanda Privacy Policy
 
 Zmanda, Inc. ("Zmanda") has created this privacy policy to demonstrate our firm commitment to privacy. This policy sets forth our information gathering and dissemination practices for the [www.zmanda.com](http://www.zmanda.com/), [forums.zmanda.com](http://forums.zmanda.com/) and [wiki.zmanda.com](http://wiki.zmanda.com/) sites (collectively, the "Websites"). This policy does not apply to the practices of third parties that Zmanda does not own or control, or to individuals Zmanda does not employ or manage.
 
