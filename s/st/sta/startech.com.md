@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512212015id_/http%3A//www.startech.com/AboutUs/PrivacyStatement.aspx%3Fc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027102427id_/http%3A//www.startech.com/AboutUs/PrivacyStatement.aspx%3Fc%3DUS) for the most accurate reproduction.*
 
 # Privacy Statement
 
