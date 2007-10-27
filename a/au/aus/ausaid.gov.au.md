@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623214855id_/http%3A//www.ausaid.gov.au/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027062141id_/http%3A//www.ausaid.gov.au/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
