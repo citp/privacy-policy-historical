@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingcon.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302204750id_/http%3A//www.hostingcon.com/connect/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcon.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027154449id_/http%3A//www.hostingcon.com/connect/privacy.php) for the most accurate reproduction.*
 
 # HostingCon Connect
 
@@ -18,7 +18,7 @@ We use your e-mail addresses to answer the e-mail you send us and for future con
 
 By logging into the [Account Management](https://web.archive.org/connect/manage/) page you have the ability to change your privacy settings, including which types of conference-related emails you wish to receive and whether you are visible in the HostingCon Connect network search. If you choose to participate in the HostingCon Connect networking tools you have the ability to accept or reject networking requests. Other participants not in your network will not be able to see your contact details.
 
-As a service to exhibitors, partners and sponsors, we make HostingCon attendee/guests mailing addresses available to these companies for pre-and post-show promotion for limited use. If you would like your name, mailing address and fax number removed from these promotional opportunities, please e-mail [support@hostingcon.com](mailto:support@hostingcon.com). You may also contact HostingCon Customer Service by phone at 1-866-464-3687 (USA) or +1 630 364-4100 (International). 
+As a service to exhibitors, partners and sponsors, we make HostingCon attendee/guests mailing addresses available to these companies for pre-and post-show promotion for limited use. Telephone numbers may also be made available for pre-show promotion. If you would like your name, mailing address, telephone number and fax number removed from these promotional opportunities, please e-mail [support@hostingcon.com](mailto:support@hostingcon.com). You may also contact HostingCon Customer Service by phone at 1-866-464-3687 (USA) or +1 630 364-4100 (International). 
 
 Attendees/guests at HostingCon may voluntarily allow exhibitors to swipe/scan their badge. This voluntary action allows the exhibitor to electronically capture the following information about attendee/guest: Name, company name, title, address, telephone number, fax number, and email address. This swipe/scan is equivalent to the attendee/guest presenting the exhibitor with a business card. Use of the attendee's information gathered through these means by the exhibitor would fall under the exhibitor's privacy policy. 
 
