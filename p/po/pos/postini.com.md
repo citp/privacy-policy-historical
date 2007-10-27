@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627222143id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027082722id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Postini: Resource Center
 
 |  |  | 
 
 [](http://www.truste.org/ivalidate.php?url=www.postini.com&sealid=102)
+
+Google Inc. (NASDAQ: GOOG) has completed the acquisition of Postini.
 
 **Effective February 16, 2007**
 
@@ -56,7 +58,7 @@ As its business evolves, Postini may sell, transfer or otherwise share some or a
 
 **_Links to Other Sites._** The Public Website may contain links to other sites, including under the "News and Events" and "Postini Resource Center" sections of the Public Website. Postini is not responsible for the privacy practices of any sites other than its own. This section on "Public Website Privacy" applies only to information collected by Postini on the Public Website. In addition, the webinar registration portion of our Public Website may contain links to other sites. We may use service providers to collect certain information about those users who register for our webinars including the user's name, title, company name, physical address, email address, phone and fascimile number, web address, job title, company size, and job function. Our service providers then provide us this information so that we may follow-up to provide our services to such users. 
 
-**_Security of Data._** Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20070627222143id_/http%3A//www.postini.com/legal/security.php).
+**_Security of Data._** Postini treats data as a valuable asset, and applies technology and operations practices that are designed to ensure the security of this data both during transmission and while stored on our servers. Postini takes reasonable precautions to protect this data against loss, misuse, and alteration. To learn more, please see the [Postini Security Statement](https://web.archive.org/web/20071027082722id_/http%3A//www.postini.com/legal/security.php).
 
 Our Public Website includes certain testimonials from customers who have agreed to the use of their testimonials on our Public Website. 
 
