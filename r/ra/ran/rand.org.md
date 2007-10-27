@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027051726id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # RAND | About This Site | Privacy Policy
 
@@ -10,7 +10,7 @@ RAND is committed to protecting your privacy and providing a safe and rewarding 
 
 ##  Privacy Principles
 
-Because your privacy is important to us, we will operate by the following principles of Notice, Choice, Security, and Reasonable Access. Users seeking additional information regarding the principles should write to [feedback](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/about/feedback.html).
+Because your privacy is important to us, we will operate by the following principles of Notice, Choice, Security, and Reasonable Access. Users seeking additional information regarding the principles should write to [feedback](https://web.archive.org/about/feedback.html).
 
 **NOTICE**  
 RAND explicitly asks when it needs information that identifies you individually ("Personal Information"). In general, you can visit our site without disclosing any personal information. 
@@ -39,11 +39,11 @@ RAND has established and maintains reasonable procedures to protect the confiden
 **REASONABLE ACCESS**  
 RAND does not currently maintain an online database containing any personal information provided by our visitors and is therefore unable to provide you with access to such information online. 
 
-If you wish to review, update or change personal information that you have supplied to RAND (such as a change in address), please contact [feedback](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
+If you wish to review, update or change personal information that you have supplied to RAND (such as a change in address), please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
 For more information about our privacy statement, see Frequently Asked Questions (FAQ).
 
-If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
+If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
 ##  Frequently Asked Questions (FAQ)
 
@@ -72,8 +72,8 @@ Cookies are small bits of information that our site places on the hard drive of 
 RAND uses non-personally identifiable information and information obtained through the use of cookies in order to improve the site. By tracking how many people visit our site and where visitors go on our site, we are able to determine which parts of the site users like the best, which parts need some improvement, and what changes should be made. By obtaining this information, we are able to continually improve our site and bring you the best online experience possible.
 
 **How can you contact us about this web site?**  
-If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
+If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-#####  [About this Site](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/site_info/index-2.html)
+#####  [About this Site](https://web.archive.org/web/20071027051726id_/http%3A//www.rand.org/site_info/index.html)
 
-#####  [About RAND](https://web.archive.org/web/20070223120000id_/http%3A//www.rand.org/about/index.html)
+#####  [About RAND](https://web.archive.org/about/)
