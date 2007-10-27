@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.my privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430070414id_/http%3A//www.nuffnang.com.my/rules/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.my privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027040927id_/http%3A//www.nuffnang.com.my/rules/privacy.php) for the most accurate reproduction.*
 
 # Program Policies
 
