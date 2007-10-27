@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needhits.net privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513231345id_/http%3A//www.needhits.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needhits.net privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028012907id_/http%3A//www.needhits.net/privacy.html) for the most accurate reproduction.*
 
 # OUR TERMS
 
