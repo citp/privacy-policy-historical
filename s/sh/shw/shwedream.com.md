@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044934id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027052047id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Streaming Videos and Audios | Shwe Dream Myanmar Community
 
