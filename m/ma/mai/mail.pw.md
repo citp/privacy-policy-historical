@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail.pw privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615054825id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.pw privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027043046id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
 
 # PW - Policy Council - Governing the Management of the PW Domain
 
