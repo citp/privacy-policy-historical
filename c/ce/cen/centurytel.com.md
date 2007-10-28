@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurytel.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # CenturyTel - Privacy Policy
 
-Updated: 06.01.06
+Updated: 06.20.07
 
-[](https://www3.trusecure.com/cert_info/certified.shtml)We are committed to protecting your privacy. This Privacy Policy discloses how we gather, protect, and use personal information collected from this Web site. Please read the complete Privacy Policy. We value the views of our customers and Web Site visitors. If you have any questions or concerns, we encourage you to share them with us.
+We are committed to protecting your privacy. This Privacy Policy discloses how we gather, protect, and use personal information collected from this Web site. Please read the complete Privacy Policy. We value the views of our customers and Web Site visitors. If you have any questions or concerns, we encourage you to share them with us.
 
 ### Privacy policy contents
+
+[](https://smpconsole.cybertrust.com/certinfo/certified.do?CERTID=071503C500)
 
   * Collection of Data
   * How We Use the Data We Collect
@@ -14,14 +16,14 @@ Updated: 06.01.06
   * How To Get Your Information Removed From Our Records
   * Opting Out
   * Updating Your Personal Information
-  * Cookies
+  * Cookies and Web Beacons
   * How to Enable Cookies
   * How to Disable Cookies
   * Children
   * Security
   * Links to Other Sites
   * Revisions
-  * Contacting the Web Site
+  * Contact Us About Your Privacy Questions or Concerns
   * Limitation of Liability
   * CPNI (Customer Proprietary Network Information)
   * Security of Your Phone Records
@@ -79,7 +81,7 @@ back to top
 
 ### How To Get Your Information Removed From Our Records
 
-We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
+We keep our customer data for two years, for modeling and profiling of our products and their activity, after which it is destroyed. To get your information removed from our records prior to that, you may contact us by [e-mail](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/#/), phone, or [postal mail](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/contact_info.cfm), and we will remove your information promptly. 
 
 back to top
 
@@ -89,7 +91,7 @@ back to top
 
 We periodically send our customers news about products, new offers, and special promotions by e-mail. When you become a CenturyTel customer, you are automatically signed up to receive these e-mails. To update your e-mail address for special offers and products, or to stop receiving e-mails about specials on products and services, log in to "[My Account](https://www.centurytel.com/custserv/myAccount/)," select "Account Profile" in the left navigation menu, and under "Your e-mail preferences," select the link that matches your preference. 
 
-If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
+If you would like to enroll or learn about the benefits of My Account, read our [FAQs](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/FAQs/index.cfm) or [Enroll now](https://www.centurytel.com/applications/index.cfm).
 
 If you are not enrolled for My Account, and wish to stop receiving emails about CenturyTel products and services specials, [unsubscribe](http://www.centurytel.com/applications/index.cfm?fuseaction=EmailOption.main) here.
 
@@ -107,13 +109,21 @@ back to top
 
 * * *
 
-### Cookies
+### Cookies and Web Beacons
 
-CenturyTel collects information about your computer hardware and software -- for example, your IP address, domain name, and access times -- using "cookies." Cookies are files that Web browsers place on a visitor's computer. They are used to allow a more enjoyable visit, easier use of the site, and to accurately track visitor behavior. Cookies do not identify you personally; they merely recognize your browser, unless you choose to voluntarily identify yourself. You may choose to identify yourself for any one of the following reasons: asking the browser to remember your username and password; by responding to a promotional offer; or when personalizing a Web page or requesting more information on a product or service, otherwise you remain an anonymous Web site visitor.
+CenturyTel collects information about your computer hardware and software -- for example, your IP address, domain name, and access times -- using "cookies." Cookies are files that Web browsers place on a visitor's computer.
 
-When you interact with our Web site, we strive to make that experience easy and meaningful. Our site uses session cookies to track Web visitor behavior and to allow our customers to immediately save their User IDs, as well as personal settings on specific pages. This allows us to process your information and quickly log you into the product. Session cookies also help us make sure you are who you say you are after you have logged in. 
+We, or a third party acting on our behalf, may use cookies to tailor and improve the content we deliver to our Web visitors, to improve our Web site by assessing which areas, features, and products are most popular, and to personalize our Web site and make recommendations based on information, including product choices, a particular visitor has previously provided. For example, we may use a cookie to identify your phone number so we do not ask you to enter it more than once. We also use cookies to store user preferences, complete online order activity and keep track of transactions.
 
-We use persistent cookies that _only CenturyTel can read and use_ , to identify the fact that you are either a CenturyTel customer, or a prior CenturyTel Web site visitor. We are especially careful about the security and confidentiality of the information stored in persistent cookies. Users who disable their Web browsers' ability to accept cookies will still be able to browse our Web site; however, they may lose some of the functionality provided by the use of persistent cookies.
+We, or a third party acting on our behalf, may use Web beacons in certain of our Web pages and e-mails to gauge the effectiveness of our marketing campaigns and e-mail correspondence. For example, we may use Web beacons in our HTMLbased e-mails to let us know which e-mails have been opened by the recipients.
+
+You can configure your Web browser to alert you when a Web site is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You can also set your browser to disable the capacity to receive cookies or you can delete cookies previously accepted. Some CenturyTel web pages (and other Web pages) may not work correctly if you have cookies disabled.
+
+We may use advertising companies to deliver ads for CenturyTel-offered services and products on our Web sites or on third party Web sites. These Internet ads are often called "banner ads" and may contain third-party cookies or Web beacons that allow tracking of visitors' responses to our advertisements. Although these third parties may receive anonymous Web usage information about ad viewing on such Web sites, we prohibit them from using this information for any purpose other than to assist us in measuring the effectiveness of our ads.
+
+When you interact with our Web site, we strive to make that experience easy and meaningful. Our site uses session cookies to track Web visitor behavior and to allow our customers to immediately save their User IDs, as well as personal settings on specific pages. This allows us to process your information and quickly log you into the product. Session cookies also help us make sure you are who you say you are after you have logged in.
+
+We use persistent cookies that only CenturyTel can read and use, to identify the fact that you are either a CenturyTel customer, or a prior CenturyTel Web site visitor. We are especially careful about the security and confidentiality of the information stored in persistent cookies. Users who disable their Web browsers' ability to accept cookies will still be able to browse our Web site; however, they may lose some of the functionality provided by the use of persistent cookies.
 
 You can prevent our site from using cookies or to notify you when a cookie is being used by following the instructions below. However, cookies must be enabled for My Account to function properly. Instructions on enabling and disabling cookies are listed below.
 
@@ -341,9 +351,19 @@ back to top
 
 * * *
 
-### Contacting the Web Site
+### Contact Us About Your Privacy Questions or Concerns
 
-We welcome comments, suggestions, and questions about this Privacy Policy, and encourage you to [contact us](mailto:IT-privacypolicy@centurytel.com) at any time, for any reason.
+You can rest assured that:
+
+  * CenturyTel does not share your personal information. 
+  * your information will be handled in a confidential and professional manner 
+  * our partners and employees have been trained to respect and protect your privacy 
+  * safeguards are in place to protect your account details and personal information
+
+
+
+If you still have questions or concerns about your privacy, feel free to email   
+[IT-privacypolicy@centurytel.com](mailto:IT-privacypolicy@centurytel.com). We will be delighted to answer your questions.
 
 back to top
 
@@ -391,9 +411,9 @@ We do not sell or rent any personal information to others. We may, however, disc
 The personal information that you provide to My Account, including your credit card information, is maintained on secure servers and protected by industry-standard Secure Socket Layer encryption. When entering personal information, look for an icon at the bottom of your browser window that indicates you are on a secure page.
 
 **How do I update my information?**  
-You can access and edit your account information at any time by logging in and clicking on the [My Account page.](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/myAccount/index.cfm)
+You can access and edit your account information at any time by logging in and clicking on the [My Account page.](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/myAccount/index.cfm)
 
-If you have questions about the status of your orders or any other questions about My Account, please [contact us](https://web.archive.org/web/20070611135520id_/http%3A//www.centurytel.com/custserv/contact_us/).
+If you have questions about the status of your orders or any other questions about My Account, please [contact us](https://web.archive.org/web/20071028082554id_/http%3A//www.centurytel.com/custserv/contact_us/).
 
 **Changes to this Policy**  
 Please note that it is possible that this Privacy Policy may change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page so that you can easily find the information we collect and how we safeguard it. You should be able to readily notice any changes by the date stamp at the top of this page. 
