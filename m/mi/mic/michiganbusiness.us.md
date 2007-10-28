@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganbusiness.us privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520071600id_/http%3A//www.michiganbusiness.us/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbusiness.us privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/privacypolicy.php) for the most accurate reproduction.*
 
 # Michigan Business Privacy Policy and External Link Disclaimer
 
@@ -28,11 +28,11 @@ From our payment operator we only receive registration related information, we h
 
 Technical information obtained while we provide support may be used to train personnel and to create documentation, knowledge base, FAQs and other support materials. No personal information of yours will be published. 
 
-NEI offers online services such as our "[Pay Per Lead Program](https://web.archive.org/web/20070520071600id_/http%3A//www.michiganbusiness.us/index.php?nic=enhanced#pay)". Some online services require you enter personal identifying information. Any information collected by online services we offer is not disclosed to third parties unless explicitly stated, and it is not used for any purposes not directly related to the functions of the application.
+NEI offers online services such as our "[Pay Per Lead Program](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/index.php?nic=enhanced#pay)". Some online services require you enter personal identifying information. Any information collected by online services we offer is not disclosed to third parties unless explicitly stated, and it is not used for any purposes not directly related to the functions of the application.
 
 **Newsletter Subscription**
 
-You may be interested in receiving notifications about new services.  We don't send more than one [email newsletter](https://web.archive.org/web/20070520071600id_/http%3A//www.michiganbusiness.us/showcompany.php?id=12277) per month.  Unsubscribe instructions are provided at the bottom of each message. Removal requests are processed immediately upon reception.
+You may be interested in receiving notifications about new services.  We don't send more than one [email newsletter](https://web.archive.org/web/20071028163511id_/http%3A//www.michiganbusiness.us/showcompany.php?id=12277) per month.  Unsubscribe instructions are provided at the bottom of each message. Removal requests are processed immediately upon reception.
 
 **What About Cookies?**
 
