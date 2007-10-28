@@ -1,149 +1,129 @@
-> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028160524id_/http%3A//www.yuku.com/homepage/privacy/t/Yuku-Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# About Us - Privacy Policy
 
-#### Find Answers To Your Questions:
+## Introduction
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Your privacy is of the utmost importance to Yuku. Our basic principles are:
 
-### Privacy Policy
+  * We respect your privacy at Yuku
+  * You control your personal information,
+  * We try to limit our collection of personal information as needed to provide and improve our services to you,
+  * We do not disclose your personal information to third parties unless we need to do so to fulfill your requests, you expressly tell us to, we believe we are reasonably compelled to do so, or we are required to by law.
 
-**Why A Privacy Policy?**  
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
- **This Privacy Policy protects your privacy by:**
+Yuku is a network of collaborative publishing communities, user profiles and images. You the user and we as Yuku have entered a voluntary relationship in which we provide services to you. The data you disclose to us makes it possible to deliver the services you truly want and ask for.
 
- **Informing you about:**
+Yuku's services contain links to other web sites outside Yuku. We are not responsible for the privacy policies and⁄or practices of other sites. When linking to another site a user should read the privacy policy stated on that site. This privacy policy only governs information collected on Yuku.com.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+## What Information is Gathered
 
+We collect information the information you give us when you become a member of Yuku.
 
+### Site Visitors
 
-**Empowering you to choose:**
+In general, you can browse parts of the site without telling us who you are or revealing any personal information about yourself. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on forms throughout the site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. Your failure or unwillingness to provide certain information may mean that a service or feature will not be available to you.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+### Browser and Other Information We May Collect
 
+In addition to the information you choose to provide to us, Yuku also collects and stores certain technical and other information about the online activities of our users—whether or not they are registered—on an aggregated (or collective) basis. This may include your IP address, browser type, and operating system. We track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information that you provide as a member.
 
+We, as well as the administrators of each domain, do have the ability to view your IP address if you post content within a domain on the network. We also collect the information that you provide when you make a post on one of our domains so that we can archive and display your posts. Please use caution when posting material on any domain as your posts may become immediately available to the public and may be recorded and stored by anyone.
 
-**Assuring you that Network Solutions:**
+### Registered Members
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+When you register as a member, we ask you to provide us with a user name, password, e-mail address, name, address, birth year, and gender. We'll also ask you whether you'd like to participate in our business partners' programs.
 
+### Member Emails
 
+As a registered member, you must choose to receive our system emails. System emails are used to contact you in the event of changes to our services, terms of use or privacy policies. Yuku may use URL tracking in the emails sent to you. When you open such email messages, our system may record the following data: the time you viewed the email and the URLs that you clicked on from that email. Yuku will also record if your email program is capable of receiving HTML-encoded email. URL tracking may use cookies.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+### International Visitors
 
-  
-**Third Party Advertising and Cookies**
+Like almost every Web site, Yuku may be accessed by an international audience. By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have more or less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+## How Information is Used
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+We understand that you value your personally identifiable information. We generally use your personal information to render you services and to improve our services.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+We may use your personal and registration information to: improve our services; troubleshoot problems; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; protect us against error, fraud and other criminal activity; enforce our Terms of Use; and as otherwise described to you at the time of collection and in this policy. At times, we may look across multiple users to identify problems, and in particular we may examine your personal information to identify users using multiple User IDs or aliases.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+### Email Communications from Yuku
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Yuku may send you messages through our messaging system to keep you apprised of your membership status, site developments, and to inform you of new offers.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+### Third Party Use and Partner Site Email Communications
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+In the interest of bringing the highest quality services to you "under one roof," Yuku has partnerships with other Web-based services. Some of these arrangements include the sharing of some of your personal information with our partners in order to extend these services to you. We only share information when you specifically authorize it.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Yuku, as well as its partner sites, may send you e-mail messages on a regular basis to keep you apprised of your membership status, site developments, and to inform you of new offers. Examples of this include special offers from our business partners. Included in each of these messages are simple instructions on how to remove yourself from these mailings if you do not wish to receive them in the future.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+### Third Party Sharing to Render Services to You
 
- **Getting to Know Our Customers**
+We may use third parties to help us perform services, like processing credit card information, transmitting emails in response to your requests, or other service-related functions. If these third parties require access to your personally identifiable information in order to provide their services, they will be obligated to abide by this privacy policy when handling your information. We require third party service providers to limit their use of your personal information to rendering services for us and you consistent with this policy.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+## Disclosure of Personal Information
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+Our business is about building a long-term relationship with you. To build that trust, we know that as you spend time on our site, your personal information must remain within your control. Be assured that your personally identifiable information, such as your name, address, and email address is not sold to others.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+There are some situations where we may need to disclose information to organizations or entities not described in our policy here. Yuku may be required to disclose your personal information: (i) if we believe it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or that of others (iv) is necessary to protect the interest of other users of our web site.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+### Merger or Sale of Yuku
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+We may also transfer the information in our possession in connection with a sale of assets of the company, a sale of the company or a merger.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+### Respecting Others' Privacy
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+By agreeing to our Terms of Use, you agree that, with respect to other users' personal information that you obtain through the site or through a Yuku-related communication or Yuku-facilitated transaction, Yuku hereby grants to you a license to use such information only for: (a) Yuku-related personal communications that are not unsolicited commercial messages, (b) using services offered through Yuku, and (c) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. In all cases, you must give users an opportunity to remove themselves from your systems and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this paragraph, can you disclose personal information about another user to any third party without our consent and the consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this paragraph.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+Yuku and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Yuku member, even one who participates on our domain, to your mailing list (email or physical mail) without their express consent. To report Yuku related spam to, please contact us using our legal form.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+## Security of Information
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+Your information is stored on Yuku's servers located in the United States. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+That being said, "perfect security" does not exist on the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, Yuku cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure the security of your information on our systems.
 
-b. Click “Edit User Info” in the left menu;
+Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-c. Scroll to the bottom of the page;
+If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](mailto:legal@yukucorp.com).
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+### Cookies, Web Beacons and Personalization
 
-e. Click “SAVE.”
+"Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set—each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences—however, you must enable cookies from Yuku in order to use most functions on the site.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. For more information about their separate privacy policies, you should contact the third-party advertising network directly.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Yuku uses web beacons to research certain usage and activities on its and our website. The information collected through these web beacons is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable information about you is shared by Yuku as a result of this research.
 
-b. Click “Edit User Info” in the left menu;
+You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information.
 
-c. Scroll to the bottom of the page;
+Not only do you have the opportunity to post content on any of our public Yuku domains, but you also have the opportunity to create your own Profiles and Domain and tailor it to your own special interests. In order to create a community, you need to be registered as a member to do these things. Once you've registered, you can follow our instructions on how to create your Profiles and Domain and customize them to match your preferences. This means you get to decide how to structure your Profiles, Domain, what design you'll use, and more. If you no longer wish to operate your Yuku domain, you can delete your content and turn off the "allow replies" feature.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+## Children
 
-e. Click “SAVE.” 
+We at Yuku believe it essential that parents are involved in their children's online experiences. That is why, in compliance with federal law, we do not knowingly collect personal information of any kind from anyone under the age of 13. If we become aware of a user under the age of 13 providing information on our site, we will terminate their account and purge our databases of all information provided by that user.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+## Access to and Changing Information
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+Once you become a member of Yuku, your personal information is stored in the site. You may access or change your information at any time.
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+## Notice of Modifications
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+In the future, Yuku may update and revise its privacy policy. We will provide conspicuous notice on our website if we decide to change our privacy policy in a way that would be materially less restrictive than this policy. At that time, you will have the opportunity to decide whether or not you would like Yuku to apply the new privacy policy to your personal information or to opt out of the new policy. If you continue to use Yuku, you will be accepting the new policies. If you decide to opt out of the new policy, you will no longer be able to participate as a member. The effective date of this policy is Januaary 4, 2006.
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and⁄or any account information. Please be careful and responsible whenever you're online. The few employees who have access to personal data are trained to comply with the above privacy policy and made aware of any updates or modifications.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+## Questions?
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](mailto:legal@yukucorp.com). Or you may mail us at the following address:
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+564 Market Street, Suite 705  
+San Francisco, CA 94104  
+Attn: Privacy Officer  
+(415) 773-0400 
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Effective: January 4, 2006.
