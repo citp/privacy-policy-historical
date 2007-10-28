@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630060818id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028111054id_/https%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
 
-# True Swords - Kill Bill, Last Samurai, Movie Sword, Japanese Katana, Ninja, Medieval, Final Fantasy Swords
+# True Swords - Samurai Swords, Full Tang, Real Blades, Movie, Anime, Video Game, & Manga Replicas
 
 www.trueswords.com knows that how personal information is gathered, used and shared is very important to you, and we appreciate the trust you put in us. We tell you just how we do those three things in our privacy policy. You accept this policy when you visit www.trueswords.com.
 
