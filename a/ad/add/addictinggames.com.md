@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317221419id_/http%3A//www.atomshockwave.com/asw_legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028061753id_/http%3A//www.atomshockwave.com/asw_legal_privacy.htm) for the most accurate reproduction.*
 
 # Atom Entertainment - Privacy and Legal Info - Privacy Policy
 
