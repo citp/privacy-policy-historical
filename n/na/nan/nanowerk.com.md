@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613222216id_/http%3A//www.nanowerk.com/n_privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028120603id_/http%3A//www.nanowerk.com/n_privacy_statement.html) for the most accurate reproduction.*
 
-# Nanotechnology and Nanosciences
+# Nanowerk Nanotechnology Portal - Pricacy Statement
 
 Nanowerk > Privacy Policy 
 
