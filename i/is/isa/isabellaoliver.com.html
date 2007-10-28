@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the isabellaoliver.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624064307id_/http%3A//www.isabellaoliver.com/io/Shop%3Fdsp%3D80800) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isabellaoliver.com privacy policy that was archived on 2007-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071028182901id_/http%3A//www.isabellaoliver.com/io/Shop%3Fdsp%3D80800) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -16,6 +16,8 @@
 			<meta name="Language" content="en-US">
 						
 	<meta name="Robots" content="All">
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 
 	
@@ -61,13 +63,16 @@ function openLargeImage(href, name) {
 		seq = '0';
 	}	
 	newHref = href + "&imagesequence=" + seq + "&src=" + source1;
-	window.open(newHref, name, "fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no,directories=no,location=no,width=400,height=545")
+	window.open(newHref, name, "fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no,directories=no,location=no,width=476,height=650")
 }
 
 function openPopup(href, name) {
 	window.open(href, name, 'fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,directories=no,location=no,width=400,height=300')
 }
 
+function openSizedPopup(href, name, width, height) {
+	window.open(href, name, "fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no,directories=no,location=no,width="+width+",height="+height+",scrollbars=0");
+}
 
 
    var alreadySubmitted = 0; 
@@ -175,35 +180,44 @@ function activateEmail() {
         
         
     
-  
+  	
+<script language="JavaScript">
+
+	function changeCatalog(newcat)
+	{
+		document.usform.newcat.value=newcat;
+		document.usform.submit();
+	}
+	
+</script>
+
    		
-   
 		<div id="main_header_container">
 	   				<h1><a href="http://www.isabellaoliver.com/io/Shop?">Maternity Wear | Maternity Clothing - By Isabella Oliver</a></h1>
-					<h2>For pregnant women who love clothes</h2>				
-   						<form name="usform" method="GET" action="http://www.isabellaoliver.com/io/Shop;jsessionid=0CB6938784B389624882C3B40BD5D0FD">
-						
-								<input type="HIDDEN" name="pcr" value="">
-								<input type="HIDDEN" name="iid" value="">
-								<input type="hidden" name="actn" value="changecatalog">								
+					<!-- <h2>For pregnant women who love clothes</h2> -->				
+   						<form name="usform" method="GET" action="http://www.isabellaoliver.com/io/Shop">
+							<input type="HIDDEN" name="pcr" value="">
+							<input type="HIDDEN" name="iid" value="">
+							<input type="hidden" name="actn" value="changecatalog">
+							<input type="hidden" name="newcat" value="">								
 							<div id="flagholder">
-							
-									<div class="flag" style="margin-right: 5px;">
+							<div class="flag" style="margin-right: 5px;">
 										<img src="images/content/us_on.jpg"><br>
 										<span class="orange">US site</span>										
 									</div>
-									<div class="flag">
-										<input type="hidden" name="newcat" value="2">
-										<a href="javascript:document.usform.submit();"><img src="images/content/uk_off.jpg"></a><br>
-										<a class="gray" href="javascript:document.usform.submit();">UK site</a>
+									<div class="flag" style="margin-right: 5px;">
+										<a href="javascript:changeCatalog('2');"><img src="images/content/uk_off.jpg"></a><br>
+									    <a class="gray" href="javascript:changeCatalog('2');">UK site</a>
 									</div>
-								
-							</div>	
+									
+									<div class="flag" style="margin-right: 5px;">
+										<a href="javascript:changeCatalog('3');"><img src="images/content/EU_grey.jpg"></a><br>
+									    <a class="gray" style="align-text:center;" href="javascript:changeCatalog('3');">&nbsp;€ site</a>								
+									</div>
+							 </div>	
 						</form>
 						<div id="phonenums">
-						
-								1.866.614.9387 Toll Free<br>Personal Assistance 24/7<br>FedEx 2 day delivery
-							
+							1.866.614.9387 Toll Free<br>Personal Assistance 24/7<br>
 						</div>
 	   				<div id="bagholder"><!--  id="header_table_5" -->
 	   					<a onclick="javascript:showMiniBag();return false;" class="gray" href="#">
@@ -229,19 +243,20 @@ function activateEmail() {
 		
 		<div id="left_nav_container">
 			<div id="search_container" class="gray">
-				<form name="searchform" method="GET" action="http://www.isabellaoliver.com/io/Shop;jsessionid=0CB6938784B389624882C3B40BD5D0FD">
+				<form name="searchform" method="GET" action="http://www.isabellaoliver.com/io/Shop">
 						<div>
 							<input type="hidden" name="actn" value="quicksearch">
 							<input type="hidden" name="searchtype" value="all">
 						</div>
 						<div>
-						<input type="text" name="keyword" size="9" value="search our site" onclick="this.value='';" border="0" class="font7"><a class="bold font9 black" href="javascript:document.searchform.submit();">&nbsp;Go</a><br>
+						<input type="text" name="keyword" size="9" value="search our site" onclick="this.value='';" border="0" class="font7"><a class="bold font9 orange" href="javascript:document.searchform.submit();">&nbsp;Go</a><br>
 						</div>						
 				</form>
 			</div>
 			<div id="email_container" class="gray font7">
 				<div>
-					<span class=" orange bold">Email Sign Up</span><br>Sale previews, tips and special promotions!
+					<span class=" orange bold">Email Sign Up</span><br><span class="gray bold">Style tips, exclusive offers,
+					VIP previews and more...</span>
 				</div>
 				<div>
 					<script language="JavaScript">
@@ -268,7 +283,7 @@ function activateEmail() {
 					}
 					
 					</script>
-					<form method="post" name="emailrequestform" onsubmit="return validateTextEntered()" action="http://www.isabellaoliver.com/io/Shop;jsessionid=0CB6938784B389624882C3B40BD5D0FD">
+					<form method="post" name="emailrequestform" onsubmit="return validateTextEntered()" action="http://www.isabellaoliver.com/io/Shop">
 
 						<input type="HIDDEN" name="ACTN" value="10300">
 						<input type="hidden" name="requestType" value="3">
@@ -283,7 +298,7 @@ function activateEmail() {
 						
 						<eoneaddress newaddress="y">
 							<div>
-								<input type="text" name="emailAddress" size="9" value="enter email address" border="0" onclick="this.value='';" class="font7"><a onclick="passCode('/email/signup');validateTextEntered();return false;" class="bold font9 black" href="#">&nbsp;Go</a><br>	
+								<input type="text" name="emailAddress" size="9" value="enter email address" border="0" onclick="this.value='';" class=" gray bold font7"><a onclick="passCode('/email/signup');validateTextEntered();return false;" class="bold font9 orange" href="#">&nbsp;Go</a><br>	
 							</div>
 							<input type="hidden" name="fname" value="Guest">
 							<input type="hidden" name="lname" value="Guest">
@@ -299,23 +314,35 @@ function activateEmail() {
 				</div>
 			</div>
 			
-<div class="orange font9">
+<div class="gray font9">
 	
-	<div class="bold left_nav_header">
+	<div class="bold left_nav_header" style="margin-top: 10px;">
 		Departments
 	</div>
-	<ul class="left_nav">
+	<ul class="left_nav" style="padding-bottom: 5px;">
 		
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1000">New</a></li>
 								    
 			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1010">Tops</a></li>
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1010">All Tops</a></li>
+								    
+			
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:2070">Wrap Tops</a></li>
+								    
+			
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:2080">Ruched Tops</a></li>
+								    
+			
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1060">Knitwear</a></li>
+								    
+			
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1110">Outerwear</a></li>
 								    
 			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1020">Dresses</a></li>
 								    
 			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1030">Pants</a></li>
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1030">Trousers</a></li>
 								    
 			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1040">Jeans</a></li>
@@ -324,33 +351,21 @@ function activateEmail() {
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1050">Skirts</a></li>
 								    
 			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1060">Knitwear</a></li>
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1080">Lingerie</a></li>
 								    
 			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1070">Swim</a></li>
 								    
 			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1080">Lingerie</a></li>
-								    
-			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1090">Sale</a></li>
-								    
-			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=20100&amp;PCR=1:100:1100">Gifts</a></li>
-								    
-			
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1110">Gift Certificates</a></li>
 								    
 										
 	</ul>
 	<div class="bold left_nav_header">
 		By Occasion
 	</div>
-	<ul class="left_nav">
+	<ul class="left_nav" style="padding-bottom: 5px;">
 		
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:200:4010">Crinkle Whites</a></li>
-								    
-			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:200:2000">Work</a></li>
 								    
 			
@@ -368,12 +383,15 @@ function activateEmail() {
 			
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:200:2050">4th Trimester</a></li>
 								    
+			
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:200:2060">Winter Sun</a></li>
+								    
 										
 	</ul>
 	<div class="bold left_nav_header">
 		Ways to Shop
 	</div>
-	<ul class="left_nav">
+	<ul class="left_nav" style="padding-bottom: 5px;">
 		
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=20100&amp;PCR=1:300:3000">By Body Shape</a></li>
 								    
@@ -396,12 +414,14 @@ function activateEmail() {
 
 
 			<div id="people_saying" style="" class="font7">
-				<p class="bold font7" style="margin-bottom: 5px;">What people are<br>saying about us</p>
+				<p class="lightgrey bold font8" style="margin-bottom: 5px;">What people are saying</p>
+				<div style="width: 140px;">
 				
 					
-						During my pregnancies I have worked in a high profile role which requires me to look good at work and events - which is why I love what IO do.<br>Lorraine Candy, ELLE Editor in chief
+						"You are miracle workers. My wrap jacket is so comfortable having just popped it on for size, I¡¦m?still wearing it an hour later."<br><span class="lightgrey bold">J Sansbury, Bristol</span>
 					
 				
+				</div>
 			</div>
 		</div>
 
@@ -424,11 +444,10 @@ function activateEmail() {
 			<ul class="top_nav2 black font8">
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:500:5000">Best sellers</a></li>
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:500:5010">Our Favorites</a></li>
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=100504">Style Tips</a></li>
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=100504">Style Secrets</a></li>
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=100511">maternity no no's</a></li>
 				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=shopping_spree">Competition</a></li>
-				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=80000">About Us</a></li>
-							
+				<li><a href="http://www.isabellaoliver.com/io/Shop?Dsp=100746">Maternity Magazine</a></li>
 			</ul>			
 		</div>
 		
@@ -492,11 +511,7 @@ function activateEmail() {
 	<p>Your payment details are held in an encrypted format until we process your order. All orders are processed on computers that are not connected to the Internet. </p>
 	<p>This encryption makes it virtually impossible for unauthorised parties to read any information that you send us. </p>
 	<p>The encryption technique we use is the highest standard available for e-commerce and certified by VeriSign, the world's most respected certification body for Internet firms. </p>
-	<p>If you have questions regarding our credit card security policies, please call us on 
-		
-				1.866.614.9387.
-			
-	</p>
+	<p>If you have questions regarding our credit card security policies, please call us on 1.866.614.9387.</p>
 	<p>If you are still not convinced about the safety of shopping online, but would like to enjoy the quality of Isabella Oliver maternity wear, please call us on the number above and place your order over the phone. We are open 24 hours a day, 7 days a week.</p>
 	<img src="images/content/verisign.jpg">
 </div>
@@ -506,8 +521,8 @@ function activateEmail() {
 		<div id="item_detail_col2" class="font8" style="width: 175px;">
 			
 			<div id="recently_viewed_container">
-				<div id="recently_viewed_header" class="white bold">
-					recently viewed items: 
+				<div id="recently_viewed_header" class="lightgrey font8 bold">
+					Recently Viewed Items: 
 				</div>
 				
 					<ul id="category_recently_viewed_items">
@@ -551,26 +566,26 @@ function activateEmail() {
 				
 					
 							<div id="item_thumbs_col3c2">
-								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=catalogrequest"><img border="0" src="images/content/request_a_catalog_us.jpg"></a>
+								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=catalogrequest"><img border="0" src="images/content/catalogue.jpg" alt="maternity clothes catalogue"></a>
 							</div>
 						
 				
 				
 					
 							<div id="item_thumbs_col3c2">
-								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1040"><img border="0" src="images/content/IO_jeans.jpg"></a>
+								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=100746"><img border="0" src="images/content/magazine.jpg" alt="maternity magazine"></a>
 							</div>
 						
 							<div id="item_thumbs_col3c2">
-								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=100504"><img border="0" src="images/content/maternity_style_tips.jpg"></a>
+								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1020"><img border="0" src="images/content/sexy_dresses.jpg" alt="maternity dresses"></a>
 							</div>
 						
 							<div id="item_thumbs_col3c2">
-								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1010"><img border="0" src="images/content/tops.jpg"></a>
+								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:100:1030"><img border="0" src="images/content/trousers.jpg" alt="maternity trousers/maternity pants"></a>
 							</div>
 						
 							<div id="item_thumbs_col3c2">
-								<a border="0" href="http://www.isabellaoliver.com/io/Shop?Dsp=30000&amp;PCR=1:500:5000"><img border="0" src="images/content/best_sellers.jpg"></a>
+								<a border="0" href="http://www.isabellaoliver.com/io/Shop?DSP=30100&amp;PCR=1:100:1040&amp;IID=TR47"><img border="0" src="images/content/iojeans.jpg" alt="isabella oliver maternity jeans"></a>
 							</div>
 						
 				
@@ -620,7 +635,7 @@ function activateEmail() {
 			<ul class=" black font8" style="width: 115px;">
 				<li><a class="black" href="http://www.isabellaoliver.com/io/Shop?dsp=10100">Contact Us</a></li>
 				<li><a class="black" href="http://www.isabellaoliver.com/io/Shop?dsp=80700">Delivery</a></li>
-				<li><a class="black" href="http://www.isabellaoliver.com/weblog">Online Diary</a></li>
+				<li><a class="black" href="http://www.isabellaoliver.com/weblog">Blog</a></li>
 			</ul>
 			<div style="width: 105px;">
 				<img src="images/content/cc_us.jpg">
