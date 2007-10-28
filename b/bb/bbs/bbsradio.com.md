@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529224011id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028113248id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy
 
@@ -10,7 +10,7 @@
   * BBS Radio collects the following information only: 1) names; and 2) email addresses. This is for our BBS Radio and Survival Forums. These areas may require login information to access, as they member only forums. Further, we send out a periodical email news release. 
 
 
-  * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission. .
+  * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
 
 
   * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [don@bbsradio.com](mailto:don@bbsradio.com), or contacting the me by mail at the following address. BBS Radio, 5167 Toyon Lane, Paradise, CA 95969. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.
