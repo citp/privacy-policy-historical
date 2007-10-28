@@ -1,26 +1,33 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120014009id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028132712id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
 
 # Legal/Privacy
 
-The HealthCare Center and the Personal Program are separate organizations that share this website. As a medical practice, the HealthCare Center conforms to the strict regulations of Federal law, as detailed below. Both organizations protect your privacy to the fullest extent required by law.
+Women to Women was founded in 1985 to provide healthcare services to women of all ages through three venues: clinical care from its base in Yarmouth, Maine; medical/health educational services through its clinic and website nationally; and a personalized, at-home program for hormonal balance designed to support a foundation of health for all women.
 
-**Privacy Practices of the Personal Program**  
-Women to Women’s Personal Program will protect your privacy, including any health-related information, to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services. We will restrict our employee’s access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement. 
+The Healthcare Center and the Personal Program are separate organizations that share this website. As a medical practice, the Healthcare Center conforms to the strict regulations of Federal law, as detailed below. Both organizations protect your privacy to the fullest extent required by law.
 
-**Legal Rights Regarding the Website**  
-These electronically-transmitted pages belong to Women to Women’s HealthCare Center and the Personal Program, and are offered for your personal use. All rights are reserved. These pages may not be duplicated or reproduced without the express written consent of Women to Women, except in the form of brief excerpts or quotations for the purposes of review. The information contained here is for personal use of the reader. Specific medical advice should be obtained from the reader’s personal health care professional. Making copies of these pages or any portion for any purpose other than your personal use is a violation of United States copyright laws.
+**Privacy Practices of the Personal Program**
 
-**Disclaimer Regarding the Website**  
-Women to Women and their employees and affiliates have used their best efforts in preparing this website. Women to Women and their employees and affiliates make no warranty of any kind, expressed or implied, with regard to the pages or the information contained here. 
+Women to Women’s Personal Program will protect your privacy, including any health-related information, to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
+
+**Legal rights regarding the website**  
+These electronically-transmitted pages belong to Women to Women’s Healthcare Center and the Personal Program, and are offered for your personal use. All rights are reserved. These pages may not be duplicated or reproduced without the express written consent of Women to Women, except in the form of brief excerpts or quotations for the purposes of review. The information contained here is for personal use of the reader. Specific medical advice should be obtained from the reader’s personal healthcare professional. Making copies of these pages or any portion for any purpose other than your personal use is a violation of United States copyright laws.
+
+**Disclaimer regarding the website**  
+Women to Women and its employees and affiliates have used their best efforts in preparing this website. Women to Women and its employees and affiliates make no warranty of any kind, expressed or implied, with regard to the pages or the information contained here.
 
 The information contained in this website is not intended to serve as a substitute for regular, in-person, professional medical care.
 
 Prices for products offered by Women to Women are subject to change without notice.
 
-**Limits of Liability Regarding the Website**  
-Women to Women or its employees or contractors shall not be liable in the event of incidental or consequential damages in connection with, or arising out of, the providing of the information offered here.
+**Limits of liability regarding the website**  
+Women to Women and its employees or contractors shall not be liable in the event of incidental or consequential damages in connection with, or arising out of, the provision of information offered here.
 
-**Notice of Privacy Practices Regarding Women to Women’s HealthCare Center**  
+**Advertising**  
+The Women to Women website does not accept paid endorsements of products or display banner advertising of any kind.
+
+**Notice of privacy practices regarding Women to Women’s Healthcare Center**
+
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
 If you have any questions about this Notice please contact our Privacy Officer: Donna Poulin, Practice Manager.
@@ -29,7 +36,7 @@ This Notice of Privacy Practices describes how we may use and disclose your prot
 
 We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](http://www.womentowomen.com/) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
 
-**Understanding Your Health Record/Information**  
+**Understanding your health record/information**  
 Each time you visit a healthcare provider, a record of your visit is made. Typically, this record contains your symptoms, examination and test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your health or medical record, serves as a:
 
   * basis for planning your care and treatment;
@@ -51,7 +58,7 @@ Understanding what is in your record and how your health information is used hel
 
 
 
-**Your Health Information Rights**  
+**Your health information rights**  
 Although your health record is the physical property of the healthcare practitioner or facility that compiled it, the information belongs to you. You have the right to:
 
   * request a restriction on certain uses and disclosures of your information; 
@@ -64,7 +71,7 @@ Although your health record is the physical property of the healthcare practitio
 
 
 
-**Our Responsibilities**  
+**Our responsibilities**  
 This organization is required to:
 
   * maintain the privacy of your health information;
@@ -79,7 +86,7 @@ We will not use or disclose your health information without your authorization, 
 
 If you believe your privacy rights have been violated, you can file a complaint with our Privacy Office or with the Secretary of Health and Human Services. There will be no retaliation for filing a complaint. You may contact our Privacy Officer, Donna Poulin, at (207) 846-6163 or by e-mail at [wtwmanager@yahoo.com](mailto:wtwmanager@yahoo.com?subject=Website-Legal) for further information about the complaint process.
 
-**Examples of Disclosures for Treatment and Payment**
+**Examples of disclosures for treatment and payment**
 
 _We will use your health information for treatment_.  
 For example: Information obtained by a therapist or other member of your healthcare team will be recorded in your record and used to determine the course of treatment that should work best for you. We may provide your physician or a subsequent healthcare provider with copies of various reports that should assist him or her intreating you.
@@ -110,3 +117,6 @@ _Law enforcement_ : We may disclose health information for law enforcement purpo
 Federal law makes provision for your health information to be released to an appropriate health oversight agency, public health authority or attorney, provided that a work force member or business associate believes in good faith that we have engaged in unlawful conduct or have otherwise violated professional or clinical standards and are potentially endangering one or more patients, workers or the public.
 
 This notice was published and becomes effective on April 14, 2003.
+
+_Original Publication Date:_ 04/14/2003  
+_Last Modified:_ 1/9/2007 
