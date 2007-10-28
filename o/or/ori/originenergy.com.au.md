@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507073041id_/http%3A//www.originenergy.com.au%3Fpageid%3D932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028082958id_/http%3A//www.originenergy.com.au/932/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Origin Energy Australia
 
@@ -15,4 +15,4 @@ Delivering improved value and services to our customers is our commitment. So, f
 
 We seek to ensure that all personal information we collect is accurate and complete. You have a right to access the personal information that Origin Energy holds about you. If you wish to update your details or if you have any questions about your Privacy, please [contact us](mailto:enquiry@originenergy.com.au) on – 13 24 61 (Gas and electricity) or 13 24 62 (LP Gas)
 
-[Download our privacy policies ](https://web.archive.org/files/OriginEnergyPrivacyPolicy.pdf)(pdf)
+[Download our privacy policies](https://web.archive.org/files/confidentiality_directive_sept_07.pdf) (pdf 67 KB)
