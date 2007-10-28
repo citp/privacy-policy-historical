@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114071644id_/http%3A//bankwest.com.au/Legal_Info/Website_Security_and_Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028083552id_/http%3A//www.bankwest.com.au/Legal_Info/Website_Security_and_Privacy_Statement) for the most accurate reproduction.*
 
 # BankWest Website Privacy Statement
 
@@ -10,7 +10,7 @@ We are bound by the National Privacy Principles (Principles) of the Privacy Act 
 
 This Security and Privacy Statement should be read with our Website Terms of Use.  We want you to be confident that you can use our websites safely - and certain that the information you share with us is protected and treated confidentially.
 
-It applies to our main website at [www.bankwest.com.au](https://web.archive.org/web/20061114071644id_/http://www.bankwest.com.au/index.aspx); which is operated by the Bank of Western Australia Ltd (ABN 22 050 494 454). It also applies to our BankWest extra Rewards website; which can be found at [bankwestextra.rewardscard.com.au](http://bankwestextra.rewardscard.com.au/), and which is operated on our behalf by Pinpoint Pty Ltd (ACN 002 693 656).
+It applies to our main website at [www.bankwest.com.au](https://web.archive.org/web/20071028083552id_/http://www.bankwest.com.au//index.aspx); which is operated by the Bank of Western Australia Ltd (ABN 22 050 494 454). It also applies to our BankWest extra Rewards website; which can be found at [bankwestextra.rewardscard.com.au](http://bankwestextra.rewardscard.com.au/), and our BankWest Thank You website which can be found at [www.bankwest.com.au/thankyou](http://www.bankwest.com.au/thankyou), both of which are operated on our behalf by Pinpoint Pty Ltd (ACN 002 693 656); it applies to our BankWest More Rewards website which can be found at [http://www.bankwestmorerewards.com.au](http://www.bankwestmorerewards.com.au/) which is operated on our behalf by Wishlist Holdings Limited (ACN 085 529 979); and it applies to our BankWest RewardMe Website which can be found at [www.bankwest.com.au/RewardMe](http://www.bankwest.com.au/RewardMe) which is operated on our behalf by Ambassador Pty Ltd (ACN 005 101 584).
 
 In this Security and Privacy Statement, the expressions **we** , **us** and **our** are a reference to Bank of Western Australia Limited and any related entity of the Bank of Western Australia Limited. A reference to our website is a reference to our main website or our Rewards website.
 
