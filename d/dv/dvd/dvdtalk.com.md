@@ -1,72 +1,18 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617060848id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028085119id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for DVD Talk/ Kleinman.com Inc.
+# DVD Talk Privacy Policy
 
 [](http://www.dvdtalk.com/)
 
-| **DVD & MOVIE REVIEWS**  
----  
-  
-[All Reviews](http://www.dvdtalk.com/reviews/index.php)
+| 
 
-  
-  
-  
-**DVD TALK FORUM**  
-**Forum Area:**  
-**REVIEWS & COLUMNS**  
-• [DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
-• [Theatrical Reviews](http://www.dvdtalk.com/reviews/list.php?reviewType=Theatrical)  
-• [Video Game Reviews](http://www.dvdtalk.com/reviews/games/list.php)  
-• [Adult DVD Reviews](http://www.dvdtalk.com/reviews/list.php?reviewType=Adult+DVD+Video)  
-• [DVD Interviews](http://www.dvdtalk.com/dvdinterviews.html)
+**Privacy Statement for DVD Talk**
 
-• [The Aisle View](http://www.aisleview.com/index.html)  
-• [The Blue Room](http://www.dvdtalk.com/adult/index.html)  
-• [Cinema Gotham](http://www.dvdtalk.com/cinemagotham/index.html)  
-• [CineSchlock-O-Rama](http://www.dvdtalk.com/cineschlock/index.html)  
-• [DVD Savant](http://www.dvdtalk.com/dvdsavant/index.html)  
-  
-**SHOP**  
-• [Adult DVD Empire](http://www.adultdvdempire.com/index.asp?partner_id=59826076)  
-• [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/dvdtalk) ([DVD](http://www.amazon.com/exec/obidos/redirect?tag=dvdtalk&path=subst/video/dvd/dvd.html))  
-• [Buy.com](http://click.linksynergy.com/fs-bin/click?id=cZdGXyuEAtc&offerid=37803.10000207&type=3&subid=0)  
-• [DeepDiscountCD](http://www.deepdiscountcd.com/index.cfm?goto=home&referral=dvdtalk)  
-• [DeepDiscountDVD](http://www.deepdiscountdvd.com/redirect.cfm?referral=dvdtalkedt&goto=home)  
-• [DVD Empire](http://www.dvdempire.com/index.asp?partner_id=49648684)  
-• [DVD Overnight](http://www.dvdovernight.com/index.asp?affil_id=PF2U4JP0)  
-• [DVD Planet](http://service.bfast.com/bfast/click?bfmid=26864318&siteid=30217318&bfpage=home)  
-• [Ebay](http://www.qksrv.net/click-280928-1643272)  
-• [Half.com](http://www.qksrv.net/click-280928-167876)  
-• [HKFlix.com](http://www.hkflix.com/xq/asp/aid.007782/qx/home.htm)  
-• [HTMarket.com](http://www.htmarket.com/)  
-• **[Complete List of Stores](http://www.dvdtalk.com/support.html)**  
-**DVD RESOURCE**  
-• [DVD Talk Forum](http://www.dvdtalk.com/forum/index.php)  
-• [DVD Price Search](http://www.dvdtalk.com/price.html)  
-• [Store Ratings](http://www.dvdtalk.com/store.html)  
-• [Customer Service #'s](http://www.dvdtalk.com/csr.html)  
-• [DVD FAQ](http://www.dvdtalk.com/faq.html)  
-• [Regional Encoding Info](http://www.dvdtalk.com/rce.html)  
-• [Search Toolbar](http://www.dvdtalk.com/dvdtalkinanutshell.html)  
-• [Links](http://www.dvdtalk.com/links.html)  
-**DVDTALK INFO**  
-• [About DVD Talk](http://www.dvdtalk.com/welcome.html)  
-• [Advertise](http://www.dvdtalk.com/ad.html)  
-• [Contribute](http://www.dvdtalk.com/contribute.html)  
-• [Tell A Friend](http://www.dvdtalk.com/recommend.html)  
-• [Newsletter Subscribe](http://www.dvdtalk.com/subscribe.html)  
-• [Join DVD Talk Forum](http://www.dvdtalk.com/forum/register.php) [](http://bilbo.counted.com/7/23448/)  
-  
-  
-  
-**Privacy Statement for DVD Talk/ Kleinman.com Inc.**
-
-Privacy Statement for DVD Talk/ Kleinman.com Inc.
+Privacy Statement for DVD Talk
 
 ## Privacy Statement for DVD Talk
 
-Kleinman.com Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DVD Talk.
+DVD Talk has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DVD Talk.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
@@ -116,12 +62,5 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com
-
-Columns
-
-[](http://www.dvdtalk.com/dvdsavant/spec.html) [](http://www.dvdtalk.com/cineschlock/index.html) [](http://www.dvdtalk.com/silentdvd/index.html) [](http://www.dvdtalk.com/eggs/) [](http://www.dvdtalk.com/adult/index.html) [](http://www.dvdtalkradio.com/)
-
-  
-|    
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman DVD Talk 8872 SW 82nd Ave Portland, OR 97223 310-341-4809 talk@dvdtalk.com   
+| 
