@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523190609id_/http%3A//eway.com.au/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028111758id_/http%3A//www.eway.com.au/About/privacy.aspx) for the most accurate reproduction.*
 
 # eWAY - Australia's Leading Payment Gateway
 
@@ -36,7 +36,7 @@ We use cookies in the following ways:
 
 When you register for any of **eWAY** 's services, we use cookies to make it easier for you to navigate through and complete the registration form. 
 
-When you login to the **eWAY**[Administration area](https://web.archive.org/web/20070523190609id_/http%3A//eway.com.au/login/default.aspx), we use cookies to easily authorize your credentials as you navigate through our secure pages. 
+When you login to the **eWAY**[Administration area](https://web.archive.org/web/20071028111758id_/http%3A//www.eway.com.au/login/default.aspx), we use cookies to easily authorize your credentials as you navigate through our secure pages. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our administration area, may be limited. 
 
