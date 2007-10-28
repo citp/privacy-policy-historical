@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the isabellaoliver.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624064307id_/http%3A//www.isabellaoliver.com/io/Shop%3Fdsp%3D80800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isabellaoliver.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028182901id_/http%3A//www.isabellaoliver.com/io/Shop%3Fdsp%3D80800) for the most accurate reproduction.*
 
 # Isabella Oliver Maternity Wear - for pregnant women who love clothes
 
-## For pregnant women who love clothes
-
 1.866.614.9387 Toll Free  
 Personal Assistance 24/7  
-FedEx 2 day delivery 
+
 
 ### what we collect and why
 
@@ -76,6 +74,6 @@ This encryption makes it virtually impossible for unauthorised parties to read a
 
 The encryption technique we use is the highest standard available for e-commerce and certified by VeriSign, the world's most respected certification body for Internet firms. 
 
-If you have questions regarding our credit card security policies, please call us on 1.866.614.9387. 
+If you have questions regarding our credit card security policies, please call us on 1.866.614.9387.
 
 If you are still not convinced about the safety of shopping online, but would like to enjoy the quality of Isabella Oliver maternity wear, please call us on the number above and place your order over the phone. We are open 24 hours a day, 7 days a week.
