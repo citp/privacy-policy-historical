@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apcmag.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621072918id_/http%3A//www.apcmag.com/node/2779) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apcmag.com privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028071534id_/http%3A//www.apcmag.com/node/2779) for the most accurate reproduction.*
 
 # ACP Magazines Ltd privacy policy | APC Magazine
 
