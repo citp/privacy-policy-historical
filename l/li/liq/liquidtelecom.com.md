@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidtelecom.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411052218id_/http%3A//www.liquidtelecom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidtelecom.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029191307id_/http%3A//www.liquidtelecom.com/privacy.html) for the most accurate reproduction.*
 
 # LIQUID - 1. Privacy Policy
 
