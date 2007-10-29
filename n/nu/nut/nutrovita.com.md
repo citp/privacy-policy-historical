@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrovita.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614003837id_/http%3A//www.nutrovita.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrovita.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029044347id_/http%3A//www.nutrovita.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of Nutrovita.com
 
@@ -13,11 +13,11 @@ The [nutrovita.com](http://nutrovita.com/) Privacy Policy discloses our privacy 
 
 **
 
-  1. What information of yours does the nutrovita.com collect?
-  2. What organization is collecting the information?
-  3. What are "cookies" and how does nutrovita.com use them?
-  4. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
-  5. Notice
+  1. [What information of yours does the nutrovita.com collect?](http://www.nutrovita.com/#1)
+  2. [What organization is collecting the information?](http://www.nutrovita.com/#2)
+  3. [What are "cookies" and how does nutrovita.com use them?](http://www.nutrovita.com/#3)
+  4. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.nutrovita.com/#5)
+  5. [Notice](http://www.nutrovita.com/#6)
 
 **
 
