@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609125514id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029161314id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HybridCars.com - Privacy Policy
 
-Our privacy policy is in plain English (we hope) and will only take a few moments to read and understand.
+Our privacy policy is in plain English and will only take a few moments to read and understand.
 
 ### How You Can Contact Us
 
