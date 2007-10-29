@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617044903id_/http%3A//www.microtelinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029145214id_/http%3A//www.microtelinn.com/privacy) for the most accurate reproduction.*
 
 # Microtel Inns & Suites - Privacy Policy
 
