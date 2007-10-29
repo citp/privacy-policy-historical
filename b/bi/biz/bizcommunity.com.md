@@ -1,33 +1,22 @@
-> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507074157id_/http%3A//www.bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029090435id_/http%3A//www.bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Biz-community - Privacy Policy
+# Bizcommunity - Privacy Policy
 
-[](https://web.archive.org/196/11.html)  
-South Africa's leading daily advertising, marketing  
-and media news resource for the industry!|   
----|---  
-| 
-
-[Marketing](https://web.archive.org/196/11.html)> [Advertising](https://web.archive.org/196/12.html), [Branding](https://web.archive.org/196/82.html), [Cinema](https://web.archive.org/196/97.html), [CRM](https://web.archive.org/196/33.html), [Design](https://web.archive.org/196/13.html), [Digital](https://web.archive.org/196/16.html), [Direct Marketing](https://web.archive.org/196/14.html), [Education & Training](https://web.archive.org/196/98.html), [Eventing](https://web.archive.org/196/40.html), [Exhibitions](https://web.archive.org/196/94.html), [Magazines](https://web.archive.org/196/39.html), [Media](https://web.archive.org/196/15.html), [Newspapers](https://web.archive.org/196/90.html), [Online Media](https://web.archive.org/196/23.html), [Out Of Home](https://web.archive.org/196/70.html), [Printing](https://web.archive.org/196/73.html), [Production](https://web.archive.org/196/17.html), [Public Relations](https://web.archive.org/196/18.html), [Radio](https://web.archive.org/196/59.html), [Recruitment](https://web.archive.org/196/22.html), [Research](https://web.archive.org/196/19.html), [Retail](https://web.archive.org/196/87.html), [Sales](https://web.archive.org/196/20.html), [Sponsorship](https://web.archive.org/196/48.html), [TV](https://web.archive.org/196/66.html)
-
-|   
----|---|---  
-  
 Last updated on 17 August 2001. 
 
 **All personal information supplied to Biz-community is kept strictly confidential and will not be sold to any third parties. All information viewed in Secure Services is protected through 128 bit encryption.**
 
-Biz-community's privacy policy is to respect and protect the privacy of members of Biz-community and any other site published by Biz-community. This policy statement tells you how we collect information from you and how we use it. 
+Bizcommunity 's privacy policy is to respect and protect the privacy of members of Biz-community and any other site published by Biz-community. This policy statement tells you how we collect information from you and how we use it. 
 
-Be assured that Biz-community will not disclose your personal information to third parties without your consent, except in aggregated form, as explained below. However, Biz-community reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Biz-community's rights or property, other members, or anyone else that could be harmed by such activities. Biz-community also reserves the right to disclose member information when we believe in good faith that the law requires it. 
+Be assured that Biz-community will not disclose your personal information to third parties without your consent, except in aggregated form, as explained below. However, Biz-community reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Bizcommunity 's rights or property, other members, or anyone else that could be harmed by such activities. Biz-community also reserves the right to disclose member information when we believe in good faith that the law requires it. 
 
-Biz-community collects and shares aggregate information about our members with advertisers, business partners, sponsors and other third parties. For example, we will say Biz-community's audience is X percent females and Y percent males. This data is used to customize Biz-community's content and advertising to deliver a better experience for our members and will in no way personally identify you. 
+Biz-community collects and shares aggregate information about our members with advertisers, business partners, sponsors and other third parties. For example, we will say Bizcommunity 's audience is X percent females and Y percent males. This data is used to customize Bizcommunity 's content and advertising to deliver a better experience for our members and will in no way personally identify you. 
 
 There are cases where we may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for a Biz-community account, for transactions, or for services that require registration or subscription. Biz-community needs to collect this information for fulfilling services, tracking/verifying compliance with Biz-community policies and applicable law and/or for purposes of editorial content and decisions. In addition, we may request your credit card information to bill you for membership fees or other services or products offered for sale through Biz-community or certain third party vendors. We may provide this credit card information to such third party vendors if necessary to complete your requested transaction. 
 
 Furthermore, we may use your personal information to send you periodic communications, solicit your feedback, provide you with special offers, or for other purposes and to customize the services we provide to you. At the bottom of every communication, Biz-community provides a link that can be used to opt out of receiving any communications from us. 
 
-In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/EditSubscription.aspx?m=e) page accessible from out front page. 
+In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/UpdateProfile.aspx) page accessible from out front page. 
 
 **USE OF IP ADDRESS**   
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. 
@@ -59,9 +48,4 @@ Remember to sign out of your Biz-community account and close your browser window
 Biz-community does not knowingly collect information from minors. If you are under 18, please do not provide any personal information to us. 
 
 **YOUR ACCEPTANCE OF THESE TERMS**   
-By using this site, you signify your assent to the Biz-community Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.    
-  
-
-
-  
-
+By using this site, you signify your assent to the Biz-community Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. 
