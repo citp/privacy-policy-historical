@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625045909id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029044828id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
@@ -9,13 +9,13 @@ This is a privacy policy for Weather for You. Our homepage on the Web is located
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
     
-    Torsitano Internet Services
+    weatherforyou.com LLC
     P.O. Box 2361
     Grants Pass, OR 97528-0207 
     USA
     
 
-You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-441-8050. 
+You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-787-7677. 
 
 ## Dispute Resolution and Privacy Seals
 
