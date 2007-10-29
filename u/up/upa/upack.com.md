@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501033613id_/http%3A//www.upack.com/about/privacy.asp%3Fnlnk%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029164641id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ABF U-Pack Moving Privacy Policy
 
@@ -14,7 +14,7 @@ All credit card information is encrypted by digital certificates using Secure So
 
 ## Does the U-Pack site use cookies?
 
-Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. For more information about cookies, read the Cookie and Privacy FAQ at microsoft.com.
+Certain information is stored in your cookie file; however, none of your personal or shipment information is stored in cookies. We believe cookies provide a safe and secure way to improve the usability of the site. For more information about cookies, read the Cookie and Privacy FAQ at microsoft.com.
 
 ## Privacy Policies of other Web sites
 
@@ -26,6 +26,6 @@ We employ other companies and individuals to perform services for us, such as an
 
 Please note that by using the ABF U-Pack Moving Web site, you consent to the collection and use of this information by ABF U-Pack Moving. If we decide to change this privacy policy, alterations will be posted to this page. ABF U-Pack Moving is committed to protecting your privacy.
 
-Please note that we updated this privacy policy on May 4, 2005 to clarify that we share information with companies that assist us in providing services to our customers, and they may only use that information to assist us, not for their own purposes. What has not changed is that we will not sell, rent, or trade your information to others without your consent.
+Please note that we updated this privacy policy on July 2, 2007 to clarify that we share information with companies that assist us in providing services to our customers, and they may only use that information to assist us, not for their own purposes. What has not changed is that we will not sell, rent, or trade your information to others without your consent.
 
 We practice permission marketing. If you would like to remove yourself from receiving future messages please visit our [opt out page](https://web.archive.org/un.asp). In any event, ABF will never provide your e-mail address to third parties.
