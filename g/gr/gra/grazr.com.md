@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620023701id_/http%3A//grazr.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029042021id_/http%3A//grazr.com/info/privacy.html) for the most accurate reproduction.*
 
 # Grazr Corp. Privacy Policy
 
