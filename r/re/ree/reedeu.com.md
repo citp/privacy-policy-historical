@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedeu.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609044832id_/http%3A//www.reedeu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedeu.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029190353id_/http%3A//www.reedeu.com/privacy.asp) for the most accurate reproduction.*
 
 # Reed Exhibition // Exhibitor University
 
