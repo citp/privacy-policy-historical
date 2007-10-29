@@ -1,101 +1,109 @@
-> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611225914id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029171540id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Statement  
-Updated: August 2005  
-eSnips is owned and operated by eSnips Ltd.  
-We take your privacy very seriously. Please read on to find out how we safeguard your privacy.  
-**This Privacy Policy Covers** :  
-  
-  * What information is collected via the eSnips web site at www.eSnips.com
-  * How eSnips treats personal information that eSnips collects and receives. Personal information means information about you that is personally identifiable like your name, address, email address, or phone number and that is not otherwise publicly available.
-  * Information you may receive from eSnips
-
-  
-Since children under 13 are not permitted to use the eSnips service, this privacy policy makes no provision for use of the site by anyone under 13 years of age.  
+PRIVACY POLICY  
+Thank you for visiting www.esnips.com (together with all other websites operated by eSnips Ltd. or its affiliates, the “Site”). Your privacy is important to us. To better protect your privacy, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at this Site. This Privacy Policy forms part of the [Terms of Use](http://www.esnips.com/statments/terms.jsp).  
    
-Information Collection and How it is used  
-**General Information**  
+Introduction  
   
-  * When a user registers with eSnips to use eSnips services or to post content on eSnips , we collect the following personal information: 
-    * When a user registers we ask for their email address
-    * When we offer a paid ("Pro") account, we will ask for first and last name, billing address, phone number, and credit card information. 
-  * As a subscriber to the free offerings, you may if you wish choose to add more information about yourself, such as your full name, age, time zone, email and occupation. There is no compulsion to do so. When you share a folder you have the option of making this information (your profile) available to the people you chose to share your folder with, or of keeping it private.
-  * We automatically receive and record information in our server logs from the user’s browser, including your IP address, eSnips cookie, and the page you request.
-  * We use information for the following general purposes: to provide you with products and services, to identify and authenticate your access to eSnips you are authorized to access, to improve our services to you, to contact you, and for research, including anonymous reporting. When we offer a paid (“Pro”) account, we will use personal information for billing.
+We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
+Personal information means information about you that is personally identifiable including, but not limited to, your name, address, email address or other contact information.
+
+Currently, we do not require you to provide Personal Information in order to have access to information which is publicly available on our Site. However, in order to provide you with certain services given under the Site, you must create an account (“Account”) and provide us with your email address and password that you will use for your Account (“Requested Details”). We shall then send you an email to your email address to instruct you how to confirm your registration. We may request additional Personal Information in the future.
+
+If you have an Account you may, if you wish, add more information about yourself, such as pictures, videos, your age, time zone, country of residence and occupation (“Your Profile”). 
+
+We use Personal Information for the following purposes: to identify and authenticate your access to eSnips’ services that you are authorized to access, to provide you with the services provided under the Site, to improve our services to you and to contact you.  
   
-**IP Addresses**  
-IP addresses are automatically reported by your browser each time you view a web page. Your IP address is NOT stored in our user registration databases, it is only recorded while the user is visiting the site. Once you have left our site, no record of your IP address remains with us until the next time you access our site.  
-IP addresses may be used for various purposes, including:   
+   
+Cookies and Other Tracking Technologies   
   
-  * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers.
-  * To estimate the total number of users visiting eSnips from specific geographical regions.  
+Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your e-mail address and the password of your account, to gain access to certain parts of the Site. 
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.  
+  
+   
+Information Sharing with Others   
+  
+Social DNA Questionnaire: If you choose to share Your Profile with other users of the Site that have participated in a “Social DNA Questionnaire”, we shall display the details as explained in the [Social DNA Terms of Use](http://www.esnips.com/statments/socialDNATerms.jsp).   
 
 
-  
-**Cookies**  
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. It does NOT include any personal information about you.  
-  
-  * eSnips sets and accesses eSnips cookies on your computer. We do not access cookies set by any other site or services provider, and other sites or service providers cannot access eSnips cookies on your computer.
-  * We do allow other companies (such as Google) that show advertisements on some of our pages to set and access their own cookies on your computer. This privacy policy does not govern other companies’ use of their cookies: each such company has its own privacy policy which governs its use of its own cookies.
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. But If you choose to reject all cookies, or to reject the eSnips cookie when your browser notifies you of a request to set it, your use of our services will be limited as follows: 
-    * you will not be able to use eSnips products or services that require you to "sign in"
-    * you may not be able to take full advantage of the eSnips service.
-  * eSnips cookies are used for several purposes, such as: 
-    * To enable you to access your eSnips and other information when you "sign in".
-    * To keep track of your preferences – how you have said you prefer to use the eSnips services.
-    * To display the advertising banners that are most likely to interest you, based on your interests and activity on eSnips .
-    * To estimate and report our total audience size and traffic.
-    * To conduct research that will help us to improve eSnips ’ content and service.
+Public Information: When you create an account on eSnips, certain information that you provide is visible to other users of the Site. We shall display the following details about you: (i) Your Profile; (ii) the display name that was generated to you by eSnips automatically when you signed up (or the subsequent display name which you selected) and; (iii) the e-mail address that you provided on sign-up, provided, however that you agreed to make it public. When users access Your Profile as set forth herein we record and display next to Your Profile the number of users that view Your Profile. 
 
-  
-Information Sharing with Other Users  
-  
-  * When users share a folder, the eSnips display name and e-mail provided on sign-up is visible to the users who received access to the shared folder. If the eSnips user chose to add additional personal details, those will be visible to these users as well.
-  * Users are invited to access a shared folder via email. Their email address is visible to the other users whom you have invited to access the shared folder. If the visiting users are also users of eSnips , their user name will also be visible along with the email address.
-  * When invited users access shared folders and view files, the viewing of the file is recorded and displayed. eSnips records and displays to invited users the following information: 
-    * How many users from the group opened the file
-    * A list of the users that opened the file
-    * The time when the file it was opened by that specific user
+When you create a folder you determine if such folder is classified as Public, Group or Private as detailed below:
 
+1\. Public Folder: If you choose that your folder will be classified as Public Folder we shall also display such Public Folder and insert link from Your Profile to such Public Folder. Public Folders are visible to every user of the site. 
+
+2\. Group Folder: You may invite particular people to access a Group Folder via email. Your email address shall be visible to such people that you have invited to access a specific Group Folder. If the people that visit a Group Folder are also users of eSnips, their display name will also be visible along with their email address. You can create several Group Folders, each with its own list of members. 
+
+The viewing of the Group Folder by the people that you invite is recorded by eSnips. We display to invited people the following information:
+
+  * How many people were invited to view the Group Folder
+  * A list of the people that view the Group Folder
+  * The time when the Group Folder was viewed by that specific person who was invited 
+
+
+
+3\. Private Folder: A private folder is only visible to you, only when you sign into your account.  
   
+  
+   
 Information Sharing with and Disclosure to Non-Users  
   
-  * eSnips does not rent or sell your personal information. But if you post online personal information in any place that is viewable by the general public, you may receive unsolicited messages.
-  * eSnips may share anonymous demographic information with business partners. An example of such information might be: "65% of users who regularly use eSnips come from the United States" or the like. No personally identifiable information will ever be used without your permission.
-  * Generally, eSnips does not share personal information about any user with any individual, company or other entity without that user’s consent, except to provide products or services the user has requested. But we may be required to disclose personally identifiable information under special circumstances: 
-    * We may be legally required to disclose personally identifiable information, for instance in order to comply with subpoenas, warrants, court orders or legal processes, to establish or exercise our legal rights, or to defend ourselves against legal claims
-    * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including -- without limitation -- fraud, situations involving potential threats to the physical safety of any person, violations of eSnips ’ terms of use, or as otherwise permitted or required by law.
-    * We will need to transfer information about our users if eSnips is acquired by another company or merges with another company (a situation which will probably but not necessarily result in your information becoming subject to a different privacy policy). In this event, eSnips will notify all users by email or by putting a prominent notice on the eSnips web site, before information about you is transferred.
-  * When you register with us, your personal information and other data will be stored and processed in the United States and Israel and this information may be subject to the laws of these jurisdictions.
+We do not rent or sell your Personal Information, but if you post online Personal Information in any place that is viewable by the general public, you may receive unsolicited messages.
 
-  
-Unsolicited Information You may Receive  
-  
-  * eSnips displays targeted advertisements based on personal information that you have entered into your profile.
-  * From time to time we may send you information relating to the eSnips service, such as service announcements and administrative messages.
+We may share anonymous demographic data and related usage information with business partners. This information does not contain any Personal Information that can identify an individual user. 
 
+Generally, eSnips does not share Personal Information about any user with any individual, company or other entity without that user’s consent, except to provide products or services the user has requested. But we may be required to disclose personally identifiable information under special circumstances:
+
+  * We may be legally required to disclose Personal Information, for instance in order to comply with subpoenas, warrants, court orders or legal processes, to establish or exercise our legal rights, or to defend ourselves against legal claims;
+  * It may be necessary to share Personal Information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of eSnips’ Terms of Use, or as otherwise permitted or required by law;
+  * We may need to transfer information about our users including Personal Information if eSnips is acquired by another company or merges with another company.
+
+
+
+When you register with us, your Personal Information and other data will be stored and processed in the United States and this information may be subject to the laws of these jurisdictions.  
   
+   
+Choice  
+You may choose whether or not to provide Personal Information to us. The notices we will provide where we collect Personal Information on the Site should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you including but not limited to uploading files or posting comments.   
+   
+Access/Accuracy  
+To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. You may check Your Profile and add information, delete information or correct any incorrect information.  
+   
+Collection of Information by Third-Party Sites  
+Our Site may use a reputable third party to present or serve advertisements that you may see at our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.  
+   
+Children's Privacy  
+The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.  
+   
 Security of Your Account Information  
-  
-  * Your eSnips account Information is password-protected.
-  * You can change your eSnips account Information at any time. 
-  * In certain areas, eSnips uses SSL-encryption to protect data transmissions.
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information in order to do their jobs – such as to provide products or services to you. 
-
-  
+We have implemented reasonable security measures to protect your Personal Information. Nevertheless, Personal Information or other information which you upload to the Site may be corrupted or irretrievable. You understand that eSnips has no liability for any such loss of information, photos or other data.  
+   
+Your Privacy Rights  
+eSnips' Privacy Policy is to share personal information only with the owner's informed consent. If you have further inquires regarding eSnips' Information Sharing Practices, please let us know. The designated contact for these queries is **privacy AT esnips.com**  
+   
+In the Event of Merger, Sale, or Bankruptcy  
+In the event that eSnips is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used.  
+   
 Changes to this Privacy Policy  
-eSnips may update this policy at any time for any reason. If a change significantly affects how we handle personal information, we will either send a notice to the primary email address specified in your eSnips account or place a prominent notice on our site.
+  
+By using this Site, you consent to the terms of our Privacy Policy and to eSnips' processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. eSnips may update this policy at any time for any reason. If a change significantly affects how we handle personal information, we will either send a notice to the primary email address specified in your eSnips account or place a prominent notice on our site.
 
-If you have questions or suggestions please send us email to [privacy@esnips.com](mailto:privacy@esnips.com) or you can contact us at:
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and eSnips’ Sites are constantly evolving to meet these demands. If you have questions or suggestions regarding our Privacy Policy please send us email to privacy AT esnips.com or you can contact us at:
 
 eSnips Ltd.  
-eSnips Customer Care - Privacy  
-1030 East El Camino Real #440   
-Sunnyvale, CA 94087  
-USA  
+PO Box 8858  
+Poleg Industrial Zone  
+Netanya, 42507  
+Israel
+
+**While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
+
+Last modified: August 21, 2007  
   
  
