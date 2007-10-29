@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507084541id_/http%3A//www.dubaimerc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029162647id_/http%3A//www.dubaimerc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # :: DME ::
 
+  
 Information Collection and Use 
 
 Dubai Mercantile Exchange Ltd is the sole owner of the information collected on our site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Dubai Mercantile Exchange Ltd collects information from our users at several different points on our website.
@@ -14,7 +15,7 @@ Dubai Mercantile Exchange Ltd may send personally identifiable information about
 
 • We have your consent to share the information   
 • We need to share your information to provide the product or service you have requested   
-• We need to send the information to companies who work on behalf of Dubai Mercantile Exchange Ltd to provide a product or service to you   
+• We need to send the information to companies who work on behalf of Dubai Mercantile    Exchange Ltd to provide a product or service to you   
 • We respond to subpoenas, court orders or legal process, or  
 • We find that your actions on our websites violate the Dubai Mercantile Exchange Ltd guidelines 
 
@@ -32,7 +33,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 Security 
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. In certain areas, we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, All employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to [info@dubaimerc.com](mailto:info@dubaimerc.com)
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. In certain areas, we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, All employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to [info@dubaimerc.com](mailto:info@dubaimerc.com).
 
 Notification of Changes 
 
@@ -40,4 +41,4 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 Questions or Suggestions 
 
-If you have questions or suggestions, please email to [info@dubaimerc.com](mailto:info@dubaimerc.com)
+If you have questions or suggestions, please email to [info@dubaimerc.com](mailto:info@dubaimerc.com).
