@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625022534id_/http%3A//www.nestle.pk/CMS_Nestle/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.pk privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030062245id_/http%3A//www.nestle.pk/CMS_Nestle/privacy-policy.html) for the most accurate reproduction.*
 
 # Nestlé Pakistan
 
