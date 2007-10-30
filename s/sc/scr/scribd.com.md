@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524113248id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030174729id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
 
 # Scribd
 
@@ -81,7 +81,7 @@ The following are some resources that may help parents and legal guardians in mo
 
   * “[OnGuard Online](http://onguardonline.gov/socialnetworking.html),” maintained by the Federal Trade Commission.
   * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](https://web.archive.org/web/20070524113248id_/http%3A//www.scribd.com/www.netsmartz.org)
+  * [Netsmartz.org](https://web.archive.org/web/20071030174729id_/http%3A//www.scribd.com/www.netsmartz.org)
   * [The Child Safety Network](http://www.csn.org/index.jsp)
   * [Control Kids](http://www.controlkids.com/)
   * [Cyber Sitter](http://www.solidoak.com/)
@@ -105,4 +105,4 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 **10.   ****_Scribd Contact Information_** :
 
-Please contact Scribd with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: 894 Tolman Drive, Stanford, CA 94305, or by email:[privacy@scribd.com](mailto:privacy@scribd.com?subject=Privacy).  We will respond to your inquiry within 30 days of its receipt.  ****
+Please contact Scribd with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Scribd.com, 211 Sutter St., Floor 2, San Francisco, CA 94108, or by email:[privacy@scribd.com](mailto:privacy@scribd.com?subject=Privacy).  We will respond to your inquiry within 30 days of its receipt.  ****
