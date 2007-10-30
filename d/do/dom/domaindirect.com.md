@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626103018id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030131142id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
