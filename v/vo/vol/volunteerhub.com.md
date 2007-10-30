@@ -1,57 +1,80 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030093906id_/http%3A//www.volunteerhub.com/Privacy.aspx) for the most accurate reproduction.*
 
-# VolunteerHub.com Privacy Policy
+# VolunteerHub - Privacy Statement
 
-**VolunteerHub.com PRIVACY POLICY**
+CEI is committed to protecting your privacy. This privacy statement applies to the data collected by CEI through the CEI VolunteerHub Web sites, CEI VolunteerHub services, and associated software (the "Services"). This privacy statement does not apply to data collected through other online or offline CEI sites, products or services.
 
-This privacy statement discloses the privacy practices for URLs ending in VolunteerHub.com.
+## Collecting Your Business Information
 
-This web site has agreed to notify you of:
+Information that is provided by organization administrators such as event information, attendee lists, or contact information, and any content uploaded to our servers by administrators ("Business Information") are considered confidential to the subscribing organization. We will not view Business Information except as necessary to appropriately support the service. We will use Business Information for the purpose of service capacity planning; anticipating, diagnosing, supporting or resolving any problems that might limit or disrupt the Services; and improving the quality of the Services. Any Business Information collected during the meeting is also used to facilitate debugging during development, or to debug customer escalations that are being reproduced in real time. 
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
-  2. The organization collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under VolunteerHub.com control
-  7. How you can correct any inaccuracies in the information.
+## Collecting Your Personal Information
 
-If you feel that this company is not abiding by its posted privacy policy, you should first [contact us.](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/contact.stm)
+We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include your name, postal address, email address, telephone number, facsimile number, company name, job title, and information about your company as well as information about the nature of your usage of our service, including the number of event registrants, duration and frequency of events, and total number of events. 
 
-**Information Collection and Use**
+We may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Web site; the pages that you access while at the Web site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the Services, analyze trends, and administer the Services. 
 
-VolunteerHub.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VolunteerHub.com collects information from our users at several different points on our website.
+## Use of Personal Information
 
-**Registration**
+The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
 
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name, address, email, phone, etc). This information is used to contact the user about the services on our site for which they have expressed interest. Except for email address and full name, all other user information is optional.
+In support of these uses, CEI may use personal information to provide you with more effective customer service, to improve the Site and any related CEI products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
 
-**Cookies**
+We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other CEI products and services, and/or share information with CEI partners so they may send you information about their products and services. 
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.
+CEI occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. 
 
-**Log Files**
+CEI may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to : (a) conform to the edicts of the law or comply with legal process served on CEI or the site; (b) protect and defend the rights of property of CEI and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of CEI employees, users of CEI products or services, or members of the public.
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Personal information collected by VolunteerHub may be stored and processed in the United States or any other country in which CEI or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer or information outside of your country.
 
-**Links**
+## Control of Your Personal Information
 
-This web site contains links to other sites. Please be aware that VolunteerHub.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Except as otherwise described in this statement, personal information you provide related to the Services will not be shared outside of CEI and its controlled subsidiaries and affiliates without your permission.
 
-**Security**
+With regard to personal information that is collected at registration from our users (e.g. name, user ID, email address), we present the option not to receive communications regarding the Services. Customers who no longer wish to receive communications may opt-out or unsubscribe from receiving these communications. Each communication will have a way to unsubscribe from that list. If you encounter any difficulty please email us at support@volunteerhub.com. 
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
+Please be aware that this privacy statement and the choices you make related to the Services will not apply to personal information you may have provided to CEI in the context of other, separately operated, CEI products or services.
 
-If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/contact.stm) any time.
+## Access to Personal Information
 
-**Correction/Updating Personal Information**
+If your personally identifiable information changes, we will provide a way to correct or update your personal data. Customers can log in and click on the Your Account link to modify personal information. VolunteerHub customers also may contact support@volunteerhub.com.
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by [contacting us](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/contact.stm). 
+## Security of Your Personal Information
 
-**Notification of Changes**
+CEI is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. 
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+We do not disclose your private, online communications. However, what you publish to your VolunteerHub service is available to those whom you authorize to see the information. In the event that you elect not to use any of the service�s security access controls, the content that you publish is available to those in the general public who are aware of the URL address for your event.
 
-If you have problems with this page, please [notify us](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/contact.stm).  
-Copyright ©<%= Year(Date) %> [VolunteerHub.com](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/default.asp). All Rights Reserved.  
-[Privacy Policy](https://web.archive.org/web/20040605151610id_/http%3A//www.volunteerhub.com/privacy.stm)
+## Use of Cookies
+
+We use cookies on this site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to use interactive features of this or other web sites that depend on cookies. 
+
+## Links to Other Web Sites
+
+This Web site may contain links to other Web sites. Please be aware that this privacy statement applies solely to the information collected by Volunteerhub Services. We are not responsible for the privacy practices or the content of other Web sites. In some cases, the VolunteerHub Service may be hosted by a customer, on the customer�s site. In such cases when our Service is being run on the customer�s network, users should visit the VolunteerHub site in order to review the privacy policy. We encourage you to be aware when you are leaving this Web site and read the privacy statements of each and every Web site that you visit before providing any personal information.
+
+## Enforcement of this Privacy Statement
+
+If you have questions regarding this statement, you should contact CEI by e-mail at support@volunteerhub.com.
+
+## Changes to the Privacy Statement
+
+We may occasionally update this privacy statement. When we do, we will revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the Services constitutes your agreement to this privacy statement and any updates.
+
+## Contact Information
+
+CEI VolunteerHub welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by e-mail or postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+VolunteerHub  
+Carr Engineering Inc.  
+5433 Haverhill Dr.  
+Dublin, Ohio, 43017
+
+To find other contact details for VolunteerHub, see [www.volunteerhub.com](http://www.volunteerhub.com/).
+
+Last updated: April 7, 2006
