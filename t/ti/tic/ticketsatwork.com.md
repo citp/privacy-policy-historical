@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230182416id_/http%3A//www.ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030183627id_/http%3A//ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
 
 # TicketsAtWork.com
 
@@ -10,7 +10,7 @@ Universal Orlando® Resort
 
 Orlando & Tampa Attractions
 
-, , , , , , , , , , , 
+, , , , , , , , , , , , , , , , 
 
 South Florida Attractions
 
@@ -18,15 +18,19 @@ South Florida Event Specials, Concerts & Sports
 
 California Theme Parks & Attractions
 
-, , , , , , , , , , , 
+, , , , , , , , , , , , , , , , , 
+
+New York Event & Broadway Specials
 
 _Cirque Du Soleil_ \- Touring Across America
 
 Nationwide Theme Parks & Attractions
 
+, , , , , , , , , , 
+
 Movie Tickets & Rentals
 
-, , , , , , , , , , , , 
+, , , , , , , , , , , , , , 
 
 City Pass Tickets
 
@@ -49,9 +53,9 @@ We use email links or Web forms throughout our site for customer comments and su
 
 EBG is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. EBG may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless we either have your permission or believe in good faith that the law requires it. 
 
-**Third Parties** WDWSpecials.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. EBG recommends you consult the privacy policies of our third party partners prior to providing any personal information. 
+**Third Parties** TicketsAtWork.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. EBG recommends you consult the privacy policies of our third party partners prior to providing any personal information. 
 
-**Purchases** When you place an order on WDWSpecials.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). If necessary, we will use your personal information to contact you for account purposes. 
+**Purchases** When you place an order on TicketsAtWork.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). If necessary, we will use your personal information to contact you for account purposes. 
 
 **Contests or Surveys** In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. 
 
