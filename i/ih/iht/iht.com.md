@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107100433id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030020836id_/http%3A//www.iht.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy & Cookies - International Herald Tribune
 
@@ -10,7 +10,7 @@ Why do we collect ANY data on our users? Like many web sites, we collect non-per
   * to target advertisements
   * to personalize our service for individuals or groups of users
 
-In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at [webhelp@iht.com](mailto:webhelp@iht.com).
+In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please contact us.
 
 **Log Files**
 
@@ -60,4 +60,6 @@ For those iht.com users who have registered for any of our special services, we 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that the IHT is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site. 
+This web site contains links to other sites. Please be aware that the IHT is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.   
+  
+---|---|---|---|---
