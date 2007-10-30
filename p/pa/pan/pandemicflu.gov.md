@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandemicflu.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630131035id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandemicflu.gov privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030195233id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS - HHS Privacy Notice
 
