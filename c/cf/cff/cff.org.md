@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611155827id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030013154id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -57,17 +57,17 @@ Should your personal information need to be reviewed, updated, corrected or dele
 
 **Opt-Out Policy**
 
-You may request not to be contacted by CFF in connection with any new services, updates, programs or promotions. Requests not to be contacted by CFF should be sent in writing to Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
+You may request not to be contacted by the CFF in connection with any new services, updates, programs or promotions. Requests not to be contacted by the CFF should be sent in writing to: Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org). You also may make your request verbally by calling **(800) FIGHT CF (344-4823)**.
 
 **Security**
 
 This Site has security measures in place to protect against the loss, misuse and alteration of information under our control. However, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your personal information may not be disclosed or otherwise accessed in an unauthorized manner. Certain information may be transmitted to you by electronic mail. Although it is illegal to intercept or disclose these messages under Federal law, these transmissions are not secured.
 
-Online Policy Changes
+**Online Policy Changes**
 
 This privacy policy may be modified. Any changes to the CFF online privacy policy will be posted on the Site. All information submitted through this Site is subject to the terms and conditions of this privacy policy, as it may be amended from time to time.
 
-How to Contact Us
+**How to Contact Us**
 
 If you have any questions about the Site, our privacy policy or the information we collect, please contact us at Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 20872, Attn: Communications Department, or send an e-mail to [info@cff.org](mailto:info@cff.org).
 
@@ -77,23 +77,23 @@ If you have any questions about the Site, our privacy policy or the information 
 
 Any person or organization who makes a financial contribution in response to a Cystic Fibrosis Foundation ("CFF") Direct Mail Program solicitation shall be considered, to the extent permitted hereunder, to be a “Donor” under this privacy policy. CFF and all Donors are bound by the terms of this privacy policy. CFF is committed to protecting the privacy of our Donors. This privacy policy discloses the privacy practices governing the use of information submitted to CFF through its Direct Mail Program solicitations. Capitalized terms shall have the meaning designated in this privacy policy.
 
-The Information We Collect
+**The Information We Collect**
 
-Personal Information
+**Personal Information**
 
 CFF may collect personal information such as names, company names, titles, addresses, telephone numbers, fax numbers, e-mail addresses, and payment information (such as credit card numbers) from Donors. For example, CFF may collect personal information submitted from Donors via return mail or during telephone calls. CFF may also collect such information by appending from “public records” such as, but not limited to, United States Postal Change of Address (COA) information and local and state government records. The CFF may also append information to its Direct Mail files concerning the Donors’ volunteer activities on behalf of the CFF such as, but not limited to, participation in local chapter fund-raising events. By submitting personal information to the CFF, Donors acknowledge that they have read this privacy policy, understand it, agree to its terms and authorize CFF to collect, use and disclose personal information pursuant to the terms of this privacy policy.
 
-Children
+**Children**
 
 The CFF does not knowingly solicit contributions from individuals under 18 years of age. Because CFF obtains prospective new donor names from such lists as magazine subscribers, which do not append the age of subscribers, it is occasionally unavoidable.
 
-How We Use It
+**How We Use It**
 
 The CFF uses personal information collected from Donors, such as names and e-mail addresses, to respond to Donor inquiries, to process Donor requests for information, for issuing donation receipts, to help in deciding who receives future Direct Mail Program solicitations, to process User donations, to help organize fund-raising events, and to inform Donors of new programs and services.
 
-Who We Share It With
+**Who We Share It With**
 
-The CFF does—from time to time—share the names and addresses of its donors with other worthwhile organizations. We do not, however, share telephone numbers, e-mail addresses, or any financial information about any person. This process enables us to introduce thousands of new volunteers to the Cystic Fibrosis Foundation's efforts and provides significant funds to help support our vital research and care programs. If you do not want us to share your name and address, please contact us by calling  **(866) 347-2345** or **(800) 344-4823** or by sending an e-mail to:[DirectMarketing@cff.org](mailto:DirectMarketing@cff.org). You also may write to us at 6931 Arlington Road, Bethesda, MD 20814,  ATTN: Direct Marketing.
+The CFF does—from time to time—share the names and addresses of its donors with other worthwhile organizations. We do not, however, share telephone numbers, e-mail addresses, or any financial information about any person. This process enables us to introduce thousands of new volunteers to the Cystic Fibrosis Foundation's efforts and provides significant funds to help support our vital research and care programs. If you do not want us to share your name and address, please contact us by calling  **(866) 347-2345** or **(800) 344-4823** or by sending an e-mail to: [DirectMarketing@cff.org](mailto:DirectMarketing@cff.org). You also may write to us at 6931 Arlington Road, Bethesda, MD 20814,  ATTN: Direct Marketing.
 
 Notwithstanding other provisions of this privacy policy, we may disclose personal information in special cases when we have found it necessary to identify, contact or bring legal action against someone who may be violating any agreement or may be causing injury to or interference with CFF, its Donors, or anyone else that could be harmed by such activities. The CFF reserves the right to disclose your personal information as explicitly set forth in this privacy policy or any agreement agreed to by you, or as otherwise required by government or law enforcement officials. The CFF can, and you hereby authorize us to, disclose any information to law enforcement or other parties that the CFF in its sole discretion, believes is required or appropriate in order to comply with the law.
 
@@ -131,4 +131,4 @@ This privacy policy may be modified. Any changes to the CFF Direct Mail privacy 
 
 If you have any questions about our privacy policy or the information we collect, please write to the Cystic Fibrosis Foundation, 6931 Arlington Road, Bethesda, MD 208, Attn: Direct Marketing Department, or call toll-free **(866) 347-2345** or **(800) 344-4823**. You also may send an e-mail to [DirectMarketing@cff.org](mailto:DirectMarketing@cff.org).
 
-**Updated 12/10/04**
+**Updated 08/09/07**
