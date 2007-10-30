@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514123219id_/http%3A//www.viagogo.com/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030182645id_/http%3A//www.viagogo.com/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
@@ -28,7 +28,7 @@ viagogo may share your personal information (excluding credit or bank card detai
 
 If you opt in, these partners may use your personal information to contact you regarding related sites which they think may be of interest to you as a viagogo customer. 
 
-These partners will be based worldwide and by agreeing to this privacy policy, you are consenting to the transfer of your personal data to these selected partners regardsless of where they are based. 
+These partners will be based worldwide and by agreeing to this privacy policy, you are consenting to the transfer of your personal data to these selected partners regardless of where they are based. 
 
 ## Automatic Logging of Session Data
 
@@ -66,7 +66,7 @@ We may use third-party advertising companies, such as Performics Inc., to serve 
 
 ## Transfer of Your Personal Information and Financial Information Outside of the EEA
 
-Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. As mentioned, we may also send personal information tp partners who are located outside the European Economic Area (EEA). Such companies may be located outside the EEA (including the USA) and by submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law.
+Please note that from time to time, viagogo may transfer your personal and/or financial information to a related company or partner in order to improve our services or to help our security, credit risk or fraud protection activities. Such companies may be based outside of the EEA. By submitting to us your details, you are providing consent to the transfer of your information for the purposes set out in this paragraph. Please acknowledge that any transfer of information will take place in accordance with this Privacy Policy and as permitted by law.
 
 ## Transfer of Personal Information in Event of Sale of viagogo or its Assets
 
