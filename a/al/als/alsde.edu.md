@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214002900id_/http%3A//www.alsde.edu/default.asp%3Finfo%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030010018id_/http%3A//www.alsde.edu/html/legal_notice.asp%3Ffooter%3Dgeneral%26legalType%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Welcome to Alabama State Department of Education
+# ALSDE - Legal Notice
 
-> This World Wide Web (WWW) site is provided as a public service by the Alabama State Department of Education.
-> 
-> Information presented on this WWW site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.
-> 
-> For site management, information is collected for statistical purposes and scheduled for regular destruction. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.
-> 
-> For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. By accessing the these Web Pages, you expressly consent to AL-SDE monitoring of this site for unauthorized activities. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the U.S. Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
-> 
-> Note: This site includes among its services discussion forums and comment areas in which users are invited to submit comments. In some cases, personal identifier information such as name or E-mail address is requested or required. This information is posted for public access along with the submitted comments and messages which it accompanies. In all cases, participation is strictly voluntary and no other use is made of the information. The Department posts a Privacy Act notice at those places on this Web site (and at other Alabama State Department of Education sites accessible through this Web site) where AL-SDE needs to collect any individually identifiable information for use by AL-SDE.
-> 
-> If you have any questions or comments about the information presented here, please forward them to us: [tharris@sdenet.alsde.edu](mailto:tharris@sdenet.alsde.edu).
+Privacy Statement
+
+We want to be very clear: We prohibit commercial marketing of visitor information and the disclosure of personal information without prior consent of the visitor.  We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us, such as an email address. We use your email address to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward email to another agency for appropriate action.
+
+Web sites developed by the State of Alabama may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session. This means that when you close your browser they are deleted.
+
+Our server tracks statistical information (through the use of server logs) to help agencies hosted on our servers analyze the use of their sites.  
+We collect and store only the following information about your visit:
+
+  * the name of the domain from which you access the Internet; 
+  * the date and time you access our site; 
+  * and the Internet address of the website from which you linked directly to our site. 
+
+
+
+We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+
+Please refer to individual Alabama State Agency Web Sites for their Privacy Policies, which may differ from the one displayed here.
+
+[Standard 1210-0051: Privacy Statement](http://isd.alabama.gov/policies/new_format/Standards/Standard_1210-00S1_Online_Privacy_Statement.pdf) (PDF)   
+
