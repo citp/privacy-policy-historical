@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipap.jp privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205030904id_/http%3A//www.ipap.jp/privacypolicy_e.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipap.jp privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030083828id_/http%3A//www.ipap.jp/privacypolicy_e.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
