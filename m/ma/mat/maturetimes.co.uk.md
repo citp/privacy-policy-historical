@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturetimes.co.uk privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619001147id_/http%3A//www.maturetimes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturetimes.co.uk privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030182755id_/http%3A//www.maturetimes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mature Times
 
