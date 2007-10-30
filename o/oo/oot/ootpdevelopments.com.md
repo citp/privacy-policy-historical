@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ootpdevelopments.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084003id_/http%3A//ootpdevelopments.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ootpdevelopments.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030181151id_/http%3A//www.ootpdevelopments.com/policies.php) for the most accurate reproduction.*
 
 # OOTP Developments: Policies & Copyright
 
