@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125137id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030175704id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Help Desk : Privacy Policy
 
