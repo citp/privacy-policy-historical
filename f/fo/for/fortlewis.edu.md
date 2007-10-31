@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409160052id_/http%3A//www.fortlewis.edu/faculty_staff/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031110009id_/http%3A//www.fortlewis.edu/faculty_staff/privacy_policy/default.asp) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
