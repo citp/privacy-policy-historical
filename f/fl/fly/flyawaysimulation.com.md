@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyawaysimulation.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023071447id_/http%3A//flyawaysimulation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyawaysimulation.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031051806id_/http%3A//flyawaysimulation.com/privacy.html) for the most accurate reproduction.*
 
 # Fly Away Simulation Privacy Policy
 
