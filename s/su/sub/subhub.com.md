@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2007-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070331015658id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subhub.com privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031065834id_/http%3A//www.subhub.com/static/privacypolicy) for the most accurate reproduction.*
 
 # SubHub: Start a Subscription or Membership Website - Online Magazine, Online Journal, Online Newsletter
 
