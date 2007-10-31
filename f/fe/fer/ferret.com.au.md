@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629020652id_/http%3A//www.ferret.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031230728id_/http%3A//www.ferret.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # ferret.com.au : Privacy Policy
 
