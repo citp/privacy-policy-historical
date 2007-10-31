@@ -1,0 +1,304 @@
+<!--The following is the downloaded HTML source of the pmease.com privacy policy that was archived on 2007-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071101000002id_/http%3A//www.pmease.com/PrivacyPolicy.page) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta name="generator" content="Tapestry Application Framework, version 4.0.1">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<base href="http://www.pmease.com/">
+<title>QuickBuild - automate and manage your builds</title>
+<link rel="stylesheet" type="text/css" href="/styles/global.css"></head><body>
+<!-- Render time: ~ 1 ms -->
+
+
+
+<script type="text/javascript"><!--
+
+
+		
+
+function setFocusToFirstInput()
+{
+	var hash = window.location.hash;
+	var offsetPos = hash.indexOf("pos_");
+	if (offsetPos != -1)
+		return;
+		
+  var bFound = false;
+
+  // for each form
+  for (f=0; f < document.forms.length; f++)
+  {
+  	if (document.forms[f].id == 'quickSearch')
+  		continue;
+    // for each element in each form
+    for(i=0; i < document.forms[f].length; i++)
+    {
+      // if it's not a hidden element and button element
+      if (document.forms[f][i].type != "hidden" && document.forms[f][i].type != "submit" &&
+      	document.forms[f][i].type != "clear" && document.forms[f][i].type != "button")
+      {
+        // and it's not disabled
+        if (document.forms[f][i].disabled != true)
+        {
+            // set the focus to it
+            document.forms[f][i].focus();
+            var bFound = true;
+        }
+      }
+      // if found in this element, stop looking
+      if (bFound == true)
+        break;
+    }
+    // if found in this form, stop looking
+    if (bFound == true)
+      break;
+  }
+}
+function getElementFromEvent(event) {
+	if (event.srcElement)
+		return event.srcElement;
+	if (event.currentTarget)
+		return event.currentTarget;
+	return null;
+}
+function buttonHover(event) { //makes form buttons highlight on rollover
+	button = getElementFromEvent(event);
+	button.className = 'buttonHover';
+}
+function buttonUnHover(event) {
+	button = getElementFromEvent(event);
+	button.className = 'button';
+}
+function addEventHandler(element, eventName, functionName){
+	if (element.attachEvent)
+		element.attachEvent('on' + eventName, functionName);
+	if (element.addEventListener)
+		element.addEventListener(eventName, functionName, false);
+}
+function arbitraryHoverHandlers(){
+	if (document.body.getElementsByTagName)
+		bodyElements = document.body.getElementsByTagName("input");
+	for(i = 0; i < bodyElements.length; i++){
+		if (bodyElements[i].className == "button")
+		{
+			addEventHandler(bodyElements[i], "mouseover", buttonHover);
+			addEventHandler(bodyElements[i], "mouseout", buttonUnHover);
+		}
+		if (bodyElements[i].className == "menuButton")
+		{
+			addEventHandler(bodyElements[i], "mouseover", menuButtonHover);
+			addEventHandler(bodyElements[i], "mouseout", menuButtonUnHover);
+		}
+	}
+}
+function Position(iX, iY)
+{
+   this.x = iX;
+   this.y = iY;
+}
+function getPosition(aTag)
+{
+   var oTmp = aTag;
+   var position = new Position(0,0);
+   do
+   {
+      position.x += oTmp.offsetLeft;
+      position.y += oTmp.offsetTop;
+      oTmp = oTmp.offsetParent;
+   }
+   while (oTmp.tagName != "BODY");
+   return position;
+}
+function getElementByTagAndId(tag, id)
+{
+	if (document.body.getElementsByTagName)
+		bodyElements = document.body.getElementsByTagName(tag);
+	for (i=0; i<bodyElements.length; i++)
+	{
+		if (bodyElements[i].id == id)
+		{
+			return bodyElements[i];
+		}
+	}
+}
+
+		
+	
+
+// --></script>
+
+<table width="766" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr><td height="181"><table width="100%" cellpadding="0" cellspacing="1" class="greenBorder">
+  <tbody><tr>
+    <td height="31" bgcolor="#93C82D" style=""><img src="/images/titlebar.png" alt="PMEase QuickBuild" width="766" height="31" border="0"></td>
+  </tr>
+  <tr>
+    <td height="117"><img src="/images/scene.jpg" alt="scene" width="766" height="117"></td>
+  </tr>
+  <tr>
+    <td height="25" valign="middle" bgcolor="#90C843"><table width="393" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+	  	<td>&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" nowrap="true" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/Home.page">Home</a></td>
+        <td nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/menuitem_separator.gif" width="2" height="14" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" nowrap="true" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/FeatureList.page">Features</a></td>
+        <td nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/menuitem_separator.gif" width="2" height="14" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" nowrap="true" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/Download.page">Download</a></td>
+        <td nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/menuitem_separator.gif" width="2" height="14" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" nowrap="true" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/PriceList.page">Order</a></td>
+        <td nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/menuitem_separator.gif" width="2" height="14" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" nowrap="true" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/Support.page">Support</a></td>
+        <td nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/menuitem_separator.gif" width="2" height="14" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td onmouseout="this.className='menuItemInactive'" onmouseover="this.className='menuItemActive'" class="menuItemInactive"><a href="/Contacts.page">Contacts</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  </tbody></table></td></tr>
+  <tr>
+    <td valign="top" style="padding-top:4px;padding-bottom:4px;">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="188" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="2" class="greenBorder tryNav">
+              <tbody><tr>
+                <td class="bold greenBlock"> Try QuickBuild </td>
+              </tr>
+              <tr>
+                <td valign="top" style="padding:4px"><table width="100%" border="0" cellspacing="0" cellpadding="4">
+                    <tbody><tr>
+                      <td nowrap="" class="title"> <a href="/Screenshots.page"><img src="/images/Desktop.gif" width="32" height="32" align="absmiddle">&nbsp;&nbsp;&nbsp;Screenshots</a></td>
+                      </tr>
+                    
+                    <tr>
+                      <td nowrap="" class="title">  <a href="/public/docs/guide/ch12.html"><img src="/images/Event.gif" width="32" height="32" align="absmiddle">&nbsp;&nbsp;&nbsp;Use Cases </a></td>
+                      </tr>
+                    <tr>
+                      <td nowrap="" class="title"> <a href="/OnlineDemo.page"><img src="/images/gear.gif" width="32" height="32" align="absmiddle">&nbsp;&nbsp;&nbsp;Online Demo</a></td>
+                      </tr>
+                    <tr>
+                      <td nowrap="" class="title"> <a href="/Download.page" class="bold"><img src="/images/Down.gif" width="32" height="32" align="absmiddle">&nbsp;&nbsp;&nbsp;Download</a></td>
+                      </tr>
+                    <tr>
+                      <td nowrap="" class="title"> <a href="/Download.page#Addons" class="bold"><img src="/images/Addons.gif" width="32" height="32" align="absmiddle">&nbsp;&nbsp;&nbsp;Addons</a></td>
+                      </tr>
+                  </tbody></table>
+</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td><table width="100%" border="0" cellspacing="1" cellpadding="2" class="greenBorder">
+              <tbody><tr>
+                <td class="bold greenBlock"><img src="/images/table_edit.png" width="16" height="16" align="absmiddle"> News</td>
+              </tr>
+              <tr>
+                <td valign="top" style="padding:4px;"><table width="100%" border="0" cellspacing="0" cellpadding="4">
+                    <tbody><tr>
+                      <td valign="top"><span class="yellow bold"><img src="/images/index.png" width="7" height="10">July 18, 2007</span> - A minor version QuickBuild 1.2.11 has been released to fix a critical bug relating to build schedules. Refer to <a href="http://quickbuild.pmease.com/publish/175/artifacts/release_notes.txt">release notes</a> for more information. </td>
+                    </tr>
+                  <tr>
+                    <td valign="top"><span class="yellow bold"><img src="/images/index.png" width="7" height="10">February 28, 2007</span> - A minor version QuickBuild 1.2.3 has been released. Refer to <a href="http://quickbuild.pmease.com/publish/147/artifacts/release_notes.txt">release notes</a> for more information. </td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><span class="yellow bold"><img src="/images/index.png" width="7" height="10">January 23, 2007</span> - QuickBuild 1.2.0 has been released with features like CSharp API, user self-registering, RSS for builds, self-managed build subscription, Rake builder, Visual Studio/Eclipse plugin, windows tray notifier, and many other enhancements. Refer to <a href="http://quickbuild.pmease.com/publish/138/artifacts/release_notes.txt">release notes</a> for more information. </td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">August 31, 2006</span> - A major version, QuickBuild 1.1.0, is available with LDAP support, much more powerful and flexible build promotion feature, and many other enhancements. Refer to release notes for more information. </td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">June 10, 2006</span> - PMEase launches new web site to provide extra service for commercial users such as source downloads, license generation, etc. </td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">May 24, 2006</span> - A minor version 1.0.6 has been released. Refer to release 
+                      notes for more information.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">Mar. 16, 2006</span> - A minor version 1.0.5 is released. Refer to release notes for <br soft="">
+                      more information.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">Mar. 08, 2006</span> - JIRA plugin 
+                      for QuickBuild released. Click 
+                      <a href="/JIRAIntegration.page">here</a> for more information.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">Mar. 05, 2006</span> - A minor 
+                      version 1.0.4 is released to 
+                      include minor enhancements 
+                      as well as some bug fixes. Refer to release notes for
+                      details.</td>
+                  </tr>
+                  <tr>
+                    <td><span class="yellow bold"><img src="/images/index.png" width="7" height="10">Feb. 22, 2006</span> - A bug fix version 1.0.3 released. Refer 
+                      to release notes for details.</td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+          <td valign="top" style="padding-left:4px"> 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="greenBorder">
+    <tbody><tr>
+<td valign="top" style="padding:4px;">
+  <span class="yellow title">PMEase Privacy Policy</span>
+  <p>This statement discloses the privacy practices of the PMEase Web site. Questions regarding this statement  should be directed to <a href="mailto:info@pmease.com">PMEase Inc. </a> for clarification.</p>
+  <p><strong>Personal        information</strong></p>
+  <p>At PMEase, we intend to give you as much control as possible over your personal information. In general, you can visit PMEase on the Web without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect any personal information from you on the Internet.</p>
+  <p>If you choose to give us personal information via the Internet, that we or our business partners may need (for example to communicate with you, to process an order or to provide you with a subscription) it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it.</p>
+  <p>We have implemented these practices for the PMEase Home Page (www.pmease.com). We are also instructing our employees to include information of privacy practices everywhere information is collected on the PMEase Web site, tailored to what that portion of the site does, to reflect the practices outlined here.</p>
+  <p><strong>Information        security and quality</strong></p>
+  <p>We intend to protect the quality and integrity of your personal information. We have implemented appropriate technical and managerial procedures to maintain information that is accurate, current, and complete. We will make a sincere effort to respond to your requests to correct personal information inaccuracies in a timely manner.</p>
+  <p><strong>Business relationships</strong></p>
+  <p>The PMEase site contains links to other Web sites. PMEase is not responsible for the privacy practices or the content of such Web sites.</p>
+  <p><strong>Cookies</strong></p>
+  <p>There are various Internet technologies, including one called "cookies", which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. PMEase pages currently do not use cookies. In general, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not.</p></td>	
+    </tr>
+</tbody></table>
+</td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="64">
+	<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="1" class="greenBorder footer">
+      <tbody><tr>
+        <td width="190" valign="top" bgcolor="#444444"><div style="padding-left:10px; padding-top:10px;">Copyright 2006 PMEase.<br>
+          All rights reserved.</div></td>
+        <td valign="top" bgcolor="#90C843">
+		<div style="padding-left:10px; padding-top:6px;">
+		  <table width="488" border="0" cellpadding="0" cellspacing="0" class="footerMenu">
+      <tbody><tr>
+	  	<td nowrap=""><a href="/Home.page">Home</a><span class="white bold">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a href="/FeatureList.page">Features</a><span class="white bold">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a href="/Download.page">Download</a><span class="white bold">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a href="/PriceList.page">Order</a><span class="white bold">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a href="/Support.page">Support</a><span class="white bold">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a href="/Contacts.page">Contacts</a></td>
+        </tr>
+    </tbody></table>
+		  <br>
+		Read our <a href="/PrivacyPolicy.page">Privacy Policy</a>		</div>
+
+</td>
+      </tr>
+      
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-125290-2";
+urchinTracker();
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+
+
+arbitraryHoverHandlers();
+setFocusToFirstInput();
+
+	
+
+// --></script>
+
+</body></html>
