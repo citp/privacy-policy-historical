@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2007-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426154950id_/http%3A//www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schneider-electric.co.uk privacy policy that was archived on 2007-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071031102822id_/http%3A//www.schneider-electric.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352%3Fopen) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy policy</title><meta name="keywords" content="Electrical distribution, automation control, switchgear, transformers, substations, wiring accessories, intelligent home controls"><meta name="description" content="Schneider Electric manufactures electrical distribution and automation control equipment utilising its world leading brands - Merlin Gerin, Telemecanique, Square D, Clipsal, Sarel and Mita"><meta name="robots" content="all"><meta name="revisit-after" content="30 days">
@@ -32,6 +32,9 @@ function _doClick(v, o, t) {
 
 <script language="JavaScript">
 <!-- 
+vExcludeResult = "DomainSearchExclude";
+vExcludeSTR = "AND(NOT(" + vExcludeResult + "))";
+
 function gotoSiteOLD() {
 	var frm = window.document.forms[0];
 	var page = frm.countrywebsites.value;
@@ -72,14 +75,14 @@ function gotoSite() {
 
 function searchDomain() {
 	vDebug = false;
-	//alert("Hello");
+
 	if (window.event && window.event.keyCode == 13) {
 		window.event.keyCode = 10;
 		if ( vDebug ) alert( window.event.keyCode );
 		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
 		if ( vDebug ) alert( show_props( document.forms[0], "forms.0" ) );
 		if ( vDebug ) alert( show_props( document.forms[0].SimpleQuery, "forms.0.SimpleQuery" ) );
-		//if (document.forms[0].SimpleQuery[0] != "" ) {
+		
 		exclude = "DomainSearchExclude" ;
 		if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
 		if ( typeof( document.forms[0].SimpleQuery[0] ) == "undefined" ) {
@@ -88,27 +91,34 @@ function searchDomain() {
 			sTxt = document.forms[0].SimpleQuery[0].value;
 		}
 		if ( vDebug ) alert( sTxt );
-/*
-if ( vDebug ) alert( typeof( document.forms[0]["Structure.dbHome"] ) );
-if ( typeof( document.forms[0]["Structure.dbHome"] ) == "undefined" ) {
-		sDB = "/internet/pws/pws.nsf";
-	} else {
-		sDB = document.forms[0]["Structure.dbHome"].value;
-	}
-}
-*/
-//sDB = document.forms[0]["Structure.dbHome"].value;
 
 		if ( sTxt !="" ) {
-			sDB = "/internet/pws/pws.nsf";
+		
+			//sDB = "/internet/pws/pws.nsf";
+			sDB = document.forms[0]["Structure.dbHome"].value;
+			
 			if ( vDebug ) alert( sDB + " : " + sTxt );
-			sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + "*)AND(NOT("+exclude+"))&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
+		
+			if (document.forms[0].searchselectC1.checked) {
+				if ( vDebug ) alert("CATALOGUES");
+					elibDb = "http://" + location.host + "/internet/pws/literature.nsf";
+	
+					var myRegExp = / /gi;
+					s = sTxt.replace(myRegExp,"*+AND+*");
+	
+					sURL = elibDb + "/luSearchCatalogues?SearchView&Query=*" + s + "*";
+				} else {
+					if ( vDebug ) alert("GENERAL");
+					sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + ")" + vExcludeSTR + "&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
+			}	
+		
+			//sURL = sDB + "/SearchResults?SearchDomain&Query=(" + sTxt + "*)AND(NOT("+exclude+"))&SearchOrder=&SearchWV=TRUE&SearchThesaurus=FALSE&SearchFuzzy=FALSE&Start=1&Count=20&SearchEntry=ResultEntry&Scope=1";
+			
 			if ( vDebug ) alert( sURL );
 			window.location.href = sURL;
-//}
 		}
 	} else {
-//		alert( "Not an enter key=" + window.event.keyCode )
+			//alert( "Not an enter key=" + window.event.keyCode )
 	}
 }
 
@@ -158,9 +168,6 @@ function checkValue(o) {
 	f = document.forms[0];
 	f.searchselect[o].checked = false;
 	f.searchstring.focus();
-}function radScript() {
-	alert("2006");
-	return false;
 }// -->
 </script>
 </head>
@@ -172,6 +179,7 @@ startIt();
 " topmargin="2">
 
 <form><link rel="STYLESHEET" type="text/css" href="/internet/pws/pws.nsf/stylesheets/pws.css">
+<link rel="STYLESHEET" type="text/css" href="/internet/pws/pws.nsf/stylesheets/schneider800.css">
 <script language="JavaScript" type="text/javascript">
 <!--
    NS4 = (document.layers);
@@ -190,98 +198,103 @@ if (!ver4) event = null;
 <script type="text/javascript" src="/internet/pws/pws.nsf/commonjs"></script>
 <script type="text/javascript" src="/internet/pws/pws.nsf/hierMenus.js"></script>
 <center>
-<table width="765" cellspacing="0" cellpadding="0" class="outsideframe">
-<tbody><tr><td>
-<table width="100%" cellspacing="0">
-<tbody><tr height="15" bgcolor="#009b3a">
-<td class="menubartopse" width="40%"><a class="menubartop" href="#">Schneider Electric - United Kingdom - UK</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="/internet/pws/pws.nsf/luAllByID/8E1C773AC8817A8E802570C7003B8E43?open#">Home</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="http://www.schneider-electric.com" target="Corporate">Corporate</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="/internet/pws/pws.nsf/contents/0440A74E6C2DE2E9802570C4003ABE4F?open">About Us</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="http://jobs.schneider.co.uk" target="Careers">Careers</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="/internet/pws/pws.nsf/formSitemap?open">Sitemap</a></td>
-<td class="menubartoptd" width="10%"><a class="menubartop" href="/internet/pws/webqueries.nsf">Contact Us</a></td>
-</tr></tbody></table>
-<table width="100%" cellspacing="0">
-<tbody><tr height="45" bgcolor="#ffffff">
-<td width="80%"><img src="/internet/pws/pws.nsf/schbanner.gif"></td>
-<td width="20%">
-<table><tbody><tr><td colspan="2" align="center"><font face="arial" size="1" color="#676767"></font></td></tr>
-<tr>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-</tbody></table>
-</td>
-</tr></tbody></table>
-<table width="100%" cellspacing="0">
-<tbody><tr height="15">
-<td class="menubartd" width="20%"><a class="menubar" href="#" onmouseover="popUp('elMenu1',event)" onmouseout="popDown('elMenu1')">Products &amp; Services</a></td>
-<td class="menubartd" width="20%"><a class="menubar" href="#" onmouseover="popUp('elMenu2',event)" onmouseout="popDown('elMenu2')">Our Markets</a></td>
-<td class="menubartd" width="20%"><a class="menubar" href="#" onmouseover="popUp('elMenu3',event)" onmouseout="popDown('elMenu3')">Applications</a></td>
-<td class="menubartd" width="20%"><a class="menubar" href="#" onmouseover="popUp('elMenu4',event)" onmouseout="popDown('elMenu4')">Our Customers</a></td>
-<td class="menubartd" width="20%"><a class="menubar" href="#" onmouseover="popUp('elMenu5',event)" onmouseout="popDown('elMenu5')">Brands</a></td>
-</tr>
-</tbody></table>
+<table width="760" height="600" cellspacing="0" cellpadding="0" class="outsideframe">
+ <tbody><tr>
+  <td>
+   <table width="758" cellspacing="0" cellpadding="0">
+    <tbody><tr height="65">
+     <td class="nav_bar_txt">
+	<table align="right" height="100%">
+	 <tbody><tr height="40%">
+	  <td>
+	   <a href="/internet/pws/pws.nsf/contents/386208F45A62A14F80257353005016A0?open">Home</a> | <a href="/internet/pws/pws.nsf/formSitemap?open">Sitemap</a> | <a href="/internet/pws/webqueries.nsf">Contact us</a> | <a href="/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352?open&amp;login">Login</a>
+	  </td>
+	 </tr>
+	 <tr height="10%">
+	  <td>
+	  
+	  </td>
+	 </tr>
+	 <tr height="50%">
+	  <td class="welcome_txt">
+	   
+	  </td>
+	 </tr>
+	</tbody></table>
+     </td>
+    </tr>
+   </tbody></table>
+   <table width="100%" cellspacing="0">
+    <tbody><tr class="menu">
+     <td width="20%" style="background-image:none;"><img src="/internet/pws/pws.nsf/tic_menu.gif" border="0" align="absmiddle"><a href="#" onmouseover="popUp('elMenu1',event)" onmouseout="popDown('elMenu1')">Solutions</a></td>
+     <td width="20%"><img src="/internet/pws/pws.nsf/tic_menu.gif" border="0" align="absmiddle"><a href="#" onmouseover="popUp('elMenu2',event)" onmouseout="popDown('elMenu2')">Products &amp; Services</a></td>
+     <td width="20%"><img src="/internet/pws/pws.nsf/tic_menu.gif" border="0" align="absmiddle"><a href="#" onmouseover="popUp('elMenu3',event)" onmouseout="popDown('elMenu3')">Support</a></td>
+     <td width="20%"><img src="/internet/pws/pws.nsf/tic_menu.gif" border="0" align="absmiddle"><a href="#" onmouseover="popUp('elMenu4',event)" onmouseout="popDown('elMenu4')">Our Customers</a></td>
+     <td width="20%"><img src="/internet/pws/pws.nsf/tic_menu.gif" border="0" align="absmiddle"><a href="#" onmouseover="popUp('elMenu5',event)" onmouseout="popDown('elMenu5')">Brands</a></td>
+    </tr>
+   </tbody></table>
+   
+   <table height="15px"><tbody><tr><td></td></tr></tbody></table>
 </td></tr>
-<tr height="450"><td class="mainsection">
-<table width="100%" height="100%">
-<tbody><tr valign="top"><td width="20%" class="column1">
-<table width="96%" class="searcharea" cellspacing="2">
-<tbody><tr><td><span class="sitesearchtext"><img src="/internet/pws/pws.nsf/gensitesearchicon.gif" border="0" align="absmiddle">General site search </span></td></tr>
-<tr valign="center"><td height="15"><span class="sitesearchinput"><input name="SimpleQuery" required="" size="16" maxlength="100" style="color:green" onkeypress="javascript:searchDomain()">&nbsp;<a onclick="vDebug = false;
-exclude = &quot;DomainSearchExclude&quot; ;
+<tr><td class="mainsection">
+<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+<tbody><tr valign="top"><td width="20%">
+<table cellpadding="0" cellspacing="0"><tbody><tr><td>	
+<div class="paragraph">
+ <div class="paragraph_title">
+  <table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+    <td>Find </td>
+   </tr>
+  </tbody></table>
+ </div>
+<input name="SimpleQuery" required="" size="17" maxlength="100" class="sitesearchinput" onkeypress="javascript:searchDomain()"> <img src="/internet/pws/pws.nsf/bt_next.jpg?OpenImageResource" width="18" height="18" align="middle" onclick="vDebug = false;
+
 if ( vDebug ) alert( typeof( document.forms[0].SimpleQuery[0] ) );
+
 if ( typeof( document.forms[0].SimpleQuery[0] ) == &quot;undefined&quot; ) {
 	sTxt = document.forms[0].SimpleQuery.value;
 } else {
 	sTxt = document.forms[0].SimpleQuery[0].value;
 }
-if ( vDebug ) alert( sTxt );
-/*
-if ( vDebug ) alert( typeof( document.forms[0][&quot;Structure.dbHome&quot;] ) );
-if ( typeof( document.forms[0][&quot;Structure.dbHome&quot;] ) == &quot;undefined&quot; ) {
-		sDB = &quot;/internet/pws/pws.nsf&quot;;
-	} else {
-		sDB = document.forms[0][&quot;Structure.dbHome&quot;].value;
-	}
-}
-*/
-//sDB = document.forms[0][&quot;Structure.dbHome&quot;].value;
-if ( sTxt !=&quot;&quot; ) {
-sDB = &quot;/internet/pws/pws.nsf&quot;;
+
+sDB = document.forms[0][&quot;Structure.dbHome&quot;].value;
+
 if ( vDebug ) alert( sDB + &quot; : &quot; + sTxt );
-// 10-03-2006 ilp sURL = sDB + &quot;/SearchResults?SearchDomain&amp;Query=(&quot; + sTxt + &quot;)&amp;SearchOrder=&amp;SearchWV=TRUE&amp;SearchThesaurus=FALSE&amp;SearchFuzzy=FALSE&amp;Start=1&amp;Count=20&amp;SearchEntry=ResultEntry&amp;Scope=1&quot;;
-sURL = sDB + &quot;/SearchResults?SearchDomain&amp;Query=(&quot; + sTxt + &quot;*)AND(NOT(&quot;+exclude+&quot;))&amp;SearchOrder=&amp;SearchWV=TRUE&amp;SearchThesaurus=FALSE&amp;SearchFuzzy=FALSE&amp;Start=1&amp;Count=20&amp;SearchEntry=ResultEntry&amp;Scope=1&quot;;
+
+if (document.forms[0].searchselectC1.checked) {
+	if ( vDebug ) alert(&quot;CATALOGUES&quot;);
+	elibDb = &quot;http://&quot; + location.host + &quot;/internet/pws/literature.nsf&quot;;
+	
+	var myRegExp = / /gi;
+	s = sTxt.replace(myRegExp,&quot;*+AND+*&quot;);
+	
+	sURL = elibDb + &quot;/luSearchCatalogues?SearchView&amp;Query=*&quot; + s + &quot;*&quot;;
+} else {
+	if ( vDebug ) alert(&quot;GENERAL&quot;);
+	sURL = sDB + &quot;/SearchResults?SearchDomain&amp;Query=(&quot; + sTxt + &quot;)&quot; + vExcludeSTR + &quot;&amp;SearchOrder=&amp;SearchWV=TRUE&amp;SearchThesaurus=FALSE&amp;SearchFuzzy=FALSE&amp;Start=1&amp;Count=20&amp;SearchEntry=ResultEntry&amp;Scope=1&quot;;
+}		
+
 if ( vDebug ) alert( sURL );
-location.href = sURL
-}
-return false;" href=""><img src="/internet/pws/pws.nsf/01search.gif?OpenImageResource" width="16" height="16" border="0"></a>&nbsp;</span></td></tr>
-</tbody></table>
-<table width="96%" class="searcharea" cellspacing="2">
-<tbody><tr><td><span class="sitesearchtext"><img src="/internet/pws/pws.nsf/elibsearchicon.gif" border="0" align="absmiddle">eCatalogue search</span></td></tr>
-<tr valign="center"><td height="15"><span class="sitesearchinput"><input type="text" name="searchstring" size="16" onkeypress="javascript:doSearchA(this.form.searchstring)">&nbsp;<a href="javascript:doSearch(this.form.searchstring)"><img src="/internet/pws/pws.nsf/01search.gif" border="0"></a>&nbsp;</span><br><input type="checkbox" name="searchselect" checked="" value="K" onclick="checkValue(1)">Keyword<input type="checkbox" name="searchselect" value="R" onclick="checkValue(0)">Cat Ref</td></tr>
-</tbody></table>
-<table><tbody><tr><td></td></tr></tbody></table>
-<table width="100%" class="countrywebsitebox">
-<tbody><tr><td>
-<select name="countrywebsites" class="countrywebsite" onchange="gotoSite();">
-<option value="">Select another country</option>
-<option value="http://www.schneider-electric.com.ar">Argentina</option><option value="http://www.schneider-electric.com.au">Australia</option><option value="http://www.schneider-electric.at">Austria</option><option value="http://www.schneider-electric.be">Belgium</option><option value="http://www.schneider.com.br">Brazil</option><option value="http://www.schneiderelectric.bg">Bulgaria</option><option value="http://www.schneider-electric.ca">Canada</option><option value="http://www.schneider-electric.cl">Chile</option><option value="http://www.schneider-electric.com.cn">China</option><option value="http://www.schneider-electric.com.co">Colombia</option><option value="http://www.schneider-electric.co.cr">Costa Rica</option><option value="http://www.schneider-electric.hr">Croatia</option><option value="http://www.schneider-electric.cz">Czech Republic</option><option value="http://www.schneider-electric.dk">Denmark</option><option value="http://www.schneider.com.eg">Egypt</option><option value="http://www.schneider-electric.co.cr">El Salvador</option><option value="http://www.schneider-electric.ee">Estonia</option><option value="http://www.schneider-electric.fi">Finland</option><option value="http://www.schneider-electric.fr">France</option><option value="http://www.schneider-electric.de">Germany</option><option value="http://www.schneider-electric.com.gr">Greece</option><option value="http://www.schneider-electric.co.cr">Guatemala</option><option value="http://www.schneider-electric.co.cr">Honduras</option><option value="http://www.schneider-electric.com.hk">Hong-Kong</option><option value="http://www.schneider-electric.hu">Hungary</option><option value="http://www.schneider-electric.co.in">India</option><option value="http://www.schneider-electric.co.id">Indonesia</option><option value="http://www.schneiderelectric.ie">Ireland</option><option value="http://www.schneiderelectric.it">Italy</option><option value="http://www.schneider-electric.co.jp">Japan</option><option value="http://www.schneider-electric.lv">Latvia</option><option value="http://www.schneider-electric.lt">Lithuania</option><option value="http://www.schneider-electric.com.my">Malaysia</option><option value="http://www.schneider-electric.com.mx">Mexico</option><option value="http://www.schneider.co.ma">Morocco</option><option value="http://www.schneider-electric.nl">Netherlands</option><option value="http://www.schneider-electric.co.nz">New Zealand</option><option value="http://www.schneider-electric.co.cr">Nicaragua</option><option value="http://www.schneider-electric.no">Norway</option><option value="http://www.schneider-electric.co.cr">Panama</option><option value="http://www.schneider-electric.com.pe">Peru</option><option value="http://www.schneider-electric.com.ph">Philippines</option><option value="http://www.schneider-electric.pl">Poland</option><option value="http://www.schneiderelectric.pt">Portugal</option><option value="http://www.schneider-electric.ro">Romania</option><option value="http://www.schneider-electric.ru">Russia</option><option value="http://www.schneider-electric.com.sa">Saudi Arabia</option><option value="http://www.schneider-electric.com.sg">Singapore</option><option value="http://www.schneider-electric.sk">Slovakia</option><option value="http://www.schneider-electric.si">Slovenia</option><option value="http://www.schneider-electric.co.za">South Africa</option><option value="http://www.schneider-electric.co.kr">South Korea</option><option value="http://www.schneiderelectric.es">Spain</option><option value="http://www.schneider-electric.se">Sweden</option><option value="http://www.schneider-electric.ch">Switzerland</option><option value="http://www.schneider-electric.com.tw">Taiwan</option><option value="http://www.schneider-electric.co.th">Thailand</option><option value="http://www.tn.schneider-electric.com">Tunisia</option><option value="http://www.schneiderelectric.com.tr">Turkey</option><option value="http://www.schneider-electric.com.ua">Ukraine</option><option value="http://www.schneider.co.uk">United Kingdom</option><option value="http://www.us.schneider-electric.com">United States</option><option value="http://www.schneider-electric.com.ve">Venezuela</option><option value="http://www.schneider-electric.com.vn">Vietnam
-</option></select>
-</td></tr>
-</tbody></table>
-<br>
-<table cellspacing="0">
-<tbody><tr><td><span class="menuTitle">Customer service</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=sales">Sales support</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/webqueries.nsf/formWebContact?open&amp;type=product">Product support</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/5CEEFB157E2A6EB1802570F10050E094?open">Training information</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/796EE241A376E547802570C400415250?open">FAQ's</a></span></td></tr><tr><td><span class="menuTitle">Downloads</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/literature.nsf/lulibrary?open">Product info/catalogues</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/681C8872B68F0D178025710300497CDC?open">Software</a></span></td></tr><tr><td><span class="menuLink"><a href="http://www.schneider.co.uk/internet/pws/literature.nsf/lulibrary?open&amp;login">Login</a></span></td></tr><tr><td><span class="menuTitle">Useful information</span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/distributorlist.nsf/formSearch?open">Approved Distributors</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/4B656FD92F327371802570F3004F6698?open">Systems Integrators</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/254E7C40EE0BE887802570C40049DECF?open">Our locations</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/312C7171D9A571BF802570C4003CCCCE?open">Quality certification</a></span></td></tr><tr><td><span class="menuLink"><a href="/internet/pws/pws.nsf/luAllByID/B0785AC105B44A20802570C40035DF91?open">Environmental policy</a></span></td></tr>
-</tbody></table>
-<br>
-<table cellspacing="0" height="80" valign="top">
-<tbody><tr><td><span class="quicklinktext">Quick Links</span></td></tr>
-<tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/luAllByID/A504A1A5FFCD4C40802571A90042300C?open">Most popular downloads</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/contents/763F5166A8090C00802570F4005B6CB3?open">Consultancy services</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/formSitemapAZ">Site Index A - Z</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/pws.nsf/luAllByID/2B2E22758137C98480257282004F1819?open">Events</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/literature.nsf/lulibrary?open">Find a catalogue</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="/internet/pws/distributorlist.nsf/formSearch?open">Buy products</a></span></td></tr><tr><td><span class="quicklink">[+] <a href="https://www.my-schneider-electric.com/edist/schneider/jsp/Login.do?languageCode=en&amp;countryCode=UK">My Schneider Electric</a></span></td></tr>
-</tbody></table>
+
+location.href = sURL"><input type="checkbox" name="searchselectC1" value="E" onkeypress="javascript:searchDomain()">eCatalogue search
+ <div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Direct links</td></tr></tbody></table></div><a href="/Internet/pws/pws.nsf/luAllByID/EA29FB1BC6676F40802572F70050A32D?open">Downloads</a><a href="/internet/pws/distributorlist.nsf/formSearch?open">Find a Distributor</a><a href="/internet/pws/pws.nsf/luAllByID/796EE241A376E547802570C400415250?open">FAQ's</a><a href="https://www.my-schneider-electric.com/edist/schneider/jsp/Login.do?languageCode=en&amp;countryCode=UK">My Schneider Electric</a><div class="hr">&nbsp;</div><div class="paragraph_title"><table bgcolor="#FFFFFF" cellspacing="0"><tbody><tr><td>Company<br>information</td></tr></tbody></table></div><a href="http://jobs.schneider.co.uk">Careers</a><a href="/internet/pws/pws.nsf/luAllByID/0440A74E6C2DE2E9802570C4003ABE4F?open">About us</a>
+ <div class="hr">&nbsp;</div>
+ <div class="paragraph_title">
+  <table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+    <td>Around the world </td>
+   </tr>
+  </tbody></table>
+ </div>	
+  <select style="margin: 0px; width:140px;;" name="countrywebsites" class="countrywebsite" onchange="gotoSite();">
+    <option value="">Select another country</option>
+  <option value="http://www.schneider-electric.com.ar">Argentina</option><option value="http://www.schneider-electric.com.au">Australia</option><option value="http://www.schneider-electric.at">Austria</option><option value="http://www.schneider-electric.be">Belgium</option><option value="http://www.schneider-electric.ba/">Bosnia-Herzegovina</option><option value="http://www.schneider.com.br">Brazil</option><option value="http://www.schneiderelectric.bg">Bulgaria</option><option value="http://www.schneider-electric.ca">Canada</option><option value="http://www.schneider-electric.cl">Chile</option><option value="http://www.schneider-electric.com.cn">China</option><option value="http://www.schneider-electric.com.co">Colombia</option><option value="http://www.schneider-electric.co.cr">Costa Rica</option><option value="http://www.schneider-electric.hr">Croatia</option><option value="http://www.schneider-electric.cz">Czech Republic</option><option value="http://www.schneider-electric.dk">Denmark</option><option value="http://www.schneider.com.eg">Egypt</option><option value="http://www.schneider-electric.co.cr">El Salvador</option><option value="http://www.schneider-electric.ee">Estonia</option><option value="http://www.schneider-electric.fi">Finland</option><option value="http://www.schneider-electric.fr">France</option><option value="http://www.schneider-electric.de">Germany</option><option value="http://www.schneider-electric.com.gr">Greece</option><option value="http://www.schneider-electric.co.cr">Guatemala</option><option value="http://www.schneider-electric.co.cr">Honduras</option><option value="http://www.schneider-electric.com.hk">Hong-Kong</option><option value="http://www.schneider-electric.hu">Hungary</option><option value="http://www.schneider-electric.co.in">India</option><option value="http://www.schneider-electric.co.id">Indonesia</option><option value="http://www.schneiderelectric.ie">Ireland</option><option value="http://www.schneiderelectric.it">Italy</option><option value="http://www.schneider-electric.co.jp">Japan</option><option value="http://www.schneider-electric.lv">Latvia</option><option value="http://www.schneider-electric.lt">Lithuania</option><option value="http://www.schneider-electric.com.my">Malaysia</option><option value="http://www.schneider-electric.com.mx">Mexico</option><option value="http://www.schneider.co.ma">Morocco</option><option value="http://www.schneider-electric.nl">Netherlands</option><option value="http://www.schneider-electric.co.nz">New Zealand</option><option value="http://www.schneider-electric.co.cr">Nicaragua</option><option value="http://www.schneider-electric.no">Norway</option><option value="http://www.schneider-electric.co.cr">Panama</option><option value="http://www.schneider-electric.com.pe">Peru</option><option value="http://www.schneider-electric.com.ph">Philippines</option><option value="http://www.schneider-electric.pl">Poland</option><option value="http://www.schneiderelectric.pt">Portugal</option><option value="http://www.schneider-electric.ro">Romania</option><option value="http://www.schneider-electric.ru">Russia</option><option value="http://www.schneider-electric.com.sa">Saudi Arabia</option><option value="http://www.schneider-electric.com.sg">Singapore</option><option value="http://www.schneider-electric.sk">Slovakia</option><option value="http://www.schneider-electric.si">Slovenia</option><option value="http://www.schneider-electric.co.za">South Africa</option><option value="http://www.schneider-electric.co.kr">South Korea</option><option value="http://www.schneiderelectric.es">Spain</option><option value="http://www.schneider-electric.se">Sweden</option><option value="http://www.schneider-electric.ch">Switzerland</option><option value="http://www.schneider-electric.com.tw">Taiwan</option><option value="http://www.schneider-electric.co.th">Thailand</option><option value="http://www.tn.schneider-electric.com">Tunisia</option><option value="http://www.schneiderelectric.com.tr">Turkey</option><option value="http://www.schneider-electric.com.ua">Ukraine</option><option value="http://www.schneider.co.uk">United Kingdom</option><option value="http://www.us.schneider-electric.com">United States</option><option value="http://www.schneider-electric.com.ve">Venezuela</option><option value="http://www.schneider-electric.com.vn">Vietnam
+   </option></select>
+ </div>
+</td></tr></tbody></table>
 </td>
-<td width="20%" class="column2" cellspacing="0" cellpadding="0">
+<td width="20%" cellspacing="0" cellpadding="0" class="column2">
 <center><img src="/internet/pws/pws.nsf/luImages/5ACFF2E9E1E1F5F7802570D7004F84B5/$file/rail.jpg?openElement" width="150" height="357"></center>
 </td>
 <td width="60%" class="mainareaText">
@@ -341,12 +354,13 @@ Privacy policy
 </tr>
 </tbody></table>
 </td></tr>
-<tr height="15" bgcolor="#009B3A"><td>
-<table cellspacing="0">
-<tbody><tr><td width="465" class="footerL"><a href="http://www.schneider.co.uk/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352?open">Privacy Policy</a>&nbsp;&nbsp;:&nbsp;&nbsp;<a href="http://www.schneider.co.uk/internet/pws/literature.nsf/0/6784747C0AABCE93802570520035206A?opendocument">Supplier Terms &amp; Conditions</a></td><td width="280" class="footerR">© Schneider Electric Limited <a href="#" onclick="javascript:radScript();">|</a> 2006</td></tr>
+<tr height="5px"><td></td></tr>
+<tr><td>
+<table cellspacing="0" width="100%">
+<tbody><tr class="footer"><td width="40%"></td><td width="60%" align="left">© Schneider Electric&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<a href="/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352?open">Privacy Policy</a></td></tr>
 </tbody></table>
 </td></tr>
-
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> </script> <script type="text/javascript"> _uacct = "UA-2449534-1"; urchinTracker(); </script>
 
 <input name="thisServer" type="hidden" value="">
 <input name="Structure.dbSiteMap" type="hidden" value="internet\SiteMap.nsf">
@@ -357,10 +371,10 @@ Privacy policy
 <input name="thisDatabaseWithPath" type="hidden" value="/internet/pws/pws.nsf">
 <input name="Structure.dbHome" type="hidden" value="/internet/pws/pws.nsf">
 <input name="Query_String" type="hidden" value="open">
-<input name="HTTP_HOST" type="hidden" value="www.schneider.co.uk">
+<input name="HTTP_HOST" type="hidden" value="www.schneider-electric.co.uk">
 <input name="WebUserName" type="hidden" value="Anonymous">
+<input name="PATH_INFO" type="hidden" value="/internet/pws/pws.nsf/luAllByID/267E1E50727B5E22802570DF003E5352?open">
 <input name="SimpleQuery" type="hidden" value="">
-<input name="SearchForm" type="hidden" value="<SPAN class=&quot;sitesearchinput&quot;><INPUT type=&quot;text&quot; name=&quot;searchstring&quot; size=&quot;16&quot; onKeyPress=&quot;javascript:doSearchA(this.form.searchstring)&quot;>&amp;nbsp;<a href=&quot;javascript:doSearch(this.form.searchstring)&quot;><IMG SRC=&quot;/internet/pws/pws.nsf/01search.gif&quot; border=&quot;0&quot;></A>&amp;nbsp;</SPAN><BR><INPUT type=&quot;checkbox&quot; name=&quot;searchselect&quot; checked value=&quot;K&quot; onclick=&quot;checkValue(1)&quot;>Keyword<INPUT type=&quot;checkbox&quot; name=&quot;searchselect&quot; value=&quot;R&quot; onclick=&quot;checkValue(0)&quot;>Cat Ref">
 <input name="pColumn2Image" type="hidden" value="<IMG SRC=/internet/pws/pws.nsf/luImages/5ACFF2E9E1E1F5F7802570D7004F84B5/$file/rail.jpg?openElement WIDTH=150 HEIGHT=357>">
 
 
