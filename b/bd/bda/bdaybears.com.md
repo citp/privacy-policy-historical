@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408103620id_/http%3A//www.bdaybears.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101031820id_/http%3A//www.bdaybears.com/privacy.html) for the most accurate reproduction.*
 
-# Bday Bears - Bday Parties Privacy Policy
+# Bday Bears - Wholesale Unstuffed Bears and Animals
 
 Bday Bears(tm) & Stuffed Animal Kits
 
@@ -37,16 +37,3 @@ Upon request we provide site visitors with access to all information [including 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-* * *
-
-  * [Digital Women](http://www.digital-women.com/)
-  * [GiftLinks.org Gift and Shopping Directory!](http://www.giftlinks.org/cgi-bin/intellilink/in.cgi?id=1102364095)
-
-
-  * [Teddy Bear Blog](http://unstuffed-teddy-bear.blogspot.com/)
-  * [Network WAHMs Directory](http://networkwahms.com/directory/in.php?ID=105)
-  * [Links](http://www.bdaybears.com/links.html "Wholesale Teddy Bear - Wholesale Teddy Bears")
-  * [Privacy Policy](http://www.bdaybears.com/privacy-policy.html)
-
-
