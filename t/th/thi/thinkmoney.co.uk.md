@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605063421id_/http%3A//www.thinkmoney.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101164414id_/http%3A//www.thinkmoney.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Think Money Group
+# Think Money Privacy Policy
 
 Protecting your privacy is important to us. This privacy statement explains how we collect, store and use the information you provide. Please read it carefully, as once you use the Think Money website you will be deemed to have read and accepted this statement. 
 
@@ -8,17 +8,32 @@ Protecting your privacy is important to us. This privacy statement explains how 
 
 We will only collect personal information about you, given by you, when you complete a contact form requesting us to contact you or an application form.
 
-Please note that for your protection, telephone calls to our offices will be recorded and monitored.
+Please note that for quality and training purposes, telephone calls to our offices will be recorded and monitored.
 
 ## **Cookies**
 
-When using this web site, some information may be collected automatically using ‘cookies’. These are small text files which facilitates the processing of your data and enables us to analyse how the site is being used. Two types of cookies are used:
+When using this web site, some information may be collected automatically using ‘cookies’. These are small text files which facilitate the processing of your data and enables us to analyse how the site is being used. Two types of cookies are used:
 
 Temporary cookies which form part of the security process while you are using the web site; and
 
 Permanent cookies which identify the link you used to find our web site, check your browser so that we can make sure that our web site and services work well with your computer and to help us monitor traffic on our web site.
 
-We do not pass on, or sell cookies to any other companies. Further information on the use of cookies can be found at:[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+**Disabling/Enabling Cookies**  
+You have the ability to accept or decline cookies by modifying the settings on your browser. 
+
+If you are using Microsoft Windows Explorer   
+• Open ‘Windows Explorer’  
+• Click on the ‘Search’ button on the tool bar  
+• Type ‘cookie’ into the search box for ‘Folders and Files’  
+• Select ‘My computer’ in the ’Look In’ box  
+• Click ‘Search Now’  
+• Double click on the folders that are found  
+• ‘Select’ any cookie file  
+• use the ‘Delete’ button on your keyboard
+
+If you are not using Microsoft Windows Explorer, then you should select ‘cookies’ in the ‘Help’ function for information on where to find your cookie folder.
+
+We do not pass on, or sell cookies to any other companies. Further information on the use of and managing cookies can be found at:[ http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ## What happens to the information provided/collected? 
 
@@ -26,12 +41,7 @@ We may use the information you provide to contact you, for product administratio
 
 Think Money would like to pass your details on to other carefully selected companies so that they can send you information, including by email and mobile telephone, about their products and services.
 
-**Transferring your information outside the European Economic Area*  
-**It may be necessary to transfer your personal information to other group companies or service providers located outside the European Economic Area*. The data protection and other laws outside the EEA may not be as comprehensive as those in the UK or EU and in these instances we will take steps to ensure your privacy rights are respected.
-
-* The European Economic Area (EEA) currently comprises the Member states of the European Union plus Norway, Iceland and Liechtenstein.
-
-We may also use or disclose information to the extent required by law, court order, as requested by other government law enforcement authority, or to enforce legal rights.
+We may also use or disclose information to the extent required by law, court order, as requested by other government law enforcement authority or to enforce legal rights.
 
 Except as described above we will not pass your personal information to third parties without your consent
 
