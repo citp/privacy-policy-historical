@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617055441id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke-energy.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102001624id_/http%3A//www.duke-energy.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Duke Energy
 
@@ -59,7 +59,7 @@ Duke Energy does not sell the personally identifiable information you provide fo
 
 By providing personally identifiable information, you expressly consent to these privacy practices.
 
-The North Carolina Utilities Commission requires certain protections of Duke Energy Carolinas' confidential customer information that are described in this [Code of Conduct](https://web.archive.org/pdfs/NC_Code_Conduct_10-30-06.pdf) document.
+The North Carolina Utilities Commission requires certain protections of Duke Energy Carolinas' confidential customer information that are described in this [Code of Conduct](https://web.archive.org/pdfs/NC_Code_of_Conduct_09-27-07.pdf) document.
 
 Also, Duke Energy reserves the right to share any aggregated information (i.e., non-personally identifiable information) with any third parties for any reason, unless prohibited by law.
 
