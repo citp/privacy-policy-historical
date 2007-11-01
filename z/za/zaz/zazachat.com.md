@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622232355id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101013819id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
-# ZaZaCHAT - Privacy policy
+# Live Chat Software, Live Support, ZaZaCHAT - Privacy policy
 
 |  **Account**  
 [Create Account](https://www.zazachat.com/newaccount/)  
@@ -56,15 +56,15 @@
 **In the News**  
 
 
-[](https://web.archive.org/news.aspx?newsid=16)6/11/2007: New Release/New Feature: Ticket Management System...[more](https://web.archive.org/news.aspx?newsid=16) New!
+[](https://web.archive.org/news.aspx?newsid=19)10/10/2007: Proactive chat invitations and ticket system generate results for National Pool Wholesalers, Inc...[more](https://web.archive.org/news.aspx?newsid=19)
+
+[](https://web.archive.org/news.aspx?newsid=18)8/16/2007: ZaZaChat - Help Desk Software - What's new?...[more](https://web.archive.org/news.aspx?newsid=18)
+
+[](https://web.archive.org/news.aspx?newsid=17)8/4/2007: ZaZaChat Help Desk Software to offer 100% Uptime Guarantee...[more](https://web.archive.org/news.aspx?newsid=17)
+
+[](https://web.archive.org/news.aspx?newsid=16)6/11/2007: Live Chat Software: New Release/New Feature: Ticket Management System...[more](https://web.archive.org/news.aspx?newsid=16)
 
 [](https://web.archive.org/news.aspx?newsid=15)3/27/2007: Live Chat Software benefits explained...[more](https://web.archive.org/news.aspx?newsid=15)
-
-[](https://web.archive.org/news.aspx?newsid=14)3/5/2007: ZaZaChat PRO™ Live Chat Software Is Available at Special Member Pricing To Point2 Technologies ...[more](https://web.archive.org/news.aspx?newsid=14)
-
-[](https://web.archive.org/news.aspx?newsid=12)2/7/2007: ZaZa Network, Inc acquires [LiveHelpNow.com](http://www.livehelpnow.com/)...[more](https://web.archive.org/news.aspx?newsid=12)
-
-[](https://web.archive.org/news.aspx?newsid=13)2/6/2007: ZaZa Network, Inc acquires [LiveLegalAid.com](http://www.livelegalaid.com/)...[more](https://web.archive.org/news.aspx?newsid=13)
 
 | 
 
