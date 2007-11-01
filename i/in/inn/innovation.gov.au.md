@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512203742id_/http%3A//www.innovation.gov.au/index.cfm%3Fevent%3Dobject.showContent%26display%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101191454id_/http%3A//www.innovation.gov.au/index.cfm%3Fevent%3Dobject.showContent%26display%3Dprivacy) for the most accurate reproduction.*
 
-# The National Innovation Website > Generic page
+# National Innovation Website - Privacy
 
 This is the text-only, printer-friendly version of Privacy.  
 Its permanent web address is: http://www.innovation.gov.au/index.cfm?event=object.showContent&objectID=0BF7845F-C711-8257-4EC090F504962ED4. 
 
-_(Last reviewed: 9 Mar 2007)_
+_(Last reviewed: 24 Aug 2007)_
 
 We are concerned about protecting your privacy. This statement describes how we handle clickstream (site navigation) data, cookies and e-mail addresses. 
 
