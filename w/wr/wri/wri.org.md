@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630053227id_/http%3A//www.wri.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wri.org privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101051301id_/http%3A//www.wri.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # WRI Privacy Policy
 
@@ -21,13 +21,10 @@ World Resources may also collect demographic information from visitors, such as 
 Visitors contributing online or purchasing items through our online bookstore will need to provide a valid credit card number and expiration date in addition to name, mailing address, phone number and email address. Please note that you must be over the age of 18 to give or place orders online. All financial information is encrypted and transmitted by SSL protocol via World Resources Institute's secure server.
 
 **Data collection and sharing**  
-WRI does not sell our customer lists. We may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) WRI's rights or property, other WRI users or anyone else that could be harmed by such activities. At any time you can correct, update or remove your personal data by contacting [kathyd@wri.org](mailto:kathyd@wri.org) (please include a copy of the most recent correspondence from WRI).
+WRI does not sell our customer lists. We may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) WRI's rights or property, other WRI users or anyone else that could be harmed by such activities. At any time you can correct, update or remove your personal data by contacting [Kathy Doucette](https://web.archive.org/staff/staff_biosketch.cfm?sid=46) (please include a copy of the most recent correspondence from WRI).
 
 **Security**  
 Security is of the up most importance and concern to us. Credit card information is transmitted via SSL (secure socket layer) encryption. SSL encryption is a method by which information is encrypted while being transmitted over the Internet. It is the industry standard in e-commerce at this time. Credit card information is kept on file in an encrypted format for a maximum period of 30 days, after which it is automatically deleted and no longer retrievable by WRI's customer service.
-
-**Cookies/ IP Addresses**  
-At this time, WRI does not collect IP addresses or make use of cookies. 
 
 **Your acceptance of these terms**  
 By using this site, you signify your assent to the WRI's Privacy Policy. Your continued use of the sites following the posting of changes to these terms will mean you accept those changes.
