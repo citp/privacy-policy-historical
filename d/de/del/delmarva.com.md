@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430115713id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2007-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071101212036id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
 
 # Delmarva Power - Privacy Policy
 
@@ -83,7 +83,7 @@ When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; an
 
 ### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or send us an email at [cccare@conectiv.com](mailto:cccare@conectiv.com). 
+Should you have other questions or concerns about this privacy policy, please call us at 1-800-375-7117 or send us an email at [ccare@delmarva.com](mailto:ccare@delmarva.com). 
 
 ### Modification
 
