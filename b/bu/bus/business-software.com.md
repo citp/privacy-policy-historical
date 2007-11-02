@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626230259id_/http%3A//www.business-software.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102075059id_/http%3A//www.business-software.com/privacy-statement.php) for the most accurate reproduction.*
 
-# Business Software | Privacy Statement
+# Business Software | Home
+
+## Privacy Statement
 
 This Privacy Policy discloses the privacy practices for the Business-Software.com site and various related services (together referred to as the "site"). Business-Software.com, the provider of the site (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site. 
 
@@ -59,8 +61,3 @@ You must be at least 18 years old to have our permission to use this site. Our p
 If you have any questions about this Privacy Policy, the practices of this site, your dealings with this site, or your Personally Identifiable Information, or please send us e-mail to: privacy@Business-Software.com.
 
 Privacy Policy Last Updated: November 15, 2006. 
-
-  
-
-
-* * *
