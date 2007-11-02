@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2007-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070326152007id_/http%3A//www.statto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102221416id_/http%3A//www.statto.com/privacy.php) for the most accurate reproduction.*
 
 # Statto.com :: Privacy Policy
 
-Privacy Policy  
+| Privacy Policy  
 ---  
   
 The Company understands the importance of maintaining and protecting your privacy. With this in mind we have set out below details of our privacy policy for your information.   
