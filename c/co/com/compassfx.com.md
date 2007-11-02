@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629174625id_/http%3A//www.compassfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102170317id_/http%3A//www.compassfx.com/privacy) for the most accurate reproduction.*
 
 # CompassFX | Forex | Forex Trading | Forex Minis | Online Currency Trading
 
