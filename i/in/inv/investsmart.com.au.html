@@ -1,331 +1,24 @@
-<!--The following is the downloaded HTML source of the investsmart.com.au privacy policy that was archived on 2007-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070205151636id_/http%3A//www.investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investsmart.com.au privacy policy that was archived on 2007-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071102114740id_/http%3A//www.investsmart.com.au/about_us/privacy_policy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-<!--
-function checkEmail(fieldName, emailStr, blnAllowBlank) {
-	if ((emailStr == "" || emailStr == null) && blnAllowBlank)
-		return true;
+<html><head>
+<title>Privacy Policy</title>
 
-	// checks if the e-mail address is valid
-	var emailPat = /^(\".*\"|[A-Za-z0-9\_][A-Za-z0-9\.\=\-\_]*)@(\[\d{1,3}(\.\d{1,3}){3}]|([A-Za-z0-9][A-Za-z0-9\-]*\.)+[A-Za-z]{2,6})$/;
-	var matchArray = emailStr.match(emailPat);
-	if (matchArray == null) {
-		alert("Your email address seems incorrect.  Please try again (check the '@' and '.'s in the email address)");
-		fieldName.select();
-		fieldName.focus();
-		return false;
-	}
-	// make sure the IP address domain is valid
-	var IPArray = matchArray[2].match(/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/);
-	if (IPArray != null) {
-		for (var i=1;i<=4;i++) {
-			if (IPArray[i]>255) {
-				alert("The destination IP address is invalid.")
-				fieldName.select();
-				fieldName.focus();
-				return false;
-			}
-		}
-	}
-	var addressArray = new Array();
-	addressArray[0] = "one.net.com";
-	addressArray[1] = "onenet";
-	var emailAddress = new String(emailStr)
-	var atLocation = emailAddress.indexOf("@")
-	if (atLocation == -1)
-	  atLocation = 0
-	for (var i = 0; i <= addressArray.length; i++)
-	{
-	  if (emailAddress.indexOf(addressArray[i], atLocation) != -1)
-	  {
-	    alert("Your email address is invalid.")
-			fieldName.select();
-			fieldName.focus();
-	    return false;
-	  }
-	}
-	return true;
-}
-//  End -->
-</script>
-
-<script language="JavaScript">
-<!--
-function checkDecimals(fieldName, fieldValue, decimals) {
-
-	if (fieldValue == "" || fieldValue == null)
-		return true;
-
-	if (isNaN(fieldValue)) {
-		alert("That does not appear to be a valid number.  Please try again.");
-		fieldName.select();
-		fieldName.focus();
-		return false;
-	}
-	else {
-		/*timeshundred = parseFloat(fieldValue * Math.pow(10, decimals));
-		integervalue = parseInt(parseFloat(fieldValue) * Math.pow(10, decimals));
-		alert("timeshundred=" + timeshundred + " integervalue=" + integervalue);
-		if (timeshundred != integervalue)
-		{
-			alert ("Please enter a number with up to " + decimals + " decimal places.  Please try again.");
-			fieldName.select();
-			fieldName.focus();
-			return false;
-		} */
-		
-		var regExp = '^[0-9]*(\.[0-9]{0,' + decimals + '})?$'
-		var matchArray = fieldValue.match(regExp);
-		if (matchArray == null) {
-			alert ("Please enter a number with up to " + decimals + " decimal places.  Please try again.");
-			fieldName.select();
-			fieldName.focus();
-			return false;
-		}
-			
-	}
-	return true;
-}
-//  End -->
-</script>
-
-<script language="JavaScript">
-<!--
-	function checkLength(varName, varValue, varMaxLength) {
-		if (varValue.length > varMaxLength) {
-			alert("You cannot exceed "+varMaxLength+" characters in this field.");
-			varName.select();
-			varName.focus();
-			return false;
-		}
-		return true;
-	}
-// -->
-</script>
-
-
-
-<script language="JavaScript">
-<!--
-function PopupWindow2 (PopURL, PopName, PopWidth, PopHeight) {
-
-  NewWindow = window.open(PopURL, PopName, "width=" + PopWidth + ",height=" + PopHeight + ",status=no,toolbar=no,location=no,scrollbars=no,resizable=no,titlebar=no");
-  if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0, 3) < "3")))
-  {
-    NewWindow.focus();
-  }
-}
-//-->
-</script>
-
-<style type="text/css">
-<!--
-/* These are the style specifications for the menu layers.
-   Set width to get more browsers corporation  */
-
-table.menuTable{
-  font-size:11px;
-  font-family:Arial,Verdana,Helvetica;
-  background-color:#FFCC00;
-  color:#000066;
-  BORDER-TOP   : #000066 1px solid;
-  BORDER-LEFT  : #000066 1px solid;
-  BORDER-RIGHT : #000066 1px solid;
-}
-
-table.menuTable td{
-  font-size:11px;
-  font-family:Arial,Verdana,Helvetica;
-  color:#000066;
-  BORDER-BOTTOM : #000066 1px solid;
-}
-
-
-div.menu  {
-  position:absolute;
-  visibility:hidden;
-  width:120px;
-  left:0;
-  top:0;
-  z-index:500;
-}
-//-->
-</style>
-<script src="/includes/dw_viewport.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-/*************************************************************************
-  This code is from Dynamic Web Coding at http://www.dyn-web.com/
-  Copyright 2003 by Sharon Paine
-  See Terms of Use at http://www.dyn-web.com/bus/terms.html
-  regarding conditions under which you may use this code.
-  This notice must be retained in the code as is!
-*************************************************************************/
-
-var menuSharesFunds = {
-  timer: null,
-  activeMenuID: null,
-  offX: 5,   // horizontal offset
-  offY: 2,   // vertical offset
-  //itemCode is either a SecurityID or a FundID
-  //itemLocation is either an ExchangeID (for securities) or a CountryID (for Funds)
-  show: function(itemCode,itemLocation, itemType, blnWatchList, e) {
-
-  var myDiv
-  // Shares Menu
-  if (itemType == 1)
-    {
-    id = "menuShares";
-    var WatchSharesRow = document.getElementById("menuSharesRow1");
-    if (!blnWatchList)
-       {
-       WatchSharesRow.style.display="none";
-       }
-    else
-       {
-       WatchSharesRow.style.display="";
-       }
-
-
-    myDiv= document.getElementById('menuSharesCell01');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"javascript: PopupWindow2('/my_watchlist/PopupAdd.asp?ItemType=1&SecurityID=" + itemCode + "&ExchangeID=" + itemLocation + "', '_blank', 400, 150)\">Add to My Watchlist</a>"
-    myDiv= document.getElementById('menuSharesCell02');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/summary/default.asp?SecurityID=" + itemCode + "&ExchangeID=" + itemLocation + "\" target=\"_blank\">Company Profile</a>"
-    //myDiv= document.getElementById('menuSharesCell03');
-    //myDiv.innerHTML = "&nbsp;<a href=\"javascript: PopupWindow('http://www.bourseinvestor.com/Cobrands/IS/pages/default.asp?asxcode=" + itemCode + "&siteid=is', '_blank', 676, 700)\">Prices and Charts</a>"
-    myDiv= document.getElementById('menuSharesCell04');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/consensus/default.asp?section=4&SecurityID=" + itemCode + "\" target=\"_blank\">Broker Consensus</a>"
-    myDiv= document.getElementById('menuSharesCell05');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/announcements/default.asp?section=5&SecurityID=" + itemCode + "&ExchangeID=" + itemLocation +  "\" target=\"_blank\">Company Announcements</a>"
-    }
-  // Funds Menu
-  if (itemType == 2)
-    {
-    id = "menuFunds";
-    var WatchFundsRow = document.getElementById("menuFundsRow1");
-    if (!blnWatchList)
-       {
-       WatchFundsRow.style.display="none";
-       }
-    else
-       {
-       WatchFundsRow.style.display="";
-       }
-
-
-    myDiv= document.getElementById('menuFundsCell01');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"javascript: PopupWindow2('/my_watchlist/PopupAdd.asp?ItemType=2&ItemCode=" + itemCode + "', '_blank', 400, 150)\">Add to My Watchlist</a>"
-    myDiv= document.getElementById('menuFundsCell02');
-    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/funds/profile.asp?FundID=" + itemCode + "\" target=\"_blank\">Fund Profile</a>"
-    }
-
-
-
-  var mnu = document.getElementById? document.getElementById(id): null;
-  if (!mnu) return;
-  this.activeMenuID = id;
-  if ( mnu.onmouseout == null ) mnu.onmouseout = this.mouseoutCheck;
-  if ( mnu.onmouseover == null ) mnu.onmouseover = this.clearTimer;
-  viewport.getAll();
-  this.position(mnu,e);
-  },
-
-  hide: function() {
-    this.clearTimer();
-    if (this.activeMenuID && document.getElementById)
-      this.timer = setTimeout("document.getElementById('"+menuSharesFunds.activeMenuID+"').style.visibility = 'hidden'", 200);
-  },
-
-  position: function(mnu, e) {
-    var x = e.pageX? e.pageX: e.clientX + viewport.scrollX;
-    var y = e.pageY? e.pageY: e.clientY + viewport.scrollY;
-
-    if ( x + mnu.offsetWidth + this.offX > viewport.width + viewport.scrollX )
-      x = x - mnu.offsetWidth - this.offX;
-    else x = x + this.offX;
-
-    if ( y + mnu.offsetHeight + this.offY > viewport.height + viewport.scrollY )
-      y = ( y - mnu.offsetHeight - this.offY > viewport.scrollY )? y - mnu.offsetHeight - this.offY : viewport.height + viewport.scrollY - mnu.offsetHeight;
-    else y = y + this.offY;
-
-    mnu.style.left = x + "px"; mnu.style.top = y + "px";
-    this.timer = setTimeout("document.getElementById('" + menuSharesFunds.activeMenuID + "').style.visibility = 'visible'", 400);
-  },
-
-  mouseoutCheck: function(e) {
-    e = e? e: window.event;
-    // is element moused into contained by menu? or is it menu (ul or li or a to menu div)?
-    var mnu = document.getElementById(menuSharesFunds.activeMenuID);
-    var toEl = e.relatedTarget? e.relatedTarget: e.toElement;
-    if ( mnu != toEl && !menuSharesFunds.contained(toEl, mnu) ) menuSharesFunds.hide();
-  },
-
-  // returns true of oNode is contained by oCont (container)
-  contained: function(oNode, oCont) {
-    if (!oNode) return; // in case alt-tab away while hovering (prevent error)
-    while ( oNode = oNode.parentNode )
-      if ( oNode == oCont ) return true;
-    return false;
-  },
-
-  clearTimer: function() {
-    if (menuSharesFunds.timer) clearTimeout(menuSharesFunds.timer);
-  }
-
-}
-//-->
-</script>
-
-<!-- Shares popup Menu Layer  -->
-</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#336699" vlink="#336699" alink="#336699" text="#000000"><div id="menuShares" class="menu">
-  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
-    <tbody><tr id="menuSharesRow1"><td valign="middle" nowrap="" id="menuSharesCell01"></td></tr>
-    <tr id="menuSharesRow2"><td valign="middle" nowrap="" id="menuSharesCell02"></td></tr>
-    <tr id="menuSharesRow3"><td valign="middle" nowrap="" id="menuSharesCell03"></td></tr>
-    <tr id="menuSharesRow4"><td valign="middle" nowrap="" id="menuSharesCell04"></td></tr>
-    <tr id="menuSharesRow5"><td valign="middle" nowrap="" id="menuSharesCell05"></td></tr>
-  </tbody></table>
-</div>
-
-
-<!-- Funds popup Menu Layer  -->
-<div id="menuFunds" class="menu">
-  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
-    <tbody><tr id="menuFundsRow1"><td valign="middle" nowrap="" id="menuFundsCell01"></td></tr>
-    <tr id="menuFundsRow2"><td valign="middle" nowrap="" id="menuFundsCell02"></td></tr>
-  </tbody></table>
-</div>
-
-
-<script language="javascript" type="text/javascript">
-<!--
-//*****************************************************
-function hideShow(id)
-  {
-  var el=document.getElementById(id);
-  if(el.style.display!="none")
-    {
-    el.style.display="none";
-    }
-  else
-    {
-    el.style.display="";
-    }
-  }
-  //-->
-</script>
-
-
-
-<title>InvestSMART.com.au - Privacy Policy</title>
+<meta name="verify-v1" content="xgkff+3TBcugNz7JE2NiJoqkiVs1PHybWgFkaBuhblI=">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="title" content="Discount access and research to Australian managed funds">
+<meta name="description" content="Rebate of entry fees on the majority of Australian managed funds. Research on managed funds and shares.">
+<meta name="keywords" content="funds, fund, managed, managed funds, invest, financial services, trail, trailcap, cap, trail cap, investment, investments, investing, agribusiness, agri-business, agri business, unit prices, research, rated, manager, managers, discount, rebate, entry, fee, fees, share, ASX, stock, exchange, company, super, superchoice, super choice, forms, bt, colonial, perpetual, product disclosure statements, performance, market trends, superannuation, retirement, margin lending, wrap, financial advisers, wholesale funds, insurance, life, income, investsmart">
+<meta name="abstract" content="managed funds, commission rebates, retirement, superannuation, financial advice, savings, shares, research, education">
+<meta name="copyright" content="www.investsmart.com.au">
+<meta name="publisher" content="www.investsmart.com.au">
 
+<meta name="robots" content="index,follow">
+<meta name="rating" content="general">
+<meta name="classification" content="InvestSMART Financial Services">
+<meta name="revisit-after" content="5 days">
 
-
-
-
-<link rel="stylesheet" href="/style/investsmart_IE.css" type="text/css">
+<link rel="stylesheet" href="/style/investsmart.css" type="text/css">
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -336,296 +29,240 @@ urchinTracker();
 //-->
 </script>
 
-        
-   
 
-<a name="top">
-
-<script language="JavaScript">
+<script type="text/javascript">
 <!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_showHideLayers() { //v6.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
+//*** Default text for the Quick Search and Quick Sign-up form fields ***
+var strQuickSearchText     = "e.g. stocks or funds";
+var strQuickMembershipText = "enter email here";
 //-->
 </script>
 
-<script language="JavaScript">
-<!--
-function NewsletterPopup(){
-// Function to popup a new window for Newsletter Registration
-NewWindow = window.open("/membership/popup.asp","register","toolbar=no,width=555,height=580,screenY=30,screenX=30,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no");
+<script src="/includes/utilImagePreload.js" type="text/javascript"></script>
+<script src="/includes/utilString.js" type="text/javascript"></script>
+<script src="/includes/utilMisc.js" type="text/javascript"></script>
+<script src="/includes/dw_viewport.js" type="text/javascript"></script>
+<script src="/includes/utilSharesFundsPopupMenu.js" type="text/javascript"></script>
 
-// Don't Do the Focus in IE 3
-if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0, 3) < "3")))
-   {
-   NewWindow.focus();
-   }
-}
-
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-// *** LOAD CASCADING STYLE SHEETS ***
-//if (navigator.appName.indexOf("Microsoft") != -1){
-//document.write('<link rel="stylesheet" href="/style/investsmart_IE.css" type="text/css">')
-//}
-//else{
-//document.write('<link rel="stylesheet" href="/style/investsmart_NS.css" type="text/css">')
-//}
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-function PopupWindow (PopURL, PopName, PopWidth, PopHeight) {
-
-  NewWindow = window.open(PopURL, PopName, "width=" + PopWidth + ",height=" + PopHeight + ",status=no,toolbar=no,location=no,scrollbars=yes,resizable=yes");
-  if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0, 3) < "3")))
-  {
-    NewWindow.focus();
-  }
-}
-
-function SearchFocus(field)
-  {
-  if ((field.value == "Quick Search (eg Stock Code)")  || (field.value == "Enter Search Text Here"))
-     {
-     field.value = "";
-     }
-  }
-
-function SearchSubmit()
-  {
-    var message = "";
-    var form = document.QuickSearchForm
-    if ((form.search.value == "Quick Search (eg Stock Code)") || (form.search.value == "Enter Search Text Here") || (form.search.value == ""))
-       {
-       form.search.value = "Enter Search Text Here";
-       return false;
-       }
-    return true;
-  }
-
-function SearchBlur(field)
-  {
-  if ((field.value == "") || (field.value == "Enter Search Text Here"))
-     {
-     field.value = "Quick Search (eg Stock Code)";
-     }
-  }
-//-->
-</script>
+</head>
 
 
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
-<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+<!-- Shares popup Menu Layer  -->
+<div id="menuShares" class="menu">
+  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
+    <tbody><tr id="menuSharesRow1"><td valign="middle" nowrap="" id="menuSharesCell01"></td></tr>
+    <tr id="menuSharesRow2"><td valign="middle" nowrap="" id="menuSharesCell02"></td></tr>
+    <tr id="menuSharesRow3"><td valign="middle" nowrap="" id="menuSharesCell03"></td></tr>
+    <tr id="menuSharesRow4"><td valign="middle" nowrap="" id="menuSharesCell04"></td></tr>
+    <tr id="menuSharesRow5"><td valign="middle" nowrap="" id="menuSharesCell05"></td></tr>
+  </tbody></table>
+</div>
+<!-- Funds popup Menu Layer  -->
+<div id="menuFunds" class="menu">
+  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
+    <tbody><tr id="menuFundsRow1"><td valign="middle" nowrap="" id="menuFundsCell01"></td></tr>
+    <tr id="menuFundsRow2"><td valign="middle" nowrap="" id="menuFundsCell02"></td></tr>
+  </tbody></table>
+</div>
+<center><iframe src="http://members.fairfax.com.au/netstrip/nonmem/top-nonmem.html" marginwidth="0" marginheight="5" scrolling="no" frameborder="0" height="36" width="940" align="center"></iframe></center>
+
+
+<table cellpadding="5" cellspacing="0" border="0" width="950" align="center">
   <tbody><tr>
-    <td width="100%" height="80" align="left" valign="top" colspan="2">
-      <table width="100%" height="80" cellpadding="0" cellspacing="0" border="0" class="darkBlue">
+    <td>
+    <a name="top">
+
+
+
+
+
+<!-- TOP NAV -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td width="100%" height="130" align="left" valign="top" colspan="2">
+      <table width="100%" height="130" cellpadding="0" cellspacing="0" border="0">
         <tbody><tr>
-          <td width="252" align="left" valign="top"><img src="/images/home/HomePageHeaderAU.gif" width="252" height="80" alt="InvestSMART Financial Services Pty Ltd" border="0"></td>
-          <td align="right" valign="middle">
-          <a href="/distributions/default.asp?DistributionID=194"><img src="/banner_ads/CFS_Colliers_Banner.gif" border="0"></a><img src="/images/common/blank.gif" width="5" height="1" border="0">
+          <td align="left" valign="bottom" width="200"><a href="/"><img src="/images/home/LogoBlue.gif" title="InvestSMART Financial Services Pty Ltd" alt="InvestSMART Financial Services Pty Ltd" border="0"></a></td>
+          <td align="center" valign="bottom" width="750" height="130" style="background-image: url(/images/home/HeaderBackground.gif); background-repeat: no-repeat; background-position: bottom right;">
+                        <a href="/distributions/"><img src="/home/images/Header_LO.gif" alt="Latest Investment Opportunities" title="Latest Investment Opportunities" border="0" onmouseover="this.src='/home/images/Header_Open_LO.gif'" onmouseout="this.src='/home/images/Header_LO.gif'"></a>
+            <a href="/trailcap/"><img src="/home/images/Header_TC.gif" alt="TrailCap" title="TrailCap" border="0" onmouseover="this.src='/home/images/Header_Open_TC.gif'" onmouseout="this.src='/home/images/Header_TC.gif'"></a>
+            <a href="/funds/"><img src="/home/images/Header_FF.gif" alt="Find a Managed Fund with a 100% Entry Fee Rebate" title="Find a Managed Fund with a 100% Entry Fee Rebate" border="0" onmouseover="this.src='/home/images/Header_Open_FF.gif'" onmouseout="this.src='/home/images/Header_FF.gif'"></a>
+            <a href="/floats/"><img src="/home/images/Header_FN.gif" alt="Floats and IPOs" title="Floats and IPOs" border="0" onmouseover="this.src='/home/images/Header_Open_FN.gif'" onmouseout="this.src='/home/images/Header_FN.gif'"></a>
+            <a href="/shares/"><img src="/home/images/Header_SR.gif" alt="ASX Share Research" title="ASX Share Research" border="0" onmouseover="this.src='/home/images/Header_Open_SR.gif'" onmouseout="this.src='/home/images/Header_SR.gif'"></a>
+            <a href="/insurance/"><img src="/home/images/Header_IN.gif" alt="Recovery Plus Insurance" title="Recovery Plus Insurance" border="0" onmouseover="this.src='/home/images/Header_Open_IN.gif'" onmouseout="this.src='/home/images/Header_IN.gif'"></a>
+            <a href="/news/"><img src="/home/images/Header_NT.gif" alt="News &amp; Tools" title="News &amp; Tools" border="0" onmouseover="this.src='/home/images/Header_Open_NT.gif'" onmouseout="this.src='/home/images/Header_NT.gif'"></a>
+            <a href="/leaders/"><img src="/home/images/Header_ML.gif" alt="Market Leaders" title="Market Leaders" border="0" onmouseover="this.src='/home/images/Header_Open_ML.gif'" onmouseout="this.src='/home/images/Header_ML.gif'"></a>
+
           </td>
         </tr>
       </tbody></table>
     </td>
   </tr>
+  <form method="post" name="QuickSearchForm" action="/search/" onsubmit="return SearchSubmit();"></form>
   <tr>
-    <td width="147" height="100%" align="left" valign="top" rowspan="3" class="darkBlue">
-      <table width="147" cellpadding="0" cellspacing="0" border="0">
+    <td colspan="2" width="100%">
+      <div id="nav">
+        <div id="web">
+          &nbsp;&nbsp;<a href="/membership/login.asp">Login</a>&nbsp;<span style="color:#FFFFFF;">|</span>&nbsp;<a href="/membership/">FREE Membership</a>
+        </div>
+        <div id="links">
+          <a href="/">My InvestSMART</a>&nbsp;<span style="color:#FFFFFF;">|</span>&nbsp;<a href="/my_portfolio/">My Portfolio</a>&nbsp;<span style="color:#FFFFFF;">|</span>&nbsp;<a href="/my_newsletter/">Newsletter</a>&nbsp;<span style="color:#FFFFFF;">|</span>&nbsp;<a href="javascript:QuickSearckLinkClick();">Search</a>&nbsp;<span class="searchbox"><input class="greyinput" name="QuickSearch" type="text" size="15" value="e.g. stocks or funds" onclick="SearchFocus(this);" onblur="SearchBlur(this);"> <input id="QuickSearchButton" type="image" class="img" src="/images/BlueArrow.gif" border="0" alt="Search InvestSMART...">&nbsp;</span>
+        </div>
+      </div>
+      <div id="crumbs">
+        My History :: <a href="/distributions/default.asp?function=print&amp;DistributionTypeID=2">Latest Investment Opportunities</a>&nbsp;<img src="/images/more_arrow_01.gif" border="0" align="absmiddle">&nbsp;<a href="/membership/login.asp?message=You%20have%20accessed%20a%20section%20of%20the%20InvestSMART%20website%20that%20requires%20you%20to%20be%20a%20member%20(membership%20is%20FREE).%20If%20you%20are%20not%20a%20member%20please%20click%20on%20%22Become%20a%20Member%22%20below%20alternatively%20if%20you%20are%20already%20a%20member%20of%20InvestSMART%20please%20login%20below%20using%20your%20usual%20login%20details.">Login</a>&nbsp;<img src="/images/more_arrow_01.gif" border="0" align="absmiddle">&nbsp;<a href="/my_portfolio/Default.asp">My Portfolio - Summary</a>&nbsp;<img src="/images/more_arrow_01.gif" border="0" align="absmiddle">&nbsp;<a href="/my_portfolio/create_portfolio.asp">Create a Portfolio</a>&nbsp;<img src="/images/more_arrow_01.gif" border="0" align="absmiddle">&nbsp;<a href="/about_us/privacy_policy.asp">Privacy Policy</a>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="152" align="left" valign="top" rowspan="3">
+      <table width="152" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td width="152" align="left" valign="top"><img src="/images/blank.gif" width="100" height="29" border="0"></td>
+        </tr>
+        
+        <tr>
+          <td width="152" align="left" valign="top" class="navLink">
+            <table width="100%" cellpadding="0" cellspacing="4" border="0">
+        
+            <tbody><tr>
+              <td width="100%" height="30" align="left" valign="top"><a href="/about_us/"><span class="leftNavtop">About Us &amp; Help</span></a></td>
+            </tr>
+                          <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 24, 'on');"><a class="leftNav" href="/about_us/default.asp#contact_us"><b class="leftNav">Contact Us</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 25, 'on');"><a class="leftNav" href="/about_us/in_the_media.asp"><b class="leftNav">In the Media</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 26, 'on');"><a class="leftNav" href="/about_us/site_map.asp"><b class="leftNav">Site Map</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 27, 'on');"><a class="leftNav" href="/membership/forgotten_password.asp"><b class="leftNav">Forgotten My Password</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 28, 'on');"><a class="leftNav" href="/about_us/faqs.asp"><b class="leftNav">FAQ</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 29, 'on');"><a class="leftNav" href="/about_us/technical.asp"><b class="leftNav">Technical Overview</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 31, 'on');"><a class="leftNav" href="/about_us/terms_and_conditions.asp"><b class="leftNav">Terms &amp; Conditions</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 32, 'on');"><img src="/images/more_arrow_01.gif" border="0" align="absmiddle">&nbsp;<a class="leftNav" href="/about_us/privacy_policy.asp"><b class="leftNav">Privacy Policy</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 33, 'on');"><a class="leftNav" href="/about_us/dispute_resolution.asp"><b class="leftNav">Dispute Resolution</b></a><br></td>
+              </tr>
+              <tr>
+                <td height="22" width="100%" align="left" valign="top" onmouseover="javascript: showhidemenu('SubMenu', 34, 'on');"><a class="leftNav" href="/about_us/feedback.asp"><b class="leftNav">Feedback</b></a><br></td>
+              </tr>
+
+              </tbody></table>
+              <br>
+            <table>
+          
+        
 
         
-        <tbody><tr>
-          <td width="147" align="left" valign="top" class="bullLeft"><img src="/images/blank.gif" width="100" height="272" border="0"></td>
-        </tr>
-        <tr>
-          <td width="147" align="left" valign="top" class="navLink">
-          <script language="javascript" type="text/javascript">
-          <!--
-          //function Go(){return}
-          -->
-          </script>
+          <!-- BECOME A MEMBER -->
+          <tbody><tr>
+            <td valign="top" width="152" height="65"><a href="/membership/"><img src="/images/home/BecomeAMember.gif" border="0" title="Become a member of InvestSMART's investment community. Membership is FREE!" alt="Become a member of InvestSMART's investment community. Membership is FREE!"></a></td>
+          </tr>
+          <!-- QUICK MEMBERSHIP -->
+          <form method="post" action="/membership/default.asp" name="QuickMembershipForm" onsubmit="return QuickMembershipSubmit(this);"></form>
+          <input type="hidden" name="salutation_id" value="1">
+          <input type="hidden" name="first_name" value="">
+          <input type="hidden" name="last_name" value="">
+          <input type="hidden" name="password" value="password">
+          <input type="hidden" name="secondary_email" value="">
+          <input type="hidden" name="postal_address" value="">
+          <input type="hidden" name="postal_suburb" value="">
+          <input type="hidden" name="postcode" value="">
+          <input type="hidden" name="state" value="">
+          <input type="hidden" name="CountryID" value="AU">
+          <input type="hidden" name="phone_daytime" value="">
+          <input type="hidden" name="phone_afterhours" value="">
+          <input type="hidden" name="age_id" value="1">
+          <input type="hidden" name="how_found_id" value="177">
+          <input type="hidden" name="friends_email" value="">
+          <tr>
+            <td valign="top" width="152" height="100" style="background-image: url(/images/home/FreeNewsletter2.gif); background-repeat: no-repeat; background-position: center;"><center><br><br><br><input class="greyinput" name="primary_email" type="text" size="15" value="enter email here" onfocus="QuickMembershipFocus(this);" onblur="QuickMembershipBlur(this);"><div id="newssubmit" onclick="javascript:QuickMembershipSubmit();"></div></center></td>
+          </tr>
           
-          <script language="javascript" type="text/javascript" src="/includes/main_menu_AU.js"></script>
-          
-          <script language="javascript" type="text/javascript" src="/includes/menu_com.js"></script>
         
-            <br><br><br>
-            <center>
-            &nbsp;
-            </center>
+      </tbody></table>
+      <br><br>
           </td>
-        </tr>
-        <tr>
-          <td width="147" height="100%" align="left" valign="top" class="darkBlue">&nbsp;</td>
         </tr>
       </tbody></table>
     </td>
     <td width="100%" height="100%" align="left" valign="top">
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr>
-
-        <!-- **** FOR TESTING ONLY - REMOVE FOR PRODUCTION **** -->
-        <!--
-        <td height="20" align="left" valign="middle" class="topBar" nowrap><b>&nbsp;
-        Australia</b></td>
-        -->
-        <!-- **** REMOVE CODE ABOVE **** -->
-
-        
-        <script language="JavaScript">
-        <!--
-        function QuickNewsletterSubmit(theform)
-          {
-          var message = "";
-          var form = theform
-          if (!checkEmail(form.primary_email, form.primary_email.value, false))
-            {
-            return false;
-            }
-          else
-            {
-            return true;
-            }
-          }
-
-        function QuickNewsletterFocus(field)
-          {
-          if ((field.value == "Enter Email for FREE Newsletter")  || (field.value == "Enter Search Text Here"))
-             {
-             field.value = "";
-             }
-          }
-
-        function QuickNewsletterBlur(field)
-          {
-          if ((field.value == "") || (field.value == "Enter Email for FREE Newsletter"))
-             {
-             field.value = "Enter Email for FREE Newsletter";
-             }
-          }
-        //-->
-        </script>
-        <form method="post" action="/membership/default.asp" name="QuickRegoTop" onsubmit="return QuickNewsletterSubmit(this);"></form>
-        <input type="hidden" name="salutation_id" value="1">
-        <input type="hidden" name="first_name" value="">
-        <input type="hidden" name="last_name" value="">
-        <input type="hidden" name="password" value="password">
-        <input type="hidden" name="secondary_email" value="">
-        <input type="hidden" name="postal_address" value="">
-        <input type="hidden" name="postal_suburb" value="">
-        <input type="hidden" name="postcode" value="">
-        <input type="hidden" name="state" value="">
-        <input type="hidden" name="CountryID" value="AU">
-        <input type="hidden" name="phone_daytime" value="">
-        <input type="hidden" name="phone_afterhours" value="">
-        <input type="hidden" name="age_id" value="1">
-        <input type="hidden" name="how_found_id" value="177">
-        <input type="hidden" name="friends_email" value="">
-        <td height="20" align="left" valign="middle" class="topBar" nowrap=""><img src="/images/common/blank.gif" width="5" height="1" border="0">&nbsp;|&nbsp;<a href="/login/default.asp" class="navLink">Login</a>&nbsp;|&nbsp;<a href="/membership/" class="navLink">FREE Membership</a>&nbsp;|&nbsp;&nbsp;</td>
-        <td height="20" align="left" valign="middle" class="topBar" nowrap=""><input type="text" name="primary_email" value="Enter Email for FREE Newsletter" size="27" maxlength="100" onclick="QuickNewsletterFocus(this);" onblur="QuickNewsletterBlur(this);">&nbsp;&nbsp;</td>
-        <td width="98%" height="20" align="left" valign="middle" class="topBar" nowrap=""><input type="image" src="/images/home/search_go_button.gif" border="0" vspace="0" hspace="0"></td>
-        
-        
-        <form method="post" name="QuickSearchForm" action="/search/default.asp" onsubmit="return SearchSubmit();"></form>
-        <td width="1%" height="20" align="right" valign="middle" class="topBar" nowrap=""><img src="/images/common/blank.gif" width="5" height="18" border="0"><input type="text" name="search" size="28" maxlength="40" value="Quick Search (eg Stock Code)" onclick="SearchFocus(this);" onblur="SearchBlur(this);">&nbsp;&nbsp;</td>
-        <td width="1%" height="20" align="right" valign="middle" class="topBar" nowrap=""><input type="image" src="/images/home/search_go_button.gif" border="0" vspace="0" hspace="0"><img src="/images/common/blank.gif" width="5" height="18" border="0"></td>
-        
-      </tr>
-    </tbody></table>
 
     <table width="100%" cellpadding="0" cellspacing="0" border="0">
       <tbody><tr>
         <td width="5" align="left" valign="top"><img src="/images/common/blank.gif" width="5" height="1" border="0"></td>
-        <td width="99%" align="left" valign="top" class="contentWhite">
+        <td width="100%" align="left" valign="top">
         <br>
-
-
-<!-- Header Ends -->
-<table width="100%" border="0" cellspacing="2" cellpadding="0" class="headerBar">
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-bottom:1px solid #DDDDDD;">
   <tbody><tr>
-    <td width="21" align="center" valign="middle"><img src="/images/lego_arrow.gif" width="21" height="21" border="0"></td>
-    <td width="100%" valign="middle">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td class="plain" align="left" valign="middle" width="100%"><span class="PageHeading">Privacy Policy</span></td>
-          <td class="plain" align="right" valign="middle" nowrap=""><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="/terms_of_use/PrivacyPolicy.asp?function=print&amp;" target="_blank" title="Displays a 'print-friendly' version of this page. Once displayed, print the page via your browser's normal print function.">Print</a><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="/about_us/faqs.asp" title="Our Frequently Asked Question section answers some commonly asked questions.">FAQs</a><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="/about_us/feedback.asp" title="We always welcome feedback. Please take the time to let us know of any suggestions, problems or general comments.">Feedback</a><img src="/images/blank.gif" align="absmiddle" width="10"></td>
-        </tr>
-      </tbody></table>
-    </td>
+    <td align="left" valign="bottom"><h1>Privacy Policy</h1></td>
+    <td align="right" valign="bottom"><a href="/about_us/privacy_policy.asp?function=print&amp;" target="_blank" title="Displays a 'print-friendly' version of this page. Once displayed, print the page via your browser's normal print function."><img src="/images/print_icon.gif" align="absmiddle" border="0"></a>&nbsp;&nbsp;<a href="/about_us/privacy_policy.asp?function=print&amp;" target="_blank" title="Displays a 'print-friendly' version of this page. Once displayed, print the page via your browser's normal print function.">Print</a>    </td>
   </tr>
 </tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>
-      <table width="100%" border="0" cellspacing="0" height="20" class="PageLinks">
-        <tbody><tr>
-          <td width="10"><img src="/images/blank.gif" width="10"></td>
-          <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/TermsAndConditions.asp" class="subitem">Terms&nbsp;&amp;&nbsp;Conditions&nbsp;of&nbsp;Use</a></td>
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/PrivacyPolicy.asp" class="subitem_selected">Privacy Policy</a></td>
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/FeeDisclosure.asp" class="subitem">Fee Disclosure</a></td>
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/DisputeResolution.asp" class="subitem">Dispute Resolution</a></td>
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td width="100%"><img src="/images/blank.gif" width="10"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
 <br>
 
 
-    <table border="0" width="85%">
+<!-- Header Ends -->
+
+    <table border="0" width="100%">
       <tbody><tr>
         <td align="left">
-          <p align="justify" class="heading">InvestSMART is committed to safeguarding your privacy online!</p>
-          <p align="justify">InvestSMART Financial Services Pty Ltd (InvestSMART) has created this privacy statement in order to demonstrate our firm commitment to privacy. We value your trust, and aim to help you manage and build wealth over a long period. The protection of your personal information is a vital part of this relationship. It is supported by our I.T. systems and experience of keeping personal information confidential. The following discloses our information gathering and dissemination practices for this website: www.InvestSMART.com.au</p>
-          <p align="justify">InvestSMART will collect personal information about you to provide you with the products and services you request as well as information on other products and services offered by us. Such personally identifiable information may be collected from the registration process for subscription or services and in connection with content submissions such as in the 'Portfolio Manager', product requests or downloads, suggestions and transactional areas.</p>
-          <p align="justify">Upon request, InvestSMART will allow you to "opt out" of further promotional contacts at any time.  However, notwithstanding any "opt out" of promotional information by you, InvestSMART reserves the right to contact you regarding your account status, changes to your subscriber agreement and other matters relevant to the underlying service and/or the information collected.</p>
-          <p align="justify">InvestSMART reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. InvestSMART will provide only aggregated data from these analyses to third parties.</p>
-          <p align="justify">Any personally identifiable information we collect about you will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.  You should be aware that InvestSMART might sometimes permit third parties to offer subscription and/or registration-based services through the www.InvestSMART.com.au site. InvestSMART is not responsible for any actions or policies of such third parties and you should check the applicable privacy policy of such party when providing personally identifiable information to them.</p>
-          <p align="justify">Upon request, InvestSMART will use reasonable efforts to allow you to update/correct personal information previously submitted which the you state is erroneous to the extent such activities will not compromise privacy or security interests.  InvestSMART will also use commercially reasonable efforts to functionally delete your personal information if you request from its database; however, it may be impossible to delete your entry without some residual information because of backups and records of deletions.</p>
-          <p align="justify">Access to the database containing personal information is restricted to InvestSMART staff members with direct responsibility for customer service or management of the website. Authorised staff members are not allowed to pass on information about members to non-authorised staff without the express permission of the managing director.</p>
-          <p align="justify">InvestSMART reserves the right to change this policy at any time by publishing on its website the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
+          <h2>InvestSMART is committed to safeguarding your privacy online!</h2>
+          <p>InvestSMART Financial Services Pty Ltd (InvestSMART) has created this privacy statement in order to demonstrate our firm commitment to privacy. We value your trust, and aim to help you manage and build wealth over a long period. The protection of your personal information is a vital part of this relationship. It is supported by our I.T. systems and experience of keeping personal information confidential. The following discloses our information gathering and dissemination practices for this website: www.InvestSMART.com.au</p>
+          <p>InvestSMART will collect personal information about you to provide you with the products and services you request as well as information on other products and services offered by us. Such personally identifiable information may be collected from the registration process for subscription or services and in connection with content submissions such as in the 'Portfolio Manager', product requests or downloads, suggestions and transactional areas.</p>
+          <p>Upon request, InvestSMART will allow you to "opt out" of further promotional contacts at any time.  However, notwithstanding any "opt out" of promotional information by you, InvestSMART reserves the right to contact you regarding your account status, changes to your subscriber agreement and other matters relevant to the underlying service and/or the information collected.</p>
+          <p>InvestSMART reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.</p>
+		  <h2>Disclosure of your personal information to other parties</h2>
+		  <p>It may be necessary for us to disclose your personal information to certain third parties in order to assist InvestSMART in providing the best services and products to our members. Examples of the types of organisations to which we may disclose your personal information include, but are not limited to:
+			</p><ul>
+				<li>Organisations undertaking compliance reviews;</li>
+				<li>Organisations undertaking reviews of the accuracy and completeness of our information; </li>
+				<li>Our solicitors, valuers and insurers;</li>
+				<li>Organisations providing mailing services, marketing bureau services (eg, telemarketing) and printing our standard documents and correspondence;</li>
+				<li>Organisations maintaining our information technology systems and providing information technology services;</li>
+				<li>Organisations providing analysis and research;</li>
+				<li>Organisations engaged to provide specific financial products.</li>
+			</ul>
+			We will only disclose your personal information to these organisations to enable them to undertake specified services. <p></p>
+          <p>You should be aware that InvestSMART might sometimes permit third parties to offer subscription and/or registration-based services through the www.InvestSMART.com.au site. InvestSMART is not responsible for any actions or policies of such third parties and you should check the applicable privacy policy of such party when providing personally identifiable information to them.</p>
+          <p>Upon request, InvestSMART will use reasonable efforts to allow you to update/correct personal information previously submitted which the you state is erroneous to the extent such activities will not compromise privacy or security interests.  InvestSMART will also use commercially reasonable efforts to functionally delete your personal information if you request from its database; however, it may be impossible to delete your entry without some residual information because of backups and records of deletions.</p>
+          <p>Access to the database containing personal information is restricted to InvestSMART staff members with direct responsibility for customer service or management of the website. Authorised staff members are not allowed to pass on information about members to non-authorised staff without the express permission of the managing director.</p>
+          <p>InvestSMART reserves the right to change this policy at any time by publishing on its website the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
 
-          <p align="justify" class="heading">Choice/Opt-Out</p>
-          <p align="justify">Our site provides users the opportunity to opt-out of receiving communications.</p>
+          <h2>Choice/Opt-Out</h2>
+          <p>Our site provides users the opportunity to opt-out of receiving communications.</p>
 
-          <p align="justify">This site gives users the following options for removing their information from our database:</p>
+          <p>This site gives users the following options for removing their information from our database:</p>
 
-          <p align="justify">
-          <b>1.</b>&nbsp;&nbsp;You can remove yourself through the DIY unsubscribe facility located <a href="/registration/unsubscribe.asp">here</a>
+          <p>
+          <b>1.</b>&nbsp;&nbsp;You can remove yourself through the DIY unsubscribe facility located <a href="/my_newsletter/unsubscribe.asp">here</a>
           <br>
           <b>2.</b>&nbsp;&nbsp;You can send email to <a href="mailto:admin@investsmart.com.au">admin@investsmart.com.au</a> (for general comments and enquires).
           <br>
           <b>3.</b>&nbsp;&nbsp;You can call the following telephone number: 1300 880 160  (International Calls: +61 2 8966 9511)
           <br>
-          <b>4.</b>&nbsp;&nbsp;You can log onto the site and remove or update your personal details on the <a href="/my_investsmart/my_details.asp">My Details</a> page.
+          <b>4.</b>&nbsp;&nbsp;You can log onto the site and remove or update your personal details on the <a href="/my_details/">My Details</a> page.
           </p>
 
-          <p align="justify">
-          <a name="contact_us" class="heading">Contact Details</a>
-          </p>
+          <p>
+          <a name="contact_us"></a></p><h2><a name="contact_us">Contact Details</a></h2>
+          <p></p>
           <table border="0" width="70%">
             <tbody><tr>
               <td width="50">&nbsp;</td>
@@ -641,21 +278,21 @@ function SearchBlur(field)
                     <td>Australian Business Number (ABN) : <a href="http://www.search.asic.gov.au/cgi-bin/gns030c?acn=089_038_531&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" target="_blank">70 089 038 531</a></td>
                   </tr>
                   <tr>
-                    <td>Australian Financial Services Licensee (AFSL # : <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank">226435</a>)<a href="javascript: PopupWindow('/education/GlossaryPopup.asp?id=36', '_blank', 620, 400)"><img border="0" src="/images/glossary_icon.gif" width="16" height="16" align="absmiddle" alt="more information..."></a></td>
+                    <td>Australian Financial Services Licensee (AFSL # : <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank">226435</a>)<a href="javascript:PopupWindow('/education/GlossaryPopup.asp?id=36', '_blank', 700, 450)"><img border="0" src="/images/glossary_icon.gif" width="16" height="16" align="absmiddle" alt="More information..."></a></td>
                   </tr>
                   <tr>
-                    <td valign="top"><img src="/images/common/spacer.gif" width="15" height="15"></td>
+                    <td valign="top"><img src="/images/blank.gif" width="15" height="15"></td>
                   </tr>
                 </tbody></table>
 
                 <table border="0" cellspacing="0" cellpadding="0" width="100%">
                   <tbody><tr>
                     <td valign="top" nowrap=""><b>Postal Address</b></td>
-                    <td valign="top"><img src="/images/common/spacer.gif" width="15" height="8"></td>
+                    <td valign="top"><img src="/images/blank.gif" width="15" height="8"></td>
                     <td valign="top" width="99%">GPO Box 4477<br>Sydney NSW 2001<br>Australia</td>
                   </tr>
                   <tr>
-                    <td valign="top" colspan="3"><img src="/images/common/spacer.gif" width="15" height="15"></td>
+                    <td valign="top" colspan="3"><img src="/images/blank.gif" width="15" height="15"></td>
                   </tr>
                   <tr>
                     <td valign="top" nowrap=""><b>Telephone</b></td>
@@ -668,23 +305,23 @@ function SearchBlur(field)
                     <td valign="top">1300 880 260 (International Calls: +61 2 8966 9522)</td>
                   </tr>
                   <tr>
-                    <td valign="top" colspan="3"><img src="/images/common/spacer.gif" width="15" height="15"></td>
+                    <td valign="top" colspan="3"><img src="/images/blank.gif" width="15" height="15"></td>
                   </tr>
                   <tr>
                     <td valign="top" nowrap=""><b>Website</b></td>
-                    <td valign="top"><img src="/images/common/spacer.gif" width="15" height="8"></td>
+                    <td valign="top"><img src="/images/blank.gif" width="15" height="8"></td>
                     <td valign="top"><a href="http://www.investsmart.com.au" target="_blank">www.investsmart.com.au</a></td>
                   </tr>
                   <tr>
-                    <td valign="top" colspan="3"><img src="/images/common/spacer.gif" width="15" height="15"></td>
+                    <td valign="top" colspan="3"><img src="/images/blank.gif" width="15" height="15"></td>
                   </tr>
                   <tr>
                     <td valign="top" nowrap=""><b>Email</b></td>
-                    <td valign="top"><img src="/images/common/spacer.gif" width="15" height="8"></td>
+                    <td valign="top"><img src="/images/blank.gif" width="15" height="8"></td>
                     <td valign="top"><a href="mailto:admin@investsmart.com.au">admin@investsmart.com.au</a></td>
                   </tr>
                   <tr>
-                    <td valign="top" colspan="3"><img src="/images/common/spacer.gif" width="15" height="15"></td>
+                    <td valign="top" colspan="3"><img src="/images/blank.gif" width="15" height="15"></td>
                   </tr>
                 </tbody></table>
               </td>
@@ -697,30 +334,31 @@ function SearchBlur(field)
 
 <!-- Footer Begins -->
 
-          <br><br>
           </td>
-          <td width="5" align="left" valign="top"><img src="/images/common/blank.gif" width="5" height="1" border="0"></td>
         </tr>
       </tbody></table>
     </td>
   </tr>
   <tr>
     <td>
-      
-      <p align="justify" class="grey"><b>IMPORTANT :</b> This information has been prepared for distribution over the internet and without taking into account the investment objectives, financial situation and particular needs of any particular person. Neither InvestSMART Financial Services Pty Ltd nor any of its Related Companies makes no recommendations as to the merits of any investment opportunity referred to in its emails or its related websites. All indications of performance returns are historical and can not be relied upon as an indicator for future performance.</p>
-      
+      </td>
+  </tr>
+  <tr>
+    <td width="100%" height="25" align="left" valign="top">
     </td>
   </tr>
   <tr>
-    <td width="100%" height="25" align="left" valign="top" class="darkBlue">
-      <table width="100%" border="0">
-        <tbody><tr>
-          
-          <td width="50%" valign="top" align="left" nowrap="" class="copyright">© Copyright 1999-2007&nbsp;InvestSMART Financial Services Pty Ltd<br>Australian Financial Services Licensee : AFSL # <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank" class="copyrightLink">226435</a><br>ABN <a href="http://www.search.asic.gov.au/cgi-bin/gns030c?acn=089_038_531&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" target="_blank" class="copyrightLink">70 089 038 531</a></td>
-          <td width="50%" valign="top" align="right" nowrap="" class="copyright"><a href="/terms_of_use/TermsAndConditions.asp" class="copyrightLink">Terms &amp; Conditions of use</a> | <a href="/terms_of_use/PrivacyPolicy.asp" class="copyrightLink">Privacy Policy</a></td>
-          
-        </tr>
-      </tbody></table>
+    <td colspan="2">
+      <div id="footer">
+      
+        <p class="hr" align="center"><a href="/about_us/">About InvestSMART</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/#contact_us">Contact us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/in_the_media.asp">In The Media</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/terms_and_conditions.asp">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fairfax.com.au/privacy.ac" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/faqs.asp">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/site_map.asp">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about_us/feedback.asp">Feedback</a>
+    <br><a href="/funds/find.asp?5StarMS=1&amp;4StarMS=1&amp;3StarMS=1&amp;2StarMS=1&amp;5StarSP=1&amp;4StarSP=1&amp;3StarSP=1&amp;2StarSP=1&amp;FundLegalTypeID=1&amp;CountryID=AU&amp;OrderBy=Return3Year&amp;OrderByDesc=1">Managed Funds</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/funds/find.asp?5StarMS=1&amp;4StarMS=1&amp;3StarMS=1&amp;2StarMS=1&amp;5StarSP=1&amp;4StarSP=1&amp;3StarSP=1&amp;2StarSP=1&amp;FundLegalTypeID=2&amp;CountryID=AU&amp;OrderBy=Return3Year&amp;OrderByDesc=1">Superannuation Funds</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/news/findsuper.asp">Find Lost Super</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/floats/upcoming_floats.asp">Upcoming Floats</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/shares/">ASX Share research</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/funds/find.asp">Find a Managed Fund</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/leaders/">Market Leaders</a>
+    <br><small>Copyright © 1999-2007&nbsp;InvestSMART Financial Services Pty Ltd. All rights reserved<br>Australian Financial Services Licensee : AFSL # <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank" class="copyrightLink">226435</a><br>ABN <a href="http://www.search.asic.gov.au/cgi-bin/gns030c?acn=089_038_531&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" target="_blank" class="copyrightLink">70 089 038 531</a><br><br>Site best viewed in Internet Explorer (version 6 and above) at 1024 x 768</small></p>
+        <p align="justify"><b>IMPORTANT :</b> This information has been prepared without taking into account your objectives, financial situation or needs and you should consider if the information is appropriate for you before making an investment decision. Neither InvestSMART Financial Services Pty Ltd nor any of its Related Companies make any recommendations as to the merits of any investment opportunity referred to in its emails or its related websites. Product disclosure statements for financial products offered through InvestSMART can be downloaded from www.investsmart.com.au or obtained by contacting 1300 880 160. You should consider the product disclosure statement before making a decision about the product. All indications of performance returns are historical and can not be relied upon as an indicator for future performance.</p>
+        
+        <center><img src="/images/Logo_Fairfax_Digital.gif" alt="Fairfax Digital" width="95" height="17"></center>
+        
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -745,7 +383,7 @@ document.write('<div id="divStayTopLeft" style="position:absolute">')
 
 
 <script type="text/javascript">
-
+<!--
 /*
 Floating Menu script-  Roy Whittle (http://www.javascript-fx.com/)
 Script featured on/available at http://www.dynamicdrive.com/
@@ -795,11 +433,83 @@ function JSFX_FloatTopDiv()
   stayTopLeft();
 }
 JSFX_FloatTopDiv();
+-->
 </script></div>
+</a></td>
+</tr>
+</tbody></table>
 
 
+<!-- SiteCatalyst code version: H.11.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/includes/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s.pageName="about us:privacy policy"
+s.server=window.location.host
+s.channel="about us"
+s.pageType=""
+s.prop1="about us:privacy policy"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://f2npectin.112.2O7.net/b/ss/f2npectin/1/H.11--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.11. -->
 
 
+<script language="javascript" type="text/javascript">
+<!--
+/*
+********************************************************************
+ This function is called when a user clicks on the "Download PDS/Proscpectus" link
+*********************************************************************
+function OmnitureDownloadTracker(strOfferName)
+{
+var s=s_gi('f2npectin');
+s.linkTrackVars='eVar3,events';
+s.linkTrackEvents='event7';
+s.eVar3=strOfferName;
+s.tl(this,'o','download prospectus pds');
+}
+********************************************************************
+*/
+// -->
+</script>
 
 
-</a><div style="position: absolute; visibility: visible; width: 142px; height: 232px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 101; top: 142px; left: 1px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 1px;">&nbsp;<b class="leftNav">Home</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 22px;">&nbsp;<b class="leftNav">My InvestSMART</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 43px;">&nbsp;<b class="leftNav">Superannuation</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 64px;">&nbsp;<b class="leftNav">Managed Funds</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 85px;">&nbsp;<b class="leftNav">Shares</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 106px;">&nbsp;<b class="leftNav">Tax Strategies</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 127px;">&nbsp;<b class="leftNav">Mortgages</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 148px;">&nbsp;<b class="leftNav">Insurance</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 169px;">&nbsp;<b class="leftNav">Education</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 190px;">&nbsp;<b class="leftNav">About Us &amp; Help</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 204, 0); text-align: left; width: 140px; height: 20px; left: 1px; top: 211px;">&nbsp;<b class="leftNav">Terms of Use</b><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"><img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 133px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 172px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">My Newsletter<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">My Portfolio<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">My Watchlist<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">My TrailCap<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">My Insurance<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">My Alerts<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 115px;">My Details<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 134px;">My Groups<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 153px;">My Requests<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 252px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 250px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Register now to start receiving your FREE email newsletter for ideas, opnions and strategies for the smart investor.<ul><li><a href="/my_newsletter/">Join for Free!</a></li><li><a href="/my_newsletter/unsubscribe.asp">Unsubscribe</a></li><li><a href="/my_newsletter/archive.asp">Archive</a></li></ul></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 222px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 220px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Monitor your net wealth, including shares, funds, cash, property and liabilities. Shares and managed fund prices are updated daily along with automatic dividend and fund distribution tracking. <br><img src="/images/thumbnail_portfolio_manager.gif" width="140" height="82" alt="Portfolio Manager" border="0"></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 72px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 70px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Watchlist allows you to track shares and managed funds of interest.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 177px; height: 182px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 175px; height: 180px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART's TrailCap<sup>TM</sup> pays investors 100% of accumulating trailing commissions exceeding $396 per year.<br><br><img src="/images/TrailCap_small.gif" alt="My TrailCap" border="0"></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Insurance allows you maintain a list of your insurance policies including renewal dates. In conjuncton with the My Alerts email service you can receive reminders of impending policy renewal deadlines.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 112px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 110px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Alerts is an email-based service designed to keep you up-to-date on investment information tailored to your requirements.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 142px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 140px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">A quick 'Do-It-Yourself' administration facility to ensure your personal details (e.g. email address and password) are accurate and up-to-date. Without your proper details we will find it hard to keep you informed.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 172px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 170px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Groups allows you to share a portfolio with other users. This feature may be useful for investment clubs, teachers and students and others wishing to have a collabrative environment in which to monitor shares, options, warrants and/or managed funds.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 132px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 130px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Requests allows you to see all the Prospectuses/Product Disclosure Statements (PDS) that you have requested via post or downloaded via the InvestSMART website.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 96px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Overview<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Super Choice<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Rollover My Super<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Find My Super<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Employer Super<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Super Choice gives employees the freedom to choose their own super fund, putting them in control of their retirement savings.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Super Choice gives employees the freedom to choose their own super fund, putting them in control of their retirement savings.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 137px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 135px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">It is a good idea to consolidate all your Superannuation accounts into one. By doing this you can save time and money and be in a better position to keep track of your investments.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">SuperSeeker is an online tool that will look for your lost Superannuation in real time and instantly provide you with possible matches.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 142px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 140px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Employer Super through InvestSMART provides you with an online superannuation service, designed to take advantage of internet technology to make your company's super administration easier.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 134px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">100% Entry Fee Rebate<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Funds in Focus<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Find a Fund<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Most Popular Funds<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Re-rated Funds<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">Wraps &amp; Master Trusts<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 115px;">Margin Lending<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 187px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 185px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Many funds charge standard entry fees. These fees are usually paid as a commission to advisers and other intermediaries who introduce investors to the funds. Whenever InvestSMART receives such a fee, we rebate 100% to the investor in the form of extra units in the relevant fund.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 132px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 130px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART regularly provides you with the opportunity to invest in exciting managed funds that are either new or have an outstanding performance track record.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 112px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 110px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">An easy to use facility to search for and compare managed funds. Compare on management fees, performance and asset class.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 112px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 110px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Take a look at what are the most popular funds according to InvestSMART's members.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 112px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 110px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">It is not only important to research your investments, it is also important to keep track of recent research upgrades and downgrades to make better informed decisions.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 182px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 180px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Wrap Services and Master Trusts are facilities allowing you channel a lump sum of money into several different funds (and other assets), managed by several different fund managers. Having all your investments under the one roof also means you get consolidated reporting.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Margin Lending - also known as gearing or leveraging a portfolio - means borrowing against your existing shares and managed funds to invest in more assets. It can be an effective way of speeding up wealth creation.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 115px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Online Share Trading<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Companies in Focus<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Floats<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Research<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Dividend Timetable<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">Margin Lending<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 118px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 116px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Our Online Share Trading partnership gives you all the convenience and affordability of trading online - with the option to speak to an adviser and trade offline.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 132px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 130px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART regularly provides you with the opportunity to invest in exciting new investment opportunities such as IPOs and other capital raisings.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 192px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 190px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Australia's most comprehensive database of floats/IPOs - both past and present. This section includes features such as... <li><a href="/floats/UpcomingFloats.asp">Upcoming Floats</a></li><li><a href="/floats/FloatScoreboard.asp">Float Scoreboard</a></li><li><a href="/broker_scoreboard/BrokerScoreBoard.asp">Broker Scoreboard</a></li><li><a href="/boardroom/boardroom_search.asp">Boardroom Directory</a></li><li><a href="/corporate_services/CorporateServices.asp">Services Directory</a></li></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 182px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 180px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Tools and information to assist you with your equities-based research. Features include...<li><a href="/broker_consensus/">Broker Consensus</a></li><li><a href="/director_interest/">Change in Director Interest</a></li><li><a href="/company_announcements/">Company Announcements</a></li><li><a href="/shares/indices/summary.asp">Market Indices</a></li></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 92px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 90px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">An easy to understand calendar of upcoming dividends for all ASX listed companies.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Margin Lending - also known as gearing or leveraging a portfolio - means borrowing against your existing shares and managed funds to invest in more assets. It can be an effective way of speeding up wealth creation.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 77px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Overview<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Agribusiness Explained<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Tax Effective Investments<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Margin Lending<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Reviewing your tax planning is critical in optimising long-term wealth creation and short-term tax minimisation. This section reviews some of the issues to consider with your adviser at financial year-end.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 82px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 80px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Investment in agribusiness can have many rewarding aspects including some signifcant tax benefits.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART regularly provides you with the opportunity to invest in exciting new tax effective investment opportunities.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 142px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 140px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Margin Lending - also known as gearing or leveraging a portfolio - means borrowing against your existing shares and managed funds to invest in more assets. It can be an effective way of speeding up wealth creation.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 115px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Overview<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Which Home Loan?<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Panel Of Lenders<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Fact Sheets<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Free Loan Analysis<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">Apply Online<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 162px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 160px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Understanding your options when it comes to finance is the key to successful investing. If you are ready to buy right now or you are simply evaluating your options, InvestSMART offers a free mortgage broking service to all clients.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Provides the latest information on home loans on the market to help you choose the right loan for your needs.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 122px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 120px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Linking homeowners, investors and business people with the best finance products available from our major banks and a broad range of other lenders.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 107px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 105px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Buying or moving home can be one of the most exciting times of your life. The secret to ensuring that you enjoy this time is to be prepared!</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 117px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 115px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Get a free professional analysis of your existing loans. Confidentially compare your current interest rates and loan structures to the best deals in the market.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 77px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 75px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Complete a free online form to get your loan application process started.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 134px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Overview<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Life Cover<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Total &amp; Permanent Disability<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Trauma<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Income Protection<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">Get a Quote<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 115px;">My Insurance<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Save time by letting InvestSMART get quotes from leading Insurance providers on your behalf.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 82px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 80px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Protection against the financial burden caused by death and terminal illness.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 82px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 80px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Provides a lump sum payment if the insured becomes totally and permanently disabled.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Trauma insurance (also known as Critical illness insurance) provides a cash lump sum in the event of contracting a specified disease or a trauma event such as heart attack, stroke, cancer, kidney failure etc.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 82px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 80px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Provides an income stream if you become totally or partially disabled.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Save time by letting InvestSMART get quotes from leading Insurance providers on your behalf.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 152px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 150px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">My Insurance allows you maintain a list of your insurance policies including renewal dates. In conjuncton with the My Alerts email service you can receive reminders of impending policy renewal deadlines.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 58px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Seminars<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Tools &amp; Calculators<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Glossary<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 92px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 90px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Each year InvestSMART looks to offer a wide variety of seminars around Australia. Check out what's on next.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 132px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 130px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Our tools and calculators are designed to help you choose and compare investment alternatives, show how time affects your investments and effectively manage your financial needs.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 122px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 120px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Our dictionary of terms, names, titles and phrases - used within our website and publications, and in the wider world of business, trading and general finance.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 202px; height: 153px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">About Us<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">In the Media<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Contact Us<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Site Map<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 77px;">Forgotten My Password<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 96px;">Feedback and FAQs<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 115px;">Technical Overview &amp; Requirements<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 197px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 134px;">Jobs @ InvestSMART<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 193px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 252px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 250px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Incorporated in August 1999, our company (InvestSMART Financial Services Pty Ltd) was set up to operate and build a business aimed at providing Australian retail investors with low cost access to quality financial information and products. It is important to know you are dealing with a competent, honest and diligent licensed securities dealer. Find out more about the people behind InvestSMART.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Articles, publications and television coverage of InvestSMART Financial Services.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 192px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 190px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Phone : 1300 880 160<br>Fax : &nbsp;&nbsp;&nbsp;&nbsp;1300 880 260<br>Mail : &nbsp;&nbsp;&nbsp;&nbsp;GPO Box 4477<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sydney NSW 2001<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australia</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 72px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 70px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">An easy to understand map of our products and services.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 92px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 90px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">A quick 'Do-It-Yourself' administration facility in case you've forgotten your password.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Read some quick answers to many of the questions we generally receive, or complete the feedback form to contact us.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 92px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 90px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">An overview of the technical requirements to get the most out of the InvestSMART website.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 92px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 90px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">Like working in a dynamic envirnoment? Well a job at InvestSMART will offer this and much more.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 77px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Terms &amp; Conditions of Use<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 20px;">Fee Disclosure<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 39px;">Privacy Policy<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 147px; height: 16px; padding-left: 3px; padding-top: 2px; left: 1px; top: 58px;">Dispute Resolution<img src="/images/blank.gif" style="position: absolute; width: 5px; height: 10px; top: 4px; left: 143px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 108px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 106px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">By entering and using our site, you acknowledge that you have read, understood and agree to be bound by our terms and conditions</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 177px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 175px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART believes in continuous disclosure to it's clients. It is your money, and you have the right to know what part of it is going towards fees. We choose to rebate most fees to our clients, but we do receive some fees from product providers.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">InvestSMART is committed to your privacy. The following discloses our information gathering and dissemination practices for this website.</td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 102); width: 152px; height: 102px; font-family: Arial, Verdana; font-weight: normal; font-style: normal; font-size: 11pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 102); background-color: rgb(255, 204, 0); text-align: left; width: 150px; height: 100px; left: 1px; top: 1px;"><table border="0" width="100%"><tbody><tr><td width="100%" valign="middle"><img border="0" src="/images/help_icon.gif" align="absmiddle" width="16" height="16">&nbsp;&nbsp;<b>About...</b></td></tr><tr><td width="100%">To lodge a complaint against InvestSMART please follow our Dispute Resolution process for immediate action.</td></tr></tbody></table></div></div></body></html>
+<script language="javascript" type="text/javascript">
+<!-- Yahoo! Search Marketing Australia & NZ
+window.ysm_customData = new Object();
+window.ysm_customData.conversion = "transId=,currency=,amount=";
+var ysm_accountid  = "1RIVACTVCBUN3Q7P9CTO0D6OUQK";
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " + "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid + "></SCR" + "IPT>");
+// -->
+</script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1RIVACTVCBUN3Q7P9CTO0D6OUQK"></script>
+
+
+</body></html>
