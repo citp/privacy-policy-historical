@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2007-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070103182421id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102065648id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,4 +87,4 @@ If you have a privacy concern regarding Motive or this policy and if you cannot 
 
 [Last Updated: 09/07/2006]
 
-Copyright © 2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express written consent of Motive. Please read our [privacy policy](https://web.archive.org/privacy.asp). 
+Copyright © 2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express written consent of Motive. Please read our [privacy policy](https://web.archive.org/privacy.asp) and [recent security bulletin](https://web.archive.org/securitybulletin_08122007.asp). 
