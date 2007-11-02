@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2007-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070103182421id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2007-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071102065648id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>		
 					
@@ -11,9 +11,9 @@
 		<meta name="robots" content="index,follow">
 <!--http://www.motive.com/-->
 <!--Run Location : PROD-->
-<!--remote Address : 216.110.85.134-->
-<!--remote Host : 216.110.85.134-->
-<!--Machine : www-2-->						
+<!--remote Address : 64.186.184.51-->
+<!--remote Host : 64.186.184.51-->
+<!--Machine : www-1-->						
 		<link rel="stylesheet" type="text/css" href="/include/css/styles.css" media="screen,print">
 		<!--[if lte IE 6]>
 		<link rel="stylesheet" href="/include/css/lteie6.css" type="text/css" media="screen,print">
@@ -30,6 +30,13 @@
 			var rootURLIR = "http://ir.motive.com";
 			var section = "";					
 		</script>
+        <script type="text/javascript">
+      <!--
+        function goto_URL(object) {
+            window.location.href = object.options[object.selectedIndex].value;
+        }
+      //-->
+      </script>
 		
 			<script language="javascript" src="/include/clientFunctions.js" type="text/javascript"></script>
 			<script language="javascript" src="/include/topNav.js" type="text/javascript"></script>
@@ -62,19 +69,27 @@ var searchresults = "";
 	<div id="top-logo">
 		<a href="/" name="&amp;lid=Motive"><img src="/images/ENG/header/logo_motive.gif" alt="MOTIVE"></a>
 	</div>
-	<div id="top-search">
+
+    <div id="top-search">
 		
 		<!-- BEGIN SEARCH -->			
-		<form name="search" style="padding:0px;margin:0px;" action="http://www-search.motive.com/search" method="get">		
-	        <input type="hidden" name="site" value="www">
+        <table border="0"><tbody><tr><td><form style="padding:0px;margin:0px;">
+<select name="selectName" onchange="goto_URL(this.form.selectName)">
+<option value="" selected="">Select a language
+</option><option value="index.asp">English
+</option><option value="../simplified_chinese/index.html">Simplified Chinese
+</option><option value="../spanish/index.html">Spanish
+</option></select>
+</form>
+</td><td><form name="search" style="padding:0px;margin:0px;" action="http://www-search.motive.com/search" method="get">	
+			<div class="label">SEARCH </div>
+			<div class="search"><input name="q" type="text"><input type="hidden" name="site" value="spanish">
 	        <input type="hidden" name="client" value="www">
 	        <input type="hidden" name="proxystylesheet" value="www">
-	        <input type="hidden" name="output" value="xml_no_dtd">
-			<div class="label">SEARCH</div>
-			<div class="search"><input name="q" type="text"></div>
-		</form>				
+	        <input type="hidden" name="output" value="xml_no_dtd"></div>
+		</form>				</td></tr><tr></tr></tbody></table>
 		<!-- END SEARCH -->
-		
+				
 	</div>	
 	<div id="top-nav">		
 		
@@ -128,7 +143,7 @@ var searchresults = "";
 							<ul>
 								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-irhome" name="&amp;lid=//About Motive//Investor Relations//Corporate Profile">Corporate Profile</a></li>
 								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-stockQuote" name="&amp;lid=//About Motive//Investor Relations//Stock Information">Stock Information</a></li>
-								<li><a href="/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//About Motive//Investor Relations//Recent News">Recent News</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&p=irol-news" name="&amp;lid=//About Motive//Investor Relations//Recent News">Recent News</a></li>
 								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-secD" name="&amp;lid=//About Motive//Investor Relations//SEC Filings">SEC Filings</a></li>
 								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-govHighlights" name="&amp;lid=//About Motive//Investor Relations//Corporate Governance">Corporate Governance</a></li>
 								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-analysts" name="&amp;lid=//About Motive//Investor Relations//Analysts">Analysts</a></li>
@@ -142,9 +157,9 @@ var searchresults = "";
 				</li>		
 				<li><a title="News and Events" href="/newsevents/newsevents.asp" hbxrootmenuid="//News and Events" hbxrootmenuorientation="down" name="&amp;lid=//News and Events" class="last"><img src="/images/ENG/nav/newsevents.gif" alt="News and Events"></a>
 					<ul class="smaller">
-				    <li><a class="smaller" href="/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//News and Events//Press Releases">Press Releases</a></li>
+				    <li><a class="smaller" href="http://ir.motive.com/phoenix.zhtml?c=123001&p=irol-news" name="&amp;lid=//News and Events//Press Releases">Press Releases</a></li>
 				    <li><a class="smaller" href="/newsevents/coverage/coverage.asp" name="&amp;lid=//News and Events//Coverage">Coverage</a></li>		     
-				    <li><a class="smaller" href="/newsevents/events/events.asp" name="&amp;lid=//News and Events//Events">Events</a></li>
+                    <li><a class="smaller" href="/newsevents/events/events.asp" name="&amp;lid=//News and Events//Upcoming Events">Upcoming Events</a></li>
 				    <li><a class="smaller" href="/newsevents/presskit/presskit.asp" name="&amp;lid=//News and Events//Press Kit">Press Kit</a></li>
 				    <li><a class="smaller" href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-alerts" name="&amp;lid=//News and Events//E-mail Alerts">E-mail Alerts</a></li>
 				    <li><a class="smaller" href="/newsevents/prcontacts/prcontacts.asp" name="&amp;lid=//News and Events//PR Contacts">PR Contacts</a></li>
@@ -298,7 +313,7 @@ If you have a privacy concern regarding Motive or this policy and if you cannot 
 		</div>
 	</div>
 	<div id="boiler-plate">
-	Copyright © <script language="JavaScript" type="text/javascript">document.write(this_year)</script>2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express  written consent of Motive. Please read our <a href="/privacy.asp">privacy policy</a>.
+	Copyright © <script language="JavaScript" type="text/javascript">document.write(this_year)</script>2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express  written consent of Motive. Please read our <a href="/privacy.asp">privacy policy</a> and <a href="/securitybulletin_08122007.asp">recent security bulletin</a>.
 	</div>
 
 </div></div>
