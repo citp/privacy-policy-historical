@@ -1,94 +1,117 @@
-> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527112314id_/http%3A//www.fair-exchange.com/privacy.asp%3FSID%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair-exchange.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102103956id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
 
-# Fair-Exchange.com - Privacy Policy
+# Fair Exchange Privacy Policy
 
-**PDV Ltd takes the protection of your privacy very seriously**
-
-**In short**
-
-We promise our users that we will:   
+Privacy Policy Last updated August 2007.  
 
 
-  * Guard your personal privacy
+PDV Ltd operates the Fair Exchange Programme and is the Data Controller.
+
+PDV Ltd takes the protection of your privacy very seriously and this Privacy Policy sets out how PDV Ltd will use the information you have provided through your interaction with any of the Fair Exchange data collection properties*.
+
+PDV is registered in the United Kingdom under the Data Protection Act 1998 (registration Z720633X) and we adhere to the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+
+PDV Ltd is a full member of the Direct Marketing Association (DMA).
+
+PDV’s registered office is Monmouth House, 40 Artillery Lane, London, E1 7LS, is registered in England under the Companies Act 2006 under registration number Z720633X. VAT registration number is 761423151
+
+We promise our users that we will: 
+
   * Protect any personal data that we gather
-  * Adhere to the principals of permission marketing
-  * Be clear about how we use information
+  * Adhere to the principles of permission marketing
+  * Be clear about how we use the information we collect
   * Deal promptly and honestly with any complaints about our practices
   * Be a champion of consumer data protection
-  * Endeavour to provide you with a highly personalised experience
+  * Endeavour to provide you with a personalised experience
 
 
 
-And that we will not:   
+And that we will not 
+
+  * Send you offers without your permission
+  * Release personal information about you unless it is 
+    * With your permission
+    * To a third party who works with us under strict contractual terms to deliver our service to you
 
 
-  * Send you offers without your permission.
-  * Release personal information about you unless it is a) to a third party Agent who works with us to deliver our service to you, or b) with your permission.
+
+Our websites will form the Fair Exchange Programme* are:
+
+Chooseaprize.com, Thedailydraw.com, Scratchandmatch.com, Fruitillion.com,Strikermillion.com, Prizetag.com, Winaflat.com, Winferraris.com, Fair-exchange.com, free-dvd-club.com
+
+Information about you will be collected initially when you join the Fair Exchange Programme and will involve contact information (e.g. age and gender). This information will be used to identify offers that may be of interest to you.
+
+Through your interaction with the Fair Exchange Programme, there may be occasions where additional personal information is collected through surveys, questionnaires, offers or competitions. In these circumstances this information provided by you may be shared with our commercial partners. The use of this information will always be explained to you at the time at which you are asked to provide it and will not be used without your permission.
+
+Our websites provide links to our partner sites. These links will lead you to websites operated by third parties that operate under different Privacy Policies. Should you choose one of these links you will be leaving a PDV Ltd site for a site over which we have no control and we therefore accept no liability once you have left one of our sites.
+
+PDV Ltd recommends that you read and understand this information.
+
+PDV Ltd works with many partners to deliver offers to you that we believe may be of interest given the information you have provided.
+
+By joining the Fair Exchange Programme through any of our data collection properties*, you are agreeing that you are happy for us and our partner companies to use your details to decide which offers may suit you best and then to get in touch with you about these offers, via whichever communication channels you have given us permission to use; post, e-mail, text or telephone.
+
+PDV Ltd may, from time to time, use third party suppliers to provide all of part of its service to you. PDV Ltd shall only be entitled to disclose such of your personal information as is necessary to enable them to provide the relevant service to you. In some circumstances, such outside service providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal data than that provided under English Law. In such circumstance, PDV Ltd. will have in place contractual arrangements which will require your data to be processed securely at least to a standard compliant with the Data Protection Act 1998.
+
+PDV Ltd strongly supports the principles of ‘permission marketing’ and will only send communications from itself and its partners where we have your permission to do so.
+
+When you first register with us you agree to receive e-mails and can choose to receive postal communications, text and phone communications.
+
+We hope you will enjoy the communications we send you, but if at any time you change your mind, you may withdraw these permissions AT ANY TIME by either:
+
+  * Going to our ‘My Profile’ page within any of our sites and ticking the relevant ‘NO’ box.
+  * Using the ‘unsubscribe’ link on any of the messages we send you.
 
 
 
-**In a little more detail:**
+If you prefer you may change your mind by writing to: The Data Protection Compliance Officer, PDV Ltd, FREEPOST, Monmouth House, 40 Artillery Lane, London E1 7LS.
 
-_General_
+If we do do not hear otherwise from you, we will assume that the information you provide to us is accurate and up-to-date and we will continue to use the information to send you the communications you have requested.
 
-The Fair Exchange programme and all of the sites within it are operated by PDV Limited, Monmouth House, 40 Artillery Lane, London E1 7LS.
+Please note that PDV Ltd will act in accordance with the Data Protection Act 1998 and remove your permission as promptly as possible but you could continue to receive communications for a short period of time whilst this change is actioned.
 
-PDV Ltd has developed this privacy policy to demonstrate our firm commitment to our users’ personal privacy. It outlines the types of information that we gather and our practices for how we use it. PDV Ltd is dedicated to continually improving our service and providing you with an experience tailored to your interests and requirements. We gather information when you register such as contact information (i.e. name and email address) and demographic information (like address or age). We use this information as well as other profile data gathered during your use of our games to build a picture of your interests and preferences. This profile allows us to confirm your entries, filter the advertising that we show you and sometimes develop specific offerings based on your personal preferences. 
+You have a right under the Data Protection Act 1998 to see what information we hold about you, subject to certain conditions. 
 
-We are registered under the Data Protection Act (Registration Z720633X) and we adhere to the Privacy and Electronic Communications Directive. We are members of the Direct Marketing Association (DMA).
+Our websites provide you with direct access to your personal data which you may update at any time but should you make an application to us in writing, we may ask you to provide us with sufficient information so that we can be sure that you are who you say you are as we cannot act on requests for access to personal data from third parties. We also reserve the right to make a small charge for providing you with the information you are requesting. 
 
-_Permission and Unsubscribing_
+If you would like to proceed with a request to see what data we hold about you, please write to the Data Protection Compliance Officer, PDV Ltd, Monmouth House, 40 Artillery Lane, London E1 7LS..
 
-We only show you advertiser messages when you give us permission to do so. When you first register with us you agree to receive e-mails and you may also choose to receive postal direct mail and mobile phone offers.
+When you give your personal data to PDV Ltd we will process that data in accordance with our responsibilities under the Data Protection Act 1998, and the Privacy and Electronic Communications (EC Directive) 2003 and other legislation if it is relevant.
 
-You can withdraw these permissions AT ANY TIME by either a) going to your 'My Profile' page within any of our sites and ticking the appropriate 'No' box(es) or b) using the unsubscribe link from ANY of the messages that we send you.
+We will keep your data safe and secure. To prevent unauthorised access, maintain data accuracy and ensure the correct usage of information, we monitor and adjust our physical, electronic and managerial procedures to safegard and secure your personal data while in our care, or in the care of any outside suppliers with whom we may contract to process your data on our behalf. 
 
-_Security_
+Whilst we strive to protect your personal information, the internet is not a 100% secure medium for communication and, accordingly, PDV Ltd cannot guarantee the security of any information you send PDV via the internet. PDV Ltd is not responsible for any loss or damage that you or others may suffer as a result of loss of confidentiality of such information.
 
-Under the UK's Data Protection regime, we are required to have effective security measures in place to ensure that no one is able to gain unauthorised access to any personal information that we hold about you. We may need to require proof of identity before we are able to disclose any information covered by the relevant legislation to you. If we change or amend our privacy policy, we will notify you by posting changes on the relevant site.
-
-_Handling Your Information_
-
-We work with advertisers to deliver targeted advertising to you, but we generally do this without sharing your personal information with them. They let us know the kind of audience they want to reach and provide us with the advertising material for us to deliver. Consequently, your personal information is not and cannot be accessed by advertisers without your permission.
-
-In specific instances, where advertisers wish to collect your personal data (e.g. on prize draw questionnaires), we pass it on to them ONLY after you have given us your permission to do so. We make this option and process very clear to you at the time that you are asked to provide the information.
-
-In some instances we may pass your information to other companies involved in its processing but in these cases such companies are contracted to us and are under strict restrictions on the secure handling of your information. Where such a company is outside of the European Economic Area, we have in place a contractual agreement that commits such a company to a level of data protection probity acceptable within EU requirements. In all instances in which your information is processed by companies contracted to PDV, we remain responsible throughout.
-
-We may also disclose certain statistics on an aggregated and anonymous basis to our partners and other carefully selected companies so that we and they can provide you with offers and services tailored to your interests and requirements.
-
-You can view the majority of the information that we hold about you simply by looking at your 'My Profile' page within the site. You can also request a copy of the information that we hold about you by mailing us – 
-
-[_subjectaccess@pdvltd.com_](mailto:subjectaccess@pdvltd.com)
-
-and specifying your name and the e-mail address with which you are registered with us. We will provide the information within 40 days.
-
- _Cookies, Tags and Web Beacons_
+You must type in a correct password to access your Fair Exchange account and details. It is your responsibility to ensure the security of your Fair Exchange password and not to reveal this information to others.
 
 Cookies are small files of letters and numbers downloaded onto your computer when you access certain websites. Cookies unlock a computer’s memory allowing sites to recognise users when they return to a site. Like a key, a cookie itself does not contain information but when it is read by a browser it can help a website identify you and your requirements.
 
-We use cookies as a means of limiting the number of times that you will see a particular ad (a process called frequency capping). We do this to try and ensure that you see the best range of ads possible for your interests. 
+PDV Ltd uses cookies as a means of limiting the number of times you may see a certain advertisement on your screen (a process called frequency capping) to ensure that you see the best range of relevant offers and adverts.
 
-We also use 'web beacons' as a means of tracking whether or not you open your e-mails from us. The 'open' information is used to assess whether or not the message has been effective both for you and for our advertisers. The information is retained and used by us in deciding the most appropriate offers to be made to you in future.
+PDV Ltd also uses ‘web beacons’ as a means of tracking whether or not you open e-mails from us. This information is used to assess whether the message has been effective, both for you and us or our partners. The information is retained by us and used in deciding the most appropriate offers to be made to you in the future.
 
-In some cases, we also track the pages visited when you click through from our site to an advertiser's site. Note that this information is a) ANONYMOUS (no personal information is released nor can it be derived from the coded profile information that is released) and b) restricted only to the sites of selected advertisers; we do not track (by this or any other method) pages you visit on the general internet. 
+In some cases, we also track the pages visited when you click through from Fair Exchange to one of our partner sites. Note that this information is
 
-Some of the websites that we advertise with require us to use cookies or action tags (also known as single pixel gifs, web beacons or IMG tags). These action tags provide these websites with the aggregate number of registrations that they have provided us with. This allows them to evaluate the effectiveness of their advertising. In some instances (e.g. reward schemes or affiliate networks) we will pass back your email address to such companies as part of this assessment and the provision of rewards for you. The specific details should be explained in the 'privacy policy' or 'conditions of use' pages of these sites. None of your other personal details are passed back.
+  * Anonymous – no personal information is released or can be derived from it
+  * Restricted only to our sites and the sites of our partners. We do not track pages you visit on the general internet.
 
-Some of the websites that advertise with us via the game and via e-mails may use cookies within their sites. We will tell you about these before you make the choice to visit their site.
 
-You may decide how you wish cookies to be used or you may wish to reject them. You can make and action this choice within your computer and you can easily delete cookies that have been installed in the cookie folder of your browser. For example if you are using Microsoft Windows Explorer: 
 
-> Open 'Windows Explorer'   
->  Click on the 'Search' button on the tool bar   
->  Type "cookie" into the search box for 'Folders and Files'   
->  Select 'My Computer' in the 'Look In' box   
->  Click 'Search Now'   
->  Double click on the folders that are found   
->  'Select' any cookie file   
->  Hit the 'Delete' button on your keyboard   
-> 
+Some of the partners that we advertise with require us to use cookies or action tags. These action tags provide those websites with the aggregate number of registrations to enable them to evaluate the effectiveness of their advertising. In some instances, we will pass back your email address to such companies as part of this assessment and the provision of rewards to you. The specific details should be explained in the ‘Privacy Policy’ or ‘Conditions of Use’ page of the partner sites. 
 
-If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder.
+Some of the partner websites that advertise with us via our games, competitions and e-mails may well use cookies within their sites.
 
-If you disable cookies it will mean that we are unable to limit the number of times that you see an ad within our games but it will NOT restrict your participation or your chances of winning.
+You may decide how you wish cookies to be used. You can make and action this decision within your computer and you can easily delete cookies that have been installed in the cookie folder of your browser.
+
+Most industry-standard web browsers have an option that allows you to turn off all cookies or have your computer inform you each time that a request to place a cookie is being made. If you turn cookies off (or refuse to accept a request to place a cookie) you may not have access to some features on our websites and our partners’ websites and you may lose the functionality of locating some of our services.
+
+If you would like more information about cookies and how to control them no matter what version and which software you are using, go to  
+www.allaboutcookies.org 
+
+PDV Ltd is not liable for information that is inaccurate due to technical defects in software used on our websites, whether induced by our systems or by software provided by third parties.
+
+By using our websites you signify your acceptance of this Privacy Policy. PDV Ltd reserves the right to modify, alter or otherwise update this policy at any time. Visitors are encouraged to review this policy from time-to-time to stay abreast of any changes. Your continued use of our websites following the posting of any changes to this policy means you accept those changes. 
+
+This Privacy Policy was last updated in July 2007 and PDV Ltd will undertake to revise the ‘last updated’ statement at the top and bottom of the Privacy Policy in the event of any changes to the Policy in the future.
+
+Last Updated August 2007.
