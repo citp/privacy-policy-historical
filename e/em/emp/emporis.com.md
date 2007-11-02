@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622001501id_/http%3A//buildings.emporis.com/%3Fnav%3Dbuildingsprivacystatement%26lng%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102163717id_/http%3A//buildings.emporis.com/%3Fnav%3Dbuildingsprivacystatement%26lng%3D3) for the most accurate reproduction.*
 
-# Privacy Statement / Emporis Buildings
+# Privacy Statement / Emporis.com
 
 Privacy Statement
 
@@ -20,5 +20,7 @@ The sites belonging to Emporis contain links to other websites. Please note that
 
 The foregoing policies are effective as of May 31, 2005. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.    
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+For questions about our privacy policy or issues in regard of how Emporis processes and stores personal information: [Send e-mail to our Data Protection Officer](http://corporate.emporis.com/?nav=feedbacktoemporis&lng=3&topic=24)    
 
