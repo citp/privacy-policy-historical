@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623014335id_/http%3A//www.snapsurveys.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102205249id_/http%3A//www.snapsurveys.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Snap Surveys | Privacy Policy
+# Privacy Policy
 
 Our Privacy Policy describes how we capture and use the information we gather about visitors to this website. The Policy covers the type of information collected, how it is collected, how it can be amended or deleted, user registration, web-tracking, online surveys and newsletter subscription.
 
