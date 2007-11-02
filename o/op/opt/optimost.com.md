@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092216id_/http%3A//www.optimost.com/privacywebsite.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102142200id_/http%3A//www.optimost.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy for this Web Site - Use multivariate testing to improve conversion rates on landing pages, splash pages, jump pages, and any other web page - Optimost
+# Privacy Policy | Optimost
 
 Optimost LLC ("Optimost") respects your privacy and we are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit our site. This privacy policy lets you know how we will use and protect that information. The information that we receive depends on what you do during your visit, and what service(s) you request. 
 
@@ -25,13 +25,13 @@ Our Web pages and the Web pages of our Optimost clients contain electronic image
 **Personal Information**  
 At some Optimost Properties, including this one, Optimost collects personal information on individuals and companies who want to enter into business relationships with Optimost ("business information"). An example of this would include Web sites who want to use Optimost's technology on their site. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. 
 
-Additionally, at some of the Optimost Properties, we may ask people to register and provide personally identifiable data. Examples of personally identifiable data that may be requested include name, address, and email address. web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by contacting us via the [Contact Us](https://web.archive.org/contact_us.phtml) page or the methods outlined below.
+Additionally, at some of the Optimost Properties, we may ask people to register and provide personally identifiable data. Examples of personally identifiable data that may be requested include name, address, and email address. web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by contacting us via the [Contact Us](https://web.archive.org/contact.php) page or the methods outlined below.
 
 With respect to personally identifiable information, Optimost may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing an Optimost product or service.
 
 Optimost may also share personally identifiable information with third parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf, and others such as non-profit organizations. We may also disclose information to a third party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. 
 
-Optimost allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. Please contact us via the [Contact Us](https://web.archive.org/contact_us.phtml) page or via the methods outlined below.
+Optimost allows consumers who have voluntarily provided personally identifiable data access to their data to ensure that it is correct and to make any changes. Please contact us via the [Contact Us](https://web.archive.org/contact.php) page or via the methods outlined below.
 
 **Legal Disclosures**  
 There are certain situations where we may disclose your personal information to others without first receiving your consent. These may include: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of Optimost or those of Optimost's clients, (4) under exigent circumstances to protect the physical safety of Optimost, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company's assets or the sale of an entire Web site or business division or (6) in order to validate credit card numbers for charging for fee services.
@@ -51,7 +51,7 @@ Our site may link to other sites not controlled by Optimost. Although we exercis
 Optimost works with several third party hosting services, including Akamai and Logicworks to host our web servers. This type of relationship is common in the delivery and administration of services such as Optimost.
 
 **Children's Privacy**  
-Optimost is very sensitive to the issue of children's privacy. If you believe your child has provided Optimost with personally identifiable data, or registered at one of the Optimost Properties, and you would like to have the data removed, please contact us via the [Contact Us](https://web.archive.org/contact_us.phtml) page, or via the methods outlined below. 
+Optimost is very sensitive to the issue of children's privacy. If you believe your child has provided Optimost with personally identifiable data, or registered at one of the Optimost Properties, and you would like to have the data removed, please contact us via the [Contact Us](https://web.archive.org/contact.php) page, or via the methods outlined below. 
 
 **A Special Note About the European Union**  
 European Union web surfers understand and consent to the processing of personal information in the United States. 
@@ -69,14 +69,12 @@ The issue of privacy is an evolving one. Optimost is committed to the constant m
 By using our sites, you signify your agreement to the privacy polices described above. If you do not agree with our privacy policies, please do not use our sites. 
 
 **Contacting Us**  
-For more information, or if you have questions or concerns regarding Optimost's Privacy Policy, please contact us via the [Contact Us](https://web.archive.org/contact_us.phtml) page, or you can send correspondence to the following address: 
+For more information, or if you have questions or concerns regarding Optimost's Privacy Policy, please contact us via the [Contact Us](https://web.archive.org/contact.php) page, or you can send correspondence to the following address: 
 
 Privacy  
 Optimost LLC  
-750 Third Avenue, 16th Floor  
+300 E. 42nd Street, 11th Floor  
 New York, NY 10017   
 
 
 Or email us at [privacy@optimost.com](mailto:privacy@optimost.com). 
-
-See also the [Privacy Policy for Our Services](https://web.archive.org/privacyservice.phtml) and [Web site Terms and Conditions](https://web.archive.org/termswebsite.phtml)
