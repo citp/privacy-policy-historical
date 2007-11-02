@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405065637id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102023136id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Brunswick Bowling
 
@@ -41,11 +41,17 @@ NASCAR is a registered trademark of the National Association For Stoc Car Auto R
 PEPSI and the PEPSI Globe design are registered trademarks of PepsiCo, Inc.   
 © Coors Global Properties, Inc. (2005) Coors Trademarks are properties of Coors Global Properties, Inc, used under license by Brunswick.  
 Bruswick/MLBP 2005. ©2005 Miller Brewing Company © 2005 Orange County Choppers, Inc. All rights reserved.  
-TM & ©2005 Hanna-Barbera.   
+TM & ©2005 Hanna-Barbera. 
+
+  
 THE SIMPSONS TM and © 2005.   
 20th Century Fox Film Corporation. All rights reserved. TM & ©2005 Warner Bros. Entertainment Inc.  
 ©2005 King Features Syndicate,Inc./Fleischer Studios, Inc. TM Heart Holdings,Inc./Fleischer Studios,Inc.   
-We make no claim to the trademarks of others. 
+
+
+Shrek is a registered trademark of DreamWorks Animation L.L.C. Shrek The Third TM & © 2007 DreamWorks Animation L.L.C.
+
+We make no claim to the trademarks of others.
 
 **Agreement to be Bound**. 
 
