@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertical-leap.net privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429164700id_/http%3A//www.vertical-leap.net/usa-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.net privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103083832id_/http%3A//www.vertical-leap.net/usa-privacy-policy.asp) for the most accurate reproduction.*
 
 # Vertical Leap's Privacy Policy - USA
 
@@ -14,7 +14,7 @@ Vertical Leap is committed to maintaining the trust and confidence of its custom
 **What is Vertical Leap’s business?**  
 Vertical Leap Ltd provides a fully managed search engine marketing service for its clients with the express aim of improving their website’s ranking positions in the main organic search engines such as Google and MSN.
 
-The following documents describe our privacy practices for www.vertical-leap.co.uk. It details how we handle the information we gather about visitors to our customers' web sites running Vertical Leap Search Analytics as well as information about our customers' visits to www.vertical-leap.co.uk to retrieve their reports. 
+The following documents describe our privacy practices for www.vertical-leap.net. It details how we handle the information we gather about visitors to our customers' web sites running Vertical Leap Search Analytics as well as information about our customers' visits to www.vertical-leap.net to retrieve their reports. 
 
 If you have visited a site that uses Vertical Leap’s Search Analytics, and desire more information about what anonymous information is collected, what we do and do not do with that information, and how to opt-out, click here: 
 
@@ -60,10 +60,10 @@ Your visitors can also reject cookies. If a visitor to your web site rejects coo
 Vertical Leap’s registration form requires users who sign up for the search engine marketing service to give us contact information (such as their name, telephone and e-mail address). At no point will this information be sold, rented or in any way released without your express permission.
 
 **Principle 6 – Access to Personal Information Stored at Vertical Leap**  
-Customers have access to personal information about them that Vertical Leap holds in the Apollo database through the web-based administrative console located at http://www.vertical-leap.co.uk/signin customers can correct this information where it is inaccurate. This is the only place that a customer must change their information to ensure full functionality of the Vertical Leap service. 
+Customers have access to personal information about them that Vertical Leap holds in the Apollo database through the web-based administrative console located at http://www.vertical-leap.net/signin customers can correct this information where it is inaccurate. This is the only place that a customer must change their information to ensure full functionality of the Vertical Leap service. 
 
 **Principle 7 - Opting Out**  
-Individuals may opt-out of receiving future marketing e-mailings from Vertical Leap. To remove your name from our e-mail list, please go to http://www.vertical-leap.co.uk/ 
+Individuals may opt-out of receiving future marketing e-mailings from Vertical Leap. To remove your name from our e-mail list, please go to http://www.vertical-leap.net/ 
 
 **Principle 8 – Changes to Our Privacy Policy**  
 If Vertical Leap makes any material changes to the way we use your personally identifiable information, we will notify you by e-mail. 
