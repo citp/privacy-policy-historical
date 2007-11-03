@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627002703id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103064804id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
 
-This document was last updated November 19, 2004. 
+This document was last updated July 31, 2007. 
 
 While you can travel through most of our website without giving us any information about yourself, it is sometimes necessary for us to request information so that we may provide services that you request, and this privacy statement explains our data collection practices and use in those situations. Please read the complete ilog.com privacy statement. 
 
@@ -48,8 +48,8 @@ France
 
 Webmaster  
 ILOG, Inc.   
-1080 Linda Vista Avenue   
-Mountain View, CA. 94043  
+1195 West Fremont Ave  
+Sunnyvale, CA 94087-3832  
 United States 
 
 Security of your Personal Information  
@@ -89,6 +89,6 @@ France
 
 Webmaster  
 ILOG, Inc.  
-1080 Linda Vista Avenue  
-Mountain View, CA. 94043  
+1195 West Fremont Ave  
+Sunnyvale, CA 94087-3832  
 United States 
