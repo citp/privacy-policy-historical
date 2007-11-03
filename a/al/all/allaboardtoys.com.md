@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624171616id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103031434id_/http%3A//www.allaboardtoys.com/privacy.asp) for the most accurate reproduction.*
 
 # All Aboard Toys Privacy and Security Policies
 
@@ -10,9 +10,11 @@ All Aboard Toys, LLC ("AAT") created this web site Privacy Policy (the "Privacy 
 
 **b. Personal Information Collected.** In order for a User to access and use certain areas AAT offers via the Site, AAT requires Users to provide AAT with information that personally identifies Users ("Personal Information"). Personal Information may include: (i) Contact Data (such as a User's name, mailing and e-mail addresses); (ii) Financial Data (such as a User's account or credit card number); and (iii) Demographic Data (such as a User's zip code and age). If a User communicates with AAT by e-mail or otherwise completes online forms or surveys, any information provided in such communication may be collected as Personal Information. 
 
-When you purchase products from AAT or register for any AAT services, we automatically place you on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please send an e-mail to [Remove@AllAboardToys.com](mailto:Remove@AllAboardToys.com) and type "Please remove me." in the subject line. If you have registered your personal information on the AAT site, you can login to your account profile and change the information. If you would like to have your shopper account removed, please call Customer Care at 1-866-641-TOYS (8697). 
+When you register for any AAT services where you are given an option to Opt In to a mailing list, we place you on our list to receive e-mail regarding updates about special offers, new products, and new services. If you do not wish to receive e-mail updates, please send an e-mail to [Remove@AllAboardToys.com](mailto:Remove@AllAboardToys.com) and type "Please remove me." in the subject line. If you have registered your personal information on the AAT site, you can login to your account profile and change the information. If you would like to have your shopper account removed, please call Customer Care at 1-866-641-TOYS (8697). 
 
-**c. Data and Reports Compiled or Generated through the Services.** As a part of certain of AAT's services, AAT compiles and stores data and information and generates reports related to User's access to and use of AAT's services ("Service Data and Reports"). 
+**c. Non-personal Information Collected.** AAT offers the Users that ability to submit product and/or service via the Site where certain information may be required. This information shall be considered non-personal ("Non-personal Information") and may include: Nickname, Location, Comments about your experience with the product/service, Images or Video media, and other demographic or descriptive data. 
+
+**d. Data and Reports Compiled or Generated through the Services.** As a part of certain of AAT's services, AAT compiles and stores data and information and generates reports related to User's access to and use of AAT's services ("Service Data and Reports"). 
 
 
 
@@ -20,6 +22,8 @@ When you purchase products from AAT or register for any AAT services, we automat
 **2\. Uses of Information Collected**
 
 AAT uses Contact Data to send Users information about AAT or our products or services, or promotional material from some of our partners, or to contact Users when necessary. AAT uses User's Financial Data to verify User's qualifications for certain products or services and to bill User for products and services. AAT uses User's Demographic Data to customize and tailor User's experience on the Site, displaying content that AAT thinks a User might be interested in and according to User preferences. AAT may use Service Data and Reports on an aggregate basis for such purposes as AAT deems appropriate. By using the Site, User consents to the collection and use of User's Personal Information and Service Data and Reports by AAT as described in this Privacy Policy. 
+
+We may contract with other companies to provide certain services to AAT to create or maintain our Site. In some instances, these contractors may have access to personally identifiable information but they contractually obligated to maintain the confidentiality of the information and to use it only for purposes of carrying out AAT’s business. For example, when you submit a "product review" to the AAT Site, your information will be received and managed by an independent contractor, PowerReviews, that organizes the reviews and manages that element of the AAT website. Before you submit a review, you should review the "Terms of Use" and "Usage Agreement" so that you can understand the terms and conditions for acceptance and use of your information. 
 
 **3\. User Choice Regarding Collection, Use and Distribution of Personal Information**
 
@@ -43,4 +47,4 @@ The Site may contain links to other web sites. AAT is not responsible for the pr
 
 **8\. Updates and Changes to Privacy Policy**
 
-AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20070624171616id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
+AAT reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. AAT welcomes your comments and questions. Please contact us at [Customer Care.](https://web.archive.org/web/20071103031434id_/http%3A//www.allaboardtoys.com/web_feedback/web_feedback.aspx)
