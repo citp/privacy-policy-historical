@@ -1,52 +1,51 @@
-> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2002-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103171409id_/http%3A//www.uasc.net/policy.asp) for the most accurate reproduction.*
 
-# CLEARSAIL PRIVACY POLICY
+# United Arab Shipping Co.(S.A.G)
 
-| 
+---  
+|  | 
 
-[  
-](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/search.htm)[HOME](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/index.html)  
-[AUTOMOTIVE](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/autos.htm)  
-[BOOKS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/bn.htm)  
-[BUSINESS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/business.htm)  
-[COMPUTERS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/computers.htm)  
-[ENTERTAINMENT](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/entertainment.htm)  
-[FAMILY](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/family.htm)  
-[FINANCE](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/finance.htm)  
-[GAMES](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/games.htm)  
-[GARDENING](http://www.gardenline.com/)  
-[GOVERNMENT](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/government.htm)  
-[HEALTH](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/health.htm)  
-[LOCAL LINKS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/local.htm)  
-[MUSIC](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/music.htm)  
-[RELIGION](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/religion.htm)  
-[RESEARCH](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/research.htm)  
-[SHOPPING](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/shopping.htm)  
-[SPORTS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/sports.htm)  
-[STUDENTS](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/students.htm)  
-[TRAVEL](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/travel.htm)  
-[WEATHER](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/weather.htm) **** ** ** **[©](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/copyright.htm)[ ](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/copyright.htm)******[Copyright 1997-2000](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/copyright.htm)
+   _PRIVACY POLICY_  
 
-| 
 
-**PRIVACY POLICY**
+|   
+---  
+  
+**[www.uasc.com.kw](http://www.uasc.com.kw/)**   is the official website of United Arab Shipping Company, S.A.G.(“UASC”)
 
-ClearSail Communications, LLC ("ClearSail") Privacy Policy
+The statements below embody UASC's privacy and data protection policy.  
 
-ClearSail is committed to respecting the privacy of all our visitors. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personal identifiable information is not extracted in this process. We do not use "cookie" technology (where our servers would download special codes on a visitor's computer). 
 
-ClearSail only collects personally identifiable data, such as: names, addresses, eMail addresses, billing addresses, and credit card numbers when voluntarily submitted by a visitor who requests ClearSail's service, software, or other products or information be sent, either through a download or through the postal or delivery service. The information we collect is used by us to follow up on orders or information requests, and is not shared with other organizations.
+  1. When you register at [www.uasc.com.kw ](http://www.uasc.com.kw/)  UASC collects personal details about you. Personal information such as your name, address, email address and other relevant information is collected via the registration forms. 
 
-ClearSail will respond to visitors who send us eMail to particular addresses, for example, regarding advertising, partnering, or employment opportunities. ClearSail will use the information submitted in those eMails only to respond to the purpose specified by the sender. 
+When you visit the site, we also collect web site usage information, information about your computer and internet connection, including your computer's IP address, the type and version of your browser and the operating system you use, your internet domain and, if you arrived at the UASC website via a link from another website, the URL of the linking page.
 
-ClearSail does not sell or release any information gathered to any third parties. All information gathered will be used only by ClearSail to improve our products, services, and websites, and  for internal marketing analysis. 
+The above information will be used to : 
 
-We reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy. This policy is specific to this site. 
+    * fulfill orders 
+    * notify you of relevant new services offered by UASC and additional features introduced in the website from time to time
+    * personalize the content and advertising you will see based on your personal characteristics and preferences 
+    * notify you of commercially relevant information about UASC, and in relation to the shipping industry 
+    * allow reputable third parties to send you information
+    * ensure, as far as is practical, that our site is compatible with browsers and operating systems used by most visitors
+    * improve UASC's understanding of its customer needs 
+    * build marketing profiles
+    * aid strategic development 
+    * manage our relationship with advertisers
+    * conduct in-house research without revealing personal facts about individual customers  
 
-**A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
 
-ClearSail asks that visitors providing us personal identifiable information to be 18 years of age or older. However, ClearSail believes that parents should supervise their children's online activities and maintain their Internet filtering provided by ClearSail, together with other online services and software manufacturers that help provide a kid-safe online environment. Please instruct your children not to give us their name, address, or eMail address, sign up to receive our software, or provide any other personal information to anyone, without your permission. 
 
-**Use of ClearSail Communications Constitutes Acceptance of Our** ****[](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/index.html)[**_Terms of Service_**](https://web.archive.org/web/20020517044359id_/http%3A//www.uasc.net/cstos.htm) _ ****_ **.  
-**To report a broken or misdirected link, or to suggest a site, contact [**_webmaster_**](mailto:webmaster@clearsail.net).  
-Links are provided for informational purposes only, ClearSail does not endorse any product or service.
+  2. UASC has taken steps to ensure that high standards of data protection are adhered to for all forms of processing outlined in point 1 above. 
+  3. UASC has appropriate measures in place to ensure that user's personal details are not misused, accidentally destroyed, lost or altered within the UASC server environment. 
+  4. Occasions may arise when customer information is passed outside the UASC Group to other data processors (i.e. fulfillment bureaus, database consultants and like entities) but they will only act upon instructions from UASC in order to perform the services required. 
+  5. You are aware that the Internet is a global environment and hence using the Internet to collect and process personal data necessarily involves the transmission of data on a global basis. Hence by browsing this website and communicating electronically with UASC, you acknowledge and agree to our processing of personal data in this way. 
+  6. It is important to UASC that we have your correct contact information so that you do not miss out on further correspondence or experience problems with the delivery of UASC's services offered on this website. 
+  7. Due to changes in legislation and best practice or enhancements to functionality and content on this website we may make further changes to our privacy policy and will reflect the same in this statement. You should therefore check this Privacy Policy from time to time. 
+  8. Third party partners of this website and other websites you may access via [www.uasc.com.kw ](http://www.uasc.com.kw/) have different privacy policies and are not subject to the statements enumerated hereinabove. It is recommended that you read the privacy policy of each such website to find out how they protect your personal information. 
+  9. While UASC makes every possible commercially reasonable effort in ensuring data protection of user information, it does not accept responsibility for any information lost to or gained by third parties through hacking, implanting viruses and other tools to which this website, like any other, may be vulnerable to, despite all the reasonable precautions that UASC has undertaken for the protection of user information.
+
+
+
+[<< Back](https://web.archive.org/web/20071103171409id_/http%3A//www.uasc.net/index.asp)   
+
