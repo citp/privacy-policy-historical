@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609112420id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103120813id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
-# Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
+# www.coffeeforless.com Coffee, Tea and Office Coffee Services
 
 |   
 ---  
