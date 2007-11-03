@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6seconds.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172523id_/http%3A//www.6seconds.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6seconds.org privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103020102id_/http%3A//www.6seconds.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy from Six Seconds
 
