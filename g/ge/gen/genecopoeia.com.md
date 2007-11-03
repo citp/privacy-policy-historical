@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genecopoeia.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209153650id_/http%3A//www.genecopoeia.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genecopoeia.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104001422id_/http%3A//www.genecopoeia.com/about/privacy.php) for the most accurate reproduction.*
 
 # GeneCopoeia Privacy Practices
 
