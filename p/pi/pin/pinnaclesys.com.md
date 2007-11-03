@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622040751id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103141813id_/http%3A//apps.pinnaclesys.com/cdb/register/privacy_policy.aspx%3FLangue_ID%3D7) for the most accurate reproduction.*
 
 # Pinnacle Systems is the Leader in Digital Video
 
