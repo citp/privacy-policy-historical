@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimsontrace.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609094544id_/http%3A//www.crimsontrace.com/default.asp%3Fid%3D672) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsontrace.com privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103180612id_/http%3A//www.crimsontrace.com/default.asp%3Fid%3D672) for the most accurate reproduction.*
 
 # Crimson Trace Lasergrips - Pistol laser sights for personal protection, law enforcement, recreational shooters, military and AR-15
 
