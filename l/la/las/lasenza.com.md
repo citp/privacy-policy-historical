@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624155934id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd%26CFID%3D2702269%26CFTOKEN%3Daea746b2a029196f-67392AA0-1422-76C4-565A213FA1F9A5A7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104150152id_/http%3A//www.lasenza.com/eng/customerCare/privacyPolicy.cfm%3Fd%3D1%26link_id%3D20%26var%3Dd) for the most accurate reproduction.*
 
-# La Senza Lingerie: Sexy Lingerie, Underwear, Nightwear, Pajamas and Activewear
+# La Senza Online Lingerie Store: Sexy women's lingerie - sleepwear, activewear, underwear, bras and panties
 
   | 
 
@@ -10,7 +10,7 @@ PRIVACY POLICY
 
 We are committed to maintaining the privacy of our customers in the electronic environment.
 
-The following outlines our practices concerning the collection and use of your information collected on this website. By visiting our website at [http://www.lasenza.com](https://web.archive.org/eng/insidePages/home.cfm?&var=d&CFID=3755303&CFTOKEN=d7a2171c29a6b999-D11DE185-00DC-4104-A9514D6D248A6E3F&jsessionid=d83045f842a6385f4472TR) you agree to be bound by the terms and conditions of this privacy policy and these legal terms and conditions. If you do not agree please do not use or access our website. 
+The following outlines our practices concerning the collection and use of your information collected on this website. By visiting our website at [http://www.lasenza.com](https://web.archive.org/eng/insidePages/home.cfm?&var=d) you agree to be bound by the terms and conditions of this privacy policy and these legal terms and conditions. If you do not agree please do not use or access our website. 
 
 You may be required to provide personal information to us when ordering a product or registering for the La Senza Email Club. You will know when this information is being collected because you will be asked to complete and submit a form. We need this information to deliver products to customers, provide customer support and/or to administer customer accounts. 
 
