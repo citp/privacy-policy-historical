@@ -1,0 +1,1147 @@
+<!--The following is the downloaded HTML source of the bookdepository.com privacy policy that was archived on 2007-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071104132844id_/http%3A//www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php%3FID%3D16) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../TEMPLATE1/CSS/tbdstyle.css" rel="stylesheet" type="text/css">
+		<link href="../TEMPLATE1/CSS/articles.css" rel="stylesheet" type="text/css">
+		<link href="../TEMPLATE1/CSS/blog.css" rel="stylesheet" type="text/css">
+		<link href="../TEMPLATE1/CSS/account.css" rel="stylesheet" type="text/css">
+		 		
+		
+				<script language="JavaScript" type="text/JavaScript">
+				<!--
+				function MM_jumpMenu(targ,selObj,restore){ //v3.0
+				
+				eval(targ+".location=\'"+selObj.options[selObj.selectedIndex].value+"\'");
+				if (restore) selObj.selectedIndex=0;
+				}
+				
+				function MM_findObj(n, d) { //v4.01
+				
+				var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+				d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+				if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+				for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+				if(!x && d.getElementById) x=d.getElementById(n); return x;
+				}
+				
+				function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+				var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+				}
+				//-->
+				</script>
+				<script language="JavaScript" type="text/javascript">
+				//detecting Opera 
+				if (window.opera){document.write("<style>.login_go{font-size:10px;font-weight:bold;padding:2px}.box {float:none;}</style>")}
+				//if (window.opera){document.write(\"<style>.login_go{font-size:10px;font-weight:bold;padding:2px}.box {float:none;}</style>\")}
+				</script>
+				<script type="text/javascript">
+				<!--
+				var agt = navigator.userAgent.toLowerCase();
+				if((agt.indexOf("msie 5") != -1) && (agt.indexOf("mac") != -1)){
+				document.writeln("<style type=\"text/css\">#boxContent { position: absolute \}</style>")
+				}
+				
+				function MM_preloadImages() { //v3.0
+				var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+				var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+				if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+				}
+				
+				function MM_swapImgRestore() { //v3.0
+				var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+				}
+				
+				function MM_swapImage() { //v3.0
+				var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+				if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+				}
+				//-->
+				
+				function showAlert()
+				{
+				alert("The website is still underconstruction, this function will be available soon...");
+				}
+				
+				function showQuickSearch(){
+				
+					document.getElementById('quickSearchDiv').style.display = "BLOCK";
+					document.getElementById('quickSearchTitle').style.display = "NONE";
+					
+				}
+				
+				function doSearch()
+				{
+					searchWordObject = document.searchbar.searchword;
+					keyword = document.searchbar.searchword.value;
+					method = document.searchbar.by.value;
+					//alert('keyword: ' + keyword);
+					if(keyword.length == 0 || keyword == 'Enter Search Value'){
+						 document.searchbar.searchword.value = 'Enter Search Value';
+						 return;
+					}else{
+				
+						//alert ('called');
+						parent.location.href = "http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/search.php?key="+escape(keyword)+"&by="+method;
+						//window.location.href = "http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/search.php?key="+escape(keyword)+"&by="+method;
+					}
+				}
+				
+				
+				function initialize()
+				{
+				
+				document.searchbar. searchword.focus();
+				MM_preloadImages("../TEMPLATE1/MEDIA/IMAGES/icons/check.gif");
+			 	//MM_preloadImages(\'images/check.gif\');
+				
+				}
+				
+				
+				var counter = 1;
+				function progressBar(){
+					
+					var showText;
+					var times; 
+					var forCounter;
+					forCounter = 0;
+					times = 0;
+					//alert(counter);
+					
+					
+					if (counter != 0){
+						//alert (counter%4);
+						switch (counter%7) {
+						
+						
+							case 0: times = 7; break;
+							case 1: times = 1; break;
+							case 2: times = 2; break;
+							case 3: times = 3; break;
+							case 4: times = 4; break;
+							case 5: times = 5; break;
+							case 6: times = 6; break;						
+							
+						}
+						counter++;
+						
+						
+						showText = "";
+						for (i = 0; i < times; i++){
+							showText = showText + "<img src = \'../TEMPLATE1/MEDIA/IMAGES/buttons/checkedorangecircle.gif\'  />";
+						}
+						
+						//document.getElementById("waitInfo").innerHTML = showText;
+						document.getElementById("waitInfo").innerHTML = "<br /><br /><div style = \'border:1px solid #FF0000; line-height:1.7em; font-weight:bold; text-align:left; padding:15px 15px 15px 45px;\'>" + "<br /><h3 style = \'float:left;\'> Searching </h3> &nbsp;  " + showText +"  <br /><br /><br /> </div><br /><br />";						
+						document.getElementById("displayMessage").style.display = "NONE";
+						window.setTimeout("progressBar()",500); 
+					}
+				}				
+				
+				
+				
+			//rollover from the src provided
+			function rollOver(imageObject, rollOverName){
+				//DEBUG//alert (imageObject);
+				//DEBUG//alert (imageObject.src);
+				imageObject.src = rollOverName;
+				//DEBUG//alert (imageObject.src);
+			}
+			
+			//rollover automatically by reading the src of the image
+			function rollOverFromName (imageObject){
+				var name = imageObject.src 
+				
+				
+				if ((imageObject.src).indexOf('_main_') != -1){
+					
+					myString1 = new String(imageObject.src);
+					rExp1 = /_main_/gi;
+					newString = new String ('_roll_')
+					rollOverName = myString1.replace(rExp1, newString);
+					imageObject.src = rollOverName;
+					//DEBUG//alert (rollOverName);
+					
+				}else{
+				
+					myString2 = new String(imageObject.src);
+					rExp2 = /_roll_/gi;
+					newString = new String ('_main_')
+					rollOverName = myString2.replace(rExp2, newString);
+					imageObject.src = rollOverName;
+				
+				}
+		
+			
+			}				
+				
+				<!-- created by Rag: to display dynamic messages -->
+				function displayMessageInDiv(divName, content, hideDivName){
+					//alert ("called");
+					//alert (divName + content);
+					
+					
+					
+					//alert("earlier content:" + document.getElementById(divName).innerHTML);
+					document.getElementById(divName).innerHTML = "<br /><br /><div style = \'border:1px solid #FF0000; font-weight:bold; text-align:center; padding:15px;\'>" + content + "</div><br /><br />";
+					
+					//alert("content:" + document.getElementById(divName).innerHTML);
+					document.getElementById(divName).style.display = "BLOCK";
+					
+					//alert (hideDivName.length);
+					if (hideDivName.length != 0){
+						document.getElementById(hideDivName).style.display = "NONE";
+					}
+					
+					progressBar();
+				}
+
+				<!-- created by Michel: to display help window -->
+				function helpWindow(nodeId, x, y){
+					window.open("showHelp.php?id="+nodeId, "help", "width=500px, height=300px, left="+x+", top="+y+", screenX="+x+", screenY="+y+", resizable=no, scrolbars= no, toolbars=no, location=no, directories=no, status=no, menubar=no, copyhistory=no");
+				}
+
+
+				</script>
+<title>The Book Depository - Cheap books with free delivery worldwide !!!</title>
+</head>
+
+<body>
+
+<table width="930" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="center">
+		<table width="930px" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td>
+				<!--Start of header-->
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td rowspan="3" style="width: 190px; height: 111px; background-color: #FFFFFF;" align="center" valign="bottom">
+		<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/homepage.php">
+		<img src="../TEMPLATE1/MEDIA/IMAGES/SB_logo2.gif" style="border: 0px; width: 190px; height: 111px" alt="Logo The Book Depository">
+		</a>
+		</td>
+
+		<td style="height: 51px; vertical-align: top" colspan="2">
+
+		<div align="right">
+		
+			<table border="0" cellpadding="0" cellspacing="0" style="width: 430px;" id="headingBlock" valign="top">
+			<tbody><tr>
+			
+				<td width="85" align="right" valign="top" class="headingTopMenu" style="border-style: none;">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/homepage.php">
+					<img src="../TEMPLATE1/MEDIA/IMAGES/icons/home_ico.gif" width="13" height="11" border="0" style="vertical-align: middle;">
+					</a><a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/homepage.php">
+					Home</a>
+				</td>
+				
+				<td width="138" align="center" valign="top" class="headingTopMenu" style="padding-left: 0px">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=showCart">
+					<img src="../TEMPLATE1/MEDIA/IMAGES/icons/basket_ico.gif" width="13" height="11" border="0" style="vertical-align: middle;"></a>
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=showCart">
+					Your Basket</a>
+				</td>
+				
+				<td width="120" class="headingTopMenu" style="padding-top: 2px;vertical-align: top;">
+					<a href="https://www.bookdepository.co.uk/WEBSITE/SECURE/WEBPAGES/userInfo.php">
+					<img src="../TEMPLATE1/MEDIA/IMAGES/icons/youraccount_ico.gif" alt="Your Account" width="96" height="24" border="0" style="vertical-align: top;"></a>
+				</td>
+				
+				<td width="87" align="left" valign="top" class="headingTopMenu" style="padding-left: 0px;">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=1">
+					<img src="../TEMPLATE1/MEDIA/IMAGES/icons/help_ico.gif" width="13" height="11" border="0" style="vertical-align: middle;"></a>
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=1">
+					Help</a>
+				</td>
+				
+			</tr>
+		</tbody></table>
+
+	
+		</div>
+
+		</td>
+	</tr>
+	
+	<tr>
+		<td align="left">
+
+		
+		<table width="585px" height="30px" border="0" cellpadding="0" cellspacing="0" style="vertical-align: bottom;" id="headingLineMenu">
+			<tbody><tr>
+				<td style="width: 86px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/browse.php" style="color: #ffffff">Browse</a></td>
+				<td width="6"></td>
+				
+				<td style="width: 125px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=blogarticle">Editor's Corner</a></td>
+				<td width="6px"></td>
+				
+				<td style="width: 70px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=news" style="color: #ffffff">News</a></td>
+				<td width="6px"></td>
+				
+				<td style="width: 100px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=interview" style="color: #ffffff">Interviews</a></td>
+				<td width="6px"></td>
+				
+				<td style="width: 90px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=review" style="color: #ffffff">Reviews</a></td>
+				<td width="6px"></td>
+				
+				<td style="width: 90px;" class="headingLineMenu_bg">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=aboutus&amp;id=1" style="color: #ffffff">About Us</a></td>
+			</tr>
+		</tbody></table>
+			
+
+	</td>
+		</tr>
+		<tr>
+			<td bgcolor="#d8e3ea" class="welcome" height="10px" colspan="2">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+				<tbody><tr>
+					<td style="text-align: left">
+		 
+		</td>
+				<td>
+					
+			<table width="300" border="0" align="right">
+			<form name="searchbar" action="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/search.php" method="get"></form>
+				<tbody><tr>
+					<td class="contentList" style="text-align: right; padding: 0px 2px 0px 0px;color:#901818;	vertical-align:middle;">
+					Search</td>
+					<td valign="middle">
+					<input name="key" style="width:175px;height:17px;font-family: Verdana, Arial, Helvetica, sans-serif;font-size:10px;">
+					</td>
+					<td valign="middle" style="width: 71px;">
+					<select name="by" style="width: 75px; font-family: Verdana, Arial, Helvetica, sans-serif;font-size:10px;height: 17px;">
+					<option value="title" selected="">Title</option>
+					<option value="isbn">ISBN</option>
+					<option value="author">Author</option>
+					</select></td>
+					<td width="61" align="left">
+						<!-- | <a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/homepage.php?action=showSearchBookForm">Advanced Search </a> -->
+					<input name="Button1" type="image" value="Go" src="../TEMPLATE1/MEDIA/IMAGES/buttons/go_ico.gif" title="Search">
+					</td>
+					</tr>
+					
+				</tbody></table>
+			
+
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+				<!--End of header--></td>
+			</tr>
+			<tr>
+				<td>
+				<table width="100%" border="0" cellpadding="0" cellspacing="0" class="content_alltables">
+					<tbody><tr>
+						<!--start of content-->
+						<td width="550" rowspan="2" align="left" valign="top">
+						
+		<table width="100%" cellpadding="0" cellspacing="0" id="mainBlock_medium">
+				<tbody><tr>
+					<td class="mainBlockTitle_medium">
+							Privacy Policy</td>
+					
+				</tr>
+				<tr>
+					<td valign="top">
+                                
+		</td></tr>
+		<tr><td colspan="2">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="left" id="articleListContentText">
+					<div style="padding: 10px;">
+						 <div style="padding: 8px; font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000;">
+	<strong>Privacy Policy</strong>
+</div>
+<div style="padding: 10px; font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000;">
+We use your personal information ONLY in connection to processing your online orders, delivering products and services, processing payments, communicating with you, displaying contents such as your Saved Items and recommending other products and services. All information you give to The Book Depository is stored securely, and is not accessible to other users.
+</div>
+
+<div style="padding: 10px; font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000;">
+We collect the information you give us via our web forms as well as some automatic information such as your IP address. We use "cookies" and we obtain certain types of information when your Web browser accesses <a href="http://www.bookdepository.co.uk"><strong>www.bookdepository.co.uk</strong></a>. This information is used as part of our security measures to prevent and detect any fraud attempts on our website for the benefit of our customers. All of our dealings with your data are governed by the Data Protection Act 1998 and your personal informaton will be held securely in accordance with our internal security policy and the law.
+</div>
+
+<div style="padding: 10px; font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000;">
+The information we collect from you includes&nbsp; your name and address plus contact details and credit/debit details. We will never collect sensitive information about you without your explicit consent.
+</div>
+<div style="padding: 10px; font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000;">
+If you have any questions about our privacy and security policies, please contact us at <a href="mailto:help@bookdepository.co.uk">help@bookdepository.co.uk</a>
+</div>
+
+					</div>
+					</td>
+				</tr>
+
+			   </tbody></table>
+		</td></tr>
+                    </tbody></table>
+		</td>
+						<!--end of content-->
+					</tr>
+					<tr>
+						<td valign="top" style="height: 100%;">
+						<table width="100%" border="0" style="height: 100%;" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td colspan="2" align="right" class="freeshipping_table">
+						<!--start of free delivery-->
+						
+		<table width="372px" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td><a href="http://www.audible.co.uk/audiblebook/banner1" target="_blank">
+				<img src="../../../RESOURCE/MEDIA/IMAGES/offer/audiblebook_banner2.jpg" border="0" alt="Free Worldwide Delivery">
+				</a></td>
+			</tr>
+		</tbody></table>
+						<!--end of free delivery-->
+
+								 </td>
+							</tr>
+							<tr>
+								<td valign="top" class="column_dashed_border">
+								<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									<!--start of Browse-->
+									<tbody><tr>
+										<td valign="top">
+										
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td height="28" colspan="2" class="rightColumn_title">
+				Similar Level</td>
+			</tr>
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+		
+				<tr>
+					<td class="bulletList" valign="top">
+					<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+					<td class="contentList" valign="top">
+					<a href="helpInfo.php?ID=14" class="column_text_content">Website Security</a> </td>
+				</tr>
+				<tr>
+					<td class="bulletList" valign="top">
+					<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+					<td class="contentList" valign="top">
+					<a href="helpInfo.php?ID=15" class="column_text_content">Ordering Policies</a> </td>
+				</tr>
+				<tr>
+					<td class="bulletList" valign="top">
+					<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+					<td class="contentList" valign="top">
+					<a href="helpInfo.php?ID=17" class="column_text_content">Terms and Conditions</a> </td>
+				</tr>
+		           <tr>
+				<td height="5" colspan="2">&nbsp;</td>
+			</tr>
+		</tbody></table>
+										 </td><!--end of Browse-->
+									</tr>
+									<tr>
+										<td valign="top">
+										
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td height="28" colspan="2" class="rightColumn_title">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=news" style="color: #901818;">
+				Latest News</a>
+				</td>
+			</tr>
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+		
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1881">
+							Interview: Christopher Foyle, chairman of Foyles bookshop</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1886">
+							Obituary: John Gardner</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1883">
+							Book of the week: Letters of Ted Hughes selected and edited by Christopher Reid</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1884">
+							Review: Musicophilia by Oliver Sacks</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1889">
+							Portrait of a poet as eco warrior</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1887">
+							First collection vies with established names for TS Eliot prize</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1888">
+							Vampires take off teenage book prize</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1880">
+							Simon Jenkins: Now in the midst of Rowling-tide,  I pray for the souls of liberty's saints</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1882">
+							Richard Ford revisits some of his favourite short stories</a>
+						</td>
+				</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+							<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/viewarticle.php?type=news&amp;id=1885">
+							Retreat where Dickens stayed to be sold</a>
+						</td>
+				</tr>
+					
+		<tr>
+			<td height="10" colspan="2">&nbsp;</td>
+		</tr>
+		</tbody></table>
+			
+										 </td><!--end of Latest News-->
+									</tr>
+									<tr>
+										<td valign="top">
+										
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td height="28" colspan="2" class="rightColumn_title">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/listarticle.php?type=bookonmedia" style="color: #901818;">
+				Books of the Moment</a></td>
+			</tr>
+			<tr>
+				<td height="5" colspan="2"></td>
+			</tr>
+		
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=101">How We Built Britain</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=100">New Europe</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=99">The Reluctant Fundamentalist</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=93">The Gathering</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=97">The Gauntanamo Files</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=96">Tokyo Year Zero</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=95">On Chesil Beach</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=94">Diary of a Bad Year</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=92">Sandrine's Paris</a> </td>
+					</tr>
+					
+					<tr>
+						<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/red_bullet.gif" width="5" height="5"></td>
+						<td class="contentList" valign="top">
+						<a href="viewarticle.php?type=bookonmedia&amp;id=91">The Tiger That Isn't</a> </td>
+					</tr>
+					
+		<tr>
+				<td height="10" colspan="2">&nbsp;</td>
+			</tr>
+		</tbody></table>
+		</td>
+									</tr>
+								</tbody></table>
+								</td>
+								<td valign="top" style="height: 100%;">
+								<table width="190px" border="0" cellpadding="0" cellspacing="0" style="height: 100%;">
+									<tbody><tr>
+										<td valign="top" bgcolor="#D8E3EA" style="height: 100%;">
+										<!--start of Quick Help-->
+										<table bgcolor="#d8e3ea" width="100%" border="0" cellpadding="0" cellspacing="0" style="height: 100%;">
+											<tbody><tr>
+												<td valign="top">
+												
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td height="28" colspan="2" class="rightColumn_title">
+				<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=1" style="color: #901818;">Quick Help</a></td>
+			</tr>
+			
+			<tr>
+				<td>
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td colspan="2" height="5">
+						</td>
+					</tr>
+		
+					<tr>
+					<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/bullet_Blue_gb.jpg" width="5" height="5" alt="Searching and Browsing"></td>
+					<td class="contentList" valign="top">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=9" style="color: #414141;">
+					Searching and Browsing</a> 
+					</td>
+				</tr>
+					
+					<tr>
+					<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/bullet_Blue_gb.jpg" width="5" height="5" alt="Delivery"></td>
+					<td class="contentList" valign="top">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=7" style="color: #414141;">
+					Delivery</a> 
+					</td>
+				</tr>
+					
+					<tr>
+					<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/bullet_Blue_gb.jpg" width="5" height="5" alt="Online Shopping"></td>
+					<td class="contentList" valign="top">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=4" style="color: #414141;">
+					Online Shopping</a> 
+					</td>
+				</tr>
+					
+					<tr>
+					<td class="bulletList" valign="top">
+						<img src="../TEMPLATE1/MEDIA/IMAGES//icons/bullet_Blue_gb.jpg" width="5" height="5" alt="Contact"></td>
+					<td class="contentList" valign="top">
+					<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=18" style="color: #414141;">
+					Contact</a> 
+					</td>
+				</tr>
+					</tbody></table>
+		</td>
+		</tr>
+			<tr>
+				<td colspan="2" height="15">
+				</td>
+			</tr>
+	</tbody></table>
+		
+												<!--end of Quick Help--></td>
+											</tr>
+											<tr>
+												<td valign="top" style="height: 100%;">
+												<!--start of Recently Sold Books-->
+												
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#d8e3ea">
+				<tbody><tr>
+					<td height="28" class="rightColumn_title">
+					Recently Sold Books</td>
+				</tr>
+				<tr>
+					<td height="8">
+					</td>
+				</tr>
+				
+                
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0141019387">
+						<img title="The Good Old Days: Crime, Murder and Mayhem in Victorian London" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/0141019387.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0141019387">
+	The Good Old Days: Crime, Murder...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price:Not Available</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0553814923">
+						<img title="Human Instinct" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/0553814923.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0553814923">
+	Human Instinct
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price:Not Available</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0297853147">
+						<img title="Call The Midwife: A True Story Of The East End In The 1950s: A True Story of the East End in the 1950s" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/0297853147.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0297853147">
+	Call The Midwife: A True Story O...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £9.10</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=Z0297853147">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0199297746">
+						<img title="Oxford-Paravia Italian Dictionary" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/0199297746.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0199297746">
+	Oxford-paravia Italian Dictionar...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £25.96</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=Z0199297746">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=1580422039">
+						<img title="The Poker Tournament Formula" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/1580422039.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=1580422039">
+	The Poker Tournament Formula...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £8.74</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=S1580422039">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0140447040">
+						<img title="The Sixteen Satires" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/0140447040.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=0140447040">
+	The Sixteen Satires
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £5.65</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=Z0140447040">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=095552170X">
+						<img title="The Final Crash: Addictive Debt and the Deformation of the World Economy" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/095552170X.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=095552170X">
+	The Final Crash: Addictive Debt ...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £15.71</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=U095552170X">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+			<tr>
+				<td height="10">
+				</td>
+			</tr>
+			<tr>
+			<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="ColumnBookList" style="padding-top:10px;">
+				<tbody><tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=085683243X">
+						<img title="Boom Bust: House Prices, Banking and the Depression of 2010" src="../../../RESOURCE/MEDIA/IMAGES/bookcovers/Thumbnail/085683243X.jpg" border="0" width="64" height="100">
+							</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div align="center">
+							<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/showbook.php?id=085683243X">
+	Boom Bust: House Prices, Banking...
+						</a>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<strong>Price: £9.56</strong>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div align="center">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/shoppingCart.php?context=sc&amp;action=addToCart&amp;sku=Z085683243X">
+						<img src="../TEMPLATE1/MEDIA/IMAGES/buttons/new_addbasket_red_s_bg.gif" title="Buy" border="0">
+						</a>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+			</td></tr>
+			
+		   <tr>
+			<td height="10">&nbsp;</td>
+		</tr>
+		</tbody></table>
+			
+												<!--end of Recently Sold Books-->
+												</td>
+											</tr>
+										</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+				</td>
+				<!--start of recntly history-->
+			</tr>
+			<tr>
+				<td align="left">&nbsp;</td>
+			</tr>
+			<tr>
+				<td>
+				<!--start of footer-->
+				<table width="100%" border="0">
+					<tbody><tr align="center">
+						<td width="20%"></td>
+						<td width="61%" height="23"></td>
+						<td width="19%"></td>
+					</tr>
+					<tr align="center">
+						<td></td>
+						<td height="56" class="footerBlock">
+						<a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=16">Privacy Notice</a>
+						 - 
+						 <a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=17">Conditions</a> 
+						 - 
+						 <a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=14">Website Security</a>
+						 -
+						 <a href="http://www.bookdepository.co.uk/WEBSITE/WWW/WEBPAGES/helpInfo.php?ID=18">Contact Us</a>
+						 <br> 
+						 © 2007, The Book Depository Ltd. Gloucester – United Kingdom
+						 <br>&nbsp;
+						</td>
+						<td></td>
+					</tr>
+				</tbody></table>
+				<!--end of footer--></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+
+</body></html>
