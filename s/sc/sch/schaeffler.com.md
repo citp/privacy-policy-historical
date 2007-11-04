@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614203200id_/http%3A//www.schaeffler.com/content.ina.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104131941id_/http%3A//www.schaeffler.com/content.ina.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
 # INA
 
