@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202200423id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2007-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071104055259id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Trust Seals from Trust Guard. Your Website Verification Authority
+# Trust Seals from Trust Guard - Improve Online Conversion and Build Customer Trust today.
 
 **Trust Guard Privacy Policy**
 
@@ -24,7 +24,7 @@ We may use the information we collect from you when you register, make a purchas
   
 How do we protect visitor information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. In addition, all sensitive/credit information you supply is transmitted via 128-Bit Secure Socket Layer (SSL) technology and then encrypted into our databases using a random 16-digit encryption code, to be only accessed as stated above. For your convenience on future orders, and to automate the monthly and/or annual recurring transaction process, you can store your credit card information longer than 60 days if you select the "Keep my payment method on file for easy checkout on future orders" box during checkout. 
 
 Do we use "cookies"?
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20070202200423id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20071104055259id_/http%3A//www.trust-guard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
