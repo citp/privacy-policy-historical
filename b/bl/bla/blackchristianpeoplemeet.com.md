@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blackchristianpeoplemeet.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617034842id_/http%3A//www.blackchristianpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackchristianpeoplemeet.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105224641id_/http%3A//www.blackchristianpeoplemeet.com/privacy) for the most accurate reproduction.*
 
-# BLACKCHRISTIANPeoplemeet.com - The Black Christian People Network - 06/16/2007
+# BLACKCHRISTIANPeoplemeet.com - The Black Christian People Network
 
 |  |  |   
 ---  
 The Black Christian People Network  
-[](https://web.archive.org/sign_up/?a=)  
+[](https://web.archive.org/sign_up/)  
   
 |   
 ---  
