@@ -1,6 +1,181 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215085903id_/http%3A//www.hamcity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Hamcity.com - Ham City
+
+  |   
+---  
+  
+   
+ [ **Amateur Radio Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=3)  
+
+
+ * Bargain Box *
+
+ * Hamcity Gift Certificates *
+
+ Amplifiers
+
+ Antenna Base Mounts
+
+ Antenna Coaxial Switches
+
+ Antenna Duplexers / Triplexers
+
+ Antenna Kits
+
+ Antenna Mobile Mounts
+
+ Antenna Rotators
+
+ Antenna Tuners
+
+ Antennas Base
+
+ Antennas Handheld BNC
+
+ Antennas Handheld SMA
+
+ Antennas Handheld Wide RX
+
+ Antennas HF/VHF/UHF Portable
+
+ Antennas Mobile
+
+ Batteries
+
+ Books / Audio / Software
+
+ Cable Adapters
+
+ Cable Assemblies
+
+ Cable Connectors
+
+ Cable Crimp / Strip Tools
+
+ Cable Jumpers
+
+ Cable, Rope, & Wire By Length
+
+ Handheld Accessories
+
+ Handheld Radios
+
+ Heil Sound
+
+ HF / Satellite Accessories
+
+ HF / Satellite Radios
+
+ Internet Repeaters
+
+ Kantronics (TNC)
+
+ LDG Electronics
+
+ Lightning Protection
+
+ Miracle Antenna
+
+ Miscellaneous
+
+ Mobile Accessories
+
+ Mobile Radios
+
+ Morse Code Equipment
+
+ Power Supplies
+
+ Program Software & Cable
+
+ Testing Equipment
+
+ West Mountain Radio  
+  
+   
+ [ **Receiver/Scanner Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=28)  
+
+
+ Antenna Mobile Mounts
+
+ Antennas Base
+
+ Antennas Handheld BNC
+
+ Antennas Handheld SMA
+
+ Antennas Mobile
+
+ Base Accessories
+
+ Base Receivers / Scanners
+
+ Cable Adapters
+
+ Cable Assemblies
+
+ Cable Connectors
+
+ Cable Crimp / Strip Tools
+
+ Cable Jumpers
+
+ Handheld Accessories
+
+ Handheld Antenna Adapters
+
+ Handheld Receivers / Scanners
+
+ Hideaway Trunk
+
+ PC Controlled Receivers
+
+ Power Supplies  
+  
+   
+ [ **Avionics/Marine Equipment**](https://web.archive.org/web/20071105184727id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=33)  
+
+
+ Antenna Mobile Mounts
+
+ Antennas Handheld BNC
+
+ Antennas Handheld SMA
+
+ Antennas Mobile
+
+ Batteries
+
+ Cable Adapters
+
+ Cable Assemblies
+
+ Cable Connectors
+
+ Cable Crimp / Strip Tools
+
+ Cable Jumpers
+
+ Cases & Clips
+
+ Chargers AC / DC Adapters
+
+ Earpiece & Surveillance Mics
+
+ Hand Speaker Mics
+
+ Handheld Radios
+
+ Headsets
+
+ Miscellaneous
+
+ Power Supplies  
+  
+   
+  
+| 
 
 **Privacy & Security**
 
@@ -20,4 +195,31 @@ Questions can directed to [sales@hamcity.com](mailto:custsvc@hamcity.com) or may
 Hamcity  
 Attn: Privacy Policy Compliance  
 5563 Sepulveda Blvd.   
-Culver City, CA 90230
+Culver City, CA 90230  
+  
+---  
+|   
+---  
+  
+**   Live Support Instant Message  
+  AIM & Yahoo:  HamcityIM  
+  MSN Messenger:   sales@hamcity.com**
+
+| **[Terms & Conditions](http://www.hamcity.com/termcond.aspx) | [ Privacy & Security](http://www.hamcity.com/privacy.aspx)  
+All Rights Reserved © 2004 HamCity.com ** | **Sales: (800) 882-1343, (310) 390-8003   
+E-mail: sales@hamcity.com **  
+| 
+
+        
+  
+---  
+  
+**Live Support Hours:    **
+
+**Mon~Fri: 9am~5pm PST, Sat & Sun: Closed PST**
+
+|           | 
+
+**Phone Sales Hours:**
+
+**Mon~Fri: 9am~5pm** **, Sat & Sun: Closed PST**
