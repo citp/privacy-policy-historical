@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624205231id_/http%3A//www.rapidonline.com/showfile.aspx%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105064930id_/http%3A//www.rapidonline.com/showfile.aspx%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
 # Rapid Electronics
 
