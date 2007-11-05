@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612160322id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105031202id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
-# Privacy statement - Armaholic: Armed Assault - Files, News, Reviews, Downloads and a lot more
+# Privacy statement - Armaholic: Armed Assault & Arma 2 - Files, News, Reviews, Addons, Mods, Missions, Scripts, Videos and more.
 
  
 
