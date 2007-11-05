@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627043705id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105035517id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -48,8 +48,8 @@ If you would like more information about Manpower’s privacy practices, please 
 
 Manpower Inc.  
 Attention: Global Data Privacy Director  
-5301 N. Ironwood Road  
-Milwaukee, Wisconsin 53217 U.S.A. 
+100 Manpower Place  
+Milwaukee Wisconsin, 53212 USA 
 
 **WEBSITE PRACTICES NOTICE for this MANPOWER GLOBAL WEB SITE**
 
