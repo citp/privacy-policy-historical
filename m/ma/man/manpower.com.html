@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manpower.com privacy policy that was archived on 2007-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070627043705id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manpower.com privacy policy that was archived on 2007-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071105035517id_/http%3A//www.manpower.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Privacy Statement</title>
@@ -40,6 +40,68 @@ input.go {font-size: 0.6em; color: black; height: 2em;}
 #MEOS {border:1px Solid ##339900;font-size:10px;font-family:verdana}
 #shareholder td {font-size:10px;font-family:verdana}
 </style>
+	
+	
+<script language="javascript">
+function loadflv(swfurl)
+{
+	var swfWidth=400;
+	var swfHeight=350;
+	
+	// Specify the static document width and height for winWidth and winHeight if you want the greyout to cover resize
+	
+	var winWidth=document.documentElement.clientWidth;
+	var winHeight=document.documentElement.clientHeight;
+	
+	var swfX=(winWidth-swfWidth)*0.5;
+	var swfY=(winHeight-swfHeight)*0.5;
+	
+	var elem = document.getElementById('greyout');
+	elem.className='flvin';
+	elem.style.width=winWidth+'px';
+	elem.style.height=winHeight+'px';
+	
+	var fo = new FlashObject(swfurl, "flvplayer", swfWidth+'', swfHeight+'', 8, "#333333");
+	//fo.addParam("wmode", "transparent");
+	fo.write("flvdiv");
+	
+	document.getElementById('flvdiv').style.left=swfX+'px';
+	document.getElementById('flvdiv').style.top=swfY+'px';
+}
+
+function clearflv()
+{
+	document.getElementById('greyout').className = 'flvout';
+	document.getElementById('flvdiv').innerHTML='';
+}
+
+</script>
+
+<style type="text/css">
+div.flvin
+{
+visibility:visible;
+position:absolute;
+background-color:#000000;
+filter:alpha(opacity=80);
+-moz-opacity:.80;
+opacity:.80;
+left:0px;
+top:0px;
+z-index:50;
+}
+div.flvout
+{
+visibility:hidden;
+position:absolute;
+}
+div.flvdiv
+{
+color:#FFFFFF;
+position:absolute;
+}
+</style>
+
 
 
 
@@ -66,9 +128,9 @@ var sh_HideImg = "/common/images/directory_minus.gif";
             <!--//
             var sh_tmpDate = new Date(); 
             
-            document.write(" <img src=\"http://apps.shareholder.com/track/trackpage.aspx?c=MAN&p=privacy%2Ecfm&s=139484803&r=" + sh_tmpDate.getTime() + "\" style=\"display:none\" />");
+            document.write(" <img src=\"http://apps.shareholder.com/track/trackpage.aspx?c=MAN&p=privacy%2Ecfm&s=188422484&r=" + sh_tmpDate.getTime() + "\" style=\"display:none\" />");
             //-->
-          </script> </head><body bgcolor="#ffffff" text="#000000" bottommargin="0" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="1" link="#000000" vlink="#000000" alink="#000000"><img src="http://apps.shareholder.com/track/trackpage.aspx?c=MAN&amp;p=privacy%2Ecfm&amp;s=139484803&amp;r=1582516436716" style="display:none">
+          </script> </head><body bgcolor="#ffffff" text="#000000" bottommargin="0" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="1" link="#000000" vlink="#000000" alink="#000000"><img src="http://apps.shareholder.com/track/trackpage.aspx?c=MAN&amp;p=privacy%2Ecfm&amp;s=188422484&amp;r=1582516439874" style="display:none">
         
  
 
@@ -264,9 +326,9 @@ If you would like more information about Manpower’s privacy practices, please 
 </p><p>
 Manpower Inc.<br>
 Attention: Global Data Privacy Director<br>
-5301 N. Ironwood Road<br>
-Milwaukee, Wisconsin 53217
-U.S.A.
+100 Manpower Place<br>
+Milwaukee Wisconsin, 53212  USA 
+
 </p><p>
 <strong>WEBSITE PRACTICES NOTICE for this MANPOWER GLOBAL WEB SITE</strong>
 </p><p>
