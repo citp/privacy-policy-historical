@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613064327id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105193133id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
 
 # creativepool.co.uk Privacy Statement
 
 |  |   
 ---|---|---  
-[](https://web.archive.org/web/20070613064327id_/http%3A//www.creativepool.co.uk/) |  |   
+[](https://web.archive.org/web/20071105193133id_/http%3A//www.creativepool.co.uk/) |  |   
 |   
 |  |   
 ---|---  
-|  |  privacy policy  | 13th June 2007  
+|  |  privacy policy  | 5th November 2007  
 ---|---  
       
     
