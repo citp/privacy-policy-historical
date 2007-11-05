@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612012740id_/http%3A//mercury1.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105071408id_/http%3A//koel1.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
 
 # BetOnMarkets.com - The World of Financial Trading
 
