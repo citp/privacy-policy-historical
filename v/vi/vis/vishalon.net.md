@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813203834id_/http%3A//www.vishalon.net/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2007-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071105170243id_/http%3A//www.vishalon.net/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Home
 
