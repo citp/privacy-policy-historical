@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513094741id_/http%3A//www.auriq.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auriq.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106130757id_/http%3A//www.auriq.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - AuriQ Systems
 
@@ -27,8 +27,8 @@ Questions regarding privacy: [info@auriq.com](mailto:info@auriq.com)
 
 |  | 
 
-AuriQ is proud to announce the Beta release of myRT, our new hosted analytics service featuring enhanced and interactive Flash based graphics.   
+AuriQ Systems' RTMetrics featured in 2007 CMS Web Analytics Report.   
 [\+ more  
-](http://www.auriq.com/products/my_rt.php)  
+](http://www.auriq.com/corporate/news.php)  
   
 ---|---|---
