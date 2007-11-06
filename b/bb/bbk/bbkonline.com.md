@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614210633id_/http%3A//www.bbkonline.com/bbk/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106062144id_/http%3A//www.bbkonline.com/bbk/others/privacy) for the most accurate reproduction.*
 
 # Welcome to the Bank of Bahrain and Kuwait
 
