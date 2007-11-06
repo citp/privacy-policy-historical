@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629171701id_/http%3A//www.hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106081720id_/http%3A//www.hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Hardware Analysis - Privacy Policy
+# Privacy Policy
 
 By accessing or using the Hardware Analysis web site, you agree to the terms of the Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this web site. Hardware Analysis reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this web site will be subject to the most current version of the Privacy Policy at the time of such use, which is this document.
 
