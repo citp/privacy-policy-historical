@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myembarq.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428132830id_/http%3A//www.embarq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myembarq.com privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106211840id_/http%3A//www.embarq.com/privacy) for the most accurate reproduction.*
 
 # EMBARQ
 
@@ -170,10 +170,10 @@ EMBARQ will update this Policy if our practices change or if the law requires ch
 
 ## CONTACTING US
 
-If you have any questions about, or complaints that concern, this Policy, please visit Customer Care Online or email us at [privacy@embarq.com](mailto:privacy@embarq.com) or call Customer Care at the number shown on your bill. If you prefer, you also may write us at Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Our representatives will respond to your inquiries or help resolve any dispute concerning this Privacy Policy
+If you have any questions about, or complaints that concern, this Policy, please visit Customer Care Online or email us at [privacyeq@embarq.com](mailto:privacyeq@embarq.com) or call Customer Care at the number shown on your bill. If you prefer, you also may write us at Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Our representatives will respond to your inquiries or help resolve any dispute concerning this Privacy Policy
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
 California residential customers of an EMBARQ company have a right to obtain a list of personal information that EMBARQ may have disclosed to other EMBARQ companies for marketing purposes or to unaffiliated third parties for their own marketing purposes. In California, EMBARQ offers long distance wireline telephone service to consumers through EMBARQ Communications, Inc. EMBARQ, as authorized by the Federal Communications Commission, shares personal information between its affiliates and marketing agents for its own marketing purposes.
 
-A California customer may contact EMBARQ and request the general list of information shared and the companies among which it is shared. This request may be sent electronically to [privacy@embarq.com](mailto:privacy@embarq.com). EMBARQ will respond to these requests for the list within 30 days. Written requests may be sent to Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Requests for this information that come to EMBARQ through other channels may result in a delayed response.
+A California customer may contact EMBARQ and request the general list of information shared and the companies among which it is shared. This request may be sent electronically to [privacyeq@embarq.com](mailto:privacyeq@embarq.com). EMBARQ will respond to these requests for the list within 30 days. Written requests may be sent to Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Requests for this information that come to EMBARQ through other channels may result in a delayed response.
