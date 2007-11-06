@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630113745id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2007-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071106042910id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy
 
@@ -81,4 +81,4 @@ We will post details of any changes to our Privacy Policy on the website to help
 
 This Privacy Policy was last updated May 2006.
 
-[Menu ](https://web.archive.org/web/20070630113745id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
+[Menu ](https://web.archive.org/web/20071106042910id_/http%3A//www.hmrc.gov.uk/spss/cssav.htm)
