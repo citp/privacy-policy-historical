@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608142007id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107070227id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
 # Privacy Policy - VWAUDI Forum
 
-\- Site Administrator -
+\- Administrator -
 
  
 
-[](https://web.archive.org/web/20070608142007id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?s=b66fae3d878ce6e32a4b3b493c90bd05&u=1)
-
- 
-
-Join Date: Feb 2004
-
-Location: Yorkshire
-
-Posts: 1,482 
-
-Rep Power: 10
+[](https://web.archive.org/web/20071107070227id_/http%3A//www.vwaudiforum.co.uk/forum/member.php?u=1)
 
 | 
 
@@ -69,16 +59,3 @@ By using this Web Site, you agree to the terms of this Privacy Policy. VWAudi Fo
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at [admin@vwaudiforum.co.uk](mailto:admin@vwaudiforum.co.uk)
 
 This Privacy Policy was last updated on April 23rd 2004. © 2004 VWAudi Forum. All rights reserved.
-
-__________________  
-**_Stuart - Website Administrator & Owner_** **
-
-_Email:_
-
-** _ **[stuart@vwaudiforum.co.uk](mailto:stuart@vwaudiforum.co.uk)**_
-
-_**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**_
-
-_**Please note: Unless otherwise stated, non of us are qualified vehicle mechanics, and as such not qualified to give advise... It is recommended by the website that any advise given is confirmed by a qualified person BEFORE following the advise given..Failure to do so will be at your own risk**_
-
-**_PLEASE NOTE: Please only email me if you are having problems with the Website or Forum. I am unable to answer any technical questions.. Please post in the correct section of the forum... Thank you_**
