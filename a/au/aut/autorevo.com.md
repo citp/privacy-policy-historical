@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428073215id_/http%3A//www.autorevo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107092744id_/http%3A//www.autorevo.com/privacy.aspx) for the most accurate reproduction.*
 
 # AutoRevo: Privacy
 
@@ -31,11 +31,11 @@ Opt-Out Policy:
 AutoRevo offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to support@AutoRevo.com. 
 
 Correcting & Updating Your Information:   
-If customers need to update or change registration information they may do so by editing the user or organization record. To update a User Profile, log on to AutoRevo and select Admin to add or update information. To update Organization's data, log on to AutoRevo and select Admin. To update billing information please email support@AutoRevo.com or call 972.769.9455. To discontinue the Service and to have data returned, email support@AutoRevo.com or call 972.769.9455. 
+If customers need to update or change registration information they may do so by editing the user or organization record. To update a User Profile, log on to AutoRevo and select Admin to add or update information. To update Organization's data, log on to AutoRevo and select Admin. To update billing information please email support@AutoRevo.com or call 972.715.8600. To discontinue the Service and to have data returned, email support@AutoRevo.com or call 972.715.8600. 
 
 Additional Information:   
 Questions regarding this Statement or the practices of this Site should be directed to AutoRevo's corporate office at:   
 AutoRevo   
 RE: Privacy Statement   
-1200 Commerce, Suite 112   
-Plano, TX 75093 
+7920 Belt Line Rd, Suite 450   
+Dallas, TX 75254 
