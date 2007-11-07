@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530180112id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107014900id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
 # Israel Music : Privacy Policy
 
@@ -10,7 +10,7 @@ Tamuz Records Ltd.
 PO Box 198  
 Ra'anana 43102  
 Israel  
-+972-9-7442861  
++972-9-7423837  
 [service@israel-music.com](mailto:service@israel-music.com)
 
 Collecting information provides specific benefits to our website visitors:
