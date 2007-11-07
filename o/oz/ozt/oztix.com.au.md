@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403053407id_/http%3A//www.oztix.com.au/Home/Privacy/tabid/397/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107060421id_/http%3A//www.oztix.com.au/Home/Privacy/tabid/397/Default.aspx) for the most accurate reproduction.*
 
 # Oztix Privacy
 
