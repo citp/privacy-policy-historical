@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordcountjournal.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627044321id_/http%3A//wordcountjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordcountjournal.com privacy policy that was archived on 2007-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071107100203id_/http%3A//www.wordcountjournal.com/privacy) for the most accurate reproduction.*
 
 # Word Count Journal
 
