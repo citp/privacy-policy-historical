@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preschoolrock.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209075020id_/http%3A//preschoolrock.com/index.php/biz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preschoolrock.com privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108214407id_/http%3A//preschoolrock.com/index.php/biz/privacy_policy) for the most accurate reproduction.*
 
 # PreschoolRock.com - Privacy Policy
 
