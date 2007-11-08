@@ -1,37 +1,57 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624020908id_/http%3A//www.payworks.ca/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108224041id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
 
-# Canadian Payroll Software Solutions
+# About Payworks Payroll Services Canada
 
-This site is the property of Payworks Inc.  
-**Our Corporate postal address is:  
-582 King Edward Street  
-Winnipeg, Manitoba R3H 0P1  
-You can reach us by telephone at 1-866-788-3500**
+## Payworks Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [**contact us**](https://web.archive.org/web/20071108224041id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
 
-We collect only the domain name, but not the e-mail address of visitors to our web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+### Applicability
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
+Payworks respects and understands your concerns about privacy. Our goal is to provide you with the personal and financial information required to generate payroll and related transactions for your company. We hope that you will find the website useful and we provide you with this notice of our policy with respect to the information we may collect from you while you are using this site. Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
+Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+### Collection and Use of Personal Information
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above or e-mailing us at the above address.
+Collection of personal information online is designed to protect access to your personal accounts and to assist in providing you with the products and services you want and need. All personal information collected and stored by Payworks is used for specific business purposes - to protect and administer your personal accounts and transactions, to comply with provincial and federal payroll regulations, and to help better understand your payroll needs in order to design or improve our products and services.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events.
+Employing stringent security measures in the collection of your personal information, all Payworks online account applications are submitted to Payworks' secure administration site through an encrypted direct line to the secure database. Once received by Payworks, only approved personnel may open and process the application. Furthermore, auditing mechanisms have been put into place to further protect your information by identifying which employees have accessed and in any way modified-for example, updated or added to-your personal information. 
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+### Maintenance of Accurate Information
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+It is in the best interest for you to maintain accurate records concerning your personal information. For this reason, Payworks allows you to update your personal information online, at anytime.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above or e-mailing us at the above address.
+### Personally Identifiable Information
 
-Upon request, we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them and contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by e-mail at the above address.
+From time to time, we may request information that personally identifies you such as your name, mailing address, email address, telephone number, or other information that can be used to identify you. Payworks is very aware of the sensitive nature of such information and sets the highest standards for confidentiality. We are committed to protecting the privacy of both our corporate clients and the individuals for whom payroll transactions are prepared.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address or calling us at the above telephone number.
+### Use of Cookies
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Payworks respects your right to privacy and takes every precaution to provide you with the same level of privacy within our website that you receive through more traditional payroll delivery channels.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+In some circumstances, Payworks may use cookies to enhance your experience on our site. A "cookie" is a small data file stored on your computer’s hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you, as a site visitor, have provided us. Cookies also tell us how you click to our site and what pages you click on during your visit. You may manage the use of cookies set by our site by changing your browser’s settings, though this may affect your ability to view or interact with certain pages on our site.
+
+### Statistical Information
+
+We collect statistical information based on your use of the website. This information does not identify you personally and is collected for the purpose of maintaining the website and improving its usability.
+
+### Third-Party Disclosure Restrictions
+
+Payworks follows strict privacy procedures in regard to protecting your personal information. In addition, Payworks requires all third parties with a business need to access this information to adhere to similar and equally stringent privacy policies. Personal information may be supplied to a third party in order to process a customer transaction; if the customer requests it; the disclosure is required or allowed by law (i.e. exchange of information with reputable reporting agencies, subpoena, or the investigation of fraudulent activity, etc.); or for marketing purposes of which the customer has been previously informed and has been given the opportunity to decline.
+
+### Dissemination of your Information
+
+Information we receive from you remains your property and is used only for the purposes intended when you enter into an agreement with Payworks. The information is used for no other purpose without express permission from you. Such information is considered confidential and all our employees meet the highest standards of confidentiality. Information is not shared with or transferred to any other corporation, body or individual, in its original or any modified form, unless Payworks is required to do so by statute or legal proceeding, or authorized by you. We limit the information we collect to those personal, financial and financially related details necessary for Payworks to fulfill its contractual obligations to the client. Information gathered from you is kept only for the period of time necessary for Payworks to fulfill its obligations to you.
+
+### Security
+
+Payworks takes the security of your personally identifiable information seriously. We use physical, electronic and operational safeguards designed to reduce the risk of unauthorized access to your personally identifiable information. If you use Payworks web applications, you will select a user ID and password. We strongly recommend that you never divulge these to anyone. All communication through our web applications is encrypted.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect personally identifiable information, we cannot warrant the security of the personally identifiable information transmitted to or received by us. We provide links to external websites for your convenience. Payworks has no control over the security or privacy practices of these sites. If you have questions regarding a website’s practices, please review that site’s privacy policy.
+
+### Changes to this Policy
+
+Any changes to this policy will be posted at this location and will take effect immediately after their posting. You may wish to check back from time to time to be aware of any changes to the policy.
+
+This Privacy Policy was last updated on 9/15/2007.
