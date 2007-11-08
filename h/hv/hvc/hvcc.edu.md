@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902095029id_/http%3A//www.hvcc.edu/compserv/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2007-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071108121911id_/http%3A//www.hvcc.edu/compserv/docs/privacy.html) for the most accurate reproduction.*
 
 # Hudson Valley Community College - Privacy Policy
 
-| [](https://web.archive.org/web/20060902095029id_/http%3A//www.hvcc.edu/index.php) |   | 
+| [](https://web.archive.org/web/20071108121911id_/http%3A//www.hvcc.edu/index.php) |   | 
 
 ## Hudson Valley Community College's Privacy Policy  
 (Policy Date - 07/18/2002)  
@@ -99,9 +99,9 @@
 > 
 > _User_ : shall have the same meaning as set forth in the Internet Security and Privacy Act, State Technology Law, Section 202(8) as follows: Any natural person who uses the Internet to access a state agency Web site.
 
-[PRIVACY POLICY](https://web.archive.org/web/20060902095029id_/http%3A//www.hvcc.edu/compserv/docs/privacy.html)  
+[PRIVACY POLICY](https://web.archive.org/web/20071108121911id_/http%3A//www.hvcc.edu/compserv/docs/privacy.html)  
 Hudson Valley Community College, 80 Vandenburgh Ave., Troy, NY 12180  
-(518) 629-HVCC     [TDD/TTY](https://web.archive.org/web/20060902095029id_/http%3A//www.hvcc.edu/drc/tdd.html)    Toll-free: (877) 325-HVCC
+(518) 629-HVCC     [TDD/TTY](https://web.archive.org/web/20071108121911id_/http%3A//www.hvcc.edu/drc/tdd.html)    Toll-free: (877) 325-HVCC
 
 Please send content questions or comments to the Editor at [editor@hvcc.edu](mailto:Editor@hvcc.edu?Subject=Web%20Inquiry). Please send technical issues to the Webmaster at [webmaster@hvcc.edu](mailto:Webmaster@hvcc.edu?Subject=Web%20Inquiry).
 
