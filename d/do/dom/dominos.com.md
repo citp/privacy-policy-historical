@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612235813id_/http%3A//www.dominos.com/Public-EN/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109140743id_/http%3A//www.dominos.com/Public-EN/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
