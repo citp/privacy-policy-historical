@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629002722id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109120545id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # AutoBarn.com Info
 
@@ -15,10 +15,10 @@ M-F: 8:30AM-6PM ET**
 Testimonials**  
 ---  
   
-"I have not purchased much on-line before. This was a good experience. I found the kind of product that I wanted at a good price. It was delivered quickly."  
- **Nov 14, 2006**  
+"I only found the product I wanted on 3 websites. Autobarn had the lowest price and the item was delivered in a timely manor"   
+**Nov 23, 2006**  
   
-| | [](https://web.archive.org/web/20070629002722id_/http%3A//www.autobarn.net/index.html)
+| | [](https://web.archive.org/web/20071109120545id_/http%3A//www.autobarn.net/index.html)
 
 **AutoBarn.com Privacy Policy** | **We are committed to maintaining your privacy.**  
 To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com [Customer Service](mailto:customerservice@autobarn.com).  
