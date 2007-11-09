@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502131505id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109103900id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Trumba Connect
 
