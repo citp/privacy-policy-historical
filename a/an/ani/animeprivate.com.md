@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeprivate.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425105959id_/http%3A//www.animeprivate.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeprivate.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109110841id_/http%3A//www.animeprivate.com/privacypolicy.php) for the most accurate reproduction.*
 
 # AnimePrivate.com - Private Download Community
 
