@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030022003id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109081459id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecorators.com
 
-**Privacy Policy & Terms of Use**
+[Customer Service](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service)
+     [Contact Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=73)
+     [Privacy Policy & Terms of Use](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=3)
+     [Customer Service Survey](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=56)
+     [Request a Catalog](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=75)
+     [User Name and Password Tips](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service&faqId=129)
+[Shipping & Delivery](http://www.homedecorators.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
+[Returns, Exchanges & Cancels](http://www.homedecorators.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
+[Checkout Questions](http://www.homedecorators.com/page.php?file=faq&faqGroup=Checkout+Questions)
+[Product Information](http://www.homedecorators.com/page.php?file=faq&faqGroup=Product+Information)
+[Email](http://www.homedecorators.com/page.php?file=faq&faqGroup=Email)
+[About Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=About+Us)
+[Store Locations](http://www.homedecorators.com/page.php?file=faq&faqGroup=Store+Locations)
+| 
 
 Last updated: May 1, 2006
 
