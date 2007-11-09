@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627175004id_/http%3A//www.barclayswealth.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109124604id_/http%3A//www.barclayswealth.com/privacy.htm) for the most accurate reproduction.*
 
 # :: Privacy Policy :: Barclays Wealth
 
