@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualcomm.co.in privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515184457id_/http%3A//www.qualcomm.co.in/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcomm.co.in privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109170904id_/http%3A//www.qualcomm.co.in/main/privacy.html) for the most accurate reproduction.*
 
-# QUALCOMM
+# QUALCOMM Privacy - Privacy
 
 QUALCOMM has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information collection, use and dissemination practices for this web site: www.qualcomm.com.
 
