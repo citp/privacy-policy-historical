@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodirectsoccer.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627081634id_/http%3A//www.prodirectsoccer.com/staticfeature.asp%3FART%3D1245) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodirectsoccer.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110100121id_/http%3A//www.prodirectsoccer.com/staticfeature.asp%3FART%3D1245) for the most accurate reproduction.*
 
 # Privacy & Security at Pro-Direct Soccer - The World's Largest On-Line Soccer Store.
 
