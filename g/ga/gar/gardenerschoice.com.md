@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenerschoice.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515034255id_/http%3A//www.gardenerschoice.com/index.asp%3FPageAction%3DCustom%26ID%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenerschoice.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110022615id_/http%3A//www.gardenerschoice.com/index.asp%3FPageAction%3DCustom%26ID%3D14) for the most accurate reproduction.*
 
 # Gardeners' Choice - Privacy Policy
 
