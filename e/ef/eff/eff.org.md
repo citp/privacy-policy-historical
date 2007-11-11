@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630175048id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111203659id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
-# EFF: EFF Privacy Policy
+# Privacy Policy | Electronic Frontier Foundation
+
+## About EFF's Search Function
+
+EFF uses Google for search functionality on [www.eff.org](http://www.eff.org/ "www.eff.org"). To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
 
 The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through this website and how it is used. 
 
@@ -8,7 +12,8 @@ In this policy, "EFF" refers to EFF staff, board members, cooperating attorneys,
 
 EFF does not sell or rent donor information under any circumstances, and we do not share information without prior consent except as compelled by law. (See discussion below.) 
 
-**Information Gathered by EFF's Site**  
+## Information Gathered by EFF's Site
+
 For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on EFF's position on data logging, see our [Best Practices for Online Service Providers](http://www.eff.org/osp/). 
 
 We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use [Tor](http://tor.eff.org/) if you wish to keep your IP number and other technical information anonymous. 
@@ -21,7 +26,8 @@ If you choose to subscribe to EFFector, our free electronic newsletter, we colle
 
 From time to time, we may ask for personal information on other portions of the site, such as asking you to sign a petition, participate in a contest, or provide prior art for a patent busting project. 
 
-**EFF's Use of Information**  
+## EFF's Use of Information
+
 In general, EFF uses the information provided by you to further its mission, protect privacy, defend freedom, and protect your rights in the digital world. 
 
 We use member information to process and manage your membership or contribution. If you opt in, we will use your email address to send you updates and alerts on protecting your rights in the digital world, so you may take action, such as contacting your representative in Congress or attending an event. If you choose to complete the "Please tell us why you became a member of EFF" field when donating, this information may be shared with the entire EFF staff and board, and select unattributed quotes may be used to promote our mission, such as including a relevant quote in a grant proposal. 
@@ -34,7 +40,8 @@ We may run surveys, contests, or similar activities through this site. Such info
 
 We look at technical information to diagnose problems with our server and to administer the eff.org site. 
 
-**Third-Party Service Providers**  
+## Third-Party Service Providers
+
 Portions of the eff.org site (shop.eff.org, secure.eff.org, and action.eff.org) are operated by a third-party grassroots campaign service provider ("Provider"), which is currently Convio. Provider may place cookies on your computer in order to store information, such as items placed in your shopping cart in the EFF Shop, or storing your account login when using the Action Center. Provider logs standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
 
 Our Provider also stores and organizes the personal information collected through this site on our behalf. The information remains under our control, and our agreement with Provider requires the information to be kept confidential and disclosed only to Provider's employees who require such access in the course of their assigned duties. Provider has also agreed to cooperate with EFF in seeking a protective order, if necessary, to protect this information from legal process. EFF may change the provider from time to time, and will transfer stored information to the new provider subject to similar restrictions. 
@@ -45,76 +52,26 @@ From time to time, EFF may work with third-party consultants or other service pr
 
 EFF's site provides links to a wide variety of third-party websites. EFF is not responsible for, and does not have any control over, the privacy practices or the content of such third parties. We encourage users to read the privacy policies of any website visited. 
 
-**Disclosure of Your Information**  
+## Disclosure of Your Information
+
 While EFF endeavors to provide the highest level of protection for your information, we may disclose personally identifiable information about you to third parties in limited circumstance, including: (1) with your consent; or (2) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other judicial or administrative order. 
 
 If we are required by law to disclose the information that you have submitted, we will attempt to provide you with notice (unless we are prohibited) that a request for your information has been made in order to give you an opportunity to object to the disclosure. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. If you do not challenge the disclosure request, we may be legally required to turn over your information. 
 
 In addition, we will independently object to requests for access to information about users of our site that we believe to be improper. 
 
-**Updating or Removing Your Information**
+## Updating or Removing Your Information
 
-You may choose to correct, update, or delete the membership information you have submitted to us by sending an email requesting changes to membership@eff.org. Furthermore, if we inadvertently collect more personal information than intended, we endeavor to delete the extraneous information. However, please understand that deleted information may continue to persist on back-up media. 
+You may choose to correct, update, or delete the membership information you have submitted to us by sending an email requesting changes to [membership@eff.org](mailto:membership@eff.org). Furthermore, if we inadvertently collect more personal information than intended, we endeavor to delete the extraneous information. However, please understand that deleted information may continue to persist on back-up media. 
 
-**Changes to Our Policies**
+## Changes to Our Policies
 
 EFF's Privacy Policy may change from time to time. However, any revised privacy policy will be consistent with EFF's mission. If we make any substantive changes to our policies, we will place notice in EFFector and post notice of changes on this page. 
 
-**Security**  
+## Security
+
 EFF employs industry standard security measures to protect the loss, misuse, and alteration of the information under our control. Information submitted through the shopping, membership, and donation processes is encrypted through a Secured Socket Layer (SSL) connections, which protects the information in transit. 
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation. 
 
 _Updated Oct. 6, 2005_
-
-* * *
-
-## About EFF's Search Function
-
-EFF uses Google for search functionality on www.eff.org. To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
-
-| 
-
-Search eff.org
-
-**Powered by**   
-[](http://google.com/)
-
-» [About EFF's search](https://web.archive.org/google_search.html)  
-
-
-[EFFector](https://web.archive.org/effector/)
-
-**Subscribe to EFFector!**  
-[our free email newsletter] 
-
-Email:  
-  
-Zip / Postal Code ( _optional_ )  
-  
-
-
-» [EFFector Archive](https://web.archive.org/effector/)
-
-Topics & Areas
-
-[Privacy](https://web.archive.org/Privacy/)  
-[Intellectual Property](https://web.archive.org/IP/)  
-[Fair Use and DRM](https://web.archive.org/IP/fairuse/)  
-[Innovation](https://web.archive.org/innovate/)  
-[FLAG Project (FOIA)](https://web.archive.org/flag)  
-[File Sharing](https://web.archive.org/share/)  
-[Free Speech](https://web.archive.org/Censorship/)  
-[Bloggers' Rights](https://web.archive.org/bloggers/)  
-[International](https://web.archive.org/global/)  
-[E-voting](https://web.archive.org/Activism/E-voting/)  
-[Awards](https://web.archive.org/awards/)  
-[EFF Victories](https://web.archive.org/legal/victories/)  
-[EFF White Papers](https://web.archive.org/wp/)
-
-Languages
-
-» [EFF en Español](https://web.archive.org/lang/spanish/)  
-» [EFF em Português](https://web.archive.org/lang/portuguese/)  
-  
----|---
