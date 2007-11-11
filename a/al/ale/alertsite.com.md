@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622213942id_/http%3A//alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111125530id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
 
-# AlertSite: The Web Site Monitoring Company
+# AlertSite Privacy Policy
 
-AlertSite Privacy Policy  
-Effective Date: March 30, 2007 |  [](http://www.truste.org/ivalidate.php?url=www.alertsite.com&sealid=101)  
+  
+[](http://www.truste.org/ivalidate.php?url=www.alertsite.com&sealid=101) Effective Date: March 30, 2007 |   
 ---|---  
 The [www.AlertSite.com](http://www.alertsite.com/) website is owned and operated by Boca Internet Technologies, Inc., a Florida corporation ("AlertSite"). AlertSite respects your individual privacy. That is why AlertSite adopted this Privacy Policy as evidence of its commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Policy puts you in control of how your personal information is processed. You have our promise that AlertSite will not electronically process your personal information in any way that is incompatible with this Privacy Policy.
 
@@ -60,7 +60,7 @@ Links
 
 Cookies
 
-AlertSite utilizes “cookies” to track and store information about [www.AlertSite.com](http://www.alertsite.com/) users. “Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored on your hard drive. Cookies track your personal preferences and activities, but in no way contain or refer to any personally identifiable information.
+AlertSite utilizes "cookies" to track and store information about [www.AlertSite.com](http://www.alertsite.com/) users. "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored on your hard drive. Cookies track your personal preferences and activities, but in no way contain or refer to any personally identifiable information.
 
 If you do not want cookies to be inserted into your hard drive, you can disable its ability to accept and receive cookies through your web browser. However, keep in mind that if you disable your hard drive's ability to accept and receive cookies, you may not be able to fully utilize all of the convenience and additional features of [www.AlertSite.com](http://www.alertsite.com/).
 
