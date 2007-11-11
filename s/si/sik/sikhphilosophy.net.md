@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2007-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070317045544id_/http%3A//www.sikhphilosophy.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111040800id_/http%3A//www.sikhphilosophy.net/privacy.php) for the most accurate reproduction.*
 
 # Sikhism - Privacy Policy
 
@@ -20,9 +20,11 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
- **IV. Private Messaging Facility**
+ **IV. Private Messaging (PM) Facility**
 
-Private Messaging is provided to the members of the SPN as a service intended to enhance the community experience. The purpose of private messaging is to allow for discreet conversations to take place between members. This privilege is not to be abused! solicitation, spamming, or harassment of any kind is strictly forbidden. Any member receiving an inappropriate private message should forward that message to an Administrator or Moderator right away. Although private messages are normally only accessible by those who send and receive them, they are part of the database and as such, property of SPN. An Administrator, if so inclined, could locate the Private Messages in the database and read them. They are private, but not necessarily secret. In addition, Private Messages are not intended to deprive the Community of valuable information or experiences which could benefit the entire group. Please do not use private messages if the content of the message can be helpful to others.
+Private Messaging is provided to the members of the SPN as a service intended to enhance the community experience. The purpose of private messaging is to allow for discreet conversations to take place between members. This privilege is not to be abused! 
+
+_A private message, under any circumstanced, cannot be posted in an open forum, without the prior permission of the PM originator_. Any solicitation, spamming, or harassment of any kind is strictly forbidden. Any member receiving an inappropriate private message should forward that message to an Administrator or Moderator right away. Although private messages are normally only accessible by those who send and receive them, they are part of the database and as such, property of SPN. An Administrator, if so inclined, could locate the Private Messages in the database and read them. They are private, but not necessarily secret. In addition, Private Messages are not intended to deprive the Community of valuable information or experiences which could benefit the entire group. Please do not use private messages if the content of the message can be helpful to others.
 
 **V. Cookies**
 
