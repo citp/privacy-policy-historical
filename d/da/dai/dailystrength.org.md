@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629111522id_/http%3A//dailystrength.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2007-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071111132501id_/http%3A//dailystrength.org/privacy.html) for the most accurate reproduction.*
 
 # DailyStrength Privacy Policy
 
 DailyStrength is a warm, caring community where you can discuss anything you like with others in a safe environment. Our primary goal is to offer a secure place where you can reveal as much (or as little) as you choose to reveal about yourself and your life challenges as you meet and interact with other members.
 
-We purposely ask for very little personal information, and we STRONGLY encourage you to use common sense on our site when talking with others. **Do not reveal home addresses, phone numbers or anything else that you wouldn't want a stranger to have.Please be aware that all information (including photos or videos) that you post on public sections of the community and all information (excluding your e-mail address and your password) that is contained in your DailyStrength profile can be seen by every Visitor and Member to the Site.**
+We purposely ask for very little personal information, and we STRONGLY encourage you to use common sense on our site when talking with others. **Do not reveal home addresses, phone numbers or anything else that you wouldn't want a stranger to have. Please be aware that all information (including photos or videos) that you post on public sections of the community and all information (excluding your e-mail address and your password) that is contained in your DailyStrength profile can be seen by every Member and Visitor to the Site.**
 
-We strongly believe in the right to privacy, and we will not sell, distribute or otherwise abuse your personally identifiable information. Our founders are regular folks just like you, and they are also DailyStrength members.
+We strongly believe in the right to privacy, and **we will not sell, distribute or otherwise abuse your personally identifiable information.** Our founders are regular folks just like you, and they are also DailyStrength members.
 
 **More information about our Privacy Policy follows:**
 
-DailyStrength, Inc. (" **DailyStrength** ", " **us** "or " **we** ") respects the privacy of the visitors and users to the Website, the homepage of which is located at http://www.dailystrength.org (" **Site** ").
+DailyStrength, Inc. (" **DailyStrength** ", " **us** " or " **we** ") respects the privacy of the visitors and users to the Website, the homepage of which is located at http://www.dailystrength.org (" **Site** ").
 
 This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Site.
 
-" **Personal Information** "is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+" **Personal Information** " is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
 " **Anonymous Information** " means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
@@ -45,17 +45,17 @@ We collect the following Personal Information that you submit to us voluntarily:
 
 As you navigate the Site, certain information may also be collected passively, including your Internet protocol address, browser type, domain names, access times, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information and services for which you searched and which you viewed. This type of information is collected to make our products and services and the Site more useful to you.
 
-An " **Internet protocol address** "or " **IP Address** "is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. 
+An " **Internet protocol address** "or " **IP Address** " is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. 
 
-" **Cookies** "are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Site may not work properly. 
+" **Cookies** " are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Site may not work properly. 
 
 **Use of Information**
 
-In general, Personal Information you submit to us is used by us either to respond to inquiries and requests that you make, to enable us to get in contact with you, or to aid us in providing better services and products to you. We will use resumes that you submit to us to consider you for a position at DailyStrength. We may also use your Personal Information to provide you with the newsletters, unless you request not to receive such communications from us.
+In general, Personal Information you submit to us is used by us either to respond to inquiries and requests that you make, to enable us to get in contact with you, or to aid us in providing better services and products to you. We will use resumes that you submit to us to consider you for a position at DailyStrength. We may also use your Personal Information to provide you with newsletters, unless you request not to receive such communications from us.
 
-One of the ideas behind our Site is that Members share information with other Members. Therefore, you should assume that any information (including photos and videos) that you provide, enter into, or post on public sections of the Site (excluding the e-mail address you provide and the password you select during signing up will be visible to every Visitor and Member. 
+One of the ideas behind our Site is that **Members share information with other Members.** Therefore, you should assume that any information (including photos and videos) that you provide, enter into, or post on public sections of the Site (excluding the e-mail address you provide and the password you select during signing up) will be visible to every Visitor and Member. 
 
-We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze inquiry, request and usage patterns so that we may enhance services and Site. DailyStrength reserves the right to use and disclose Anonymous Information to third parties in its discretion.
+We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze inquiry, request, and usage patterns so that we may enhance services and Site. DailyStrength reserves the right to use and disclose Anonymous Information to third parties in its discretion.
 
 **Feedback**
 
@@ -63,9 +63,9 @@ If you provide feedback on any of our products or services to us, we may use suc
 
 **Message Boards and Other Public Forums**
 
-As a service to our Visitors and Members, we feature message boards, chat rooms, and other public forums (each, a "Public Area") where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Any information that you reveal in a chat room, message board or online discussion is by design open to the public. You should think carefully before disclosing any Personal Information in any Public Area. What you post may be seen, disclosed to, or collected by third parties, and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes.
+As a service to our Visitors and Members, we feature message boards, chat rooms, and other public forums (each, a "Public Area") where users with similar interests or medical conditions can share information and support one another, or where users can post questions for experts to answer. Any information that you reveal in a chat room, message board or online discussion is by design open to the public. You should think carefully before disclosing any Personal Information in any Public Area. What you post may be seen, disclosed to, or collected by third parties, and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. 
 
- **Disclosure of Personal Information**
+**Disclosure of Personal Information**
 
 Except as otherwise stated in this Privacy Policy, we do not generally trade, rent, or share your Personal Information with third parties unless you ask us to do so.
 
@@ -85,7 +85,7 @@ We do not intentionally gather Personal Information about visitors who are under
 
 **Other Sites**
 
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. . You should look for and review the privacy statements of each and every website that you visit through a link on our Site.
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. You should look for and review the privacy statements of each and every website that you visit through a link on our Site.
 
 **Security**
 
