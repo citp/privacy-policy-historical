@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022155733id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112091306id_/https%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
 
 # FirstBank Privacy Policy & Disclosure
 
 FirstBank is committed to maintaining the privacy of our customers. We have policies and procedures in place to restrict access to your nonpublic personal information to employees that need to know that information in order to provide products or services to you. We train our employees to protect the confidentiality of your records. In addition, we maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
-We have implemented commercially reasonable security procedures for our Internet Banking Service. More information about the security procedures for the Internet Banking Service is available [here](http://www.efirstbank.com/internetbanking/security.html). 
+We have implemented commercially reasonable security procedures for our Internet Banking Service. More information about the security procedures for the Internet Banking Service is available [here](https://www.efirstbank.com/internetbanking/security.html). 
 
 In regard to Internet usage, cookies are pieces of data assigned by a Web server to the browser on a specific PC. Cookies help web sites recognize return visitors, and cannot be read by a web site other than the one that set the cookie. When someone returns to a web site he or she has visited before, the person's browser gives this data back to the server. 
 
@@ -22,13 +22,13 @@ For Internet Banking enrollment, once the customer has been enrolled for Interne
 
 While visitors can use e-mail to contact us about routine issues and inquiries, e-mail may not be a secure method of communication for time sensitive communication or communication of information that is confidential. We strongly recommend that this type of information not be communicated via e-mail. 
 
-From our web site, we do not knowingly collect or use personal information from children under 14 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](http://www.efirstbank.com/1stbank/exit.html?site=http://www.ftc.gov/).
+From our web site, we do not knowingly collect or use personal information from children under 13 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](https://www.efirstbank.com/1stbank/exit.html?site=http://www.ftc.gov/).
 
-Our privacy policy is posted on our web site and is also available at any of our offices or by telephoning us. We do not sell information about you to third parties for any purpose. We will establish security procedures to confirm your identity. You must take reasonable precautions to maintain the confidentiality of any passwords or personal identification numbers (PINs) that you select or receive from us. 
+Our privacy policy is posted on our web site and is also available at any of our offices or by telephoning us. **We do not sell information about you to third parties for any purpose.** We will establish security procedures to confirm your identity. You must take reasonable precautions to maintain the confidentiality of any passwords or personal identification numbers (PINs) that you select or receive from us. 
 
 In the course of providing our products and services, we collect nonpublic personal information, including credit information, about you from the following sources:
 
-  * Information we receive from you on applications and forms, such as your name, address and phone number;
+  * Information we receive from you on applications and forms, such as your name, address, and phone number;
   * Information about your transactions with us, such as your account activity, payment history, and account balances;
   * Information we receive from consumer reporting agencies, such as your credit report;
   * Information we receive from other third parties, such as your employer when verifying information provided by you on our applications.
@@ -39,9 +39,9 @@ We may disclose nonpublic personal information, as described above, about our cu
 
 We will only disclose information to nonaffiliated third parties as permitted by law. We periodically enter into agreements with third party insurance providers to provide additional financial services to our customers at group rates. In conjunction with the offering of these services, we will only share your name and address with the providers. 
 
-_**If you wish to prevent the sharing of credit information, as described above, please sign the form below, detach and mail it to FirstBank Holding Company, Attention: Opt-Out, 12345 W. Colfax, Ave., Lakewood, CO 80215. Please keep the remaining portion of this disclosure for your records.**_
+_**If you wish to prevent the sharing of credit information, as described above, please sign the form below, detach and mail it to FirstBank Holding Company, Attention: Opt-Out, 12345 W. Colfax Ave., Lakewood, CO 80215. Please keep the remaining portion of this disclosure for your records.**_
 
-_***[FirstBank Affiliates](http://www.efirstbank.com/1stbank/affiliates.html) to which this disclosure applies. **_
+_***[FirstBank Affiliates](https://www.efirstbank.com/1stbank/affiliates.html) to which this disclosure applies. **_
 
 \---------------------------------------------------------------------------------  
 (Detach Here)
