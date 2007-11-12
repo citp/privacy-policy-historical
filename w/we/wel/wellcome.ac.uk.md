@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506163556id_/http%3A//www.wellcome.ac.uk/aboutthissite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112160200id_/http%3A//www.wellcome.ac.uk/aboutthissite/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy statement
 
 The Wellcome Trust regards the lawful and correct treatment of personal information as very important and to this end is fully committed to the principles of data protection, as set out in the Data Protection Act. 
 
-  * [What information we collect about you](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_What_information_we_collect%20about%20y#_What_information_we_collect%20about%20y)
-  * [How we use this information](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_How_we_use_this%20information#_How_we_use_this%20information)
-  * [Surveys](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_Surveys#_Surveys)
-  * [Do we use 'cookies'?](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_Do_we_use_'cookies'?#_Do_we_use_'cookies'?)
-  * [How do we protect personal information?](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_How_do_we_protect%20personal%20informat#_How_do_we_protect%20personal%20informat)
-  * [Do we share your information with anyone else?](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_Do_we_share_your%20information%20with%20a#_Do_we_share_your%20information%20with%20a)
-  * [Your rights](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_Your_rights#_Your_rights)
-  * [How to tell us about changes](https://web.archive.org/web/20070506163556id_/http://www.wellcome.ac.uk/aboutthissite/privacy/null%5BWTD026153%5D%20Privacy%20statement.doc#_Further_information#_Further_information). 
+  * What information we collect about you
+  * How we use this information
+  * Surveys
+  * Do we use 'cookies'?
+  * How do we protect personal information?
+  * Do we share your information with anyone else?
+  * Your rights
+  * How to tell us about changes. 
 
 
 
@@ -59,4 +59,4 @@ You have the right to ask for a copy of the information we hold about you (for w
 
 If you have any questions about data protection or require further information, please email  [dataprotection@wellcome.ac.uk](mailto:dataprotection@wellcome.ac.uk). 
 
-This privacy policy covers the Wellcome Trust website, the  [Wellcome Library website](http://library.wellcome.ac.uk/) and the  [Medical Photographic Library website](http://medphoto.wellcome.ac.uk/ixbin/hixclient.exe?_IXDB_=wellcome&_IXSESSION_=&search-form=main/home.html&submit-button=search). Other websites linked to from these sites are not covered by this policy. 
+This privacy policy covers the Wellcome Trust website, the  [Wellcome Library website](http://library.wellcome.ac.uk/) and the  [Wellcome Images](http://images.wellcome.ac.uk/) website. Other websites linked to from these sites are not covered by this policy. 
