@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207114511id_/http%3A//scea.com/Support/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112060430id_/http%3A//scea.com/Support/PrivacyPolicy) for the most accurate reproduction.*
 
 # PlayStation.com - Support - Privacy Policy
 
-#### Last Revised:  Jan 3, 2007
+English | [Français](https://web.archive.org/Support/PrivacyPolicy/french.html)
+
+#### Last Revised:  Feb 28, 2007
 
 Sony Computer Entertainment America ("SCEA") is committed to respecting the privacy rights of all visitors to our websites. We also recognize that our visitors, and the parents of children visiting our site, need protection of any personally identifying information they choose to share with us. This privacy policy is intended to provide you with the information on how we collect, use and store the information that you provide to us through our web sites and our SOCOM stores, so that you can make appropriate choices for sharing information with us. **Please note that we have a separate privacy policy that covers our collection of information through the PLAYSTATION®Network. Please click[here](http://www.scei.co.jp/ps3-eula/us/us_pp_en.html) for more information about the PLAYSTATION®Network Privacy Policy.** For additional information on our offline privacy policies, please call 1-800-345-7669. 
 
@@ -71,7 +73,7 @@ When you have provided personally identifying information for a particular purpo
 
 We offer all purchasers of our PlayStation product and visitors to our websites the opportunity to become a member of the PlayStation Underground. Consumers may also register for the PlayStation Underground outside of these websites by mail, telephone, by registering their Network Adaptor (Ethernet/Modem) (for PlayStation®2) or their PlayStation®2 with integrated network and line connectors for online gaming through the Online Start-Up Disc or by creating a PLAYSTATION® Network account (see PSN Privacy Policy for details). Consult the product manual for full details.
 
-Membership in the PlayStation Underground is free and grants the member certain rights which may include, but are not limited to, discount offers, game news, free demo discs, access to restricted areas of our websites, the opportunity to be a registered user or subscriber of our websitesand more. We may also share information collected from PlayStation Underground members with other Sony companies, affiliates and subsidiaries, who we think will provide you with additional information you'll enjoy.
+Membership in the PlayStation Underground is free and grants the member certain rights which may include, but are not limited to, discount offers, game news, free demo discs, access to restricted areas of our websites, the opportunity to be a registered user or subscriber of our websites and more. We may also share information collected from PlayStation Underground members with other Sony companies, affiliates and subsidiaries, who we think will provide you with additional information you'll enjoy.
 
 We will give PlayStation Underground Members the opportunity to provide information about themselves on the registration materials, and will from time to time send out surveys or questionnaires for members to provide additional information. Underground Members may also be given the opportunity to link to store locators for our retail partners. We will share your Underground registration number only with our retail partners so that our partner can let us know about any purchases you make. Our partner will delete your number from its records once we have received this information or if you do not make a purchase. We will use the information about your purchases, whether from us or from our retail partners, to update members' records and make their PlayStation experience more enjoyable. 
 
@@ -85,7 +87,7 @@ Additionally, we may also use your personal information for marketing and demogr
 
 PlayStation Underground Members whose information is collected through us.playstation.com will have an additional option to "opt-in" to have their information shared with our promotional partners, licensed software publishers, licensed peripheral makers and other licensees (Our Partners). This will give us the opportunity to work with partners to provide you with additional material on PlayStation and related product, which we think you will enjoy. 
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of SCEA who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact our Consumer Services group through the following link: http://www.us.playstation.com/contactus.aspx?id=select or via telephone at 1-800-345-7669. If you would like to change your current account preferences, please click on the following link: https://secureus.playstation.com/registration/signin.asp.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of SCEA who are California residents to request certain information regarding SCEA’s disclosure within the immediately preceding calendar year of the California resident’s personal information to third parties for their direct marketing purposes.  To make such a request, contact our Consumer Services group through the following link: <http://www.us.playstation.com/Corporate/ConsumerServices> or via telephone at 1-800-345-7669. If you would like to change your current account preferences, please click on the following link: <https://secureus.playstation.com/Registration/SignIn>.
 
 Except for law enforcement and certain third parties that we have engaged to assist us in fulfilling your requests and maintaining our database records, your personally identifying information will not be shared with non-Sony parties unless participants choose this option or register through the PLAYSTATIONNetwork.
 
@@ -99,7 +101,7 @@ We encourage parents to register for the PlayStation Underground on their child'
 
 For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, potential developer contact information) may be shared with other Sony Companies or third parties, depending on the nature of the inquiry. 
 
-Through our job page at http://www.us.playstation.com/jobs.aspx, SCEA allows job seekers to inquire about jobs and submit personal information to apply for employment. If you inquire about a position and create a profile, we may use the personal information that you provide to contact you about positions that may be of interest to you, determine whether or not you qualify for a position or process your employment application. If you create a job profile, you will be asked to provide your email address and create a password. You can use your email address and password to access your account, review the information in your profile, edit and delete your profile at any time.
+Through our job page at http://www.us.playstation.com/jobs/, SCEA allows job seekers to inquire about jobs and submit personal information to apply for employment. If you inquire about a position and create a profile, we may use the personal information that you provide to contact you about positions that may be of interest to you, determine whether or not you qualify for a position or process your employment application. If you create a job profile, you will be asked to provide your email address and create a password. You can use your email address and password to access your account, review the information in your profile, edit and delete your profile at any time.
 
 #### Cookies
 
@@ -140,7 +142,7 @@ San Mateo, CA
 
 #### On the Web Site:
 
-Log into your account and make changes as needed. Here's the link to log in and get you started: <https://secureus.playstation.com/registration/signin.asp>.
+Log into your account and make changes as needed. Here's the link to log in and get you started: [https://secureus.playstation.com/registration/SignIn](https://secureus.playstation.com/registration/signin.asp).
 
 Once you login, go to the My Account section of the site to access your personal information. 
 
