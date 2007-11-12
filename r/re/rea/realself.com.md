@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607213200id_/http%3A//realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112144315id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
-# RealSelf Privacy Policy - RealSelf
+# RealSelf Privacy Policy
 
 RealSelf Privacy Notice
 
@@ -81,3 +81,5 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 **Contact Information** : Please contact RealSelf with any questions or comments about this Privacy Notice using our [feedback](https://web.archive.org/feedback) form. 
 
 Copyright © 2006 RealSelf.com™ 
+
+Use of this website and the posting of any reviews or other content on this website constitutes acceptance of the RealSelf.com™ [Terms of Service](https://web.archive.org/legal). The material on this site is for informational purposes only, and is not a substitute for medical advice, diagnosis or treatment provided by a qualified health care provider. © 2007 RealSelf, Inc. All rights reserved. 
