@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630091822id_/http%3A//www.forescout.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112044623id_/http%3A//www.forescout.com/company/privacy.html) for the most accurate reproduction.*
 
 # Network Access Control and Policy Enforcement Solutions from ForeScout Technologies
 
