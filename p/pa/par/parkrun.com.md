@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505090714id_/http%3A//www.parkrun.com/splash.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112152748id_/http%3A//www.parkrun.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
 
-# UK Time Trials
+# UKTT Home
 
 UK Time Trials Website is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the UK Time Trials Website Web site and governs data collection and usage. By using the UK Time Trials Website website, you consent to the data practices described in this statement.
 
