@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625232853id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112114118id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
 
 # AdEngage - Engaging Internet Advertising - Privacy Policy
-
-Privacy Policy
 
 #### (Last Updated on June 16, 2006)
 
@@ -28,8 +26,6 @@ In the course of using the Site we automatically collect information such as IP 
 
 We provide customer service support through email and phone. In order to provide customer support, we will ask for your email address. Aside from this information, we do not ask for any personal information to provide customer support. We only use information received from customer support requests, including email addresses, for customer support services and we do not transfer or share this information with any third parties. 
 
-How do we use the information you provide us?
-
 We use your personal information such as your name, address, billing and mailing address and credit card number for billing purposes when we charge you for the use of your account. We also will use your email address or phone number to contact you when we provide customer support. 
 
 We use your email address to inform advertisers about the performance of their ads and to inform publishers about any ads that they have sold. 
@@ -40,11 +36,7 @@ We may also provide aggregated information about our visitors to outside parties
 
 We may use the information we collect to optimize our Site, for internal research, to provide information in the aggregate to advertisers about the performance of ads, and to tailor your experience through the Company Features by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary. 
 
-How does Company protect customer information?
-
 We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Any credit card information you supply us is transmitted and protected via Secure Socket Layer technology (“SSL”) and HTTPS protocol and then stored into our databases to be accessed only as stated above. 
-
-Does Company disclose the information it collects from its visitors to outside parties? 
 
 We do not currently sell, trade, or otherwise transfer outside the Company personally identifiable information that visitors voluntarily provide in any account registration. This information is used to better understand how visitors use the Site, to support related transactions made on the site, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. However, this data, in an aggregate form without any personally identifiable information, may be provided to other parties (including advertisers) for marketing, advertising, or other uses, including assessing the effectiveness of their ads. Should you change your mind about the information you’ve provided to us, should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. For further details please see the section below titled **"How do you change the information we have for you?"**
 
@@ -52,31 +44,16 @@ In the event Company goes through a business transition, such as a merger, being
 
 Notwithstanding any other term of this privacy statement, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others’ rights, property, or safety. 
 
-How do you opt in?
-
 In order to opt in to receiving email notifications and updates, please access the "My Account" area of the Site and you may select the **"Please send me email updates and notifications"** option. 
 
 To update, modify or delete the information that we have on file for your account, simply go to the "My Account" section of the Site, log in, and modify your details and settings as necessary. To reduce the occurrence of unauthorized access to your account information, we strongly urge you to periodically change your password. Please note that we require some personal information for billing purposes. If you wish to delete your name, telephone number, email address, billing or mailing address or credit card number, you will be required to terminate your account. 
 
-Third party links and co-brand relationships.
-
 In an attempt to provide increased value to our visitors, we may choose various third party web sites to link to, and frame within, the Site. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the Company Features and the links placed upon each of them and therefore request any feedback on not only the Company Features, but for sites each links to as well (including if a specific link does not work). 
-
-Children’s Online Privacy Protection Act.
 
 Our Site is not intended for use by children, or any person under the age of 18. Consequently, if you are not at least 18 years of age, please do not use our Site or open an account. 
 
-Notification of changes.
-
 By visiting the Site or using the Company Features, you consent to the collection and use of information by us as set forth in this privacy statement. If we decide to change our privacy statement, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-Questions? Contact us.
 
 If you have any questions about our privacy practices or your dealings with the Company Features, please do not hesitate to contact: [contact@adengage.com](mailto:contact@adengage.com)
 
-Terms and Conditions.
-
-Please also read the [Terms of Service](https://web.archive.org/web/20070625232853id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
-
-  
-
+Please also read the [Terms of Service](https://web.archive.org/web/20071112114118id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
