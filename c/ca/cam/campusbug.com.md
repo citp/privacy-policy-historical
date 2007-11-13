@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514164437id_/http%3A//www.campusbug.com/view/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113013331id_/http%3A//www.campusbug.com/view/privacy.php) for the most accurate reproduction.*
 
-# Campusbug.com - Privacy Policy
+# Campusbug - Privacy Policy
 
 |  Privacy Policy   
   
@@ -37,6 +37,6 @@ Medmania is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, 
 11\. Personally Identifiable Information   
 We do not share personally identifiable information with third party sites. Medmania, Inc. is the sole owner and controller of personally identifiable information.   
 12\. Security   
-The security of your personal information is important to us.  If you have any questions about security on our Web site, you can send email us at [customerservice@campusbug.com](mailto:customerservice@campusbug.com). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
+The security of your personal information is important to us. If you have any questions about security on our Web site, you can send email us at [customerservice@campusbug.com](mailto:customerservice@campusbug.com). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
 13\. TELL-A-FRIEND program   
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Campusbug stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [customerservice@campusbug.com](mailto:customerservice@campusbug.com) to request that we remove this information from our database. 
