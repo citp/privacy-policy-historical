@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017091332id_/http%3A//www.frontgatetickets.com/portal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113070758id_/http%3A//www.frontgatetickets.com/portal/privacy.php) for the most accurate reproduction.*
 
 # Front Gate Tickets : Privacy & Security Statement
 
@@ -97,7 +97,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ## Chat Rooms, Message Boards, and Public Forums
 
-Please keep in mind that whenever you voluntarily disclose personal information online—for example on message boards, through e-mail, or in chat areas—that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return, and we take no responsibility for those situations.
+Please keep in mind that whenever you voluntarily disclose personal information online庸or example on message boards, through e-mail, or in chat areas葉hat information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return, and we take no responsibility for those situations.
 
 ## Notification of Changes
 
