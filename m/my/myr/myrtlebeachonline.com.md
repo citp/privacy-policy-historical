@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527112047id_/http%3A//www.myrtlebeachonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114004944id_/http%3A//www.myrtlebeachonline.com/privacy) for the most accurate reproduction.*
 
 # MyrtleBeachOnline.com | Privacy Policy
 
