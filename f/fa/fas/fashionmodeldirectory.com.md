@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611115615id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113034632id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # The Fashion Model Directory (FMD) - FashionModelDirectory.com
 
