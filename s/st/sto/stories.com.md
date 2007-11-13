@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stories.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612130557id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stories.com privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113063001id_/http%3A//www.writing.com/main/privacy.php) for the most accurate reproduction.*
 
 # Writing.Com: Our Privacy Statement
 
@@ -17,9 +17,9 @@ Advertisers
 We use various outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 > We serve advertisements from the following ad companies:  
->  FastClick.Com  
 >  Google.Com  
 >  CasaleMedia.Com  
+>  ValueClick.Com  
 >  and various other companies. 
 
 Registration Forms 
