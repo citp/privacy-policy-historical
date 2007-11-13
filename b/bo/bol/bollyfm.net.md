@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyfm.net privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509172734id_/http%3A//www.bollyfm.net/bollyfm/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyfm.net privacy policy that was archived on 2007-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071113014740id_/http%3A//www.bollyfm.net/bollyfm/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bollywood FM
 
