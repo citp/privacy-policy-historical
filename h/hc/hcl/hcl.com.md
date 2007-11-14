@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505083739id_/http%3A//www.opentext.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114061746id_/http%3A//www.opentext.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Open Text Corporation
 
