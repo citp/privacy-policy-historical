@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606161223id_/http%3A//www.adl.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114165322id_/http%3A//www.adl.org/privacy.asp) for the most accurate reproduction.*
 
 # ADL Privacy Policy
 
