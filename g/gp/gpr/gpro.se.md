@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624211254id_/http%3A//www.gpro.se/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2007-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071114023448id_/http%3A//www.gpro.se/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Grand Prix Racing Online - Privacy policy
 
 _**1\. Introduction**_
 
-This policy covers [Grand Prix Racing Online](http://www.gpro.se/)’s (“[GPRO](http://www.gpro.se/)”) use of personal information collected by [GPRO](http://www.gpro.se/) when you use the website [www.GPRO.se](http://www.gpro.se/). The purpose of this policy is to inform you about the information we collect and how it is used by us. Whenever you submit personal information to this site it shall be subject to this privacy policy.
+This policy covers [Grand Prix Racing Online](http://www.gpro.se/)'s (“[GPRO](http://www.gpro.se/)“) use of personal information collected by [GPRO](http://www.gpro.se/) when you use the website [www.GPRO.se](http://www.gpro.se/). The purpose of this policy is to inform you about the information we collect and how it is used by us. Whenever you submit personal information to this site it shall be subject to this privacy policy.
 
  _ **2\. Collection of Information**_
 
@@ -30,6 +30,6 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 • Determining our registered user total and to estimate data volumes and capacity required.
 
-• Conducting research into [GPRO](http://www.gpro.se/)’s content and services to improve areas of the service in the future.
+• Conducting research into [GPRO](http://www.gpro.se/)'s content and services to improve areas of the service in the future.
 
 • Protecting the security of your account by prompting for re-entry of a password after a certain elapsed time.
