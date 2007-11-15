@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628031829id_/http%3A//www.nationwide.com/nw/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.com privacy policy that was archived on 2007-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071115185541id_/http%3A//www.nationwide.com/nw/privacy/index.htm) for the most accurate reproduction.*
 
 # privacy | Nationwide.com
 
@@ -20,7 +20,7 @@ We also use cookies to create a secure session with customers or visitors who wa
 
 _Clear GIFs (Graphic Interchange Format)_
 
-_A_ clear GIF is small file that tracks visitors so we can learn how they use Web ads and Web sites. These GIFs don’t have any personal information.  Some of our business partners use GIFs on Web sites and may use GIFs provided by DoubleClick. For more information about DoubleClick or to opt out of their GIF, go to [http://www.doubleclick.com/us/about_doubleclick/privacy/](https://web.archive.org/nw/content/redirect.x?url=http://www.doubleclick.com/us/about_doubleclick/privacy/).
+_A_ clear GIF is small file that tracks visitors so we can learn how they use Web ads and Web sites. These GIFs don’t have any personal information.  Some of our business partners use GIFs on Web sites and may use GIFs provided by DoubleClick. For more information about DoubleClick or to opt out of their GIF, go to [ http://www.doubleclick.com/us/about_doubleclick/privacy/](https://web.archive.org/nw/content/redirect.x?url=http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
 We collect and use visitor information – which doesn’t have personal information – so we can: **    **
 
@@ -112,7 +112,7 @@ You can call your Agent to change your personal information. We can’t update 
 
 ### TRUSTe Privacy Program
 
-Nationwide is part of the TRUSTe Privacy Program. TRUSTe will help you resolve your concerns with our Web site. If you have a concern, you should first call Nationwide Customer Relations at 1-800-882-2822 ext. 96985. Then, if you did not receive a satisfactory response, click here for the [TRUSTe Watchdog Dispute Resolution Process](https://web.archive.org/nw/content/redirect.x?url=http://www.truste.org/consumers/watchdog_complaint.php).
+Nationwide is part of the TRUSTe Privacy Program. TRUSTe will help you resolve your concerns with our Web site. If you have a concern, you should first call Nationwide Customer Relations at 1-800-882-2822 ext. 96985. Then, if you did not receive a satisfactory response, click here for the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php).
 
 ### Nationwide Companies
 
