@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2007-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070114171419id_/http%3A//demandforce.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2007-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071115192908id_/http%3A//www.demandforce.com/privacy.shtml) for the most accurate reproduction.*
 
 # Demandforce - Growth, On Demand
 
