@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417230428id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.net privacy policy that was archived on 2007-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071115023242id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Alibaba.com - Import Export Trade Leads
 
@@ -6,7 +6,7 @@
 
 
 ### PRIVACY POLICY   
-(Updated on June 24, 2005)
+(Updated on August 23, 2007)
 
 This is the Privacy Policy governing your use of the Alibaba.com Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Alibaba.com which by use of this Site you agree to accept. 
 
@@ -104,4 +104,8 @@ You can access, view and edit your Registration Information, Publishing Informat
 
 ##  Your feedback 
 
-Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com). 
+Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com).
+
+You can opt out of email communications from Alibaba.com at any time from within each email or by contacting our service team by email at [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com) or by phone at (+86) 571 88157806.
+
+You can also contact us by post at the following address: Alibaba.com Hong Kong Limited, 2403-05, Jubilee Centre, 18 Fenwick Street, Wanchai, Hong Kong. 
