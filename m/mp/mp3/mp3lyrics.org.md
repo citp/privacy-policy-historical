@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629052255id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116103900id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Lyrics Organized : Privacy Policy
 
@@ -16,7 +16,7 @@ In addition to your browser information, mp3lyrics.org log your IP address or ho
 
 ### Cookies
 
-Upon your first visit to Mp3lyrics.org a cookie may be sent to your computer that uniquely identifies your browser. A "cookie" is a completely harmless, small file containing a string of characters that is sent to your computer when you visit a website. Mp3Lyrics.org use cookies to improve the quality of this service and to better understand how people interact with this web site. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you configure your browser to refuse cookies, some features at Mp3lyrics.org will not be working for you. However you will still be able to search for lyrics. You may read more about what cookies are and how they work at the [Cookie Central](http://www.cookiecentral.com/c_concept.htm). 
+Upon your first visit to Mp3lyrics.org a cookie may be sent to your computer that uniquely identifies your browser. A "cookie" is a completely harmless, small file containing a string of characters that is sent to your computer when you visit a website. Mp3Lyrics.org use cookies to improve the quality of this service and to better understand how people interact with this web site. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you configure your browser to refuse cookies, some features at Mp3lyrics.org will not be working for you. However you will still be able to search for lyrics. You may read more about what cookies are and how they work at the [Cookie Central](http://www.cookiecentral.com/c_concept.htm). To use our [song editing service](http://edit.mp3lyrics.org/) your browser has to support the use of cookies, and have this feature enabled! 
 
 ### JavaScript
 
