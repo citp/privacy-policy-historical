@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613141020id_/http%3A//www.onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116080233id_/http%3A//www.onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Online Football Manager
 
