@@ -1,29 +1,103 @@
-<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429125109id_/http%3A//folkd.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2007-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071116090329id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="application/xhtml+xml;  charset=utf-8">
-	<title>folkd.com - Enrich your websurfing experience</title>
+	<meta name="description" content="folkd.com - Social Bookmarking - Save your bookmarks online and share them with your friends. Save and folk pages, news, videos, audio files and blog notes you like.">
+	<meta name="keywords" content="Social Bookmarking, bookmarks, news, web2.0, videos, audios, blogs">
+	<meta name="robots" content="index,nofollow">
+	<title>
+		folkd.com - Enrich your websurfing experience	</title>
+	<script language="javascript" type="text/javascript">
+	var allowed_divs = '';
+	var lastdiv      = 'none';
+	var initdiv		 = '';
+	var tabsets      = new Array();
+	var sliding = false;
+	var OutsideMenu = new Object();
+	var chatwindows   = new Object();
+	var pendingChatRequests   = new Array('---'); // do not change !!! needed for inarray >0 comparison
+	
+	function $(i) {  	 
+	    return document.getElementById(i); 	 
+	}
+	function initTabDIVs( id, alltabs ) {
+		tabsets[id] = new Array();
+		for( i=0; i<alltabs.length; i++ ) {
+			tabsets[id].push( alltabs[i] );
+		}
+	}
+	
+	var OutsideMenu = new Object();
+	function RMenu(e,type,key,action,icon) {
+		var menu 	= document.getElementById(type+'menu'+key);	
+		var img 	= document.getElementById(type+'menuimg'+key);
+		var trigger = document.getElementById(type+'menutrigger'+key);
+			if (type.length>0){
+			switch(action) {
+				case "outTrigger":
+					if (menu.style.display=='none') {
+	
+						trigger.style.backgroundColor='';
+					} else {
+						OutsideMenu[key] = true;
+						setTimeout(function(){RMenu(Event,type,key,'fadeMenu',icon);},600);
+					}
+					break;
+				case "overTrigger":
+					if  (menu.style.display=='none') {
+						trigger.style.backgroundColor='#f1f1f1';
+					} else {
+						OutsideMenu[key] = false;
+					}
+					break;
+				case "clickTrigger":
+					if (menu.style.display=='none') {
+						menu.style.display='block';
+						OutsideMenu[key] = false;
+						some_menu_active = 1;						
+					} else {
+						menu.style.display='none';						
+					}
+					break;
+				case "outMenu":
+					OutsideMenu[key] = true;
+					setTimeout(function(){RMenu(Event,type,key,'fadeMenu',icon);},600);
+					break;
+				case "overMenu":
+					OutsideMenu[key] = false;
+					break;
+				case "fadeMenu":
+					if(OutsideMenu[key]){
+						some_menu_active = 0;
+						menu.style.display = "none";
+						//img.src= 'chrome://folkd/skin/classic/'+icon+'-Down.gif',
+						RMenu(e,type,key,'outTrigger',icon);
+					}
+					break;
+				default:
+					return false;
+					break;
+			}	
+		}
+	}
+	
+	</script>
 	<link rel="stylesheet" href="/styles/folkd.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/styles/form.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/styles/table.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/styles/list.css" type="text/css" media="screen">
-	<!-- style definitions for calendar -->
-	<link rel="stylesheet" href="/styles/calendar.css" type="text/css" media="screen">
+		<!-- style definitions for calendar -->
 	<link rel="shortcut icon" href="/favicon.ico">
-	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.php?items=3&amp;find=0&amp;sort=2">	<script src="/js/scriptaculous/lib/prototype.js" language="javascript" type="text/javascript"></script>
-	<script src="/js/scriptaculous/src/scriptaculous.js" language="javascript" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
-	<script src="/js/common.js" language="javascript" type="text/javascript"></script>
-</head>
+	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.php?items=3&amp;find=0&amp;sort=2">	</head>
 <body id="top">
 	<div id="container">
 		<div id="header">
 			<div id="flags">
-								<a href="/page/privacy.html?lang=en"><img src="/images/flag-usa.gif" alt="use english"></a>
-				<a href="/page/privacy.html?lang=de"><img src="/images/flag-germany.gif" alt="use german"></a>
-				<a href="/page/privacy.html?lang=es"><img src="/images/flag-spain.gif" alt="use spanish"></a>
-				<a href="/page/privacy.html?lang=fr"><img src="/images/flag-france.gif" alt="use french"></a><br>
-				<a href="/page/explore.html">Explore</a> · <a href="/channel">Channels</a> · <a href="/blog">Blog</a> · <a href="/page/feedback.html">Help / Feedback</a>
+											<a href="/page/privacy.html?lang=en"><img src="/images/flag-usa.gif" alt="use english" style="vertical-align:middle;"></a>
+				<a href="/page/privacy.html?lang=de"><img src="/images/flag-germany.gif" alt="use german" style="vertical-align:middle;"></a>
+				<a href="/page/privacy.html?lang=es"><img src="/images/flag-spain.gif" alt="use spanish" style="vertical-align:middle;"></a>
+				<a href="/page/privacy.html?lang=fr"><img src="/images/flag-france.gif" alt="use french" style="vertical-align:middle;"></a><br>
+				<a href="/page/explore.html">Explore</a> · <a href="/channel">Channels</a> · <a href="/blog">Blog</a> · <a href="/page/feedback.html">Help / Feedback</a> · <a href="/page/faq.html">FAQ</a>
 			</div>
 		
 								<div id="title"><a href="/"><img src="/images/title.gif"></a></div>
@@ -31,8 +105,7 @@
 					<div class="spacer clear"></div>
 					<div id="subheader">
 								<div style="font-weight:bold; padding:3px 0px 0 0; width:20px; float:right; text-align:center; margin:0 2px 0 10px;">
-			<img id="link_toogle" class="pointer" src="/images/button-search.gif" onclick="this.blur(); return toggleSearch();">			</div>
-								<span class="grey">Get in touch:</span> 
+			<img id="link_toogle" class="pointer" src="/images/button-search.gif" onclick="this.blur(); $('toggle_search').toggle();return false;"></div>					<span class="grey">Get in touch:</span> 
 					<a href="/page/register.html"><strong>Register</strong></a> for a free account · 
 					Already a member? <a href="/page/login.html"><strong>Login</strong></a>
 							</div>
@@ -44,10 +117,10 @@
 		<input type="hidden" name="global_search_sent" value="1">
 				
 		<div id="global_search_languages">
-			<input class="cb" type="checkbox" id="lang_en" name="lang_en" checked="checked" onclick="updateLanguage('en');"><label for="lang_en"><img src="/images/flag-usa.gif" width="15" height="12" alt="english"></label>
-			<input class="cb" type="checkbox" id="lang_de" name="lang_de" onclick="updateLanguage('de');"><label for="lang_de"><img src="/images/flag-germany.gif" width="15" height="12" alt="german"></label><br>
-			<input class="cb" type="checkbox" id="lang_es" name="lang_es" onclick="updateLanguage('es');"><label for="lang_es"><img src="/images/flag-spain.gif" width="15" height="12" alt="spanish"></label>
-			<input class="cb" type="checkbox" id="lang_fr" name="lang_fr" onclick="updateLanguage('fr');"><label for="lang_fr"><img src="/images/flag-france.gif" width="15" height="12" alt="french"></label>
+			<input class="cb" type="checkbox" id="lang_en" name="lang_en" checked="checked"><label for="lang_en"><img src="/images/flag-usa.gif" width="15" height="12" alt="english"></label>
+			<input class="cb" type="checkbox" id="lang_de" name="lang_de"><label for="lang_de"><img src="/images/flag-germany.gif" width="15" height="12" alt="german"></label><br>
+			<input class="cb" type="checkbox" id="lang_es" name="lang_es"><label for="lang_es"><img src="/images/flag-spain.gif" width="15" height="12" alt="spanish"></label>
+			<input class="cb" type="checkbox" id="lang_fr" name="lang_fr"><label for="lang_fr"><img src="/images/flag-france.gif" width="15" height="12" alt="french"></label>
 		</div>
 		
 		<div id="global_search_filterandsort">
@@ -63,14 +136,11 @@
 			<div>
 				<label for="sort_mode">sort by</label>
 				<select id="sort_mode" name="sort_mode">
-					<!--<option value="0" selected="selected">none</option>-->
 											<option value="16">Recently Saved</option>
 											<option value="2">Popular Today</option>
 					<option value="4">Popular this Week</option>
 					<option value="8">Popular this Month</option>
 					<option value="1">Total Reputation</option>
-					<!--<option value="32" >Recently folkd</option>-->
-					<!--<option value="64" >Recently Discovered</option>-->
 				</select>
 			</div>
 		</div>
@@ -81,13 +151,10 @@
 			<input type="checkbox" id="check_audio" name="check_audio" checked="checked"><label for="check_audio"><img src="/images/dot-audio.gif"></label> <a href="/page/audio.html">audio</a>
 			<input type="checkbox" id="check_news" name="check_news" checked="checked"><label for="check_news"><img src="/images/dot-news.gif"></label> <a href="/page/news.html">news</a>
 			<input type="checkbox" id="check_video" name="check_video" checked="checked"><label for="check_video"><img src="/images/dot-video.gif"></label> <a href="/page/video.html">video</a>
-			<input type="checkbox" id="check_notes" name="check_notes" checked="checked"><label for="check_notes"><img src="/images/dot-notes.gif"></label> <a href="/page/blogs.html">blogs</a>
-		</div>
+			<input type="hidden" id="check_notes" name="check_notes">		</div>
 		
 	</form>
-</div>
-
-<script type="text/javascript" src="/js/global_search.js"></script></div><div id="subpage_navi">
+</div></div><div id="subpage_navi">
 	<strong>business</strong>
 	<ul>
 		<li><a href="/page/contact.html" class="navi_unsel">Contact</a></li>
@@ -200,7 +267,7 @@
 	<br>
 	Effective Date: Mai 24, 2006<br>
 </div>			<div id="prefooter">
-			<div id="prefooter">		<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'"><img id="img_toplink" src="/images/top_off.gif" alt="back to top" title="back to top"></a>
+			<div id="prefooter">		<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'" style="float:right;"><img id="img_toplink" src="/images/top_off.gif" alt="back to top" title="back to top"></a>
 		</div>&nbsp;
 		</div>
 			
@@ -230,13 +297,15 @@
 		· <a href="/page/webpublishers.html">folkd for Web Publishers</a>
 	
 		<br>
-		
-				
- 	<div class="grey size12" style="margin-top:7px; text-align:center;">
-		© 2006 - folkd.com - all rights reserved<br>
-</div>
 	
 		
+ 	<div class="grey size12" style="margin-top:7px; text-align:center;">
+		© 2006 - 2007 - folkd.com - all rights reserved<br>
+</div>
+<script src="/js/scriptaculous/lib/prototype.js" language="javascript" type="text/javascript"></script>
+<script src="/js/scriptaculous/src/scriptaculous.js" language="javascript" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
+<script src="/js/common.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript" src="/js/global_search.js"></script>
 
 	</div>
 
@@ -255,5 +324,6 @@
 	<embed name="mp3_playa" src="/media/mp3_playa.swf" width="1" height="1" quality="high" swliveconnect="true" flashvars="autoplay=false&amp;urlfile=" pluginspage="http://www.macromedia.com/go/flashplayer/" style="position:absolute">
 	
 </object>
+
 
 </body></html>
