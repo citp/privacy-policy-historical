@@ -1,0 +1,395 @@
+<!--The following is the downloaded HTML source of the tokbox.com privacy policy that was archived on 2007-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071116053223id_/http%3A//www.tokbox.com/view/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="http://www.w3.org/2005/11/profile">
+<title>TokBox Privacy Policy</title>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="description" content="Free video calling from any website with no downloads.">
+
+<link rel="icon" type="image/ico" href="/favicon.ico">
+
+<link href="/css/phasein.global.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/js/jquery/plugins/jqModal/css/jquery.jqModal.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+<!-- old -->
+<link href="/files/css/phaseout.screen.css" media="screen,projection" rel="Stylesheet" type="text/css">
+<link href="/files/css/phaseout.home.css" media="screen,projection" rel="Stylesheet" type="text/css">
+<!-- end old -->
+
+<!--[if lte IE 6]>
+<link href="/files/css/phaseout.screen_ie6.css" media="screen,projection" rel="stylesheet" type="text/css" />
+<link href="/css/winIE6.css" media="screen,projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="/files/css/phaseout.screen_ie7.css" media="screen,projection" rel="Stylesheet" type="text/css" />
+<link href="/css/winIE7.css" media="screen,projection" rel="Stylesheet" type="text/css" />
+<![endif]-->
+
+
+<style type="text/css">
+div#tbx_progress > div.tbx_bar  { 
+	width: %;
+ } 
+</style>
+
+
+<!-- global script vars -->
+<script type="text/javascript">
+/* Global Static Properties */
+	if (typeof(tokbox) == 'undefined') tokbox = new Object();
+	tokbox.PROFILE 	= new Object(); // all non-self profile info.
+	tokbox.USER 	= new Object(); // all self profile info.
+	tokbox.FLASH 	= new Object(); // all flash info.
+	tokbox.SESSION	= new Object(); // all session info.
+	tokbox.SERVER	= new Object(); // all server info.
+	tokbox.ERRORS	= new Object(); // all errors
+	tokbox.SESSION.id 	= "0";
+	tokbox.USER.id		= "0";
+	tokbox.USER.idBeingViewed = "";
+	tokbox.USER.uname 	= "";
+	tokbox.USER.p		= "";
+	tokbox.FLASH.room	= "guestroom";
+	tokbox.FLASH.thisRoom	= "";
+	tokbox.FLASH.tokBoxUrl	= "invalid";
+	tokbox.SERVER.url 	= "server4.tokbox.com";
+</script>
+<!-- old -->            
+<script src="/js/static_js_071013.js" type="text/javascript"></script>
+<!-- end old -->
+<!-- global instantiator loads last -->
+<script src="/js/md5.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.tokbox.min.js" type="text/javascript"></script>
+</head>
+<body>
+	
+	<div id="tbx_miniFeedback">
+	<div class="tbx_tab block"></div>
+	<div class="tbx_form hidden">
+		<form name="tbx_miniFeedbackForm" class="block">
+			<h3>GIVE FEEDBACK!</h3>
+			<select name="reason">
+				<option value="bug">Found a bug?</option>
+				<option value="tip">Suggestions!</option>
+				<option value="help">Need help?</option>
+				<option value="other">Anything else...</option>
+			</select>
+			<textarea name="feedback"></textarea>
+						<div class="tbx_field">
+				<label for="tbx_fbEmail" style="color: white; margin-top: 5px;">Optional email for replies:</label>
+				<input id="tbx_fbEmail" type="text" name="email">
+			</div>
+						<button class="send" type="submit">Send!</button>
+			<button class="close" type="reset">Close</button>
+		</form>
+		<div class="tbx_interstitial hidden">
+			<h3>Sending Feedback...</h3>
+			<p>
+				Learn more about TokBox! Visit our <a href="http://tokbox.com/view/help.php" title="Learn more about TokBox">help section</a>. 
+				Or, call our <a href="http://tokbox.com/tok2lauren" title="Call our support TokBox">support TokBox</a>.
+			</p>
+			<p><a href="Close this message." class="close">[close this message]</a></p>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+	<div id="tbx_blog">
+		<a href="http://76.74.155.73/blog" title="Read the TokBox Blog! It's fun!" target="_blank"><span>blog</span></a>
+	</div>
+
+	<div id="tbx_header">
+		<h1 class="tbx_logo"><a href="/"><span>TokBox</span></a></h1>
+								
+		<div id="tbx_login">
+  	<h3><span id="tbx_loginErrorMsg" class="hidden" style="font-size:90%; color:#CC0000;"></span></h3>
+	<form id="tbx_loginForm" action="/login.php" method="post">
+		<div class="col">	
+	    <label for="username">login [email]</label>
+			<input name="username" type="text" id="tbx_loginUsername" class="text" value="" tabindex="1">
+		</div>
+		<div class="col">
+			<label for="tbx_fauxPassword">password</label>
+			<input name="fauxPassword" type="password" id="tbx_fauxPassword" class="text" value="" tabindex="2" size="30">
+			<input name="password" type="password" id="tbx_loginPassword" class="hidden">
+		</div>
+		<button type="submit" id="tbx_loginSubmit" tabindex="3">login</button>
+	</form>
+	<div id="tbx_loginForgotPass">
+		<a href="/view/forgotpass.php" style="font-size:10px; color:#666666">Forgot password?</a>
+	</div>
+</div>		<div id="tbx_mainNav" class="tbx_navigation">
+	<ul>
+		<li><a href="/blog">blog</a></li>
+		<li><a href="/view/help.php">help</a></li>
+		<li><a href="/view/about.php">about</a></li>
+		<li><a href="/">sign up</a></li>	</ul>
+</div>		
+			<object type="application/x-shockwave-flash" data="/fms/sig.swf?l=0&amp;p=" width="0" height="0"> 
+		<param name="movie" value="/fms/sig.swf?l=0&amp;p=">
+	</object>
+	</div><div id="tbx_trunk">
+	<div id="tbx_privacy" class="tbx_main">
+
+	<h1>TokBox Privacy Policy</h1>
+	
+	<h3>About TokBox</h3>
+	<p>
+		TokBox is a web-initiated video communications service. TokBox members control, and can change at any time, their personal information that is available to others.
+	</p>
+	<p>
+		TokBox cares deeply about online privacy. If you have any questions concerning this privacy policy, please contact us in writing by visiting our Contact page.
+	</p>
+	
+	
+	<h3>Information Collection and Use by TokBox</h3>
+	<p>
+		TokBox collects user submitted information such as name, email address, phone number, and age to authenticate users and to send notifications to those users relating to the TokBox service. TokBox also logs non-personally-identifiable information including IP address, time zone, profile information, aggregate user data, and browser type, from users and visitors to the site. Such data are used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+	</p>
+	<p>
+		User information, including members' pictures and user names, are displayed to people in order to facilitate user interaction. Email addresses are used for the purposes of inviting new friends to join TokBox and to send notifications related to the service. With the exception of notifications and invitations, a user's email address is not shared or displayed to others. To facilitate searching and finding interesting content on the service, TokBox may allow users to search for other members using first and last name, email address, and other standard search strategies. We may also use a user's email address to send updates, a newsletter or news regarding the service. From time to time, TokBox or a partner may sponsor a promotion, sweepstake or contest on TokBox. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+	</p>
+	
+	
+	<h3>Invitations and Other Communications to Non-members</h3>
+	<p>
+		TokBox members can invite other people to join the service by sending invitation emails via our automated invitation system. TokBox stores the email addresses that members provide so that the respondents may be added to the contact's list of the member sending the invitations, and also to send reminders of the invitations. TokBox does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from TokBox may contact TokBox to request the removal of their information from our database. 
+	</p>
+	<p>
+		TokBox members may also store email addresses of people they know in their internal TokBox address book and may also choose to send invitations and other communications to those addresses.
+		You may prevent TokBox email invitations and other messages from being sent to any email address you control by contacting us in writing through our Contact page or by replying to any email message we send you with the words "unsubscribe" in the Subject line. 
+	</p>
+	
+	
+	<h3>Use of Cookies</h3>
+	<p>
+		TokBox uses cookies to store visitors' preferences and to record session information, for purposes including ensuring compliance with our terms and policies, to improve the user experience with our services, and to customize Web page and widget content based on browser type and user profile information. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. Please note that TokBox may allow third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the TokBox Privacy Policy. 
+	</p>
+	
+	
+	<h3>Links</h3> 
+	<p>
+		TokBox may contain links to other sites. TokBox is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on TokBox. 
+	</p>
+	
+	
+	<h3>Public Postings</h3>
+	<p>
+		Please be aware that whenever you voluntarily post or communicate public information on TokBox that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+		Correcting/Updating or Removing Information
+	</p>
+	<p>
+		TokBox users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Account/Settings page. 
+	</p>
+	
+	
+	<h3>Third Party Advertising</h3>
+	<p>
+		Advertisements appearing on our site may be delivered to users by TokBox or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by TokBox and does not cover the use of cookies by any advertisers. 
+	</p>
+	
+	
+	<h3>Security</h3>
+	<p> 
+		TokBox member accounts are secured by member-created passwords. TokBox takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on TokBox, please contact us in writing by visiting our Contact page.
+	</p>
+	
+	
+	<h3>Sharing and Disclosure of Information TokBox Collects</h3>
+	<p>
+		Except as otherwise described in this privacy statement, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by TokBox, whether or not a response is required by applicable law; (2) to enforce the TokBox Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. TokBox reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of TokBox or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below. 
+	</p>
+	
+	
+	<h3>Changes in Our Privacy Policy</h3>
+	<p>
+		From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site(s) to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our site for thirty days. 
+	</p>
+	<h3>Contacting the Web Site</h3>
+	<p>
+		If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us in writing by visiting our Contact page.
+	</p>
+	
+	</div>
+</div><!-- BEGIN Footer -->
+<div id="tbx_footerWrap">
+	<div id="tbx_footer">
+		<ul class="tbx_subNav">
+					<li><a href="/view/jobs.php">jobs</a></li>
+			<li><a href="/view/contact.php">contact</a></li>
+			<li><a href="/view/team.php">team</a></li>
+			<li><a href="/view/about.php">about</a></li>
+			<li><a href="/view/developer.php">api</a></li>
+			<li><a href="/terms.php">legal</a></li>
+			<li><a href="/view/help.php">help</a></li>
+			<li><a href="/blog">blog</a></li>
+		</ul>
+				
+		<div class="tbx_copy">© 2007 TokBox, Inc.</div>
+	</div>
+</div>
+<!-- END Footer -->
+
+
+<!-- BEGIN New Overlay Code -->
+<div class="jqmWindow" id="tbx_share">
+	<div id="tbx_gigyaWidget" class="tbx_overlay">
+		<h1>Embed TokBox everywhere!</h1>
+		<div class="tbx_overlayBody">
+			<div id="tbx_gigyaEmbed">
+	<textarea id="tbx_gigyaContent" style="display: none">invalid&lt;div style="text-align: center;"&gt;Get your own TokBox at &lt;a href="http://tokbox.com/?e=" target="_blank"&gt;www.tokbox.com&lt;/a&gt;.&lt;/div&gt;</textarea>
+	<div id="tbx_wildfirePost"></div>
+</div>			<div style="width: 490px; margin: 10px auto;">
+<p style="margin-top: 10px;">Share Your Link: [good for IM or email!]</p>
+<p><input name="link_code" type="text" class="text" id="link_code2" onclick="this.focus();this.select();" value="http://www.tokbox.com/0" style="width: 360px; font-weight:bold;"></p>
+<button type="button" class="tbx_closeOverlay" style="margin-top: 15px;"><span>Close Window</span></button>
+</div>		</div>
+	</div>
+</div>
+<div class="jqmWindow" id="tbx_vmail">
+	<div id="tbx_vmailOverlay" class="tbx_overlay">
+	<h1>Send video mail</h1>
+	<div class="tbx_xClose tbx_closeOverlay"></div>
+	<div class="tbx_overlayBody">
+		<div id="tbx_vmailWidget" class="block">
+			<form id="tbx_vmailForm" name="vmailForm" autocomplete="off">		
+			<div class="tbx_steps">
+				<div id="tbx_vmailRecorder" class="tbx_vmailRecorder"></div>
+				<textarea id="tbx_vmailText" class="tbx_vmailText" name="text" rows="3" cols="40">Type a message.</textarea>		
+			</div>
+			<div class="tbx_steps" style="margin-left: 10px;">
+			
+				<div class="tbx_field" style="margin: 10px 0; width: 333px;">
+					<div id="tbx_staticTo" class="hidden">
+						<span>To:</span>
+						<span id="tbx_staticDisplayName"></span>
+					</div>
+					<label id="tbx_toLabel" for="tbx_vmailEmail" style="float: left;margin-top: 3px;">To:</label>
+					<input id="tbx_vmailEmail" type="text" name="emails" class="tbx_vmailEmail left">
+					<div class="clear"></div>
+					<p style="color: grey;margin-left: 40px;">type comma separated emails</p>
+				</div>
+				<div id="tbx_chosenTbxEmails" class="block" style="margin: 10px 0;">
+					<a href="" id="tbx_vmailContactsAbove" class="tbx_getEmailContacts hidden">[+] Add address book emails</a>
+					<div id="tbx_emlScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_vmailContacts" class="tbx_getEmailContacts block" style="line-height: 50px; width: 100%; text-align: center;">[+] Add address book emails</a></div>
+				</div>
+				<div id="tbx_chosenTbxContacts" class="block" style="margin: 10px 0;">
+					<a href="" id="tbx_tokboxContactsAbove" class="tbx_getTokBoxContacts hidden">[+] Add TokBox contacts</a>
+					<div id="tbx_tbScraperList" class="tbx_scraperList" style="height: 50px;"><a href="" id="tbx_tokboxContacts" class="tbx_getTokBoxContacts block" style="line-height: 50px; width: 100%; text-align: center;">[+] Add TokBox contacts</a></div>
+				</div>
+			</div>
+			<div class="clear" style="margin-bottom: 30px;"></div>
+			<div class="" style="position: absolute; bottom: 15px; right: 15px; text-align: right;">
+				<button type="submit" class="tbx_btnSendVmail" style="margin-right: 10px;">Send &gt;</button>
+				<button type="reset" class="tbx_closeOverlay">Cancel</button>
+			</div>
+			<input id="tbx_vid" type="hidden" name="vid" value="">
+			</form>
+		</div>
+		<div id="tbx_vmailsConfirmed" class="tbx_overlayConfirm hidden">
+			<h3>Your video mail was sent successfully!</h3>
+			<button type="reset" class="tbx_closeOverlay">Close</button>
+		</div>
+	</div>
+</div></div>
+	<div class="jqmWindow" id="tbx_aim">
+	<div id="tbx_aimWidget" class="tbx_overlay">
+		<h1>Invite Friends</h1>
+		<div class="tbx_xClose tbx_closeOverlay"></div>
+		<div class="tbx_overlayBody">
+			<div id="tbx_imWidget">
+	<div id="tbx_imImport" class="block">
+		<p>Log-in to select a friend to call and receive messages when friends call you.</p>
+		<form id="tbx_getImContacts" name="getImContacts" method="" action="" autocomplete="off">
+		<span id="tbx_imError" class="tbx_error"></span>
+		<div class="tbx_inputGroup" style="width:360px; margin-left: 110px;">
+			<div class="tbx_field">
+				<input id="tbx_aimIM" type="radio" name="imtype" value="1" checked="checked">
+				<label for="tbx_aimIM" class="tbx_nofloat"><img src="/files/img/AIM.gif" alt="AIM">AOL Instant Messenger</label>
+			</div>
+			<div class="tbx_field">
+				<input id="tbx_msnIM" type="radio" name="imtype" value="2">
+				<label for="tbx_msnIM" class="tbx_nofloat"><img src="/files/img/MSN.gif" alt="MSN">Windows Live MSN Messenger</label>
+			</div>
+			<div class="tbx_field" style="margin-bottom:10px;">
+				<input id="tbx_yahIM" type="radio" name="imtype" value="3">
+				<label for="tbx_yahIM" class="tbx_nofloat"><img src="/files/img/Y!.gif" alt="Yahoo">Yahoo! Messenger</label>
+			</div>
+			<div class="tbx_field">
+				<label for="tbx_imUsername">Login:</label>
+				<input name="imuser" type="text" id="tbx_imUsername">
+			</div>
+			<div class="tbx_field" style="margin-bottom:10px;">
+				<label for="tbx_imPassword">Password:</label>
+				<input name="impass" type="password" id="tbx_imPassword">
+				<small class="block">Your password is never saved.</small>
+			</div>
+			<button type="submit" id="tbx_aimSend" class="left" style="margin-right: 10px;">Continue</button>
+							<button type="button" class="tbx_closeOverlay left">Cancel</button>
+						<div class="clear"></div>
+		</div>
+		</form>
+	</div>
+	<div id="tbx_imInvites" class="hidden">
+		<form name="inviteImContacts" method="" action="" autocomplete="off">
+			<p style="color: grey; margin: 10px 0 15px 0;"><strong>Success:</strong> You'll receive messages when your friends call.</p>
+			<h3>Share TokBox with your friends.</h3>
+			<div id="tbx_imMessage">Message: "Hey, how about we talk on TokBox?"</div>
+			<div id="tbx_imContacts" class="tbx_scraperList"></div>
+			<div class="tbx_checkAll">
+				<a class="tbx_checkAll" href="all" target="tbx_imContacts">Check all</a> / <a class="tbx_uncheckAll" href="none" target="tbx_imContacts">Uncheck All</a>
+			</div>
+			<div class="tbx_buttons">
+				<button id="tbx_selectImContacts" class="tbx_close2ndOverlay left" type="submit" style="margin-right: 10px;">Send</button>
+									<button id="tbx_cancelImContacts" class="tbx_closeOverlay" type="button">Cancel</button>
+								<div class="clear"></div>
+			</div>
+			<input id="tbx_imInvitePass" type="password" name="impass" class="hidden" value="">
+			<input id="tbx_imInviteUser" type="hidden" name="imuser" value="">
+			<input id="tbx_imInviteType" type="hidden" name="imtype" value="">
+		</form>
+	</div>
+	<div id="tbx_invitesConfirmed" class="tbx_overlayConfirm hidden">
+		<h3>Your IM invitations were sent successfully!</h3>
+					<button id="tbx_resetIM" class="tbx_closeOverlay" type="button">Close</button>
+			</div>
+</div>
+				</div>
+	</div>
+</div><div id="tbx_contactsOverlay" class="tbx_2ndOverlay jqmWindow jqmAbove">
+	<h1>Add TokBox Contacts</h1>
+	<div class="tbx_xClose tbx_close2ndOverlay"></div>
+	<div class="tbx_overlayBody">
+		<p><strong class="tbx_error hidden"></strong></p>
+		<div>
+			<a class="tbx_checkAll" href="all" target="tbx_tbContacts">Check all</a> / <a class="tbx_uncheckAll" href="none" target="tbx_tbContacts">Uncheck All</a>
+		</div>
+		<div id="tbx_tbContacts" class="tbx_scraperList"></div>
+		<div>
+			<a class="tbx_checkAll" href="all" target="tbx_tbContacts">Check all</a> / <a class="tbx_uncheckAll" href="none" target="tbx_tbContacts">Uncheck All</a>
+		</div>
+		<div class="tbx_buttons">
+			<button id="tbx_selectContacts" class="tbx_selectContacts tbx_close2ndOverlay" type="button">Continue</button>
+			<button class="tbx_cancelContacts tbx_close2ndOverlay" type="button">Cancel</button>
+		</div>
+	</div>
+</div>
+<div id="tbx_emailsOverlay" class="tbx_2ndOverlay jqmWindow jqmAbove">
+	<h1 class="tbx_emailTitle">Contact Manager</h1>
+	<div class="tbx_xClose tbx_close2ndOverlay"></div>
+	<div class="tbx_overlayBody"></div>
+</div>
+<!-- END New Overlay Code -->
+
+<div id="tbx_bloop1" class="tbx_blooper"></div>
+<div id="tbx_bloopSound" class="invisible"></div>
+
+<!--  Server: 76.74.155.73 CDN:  -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-462500-3";
+urchinTracker();
+</script>
+
+</body></html>
