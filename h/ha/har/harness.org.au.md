@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609084034id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harness.org.au privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116121713id_/http%3A//www.harness.org.au/index.cfm%3Fp%3Dp%26id%3D/privacy.cfm) for the most accurate reproduction.*
 
 # Harness Racing in Australia - Official Site
 
@@ -18,11 +18,11 @@ If you have registered to receive e-mail communications about services from us a
 
 You can send and e-mail to [onlinecoord@harness.org.au](mailto:onlinecoord@harness.org.au.) . You can send mail to the following address:
 
-Web Administrator  
-Harness Racing in Australia  
-PO Box 358  
-Bankstown   NSW  2200  
-Australia
+Web Administrator - Harness Racing in Australia  
+C/- Harness Racing Victoria  
+PO BOX 184  
+MOONEE PONDS VIC 3039  
+AUSTRALIA
 
 **Web user statistics**  
 When you look at this web site, our hosting service (Fujitsu Australia Ltd) makes a record of your visit and logs the following information for statistical purposes:
@@ -44,6 +44,6 @@ your personal name is not collected.
 **Banner ads  
 **This site, Harness Racing in Australia, may from time to time use the services of  a banner advertising firm for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the firm may collect anonymous data through the use of cookies. 
 
-© Copyright 2005 Racing Information Services Enterprise (NSW Greyhound and Harness Racing Regulatory Authority & Harness Racing Victoria).   
+© Copyright 2007 Racing Information Services Enterprise.   
 This Web site is a shared facility of the State controlling bodies, Australian Harness Racing Council, Inter Dominion Harness Racing Council and the Clubs around Australia. All material on this website is the intellectual properties of one or more of these bodies. It may not be copied or re-transmitted except with express approval. To apply for approval to use any material email: [onlinecoord@harness.org.au ](mailto:onlinecoord@harness.org.au)  
 
