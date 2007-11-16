@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516211338id_/http%3A//www.alexa.com/site/help/privacy%3Fp%3DDest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116093458id_/http%3A//www.alexa.com/site/help/privacy) for the most accurate reproduction.*
 
 # Alexa Web Search - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Alexa Internet Privacy Policy
 
- **Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20070516211338id_/http%3A//www.alexa.com/site/help/redline))  
+ **Updated 17 March 2003**  
  
 
 Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/site/help/terms), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
