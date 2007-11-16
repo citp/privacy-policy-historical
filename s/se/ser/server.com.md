@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625024957id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116012022id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
 
 # Server.com Privacy Policy
+
+## Server.Com Privacy Policy
 
 Server.com recognizes that its customers need to know Server.com will respect and protect the privacy of information placed in a Server.com WebApp or GroupApp. This document describes how Server.com safeguards your privacy and treats personal information. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.
 
@@ -22,7 +24,7 @@ We have three exceptions to this policy. We will release specific information ab
 
 **3\. We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your personal information.**
 
-We use industry-standard technology to keep your personal informationing your billing and account informationsecure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private.
+We use industry-standard technology to keep your personal information and your billing and account information as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private.
 
 Every Server Corporation employee is obligated to abide by the Server.com privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
 
@@ -35,3 +37,5 @@ We use third-party advertising companies to serve ads when you visit our website
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 If you'd like to comment on or have questions about our privacy policy, have a concern or policy violation you wish to report, or wish to change or delete the customer information you submitted to Server.com, please contact Customer Support at support@server.com or by calling (617) 249-0756.
+
+Copyright © [Server Corporation](http://server.com/). All Rights Reserved.
