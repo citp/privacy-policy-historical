@@ -1,0 +1,614 @@
+<!--The following is the downloaded HTML source of the footy-boots.com privacy policy that was archived on 2007-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071116143957id_/http%3A//www.footy-boots.com/privacy-statement) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="Football Boots, reviews, news, video and football boot information from the manufacturers, players and ex pro's. ">
+<meta name="keywords" content="Football Boots, Footy Boots, Soccer Boots, soccer cleats">
+<meta name="robots" content="all">
+<meta name="verify-v1" content="t0W0WvRoeqpU75+3FKEPwDSJxo8BQBkRkwZMVmNng/A=">
+<link rel="stylesheet" type="text/css" href="http://www.footy-boots.com/wp-content/themes/footy-boots/style.css">
+<link rel="alternate" type="application/rss+xml" title="Footy Boots Blog" href="http://www.footy-boots.com/feed/">
+<link rel="alternate" type="text/xml" title="Footy Boots Blog" href="http://www.footy-boots.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Footy Boots Blog" href="http://www.footy-boots.com/feed/atom/">
+<link rel="pingback" href="http://www.footy-boots.com/xmlrpc.php">
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" language="javascript">
+<!--
+function show_logform(){
+	if(document.getElementById("log_form").style.display=="none"){
+		document.getElementById("log_form").style.display = "block";
+	}else if(document.getElementById("log_form").style.display=="block"){
+		document.getElementById("log_form").style.display = "none";
+	}
+}
+-->
+</script>
+<title>
+   Privacy Statement - Football Boots, Footy Boots</title>
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.footy-boots.com/xmlrpc.php?rsd">
+<script language="javascript" type="text/javascript">
+<!--
+		function collapseThread( theId, commentID ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");
+        var Display = document.getElementById('collapse-div-'+ commentID +'');
+        Display.innerHTML = "<b>(-)</b>";
+			} else {
+				comment.className += " collapsed";
+        var Display = document.getElementById('collapse-div-'+ commentID +'');
+        Display.innerHTML = "<b>(+)</b>";
+			}
+		}
+
+		function expandThread( theId ) {
+			var comment = document.getElementById(theId);
+			if(!comment)
+			{
+				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
+				return;
+			}
+			var theBody = findBody(comment);
+			if(comment.className.indexOf("collapsed") > -1) {
+				comment.className = comment.className.replace(" collapsed", "");
+			} 
+		}
+		
+		function findBody(el)
+		{
+			var divs = el.getElementsByTagName("div");
+			var ret;
+			for(var i = 0; i < divs.length; ++i) {
+				if(divs.item(i).className.indexOf("body") > -1)
+					return divs.item(i);
+			}
+			return false;
+		}
+	
+		function onAddComment() {
+			//checkDocumentIntegrity();
+			var el = document.getElementById("commentform");
+			// Future release: Check if form is filled correctly and mark the form fields.
+			el.submit();
+		}
+		
+		function moveAddCommentBelow(theId, threadId, collapse)
+		{
+			expandThread( theId );
+			var addComment = document.getElementById("addcomment");
+			if(!addComment)
+			{
+			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
+				return
+			}
+			var comment = document.getElementById(theId);
+			if(collapse)
+			{
+				for(var i = 0; i < comment.childNodes.length; ++i) {
+					var c = comment.childNodes.item(i);
+					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
+						c.className += " collapsed";
+					}
+				}
+			}
+			addComment.parentNode.removeChild(addComment);
+
+			comment.appendChild(addComment);
+			if(comment.className.indexOf("alt")>-1) {
+				addComment.className = addComment.className.replace(" alt", "");					
+			} else {
+				addComment.className += " alt";
+			}
+		        var replyId = document.getElementById("comment_reply_ID");
+			if(replyId == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
+			}
+			replyId.value = threadId;
+			var reRootElement = document.getElementById("reroot");
+			if(reRootElement == null)
+			{
+				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
+			}
+			reRootElement.style.display = "block";
+			var aTags = comment.getElementsByTagName("A");
+			var anc = aTags.item(0).id;
+			//document.location.href = "#"+anc;
+			document.getElementById("comment").focus();
+		}
+
+		function checkDocumentIntegrity()
+		{
+			str = "";
+			
+			str += checkElement("reroot","div tag");
+			str += checkElement("addcomment", "div tag");
+			str += checkElement("comment_reply_ID", "hidden form field");
+			str += checkElement("content", "div tag");
+			str += checkElement("comment", "textfield");
+			str += checkElement("addcommentanchor", "anchor tag");
+			
+			if(str != "")
+			{
+				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
+				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
+
+				alert(str);
+			}
+		}
+               
+		function checkElement(theId, elDesc)
+		{
+			var el = document.getElementById(theId);
+			if(!el)
+			{
+				if(elDesc == null)
+					elDesc = "element";
+				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
+			}
+			else 
+				return "";
+		}
+		
+		function reRoot()
+		{
+			var addComment = document.getElementById("addcomment");			
+			var reRootElement = document.getElementById("reroot");
+			reRootElement.style.display = "none";
+			var content = document.getElementById("content");
+			addComment.parentNode.removeChild(addComment);
+			content.appendChild(addComment);
+			addComment.className = addComment.className.replace(" alt", "");
+			document.location.href = "#addcommentanchor";
+			document.getElementById("comment").focus();				
+			document.getElementById("comment_reply_ID").value = "0";
+		}			
+		
+		function changeCommentSize(d)
+		{
+			var el = document.getElementById("comment");
+			var height = parseInt(el.style.height);
+			if(!height && el.offsetHeight)
+				height = el.offsetHeight;
+			height += d;
+			if(height < 20) 
+				height = 20;
+			el.style.height = height+"px";
+		}		
+-->
+</script>
+<style type="text/css">
+.comment 
+{
+	position: 				relative;
+	margin:					3px;
+	margin-top:				6px;
+/*	border: 				1px solid #666; */
+	padding:				4px 4px 4px 8px;
+	background-color:		#fff;
+}
+
+.odd
+{
+	background-color: #f8f8f8;
+}
+
+.comment div {
+	position: 				relative;
+}
+
+.comment .comment img
+{
+	margin: 				0px;
+}
+
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	/*background-image: 		url(http://www.footy-boots.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);*/
+}
+
+.collapsed .collapseicon 
+{
+/*	background-image: 		url(http://www.footy-boots.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);*/
+}
+
+
+.comment .reply {
+	text-align: 			right;
+	font-size: 				80%;
+	padding: 				0px 6px 6px 0px;
+}
+
+.comment
+{
+	border: 	1px solid #ddd;
+	margin-top: 			10px;
+}
+
+input#subscribe
+{
+	width: auto;
+}
+
+.comment .body .content
+{
+	padding:				0px 3px 0px 3px;
+	width: 					280px;	
+	overflow: 				auto; 
+}
+
+.comment .title abbr
+{
+	border: none;
+}
+
+.collapsed .body, .collapsed .comment
+{
+	display:				none;
+}
+/*
+#addcomment small, #addcomment div
+{
+	padding:				3px;
+}
+*/
+#commentform textarea {
+	width: 280px;
+}
+</style>
+
+<!-- Start Of Script Generated By WP-Polls 2.20 -->
+<script type="text/javascript" src="http://www.footy-boots.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.footy-boots.com/wp-content/plugins/polls/polls-js.php?ver=2.20"></script>
+<link rel="stylesheet" href="http://www.footy-boots.com/wp-content/plugins/polls/polls-css.css" type="text/css" media="screen">
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.footy-boots.com/wp-content/plugins/polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- End Of Script Generated By WP-Polls 2.20 -->
+
+
+<!-- GBCF -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.footy-boots.com/wp-content/plugins/wp-gbcf/wp-gbcf_themes/classic.css">
+<!--[if IE]><script src="http://www.footy-boots.com/wp-content/plugins/wp-gbcf/wp-gbcf_focus.js" type="text/javascript"></script><![endif]-->
+<!-- GBCF -->
+
+</head>
+<body>
+<div id="header">
+	<div id="logo"><a href="/"><img src="http://www.footy-boots.com/wp-content/themes/footy-boots/images/sitewide/logo.gif" alt="Football Boots" width="150" height="66"></a></div>
+  <ul style="width:700px">
+				<li class=""><a href="/">Home</a></li>
+		<li class=""><a href="/blog">Articles</a></li>
+		<li class="page_item"><a href="http://www.footy-boots.com/about/" title="About">About</a></li>
+<li class="page_item"><a href="http://www.footy-boots.com/contact/" title="Contact">Contact</a></li>
+<li class="page_item"><a href="http://www.footy-boots.com/advertise/" title="Advertise">Advertise</a></li>
+		<li><a href="/members">Members</a></li>
+        <li class="page_item"><a href="http://www.footy-boots.com/members/awards/">Awards</a></li>
+		<li><a href="http://www.kitbag.com/footy-boots">Shop</a></li>
+        <li class="page_item"><a href="http://www.footy-boots.com/forum/" title="Forum">Forum</a></li>
+
+  </ul>
+</div>
+<div style="text-align:center;clear:both;width:100%;padding:0 0 6px 0;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1730697857240577";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+//2007-08-29: FB - Single - Toplink
+google_ad_channel = "2709867185";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "333333";
+google_color_text = "333333";
+google_color_url = "8DC73F";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="column-holder">		<div id="column-left-blog">
+		    <div class="home-content" style="border:none;padding-bottom:8px;"> 
+				<script type="text/javascript"><!--
+				google_ad_client = "pub-1730697857240577";
+				google_ad_width = 180;
+				google_ad_height = 90;
+				google_ad_format = "180x90_0ads_al_s";
+				//2007-08-28: FB - Sidebar
+				google_ad_channel = "0871904253";
+				google_color_border = "FFFFFF";
+				google_color_bg = "FFFFFF";
+				google_color_link = "333333";
+				google_color_text = "333333";
+				google_color_url = "8DC73F";
+				//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			</div>
+			<div class="home-title">
+      <span class="l">Search</span>
+			</div>
+    	<div class="home-content">		
+				<form id="searchform" method="get" action="http://www.footy-boots.com">
+        	<p><label for="s">Search Footy Boots</label></p>
+					<p><input type="text" name="s" id="s" size="15"></p>
+					<p><input type="submit" value="Search"></p>
+				</form>
+			</div>
+			<div class="home-title">	
+      <span class="l">Categories</span>
+			</div>
+    <div class="home-content"> 
+      <ul class="list-menu">
+					<li><a href="http://www.footy-boots.com/category/adidas/" title="View all posts filed under Adidas Football Boots">Adidas Football Boots</a> (108)
+</li>
+	<li><a href="http://www.footy-boots.com/category/bikkembergs/" title="View all posts filed under Bikkemberg Football Boots">Bikkemberg Football Boots</a> (4)
+</li>
+	<li><a href="http://www.footy-boots.com/category/books/" title="View all posts filed under Books">Books</a> (1)
+</li>
+	<li><a href="http://www.footy-boots.com/category/coke-column/" title="View all posts filed under Coke Column">Coke Column</a> (6)
+</li>
+	<li><a href="http://www.footy-boots.com/category/comment/" title="View all posts filed under Comment">Comment</a> (115)
+</li>
+	<li><a href="http://www.footy-boots.com/category/competitions/" title="View all posts filed under Competitions">Competitions</a> (12)
+</li>
+	<li><a href="http://www.footy-boots.com/category/diadora/" title="View all posts filed under Diadora Football Boots">Diadora Football Boots</a> (7)
+</li>
+	<li><a href="http://www.footy-boots.com/category/fernando-torres/" title="View all posts filed under Fernando Torres">Fernando Torres</a> (3)
+</li>
+	<li><a href="http://www.footy-boots.com/category/football-boot-care/" title="View all posts filed under Football Boot Care">Football Boot Care</a> (3)
+</li>
+	<li><a href="http://www.footy-boots.com/category/football-boot-review/" title="View all posts filed under Football Boot Review">Football Boot Review</a> (45)
+</li>
+	<li><a href="http://www.footy-boots.com/category/football-boots/" title="View all posts filed under Football Boots">Football Boots</a> (328)
+</li>
+	<li><a href="http://www.footy-boots.com/category/football-shirts/" title="View all posts filed under Football Shirts">Football Shirts</a> (20)
+</li>
+	<li><a href="http://www.footy-boots.com/category/footballs/" title="View all posts filed under Footballs">Footballs</a> (7)
+</li>
+	<li><a href="http://www.footy-boots.com/category/guest-articles/" title="View all posts filed under Guest Articles">Guest Articles</a> (2)
+</li>
+	<li><a href="http://www.footy-boots.com/category/hummel/" title="View all posts filed under Hummel Football Boots">Hummel Football Boots</a> (5)
+</li>
+	<li><a href="http://www.footy-boots.com/category/imaginary-scenes/" title="View all posts filed under Imaginary Scenes">Imaginary Scenes</a> (1)
+</li>
+	<li><a href="http://www.footy-boots.com/category/interviews/" title="View all posts filed under Interviews">Interviews</a> (17)
+</li>
+	<li><a href="http://www.footy-boots.com/category/john-terry/" title="View all posts filed under John Terry">John Terry</a> (9)
+</li>
+	<li><a href="http://www.footy-boots.com/category/kelme-football-boots/" title="View all posts filed under Kelme Football Boots">Kelme Football Boots</a> (2)
+</li>
+	<li><a href="http://www.footy-boots.com/category/legends/" title="View all posts filed under Legends">Legends</a> (4)
+</li>
+	<li><a href="http://www.footy-boots.com/category/lotto/" title="View all posts filed under Lotto Football Boots">Lotto Football Boots</a> (5)
+</li>
+	<li><a href="http://www.footy-boots.com/category/metatarsal/" title="View all posts filed under Metatarsal">Metatarsal</a> (16)
+</li>
+	<li><a href="http://www.footy-boots.com/category/mitre-football-boots/" title="View all posts filed under Mitre Football Boots">Mitre Football Boots</a> (1)
+</li>
+	<li><a href="http://www.footy-boots.com/category/mizuno/" title="View all posts filed under Mizuno Football Boots">Mizuno Football Boots</a> (6)
+</li>
+	<li><a href="http://www.footy-boots.com/category/new-football-boots/" title="View all posts filed under New Football Boots">New Football Boots</a> (90)
+</li>
+	<li><a href="http://www.footy-boots.com/category/news/" title="View all posts filed under News">News</a> (319)
+</li>
+	<li><a href="http://www.footy-boots.com/category/nike/" title="View all posts filed under Nike Football Boots">Nike Football Boots</a> (86)
+</li>
+	<li><a href="http://www.footy-boots.com/category/nomis/" title="View all posts filed under Nomis Football Boots">Nomis Football Boots</a> (8)
+</li>
+	<li><a href="http://www.footy-boots.com/category/offers/" title="View all posts filed under Offers">Offers</a> (8)
+</li>
+	<li><a href="http://www.footy-boots.com/category/other-blogs/" title="View all posts filed under Other Blogs">Other Blogs</a> (0)
+</li>
+	<li><a href="http://www.footy-boots.com/category/perry-groves/" title="View all posts filed under Perry Groves">Perry Groves</a> (8)
+</li>
+	<li><a href="http://www.footy-boots.com/category/poll-results/" title="View all posts filed under Poll Results">Poll Results</a> (3)
+</li>
+	<li><a href="http://www.footy-boots.com/category/prior-2-lever/" title="View all posts filed under Prior 2 Lever">Prior 2 Lever</a> (5)
+</li>
+	<li><a href="http://www.footy-boots.com/category/puma/" title="View all posts filed under Puma Football Boots">Puma Football Boots</a> (25)
+</li>
+	<li><a href="http://www.footy-boots.com/category/reader-articles/" title="View all posts filed under Reader Articles">Reader Articles</a> (3)
+</li>
+	<li><a href="http://www.footy-boots.com/category/reebok/" title="View all posts filed under Reebok Football Boots">Reebok Football Boots</a> (35)
+</li>
+	<li><a href="http://www.footy-boots.com/category/ronaldinho/" title="View all posts filed under Ronaldinho">Ronaldinho</a> (12)
+</li>
+	<li><a href="http://www.footy-boots.com/category/steven-gerrard/" title="View all posts filed under Steven Gerrard">Steven Gerrard</a> (5)
+</li>
+	<li><a href="http://www.footy-boots.com/category/thierry-henry/" title="View all posts filed under Thierry Henry">Thierry Henry</a> (28)
+</li>
+	<li><a href="http://www.footy-boots.com/category/umbro/" title="View all posts filed under Umbro Football Boots">Umbro Football Boots</a> (40)
+</li>
+	<li><a href="http://www.footy-boots.com/category/wayne-rooney/" title="View all posts filed under Wayne Rooney">Wayne Rooney</a> (24)
+</li>
+      </ul>
+			</div>
+			<div class="home-title">
+      <span class="l">Subscribe</span>
+			</div>
+    <div class="home-content"> 
+			<ul class="biglink">
+				<li class="feed"><a href="http://www.footy-boots.com/feed/">Subscribe to blog</a></li>
+      </ul>
+			</div>
+			<div style="padding-left:10px;">
+<script type="text/javascript"><!--
+shoppingads_ad_client = "e2653a2f1df8aa359e7a";
+shoppingads_ad_campaign = "fd4e9b39648956b131333924508d4314";
+shoppingads_ad_width = "120";
+shoppingads_ad_height = "600";
+shoppingads_ad_kw =  "soccer boots;soccer cleats;football boots;footy boots";
+shoppingads_color_border =  "FFFFFF";
+shoppingads_color_bg =  "FFFFFF";
+shoppingads_color_heading =  "000000";
+shoppingads_color_text =  "000000";
+shoppingads_color_link =  "8DC642";
+shoppingads_new_ad = "false";
+shoppingads_options =  "n";
+--></script>
+<script type="text/javascript" src="http://ads.shoppingads.com/pagead/show_sa_ads.js">
+</script>
+			</div>
+		</div>		<div id="column-centre-blog">
+			<div class="home-title-h1">
+			      <h1>Privacy Statement</h1>
+			</div>
+    <div class="home-content"> 
+      <p> This Privacy Policy is applicable to any personal information, which is given by You to Us (”User Information”) via the web site located at www.footy-boots.com (”Site”). This Policy is devised to help you feel more confident about the privacy and security of your personal details.</p>
+<p>“You” shall mean you, the user of the Site. “We/Us” means TH UK Media Ltd “Users” means the users of the Site collectively and/or individually as the context allows.</p>
+<p>We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.</p>
+<p><strong>Data Collection<br>
+</strong><br>
+When using the Site You may encounter areas such as games, competitions, chat forums, shopping or video services where You may be asked to enter User Information. Such User Information will only be used for the purposes for which it was collected, for any other purposes specified at the collection point and in accordance with this Privacy Policy.</p>
+<p><strong>How we may use your data<br>
+</strong><br>
+By entering Your User Information, You accept that we may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.</p>
+<p>We shall be entitled to use Your User Information for the following purposes:</p>
+<p>1.    market research, including statistical analysis of user behaviour which we may disclose to third parties in depersonalised, aggregated form.<br>
+2.    in order to enable Us to comply with any requirements imposed on us by law.<br>
+3.    in order to send You periodic communications (this may include e-mail, SMS), about features, products and services, events and special offers. Such communications from Us may include advertising for third party companies or organisations.<br>
+For your convenience you can withdraw consent by replying to the “unsubscribe” link in e-mails from us, or responding STOP on our SMS.</p>
+<p>Please also note that we do not disclose your personal information to third parties to enable them to send you direct marketing without your permission to do so.</p>
+<p><strong>Cookies<br>
+</strong><br>
+You should be aware that information and data may be automatically collected through the use of Cookies. “Cookies” are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising.</p>
+<p>Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that “personalised” services may be affected if the cookie option is disabled.</p>
+<p><strong>Security and Data Retention</strong></p>
+<p>Security is very important to Us. Secure Socket Layer (”SSL”) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information.</p>
+<p>We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to us.</p>
+<p><strong>Updates</strong></p>
+<p>You may notify Us of any updates, amendments and corrections to previously collected User Information by using the Feedback Form link in the Contact Us section of the site.</p>
+<p>We may change this privacy policy from time to time and you should check these regularly. Your use of the Footy-Boots.com Site will be deemed an acceptance of the privacy policy existing at that time.</p>
+<p><strong>Contact </strong></p>
+<p>Any queries or comments about this policy should be forwarded to:<br>
+<a href="mailto:us@footy-boots.com" target="_blank">us@footy-boots.com</a></p>
+<p>Any site that you may connect to from here is not covered by this Privacy Policy.</p>
+										 			</div>
+		</div>
+			<div id="column-right-blog">			
+        	<div class="home-content" style="border: solid 1px #999999; background-color:#F2F2F2; padding: 5px 5px 5px 5px;">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="left">
+	<a href="javascript:void(0);" onclick="show_logform();"><h2>Returning member?</h2></a></td><td align="right"><a href="javascript:void(0);" onclick="show_logform();"><img src="http://www.footy-boots.com/members/img/ico/maxi.gif" width="20" height="18" border="0"></a></td></tr></tbody></table>
+		<div id="log_form" style="display:none;">
+	<p>I am already registered with Footy-boots.com members area</p>
+	
+	<form method="post" action="http://www.footy-boots.com/members/index.php">
+	<input type="hidden" name="loc" id="loc" value="/privacy-statement/">
+	<table cellpadding="2" cellspacing="2" border="0">
+	<tbody><tr>
+	<td align="center" colspan="2" height="20"></td>
+	</tr>
+	
+	<tr>
+	<td align="right"><p>Login:</p></td><td><input type="text" name="_login" id="_login" tooltiptext="Please type your login here" value=""></td>
+	</tr>
+	<tr>
+	<td align="right"><p>Password:</p></td><td><input type="password" name="_password" id="_password" tooltiptext="Please type your password here"></td>
+	</tr>
+	<tr>
+	<td align="right"></td><td>
+		<p><input type="checkbox" name="remember_me" id="remember_me" calue="1"> remember me</p>
+		</td>
+	</tr>
+	<tr>
+	<td align="right">&nbsp;</td><td><p><input type="submit" name="log" value="Login"> <a href="http://www.footy-boots.com/members/?forgotp">forgot password?</a></p></td>
+	</tr>
+	</tbody></table>
+	</form>
+		</div>
+	</div>
+  <div class="home-content" style="border:none;padding-left:40px;padding-bottom:6px;"> 
+				<a href="http://www.footy-boots.com/openads/adclick.php?bannerid=34&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.kitbag.com%2Fstores%2Fkitbag_4_5%2Fbrands%2Fadidas%2Fproduct_browse.aspx%3Fcid%3D2815%26bid%3D1%26portal%3DI5O1MQT8" target="_blank" onmouseover="self.status='Adidas Predator'; return true;" onmouseout="self.status='';return true;"><img src="http://www.footy-boots.com/openads/adimage.php?filename=gerrard-ps-300x250.gif&amp;contenttype=gif" width="300" height="250" alt="Adidas Predator" title="Adidas Predator" border="0"></a><div id="beacon_34" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.footy-boots.com/openads/adlog.php?bannerid=34&amp;clientid=7&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=562bc9d4449cdea4ec79354199796712" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>			</div>
+			<div class="home-title">
+      <span class="l">Featured Articles</span></div>	
+  		<div class="home-content">
+			<ul class="littlelink">	
+      
+
+			<li><a href="http://www.footy-boots.com/caring-for-your-football-boots/">Caring for your Football Boots</a></li>
+
+				
+				
+
+			<li><a href="http://www.footy-boots.com/video-exclusives-from-footy-boots/">Video Exclusives from Footy-Boots</a></li>
+<li><a href="http://www.footy-boots.com/football-boots-history/">Football Boots - The History</a></li>
+
+
+					</ul>
+			</div>
+			<div class="home-title">
+      <span class="r"><a href="/advertise/">Advertise here &gt;</a></span></div>	
+    <div class="home-content" style="text-align:center;padding-bottom:6px;"> 
+			<script language="JavaScript">
+			<!--
+			var ans_timestamp = (new Date()).getTime();
+			document.write("<scr" + "ipt language=\"JavaScript\" src=\"http://ads.adviva.net/serve/v=4;m=2;l=4866;ts=" + ans_timestamp + "\"></scr" + "ipt>");
+			// -->
+			</script><script language="JavaScript" src="http://ads.adviva.net/serve/v=4;m=2;l=4866;ts=1580393034139"></script>
+			</div>
+  <div class="home-title"><span class="l">Footy-Boots Video</span><span class="r"><a href="/members/">Sign 
+    up &gt;</a></span></div>	
+    	
+  <div class="home-content"> <span class="sub" style="padding-left:6px;">Football 
+    Video Goes Live!</span> 
+    <p style="text-align:center;"><a href="/members/"><img src="http://www.footy-boots.com/images/video/panel.gif" alt="Footy Boots Video Panel" border="0"></a></p>
+		<p>The very first Footy-Boots Video Panel is now LIVE! Featuring legends of the game Arsenal cult hero Perry Groves, Tottenham and Rangers hard man Graham Roberts and 
+		ex-Manchester United boss 'Big Ron' Atkinson talking football.</p>
+		<p align="center">It's new. It's exclusive. It's <a href="/members/">here</a>.</p>
+  </div>
+			<div class="home-title">
+      <span class="r"><a href="/advertise/">Advertise here &gt;</a></span></div>	
+    <div class="home-content" style="text-align:center;"> 
+			<a href="http://www.footy-boots.com/openads/adclick.php?bannerid=32&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.footy-boots.com%2Fa-chance-to-win-fantastic-monthly-prizes%2F" target="_blank"><img src="http://www.footy-boots.com/openads/adimage.php?filename=banner-nov2.gif&amp;contenttype=gif" width="300" height="250" alt="Text Boots to 81066" title="Text Boots to 81066" border="0"></a><div id="beacon_32" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.footy-boots.com/openads/adlog.php?bannerid=32&amp;clientid=4&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=6cad4ac06fc42fbf5c3a302cd4661f7f" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>			</div>
+			<div class="home-title">
+      <span class="l">Top 10 Most Popular Articles</span></div>
+				<div class="home-content">
+				<ul class="list-menu">
+					<li><a href="http://www.footy-boots.com/nike-total-90-laser-football-boots/">Nike Total 90 Laser Football Boots</a></li><li><a href="http://www.footy-boots.com/new-adidas-predator-power-swerve-football-boots/">New Adidas Predator Power Swerve Football Boots</a></li><li><a href="http://www.footy-boots.com/rooney-nike-shocking-marketing-image/">Rooney &amp; Nike, Shocking Marketing Image</a></li><li><a href="http://www.footy-boots.com/nike-mercurial-vapor-4/">Nike Mercurial Vapor IV - Unofficial</a></li><li><a href="http://www.footy-boots.com/how-well-have-the-premiership-title-chasers-spent/">How well have the Premiership title chasers spent?</a></li><li><a href="http://www.footy-boots.com/premiership-2007_8-relegation-favourites/">Premiership 2007/8 Relegation Favourites</a></li><li><a href="http://www.footy-boots.com/beckhams-new-galaxy-football-kit/">Beckham's New Galaxy Football Kit</a></li><li><a href="http://www.footy-boots.com/top-striker-signings-best-of-the-rest/">Top Striker Signings - Best of the Rest</a></li><li><a href="http://www.footy-boots.com/beckhams-soccer-boots/">Beckham's Soccer Boots - Banned</a></li><li><a href="http://www.footy-boots.com/brand-beckham/">Brand Beckham Wins, Again</a></li>				</ul>
+				</div>
+			<div class="home-title">
+      <span class="l">Great Offers</span></div>
+				<div class="home-content">
+				<p class="centre">
+			<a href="http://www.footy-boots.com/openads/adclick.php?bannerid=24&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.awin1.com%2Fawclick.php%3Fawinmid%3D974%26awinaffid%3D73626%26clickref%3DT+Shirts%26p%3Dhttp%3A%2F%2Fwww.subsidesports.com%2Fuk%2Fstore%2Fproduct_list.jsp%3Fid%3D72057594037931313%26mid%3D-1" target="_blank"><img src="http://www.footy-boots.com/openads/adimage.php?filename=puma.jpg&amp;contenttype=jpeg" width="300" height="250" alt="Subside Sports" title="Subside Sports" border="0"></a></p><div id="beacon_24" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.footy-boots.com/openads/adlog.php?bannerid=24&amp;clientid=6&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=e6e7d3154752f5305789d7bfd9658056" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>				<p></p>
+				</div>
+			</div>
+		</div>
+ <div id="footer">
+  <ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/privacy-statement/">Privacy Statement</a></li>
+		<li><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
+		<li><a href="/comments-terms-and-conditions/">Comments T &amp; Cs</a></li>
+  </ul>
+	<p class="centre">© 2007 TH UK Media : Website by TH UK <a href="http://www.thuk.co.uk">Online 
+    Marketing</a></p>
+	</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-77313-2";
+urchinTracker();
+</script>
+
+</body></html>
