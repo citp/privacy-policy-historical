@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folkd.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429125109id_/http%3A//folkd.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folkd.com privacy policy that was archived on 2007-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071116090329id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.*
 
 # folkd.com - Enrich your websurfing experience
 
