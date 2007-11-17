@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearindices.net privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205005838id_/http%3A//www.clearindexes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearindices.net privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117041829id_/http%3A//www.clearindexes.com/privacy.aspx) for the most accurate reproduction.*
 
 # Clear Indexes LLC
 
