@@ -1,401 +1,1946 @@
-<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205035759id_/http%3A//popcap.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2007-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071117032058id_/http%3A//www.popcap.com/terms.php%23privacy) for the most accurate reproduction.-->
 
-<html><head>	<title>Privacy Policy</title><script language="javascript" type="text/javascript">
-<!--  
-if (navigator.appName.indexOf("Explorer") != -1)  
-{         
-	document.write('<LINK REL="STYLESHEET" HREF="inc/general.css" TYPE="text/css">');    
-}  
-else  // Browser is not MSIE or is Netscape - generic style sheet    
-{                                      //URL to Generic CSS      
-	document.write('<LINK REL="STYLESHEET" HREF="inc/netscape.css" TYPE="text/css">');    
+<html><head><title>PopCap Games - Privacy Policy / Terms of Use / Trademarks</title>
+
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="description" content="PopCap Games, creators of Bejeweled, Bookworm and other addictive free online games.">
+<meta name="keywords" content="bejeweled, bookworm, insaniquarium, dynomite, alchemy, big money, game, online, fun, free, addictive, web, shareware, freeware">
+
+<!-- browser detect is everything you would expect plus: rendering engine, dom support, css compatibility, specific shortcuts -->
+<script type="text/javascript" src="inc/js/browser_detect.js"></script>
+<script type="text/javascript" charset="utf-8">
+function get_evar3_cookie(cookie_name){
+  var results = document.cookie.match ( cookie_name + '=(.*?)(;|$)' );
+
+  if ( results )
+	return ( unescape ( results[1] ) );
+  else
+	return "NA";
+}
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+function doClear(txtEl){
+	if(txtEl.value==" Enter your email address"){
+		txtEl.value="";
+	}
 }
 
-//
-var obfkey = ';85#&;111#&;611#&801#&';
-var opntg = '<A HR';
-var clstg = 'A>';
-function obfrev(arg) {
-   if (!arg) return '';
-   var revarg='';
-   for (i = arg.length-1; i>=0; i--)
-       revarg+=arg.charAt(i)
-   return revarg;
-}
-//
-
-function launchgame(theGame, theSize){	
-var URL;	
-var Params;	
-URL = "gamepopup.php?theGame=" + theGame;
-
-Params = theSize + ",title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=0,top=0";	
-
-
-
-window.open (URL, theGame, Params);	
-
-}			
-
-function launchFaq(question){	
-var theGame = "PopCap";
-var URL;	
-var Params;	
-URL = ("popfaq" + question + ".php");
-Params = "width=500,height=400,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,copyhistory=0,left=0,top=0";	
-window.open (URL, theGame, Params);
-	
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
 //-->
-</script><link rel="STYLESHEET" href="inc/netscape.css" type="text/css"></head>
-
-
-
-
-<body><div align="center">
-<!--- begin main table --->
-<table width="732" align="center" border="0" cellpadding="0" cellspacing="0">
-
-<tbody><tr><td colspan="4" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"></td></tr>
-
-<tr><td width="1" valign="top"></td><td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>				<td width="144" valign="top">
-
-<!--- begin left column --->
-<a href="javagames.php"><img src="img/shared/logo.gif" width="144" height="118" border="0"></a><br>
-
-
-<script language="Javascript">
-
-function launchPromo()
-{
-  var URL;
-  var Params;
-  URL = "promo_holiday.php";
-  Params ="width=500,height=350,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0";
-  window.open (URL, "Promotional", Params);
-}
-
-function launchRunescape()
-{
-  var URL;
-  var Params;
-  URL = "http://www.runescape.com/popcap/index.html";
-  Params = "width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0";
-  window.open (URL, "runescape", Params);
-}
-
-
-function launchWordfall()
-{
-  var URL;
-  var Params;
-  URL = "/games/wordfall/wordfall.php";
-  Params = "width=600,height=422,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0";
-  window.open (URL, "wordfall", Params);
-}
-</script>					
-
-<table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="10"><img src="img/shared/strans.gif" width="10" height="1" border="0"><br></td>
-<td width="123">					
-<!--- news content --->
-<div class="news">
-
-<!-- Coupon
-<A HREF="javascript:launchPromo()"><IMG SRC="img/ads/xmasbanner.gif" BORDER=0 hspace=0 vspace=0></A>	
--->
-<br>
-
-	<p><span class="newshead">August 15, 2003</span><br>
-	 Boom! Spectacular puzzle action blasts off in <br><a href="rocketmania.php?src=news"><b>Rocket Mania!</b></a> 
-	<br><br>
-
-	</p><p><span class="newshead">June 11, 2003</span><br>
-	It's the typing tutor with teeth! Get TyperShark Deluxe <a href="typershark.php?src=news"><b>NOW!</b></a>
-	<br><br>
-
-	</p><p><span class="newshead">May 14, 2003</span><br>
-	T-shirts, mugs, more! Preview the <a href="http://www.cafeshops.com/popcapgames/" target="_blank"><b>PopCap Store!</b></a>
-	<br><br>
-
-	Runescape players! <br><a href="javascript:launchRunescape();"><b>Click Here!</b></a>
-
-</p></div>
-</td></tr></tbody></table><p></p><div align="center">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125" id="125x1252" align=""><param name="movie" value="../img/125ads/win32_rocketmania.swf?src=125sidebar"><param name="quality" value="high"><embed src="../img/125ads/win32_rocketmania.swf?src=125sidebar" quality="high" width="125" height="125" name="125x1252" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></div><p>			
-<script>
-function emailValidator(entry) {
-	var email=/^[\x20-\x7f]+@[A-Za-z][-A-Za-z0-9]*(\.[A-Za-z][-A-Za-z0-9]*)+$/;
-	return(email.test(entry));
-}
 </script>
-
-			<table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="10">
-						<form action="announce-send.php" method="POST" name="news">
-						<img src="img/shared/strans.gif" width="10" height="1" border="0"><br></form></td>
-					<td width="139">
-					<!--- news content --->
-						
-						<div class="news">
-						<p><span class="newshead">Join Club PopCap</span><br>
-						Sign up for our weekly newsletter to get the scoop on new games, special offers, and winning game tips!
-						<br>
-						<span class="small">
-						<input type="hidden" name="recipient" value="<SCRIPT>document.write(obfrev(;901#&amp;o36%.07%;790#&amp;c07%;111#&amp;pe2%37%47%;511#&amp;ic6%04%;790#&amp;07%my37%));</SCRIPT>">
-						<input type="hidden" name="subject" value="Your Club PopCap Subscription">
-						<input type="hidden" name="subscribe" value="subscribe announce">
-						<input type="text" name="email" size="8">
-						<input type="hidden" name="sort" value="order:subscribe,email">
-						<input type="hidden" name="redirect" value="http://www.popcap.com/">
-						<input type="button" value="Go!" onclick="if(emailValidator(document.news.email.value)){news.submit();}else{alert('Invalid Email!');}">
-						</span><br>
-						<span class="headernav">enter your email</span>
-						</p></div>
-					</td>
-					<td width="5">
-						<img src="img/shared/strans.gif" width="5" height="1" border="0"><br>
-					</td>
-				</tr>
-			</tbody></table>
-</p><p><!--- end left column --->
-
-</p></td>		
-<td width="588" valign="top">	
-<table width="588" border="0" cellpadding="0" cellspacing="0">				<tbody><tr bgcolor="#70BEFF">
-	<td width="12" valign="top"><img src="img/shared/strans.gif" width="12" height="68" border="0"><br></td>
-	<td width="476" valign="top">
-		<table width="476" border="0" cellpadding="0" cellspacing="0">						<tbody><tr bgcolor="#70BEFF">	
-			<td valign="top"><img src="img/shared/strans.gif" width="16" height="3" border="0"><br></td>							</tr>	
-			<tr>
-			<td valign="top">
-			<table width="476" border="0" cellpadding="0" cellspacing="0" bgcolor="#0099FF">									<tbody><tr>			
-		<td width="4"><img src="img/shared/strans.gif" width="4" height="69" border="0"><br></td>										<td>									<!--- banner goes here! --->											
-<!--popcap 5 - ia_archiver-  --><iframe id="adframe" src="ads/ads.php" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><br></td>
-<td width="4"><img src="img/shared/strans.gif" width="4" height="69" border="0"><br></td>	
-</tr></tbody></table></td></tr>							<tr bgcolor="#70BEFF" valign="top">	
-<td width="" valign="top"><img src="img/shared/strans.gif" width="16" height="5" border="0"><br></td>							</tr>						</tbody></table>					</td>					<td width="16" valign="top"> 						<img src="img/shared/strans.gif" width="16" height="1" border="0"><br></td>					<td width="73" valign="top">						<img src="img/shared/head.gif" width="73" height="77" border="0"><br></td>					<td width="10" valign="top">						<img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>									</tr>			</tbody></table>			<!--- end banner table --->			<!--- begin top nav table --->			<table width="588" border="0" cellpadding="0" cellspacing="0" bgcolor="#B9DDFF">				<tbody><tr>					<td width="588" valign="top" colspan="2"><img src="img/shared/strans.gif" width="13" height="1" border="0"><br></td>									</tr>				<tr>									<td width="1" valign="top"><img src="img/shared/strans.gif" width="1" height="19" border="0"><br></td>										<td width="588" valign="top">										<div align="center">					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="winmain.php" class="headernav">PC games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="palmmain.php" class="headernav">Palm games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="macmain.php" class="headernav">Mac games</a>&nbsp;&nbsp;																&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="javagames.php" class="headernav">Web Games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="aboutus.php" class="headernav">About PopCap</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="feedback.php" class="headernav">Contact Us</a>&nbsp;&nbsp;					<!--&nbsp;<IMG SRC="img/shared/topnav_dot.gif" WIDTH="9" HEIGHT="7" BORDER="0"><A HREF="" CLASS="headernav">Help!</A>-->					</div></td>				</tr>			</tbody></table>			<!--- end top nav table --->						<table width="588" border="0" cellpadding="0" cellspacing="0">				<tbody><tr>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="438" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="438" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="140" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="140" height="1" border="0"><br></td>				</tr>				<tr>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="700" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="438" valign="top" bgcolor="#FFFFFF">						
-
-<table cellspacing="5" cellpadding="5" border="0">
+<link href="css.php" rel="stylesheet" type="text/css">
+</head>
+<body class="terms" onload="MM_preloadImages('http://images.popcap.com/www/images/nav_allgames_hi.gif','http://images.popcap.com/www/images/nav_help_hi.gif','http://images.popcap.com/www/images/nav_viewcart_hi.gif','http://images.popcap.com/www/images/nav_popcapreview_hi.gif')">
+<table width="759" style="margin:auto;" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+<script type="text/javascript" src="/inc/js/jquery.js"></script>
+<script type="text/javascript" src="/inc/js/effects.js"></script>
 <tbody><tr>
-    <td>
-<font face="Arial" size="+1" color="#400000">Privacy Policy</font><br><br>
-<font face="Arial" size="-1" color="#400000">PopCap.com is committed to protecting your privacy rights online. We are also dedicated to providing you with the best possible online gaming experience. In order to do this, we request certain information about you that helps us customize our content to your tastes and interests. Please read the following policy to better understand how your information will be treated and utilized as you make full use of PopCap.com. This policy may change from time-to-time. So, please check back periodically. 	
-	
-<br><br>
-
-<b>What information do we collect and why?</b>
-<br><br>
-PopCap.com collects information in several ways depending on whether you are playing single player quick games, multiplayer games, or chatting. In most cases, this information is purely voluntary. PopCap.com's main goal for collecting this information is to provide you with customized content on our site that is of interest to you. 
-<br><br>
--Required Information-
-<br><br>
-No information is required to play single player games without chat. However, to play multiplayer games, or chat, we ask that you provide a valid email address, age, name, gender and zip code. 
-<br><br>
--Optional Information-
-<br><br>
-In order to provide our visitors with a better gaming experience we may ask for optional information.  
-<br><br>
-When you register with PopCap.com, we assign a unique name for your account, (the "User ID"). This User ID is used to track what games you play, as well as high scores, and is your nickname to other users.  If you choose to give us the optional information, you can be assured that PopCap.com will respect and retain your privacy. However, such information may be disclosed to authorities, if required by law. 
-<br><br>
-<b>Do we share your information with others?</b> 
-<br><br>
-None of the information you give us is shared outside PopCap.com. However, when one of our partners co-sponsors a promotion or contest with us, we may share the information collected for that contest or promotion only with our partners. If do not want your information shared, you will be able to not allow the sharing by not using or signing up for the particular promotion or contest. In addition, we provide you the opportunity to opt-in to receive communications from PopCap.com to learn more about new games, and exciting promotions.
- <br><br>
-<b>What are "Cookies" and how do we use them? </b>
-<br><br>
-PopCap.com uses cookies for various reasons. Cookies are small files written on your computer that are accessible by the PopCap.com website. The cookie is used for the your convenience and allow you access to games on later visits without logging in. 
- <br><br>
-Any information we collect will be stored and processed in a database that resides in the United States. 
-<br><br>
-<b>Your Consent </b>
-<br><br>
-By using our site, you consent to the collection and use of your personal information by PopCap.com as in this Privacy Policy 
-<br><br>
-<b>Member Account, Passwords, and Invitations </b>
-<br><br>
-If you choose to register, you will need to supply a Member ID and Password to gain access to specific parts of the PopCap.com site. You are responsible for keeping the confidentiality of your Member ID and Password If you feel the confidentiality of your Password or Member ID has been compromised; you agree to immediately notify PopCap.com at <script language="Javascript">
-<!--// 
-document.write(opntg + 'EF=\"&#109;a&#105;' + obfrev(obfkey) + obfrev(';901#&o36%.p16%36%07%;111#&07%04%;611#&27%f6%07%;211#&us') + '\"><FONT SIZE=2><b>customer support.</b></FONT></' + clstg);
-//-->
-</script><a href="mailto:sup%70%6f%72t%40%70o%70%63%61p.%63om"><font size="2"><b>customer support.</b></font></a> 
-<br><br>
-<b>Changes to our Privacy Policy </b>
-<br><br>
-PopCap.com reserves the right to change this privacy policy without notice. Therefore, please check back periodically for any changes. 
-<br><br>
-<b>Third Parties Sites </b>
-<br><br>
-Other companies that advertise on our site may collect information about you when you view or click on their site or logos. PopCap.com does not control what information third parties gather once you leave the PopCap.com web site. You are encouraged to check the privacy policies of these sites. 
-<br><br></font>
-	
-	<br>
-<b><a href="index.php">Main Page</a></b>
-	
-	
-	
-	
-	
-	
-	
-	</td>
+    <td colspan="3">
+        <div id="top_nav">
+			<div id="help_tip" class="upper_nav_tooltips">
+				<div><span>Help</span></div>
+			</div>
+			<div id="cart_tip" class="upper_nav_tooltips">
+				<div><span>Cart</span></div>
+			</div>
+			<h1><a href="/"><span class="fir">PopCap Games</span></a></h1>
+			<a href="#content" class="skip">skip navigation</a>
+			<div id="top_promo">
+			</div>
+			<ul style="margin-top:55px;width:350px;">
+				<li id="home_tab"><a href="/">Home</a></li>
+				<li id="download_tab"><a href="/download_games.php">Downloads</a></li>
+				<li id="online_tab"><a href="/online_games.php">Play Online</a></li>
+				<li id="mobile_tab"><a href="/mobile_finder.php?rev=1">Mobile</a></li>
+			</ul>
+			<div id="upper_nav">
+				<a id="help_link" class="help_link" href="/help.php">Help</a>
+				<a id="cart_link" class="cart_link" href="https://store.popcap.com/cart.php">Cart</a>
+			</div>
+		</div>
+    </td>
 </tr>
-</tbody></table>
 
 
 
-
-</td>
-<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>
-<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-<td width="139" valign="top" bgcolor="#FFFFFF"><img src="img/shared/strans.gif" width="140" height="1" border="0"><br>
-<!--- Right Content Area --->
-<div align="center">
- <img src="img/shared/strans.gif" height="5" width="1"><br>
-	&nbsp;Now hiring! We're looking for a <a href="job_marketing.php"><b>Marketing Manager</b></a>!<br>
- <img src="img/shared/strans.gif" height="8" width="1"><br>
-<div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125" id="125x1252" align=""><param name="movie" value="../img/125ads/win32_noahsark.swf?src=125sidebar"><param name="quality" value="high"><embed src="../img/125ads/win32_noahsark.swf?src=125sidebar" quality="high" width="125" height="125" name="125x1252" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-				</object></div>    <p>
-    <a href="rocketmania.php?src=rightlist" class="newslink">Rocket Mania Deluxe<br> Download Now (3.9 meg)</a><br><br>
-	<a href="typershark.php?src=rightlist" class="newslink">Typer Shark Deluxe<br> Download Now (4.7 meg)</a><br><br>
-	<a href="bookworm.php?src=rightlist" class="newslink">Bookworm Deluxe<br> Download Now (3.8 meg)</a><br><br>
-	<a href="tiptop.php?src=rightlist" class="newslink">TipTop Deluxe<br>	Download Now (2.7 meg)</a><br><br>
-	<a href="noahsark.php?src=rightlist" class="newslink">Noah's Ark Deluxe<br> Download Now (2.6 meg)</a><br><br>
-	<a href="atomica.php?src=rightlist" class="newslink">Atomica Deluxe<br> Download Now (3.2 meg)</a><br><br>
-	<a href="ningpo.php?src=rightlist" class="newslink">NingPo MahJong Deluxe<br> Download Now (3.3 meg)</a><br><br>
-	<a href="bigmoney.php?src=rightlist" class="newslink">Big Money Deluxe<br> Download Now (2.4 meg)</a><br><br>	
-	<a href="mummymaze.php?src=rightlist" class="newslink">Mummy Maze Deluxe<br> Download Now (2.9 meg)</a><br><br>
-	<a href="dynomite.php?src=rightlist" class="newslink">Dynomite for Windows<br> Download Now (2.9 meg)</a><br><br>
-	<a href="bejeweled.php?src=rightlist" class="newslink">Bejeweled for Windows<br> Download Now (2.9 meg)</a><br><br>
-	<a href="alchemy.php?src=rightlist" class="newslink">Alchemy for Windows<br> Download Now (1.7 meg)</a><br><br>
-	<a href="sevenseas.php?src=rightlist" class="newslink">Seven Seas for Windows<br> Download Now (2.7 meg)</a>
-    </p><p>
-<table width="128" border="0" cellpadding="4" cellspacing="0" align="center" bgcolor="#DFE1F8">
-					<tbody><tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<b><span class="sponsorheader">PopCap Affiliates</span></b><br>
-							For all your gaming needs, check these out!
-						</div></td>
-					</tr>
-					<tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<a href="http://click.linksynergy.com/fs-bin/click?id=Nr1HseSsC4c&amp;offerid=13850.10000001&amp;type=3&amp;subid=0" class="sponsortitle">EBgames.com</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=Nr1HseSsC4c&amp;bids=13850.10000001&amp;type=3&amp;subid=0"><br>
-							Stocks console titles as well as PC games. Often has good specials.
-						</div></td>
-					</tr>
-					<tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<a href="http://www.qksrv.net/click-690202-55431" target="_top" class="sponsortitle">AreYouGame</a><img src="http://www.qksrv.net/image-690202-55431" width="1" height="1" border="0"><br>
-							
-							Ideal for family board games.  
-						</div></td>
-					</tr>
-					<tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<a href="http://kumquat.com/cgi-kumquat/funagain/home?;;POPC" class="sponsortitle">FunAgain</a><br>
-						Best online
-store for hardcore RPGs and German imports. Low,
-low prices.
-						</div></td>
-					</tr>
-					<tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<a href="http://www.amazon.com/exec/obidos/redirect?tag=popcapgames&amp;path=subst/home/home.html" class="sponsortitle">Amazon.com</a><br>
-						Amazon now also has a good game section. 
-						</div></td>
-					</tr>
-					<!--<TR>
-						<TD WIDTH="" VALIGN="top">
-							<DIV CLASS="sponsor">
-							<A HREF="" CLASS="sponsortitle">CompuExpert</A><BR>
-							Best deals on PC games, esp. their 48hr Madness.
-							</DIV>
-						</TD>
-					</TR>
-						
-					<TR>
-						<TD WIDTH="" VALIGN="top">
-							<DIV CLASS="sponsor">
-							<a href="http://click.linksynergy.com/fs-bin/click?id=Nr1HseSsC4c&offerid=13850.10000001&type=3&subid=0" class="sponsor">EBgames.com</a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=Nr1HseSsC4c&bids=13850.10000001&type=3&subid=0" ><BR>
-							Stock console titles as well as PC games.
-						For all your gaming needs, check these out!
-						</TD>
-					</TR>
-					<TR>
-						<TD WIDTH="" VALIGN="top">
-							<DIV CLASS="sponsor">
-							<A HREF="http://kumquat.com/cgi-kumquat/funagain/home?;;TEST" CLASS="sponsortitle">FunAgain</A><BR>
-							Great for hardcore RPGs and German imports.
-							For all your gaming needs, check these out!
-						</TD>
-					</TR>
-					<TR>
-						<TD WIDTH="" VALIGN="top">
-							<DIV CLASS="sponsor">
-							<A HREF="http://www.amazon.com/exec/obidos/redirect?tag=popcapgames&path=subst/home/home.html" Class="sponsortitle">Amazon.com</A><BR>
-							Amazon now also has a good game section.
-								For all your gaming needs, check these out!
-						</TD>
-					</TR>
-					<TR>
-						<TD WIDTH="" VALIGN="top">
-							<DIV CLASS="sponsor">
-							<A HREF="http://www.qksrv.net/click-690202-1100794" target="_top" CLASS="sponsortitle">Half.com</A><img src="http://www.qksrv.net/image-690202-1100794" width="1" height="1" border="0"><BR>
-							Ebay's fixed price site has some good used games.
-							</DIV>
-						</TD>
-					</TR>-->
-					
-					</tbody></table></p></div>
+<script type="text/javascript" charset="utf-8">
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+</script>
+    <tr>
+        <td valign="top" bgcolor="#e6f0fd" class="noSpace"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="9" alt="" class="noSpace"></td>
+        <td align="left" valign="top" bgcolor="#FFFFFF" class="noSpace"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="8" alt="" class="noSpace"></td>
+    </tr>
+    <tr>
+        <td width="168" valign="top" bgcolor="#e6f0fd">
+		    <table width="161" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td width="6" rowspan="3" class="noSpace"><img src="http://images.popcap.com/www/images/spacer.gif" width="6" height="1" alt="" class="noSpace"></td>
+                    <td width="4" height="4" align="right" valign="bottom" class="noSpace"><img src="http://images.popcap.com/www/images/leftcol_box_blue_tl.gif" width="4" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                    <td background="http://images.popcap.com/www/images/leftcol_box_blue_top.gif" width="147" height="4" class="noSpace"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                    <td width="4" height="4" align="left" valign="bottom" class="noSpace"><img src="http://images.popcap.com/www/images/leftcol_box_blue_tr.gif" width="4" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                </tr>
+                <tr>
+                    <td background="http://images.popcap.com/www/images/leftcol_box_blue_left.gif" width="4"><img src="http://images.popcap.com/www/images/spacer.gif" width="4" height="1" hspace="0" vspace="0"></td>
+                    <td width="147" valign="top" bgcolor="#FFFFFF" style="padding:4px 2px 8px 2px;"><img src="http://images.popcap.com/www/images/text_company_info.gif" alt="Company Info" width="102" height="16" hspace="8" vspace="5"><br>
+                            <table id="left_col_blue_nav" width="143" border="0" cellpadding="2" cellspacing="0">
+                                <tbody><tr height="1">
+                                    <td width="13"><img src="http://images.popcap.com/www/images/spacer.gif" width="9" height="1"></td>
+                                    <td width="13"><img src="http://images.popcap.com/www/images/spacer.gif" width="9" height="1"></td>
+                                    <td width="117"><img src="http://images.popcap.com/www/images/spacer.gif" width="113" height="1"></td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"><a href="aboutus.php"><img border="0" src="http://images.popcap.com/www/images/arrow_yellow.gif" width="5" height="9" vspace="2"></a></td>
+                                    <td colspan="2" valign="top"><a href="aboutus.php">About PopCap</a></td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"><a href="http://tbe.taleo.net/NA9/ats/careers/jobSearch.jsp?org=POPCAP&amp;cws=1"><img border="0" src="http://images.popcap.com/www/images/arrow_yellow.gif" width="5" height="9" vspace="2"></a></td>
+                                    <td colspan="2" valign="top"><a href="http://tbe.taleo.net/NA9/ats/careers/jobSearch.jsp?org=POPCAP&amp;cws=1">Jobs at PopCap</a></td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"><a href="press/index.php"><img border="0" src="http://images.popcap.com/www/images/arrow_yellow.gif" width="5" height="9" vspace="2"></a></td>
+                                    <td colspan="2" valign="top"><a href="press/index.php">Press Room</a> </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"><a href="http://developer.popcap.com/"><img border="0" src="http://images.popcap.com/www/images/arrow_yellow.gif" width="5" height="9" vspace="2"></a></td>
+                                    <td colspan="2" valign="top"><a href="http://developer.popcap.com/">Developer Room</a> </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"><img src="http://images.popcap.com/www/images/arrow_black.gif" width="5" height="9" vspace="2"></td>
+                                    <td colspan="2" valign="top"><strong>Privacy Policy</strong> </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" valign="top"></td>
+                                    <td colspan="2" valign="top"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="4" hspace="0" vspace="0"></td>
+                                </tr>
+                        </tbody></table></td>
+                    <td background="http://images.popcap.com/www/images/leftcol_box_blue_right.gif" width="4"><img src="http://images.popcap.com/www/images/spacer.gif" width="4" height="1" hspace="0" vspace="0"></td>
+                </tr>
+                <tr>
+                    <td width="4" height="4" align="right" valign="top" class="noSpace"><img src="http://images.popcap.com/www/images/leftcol_box_blue_ll.gif" width="4" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                    <td background="http://images.popcap.com/www/images/leftcol_box_blue_bot.gif" width="149" height="4" class="noSpace"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                    <td width="4" height="4" align="left" valign="top" class="noSpace"><img src="http://images.popcap.com/www/images/leftcol_box_blue_lr.gif" width="4" height="4" hspace="0" vspace="0" class="noSpace"></td>
+                </tr>
+            </tbody></table>
 <br>
-</td>
-</tr>
-</tbody></table>
-<!--- right blue line --->
-</td><td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-
-</tr>
-</tbody></table>
-<!--- end main table --->
-<table width="732" align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="734" height="1" border="0"><br></td>
-</tr>
-<tr>
-<td width="*" align="center">
-<a href="winmain.php" class="footernav">PC games</a>&nbsp;&nbsp;
-<a href="palmmain.php" class="footernav">Palm games</a>&nbsp;&nbsp;
-<a href="macmain.php" class="footernav">Mac games</a>&nbsp;&nbsp;
-<a href="javagames.php" class="footernav">Web Games</a>&nbsp;&nbsp;
-<a href="aboutus.php" class="footernav">About PopCap</a>&nbsp;&nbsp;
-<a href="feedback.php" class="footernav">Contact Us</a>&nbsp;&nbsp;
-<a href="" class="footernav"></a><br>
-<a href="privacy.php" class="footernav">Privacy Policy</a><br>
-<font color="#808080"><div>Site and all games copyright © 2002-2003 PopCap Games, Inc.</div></font>
-</td>
-</tr>
-</tbody></table>
-
-<!-- BEGIN WEBSIDESTORY CODE. COPYRIGHT 1998-2000 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S. PATENT PENDING. -->
-<!-- webbot bot="HTMLMarkup" startspan -->
-<p align="center"><a href="http://rd1.hitbox.com/rd?acct=WQ500925NJDM42EN0&amp;p=s">
-<img src="http://hg1.hitbox.com/HG?hc=wf128&amp;l=y&amp;hb=WQ500925NJDM42EN0&amp;cd=1&amp;n=Privacy+Policy" height="62" width="88" alt="Click Here!" border="0"></a></p>
-<!-- webbot bot="HTMLMarkup" endspan -->
-<!-- END WEBSIDESTORY CODE  -->
-
-
-
-<br>
-<a href="mailto:canned%40popcap.com"><img src="img/shared/strans.gif" width="1" height="1" border="0" hspace="0" vspace="0"></a>
+            <div id="feedback">
+<!--oobegin -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/inc/js/oo_engine.js"></script>
+<script language="javascript" type="text/javascript" charset="windows-1252">
+<!--
+	O_GoT('Help us improve our site<img src="http://images.popcap.com/www/images/sm_03C_oo.gif" border="0" title="Help us improve our site" >');
+// -->
+</script><a onclick="s.tl(this,&quot;o&quot;,&quot;Sidebar_Feedback&quot;);" style="text-decoration:none" href="javascript:O_LC()">Help us improve our site<img src="http://images.popcap.com/www/images/sm_03C_oo.gif" border="0" title="Help us improve our site"></a>
+<!--ooend-->
 </div>
+        <p>&nbsp;</p>                <p>&nbsp;</p>
+        </td>
+        <td width="592" align="left" valign="top" bgcolor="#FFFFFF">
+			<div class="mainColumn">
+			<h1>Privacy Policy / Terms of Use / Trademarks</h1>
+			<div class="divider" width="100%"></div><br>
+				<div class="pageblurb" style="clear:both;">
+		<a name="top"></a>
+		Jump to section: <a href="#privacy" class="leftnav">Privacy Policy</a> - <a href="#terms" class="leftnav">Terms of Use</a> - <a href="#trademarks" class="leftnav">Trademarks</a>
+		<br>
+		</div>  
+		<font face="arial" size="2" style="font-size:12px;">
+		<h2>The PopCap Promise</h2>
+		<div class="divider" width="100%"></div><br>
+		No Spam. No Spy-ware.  Ever.  That's the PopCap Promise.<br>
+		<br>
+		PopCap Games is committed to making our website a fun place to visit. And if you're worried about your privacy — or the security of our site — it's hard to have a good time!  That's why we work hard to protect your rights. <br><br>
+		Please read the following privacy policy to understand how we use any information we may collect from you. We reserve the right to change this policy from time to time, so be sure to check back periodically. (Our <a href="/subscribe.php">newsletter</a> is a great way to stay posted, too.)<br>
+		<br>
+		<h2>What information about me will you collect and how will you use it?</h2>
+		<div class="divider" width="100%"></div><br>
+		Wherever possible we collect the minimal amount of information from you that is needed. If you <b>subscribe to our newsletter</b> or our email list for special offers from us, we simply collect your email address so we know where to send it. <br><br>
+		If you <b>buy a game</b> from us, we collect billing information so we can charge you.  We also ask that for your email address to let you know about product updates and more.  (For example, if one of our new games has a problem that we missed, we fix it right away and will let you know about it!) <br><br>
+		On a more general level, we do collect information that we use in aggregate to get a sense of how many people have visited our site, which pages are most popular, and things of that nature. Take a look at our complete Privacy Policy and Terms of Use (below) to get really specific information about how this works...<br>
+		<br>
+		<h2>If I give you my email address, what exactly will you do with it?</h2>
+		<div class="divider" width="100%"></div><br>
+		Friends don't send friends Spam. If you're anything like us, your inbox is probably plenty full as it is. Respecting that, we'll only send you email when we have something important to tell you.  <br><br>
+		Plus, you'll have to explicitly let us know if you'd like to receive our newsletter, <i>The Fizz</i>.  You might also want to sign up for special offers and announcements so you can get exclusive discounts and hear about new games. In every email we send, there will be clear instructions about how to unsubscribe, and you're free to do so at any time! <br><br>
+		Other than that, you'll probably get confirmation emails from time to time, like when you buy a game or first sign up for the newsletter. <br>
+		<br>
+		<h2>Do you ever sell or give my email address to third parties?</h2>
+		<div class="divider" width="100%"></div><br>
+		No way! We make our money selling games, not email addresses. Any information we collect is for our own use as described above and any exceptions will be clearly identified as such in advance. If we ever use a third party to say, help us send out our newsletter, they're held to strict privacy standards and are working on our behalf. <br><br>
+		However, our games are widely available through several partners we have. Be sure you understand their privacy policies before sharing any personal information with them. <br>
+		<br>
+		<h2>Is it safe to download your games?</h2>
+		<div class="divider" width="100%"></div><br>
+		Absolutely! And it's free and easy! <br><br>
+		When you download our free trial games or buy a deluxe download, you'll be asked to "Save" or "Run" the game. It only takes a minute, and we'll walk you through each step. Then you can start playing right away...without being connected to the Internet!<br>
+		<br>
+		<h2>What about spyware?</h2>
+		<div class="divider" width="100%"></div><br>
+		Spyware is sneaky and deceptive, and we will never install any spyware software on your computer.  We sell games, pure and simple...and we're not going to snoop into your privacy. The only information we know about you is information you offer us yourself and generalized, aggregate information about how all our visitors use our website and games. <br>
+		<br>
+		<h2>Do you ever store "cookies"?</h2>
+		<div class="divider" width="100%"></div><br>
+		Yes we do, to give you the best web experience possible. Cookies are convenient ways for the website to remember you, which means we can personalize your experience on our website. For example, cookies help us keep track of what you've added to your shopping cart when you're ready to buy our games. They're really quite handy, and are a time-saver for you!<br>
+		<br>
+		<h2>What should I do if I think you're violating this policy?</h2>
+		<div class="divider" width="100%"></div><br>
+		Tell us about it! If you ever feel that we are not following this policy, please <a href="mailto:%66ee%64b%61c%6b@pop%63a%70.%63%6f%6d" onmouseover="window.status='Send us an email!';return true;" onmouseout="window.status='';return true;" onclick="window.status='Send us an email!';return true;">send us an email</a> and explain how or why you feel we are violating it. Here's our mailing address, too, if you'd rather send snail mail:<br>
+		<ul>
+					PopCap Games<br>
+		             2401 4th Ave, Suite 810<br>
+		             Seattle, WA 98121<br>
+		</ul>
+		That about does it. Give a shout if you have any questions or concerns. We'd love to hear from you! <br>
+		<br>
+		<h2>And now, a word from our lawyers:</h2>
+		<div class="divider" width="100%"></div><br>
+		</font>
+
+		<div class="pageblurb">
+
+		<a name="privacy"></a>
+
+		<span class="gameheavy">PRIVACY NOTICE</span>
+		<br>
+		<span class="fine">Last updated: May 18, 2006</span>
+		<br><br>
+
+		PopCap Games knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <strong>By visiting PopCap.com, you are accepting the practices described in this Privacy Notice</strong>.
+		<br><br>
+
+		<b>Terms of Use</b>
+		<br><br>
+		Please review our Terms of Use at <a href="http://www.popcap.com/terms.php#terms">http://www.popcap.com/terms.php#terms</a>, which also governs your visit to PopCap.com.
+		<br><br>
+
+		<b>BBB OnLine Privacy Program</b>
+		<br><br>
+		Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at <a href="http://www.bbbonline.org" target="_blank">http://www.bbbonline.org</a>
+		<br><br>All BBBOnLine Privacy Program participants are required to work with the program's dispute resolution process. The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator. For more information about the Privacy Program dispute resolution process visit <a href="http://www.bbbonline.org/privacy/dr.asp" target="_blank">http://www.bbbonline.org/privacy/dr.asp</a>
+		<br><br>
+
+		<b>What Personal Information About Customers Does PopCap.com Gather?</b>
+		<br><br>
+		The information we learn from customers helps us personalize and continually improve your shopping experience at PopCap.com. Here are the types of information we gather.
+		<br>
+		<ul>
+		<li><b>Information You Give Us:</b> We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+		<p>On some pages, you can submit information about other people. For example, if you order a gift certificate online and want it sent directly to the recipient, you will need to submit the recipient's name and email address. We use the information you provide about someone else when placing an order only to send the gift certificate.  We do not share this information with outside parties.
+		</p>
+		</li>
+		<li><b>Automatic Information:</b> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses PopCap.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at PopCap.com if we cannot recognize you, we want you to be aware that these tools exist.</li>
+		<li><b>E-mail Communications:</b> To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from PopCap.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please visit <a href="http://www.popcap.com/unsubscribe.php">http://www.popcap.com/unsubscribe.php</a> or <a href="http://www.popcap.com/helpform_contactus.php">http://www.popcap.com/helpform_contactus.php</a>.</li>
+		<li><b>Information from Other Sources:</b> We might receive information about you from other sources and add it to our account information.</li>
+
+
+
+		</ul>
+		<br>
+
+		<b>What About Cookies?</b>
+		<ul>
+		<li>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. </li>
+		<li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of PopCap.com's coolest features, and we recommend that you leave them turned on. </li>
+		</ul>
+		<br>
+		Information about our customers is an important part of our business, and we are not in the business of selling it to others.
+		<br><br>
+
+		<b>Member Accounts, Passwords, and Invitations</b>
+		<br><br>
+		You are responsible for keeping the confidentiality of your Member ID and password. PopCap representatives will never ask you for your password.
+		<br>
+		<br>
+
+		<b>Does PopCap.com Share the Information It Receives?</b>
+		<br><br>
+		Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries PopCap.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+		<br>
+		<ul>
+		<li><b>Agents:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. </li>
+		<li><b>Promotional Offers:</b> Sometimes we send offers to selected groups of PopCap.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please contact PopCap Customer Support at <a href="http://www.popcap.com/helpform_contactus.php">http://www.popcap.com/helpform_contactus.php</a>. </li>
+		<li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that PopCap Games, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. </li>
+		<li><b>Protection of PopCap.com and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of PopCap.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.</li>
+		<li><b>With Your Consent:</b> Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. </li>
+		</ul>
+		<br>
+
+		<b>How Secure Is Information About Me?</b>
+		<br>
+		<ul>
+		<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+		</li><li>We will reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+		</li><li>Any information we collect will be securely stored and processed in a database that resides in either the United States or Ireland.
+		</li><li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+		</li></ul>
+		<br>
+
+		<b>Which Information Can I Access?</b>
+		<br><br>
+		PopCap.com will give you access to a broad range of information about your account and your interactions with PopCap.com for the limited purpose of viewing and, in certain cases, updating that information as our Web site evolves.
+		<br><br>
+
+		<b>What Choices Do I Have?</b>
+		<ul>
+		<li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of specific PopCap.com features.</li>
+		<li>If you do not want to receive e-mail or other mail from us, please visit <a href="http://www.popcap.com/unsubscribe.php">http://www.popcap.com/unsubscribe.php</a>. You may also send mail to:
+		<br><br>
+
+		PopCap Games<br>
+		Attention: Opt-Out<br>
+		2401 4th Avenue, Suite 810<br>
+		Seattle, WA 98121<br>
+		<br><br>
+
+		</li><li>(If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of PopCap.com, and it is your responsibility to review them for changes.)</li>
+		<li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as the PopCap.com store if you do not use cookies. </li>
+		<li>The Federal Trade Commission provides useful information about online privacy on its own Web site, <a href="http://www.ftc.gov/bcp/conline/pubs/online/sitesee.shtm" target="_blank">Site Seeing on the Internet</a>. </li>
+		</ul>
+		<br>
+
+		<b>Children</b>
+		<br><br>
+		PopCap.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use PopCap.com only with the involvement of a parent or guardian.
+		<br><br>
+
+		<b>Conditions of Use, Notices, and Revisions</b>
+		<br><br>
+		If you choose to visit PopCap.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at PopCap.com, please contact us with a thorough description, and we will try to resolve it.
+		<br><br>
+		Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of the persons affected.
+		<br><br>
+
+		<b>Third Party Sites</b>
+		<br><br>
+		Other companies that advertise on our site may collect information about you when you view or click on their site or logos. PopCap.com does not control what information third parties gather once you leave the PopCap.com web site. You are encouraged to check the privacy policies of these sites.
+		<br><br>
+
+		<b>Third Party Advertising</b>
+		<br><br>
+		We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+		<br><br>
+
+		<b>Third Party Cookies</b>
+		<br><br>
+		In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+		<br><br>
+
+		<b>Does Popcap.com Participate in the Safe Harbor Program?</b> <br><br> PopCap.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's <a href="http://www.export.gov/safeharbor/index.html">Safe Harbor Web site</a>. If you would like to contact PopCap.com directly about the Safe Harbor program, please send an e-mail to <a href="mailto:safeharbor@popcap.com">safeharbor@PopCap.com</a>.
+		<br><br>
+
+		<a name="terms"></a>
+		<br><br>
+
+		<a href="#top" class="featured">back to the top</a><br><br>
+
+		<h1>Terms of Use</h1>
+		<div class="divider" width="100%"></div><br>
+		<br>
+		<span class="fine">Last updated: October 21, 2005</span>
+		<br><br>
+
+		Welcome to PopCap.com. PopCap Games, PopCap.com, and its affiliates provide their services to you subject to the following conditions. <strong>If you visit or shop at PopCap.com, you accept these conditions.</strong> Please read them carefully. In addition, when you visit, use, or purchase any current or future PopCap.com service or product from any business affiliated with PopCap.com, whether or not included in the PopCap.com Web site, you also will be subject to the guidelines and conditions applicable to such service or business.
+		<br><br>
+
+		<b>PRIVACY</b>
+		<br><br>
+		Please review our Privacy Notice at <a href="http://www.popcap.com/terms.php#privacy">http://www.popcap.com/terms.php#privacy</a>, which also governs your visit to PopCap.com, to understand our practices.
+		<br><br>
+
+		<b>ELECTRONIC COMMUNICATIONS</b>
+		<br><br>
+		When you visit PopCap.com or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on this site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+		<br><br>
+
+		<b>COPYRIGHT</b>
+		<br><br>
+		All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of PopCap Games, Inc., or its content suppliers and is protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of PopCap Games and is protected by U.S. and international copyright laws. All software used on this site is the property of PopCap Games or its software suppliers and protected by United States and international copyright laws.
+		<br><br>
+
+		<b>TRADEMARKS</b>
+		<br><br>
+		The PopCap logo and all other trademarks <a href="#trademarks" target="_self">listed here</a> are owned by PopCap Games, Inc. or its licensors and may be registered in some countries. Other company and product names appearing on this website may be trademarks of their respective owners and are used for the benefit of those owners.
+		<br><br>
+
+		<b>LICENSE AND SITE ACCESS</b>
+		<br><br>
+		PopCap Games grants you a limited license to access and make personal use of PopCap.com and the web games and downloadable games offered on this site. This license does not include the right to download content other than specifically designated electronic software downloads and online game executables, nor does the license give you the right modify any content, except with express written consent of PopCap Games. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of this site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of PopCap Games. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of PopCap Games and our affiliates without express written consent. You may not use any meta tags or any other "hidden text" utilizing PopCap Games' name or trademarks without the express written consent of PopCap Games. Any unauthorized use terminates the permission or license granted by PopCap Games. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of PopCap.com so long as the link does not portray PopCap.com, its affiliates, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any PopCap Games logo or other proprietary graphic or trademark as part of the link without express written permission.
+		<br><br>
+
+		<b>RISK OF LOSS</b>
+		<br><br>
+		All items purchased from PopCap.com are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.
+		<br><br>
+
+		<b>PRODUCT DESCRIPTIONS </b>
+		<br><br>
+		PopCap.com and its affiliates attempt to be as accurate as possible. However, PopCap.com does not warrant that product descriptions or other content of this site is accurate, complete, reliable, current, or error-free. If a product offered by PopCap.com itself is not as described, your sole remedy is to return it in unused condition.
+		<br><br>
+
+		<b>PRICING</b>
+		<br><br>
+		With respect to items sold by PopCap.com, we cannot confirm the price of an item until you order; however, we do NOT charge your credit card until after your have confirmed your billing address and consented and authorized us to verify and bill your credit card.
+		<br><br>
+
+		<b>ONLINE AND OFFLINE PURCHASING</b>
+		<br><br>
+		When conducting online purchases with PopCap.com or offline purchases with PopCap Games, Inc., or PopCap International, Ltd., you must provide true, accurate, and complete information about yourself and provide non-fraudulent means of payment. If you provide any personal or financial information that is untrue, inaccurate, or incomplete, or PopCap Games has reasonable grounds to suspect that the information is untrue, inaccurate, or incomplete, PopCap Games has the right to void related financial transactions, to revoke any associated software licenses resulting from such transactions, and to refer to appropriate authorities the details of such incidents.
+		<br><br>
+
+		<b>DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY</b>
+		<br><br>
+		THIS SITE IS PROVIDED BY POPCAP.COM ON AN "AS IS" AND "AS AVAILABLE" BASIS. POPCAP.COM MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THIS SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK.
+		<br><br>
+		TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, POPCAP.COM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. POPCAP.COM DOES NOT WARRANT THAT THIS SITE, ITS SERVERS, OR E-MAIL SENT FROM POPCAP.COM ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. POPCAP.COM WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+		<br><br>
+		CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+		<br><br>
+
+		<b>APPLICABLE LAW </b>
+		<br><br>
+		By visiting PopCap.com, you agree that the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and PopCap.com or its affiliates.
+		<br><br>
+
+		<b>DISPUTES</b>
+		<br><br>
+		Any dispute relating in any way to your visit to PopCap.com or to products you purchase through PopCap.com shall be submitted to confidential arbitration in Seattle, Washington, except that, to the extent you have in any manner violated or threatened to violate PopCap.com's intellectual property rights, PopCap.com may seek injunctive or other appropriate relief in any state or federal court in the state of Washington, and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
+		<br><br>
+
+		<b>SITE POLICIES, MODIFICATION, AND SEVERABILITY</b>
+		<br><br>
+		Please review our other policies, such as our Pricing Policy, posted on this site. These policies also govern your visit to PopCap.com. We reserve the right to make changes to our site, policies, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
+		<br><br>
+
+		<b>OUR ADDRESS</b>
+		<br><br>
+		PopCap.com, Inc.<br>
+		2401 4th Avenue, Suite 810<br>
+		Seattle, WA 98121<br>
+		<a href="http://www.popcap.com">http://www.popcap.com</a><br>
+		<br><br>
+
+		<b>PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT</b>
+		<br><br>
+		PopCap Games and its affiliates respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide PopCap Games with the written information specified below. Please note that this procedure is exclusively for notifying PopCap Games and its affiliates that your copyrighted material has been infringed.
+		<br>
+		<ul>
+		<li>An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;</li>
+		<li>A description of the copyrighted work that you claim has been infringed upon;</li>
+		<li>A description of where the material that you claim is infringing is located on the site, including the auction ID number, if applicable;</li>
+		<li>Your address, telephone number, and e-mail address;</li>
+		<li>A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;</li>
+		<li>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.</li>
+		</ul>
+		<br>
+
+		PopCap Games© Copyright Agent for notice of claims of copyright infringement on its site can be reached as follows:
+		<br><br>
+		PopCap Games<br>
+		Attention: Copyright Agent / Legal Department<br>
+		2401 4th Avenue, Suite 810<br>
+		Seattle, WA 98121<br>
+		United States of America<br>
+		fax: (206) 256-2066<br>
+
+		<br><br>
+		<a name="trademarks"></a>
+		<a href="#top" class="featured">back to the top</a><br><br>
+
+		<h1>Trademarks</h1>
+		
+		<div class="divider" width="100%"></div><br>
+		Jump to section: <a href="#corporate" class="leftnav">Corporate</a> - <a href="#game" class="leftnav">Game</a> - <a href="#chinese" class="leftnav">Chinese</a>
+		<br><br>
+		The <b>PopCap®</b> brand is synonymous with fun, high-quality, casual games. PopCap Games offers interactive entertainment that can be played by downloading it to your personal computer, online through your web browser, and, in some cases, on your mobile phone, PDA, console or other standalone device. PopCap trademarks represent extremely valuable assets of the company because they represent the standards of excellence and consistent quality associated with the world's leading developer of casual games.
+		<br><br>
+		Below is a list of trademarks and logos owned by PopCap Games (or, if so indicated below with respect to a particular trademark or logo, by its licensors), which is updated from time to time. The absence of a trademark or logo from this list does not constitute a waiver of any intellectual property rights that PopCap has established in any of its games, features, characters, logos and other associated marketing assets.
+		<br><br>
+		Unless you are a party to an agreement with PopCap Games or one of its authorized resellers or distributors, or are otherwise entitled to a legal exception, you are not authorized to use any of these trademarks or logos without written permission from PopCap Games. Resellers and distributors may use the trademarks and logos associated with the games they are authorized by PopCap to distribute, as long as such use complies with PopCap's published guidelines and the requirements in the applicable reseller agreement. Even with a legal exception, the marks must be used in the correct style or format as shown in the list below, and with an appropriate ownership attribution notice. If you believe you qualify for a legal exception that would permit use, or have additional questions, please contact PopCap for further information at the following address: <a href="mailto:trademark@popcap.com">trademark@popcap.com</a>.
+		<br><br>
+
+		<a name="corporate"></a>
+		<h2 style="padding:0px;margin:0px;">Corporate Trademarks</h2>
+		<br><br>
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td>POPCAP</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol:</i></td>
+				<td></td>
+				<td><b>®</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+			</tr><tr>
+				<td></td>
+				<td valign="top"><i>Name:</i></td>
+				<td></td>
+				<td>POPCAP Logo - Current Version</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Design:</i></td>
+				<td></td>
+				<td><img src="images/trademarks/popcap.jpg"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol:</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+			</tr><tr>
+				<td></td>
+				<td valign="top"><i>Name:</i></td>
+				<td></td>
+				<td>POPCAP Logo - Legacy Version</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Design:</i></td>
+				<td></td>
+				<td><img src="images/trademarks/popcap.legacy.jpg"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol:</i></td>
+				<td></td>
+				<td><b>®</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+		</tr></tbody></table>
+		
+		<br><br>
+		<a name="game"></a>
+		<h2 style="padding:0px;margin:0px;">Game Names and Trademarks</h2>
+		<br><br>
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td>ALCHEMY</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Design:</i></td>
+				<td></td>
+				<td><img src="images/trademarks/alchemy.jpg"></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2000 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>ASTROPOP</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/astropop.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>ATOMIC POKER</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/atomicpoker.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>ATOMICA</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/atomica.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2000 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BEJEWELED</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bejeweled.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>®</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2000 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BEJEWELED 2</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bejeweled2.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>®</b> for <i>Name</i> (i.e., <i>Bejeweled® 2</i>), <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BIG MONEY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bigmoney.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BONNIE'S BOOKSTORE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bonniesbookstore.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><i>Trademark Owner:</i></td>
+					<td></td>
+					<td>New Crayon Games, LLC.</td>
+					<td></td>
+				</tr>
+
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2005 New Crayon Games, LLC.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BOOKWORM</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bookworm.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>BOOKWORM ADVENTURES</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/bwa.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i> (i.e., <i>Bookworm™ Adventures</i>), <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2006 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>CANDYTRAIN</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/candytrain.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>CHUZZLE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/chuzzle.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2005 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>COLOR HARMONY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td>None</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>DYNOMITE!</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/dynomite.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>FEEDING FRENZY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/ff.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>FEEDING FRENZY 2</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/ff2.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i><br>(e.g. <i>Feeding Frenzy™ 2</i>, <i>Feeding Frenzy™ Shipwreck Showdown</i>)<br><b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2006 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>HAMMER HEADS</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/hammerheads.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td>None</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2006 Nuclide.com BVBA.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>HEAVY WEAPON</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/heavyweapon.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2005 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>IGGLE POP!</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/igglepop.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>INSANIQUARIUM</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/insaniquarium.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>LUCKY PENNY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/luckypenny.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>MARS NEEDS COWS</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/mnc.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>MUMMY MAZE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/mummymaze.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>NINGPO MAHJONG</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/ningpo.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><i>Copyright Owner:</i></td>
+					<td></td>
+					<td>Pyrogon, Inc.</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 Pyrogon, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>NOAH'S ARK</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/noahsark.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>PEGGLE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/peggle.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2007 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>PIXELUS</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/pixelus.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><i>Copyright Owner:</i></td>
+					<td></td>
+					<td>Nuclide.com BVBA.</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 Nuclide.com BVBA.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>PIZZA FRENZY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/pizzafrenzy.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2005 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>PSYCHOBABBLE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td>None</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2001 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>ROCKET MANIA</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/rocketmania.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><i>Copyright Owner:</i></td>
+					<td></td>
+					<td>Nuclide.com BVBA</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2003 Nuclide.com BVBA.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>SEVEN SEAS</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/sevenseas.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2000 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>TALISMANIA</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/talismania.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td>None</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2006 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+					
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>TIP TOP</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/tiptop.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><i>Copyright Owner:</i></td>
+					<td></td>
+					<td>ASAP Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 ASAP Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>TYPER SHARK</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/typershark.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2002 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>VENICE</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/venice.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td>None</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2007 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>WORD HARMONY</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/wordharmony.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2004 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>		
+				</tr><tr>
+					<td></td>
+					<td valign="top"><i>Name:</i></td>
+					<td></td>
+					<td>ZUMA</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Design:</i></td>
+					<td></td>
+					<td><img src="images/trademarks/zuma.jpg"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Trademark Symbol(s):</i></td>
+					<td></td>
+					<td><b>™</b> for <i>Name</i>, <b>™</b> for <i>Design</i></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td valign="top"><i>Copyright Information:</i></td>
+					<td></td>
+					<td>©2003 PopCap Games, Inc.</td>
+					<td></td>
+				</tr>
+				<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+		</tr></tbody></table>
+		
+		<br><br>
+		<a name="chinese"></a>
+		<h2 style="padding:0px;margin:0px;">Chinese Trademarks</h2>
+		<br><br>
+		<b>Corporate Trademarks</b>
+		<br><br>
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/popcap.chinese.gif"><br>(POPCAP)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+			</tr><tr>
+				<td></td>
+				<td valign="top"><i>Name:</i></td>
+				<td></td>
+				<td><img src="images/trademarks/popcap.games.chinese.gif"><br>(POPCAP GAMES)</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+			</tr><tr>
+				<td></td>
+				<td valign="top"><i>Name:</i></td>
+				<td></td>
+				<td><img src="images/trademarks/popcap.games.logo.chinese.jpg"><br>(POPCAP GAMES Logo)</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+		</tr></tbody></table>
+		<br><br>
+		
+		<b>Game Names and Trademarks</b>
+		<br><br>
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/astropop.chinese.gif"><br>(ASTROPOP)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2004 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/bejeweled.chinese.gif"><br>(BEJEWELED)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2000 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/chuzzle.chinese.gif"><br>(CHUZZLE)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2005 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/ff.chinese.gif"><br>(FEEDING FRENZY)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2000 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/heavyweapon.chinese.gif"><br>(HEAVY WEAPON)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2005 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/insaniquarium.chinese.gif"><br>(INSANIQUARIUM)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2002 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+				</tr><tr>
+				<td width="15"></td>
+				<td valign="top"><i>Name:</i></td>
+				<td width="20"></td>
+				<td><img src="images/trademarks/zuma.chinese.gif"><br>(ZUMA)</td>
+				<td width="15"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Trademark Symbol(s):</i></td>
+				<td></td>
+				<td><b>™</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td valign="top"><i>Copyright Information:</i></td>
+				<td></td>
+				<td>©2003 PopCap Games, Inc.</td>
+				<td></td>
+			</tr>
+			<tr><td colspan="5"><div class="divider" width="100%"></div><br></td></tr><tr>	
+		</tr></tbody></table>
+		
+		<br><br>
+		<a href="#top" class="featured">back to the top</a><br><br>
+
+		</div>
+			<br>
+        </div></td>
+    </tr>
+  <tr height="1">
+      <td colspan="3" bgcolor="#FFFFFF" height="1" background="http://images.popcap.com/www/images/divider_leftcol.gif"><img src="http://images.popcap.com/www/images/spacer.gif" width="1" height="1"></td>
+    </tr>
+    <tr><!-- FOOTER ROW -->
+	</tr><tr>
+	<td colspan="2">
+		<div id="footer">
+					<p><a href="/aboutus.php">About Us</a> | <a href="/terms.php#privacy">Privacy Policy</a> | <a href="/terms.php#terms">Terms of Use</a> | <a href="/terms.php#trademarks">Trademarks</a> | <a href="/mediakit/index.php">Advertise With Us</a> | <a href="/press/">Press Room</a> | <a href="/sitemap.php">Site Map</a> | <a href="/help.php">Help</a></p>
+			<p>© 2000-2007 PopCap Games, Inc. All names are trademarks or registered trademarks of PopCap Games or their respective owners. All rights reserved.</p>
+				</div>
+	</td>
+</tr></tbody></table>
+
+<map name="mapHome" id="mapHome">
+<area shape="circle" coords="73,48,47" href="http://www.popcap.com" alt="PopCap Home">
+</map>
+
+<div style="display:none;">
+	<!-- SiteCatalyst code version: H.3.
+	Copyright 1997-2005 Omniture, Inc. More info available at
+	http://www.omniture.com -->
+	<script language="JavaScript" src="/inc/js/s_code.js"></script><img name="s_i_popcapcom" height="1" width="1" border="0" alt="" src="https://smtrcs.popcap.com/b/ss/popcapcom/1/H.3-pdv-2/s03780825103006?[AQB]&amp;ndh=1&amp;t=31/0/2020%2012%3A54%3A6%205%200&amp;ns=popcapgames&amp;pageName=Company%20Information%20%3E%20Privacy%20Policy%20/%20Terms%20of%20Use%20/%20Trademarks&amp;g=https%3A//web.archive.org/web/20071117032058id_/http%253A//www.popcap.com/terms.php%2523privacy&amp;cc=USD&amp;ch=Company%20Information&amp;server=207.241.233.35&amp;events=NA&amp;products=%3BNA&amp;c5=Company%20Information%20%3E%20Privacy%20Policy%20/%20Terms%20of%20Use%20/%20Trademarks&amp;v9=1&amp;c11=1&amp;v17=Company%20Information&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	<script language="JavaScript"><!--
+	/* You may give each page an identifying name, server, and channel on
+	the next lines. */
+	s.pageName = "Company Information > Privacy Policy / Terms of Use / Trademarks"
+	s.server = "207.241.233.35"
+	s.channel = "Company Information"
+	s.pageType = ""
+	/* E-commerce Variables */
+	s.events = "NA"
+	s.products = ";NA"
+	s.eVar3 = ""
+	s.eVar5 = ""
+	s.eVar17= "Company Information"
+	s.eVar19= ""
+	s.prop4 = ""
+	s.eVar15= ""
+	s.prop5 = "Company Information > Privacy Policy / Terms of Use / Trademarks"
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+	<!-- End SiteCatalyst code version: H.3. -->
+	</div><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	<script type="text/javascript">
+		_uacct = "UA-2460094-1";
+		
+		urchinTracker();
+	</script>
 
 </body></html>
