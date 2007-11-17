@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3-center.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625091915id_/http%3A//www.mp3-center.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3-center.org privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117204329id_/http%3A//www.mp3-center.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MP3-center.org
 
