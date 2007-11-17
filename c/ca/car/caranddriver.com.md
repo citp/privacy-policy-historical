@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caranddriver.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224524id_/http%3A//aboutus.hfmus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caranddriver.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117052111id_/http%3A//aboutus.hfmus.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
   
 **Hachette Filipacchi Media U.S., Inc Online Privacy Policy**
 
-Last Updated: November 1, 2006
+Last Updated: October 1, 2007
 
 This Web site is published and maintained by Hachette Filipacchi Media U.S., Inc. ("HFM U.S."), with offices located at 1633 Broadway, New York, NY 10019. This Privacy Policy governs HFM U.S.'s collection of information on this site and our use and disclosure of such information. Except as set forth herein, this Privacy Policy does not apply to information HFM U.S. collects in connection with your subscription to any of our print publications.
 
@@ -17,7 +17,7 @@ By visiting this site, you agree to the terms of this policy as they may be amen
 Your privacy is a serious matter to HFM U.S. In order to make your visits to our sites as worthwhile as possible, we collect certain information from your computer each time you visit us and sometimes we ask you for Personal Information. This privacy statement explains what Personal Information is collected on HFM U.S. Web sites, including this one, how the information is used, and with whom we may share such information. Please take a few minutes to read our privacy policy so that you understand how we treat your personal information. 
 
 **Right to Opt Out**  
-You have the right to “opt-out” of certain uses of your Personal Information. At the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive e-mail offers from HFM U.S. or have your Personal Information shared with other companies. You may also make this request by sending an e-mail to [privacy@hfmus.com](mailto:privacy@hfmus.com). **In this e-mail please identify which HFM U.S. Site you are referring to and say whether you would like to opt-out of (i) receiving e-mail offers from that Site (ii) having your Personal Information shared with other companies or (iii) both.** You may also opt-out of HFM U.S. e-mails by clicking on a link within the email replying back to an e-mail you receive. Please understand that if you opt-out of receiving e-mails from HFM U.S., we may still contact you by e-mail in connection with your account with us or to provide you with important information about HFM U.S. or this Site. Also, a request to have us stop sharing your Personal Information with other companies will only apply as of the date of the request, and HFM U.S. will not be responsible for any communications that you may receive from companies that received your Personal Information prior to such request. In these cases, please contact that company directly. 
+You have the right to “opt-out” of certain uses of your Personal Information. At the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive e-mail offers from HFM U.S. or have your Personal Information shared with other companies. You may also make this request by sending an e-mail to privacy@hfmus.com. **In this e-mail please identify which HFM U.S. Site you are referring to and say whether you would like to opt-out of (i) receiving e-mail offers from that Site (ii) having your Personal Information shared with other companies or (iii) both.** You may also opt-out of HFM U.S. e-mails by clicking on a link within the email replying back to an e-mail you receive. Please understand that if you opt-out of receiving e-mails from HFM U.S., we may still contact you by e-mail in connection with your account with us or to provide you with important information about HFM U.S. or this Site. Also, a request to have us stop sharing your Personal Information with other companies will only apply going forward from the date of the request, and HFM U.S. will not be responsible for any communications that you may receive from companies that received your Personal Information prior to such request. In these cases, please contact that company directly. 
 
 **Attention Kids**  
 If you are under the age of 13 (12 or younger), you may not provide any information about yourself to this Site. While you may view content on the Site, you may not register with the Site, enter any of our sweepstakes or contests, or participate in any of our chat rooms, bulletin boards or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to this Site, we will delete such information.
@@ -34,7 +34,7 @@ HFM U.S. does not collect any Personal Information such as name, address or e-ma
 
 We may also ask you to provide other information about yourself such as your age, hobbies, likes, dislikes, etc. 
 
-You may review the Personal Information that you have provided to HFM U.S.’s Web sites by e-mailing privacy@hfmus.com or writing to HFM U.S. at 1633 Broadway, 40th Fl., New York, NY 10019 ATTN: Legal Department. We will send you a copy of such Personal Information we have on file in your user account (if any). You may send us new or updated information at any time.
+You may review the Personal Information that you have provided to HFM U.S.’s Web sites by e-mailing privacy@hfmus.com or writing to HFM U.S. at 1633 Broadway, New York, NY 10019 ATTN: Legal Department. We will send you a copy of such Personal Information we have on file in your user account (if any). You may send us new or updated information at any time via e-mail or mail.
 
 > **Site Usage Information**
 >
@@ -44,7 +44,9 @@ We try to provide you with services, products and offers customized to your inte
 
 Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Refusing a cookie will generally not interfere with your use of a HFM U.S. Web site. However, refusal of a cookie may, in some cases, preclude you from using features of a site that require registration. You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies.
 
-To the extent that the HFM U.S. Web Site carries advertising by third parties, HFM U.S.'s Web advertising technology companies, which currently include DoubleClick, Tacoda Systems, Inc. and Revenue Science, Inc. also use cookies and other technologies. The non-personally identifiable information collected by these companies, for example, about your visits to this and other web sites is used for the purpose of targeting ads and measuring ad effectiveness on behalf of advertisers and Web publishers who specifically request it. For additional information on the information that is collected by HFM U.S.'s Web advertising technology vendors and to know your choices about not having this information used by them, please click on their names or visit <http://www.networkadvertising.org/consumer/opt_out.asp>.
+We may also use web beacon technology to help track site usage. Web beacons (also called single pixel gifs or action tags) allow HFM U.S. and our service providers and business partners to track page viewing counts and patterns, which we use, for example, for future site development and to measure the effectiveness of marketing campaigns. We may also use web beacons within the context of certain emails to determine the effectiveness of the mailing.
+
+To the extent that the HFM U.S. Web Site carries advertising by third parties, HFM U.S.'s Web advertising technology companies, which currently include DoubleClick, Tacoda Systems, Inc. and Revenue Science, Inc. and Pulse360 also use cookies, web beacons and other technologies. The non-personally identifiable information collected by these companies, for example, about your visits to this and other web sites is used for the purpose of targeting ads and measuring ad effectiveness on behalf of advertisers and Web publishers who specifically request it. For additional information on the information that is collected by HFM U.S.'s Web advertising technology vendors and to know your choices about not having this information used by them, please click on their names or visit <http://www.networkadvertising.org/consumer/opt_out.asp>.
 
 > > **IP Address**
 
@@ -90,7 +92,7 @@ When you are on an HFM U.S. site you may have the opportunity to visit, or link 
 HFM U.S. reserves the right to change or update this Privacy Policy, or any other HFM U.S. policy or practice, at any time and will notify users of such changes or updates by posting them on the Site and/or by additional means as determined to be appropriate under the circumstances.  Any changes or updates will be effective immediately upon posting to the Site
 
 **Security/Enforcement**  
-HFM U.S. will take reasonable steps to protect the security and integrity of all Personal Information provided to the HFM U.S. Web sites. However, due to the inherent nature of the Internet as an open global communications vehicle, HFM U.S. cannot guarantee that this information will be absolutely safe from intrusion by others, such as hackers. Any unauthorized access to or use of the HFM U.S. Web sites or information collected and maintained by the HFM U.S. Web sites should be immediately brought to the attention of HFM U.S. at the customer service e-mail address below. HFM U.S. will investigate, and if necessary take action to prevent or halt, any violation of this Privacy Policy of which it becomes aware.
+HFM U.S. will take reasonable steps to protect the security and integrity of all Personal Information provided to the HFM U.S. Web sites. However, due to the inherent nature of the Internet as an open global communications vehicle, HFM U.S. cannot guarantee that this information will be absolutely safe from intrusion by others, such as hackers. Any unauthorized access to or use of the HFM U.S. Web sites or information collected and maintained by the HFM U.S. Web sites should be immediately brought to the attention of HFM U.S. at the e-mail address below. HFM U.S. will investigate, and if necessary take action to prevent or halt, any violation of this Privacy Policy of which it becomes aware.
 
 If you are requested to send us any sensitive personal information, such as your credit card number, password, membership number or pin number, in an e-mail or into a web site or otherwise, and you are uncertain whether such request is authorized by us, please do not hesitate to ask us by sending an e-mail to our privacy officer at privacy@hfmus.com.
 
@@ -99,6 +101,7 @@ In the unlikely event that we believe that the security of your Personal Informa
 **REMEMBER - DO NOT DISCLOSE PERSONAL INFORMATION IN CHAT ROOMS, THROUGH VOICE CHAT OR ON MESSAGE BOARDS. WHENEVER YOU DO SO, ALL OF THAT INFORMATION CAN BE COLLECTED AND USED BY OTHERS. IF YOU POST PERSONAL INFORMATION IN PUBLIC PLACES, OTHERS MAY SEND YOU UNSOLICITED E-MAIL MESSAGES. BE CAREFUL AND BE SMART WITH YOUR PERSONAL INFORMATION.**
 
   
+**Privacy Contact Information:**  
 Hachette Filipacchi Media U.S., Inc.  
 Attention: Legal Department  
 1633 Broadway, 45th Floor  
@@ -106,5 +109,7 @@ New York, NY 10019
 Phone: 212-767-6921  
 **[privacy@hfmus.com](mailto:privacy@hfmus.com)**
 
-**Effective Date: November 1, 2006**  
+**CONTACT INFORMATION FOR SUBSCRIPTIONS, ADVERTISING, EDITORIAL, REPRINTS, RIGHTS AND PERMISSIONS, EMPLOYMENT AND MATTERS OTHER THAN PRIVACY CAN BE FOUND BY CLICKING “ABOUT US” OR “CONTACT US” ON THIS SITE. PLEASE USE THE PRIVACY CONTACT ONLY FOR PRIVACY RELATED COMMUNICATIONS.**
+
+**Effective Date: October 1, 2007**  
 
