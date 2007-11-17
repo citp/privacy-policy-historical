@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624020755id_/http%3A//www.nijobs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117032415id_/http%3A//www.nijobs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # NIJobs.com - Privacy Policy
 
