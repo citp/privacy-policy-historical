@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626204935id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2007-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071117151722id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
 
 # BMO Financial Group - Privacy
 
@@ -203,7 +203,8 @@ Chief Privacy Officer
 BMO Financial Group  
 P.O. Box 150  
 First Canadian Place  
-Toronto, ON M5X 1H3
+Toronto, ON M5X 1H3  
+[privacy.matters@bmo.com](mailto:privacy.matters@bmo.com)
 
 Independent Oversight
 
