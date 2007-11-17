@@ -1,321 +1,333 @@
-<!--The following is the downloaded HTML source of the timeforkids.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429144956id_/http%3A//www.timeforkids.com/TFK/teachers/about/1%2C28252%2Cprivacypolicy%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timeforkids.com privacy policy that was archived on 2007-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071117071943id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><script language="JavaScript"> 
-	var theon=null;
-	var onSection="";
-	var onSubSection="";
-function popcustom_v1(file,title,w,h,x,y) {
-   popup = window.open(file,title,'width='+ w + ',height='+ h + ',screenX='+ x + ',screenY='+ y + ',scrollbars=0,resizable=1');
-   if (document.images) {popup.focus();}
-
-/* Copyright (c) 2006 Patrick Fitzgerald */
-
-
-}
-</script>
-
-<script language="JavaScript" type="text/javascript" src="/TFK/classroom_v1/js/0,27920,,00.js"></script>
-
-<script type="text/javascript">
-function tabberObj(argsObj)
-{var arg;this.div=null;this.classMain="tabber";this.classMainLive="tabberlive";this.classTab="tabbertab";this.classTabDefault="tabbertabdefault";this.classNav="tabbernav";this.classTabHide="tabbertabhide";this.classNavActive="tabberactive";this.titleElements=['h2','h3','h4','h5','h6'];this.titleElementsStripHTML=true;this.removeTitle=true;this.addLinkId=false;this.linkIdFormat='<tabberid>nav<tabnumberone>';for(arg in argsObj){this[arg]=argsObj[arg];}
-this.REclassMain=new RegExp('\\b'+this.classMain+'\\b','gi');this.REclassMainLive=new RegExp('\\b'+this.classMainLive+'\\b','gi');this.REclassTab=new RegExp('\\b'+this.classTab+'\\b','gi');this.REclassTabDefault=new RegExp('\\b'+this.classTabDefault+'\\b','gi');this.REclassTabHide=new RegExp('\\b'+this.classTabHide+'\\b','gi');this.tabs=new Array();if(this.div){this.init(this.div);this.div=null;}}
-tabberObj.prototype.init=function(e)
-{var
-childNodes,i,i2,t,defaultTab=0,DOM_ul,DOM_li,DOM_a,aId,headingElement;if(!document.getElementsByTagName){return false;}
-if(e.id){this.id=e.id;}
-this.tabs.length=0;childNodes=e.childNodes;for(i=0;i<childNodes.length;i++){if(childNodes[i].className&&childNodes[i].className.match(this.REclassTab)){t=new Object();t.div=childNodes[i];this.tabs[this.tabs.length]=t;if(childNodes[i].className.match(this.REclassTabDefault)){defaultTab=this.tabs.length-1;}}}
-DOM_ul=document.createElement("ul");DOM_ul.className=this.classNav;for(i=0;i<this.tabs.length;i++){t=this.tabs[i];t.headingText=t.div.title;if(this.removeTitle){t.div.title='';}
-if(!t.headingText){for(i2=0;i2<this.titleElements.length;i2++){headingElement=t.div.getElementsByTagName(this.titleElements[i2])[0];if(headingElement){t.headingText=headingElement.innerHTML;if(this.titleElementsStripHTML){t.headingText.replace(/<br>/gi," ");t.headingText=t.headingText.replace(/<[^>]+>/g,"");}
-break;}}}
-if(!t.headingText){t.headingText=i+1;}
-DOM_li=document.createElement("li");t.li=DOM_li;DOM_a=document.createElement("a");DOM_a.appendChild(document.createTextNode(t.headingText));DOM_a.href="javascript:void(null);";DOM_a.title=t.headingText;DOM_a.onclick=this.navClick;DOM_a.tabber=this;DOM_a.tabberIndex=i;if(this.addLinkId&&this.linkIdFormat){aId=this.linkIdFormat;aId=aId.replace(/<tabberid>/gi,this.id);aId=aId.replace(/<tabnumberzero>/gi,i);aId=aId.replace(/<tabnumberone>/gi,i+1);aId=aId.replace(/<tabtitle>/gi,t.headingText.replace(/[^a-zA-Z0-9\-]/gi,''));DOM_a.id=aId;}
-DOM_li.appendChild(DOM_a);DOM_ul.appendChild(DOM_li);}
-e.insertBefore(DOM_ul,e.firstChild);e.className=e.className.replace(this.REclassMain,this.classMainLive);this.tabShow(defaultTab);if(typeof this.onLoad=='function'){this.onLoad({tabber:this});}
-return this;};tabberObj.prototype.navClick=function(event)
-{var
-rVal,a,self,tabberIndex,onClickArgs;a=this;if(!a.tabber){return false;}
-self=a.tabber;tabberIndex=a.tabberIndex;a.blur();if(typeof self.onClick=='function'){onClickArgs={'tabber':self,'index':tabberIndex,'event':event};if(!event){onClickArgs.event=window.event;}
-rVal=self.onClick(onClickArgs);if(rVal===false){return false;}}
-self.tabShow(tabberIndex);return false;};tabberObj.prototype.tabHideAll=function()
-{var i;for(i=0;i<this.tabs.length;i++){this.tabHide(i);}};tabberObj.prototype.tabHide=function(tabberIndex)
-{var div;if(!this.tabs[tabberIndex]){return false;}
-div=this.tabs[tabberIndex].div;if(!div.className.match(this.REclassTabHide)){div.className+=' '+this.classTabHide;}
-this.navClearActive(tabberIndex);return this;};tabberObj.prototype.tabShow=function(tabberIndex)
-{var div;if(!this.tabs[tabberIndex]){return false;}
-this.tabHideAll();div=this.tabs[tabberIndex].div;div.className=div.className.replace(this.REclassTabHide,'');this.navSetActive(tabberIndex);if(typeof this.onTabDisplay=='function'){this.onTabDisplay({'tabber':this,'index':tabberIndex});}
-return this;};tabberObj.prototype.navSetActive=function(tabberIndex)
-{this.tabs[tabberIndex].li.className=this.classNavActive;return this;};tabberObj.prototype.navClearActive=function(tabberIndex)
-{this.tabs[tabberIndex].li.className='';return this;};function tabberAutomatic(tabberArgs)
-{var
-tempObj,divs,i;if(!tabberArgs){tabberArgs={};}
-tempObj=new tabberObj(tabberArgs);divs=document.getElementsByTagName("div");for(i=0;i<divs.length;i++){if(divs[i].className&&divs[i].className.match(tempObj.REclassMain)){tabberArgs.div=divs[i];divs[i].tabber=new tabberObj(tabberArgs);}}
-return this;}
-function tabberAutomaticOnLoad(tabberArgs)
-{var oldOnLoad;if(!tabberArgs){tabberArgs={};}
-oldOnLoad=window.onload;if(typeof window.onload!='function'){window.onload=function(){tabberAutomatic(tabberArgs);};}else{window.onload=function(){oldOnLoad();tabberAutomatic(tabberArgs);};}}
-if(typeof tabberOptions=='undefined'){tabberAutomaticOnLoad();}else{if(!tabberOptions['manualStartup']){tabberAutomaticOnLoad(tabberOptions);}}
-</script>
-<script language="JavaScript1.1" src="http://ar.atwola.com/file/adsWrapper.js"></script>
-<script language="JavaScript" type="text/javascript" src="/TFK/class/js/0,24917,,00.js"></script>
-
-
-                 
-	       
-    
-      
-
-
- <title>Time For Kids | Classroom | privacypolicy</title>
-	<meta name="PATH" content="/TFK/teachers/about/0,28252,,00.html">
-	<meta name="DATE" content="">
-	<meta name="TITLE" content="">
-	<meta name="DESCRIPTION" content="">
-	<meta name="KEYWORDS" content="">	
-
-<link rel="stylesheet" type="text/css" href="/TFK/class/css/layout.css" media="all">
-<link rel="stylesheet" type="text/css" href="/TFK/class/css/typography.css" media="all">
-<link rel="stylesheet" type="text/css" href="/TFK/class/css/print.css" media="print">
-<!--[if lte IE 6]>
-<link rel="stylesheet" type="text/css" href="/TFK/class/css/ie6.css" media="all" />
-<![endif]-->
-<link rel="stylesheet" href="/TFK/class/css/tabber.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/TFK/class/css/tabber-print.css" type="text/css" media="print">
-<style>
-	#safaridebug {
-		display:block;
-		position:absolute;
-		top:0px;
-		left: 800px;
-		background: #FFF;
-		opacity: 50; 
-		-moz-opacity: 50;
-		padding: 10px;
-		font-size: 1.2em;
-	}
-</style>
+<html><head>
+<title>TIME FOR KIDS Privacy Notice</title>
 </head>
-<body onload="P_checkLoad();" onunload="P_checkUnload();" bgcolor="#FFFFFF" text="#000000" link="#000066" alink="#990000" vlink="#000066" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
-<script language="JavaScript">
-<!--
-var P_isLoaded=false;
-function P_checkUnload()	{ if(P_isLoaded)P_closeDown(); }
-function P_checkLoad()		{ if(P_isLoaded)P_startUp(); }
-function P_popupoff()		{ P_execute=false; }
-var toggel=P_popupoff;
-// -->
-</script>
+<body bgcolor="#ffffff">
 
-
-
-<div id="omniture" style="display:none">
-<script language="JavaScript">
-<!-- // Hide
-var s_account="timehmwork";
-// -->
-</script>
-<script language="JavaScript" src="http://img.timeinc.net/tii/omniture/h/common.js"></script>
-<script language="JavaScript" src="http://img.timeinc.net/tii/omniture/h/config/timeforkids.js"></script>
-<script language="JavaScript">
-<!-- // Hide
-
-s_time.channel = 'tfk';
-s_time.pageName = 'tfk|kids|magazine|privacypolicy';
-s_time.prop11 = 'privacypolicy';
-s_time.prop16 = 'magazine';
-
-s_time.prop17 = location.href;
-
-
-if (typeof(catsCSV) == "string") s_time.prop13 = catsCSV;
-if (typeof(omnitureHookFunction) == "function") eval("omnitureHookFunction();");
-var s_code=s_time.t();if(s_code)document.write(s_code)//-->
-</script>
-</div>
-<script language="javascript" type="text/javascript">
-checkWarning();
-</script>
-
-	      <div id="wrapper">
- <div class="topad">
-		<div class="adwrapper">
-		<table cellpadding="0" cellspacing="0" width="751">
-<tbody>
-<tr bgcolor="#666666">
-	<td><img src="http://img.timeinc.net/TFK/class/images/global/ad.gif" alt="ad" height="20" hspace="1" vspace="39" width="9"></td>
-	 <td><script language="JavaScript1.1">
-<!--
-adSetTarget('_blank');
-htmlAdWH('93224667', '728', '90');
-// -->
-	</script>
-	<a href="http://ar.atwola.com/link/93224667/html?badsc=B05sWNwiPTqGqJeQoEorOri63kal7uf3wGS7ZFWplYsINjnL4-gl3zme_zWqVh30KQeFw-JcS_8QuwREjJMt9MloYDf4TGOJBj8ZgSbR_uszNikQE11G5qaznrT2ryRe9Vyc2dd8lV4OmP-XPwY-g8t2JeFi8JTR4t" target="_blank"></a>
-	<noscript>
-		<A HREF="http://ar.atwola.com/link/93224667/aol"><IMG SRC="http://ar.atwola.com/image/93224667/aol" ALT="Click here to visit our advertiser." WIDTH=728 HEIGHT=90 BORDER=0></A>
-	</noscript>
-	</td>
-	<td><img src="http://img.timeinc.net/TFK/class/images/global/ad.gif" alt="ad" height="20" hspace="1" vspace="39" width="9"></td>
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td rowspan="16" align="center" valign="top" width="5%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+<td align="left" valign="top" width="60%"><img src="https://cgi.timeinc.net/subs/privacy/images/tklogo.gif" alt="Magazine Logo" border="0"></td>
+<td width="20%"></td>
+<td align="center" valign="top" width="10%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+<td rowspan="16" align="center" valign="top" width="5%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
 </tr>
+<tr>
+<td colspan="2" align="center" valign="top" width="80%"><font face="helvetica,arial" size="4"><b>PRIVACY POLICY</b></font></td>
+<td align="center" valign="top" width="10%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="3"><br><b>Table of Contents</b></font></td>
+<td align="center" valign="top" width="10%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="50%"><font face="helvetica,arial" size="2">
+<li><a href="#collect">The Information We Collect</a></li>
+<li><a href="#use">How We Use the Information </a></li>
+<li><a href="#options">Privacy Options</a> </li>
+<li><a href="#3party">Collection of Information by Third-Party Sites and Sponsors</a></li>
+<li><a href="#cookies">Cookies</a></li>
+<li><a href="#security">Our Commitment to Security</a></li>
+<li><a href="#access">How You Can Access or Correct Information</a></li>
+<li><a href="#children">Additional Information Regarding Children's Privacy </a></li>
+<li><a href="#changes">Changes to This Policy</a></li>
+<!--<li><a href="#parents">Special Note for Parents</a></li>-->
+<li><a href="#contact">How to Contact Us</a></li>
+</font></td>
+<td align="right" nowrap="nowrap" valign="top" width="30%">
+<p><font face="helvetica,arial" size="2"><a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/tfk?dnp_source=K">European Union Privacy Information</a>
+<br><a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/tfk?dnp_source=K">Canada Privacy Information</a></font></p>
+</td>
+<td align="center" valign="top" width="10%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><br>
+This is the Privacy Policy for the United States of America.
+<br><br>
+Thank you for visiting TimeForKids.com, a Time Inc. site. Your privacy and children's privacy 
+are important to us. This website contains areas for both adults and children to enjoy 
+multi-purpose activities.  Adults such as parents, guardians, and teachers may use this site to, 
+among other things, order subscriptions and communicate with us. Children may enjoy educational 
+features, fun games, and other activities.  To better protect your and your children's privacy, 
+we provide this policy explaining our information practices and the choices you can make about 
+the way your information is collected and used by Time Inc.  
+Refer to "Additional Information Regarding Children's Privacy" for an explanation of how we 
+handle children's information. <a href="http://www.timeinc.net/subs/privacy/bus_units.html">Click here</a> for a list of the Time Inc. businesses whose sites 
+are governed by this Privacy Policy.</font></td>
+<td align="center" valign="top" width="10%"><font face="helvetica,arial" size="2">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><b><a name="collect"></a>The Information We Collect</b><br>
+Through Time Inc. publications, websites, and other media, you can
+order products, enter contests, vote in polls or otherwise express an
+opinion, subscribe to one of our services such as our online
+newsletters, or participate in one of our online forums or communities.
+You are able to visit much of this website and enjoy many Time Inc.
+publications and promotions without providing any personally
+identifiable information. Sometimes, however, we do need your
+personally identifiable information to provide you with the products
+and services that you request. The types of personally identifiable
+information that may be collected at these pages and elsewhere include,
+but are not limited to: name, address, e-mail address, telephone
+number, fax number, credit card information, and information about your
+interests in and use of various products, programs, and services. </font><p><font face="helvetica,arial" size="2">At some Time Inc.
+sites and through certain promotions, you can submit information about
+other people. For example, you might submit a person's name and e-mail
+address to send an electronic greeting card and, if you order a gift
+online or offline and want it sent directly to the recipient, you might
+submit the recipient's name and address. The types of personally
+identifiable information that may be collected about other people at
+these pages include: recipient's name, address, e-mail address, and
+telephone number. </font></p><p><font face="helvetica,arial" size="2">For certain
+promotions, only persons who provide us with the requested personally
+identifiable information will be able to order products, programs, and
+services or otherwise participate in the promotion's activities and
+offerings. </font></p><p><font face="helvetica,arial" size="2">We also may
+collect certain non-personally identifiable information when you visit
+many of our web pages such as the type of browser you are using, the
+type of operating system you are using, and the domain name of your
+Internet service provider.
+</font></p></td>
+<td align="center" valign="bottom" width="10%"><font face="helvetica,arial" size="2"><a href="#top">back to top</a></font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><b><a name="use"></a>How We Use the Information</b><br>
+We may use the information you provide about yourself to fulfill your
+requests for our products, programs, and services, to respond to your
+inquiries about offerings, and to offer you other products, programs or
+services that we believe may be of interest to you. </font>
+<p><font face="helvetica,arial" size="2">We sometimes use this
+information to communicate with you, such as to notify you when you
+have won one of our contests or when we make changes to subscriber
+agreements, to fulfill a request by you for an online newsletter, or to
+contact you about your account with us. </font></p>
+<p><font face="helvetica,arial" size="2">We use the
+information that you provide about others to enable us to send them
+your gifts or cards. From time to time, we also may use this
+information to offer our products, programs, or services to them. </font></p><p><font face="helvetica,arial" size="2">If you choose to
+submit content for publication (e.g., a "letter to our editors"), we
+may publish your name, screen name, and other information you have
+provided to us. </font></p>
+<p><font face="helvetica,arial" size="2">The information
+we collect in connection with our online forums and communities is used
+to provide an interactive experience. We use this information to
+facilitate participation in these online forums and communities and,
+from time to time, to offer you products, programs, or services. </font></p>
+<p><font face="helvetica,arial" size="2">We sometimes use
+the non-personally identifiable information that we collect to improve
+the design and content of our publications and websites and to enable
+us to personalize your Internet experience. We also may use this
+information in the aggregate to analyze site usage, as well as to offer
+you products, programs, or services. </font></p>
+<p><font face="helvetica,arial" size="2">We will disclose
+information we maintain when required to do so by law, for example, in
+response to a court order or a subpoena. We also may disclose such
+information in response to a law enforcement agency's request. </font></p>
+<p><font face="helvetica,arial" size="2">Agents and
+contractors of Time Inc. who have access to personally identifiable
+information are required to protect this information in a manner that
+is consistent with this Privacy Policy by, for example, not using the
+information for any purpose other than to carry out the services they
+are performing for Time Inc.</font></p>
+<p><font face="helvetica,arial" size="2">We may transfer
+your personally identifiable information to other Time Inc. offices for
+internal management and administrative purposes. Your personal data
+will be transferred to other Time Inc. offices where necessary for the
+performance or conclusion of our contractual obligations to you or for
+your benefit. Transfers of personally identifiable information may also
+be made where necessary for the establishment, exercise, or defense of
+legal claims.</font></p>
+<p><font face="helvetica,arial" size="2">Although we take
+appropriate measures to safeguard against unauthorized disclosures of
+information, we cannot assure you that personally identifiable
+information that we collect will never be disclosed in a manner that is
+inconsistent with this Privacy Policy. Inadvertent disclosures may
+result, for example, when third parties misrepresent their identities
+in asking the site for access to personally identifiable information
+about themselves for purposes of correcting possible factual errors in
+the data.
+</font></p></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><font face="helvetica,arial" size="2"><a name="options"></a> <b>Privacy Options</b></font><br>If
+you prefer not to receive traditional mail or other off-line promotions
+from this or any other Time Inc. property or any companies not owned by
+Time Inc., please <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?offline=yes&amp;referring_url=&amp;dnp_source=K">click here</a>.</font></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><a name="popt"></a>
+If a Time Inc. site discloses personally identifiable information to
+companies not owned by Time Inc. who want to market products or
+services to you, it will provide you with an opportunity to opt out or
+block such uses. If you prefer not to receive online marketing
+information from companies not owned by Time Inc., please <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&amp;referring_url=&amp;dnp_source=K">click here</a>.
+
+</font><p>
+<font face="helvetica,arial" size="2">Time Inc. may on occasion combine
+information we receive online with outside records to enhance our
+ability to market to you those products or services that may be of
+interest to you. If you prefer not to receive online marketing
+information from this or any other Time Inc. site, please <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&amp;referring_url=&amp;dnp_source=K">click here</a>.
+
+</font></p><p><font face="helvetica,arial" size="2">Time Inc. sites
+will not use or transfer personally identifiable information provided
+to us in ways unrelated to the ones described above without also
+providing you with an opportunity to opt out of these unrelated uses. </font></p></td>
+<td align="center" valign="bottom" width="10%"><font face="helvetica,arial" size="2"><a href="#top">back to top</a></font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br>
+<b><a name="3party"></a>Collection of Information by Third-Party Sites and Sponsors</b><br>
+Some of our sites contain links to other sites whose information
+practices may be different than ours. You should consult the other
+sites' privacy policies, as we have no control over information that is
+submitted to, or collected by, these third parties. </font>
+<p><font face="helvetica,arial" size="2">Time Inc. sites
+sometimes may offer contests, sweepstakes, or promotions that are
+sponsored by or co-sponsored with identified third parties. By virtue
+of their sponsorship, these third parties may obtain personally
+identifiable information that visitors voluntarily submit to
+participate in the contest, sweepstakes, or promotion. Time Inc. has no
+control over the third-party sponsors' use of this information. The
+Time Inc. site will notify you at the time of requesting personally
+identifiable information if third-party sponsors will obtain such
+information. </font></p>
+<p><font face="helvetica,arial" size="2">Time Inc. sites
+may use reputable third parties to present or serve the advertisements
+that you may see at its web pages and to conduct research about the
+advertisements. This privacy policy does not cover any use of
+information that such third parties may have collected from you or the
+methods used by the third-parties to collect that information (e.g.,
+cookies, web beacons and clear gifs). For more information on the use
+of such third-parties, please <a href="http://www.timeinc.net/legal/parties.html">click here</a>.
+</font></p></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><b><a name="cookies"></a>Cookies</b><br>
+To enhance your experience with our sites, many of our web pages use
+"cookies." Cookies are text files we place in your computer's browser
+to store your preferences. Cookies, by themselves, do not tell us your
+e-mail address or other personally identifiable information unless you
+choose to provide this information to us by, for example, registering
+at one of our sites. However, once you choose to furnish the site with
+personally identifiable information, this information may be linked to
+the data stored in the cookie. </font><p><font face="helvetica,arial" size="2">We use cookies to
+understand site usage and to improve the content and offerings on our
+sites. For example, we may use cookies to personalize your experience
+at our web pages (e.g. to recognize you by name when you return to our
+site), save your password in password-protected areas, and enable you
+to use shopping carts on our sites. We also may use cookies to offer
+you products, programs, or services. </font></p><p><font face="helvetica,arial" size="2">We may also use
+small pieces of code called "web beacons" or "clear gifs" to collect
+anonymous and aggregate advertising metrics, such as counting page
+views, promotion views, or advertising responses. These "web beacons"
+may be used to deliver cookies that conform to our cookie policy. </font></p></td>
+<td align="center" valign="bottom" width="10%"><font face="helvetica,arial" size="2"><a href="#top">back to top</a></font></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><b><a name="security"></a>Our Commitment to Security</b><br>We
+have put in place appropriate physical, electronic, and managerial
+procedures to safeguard and help prevent unauthorized access, maintain
+data security, and correctly use the information we collect.</font></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br>
+<b><a name="access"></a>How You Can Access or Correct Information</b>
+<br>To inquire about personally identifiable information that this Time Inc.
+site has collected about you, or how to correct factual errors in such
+information, please email us by clicking <a href="http://www.pathfinder.com/customerservice" onfocus="this.href='http://www.timeforkids.com/customerservice';" onmouseover="this.href='http://www.timeforkids.com/customerservice';">here</a>.
+</font>
+<p><font face="helvetica,arial" size="2">To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.</font></p></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br><a name="children"></a>
+<b>Additional Information Regarding Children's Privacy</b><br>
+Your child's privacy is important to us, and we are committed to safeguarding children's personal information collected online, and to
+helping parents and their children learn how to exercise control over personal information while exploring the Internet.  Therefore, we have
+taken additional measures to tailor our content and offerings at those sites and portions of our sites directed to children to help them
+protect their privacy while online.  These measures include asking children to use non-personally identifiable screen names rather than
+their real names in certain activities and making efforts to prevent children from posting contact information. In addition, we do not ask
+children to disclose more personal information than is necessary for them to participate in an activity.<br><br>
+
+Visitors to the portions of our sites directed at children may participate in many of our offerings and activities without providing
+any personally identifiable information.  To participate in certain of our interactive features, however, we may ask the user to provide us
+with the following types of information: first name, first initial of the last name, the visitor's e-mail address, parent's e-mail address,
+and age information.  On some pages of our sites, such as where children can send postcards to their friends, we also may ask your
+child to provide information (e.g., friend's first name and e-mail address).<br><br>
+
+We use this information only for our internal purposes to enable them to enter one of our sweepstakes or contests, to express their opinions
+on various topics, to send electronic postcards to their friends, to otherwise participate in one of the activities on our site, or to
+respond to an e-mail message they have sent to us.  We use information about others to enable the child to communicate with them or, in the
+case of the parent's e-mail address, to obtain your consent for participation in our activities (e.g., participation in a contest or
+subscription to Time For Kids Magazine).  We may also use information to enable parents and children to learn of additional product or service
+opportunities.  We do not share children's personally identifiable information with outside third parties not bound by this Privacy
+Policy.
+
+Parents, if you would like to do any of the following, please send an e-mail to 
+<a href="mailto:consumeraffairs@customersvc.com">consumeraffairs@customersvc.com</a> for instructions:<br>
+• access the personally identifiable information that this site has collected from your child,<br>
+• correct factual errors in such information,<br>
+• request to have this information deleted, or<br>
+• request that we no longer collect or maintain such information.<br><br>
+
+To protect your child's privacy and security online, we will take appropriate steps to help verify your identity before granting you
+access to the personal information that we collect and maintain about your child.
+</font><p></p></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>	
+<!--
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br>
+<b><a name="parents"></a>Special Note for Parents</b><br>The
+site you are visiting is one of the Time Inc. general audience sites.
+For more information about our online privacy practices for children's
+sites, consult the privacy notice at the children's site in which you
+are interested.
+</font></td>
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+-->
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2">
+<a name="changes"></a><br>
+<b>Changes to This Policy</b><br>
+This Policy may be changed by Time Inc. The revised Policy will be posted to
+this page so that you are aware of the information we collect, how we
+use it, and under what circumstances we may disclose it.
+</font></td>
+
+<td align="center" valign="bottom" width="10%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top" width="80%"><font face="helvetica,arial" size="2"><br>
+
+<b><a name="contact"></a>
+How to Contact Us</b><br>
+
+If you have any questions or concerns about the Time Inc. Privacy Policy or its implementation please contact us via email by 
+<a href="http://www.pathfinder.com/customerservice" target="_blank" onfocus="this.href='http://www.timeforkids.com/customerservice';" onmouseover="this.href='http://www.timeforkids.com/customerservice';">clicking here</a>, call us at <nobr>800-318-1198</nobr> or write to us at the following address:<br><br>
+Time Customer Service<br>
+Attention: Consumer Affairs - TimeForKids.com Privacy Policy<br>
+3000 University Center Drive<br>
+Tampa, Florida 33612-6408<br><br>
+
+</font></td>
+<td align="center" valign="bottom" width="10%"><font face="helvetica,arial" size="2"><a href="#top">back to top</a></font></td>
+</tr>
+<tr><td></td><td colspan="2">
+<font face="helvetica,arial" size="2">This Privacy Policy was revised 5/31/07.</font>
+</td></tr>
 </tbody>
 </table>
-		</div>
-	</div>
-<a class="skiplink" href="#startcontent" accesskey="s">Skip over navigation</a>
-<!-- Top Ad End(1) -->
-<!-- Top Navigation Start(2) -->
-	<a class="skiplink" href="#startcontent" accesskey="s">Skip over navigation</a>
-	<div id="masthead" class="clearfix">
-		<div id="banner" class="clearfix">
-            <div id="logo"><a href="http://www.timeforkids.com/TFK/teachers" title="Time for Kids - Teachers" accesskey="1" tabindex="1"><img src="/TFK/class/images/global/navbars/classroom_v1/masthead_logo.jpg" alt="Time for Kids - Teachers"></a></div>
-            <div id="callout">
-                <ul>
-                    <li><a href="/TFK/teachers/about/0,28252,subscribe,00.html" title="Subscribe!">Subscribe!</a></li>
-                    <li><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=TK" title="Magazine Customer Service">Magazine Customer Service</a></li>
-                    <li><a href="/TFK/teachers/about/0,28252,aboutus,00.html" title="About the Magazine">About the Magazine</a></li>
-                </ul>
-            </div>
-            <div id="flap" class="clearfix"><a href="http://www.timeforkids.com/TFK/kids"><img src="/TFK/class/images/global/navbars/classroom_v1/flap.gif" alt=""></a></div>
-        </div>
-		<div id="navigation" class="clearfix">
-			<div id="navbuttons">
-				<ul>
-				
-					<li id="link_gradesk1"><a href="/TFK/teachers/bp/0,27955,,00.html" tabindex="2" title="GRADES K-1">GRADES K-1</a></li>
-					 
-					<li id="link_grades23"><a href="/TFK/teachers/ns/0,27955,,00.html" tabindex="3" title="GRADES 2-3">GRADES 2-3</a></li>
-					 
-					<li id="link_grades46"><a href="/TFK/teachers/wr/0,27955,,00.html" tabindex="4" title="GRADES 4-6">GRADES 4-6</a></li>
-				 	
-					<li id="link_magazine" class="selected"><a href="/TFK/teachers/about/0,28252,aboutus,00.html" tabindex="5" title="MAGAZINE">MAGAZINE</a></li>
-				 </ul>
-			</div>
-			<div id="searchbar">
-				<form id="searchform" name="searchform" method="get" action="/TFK/teachers/search/1,28225,,00.html">
-				    <label accesskey="4" for="search">Search</label>
-					<!-- RemoveinFuture
-					<input id="search" name="keyword" type="text" value="Search" tabindex="6" />
-					-->
-					<input id="search" name="keyword" type="text" tabindex="6">
-					<input type="submit" value="Search" tabindex="7" class="button">
-				</form>
-			</div>
-		</div>
-	</div> <div id="contentwrapper" class="clearfix">
-   <div id="leftcolumn">
-		 
-			<div id="sidenavbuttons">
-				<h3>Magazine</h3>
-				 <ul><li class="first-child"><a href="/TFK/teachers/about/0,28252,aboutus,00.html" title="About Us">About Us</a></li><li><a href="/TFK/teachers/about/0,28252,contactus,00.html" title="Contact Us">Contact Us</a></li><li><a href="/TFK/teachers/about/0,28252,privacypolicy,00.html" class="selected" title="Privacy Policy">Privacy Policy</a></li><li><a href="/TFK/teachers/about/0,28252,subscribe,00.html" title="Subscribe">Subscribe</a></li><li><a href="/TFK/teachers/about/0,28252,advertising,00.html" title="Advertising">Advertising</a></li><li><a href="http://www.timeforkids.com/TFK/mediakit/" title="Sponsorships">Sponsorships</a></li><li><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=TK" title="Customer Service">Customer Service</a></li><li><a href="/TFK/teachers/about/0,28252,newsletter,00.html" title="Newsletter">Newsletter</a></li><li><a href="/TFK/teachers/about/0,28252,partnerprograms,00.html" title="Partner Programs">Partner Programs</a></li><li><a href="http://www.timeforkids.com/TFK/mediakit" title="Media Kit">Media Kit</a></li></ul>
-			</div>
-			  
-<script language="JAVASCRIPT">
-<!--
-
-function roll(img_name1, img_src1)
-   {
-   document[img_name1].src = img_src1;
-   }
-
-//-->
-</script>
-   </div>
- <div id="content">
-		
-			<div class="heading"><h1><strong>Contact Us</strong></h1></div>
-<div class="contentpadding">
-<a name="startcontent" class="clearfix"></a>
-	<h2 class="title">Privacy Policy</h2>
-    <p>Time Inc. Children's Privacy Notice</p>
-    <p> Your child's privacy is important to us at Time Inc.. We are committed to safeguarding children's personal information collected online, and to helping parents and their children learn how to exercise control over personal information while exploring the Internet. (Have your child check out our Safe Surfin' Tips for information on what to do and what not to do on the Internet). The additional measures we have taken to tailor our content and offerings at our children's sites to help children protect their privacy while online include encouraging children to use non-personally identifiable screen names rather than their real names and taking efforts to prevent children from posting contact information. In addition, we do not ask children to disclose more personal information than is necessary for them to participate in an activity.</p> 
-<p>To help ensure a rewarding online experience for your child, we provide you with this summary of our information practices to empower you in connection with your child's online experiences. This privacy notice governs the collection and use of information at timeforkids.com, one of Time Inc.'s websites directed to children. 
-</p>
-    
-    <div id="privacypolicy" class="definitions">
-        <ol>
-            <strong><li> The Information We Collect</li></strong>
-            <p>At timeforkids.com, we may collect a limited amount of personally identifiable information in the form of e-mail addresses. To enable children to participate in some of our online activities, we may ask them to send us e-mail messages to which we will respond. This information is not retained by timeforkids.com for longer than it takes us to respond to the message. We retain no personally identifiable information from either the original message or our response. 
-</p><p>
-When children visit our site, we automatically collect certain non-personally identifiable information such as the type of computer operating system (e.g., Windows '95 or Mac OS) and browser (e.g., Netscape, Internet Explorer) being used, and the domain name of the Internet service provider (e.g., America Online, Earthlink). 
-</p>
-        	<strong><li>   How We Use the Information </li></strong>
-            <p>We never share children's personal information with third parties.</p> 
-
-<p>We use children's information only for our internal purposes--such as to enable them to subscribe to our online newsletter, to enter one of our sweepstakes or contests, to express their opinions on various topics, and to send electronic postcards to their friends. 
-</p>
-<p>We also may use children's information to offer children or parents products, programs or services that we believe may be of interest to them. 
-</p>
-<p>We use the information that we collect about others to either enable the child to communicate with them, for example, to send an electronic greeting card to a friend, or to obtain your consent for participation in these activities, such as to notify you when your child has entered one of our contests. 
-</p><p>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
-</p><p>We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
-</p><p>This Time Inc. site will not use or transfer personally identifiable information provided to us in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses. 
-</p>
-        	<li><strong>Collection of Information by Third-Party Sites, Advertisers and Sponsors</strong>
-            <p>Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
-</p><p>Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please <a href="http://www.timeinc.net/legal/parties.html">click here.</a></p></li>
-        	<strong><li> Cookies</li></strong>
-            <p>timeforkids.com uses a software technology called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor's use of this website to personal information (e.g., e-mail address) that a visitor has provided, we do not do so for this site. 
-</p><p>We may also use small pieces of code called "web beacons" or "clear gifs" to collect annonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
-</p>
-        	<strong><li> Security</li></strong>
-            <p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. </p>
-        	<strong> <li>Parental Review of Information  </li></strong>
-            <p>If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&amp;dnp_source=E">click here. </a>
-</p><p>Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please <a href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&amp;dnp_source=E">click here.</a></p> 
-<p>If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following address:</p> 
-<p>TIME FOR KIDS CUSTOMER SERVICE</p>
-<p>ATTENTION : CONSUMER AFFAIRS</p>
-<p>3000 University Center Drive</p>
-<p>Tampa, FL 33612-6408 </p>
-
-OR go to our Customer Service site <a href="https://secure.customersvc.com/servlet/Show?WESPAGE=tk/Transactions/myaccount.html">here.</a>
-<p></p>
-        	<li><strong>VIII. A Final Note to Parents </strong>
-            <p>The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to the visit The Direct Marketing Association's website (www.the-dma.org) and explore the Get CyberSavvy! Program. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences online. </p></li>
-        </ol>
-            
-    </div>
-</div>  </div>
-		<div id="rightcolumn" class="clearfix">
-			 <div class="banner">
-<script language="JavaScript1.1">
-<!--
-adSetTarget('_blank');
-htmlAdWH('93224667', '160', '600');
-// -->
-	</script>
-	<a href="http://ar.atwola.com/link/93224667/html?badsc=B05sWNwiPTqGqJeQoEorOri63kal7uf3wGS7ZFWplYsINjnL4-gl3zme_zWqVh30KQeFw-JcS_8QuwREjJMt9MloYDf4TGOJBj8ZgSbR_uszNikQE11G5qaznrT2ryRe9Vyc2dd8lV4OmP-XPwY-g8t2JeFi8JTR4t" target="_blank"></a>
-	<noscript>
-		<A HREF="http://ar.atwola.com/link/93224667/aol"><IMG SRC="http://ar.atwola.com/image/93224667/aol" ALT="Click here to visit our advertiser." WIDTH=160 HEIGHT=600 BORDER=0></A>
-	</noscript>
-</div> </div>
-		<div id="addtolinks">
-			 <strong><span class="smcaps">QUICK LINKS:</span></strong>
-	<ul>
-        <li class="first-child"><a href="/TFK/teachers/teachingresources/wr/search/1,28116,,00.html?searchstring=all&amp;searchtype=skillandtheme&amp;searchcase=worksheets&amp;startindex=1&amp;endindex=20" title="Worksheets for 4-6">Worksheets</a></li>
-        <li><a href="/TFK/teachers/teachingresources/wr/search/1,28116,,00.html?searchstring=all&amp;searchtype=skillandtheme&amp;searchcase=minilessons&amp;startindex=1&amp;endindex=20" title="Lesson Plans for 4-6">Lesson Plans</a></li> 
-        <li><a href="/TFK/teachers/teachingresources/wr/search/1,28116,,00.html?searchstring=all&amp;searchtype=skillandtheme&amp;searchcase=graphicalorganizers&amp;startindex=1&amp;endindex=20" title="Lesson Plans for 4-6">Graphic Organizers</a></li> 
-	</ul>
-    <hr>    
-	<a href="http://www.time.com/time/rss" title="RSS Feed" class="rsslink">TIME.com Feeds</a>	
- </div>
-	</div>
-		<div id="footer">
-	<div>
-		<ul>
-			<li class="first-child"><a href="/TFK/teachers" accesskey="1">Home</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,aboutus,00.html">About Us</a></li>
-			<li><a href="http://www.timeforkids.com/TFK/mediakit/">Media Kit</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,contactus,00.html" accesskey="9">Contact Us</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,privacypolicy,00.html" accesskey="8">Privacy Policy</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,subscribe,00.html">Subscribe</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,advertising,00.html">Advertising and Sponsorships</a></li>
-			<li><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/home.jsp&amp;MSRSMAG=TK" accesskey="7">Customer Service</a></li>
-			<li><a href="/TFK/teachers/about/0,28252,newsletter,00.html">Newsletter</a></li>
-		</ul>
-	</div>
-	<p>Copyright © 2007 Time For Kids and Time Inc. All rights reserved.</p>
-</div>
-</div>
 
 </body></html>
