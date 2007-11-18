@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608004951id_/http%3A//www.reneerouleau.com/Assistance/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118141028id_/http%3A//www.reneerouleau.com/Assistance/Privacy.aspx) for the most accurate reproduction.*
 
 # Renee Rouleau Skin Care - For Beautiful Skin
 
 |  |  |   
 ---|---|---  
-|  |  |  |  |  |  |  |   
+|  |  | PLANO LOCATION  
+972-378-6655  
+ _New!_ DOWNTOWN LOCATION  
+Opening December 2007  
+214-735-4364  
+  
+---|---  
+|  |  |  |  |  |   
 ---|---|---|---|---|---  
 |  |  | PRIVACY STATEMENT  
 ---  
