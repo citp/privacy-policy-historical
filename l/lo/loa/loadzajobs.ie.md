@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611154128id_/http%3A//www.loadzajobs.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadzajobs.ie privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118225344id_/http%3A//www.loadzajobs.ie/privacy.asp) for the most accurate reproduction.*
 
 # LoadzaJobs.ie : Privacy
 
 ## Privacy
+
+Updated 3 May 2007
 
 LoadzaJobs.ie and its associate companies respect your right to privacy. By agreeing to the terms of the Agreement and providing the Registration Data for the purpose of completing the registration process you are providing LoadzaJobs.ie with personal information. This information will be used by LoadzaJobs.ie for the purpose for which it was provided by you, and for verification purposes and statistical analysis. This information may also be useful to provide you with details of products, services, contests, competitions or promotions being provided or run by LoadzaJobs.ie or any other of its associated companies or any third party which we may select and which we may think may be of interest to you, unless you have otherwise specifically opted not to receive this information.
 
@@ -23,3 +25,7 @@ Throughout this website you may have an opportunity to send us information relat
 
 
 You undertake to provide true, accurate, current and complete information about yourself as prompted by the Services registration form (the "Registration Data"); and maintain and promptly update the Registration Data to keep it true, accurate, current and complete. You are aware that registration on LoadzaJobs.ie enables you to use the same username and password details to access a range of websites operated by Internet Interactions Limited.
+
+###### Company and data protection information.
+
+The data controller of data on the Website is Independent Newspapers (Ireland) Limited, which is a company in the Independent News & Media group, registered in Ireland under company number 153066, whose registered office is at Independent House, 27-32 Talbot Street, Dublin 1. VAT number IE 4532614 O. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address. 
