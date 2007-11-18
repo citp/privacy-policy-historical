@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607140435id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2007-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071118182445id_/http%3A//www.donedeal.ie/donedeal/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DoneDeal.ie
 
 ## 1\. Introduction
 
-We at DoneDeal.ie respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2002. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
+This Web Site is owned and operated by Done Deal Limited, of 69 Clonard Village, Clonard, Wexford, Ireland ("DoneDeal.ie", "DoneDeal", "our", "we" or "us"). DoneDeal.ie is the controller of all personal information collected on this Site.
+
+We at DoneDeal.ie respect your right to privacy and aim to comply with our obligations under the Data Protection Legislation currently in force in Ireland. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. We use your information only as set out in this Privacy Policy. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
 
 By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
@@ -24,7 +26,7 @@ Non-Personal Data:
 We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
 
 Cookies  
-This website uses "cookie" technology. A cookie is a little piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
+This website uses "cookie" technology. A cookie is a little piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your use of this website.
 
 Personal Data  
 We will process any Personal Data you provide to us for the following purposes:
@@ -52,9 +54,18 @@ Your Personal Data is held on secure servers hosted by our Internet Service Prov
 
 ## 7\. Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please use [this form](https://web.archive.org/donedeal/support/contact.jsp).
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Legislation we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please use [this form](https://web.archive.org/donedeal/support/contact.jsp).
 
 ## 8\. Changes to the Website Privacy Policy
 
-Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.  
+Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
+## 9\. Questions or Comments
+
+If you have any questions, concerns, comments or complaints about this Privacy Policy and/or our collection or use of personal information, or if you wish us to stop processing your personal information for any particular purpose or purposes, then please [contact us](https://web.archive.org/donedeal/support/contact.jsp), or send a letter to DoneDeal.ie, 69 Clonard Village, Clonard, Wexford, Ireland.
+
+## Related Documents
+
+[Copyright Notice & Legal Disclaimer](https://web.archive.org/donedeal/legal/index.jsp)
+
+[Advertising Terms & Conditions](https://web.archive.org/donedeal/legal/advertisingTerms.jsp)
