@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shreveporttimes.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624234815id_/http%3A//www.shreveporttimes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shreveporttimes.com privacy policy that was archived on 2007-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071118132430id_/http%3A//www.shreveporttimes.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <!-- GON Stuff -->
@@ -22,7 +22,7 @@ OAS_query = ''+'&'+location.search.substring(1);
 OAS_target = '_top';
 OAS_url = 'http://gcirm.laregionalonline.gcion.com/RealMedia/ads/';
 //If OAS_sitepage is set to {SECTION}{pagetype} it means you did not set the value in the .ini file.
-OAS_sitepage='news.shreveporttimes.com/privacy/index.html';
+OAS_sitepage='PRIVACYsection';
 //endconfiguration
 OAS_version = 10;
 OAS_rn = '001234567890'; OAS_rns = '1234567890';
@@ -41,7 +41,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://gcirm.laregionalonline.gcion.com/RealMedia/ads/adstream_mjx.ads/news.shreveporttimes.com/privacy/index.html/1972090874@728x90_1,300x250_1?&amp;Category=PRIVACY"></script>
+</script><script language="JavaScript1.1" src="http://gcirm.laregionalonline.gcion.com/RealMedia/ads/adstream_mjx.ads/PRIVACYsection/1957025912@728x90_1,300x250_1?&amp;Category=PRIVACY"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -130,6 +130,7 @@ affil_domain= "shreveporttimes";
 <h5><a href="/apps/pbcs.dll/section?Category=NEWS">Local &amp; State</a><br>
 <a href="/apps/pbcs.dll/section?Category=BOSSIERVOICES">Bossier Voices</a><br>
 <a href="/apps/pbcs.dll/section?Category=SOUTHEASTVOICES">Southeast Voices</a><br>
+<a href="/apps/pbcs.dll/section?Category=BARKSDALEWARRIOR">Barksdale Warrior</a><br>
 <a href="/apps/pbcs.dll/section?Category=NEWS03">Crime</a><br>
 <a href="http://www.legacy.com/shreveporttimes/Obituaries.asp">Obituaries and Deaths</a><br>
 <a href="/apps/pbcs.dll/section?Category=NEWS04">Education</a><br>
@@ -146,7 +147,7 @@ affil_domain= "shreveporttimes";
 
 <div class="LeftrailNavBox">
 <h4><a href="/apps/pbcs.dll/section?Category=SPORTS"><strong>Sports</strong></a></h4>
-<h5><a href="/apps/pbcs.dll/section?Category=SPORTS01">PREPSBEAT.com</a><br>
+<h5><a href="/apps/pbcs.dll/section?Category=prepsports ">PREPSBEAT.com</a><br>
 <a href="/apps/pbcs.dll/section?Category=SPORTS0303">Mudbugs</a><br>
 <a href="http://www.lsubeat.com">LSU</a><br>
 <a href="/apps/pbcs.dll/section?Category=SPORTS0203">La Tech</a><br>
@@ -341,6 +342,44 @@ if(typeof gcion_enable_bt != 'undefined') {
 	  DM_addToLoc("zipcode", escape(s.prop30));
 	  DM_addToLoc("age", escape((gciYear-s.prop31)));
     DM_addToLoc("gender", escape(s.prop32));
+		var gci_ssts=OAS_sitepage;
+		gci_ssts=gci_ssts.replace(/\/article\.htm.*$/,'');
+		gci_ssts=gci_ssts.replace(/\/front\.htm.*$/,'');
+		gci_ssts=gci_ssts.replace(/\/index\.htm.*$/,'');
+    		gci_ssts=gci_ssts.replace(/\@.*$/,'');
+		gci_ssts=gci_ssts.replace(/^.*\.com\//,'');
+		var gci_tempossts=gci_ssts; 
+		var gci_ossts=gci_tempossts.split("/")
+		gci_ssts=gci_ssts.replace(/\//g,' > ');
+		gci_ssts='newspaper > '+gci_ssts;		
+ 		if
+      		(  gci_ossts[0] == "life"
+      		|| gci_ossts[0] == "money"
+      		|| gci_ossts[0] == "news"
+      		|| gci_ossts[0] == "sports"
+      		|| gci_ossts[0] == "tech"
+      		|| gci_ossts[0] == "travel"
+      		|| gci_ossts[0] == "weather"
+		|| gci_ossts[0] == "umbrella"
+      		)
+      		{
+        	  DM_cat(gci_ssts);
+      		}
+      		else
+     		{
+        	  DM_cat('newspaper > other');
+     		}
+	  var gci_osstslen=gci_ossts.length;
+		for(var i=0; i<gci_osstslen; i++) {
+		  if(i==0)
+		    s.prop17=gci_ossts[i];   // section
+		  if(i==1)
+		    s.prop18=gci_ossts[i];   // subsection
+		  if(i==2)
+		    s.prop19=gci_ossts[i];   // topic
+		  if(i==3)
+		    s.prop20=gci_ossts[i];   // Subtopic
+		}
 		DM_tag();
     // Sets the "rsi_segs" cookie in GCION domain
     if (gcion_enable_bt) {
@@ -394,13 +433,13 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 
 <!--
-Time used: 156 ms<br>
-Initializing : 15ms<br>
+Time used: 844 ms Wait: 31 ms<br>
+Initializing : 16ms<br>
 <b>Starting first parse</b><br>
-Retrieve categories: 16ms<br>
+Retrieve categories: 0ms<br>
 Read templates: 0ms<br>
 Read objects: 0ms<br>
 Scripts: 0ms<br>
-Read cache: 15ms<br>
+Read cache: 16ms<br>
 
 --></sitedomain></cobrandsitedomain></s_suiteid_default></body></html>
