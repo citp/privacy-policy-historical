@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailstreet.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426131000id_/http%3A//mailstreet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailstreet.com privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119131421id_/http%3A//www.mailstreet.com/privacy.asp) for the most accurate reproduction.*
 
 # MailStreet Exchange 2003 Hosting, Email Outsourcing using Microsoft Exchange 2003 Server. Outsource Corporate Email with MailStreet Hosted Exchange 2003 Email
 
