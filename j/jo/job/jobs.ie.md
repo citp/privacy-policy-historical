@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427084841id_/http%3A//jobs.ie/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119013059id_/http%3A//www.jobs.ie/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
@@ -40,7 +40,7 @@ The Jobs by eMail Alert service matches a jobseeker's requirements for employmen
 **CVs**   
 Jobseekers may decide to register their CV in our database. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s). 
 
-We endeavor to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20070427084841id_/http%3A//jobs.ie/TermsOfUse.html). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
+We endeavor to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20071119013059id_/http%3A//www.jobs.ie/TermsOfUse.html). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.  
 
