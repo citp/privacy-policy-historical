@@ -1,9 +1,28 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513035920id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120152231id_/http%3A//www.ganeshaspeaks.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Free Astrology, Free Horoscope by GaneshaSpeaks.com
 
-|  |  |   
+|  |   
 ---  
+|  | Testimonials |   
+---|---|---  
+|  | 
+
+I must say that this site delivers the fastest and the most accurate readings
+
+Richard Wells  
+Chicago, USA  
+  
+---  
+  
+* * *  
+  
+I have used many free and paid services of ganeshaspeaks and i am very happy with the results. They have positively affected my life
+
+Surinder Kaur  
+Ludhiana, India  
+  
+|  |   
   
 |  |  |   
 ---|---|---  
@@ -38,9 +57,35 @@ You can delete your profile at any time by clicking on the "deleteâ€ link.
 **Contacting us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [contact@ganeshaspeaks.com](mailto:contact@ganeshaspeaks.com).  
   
-[home](https://web.archive.org/web/20070513035920id_/http%3A//www.ganeshaspeaks.com/)  
+[home](https://web.archive.org/web/20071120152231id_/http%3A//www.ganeshaspeaks.com/)  
   
 |  |   
   
 |   
----
+---  
+|  | Testimonials |   
+---|---|---  
+|  | 
+
+The language impresses me the most. It is a very mature, friendly advice which I get from this site
+
+R. Srinivasan  
+Chennai, India  
+  
+---  
+  
+* * *  
+  
+I am impressed with the product range of this site. I have ordered a few reports here and they are right on the dot when it comes to accuracy
+
+Rajiv Chhabra  
+London, England  
+  
+* * *  
+  
+If you want really quick horoscopes (within 72 hours), this is the site. I have always got all my forecasts in time
+
+Rajesh Shah  
+Toronto, Canada  
+  
+|  | 
