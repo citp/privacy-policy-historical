@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619062641id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120095949id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
 
 # Fanpop - Privacy Policy
 
@@ -13,6 +13,8 @@ Fanpop collects user submitted account information such as name and email addres
 How We Use Your Information
 
 Information such as your full name, profile photo and any personally identifiable information you have included in your profile may be shown to friends or other users primarily in conjunction with content you have contributed. Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by editing your preferences in your profile. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
+
+Fanpop uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Fanpop, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
 
