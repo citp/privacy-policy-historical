@@ -1,13 +1,10 @@
-<!--The following is the downloaded HTML source of the flock.com privacy policy that was archived on 2007-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070611090233id_/http%3A//www.flock.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flock.com privacy policy that was archived on 2007-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071120145817id_/http%3A//flock.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 1.0 oak.flock.com:80 (squid/2.5.STABLE14) --><head>
-
-
-<title>Flock Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Flock Privacy Policy | Flock</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<base href="http://www.flock.com/">
-<style type="text/css" media="all">@import "misc/drupal.css";</style>	<script type="text/javascript">
+	<script type="text/javascript">
 var xajaxRequestUri="/index.php";
 var xajaxDebug=false;
 var xajaxStatusMessages=false;
@@ -15,35 +12,42 @@ var xajaxWaitCursor=true;
 var xajaxDefinedGet=0;
 var xajaxDefinedPost=1;
 var xajaxLoaded=false;
-function xajax_broken_report(){return xajax.call("broken_report", arguments, 1);}
+function xajax_addons_approve(){return xajax.call("addons_approve", arguments, 1);}
+function xajax_addons_deny(){return xajax.call("addons_deny", arguments, 1);}
+function xajax_bug_votes_submit(){return xajax.call("bug_votes_submit", arguments, 1);}
+function xajax_customforms_list_post(){return xajax.call("customforms_list_post", arguments, 1);}
+function xajax_mail_collector_list_post(){return xajax.call("mail_collector_list_post", arguments, 1);}
 function xajax_surveycat_categorize(){return xajax.call("surveycat_categorize", arguments, 1);}
 function xajax_surveycat_delete(){return xajax.call("surveycat_delete", arguments, 1);}
 function xajax_tellafriend_check_trans(){return xajax.call("tellafriend_check_trans", arguments, 1);}
-function xajax_topicmonitor_form_submit(){return xajax.call("topicmonitor_form_submit", arguments, 1);}
-function xajax_topicmonitor_topic_merge_list(){return xajax.call("topicmonitor_topic_merge_list", arguments, 1);}
-function xajax_topicmonitor_topic_merge_submit(){return xajax.call("topicmonitor_topic_merge_submit", arguments, 1);}
 	</script>
-	<script type="text/javascript" src="/modules/xajax/inc/xajax_js/xajax.js"></script>
+	<script type="text/javascript" src="/sites/all/modules/xajax/inc/xajax_js/xajax.js"></script>
 	<script type="text/javascript">
-window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /modules/xajax/inc/xajax_js/xajax.js'); } }, 6000);
+window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Javascript file could not be included. Perhaps the URL is incorrect?\nURL: /sites/all/modules/xajax/inc/xajax_js/xajax.js'); } }, 6000);
 	</script>
 
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
 
 
-<link rel="stylesheet" href="/themes/flock/css/default.css" type="text/css" media="screen">
+<link href="/sites/all/themes/flock/css/www2.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="/themes/flock/css/privacy.css" type="text/css" media="screen">
+<script language="JavaScript" type="text/javascript" src="/sites/all/themes/flock/js/www2.js"></script>
 
 
 
 <script type="text/javascript">
 
-function mailto_link(user, domain){
-	var glue = '@';
-	var address = user + glue + domain;
-	document.location.href='mailto:' + address; 
-}
+var flock_version = '1.0.1';
+var flock_advertised_version = '1.0';
+//if(document.location.href.match(/stage/)){
+//  flock_version = '1.0';
+//}
+var flock_platform;
+var flock_product_name;
+var flock_download_link;
+var flock_platform_name = 'Windows';
 
+flock_product_name = 'flock-' + flock_version;
 
 var gPlatform = PLATFORM_WINDOWS;
 
@@ -67,8 +71,64 @@ else if (navigator.platform.indexOf("Mac") != -1)
 else
   gPlatform = PLATFORM_OTHER;
 
-function getPlatformName(aPlatform)
-{
+
+platform = getPlatformName (gPlatform) ;
+
+if (platform == 'Linux i686') {
+    flock_platform = 'linux';
+    flock_platform_name = 'Linux';
+}
+else if (platform == 'Mac OS X') {
+    flock_platform = 'mac';
+    flock_platform_name = 'Mac';
+}
+else {
+    flock_platform = 'win';
+    flock_platform_name = 'Windows';
+}
+
+//Override platform
+if(document.location.search.match(/platform=win/)){
+  flock_platform = 'win';  
+}
+if(document.location.search.match(/platform=mac/)){
+  flock_platform = 'mac';  
+}
+if(document.location.search.match(/platform=linux/)){
+  flock_platform = 'linux';  
+}
+
+//Some photobucket-specific stuff.
+if(document.location.search.match(/utm_source=photobucket/)){
+     if(flock_platform != 'linux'){
+        //flock_product_name += '-photobucket';
+        flock_product_name = 'flock-0.9.1.4-photobucket';
+    }
+}
+//Some piczo-specific stuff.
+if(document.location.search.match(/utm_source=piczo/) || document.location.search.match(/utm_content=piczo/)){
+     if(flock_platform != 'linux'){
+        flock_product_name = 'flock-1.0.1-piczo';
+    }
+}
+
+//Some RC3-specific stuff
+if(document.location.search.match(/utm_source=rc3/)){
+     //if(flock_platform != 'linux'){
+        flock_product_name = 'flock-1.0rc3';
+    //}
+}
+flock_download_link = 'http://downloads.flock.com/index.php?os=' + flock_platform + '&product=' + flock_product_name;
+
+var query_string = document.location.search.substr(1);
+if(query_string != ''){
+    query_string = '&' + query_string;
+}
+
+flock_download_link += query_string;
+
+
+function getPlatformName(aPlatform) {
   if (aPlatform == PLATFORM_WINDOWS)
     return "Windows";
   if (aPlatform == PLATFORM_LINUX)
@@ -79,97 +139,245 @@ function getPlatformName(aPlatform)
     return "Mac OS X PowerPC";
   return "Unknown";
 }
-</script>
 
-<!--[if lt IE 7.]>
-<script defer type="text/javascript" src="/themes/flock/js/pngfix.js"></script>
-<![endif]-->
-
+</script>	
+<style type="text/css">
+	div.moduleCenter p{
+		padding-bottom: 22px;
+	}
+</style>
 </head>
 
-<body id="home">
-<!-- home: wrap, header, nav, clear, home_logo, clear, content -->
-<!-- sub: wrap, header, logo, nav, clear, content -->
-<div id="wrap">
-
-
-<div id="header">
-<div class="logo">
-<h1><a href="http://www.flock.com"><img src="/themes/flock/images/logo3_small.jpg" width="133" height="77" alt="Flock: The Social Web Browser."></a></h1>
-</div> <!-- END LOGO -->
-<div id="nav">
-<ul>
-	<li id="h_nav"><a href="http://www.flock.com">Home</a></li>
-	<li id="p_nav"><a href="http://www.flock.com/download">Download</a></li>
-	<!--<li id="e_nav"><a href="http://extensions.flock.com/extensions">Extensions</a></li>-->
-	<li id="e_nav"><a href="http://extensions.flock.com/extensions">Extensions</a></li>
-	<li id="par_nav"><a href="http://www.flock.com/participate">Participate</a></li>
-	<li id="b_nav"><a href="http://www.flock.com/blog">Blog</a></li>
-	<li id="help_nav"><a href="http://www.flock.com/help">Help</a></li>
-</ul>
-</div> <!-- END NAV -->
-<div class="clear"> </div>
-
-
-</div> <!-- END HEADER -->
-
-<div class="clear"> </div>
-
+<body onload=" campaignTracker.init();">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 if(document.location.href.indexOf('stage.flock') == -1){
-	_uacct = "UA-342283-1";
-	if(document.location.href.indexOf('extensions.flock') > -1){
-		_uacct = "UA-342283-3";
+        if(document.location.href.indexOf('extensions.flock') > -1){
+                _uacct = "UA-342283-3";
+        }
+	else{
+			_uacct = "UA-342283-1";
 	}
-	urchinTracker();
+	//urchinTracker();
+
 }
+
+function inst(key, ref){
+                if(ref){
+                click_ref = ref;
+        }
+
+                key = key.replace(/no_nav_click/, click_ref);
+
+        var path = 'V3/' + key; 
+        //alert(path);
+        urchinTracker(path);
+}
+
 </script>
-<!-- begin content --><div class="node_page">
-	<!-- CUTFLOCKCONTENTHERE -->
-    <div class="privacy">
-<h1><span>Privacy policy</span></h1>
-<p>Written May 24, 2006</p>
-<p>Your privacy is important to us. This document outlines the types of personal information we gather when you use the Flock.com web site or the Flock browser, how we use this information, and some of the steps we take to safeguard your privacy.</p>
-<p><strong>Why we (and others) collect information about you</strong></p>
-<p>To improve your experience on the Flock.com web site, we keep track of certain information as you use the site. For certain sections of the site, such as our discussion forums and bug tracking repository, we require you to register and log in, in order to facilitate communication.</p>
-<p>We do not require that you provide any personally-identifying information when using the Flock browser. Like all web browsers, Flock collects limited, non-personally identifying information that your browser makes available to the web sites you visit, whenever you visit a website, such as your IP address, information about the browser you use, and what operating system your computer uses. This information is collected by web servers to ensure that you are provided with the most appropriate version of web pages.</p>
-<p><strong>What information we collect</strong></p>
-<p>When you use the Flock.com web site, we require limited personal information from you in specific areas of the site. In these cases, you will be prompted for the information. For example, our discussion forums require you to register with an email address. When you visit the Flock.com web site, we also install a non-personally-identifiable cookie on your computer to help customize your experience on the web site. A cookie is a piece of data from your browser that identifies you as a unique user. If you do not wish to have cookies set on your computer, you can configure your browser to refuse cookies.</p>
-<p>Like other browsers, Flock collects limited, non-personally identifying information that your browser makes available whenever you visit a web site (such as your Internet Protocol address, browser type, browser language, the date and time of your query, and build ID). The Flock browser also includes an update feature that checks our servers on a daily basis to ensure that you are running the latest version of our browser. This helps us ensure that you are running the most stable, secure and feature-rich version of the Flock browser. No personally-identifiable information is transmitted to our servers during this process. The auto-update feature can be disabled in our preferences menu.</p>
-<p>You may enable various online services to be directly integrated into your Flock experience. By directly integrating these services into the browser, we make your online experiences richer, and more personalized.  We will ask you to register for or log into the services on the web sites of their respective providers, such as Flickr, PhotoBucket, Delicious, Shadows, etc. These services will then collect information, and inform you about what information they collect, in accordance with their own terms of service. By agreeing to these terms of services, and by enabling them within the Flock browser, you are allowing us to pass this information back to these service providers. The Flock browser does not pass this information to Flock Inc. or our servers.</p>
-<p>While most of the integrated services require that you register and log into the specific services, not all services require registration and logging in. Before enabling such services, we will notify you using our installation wizards, first run wizards and alert dialogs. If Yahoo Live Search results within the Flock search box are enabled, then we will send any information you type into the search box to Yahoo – even if you do not hit the enter key and even if you set your default search engine to a provider other than Yahoo.</p>
-<p><strong>Transfer of personal information</strong></p>
-Flock will not sell or rent any of your personal information to others. We may, however, disclose personal information if we are required to do so by law.<p></p>
-<p><strong>Policy Changes</strong></p>
+<script src="/sites/all/themes/flock/js/download.js" type="text/javascript"> </script>
+<script type="text/javascript">
+	var orangebanner_url = 'http://' + base_url + '/get-ready-to-flock?utm_source=flock&utm_medium=www&utm_content=orangebanner&utm_campaign=www2';
+</script>
+<div class="container"><div class="starTrail"><img alt="" src="/images/template/starTrail.gif" width="103" height="180"></div>
+<!-- LOGO AND DOWNLOAD -->
+<div id="header" class="clearfix">
+	<div id="logo" class="logo"><a href="http://www.flock.com/"><img src="/images/template/logo.gif" alt="Flock Home" name="flock" width="351" height="85" border="0" id="flock" longdesc="#"></a></div>
+	<div id="downloadWrapper">
+		<div id="download_meta"><a class="download" href="/release-notes/">Release Notes</a> • <a class="download" href="/versions">Other Systems &amp; Languages</a></div>
+			<div class="freeDownload"><img src="/images/template/downLoadBtn_free.gif" alt="free" width="50" height="50"></div>
+		<div id="download_content" style="cursor: hand; cursor: pointer" onclick="return download.init(flock_download_link, _interstitial)">
+			<img src="/images/template/downLoadBtn_txt.gif" alt="download" width="199" height="22"><br>
+			<script type="text/javascript">
+			document.writeln('<span>Download ' + flock_advertised_version + ' for ' + flock_platform_name + '</span>');
+			</script><span>Download 1.0 for Linux</span>
+
+			<noscript>
+				<!--<a href="http://downloads.flock.com/index.php?product=flock-1.0.1&os=win">Download 1.0 for Windows</a>-->
+				<a href="http://www.flock.com/get-ready-to-flock">Download 1.0 for Windows</a>
+			</noscript>
+		</div> <!-- end download_content div -->
+	</div> <!-- end downloadWrapper div -->
+	<div class="clear"> </div> 
+</div> <!-- end header div -->
+<!-- NAVIGATION -->
+<script type="text/javascript">
+	document.writeln('<img src="/images/template/spacer.gif" width="23" /><img src="/images/template/nav2/nav_endCapLft.jpg" width="18" height="34" /><a id="nav_home" href="http://' + base_url + '/" onmouseover="toggle_nav(this.id, \'on\')" onmouseout="toggle_nav(this.id, \'off\')"><img id="nav_home_img" src="/images/template/nav_home.gif" alt="home" width="160" height="34" border="0" /></a><a id="nav_community" href="http://' + base_url + '/community" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu1, \'202px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_community_img" src="/images/template/nav_community.gif" alt="community" width="204" height="34" border="0" /></a><a id="nav_extensions" href="http://extensions.flock.com/addons" onMouseover="toggle_nav(this.id, \'on\');" onMouseout="toggle_nav(this.id, \'off\')"><img id="nav_extensions_img" src="/images/template/nav_extensions.gif" alt="extensions" width="200" height="34" border="0" /></a><a id="nav_support" href="http://' + base_url + '/support" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu2, \'182px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_support_img" src="/images/template/nav_support.gif" alt="support" width="184" height="34" border="0" /></a><a id="nav_about" href="http://' + base_url + '/about" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu3, \'198px\'); toggle_nav(this.id, \'on\')" onMouseout="toggle_nav(this.id, \'off\'); delayhidemenu()"><img id="nav_about_img" src="/images/template/nav_about.gif" alt="about us" width="189" height="34" border="0" /></a><img src="/images/template/nav2/nav_endCapRght.jpg" width="17" height="34" /><br />');
+</script>
+<noscript>
+<img src="/images/template/spacer.gif" width="23" /><img src="/images/template/nav2/nav_endCapLft.jpg" width="18" height="34" /><a id="nav_home" href="http://www.flock.com/" onmouseover="toggle_nav(this.id, 'on')" onmouseout="toggle_nav(this.id, 'off')"><img id="nav_home_img" src="/images/template/nav_home.gif" alt="home" width="160" height="34" border="0" /></a><a id="nav_community" href="http://www.flock.com/community" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu1, '202px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_community_img" src="/images/template/nav_community.gif" alt="community" width="204" height="34" border="0" /></a><a id="nav_extensions" href="http://extensions.flock.com/addons" onMouseover="toggle_nav(this.id, 'on');" onMouseout="toggle_nav(this.id, 'off')"><img id="nav_extensions_img" src="/images/template/nav_extensions.gif" alt="extensions" width="200" height="34" border="0" /></a><a id="nav_support" href="http://www.flock.com/support" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu2, '182px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_support_img" src="/images/template/nav_support.gif" alt="support" width="184" height="34" border="0" /></a><a id="nav_about" href="http://www.flock.com/about" onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu3, '198px'); toggle_nav(this.id, 'on')" onMouseout="toggle_nav(this.id, 'off'); delayhidemenu()"><img id="nav_about_img" src="/images/template/nav_about.gif" alt="about us" width="189" height="34" border="0" /></a><img src="/images/template/nav2/nav_endCapRght.jpg" width="17" height="34" /><br />
+</noscript>
+
+
+<!-- BODY CONTAINER -->
+<table width="1006" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+  	<td width="23" valign="top">&nbsp;</td>
+	<td width="7" valign="top"><img alt="" src="/images/template/sides_lftTop.gif" width="7" height="101"><br>
+	<img alt="" src="/images/template/sides_lftBtm.jpg" width="7" height="441"></td>
+	<td width="9" class="bodyInnderLft"><img alt="" src="/images/template/body_innerLft.gif"></td>
+	<td class="bodyCenter">
+	<!-- MODULE AREA -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		<td>
+		<!-- HEADER -->
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 8px;">
+		  <tbody><tr>
+			<td width="28">&nbsp;</td>
+			<td height="89">
+							<img src="/header/top/Privacy_Policy.png">
+						</td>
+			<td width="50">&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td width="28">&nbsp;</td>
+			<td></td>
+			<td width="50">&nbsp;</td>
+		  </tr>
+		</tbody></table>
+		</td>
+	 </tr>
+	 <tr>
+	   <td height="1" background="/images/dottedLine.gif"></td>
+	 </tr>
+	</tbody></table><br>
+	<!-- MODULES -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		<td width="10">&nbsp;</td>
+		<!-- CENTER MODULES -->
+		<td valign="top">
+<div class="moduleCenter">
+		  		  
+		  		  		  
+		  
+		  		  		  
+		<a name="top"></a>
+		
+<div id="node-1042" class="node">
+
+
+
+  <div class="content">
+    <div id="privacy">
+<h2>Flock Privacy Policy</h2>
+<p>Flock takes your privacy seriously. This document outlines the types of personally identifying and other information we gather when you use the Flock.com web site, the Flock browser and other Flock products, services and forums (which may collectively be referred to as, “Flock Products”) and how we use and share this information.</p>
+
+<h2>Why We Collect Information About You</h2>
+<p>We collect information in connection with your use of Flock Products in order to improve and personalize your experience with Flock Products and in some cases to facilitate communication with you regarding our products, services and community activities.  The types of information we collect from our users is described below.  </p>
+
+<h2>What Information We Collect</h2>
+<p>Flock Website:  We may receive and store any information you enter on our web site, and, in some cases, we require certain personally identifying information from you in specific areas of our site in order for you to use certain Flock Products or features.  In these cases, you will be prompted for the information we are collecting. For example, our discussion forums require you to register with an email address. </p>
+
+<p>As part of your use of our website, we also collect limited, non-personally identifying information that your browser makes available whenever you visit a web site (such as your Internet Protocol address, browser type, browser language, the date and time of your query, and build ID).  In addition, we may automatically collect usage information, such as the number and frequency of users of our site and its components.  Flock only uses this data in aggregate form, that is, as a statistical measure to improve our site, and not in a manner that would identify you personally.  As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site.</p>
+
+<p>In connection with your use of our site, we (like many other sites) will install a non-personally-identifiable cookie on your computer to help customize your experience on the web site. A cookie is a piece of data from your browser that identifies you as a unique user.  If you do not wish to have cookies set on your computer, you can configure your browser to refuse cookies.</p>
+
+<p>Flock Browser:  The Flock browser includes an update feature that checks our servers on a daily basis to ensure that you are running the most stable, secure and feature-rich version of the Flock browser. The auto-update feature can be disabled in our preferences menu.  In connection with the auto-update feature, the Flock browser also sends Flock non-personally identifying information about how our users are using the Flock browser and which features our most popular, enabling us to improve the Flock Products.  If you do not wish to participate in this program you can decline it at install time or turn it off in the browser advanced preferences. (Further information to access Flock’s advanced preferences can be found by clicking <a href="http://www.flock.com/faq/show/30#q_11592">here</a>) </p>
+
+<p>Integrated Services:  You may enable various online services to be directly integrated into your Flock experience. By directly integrating these services into the browser, we make your online experiences more convenient, richer, and more personalized.  To take advantage of these capabilities, we will ask you to register for or log into the services on the web sites of their respective providers. These services will then collect information, and inform you about what information they collect, in accordance with their own terms of service. By agreeing to those terms of services, and by enabling them within the Flock browser, you are allowing us to pass this information back to these service providers. The Flock browser does not pass this information to Flock Inc. or our servers.  Flock shall have no liability or responsibility for the privacy practices or other actions of any third party site or service that may be enabled within your Flock browser. While most of the integrated services require that you register and log into the specific services, not all services require registration and logging in. Services are enabled by your explicit actions in the Flock browser, such as logging in and/or choosing to remember or activate an account.
+If Live Search results within the Flock search box are enabled, then we will send any information you type into the search box to the Live Search provider – even if you do not hit the enter key and even if you set your default search engine to a provider other than the one for which you have enabled Live Search.</p>
+
+<h2>Sharing of Personally Identifying Information </h2>
+<p>Flock will not sell or rent any of your personally identifying information to others. To the extent we possess your personally identifying information, we only share it with your consent or as described below:</p>
+
+<p>Agents: We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Flock's agents do not have any right to use personally identifying information we share with them beyond what is necessary to assist us.</p>
+
+<p>Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Flock’s business were acquired, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Flock may continue to use your personally identifying information as set forth in this policy.</p>
+
+<p>Protection of Flock and Others: We may release personally identifying information when we believe in good faith that release is necessary to comply with any law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of Flock, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+
+<h2>Access to Personal Information</h2>
+<p>Flock may allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information as described below. The types of information that you can access and update will change as our web site changes.  </p>
+
+<p>To edit your information on the account you set up on flock.com, please follow the steps below:</p>
+
+<ol>
+  <li>Go to <a href="http://www.flock.com/user">http://www.flock.com/user</a></li>
+  <li>If you see login boxes, log in using the username and password for your account.</li>
+  <li>Else you should see your user account summary page.</li>
+  <li>Click the "Edit" link near the top of the page.</li>
+  <li>Edit your email address or other personally identifiable information </li>
+  <li>Submit the form. </li>
+</ol>
+
+<h2>Policy Changes</h2>
+<p>This effective date of this Privacy Policy is July 10, 2007</p>
+
 <p>This Privacy Policy may be updated from time to time. We will announce material changes on our company blog, at <a href="http://www.flock.com/blog">http://www.flock.com/blog</a></p>
-</div> <!-- END PRIVACY --><p></p>
-	<!-- CUTFLOCKCONTENTHERE -->
+<p></p>
+
+<h2>Questions or Concerns</h2>
+<p>If you have any questions or concerns regarding Flock’s privacy policy, please send us a detailed message to privacy@flock.com. We will make every effort to resolve your concerns. </p>
+</div>  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+      </div>
+
 </div>
-<!-- end content -->
-	
-<div class="clear"></div>
-
-<div id="footer">
-<p class="links">
-<!--<a href="" title="Dump cache">Dump cache</a>&nbsp;&nbsp;|&nbsp;&nbsp;--> 
-<a href="http://www.flock.com/about/" title="About">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.flock.com/jobs" title="Jobs">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="http://www.flock.com/privacy/" title="Privacy">Privacy</a>
-</p>
-
-<div>
-<address class="vcard">
-<span class="fn org" style="display: none;">Flock Inc.</span>
-<p>Send love and postcards to <span class="adr"><span class="street-address">100 View Street, Suite 100</span>, <span class="locality">Mountain View</span> <span class="region">CA</span> <span class="postal-code">94041</span>, USA.</span></p>
-</address>
+</div> <!-- end moduleCenter -->
+		</td>
+		<td width="13">&nbsp;</td>
+		<!-- RIGHT MODULES -->
+						<td width="278" valign="top">
+			<div id="block-block-30" class="moduleRight clear-block block block-block">
+	<div><img src="/header/Contact Us" alt="Contact Us" width="278" height="38"></div>
+	<div class="rt_mod_centerBkgd">
+		<div class="rt_mod_centerContent">
+			<!--<div class="modColumn">-->
+			<a href="/contact">What's a relationship without good communication? Contact us.</a>			<!--</div>-->
+  		</div>
+		<div><img src="/images/modules/rightWell/rghtMod_btm.jpg"></div>
+	</div>
 </div>
-<p>Copyright © Flock, Inc.  All Rights Reserved except as noted in the Extensions, Participate and Blog sections.</p>
+<div id="block-block-26" class="moduleRight clear-block block block-block">
+	<div><img src="/header/Flock In the News" alt="Flock In the News" width="278" height="38"></div>
+	<div class="rt_mod_centerBkgd">
+		<div class="rt_mod_centerContent">
+			<!--<div class="modColumn">-->
+			<a target="_blank" href="http://cultofmac.com/?p=1383">Flock 1.0 Public Beta is the Best Mac OS X Browser</a><br><br>
+<a target="_blank" href="http://techcrunch20.com/2007/presenter.php?presenter=2">Flock CEO Shawn Hardin presents at TechCrunch40</a><br><br>
+<a target="_blank" href="http://www.download.com/Flock/3000-2356_4-10568239.html?tag=toprated#editorsreview">Flock comes together</a><br><br>
+<a target="_blank" href="http://blogs.pcworld.com/techlog/archives/005768.html">I Have a New Favorite Web Browser: Flock</a><br><br>
+<a target="_blank" href="http://jp.blognation.com/2007/10/21/flock-10-is-fantastic-wow/">Flock 1.0 Is Fantastic. Wow!</a><br><br>
 
-</div> <!-- END FOOTER -->
-</div> <!-- END WRAP -->
+<a href="/press">More News</a>			<!--</div>-->
+  		</div>
+		<div><img src="/images/modules/rightWell/rghtMod_btm.jpg"></div>
+	</div>
+</div>
+					</td>
+						<td width="7">&nbsp;</td>
+  	  </tr>
+	</tbody></table>
+	</td>
+	<td width="5" class="bodyInnderRght"><img alt="" src="/images/template/body_innerRght.gif"></td>
+	<td width="7" valign="top"><img alt="" src="/images/template/sides_rghtTop.jpg" width="7" height="101"><br>
+	<img alt="" src="/images/template/sides_rghtBtm.jpg" width="7" height="441"></td>
+	<td width="9" valign="top">&nbsp;</td>
+  </tr>
+</tbody></table>
 
+
+<!-- FOOTER -->
+<table width="1006" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+	<td id="home_footer_td" class="bodyBottom">
+				<img src="/images/template/body_btm.gif" width="1006" height="128"><br>
+				<p style="margin-top: 45px;"><a href="/">Home</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/community">Community</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="http://extensions.flock.com/addons">Extensions</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/support">Support</a><img alt="" src="/images/template/spacer.gif" width="5">|<img alt="" src="/images/template/spacer.gif" width="5"><a href="/about">About Us</a><br>
+		<img alt="" src="/images/template/footer_linebrk.gif" width="357" height="15"><br>
+  		<a href="/get-ready-to-flock" onclick="return download.init(flock_download_link, this.href);">DOWNLOAD FLOCK</a><img alt="" src="/images/template/spacer.gif" width="60" height="5"><a href="http://developer.flock.com">Developer Resources</a></p>
+		Send love and postcards to 100 View Street, Suite 100, Mountain View CA 94041, USA.<br>
+		Copyright © Flock, Inc. All Rights Reserved except as noted in the Extensions, Community and Blog sections.
+	</td>
+  </tr>
+</tbody></table>
+</div>
 
 
 
