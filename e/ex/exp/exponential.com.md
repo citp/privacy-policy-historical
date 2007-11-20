@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514181255id_/http%3A//www.exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2007-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071120082918id_/http%3A//exponential.com/who-we-are/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Exponential™
 
@@ -48,7 +48,10 @@ In the event that Exponential™, in whole or in part, is acquired by, or merged
 **Use Opt-Out Procedure  
 **If you do not want to receive cookies from Exponential™, be sure to disable cookies in your browser.
 
-  **Corrections/Updates  
+  **Email Newsletters  
+**Exponential™ provides free e-mail newsletters to those who sign up for them. These newsletters are sent only to people who have chosen to receive them, and can be opted-out of at any time. Exponential™ does not sell its e-mail lists to third parties. Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list. 
+
+**Corrections/Updates  
 **  
 Exponential™ allows users who choose to provide personally identifiable information to access their information to ensure that it is correct and up to date. Exponential™ provides users the following options for changing and modifying information previously submitted: (1) you can send email to [usersupport@exponential.com](mailto:usersupport@exponential.com) with the word "Updates" in the subject field, or (2) you can send mail to: Updates, Exponential™ Interactive, Inc., 2200 Powell Street, Suite 600, Emeryville, California 94608.
 
@@ -71,4 +74,4 @@ Links to Web Publishers, Advertisers, and Other Web Sites
 **Your use of our Web site is subject to this privacy policy and the Terms of Use Agreement.  BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND OUR TERMS OF USE AGREEMENT.  We reserve the right to modify this privacy policy at any time by posting the changes on this page.  Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it.  Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
 
   **Effective Date  
-**The privacy policy was last revised on May 12th, 2006.
+**The privacy policy was last revised on October 15th, 2007.
