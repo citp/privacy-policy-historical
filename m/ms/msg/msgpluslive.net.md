@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msgpluslive.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630203312id_/http%3A//www.msgpluslive.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msgpluslive.net privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121191613id_/http%3A//www.msgpluslive.net/privacy) for the most accurate reproduction.*
 
 # Messenger Plus! Live - Privacy Policy
 
