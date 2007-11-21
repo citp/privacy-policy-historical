@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206023833id_/http%3A//www.turnkeywebtools.com/index.php%3Fl%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121222339id_/http%3A//twt-inc.com/index.php%3Fl%3Dprivacy) for the most accurate reproduction.*
 
-# Turnkey Software & Solutions - Shopping Cart Software & Live Support Software
-
-## Privacy Policy
+# Privacy Policy
 
 Effective Date: **July 27, 2006**
 
@@ -16,8 +14,8 @@ E-mail: support@turnkeywebtools.com
 
 Mailing Address:  
 Turnkey Web Tools, Inc.  
-42217 Rio Nedo Suite A201  
-Temecula, CA 92590  
+32605 Highway 79 S. Ste 217  
+Temecula, CA 92592  
 USA
 
 **What Information Do We Collect?**
