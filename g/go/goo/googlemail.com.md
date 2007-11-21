@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230194801id_/http%3A//mail.google.com/mail/help/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121111842id_/http%3A//mail.google.com/mail/help/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Gmail Privacy Policy
 
@@ -37,10 +37,4 @@ Google adheres to the US Safe Harbor privacy principles. For more information ab
 
 Further information about Gmail is available [here](http://mail.google.com/mail/help/intl/en/about.html#faq). 
 
-For more information about our privacy practices, go to the [full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please contact us any time. Or write to us at:
-
-Privacy Matters  
-c/o Google Inc.  
-1600 Amphitheatre Parkway  
-Mountain View CA 94043 (USA)   
-
+For more information about our privacy practices, go to the [full privacy policy](http://www.google.com/privacypolicy.html). For questions concerning the product or your account, please check out the [Google Help](http://www.google.com/support) page. 
