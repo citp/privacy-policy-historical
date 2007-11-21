@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the job.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630224411id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the job.com privacy policy that was archived on 2007-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071121164939id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		
@@ -14,7 +14,26 @@
 		<script type="text/javascript" src="/js/mainscripts.js"></script>
 		<script type="text/javascript" src="/js/dhtmlmenu.js"></script>
 		<script type="text/javascript" src="/js/helptip.js"></script>	
-	<title>Job.com - Search jobs and find your next career here!</title>
+		<!-- DOM script added by Jeremy for alternating list tiem positions -->
+		<script type="text/javascript">
+		function alternate(id){
+		
+		 if(document.getElementsByTagName){  
+		   var list = document.getElementById(id);  
+		   var items = list.getElementsByTagName('li');
+		   for(i = 0; i < items.length; i++){ 
+		 //manipulate list items
+		     if(i % 2 == 0){
+		       items[i].className = 'pushLeft';
+		     }else{
+		       items[i].className = 'pushRight';
+		     }      
+		   }
+		 }
+		 
+		}
+		</script>
+	<title>Job.com Jobs - Start your job search and find employment today!</title>
 		<meta name="keywords" content="job, jobs, job site, job sites, job openings, job vacancies, job search, search jobs, job advice, career, careers, jobs online, online jobs, employment, find a job, apply to jobs, find work, resume, resume distribution, resumes, resume writing, headhunter, head hunter, head hunters, recruiter, recruiters, search for work, job openings, computer jobs, employment opportunities, jobs com, entry level, job openings, career advice, resume tips, resumes, new job, new jobs, change jobs, www job, jobs com, montser, search firms, internet jobs, it jobs, computer jobs, retail jobs, healthcare jobs, sales jobs, finance jobs, engineering jobs, legal jobs, human resources jobs, HR jobs, admin jobs, customer support jobs, customer care jobs, career advice, careers, technology jobs, managerial jobs, diversity, equal opportunity, career search, job descriptions, temp jobs, part-time jobs, contractor jobs, full-time jobs, search firm, executive, executive search, jobs in">
 		<meta name="description" content="Search jobs, post your resume, find employment, and find your next career here!">
 		<meta name="author" content="Job.com">
@@ -23,6 +42,7 @@
 		<meta name="robots" content="index,follow">
 		<meta name="GoogleBot" content="index,follow">
 		<meta name="verify-v1" content="wr/PkEGUuFL/VQ2HJGJCnwHqxFFR6ZohKLClWkH0XLQ="> 
+		<meta name="verify-v1" content="P5fSxyL7QcNTraj0Ty6F5BcQljqQU1okJD9iXy8pOB0=">
 		<link rel="Home" title="Job.com Homepage" href="http://www.job.com/">
 		<link rel="Jobseekers" title="JobSeekers" href="http://www.job.com/my.job/search/">
 		<link rel="Employers" title="Employers &amp; Recruiters" href="http://employer.job.com/">
@@ -39,8 +59,9 @@ urchinTracker();
 </head>
 	
 	
+	
 	<body>
-
+	
 	
 	<a name="top"></a>
 	<div id="topbar">	
@@ -50,13 +71,13 @@ urchinTracker();
 			<td width="246"><a href="/" title="Job.com - Gear for Your Career!"><img id="jobLogo" src="/images/css/jobLogo.gif" width="246" height="71" border="0" alt="Job.com - Gear for Your Career!"></a></td>
 			<td id="topinfo" width="100%" valign="top" align="right" nowrap="nowrap">
 				
+					
+					You're logged in as Hong Huynh - to log out <a href="/my.job/jslo/" title="Log out">click here</a>.
+					<img src="http://r.casalemedia.com/j.gif?u=131173&amp;s=99" width="1" height="1" alt="">
+					<br>
 
-					
-					Start applying now -  <a href="/my.job/sup/us=529" title="Post Your Resume!"><strong>Post Your Resume Now!</strong></a>
-					
-					
-						<br>
-					
+
+				
 			</td>
 		</tr>
 		</tbody></table>
@@ -76,14 +97,18 @@ urchinTracker();
 		
 		<!-- JobSeeker MainMenu -->
 		<div id="menu1" class="menu" onmouseover="menuMouseover(event)">
-		
-			<a class="menuItem" href="/my.job/sup/" title="Let Employers Find You!">Post Your Resume</a>
+		  
+			<a class="menuItem" href="javascript://nop/" title="Update My Account" onclick="return false;" onmouseover="menuItemMouseover(event, 'menu1-1');"><span class="menuItemText">Update My Account</span><span class="menuItemArrow">▶</span></a>
+			<a class="menuItem" href="javascript://nop/" title="Manage My Resumes" onclick="return false;" onmouseover="menuItemMouseover(event, 'menu1-2');"><span class="menuItemText">Manage My Resumes</span><span class="menuItemArrow">▶</span></a>
+			<a class="menuItem" href="javascript://nop/" title="Edit My Login" onclick="return false;" onmouseover="menuItemMouseover(event, 'menu1-4');"><span class="menuItemText">Edit My Login</span><span class="menuItemArrow">▶</span></a>
+			<a class="menuItem" href="/my.job/mjs/page=SS/" title="Saved Searches"><span class="menuItemText">Saved Searches</span></a>
 		
 			<a class="menuItem" href="/my.job/search/" title="Search 1,000s of Jobs Here">Search Jobs</a>
-		
-			<a class="menuItem" href="/my.job/poll/" title="Take This Month's Poll">Take This Month's Poll</a>
+		  
+			<a class="menuItem" href="/my.job/sub/" title="Manage your Newsletter Subscriptions">Newsletter Subscription Manager</a>
 			<a class="menuItem" href="/my.job/jscs/" title="Contact Customer Service">Customer Service</a>
-			<a class="menuItem" href="/my.job/jsLog/" title="Login to Job.com">Log In</a>
+			<a class="menuItem" href="/my.job/poll/" title="Take This Month's Poll">Take This Month's Poll</a>
+			<a class="menuItem" href="/my.job/jslo/" title="Log out of Job.com">Log Out</a>
 		
 		</div>
 		
@@ -103,8 +128,6 @@ urchinTracker();
 		
 			<a class="menuItem" href="http://rdr.job.com/rd/552/" target="_blank" title="Is your past boss badmouthing you?  Find out today!">Reference Checking</a>
 		
-			<a class="menuItem" href="http://rdr.job.com/rd/1780/" target="_blank" title="Your Exclusive Network for $100K+ Executive Jobs">For Executives Only</a>
-		
 		</div>
 		
 		<!-- Career Centers Menus -->
@@ -113,9 +136,9 @@ urchinTracker();
 		
 			<a class="menuItem" href="http://rdr.job.com/rd/1559/" target="_blank" title="Earn your degree Online!">Online Degree Center</a>
 		
-			<a class="menuItem" href="http://rdr.job.com/rd/72/" target="_blank" title="Directory of Career Services and Websites.">Career Resource Center</a>
+			<a class="menuItem" href="http://rdr.job.com/rd/249/" target="_blank" title="Advance your career! Continue your education!">Continuing Education Center</a>
 		
-			<a class="menuItem" href="http://rdr.job.com/rd/1854/" target="_blank" title="Search Leading Educational Programs &amp; Diplomas Offered Online.">Online College Degree Center</a>
+			<a class="menuItem" href="http://rdr.job.com/rd/72/" target="_blank" title="Directory of Career Services and Websites.">Career Resource Center</a>
 		
 			<a class="menuItem" href="http://rdr.job.com/rd/82/" target="_blank" title="Articles of interest to Jobseekers.">Career Information Library</a>
 		
@@ -124,6 +147,8 @@ urchinTracker();
 			<a class="menuItem" href="http://rdr.job.com/rd/1851/" target="_blank" title="Research your salary in Job.com's Salary Center.">Salary Center</a>
 		
 			<a class="menuItem" href="http://rdr.job.com/rd/1489/" target="_blank" title="Search 100s of self employment opportunities.">Self Employment Center</a>
+		
+			<a class="menuItem" href="http://rdr.job.com/rd/2042/" target="_blank" title="For Executives Only">For Executives Only</a>
 		
 		</div>
 		
@@ -157,7 +182,7 @@ urchinTracker();
 	<!-- Main Content : Start ------------------>
 	<div class="fullWide">
 		<div id="sandBox">
-	<div id="maincontent">
+			<div id="maincontent">
 		
 		
 <h2 class="title org">Privacy Policy</h2>
@@ -196,7 +221,7 @@ urchinTracker();
 	Thank you for using Job.com. We'll continue working to make this your favorite website to manage your career.
 </blockquote>
 
-	</div>
+			</div>
 		</div>
 	</div>
 	<!-- Main Content : End -------------------->
@@ -214,6 +239,7 @@ urchinTracker();
 			
 			
 			<a href="/my.job/contact/" title="Contact Us">Contact Us</a> ·&nbsp;
+			<a href="/my.job/press/" title="Press Releases">Press Releases</a>&nbsp;·
 			<a href="/my.job/sitemap/" title="Site Map">Site Map</a>
 			<p><span class="Copyright">Copyright © 2001 -&nbsp;2007 Job.com, Inc.  All rights reserved.</span></p>
 			
