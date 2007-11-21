@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602012833id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121101825id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Carter's
 
@@ -15,4 +15,4 @@ Carter’s may disclose your personal information as required by law or legal pr
 
 If we amend this privacy policy, we will post any such change on our website at www.carters.com. If you have any questions about our privacy policy, please contact Carter’s customer service at 1-888-782-9548. 
 
-**RECALL** – Samara Brothers is recalling boys' jackets due to a lead poisoning hazard. This recall involves boy's outerwear jackets with a Carter's-brand logo on the front sold from October 2006 through November 2006. The jackets were sold in toddler and boy's sizes in charcoal, navy and red. Please [click here](http://www.cpsc.gov/cpscpub/prerel/prhtml07/07102.html) for more information.
+**RECALL** – Kolcraft is recalling several models of play yards due to a strangulation hazard posed by the restraint straps attached to the changing table portion of the play yard. This recall involves five models made for Carter's, Carter's Lennon Travelin' Tot, that were sold from 2001 to 2004. Please [click here](http://www.cpsc.gov/cpscpub/prerel/prhtml07/07315.html) for more information.
