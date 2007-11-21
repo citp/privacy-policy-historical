@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629123121id_/http%3A//www.habbo.com/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121165636id_/http%3A//www.habbo.com/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Habbo ~
 
@@ -64,7 +64,7 @@ From time to time we may ask our site visitors to answer survey questions. Surve
 Contacting Us about Privacy Questions or Concerns:  
 If you have questions or comments regarding this Privacy Policy please contact us at privacy.us@sulake.com or send a letter to:  
 Privacy Manager - habbo.com  
-1460 4th St. Suite #302  
+225 Santa Monica Blvd., Fourth Floor  
 Santa Monica, CA 90401  
 1-888-515-4540 
 
