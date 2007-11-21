@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212226id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121093815id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy - EUbusiness - EU law, politics and finance
+# Privacy Statement — EUbusiness.com - business, legal and financial news and information from the European Union
 
-Privacy Statement
+EUbusiness.com Privacy Statement
 
-  * [Information Collection and Use](http://www.eubusiness.com/privacy/index_html#1)
-  * [Registration](http://www.eubusiness.com/privacy/index_html#2)
-  * [Order Forms](http://www.eubusiness.com/privacy/index_html#3)
-  * [Cookies](http://www.eubusiness.com/privacy/index_html#4)
-  * [Advertising](http://www.eubusiness.com/privacy/index_html#5)
-  * [Log Files](http://www.eubusiness.com/privacy/index_html#6)
-  * [Links](http://www.eubusiness.com/privacy/index_html#7)
-  * [Newswires](http://www.eubusiness.com/privacy/index_html#8)
-  * [Surveys & Contests](http://www.eubusiness.com/privacy/index_html#9)
-  * [Security](http://www.eubusiness.com/privacy/index_html#11)
-  * [Correcting/Updating Personal Information](http://www.eubusiness.com/privacy/index_html#12)
-  * [Notification of Changes](http://www.eubusiness.com/privacy/index_html#13)
+  * [Information Collection and Use](http://www.eubusiness.com/privacy/privacy-statement#1)
+  * [Registration](http://www.eubusiness.com/privacy/privacy-statement#2)
+  * [Order Forms](http://www.eubusiness.com/privacy/privacy-statement#3)
+  * [Cookies](http://www.eubusiness.com/privacy/privacy-statement#4)
+  * [Advertising](http://www.eubusiness.com/privacy/privacy-statement#5)
+  * [Log Files](http://www.eubusiness.com/privacy/privacy-statement#6)
+  * [Links](http://www.eubusiness.com/privacy/privacy-statement#7)
+  * [Newswires](http://www.eubusiness.com/privacy/privacy-statement#8)
+  * [Surveys & Contests](http://www.eubusiness.com/privacy/privacy-statement#9)
+  * [Security](http://www.eubusiness.com/privacy/privacy-statement#11)
+  * [Correcting/Updating Personal Information](http://www.eubusiness.com/privacy/privacy-statement#12)
+  * [Notification of Changes](http://www.eubusiness.com/privacy/privacy-statement#13)
 
 
 
