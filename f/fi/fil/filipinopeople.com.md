@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607161446id_/http%3A//www.filipinopeople.com/content.asp%3FContentId%3D353) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121045729id_/http%3A//www.filipinopeople.com/content.asp%3FContentId%3D353) for the most accurate reproduction.*
 
 # FilipinoPeople.com - Filipino Online Community
 
