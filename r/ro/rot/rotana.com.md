@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotana.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522020008id_/http%3A//rotana.com/privacystatement-1-36.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotana.com privacy policy that was archived on 2007-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/privacystatement-1-36.htm) for the most accurate reproduction.*
 
 # Rotana Hotels: Middle East Luxury Hotels : Dubai, Abu Dhabi, Sharjah, Al Ain, UAE: Damascus Syria: Hurghada Sharm El Sheikh Egypt
 
@@ -98,5 +98,5 @@ Rotana Hotels may amend this Privacy Statement from time to time in order to mee
 
 |  |  |   
 ---|---|---|---|---  
-|  | [Privacy Statement](https://web.archive.org/web/20070522020008id_/http%3A//rotana.com/privacystatement-1-36.htm) |  | [Site Map](https://web.archive.org/web/20070522020008id_/http%3A//rotana.com/sitemap-2.htm) |  | [Terms & Conditions](https://web.archive.org/web/20070522020008id_/http%3A//rotana.com/termsconditions-3-38.htm)  
+|  | [Privacy Statement](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/privacystatement-1-36.htm) |  | [Site Map](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/sitemap-2.htm) |  | [Terms & Conditions](https://web.archive.org/web/20071121110837id_/http%3A//www.rotana.com/termsconditions-3-38.htm)  
 ---|---|---|---|---|---
