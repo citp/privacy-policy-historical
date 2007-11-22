@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054745id_/http%3A//www.matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122030933id_/http%3A//www.matcotools.com/CustomerCare/privacy.jsp) for the most accurate reproduction.*
 
-# Matco Tools - Professional Hand Tools, Tool Storage and Automotive Service Equipment
+# Privacy Policies | Matco Tools Customer Service
 
 ###### customer service  
   
