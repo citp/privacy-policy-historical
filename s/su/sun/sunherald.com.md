@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615172007id_/http%3A//sunherald.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2007-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071122061518id_/http%3A//www.sunherald.com/privacy) for the most accurate reproduction.*
 
 # SunHerald.com : Privacy Policy & Terms of Use
 
