@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626171912id_/http%3A//www.everbank.com/004Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123084453id_/https%3A//www.everbank.com/004Privacy.aspx) for the most accurate reproduction.*
 
 # EverBank - Privacy and Security
 
@@ -68,7 +68,7 @@ For Vermont Residents Only: According to Vermont law, EverBank will not share ap
 
 For California Residents Only: This Privacy Policy accurately describes the information we collect and may share about you with our affiliates. You have the right to restrict our ability to share information about you as described in the "Opt-Out Rights" section below. In accordance with California law, you also have certain rights to restrict our ability to share information with certain non-affiliates. California residents receive a separate "Important Privacy Notice for Consumer" which details the information sharing options open to California customers with respect to our information sharing with non-affiliated companies. 
 
- [Privacy Choices for CA Consumers Only](https://web.archive.org/web/20070626171912id_/http%3A//www.everbank.com/documents/PrivacyChoicesforCAConsumersOnly.pdf)
+ [Privacy Choices for CA Consumers Only](https://web.archive.org/web/20071123084453id_/https%3A//www.everbank.com/documents/PrivacyChoicesforCAConsumersOnly.pdf)
 
 Information Collected in Surveys or Contests  
 From time to time, EverBank's website may utilize online surveys or run contests that ask you for contact information (such as your e-mail address) and demographic information (e.g., zip code, age, or income level). EverBank uses contact data from its surveys and contests to send you information about EverBank, and promotional material from certain partners. Your contact information is used to contact you when necessary. You may request no further mailings; see the "How to Refuse Further Mailings" subsection below. Demographic and profile data is also collected at EverBank's website. EverBank uses this data to tailor its visitor website experience, providing you content which EverBank believes may be of interest to you, and to display content based on your preferences.
