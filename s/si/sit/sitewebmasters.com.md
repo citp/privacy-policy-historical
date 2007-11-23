@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616050917id_/http%3A//www.sitewebmasters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124001926id_/http%3A//www.sitewebmasters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Web Hosting Services by Site WebMasters
 
