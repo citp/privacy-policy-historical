@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519232325id_/http%3A//www.labpixies.com/site/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123151937id_/http%3A//www.labpixies.com/site/privacy_policy) for the most accurate reproduction.*
 
 # LabPixies - Privacy Policy
 
