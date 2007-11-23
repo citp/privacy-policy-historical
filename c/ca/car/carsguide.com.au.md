@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054702id_/http%3A//carsguide.news.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2007-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071123124014id_/http%3A//carsguide.news.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy - CARSguide
+# Privacy policy - Carsguide
 
 News Digital Media (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our websites, subscribers to and users of our services, purchasers of our products and advertising customers.   
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.   
