@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629192430id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124060454id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eHome Insurance - Privacy and Security
 
@@ -55,7 +55,7 @@ back to top
 ## 5\. How Your Information Will Be Used
 
 Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries.  
-eHome may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you.  
+eHome and carefully selected third parties may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you.  
 We will also contact you to remind you your insurance is due for renewal.
 
 back to top
