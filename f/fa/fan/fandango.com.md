@@ -1,54 +1,127 @@
-> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211131951id_/http%3A//www.fandango.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124080250id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Fandango - Privacy Policy
+# Fandango | Privacy Policy
 
-  |  |   | 
+  * [Purchase Policy](http://www.fandango.com/PurchasePolicy.aspx)
+  * Privacy Policy
+  * [Terms of Use](http://www.fandango.com/TermsOfUse.aspx)
+  * [Fandango Bucks](https://www.fandango.com/FBTerms.aspx)
 
-  
-[Purchase Policy](https://web.archive.org/web/20011211131951id_/http%3A//www.fandango.com/cs_policies.asp) | Privacy Policy | [Terms of Use](https://web.archive.org/web/20011211131951id_/http%3A//www.fandango.com/termsofuse.asp)
 
-Introduction
 
-Your privacy is important to Fandango. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. This information helps us improve your moviegoing experience with better content, services and opportunities. This policy tells you about the information gathering and dissemination that we conduct. As we continue to grow, this policy may change, so please check back periodically for updates. 
+##### FANDANGO PRIVACY POLICY
 
-The Information We Collect
+Last Revised: November 8, 2007
 
-We ask our users to register when they use the Fandango site and services (collectively, the "Service"). Through our online registration process, we collect a variety of information about the user, which may include, among other things, such as user's first and last name, zip code, gender, phone number, email address, Login ID, Member Name and password. Fandango may also request and collect other information from time to time. 
+Fandango, Inc. ("Fandango") is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information. Fandango collects some or all of the following information whenever you sign up for or use the various Fandango services and products, including without limitation the Fandango Web site (the "Site"), online mobile service, and telephone service, and/or purchase movie or other event tickets, Fandango Bucks, or other products or services offered by Fandango (collectively, the "Service"). Some of this information is collected automatically and some is collected only when you provide it voluntarily. 
 
-We automatically track information related to use of the Service. This information may include, among other things, URL tracking information, what browser the user is using, the user's IP address, pages and ads viewed by the user and selections or other actions taken on the Service. We may track usage through cookies and/or pixels. A cookie is a small data file written to the user's hard drive. Cookies may be used to, among other things, allow automated log-in and may contain information such as a Login ID, an email address, or other information about preferences or Internet use. Pixels, also called clear gifs, are invisible codes that may be used on some of the pages of our site to provide us information to enhance future email campaign targeting and internal reporting. Reputable third party advertisers and technology providers that we work with may use or have access to cookies and/or pixels to help us customize your Fandango.com experience as set forth above but such third parties will not contact you directly. 
+**A SPECIAL NOTE ABOUT CHILDREN**
 
-We also collect information about your movie preferences. For example, we may collect, among other things, information such as what movies you purchase tickets to or what theatres you attend. We may save information sent or posted to the Service. For example, we may save messages posted in our chat rooms or other message areas or feedback left for other users. We may collect correspondence, such as emails or letters, sent to us. We may collect user responses to online polls, ads, surveys, electronic newsletters and questionnaires.
+Fandango is not designed or intended for use by children under 13. If you are under 18, you should use Fandango only with involvement of a parent or guardian. Children under 13 may not submit any Personally Identifiable Information (as defined below) to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it. 
 
-Deletion of Information and Records
+**ANTI-SPAM POLICY**
 
-While Fandango may track and store information, Fandango shall not be obligated to do so and may delete any information and records, in whole or in part, at any time.
+Fandango is 100% opposed to unsolicited commercial email ("spam"). We do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide email addresses to any unauthorized third party in violation of this Privacy Policy. If you receive any unsolicited emails from spammers, please be assured that Fandango did not provide your email address to such parties. 
 
-What we use the information for
+This does not mean that we can prevent spam from happening on the Internet. Unfortunately, spammers obtain email addresses in a number of devious ways, including when you respond and ask to be taken off a spam email list, and in some cases by just generating emails to millions of random email addresses in the hopes of getting a few "live" ones. Please be assured that at Fandango we hate spam as much as you do, and we do our best to avoid contributing to it. 
 
-We use the demographic information to enhance your user experience by, among other things, delivering you content that is relevant to your interests. We may use the contact information you provide us to notify you of new services or special deals that we or our partners are offering, to distribute movie related information to you or to conduct surveys or other similar activities. When you register with us, you may choose to opt-out of receiving these notices or mailings from Fandango; to do so, simply uncheck the "I would like to receive periodic offers from Fandango’s partners and affiliates” box on the registration page.
+All of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you. (Even if you opt-out of our newsletter or other marketing communications, we may still send you certain transactional or administrative emails, such as email confirmations of ticket purchases, or emails regarding changes to your account.) 
 
-Fandango does not sell or rent personal information about its customers to any third parties at this time. In the event Fandango does sell or rent personally identifiable information in the future, you will be notified of this change via an email notification or an update to this privacy policy. If you wish to remove your personal information from any such lists maintained by Fandango prior to your inclusion herein, you may notify us via email at [support@Fandango.com](mailto:support@fandango.com). Fandango does, however, perform statistical analyses of customer usage in order to measure interest in, and use of, the various parts of Fandango's web site, and Fandango may share that information with current and prospective advertisers, and other interested third parties. This information is aggregated data only (such as statistics), and contains no personally identifiable information whatsoever. 
+All that said, if you believe that you have gotten unsolicited email from us, please contact us by clicking [here](http://fandango.custhelp.com/) and we will investigate. Please be assured that we strive not to contact anyone for marketing purposes without permission, and if you prefer not to receive any further marketing communications from us, just tell us and we'll try to make sure you never hear from us again. 
 
-Please note that we may share your contact, demographic and other personally identifiable information with our theatre partners. Our theatre partners may share your information with third parties, which may result in, among other things, unsolicited inquiries, messages, or offers from third parties. The maintenance and/or use of such information by our partners is out of the control of Fandango. If you do not wish to be contacted by our theatre partners, simply uncheck the "I would like to receive periodic offers from Fandango’s partners and affiliates” box on the registration page.
+**WHAT TYPES OF INFORMATION DOES FANDANGO COLLECT?**
 
-Please note that Fandango may sell, share or transfer personally identifiable information about its customers with any successor in interest (e.g. if the Company is sold to a third party). Additionally, in certain cases, Fandango may be required to disclose your personally identifiable information when the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case or administrative investigation. 
+Personally Identifiable Information. 
 
-Fandango users should also be aware that if they voluntarily disclose personal information in any chat areas or bulletin boards within Fandango's web site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third parties. This third-party conduct is out of the control of Fandango.
+Personally identifiable information is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit/debit card number and expiration date (or other payment-method information), login ID, member name and password ("Personally Identifiable Information"). When you sign up for or use the Site or other Service, Fandango collects some amount of Personally Identifiable Information from you. Fandango also collects Personally Identifiable Information that you may voluntarily provide when you use the Site or other Service, that you may disclose in a public area of the Site or other Service (such as a rating/review page, message board or chat room), or that you may include if you communicate with Fandango. In addition, when you use certain features of the Site or other Service, such as Fandango Bucks, Fandango will collect the email addresses or other Personally Identifiable Information of others that you may provide. 
 
-Security
+Non-Personally Identifiable Information. 
 
-Fandango has implemented security measures to protect against the loss, misuse and alteration of the information under our control. We protect the secure areas of our site with a firewall. 
+Fandango collects information from you automatically when you use the Site or other Service. However, the information that Fandango collects automatically does not contain Personally Identifiable Information. The automatically collected information may include information such as your browser type, the URL of the previous Web sites you visited, the Web pages and advertisements you view or select, the type of Service you use and the searches you conduct. This information also may include your movie preferences, such as the movies for which you buy tickets and the theatres where you see those movies. Fandango also collects information that does not include Personally Identifiable Information when you voluntarily provide it (such as in response to a questionnaire or survey) or post it to a public area of the Site or other Service (such as a rating/review page, message board or chat room). 
 
-Choice/Opt-Out
+**HOW DOES FANDANGO AUTOMATICALLY COLLECT INFORMATION?**
 
-Fandango allows users the option to opt-out of receiving communications from us and our partners at registration. If you decide later to opt-out, visit [https://www.fandango.com/registration.asp](https://www.fandango.com/registration.asp) and change your membership to Fan Club and uncheck the "I would like to receive periodic offers from Fandango’s partners and affiliates” box on the registration page. You can also opt-out by sending us an e-mail to [support@Fandango.com.](mailto:support@fandango.com). 
+Cookies. 
 
-Questions
+A cookie is a message that is sent to your computer from a Web server and stored on your computer's hard drive. Fandango's cookies contain Personally Identifiable Information, such as your Login ID and your email address. Fandango uses cookies to allow you to log in automatically and to ensure that you have agreed to the terms, conditions and policies that govern your use of the Site or other Service. In addition, Fandango uses cookies to track your use of the Site or other Service and provide you with a more personalized user experience by allowing Fandango to provide targeted advertising and determine which areas of the Site or other Service may be the most popular or useful to you. 
 
-If you have any questions about the Fandango Service or this privacy statement, you can email us at [support@Fandango.com](mailto:support@fandango.com), call us at 866-688-6675, or write us at: 
+IP Address. 
 
-Fandango, Inc.   
-1520 2nd Street, Suite 2   
-Santa Monica, CA 90401 
+An IP address is a number that is assigned to your computer automatically when you use the Internet. Fandango logs your IP address when you use the Site or other Service. Fandango uses your IP address to track your use of the Site or other Service. 
 
-|   |  |  
+Pixels. 
+
+Pixels, also called clear GIFs, are invisible files on Web pages that you visit. When you visit a page on the Site that contains a pixel, the pixel communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement. Fandango uses pixels to serve advertising, enhance email advertising, and track usage of the Site or other Service. 
+
+**HOW DOES FANDANGO USE THE INFORMATION?**
+
+Personally Identifiable Information. 
+
+Fandango uses your Personally Identifiable Information to notify you of changes to the Site or other Service, to let you know about movies or other entertainment opportunities, and other products or services you may be interested in, and to request your participation in surveys or other promotions. You can choose not to receive certain communications from Fandango as described in the section below entitled "Receiving Communications and Opting Out." Fandango also uses your Personally Identifiable Information to process and fulfill your purchases, provide you with information that you request, and deliver content to you that is relevant to your interests. When you use Fandango Bucks to give a gift certificate, Fandango will use the email addresses you provide to send your invites and gift certificates, and other communications relating to such transaction, and any further communications as may be authorized by the recipient. 
+
+Aggregate Information. 
+
+Fandango also combines your usage information for the Site or other Service with that of other users to determine which features and areas of the Site or other Service are most popular. By collecting and analyzing this data, Fandango can improve the Site or other Service. This "Aggregate Information" does not contain any of your Personally Identifiable Information. 
+
+**WHO DOES FANDANGO SHARE INFORMATION WITH?**
+
+Aggregate Information. 
+
+Fandango shares Aggregate Information with potential partners, advertisers, investors and other interested third parties in connection with the marketing of Fandango's products and services. However, Aggregate Information does not include any of your Personally Identifiable Information. 
+
+Selling and Renting Information. 
+
+Fandango does not sell or rent your Personally Identifiable Information to third parties. However, in the event that you expressly opt-in via the Site or other Service to receive particular products or services, or information about products or services, that are offered by third parties, or otherwise authorize us to do so, we will share your Personally Identifiable Information with those third parties as appropriate for those limited purposes. Fandango may also share with those same third parties certain limited personal information that, without other information, does not specifically identify you. 
+
+Sharing with Social Networks or Other Sites You May Authorize. 
+
+If you are a member of a social network service (such as Facebook, MySpace, etc.) or you use other Internet sites where you have authorized them to gather information about your online behavior on Fandango (for instance, to notify your friends that you have viewed a video or bought movie tickets), including participation in any behavioral reporting program that they may operate on or off of their own site (i.e., Facebook Beacon, etc.), Fandango may share information regarding your activities on our Site or other Service with those third parties pursuant to your authorization, and they may associate that information with Personally Identifiable Information they already have about you (such as your Facebook Profile) and use it to improve their site or services or for other purposes. Fandango does not control the privacy policies of such third parties, and their privacy policies will govern their use of your information once it has been transmitted by Fandango. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third parties that you authorize to gather information from Fandango. 
+
+Other Sharing. 
+
+Fandango may also share cookies and pixels with trusted service providers or other third parties to customize your experience on the Site or other Service or to provide you with more relevant information or otherwise improve your experience on other Web sites, but those third parties will not contact you directly. Fandango may transfer the Personally Identifiable Information it collects to any affiliates (including our parent company, Comcast Corporation and its affiliates), trusted business partners or joint venturers, or successors in interest to Fandango, such as a company that acquires Fandango. Fandango may also disclose your Personally Identifiable Information if it determines that an applicable law, regulation or legal process requires it, or if Fandango determines that it needs to share such information to protect or enforce Fandango's rights or the rights of another user. 
+
+**WHAT OPTIONS DO I HAVE TO CONTROL THE USE OF MY INFORMATION?**
+
+Receiving Communications and Opting Out 
+
+During registration and certain purchases, you can "opt out" of receiving certain communications from Fandango and our partners. Also, you can later "opt out" by visiting [http://www.fandango.com/NewsLetterSubscription.aspx](https://www.fandango.com/NewsLetterSubscription.aspx), clicking on the "Subscribe/Unsubscribe to Fandango newsletter" link and removing the check mark from the box. All of our newsletters and other general email marketing communications also include an "unsubscribe" opt out link that you may use to ask that we discontinue such emails to you. (Even if you opt-out of our newsletter or other marketing communications, we may still send you certain transactional or administrative emails, such as email confirmations of ticket purchases, or emails regarding changes to your account.) 
+
+Correction and Deletion of Information. 
+
+You can obtain a copy of your Personally Identifiable Information by clicking [here](http://fandango.custhelp.com/) for customer support or by contacting Fandango at the mailing address below. For your protection, you will be required to provide proof of your identity to obtain a copy of your Personally Identifiable Information. You may correct any errors in your Personally Identifiable Information by providing Fandango with the correct information. In addition, Fandango will delete all of your Personally Identifiable Information (except for your transaction history) from our records upon your request. If you choose to delete your Personally Identifiable Information, you may not be able to access some areas of the Site or other Service. 
+
+**WHAT ELSE SHOULD I KNOW ABOUT PRIVACY?**
+
+Security. 
+
+We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personally Identifiable Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our control. Accordingly, Fandango assumes no responsibility or liability for disclosure of your information (personally identifiable or otherwise) due to errors in transmission, unauthorized third-party access or other causes beyond Fandango's reasonable control. 
+
+Third Parties. 
+
+Fandango does not control the privacy policies of Fandango's advertisers or other third parties that have Web sites linked to the Site or other Service or with whom we may share your information in accordance with this Privacy Policy. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Web sites you link to. 
+
+Disclosure of Information in Public Areas. 
+
+If you voluntarily disclose Personally Identifiable Information in a public area of the Site or other Service, such as a rating/review page, chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. Fandango does not control the actions of users in public areas of the Site or other Service. If you disclose Personally Identifiable Information in a public area, you do so at your own risk. 
+
+**YOUR CALIFORNIA PRIVACY RIGHTS (California residents)**
+
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to caprivacyrights@fandango.com or write to us: 
+
+**Fandango, Inc.  
+Attn: California Privacy Rights  
+12200 West Olympic Blvd, Suite 150  
+Los Angeles, CA 90064 **
+
+**ACCEPTANCE OF PRIVACY POLICY**
+
+When you use the Site or other Service, you are accepting the terms and conditions of this Privacy Policy, and Fandango will have the right to use your Personally Identifiable Information or other information about you as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must not use the Site or other Service. Fandango reserves the right to modify this Privacy Policy at any time. Your continued use of the Site or any Service after Fandango either personally notifies you or generally posts such changes on www.fandango.com will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please [click here](http://fandango.custhelp.com/) for customer support or write to Fandango at: 
+
+**Fandango, Inc.  
+Attn: Privacy Policies  
+12200 West Olympic Blvd, Suite 150  
+Los Angeles, CA 90064 **
+
+
+
