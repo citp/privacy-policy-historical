@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621005214id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124100725id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera Privacy Statement
 
@@ -54,10 +54,6 @@ Opera Software will on occasion collect visitors' IP addresses to help diagnose 
 #### Information collected from forms
 
 Opera.com, Opera.no, and OperaSoftware.com use forms for visitors to request information, products, and services. Depending on the the service, product, or information visitors request, visitors' contact information (e.g. e-mail addresses or telephone numbers) or financial information (e.g. credit card numbers) may be collected. Contact information from these forms is used to send orders and information about Opera Software to customers. Visitors' contact information is also used to get in touch with them when necessary. Visitors may opt out of receiving future mailings; see the choice/opt-out section. Financial information that is collected is used to bill the user for products and services.
-
-#### Cookies
-
-Opera.com, Opera.no, and OperaSoftware.com generally do not use cookies, with the following exceptions: The pages on support.opera.no and support.opera.com, called "The Opera Software Support Desk", use technology created by eJournal, which employs cookies to make the service function smoothly. For more information about eJournal, see the links below. Elsewhere on Opera Software's support site, one may encounter the option to voluntarily save a cookie used for subsequent visits. Opera Software does not have access to any information about visitors from cookies received while visiting Opera Software's sites.
 
 #### Survey 
 
