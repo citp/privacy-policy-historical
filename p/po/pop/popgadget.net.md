@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506115857id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popgadget.net privacy policy that was archived on 2007-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071124054441id_/http%3A//www.popgadget.net/privacy.php) for the most accurate reproduction.*
 
 # Popgadget Privacy Policy
 
@@ -55,8 +55,5 @@ Should you have any questions or concerns about this privacy policy, please call
 
 Back to Top
 
-| 
-
-[](http://www.babygadget.net/ "Your on-line shopping guide and product review for the modern parent")  
-  
+|   
 ---|---|---
