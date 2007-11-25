@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615194509id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125160431id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
 
