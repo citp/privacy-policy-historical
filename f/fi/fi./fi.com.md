@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630123159id_/http%3A//www.fi.com/us/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125153228id_/http%3A//www.fi.com/us/security.aspx) for the most accurate reproduction.*
 
-# 
+# Fisher Investments | Privacy & Security
 
   
-[Home](https://web.archive.org/web/20070630123159id_/http%3A//www.fi.com/)  >  Privacy & Security
+[Home](https://web.archive.org/web/20071125153228id_/http%3A//www.fi.com/)  >  Privacy & Security
 
 ### Fisher Investments Privacy and Security
 
@@ -32,7 +32,7 @@ To ensure consumer privacy laws are not violated, FI has adopted the policies an
 " **Nonpublic personal information** " – 
 
   * All personally identifiable financial information.
-  * While the GLB Ac excludes publicly available information (e.g., a list of persons and their publicly listed telephone numbers), nonpublic personal information does include any list, description or other grouping of consumers (and publicly available information pertaining to them) derived using any nonpublic personally identifiable financial information that is not publicly available information.
+  * While the GLB Act excludes publicly available information (e.g., a list of persons and their publicly listed telephone numbers), nonpublic personal information does include any list, description or other grouping of consumers (and publicly available information pertaining to them) derived using any nonpublic personally identifiable financial information that is not publicly available information.
 
 
 
