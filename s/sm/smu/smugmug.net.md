@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smugmug.net privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521225821id_/http%3A//www.smugmug.com/aboutus/privacy.mg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugmug.net privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126114621id_/http%3A//www.smugmug.com/aboutus/privacy.mg) for the most accurate reproduction.*
 
-# SmugMug - SmugMug Privacy Policy
+# SmugMug Privacy Policy- powered by SmugMug
 
 ### (Last Updated: September 19, 2006)
 
