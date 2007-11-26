@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420023942id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126021330id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GOP.com | Republican National Committee :: Privacy Policy
 
-|   
 ---  
 | 
 
@@ -106,6 +105,9 @@ Updated July 17, 2006
 
 |  |   
 ---  
+  
+[]()  
+  
 |   
 ---  
 | **Republican National Committee** | 310 First Street, SE | Washington, D.C. 20003  
@@ -117,5 +119,4 @@ Not Authorized By Any Candidate Or Candidate's Committee
 www.GOP.com © 2007 Republican National Committee
 
   
-|   
- 
+| 
