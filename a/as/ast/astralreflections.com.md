@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astralreflections.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617011727id_/http%3A//www.canwestglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astralreflections.com privacy policy that was archived on 2007-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071126113112id_/http%3A//www.canwestglobal.com/privacy.html) for the most accurate reproduction.*
 
 # CanWest Global Communications Corp.
 
@@ -11,7 +11,7 @@ Date of original issue: January 1, 2004
 CanWest Global Communications Corp. and its subsidiaries (each, a "CanWest Company") are committed to controlling the collection, use and disclosure of the personal information provided by its customers. This Privacy Statement is a simplified version of the CanWest Privacy Policy adopted by each of the CanWest Companies to ensure the accuracy, confidentiality and integrity of your personal information. The CanWest Privacy Policy is modeled after the Canadian Standards Association Model Code for the Protection of Personal Information and is compliant with federal and provincial privacy laws including the federal Personal Information Protection and Electronic Documents Act. A summary of the ten principles of fair information practices adopted in the CanWest Privacy Policy is included at the end of this Privacy Statement. A complete copy of the CanWest Privacy Policy is available on request by contacting your local Privacy Compliance Officer or on the CanWest website at [www.canwestglobal.com](http://www.canwestglobal.com/). 
 
 **A SINGLE POLICY**  
-Any time you do business with a CanWest Company, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest Privacy Policy. [ Click here](https://web.archive.org/web/20070617011727id_/http%3A//www.canwestglobal.com/pdf/PrivacyPolicy-FINAL.pdf) to download the full CanWest Privacy Policy in pdf format. 
+Any time you do business with a CanWest Company, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest Privacy Policy. [ Click here](https://web.archive.org/web/20071126113112id_/http%3A//www.canwestglobal.com/pdf/PrivacyPolicy-FINAL.pdf) to download the full CanWest Privacy Policy in pdf format. 
 
 **WHAT IS PERSONAL INFORMATION?**  
 "Personal information" is personally identifiable information such as your name, residential address and e-mail address and includes information about your product and service subscriptions and usage, credit information and billing records, service and recorded complaints. 
