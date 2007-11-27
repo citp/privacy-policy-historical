@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623054516id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127123318id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -20,7 +20,7 @@ We also ask for your telephone number, which enables us to contact you urgently 
 
 When you book an experience, we need you know your name, address, email address, answers to any questions required by our experience partners, and a telephone number (preferably mobile) so that we can contact you if there are any last-minute changes to your experience. If you provide us with a mobile phone number, we will send you an SMS reminder the day before you are due to take part in your experience. 
 
-Throughout each of these processes, when you login to or create an account, you are able to choose whether you wish to receive further information from us, the method by which you would like to receive it (email, post, telephone and/or SMS) and who you would like to receive it from (Red Letter Days and/or trusted third parties). 
+Throughout each of these processes, when you login to or create an account, you are able to choose whether you wish to receive further information from us and the method by which you would like to receive it (email, post, telephone and/or SMS). 
 
 ### How does Red Letter Days protect customer information?
 
