@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518123554id_/http%3A//www.flixster.com/userAuth.do%3Fprivacy%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixster.com privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127141346id_/http%3A//www.flixster.com/userAuth.do%3Fprivacy%3D) for the most accurate reproduction.*
 
 # Flixster
 
