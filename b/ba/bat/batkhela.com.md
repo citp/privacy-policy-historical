@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batkhela.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613004802id_/http%3A//www.batkhela.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batkhela.com privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127103038id_/http%3A//www.batkhela.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Batkhela.com
 
