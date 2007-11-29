@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608003507id_/http%3A//www.business.gov/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130001045id_/http%3A//www.business.gov/policies/privacy) for the most accurate reproduction.*
 
 # Business.gov - Privacy Policy
 
