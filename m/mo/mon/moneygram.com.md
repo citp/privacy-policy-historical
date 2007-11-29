@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneygram.com privacy policy that was archived on 2007-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070511003730id_/http%3A//www.moneygram.com/MGICorp/Legal/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneygram.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129135316id_/http%3A//www.moneygram.com/MGICorp/Legal/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # MoneyGram Corporate - Privacy Policy
 
