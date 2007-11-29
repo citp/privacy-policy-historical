@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117121845id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129161430id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
 
 # Welcome to Waterstones.com
 
