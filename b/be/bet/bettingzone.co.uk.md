@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112071206id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129144558id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
 
-# Sporting Life | Barclays Premiership Live, Arsenal v Liverpool, Reading v Tottenham, New South Wales v England, HSBC Champions Leaderboard in Shanghai, The Ashes, Australia v England, Live Scores, Live racing results, football transfers, live cricket scorecards, Football, Cricket, Racing, Rugby Union, Rugby League, Sports News, Live Scores & Results
+# Sporting Life - Sports News | Football Transfer News, UEFA Cup Scores, Live Cricket Scores, Racing Results. Nedbank Challenge Live,
 
   
-**TEAMtalk Media Group Network Privacy Policy:**
+**Sporting Life Privacy Policy**
 
-TEAMtalk Media Group Network Privacy Policy: ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Group Limited, Rivals Digital Media and sites within the company's TEAMtalk Media Group Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
+Part of 365 Media Group, we at Sporting Life (Sporting Life UK Limited) strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
 
 **Why We Need to Know About You**  
 We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences. 
@@ -52,6 +52,6 @@ We collect non-personal information and data through the standard operation of o
 **Links to Other Sites**  
 Our network of sites contains links to other sites outside of our group of sites. We are not responsible for the content or privacy practices or the content of such websites. 
 
-Thank you for reading our privacy policy and thank you for choosing our network of sites as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this policy, you can contact Customer Service at Customer Services, sportinglife.com, Apsley House, 78 Wellington Street, Leeds, LS1 2EQ, United Kingdom or e-mail us on [customerservicesteam@sportinglife.com](mailto:customerservicesteam@sportinglife.com). 
+Thank you for reading our privacy policy and thank you for choosing our network of sites as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this policy, you can contact Customer Service at Sporting Life Customer Services, 365 Media Group, Apsley House, 78 Wellington Street, Leeds, LS1 2EQ, United Kingdom or e-mail us on [customerservicesteam@sportinglife.com](mailto:customerservicesteam@sportinglife.com). 
 
-The foregoing policies are effective as of 24 June 2004. ukbetting plc reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+The foregoing policies are effective as of 06 November 2007. We reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
