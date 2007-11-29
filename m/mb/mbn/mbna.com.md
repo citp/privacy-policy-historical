@@ -1,180 +1,129 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230035312id_/http%3A//www.mbna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do%3Fbody%3Doverview) for the most accurate reproduction.*
 
-# MBNA.com - Privacy
+# Privacy & Security: Features and Policies from Bank of America Policies from Bank of America
 
-The privacy portion of our Web site is divided into two parts. The first part contains MBNA's privacy notice complying with the Gramm-Leach-Bliley Act and federal regulations governing the privacy of financial information applicable to individual consumers. The second part contains a description of our Internet privacy practices applicable to all Internet users.
+  
 
-**Important Information About Your Financial Privacy**  
-MBNA is the world's largest independent credit card issuer. Our financial products and services are endorsed by thousands of organizations and financial institutions. We back our financial products and services with top quality service. Collecting and sharing information about you helps us do this. This notice explains MBNA's information collection and sharing practices and lets you choose whether MBNA may share certain information about you.
 
-This notice describes the privacy practices of MBNA Corporation and all its affiliates, including:
+## Set your privacy preferences
 
-  * MBNA America Bank, N.A.
-  * MBNA America (Delaware), N.A.
-  * MBNA Technology, Inc.
-  * MBNA Marketing Systems, Inc.
-  * MBNA Insurance Agency, Inc.
+You may choose to opt out of any or all of the following: 
 
+  * Bank of America marketing offers
+  * Sharing your information among Bank of America companies
+  * Sharing your information with third parties
 
 
-(We'll refer to these collectively as "MBNA"), for financial products and services governed by the laws of the United States of America.
 
-**Our Security Procedures Protect Your Information**
+[Set your preferences](http://www.bankofamerica.com/privacy/index.cfm?template=privacysecur_set_privacy_pref "Set your preferences")
 
-We work hard to keep information secure. For example, our information security policies:
+  
 
-  * Govern retention of sensitive information;
-  * Restrict access to information systems; and
-  * Specify password requirements.
 
+[Bank of America privacy policy for consumers](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_cnsmr)  
+Keeping your financial information secure is one of our most important responsibilities 
 
+[Bank of America online practices privacy policies](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_onlin)  
+Read about how we manage the privacy and security of your personal and account information online. 
 
-Our practices and procedures meet federal standards. Further, we share only the information we believe is needed to offer a product or service efficiently. Finally, we restrict the use of such information and require that it be kept secure.
+### Summary of the Online Practices Privacy Policy
 
-**Information We Collect to Conduct Our Business**
+The Online Practices Privacy Policy explains how we may collect information from you online when you visit a Bank of America Web site. 
 
-We collect information about you to conduct our business and deliver the top quality service you expect. Sources include:
+The Online Practices Privacy Policy, effective as of July 1, 2006, is for general guidance and subject to change. Please review periodically. 
 
-  * Information we receive from you.
-  * Information we receive from third parties, such as consumer reporting agencies, to verify statements you've made to us, or regarding your employment, credit, or other relationships.
-  * Information about your transactions with MBNA and with other companies.
+Customer information means personally identifiable information about a consumer or a consumer's current or former customer relationship with Bank of America. 
 
+You can browse our sites anonymously by choosing not to provide us with any personally identifiable information, such as your name or e-mail address, during your visits to our sites. When you browse this way, we won't be able to link your online activity with the accounts you have with us. 
 
+Browsing anonymously after you've identified yourself involves setting your browser to disable cookies and similar files or by deleting the cookies and similar files that you have accepted from us. To do this, you'll need to follow your browser's instructions for disabling cookies or deleting cookies. Please note that the use of certain online products, such as Online Banking, do require the acceptance of cookies or similar files. 
 
-**Information Shared Within MBNA**
+### Cookies and Similar Files
 
-We may share all the information we collect within MBNA. For example, we may share:
+In all cases, cookies and similar files that we place on your computer do not contain any personal information unless encrypted, and we never use cookies or other files to track your use of other web sites. We may place cookies or similar files on your hard drive for security purposes, to facilitate site navigation, and to personalize your experience while visiting our site. Our cookies do not identify you as an individual or by account number.
 
-  * Identification information (such as name and address);
-  * Transaction and experience information (such as purchases and payments);
-  * Credit eligibility information (such as credit reports); and
-  * Other information.
+If you do not accept these cookies or similar files, you may experience some inconvenience in your use of some online products. For example, for Online Banking we will not be able to recognize your computer and you will need to answer a challenge question each time you log on.
 
+Cookies are pieces of information stored directly on the computer you are using. Bank of America uses cookies in two ways: 
 
+  * Web Browsing Cookies. Cookies used for Web Browsing can contain a variety of information, such as a simple count of how often you visit a Web site or information that allows customization of a Web site for your use. Bank of America uses cookies to display information more effectively to you and to gather data about the usage of our Web site.  
+Cookies allow us to collect technical and navigational information such as browser type, time spent on our site, and the pages visited. They do not contain or capture customer specific data. We may also use cookies in online advertising to track consumer responses to advertisement. This provides us the capability to monitor the use of our site so we can continually improve the design and functionality to better serve you.  
 
-You may tell us not to share credit eligibility information about you within MBNA, as explained below in the section captioned, _" **Information Sharing: It's Your Choice.** "_ Your choice will not affect the sharing of identification and transaction and experience information.
+  * Online Banking. Bank of America uses cookies during your Online Banking Session. For example, to identify the state you are banking in so that we do not ask you to enter your state information more than once. Cookies are also used for security purposes in conjunction with our SiteKey service to recognize your computer. Any time a cookie is used, personal information is encrypted and used solely to support your Online Banking activity.  
 
-**Information Shared Outside of MBNA**
+  * Similar Files. Some web sites use technologies similar to cookies to store information. For example, Bank of America also uses files called Flash Objects in connection with Online Banking. This is used to help assure security as part of our SiteKey service. As with cookies, we never store personal information unless encrypted, and we never use to track your use of other web sites.
 
-We may share all the information we collect with the following types of companies outside of MBNA: 
 
-  * Financial service companies (like banks, insurance companies, securities broker-dealers, and organizations with which we have joint marketing agreements);
-  * Non-financial companies (like retailers, direct marketers, communications companies, travel companies, and organizations endorsing MBNA);
-  * Companies performing marketing or other services for us (like data processing or direct mail services); and
-  * Other companies (like nonprofit organizations).
 
+When you visit our website, we may collect the following information in order to service your accounts, save you time and money, and better respond to your needs: 
 
+  * Application information. Information that you provide to us online in applications and other forms. Examples include your assets, income and debt.
+  * Identification Information. Information that identifies you such as name, address, telephone number and Social Security number.
+  * Transaction and experience information. Information about your online transactions and account experience, as well as information about our online communications with you. Examples include your online bill payments and your activity on the website, such as collecting information on product information reviewed.
 
-We may also share all of the information we collect with companies outside of MBNA as permitted by law.
 
-You may tell us not to share information about you with companies outside of MBNA, as explained below in the section captioned, _" **Information Sharing: It's Your Choice.** "_ Your choice will not affect sharing with:
 
-  * Companies performing marketing or other services for us;
-  * Other financial institutions under joint marketing agreements;
-  * Government entities in response to subpoenas or regulatory requirements;
-  * Consumer reporting agencies; and
-  * As otherwise permitted by law.
+### How we may share information
 
+Bank of America may share Customer Information we collect from you online with our family of companies and with companies that work for us. All nonaffiliated companies that act on our behalf and receive Customer Information from us are contractually obligated to keep the information we provide to them confidential and to use the Customer Information we share only to provide the services we ask them to perform. These companies may include financial service providers such as payment processing companies, and nonfinancial companies such as check printing and data processing companies. 
 
+We also may disclose Customer Information we collect about you online to credit bureaus and similar organizations and when required or permitted by law. For example, Customer Information may be disclosed in connection with a subpoena or similar legal process, fraud prevention or investigation, risk management and security, and the recording of deeds of trust and mortgages in public records.
 
-**Information Sharing: It's Your Choice**
+Customer Information may also be disclosed to companies that process your requests for products or services or in connection with the sale of your account to another financial institution. We also may share Customer Information outside Bank of America companies when we have your consent, such as when you request a specific insurance rate quote from a third party insurer. 
 
-We respect your choices related to privacy. You may tell us not to share credit eligibility information within MBNA and not to share information with companies outside of MBNA as described above. **If you wish to opt out of such information sharing, please call our toll-free automated response line at 1-866-751-1255.** We will ask you to verify your identity and the specific accounts to which your opt out applies. Please have your account or reference numbers available when you call. For deposit accounts, please have your Social Security number or Taxpayer Identification number available when you call.
+For customers with credit cards and Sponsored Accounts we may share Identification Information, Transaction and Experience Information, as well as Other General Information we collect about each of your Bank of America or MBNA credit card accounts and Sponsored Accounts, with selected third parties. Examples of these organizations include colleges, sporting teams, retailers and other affinity organizations such as charities.
 
-MBNA applies opt outs at the account level, not by individual Customer. When any person listed on an account opts out, we opt out the entire account. This includes co-applicants, joint account holders, and authorized users. MBNA follows these privacy practices if an account is closed or becomes inactive.
+For more information on how Bank of America shares your information, please refer to the Bank of America [Privacy Policy for Consumers](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_cnsmr). 
 
-Your opt out remains effective until revoked in writing. Federal law requires us to provide this notice on an annual basis, whether or not you previously opted out. **Please remember that if you previously opted out an account you do not need to opt out that account again.**
+### Making sure information is accurate
 
-**Important Information for Vermont Customers**
+Keeping your account information accurate and up to date is very important. If your account information is incomplete, inaccurate or not current, please call or write to us at the telephone number or appropriate address for such changes listed on your account statement, bank records or other account materials.
 
-The information sharing practices described above are in accordance with Federal law. Vermont law places additional limits on sharing information about Vermont residents so long as they remain residents of Vermont. In accordance with Vermont law, MBNA will not share information we collect about Vermont residents to companies outside of MBNA except:
+### Changes to the Online Practices Privacy Policy
 
-  * As permitted by law;
-  * To companies that perform marketing or other services on our behalf;
-  * Name, contact and transaction and experience information (such as your account balance and payment history) to other financial institutions with which we have joint marketing agreements; or
-  * With the authorization or consent of the Vermont resident.
+If we make changes to the Online Practices Privacy Policy or make any material changes to our online services, we will revise the Online Practices Privacy Policy to reflect such changes and revise the policy's effective date.
 
+[View the full Online Practices Privacy Policy.](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_onlin)
 
+  
+|  |  |  | 
 
-MBNA will not share credit eligibility information about Vermont residents within MBNA except with the authorization or consent of the Vermont resident.
+## Fraud Prevention Tips
 
-**Updates and Additional Information**
+Skip Fraud Prevention Tips Module
 
-This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to http://www.mbna.com/privacy.html. You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
+|   
+---|---|---  
+|  |   
+| 
 
-**Tips to Protect Your Information**
+  * Question suspicious emails. We will never send you an email asking for your online ID or passcode. 
 
-MBNA works hard to keep your information secure. You can help by following these tips to protect your information:
 
-  * Store personal information in a safe place and tear up or shred old receipts and account statements before throwing them away.
-  * Protect your PINs and other passwords. Do not share them with anyone unless it's for a service or transaction you request and you are confident the other party will protect the information as you would.
-  * Carry only the minimum amount of identifying information you require.
-  * Pay attention to billing cycles and statements. Inquire if you do not receive a bill.
-  * Check account statements carefully to ensure all charges, checks, or withdrawals are authorized.
-  * Guard your mail from theft. Do not leave bill payment envelopes in your mailbox with the flag up. Instead, deposit them in a post office collection box or at the local post office. Promptly remove incoming mail.
-  * Order copies of your credit report from each of the three major credit bureaus once a year to ensure they are accurate.
-  * If you believe you are a victim of identity theft take immediate action and keep records of your conversations and correspondence. While the steps you must take will vary with your individual circumstances, four basic actions are appropriate in almost every case:
-    * Contact the fraud departments of each of the three major credit bureaus:
-      * Equifax(www.equifax.com): 1-888-766-0008 / P.O. Box 740241, Atlanta, GA 30374-0241
-      * Experian(www.experian.com): 1-888-397-3742 /P.O. Box 9532, Allen, Texas 75013
-      * Trans Union(www.transunion.com): 1-800-680-7289 / P.O. Box 6790, Fullerton, CA 92834
-    * Contact the creditors for any accounts that have been tampered with or opened fraudulently.
-    * File a report with your local police or the police in the community where the identity theft took place and get a copy of the police report.
-    * File a complaint with the FTC. Complaints can be filed by phone 1-877-IDTHEFT or through the FTC's identity theft Web site at www.consumer.gov/idtheft.
-  * For more tips from Your Credit Card Companies to help protect you from theft and fraud, call 1-800-337-0590 or go to www.yourcreditcardcompanies.com.
 
+[More](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_tips "Go to more fraud prevention tips")
 
+|   
+  
+| 
 
-Although many consumers appreciate the convenience and customer service of direct marketing:
+## Report Fraud
 
-  * If you prefer not to receive pre-approved offers of credit, you can opt out of such offers by calling 1-888-5-OPT OUT.
-  * If you want to remove your name from many national direct mail lists, send your name and address to: 
+Skip Report Fraud Module
 
-DMA Mail Preference Service  
-P.O. Box 643  
-Carmel, NY 10512
+|   
+---|---|---  
+|  |   
+| 
 
+  * [Report a suspicious email ](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_unauthorised_acc_use#email "Report a suspicious email")
+  * [Suspect you are a victim of fraud? ](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_unauthorised_acc_use#suspect_victim_fraud "Here are the steps to take if you suspect that you are a victim of fraud")
+  * [Lost or stolen ATM card or Check Card ](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_unauthorised_acc_use#lost_atm_card "Lost or stolen ATM card or Check Card")
+  * [Lost or stolen credit card ](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_unauthorised_acc_use#lost_credit_card "Lost or stolen credit card")
+  * [Lost or stolen checkbook ](https://web.archive.org/web/20071129141554id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_unauthorised_acc_use#lost_stolen_chkbk "Lost or stolen checkbook")
 
 
-  * If you want to reduce the number of telephone solicitations from many national marketers, send your name, address and telephone number to: 
 
-DMA Telephone Preference Service  
-P.O. Box 1559  
-Carmel, NY 10512
+|   
+  
 
-
-
-
-**Internet Privacy Practices**
-
-**Web Site Privacy**
-
-The MBNA Web servers automatically recognize and record the domain name from which you access the Internet and the names of the pages you visit while at an MBNA Web site. The MBNA Web servers do not automatically extract or store your electronic mail address (See E-Mail Addresses below). The information automatically recognized and recorded is not personally identifiable and is used to improve the content of MBNA Web sites and make them more useful.
-
-**E-mail Addresses**
-
-If you supply us with your e-mail address, we may let you know by e-mail about special marketing offers for products and services that may be of interest to you. This may include, but is not limited to, rates available for cash and balance transfers, online services, deposit products, travel offers, business cards and mortgages. When we collect your e-mail address, and with each special marketing offer e-mail message we send, we will provide you with the opportunity to tell us that you do not wish to receive special marketing offer messages from us in the future. However, MBNA reserves the right to service your account and communicate with you through e-mail about your account to the extent permitted by law. This may include, but is not limited to, activating your accounts, account past due notices, adding an authorized user, and the online banking service. If you updated your Net Access profile to opt-out of e-mail marketing offers, it may take up to 45 days to process your request.
-
-**Internet Security**
-
-MBNA uses encryption technology to protect certain information sent over the Internet. SSL is an encryption technology known as "Secure Sockets Layer". SSL encrypts transmissions between two parties and verifies the Web site server you are communicating with. An "s" after the "http" in a Web site's address indicates that you are attached to a secure server using SSL technology. Additionally, if your browser is Microsoft Internet Explorer 3.0, Netscape Navigator 4.0, or a higher version of either, a picture of a lock or a key should appear in the lower right hand corner of the browser's window.
-
-**Use of Cookies**
-
-Some MBNA Web sites may use a feature of your Internet browser called a cookie. Cookies are files placed within your browser on your computer's hard drive by a Web site server. MBNA Web sites may use cookies to facilitate your Internet sessions, to maintain security and to improve our Web sites. For example, MBNA uses cookies to verify your identity, remember your personal settings such as your offer preferences, and to monitor your use of MBNA Web sites to improve our services. If you choose not to enable cookies on your browser, you will not be able to use some of the services offered on MBNA's Web sites.
-
-**Advertising Services**
-
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here](https://web.archive.org/web/20051230035312id_/http%3A//www.mbna.com/advertising_services.html).
-
-MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
-
-**Children**
-
-MBNA Web sites are not directed to children under age 13, and MBNA does not knowingly collect personal information from children under age 13.
-
-**To Further Protect Your Privacy**
-
-While exploring the services offered through MBNA's Web sites, please be aware that other online retailers, partners, third party Internet sites, and third party services accessible through MBNA's Web sites, have separate privacy and data collection policies and practices, which are independent of and may be different from MBNA's policies and practices. MBNA is not responsible or liable for these independent policies and practices and it is your responsibility to review them and decide whether or not they satisfactorily protect your rights.
-
-These Internet Privacy Practices were last updated August 22, 2005 and update and replace any previous Internet Privacy Practices from MBNA. We may amend these Internet Privacy Practices at any time, and when such a change is made we will post a revised version on this MBNA Web site. Changes will be effective when they are posted. It is your responsibility to review these Internet Privacy Practices from time to time to be aware of any such changes. Your continued use of this MBNA Web site indicates your agreement to any such changes.
