@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605205859id_/http%3A//www.clickpromise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpromise.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129195052id_/http%3A//www.clickpromise.com/privacy.asp) for the most accurate reproduction.*
 
 # Click Promise - Privacy Policy
 
