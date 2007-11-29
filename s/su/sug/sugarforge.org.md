@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429025029id_/http%3A//www.sugarcrm.com/crm/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129162607id_/http%3A//www.sugarcrm.com/crm/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SugarCRM
 
