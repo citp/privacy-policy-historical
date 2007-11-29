@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perl.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510091912id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perl.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129202703id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# O'Reilly Network -- Privacy Policy
+# WindowsDevCenter.com -- Privacy Policy
 
   
 
