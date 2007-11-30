@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609013101id_/http%3A//www.axa-equitable.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130074845id_/http%3A//www.axa-equitable.com/footer/privacy.html) for the most accurate reproduction.*
 
 # AXA Equitable - Privacy Policy
-
-AXA Equitable - Privacy Policy
 
 We at AXA Equitable strongly believe in protecting the confidentiality and security of the personal information we collect.
 
