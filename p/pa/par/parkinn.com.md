@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609224645id_/http%3A//www.parkinn.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130062132id_/http%3A//www.parkinn.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
-# Privacy Promise
+# Guest Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.parkinn.com&sealid=102) **Carlson Hotels Worldwide Privacy Promise**[Carlson Hotels Worldwide](http://carlsonmedia.tekgroup.com/index.cfm?instance_code=chw) believes in protecting your privacy. When we collect personal information from you -- whether online, over the phone or in person -- we follow the privacy principles of TRUSTe and the countries in which we do business. Carlson Hotels Worldwide also complies with the EU Safe Harbor framework administered by the Department of Commerce. These are our ten promises to you:
+**Carlson Hotels Worldwide Guest Privacy Policy** Effective October 28, 2007 Carlson Hotels Worldwide guest privacy policy will be updated: [view the updated policy](http://www.parkinn.com/sectiontemplate.do?sidemenu=privacy.sidemenus&section=privacy.faq#NEW).
+
+Last updated: June 2007
+
+[](http://www.truste.org/ivalidate.php?url=www.parkinn.com&sealid=102) **Carlson Hotels Worldwide Privacy Promise  
+**[Carlson Hotels Worldwide](http://carlsonmedia.tekgroup.com/index.cfm?instance_code=chw) believes in protecting your privacy. When we collect personal information from you -- whether online, over the phone or in person -- we follow the privacy principles of TRUSTe and the countries in which we do business. Carlson Hotels Worldwide also complies with the EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union.
+
+These are our ten promises to you:
 
   1. **Notice.** Where we ask for your personal information, we'll tell you why we need your information, what we'll do with it and what options are available to you. 
   2. **Relevance.** We will require you to provide only those pieces of information that we need to perform the particular service you seek from us. 
@@ -24,7 +31,7 @@ To access your information, ask questions about our privacy practices, change yo
 > 11340 Blondo St.  
 > Omaha, NE 68164
 > 
-> In the U.S. & Canada call toll free at 1-888-201-1801.
+> In the U.S. & Canada call toll free at 1-888-201-1802.
 > 
 > Email - [privacy@parkinns.com](mailto:privacy@parkinns.com?subject=Privacy).
 
