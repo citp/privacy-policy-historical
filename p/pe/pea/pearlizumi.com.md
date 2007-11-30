@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514110111id_/http%3A//www.pearlizumi.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201005656id_/http%3A//www.pearlizumi.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Pearl Izumi
 
