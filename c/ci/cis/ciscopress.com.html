@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the ciscopress.com privacy policy that was archived on 2005-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050205182756id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciscopress.com privacy policy that was archived on 2007-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071130053348id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org.1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Privacy Policy</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        
+			<meta name="modified_dt" content="">
+		
+        
+			
 	    <script language="JavaScript" src="/display/common/javascript/global.js" type="text/JavaScript"></script>
-		<link href="/display/ciscopress/css/ciscopress.css" rel="stylesheet" type="text/css">
+		<link href="/display/ciscopress/css/ciscopress_2005-04-29.css" rel="stylesheet" type="text/css">
       </head>
-      <body>
-<div id="network" xmlns=""><form method="post" action=""><a href="/about/network.asp"><img class="networkicon" src="/display/common/images/network/informit_network_white_1022.gif" alt="Informit Network" border="0"></a><select name="selectnetwork" id="selectnetwork" onchange="jumpMenu('parent',this,0)"><option value="" selected="selected">Other Network Sites</option><option value="http://www.adobepress.com">Adobe Press</option><option value="http://www.awprofessional.com">Addison-Wesley Professional</option><option value="http://www.bradygames.com">BradyGames</option><option value="http://www.ciscopress.com">Cisco Press</option><option value="http://www.examcram2.com">Exam Cram 2</option><option value="http://www.fairshakepress.com">Fair Shake Press</option><option value="http://www.informit.com">Informit</option><option value="http://www.peachpit.com">Peachpit Press</option><option value="http://www.pearsoncorporatesales.com">Pearson Corporate Store</option><option value="http://www.phptr.com">Prentice Hall PTR</option><option value="http://www.quepublishing.com">Que Publishing</option><option value="http://www.samspublishing.com">Sams Publishing</option><option value="http://www.whartonsp.com">Wharton School Publishing</option></select></form></div>   
+<body onload="MM_preloadImages('/display/common/images/buttons/toggle_open.gif','/display/common/images/buttons/toggle_closed.gif')">
+<div id="network" xmlns=""><form method="post" action=""><a href="http://www.ciscopress.com/about/network.asp"><img class="networkicon" src="/display/common/images/network/informit_network_white.png" alt="Informit Network" border="0"></a><select name="selectnetwork" id="selectnetwork" onchange="jumpMenu('parent',this,0)"><option value="" selected="selected">Other Network Sites</option><option value="http://www.adobepress.com">Adobe Press</option><option value="http://www.ciscopress.com">Cisco Press</option><option value="http://www.examcram.com">Exam Cram</option><option value="http://www.ftpress.com">FT Press</option><option value="http://www.ibmpressbooks.com">IBM Press</option><option value="http://www.informit.com">InformIT</option><option value="http://www.peachpit.com">Peachpit</option><option value="http://www.pearsoncorporatesales.com">Pearson Corporate Store</option><option value="http://www.whartonsp.com">Wharton School Publishing</option></select></form></div>   
 <div id="header">
 	<div id="containerWide">
 		<div class="containerCenter">
@@ -17,20 +22,25 @@
 			<a href="/index.asp"><img src="/display/ciscopress/images/logos/header_logo.gif" alt="Cisco Press" width="158" height="20" border="0"></a>
 			</div>
 			<div id="simpleSearch">
-				<form method="get" action="/search/index.asp">
-					<a id="advancedSearch" href="/search/advanced_search.asp">Advanced Search</a> | <a id="searchHelp" href="/search/help.asp">Search Help</a> 
+				<form name="searchform" id="search" method="POST" action="/search/search.asp">
 					<label for="searchstring">Search for:</label>
-					<input id="searchstring" type="text" name="searchstring">
-						
-							<input id="searchgroup" type="hidden" name="searchgroup" value="Entire Site">
-							<select id="searchtype" name="searchtype">
-								<option value="Title">Title</option>
-								<option value="Author">Author</option>
-								<option value="Keywords" selected="selected">Keywords</option>
-								<option value="ISBN">ISBN</option>
-							</select>
-						
-					<input id="button" name="imageField" type="image" src="/display/ciscopress/images/topnav/simplesearch/search.gif">
+					<input onfocus="showHideLayers('searchOptions','','show');checkClear(this,'Search');" id="searchstring" class="text" type="text" name="query" value="Search">
+					<input type="hidden" name="size" value="10">
+					<input type="hidden" name="docstart" value="1">
+					<input id="searchbutton" name="imageField" type="image" src="/display/ciscopress/images/topnav/simplesearch/search.gif">
+					<div id="searchOptions">
+					<select id="searchtype" name="filter">
+						<option value="" selected="selected">Entire Site</option>
+						<option value="url <contains> '*authors*'">Authors</option>
+						<option value="url <contains> '*articles*'">Chapters &amp; Articles</option>
+						<option value="url <contains> '*events*'">Events</option>
+						<option value="url <contains> '*sales*' <or> url <contains> '*market*'">Other Site Content</option>
+						<option value="url <contains> '*press_release*'">Press Releases</option>
+						<option value="url <contains> '*product*'">Products</option>
+						<option value="url <contains> '*promotions*'">Promotions</option>
+					</select>
+					<p><a href="/search/advanced.asp">Advanced Search</a> | <a href="/search/help.asp">Help</a> <a href="javascript:showHideLayers('searchOptions','','hide')" id="close"><img src="/display/ciscopress/images/topnav/simplesearch/search_close.gif" alt="Close"></a></p>
+					</div>
 	   			</form>
 			</div>
 		</div>
@@ -42,10 +52,10 @@
 				<div id="helloObject">
 					<p>
 	 			
-    				&gt; <a href="/my_account/login.asp">Log In</a> 
+    				&gt; <a href="https://memberservices.informit.com/my_account/login.asp?partner=7">Log In</a> 
     			
-    				&gt; <a href="/my_account/index.asp">My Account</a> 
-    				&gt; <a href="/buy.asp">View Cart</a> 
+    				&gt; <a href="https://memberservices.informit.com/my_account/index.asp?partner=7">My Account</a> 
+    				&gt; <a href="https://memberservices.informit.com/buy.asp?partner=7">View Cart</a> 
    					</p>
 				</div>
 				<div id="navList">
@@ -208,15 +218,30 @@
 			 <a href="http://www.phptr.com">PHPTR</a><br> <a href="http://www.quepublishing.com">Que</a> <a href="http://www.samspublishing.com">Sams</a> <a href="http://www.whartonschoolpublishing.com">Wharton School Publishing</a></p>
 		</div>
 	</div>
-	<p class="copyright">© 2005 Pearson Education, Cisco Press. All rights reserved.</p>
+	<p class="copyright">© 2007 Pearson Education, Cisco Press. All rights reserved.</p>
 	<p class="address">800 East 96th Street, Indianapolis, Indiana 46240</p>
-	<p><a href="/about/network.asp"><img class="networkicon" src="/display/common/images/network/informit_network_134x25_white.gif" alt="Informit Network" width="134" height="25" border="0"></a></p>
+	<p><a href="/about/network.asp"><img class="networkicon" src="/display/common/images/network/informit_network_134x25_white.png" alt="Informit Network" width="134" height="25" border="0"></a></p>
+	
+	
+		<script language="JavaScript" src="/display/common/javascript/insight_xe.js" type="text/JavaScript"></script>
+		<script language="JavaScript" src="http://a248.e.akamai.net/7/836/1132/102403/ipro.247realmedia.com/scripts/ipro_if.js"></script> 
+		
+	
 	
 	        
 	
 </div>
 
 </div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-433761-4";
+urchinTracker();
+</script>
+
       
     	
 	
