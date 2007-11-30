@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204085057id_/http%3A//www.collectorz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130084210id_/http%3A//www.collectorz.com/privacy.php) for the most accurate reproduction.*
 
 # Collectorz.com Privacy Policy
 
-|  The Collectorz.com privacy policy is simple: we do not sell, rent or give your personal information to any third party. 
+The Collectorz.com privacy policy is simple: we do not sell, rent or give your personal information to any third party. 
 
 #### Order Information
 
@@ -14,7 +14,7 @@ Collectorz.com does not sell or use your private information (name, address, pho
 #### Newsletter
 
 If you subscribe to our newsletter, your email address will be used only to send you Collectorz.com newsletters and not for any other purpose. We do not sell, rent or give email addresses of newsletter subscribers to third parties.  
-Licensed users of our products are subscribed automatically ("opt-out").  
+At the time of purchase, you can indicate if you wish to receive newsletters ("opt-in").  
 If you are subscribed to our newsletter, you can unsubscribe at any time by selecting the Newsletter section from the menu of the relevant product section of this website. 
 
 #### Web Site
@@ -23,4 +23,4 @@ The website uses cookies to personalize the displayed content and to measure the
 
 #### License validation
 
-To unlock a Collectorz.com product, the purchased license name and key are validated on our website. The data sent from the user's computer contains the product name, license name and key, install data and current date.  | 
+To unlock a Collectorz.com product, the purchased license name and key are validated on our website. The data sent from the user's computer contains the product name, license name and key, install date and current date. 
