@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsscan.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsscan.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/privacy.html) for the most accurate reproduction.*
 
 # ALS Scan Privacy Policy
 
@@ -36,6 +36,6 @@
 > "JETBILL.COM" as the descriptor   
   
   
-**[Latest News](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/latestnews.html) | [Previews](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/originalcontent.html) | [JOIN](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/join.html) | [Members](http://www2.alsscan.com/members/member.html) | [Model Info](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/bios/modelall.html) | [Webmasters](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/webmasters.html) | [Email](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/email.html) | [FAQ](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/faq.html) | [Privacy](https://web.archive.org/web/20050626023925id_/http%3A//www.alsscan.com/privacy.html) | 2257  
+**[Previews](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/latestnews.html) | [Videos](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/mpegvideos.html) | [JOIN](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/join.html) | [Members](http://www2.alsscan.com/members/member.html) | [Model Info](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/bios/modelall.html) | [Webmasters](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/webmasters.html) | [Email](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/email.html) | [FAQ](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/faq.html) | [Privacy](https://web.archive.org/web/20071130030333id_/http%3A//www.alsscan.com/privacy.html) | 2257  
 **  
 
