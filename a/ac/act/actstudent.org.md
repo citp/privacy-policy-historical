@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actstudent.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630143043id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actstudent.org privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130110328id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
 # ACT: Privacy Policy
 
