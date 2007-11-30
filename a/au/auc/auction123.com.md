@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408135805id_/http%3A//www.auction123.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction123.com privacy policy that was archived on 2007-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071130181725id_/http%3A//www.auction123.com/privacy.aspx) for the most accurate reproduction.*
 
 # Auction123 - Privacy
 
