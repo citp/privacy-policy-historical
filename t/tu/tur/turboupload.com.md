@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turboupload.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623233930id_/http%3A//www.turboupload.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turboupload.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201181152id_/http%3A//www.turboupload.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Turbo Upload Privacy Policy
 
