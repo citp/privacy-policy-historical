@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623061954id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the like.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201152656id_/http%3A//www.like.com/privacy.py) for the most accurate reproduction.*
 
 # Like Visual Search - Find things by Appearance with our new Likeness technology
 
