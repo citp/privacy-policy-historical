@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629014542id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201131008id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
 
 # UpMyStreet - Privacy policy
 
@@ -33,7 +33,7 @@ By entering your details in the fields requested, you enable us to provide you w
 
 When you register with UpMyStreet, you will be able to log in and access house prices for England, Scotland and Wales on an ongoing basis. Data is updated monthly and our figures go back to April 2000.
 
-You will also receive advice for your property, and up-to-date information about your local and home services, from UpMyStreet and our parent company uSwitch. You can unsubscribe from these email communications at any time.
+You will also receive advice for your property, up-to-date information about your local and home services, and marketing material from UpMyStreet and our parent company uSwitch. You can unsubscribe from these email communications at any time.
 
 [About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp)
 
@@ -57,7 +57,7 @@ Back to top
 
 #### How do we use your personal information?
 
-UpMyStreet may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis.
+UpMyStreet may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration, marketing and analysis.
 
 We will not rent, trade or sell your data to others.
 
@@ -67,7 +67,7 @@ If you have opted to receive UpMyStreet and/or uSwitch communications, we will u
 
 If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
-We will respect your email privacy. You will not receive unsolicited mail from UpMyStreet and/or from third parties. We will, however, mail you occasionally with information about important changes to our service.
+We will respect your email privacy. We will, however, mail you occasionally with information about important changes to our service and a limited amount of marketing material.
 
 We monitor customer traffic patterns and site usage in order to help us develop the design and layout of the website.
 
