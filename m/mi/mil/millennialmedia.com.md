@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625173257id_/http%3A//www.millennialmedia.com/contact/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201112604id_/http%3A//www.millennialmedia.com/contact/policies.html) for the most accurate reproduction.*
 
 # Millennial Media - mobile advertising & media platform
 
@@ -24,4 +24,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information please [contact us](https://web.archive.org/web/20070625173257id_/http%3A//www.millennialmedia.com/contact/index.html). 
+For any other information please [contact us](https://web.archive.org/web/20071201112604id_/http%3A//www.millennialmedia.com/contact/index.html). 
