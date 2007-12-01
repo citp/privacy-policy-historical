@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429135814id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201154558id_/http%3A//infoedge.com/privacy.asp) for the most accurate reproduction.*
 
 # InfoEdge: Privacy Statement and Practices
 
