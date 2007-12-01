@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613044757id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201171836id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
 
 # Personal Loans with No Faxing - ThinkCash
 
