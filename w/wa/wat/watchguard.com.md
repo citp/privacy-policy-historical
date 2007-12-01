@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625065800id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201195109id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement | WatchGuard Technologies, Inc.
-
-[Terms of Use](https://web.archive.org/legal.asp)
-
-[](https://web.archive.org/about/privacy.asp)
-
-[Privacy Statement](https://web.archive.org/about/privacy.asp)
-
-[Export Compliance](https://web.archive.org/corporate/export_compliance.asp)
-
-[Environment Stewardship](https://web.archive.org/corporate/weee.asp)
-
-| 
+# Privacy Statement | WatchGuard
 
 This Privacy Statement discloses the privacy practices for the entire WatchGuard Technologies, Inc. Web site.
 
@@ -21,6 +9,7 @@ Because WatchGuard wants to demonstrate its commitment to your privacy, WatchGua
   * What information do we gather/track about you?
   * What do we do with that information?
   * With whom do we share this information?
+  * WatchGuard Email deliverability and performance tracking policy
   * WatchGuard's opt-out policy
   * WatchGuard's policy on correcting and updating personally identifiable information
   * WatchGuard's policy on deleting or deactivating your name from our database
@@ -42,8 +31,11 @@ The personal information collected on watchguard.com is used to deliver requeste
 **With whom do we share this information?**  
 Where we deem appropriate, contact information will be shared with WatchGuard Authorized Channel Partners to assist customers with their WatchGuard purchase decisions. Otherwise, information collected on this site is not distributed outside of WatchGuard. WatchGuard might also share information with parties with whom we contract to provide certain services such as broadcasting security alerts or updates. These contractors are also required to keep the information confidential and to not use it for any purpose other than to carry out the services they are performing for WatchGuard.
 
+**WatchGuard Email deliverability and performance tracking policy**  
+WatchGuard periodically sends email to recipients who have _"opted-in"_ to receiving email from us. WatchGuard uses various technologies to track deliverability and performance of those emails to ensure that they are reaching the recipients properly. When WatchGuard is troubleshooting an email deliverability problem with a specific recipient or group of recipients, deliverability and performance data for specific email addresses may be reviewed to assist in the troubleshooting process. Otherwise, the deliverability and performance data is analyzed in the aggregate.
+
 **WatchGuard third party opt-out policy**  
-If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20070625065800id_/http%3A//www.watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
+If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20071201195109id_/http%3A//www.watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
 
 **WatchGuard opt-out policy**  
 If you would like to opt-out of being contacted by WatchGuard, please contact [WatchGuard Customer Care](mailto:supportid@watchguard.com)
