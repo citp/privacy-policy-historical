@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526144720id_/http%3A//www.menupages.ie/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupages.ie privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134409id_/http%3A//www.menupages.ie/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,5 +45,8 @@ MenuPages.ie does not sell products for purchase by children. We sell children's
 If you choose to visit MenuPages.ie, your visit and any dispute over privacy is subject to this Privacy Notice and our Conditions of Use, including limitations on damages and application of the laws of Ireland. If you have any concern about privacy at MenuPages.ie, please e-mail us a thorough description and we will try to resolve the issue for you. 
 
 Our business changes constantly and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+Copyright © 2007 MenuPages Ltd. All rights reserved.  
+
 
 The Tooltip code used on this page is from [dyn-web.com](http://www.dyn-web.com/)
