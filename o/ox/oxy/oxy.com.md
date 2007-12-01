@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626012616id_/http%3A//www.oxy.com/LEGAL_STATEMENT/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201200530id_/http%3A//www.oxy.com/LEGAL_STATEMENT/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,7 +14,7 @@ At points throughout the site, Occidental allows its users to submit personal in
 
 **Access to Personal Data**
 
-Users who wish to review the personally identifiable information submitted on the Occidental site can do so by [contacting Occidental.](https://web.archive.org/web/20070626012616id_/http%3A//www.oxy.com/contactUs.htm)
+Users who wish to review the personally identifiable information submitted on the Occidental site can do so by [contacting Occidental.](https://web.archive.org/CONTACTUS/ContactUs.aspx)
 
 **Request for Opt Out or Modification**
 
