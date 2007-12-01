@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2007-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070115150015id_/http%3A//padtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201150903id_/http%3A//www.padtube.com/privacy.php) for the most accurate reproduction.*
 
-# Submission Policy - Free Software Download Site - PADTube.com
+# Privacy Statement » Free Software Downloads and Software Reviews » PADTube.com
 
+## Privacy Statement 
+
+  
 **Information Logged Automatically**  
 PADTube.com maintains web logs to help diagnose problems with our server and to administer our web site. This information is primarily used to track page traffic, search phrases used to find our site, and browsers or operating systems used so we can better serve our visitors. This information is not made public.
 
