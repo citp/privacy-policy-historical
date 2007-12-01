@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622042056id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201165151id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Upper Deck Company: Privacy Policy
 
@@ -70,10 +70,10 @@ Even after a parent has given consent for Upper Deck to collect personal informa
 Any questions or complaints about Upper Deck or this privacy statement can be addressed by contacting us at upperdeck.com. 
 
 Upper Deck (Europe BV)   
-Flevolaan 70   
-1382 JZ Weesp   
+Flevolaan 15   
+1382 JX Weesp   
 The Netherlands   
-Fax number: (011) 31 294 492 401 
+Fax number: (011) 31 294 461 601 
 
 The Upper Deck Company, LLC   
 5909 Sea Otter Place   
