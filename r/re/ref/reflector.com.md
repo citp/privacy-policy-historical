@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523085612id_/http%3A//www.reflector.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134138id_/http%3A//www.reflector.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to Reflector!
 
@@ -105,5 +105,3 @@ A final note: The Web is an evolving medium. If we need to change our privacy po
 Back to top
 
 * * *
-
-### Sponsored Links
