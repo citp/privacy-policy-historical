@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629034508id_/http%3A//www.kqed.org/help/website/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201110145id_/http%3A//www.kqed.org/help/website/privacy.jsp) for the most accurate reproduction.*
 
 # KQED | Got a Question? Privacy Policy
 
-|  **KQED (TV), KQED-FM, KQEI-FM, KTEH, and KCAH are services of Northern California Public Broadcasting, Inc. [NCPB]. The following Membership List Policy governs NCPB's use of all its stations' member information.**
+|  **The following Privacy Policy covers KQED, KQEI, KTEH, and KQET, all services of Northern California Public Broadcasting, Inc. (NCPB).**
 
 Nothing is more important to NCPB than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children’s personally identifiable information (such as your full name, address, email address, telephone number and/or other identifying information) and preserving the integrity of the medium.
 
