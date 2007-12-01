@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203002425id_/http%3A//www.timberland.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201071813id_/http%3A//www.timberland.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Timberland® Customer Service
 
+  
 |  | 
 
 **At timberland.com, your privacy is our priority.**
@@ -51,7 +52,7 @@ Now and then, we may also use third parties to help us collect and aggregate sit
 
 We may also share your personal information with carefully screened Timberland business partners to offer you products and services that we believe might interest you. But, only The Timberland Company, Timberland Retail, Inc., or other Timberland affiliates and business partners will send you these messages. In each case, our partners will not be authorized to discuss, disclose, or make any use of your personal information except for extending the offer to you. If you prefer not be included in these types of prospective offers, please contact us by e-mail to onlineservice@timberland.com to let us know. Please be sure to include your first and last name, street address, and email address in your request.
 
-If you apply for the Timberland MasterCard card online or select an alternative payment process (such as Google Checkout or Bill Me Later), you provide the personal and financial information needed to process your application or purchase directly to each provider. The companies that administer these programs are independent of Timberland and have their own privacy and security policies. We encourage you to learn more about their policies.
+If you select an alternative payment process (such as Google Checkout or Bill Me Later), you provide the personal and financial information needed to process your application or purchase directly to each provider. The companies that administer these programs are independent of Timberland and have their own privacy and security policies. We encourage you to learn more about their policies.
 
 We or our third party service providers may disclose specific individual information if we or they reasonably believe that it's necessary to comply with applicable laws or regulations or to protect the interests of The Timberland Company, Timberland Retail, Inc., Timberland business partners, affiliates or its guests, or the interests of our third party service providers.
 
@@ -89,4 +90,4 @@ Timberland and our trusted third-party providers use cookies and pixel tags to m
 By using our website, you're agreeing to let us collect and use your information as we describe in this Privacy & Security Policy. If we change our policies, we will post any changes on the website, so that you are always informed about what information we collect, how we use it and under what circumstances we disclose it.  
 
 
-last modified: June 2006
+last modified: June 2007
