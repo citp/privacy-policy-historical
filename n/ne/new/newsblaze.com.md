@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525211541id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201080738id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -52,7 +52,7 @@ Any communication which, in its sole discretion, the site deems to be a testimon
 
 **INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS **
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that cookies will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
 **INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS **
 
