@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043035id_/http%3A//www.susquehanna.net/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201212807id_/http%3A//www.susquehanna.net/misc/Privacy.aspx) for the most accurate reproduction.*
 
-# Susquehanna Privacy Information
+# Susquehanna > About Us > Privacy
 
-Susquehanna Bancshares, Inc., is a family of member companies and related financial businesses that includes:  **Susquehanna Bank,**  Hagerstown, MD;  **Susquehanna Bank PA** , Lititz, PA; and **Susquehanna Patriot Bank** , Marlton, NJ. This notice relates to these companies. 
+Susquehanna Bancshares, Inc., is a family of member companies and related financial businesses that includes:  **Susquehanna Bank,**  Hagerstown, MD;  **Susquehanna Bank PA** , Lititz, PA; and **Susquehanna Bank DV** , Marlton, NJ. This notice relates to these companies. 
 
 We believe that protecting the privacy and confidentiality of your personal information is very important. We value your business and the trust you have placed in us. 
 
@@ -10,6 +10,17 @@ In order to provide you with the level of service you deserve, we collect, maint
 
 Should you no longer be our customer, or if your accounts with us become inactive, we will continue to follow the policies and practices described in this notice.
 
+  * Information We Collect
+  * Information We Share
+  * Who Receives Information and Why
+  * Service Providers/Joint Marketing Partners
+  * Information Sharing Within Our Corporate Family
+  * Former Customers
+  * How We Protect Your Information
+  * Opt-Out Selection Form
+  * Internet Privacy Notice
+
+  
 **Information We Collect**  
 We collect, maintain, and use non-public personal information about our customers. Non-public personal information is taken from sources such as: 
 
@@ -51,7 +62,7 @@ All of the practices described in this notice apply to former customers as well.
 **How We Protect Your Information**   
 We have strict policies and procedures to safeguard your privacy. Some of these measures involve technology that is required to maintain data security. Some are more traditional and include such things as training employees about the importance of confidentiality and customer privacy and of limiting access to certain information on a need-to-know business basis. We review and update our practices as needed to maintain security.
 
-**Opt-Out Selection Form**   
+**pt-Out Selection Form**   
 You may instruct us not to share your Credit Report Information within our corporate family for marketing purposes. If you make this choice, then you must complete our opt-out form, print it and send it in a stamped envlope to:
 
 Susquehanna Bancshares, Inc.  
@@ -63,11 +74,11 @@ Lititz, PA 17543
 _If you already have notified us about your privacy choice, then you do not need to so again. Your previous notice to us will continued to be honored._
 
 Download [Opt-Out Selection Form](http://www.susquehanna.net/misc/optOut.pdf)  (Fill it out online, then print.)   
-If Adobe Reader is not installed on your PC, a free down load is available through Adobe's Web site.
+If Adobe Reader is not installed on your PC, a free download is available through Adobe's Web site.
 
 [](http://www.adobe.com/products/acrobat/readstep2.html)
 
-**Internet Privacy Notice**   
+**Privacy Notice**   
 Susquehanna respects the privacy of its online banking customers and is committed to protecting their information on our Web site. Whether you are a current customer or just visiting online, we safeguard the information you provide to us. We only collect non-identifying information about our visitors such as date and time our site was accessed, what pages were visited, what servers were used, and the city, state and country of the visitor as identified by the server address. Susquehanna collects this information to create summary statistics and determine the level of interest in our information made available on our Web site that helps us to establish products and services to best meet our customers' needs. 
 
 Visitors may elect to submit personal information via email, by submitting an application, or by requesting information. This information may be used internally by Susquehanna, as appropriate, to handle the sender's request. It is not disseminated or sold to other organizations. 
