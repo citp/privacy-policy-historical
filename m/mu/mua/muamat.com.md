@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2007-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070325101144id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muamat.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201223845id_/http%3A//www.muamat.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
 **Privacy Policy**
 
   
-We understand that you have confidential information and want you to know that muamat.com is committed to safeguarding your privacy online, and that we strive to make our site as safe and secure as reasonably possible. If you have any questions after reading the statement, please let us know. We want to hear from you! You can email us at [admin@muamat.com](mailto:admin@muamat.com)
+We understand that you have confidential information and want you to know that muamat.com is committed to safeguarding your privacy online, and that we strive to make our site as safe and secure as reasonably possible. If you have any questions after reading the statement, please let us know. We want to hear from you! You can email us by using our contact us form.
 
 **Information Collection**  
 During registration we ask for your name, country, state, zip/postal code, email address. In addition to the information we obtain at registration, we may ask you for information at other times, such as when you make a purchase or register for a service on muamat.com, when you submit a listing for a Web site, or when you report a problem with one of our sites or services. If you contact muamat.com we may keep a record of that correspondence. muamat.com also may occasionally ask you to provide information to participate in certain voluntary promotions, surveys, or contests (see the section regarding this below). Finally, muamat.com collects information about its Members in general, which does not necessarily identify the Member, using our server log files and some of the methods described under "cookies" below.
@@ -55,6 +55,8 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 As muamat.com expands its offerings, we will update our Privacy Policy to address these changes. Please check this page on a regular basis for updates to this Privacy Policy.
 
 **Questions or Suggestions**  
-If you have questions or concerns about our privacy policy, please email us at [admin@muamat.com](mailto:admin@muamat.com).
+If you have questions or concerns about our privacy policy, please email us using our contact us form. 
 
 Last updated November 10, 2005
+
+[Muamat.com Classifieds](http://www.muamat.com/)
