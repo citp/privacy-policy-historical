@@ -1,23 +1,98 @@
-<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2006-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061129052748id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evite.com privacy policy that was archived on 2007-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071201024148id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html><head>
-<title>Evite - View our privacy policy.</title>
+<title>Evite Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html">
 <meta name="keywords" content="">
-<meta name="description" content="From free online invitations to free ecards to party planning, Evite has everything you need to throw a great party.">
+<meta name="description" content="From free online invitations to free ecards to party planning, Evite has everything you need to throw a great party."> 
 <meta name="section" content="">	
+<meta name="domain" content="evite.com">
 <link rel="stylesheet" type="text/css" href="/html/css/evite.css">
 <link rel="SHORTCUT ICON" href="/images/favicon.ico">
-<script language="JavaScript" type="text/javascript" src="/html/js/mainStuff.js?ver=1"></script>
-<script language="JavaScript" type="text/javascript" src="/html/js/flash.js"></script>
-<script language="JavaScript" type="text/javascript" src="/html/js/address.js"></script>
-<script language="JavaScript" type="text/javascript" src="/html/js/mm_menu.js"></script>
-<script language="JavaScript" type="text/javascript" src="/html/js/libs/evt.js"></script>
+<script language="JavaScript" type="text/javascript" src="/html/js/mainStuff.js?ver=20071024"></script>
+<script language="JavaScript" type="text/javascript" src="/html/js/flash.js?ver=20071024"></script>
+<script language="JavaScript" type="text/javascript" src="/html/js/address.js?ver=20071024"></script>
+<script language="JavaScript" type="text/javascript" src="/html/js/libs/ads/adManager.js?ver=20071024"></script>
+<script language="JavaScript" type="text/javascript" src="/html/js/libs/evt.js?ver=20071024"></script>
+<script language="javascript" type="text/javascript" src="/html/js/libs/HTTP/Cookies.js?ver=20071024"> </script>
+<script language="JavaScript" type="text/javascript" src="/html/js/loginManager.js?ver=20071024"></script>
 
+<script language="JavaScript" type="text/javascript">
+	var loginManager = new LoginManager("in");
+	
+	// check the sequence number against the cookie to detect back/forward button
+	var backButtonPressed = false;
+	try {
+		var sequenceNumber = SequenceNumberUtils.retrieveSequenceNumber();
+		if( sequenceNumber != -1 && sequenceNumber != 33 ) {
+			backButtonPressed = true;
+		}
+	} catch(e) {
+		// do nothing
+	}
+</script>
 
-</head>
+<script>
 
+	function URLparameters()
+		{
+		var arg = new Object();
+		var href = document.location.href;
+		
+		if ( href.indexOf( "?") != -1)
+		{
+		var params = href.split( "?")[1];
+		var param = params.split("&");
+
+		for (var i = 0; i < param.length; ++i)
+		{
+		var name = param[i].split( "=")[0];
+		var value = param[i].split( "=")[1];
+
+		arg[name] = value;
+
+		}
+		}
+		return arg;
+		}
+
+	var args = URLparameters();
+
+	function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+	}
+	
+	if (args["se"])
+		{createCookie('Omni32',args["se"],7);}
+	if (args["ag"])
+		{createCookie('Omni33',args["ag"],7);}
+	if (args["lp"])
+		{createCookie('Omni34',args["lp"],7);}
+	if (args["kw"])
+		{createCookie('Omni35',args["kw"],7);}
+	if (args["md"])
+		{createCookie('Omni36',args["md"],7);}
+	if ((args["se"]) || (args["ag"]))
+		{createCookie('Omni37',args["se"] +"_"+ args["ag"],7);}
+	if ((args["se"]) || (args["ag"]) || (args["lp"]))
+		{createCookie('Omni38',args["se"] +"_"+ args["ag"] +"_"+ args["lp"],7);}
+	if ((args["se"]) || (args["lp"]))
+		{createCookie('Omni39',args["ag"] +"_"+ args["lp"],7);}
+	if ((args["se"]) || (args["kw"]))
+		{createCookie('Omni40',args["se"] +"_"+ args["kw"],7);}
+	if ((args["se"]) || (args["kw"]) || (args["lp"]))
+		{createCookie('Omni41',args["se"] +"_"+ args["kw"] +"_"+ args["lp"],7);}
+	if ((args["se"]) || (args["lp"]))
+		{createCookie('Omni42',args["kw"] +"_"+ args["lp"],7);}
+
+</script></head>
 
 
 
@@ -45,16 +120,32 @@
 
 
 
+ 
+
+
+
+
+
+
 
 
  
 
 
-<!-- www33/192.168.61.133 -->
+<!-- www27/192.168.61.127 -->
+<!-- THIS PULLS THE OMNITURE VARIABLES FROM URL AND SENDS THEM TO COOKIES -->
+
+
 <body onload="">
-
-<div id="as4xdiv" class="topbg" style="width:100%;text-align:center;">
-	<div style="margin:0px;padding:0px;">
+<div id="as4xdiv" class="navbg">
+	<div class="mainnav" style="width:990px;padding:0px;">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr valign="bottom">
+				<td style="padding-top:11px;"><a name="top" href="/"><img alt="evite" src="/images/07/nav/logo.gif" height="88" width="147" border="0"></a></td>
+				<td>
+					<table cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr valign="top">
+							<td align="right" style="width:842px;margin:0px;padding:0px;" colspan="2">
 
 
 
@@ -63,45 +154,41 @@
 
 
 
-	<div style="padding-top:7px;">	
+	<div>
 	
 		
 		
-			<iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.as4x.tmcs.net/html.ng/host=false&amp;loc=nullLoc&amp;brand=evite&amp;enum=73&amp;TransactionID=1979797536&amp;tile=1979797536&amp;subid=false&amp;site=evite&amp;adsize=728x90&amp;pagepos=1">
-			</iframe>
+            <iframe id="headerAd" name="headerAd" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" style="background-color: #fff;" src="http://iacas.adbureau.net/hserver/host=0/area=nullLoc/city=national/source=evite/enum=2/pageid=1208964103/zip_code=03051/login=0/partner=evite/site=evite.com/aamsz=728x90/acc_random=179560471">			
+            </iframe>
 		
 			
 	</div>		
 
-</div>
-	<div class="mainnav">
-		<div style="float:left;width:15%;padding:10px 0px 10px 12px;">
-			
-			<a name="top" href="/"><img src="/images/06/nav/logo.gif" width="78" height="47" border="0" alt="Evite"></a>
-			<script language="JavaScript" type="text/javascript" src="/html/js/report/omniture.js?ver=5"></script><img name="s_i_eviteprod2" height="1" width="1" border="0" alt="" src="https://sm.evite.com/b/ss/eviteprod2/1/H.6-Pdv-2/s96153612011573?[AQB]&amp;ndh=1&amp;t=24/1/2020%204%3A12%3A47%201%200&amp;vmt=44F35E4D&amp;ns=evite&amp;pageName=web/20061129052748id_/http%253A//www.evite.com/pages/custservice/privacy.jsp&amp;g=https%3A//web.archive.org/web/20061129052748id_/http%253A//www.evite.com/pages/custservice/privacy.jsp&amp;ch=web&amp;server=evite&amp;c1=20061129052748id_&amp;c2=Evite%20-%20View%20our%20privacy%20policy.&amp;c7=web.archive.org/web/20061129052748id_/http%253A//www.evite.com/pages/custservice/privacy.jsp&amp;v12=evite&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-		</div>
-		
-		
-			
-			
-				<div style="float:right;padding:28px 5px 0px 0px;"><a href="/" class="head"><b>Home</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/loginRegForm?redirect=http%3A%2F%2Fwww.evite.com%2Fpages%2Fcustservice%2Fprivacy.jsp&amp;linkTagger=header" class="head"><b>Log in</b></a></div>
-			
-		
-	</div>
-	<div style="clear:both"></div>
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr valign="top">
-	    <td class="navbar">
-				<div class="mainnav">
-					<table width="100%" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr valign-="top">
-							<td width="125"><a href="/pages/invitations/invite.jsp" onmouseover="navOver('invite','/images/06/nav/grnon.gif')" onmouseout="navOff('invite','/images/06/nav/grn.gif')" target="_parent"><img name="invite" id="invite" src="/images/06/nav/grn.gif" width="125" height="27" border="0" alt="Invitations"></a></td>
-							<td width="125"><a href="/app/party/ideas.do" onmouseover="navOver('plan','/images/06/nav/orngon.gif')" onmouseout="navOff('plan','/images/06/nav/orng.gif')" target="_parent"><img name="plan" id="plan" src="/images/06/nav/orng.gif" width="125" height="27" border="0" alt="Planning Ideas"></a></td>
-							<td width="125"><a href="/app/ecards/send/greeting.do" onmouseover="navOver('ecards','/images/06/nav/turqon.gif')" onmouseout="navOff('ecards','/images/06/nav/turq.gif')" target="_parent"><img name="ecards" id="ecards" src="/images/06/nav/turq.gif" width="125" height="27" border="0" alt="Ecards"></a></td>
-							<td width="125" style="border-style:solid; border-width:0px 1px 0px 0px;border-color:#A5AF8E;"><a href="http://evite.gifts.com/?sid=evite:tab:P" onmouseover="navOver('gifts','/images/06/nav/purpon.gif')" onmouseout="navOff('gifts','/images/06/nav/purp.gif')" target="_parent"><img name="gifts" id="gifts" src="/images/06/nav/purp.gif" width="125" height="27" border="0" alt="Gifts"></a></td>
-							<td width="273" style="padding-top:2px;text-align:right;">
 
-
+								<div style="color:#fff;padding-top:5px;margin:0px;"><a href="/pages/gt/people/view.jsp" class="whtbold" target="_parent"><b>My Account</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/addrbook/contactList.jsp" class="whtbold" target="_parent"><b>My Address Book</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:loginManager.logInOrOut();" id="logoutLink" class="whtbold"><span id="loginText">Log in</span></a></div>
+							</td>
+						</tr>
+						<tr valign="bottom">
+							<td style="width:665px;" align="right">
+								<div id="header">
+									<ul id="nav">
+										<li id="nav_home"><a href="/"></a></li>
+										<li id="nav_invite"><a href="/app/invitations/gallery/templates.do?isNew=true" target="_parent"></a></li>
+										<li id="nav_entertain"><a href="/app/party/ideas.do" target="_parent"></a></li>
+										
+										<li id="nav_store"><a href="http://www.partysupplies.evite.com/" target="_parent"></a></li>
+										<li id="nav_blog"><a href="http://www.blog.evite.com/" target="_parent"></a></li>
+										<li id="nav_gifts"><a href="http://evite.gifts.com/giftcenter?sid=evite:giftcenter:P" target="_parent"></a></li>
+										
+										<li id="nav_ecards"><a href="/app/ecards/gallery/cards.do?isNew=true" target="_parent"></a></li>
+										
+									</ul>
+                  
+								</div>
+							</td>
+							<td style="width:178px;padding-bottom:5px;padding-top:5px;" class="diva" align="right">
+								<div><script language="JavaScript" type="text/javascript" src="/html/js/report/omniture.js?ver=20071024"></script></div>
+								<div style="float:right;margin-right:-3px;">
 
 
 
@@ -113,7 +200,16 @@
  
 
 
-<!-- www33/192.168.61.133 -->
+
+
+
+
+
+
+ 
+
+
+<!-- www27/192.168.61.127 -->
 
 	
 	
@@ -122,148 +218,29 @@
 	
 
 <form name="siteSearchForm" method="post" action="/app/search/all.do" target="_parent">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td style="padding:0px 0px 0px 25px;text-align:right"><input type="text" style="width:150px;" class="form" name="searchQueryText" value="Search Evite" onclick="javascript:clearValue(this);"></td>
-			<td style="padding-top:2px;text-align:right"><button type="submit" onclick="javascript:return clearValue(siteSearchForm.searchQueryText, true);"><img src="/images/06/buttons/srch_grn_dk.gif" border="0" alt="Search" style="border-style: solid; border-width: 0px; padding: 0px; margin: 0px; background: none;"></button></td>
-		</tr>
-	</tbody></table>
-</form></td>
+<div><input type="text" class="form" style="padding:2px 0px 2px 1px !important;padding:2px 0px 3px 2px;width:130px;border:solid 1px #4a7005;" name="searchQueryText" value="Search Evite" onclick="javascript:clearValue(this);"></div>
+<div>&nbsp;<button type="submit" onclick="javascript:return clearValue(siteSearchForm.searchQueryText, true);" style="height:22px;width:32px;background:url(/images/07/buttons/go.gif) no-repeat;" alt="Search"></button></div>
+</form></div>
+							</td>
 						</tr>
 					</tbody></table>
-					
-						<div style="height:20px;padding:4px 0px 0px 12px;color:#690;text-align:left;"><a href="/pages/myevite/myInvitations.jsp" class="myinvite">my invitations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/app/ecards/send/greeting.do#myecards" class="ecardblu">my ecards</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/gt/mailbox/viewbox.jsp" class="subnav">inbox</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/gt/people/view.jsp" class="subnav">my info</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/addrbook/contactList.jsp" class="subnav">address book</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/archive/pastEvites.jsp" class="subnav">past invites</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/myevite/bigCal.jsp" class="subnav">calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/app/party/notebook/view.do" class="subnav">notebook</a></div>
-												
-				</div>
-			</td>
-		</tr>
-	</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
 </div>
-
 
 
 <div class="bg">
 	<div class="main">
 		<div class="grnbord">
-			<h2>Evite privacy policy</h2>
-			<div style="padding:12px 0px;">
-<p><b>EVITE PRIVACY POLICY</b></p>
-<p>Evite ("Evite") Statement on Privacy and Security of Information. The following policy explains our information gathering and dissemination practices. </p>
-<p><b>Information Collected</b></p>
-
-<p>1.   Your Personally Identifiable Information Collected by Evite:</p>
-
-<p>When you register with the Evite service, our registration form may require you to give us certain information such as your name, email address, and zip code. Evite will also collect other information you volunteer to us through use of our service. We refer to this information as "Personally Identifiable Information." You may always choose not to provide such Personally Identifiable Information; however, this may limit our ability to provide you with a specific service or particular content. We may also collect demographic and other data, which may include Personally Identifiable Information, generally through surveys and forms which you may or may not choose to participate in. If you place an order for goods on Evite, you may be required to enter your credit card number and information, as well as your shipping address and/or other contact information.</p>
-
-<p>2.  My Info Page:</p>
-
-<p>If you choose to build a My Info Page you will be required to supply a user name, password, valid email address and your zip code. You will also be asked a series of questions, many, but not all of which are optional, regarding your interests that will allow other Users to search for people like you who share common interests. If you choose, you may allow your responses to these questions to be viewable only by other Users and/or guests who are invited to the same events as you. Evite may capture searches conducted by you on the Evite service, including other My Info Pages viewed by you, in order to make suggestions to you regarding what activities or topics might be of interest to you, and in order to build your "network" of contacts. You may also contact other people through their My Info Page, and Evite will hide your email address, by directing your message to that person's inbox in their Message Center.</p>
-
-<p>3.   Your Personally Identifiable Information Collected by Evite's Business Partners:</p>
-
-<p>Evite works with third-party advertising companies, sponsors and other companies with whom we do business ("Business Partners") to place advertising on our site and in email communications sent to our registered users and to recipients of invitations, Reminders, and other communications related to the Evite service. Information about your visit to this site, such as number of times you have viewed an ad, may be used to serve advertising to you on this site.</p>
-
-<p>Evite may correlate or match registered Users' information, including Personally Identifiable Information, with information held by our Business Partners to target ads or otherwise improve the effectiveness of our service. Our Business Partners may read or set cookies on your hard drive, use pixel tags, track which ads you have viewed, or collect other information about you.</p>
-
-<p>From time to time, Evite may also have special offers or promotions that are sponsored by a Business Partner. In order to participate in these offers, you may be required to follow a separate registration process.  If you consent to receive information from a Business Partner, through an opt-in or opt-out process, Evite may pass your information to such Business Partner.</p>
-
-<p>Evite may also offer goods or services for purchase available by our Business Partners. If you purchase goods or services offered through Evite by a Business Partner, then you may be required to submit Personally Identifiable Information in order to complete the transaction and Evite may provide your Personally Identifiable Information to such Business Partner for that purpose.</p>
-
-<p>In some cases, we may enter into a promotional relationship with a Business Partner in which we prominently display their brand name or trademarks on pages that appear the same as or very similar to the pages of the Evite service. These pages are known as "Co-Branded Pages" and these particular Business Partners are known as "Co-Branded Business Partners." If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Business Partner. Co-Branded Business Partners may use your personal information in accordance with their own privacy policies. Evite disclaims all liability for the privacy policies and procedures on any Business Partner or Co-Branded Business Partner Web site. You will need to contact the Co-Branded Business Partner to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Business Partners in the same manner in which we are entitled to use and disclose any other information you submit to us (see Use of Your Personally Identifiable Information by Business Partners below).</p>
-
-<p>4.   Guest Contact Information:</p>
-
-<p>In order to send messages to your guests through the Evite service, we require that you submit to Evite a current, valid email addresses for your guests. When you send messages to your guests through our service (e.g., an Evite invitation or a Reminder), we collect and retain the email addresses or other pertinent contact information of those persons to whom you send the message. Except as described below in the Section titled "When We May Disclose Your Personally Identifiable Information, Data or Guest Contact Information", we do not sell, share or otherwise provide the guest contact information you submit to Evite to any third party.</p>
-
-<p>5.   Cookies: Evite wants to optimize your experience by ensuring that the most relevant information, promotions and offers are displayed to you while using the Evite web site. A common manner in which to do this is by placing cookies on your computer.  Cookies are strings of text and numbers that can identify your computer to us when you visit our site, and which may be correlated with your Personally Identifiable Information in our log files. In the event a location, like a zip code, is not available in your profile or you have not searched in a location on Evite, we will cookie your location from your last Evite invitation. </p> 
-
-<p>6.   IP Address: When you visit our site, we log standard information such as your IP address, which is a number that can be used to identify your location and Internet Service Provider, along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain some Personally Identifiable Information about the person who is viewing it.</p>
-
-<p>When we send messages to you or others, we may provide a URL link to the Evite site that contains an alphanumeric identifier, which allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.</p>
-
-<p>7.   Pixel Tags: Evite uses pixel tags to gather information about the emails we send to our registered users and to recipients of messages. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the invite or reminder, that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. For more information about cookies and how to disable their use, see the section below on "Use of Cookies."</p>
-
-<p><b>Use of Information</b></p>
-
-<p>1.   Use Of Your Personally Identifiable Information by Evite:</p>
-
-<p>Evite does not sell, share or otherwise provide any "Personally Identifiable Information" you give to us with any Business Partner without your consent, which may be obtained through an opt-in or opt-out request (see Use of Your Personally Identifiable Information by Business Partners below), unless required by law, court order or as required to technically operate the service, or to complete a transaction or order. Evite does reserve the right to share your Personally Identifiable Information with its parent, subsidiary or affiliated entities ("affiliated entities" are those companies owned or controlled by Evite's parent company). We use the collected Personally Identifiable Information to schedule events for you, to contact the recipients on your Evite list, to contact you in connection with your transactions, posting and other activities on the site, to forward to you messages from other Users, to communicate with you about events or activities in your area and to operate the Evite service. These types of communications may contain commercial messages, such as banner ads and special offers. Each communication we send to you, other than communications sent to you for the sole purpose of addressing a technical or operational issue regarding the Evite service, will give you the opportunity to opt-out of receiving further communications from us. In addition, we use your Personally Identifiable Information to help us provide you with personalized content, advertising, and commercial messages (collectively, "Content").</p>
-
-<p>2.   Use Of Your Personally Identifiable Information By Other Users:</p>
-
-<p>Users and/or guests invited to the same events as you will be able to view the Personally Identifiable Information that you provide on your My Info Page, unless you choose to hide such information. You also may choose to have the Personally Identifiable Information you supply on your My Info Page viewable to Evite users in general. In addition, other Users may choose to email you. However, to ensure your privacy, Evite will not display or give out your email address or any other contact information to other users. We have developed a Message Center that uses a "double-blind" email system, which hides the email addresses of both the sender and recipient of email messages to protect the privacy of both the sender and receiver. When using the Message Center, it is up to you to choose when you are comfortable disclosing your email address, or any other contact information, to others through private communications.</p>
-
-<p>3.   Use of Your Personally Identifiable Information by Evite's Business Partners:</p>
-
-<p>In order to provide offers of particular interest to you, Evite may share demographic, geographic, and other Personally Identifiable Information with its Business Partners with your consent. </p>
-
-
-<p>PLEASE NOTE: The privacy practices of advertisers and other companies who provide services or advertising through our site are not covered by this privacy policy. Please contact those companies directly for more information about their privacy practices. If you wish to prevent those companies from setting cookies on your browser, you may set your browser to refuse cookies or to warn you before setting a cookie. Disabling cookies set by companies whose products or services are advertised on this site should not affect your ability to use this site.</p>
-
-<p>4.   Use Of Guest Contact Information:</p>
-
-<p>We use your guests' contact information to allow them to respond to and comment on your Evite invitation. At your request, we may send Reminders to your guests and display their email addresses to your other guests. We also may send a post-event email to you and your guests. If you use our Reminders service, we use the information you provide in your Reminders to send it to you and others to whom you have requested it be sent. Evite does not sell, share or otherwise provide any guests' contact information you give to us with any Business Partner, unless required by law, court order or as required to technically operate the service.</p>
-
-<p>You may delete your email address from the guest list by requesting to be removed from the guest list on the invitation page. Once your email address is removed from the guest list, it will no longer be accessible to other guests (unless you are subsequently invited to another party, in which case your email address will be accessible to guests of the new event).</p>
-
-<p>5.   Use Of Cookies:</p>
-
-<p>We use cookies to deliver content specific to your interests, among other purposes. You can always choose not to accept cookies through your browser's preference options, but you may not be able to use some of our services if you do not accept cookies. </p>
-
-<p>As described in more detail above, Business Partners display ads through our service. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our Business Partners, and we do not have access to this information. Likewise, some of our Business Partners may use cookies. We do not control their use of cookies nor have access to the information contained in or related to those cookies. Please contact our Business Partners directly for more information about their privacy practices.</p>
-
-<p>6.   Use Of IP Addresses:</p>
-
-<p>We use your IP Address to help diagnose problems with our server, and to administer our Web site and otherwise provide our service to you. IP addresses may be disclosed to Business Partners if Evite believes in good faith that the law or legal process requires it, or to protect the rights or property of Evite or others. In addition, our Business Partners may use information derived from your IP address, such as conducting a reverse domain name lookup, in order to provide advertisements more tailored to your interests.</p>
-
-<p><b>When We May Disclose Your Personally Identifiable Information, Evite Invitation Content, Data or Guest Contact Information</b></p>
-
-<p>Evite may disclose your Personally Identifiable Information, the contents of your private communications, or the contact information of your guests if required to do so by law or court order. Your Personally Identifiable Information may also be disclosed if necessary in order to complete a transaction such as the fulfillment of an order or purchase placed by you. Evite will in no way disclose the contents of your Evite invitations other than to the intended recipient(s) unless required (1) by law or court order, (2) to protect Evite's rights and property, (3) to protect against unauthorized use of the Evite site, and (4) during emergencies such as when we believe someone's physical safety is at risk. Also, certain technical processing of email messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.</p>
-
-<p>It is possible that as we continue to develop our Web site and our business, Evite and/or related assets might be acquired. In such a transaction, customer information may be transferred to the acquiring entity.</p>
-
-<p><b>Security</b></p>
-
-<p>This site has industry standard security measures in place to protect the loss, misuse and integrity of the information under our control. Although we make good faith efforts to store the information collected by the Evite service in a secure operating environment that is not available to the public, we cannot guarantee complete security.</p>
-
-<p><b>Other Web Sites; Links</b></p>
-
-<p>This Web site contains links to other Web sites. Evite is not responsible for the privacy practices or the content of such Web sites.</p>
-
-<p><b>Opt-Out/Correct/Delete/Deactivate</b></p>
-
-<p>While Evite does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Info page as described below. In addition, you may elect not to receive future communications from Evite or to discontinue use of our service. If you are a registered user, please log in and visit the My Info Page of our Web site and uncheck the box related to sending information to you via email. If you are not a registered user but are a recipient of an Evite invitation, you may delete your email address from the guest list by requesting to be removed from the guest list on the invitation page.</p>
-
-<p>Evite allows its users the option to change information previously provided. This may be done through the following method:</p>
-
-<p>1. Visit Evite and log in</p>
-
-<p>2. Click on the My Information link</p>
-
-<p>3. Change the relevant information</p>
-
-<p><b>Changes to this Policy</b></p>
-
-Evite reserves the right to amend this privacy policy at its sole discretion. If we make any substantive changes to the policy in the future with regard to how we use your information, we will notify registered users who have agreed to receive the Evite newsletter through that newsletter. For those users who have not agreed to accept the newsletter, substantive changes will be posted on the site in this location, and the date of the changes will be noted on the Web site for a period of time. Your continued use of the site after the changes are posted constitutes your agreement to the changes with regard to information collected in the past and in the future from you. If you do not agree to the changes, you may opt-out as described above.
-
-<p><b>Contacting the Web Site</b></p>
-
-<p>We strive to do everything we can to protect the privacy of our users. Please feel free to share any comments and concerns with us. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p>
-
-<p>Privacy Officer
-Evite
-3731 Wilshire Blvd.
-Suite 300
-Los Angeles, CA 90010
-legal@evite.com</p>
-
-<p>LAST REVISED ON: October 1, 2004</p>
-			</div>
+<h2>Evite Privacy Policy</h2>  <div align="right"><img border="0" src="/images/06/arrows/gry.gif"> <a href="http://evite2.custhelp.com/cgi-bin/evite2.cfg/php/enduser/std_alp.php?p_pv=1.1609&amp;p_topic=Privacy%20Policy">Privacy Policy FAQs</a> &nbsp;</div><div style="padding: 5px 0px">              Evite is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Evite, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch,  Interval International, ServiceMagic, Gifts.com, Pronto and many others.  For a list of all of IAC's businesses, please visit <a target="_blank" href="http://www.iac.com">www.iac.com</a>.  In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices.  The following Consumer Privacy statement applies to all IAC businesses.  In addition, Evite has revised its <a href="/app/cms/misc/privacy-policy">Privacy Policy</a>, effective August 23, 2007, consistent with the IAC privacy commitment and standard privacy policy format.  Refer to our <a href="http://evite2.custhelp.com/cgi-bin/evite2.cfg/php/enduser/std_alp.php?p_pv=1.1609&amp;p_topic=Privacy%20Policy">FAQs</a> for details about the changes.  Please review both the Consumer Privacy statement and this site's complete privacy policy.     <br>           <br>             <strong>Consumer Privacy at Evite, an IAC Company</strong><br>               Evite is part of the IAC family of businesses.  IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC’s businesses, please visit <a target="_blank" href="http://www.iac.com">www.iac.com</a>.   <br>              <br>             At IAC, we respect the privacy of our users and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all IAC websites.  To read the entire Privacy Policy of Evite, please <a href="/app/cms/misc/privacy-policy">click here</a>.<br>              <br>                    <strong>Information we may collect</strong>  <a href="/app/cms/misc/privacy-policy#collect">(read more)</a> <br>               We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties.  We may combine the personal information that we receive from different sources.   <br>              <br>             We also may collect other types of information in the following ways when you visit our website:     <br>                  </div><div style="padding: 12px 0px">         <ul>                 <li>Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.   </li>                                 <li>We may assign your computer one or more <a href="/app/cms/misc/privacy-definition#cookies" onclick="window.open('http://www.evite.com/app/cms/misc/privacy-definition#cookies','','width=800,height=300,menubar=0,toolbars=0,scrollbars=1,status=0');return false;">cookies</a> which may collect information to facilitate access to our website and to personalize your online experience.   </li>                                 <li>We may use standard Internet tools, such <a href="/app/cms/misc/privacy-definition#beacons" onclick="window.open('http://www.evite.com/app/cms/misc/privacy-definition#beacons','','width=800,height=300,menubar=0,toolbars=0,scrollbars=1,status=0');return false;">web beacons</a>, which collect information that tracks your use of our website and enables us to customize our services and advertisements.</li>                 </ul>                   We do not knowingly collect personal information from children under the age of 13.  Should we ever do so, we will comply with the Children's Online Privacy Protection Act. <br>                  <br>           <strong>Information others may collect</strong>  <a href="/app/cms/misc/privacy-policy#others">(read more)</a> 				 <br>               We may allow third-party advertising companies or ad networks to display advertisements on our websites. <br>                                <ul>                 <li>We do not provide any personal information to these companies.   </li>                                 <li>These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.   </li>                                 <li>Some of these companies may be members of the <a target="_blank" href="http://www.networkadvertising.org">Network Advertising Initiative</a>, which offers consumers the ability to opt out of ad targeting by all member companies. </li>                 </ul>                    If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide.  We encourage you to use caution in posting personal information.   <br>           <br>            <strong>How we may use information we collect</strong>  <a href="/app/cms/misc/privacy-policy#use">(read more)</a> 				<br>               We may use information to:  <br>                       <ul>                 <li>Fulfill your requests for products and services; </li>                                 <li>Offer products and services that may be of interest to you; </li>                                 <li>Customize the advertising and content that you see on our website; </li>                                 <li>Facilitate use of our website; </li>                                 <li>Manage your account and your preferences; </li>                                 <li>Analyze use of and improve our website, products and services; </li>                                 <li>Identify and protect against fraudulent transactions and other misuses of our website; and </li>                                 <li>Enforce our Terms of Use.</li>                 </ul>                <br>                    <strong>With whom we may share information we collect</strong>  <a href="/app/cms/misc/privacy-policy#share">(read more)</a> 				   <br>               We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out.  We may share personal information with:     <br>                           <ul>                 <li>Service providers, such as credit-card payment processors, performing services on our behalf; </li>                                 <li>Other IAC businesses;   </li>                                 <li>Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and </li>                                 <li>Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. </li>                 </ul>                    We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.<br>          <br>           <strong>Your choices</strong>  <a href="/app/cms/misc/privacy-policy#choices">(read more)</a> 				   <br>               You may choose:     <br>                      <ul>                 <li>Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website; </li>                                 <li>To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by unsubscribing from your <a href="/pages/gt/people/view.jsp">profile</a>.</li>                                 <li>To delete or decline <a href="/app/cms/misc/privacy-policy#cookies">cookies</a> by changing your browser settings, although if you do so, some of the features or services of our website may not function properly; </li>                                 <li>To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account. </li>                 </ul>                        <br>           <strong>Security</strong>  <a href="/app/cms/misc/privacy-policy#security">(read more)</a> 				  <br>               We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.<br>           <br>                <strong>Changes to our Privacy Policy</strong>   <br>               We may occasionally update our Privacy Policy to reflect changes in our practices and services.  If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.<br>           <br>            <strong>How to contact us</strong> <br>               If you have any questions about this summary, our <a href="/app/cms/misc/privacy-policy">Privacy Policy</a>, or our information practices, please contact us by email or postal mail below: <br>           <br>                      Evite, LLC <br>           c/o IAC Search &amp; Media <br>           555 12th Street, Suite 500<br>                 Oakland, CA  94607<br>                 <a href="mailto:support@evite.com">support@evite.com</a>, attention Privacy <br>           <br>                      © 2007 IAC/InterActiveCorp.  All rights reserved.         </div>
 		</div>
 	</div>
 </div>
-
-
+<script language="javascript" type="text/javascript">
+    s.pageName='about: privacy';
+</script>
 
 
 
@@ -279,9 +256,18 @@ legal@evite.com</p>
  
 
 
-<!-- www33/192.168.61.133 -->
-<script src="/html/__utm.js" type="text/javascript"></script><script language="JavaScript1.5">_ujv='1.5';</script>
-<script src="/html/js/report/omniture.js" type="text/javascript"></script>
+
+
+
+
+
+
+ 
+
+
+<!-- www27/192.168.61.127 -->
+<script src="/html/__utm.js?ver=20071024" type="text/javascript"></script>
+<script src="/html/js/report/omniture.js?ver=20071024" type="text/javascript"></script>
 
 
 
@@ -294,26 +280,7 @@ legal@evite.com</p>
 	s.eVar12 = 'evite';
 	s.hier1=s.pageName;
 </script>
-<script>
-	var req; 
-	var sec=0;
-	var trURL='http://c4.evite.com/tr.js';
-	if (parent.frames.length != 0) {
-		for (var i=0; i < eval(parent.frames); i++) {
-			req=parent.frames[i].location.href;
-			if (req.substring(0,5) == 'https') sec=1;
-		}
-	} else {
-		req=parent.location.href;
-		if (req.substring(0,5) == 'https') sec=1;
-	}
-	if (sec) trURL='';
-	if (trURL) { 
-		var trR=Math.round(Math.random()*10000000000)+2;
-		trURL+='?r='+trR;
-		document.write('<scr'+'ipt src="'+trURL+'"></scr'+'ipt>');
-	}
-</script><script src="http://c4.evite.com/tr.js?r=8705180953"></script>
+
 <!-- SiteCatalyst Code 
 	Copyright 1997-2005 Omniture, Inc. 
 	More info available at http://www.omniture.com 
@@ -346,22 +313,18 @@ function displayCookieMessage(){
  
 
 
-<script src="/html/js/ad.js" type="text/javascript"></script>
+<script src="/html/js/ad.js?ver=20071024" type="text/javascript"></script>
 <script language="JavaScript1.2" type="text/javascript">
 	
 </script>
-
-
-
 <div style="margin-top:40px;width:100%;background-color:#E4F0D0;border-style:solid;border-width:1px 0px;border-color:#CCDAB3;">
 	<div class="footer" style="width:774px;background-color:#E4F0D0;">
   	<div class="smwarning"><script language="JavaScript">displayCookieMessage();</script></div>
-    <div style="width:100%;padding:5px 0px;"><a href="/pages/gt/advertise/ad_facts.jsp">Advertise on Evite</a> | <a href="/pages/gt/about.jsp">About Us</a>&nbsp;|&nbsp;<a href="http://evite2.custhelp.com/cgi-bin/evite2.cfg/php/enduser/index.php">FAQs / Contact Support</a>&nbsp;|&nbsp;<a href="/pages/custservice/siteMap.jsp">Site Map</a>&nbsp;|&nbsp;<a href="/pages/custservice/privacy.jsp">Privacy Policy</a>&nbsp;|&nbsp;<a href="/pages/custservice/terms.jsp">Terms of Service</a><br>Users of alcohol-endorsed Evite designs must be of legal drinking age.<br>©2006 Evite. All Rights Reserved.</div>
-    <div style="padding: 5px; width: 100%">Partner sites:&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.alstos.com/">Alsto's</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.ask.com/">Ask.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.ballarddesigns.com/">Ballard&nbsp;Designs</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.citysearch.com/">Citysearch</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.classicvacations.com/">ClassicVacations.com</a>&nbsp;&nbsp;<a target="_blank" class="botlink" href="http://www.condodirect.com/">CondoDirect</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.condosaver.com/">CondoSaver.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.entertainment.com/">Entertainment.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.expedia.com">Expedia</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.frontgate.com/">Frontgate</a><br> <a class="botlink" target="_blank" href="http://www.garnethill.com/">Garnet&nbsp;Hill</a>&nbsp;&nbsp;Gifts.com - <a class="botlink" target="_blank" href="http://www.gifts.com">Christmas Gifts</a>&nbsp;&nbsp;<a class="botlink" target="blank" href="http://www.homefocuscatalog.com/">HomeFocus</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.hotels.com">Hotels.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.hotwire.com">Hotwire</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.hsn.com/">HSN</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.improvementscatalog.com/">ImprovementsCatalog.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.isabellabird.com">Isabella&nbsp;Bird</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.lendingtree.com">LendingTree</a>&nbsp;&nbsp;<a target="_blank" class="botlink" href="http://www.liveitup.com/">LiveItUp</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.livedaily.com">liveDaily</a><br>   <a class="botlink" target="_blank" href="http://www.match.com">Match.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.pronto.com">Pronto</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.realestate.com">RealEstate.com</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.reserveamerica.com">ReserveAmerica</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.servicemagic.com/">ServiceMagic</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.smithandnoble.com/">Smith+Noble</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.territoryahead.com/">The&nbsp;Territory&nbsp;Ahead</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.ticketmaster.com/">Ticketmaster</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.travelsmith.com/">TravelSmith</a>&nbsp;&nbsp;<a class="botlink" target="_blank" href="http://www.tripadvisor.com">TripAdvisor</a></div>  
-	</div>
+    
+    <div class="medGray10" style="padding: 5px 0px; width: 100%"> <a class="botlink" href="/pages/gt/advertise/ad_facts.jsp">Advertise on Evite</a> |  <a class="botlink" href="/pages/gt/about.jsp">About Us</a>&nbsp;|&nbsp; <a class="botlink" href="http://evite2.custhelp.com/cgi-bin/evite2.cfg/php/enduser/index.php">FAQs / Contact Support</a>&nbsp;|&nbsp; <a class="botlink" href="/pages/custservice/siteMap.jsp">Site Map</a>&nbsp;|&nbsp; <a class="botlink" href="/pages/custservice/privacy.jsp">Privacy Policy</a>&nbsp;|&nbsp; <a class="botlink" href="/pages/custservice/terms.jsp">Terms of Service</a><br>  <div class="medgray11">Users of alcohol-endorsed Evite designs must be of legal drinking age.<br> </div> © 2007 Evite. All Rights Reserved.<br> <br> Partner sites: <a class="botlink" href="http://www.bagsbuy.com/" onclick="window.open(this.href);return false;">Bagsbuy</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.bloglines.com/" onclick="window.open(this.href);return false;">Bloglines</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.citysearch.com/" onclick="window.open(this.href);return false;">Citysearch</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.collegehumor.com/" onclick="window.open(this.href);return false;">CollegeHumor</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.excite.com/" onclick="window.open(this.href);return false;">Excite</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.expedia.com/" onclick="window.open(this.href);return false;">Expedia</a><br>  <a class="botlink" href="http://www.funwebproducts.com/" onclick="window.open(this.href);return false;">Fun Web Products</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.hotels.com/" onclick="window.open(this.href);return false;">Hotels</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.hotwire.com/" onclick="window.open(this.href);return false;">Hotwire</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.insiderpages.com/" onclick="window.open(this.href);return false;">Insiderpages</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.iwon.com/" onclick="window.open(this.href);return false;">iWon</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.livedaily.com/" onclick="window.open(this.href);return false;">LiveDaily</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.myway.com/" onclick="window.open(this.href);return false;">My Way</a>&nbsp;|&nbsp; <a class="botlink" href="http://www.pronto.com/" onclick="window.open(this.href);return false;">Pronto</a></div>
+  </div>
 </div>
 <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=I05529"></script>
-
 
 
 	
