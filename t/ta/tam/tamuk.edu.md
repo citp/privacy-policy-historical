@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220133053id_/http%3A//www.tamuk.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201134404id_/http%3A//www.tamuk.edu/privacy) for the most accurate reproduction.*
 
 # Division of Institutional Advancement - w w w . t a m u k . e d u
 
