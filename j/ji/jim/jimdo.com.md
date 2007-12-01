@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617004221id_/http%3A//jimdo.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201143013id_/http%3A//www.jimdo.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Jimdo - Pages to the People. - Privacy Statement
+
+## Privacy Statement
 
 **Jimdo Privacy Policy  
 **
 
   
-At Jimdo we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Jimdo Products. Jimdo is a service of the NorthClick GmbH.  
+At Jimdo we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Jimdo Products. Jimdo is a service of the Jimdo GmbH.  
 If you have any questions about this Policy, please feel free to contact us at [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo, Privacy Department, Gasstr. 10, 22761 Hamburg, Germany.  
 
 
