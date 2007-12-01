@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411182610id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201153246id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - G.A.P. Adventures
+# Privacy Policy - G.A.P Adventures
 
 Altun Group Ltd and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review our Privacy Policies and Frequently Asked Questions section of this page. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@altun.ca](mailto:privacyofficer@altun.ca "Send an email to our Privacy Officer")
 
