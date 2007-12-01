@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618062710id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201071737id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - StripersOnline.com - Privacy Promise
 
