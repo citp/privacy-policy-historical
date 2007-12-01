@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422024228id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201150644id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Sierra Wireless Inc. (sierrawireless.com) - Privacy
+# Sierra Wireless
 
 | |   
 ---  
-COMPANY  
+Company  
   
 [About Sierra Wireless](https://web.archive.org/corporate/default.aspx)
 
 [Management Team](https://web.archive.org/corporate/biographies.aspx)
 
-[Worldwide Offices](https://web.archive.org/corporate/WorldWide_Office.aspx)
+[Worldwide Offices](https://web.archive.org/corporate/contact.aspx)
 
 [Community Investment](https://web.archive.org/corporate/community_investment.aspx)
 
@@ -18,7 +18,7 @@ COMPANY
 [Financial Information](https://web.archive.org/corporate/investors.aspx)  
 [Corporate Presentations](https://web.archive.org/corporate/presentations.aspx)  
 [Stock](http://finance.yahoo.com/q/bc?s=SWIR&t=5d)  
-[Corporate Governance](https://web.archive.org/web/20070422024228id_/http%3A//www.sierrawireless.com/corporate/investors.aspx)
+[Corporate Governance](https://web.archive.org/web/20071201150644id_/http%3A//www.sierrawireless.com/corporate/investors.aspx)
 
 [Branding and Trademarking](https://web.archive.org/corporate/brandinguidelines.aspx)
 
