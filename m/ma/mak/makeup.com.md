@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429232018id_/http%3A//www.makeup.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201010409id_/http%3A//www.makeup.com/privacy.jsp) for the most accurate reproduction.*
 
-# MakeUp.com - Make Up, Boutique Cosmetics, Beauty Products, Fragrances, Skin Care
+# Makeup.com
 
 Privacy Policy
 
