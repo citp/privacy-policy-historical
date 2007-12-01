@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608015737id_/http%3A//www.sita.aero/News_Centre/Corporate_profile/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201195913id_/http%3A//www.sita.aero/News_Centre/Corporate_profile/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
