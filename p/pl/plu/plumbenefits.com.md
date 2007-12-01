@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plumbenefits.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617042057id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbenefits.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201140048id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.*
 
 # Plum Benefits - Privacy Policy
 
-To put it plainly, we will not sell, rent or share your personal information with other non-affiliated third-parties. If you have any other questions, please read the below. 
+To put it plainly, we will not sell, rent or share your personal information with non-affiliated third-parties. If you have any other questions, please read the below. 
 
 * * *
 
@@ -41,7 +41,7 @@ When you register on the Site, you will have the opportunity to opt-in, if you w
 **Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). PLUM BENEFITS does not knowingly, directly or indirectly, collect or maintain Personal Information at or on our website from children under the age of 13. No part of the Site is directed at or structured to attract anyone under 13.
 
  **Security  
-** PLUM BENEFITS takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although PLUM BENEFITS cannot guarantee that Personal Information will not be subject to unauthorized access, PLUM BENEFITS has physical, electronic, and procedural safeguards to protect the Personal Information. Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel.
+** PLUM BENEFITS takes reasonable precaution to protect Personal Information from misuse, loss and unauthorized access. Although PLUM BENEFITS cannot guarantee that Personal Information will not be subject to unauthorized access, PLUM BENEFITS has physical, electronic, and procedural safeguards to protect the Personal Information, including 128-bit Verisign Secure Socket Layered Encryption (SSL). Personal Information is protected by secured networks and access is limited to a few authorized employees and personnel.
 
  **Changes to Policy**  
 From time to time, PLUM BENEFITS may revise this Policy. PLUM BENEFITS will post the revised Policy on the Site, so that you can always be aware of what information PLUM BENEFITS collects, how the information is used and under what circumstances such information may be disclosed.   
