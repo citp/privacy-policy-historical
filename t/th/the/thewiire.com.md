@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430164324id_/http%3A//www.thewiire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiire.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201065520id_/http%3A//www.thewiire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Wiire - Privacy Policy
 
-Last Updated: 09/30/06 
+Last Updated: 08/26/2007
 
-At [The Wiire](http://www.thewiire.com/), we strive to bring readers current and accurate news, information, and media relating to Nintendo's next video game console, [Wii](http://www.thewiire.com/nintendo_wii_faq#faq1). The Wiire is not endorsed, sponsored, nor otherwise affiliated with [Nintendo](http://www.nintendo.com/). We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us [here](http://www.thewiire.com/contact). 
+At The Wiire, we strive to bring readers current and accurate news, information, and media relating to Nintendo's Wii. The Wiire is not endorsed, sponsored, nor otherwise affiliated with Nintendo. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services, as well as some of the steps we take to safeguard it. If you have any questions or concerns about this Policy, you may contact us [here](http://www.thewiire.com/contact). 
 
 ## **_Data Collection_**
 
@@ -18,9 +18,16 @@ At [The Wiire](http://www.thewiire.com/), we strive to bring readers current and
 
 ## **_The Wiire Website Account_**
 
-  * This site complies with The Children's Online Privacy Protection Act of 1998 (COPPA) and as such cannot accept registrations from users under the age of 13 without a written permission document from their parent or guardian. For more information you can read the legislation [here](http://www.cdt.org/legislation/105th/privacy/coppa.html).
-  * When registering for a [The Wiire Account](http://www.revolutionreport.com/signup.php), the following information is required: a username, a password, a first name, and a valid e-mail address. Your e-mail address will be used for administrative contact, and for contact from other users. Your e-mail address will be accessible to other site members unless you select to hide it via your user personal account settings after signing up.
-  * Registering for a Website Account does not grant the user unlimited or unrestricted access to The Wiire. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. By registering for an account, the user must comply with the The Wiire Terms of Service (see below).
+  * When registering for an [account](http://boards.thewiire.com/index.php?act=Reg&CODE=00), the following information is required: a username, a password, and a valid e-mail address. Your e-mail address can be optionally used for administrative contact, and for contact from other site members. You can choose whether to recieve such e-mails from administrators or site members during the registration process.
+  * Registering for a website account does not grant the user unlimited or unrestricted access to The Wiire. Certain administrative functions are hidden for security purposes, and may not be accessed by standard users. Attempting to access or otherwise manipulate these administrative controls will have your account temporarily or permanently suspended. By registering for an account, the user must also comply with the The Wiire Terms of Service (see below).
+
+
+
+## **_The Wiire IRC Chatroom_**
+
+  * The Wiire has an IRC channel available for members and guests to chat live with each other. A Wiire Account is not required to use this service, but a computer with either Java or an independent IRC client installed is.
+  * All of the rules in The Wiire Terms of Service apply to this chatroom. Any user spamming, insulting, or otherwise being disruptive may be kicked and/or banned from the channel.
+  * The IRC channel can be either accessed from a standalone IRC client (available at **irc.wyldryde.org #thewiire** ), or by visiting [this page](http://www.thewiire.com/irc/ "The Wiire IRC"). (Java required)
 
 
 
@@ -40,7 +47,7 @@ At [The Wiire](http://www.thewiire.com/), we strive to bring readers current and
 
 ## **_Updating Your Information_**
 
-  * We provide mechanisms for updating and correcting your personally identifying information on our services. If you need assistance or more information regarding these mechanisms, please consult our [help documentation](http://boards.thewiire.com/index.php?act=Help). 
+  * We provide mechanisms for updating and correcting your personally identifying information on our services.
 
 
 
