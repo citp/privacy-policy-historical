@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629182817id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201214739id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Welcome to the Global Leader in Vision Care - ACUVUE® Privacy Policy
 
-[Safe Harbor Policy](https://web.archive.org/web/20070629182817id_/http%3A//www.acuvue.com/safe_harbor_policy.htm)
+[Safe Harbor Policy](https://web.archive.org/web/20071201214739id_/http%3A//www.acuvue.com/safe_harbor_policy.htm)
 
 v5.0 Updated: October 1, 2004
 
@@ -64,12 +64,12 @@ We take reasonable steps to protect your personally identifiable information as 
 This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit.
 
   
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20070629182817id_/http%3A//www.acuvue.com/legal_notice.htm).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20071201214739id_/http%3A//www.acuvue.com/legal_notice.htm).
 
   
-If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please [Contact us](https://web.archive.org/web/20070629182817id_/http%3A//www.acuvue.com/contact_us.htm).
+If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please [Contact us](https://web.archive.org/web/20071201214739id_/http%3A//www.acuvue.com/contact_us.htm).
 
-[Safe Harbor Policy](https://web.archive.org/web/20070629182817id_/http%3A//www.acuvue.com/safe_harbor_policy.htm)
+[Safe Harbor Policy](https://web.archive.org/web/20071201214739id_/http%3A//www.acuvue.com/safe_harbor_policy.htm)
 
   
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.
