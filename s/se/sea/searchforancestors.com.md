@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623125339id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201112306id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -31,24 +31,8 @@ Some of the advertisements may contain cookies. A cookie is a small text file th
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[ Ancestor Search ](mailto:webmaster@searchforancestors.com)   
-|  |  Free Genealogy Resources   
----  
-  
-  
-
-*   [Rootsweb.com](http://www.searchforancestors.com/link.php?m=rootsweb)   
-The oldest, largest free genealogy site.
-*   [Family Link](http://www.worldvitalrecords.com/familylink.aspx?img=8&kbid=1015)   
-Connect with genealogists that live in the cities of your ancestors. 
-*   [Free Genealogy Charts](http://www.searchforancestors.com/link.php?m=freecharts)   
-Free genealogy charts, forms and templates from Ancestry.com to document your family tree.
-*   [Free Genealogy software](http://www.searchforancestors.com/link.php?m=starterftm)   
-FTM Starter Edition - Download FREE Family Tree Maker genealogy software that helps build your family tree faster and easier! Read about [FTM 2006](http://www.searchforancestors.com/archives/ftm16.html)
-*   [Message Boards](http://www.searchforancestors.com/link.php?m=messageboards)   
-The world's largest online genealogy community. Surnames, Localities, and Genealogy Research Topics.   
-  
-Site Features   
+[ Ancestor Search ](mailto:webmaster@searchforancestors.com) |    
+|  Site Features   
 ---  
   
   
