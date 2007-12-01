@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608030243id_/http%3A//www.sptimes.com/INCLUDE/specials/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201072304id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
 
-# St. Petersburg Times Online - Privacy Policy
+# Privacy Policy | tampabay.com - St. Petersburg Times and tbt*
 
-The St. Petersburg Times/Times Publishing Company is committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [www.tampabay.com](http://www.tampabay.com/), [www.sptimes.com](http://www.sptimes.com/home.shtml) and [www.tbt.com](http://www.tbt.com/index.jsp).
+The St. Petersburg Times/Times Publishing Company is committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [www.tampabay.com](http://www.tampabay.com/), [www.sptimes.com](http://www.sptimes.com/home.shtml) and [www.tbt.com](http://www.tbt.com/index.jsp). 
 
-The following privacy policy applies only to our Web sites. This policy does not apply to any information obtained outside the Web sites, such as information provided to, or obtained by, writers of news articles and editorial columns.
+The following privacy policy applies only to our Web sites. This policy does not apply to any information obtained outside the Web sites, such as information provided to, or obtained by, writers of news articles and editorial columns. 
 
 Personal information you provide may be used by us to improve our services or to inform you about special coverage events, promotions, sales and other information. No personal information about you will be intentionally disclosed by the St. Petersburg Times to any third parties. We do share aggregate statistics about our users with our advertisers. For example, we may tell advertisers how many of our users are male or female or live in a certain zip code. These aggregate statistics do not contain any identifiable individual information.
 
