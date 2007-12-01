@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508232135id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gio.com.au privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201180430id_/http%3A//www.gio.com.au/gio/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security policy of GIO Australia
 
@@ -24,6 +24,7 @@ Our Privacy Policy details how we collect, use and disclose your personal inform
   * Does my personal information leave Australia?
   * Sensitive information
   * Access to our services via the Internet
+  * Web site activity
   * Our Privacy Policy may change from time to time
   * Concerns or requests for access?
   * Can I complain about a breach of my privacy?
@@ -297,6 +298,10 @@ Once received by Suncorp your personal information is stored and protected by a 
 Unless our e-mail transmission is made via Suncorp's "Secure Messages" or otherwise secured using encryption techniques, Suncorp does not transmit your personal information by e-mail externally unless you have consented to such transmission either expressly or impliedly through your interaction with us.
 
 An example of where you may impliedly consent may be when you e-mail us your personal information and require a response using the same medium or when you raise no objection to our advised, intended communication with you or a third party in this manner.
+
+## Web site activity
+
+We collect information on web site activity. Some examples of the information collected are: the number of page views, the number of visitors to pages, the navigation paths of visitors and the broad geographic location of visitors. No application has been loaded on your computer to collect data. This data does not record any personal information and is totally anonymous. The aggregated data from this collection is used to improve the content and performance of this website. The information for these reports is collected by Visual Sciences HBX Analytics, a third party business intelligence company. To read more information on the data collection practices of Visual Sciences HBX Analytics please visit [www.visualsciences.com](http://www.visualsciences.com/).
 
 ## Our Privacy Policy may change from time to time
 
