@@ -1,33 +1,8 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531014019id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201080016id_/http%3A//starbucks.co.uk/en-GB/privacypolicy.htm) for the most accurate reproduction.*
 
 # English - privacypolicy
 
-Privacy Policy 
-
-(For **Terms of Use** [click here](http://starbucks.co.uk/en-GB/Terms+of+use.htm))
-
-The Starbucks name and reputation were built on a foundation of trust. Therefore, this online privacy policy tells you about the information Starbucks collects through the services available on our web site, Starbucks.co.uk (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our Terms of Use for a more detailed legal explanation of our general online policies. 
-
-If you have any questions about our privacy policy or our use of your information you can e-mail us at [ukinfo@starbucks.com](mailto:ukinfo@starbucks.com)
-
-**Information About You.**   
-We collect several types of information on our Site. We collect "Personal Information", which generally speaking is information that can be used to identify you individually, such as your name and address. We also collect "Non-personal Information", which is information about you that does not itself identify you individually. Examples of Non-personal Information include age range and gender. We also collect "Aggregate Information", which is information about use of our site, such as pages visited on our Site. The information we collect depends on what services you use on our Site. 
-
-**C** **ustomer Service Correspondence.** **  
-**We may collect information that identifies you personally when you submit comments, questions or suggestions to our Customer Service department.
-
-**Curriculum Vitae (“CV”).**   
-If you are interested in applying for a job with Starbucks, we may collect your CV. CV’s you submit for job applications will not be used for marketing purposes.  Please see the Data Protection Notice section below.
-
-**Data Protection Notice – Starbucks’ Use of Your Personal Information.  
-** Starbucks respects privacy and seeks to protect your Personal Information and deal with any Personal Information received in accordance with the Data Protection Act 1998. **  **Except as disclosed in this policy, we do not sell or disclose information that identifies our guests personally or makes it possible for other parties to contact them directly without our guests' consent. We may use, sell, disclose, or otherwise dispose of Personal Information we collect in the following circumstances: 
-
-● Internal Analysis and Promotions. We may use information about you for our own internal statistical, design, operational purposes such as to estimate our audience size; measure aggregate traffic patterns; and understand demographic, customer interest and other trends among our guests and customers. 
-
-  
-● Company Sale. Information collected through our Site is considered a trade secret of Starbucks. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
-
-● Curriculum Vitae.  Any Curriculum Vitae sent to us by you in response to a job application advertised on this Site shall be used for our own internal purposes in order to fill the position advertised on this site.  However, Starbucks may hold the Personal Information supplied by you for a reasonable period thereafter in order to notify you of any similar positions that may become available.  Any Personal Information collected by Starbucks will be stored in its internal databases, such as its Human Resources database for reference. The information may be retained and used by Starbucks for a reasonable period and in accordance with data retention requirements of the law. 
+|  Privacy Policy 
 
 In the event that you submit any Personal Information to the Site you can request to assess the Personal Information stored by Starbucks about you by emailing us at customercareuk@starbucks.com. Starbucks may charge up to the maximum amount permissible at any time for this.
 
@@ -48,4 +23,6 @@ You may adjust your Web browsers to either alert you of the use of cookies or re
 ** Our Site is a general audience site that is not designed nor intended to collect Personal Information from children under the age of 13. We ask that parents supervise their children while online. 
 
 **Security.  
-** We use commercially reasonable efforts to store and maintain Personal Information to protect it from loss, misuse, alteration or destruction by any unauthorised party.
+** We use commercially reasonable efforts to store and maintain Personal Information to protect it from loss, misuse, alteration or destruction by any unauthorised party.  
+  
+---|---
