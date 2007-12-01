@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2007-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070414150544id_/http%3A//myhosting.com/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201071147id_/http%3A//myhosting.com/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,9 +58,8 @@ This statement is in effect as of January 1, 2004. myhosting.com will from time 
 **Questions**  
 If you have any questions about the privacy practices of myhosting.com, or you wish to access your Personal Information, please contact:
 
-Michael Carr |  E-mail: [michaelc@softcom.biz](mailto:michaelc@softcom.biz)  
+Legal and Compliance |  E-mail: [legal@softcom.biz](mailto:legal@softcom.biz)  
 ---|---  
 SoftCom Technology Consulting Inc. | Fax.      416.957.7401  
-Vice-President |    
 310 - 10 Bay Street |    
 Toronto, ON M5J 2R8 |  
