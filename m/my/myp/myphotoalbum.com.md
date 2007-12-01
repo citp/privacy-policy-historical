@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201141732id_/http%3A//www.myphotoalbum.com/privacy.shtml) for the most accurate reproduction.*
 
 # Online Photo Album - MyPhotoAlbum.com
 
-[](https://web.archive.org/index.shtml) |   
-|  | [home](https://web.archive.org/index.shtml) |  |  | [tour](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/tour.shtml) |  |  | [signup](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/signup.shtml) |  |  | [features](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/features.shtml) |  |  | [directory](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/directory.shtml) |  |  | [contests](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/contests.shtml) |  |  | [help](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/help.shtml) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  |   | [personalize](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/tour-p.shtml) | [print](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/print.shtml) | [share](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/share.shtml) | [community](https://web.archive.org/web/20051224143732id_/http%3A//www.myphotoalbum.com/community.shtml) | [sample albums](https://web.archive.org/sample-albums.shtml) | [the club](https://web.archive.org/club.shtml)  
----|---|---|---|---|---|---|---  
-|  |  |  |   
+|  |   
+|  |   
+|  | 
+
+[](https://web.archive.org/signup.shtml)
+
+  
+|   
 
 
 ****Privacy and Security Statement****
@@ -37,7 +39,7 @@ We may collect personal information that you provide us when you:
 
 We may also send you mail, email with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers. If you would like to stop receiving such promotional information from MyPhotoAlbum, please see the Privacy Preferences/Opt-Out section of this Privacy and Security Statement for further instructions on how to register your preferences. 
 
-**Privacy Preferences / Opt-Out:** To update email address To update your email profile for our communications please click on the Update Profile at the bottom of any email you received from MyPhotoAlbum. You may update these preferences at any time. To stop receiving any Communications sent by MyPhotoAlbum please click on the Unsubscribe link at the bottom of the email you received. In accordance with the CAN-SPAM law compliance, your opt-out will be honored within 10 business days. Also note, MyPhotoAlbum reserves the right, at a future date, to deny free services (such as a MyPhotoAlbum Library) to any member who has unsubscribed from a MyPhotoAlbum email. 
+**Privacy Preferences / Opt-Out:** To update your email addresses for our communications please click on the "My Account" link on the right side of your gallery. To stop receiving any Communications sent by MyPhotoAlbum please click on the Unsubscribe link at the bottom of the email you received. In accordance with the CAN-SPAM law compliance, your opt-out will be honored within 10 business days. Unsubscribing does not apply to communications that are directly related to your registration with MyPhotoAlbum, or the fulfillment of a specific transaction you have requested (for example, a membership status update, or an acknowledgment of a purchase order). Also note, MyPhotoAlbum reserves the right, at a future date, to deny free services (such as a MyPhotoAlbum Library) to any member who has unsubscribed from a MyPhotoAlbum email. 
 
 **Information about Others:** In our Online Stores or on some of the pages on our Sites, you can submit information about other people and compose personalized messages to them. For example, you can share a photo album with friends and family, this sends an email directly to a friend along with a personalized message composed by you. We consider the information you submit and the content of your personalized message to be a private communication between you and the recipient. MyPhotoAlbum will not use or disclose any information you provide about someone else for any purpose other than: 
 
@@ -125,10 +127,8 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Whil
 MyPhotoAlbum is a creation of FortuneCity.com Inc., a company founded in 1997 and headquartered in New York City. FortuneCity is comprised of a family of companies and divisions brought together to provide you with a full suite of photo and online products and services. The FortuneCity and divisions include: 
     * [Fortunecity](http://www.fortunecity.com/)
     * [MyPhotoAlbum](http://www.myphotoalbum.com/)
-    * [MyBlogSite](http://www.myblogsite.com/)
     * [Hotgames](http://www.hotgames.com/)
     * [Ampira Media](http://www.ampiramedia.com/)
-    * [Online Review Guide](http://www.onlinereviewguide.com/)
     * [V3](http://www.v3.com/)
 
 
@@ -145,7 +145,7 @@ You can contact us or otherwise communicate your privacy concerns by:
     * accessing your registration information on our Sites 
     * writing us at the address below (please include your e-mail address and phone number with your correspondence along with the information needed to support your request): 
 
-MyPhotoAlbumAttention:   
+MyPhotoAlbum Attention:   
 Privacy Official   
 Customer Care  
 322 8th Ave, 11th Floor   
@@ -165,5 +165,10 @@ Copyright © 2020 MyPhotoAlbum. All Rights Reserved.
 
   
   
----|---|---  
-[about](https://web.archive.org/about.shtml)   |   t&c's   |   privacy   |   [pricing](https://web.archive.org/pricing.shtml)   |   [help](https://web.archive.org/help.shtml)   |   contact   |   © 1997 - 2020 FortuneCity.com Inc. All Rights Reserved
+---|---  
+|  |   
+  | 
+
+©1997 - 2020 MyPhotoAlbum Inc. All Rights Reserved
+
+|  
