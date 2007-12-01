@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadkilltshirts.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528192037id_/http%3A//www.roadkilltshirts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadkilltshirts.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201074749id_/http%3A//www.roadkilltshirts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Note, the privacy practices set forth in this privacy policy are for this web si
   
 ### Collection of Information
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.  
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request and future marketing. This information is only used to fulfill your specific request, keep you informed of specials from time to time which you can opt out of. You will not be re-added unless you order from us again. At which time you can opt out again.  
   
 ### Cookie/Tracking Technology
 
