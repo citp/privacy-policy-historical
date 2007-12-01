@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509070156id_/http%3A//www.sdccu.com/pages/home/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201153655id_/http%3A//www.sdccu.com/pages/home/privacypolicy.asp) for the most accurate reproduction.*
 
 # San Diego County Credit Union
 
@@ -84,6 +84,6 @@ Please remember that when you use a link to go from our Site to another web site
 If we decide to change this Policy, we will post those changes on our Homepage so that Site users are kept aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether to permit us to use their information in this different manner. We will use information in accordance with the privacy policy operating at the time the information was collected.
 
 **Children's Privacy**  
-Our Site is not intended for use by children. We do not knowingly market to, nor solicit data from, children. [Click here](https://web.archive.org/web/20070509070156id_/http%3A//www.sdccu.com/pages/home/legaldisclosure.asp) for further information on terms governing use of this Site.
+Our Site is not intended for use by children. We do not knowingly market to, nor solicit data from, children. [Click here](https://web.archive.org/web/20071201153655id_/http%3A//www.sdccu.com/pages/home/legaldisclosure.asp) for further information on terms governing use of this Site.
 
 **This Policy is effective 12-01-05**
