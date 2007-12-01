@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425085644id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.org privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201132439id_/http%3A//www.nyp.org/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Notice - New York Presbyterian Hospital
 
