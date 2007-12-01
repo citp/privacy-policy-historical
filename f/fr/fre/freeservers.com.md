@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeservers.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629000745id_/http%3A//www.freeservers.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeservers.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201195536id_/http%3A//www.freeservers.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- Freeservers.com
 
