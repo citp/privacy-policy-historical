@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614124905id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120614id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy%26trk%3Dgfoot_priv) for the most accurate reproduction.*
 
 # LinkedIn: Privacy Policy
 
 **Last Updated:July 14, 2006**
 
-[](https://web.archive.org/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fivalidate%2Ephp%3Furl%3Dwww%2Elinkedin%2Ecom%26sealid%3D103 "New window will open")
+[](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fivalidate%2Ephp%3Furl%3Dwww%2Elinkedin%2Ecom%26sealid%3D103&urlhash=BFmv "New window will open")
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
@@ -68,7 +68,7 @@ These general targets may also be used by ad networks to display targeted ads on
 
 You may opt-out of use of Web beacons in LinkedIn pages that you view and of placement of a cookie by ad networks in your browser. To opt-out [click here](https://www.linkedin.com/secure/settings?advt=) and go to the “Advertising” section at the bottom and change the setting there to “No”.
 
-In addition, this Web site uses the technology of DoubleClick Inc. to serve ads only when you visit this site. DoubleClick may use non-personal information, such as your state or zip code, in order to provide advertisements about goods and services that may be of interest to you while you visit this Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, please [click here](https://web.archive.org/redirect?url=http%3A%2F%2Fwww%2Edoubleclick%2Ecom%2Fus%2Fabout_doubleclick%2Fprivacy%2F "New window will open"). Note that when you opt-out of the DoubleClick cookie a special DoubleClick “opt-out” cookie will replace the DoubleClick Ad cookie. If you ever delete the cookies on your browser you will need to again opt-out of the DoubleClick Ad Cookie.
+In addition, this Web site uses the technology of DoubleClick Inc. to serve ads only when you visit this site. DoubleClick may use non-personal information, such as your state or zip code, in order to provide advertisements about goods and services that may be of interest to you while you visit this Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by DoubleClick, please [click here](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Edoubleclick%2Ecom%2Fus%2Fabout_doubleclick%2Fprivacy%2F&urlhash=_fPN "New window will open"). Note that when you opt-out of the DoubleClick cookie a special DoubleClick “opt-out” cookie will replace the DoubleClick Ad cookie. If you ever delete the cookies on your browser you will need to again opt-out of the DoubleClick Ad Cookie.
 
 If you opt-out you will lose the potential benefit of receiving ads that are more targeted to your interests.
 
