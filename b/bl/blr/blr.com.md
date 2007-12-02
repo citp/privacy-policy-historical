@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610171900id_/http%3A//www.blr.com/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202065744id_/http%3A//www.blr.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Business & Legal Reports, Inc - Human resources, compensation, environmental, and safety compliance and training
 
