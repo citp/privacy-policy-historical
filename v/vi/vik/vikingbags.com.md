@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vikingbags.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527225352id_/http%3A//www.vikingbags.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingbags.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202074835id_/http%3A//www.vikingbags.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# motorcycle saddlebags privacy policy
 
-|   | 
+| 
 
 **Privacy Policy:**  
 Our company is committed to protecting your privacy. This privacy statement discloses what information we gather about you when you visit our Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties. 
