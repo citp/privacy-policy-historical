@@ -1,72 +1,74 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614225641id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202084308id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
 [](http://www.jamesvillas.co.uk/)
 
-08700 84 15 84 
+0800 027 6191
 
 Mon-Fri 8am-9pm  
 Sat-Sun 9am-9pm
 
-  * [Destinations](https://web.archive.org/regions/index.cfm?id=24597250,226872839)
-    * [Algarve](https://web.archive.org/regions/algarve/index.cfm?id=24597250,226872839)
-    * [Barbados](https://web.archive.org/regions/barbados/index.cfm?id=24597250,226872839)
-    * [Croatia](https://web.archive.org/regions/croatia/index.cfm?id=24597250,226872839)
-    * [Cote D'Azur](https://web.archive.org/regions/coted'azur/index.cfm?id=24597250,226872839)
-    * [Cyprus](https://web.archive.org/regions/Cyprus/index.cfm?id=24597250,226872839)
-    * [Florida >](https://web.archive.org/regions/florida.cfm?id=24597250,226872839)
-      * [Florida Keys](https://web.archive.org/regions/florida_article/keysflorida.cfm?id=24597250,226872839)
-      * [Gulf Coast](https://web.archive.org/regions/gulfcoastflorida/index.cfm?id=24597250,226872839)
-      * [Miami](https://web.archive.org/regions/florida_article/miamiflorida.cfm?id=24597250,226872839)
-      * [Orlando](https://web.archive.org/regions/orlandoflorida/index.cfm?id=24597250,226872839)
-      * [Twin Centres](https://web.archive.org/regions/florida/twin-centres.cfm?id=24597250,226872839)
-    * [Gozo](https://web.archive.org/regions/Gozo/index.cfm?id=24597250,226872839)
-    * [Mainland Spain >](https://web.archive.org/regions/mainlandspain.cfm?id=24597250,226872839)
-      * [Andalucia](https://web.archive.org/regions/andalucia/index.cfm?id=24597250,226872839)
-      * [Costa Blanca](https://web.archive.org/regions/costablanca/index.cfm?id=24597250,226872839)
-      * [Costa Calida](https://web.archive.org/regions/costacalida/index.cfm?id=24597250,226872839)
-      * [Costa de la Luz ](https://web.archive.org/regions/CostadelaLuz/index.cfm?id=24597250,226872839)
-      * [Costa del Sol ](https://web.archive.org/regions/Costadelsol/index.cfm?id=24597250,226872839)
-    * [Malta](https://web.archive.org/regions/Malta/index.cfm?id=24597250,226872839)
-    * [Provence](https://web.archive.org/regions/Provence/index.cfm?id=24597250,226872839)
-    * [Sardinia](https://web.archive.org/regions/Sardinia/index.cfm?id=24597250,226872839)
-    * [The Balearic Islands >](https://web.archive.org/regions/thebalearicislands.cfm?id=24597250,226872839)
-      * [Ibiza](https://web.archive.org/regions/ibiza/index.cfm?id=24597250,226872839)
-      * [Mallorca](https://web.archive.org/regions/mallorca/index.cfm?id=24597250,226872839)
-      * [Menorca](https://web.archive.org/regions/menorca/index.cfm?id=24597250,226872839)
-    * [The Canary Islands >](https://web.archive.org/regions/thecanaryislands.cfm?id=24597250,226872839)
-      * [Fuerteventura](https://web.archive.org/regions/fuerteventura/index.cfm?id=24597250,226872839)
-      * [Gran Canaria](https://web.archive.org/regions/grancanaria/index.cfm?id=24597250,226872839)
-      * [Lanzarote](https://web.archive.org/regions/lanzarote/index.cfm?id=24597250,226872839)
-      * [Tenerife](https://web.archive.org/regions/tenerife/index.cfm?id=24597250,226872839)
-    * [The Greek Islands >](https://web.archive.org/regions/thegreekislands.cfm?id=24597250,226872839)
-      * [Corfu](https://web.archive.org/regions/corfu/index.cfm?id=24597250,226872839)
-      * [Crete](https://web.archive.org/regions/crete/index.cfm?id=24597250,226872839)
-      * [Kefalonia](https://web.archive.org/regions/Kefalonia/index.cfm?id=24597250,226872839)
-      * [Lefkas](https://web.archive.org/regions/lefkas/index.cfm?id=24597250,226872839)
-      * [Meganissi](https://web.archive.org/regions/Meganissi/index.cfm?id=24597250,226872839)
-      * [Paxos](https://web.archive.org/regions/Paxos/index.cfm?id=24597250,226872839)
-      * [Rhodes](https://web.archive.org/regions/Rhodes/index.cfm?id=24597250,226872839)
-      * [Skopelos](https://web.archive.org/regions/Skopelos/index.cfm?id=24597250,226872839)
-      * [Zakynthos](https://web.archive.org/regions/Zakynthos/index.cfm?id=24597250,226872839)
-    * [Turkey](https://web.archive.org/regions/Turkey/index.cfm?id=24597250,226872839)
-    * [Tuscany](https://web.archive.org/regions/Tuscany/index.cfm?id=24597250,226872839)
-    * [All Destinations](https://web.archive.org/regions/index.cfm?id=24597250,226872839)
-  * [Best of James](https://web.archive.org/themes/bestofjames.cfm?id=24597250,226872839)
-  * [Villa Resorts](https://web.archive.org/themes/villaresorts.cfm?id=24597250,226872839)
-  * [Late Deals](https://web.archive.org/latedeals/index.cfm?id=24597250,226872839)
-  * [Brochure](https://web.archive.org/brochure/brochure.cfm?id=24597250,226872839)
-  * [Information](https://web.archive.org/information/index.cfm?id=24597250,226872839)
-    * [Contact Us](https://web.archive.org/contact/contact.cfm?id=24597250,226872839)
-    * [Frequently Asked Questions](https://web.archive.org/information/faq.cfm?id=24597250,226872839)
-    * [Essential Information](https://web.archive.org/information/essentialinfo.cfm?id=24597250,226872839)
-    * [Booking Information](https://web.archive.org/information/bookinginfo.cfm?id=24597250,226872839)
-    * [Insurance Conditions](https://web.archive.org/information/insurancetc.cfm?id=24597250,226872839)
-    * [About James Villas](https://web.archive.org/information/about.cfm?id=24597250,226872839)
-    * [Career Opportunities](https://web.archive.org/information/jobs.cfm?id=24597250,226872839)
-  * [My Account](https://web.archive.org/login/login.cfm?id=24597250,226872839)
-    * [Login](https://web.archive.org/login/login.cfm?id=24597250,226872839)
+  * [Destinations](http://www.jamesvillas.co.uk/regions/index.cfm?id=28757177,290948712)
+    * [Algarve](http://www.jamesvillas.co.uk/regions/algarve/index.cfm?id=28757177,290948712)
+    * [Barbados](http://www.jamesvillas.co.uk/regions/barbados/index.cfm?id=28757177,290948712)
+    * [Croatia](http://www.jamesvillas.co.uk/regions/croatia/index.cfm?id=28757177,290948712)
+    * [Cote D'Azur](http://www.jamesvillas.co.uk/regions/coted'azur/index.cfm?id=28757177,290948712)
+    * [Cyprus](http://www.jamesvillas.co.uk/regions/Cyprus/index.cfm?id=28757177,290948712)
+    * [Egypt](http://www.jamesvillas.co.uk/regions/egypt/index.cfm?id=28757177,290948712)
+    * [Florida >](http://www.jamesvillas.co.uk/regions/florida.cfm?id=28757177,290948712)
+      * [Florida Keys](http://www.jamesvillas.co.uk/regions/florida_article/keysflorida.cfm?id=28757177,290948712)
+      * [Gulf Coast](http://www.jamesvillas.co.uk/regions/gulfcoastflorida/index.cfm?id=28757177,290948712)
+      * [Miami](http://www.jamesvillas.co.uk/regions/florida_article/miamiflorida.cfm?id=28757177,290948712)
+      * [Orlando](http://www.jamesvillas.co.uk/regions/orlandoflorida/index.cfm?id=28757177,290948712)
+      * [Twin Centres](http://www.jamesvillas.co.uk/regions/florida/twin-centres.cfm?id=28757177,290948712)
+    * [Gozo](http://www.jamesvillas.co.uk/regions/Gozo/index.cfm?id=28757177,290948712)
+    * [Mainland Spain >](http://www.jamesvillas.co.uk/regions/mainlandspain.cfm?id=28757177,290948712)
+      * [Andalucia](http://www.jamesvillas.co.uk/regions/andalucia/index.cfm?id=28757177,290948712)
+      * [Costa Blanca](http://www.jamesvillas.co.uk/regions/costablanca/index.cfm?id=28757177,290948712)
+      * [Costa Calida](http://www.jamesvillas.co.uk/regions/costacalida/index.cfm?id=28757177,290948712)
+      * [Costa de la Luz ](http://www.jamesvillas.co.uk/regions/CostadelaLuz/index.cfm?id=28757177,290948712)
+      * [Costa del Sol ](http://www.jamesvillas.co.uk/regions/Costadelsol/index.cfm?id=28757177,290948712)
+    * [Malta](http://www.jamesvillas.co.uk/regions/Malta/index.cfm?id=28757177,290948712)
+    * [Provence](http://www.jamesvillas.co.uk/regions/Provence/index.cfm?id=28757177,290948712)
+    * [Sardinia](http://www.jamesvillas.co.uk/regions/Sardinia/index.cfm?id=28757177,290948712)
+    * [The Balearic Islands >](http://www.jamesvillas.co.uk/regions/thebalearicislands.cfm?id=28757177,290948712)
+      * [Ibiza](http://www.jamesvillas.co.uk/regions/ibiza/index.cfm?id=28757177,290948712)
+      * [Mallorca](http://www.jamesvillas.co.uk/regions/mallorca/index.cfm?id=28757177,290948712)
+      * [Menorca](http://www.jamesvillas.co.uk/regions/menorca/index.cfm?id=28757177,290948712)
+    * [The Canary Islands >](http://www.jamesvillas.co.uk/regions/thecanaryislands.cfm?id=28757177,290948712)
+      * [Fuerteventura](http://www.jamesvillas.co.uk/regions/fuerteventura/index.cfm?id=28757177,290948712)
+      * [Gran Canaria](http://www.jamesvillas.co.uk/regions/grancanaria/index.cfm?id=28757177,290948712)
+      * [Lanzarote](http://www.jamesvillas.co.uk/regions/lanzarote/index.cfm?id=28757177,290948712)
+      * [Tenerife](http://www.jamesvillas.co.uk/regions/tenerife/index.cfm?id=28757177,290948712)
+    * [The Greek Islands >](http://www.jamesvillas.co.uk/regions/thegreekislands.cfm?id=28757177,290948712)
+      * [Corfu](http://www.jamesvillas.co.uk/regions/corfu/index.cfm?id=28757177,290948712)
+      * [Crete](http://www.jamesvillas.co.uk/regions/crete/index.cfm?id=28757177,290948712)
+      * [Kefalonia](http://www.jamesvillas.co.uk/regions/Kefalonia/index.cfm?id=28757177,290948712)
+      * [Lefkas](http://www.jamesvillas.co.uk/regions/lefkas/index.cfm?id=28757177,290948712)
+      * [Meganissi](http://www.jamesvillas.co.uk/regions/Meganissi/index.cfm?id=28757177,290948712)
+      * [Paxos](http://www.jamesvillas.co.uk/regions/Paxos/index.cfm?id=28757177,290948712)
+      * [Rhodes](http://www.jamesvillas.co.uk/regions/Rhodes/index.cfm?id=28757177,290948712)
+      * [Skopelos](http://www.jamesvillas.co.uk/regions/Skopelos/index.cfm?id=28757177,290948712)
+      * [Zakynthos](http://www.jamesvillas.co.uk/regions/Zakynthos/index.cfm?id=28757177,290948712)
+    * [Turkey](http://www.jamesvillas.co.uk/regions/Turkey/index.cfm?id=28757177,290948712)
+    * [Tuscany](http://www.jamesvillas.co.uk/regions/Tuscany/index.cfm?id=28757177,290948712)
+    * [All Destinations](http://www.jamesvillas.co.uk/regions/index.cfm?id=28757177,290948712)
+  * [Best of James](http://www.jamesvillas.co.uk/themes/bestofjames.cfm?id=28757177,290948712)
+  * [Villa Resorts](http://www.jamesvillas.co.uk/themes/villaresorts.cfm?id=28757177,290948712)
+  * [Late Deals](http://www.jamesvillas.co.uk/latedeals/index.cfm?id=28757177,290948712)
+  * [Brochure](http://www.jamesvillas.co.uk/brochure/brochure.cfm?id=28757177,290948712)
+  * [Information](http://www.jamesvillas.co.uk/information/index.cfm?id=28757177,290948712)
+    * [Contact Us](http://www.jamesvillas.co.uk/contact/contact.cfm?id=28757177,290948712)
+    * [Frequently Asked Questions](http://www.jamesvillas.co.uk/information/faq.cfm?id=28757177,290948712)
+    * [Essential Information](http://www.jamesvillas.co.uk/information/essentialinfo.cfm?id=28757177,290948712)
+    * [Booking Information](http://www.jamesvillas.co.uk/information/bookinginfo.cfm?id=28757177,290948712)
+    * [Insurance Conditions](http://www.jamesvillas.co.uk/information/insurancetc.cfm?id=28757177,290948712)
+    * [About James Villas](http://www.jamesvillas.co.uk/information/about.cfm?id=28757177,290948712)
+    * [Career Opportunities](http://www.jamesvillas.co.uk/information/jobs.cfm?id=28757177,290948712)
+    * [Gift Vouchers](http://www.jamesvillas.co.uk/information/giftvouchers.cfm?id=28757177,290948712)
+  * [My Account](http://www.jamesvillas.co.uk/login/login.cfm?id=28757177,290948712)
+    * [Login](http://www.jamesvillas.co.uk/login/login.cfm?id=28757177,290948712)
 
 
 
@@ -84,7 +86,8 @@ Flexibility
 
 
 Select Departure Date  
-Day  Month  Year 
+Day  Month  Year    
+
 
 Select Duration
 
@@ -95,13 +98,10 @@ under 2
 
 
 Preferred Airport  
-Already booked flights?   
 
 
 Order By  
 
-
-[](https://web.archive.org/atol.cfm "ABTA/ATOL Information")
 
 ## Privacy Policy
 
