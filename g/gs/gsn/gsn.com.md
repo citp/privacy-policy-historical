@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428225519id_/http%3A//gsn.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202071133id_/http%3A//www.gsn.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # GSN - The Network For Games
 
@@ -43,7 +43,13 @@ As part of the registration process to create a GSN Account or to participate in
 
 In general, you can browse GSN while remaining anonymous. However, in many cases, if you wish to interact on the Website, GSN will collect certain non-personally identifiable information about your use of the Services. For example, GSN might collect information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your “click path” through the GSN Website, the Website or advertisement from which you linked to the GSN Website, and/or the Website that you go to when leaving the GSN Website. In order to do this, GSN may use several technologies and perform system checks when a user visits the Website. Examples of such technologies are cookies (as described below), transparent gifs, frames, server log analysis, and other technologies as they are developed. All technologies implemented on the Website are used to enhance the user experience. 
 
-GSN uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and transparent GIF files, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>
+GSN uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners, ValueClick, Advertising.com, Tacoda and DoubleClick. These files enable ValueClick, Advertising.com, Tacoda and DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with ValueClick, Advertising.com, Tacoda or DoubleClick. With both cookies and transparent GIF files, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit their web sites at:
+
+<http://www.valueclick.com/perl/optout>  
+<http://www.advertising.com/privacy_policy.php>  
+<http://tacoda.com/notice/faq_privacy.html>  
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+<http://www.doubleclick.net/us/corporate/privacy>
 
 As discussed above, in general, GSN uses information to improve and enhance the Services. However, from time to time, GSN may share this information with other entities in an aggregate, non-personally identifiable form to show general demographic and preference information among users of the GSN Website. 
 
@@ -113,4 +119,4 @@ GSN is dedicated to protecting your personal information and welcomes comments a
 
 GSN reserves the right to change this policy at any time by notifying registered guests via email of the existence of a new Privacy Policy and posting it on the Website. Any changes to the Privacy Policy shall be effective when posted. 
 
-Last Updated: 1/7/04 
+Last Updated: 9/5/07
