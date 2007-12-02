@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404024506id_/http%3A//www.eyeonspain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202213841id_/http%3A//www.eyeonspain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Eye on Spain privacy policy
 
