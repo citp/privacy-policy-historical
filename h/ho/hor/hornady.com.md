@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224233913id_/http%3A//www.hornady.com/story.php%3Fs%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202153559id_/http%3A//www.hornady.com/story.php%3Fs%3D88) for the most accurate reproduction.*
 
 # Hornady
 
