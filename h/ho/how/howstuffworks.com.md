@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614072554id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202114652id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Howstuffworks "Privacy Statement for HowStuffWorks.com"
 
