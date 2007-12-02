@@ -1,98 +1,268 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630124306id_/http%3A//ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203002601id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# ebookers.com : Privacy Policy
+# 
 
-   
-|   |  |  Privacy policy  
----  
-   
-Privacy Statement for ebookers.com  
-The following discloses our information gathering and dissemination practices for our [e-commerce website](http://www.ebookers.com/) . 
+This Website is operated by Flightbookers Limited (a company registered in England and Wales under number 01616788 (VAT number **381 8626 26** ) (either trading as itself or as its ABTA registered trading name ebookers.com) (“ebookers”, “us” or “we”) whose registered office is 140 Aldersgate Street, London, EC1A 4HY and whose trading address is 140 Aldersgate Street, London, EC1A 4HY. Your privacy is very important to ebookers. This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Website, in telephone or e-mail communications, or in competitions or prizedraws.
 
-What information do we collect?  
-Site and Service Updates  
-Information from competitions  
-Job Applications  
-Our Opt Out Policy  
-Sharing the information   
-Cookies  
-Links  
-Security  
-Changes to Privacy Statement   
-  
-What information do we collect and how we use it?  
-As a member of ebookers.com, we ask you to provide us with some personal information such as your name, email address and phone number. We also ask you to choose a login name and password in order to access some of our services. 
-* We need your e-mail address in order to send you confirmation of online bookings, customer service emails and to confirm your new member registration. During your member registration, you will have the option to receive travel offers by email - if you do not wish to continue to receive these travel offers by email. You can opt out at anytime - see our Opt Out policy described below.   
+ **Simply put:**
 
-* We collect your credit card number and expiration date to order and book a flight, hotel or car rental.   
+  * We will not collect Personal Information without your knowledge and permission;
+  * We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy;
+  * We will allow you to view, correct or remove your Personal Information; and
+  * We will take reasonable steps to protect the security of the Personal Information we collect from you.
 
-* We would use your phone number if we need to contact you urgently (for example if you had made a mistake entering your email address).   
 
-* We collect and store your credit card information in our internal database. Only authorized staff have access to this information and the same is stored and protected by firewalls and intrusion detection systems to prevent any unauthorised access.   
 
-* We ask you where did you hear about ebookers.com and we use this information to analyse the effectiveness of the various publicity campaigns.   
+The remainder of this policy describes our Personal Information handling practices in detail.
 
-* In order to use the Flight Watch service you need to provide us with your mobile telephone number. This number is only used to fulfil the Flight Watch function and is not shared with third parties.   
+ **1\. Definitions**
 
-* We log domain names and/or IP addresses, and browser type for our internal site traffic statistics. IP addresses, etc. are not tied to personally identifiable information.  
+In this Privacy Policy, terms that commence with a capital letter are defined in this section or in the preamble
 
-* We request details of [affiliate's](https://web.archive.org/about_us/affiliates.html) websites to ensure the suitability of such websites.   
+" **Guest** " means an individual who can search and purchase Products or Services on the Website without being a Member
 
-* We use cookies to monitor which parts of the Site are more interesting to you. 
+" **Member** " means an individual who has registered with the Website. Members choose a Member ID and a password
 
-This site contains links to other sites that we are not partnered with, however, ebookers.com is not responsible for the privacy practices or the content of such websites. Sites we partner with have the same look and feel as our ebookers.com site. They use your information only for supplying the service they offer, and may not use your personally identifiable information for anything other than the primary purpose for which the information was collected. 
+" **Member ID** " means the e-mail address you use (with your password) to login to our Website
 
-Site and Service Updates  
-We also send the user site and service announcements by email. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.   
-  
-Top  
-  
-Information gathered from competitions  
-We occasionally run competitions on our site. We may ask for personal information to contact you if necessary (with a winner's notification, for example). You will also have the choice to be added to our mailing list for future promotions and travel offers. You may opt-out at any time of receiving future mailings, see the Opt Out section below. Abbreviated customer names may be used on our competition winners page as well.  
-  
-Top  
-Job Applications  
-There is a section of the website where you can [apply for a job](https://web.archive.org/jobs/index.html) with ebookers.com. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else.   
-  
-Top  
-Our Opt Out Policy  
-You can un-subscribe from travel offers by email at any time by following the instructions at the bottom of the newsletter, or by sending a blank e-mail to [customercare@ebookers.com](mailto:customercare@ebookers.com)  
-  
-Top  
-Sharing the information our Site gathers/tracks  
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+" **ebookers** " or " **we** " means ebookers Limited and its subsidiaries and group companies
 
-We do not sell customer names or other private profile information to third parties and have no intention of doing so in the future. Occasionally, ebookers.com will hire a third party to act on our behalf for projects such as market research surveys and contest entry processing and will provide information to these third parties specifically for use in connection with these projects. The information we provide to such third parties is protected by a confidentiality agreement and is to be used solely for completing the specific project.   
-  
-  
-Top  
-Cookies  
-We at ebookers.com are constantly researching the latest in technology to ensure that we are able to give you the most effective, informative and enjoyable experience on our site. An integral part of this is the use of permanent cookies. A cookie is a small text file that our site may send to your hard drive when you are logged on to the ebookers site. When you next visit ebookers, our site may request the retrieval of one of these cookies, and the information received will personalise our content, offers and services to suit your individual travel preferences. 
+" **Personal Information** " means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address and telephone number, billing and account information, and other information incidental to providing Products or Services (including information about individuals travelling with you)
 
-If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many websites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. However, we tie cookie usage to personally identifiable information on our end to provide personalised travel preferences. Also, you can be assured that the information stored in any cookies initiated by ebookers cannot be accessed by any other websites. 
+" **Products or Services** " means the airline, travel, hotel accommodation, car rental, ground transportation, tours, attractions, travel insurance and other items available from the Website
 
-ebookers.com works with a third party advertising company to serve ads when you visit our website. This company may use information (not including your name, address, email address or telephone number) about your visit to this website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.doubleclick.net/us/corporate/privacy).   
-  
-  
-Top  
-Links   
-This website contains links to other websites. We have partnered with some of them. Please note that when you click on one of these links, you are 'clicking' to another website. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. However, our partnered sites have the same look and feel to ours, and may only use the personally identifiable information collected to fulfill services they are designated to provide. For example, moneygator.com provides financial services on our ebookersfinance section.   
-  
-  
-Top  
-Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. At no time are the customers debit/credit card details transmitted un-encrypted over the Internet. We also operate behind a firewall to ensure there is no unauthorised access to our systems.  
-  
-  
-Top  
-Changes to our Privacy Statement   
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we would notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+To " **Purchase** " means to book, reserve or purchase
 
-If you have questions or concerns regarding this statement, you should first contact [customercare@ebookers.com](mailto:customercare@ebookers.com)  
-  
-  
-Top  
-   
-  
-The packages which include flights and flight only bookings are ATOL protected by the Civil Aviation Authority, except when tickets for scheduled flights are sent to you within 24 hours of payment being accepted or in relation to low cost flights. Our ATOL number is ATOL 2562. Protection extends primarily to customers who book and pay in the United Kingdom. Click on the ATOL logo if you want to know more. We are also bonded with ABTA (our ABTA number is D0806), IATA and a member of PATA and ASTA.  
- 
+" **Session Data** " means usage information, such as the type of Internet browser and operating system an individual use, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the individual's site, pages viewed, domain name of the individual, and number of cookies accumulated
+
+" **Website** " means the [http://www.ebookers.co.uk](http://www.ebookers.co.uk/) site and its respective sub sites together with the respective content, Products and Services available from that site and sub sites
+
+" **Subscriber** " means an individual who elects to receive offers or promotions from ebookers without becoming a Member or a Guest.
+
+ **2\. Consent**
+
+BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR WEBSITE, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
+
+If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with Products or Services that can be offered on our Website only if we have access to certain Personal Information.
+
+ **Minors**
+
+Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use, or Purchase the Products or Services available on our Website. We do not knowingly collect Personal Information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
+
+ **Other Travellers or Contacts**
+
+If you purchase products or services using your Member ID and password, or if you provide us with contact information of a third party at any time, you must make sure that you have the right to do so. By providing the Personal Information of another traveller, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
+
+ **3\. What Personal Information we collect**
+
+We collect only such information as necessary to provide Products and Services to you.
+
+ **When you are just visiting**
+
+You can visit certain areas of our Website without revealing who you are or signing-in. When you visit our Website as a Visitor, Guest, or Member, we collect Session Data through cookies and pixel tags.
+
+ **When you register as a Member**
+
+If you register with us as a Member, we collect Personal Information that is necessary to provide the Products and Services offered on our Website. We require that you provide your name and e-mail address. You also need to choose a password, which will be required to gain access to portions of our Website reserved for Member use. We might also request your home postcode.
+
+You may elect to indicate your preferences for seat selection or meal requests, or provide details about your participation in loyalty or awards programs and applicable membership numbers, and other ticketing options.
+
+ **When you Purchase Products or Services as a Member**
+
+When you Purchase Products or Services from our Website as a Member, you must provide payment or other necessary information. This includes, for example, billing information, driver information, or similar information as required by the travel service provider(s).
+
+ **When you Purchase Products or Services for a third party**
+
+When you Purchase Products or Services for a third party using your Member ID and password, we will collect that third party's name and contact information, and other information as required by the travel service provider(s), so that we can complete the booking.
+
+ **When you use the Website as a "Guest"**
+
+If you are not a Member, you may elect to use our Website as a Guest. If you Purchase Products or Services as a Guest, you must provide Personal Information to complete the booking (for example, name, phone number, billing information), as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Purchase. With the confirmation, we will provide you with a temporary password so that you can return to the Website if you wish to review information about your Purchase.
+
+ **When you "Subscribe"**
+
+When you become a Subscriber, we collect your name and email address, so that you may receive offers or promotions from ebookers without becoming a Member or Guest.
+
+ **When you participate in competitions and prizedraws**
+
+We may offer you the chance to win a variety of travel related prizes by sponsoring competitions and prizedraws. If you choose to participate, we will collect Personal Information, such as your full name, e-mail address, or mailing address. If a third party administers the contest, your participation may be subject to that other party's terms and conditions, and privacy policy. Detailed information about these terms will be provided on the applicable form you will be asked to fill out.
+
+ **When we advertise on third party sites**
+
+When you visit a site on which we advertise, and click through our advertisement, we may place cookies on your computer, or use pixel tags. The information that we collect through this technology is not personally identifiable.
+
+ **When you call or write to our Customer Service**
+
+When you call or write to our Customer Service, we collect contact information (name, phone number, mailing address or e-mail address) and information about the relevant Purchase as necessary to assist you. For example, if you call for assistance with a pre-existing Purchase, or to make a Purchase, we may request your contact and billing information.
+
+ **When we send e-mails or e-newsletters**
+
+When we send e-mails, e-newsletters, or when you forward a promotion or search results to a third party, using the "Send to a Friend" feature, we may insert a pixel in the e-mail.
+
+ **4\. How we use the information we collect**
+
+We use Personal Information in order to provide and enhance the Products or Services offered on our Website:
+
+  * To record your travel preferences, to make reservations or acquire travel insurance on your behalf, or to communicate with you about your travel plans;
+  * To issue invoices, administer accounts, collect and process payments;
+  * To provide tips or guidance on how to use our Website, inform you of new features on our Website, or provide other information that may be of interest to users;
+  * To personalize the service we provide to you, tailor your experience at our Website to your interests and make more appropriate travel recommendations;
+  * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information or you have not advised us that you do not wish to receive such communications;
+  * To manage our Website, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Website is as efficient as possible;
+  * To process and track your transactions and to send you information about our and our group companies and business partners' products and services and other information and materials that may be of interest to you but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
+  * To develop, enhance, market, sell or provide ebookers' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
+  * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
+  * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
+  * To audit compliance with our policies and contractual obligations;
+  * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
+  * For any other purpose to which you consent.
+
+
+
+ **Competitions – Prizedraws**
+
+If you participate in a competition, promotion or prizedraws we will use your Personal Information to notify you if you win. We may send you additional communications only if you have not specifically requested to receive our newsletters, e-mails, personalized offers or other promotional materials when filling out the contest or promotion form. We will share the information with the entities with which we may have teamed to propose the joint promotion. If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party's privacy policy. We are not responsible for such third parties. You should carefully review these third parties' terms and conditions.
+
+ **Session Data**
+
+We use Session Data, collected through cookies and pixel tags, to better understand how our Website is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Website, the variety of searches of our Website's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Website. We also use this information to improve our Website content and ease of use, to personalize and improve your individual viewing experiences on our Website, and provide information that may be of interest to you.
+
+ **Pixel Tags**
+
+We use pixel tags to monitor the open rate of our communications. This helps us understand the effectiveness of communications we send. We do not use this information for any other purpose.
+
+ **Aggregated Information**
+
+Aggregated information is information, recorded in any form, about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. We may use aggregated information to describe our user base to current or potential partners, investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Website. For example, if users of our Website who have travelled to a particular destination told us that they had positive experiences at a hotel in that destination, we might recommend that hotel.
+
+ **What we do NOT do**
+
+We do not and will not, at any time, request your credit card information, Member ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
+
+ **5\. To whom we disclose Personal Information**
+
+From time to time, we may disclose your Personal Information as follows:
+
+  * To those travel service providers with which you make arrangements through our Website, for example, airlines, car rental, hotel, ground transportation or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.
+  * To organizations that perform services for or on behalf of ebookers, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Website or to facilitate usage by a Visitor. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the European Economic Area ("EEA"). Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to ebookers, and under the instructions of ebookers, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the EEA.
+  * We may collaborate with other companies to offer you additional Products or Services, for example, through promotions, competitions and prizedraws. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested.
+
+
+
+This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
+
+  * To protect our Website and our rights under our website terms and conditions of use; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.
+  * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.
+  * Where the information is public.
+  * To our insurers and to regulatory agencies.
+
+
+
+ **Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent. Such circumstances may include:**
+
+  * If required to comply with an order or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records.
+  * If we believe in good faith that a law, regulation, rule or guideline requires it.
+  * To a person who needs the information because of an emergency that threatens the life, health, or security of an identifiable person or group.
+  * Where it is necessary to collect monies owing to us.
+
+
+
+ **Security**
+
+In order to protect national security, and to ensure travel security, the United States Government and other governments may request access to passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such request, ebookers and/or its providers will give access to all the information you provide at the time of making your reservation to the applicable government agencies of the countries to or from which you are travelling.
+
+ **6\. How we retain and store Personal information**
+
+ **My Stuff**
+
+If you are an ebookers Member, we combine your Personal Information in what we call "My Stuff", which consists of "My Trips" and "My Account". You can access My Stuff from the Homepage of our Website, after logging onto our Website as a registered Member. My Trips contains information about your current, cancelled, or past trips.
+
+My Account contains your name, e-mail address, password, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Purchase a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers, and other travel preferences.
+
+We also keep in My Account all other information that you have elected to provide us, such as gender, favourite activities and lifestyle preferences, and favourite destinations.
+
+My Account also contains a listing of the e-mails, e-newsletters and other communications we offer to send, and that you have elected to receive or not.
+
+You can access, modify, or delete this Personal Information from time to time as described in paragraph 8 below.
+
+ **Third Parties' Personal Information**
+
+We will retain in you’re My Stuff folder the Personal Information of individuals for whom you have made reservations.
+
+You can access, modify, or delete these third parties' Personal Information at any time, as described in Paragraph 8 below.
+
+ **Retention and storage**
+
+We will retain your Personal Information in our databases in accordance with our document management, retention and destruction policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. For example, we may need or be required to retain information to allow you to obtain credit for trip your Purchased but had to cancel. We may also need the retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it.
+
+Your Personal Information will be stored in secured locations, and on servers controlled by ebookers, located either at our offices, or at the offices of our service providers, as described below.
+
+ **7\. How we protect Personal Information**
+
+ebookers employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require, in our contracts with them, that they protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
+
+If you choose to contact ebookers through the Website, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. ebookers assumes no liability for the loss of any information that you transmit to us via the World Wide Web. However, should you choose to pay by credit card when making a booking, reservation or purchase on the Website, your card details are encrypted for the transaction.
+
+In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most Members, Guests, or Subscribers cannot readily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.
+
+ **8\. How to access, modify or delete your Personal Information**
+
+We endeavour to ensure that Personal Information is as accurate, complete, and current as necessary for the purposes for which we use that information. We encourage you to visit you’re My Stuff folder to review your Personal Information
+
+You can access your Personal Information in My Stuff, update it, correct it, or modify it, as necessary. For example, you can change at any time your e-mail address, preferred activities, or preferred destinations, or your preferences for receiving or not receiving our e-mails, e-newsletters, or instant messaging customized advertisements.
+
+If you wish to modify or delete other Personal Information, you can do so by contacting us as indicated below. If you request that we remove all of the Personal Information or travel records stored in My Stuff, we will promptly do so, to the extent possible. Once required Personal Information is removed from My Stuff, however, you will not be able to use many of the services available on our Website to Members, unless you re-register. Please remember that we may not be able to honour your request if we are legally obligated to retain that information, or for other reasons, as described in our Retention and Storage policy above.
+
+ **9\. Privacy**
+
+ **Cookies and pixel tags**
+
+A Cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Website. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie.
+
+When you access our Website, our computer may seek to place "cookies" or "pixel tags" on your personal computer to collect Session Data. Cookies and pixel tags help us recognize you when you visit our Website again. Unless a visitor specifically informs us of his/her identity (e.g. by registering with us), we will not know who the individual visitor is.
+
+Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by visiting [networkadvertising.org](http://networkadvertising.org/) or [en.wikipedia.org/wiki/HTTP_cookie](http://en.wikipedia.org/wiki/HTTP_cookie).
+
+If you decide not to accept our cookies, you will be able to access those parts of our Website that are available to the general public, but you will not be able to access many of the Products and Services offered at our Website.
+
+ **Third Party Advertisers**
+
+Third parties advertise on our Website. We do not share any Personal Information about you with these advertisers unless you give us permission to do so, separate from any permission you provide during the Member registration process. These advertisers may seek to use cookies and pixel tags to track Session Data about the ads you have seen and types of things in which you appear interested. These advertisers may also use combined information about your visits to our Website and other sites in order to provide advertisements about related goods and services that may be of interest to you.
+
+When you click on one of these advertisers' links, you are leaving our Website and entering another site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+
+ **Opting-Out**
+
+As part of the registration process, we give you the ability to receive via e-mail or direct messaging information about our Products and Services, updates to our Website, customized advertisements and promotions that are targeted to your specific interest, such as flight specials, promotions and other travel opportunities available on our Website and/or sponsored by our travel service providers and advertisers. We send this information directly ourselves, or via third party service providers.
+
+If you do not opt-out from receiving these communications about our Website, we will send them to you.
+
+At any time, you may change which of the communications you wish to receive or not, by changing your preferences, as described in paragraph 8 below.
+
+In addition, in our e-mails and other communications, we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
+
+ **Monitoring**
+
+Ebookers may from time to time monitor and review any information transmitted or received through the Website, or through telephone or email communications, for quality assurance and other purposes. We reserve the right to censor, edit, remove, or prohibit the transmission or receipt of any information that ebookers deems inappropriate, or in violation of these Terms and Conditions. During monitoring, the information may be examined, recorded, or copied.
+
+ **Links**
+
+For your convenience, our Website provides links to other sites. When you click on one of these links, you are leaving our Website and entering another site. We are not responsible for such third party sites. You should carefully review the privacy statements of any other sites you visit, because those privacy statements will apply to your visit to such other sites.
+
+ **10\. Changes to the Privacy Policy**
+
+We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. We will post an appropriate notice of changes to the Privacy Policy and changes or ownership on our Website. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Website, as well as to existing information held by us.
+
+ **11\. Contact Information**
+
+If you have any questions or concerns about (a) access to Personal Information, (b) the collection, use, management or disclosure of Personal Information, or (c) this policy or our information handling practices, (d) with whom your Personal Information is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Legal department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them.
+
+Legal Department
+
+ebookers Limited
+
+140 Aldersgate Street
+
+London
+
+EC1A 4HY
