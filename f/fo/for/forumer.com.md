@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forumer.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604170050id_/http%3A//www.forumer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumer.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202022838id_/http%3A//www.forumer.com/privacy.php) for the most accurate reproduction.*
 
-# Forumer.com Terms of Use; Acceptable Use Guidelines of our free forum and blog hosting services
+# Privacy Policy - Forumer
 
-**Forumer.com Privacy Policy**
+## Forumer.com Privacy Policy
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -20,5 +20,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-We can be reached via e-mail [here](http://www.forumer.com/contactus.php).  
-
+[Contact us via email here.](http://www.forumer.com/contact.php)
