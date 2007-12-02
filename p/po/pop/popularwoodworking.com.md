@@ -1,25 +1,42 @@
-> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203200112id_/http%3A//www.popularwoodworking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularwoodworking.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203003707id_/http%3A//www.popularwoodworking.com/privacypolicy) for the most accurate reproduction.*
 
-# Popular Woodworking Magazine
+# Privacy Policy - Popular Woodworking
 
-**Privacy Policy**  
+This is the web site of _Popular Woodworking_ , a product of [F+W Publications](http://www.fwpublications.com/). 
 
+**Summary**
 
-At _popularwoodworking.com,_ your online privacy is our highest priority. We appreciate your confidence in us and will continue to work diligently to uphold that trust and provide you with a safe and secure environment in which to use and enjoy our services. 
+At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It's important to us that you understand what information we collect, how we protect it, and how we use it – and to provide clear instructions if you choose to request changes in how we communicate with you. 
 
-_Popularwoodworking.com_ is owned and posted by F&W Publications. 
+**General contact information**
 
-_Popularwoodworking.com_ promises to never sell, trade, rent, barter or share personally identifiable information collected during your use of our site without your prior permission. 
+Our postal address is:   
+Popular Woodworking magazine  
+c/o F+W Publications  
+4700 E. Galbraith Rd.  
+Cincinnati, OH, 45236 
 
-**INFORMATION WE COLLECT**
+We can be reached via telephone at 513-531-2690. Please tell us you're a Popular Woodworking customer when contacting us. 
 
-Like most internet companies, _popularwoodworking.com_ automatically tracks certain general information about our visitors to help us continually improve the content, design and layout of our site and give you more of what you want to see and use. We collect each visitor’s IP address -- a number automatically assigned to the computer whenever you surf the web -- and use that number to monitor customer traffic patterns and site usage. Measuring what parts of the site are most popular with our users helps us to tailor _popularwoodworking.com_ to better suit your needs. 
+**How our websites work**
 
-In order to process, fulfill and service your book, magazine and school orders, we require your e-mail address, postal address, credit card number and credit card expiration date. We keep this information strictly private and confidential. Our security is provided from Verisign, the leading Internet security firm, and we use SSL (secure sockets layer) technology to encrypt your information when it's transmitted over the Internet, ensuring that credit card numbers and other information can be read only by their intended recipient. This technology is used any time you purchase something with a credit card via our site. 
+For each visitor to our Web site, our Web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors' IP addresses in their domain-name form, allowing us to understand for instance how many customers access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form. 
 
-We may ask for personal information when you use certain features of our site, including but not limited to: when you enter a contest or drawing; when you sign up for our e-mail newsletter; or when you sign up for e-mail service. We sometimes ask users to complete surveys used for internal research purposes. If we ask for any specific demographic information, it is only to help us tailor the information, products and services we provide on our site to better fit your needs and interests. Occasionally we may share non-individual statistical or demographic information in aggregate form with third parties, but this is only done to improve the quality and content of our site. We never share your personal information with third parties -- only general information about the site's entire user base. 
+We also collect both user-specific and aggregate information on what pages consumers access or visit. We use the information to improve the content of our Web pages, to customize the content and layout of our pages, and to notify consumers about updates to our site. We share this information with trusted partners. We or our partners may use this information to contact visitors for marketing purposes; however, you are always in control of these communications. 
 
-We also never sell, trade, rent or release our e-mail lists to any interested third parties. We may occasionally send information provided by outside companies to our e-mail users and subscribers, but only if those users and subscribers have already given us specific permission to do so during their initial registration for the services of our site. This third-party information will always come to you directly from our servers and will be identified as a mailing from us, ensuring that no third party will ever have access to our emailing lists. 
+If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. 
+
+Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations. 
+
+If you do not want to receive e-mail from us in the future, please let us know by using the response device that can be found at the end of every email we deliver. 
+
+**Postal information**
+
+If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services. If you do not wish to receive such mailings, please let us know by sending your request to List Manager, c/o F+W Publications, 4700 E. Galbraith Rd., Cincinnati OH 45236. Please provide your name and address. 
+
+**Telephone information**
+
+Customers who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending your request to List Manager, c/o F+W Publications, 4700 E. Galbraith Rd., Cincinnati OH 45236. Please provide us your name and address. Please provide your name and phone number. 
 
 **Popular Woodworking's "All-Star Workshop Giveaway"**
 
@@ -30,12 +47,32 @@ Porter-Cable <http://www.portercable.com/index.asp?e=336>
 Veritas Tools, Inc. <http://www.veritastools.com/PrivacyPolicy.aspx>  
 Titebond <http://www.franklininternational.com/PrivacyCO.htm>
 
-**WHAT ABOUT "COOKIES"?**
+**Cookies**
 
-To service you faster and with better quality, we use cookies. "Cookies" are small data files that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. For instance, when ordering books or other products, our Web site simply assigns you a temporary ID number at random. That ID (and nothing else) is saved as a cookie. This enables us to keep track of the information you enter until you either place your order or close your browser, at which time the unused cookie is automatically removed. All order information is maintained on our secure server; only your temporary ID is passed back and forth and saved in the cookie. 
+We use cookies to store visitors' preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-_Popularwoodworking.com_ uses cookies to track user traffic patterns, and the "shopping cart" function of our ordering process requires cookies. We may also use cookies to track any of our outside promotional campaigns, such as e-mail or other-site advertising, so that we can know how you learned about popularwoodworking.com. Such information will enable us to better inform potential users of our products and services and improve the quality of our site. Some of our special services use cookies to identify users specifically, enabling us to "remember" your profile and therefore provide you with more effective access to our products and services. You can use most of the features on _popularwoodworking.com_ without having cookies activated in your browser. 
+**Ad Severs**
 
-**CHANGES TO POLICY**
+To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+<http://www.google.com/privacy.html>  
+<http://247realmedia.com/privacy.html>
 
-Because earning your trust and confidence is so vital to us, we will always be upfront with you about both our procedures for collecting information and our use of that information. If we ever make any changes in either of these procedures, we will immediately describe those changes clearly on this page. If you have any thoughts or comments regarding this policy, please e-mail us and let us know. 
+**Information access**
+
+Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them. 
+
+Consumers can access this information by sending your request to List Manager, c/o F+W Publications, 4700 E. Galbraith Rd., Cincinnati OH 45236. Please provide us your name and address. 
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
+
+Consumers can have this information corrected by sending your request to List Manager, c/o F+W Publications, 4700 E. Galbraith Rd., Cincinnati OH 45236. Please provide us your name and address. 
+
+**Security**
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site and we use industry-standard Secure Sockets Layer protection for transactions made on our site. 
+
+**Changes to this policy**
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), or state or local chapters of the Better Business Bureau. 
