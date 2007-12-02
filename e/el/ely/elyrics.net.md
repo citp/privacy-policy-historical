@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615085525id_/http%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202031753id_/http%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
 
 # eLyrics.net Privacy Policy
 
