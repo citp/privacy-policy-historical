@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlop.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521121520id_/http%3A//nlop.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlop.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120756id_/http%3A//www.nlop.com/privacy.shtml) for the most accurate reproduction.*
 
 # NLOP - THE NATIONAL LEAGUE OF POKER - ALWAYS FREE POKER, WIN CASH & PRIZES
 
