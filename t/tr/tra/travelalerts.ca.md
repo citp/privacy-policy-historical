@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208185738id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202074515id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
 
 # Travelalerts.ca - Privacy
 
