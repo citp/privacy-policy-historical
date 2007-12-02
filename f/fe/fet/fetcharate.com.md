@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150049id_/http%3A//www.fetcharate.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetcharate.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202043247id_/http%3A//www.fetcharate.com/privacy_policy.php) for the most accurate reproduction.*
 
 # FetchARate Privacy Statement
 
