@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616124623id_/http%3A//www.smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202120037id_/http%3A//www.smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SmartShopper.com - Privacy Policy
 
-This Privacy Policy applies to all of the products, services and websites offered by SmartShopper Ltd. or its subsidiaries.
+[](http://www.truste.org/ivalidate.php?url=www.smartshopper.com&sealid=101)
+
+This Privacy Policy applies to all of the products, services and websites offered  
+by SmartShopper Inc. or its subsidiaries.
 
 At SmartShopper, we’re committed to your privacy and your privacy is safe with us.  
 Our Privacy Policy is simple:
 
-SmartShopper is a browser add-on that can be downloaded from [www.smartshopper.com](http://www.smartshopper.com/)
-
-[](http://www.truste.org/ivalidate.php?url=www.smartshopper.com&sealid=101)
+SmartShopper is a browser add-on that can be downloaded from [ www.smartshopper.com](http://www.smartshopper.com/)
 
 **What we do:**
 
-  * **The Service -** The SmartShopper browser add-on is designed to help you compare products and prices while you shop online. When you visit an eCommerce or Travel website, SmartShopper will detect the product you are looking at and automatically search thousands of vendors for better prices. Alternative prices and other product information will then be displayed in a browser side bar.
-  * **Limited List -** SmartShopper maintains a limited list of pre-examined domains determined by our professional team to be eCommerce or Travel related. Such list updates from time to time. The browser add-on becomes active only when visiting such domains or when manually triggered.
-  * **Transferred Information -** When visiting one of the domains on the limited list, the SmartShopper add-on will send the product information you are viewing to it’s servers in order to search for alternatives.
+  * **The Service -** The SmartShopper browser add-on is designed to help you compare products and prices while you shop online. When you visit an eCommerce or Travel website, SmartShopper will detect the product you are looking at and automatically search thousands of vendors for better prices. Alternative prices and other product information will then be displayed in a browser side bar. 
+  * **Limited List -** SmartShopper maintains a limited list of pre-examined domains determined by our professional team to be eCommerce or Travel related. Such list updates from time to time. The browser add-on becomes active only when visiting such domains or when manually triggered. 
+  * **Transferred Information -** When visiting one of the domains on the limited list, the SmartShopper add-on will send the product information you are viewing to it’s servers in order to search for alternatives. 
   * **Non Personal Information -** All data transferred to our servers by the browser add-on is anonymous and does not contain any Personally Identifiable Information, like email, name, address etc.
 
 
@@ -23,10 +24,10 @@ SmartShopper is a browser add-on that can be downloaded from [www.smartshopper.c
 **What we don't do:**
 
   * We do not collect any personally identifiable information ("PII") about you within the browser add-on. 
-  * We do not trade or rent PII to third parties.
-  * We do not track the sites you visit, unless they exist in our limited list of ecommerce and travel sites.
-  * We do not present popups on your computer.
-  * We do not present any other form of display advertising.
+  * We do not trade or rent PII to third parties. 
+  * We do not track the sites you visit, unless they exist in our limited list of ecommerce and travel sites. 
+  * We do not present popups on your computer. 
+  * We do not present any other form of display advertising. 
   * We do not change the default search of your browser, your home page, nor any other settings of your browser.
 
 
@@ -37,10 +38,10 @@ _Anonymous Information_
 
 The information sent by the SmartShopper add-on to the SmartShopper servers is anonymous and may include: 
 
-  * Your Internet Protocol (IP) Address
-  * The Full Uniform Resource Locator (URL) of the web page you are visiting
-  * General information about your browser and your computer's operating system
-  * Product information as taken from the page’s HTML you currently view
+  * Your Internet Protocol (IP) Address 
+  * The Full Uniform Resource Locator (URL) of the web page you are visiting 
+  * General information about your browser and your computer's operating system 
+  * Product information as taken from the page’s HTML you currently view 
   * Your SmartShopper cookie number 
   * The date and time the above information is logged
 
@@ -48,17 +49,17 @@ The information sent by the SmartShopper add-on to the SmartShopper servers is a
 
 We also collect and store the following SmartShopper usage statistics: 
 
-  * What is clicked on the SmartShopper add-on sidebar
-  * The amount of time the service is used during each session
+  * What is clicked on the SmartShopper add-on sidebar 
+  * The amount of time the service is used during each session 
   * The keyword searches within the add-on search box, and the alternative results that are presented during a session.
 
 
 
 If you are visiting our website ([www.smartshopper.com](http://www.smartshopper.com/)), we collect the following information: 
 
-  * The URL of the web page which you arrived from
-  * The date and time of each page you view
-  * The information of any ad that brought you to our web site
+  * The URL of the web page which you arrived from 
+  * The date and time of each page you view 
+  * The information of any ad that brought you to our web site 
   * Computer and connection information. 
 
 
@@ -67,7 +68,7 @@ If the URL of the page you came from contains any PII, we will not attempt to de
 
 _Personally Identifiable Information ("PII")_
 
-In the SmartShopper website, if you contact us through the "Partner with us" or "Contact us" pages, you are required to provide your e-mail address and, optionally, name and phone number, so that we may be able to respond to your inquiry. In any event, this PII is not used in any manner other than to contact you regarding your inquiry. If the PII mentioned above changes, you may correct or update it by emailing our customer support at [support@smartshopper.com](mailto:support@smartshopper.com) or by contacting us through postal mail to the contact information listed at the bottom of this page.
+In the SmartShopper website, if you contact us through the "Partner with us" or "Contact us" pages, you are required to provide your e-mail address and, optionally, name and phone number, so that we may be able to respond to your inquiry. In any event, this PII is not used in any manner other than to contact you regarding your inquiry. If the PII mentioned above changes, you may correct or update it by emailing our customer support at [ support@smartshopper.com](mailto:support@smartshopper.com) or by contacting us through postal mail to the contact information listed at the bottom of this page.
 
 **What do we do with the information we collect?**
 
@@ -105,7 +106,7 @@ While we try to link only to websites that we believe share our respect for priv
 
 The browser add-on is designed to check for the availability of updates to ensure that you enjoy the latest improvements. When the browser add-on checks for the availability of updates, anonymous information about the version is sent to our web server. This information is used only to determine whether a new version is available for download.
 
-**Opt-out / Choices/ Changes**
+**Opt-out / Choices / Changes**
 
 To temporarily snooze or set usage rules for certain parts of the browser add-on, go to the SmartShopper side bar, click "Options", and select your preferences.
 
@@ -125,17 +126,17 @@ SmartShopper is constantly evolving. New features are continuously being added t
 
 **TRUSTe privacy program**
 
-SmartShopper Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.smartshopper.com](http://www.smartshopper.com/) because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+SmartShopper Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.smartshopper.com](http://www.smartshopper.com/) because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacy@smartshopper.com](mailto:privacy@smartshopper.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [privacy@smartshopper.com](mailto:privacy@smartshopper.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **How to contact us about privacy**
 
-If you have any questions about this Privacy Policy, the practices of this site and service, or your dealings with this web site, you can email us at: [privacy@smartshopper.com](mailto:privacy@smartshopper.com) or send a certified mail to:
+If you have any questions about this Privacy Policy, the practices of this site and service, or your dealings with this web site, you can email us at: [ privacy@smartshopper.com](mailto:privacy@smartshopper.com) or send a certified mail to:
 
-SmartShopper Ltd.  
-151 East 31st street, Suite 24F  
-New York, NY 10016  
+SmartShopper Inc.  
+352 7th Avenue, Fifth Floor  
+New York, NY 10001  
 USA
 
 **This Privacy Policy was last updated on February 5th, 2007.**
