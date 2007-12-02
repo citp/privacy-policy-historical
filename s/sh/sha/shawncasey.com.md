@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shawncasey.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630092518id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawncasey.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202183638id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
 
-# Law Of Attraction | Internet Marketing - Law Of Attraction And Internet Marketing Blog » Privacy Policy
+# Shawn Casey | Internet Marketing - Shawn Casey’s Internet Marketing Blog » Privacy Policy
 
 \- IMPORTANT — PLEASE READ
 
