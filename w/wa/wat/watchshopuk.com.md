@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427173218id_/http%3A//www.watchshopuk.com/pages.php%3Fpageid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202111059id_/http%3A//www.watchshopuk.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
-# Privacy statement - Watch Shop UK
+# Watch Shop UK Privacy Policy
 
 Our email address is sales@watchshopuk.com
 
