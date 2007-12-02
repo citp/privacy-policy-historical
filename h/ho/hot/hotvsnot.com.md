@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotvsnot.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219121807id_/http%3A//www.hotvsnot.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotvsnot.com privacy policy that was archived on 2007-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071202113442id_/http%3A//www.hotvsnot.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Web Directory by HotVsNot.Com - Privacy Policy
 
