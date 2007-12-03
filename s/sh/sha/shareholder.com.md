@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429173842id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203014023id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
 
 # Shareholder.Com | A Nasdaq Company | Shareholder.com
 
@@ -39,7 +39,7 @@ Shareholder.com is committed to protecting the security of your personal informa
 Shareholder.com sites are neither designed for the use of children nor marketed to children. Therefore we do not knowingly collect personal information from children.
 
 **Contact Information**  
-If you have any questions or comments about this policy, you can [contact us electronically](https://web.archive.org/home/contact/comments.cfm) or via postal mail at the following address: 
+If you have any questions or comments about this policy, you can [contact us electronically](https://web.archive.org/home/company/contactus.cfm) or via postal mail at the following address: 
 
 > Shareholder.com  
 >  Attn: Privacy  
