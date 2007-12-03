@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629172713id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifttree.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203204810id_/http%3A//www.gifttree.com/helppgs/privacy.php) for the most accurate reproduction.*
 
-# GiftTree's Privacy, Security Statement
+# GiftTree Privacy Policy & Security Statement
 
 ## Privacy Policy Statement
 
-This is the web site of **Gift Services, Inc.**  
+This is the web site of **GiftTree.com**  
 
 
 Our postal address is   
 **1800 W. Fourth Plain Blvd, Ste 120-B  
 Vancouver, WA 98660**
 
-We can be reached via [e-mail](http://www.gifttree.com/commentpgs/mail.php) or you can reach us by telephone at **1 (800) 379-4065**
+We can be reached via [e-mail](http://www.gifttree.com/helppgs/mail.php "GiftTree Email") or you can reach us by telephone at **1 (800) 379-4065**
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -33,12 +33,14 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address, writing to us at the above address
 
-Upon request we provide site visitors with access to all information that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them. Consumers can access this information by e-mail us at the above address, calling us at the above phone number, writing to us at the above address, visiting us at [My Account](http://www.gifttree.com/myaccount) (most personal information can be accessed and changed from here).
+Upon request we provide site visitors with access to all information that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them. Consumers can access this information by e-mail us at the above address, calling us at the above phone number, writing to us at the above address, visiting us at [My Account](https://web.archive.org/userland/ "GiftTree Account Login") (most personal information can be accessed and changed from here).
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, visiting us at [My Account](http://www.gifttree.com/myaccount) (most personal information can be accessed and changed from here).
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, visiting us at [My Account](https://web.archive.org/userland/ "GiftTree Acount Login") (most personal information can be accessed and changed from here).
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server, you will know that you are in a secure part of the site by looking for the lock symbol in the lower right corner of your computer screen or by looking at the url address (it will begin with https instead of http). We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-Please see our [Terms of Use](https://web.archive.org/web/20070629172713id_/http%3A//www.gifttree.com/helppgs/termsofuse.php) for further information.
+Please see our [Terms of Use](https://web.archive.org/helppgs/termsofuse.php "GiftTree Terms of Use") for further information.
+
+© 2007 GiftTree All Rights Reserved.
