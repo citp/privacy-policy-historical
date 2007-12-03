@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075840id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203202226id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
@@ -7,8 +7,6 @@
 Official information and services from the U.S. government
 
 [](https://web.archive.org/gobiernousa/Privacidad_Seguridad.shtml?toggleTo=en_Privacy_&_Security)
-
-### FirstGov Privacy and Security
 
 Thanks for visiting the USA.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it's only used to fulfill your request for information.
 
