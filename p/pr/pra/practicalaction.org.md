@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208124523id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalaction.org privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203033859id_/http%3A//practicalaction.org/%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Practical Action - Practical Action privacy policy
 
 Practical Action respects the privacy of visitors to our website. This policy sets out the manner in which information about visitors is collected and used.
+
+We do not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary.
 
 ## Cookies
 
@@ -14,13 +16,13 @@ In common with most websites, Practical Action use web server log files to colle
 
 ## How we use the information
 
-Practical Action uses data collected from log files for internal analysis of user behaviour and trends, to evaluate traffic flow (eg. busiest times of day/week) and to assess the relative popularity of different parts of the website.
+Practical Action uses data collected from log files for internal analysis of user behaviour and trends, to evaluate traffic flow (eg. busiest times of day/week) and to assess the relative popularity of different parts of the website. We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
 
 We do not share individual data, although we may share aggregate information with partners and donors. We do not track user behaviour after you have left our site.
 
-## Technical Information Service
+## Practical Answers technical information service
 
-We may collect basic information about users of our Technical Information Service at the point of download, ie. when a user requests a Technical document. This includes email address, potential number of beneficiaries, country of use and nature of user. Email addresses are collected to identify users for the analysis of trends, and where permission is given, to contact users subsequently to enquire after the effectiveness of our materials. Email addresses are not used for any other purpose, and will not be shared with any third party. If you have given your email address as part of the download process for technical information, you will not be contacted by Practical Action for any other purpose other than to solicit comments on our technical information.
+We collect basic information about users of Practical Answers at the point of download, ie. when a user requests a Technical document. This includes email address, potential number of beneficiaries, country of use and nature of user. Email addresses are collected to identify users for the analysis of trends, and where permission is given, to contact users subsequently to enquire after the effectiveness of our materials. Email addresses are not used for any other purpose, and will not be shared with any third party. If you have given your email address as part of the download process for technical information, you will not be contacted by Practical Action for any other purpose other than to solicit comments on our technical information.
 
 ## E-mail addresses
 
