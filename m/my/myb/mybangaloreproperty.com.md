@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210125815id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203071009id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
 We recognize the importance of protecting the privacy of information collected about our customers and prospective customers. This privacy statement discloses what information is gathered, how it is used, and how to correct or change it. It is our intention to give you an understanding about how we collect your Information and the use we make of it in the course of our business. 
 
-The information provided by users of this site or emailed to this office is collected for the purpose of better serving the user's real estate needs. 
+The information provided by users of this site or emailed to this office is collected for the purpose of better serving the user's real estate needs. The Information collected is never shared or sold to any third parties. 
 
 The user can request, by email or phone, that our office alter their information. 
 
