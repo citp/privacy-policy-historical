@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064539id_/http%3A//www.autoweb.co.uk/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.co.uk privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203033135id_/http%3A//www.autoweb.co.uk/legal/privacy.asp) for the most accurate reproduction.*
 
 # Untitled Document
 
