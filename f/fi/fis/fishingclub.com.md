@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishingclub.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627172943id_/http%3A//www.namginc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishingclub.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203083542id_/http%3A//www.namginc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # North American Membership Group, Inc
 
@@ -41,7 +41,7 @@ Whenever you request a page from The Websites your IP address, browser and versi
 **YOUR CALIFORNIA PRIVACY RIGHTS  
 ** Customers residing in California may submit a request for disclosure of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to:
 
-[](https://web.archive.org/web/20070627172943id_/http%3A//www.namginc.com/caprivacyrights@namginc.com)[caprivacyrights@namginc.com](mailto:caprivacyrights@namginc.com)
+[](https://web.archive.org/web/20071203083542id_/http%3A//www.namginc.com/caprivacyrights@namginc.com)[caprivacyrights@namginc.com](mailto:caprivacyrights@namginc.com)
 
 ****
 
