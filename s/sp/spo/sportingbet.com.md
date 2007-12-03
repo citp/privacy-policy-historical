@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629015357id_/http%3A//www.sportingbet.com/t/info/faqs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203152945id_/http%3A//www.sportingbet.com/t/info/faqs/privacy.aspx) for the most accurate reproduction.*
 
 # Sportingbet.com - online sports betting, poker, casino and instant win games.
 
@@ -63,11 +63,12 @@ Service Announcements
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please email [admin@sportingbet.com](mailto:admin@sportingbet.com) to opt out. 
 
 Customer Service   
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.   
+We will not use any information obtained about users to encourage irresponsible gaming behaviour. 
 
 **Sharing**   
 Legal Disclaimer   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or our regulator wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, an order from our regulator or legal process served on our Web site. 
 
 Third Party Intermediaries   
 We use a credit card processing company to process bets. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
@@ -107,8 +108,8 @@ If users have any questions about the security at our Web site, users can send a
 
 
 
-**The Data Protection Act 1998**   
-Under the Data Protection Act 1998 (UK legislation) we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorized access to it. 
+**Data Protection**   
+Under the Data Protection Act 1998 (UK legislation), (Bailiwick of Guernsey) Law 2001 and EU privacy and the OECD Guidelines on the Protection of Privacy and Transborder Data Flow of Personal Data we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorized access to it. 
 
 **Supplementation of Information**   
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from third party sources. Therefore, we use TRUSTMARK to verify a user's identity and address to eliminate fraudulent transactions. 
@@ -127,24 +128,23 @@ Sportingbet promises to ensure complete openness and clarity in all its financia
 **Contact Information**   
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-**Phone** +44 020 7251 7260   
-**Fax** +44 020 7251 7270   
+**Phone** +44 020 7184 1800   
+**Fax** +44 020 7184 1810   
 **Email** admin@sportingbet.com 
 
 **Postal Address**   
 Sportingbet Plc   
-6th Floor   
-Transworld House   
-82-100 City Road   
+4th Floor   
+45 Moorfields   
 London   
-EC1Y 2BJ. 
+EC2Y 9AE 
 
 Close window
 
 Sportingbet no longer accepts any bets from the US. [Click here for more information.](https://web.archive.org/s/pdf/press_sbet.pdf)
 
 [Privacy Statement](http://www.sportingbet.com/t/info/faqs/privacy.aspx) | [Help](http://www.sportingbet.com/t/forms/contactUs.aspx)   
-© 2007 Internet Opportunity Entertainment (Sports) Ltd and Sportingbet (Alderney) Ltd. All rights reserved   
+© 2007 Internet Opportunity Entertainment (Sports) Limited and SB Alderney Limited. All rights reserved   
 [Sportingbet](http://www.sportingbet.com/ "Sportingbet") Group - The World's Leading Online Gambling Company   
 [Sportingbet EU](http://www.sportingbet.com/t/sportingbet-eu.aspx "Sportingbet Europe sites")
 
