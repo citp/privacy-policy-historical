@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510065925id_/http%3A//www.nerdtests.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdtests.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203154349id_/http%3A//www.nerdtests.com/privacy.php) for the most accurate reproduction.*
 
 # NerdTests.com - Privacy Policy
 
-* * *
-
-* * *
+Updated: 22 Aug 2007, 20:14 CDT
 
 The following websites are part of the NerdTests.com network:  
    \- CRACKBOOK.COM  
+   \- DIGGTEST.COM  
    \- EXTREMETESTS.COM  
    \- GEEKTESTER.COM  
    \- GEEKTESTS.COM  
@@ -73,7 +72,3 @@ If you would like to correct and/or update your information, please contact supp
 ## Contractual Agreement between Site User and NerdTests.com
 
 By using, surfing, viewing, or knowingly request information from NerdTests.com, you are implicitly agreeing to be lawfully held to this Privacy Policy.
-
-* * *
-
-**Copyright ©2003-2007 Darrell C. Sydlo  \----[ Privacy Policy](https://web.archive.org/web/20070510065925id_/http%3A//www.nerdtests.com/privacy.php) \----**
