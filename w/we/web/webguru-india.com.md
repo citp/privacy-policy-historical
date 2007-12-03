@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515235319id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203010757id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WebGuru, India, a Web Design and Development company
 
-This legal notice pertains to web site “www.webguru-india.com” here after referred to as “[webguru](https://web.archive.org/web/20070515235319id_/http%3A//www.webguru-india.com/about-us.htm)” or “this Web site” or “this site”.
+This legal notice pertains to web site “www.webguru-india.com” here after referred to as “[webguru](https://web.archive.org/web/20071203010757id_/http%3A//www.webguru-india.com/about-us.htm)” or “this Web site” or “this site”.
 
 **Welcome**
 
