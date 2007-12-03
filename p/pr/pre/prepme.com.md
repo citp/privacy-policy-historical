@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626193104id_/http%3A//www.prepme.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203235215id_/http%3A//www.prepme.com/about/privacy.php) for the most accurate reproduction.*
 
 # PrepMe: Prepare for the future
 
-We at PrepMe Corporation and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us. 
+We at PrepMe, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us. 
 
 You can utilize most of this site's free features without giving us any personal information. For the parts of PrepMe's site where a free service is offered with a subscription, you may opt-in to receive further information from our partners. However, for specialized paid services that require personal information PrepMe, will never release any of the personal information you give us. Personal Information refers to any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. 
 
