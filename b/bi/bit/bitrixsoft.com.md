@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623131538id_/http%3A//www.bitrixsoft.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203185912id_/http%3A//www.bitrixsoft.com/about/policy.php) for the most accurate reproduction.*
 
 # Web Content Management System - Bitrix Site Manager - Privacy Policy
 
