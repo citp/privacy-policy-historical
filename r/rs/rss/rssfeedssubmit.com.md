@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssfeedssubmit.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609012521id_/http%3A//www.rssfeedssubmit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssfeedssubmit.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203162739id_/http%3A//www.rssfeedssubmit.com/privacy.html) for the most accurate reproduction.*
 
 # RSS feed Submit automatic blog submission tool to over 80 search engines and directories.
 
