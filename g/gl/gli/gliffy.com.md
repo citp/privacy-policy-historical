@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624040127id_/http%3A//gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliffy.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203054541id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# 
+# Gliffy.com
 
-**_Gliffy Privacy Policy_**
+## Gliffy Privacy Policy
 
 This privacy statement ("Privacy Policy") covers the website www.Gliffy.com, owned and operated by Gliffy, Inc. ("Gliffy", "we", "us", "our"). Gliffy knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Gliffy website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
@@ -76,7 +76,7 @@ You can access your personal information on our website and correct, amend, or d
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website. 
   * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may request deletion of your Gliffy account by sending an email to support@gliffy.com. Please note that some information may remain in our records after deletion of your account. 
+  * You may request deletion of your Gliffy account by sending an email to contacting us at our [support page](https://web.archive.org/web/20071203054541id_/http%3A//www.gliffy.com/support.shtml#contactform). Please note that some information may remain in our records after deletion of your account. 
   * If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes. 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
@@ -95,7 +95,7 @@ Gliffy services may permit you to link to other websites on the Internet, and ot
 Gliffy may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Gliffy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
 **Questions or Concerns**  
-If you have any questions or concerns regarding privacy at the Gliffy website, please send a detailed message to support@gliffy.com. Your privacy is important to us and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at the Gliffy website, please send a detailed message to support(at)gliffy(dot)com. Your privacy is important to us and we will make every effort to resolve your concerns. 
 
 **Effective Date of This Privacy Policy**  
 This Privacy Policy is effective as of March 19th, 2007.
