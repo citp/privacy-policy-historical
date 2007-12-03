@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615003056id_/http%3A//www.oakwood.com/cms/oakwood-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203094207id_/http%3A//www.oakwood.com/cms/oakwood-privacy.html) for the most accurate reproduction.*
 
 # Oakwood Corporate Housing - Privacy
 
@@ -248,8 +248,8 @@ Los Angeles, CA 90064
 USA
 
 [Email us here](mailto:%20freeform@oakwood.com)  
-Telephone:        310-478-1021  
-Fax:                  310-444-2210
+Telephone:        1.310.478.1021  
+Fax:                  1.310.444.2210
 
 In your letter, please describe in as much detail as possible your inquiry.   
   
