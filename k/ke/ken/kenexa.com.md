@@ -1,61 +1,116 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608180258id_/http%3A//www.kenexa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203123923id_/http%3A//www.kenexa.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Kenexa::About::Press Room
+# Privacy Policy - Kenexa.com
 
-## Privacy Policy
+|  |  [](https://web.archive.org/web/20071203123923id_/http%3A//www.kenexa.com/en/default.aspx) | 
 
-**Kenexa**
+Sites: North America | Europe | Asia 
 
-**Privacy Policy and Terms of Use**
+Search:  
+  
+---|---  
+  
+## Kenexa Privacy Policy
 
-### Overview
+### I. INTRODUCTION
 
-Kenexa's solutions are used by our customers when hiring employees to post jobs, receive job applications, and assess job candidates. Kenexa also provides solutions in the areas of employee survey research, leadership research and development, and performance management.
+The following sets forth Kenexa Technology, Inc.’s and its subsidiaries’ privacy policy, which contains four separate sections as follows: 
 
-Kenexa is committed to ensuring the privacy of your visit to all of our web sites. You can utilize most of our services without submitting any personal information. In our web sites related to job hiring, you may be required to enter information about yourself if you want to avail yourself of our extended services to enhance your job searching and application-processing capabilities. Kenexa adheres to the [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) as developed by the U.S. Department of Commerce, in conjunction with the European Commission.  This Privacy Policy and Terms of Use apply to all Kenexa Web systems.  It does not apply to the Web sites or operations of third parties.
+  * This Introduction;  
+  * Kenexa Online Privacy Policy, which addresses the privacy practices applicable to usage of the Kenexa websites;  
+  * Kenexa's ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Kenexa in its role as an ASP provider;  
+  * A General Section, which applies to all of our privacy policies. 
 
-### Collection
 
-We do not automatically collect any personal data which can identify you without your having prepared and submitted it. Automatic data collection is used for standard Web site logging and reporting. Such information includes IP Address of the domain from which you access the Internet and the Operating System and Browser Type that you use. 
 
-**What Kenexa Does with Collected Data**
+Kenexa respects individual privacy. Kenexa strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Kenexa abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission. 
 
-Once your data is collected, the information is stored in our database and is used only for the purpose intended.  For our hiring solutions, the data is available to the hiring managers and recruiters of our customers for whose jobs you have applied.  For our survey research solutions, the data is used only in the analysis for the research it was gathered for.
+### II. KENEXA ONLINE PRIVACY POLICY
 
-If you would like to have your personal information removed from our database, please contact [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com) with a detailed message which includes your Username, Password, Name, and Address.  If you are using one of our hiring solutions, also include the Position(s) Applied For. This information will be used to verify the validity of your request. We will then contact our customer for authorization to delete such information. If authorization is granted, the information will be removed within 5 to 10 business days.
+This Online Privacy Policy covers use of the site www.kenexa.com and our on-line URC site available only to clients of Kenexa. All information you disclose to us on this website or on our on-line URC site is subject to our Online Privacy Policy. With respect to data received through its websites, Kenexa will, at its own discretion:
 
-**What Kenexa DOES NOT DO with Collected Data**
+  * Use personal information it obtains relating to you, including but not limited to your name, mailing address, phone number and email address, for the purposes of contacting you, conducting internal business research, and carrying out other marketing activities. We may also disclose such information to third parties when they provide a service on our behalf. These third parties are not permitted to use such information for their own purposes. Kenexa does not share, sell, trade, or rent your personal information to third parties for unknown reasons.  
+  * From time to time send our visitors and/or clients e-mail messages with new site feature announcements, enhancements, maintenance information and general updates. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or you may contact us at 402.434.2660, email us at webmaster@kenexa.com, or send written notification to the attention of Kenexa - Webmaster, 2930 Ridge Line Road, Suite 200, Lincoln, NE. 68516. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.  
+  * Collect and store information generated through use of our on-line business services. We may use some of this information in the aggregate for marketing research, such as, for example, in compiling statistics on Kenexa's website visitors and in assessing clients' business needs. If we decide to mention a particular client on the site, we will take reasonable steps to gain that client's assent before posting.  
+  * Collect and store information provided directly or indirectly to us through participation in online contests and/or client satisfaction surveys and the like.  
+  * Create standard usage logs through our web server, such as IP address, browser type, and access times.  
+  * Collect prospective employee information through use of our own application for internal job placement. That information will be treated according to local regulations governing employment practices.  
+  * Tie standard usage logs and cookie (session ID and persistent) information to personally identifiable information. Cookies are information generated by our servers for use with your browser for site navigation and application delivery. Cookies are required to log into the services we provide on the site.  
+  * Use our web server to recognize your domain name and track your use of the website.  
+  * Request certain information from you (such as your name, address, telephone number, e-mail address or business requirements) to help us evaluate our site traffic and overall usage, improve our on-line services, and build better websites. We may add information from third parties to this collected information, for instance to research prospective clients.  
+  * Provide access via a hyperlink in an email or a web page or through on-line support when you need to update or correct your contact information or, for clients, to report a bug or problem with your system.  
+  * Provide users who no longer wish to receive promotional communications the ability to opt -out of receiving these communications.  
+  * Only use client data to provide the services or information that a client has requested. We take reasonable industry, steps to keep business information confidential  
+  * Communicate with users on a regular basis to provide requested services and in response to issues relating to your account via email or phone. 
 
-We do not release any of your information for any purpose other than its intended use.
+
 
 **Maintenance of Data and Passwords**
 
-For our Web systems where you have a user account, you will always have access to your information to update and maintain your profile. It is solely your responsibility to maintain the confidentiality of your password. If you believe your password has been compromised, please contact Customer Service at [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com)
+For our web systems where you have a user account, you have access to your information to update and maintain your profile. It is solely your responsibility to maintain the confidentiality of your password. If you believe your password has been compromised, please contact Customer Service at [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com).
 
-### Use of Cookies
+**Google Analytics**
 
-The Kenexa Web systems may use one or more of the following types of cookies:
+The Kenexa websites use Google Analytics, a web analysis service of Google Inc. (“Google”) Google Analytics uses “cookies”, text files, which will be saved on your computer and which allow an analysis of your use of the website. The information provided by the cookie concerning your use of the website (including your IP-address) will be transferred to a Google server in USA and saved there. Google will use this information to analyze your use of the website, to compile reports about the website activities for the website operator and to provide additional services concerning the website and internet utilization. Google may transfer this information to third parties, if this is a legal requirement or if third parties are commissioned by Google to process the information. Google will in no event connect your IP-address with other Google data. You can prevent the installation of cookies with the relevant browser software setting; however in this case you may not be able to use all the functions on this website to the full extent. Through use of the Kenexa websites you agree to the processing of your data by Google in the way described above and for the purpose stated above. 
 
-1.      Application Session
+**Privacy Officer**
 
-Our Application Session Cookie is kept in memory and is deleted upon the end of each session. It is used to identify your session to the application, enabling you to view any information that you have entered. This cookie does not collect any personal information that can identify you.
+Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer, Jim Restivo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email at jim.restivo@kenexa.com, by telephone at 610-971-6124 or by mail at Kenexa, 650 East Swedesford Road, Wayne, PA 19087. If users have questions or concerns regarding this statement, they should first contact Jim Restivo. Kenexa requires a response to an access request by a user be provided within 30 days of submitting the request. 
 
-2.      Persistent
+### III.       Kenexa's Application Service Provider (ASP) Personal Information Privacy Policy
 
-A Persistent Cookie may be stored on your hard drive and has an expiration time of 20 minutes to 3 hours. This cookie contains information about the Web server to which you last connected. This helps us load balance your connection to the appropriate Web server to ensure smooth navigation throughout your visit. Once the expiration period has ended, the cookie is no longer valid and will be replaced the next time you visit the site.
+Kenexa is a leading end-to-end provider of software, proprietary content, services and process outsourcing that enable organizations to more effectively recruit and retain employees. This ASP Privacy Policy applies only to the transfer of personally identifiable information ("Personal Information") received by Kenexa in any format through its hosted software, whether supplied directly by Kenexa customers or by employees or user of the hosted software anywhere in the world, including transfers from the European Economic Area (EEA) to the United States.
 
-3.      Browser Session
+Kenexa abides by the EU Safe Harbor framework as set forth by the United States Department of Commerce regarding collection, use, and retention of data received from the European Union. For more information about Safe Harbor, go to [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Accordingly, we operate as a data processor for our customers. Kenexa’s customers act as data controllers. Kenexa maintains only that Personal Information which its customers have asked it to process. This ASP Privacy Policy does not reflect the privacy practices of Kenexa's customers and Kenexa is not responsible for its customers' privacy policies or practices. Kenexa does not review, comment upon or monitor its customers' privacy policies or their compliance with their respective privacy policies, nor does Kenexa review its customers’ instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy.
 
-A Browser Session Cookie is a type of Persistent Cookie which acts like an Application Session Cookie in that it is removed once your Internet Browser is closed.
+**Notice/Use of Personal Information**
 
-### Modifications of these Terms of Use
+Because it supplies a hosted system, Kenexa operates as a data processor for its customers. Kenexa’s customers act as data controllers. Individual users involved in employment activities may interact directly with Kenexa's customers rather than with Kenexa. Kenexa provides its customers with the option of disclosing their relationship with Kenexa by providing notice to individual employees and candidates of the customer regarding the Kenexa technology that they use. Kenexa maintains only that Personal Information which its customers have asked Kenexa to process. It is the Kenexa customer's responsibility to ensure that the data the customer collects can be legally collected in the country of origin. The Kenexa customer is responsible for giving its employees, applicants and users the appropriate level of notification that Personal Information is being collected and maintained. 
 
-Kenexa reserves the right to change the terms, conditions, and notices under which the Kenexa Web Sites are offered. Your continued use of the Kenexa Web Sites constitutes your agreement to all such terms, conditions, and notices.
+**Notification of Changes/Choice**
 
-### Disclaimer
+Kenexa will maintain Personal Information in accordance with this ASP Privacy Policy. If Kenexa decides to change this Policy, Kenexa will post the changes on this page so our customers and/or their employees, applicants and users are aware of what Personal Information Kenexa processes, how Kenexa uses it, and under what circumstances, if any, Kenexa discloses it. If at any point Kenexa decide to retain or use Personal Information in a different manner, Kenexa will notify its customers by way of email or by posting a notice on Kenexa’s website for at least 30 days prior to the change in use. Customers, in turn, are responsible for their users and providing them a choice as to whether or not Kenexa uses their Personal Information in this revised manner. 
 
-You are entirely responsible for maintaining the confidentiality of your password and account. You are entirely responsible for any and all activities that occur under your account. You agree to notify Kenexa immediately of any unauthorized use of your account or any other breach of security. Kenexa will not be liable for any loss that you may incur as a result of someone else’s having used your password, either with or without your knowledge. You could be held liable for losses incurred by Kenexa or another party due to someone else’s having used your password. You may not use anyone else’s password at any time. Kenexa is not responsible for data which is lost or altered or for any data which you enter and submit to employers. Kenexa is not responsible in the event a candidate is not hired for a job.
+**Onward Transfer**
 
-### Disputes and Violations
+We are a global corporation with operations in several countries. We have developed global data practices designed to assure Personal Information is appropriately protected. While our primary data centers are in the USA, we may transfer Personal Information to Kenexa offices outside of the United States. In addition, we may employ other companies and individuals to perform functions on our behalf. If we disclose Personal Information to a third party or to Kenexa employees outside of the United States, we will ensure that such party has agreed to abide by the Safe Harbor principles or is subject to the Data Directive, or can otherwise assure adequate protection of such Personal Information. 
 
-If you have any questions or disputes with this Privacy Policy, please contact our Customer Service Department at [Privacy@Kenexa.com](mailto:Privacy@Kenexa.com)
+**Data Integrity**
+
+Kenexa will use Personal Information only in ways compatible with the purpose for which it was collected or authorized by our customers. 
+
+**Security**
+
+Kenexa is committed to ensuring the security of the Personal Information that it processes. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of Personal Information, Kenexa has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Personal Information we process. Kenexa strives to protect the privacy of the Personal Information it processes, and inadvertent disclosure is unlikely. In the event of such an inadvertent disclosure, Kenexa will take all commercially reasonable steps to limit and remedy the disclosure. However, Kenexa cannot guarantee that unauthorized third parties will never be able to defeat those procedures or use Personal Information for improper purposes. 
+
+**Access/Correction**
+
+In most cases, when Kenexa collects Personal Information, it does so on behalf of another company (as an agent or data processor). To request access to, correction, amendment or deletion of this Personal Information, a user should contact the company to which it was provided. 
+
+**Oversight/Enforcement**
+
+Kenexa has a Privacy Officer who is responsible for Kenexa's compliance with and enforcement of this Policy. Kenexa's Privacy Officer is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Kenexa's Privacy Officer may be contacted by email Privacy@Kenexa.com. 
+
+With regard to Personal Information, Kenexa has agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including, without limitation, compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted software customer for which Kenexa processes data should be addressed to that customer. 
+
+### IV. General
+
+**Legal Disclaimer**
+
+We may disclose Personal Information when required by law or regulation or in the good faith belief that such action is necessary in order to conform to the edicts of the law, comply with legal mandates, or to protect the rights, property, or personal safety of Kenexa, its users and the public. 
+
+**Cookies and Links to Other Sites**
+
+We may use cookies to enhance a user’s experience while using our hosted software. Cookies are a small piece of data stored locally by your browser that saves information and helps identify you to web sites upon subsequent visits. Cookies are uniquely assigned to a computer, and can only be read by a Web server in the domain that issued the cookie. Cookies generally assist users by performing certain functions such as saving passwords and personal preferences regarding the sites. 
+
+You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact the use of the hosted software. 
+
+Our hosted software may contain links to other sites. Please be aware that we are not responsible for the privacy practices or content of such other sites. 
+
+**Children's privacy**
+
+Kenexa is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Kenexa does not knowingly collect information from children under the age of 13 and Kenexa does not target its website or its products to children under the age of 13.
+
+Last updated on: ­­ October 8, 2007
+
+© 2007 Kenexa. All Rights Reserved
