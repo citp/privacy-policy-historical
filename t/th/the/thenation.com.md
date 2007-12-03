@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617025442id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenation.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203212443id_/http%3A//www.thenation.com/about/privacy.mhtml) for the most accurate reproduction.*
 
 # The Nation Privacy Policy
 
-December 29, 2006 
+August 22, 2007 
 
 The Nation Company, L.P. and its affiliated organizations and individuals (which also may be collectively referred to herein as, among other things, "we," "us" and "our") have created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites. 
 
@@ -82,28 +82,27 @@ To opt-out of any promotional e-mail, based on information you provided to us th
 
 ##  Who Else Has Access to My Personal Information? 
 
-The ads appearing on our websites are delivered to you by 24/7 Real Media, our Web advertising serving partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about 24/7 Real Media, cookies, and how to "opt-out", please go to <http://www.247realmedia.com/privacy.html>. 
+The ads appearing on our websites are delivered to you by Google, our web advertising serving partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. 
 
 We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following: 
 
-  * 24/7 Real Media's privacy policy at <http://www.247realmedia.com/privacy.html>
-  * Quantcast's privacy policy at <http://www.quantcast.com/wiki/index.php/Privacy_Policy>
-  * Omniture's product privacy policy at <http://www.omniture.com/privacy/product>
   * Feedburner's privacy policy at <http://www.feedburner.com/fb/a/privacy>
-  * Tacoda's privacy policy at <http://www.tacoda.com/privacy_policy.htm>
   * Google's privacy policy at <http://www.google.com/privacy.html>
+  * Omniture's product privacy policy at <http://www.omniture.com/privacy/product>
+  * Quantcast's privacy policy at <http://www.quantcast.com/wiki/index.php/Privacy_Policy>
+  * Tacoda's privacy policy at <http://www.tacoda.com/privacy_policy.htm>
 
 
 
-Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that HuffingtonPost.com does not employ or manage are not covered by this privacy statement. 
+Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that The Nation does not employ or manage are not covered by this privacy statement. 
 
 ##  Correct/Update 
 
-Our sites give users the following options for changing and modifying information previously provided. To correct information you provided previously, click here. Changes, including renewals and address changes, to your subscription to our print publication, The Nation, can be made by filling out this form or by calling (800) 333-8536. 
+Our sites give users the following options for changing and modifying information previously provided. To correct information you provided previously, [click here](https://web.archive.org/contact/priv). Changes, including renewals and address changes, to your subscription to our print publication, The Nation, can be made by filling out [this form](https://web.archive.org/contact/serv) or by calling (800) 333-8536. 
 
 ##  Contacting Us 
 
-If you have any questions about this privacy statement, the practices of our sites, or your dealings with our sites, click here. Or you can contact: 
+If you have any questions about this privacy statement, the practices of our sites, or your dealings with our sites, [click here](https://web.archive.org/contact/priv). Or you can contact: 
 
 Scott Klein  
 VP, Website & Technology  
@@ -113,6 +112,7 @@ New York, NY 10003
 
 ##  History of Amendments to This Document 
 
+  * August 23, 2007: Changed ad serving partner name.
   * December 29, 2006: Added Omniture to list of Third Party Information sharing.
   * November 9, 2006: Added Quantcast web beacon to list of Third Party Information sharing.
   * November 1, 2006: Made changes to incorporate affiliated sites into policy.
