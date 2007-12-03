@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630125336id_/http%3A//www.axishost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203082424id_/http%3A//www.axishost.com/privacy.php) for the most accurate reproduction.*
 
-# AxisHOST - Fully managed cPanel servers and hosting
+# AxisHOST - Fully managed CPanel servers and hosting!
 
 **AxisHOST.com, Inc.** does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis.
 
