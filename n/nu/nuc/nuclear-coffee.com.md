@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201115006id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203082445id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
 
-# Nuclear Coffee :: Privacy
+# Nuclear Coffee. VideoGet, VideoPut. Download and convert videos from YouTube :: Privacy
 
 **Our Commitment To Privacy**
 
@@ -12,12 +12,9 @@ During performance our software sends specific information to Nuclear-Coffee Sof
 
 The information that is received by Nuclear-Coffee Software is:
 
-  * The current version and build number of software. This is needed in order to notify you of the latest service package and upgrade releases of software.  
-
-  * The time and date of first program installation and the usage period. This information is collected to gain statistics on the period during which software was used.  
-
-  * User's system Locale. The system locale information is needed for time calculations as different users are located at random GMT offsets.   
-
+  * The current version and build number of software. This is needed in order to notify you of the latest service package and upgrade releases of software.
+  * The time and date of first program installation and the usage period. This information is collected to gain statistics on the period during which software was used.
+  * User's system Locale. The system locale information is needed for time calculations as different users are located at random GMT offsets. 
 
   
 The information sent to Nuclear-Coffee Software servers does not concern any personal user information such as name, gender etc.
