@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601173424id_/http%3A//www.netspace.net.au/sfoa/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspace.net.au privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203013936id_/http%3A//www.netspace.net.au/sfoa/privacy.php) for the most accurate reproduction.*
 
 # Netspace Online Systems - Privacy Statement
 
@@ -56,7 +56,7 @@ Netspace is subject to the Privacy Act 1988 including the National Privacy Princ
 
 **6\. Why do we collect personal information?**
 
-> We collect your personal information to use it for one or more of the purposes for which we collected it - they will normally be obvious from the circumstances. Our purposes include:
+> We collect your personal information to use it for one or more of the purposes for which we collected it – they will normally be obvious from the circumstances. Our purposes include:
 > 
 >   * providing goods or services to you;
 >   * marketing our business to you;
