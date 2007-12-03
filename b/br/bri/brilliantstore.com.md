@@ -1,13 +1,48 @@
-> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/service/serprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203032607id_/http%3A//www.brilliantstore.com/service/serprivacypolicy.html) for the most accurate reproduction.*
 
 # Brilliantstore.com Privacy Policy
 
-| 
+Service Desk
 
-[Acer](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_acer.html), [Apple](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_apple.html), [Compaq](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_compaq.html), [Dell](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_dell.html), [Fujitsu](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_fujitsu.html), [Gateway](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_gateway.html), [HP](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_hp.html), [IBM](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_ibm.html), [Panasonic](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_panasonic.html), [Sony](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_sony.html), [Toshiba](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_toshiba.html), [Uniwill](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_uniwill.html), [Winbook](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries_winbook.html) & [More](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_batteries.html)
+How to Contact
 
-[Acer](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_acer.html), [Apple](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_apple.html), [Compaq](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_compaq.html), [Dell](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_dell.html), [Fujitsu](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_fujitsu.html), [HP](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_hp.html), [IBM](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_ibm.html), [Panasonic](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_panasonic.html), [Sony](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_sony.html), [Toshiba](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_toshiba.html), [Uniwill](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_uniwill.html), [Winbook](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters_winbook.html) & [More](https://web.archive.org/web/20070629025218id_/http%3A//www.brilliantstore.com/laptop_ac_adapters.html)
+Get answer to your questions within 3 hours or less! 
 
+_**E-mail**_
+
+General Information:
+
+Customer Service Department:
+
+Purchasing Department:
+
+Business development Department:
+
+IT Department:
+
+_**Phone**_
+
+877-383-5641
+
+510-668-0398
+
+(M - F 8:30 AM - 5:30 PM PDT)
+
+_**Fax**_
+
+510-751-5309
+
+_**By Mail**_
+
+Brilliant Store 933 Corporate Way, Fremont, CA 94539
+
+If you want to pick up your order at Brilliant Store, 
+
+[_click here_](http://maps.yahoo.com/maps_result?addr=933+Corporate+Way&csz=94539&country=us&new=1&name=&qty=)
+
+to get driving directions.
+
+  
 |  | 
 
 Brilliant Store Service Desk
@@ -53,45 +88,3 @@ If you have any question or concern about brilliant store's privacy policy, plea
 [_click here_](mailto:Customercare@brilliantstore.com)
 
 to let us help you.
-
-|  | 
-
-How to Contact
-
-Get answer to your questions within 3 hours or less! 
-
-_**E-mail**_
-
-General Information:
-
-Customer Service Department:
-
-Purchasing Department:
-
-Business development Department:
-
-IT Department:
-
-_**Phone**_
-
-877-383-5641
-
-510-668-0398
-
-(M - F 8:30 AM - 5:30 PM PDT)
-
-_**Fax**_
-
-510-751-5309
-
-_**By Mail**_
-
-Brilliant Store 933 Corporate Way, Fremont, CA 94539
-
-If you want to pick up your order at Brilliant Store, 
-
-[_click here_](http://maps.yahoo.com/maps_result?addr=933+Corporate+Way&csz=94539&country=us&new=1&name=&qty=)
-
-to get driving directions.
-
-Featured Stores
