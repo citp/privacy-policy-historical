@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529154730id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203070140id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - NowInStock.NET
-
-< Back 
+# Privacy Policy - NowInStock.net
 
 NowInStock.net has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
@@ -54,4 +52,14 @@ This site contains links to other sites. NowInStock.net is not responsible for t
 
 ### Contact Us
 
-If you have any additional questions or concerns about our privacy policy, [please contact us using this form](https://web.archive.org/contact_form.php). 
+If you have any additional questions or concerns about our privacy policy, [please contact us using this form](http://www.nowinstock.net/contact_form.php). 
+
+#### About Now In Stock
+
+Welcome to NowInStock.NET. We are a web service that monitors online shopping web sites to see when products come in stock. This way you never have to filter through hundreds of pages, subject yourself to tons of notification emails, and so on. NowInStock brings everything together in one tight little package. 
+
+We continually add new products, let us know if you have any you would like to see here. If you like our service, let us know! We love to hear from you.
+
+#### Testimonials
+
+"This is a fantastic site. I signed up for alert of Wii. I received notification that it was in stock at Sears, and placed my order! Im so happy to be laying in bed on this black Friday and not standing in some crazy freezing line waiting for the stores to open. Thanks for the rest!!!!" -randi
