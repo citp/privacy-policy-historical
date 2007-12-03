@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623121450id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203072739id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # babyworld - Privacy Policy
 
@@ -8,9 +8,7 @@
 
 [](http://shop.babyworld.co.uk/)
 
-ADHD is a real but invisible 
-
-Did your partner suffer a phantom pregnancy? Vote now!
+ADHD is a real but invisible di
 
 Win a fantastic prize when you recommend the babyworld shop to 6 friends  [click here](https://web.archive.org/shop/recommend_friend/default.asp)
 
@@ -63,3 +61,7 @@ We welcome your questions and comments about privacy issues. Should you have any
 See also our [Terms of Use](http://www.babyworld.co.uk/bbs/discussion_rules.asp), [copyright](http://www.babyworld.co.uk/notices/copyright.asp) and [disclaimer](http://www.babyworld.co.uk/notices/disclaimer.asp) information.
 
 **Last revised 22 July 2003**
+
+[](https://web.archive.org/abm/abmc.asp?b=634&z=3)
+
+[](https://web.archive.org/abm/abmc.asp?b=1369&z=184)
