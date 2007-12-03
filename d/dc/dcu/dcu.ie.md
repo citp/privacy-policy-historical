@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617171452id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203124041id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
 
 # Information - Dublin City University Privacy Statement
 
-##  dublin city university privacy statement
+##  Dublin City University Privacy Statement
 
 This statement relates to Dublin City University's privacy practices in connection with University websites. The University is not responsible for the content or privacy practices of other websites. External links to other websites are not always clearly identifiable as such. Within the Dublin City University domain you may find websites over which the University has no editorial responsibility or control. Such sites can include the websites of student organisations etc. While the University encourages compliance with this web privacy statement at such sites, please consult the privacy statements of individual sites or contact the persons responsible for those sites, in order to understand the policies and practices under which they operate. 
 
@@ -30,6 +30,6 @@ You have a right to be given a copy of personal data held about you. A request f
 
 This statement explains the Internet Privacy policy that the University has adopted for its websites. However, in legal terms it shall not be construed as a contractual undertaking. The University reserves the right to review and amend this statement at any time without notice.
 
-Within DCU, the Director of Computer Services has responsibility for the co-ordination of Data Protection related issues. Comments, complaints and requests for clarifications etc can be directed to that office(email: 
+Within DCU, the Director of Computer Services has responsibility for the co-ordination of Data Protection related issues. Comments, complaints and requests for clarifications etc can be directed to that office, email: 
 
 Tel: 01-7008105 or write to Director of Computer Services, Dublin City University, Glasnevin, Dublin 9). 
