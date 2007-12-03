@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418143247id_/http%3A//www.kendall.edu/Administration/tabid/192/ctl/Edit/mid/374/PrivacyPolicy/tabid/273/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendall.edu privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203123059id_/http%3A//www.kendall.edu/Administration/tabid/192/ctl/Edit/mid/374/PrivacyPolicy/tabid/273/Default.aspx) for the most accurate reproduction.*
 
 # ADA and Privacy Policies
 
