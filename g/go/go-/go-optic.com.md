@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620150123id_/http%3A//www.go-optic.com/new/storeinfo3.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-optic.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203142646id_/http%3A//www.go-optic.com/new/storeinfo3.asp) for the most accurate reproduction.*
 
 # [Go-Optic] Store Policies & Customer Privacy
 
