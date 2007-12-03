@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlycuties.net privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622014855id_/http%3A//www.onlycuties.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycuties.net privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203024944id_/http%3A//www.onlycuties.com/privacy) for the most accurate reproduction.*
 
 # OnlyCuties - Only hot cuties for you -
 
@@ -68,11 +68,11 @@ Final Whistle Ltd. has the discretion to occasionally update this privacy statem
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.  
 
 
-Final Whistle Ltd.  
-Attention: Customer Support  
-1149 N Gower Ste 256  
-Los Angeles CA 90038  
-UNITED STATES OF AMMERICA  
-Email: mail@fwhistle.com
+Final Whistle BV  
+Dokweg 27 B  
+The Netherlands  
+tel. +31255788100  
+fax. +31255788101  
+By Email: info@fwhistle.com
 
 Final Whistle Ltd. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
