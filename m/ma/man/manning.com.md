@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314231301id_/http%3A//www.manning.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203094546id_/http%3A//www.manning.com/about/privacy.html) for the most accurate reproduction.*
 
 # Manning Publicity Department
 
