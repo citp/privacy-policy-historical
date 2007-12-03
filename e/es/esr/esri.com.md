@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630110656id_/http%3A//www.esri.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203052414id_/http%3A//www.esri.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Information
 
@@ -8,7 +8,7 @@
 
 ### Notice
 
-ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI's and our affiliates' software, data, services, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to an [ESRI international distributor](http://gis.esri.com/intldist/contactint.cfm) who provides the above services in your country, or to an ESRI affiliate whose software, data, and services provide solutions to meet your needs. Our affiliates are also committed to protecting personally identifiable information as described in their privacy statements/policies.
+ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI's and our affiliates' software, data, services, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to an [ESRI international distributor](http://gis.esri.com/intldist/contact/index.cfm) who provides the above services in your country, or to an ESRI affiliate whose software, data, and services provide solutions to meet your needs. Our affiliates are also committed to protecting personally identifiable information as described in their privacy statements/policies.
 
 ESRI may also use your name, address, and e-mail to send you marketing materials, user conference information, and newsletters unless you notify us that you do not want to receive these materials. Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI and its affiliates.
 
