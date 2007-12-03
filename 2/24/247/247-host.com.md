@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the 247-host.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629064710id_/http%3A//www.247-host.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247-host.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203023555id_/http%3A//www.247-host.com/privacy.html) for the most accurate reproduction.*
 
 # 247-host.com Web Hosting Solutions Worldwide
 
-|  | 
-
-| 
-
-****Privacy Statement****  
-  
----  
-  
 **Privacy Statement  
 ** 247-host.com respects your privacy and works hard to safeguard the privacy of your Internet activity. We created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.  
 **Personally Identifiable Information  
@@ -31,27 +23,4 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 **Updates  
 ** 247-host.com may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of 247-host.com services after any such amendments signifies your acceptance thereof.  
 **Customer Concerns  
-** If you have questions or comments regarding this privacy policy you may contact us at cotact@247-host.com.   
-  
-  
-
-
-  | 
-
-|   
-
- **Key Features of Our Services**  
-  
----  
-* No Hidden Charges  
-* Instant Set up.  
-* Money Back Guarantee.  
-* 24/7 Support  
-* 99.99% Uptime.  
-* RvSkin Included.  
-* Fantastico Included.  
-* Unlimited Features.  
-* Daily Back up.  
-* No set up Fee.  
-* Low Costs  
-* Multiple Payment Methods
+** If you have questions or comments regarding this privacy policy you may contact us at cotact@247-host.com. 
