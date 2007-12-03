@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606054424id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203113405id_/http%3A//www.fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
 
 # FABULOUS FOODS
 
@@ -16,9 +16,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
-We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companiesÕ privacy policies. 
+We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 ### Security
 
@@ -32,13 +30,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Cheri Sicard  
 Enigma Communications  
-P.O. Box 5041  
-Playa del Rey, CA 90296  
+P.O. Box 3162  
+Big Bear Lake, CA 92315   
 cheri@fabulousfoods.com 
-
-Sign up today for one of our **FREE** informative and fun **Newsletters**.   
-
-
-[](http://www.fabulousfoods.com/cards/index.php)
-
-[](https://web.archive.org/cgi-bin/quiz/quirex.cgi)
