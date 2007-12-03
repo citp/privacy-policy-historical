@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623034059id_/http%3A//www.noisebot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203011752id_/http%3A//www.noisebot.com/privacy) for the most accurate reproduction.*
 
 # NoiseBot.com - Privacy Policy
 
-Here's the deal, straight-up: NoiseBot.com is 110% committed to respecting your privacy. You can rest assured that your personal information will not be sold, reused, rented, disclosed, or loaned to anyone. Any information that you provide will be handled with the utmost care and concern. If you have any questions, click to email hey at noisebot 
+Here's the deal, straight-up: NoiseBot.com is 110% committed to respecting your privacy. You can rest assured that your personal information will not be sold, reused, rented, disclosed, or loaned to anyone. Any information that you provide will be handled with the utmost care and concern. If you have any questions, send an e-mail to **[hey@noisebot.com](mailto:hey@noisebot.com)**. 
 
 What information do we collect, and how do we use it?
 
