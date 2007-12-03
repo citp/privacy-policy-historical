@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623081836id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203202041id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
-# Fodor's Travel Guides | Contact Information
-
-Privacy Policy
+# Fodors.com Privacy Policy
 
 The Fodors.com Web site (the "Site") is operated by Fodor's Travel, a division of Random House, Inc., located at 1745 Broadway, New York, New York 10019 ("Fodor's"). We can be reached by e-mail at [registration@fodors.com](mailto:registration@fodors.com).
 
@@ -24,7 +22,7 @@ While your personally identifying information is protected as outlined above, we
 
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-**OPT-OUT PROCEDURES:** If you are a registered user and you no longer wish to receive communications from Fodor�s, you may opt-out of such communications only by cancelling your Fodors.com registration. To do so, you must delete your account on your profile page. Log in using your screen name and password. Go to your profile page by clicking on "Profile". Toward the bottom of the page, click on "Click here to delete your screen name/account". A confirmation email will be sent to you. To complete the deletion of your account, you must click on the link in the confirmation email within three days or the change will not be made.
+**OPT-OUT PROCEDURES:** If you are a registered user and you no longer wish to receive communications from Fodors, you may opt-out of such communications only by cancelling your Fodors.com registration. To do so, you must delete your account on your profile page. Log in using your screen name and password. Go to your profile page by clicking on "Profile". Toward the bottom of the page, click on "Click here to delete your screen name/account". A confirmation email will be sent to you. To complete the deletion of your account, you must click on the link in the confirmation email within three days or the change will not be made.
 
 If at any time you no longer wish to receive our newsletter, you may opt-out by clicking the unsubscribe link at the bottom of the newsletter.
 
@@ -50,4 +48,7 @@ If you have any concerns, do not hesitate to contact us at the above e-mail addr
 
 **CORRECTING AND UPDATING INFORMATION:** Fodors.com also permits you to correct or update personally identifiable information that you have previously provided to us. To do so, send us an e-mail [here](mailto:registration@fodors.com) indicating the information that you wish to be corrected or updated, or you may change your personal profile at [www.fodors.com](http://www.fodors.com/) (click "Profile", log in, and follow instructions for making such changes).
 
-**OTHER TERMS:** Other terms and conditions governing your use of Fodors.com can be found in our [Subscriber's Agreement](http://www.fodors.com/about/subagree/). Please read it.
+**OTHER TERMS:** Other terms and conditions governing your use of Fodors.com can be found in our [Subscriber's Agreement](https://web.archive.org/about/subagree/). Please read it.
+
+  
+
