@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612071054id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204102447id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
 
-# US Lacrosse -- US Lacrosse Privacy Policy
+# US Lacrosse Privacy Policy
 
 If you feel that we are not abiding by our posted privacy statement, you should first contact Art Zito, Managing Director of Membership, at [azito@uslacrosse.org](mailto:azito@uslacrosse.org) or at (410) 235.6882 ext. 114. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact Glen Schorr, Managing Director, Marketing and Branding, at [gschorr@uslacrosse.org](mailto:gschorr@uslacrosse.org) or at (410) 235.6882 ext. 103.
 
