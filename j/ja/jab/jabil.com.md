@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429171851id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205001111id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
 # Jabil Circuit - Privacy policy
 
@@ -108,11 +108,11 @@
 
 Jabil Circuit, Inc.  
 US Safe Harbor Compliance  
-C/O Heather Mourtakos  
+C/O Jason Reynolds  
 10560 Dr. Martin Luther King Street North  
 St. Petersburg, FL 33716  
-Phone: 727-803-3219  
-Fax: 727-203-3219  
+Phone: 727-803-3945  
+Fax: 727-231-3945  
 e-mail: [ussafeharborcompliance@jabil.com](mailto:ussafeharborcompliance@jabil.com)
 
 **21\. Defined Terms.** Capitalized terms in this Privacy Policy have the following meaning:
@@ -169,7 +169,7 @@ Jabil US and US Affiliates periodically may wish to use Personal Data to send Di
 
 Jabil Circuit, Inc.  
 US Safe Harbor Compliance  
-C/O Heather Mourtakos  
+C/O Jason Reynolds  
 10560 Dr. Martin Luther King Street North  
 St. Petersburg, FL 33716
 
