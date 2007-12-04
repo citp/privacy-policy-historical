@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2007-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070419151842id_/http%3A//www.membersequitybank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204215535id_/http%3A//membersequitybank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Members Equity Bank - Short Privacy Policy
 
@@ -12,7 +12,7 @@
 ## Uses
 
   * We manage information to serve you.
-  * We share information about you with Perpetual Trustees Australia Limited, the credit provider and GE Mortgage Insurance Services, the credit provider's mortgage insurer.
+  * We share information about you with Perpetual Limited, the credit provider and Genworth Financial Mortgage Insurance Pty Ltd, the credit provider's mortgage insurer.
   * We may share information about you with our service providers, credit bureaus and law enforcement agencies.
 
 
