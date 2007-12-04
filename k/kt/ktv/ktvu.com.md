@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616052334id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205005532id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KTVU News Story - KTVU San Francisco
 
@@ -39,9 +39,9 @@ We also may use cookies to allow third parties to better serve advertisements to
 
 **Browser Level Information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site. 
 
-**Third Party Advertising** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+**Third Party Advertising.** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
-**Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+**Third Party Cookies.** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **DISCLOSURE OF INFORMATION**
 
