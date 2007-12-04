@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607202228id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204155135id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
 
 # Biggerbras.com, Customer, Privacy Policy
 
