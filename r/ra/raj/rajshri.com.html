@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rajshri.com privacy policy that was archived on 2007-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070624131034id_/http%3A//rajshri.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rajshri.com privacy policy that was archived on 2007-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071204162218id_/http%3A//www.rajshri.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="Welcome to India's Premier Online Entertainment Experience
@@ -77,11 +77,15 @@ zzcomp = "No";
 if(typeof zzAdUrl == 'undefined')
 zzAdUrl = "No";
 
+//if(typeof videotype == 'undefined') 
+videotype = 'Video';
+
 //zzAdUrl = "a";
 
 //alert(zzcomp + ' - ' + zzkwd + ' - ' + zzadtype);
 //alert("hello");
 </script>
+
 <script language="javascript">
 //document.write(zzadtype+ " and "+ zzkwd);
 //document.write(" ,Companion ad - "+ zzcomp+ " ad UrL" +zzAdUrl);
@@ -107,6 +111,44 @@ else if (zzadtype=='broadb')
 {
 IFRAMEURL = "vindico";
 }
+else if (zzadtype=='GFlash')
+{
+IFRAMEURL = "GFlash_preroll";
+}
+else if (zzadtype=='internap')
+{
+IFRAMEURL = "internap_preroll";
+}
+
+
+if (videotype=='FLV')
+{
+IFRAMEURL = "FLV" + IFRAMEURL;
+}
+
+/*else if (zzadtype=='Video')
+{
+IFRAMEURL = "Video_preroll";
+}
+//else if (zzadtype=='VC')
+else if (zzadtype=='VCMedia')
+{
+IFRAMEURL = "VC_preroll";
+//IFRAMEURL = "Value_Click_Media_Ad_Tags";
+}
+else if (zzadtype=='broadb')
+{
+IFRAMEURL = "vindico";
+}
+else if (zzadtype=='GFlash')
+{
+IFRAMEURL = "GFlash_preroll";
+}
+else if (zzadtype=='internap')
+{
+IFRAMEURL = "internap_preroll";
+}
+*/
 function autoreload( )
 {
 //alert("hello");
@@ -115,7 +157,12 @@ document.getElementById("Lbanner").src = "../zedo/bannerZEDOr.asp.asp";
 }
 </script>
 
-<!--include file="PayPopupscript.asp" --><script language="javascript">
+<!-- ValueClick Media 1x1 Flexible Banner CODE for rajshri.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=32512&amp;m=10&amp;tp=12&amp;d=j&amp;w=1&amp;h=1&amp;t=s"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=32512&m=10&c=1" target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=32512&m=10&tp=12&d=s&w=1&h=1&c=1"
+width=1 height=1 border=1></a></noscript>
+<!-- ValueClick Media 1x1 Flexible Banner CODE for rajshri.com -->
+<script language="javascript">
 incCat = '';
 zzrefresh = '';
 //alert(zzcomp);
@@ -319,18 +366,14 @@ document.write('<iframe id="Lbanner" name="one" width="728" height="90" src="../
 <br>
 
 
-<!-- Start of StatCounter Code
-<script type="text/javascript" language="javascript">
-var sc_project=1991967; 
-var sc_invisible=1; 
-var sc_partition=18; 
-var sc_security="82b4e5b8"; 
-</script>
- 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c19.statcounter.com/counter.php?sc_project=1991967&amp;java=0&amp;security=82b4e5b8&amp;invisible=1" alt="free hit counter" border="0"></a> </noscript>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-88h59qDISl6aE";quantserve();</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-88h59qDISl6aE.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
 
-
-End of StatCounter Code -->
  
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
