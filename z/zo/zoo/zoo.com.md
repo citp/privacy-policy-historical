@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624064336id_/http%3A//www.zoo.com/info.zoo/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoo.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204181829id_/http%3A//www.zoo.com/info.zoo/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Zoo - Privacy Policy
 
@@ -61,11 +61,11 @@ Bellevue, Washington 98004 USA
  **VIA EMAIL:**  
 [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
 
-Please note: In general, we don't ask users of Zoo for any information that allows us to personally identify them. Items such as nicknames or first names do not allow us to personally identify a user. To the extent we collect a user's email address, we do so only to respond to their comments or information requests, and we do not otherwise store or collect such email addresses. Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below: 
+ **Please note: In general, we don't ask users of Zoo for any information that allows us to personally identify them. Items such as nicknames or first names do not allow us to personally identify a user. To the extent we collect a user's email address, we do so only to respond to their comments or information requests, and we do not otherwise store or collect such email addresses. Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below:
 
 Under the law, you (as a parent or legal guardian of your child) have the right to review any personal information relating to a child under the age of 13 in your care that may be collected by the Zoo website. Please check any or all of the options below: 
 
-I wish to review all of the personal information currently collected on my child at Zoo 
+** I wish to review all of the personal information currently collected on my child at Zoo 
 
 I request that all personal information currently collected on my child at Zoo be deleted 
 
@@ -73,12 +73,12 @@ I request that, in future, all personal information regarding my child no longer
 
 Other request: _________________________________________________ 
 
-To help us identify the child in question in our database, please fill out the following:  Child's Email Address: _______________________________________________ 
+**To help us identify the child in question in our database, please fill out the following:** Child's Email Address: _______________________________________________ 
 
 Parent's Email address: _____________________________________________   
 (In order for us to honor your request, please print this information clearly and remember to include the "@" and ".com" in the email addresses.) 
 
-Under the law, we are obligated to verify the identity of the requestor of this information and to ensure that the requestor is in fact the child's parent or legal guardian. To help us discharge this responsibility, please fill out the following:  Please state your relationship to the child: ________________________________ 
+**Under the law, we are obligated to verify the identity of the requestor of this information and to ensure that the requestor is in fact the child's parent or legal guardian. To help us discharge this responsibility, please fill out the following:** Please state your relationship to the child: ________________________________ 
 
 Please state your name: _____________________________________________ 
 
@@ -86,11 +86,11 @@ Signature: _______________________________________________________
 
 Date: ___________________________________________________________ 
 
-Please note: Please send and fax all COPPA and PII related inquiries requiring written requests to Zoo to the following address and fax number: 
+**Please note: Please send and fax all COPPA and PII related inquiries requiring written requests to Zoo to the following address and fax number:
 
-**InfoSpace, Inc.**
+ **InfoSpace, Inc.**
 
-Attn: Privacy Officer  
+** Attn: Privacy Officer  
 Re: Zoo Parental Information Request  
 601 108th Avenue NE, Suite 1200  
 Bellevue, Washington 98004 USA  
