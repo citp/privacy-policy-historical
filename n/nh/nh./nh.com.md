@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nh.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607191105id_/http%3A//www.nh.com/apps/pbcs.dll/article%3FAID%3D/20031213/ABOUT/31213001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205005233id_/http%3A//www.nh.com/apps/pbcs.dll/article%3FAID%3D/20031213/ABOUT/31213001) for the most accurate reproduction.*
 
-# NH.com Jun 7, 2007: Where New Hampshire Clicks!
+# NH.com Dec 4, 2007: Where New Hampshire Clicks!
 
-[FRONTPAGE](https://web.archive.org/apps/pbcs.dll/frontpage) >> [ABOUT NH.COM](https://web.archive.org/apps/pbcs.dll/section?Category=ABOUT)
+  
+
 
 Published: December 13, 2003
 
