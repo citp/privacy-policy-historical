@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115552id_/http%3A//www.lrn.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204220604id_/http%3A//www.lrn.com/privacy_statement) for the most accurate reproduction.*
 
-# LRN | Governance, ethics and compliance applications and services. - Privacy Statement
+# Privacy Statement
 
 LRN CORPORATION  
 LRN Corporation ("LRN") is committed to protecting your privacy and earning your trust. This Privacy Statement describes LRN's privacy practices for both the web site located at [www.lrn.com](http://www.lrn.com/) and the Customer Web Sites which LRN creates, configures and hosts on behalf of its customers. These practices implement the requirements prescribed by the United States-European Union "Safe Harbor" arrangement for compliance by U.S.-based organizations with the provisions of the European Union's Directive regarding the protection of personal information.
