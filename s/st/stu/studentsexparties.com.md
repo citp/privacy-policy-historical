@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentsexparties.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622010138id_/http%3A//studentsexparties.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsexparties.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205003406id_/http%3A//www.studentsexparties.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
