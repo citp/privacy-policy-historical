@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629013342id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204015230id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
 
 # Complete Wedding, Corporate Event, and Party Planning Resource! Local Wedding Planning at Decidio
 
