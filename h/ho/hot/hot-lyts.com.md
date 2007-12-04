@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610100917id_/http%3A//www.hot-lyts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204235143id_/http%3A//www.hot-lyts.com/privacy.php) for the most accurate reproduction.*
 
-# HOT-LYTS.COM - Layouts, Backgrounds, Generators, Graphics
+# HOT-LYTS.COM - Myspace Layouts, Default, Myspace Backgrounds, Friendster Layouts, Skinny Layouts, Generators, Myspace Graphics, Xanga Layouts, Christmas layouts and much more!
 
   
 
@@ -25,3 +25,6 @@ _hotlyts24@yahoo.ca_
 . 
 
 **Last Updated: May 12th, 2007**
+
+  
+
