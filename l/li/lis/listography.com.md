@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the listography.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506193930id_/http%3A//listography.com/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listography.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204233254id_/http%3A//listography.com/action/privacy) for the most accurate reproduction.*
 
-# listography: listography
+# listography: privacy policy
 
-### listography.com does not spam or sell email addresses.
+## listography privacy policy
+
+### we do not spam or sell email addresses.
 
 listography.com is a an online service that allows members to self-create personal profiles that can be linked together through a chosen network of "favorites" (links to other user's Listographies). Listography members can change their profile information at any time and can control how other members and the service communicates with them. Listography allows our users to share a broad range of lists that each user is in control of creating, ranging from recommendations, auto-biographical, top tens, wishlists, photo lists, to do lists, etc. Users control all aspects of content on their Listography Page: profile photo, list topics and lists, "about" text, personal links, photos in photo lists, etc. 
 
