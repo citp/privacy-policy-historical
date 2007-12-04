@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mambosprouts.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609110214id_/http%3A//www.mambosprouts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mambosprouts.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204122606id_/http%3A//www.mambosprouts.com/privacy.html) for the most accurate reproduction.*
 
 # Mambo Sprouts Privacy Policy
 
