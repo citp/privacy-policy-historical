@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624041623id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204174631id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
 
-# CPAP Machines and CPAP Masks for the Treament of Sleep Apnea
+# 
 
 I. WE HAVE A LEGAL DUTY TO SAFEGUARD YOUR PROTECTED HEALTH INFORMATION (PHI).
 
@@ -50,11 +50,11 @@ F. The Right to Get This Notice by E-Mail. You have the right to get a copy of t
 
 IV. E-mail Addresses
 
-The e-mail addresses provided to cpap.com when placing an order will not be shared with third parties. The e-mail addresses provided to cpap.com when subscribing to our mailing list will notbe shared with third parties, but will be used to e-mail you monthly product and industry updates. You may subscribe or unsubscribe from our mailing list at any time. To remove yourself from our mailing list, please click here.
+The e-mail addresses provided to cpap.com when placing an order will not be shared with third parties. The e-mail addresses provided to cpap.com when subscribing to our mailing list will notbe shared with third parties, but will be used to e-mail you monthly product and industry updates. You may subscribe or unsubscribe from our mailing list at any time by visiting http://www.cpap.com/newsletter_out.php or by clicking unsubscribe at the bottom of any of our promotional mailings. 
 
 V. Billing Information
 
-Information provided to purchase products via online, fax, or phone order (including billing name, billing address, telephone number, and fax number) will not be shared with or sold to anyone outside of cpap.com nor to any third party.  Payment information (credit card numbers and expiration dates) is treated confidentially and will not be shared with anyone outside of cpap.com or the financial institutions used to process payment.
+Information provided to purchase products via online, fax, or phone order (including billing name, billing address, telephone number, and fax number) will not be shared with or sold to anyone outside of cpap.com nor to any third party.  Payment information (credit cahttp://www.cpap.com/newsletter_out.phprd numbers and expiration dates) is treated confidentially and will not be shared with anyone outside of cpap.com or the financial institutions used to process payment.
 
 VI. Security
 
