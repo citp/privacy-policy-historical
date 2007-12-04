@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530145157id_/http%3A//www.softscrubcleanser.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204232702id_/http%3A//www.softscrub.com/index.cfm%3Fpage_id%3D236) for the most accurate reproduction.*
 
 # Dial Corporation - Privacy Statement
 
