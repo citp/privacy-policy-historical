@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the galahotels.com privacy policy that was archived on 2006-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060701050341id_/http%3A//www.galahotels.com/Pages.aspx%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galahotels.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204134921id_/http%3A//www.galahotels.com/info.aspx%3FpageId%3D2) for the most accurate reproduction.*
 
-# IHR BOOKING SERVICES - REGISTRATION
+# Untitled Page
 
-We use order forms that allow you to book a hotel room. We collect your name, e-mail address, postal address, and credit card information. This information is used to process and check orders. We also use this information to contact you in case there is a question or problem with a reservation.
+**
+
+## PRIVACY& POLICY
+
+**We use order forms that allow you to book a hotel room. We collect your name, e-mail address, postal address, and credit card information. This information is used to process and check orders. We also use this information to contact you in case there is a question or problem with a reservation.
 
 We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your booking experience. We strongly value your privacy. Your personal information provided to our web will NOT be passed along for secondary use without your explicit permission.
 
