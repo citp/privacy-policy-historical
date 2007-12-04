@@ -1,21 +1,81 @@
-<!--The following is the downloaded HTML source of the discoversd.com privacy policy that was archived on 2007-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070515010753id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoversd.com privacy policy that was archived on 2007-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071204222939id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	DiscoverSD.com Privacy Policy - San Diego
 </title><meta name="Keywords" content=""><meta name="Description" content="Privacy policy for visitors and members of DiscoverSD.com, the San Diego City Guide.">
     <link href="http://www.discoversd.com/CSS/newstyle.css" rel="stylesheet" type="text/css">
     <link href="http://www.discoversd.com/CSS/tooltip.css" rel="stylesheet" type="text/css">
+    <link href="http://newsletter.discoversd.com/style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="http://www.discoversd.com/javascript/imghover.js"> </script>
     <script type="text/javascript" src="http://www.discoversd.com/javascript/input.js"> </script>
     <script type="text/javascript" src="http://www.discoversd.com/javascript/tooltip.js"> </script>
-    <script type="text/javascript" src="http://www.discoversd.com/javascript/Reviews.js"> </script>
+    <script type="text/javascript" src="http://www.discoversd.com/javascript/prototype.js"></script>
+    <script type="text/javascript" src="http://www.discoversd.com/javascript/scriptaculous.js?load=effects"></script>
+    <script type="text/javascript" src="http://www.discoversd.com/javascript/lightbox.js"></script>
+    <link href="http://www.discoversd.com/CSS/lightbox.css" rel="stylesheet" type="text/css" media="screen">
+    <meta name="ROBOTS" content="NOYDIR,NOODP">
+    <script>
+			
+	
+			function toggle_expand(box_id) {
+				box = document.getElementById(box_id);
+				expand_link =  document.getElementById('expand-link');
+				collapse_link =  document.getElementById('collapse-link');
+				empty_box =  document.getElementById('empty-box');
+				if(box.style.display=='none') {
+					box.style.display='block';
+					expand_link.style.display='none';
+					collapse_link.style.display='block';
+					empty_box.style.display='none';
+				} else {
+					box.style.display='none';
+					expand_link.style.display='block';
+					collapse_link.style.display='none';
+					empty_box.style.display='block';
+				}
+				
+			}
+			
+			function toggle_downexpand(box_id)
+			{
+				box = document.getElementById(box_id);
+				if(box_id=='downexpand-link')
+				    {
+				    newbox=document.getElementById(box_id.replace('expand','collapse'));
+				    document.getElementById('marginlowerhotelbot').style.height='180px';
+				    document.getElementById('rightlowerhotelbot').style.display='block';
+				    document.getElementById('framelowerhotelbot').style.height='180px';
+				    }
+				else
+				    {
+				    newbox=document.getElementById(box_id.replace('collapse','expand'));
+				    document.getElementById('marginlowerhotelbot').style.height='40px';
+				    document.getElementById('rightlowerhotelbot').style.display='none';
+				    document.getElementById('framelowerhotelbot').style.height='40px';
+				    }
+				box.style.display='none';
+				newbox.style.display='block';
+			}
+				
+		</script>	
+		<style>
+	#header-banner {display:none;}
+	#expand-link, #collapse-link {display:none; position:relative; float:right;padding:0; margin:0; font-weight:bold;}
+	#expand-link {display:block;}
+	#empty-box {display:block; margin:0; padding:0; background-color:#D4ECFF; height:8px; clear:both;}
 
-    <meta name="ROBOTS" content="NOYDIR,NOODP"></head>
+	#downexpand-link, #downcollapse-link {display:none; position:relative; float:right;padding:0; margin:0; font-weight:bold;}
+	#downcollapse-link {display:block;}
+</style>
+</head>
 <body>
 
 
-    <div id="bgcontain">
+ 
+    
+       <div id="bgcontain">
+ 
         <!-- header START -->
         
         <form action="http://www.discoversd.com/generalsearch/" name="topsearch" id="topsearch" method="post">
@@ -40,17 +100,29 @@
                 </fieldset>
             </div>
         </form>
-        
+       
             
             <!-- header END -->
             <!-- subheader START -->
+            
+                    
+ 
+ <!-- <ul>
+   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a></li>
+   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a></li>
+  </ul> -->
+  
+           
             <div id="subheader">
                 <div class="subTabs">
                     <ul>
-                        <li><a class="homepageActive" href="http://www.discoversd.com/ "><em>Homepage</em></a></li><li><a class="about" href="http://www.discoversd.com/about/"><em>About</em></a></li><li><a class="contact" href="http://www.discoversd.com/contact/"><em>Contact</em></a></li><li><a class="list" href="http://www.discoversd.com/list-your-business/"><em>List Your Business</em></a></li>
-                        
+                        <div style="width:70px; float:right; text-align:right; height:auto; padding-top:15px;"> <span id="expand-link"><a href="#" onclick="toggle_expand('header-banner');">+ Expand</a></span>  <span style="visibility: visible;" id="collapse-link"><a href="#" onclick="toggle_expand('header-banner');">- Collapse</a></span></div> 
+                        <li><a class="homepageActive" href="http://www.discoversd.com/ "><em>Homepage</em></a></li><li><a class="about" href="http://www.discoversd.com/about/"><em>About</em></a></li><li><a class="contact" href="http://www.discoversd.com/contact/"><em>Contact</em></a></li><li><a class="list" href="http://www.discoversd.com/list-your-business/"><em>List Your Business</em></a></li><li><a class="photos" href=" http://pictures.discoversd.com/"><em>Picture Galleries</em></a></li><li><a class="blog" href="http://www.discoversd.com/blog/"><em>Blog</em></a></li>
+                         <li><a href="http://www.discoversd.com/discover-san-diego-careers/"><img style="padding-left:100px;padding-top:8px;" src="http://www.discoversd.com/images/hiring.gif"></a></li>
                     </ul>
                 </div>
+             <div id="empty-box"> </div>
+                <div id="header-banner" style="display: none;" onclick="toggle_expand('header-banner');">
                 <!-- menu END -->
                 <!-- image and recent comments START -->
                 <div class="subLeft">
@@ -65,19 +137,24 @@
     }
      
     </script>
-  <div class="subAffiliate"><h4>Our 5 Best Sellers in San Diego</h4><ul><li><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?ID=1010&amp;PRODUCTID=1016&amp;CODE=3097ZOO_TR&amp;AUID=5224">The San Diego Zoo</a></li><li><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?ID=1010&amp;PRODUCTID=1016&amp;CODE=3871SANGOCAR&amp;AUID=5224">GPS-guided Talking Tour Cars ...</a></li><li><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?ID=1010&amp;PRODUCTID=1016&amp;CODE=3541SAN&amp;AUID=5224">VIP Nightclub Package</a></li><li><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?ID=1010&amp;PRODUCTID=1016&amp;CODE=3285OTTSD&amp;AUID=5224">Old Town Trolley Tours of San Diego</a></li><li><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?ID=1010&amp;PRODUCTID=1016&amp;CODE=3958GOSAN&amp;AUID=5224">Go San Diego™ Card</a></li></ul></div>
+  <div class="subRight"><h3>Recent San Diego Blog Posts</h3><ul><li><a href="http://www.discoversd.com/blog/san-diego-nightlife-blog/bar-reviews/the-field---irish-authenticity-downtown.html">The Field - Irish Authenticity...</a></li><li><a href="http://www.discoversd.com/blog/san-diego-nightlife-blog/little-italy-flight-path-nightlife.html">Little Italy Flight Path Nightlife</a></li><li><a href="http://www.discoversd.com/blog/san-diego-restaurant-blog/discover-hillcrests-bread--cie.html">Discover Hillcrest’s Bread &amp; Cie</a></li><li><a href="http://www.discoversd.com/blog/san-diego-restaurant-blog/dao-son-home-of-the-hot-chef.html">Dao Son, Home of the Hot Chef</a></li><li><a href="http://www.discoversd.com/blog/san-diego-shopping-blog/boutique-store-reviews/all-new-donna-marsh-shopping-preview-party.html">All-New Donna Marsh Shopping P...</a></li><li><a href="http://www.discoversd.com/blog/san-diego-dating-blog/holiday-date-ideas-in-san-diego.html">Holiday Date Ideas in San Diego</a></li></ul></div>
 
 
 
+                </div>
                 <!-- image and recent comments END -->
                 <!-- submenu START -->
                 <div class="subMenu">
                     
-    <ul><li><a class="neighborhoods" href="http://www.discoversd.com/san-diego/neighborhoods/"><em>Neighborhoods</em></a></li><li><a class="hotels" href="http://www.discoversd.com/san-diego-hotels/"><em>Hotels</em></a></li><li><a class="nightlife" href="http://www.discoversd.com/san-diego-nightlife/"><em>Nightlife</em></a></li><li><a class="restaurants" href="http://www.discoversd.com/san-diego-restaurants/"><em>Restaurants</em></a></li><li><a class="shopping" href="http://www.discoversd.com/san-diego-shopping/"><em>Shopping</em></a></li><li><a class="realestate" href="http://www.discoversd.com/san-diego-real-estate/"><em>Real Estate</em></a></li> <li><a class="spassalons" href="http://www.discoversd.com/san-diego-spas-and-salons/"><em>Spas and Salons</em></a></li><li><a class="ourblog" href="http://www.discoversd.com/blog/"><em>Our Blog</em></a></li></ul>
+    <div style="float:left;">
+    <ul><li><a class="attractions" href="http://travel.discoversd.com/36_ticket-list_m10_r430685.html"><em>Attractions</em></a></li><li><a class="hotels" href="http://www.discoversd.com/san-diego-hotels/"><em>Hotels</em></a></li><li><a class="nightlife" href="http://www.discoversd.com/san-diego-nightlife/"><em>Nightlife</em></a></li><li><a class="restaurants" href="http://www.discoversd.com/san-diego-restaurants/"><em>Restaurants</em></a></li><li><a class="shopping" href="http://www.discoversd.com/san-diego-shopping/"><em>Shopping</em></a></li><li><a class="realestate" href="http://www.discoversd.com/san-diego-real-estate/"><em>Real Estate</em></a></li> <li><a class="spassalons" href="http://www.discoversd.com/san-diego-spas-and-salons/"><em>Spas and Salons</em></a></li><li><a class="neighborhoods" href="http://www.discoversd.com/san-diego/neighborhoods/"><em>Neighborhoods</em></a></li></ul>
+    </div>
+    <div style="float:right; padding-right:22px;"><img src="http://www.discoversd.com/images/san-diego-advertising.gif" style="padding-top:4px;"></div>
 
                 </div>
                  
             </div>
+          
              <div id="adsensecontainer">
                 <div>
                     
@@ -106,11 +183,96 @@ google_color_url = "808080";
             <div id="container">
                 <!-- wrap START (sideCenter & sideLeft)-->
                 <div id="wrap">
+                
                     
+
     <div id="SL"> 
     
-         
+<script language="javascript" type="text/javascript">
+function AfterLogin()
+{    
+   
+    document.getElementById('AfterLogin').style.display ='block';
+    document.getElementById('BeforeLogin').style.display ='none';
+    document.getElementById('message').innerHTML= document.getElementById('message').innerHTML ;
+}
 
+function BeforeLogin()
+{
+    document.getElementById('AfterLogin').style.display ='none';
+    document.getElementById('BeforeLogin').style.display ='block';
+}
+function ShowDiv()
+    {
+     var page ='http://www.discoversd.com/forgotpassword/';
+     window.location.href = page;
+     
+    }
+    function ValidateRightLogin()
+    {
+    if(document.RightLoginPanel.txtrightUname.value=="")
+    document.getElementById('validateusername').innerHTML ='*';
+    else
+    document.getElementById('validateusername').innerHTML ='';
+    if(document.RightLoginPanel.txtrightPassword.value=="")
+    document.getElementById('validatepassword').innerHTML ='*';
+    else
+    document.getElementById('validatepassword').innerHTML ='';
+    if((document.RightLoginPanel.txtrightUname.value=="") || (document.RightLoginPanel.txtrightPassword.value==""))
+    return(false);
+    else
+    return(true);
+    }
+    function ValidateRightLoginscript(type)
+    {
+    if(type==1)
+    {
+    if(document.RightLoginPanel.txtrightUname.value=="")
+    document.getElementById('validateusername').innerHTML ='*';
+    else
+    document.getElementById('validateusername').innerHTML ='';
+    }
+    else
+    {
+    if(document.RightLoginPanel.txtrightPassword.value=="")
+    document.getElementById('validatepassword').innerHTML ='*';
+    else
+    document.getElementById('validatepassword').innerHTML ='';
+    }
+    }
+</script>
+
+<h3><strong><em class="signin"><a href="http://www.discoversd.com/login/">Login</a></em>&nbsp;&nbsp;
+<em class="register"><a href="http://www.discoversd.com/registration/">Register</a></em></strong></h3>
+       <form action="http://www.discoversd.com/checklogin.aspx" name="RightLoginPanel" id="RightLoginPanel" method="post">
+<div class="login" id="BeforeLogin" style="display: block;">
+   <label></label>
+    <label for="username">
+        <strong>Email Address:</strong><input type="text" onblur="ValidateRightLoginscript(1);" class="input" name="txtrightUname" id="txtrightUname" value="" style="width:140px;"><span id="validateusername"></span></label>
+    <label for="password">
+        <strong>Password:</strong><input type="password" onblur="ValidateRightLoginscript(2);" class="input" name="txtrightPassword" id="txtrightPassword" value="" style="width:140px;"><span id="validatepassword"></span></label>
+    <div style="margin-left:-4px"><input type="CheckBox" name="chkRemember" id="chkRemember" checked="checked" style="border:0px;"><label class="forgotpassword">Remember Me?</label></div> 
+        <input onclick="return ValidateRightLogin();" src="http://www.discoversd.com/images/SR_login_signin_button.png" type="image" name="rightimgLogin" id="rightimgLogin" class="noborder">
+                   
+               
+    <p class="forgotpassword">    
+     <a id="A1" href=" &#10;    http://www.discoversd.com/login/">Forgot Password?</a>
+    
+     &nbsp;&nbsp;<script language="javascript"></script>
+    </p>
+</div>
+<div class="login" id="AfterLogin" style="display: none;">
+    <label id="message">
+        <strong><span style="cursor:pointer;" title="">Welcome
+            </span>
+        </strong>
+    </label>
+</div>
+</form>
+<script language="javascript" type="text/javascript"> javascript:BeforeLogin();</script>
+
+         
+       
         <!--navigation START-->
         <h3>
             <strong>DiscoverSD Navigation</strong></h3>
@@ -182,8 +344,54 @@ google_color_url = "808080";
 <ul class="ULSIMPLE"> <li><a href="http://www.discoversd.com/san-diego/neighborhoods/">Browse by Neighborhood</a></li><ul class="ULSMALL"><li><a href="http://www.discoversd.com/california/san-diego/ca/coronado.html">Coronado, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/del-mar.html">Del Mar, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/downtown--gaslamp.html">Downtown / Gaslamp</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/hillcrest.html">Hillcrest, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/la-jolla.html">La Jolla, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/little-italy.html">Little Italy, San Diego</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/mira-mesa.html">Mira Mesa, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/mission-valley.html">Mission Valley</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/north-park.html">North Park, San Diego</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/old-town.html">Old Town, San Diego</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/pacific-beach.html">Pacific Beach, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/point-loma.html">Point Loma, CA</a></li><li><a href="http://www.discoversd.com/california/san-diego/ca/rancho-santa-fe.html">Rancho Santa Fe, CA</a></li></ul></ul>
 
 
+
          <!--Neighbourhood END-->
-        <div class="categ"><h3><strong>DiscoverSD Real Estate</strong></h3><h4>San Diego Real Estate:</h4><ul class="featured"><li><a href="http://www.discoversd.com/san-diego-real-estate/"><img src="http://www.discoversd.com/images/discoversd-mini-real-estate.jpg" width="158" height="39" alt="San Diego Real Estate" border="0"></a></li></ul><h4>Real Estate Articles:</h4><ul class="article"><li><a href="http://www.discoversd.com/articles/sd-real-estate/50.html">Being a good buyer</a></li><li><a href="http://www.discoversd.com/articles/sd-real-estate/38.html"> La Jolla real estate vs. Rancho Santa Fe real estate</a></li> </ul></div><div align="center"><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?CODE=3958GOSAN&amp;ID=1010&amp;PRODUCTID=1016&amp;AUID=5224"><img src="http://www.discoversd.com/images/go-san-diego-card.gif" border="0" align="center"></a></div>
+         <!--LeftSponsor Banner START-->
+         
+<div class="h4s"><h4>Sponsors</h4>&nbsp;&nbsp;(<a href="http://www.discoversd.com/san-diego-advertising/">advertise</a>)</div>
+<div class="h4sbanner" align="center">
+
+</div>
+          <!--LeftSponsor Banner END-->
+        
+ <div><ul class="adsensecontainerleft"> <li>
+             <script type="text/javascript"><!--
+
+google_ad_client = "pub-9064901003707300";
+
+google_alternate_color = "F5FAFF";
+
+google_ad_width = 160;
+
+google_ad_height = 90;
+
+google_ad_format = "160x90_0ads_al_s";
+
+//2007-06-08: DSD 160x90 LNav AdLinks
+
+google_ad_channel = "5087391003";
+
+google_color_border = "D4ECFF";
+
+google_color_bg = "F5FAFF";
+
+google_color_link = "4D9EE4";
+
+google_color_text = "808080";
+
+google_color_url = "808080";
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+</li></ul>
+
+                </div>
+<div class="categ"><h3><strong>DiscoverSD Real Estate</strong></h3><h4>Real Estate Articles:</h4><ul class="article"><li><a href="http://www.discoversd.com/articles/sd-real-estate/50.html">Being a good buyer</a></li><li><a href="http://www.discoversd.com/articles/sd-real-estate/38.html"> La Jolla real estate vs. Rancho Santa Fe real estate</a></li> </ul></div><div align="center"><a href="http://www.affiliate.viator.com/brochure/product_show.jsp?CODE=3958GOSAN&amp;ID=1010&amp;PRODUCTID=1016&amp;AUID=5224"><img src="http://www.discoversd.com/images/go-san-diego-card.gif" border="0" align="center"></a></div><br><div class="categ"><h4>Restaurants San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-restaurants/">New San Diego restaurants and dining reviews</a></li></ul><h4>Hotels San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-hotels/">Discover San Diego hotels and accommodations</a></li></ul><h4>Nightlife San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-nightlife/">San Diego bars, clubs and nightlife guide</a></li></ul><h4>Salons and Spas San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-spas-and-salons/">San Diego day spas and salon recommendations</a></li></ul><h4>Shopping San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-shopping/">San Diego clothing stores and boutique shopping</a></li></ul><h4>Real Estate San Diego:</h4><ul class="article"><li><a href="http://www.discoversd.com/san-diego-real-estate/">San Diego real estate agents and brokers</a></li></ul></div>
 
         <!--categories START-->
      
@@ -200,7 +408,7 @@ google_color_url = "808080";
     </div>
 
                     <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWBGYPZBYEAgEPFgIeBFRleHQFIzxtZXRhIG5hbWU9J0tleXdvcmRzJyBjb250ZW50PScnIC8+ZAICDxYCHwAFeTxtZXRhIG5hbWU9J0Rlc2NyaXB0aW9uJyBjb250ZW50PSdQcml2YWN5IHBvbGljeSBmb3IgdmlzaXRvcnMgYW5kIG1lbWJlcnMgb2YgRGlzY292ZXJTRC5jb20sIHRoZSBTYW4gRGllZ28gQ2l0eSBHdWlkZS4nLz5kAgUPZBYCAgMPDxYCHgdWaXNpYmxlaGRkZE0eDVzXu9+rzyM/LSXr9SBPTN1l">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWBGYPZBYEAgEPFgIeBFRleHQFIzxtZXRhIG5hbWU9J0tleXdvcmRzJyBjb250ZW50PScnIC8+ZAICDxYCHwAFeTxtZXRhIG5hbWU9J0Rlc2NyaXB0aW9uJyBjb250ZW50PSdQcml2YWN5IHBvbGljeSBmb3IgdmlzaXRvcnMgYW5kIG1lbWJlcnMgb2YgRGlzY292ZXJTRC5jb20sIHRoZSBTYW4gRGllZ28gQ2l0eSBHdWlkZS4nLz5kAgYPZBYCAgUPDxYCHgdWaXNpYmxlaGRkZCFcmj/FLLZ1fKmlSnbW9Azai1VG">
 
                     <div id="SC">
                         
@@ -437,91 +645,13 @@ google_color_url = "808080";
                 <!-- sideRight START -->
                 <div id="SR">
                     
-    
-<script language="javascript" type="text/javascript">
-function AfterLogin()
-{    
-   
-    document.getElementById('AfterLogin').style.display ='block';
-    document.getElementById('BeforeLogin').style.display ='none';
-    document.getElementById('message').innerHTML= document.getElementById('message').innerHTML ;
-}
-
-function BeforeLogin()
-{
-    document.getElementById('AfterLogin').style.display ='none';
-    document.getElementById('BeforeLogin').style.display ='block';
-}
-function ShowDiv()
-    {
-     var page ='http://www.discoversd.com/forgotpassword/';
-     window.location.href = page;
-     
-    }
-    function ValidateRightLogin()
-    {
-    if(document.RightLoginPanel.txtrightUname.value=="")
-    document.getElementById('validateusername').innerHTML ='*';
-    else
-    document.getElementById('validateusername').innerHTML ='';
-    if(document.RightLoginPanel.txtrightPassword.value=="")
-    document.getElementById('validatepassword').innerHTML ='*';
-    else
-    document.getElementById('validatepassword').innerHTML ='';
-    if((document.RightLoginPanel.txtrightUname.value=="") || (document.RightLoginPanel.txtrightPassword.value==""))
-    return(false);
-    else
-    return(true);
-    }
-    function ValidateRightLoginscript(type)
-    {
-    if(type==1)
-    {
-    if(document.RightLoginPanel.txtrightUname.value=="")
-    document.getElementById('validateusername').innerHTML ='*';
-    else
-    document.getElementById('validateusername').innerHTML ='';
-    }
-    else
-    {
-    if(document.RightLoginPanel.txtrightPassword.value=="")
-    document.getElementById('validatepassword').innerHTML ='*';
-    else
-    document.getElementById('validatepassword').innerHTML ='';
-    }
-    }
-</script>
-
-<h3><strong><em class="signin"><a href="http://www.discoversd.com/login/">Login</a></em>&nbsp;&nbsp;
-<em class="register"><a href="http://www.discoversd.com/registration/">Register</a></em></strong></h3>
-       <form action="http://www.discoversd.com/checklogin.aspx" name="RightLoginPanel" id="RightLoginPanel" method="post">
-
-<div class="login" id="BeforeLogin" style="display: block;">
-   <label></label>
-    <label for="username">
-        <strong>Email Address:</strong><input type="text" onblur="ValidateRightLoginscript(1);" class="input" name="txtrightUname" id="txtrightUname" style="width:140px;"><span id="validateusername"></span></label>
-    <label for="password">
-        <strong>Password:</strong><input type="password" onblur="ValidateRightLoginscript(2);" class="input" name="txtrightPassword" id="txtrightPassword" style="width:140px;"><span id="validatepassword"></span></label>
-    <label>
-        </label>&nbsp;
-        <input onclick="return ValidateRightLogin();" src="http://www.discoversd.com/images/SR_login_signin_button.png" type="image" name="rightimgLogin" id="rightimgLogin" class="noborder">
-    <p class="forgotpassword">
-   
-     <a id="A1" href=" &#10;    http://www.discoversd.com/login/">Forgot Password?</a>
-    
-     &nbsp;&nbsp;<script language="javascript"></script>
-    </p>
+<div class="hotelbot">
+<!--
+<script src="http://arestravel.com/js/_default/ARESbot.js?bundle=discoveringsandiego&ro=1" type="text/javascript"></script>
+-->
+<script src="http://www.discoversd.com/bots/third.js" type="text/javascript"></script>
 </div>
-<div class="login" id="AfterLogin" style="display: none;">
-    <label id="message">
-        <strong><span style="cursor:hand;" title="">Welcome
-            </span>
-        </strong>
-    </label>
-</div>
-</form>
-<script language="javascript" type="text/javascript"> javascript:BeforeLogin();</script>
-
+    
     <!--<div class="login">
         <ul class="inboxblog">
             <li><a href="http://www.discoversd.com/underconstruction/">
@@ -540,16 +670,33 @@ function ShowDiv()
     <div class="googleads">
         <img id="Img4" src="http://www.discoversd.com/images/adsense_test.png" alt="#" />
     </div>-->
-    
+
    
 <div class="h4s"><h4>Sponsors</h4>&nbsp;&nbsp;(<a href="http://www.discoversd.com/san-diego-advertising/">advertise</a>)</div>
-<div class="h4sbanner" align="center"><a href="http://www.limos.com/partnerSearch/search.aspx?cid=vx5026"><img src="http://www.limos.com/media/aff_banner2.gif" border="0" align="center"></a></div>
+<div class="h4sbanner" align="center">
+
+</div>
  <!-- <ul>
-   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a></li>
-   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a></li>
+   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a>
+   <li><a href="#"><img src="images/sample_sponsor_image1.png" alt="#" border="0" /></a>
   </ul> -->
  
  
+  
+   <div id="Div1"> 
+    
+  <h3>
+            <strong>Recent DiscoverSD Articles</strong></h3>
+        <ul class="ULSIMPLE">
+            <ul class="ULSMALL">
+                <li><a href="http://www.discoversd.com/articles/restaurants-and-dining/319.html">Dining for a Cause Tuesdays at The Fleetwood</a></li><li><a href="http://www.discoversd.com/articles/fashion-and-shopping/318.html">Top Boutique Shopping at Del Mar Plaza</a></li><li><a href="http://www.discoversd.com/articles/clubs-bars-party-scene/317.html">Ivy Updates: Spotlight on Ultra Lounge, Envy &amp; Eden</a></li><li><a href="http://www.discoversd.com/articles/restaurants-and-dining/316.html">Ivy Updates: Spotlight on Quarter Kitchen</a></li><li><a href="http://www.discoversd.com/articles/restaurants-and-dining/315.html">San Diego's Best Breakfast: Richard Walker's Pancake House </a></li><li><a href="http://www.discoversd.com/articles/clubs-bars-party-scene/314.html">San Diego New Year's Eve Parties: aPRODUCTION Party</a></li> 
+            </ul>
+        </ul>
+
+        <div align="center">
+                <a href="http://newsletter.discoversd.com/"><img src="http://www.discoversd.com/images/san-diego-newsletter.gif" align="middle"></a>
+        </div>
+   </div>
    <!-- <div class="h4s">
         <h4>Visit Our Sponsors</h4>&nbsp;&nbsp;(<a href="#">info</a>)</div>
     <div class="sponsors">
@@ -586,52 +733,155 @@ function ShowDiv()
             </div>
             <!-- container END -->
             <!-- footer START -->
-            <div id="footer" align="center">
-           
+            <div id="adsensecontainerfooter">
+                <div>
+                    
+   <script type="text/javascript"><!--
+
+google_ad_client = "pub-9064901003707300";
+
+google_alternate_color = "FFFFFF";
+
+google_ad_width = 728;
+
+google_ad_height = 15;
+
+google_ad_format = "728x15_0ads_al_s";
+
+//2007-06-08: DSD 728x15 Footer
+
+google_ad_channel = "9604251753";
+
+google_color_border = "FFFFFF";
+
+google_color_bg = "FFFFFF";
+
+google_color_link = "336699";
+
+google_color_text = "808080";
+
+google_color_url = "808080";
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+
+
+
+                </div>
+             </div>
+           <div class="marginlowerhotelbot" id="marginlowerhotelbot">
+                        <div style="float:left;">
+                            <iframe marginheight="0" marginwidth="0" src="http://www.discoversd.com/ARES/Hotelfooterbot.aspx" id="framelowerhotelbot" frameborder="0" height="180px" width="520px" scrolling="no">
+                            </iframe>
+                            </div>
+                        <div style="width:150px; float:right; text-align:right; height:auto; padding-top:25px; margin-right:15px;"> <span id="downexpand-link"><a href="#bottom" onclick="toggle_downexpand('downexpand-link');">+ Expand</a></span>  <span id="downcollapse-link"><a href="#bottom" onclick="toggle_downexpand('downcollapse-link');">- Collapse</a></span></div> 
+    
+                        <div class="rightlowerhotelbot" id="rightlowerhotelbot">
+                                <div class="lowerrightbotcomments">
+                                    <a href="http://www.discoversd.com/"><h3>Discover San Diego Hotels</h3></a>
+                                        <ul>
+                                            <li><a href="http://www.discoversd.com/california/san-diego/ca/la-jolla-hotels.html">Hotels in La Jolla</a></li>
+                                            <li><a href="http://www.discoversd.com/california/san-diego/ca/downtown--gaslamp-hotels.html">Hotels in Gaslamp San Diego</a></li>
+                                            <li><a href="http://www.discoversd.com/california/san-diego/ca/rancho-santa-fe-hotels.html">Hotels in Rancho Santa Fe</a></li>
+                                            <li><a href="http://www.discoversd.com/california/san-diego/ca/del-mar-hotels.html">Hotels in Del Mar</a></li>
+                                            <li><a href="http://www.discoversd.com/california/san-diego/ca/old-town-hotels.html">Hotels in Old Town</a></li>
+                                        </ul>
+                                        <div style="text-align:center;width:100%;"><a href="http://travel.discoversd.com">View all San Diego Hotels</a></div>
+                                </div>
+                         </div>
+                    
+             </div>
+             <div id="footer" align="center">
+             <a name="bottom"></a>
+<!--
+<p>
+           <script src="http://arestravel.com/js/_default/ARESbot.js?bundle=discoveringsandiego&ro=1&irt=1&tpl=bot3a" type="text/javascript"></script> 
+</p>-->
+
                 <p>
                     <a href="http://www.discoversd.com/contest/">Contests</a> | <a href="http://www.discoversd.com/host_services/">
                         San Diego VIP and Executive Hosts</a> | <a href="http://www.discoversd.com/maps/">
                             Map of San Diego</a> | <a href="http://www.discoversd.com/events/">San Diego Events
-                                and Entertainment</a>
+                                and Entertainment</a> | <a href="http://pictures.discoversd.com/">San Diego Photos</a>
                 </p>
                
                 <p>
                     Copyright © 2007 <a href="http://www.discoversd.com/">DiscoverSD.com, LLC.</a>
                     All rights reserved. <a href="http://www.discoversd.com/terms-of-service.html">
                         Terms of Service</a> | <a href="http://www.discoversd.com/privacy-policy.html">
-                            Privacy Policy</a>.</p>
+                            Privacy Policy</a>  </p>
             </div>
        
         <!-- footer END -->
     </div>
-<script language="javascript" type="text/javascript">
+    
+    
+   
 
-            document.write('<'+'script language="javascript" type="text/javascript" src="'+document.location.protocol+'//jdc.ezd3.com/cgi-bin/ctasp-server.cgi?i=nPCyeZkIoLOXDlIU"><'+'/script>');
 
-</script><script language="javascript" type="text/javascript" src="https://jdc.ezd3.com/cgi-bin/ctasp-server.cgi?i=nPCyeZkIoLOXDlIU"></script><noscript><a href="http://www.clicktracks.com/"><img src="https://jdc.ezd3.com/cgi-bin/ctasp-server.cgi?i=nPCyeZkIoLOXDlIU&g=1" alt="Web Analytics" border=0></a></noscript>
+<script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
 
-    <script type="text/javascript">//<![CDATA[
-var data,nhp,ntz,rf,sr,i,d=new Date(),pageName;
-// The pageName variable can be customized if needed
-pageName=location.pathname;
-document.cookie='__support_check=1';nhp='http';
-rf=document.referrer;sr=window.location.search;
-if(top.window.location==document.referrer
-|| (document.referrer == '' && top.window.location != ''))
-{rf=top.document.referrer;sr=top.window.location.search}
-ntz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
-nhp='https';data='&an='+escape(navigator.appName)+
-'&sr='+escape(sr)+'&ck='+document.cookie.length+
-'&rf='+escape(rf)+'&sl='+escape(navigator.systemLanguage)+
+<script type="text/javascript">//<![CDATA[
+
+wa_account="discoversd2"; wa_location=93;
+
+wa_pageName=location.pathname;  // you can customize the page name here
+
+document.cookie='__support_check=1';wa_hp='http';
+
+wa_rf=document.referrer;wa_sr=window.location.search;
+
+wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
+
+wa_hp='https';wa_data='&an='+escape(navigator.appName)+ 
+
+'&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
+
+'&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
+
 '&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
-'&pf='+escape(navigator.platform)+'&pg='+escape(pageName);
-if(navigator.appVersion.substring(0,1)>'3') {data=data+'&cd='+
+
+'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
+
+wa_data=wa_data+'&cd='+
+
 screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
-'&tz='+ntz.getTimezoneOffset()+'&je='+ navigator.javaEnabled()};
-i=new Image();i.src=nhp+'://counter.hitslink.com/statistics.asp'+
-'?v=1&s=21&acct=discoversd'+data+'&tks='+d.getTime(); //]]>
-    </script>
+
+'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
+
+wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
+
+'?v=1&s='+wa_location+'&acct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
+
+document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //]]>
+
+</script>
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0004/3827.js"> </script>
+
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<script type="text/javascript">
+
+_qacct="p-c9Tl0_AQtxiEs";quantserve();</script>
+
+<noscript>
+
+<a href="http://www.quantcast.com/p-c9Tl0_AQtxiEs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c9Tl0_AQtxiEs.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+
+<!-- End Quantcast tag -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2857912-1";
+urchinTracker();
+</script>
 
 
 </body></html>
