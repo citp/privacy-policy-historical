@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the performancing.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624083925id_/http%3A//performancing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancing.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204164730id_/http%3A//performancing.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Performancing.com
 
-**Submitted by[Nick Wilson](https://web.archive.org/user/39226 "Performancing Points: 0") on November 12, 2005 - 12:21pm in **
+**Submitted by[Nick Wilson](https://web.archive.org/user/39226 "Performancing Points: ") on November 12, 2005 - 12:21pm in **
 
 Thank you for visiting Performancing. This policy explains how we use personal information collected at this site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this policy.
 
