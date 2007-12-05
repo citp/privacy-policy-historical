@@ -1,246 +1,98 @@
-<!--The following is the downloaded HTML source of the virginmobile.com.au privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626044551id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginmobile.com.au privacy policy that was archived on 2007-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071205191146id_/http%3A//www.virginmobile.com.au/privacy_security.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	
 	<!-- head include starts here -->
-    <title>Mobile phones, great rates, free voicemail in Oz: that's Virgin Mobile Australia!</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Virgin Mobile Australia is the real deal when it comes to mobile phones. Great value is our philosophy at Virgin - but we also deliver on style, service and the latest fun for your phone!">
-<meta name="keywords" content="virgin mobile australia, virgin mobiles, virginmobile, virgin blue mobile, virgin au, virgin mobile.com, virgin mobile.com.au, virginmobile.com, virgin mobiles australia, australia mobile, mobile phones australia, mobile australia, mobile phone companies, australia mobile, mobile phones, virgin phones, mobile phone deals, cheap mobile phones, virgin prepaid">
-<link rel="stylesheet" type="text/css" href="/scripts/style06.css">
-<script language="JavaScript">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="virgin mobile australia, virgin mobiles, virginmobile, virgin blue mobile, virgin au, virgin mobile.com, virgin mobile.com.au, virginmobile.com, virgin mobiles australia, australia mobile, mobile phones australia, mobile australia, mobile phone companies, australia mobile, mobile phones, virgin phones, mobile phone deals, cheap mobile phones, virgin prepaid">
+	<meta name="description" content="Virgin Mobile Australia is the real deal when it comes to mobile phones. Great value is our philosophy at Virgin - but we also deliver on style, service and the latest fun for your phone!">
+	<title>Mobile phones, great rates, free voicemail in Oz: that's Virgin Mobile Australia!</title>
+	
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+	
+	<link rel="stylesheet" href="/scripts/style07.css" media="screen" type="text/css">
 
-// pre-load our pressed-down submit button to use when the user clicks
-
-if (document.images)
-
-{
-
-  pic1= new Image(35,18);
-
-  pic1.src="/images/homepage/brand06/go_button_dn.gif";
-
-}
-
-<!-- start Validation of My Account Login form -->
-function ValidateForm(theForm) {
-
-	if (theForm.username.value == '') {
-
-		alert("Please enter your Mobile Phone number");
-
-		theForm.username.focus();
-
-		window.scrollBy(-500,-10);
-
-		return false;
-
-	}   else if (theForm.username.value != '') {
-
-			var strUsername = theForm.username.value;
-
-			if (strUsername.length < 10) {
-
-				alert("Mobile Phone numbers must be 10 numerical characters");
-
-				theForm.username.focus();
-
-				theForm.username.select();
-
-				window.scrollBy(-500,-10);
-
-				return false;
-
-			} else if (isNaN(theForm.username.value)) {
-
-				alert("Mobile Phone numbers must all be numbers");
-
-				theForm.username.focus();
-
-				theForm.username.select();
-
-				window.scrollBy(-500,-10);
-
-				return false;
-
+	<script language="javascript" type="text/javascript">
+		var W3CDOM = (document.createElement && document.getElementsByTagName);
+	
+		var mouseOvers = new Array();
+		var mouseOuts = new Array();
+	
+		window.onload = init;
+	
+		function init()
+		{
+			if (!W3CDOM) return;
+			var nav = document.getElementById('mouseovers');
+			var imgs = nav.getElementsByTagName('img');
+			for (var i=0;i<imgs.length;i++)
+			{
+				imgs[i].onmouseover = mouseGoesOver;
+				imgs[i].onmouseout = mouseGoesOut;
+				var suffix = imgs[i].src.substring(imgs[i].src.lastIndexOf('.'));
+				mouseOuts[i] = new Image();
+				mouseOuts[i].src = imgs[i].src;
+				mouseOvers[i] = new Image();
+				mouseOvers[i].src = imgs[i].src.substring(0,imgs[i].src.lastIndexOf('.')) + "_over" + suffix;
+				imgs[i].number = i;
 			}
-
 		}
-
-	if (theForm.password.value == '') {
-
-		alert("Please enter your PIN");
-
-		theForm.password.focus();
-
-		window.scrollBy(-500,-10);
-
-		return false;
-
-	} else if (theForm.password.value.length < 6) {
-
-		alert("Your PIN must be 6 digits");
-
-		theForm.password.focus();
-
-		window.scrollBy(-500,-10);
-
-		return false;
-
-	}
-
-	var std = document.getElementById('submit_td');
-
-	if (std != null) {
-
-		std.innerHTML = "<img src=\"/images/homepage/brand06/go_button_dn.gif\" alt=\"Submit\" width=\"35\" height=\"18\" border=\"0\">";
-
-	}
-
-	if (document.bodyForm) {
-		theForm.landing_page.value = document.bodyForm.login_jumpto.value;
-	}
-
-	return true;
-
-}
-<!-- end Validation of My Account Login form -->
-
-</script>
+	
+		function mouseGoesOver()
+		{
+			this.src = mouseOvers[this.number].src;
+		}
+		
+		function mouseGoesOut()
+		{
+			this.src = mouseOuts[this.number].src;
+		}
+	</script>
     <!-- head include ends here -->
 
 </head>
-
 <body>
-<table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr valign="top">
-    <td height="82">
+<div id="mainContainer">
+
 	<!-- header include starts here -->
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td align="right" class="headerlink"><a href="https://www.virginmobile.com.au/selfcare/MyAccount/login.jsp" class="headerlink">MY
-          ACCOUNT</a> | <a href="https://www.virginmobile.com.au/selfcare/MyAccount/login.jsp" class="headerlink">TOP-UP</a> </td>
-        <td align="right" width="84"><a href="/selfcare/dispatch/ActivationSource"><img src="/images/templateimages/activate_button.jpg" width="76" height="18" border="0"></a></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td style="padding-top:5px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><img src="/images/menu/menu_top.jpg" width="766" height="5"></td>
-      </tr>
-      <tr>
-        <td><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#cc0000">
-          <tbody><tr valign="top">
-            <td width="200" align="center"><a href="/index.html"><img src="/images/menu/vmlogo.jpg" width="113" height="57" border="0"></a></td>
-            <td valign="bottom" align="right">
-
-
-
-<!--|**START IMENUS**|imenus0,inline--><div id="dreamweaver_design_view_show" style="display:none;width:571px;height:32px;">Infinite Menus Place Holder (Dreamweaver Design View)</div><div id="dreamweaver_design_view_hide">
-
-<!-- ****** Infinite Menus Core CSS [Do Not Modify!] ****** -->
-<style type="text/css">.imcm ul,.imcm li,.imcm div,.imcm span,.imcm a{text-align:left;vertical-align:top;padding:0px;margin:0;list-style:none outside none;border-style:none;background-image:none;clear:none;float:none;display:block;position:static;overflow:visible;line-height:normal;}.imcm li a img{display:inline;border-width:0px;}.imcm span{display:inline;}.imcm .imclear,.imclear{clear:both;height:0px;visibility:hidden;line-height:0px;font-size:1px;}.imcm .imsc{position:relative;}.imcm .imsubc{position:absolute;visibility:hidden;}.imcm li{list-style:none;font-size:1px;float:left;}.imcm ul ul li{width:100%;float:none !important;}.imcm a{display:block;position:relative;}.imcm ul .imsc,.imcm ul .imsubc {z-index:10;}.imcm ul ul .imsc,.imcm ul ul .imsubc{z-index:20;}.imcm ul ul ul .imsc,.imcm ul ul .imsubc{z-index:30;}.imde ul li:hover .imsubc{visibility:visible;}.imde ul ul li:hover  .imsubc{visibility:visible;}.imde ul ul ul li:hover  .imsubc{visibility:visible;}.imde li:hover ul  .imsubc{visibility:hidden;}.imde li:hover ul ul .imsubc{visibility:hidden;}.imde li:hover ul ul ul  .imsubc{visibility:hidden;}.imcm .imea{display:block;position:relative;left:0px;font-size:1px;line-height:0px;height:0px;float:right;}.imcm .imea span{display:block;position:relative;font-size:1px;line-height:0px;}.dvs,.dvm{border-width:0px}/*\*//*/.imcm .imclear,.imclear{font-size:1px;}/**/</style><!--[if IE]><style type="text/css">.imcm .imclear,.imclear{display:none;}.imcm{zoom:1;} .imcm li{curosr:hand;} .imcm ul{zoom:1}.imcm a{zoom:1;}</style><![endif]--><!--[if gte IE 7]><style type="text/css">.imcm .imsubc{background-image:url();}</style><![endif]-->
-
-
-<style type="text/css">
-
-
-	/* --[[ Main Expand Icons ]]-- */
-	#imenus0 .imeam span,#imenus0 .imeamj span {}
-	#imenus0 li:hover .imeam span,#imenus0 li a.iactive .imeamj span {background-repeat:no-repeat;background-position:top left;}
-
-
-	/* --[[ Sub Expand Icons ]]-- */
-	#imenus0 ul .imeas span,#imenus0 ul .imeasj span {background-image:url(/images/menu/small_red_pointer.gif); width:7px; height:9px; left:0px; top:3px; background-repeat:no-repeat;background-position:top left;}
-	#imenus0 ul li:hover .imeas span,#imenus0 ul li a.iactive .imeasj span {background-image:url(/images/menu/small_red_pointer.gif); background-repeat:no-repeat;background-position:top left;}
-
-
-	/* --[[ Main Container ]]-- */
-	#imouter0 {background-color:#cc0000; border-style:none; border-width:0px; padding:0px; margin:10px 0px 0px; }
-
-
-	/* --[[ Sub Container ]]-- */
-	#imenus0 li ul {background-color:#9c0000; border-style:none; border-color:#9c0000; border-width:0px 1px 1px; padding:5px; margin:4px 0px 0px; }
-
-
-	/* --[[ Main Items ]]-- */
-	#imenus0 li a {height:auto; text-align:center; font-family:Verdana; font-size:11px; font-weight:bold; text-decoration:none; border-style:none; border-width:2px 1px 0px; padding:15px 4px 4px 0px; }
-
-		/* [hover] - These settings must be duplicated for IE compatibility.*/
-		#imenus0 li:hover>a {border-style:none; border-color:#dddddd; }
-		#imenus0 li a.ihover, .imde imenus0 a:hover {border-style:none; border-color:#dddddd; }
-
-		/* [active] */
-		#imenus0 li a.iactive {}
-
-
-	/* --[[ Sub Items ]]-- */
-	#imenus0 ul a {height:auto; color:#ffffff; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-color:#9c0000; border-width:1px; padding:2px 5px; }
-
-		/* [hover] - These settings must be duplicated for IE comptatibility.*/
-		#imenus0 ul li:hover>a {background-color:#6c0101; color:#ffffff; border-style:none; border-color:#9c0000; }
-		#imenus0 ul li a.ihover {background-color:#6c0101; color:#ffffff; border-style:none; border-color:#9c0000; }
-
-		/* [active] */
-		#imenus0 ul li a.iactive {text-decoration:none; }
-
-
-</style>
-
-
-<!--  ****** Infinite Menus Structure & Links ***** -->
-<script language="JavaScript" src="/scripts/STRUCTURE_MENU_LIST.js" type="text/javascript"></script><div class="imrcmain0 imgl" style="width:571px;z-index:999999;position:relative;"><div class="imcm" id="imouter0"><ul id="imenus0"><li style="width:89px;" id="ulitem0z0"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp" himg="/images/menu/menu_buyonline_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_buyonline.jpg);" id="ulaitem0z0"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z0"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:146px;top:-4px;left:0px;"><ul style="" id="x1ub0z0">	<li id="ulitem0z0z0"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp" id="ulaitem0z0z0">Web Specials</a></li>	<li id="ulitem0z0z1"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=prepaid" id="ulaitem0z0z1">Pre-Paid</a></li>	<li id="ulitem0z0z2"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=postpaid" id="ulaitem0z0z2">Post-Paid</a></li>	<li id="ulitem0z0z3"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=phones" id="ulaitem0z0z3"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z0z3"></span></span>Our Phones</a>		<div class="imsc"><div class="imsubc" style="width:158px;top:-20px;left:130px;"><ul style="" id="x1ub0z0z3">		<li id="ulitem0z0z3z0"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=lgkg225" id="ulaitem0z0z3z0">LG KG225</a></li>		<li id="ulitem0z0z3z1"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=lgkg800" id="ulaitem0z0z3z1">LG KG800 Chocolate</a></li>		<li id="ulitem0z0z3z2"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=lgkg800pink" id="ulaitem0z0z3z2">LG KG800 Pink</a></li>		<li id="ulitem0z0z3z3"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=lgkg800white" id="ulaitem0z0z3z3">LG KG800 White</a></li>		<li id="ulitem0z0z3z4"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=motorolak1krzr" id="ulaitem0z0z3z4">Motorola KRZR K1</a></li>		<li id="ulitem0z0z3z5"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=motorolarazrv3i" id="ulaitem0z0z3z5">Motorola RAZR V3i</a></li>		<li id="ulitem0z0z3z6"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=motorolav3iorcpink" id="ulaitem0z0z3z6">Motorola RAZR V3i Pink</a></li>		<li id="ulitem0z0z3z7"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia1110i" id="ulaitem0z0z3z7">Nokia 1110i Rock Sack</a></li>		<li id="ulitem0z0z3z8"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia5140i" id="ulaitem0z0z3z8">Nokia 5140i</a></li>		<li id="ulitem0z0z3z9"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia5300" id="ulaitem0z0z3z9">Nokia 5300</a></li>		<li id="ulitem0z0z3z10"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia5500sport" id="ulaitem0z0z3z10">Nokia 5500 Sport</a></li>		<li id="ulitem0z0z3z11"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia6131" id="ulaitem0z0z3z11">Nokia 6131</a></li>		<li id="ulitem0z0z3z12"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia6131pink" id="ulaitem0z0z3z12">Nokia 6131 Pink</a></li>		<li id="ulitem0z0z3z13"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia6233" id="ulaitem0z0z3z13">Nokia 6233</a></li>		<li id="ulitem0z0z3z14"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia7360" id="ulaitem0z0z3z14">Nokia 7360</a></li>		<li id="ulitem0z0z3z15"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokia8800dsirocco" id="ulaitem0z0z3z15">Nokia 8800D Sirocco</a></li>		<li id="ulitem0z0z3z16"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokian70" id="ulaitem0z0z3z16">Nokia N70</a></li>		<li id="ulitem0z0z3z17"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=nokian73" id="ulaitem0z0z3z17">Nokia N73</a></li>		<li id="ulitem0z0z3z18"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=samsungd900" id="ulaitem0z0z3z18">Samsung D900</a></li>		<li id="ulitem0z0z3z19"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=samsunge370" id="ulaitem0z0z3z19">Samsung E370</a></li>		<li id="ulitem0z0z3z20"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=samsunge530" id="ulaitem0z0z3z20">Samsung E530</a></li>		<li id="ulitem0z0z3z21"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=sonyericssonj230i" id="ulaitem0z0z3z21">Sony Ericsson J230i</a></li>		<li id="ulitem0z0z3z22"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=sonyericssonk800i" id="ulaitem0z0z3z22">Sony Ericsson K800i</a></li>		<li id="ulitem0z0z3z23"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=sonyericssonw810i" id="ulaitem0z0z3z23">Sony Ericsson W810i</a></li>		</ul></div></div></li>	<li id="ulitem0z0z4"><a href="#" id="ulaitem0z0z4"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z0z4"></span></span>Phones by Brand</a>		<div class="imsc"><div class="imsubc" style="width:150px;top:-17px;left:134px;"><ul style="" id="x1ub0z0z4">		<li id="ulitem0z0z4z0"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=LG" id="ulaitem0z0z4z0">LG</a></li>		<li id="ulitem0z0z4z1"><a href="https://web.archive.org/web/20070206110819/https://wwww.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=Motorola" id="ulaitem0z0z4z1">Motorola</a></li>		<li id="ulitem0z0z4z2"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=Nokia" id="ulaitem0z0z4z2">Nokia</a></li>		<li id="ulitem0z0z4z3"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=Samsung" id="ulaitem0z0z4z3">Samsung</a></li>		<li id="ulitem0z0z4z4"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/phone_by_brand.jsp?brand=sonyericsson" id="ulaitem0z0z4z4">Sony Ericsson</a></li>		</ul></div></div></li>	<li id="ulitem0z0z5"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/1-needphone.jsp?phone=byo" id="ulaitem0z0z5">BYO Phone</a></li>	<li id="ulitem0z0z6"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/store/buy_online_questions" id="ulaitem0z0z6">Questions &amp; Answers</a></li>	</ul></div></div></li><li style="width:89px;" id="ulitem0z1"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/MyAccount/login.jsp" himg="/images/menu/menu_mymobile_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_mymobile.jpg);" id="ulaitem0z1"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z1"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:142px;top:-4px;left:-1px;"><ul style="" id="x1ub0z1">	<li id="ulitem0z1z0"><a href="https://web.archive.org/web/20070206110819/https://www.virginmobile.com.au/selfcare/dispatch/ActivationSource" id="ulaitem0z1z0">Activate Online</a></li>	<li id="ulitem0z1z1"><a href="/perks" id="ulaitem0z1z1"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z1z1"></span></span>Virgin Mobile Perks</a>		<div class="imsc"><div class="imsubc" style="width:140px;top:-22px;left:128px;"><ul style="" id="x1ub0z1z1">		<li id="ulitem0z1z1z0"><a href="/perks/virginblue.html" id="ulaitem0z1z1z0">Virgin Blue </a></li>		<li id="ulitem0z1z1z1"><a href="/perks/ineedaholiday.html" id="ulaitem0z1z1z1">Ineedaholiday</a></li>		<li id="ulitem0z1z1z2"><a href="/perks/virginmoney.html" id="ulaitem0z1z1z2">Virgin Money </a></li>		</ul></div></div></li>	<li id="ulitem0z1z2"><a href="/customerupdates" id="ulaitem0z1z2">Customer Updates </a></li>	<li id="ulitem0z1z3"><a href="/selfcare/MyAccount/mobile_manager/index.jsp" id="ulaitem0z1z3">Mobile Management </a></li>	</ul></div></div></li><li style="width:56px;" id="ulitem0z2"><a href="/rates" himg="/images/menu/menu_rates_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_rates.jpg);" id="ulaitem0z2"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z2"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:142px;top:-4px;left:0px;"><ul style="" id="x1ub0z2">	<li id="ulitem0z2z0"><a href="/rates/postpaid_caps.html" id="ulaitem0z2z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z2z0"></span></span>Post-Paid </a>		<div class="imsc"><div class="imsubc" style="width:126px;top:-15px;left:127px;"><ul style="LEFT: -1px; TOP: -2px;" id="x1ub0z2z0">		<li id="ulitem0z2z0z0"><a href="/rates/postpaid_caps.html" id="ulaitem0z2z0z0">CAPs </a></li>		<li id="ulitem0z2z0z1"><a href="/rates/postpaid_phoneonus.html" id="ulaitem0z2z0z1">Phones On Us </a></li>		<li id="ulitem0z2z0z2"><a href="/rates/postpaid_level15.html" id="ulaitem0z2z0z2">Phones On Us 15 </a></li>		<li id="ulitem0z2z0z3"><a href="/contactus/simkits.html" id="ulaitem0z2z0z3">Sim Kits </a></li>		</ul></div></div></li>	<li id="ulitem0z2z1"><a href="/rates/prepaid_compare.html" id="ulaitem0z2z1"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z2z1"></span></span>Pre-Paid </a>		<div class="imsc"><div class="imsubc" style="width:128px;top:-17px;left:129px;"><ul style="" id="x1ub0z2z1">		<li id="ulitem0z2z1z0"><a href="/rates/prepaid_compare.html" id="ulaitem0z2z1z0">Summary </a></li>		<li id="ulitem0z2z1z1"><a href="/rates/bean_counter.html" id="ulaitem0z2z1z1">Bean Counter </a></li>		<li id="ulitem0z2z1z2"><a href="/rates/super_special_offers.html" id="ulaitem0z2z1z2">Message Monster</a></li>		<li id="ulitem0z2z1z3"><a href="/rates/super_special_offers.html" id="ulaitem0z2z1z3">Motor Mouth </a></li>		<li id="ulitem0z2z1z4"><a href="/rates/prepaid.html" id="ulaitem0z2z1z4">Long Expiry V2V </a></li>		</ul></div></div></li>	<li id="ulitem0z2z2"><a href="/rates/internationalcalls.html" id="ulaitem0z2z2">International Calls</a></li>	<li id="ulitem0z2z3"><a href="/rates/internationalroaming.html" id="ulaitem0z2z3">Globetrotting </a></li>	<li id="ulitem0z2z4"><a href="/rates/thevibe.html" id="ulaitem0z2z4">The Vibe </a></li>	<li id="ulitem0z2z5"><a href="/rates/messaging.html" id="ulaitem0z2z5">Messaging </a></li>	<li id="ulitem0z2z6"><a href="/rates/standard_vs_special.html" id="ulaitem0z2z6">Standard vs Special </a></li>	<li id="ulitem0z2z7"><a href="/rates/other.html" id="ulaitem0z2z7">Other</a></li>	</ul></div></div></li><li style="width:71px;" id="ulitem0z3"><a href="/services" himg="/images/menu/menu_services_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_services.jpg);" id="ulaitem0z3"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z3"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:149px;top:-5px;left:0px;"><ul style="" id="x1ub0z3">	<li id="ulitem0z3z0"><a href="/vibe" id="ulaitem0z3z0">The Vibe</a></li>	<li id="ulitem0z3z1"><a href="/services/messaging.html" id="ulaitem0z3z1">Messaging</a></li>	<li id="ulitem0z3z2"><a href="/services/internationalcalls.html" id="ulaitem0z3z2">International Calls</a></li>	<li id="ulitem0z3z3"><a href="/services/internationalroaming.html" id="ulaitem0z3z3">Globetrotting </a></li>	<li id="ulitem0z3z4"><a href="/services/otherservices.html" id="ulaitem0z3z4">Other Service</a></li>	<li id="ulitem0z3z5"><a href="/services/coverage.html" id="ulaitem0z3z5">Coverage</a></li>	<li id="ulitem0z3z6"><a href="/services/redpages.html" id="ulaitem0z3z6">Red Pages Directory</a></li>	<li id="ulitem0z3z7"><a href="/services/insurance.html" id="ulaitem0z3z7">Insurance Coverage</a></li>	<li id="ulitem0z3z8"><a href="/services/duti.html" id="ulaitem0z3z8">Dialling Under the Influence</a></li>	<li id="ulitem0z3z9"><a href="/services/sosring.html" id="ulaitem0z3z9">SOS Ring</a></li>	<li id="ulitem0z3z10"><a href="/services/keepsafe.html" id="ulaitem0z3z10">Keep Safe</a></li></ul></div></div></li><li style="width:75px;" id="ulitem0z4"><a href="/vibe" himg="/images/menu/menu_thevibe_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_thevibe.jpg);" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:171px;top:-5px;left:1px;"><ul style="TOP: -3px;" id="x1ub0z4">	<li id="ulitem0z4z0"><a href="/vibesetup" id="ulaitem0z4z0">Get Set Up</a></li>	<li id="ulitem0z4z1"><a href="/vibe/hotstuff.html" id="ulaitem0z4z1">Hot Stuff</a></li>	<li id="ulitem0z4z2"><a href="/vibe/music.html" id="ulaitem0z4z2">Music</a></li>	<li id="ulitem0z4z3"><a href="/vibe/comedy.html" id="ulaitem0z4z3">Comedy</a></li>	<li id="ulitem0z4z4"><a href="/vibe/tonespics.html" id="ulaitem0z4z4">Tones &amp; Pics</a></li>	<li id="ulitem0z4z5"><a href="/vibe/entertainment.html" id="ulaitem0z4z5">Entertainment</a></li>	<li id="ulitem0z4z6"><a href="/vibe/games.html" id="ulaitem0z4z6">Games</a></li>	<li id="ulitem0z4z7"><a href="/vibe/community.html" id="ulaitem0z4z7">Community</a></li>	<li id="ulitem0z4z8"><a href="/vibe/download.html" id="ulaitem0z4z8">Downloads</a></li>	<li id="ulitem0z4z9"><a href="/vibe/help.html" id="ulaitem0z4z9">Help</a></li>	</ul></div></div></li><li style="width:108px;" id="ulitem0z5"><a href="/companyinfo" himg="/images/menu/menu_company_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_company.jpg);" id="ulaitem0z5"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z5"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:162px;top:-4px;left:;"><ul style="TOP: -4px;" id="x1ub0z5">	<li id="ulitem0z5z0"><a href="/companyinfo/aboutus" id="ulaitem0z5z0">About Us</a></li>	<li id="ulitem0z5z1"><a href="/companyinfo/media" id="ulaitem0z5z1">Media</a></li>	<li id="ulitem0z5z2"><a href="/companyinfo/jobvacancies" id="ulaitem0z5z2">Job Vacancies</a></li>	<li id="ulitem0z5z3"><a href="/companyinfo/corporateresponsibility" id="ulaitem0z5z3">Corporate Responsibility</a></li>	</ul></div></div></li><li style="width:83px;" id="ulitem0z6"><a href="/contactus" himg="/images/menu/menu_contactus_over.jpg" style="BACKGROUND-POSITION: center center; BACKGROUND-REPEAT: no-repeat;background-image:url(/images/menu/menu_contactus.jpg);" id="ulaitem0z6"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z6"></span></span>&nbsp;</a>	<div class="imsc"><div class="imsubc" style="width:103px;top:-4px;left:50px;"><ul style="LEFT: -67px;" id="x1ub0z6">	<li id="ulitem0z6z0"><a href="/contactus/callus.html" id="ulaitem0z6z0">Call Us</a></li>	<li id="ulitem0z6z1"><a href="/contactus/emailus.html" id="ulaitem0z6z1">Email Us</a></li>	<li id="ulitem0z6z2"><a href="/contactus/gottagripe.html" id="ulaitem0z6z2">Gotta Gripe?</a></li>	<li id="ulitem0z6z3"><a href="#" id="ulaitem0z6z3"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z6z3"></span></span>Find a Store</a>		<div class="imsc"><div class="imsubc" style="width:86px;top:-17px;left:82px;"><ul style="" id="x1ub0z6z3">		<li id="ulitem0z6z3z0"><a href="/contactus/postpaid.html" id="ulaitem0z6z3z0">Post-Paid</a></li>		<li id="ulitem0z6z3z1"><a href="/contactus/prepaid.html" id="ulaitem0z6z3z1">Pre-Paid</a></li>		<li id="ulitem0z6z3z2"><a href="/contactus/recharge.html" id="ulaitem0z6z3z2">Recharge</a></li>		<li id="ulitem0z6z3z3"><a href="/contactus/simkits.html" id="ulaitem0z6z3z3">Sim Kits</a></li>		</ul></div></div></li>	</ul></div></div></li></ul><div class="imclear">&nbsp;</div></div></div>
-
-
-<!--[imcode]*** Infinite Menus Settings / Code - This script reference must appear last. ***
-
-      *Note: This script is required for scripted add on support and IE 6 sub menu functionality.
-      *Note: This menu will fully function in all CSS2 browsers with the script removed.-->
-
-
-</div><!--|**END IMENUS**|-->
-<script language="JavaScript" src="/scripts/ocscript.js" type="text/javascript"></script><style type="text/css">#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc{visibility:visible;}#imenus0 li ul{}.imcm{position:relative;}</style><style id="extimenus0" type="text/css">#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;border-style:solid; border-color:#bbbbbb; border-width:1px; }</style><style type="text/css">.imcm ul ul{position:relative;z-index:0;} .imcm .imunder{position:absolute;width:100%;}</style>
-
-
-            </td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-
-    <!-- header include ends here -->
-	</td>
-  </tr>
-	<!-- mainmenu include starts here -->
-      <tr valign="top">
-		<td><img src="/images/menu/menu_border.jpg" height="13" width="767"></td>
-  </tr>
-    <!-- mainmenu include ends here -->
-
-  <tr>
-    <td><img src="/images/myaccount/top_mymobile_privacy.jpg" width="766" height="135"></td>
-  </tr>
- <tr>
-    <td>
-	
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr valign="top">
-        <td class="leftcolumn"><img src="/images/templateimages/border_side.jpg" width="5" height="295"></td>
+    	<div class="templateLogoImg">
+        <div class="TemplateStoreLogo" onclick="top.location.replace('/index.html');"></div>
+        <div class="templateBBLogo" onclick="top.location.replace('http://www.virginbroadband.com.au');"></div>
+        <div class="templateMyAccount" onclick="top.location.replace('https://www.virginmobile.com.au/selfcare/MyAccount/login.jsp');"></div>
         
-		<td class="centercolumn">
-		
-		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-		    <tbody><tr valign="top">
-			<!-- sidemenu include starts here -->
+		<div class="templateTopMenu">
 
-    		<!-- sidemenu include ends here -->
-		      
-		      <td style="padding:10px 0px 10px 10px;">
+		<!-- mainmenu -->
+		<script type="text/javascript" src="/scripts/imenus0.js"></script><style type="text/css">.imcm ul,.imcm li,.imcm div,.imcm span,.imcm a{text-align:left;vertical-align:top;padding:0px;margin:0;list-style:none outside none;border-style:none;background-image:none;clear:none;float:none;display:block;position:static;overflow:visible;line-height:normal;}.imcm li a img{display:inline;border-width:0px;}.imcm span{display:inline;}.imcm .imclear,.imclear{clear:both;height:0px;visibility:hidden;line-height:0px;font-size:1px;}.imcm .imsc{position:relative;}.imcm .imsubc{position:absolute;visibility:hidden;}.imcm li{list-style:none;font-size:1px;float:left;}.imcm ul ul li{width:100%;float:none !important;}.imcm a{display:block;position:relative;}.imcm ul .imsc,.imcm ul .imsubc {z-index:10;}.imcm ul ul .imsc,.imcm ul ul .imsubc{z-index:20;}.imcm ul ul ul .imsc,.imcm ul ul ul .imsubc{z-index:30;}.imde ul li:hover .imsubc{visibility:visible;}.imde ul ul li:hover  .imsubc{visibility:visible;}.imde ul ul ul li:hover  .imsubc{visibility:visible;}.imde li:hover ul  .imsubc{visibility:hidden;}.imde li:hover ul ul .imsubc{visibility:hidden;}.imde li:hover ul ul ul  .imsubc{visibility:hidden;}.imcm .imea{display:block;position:relative;left:0px;font-size:1px;line-height:1px;height:0px;width:1px;float:right;}.imcm .imea span{display:block;position:relative;font-size:1px;line-height:0px;}.dvs,.dvm{border-width:0px}/**//*/.imcm .imea{visibility:hidden;}/**/</style><!--[if IE]><style type="text/css">.imcm .imea span{position:absolute;}.imcm .imclear,.imclear{display:none;}.imcm{zoom:1;} .imcm li{curosr:hand;} .imcm ul{zoom:1}.imcm a{zoom:1;}</style><![endif]--><!--[if gte IE 7]><style type="text/css">.imcm .imsubc{}</style><![endif]--><style type="text/css">			   /* --[[ Main Expand Icons ]]-- */#imenus0 .imeam span,#imenus0 .imeamj span, #imenus0 li:hover .imeam span,#imenus0 li a.iactive .imeamj span {background-repeat:no-repeat;background-position:top left;}			   /* --[[ Sub Expand Icons ]]-- */#imenus0 ul .imeas span,#imenus0 ul .imeasj span {background-image:url(/images/menu/small_red_pointer.gif); width:7px; height:9px; left:0px; top:3px; background-repeat:no-repeat;background-position:top left;}#imenus0 ul li:hover .imeas span,#imenus0 ul li a.iactive .imeasj span {background-image:url(/images/menu/small_red_pointer.gif); background-repeat:no-repeat;background-position:top left;}			   /* --[[ Main Container ]]-- */#imouter0 {border-style:none; border-color:#80ff00; border-width:1px; padding:0px; margin:0px; }			   /* --[[ Sub Container ]]-- */#imenus0 li ul {background-color:#990000; border-style:none; border-color:#990000; border-width:0px 1px 1px; padding:5px; margin:4px 0px 0px; }			   /* [Underlayment (Drop Shadow)] */			   /* --[[ Main Items ]]-- */#imenus0 li a, #imenus0 .imctitle {height:22px; text-align:center; font-family:Verdana; font-size:11px; font-weight:bold; text-decoration:none; border-style:none; border-width:0px; padding:0px 0px 0px 0px ; }			   /* [hover] - These settings must be duplicated for IE compatibility.*/#imenus0 li:hover>a {background-color:#990000; background-image:url(/images/menu/nav-mouseover.gif); border-style:none; border-color:#dddddd; }#imenus0 li a.ihover, .imde imenus0 a:hover {background-color:#990000; background-image:url(/images/menu/nav-mouseover.gif); border-style:none; border-color:#dddddd; }			   /* [active] */#imenus0 li a.iactive {background-color:#990000; background-image:url(/images/menu/nav-mouseover.gif); }			   /* --[[ Sub Items ]]-- */#imenus0 ul a, #imenus0 .imsubc li .imctitle  {height:auto; background-color:transparent; color:#ffffff; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-color:#990000; border-width:1px; padding:2px 5px; }                           /* [hover] - These settings must be duplicated for IE comptatibility.*/#imenus0 ul li:hover>a {color:#ffffff; text-decoration:underline; }#imenus0 ul li a.ihover {color:#ffffff; text-decoration:underline; }			   /* [active] */#imenus0 ul li a.iactive {background-color:transparent; }</style>			   <div class="imrcmain0 imgl" style="width:655px;z-index:999999;position:relative;"><div class="imcm" id="imouter0"><ul id="imenus0">			   									<li class="imatm" style="width:58px;" id="ulitem0z0"><a href="https://web.archive.org/web/20071012002633/https://www.virginmobile.com.au/shop" himg="/images/menu/nav-shop.gif" style="background-image:url(/images/menu/nav-shop.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z0">&nbsp;</a></li>												<li class="imatm" style="width:75px;" id="ulitem0z1"><a href="https://web.archive.org/web/20071012002633/https://www.virginmobile.com.au/shop/c-5-web-specials.aspx" himg="/images/menu/nav-phones.gif" style="background-image:url(/images/menu/nav-phones.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z1">&nbsp;</a></li>												<li class="imatm" style="width:66px;" id="ulitem0z2"><a href="/rates/which_suits.html" himg="/images/menu/nav-plans.gif" style="background-image:url(/images/menu/nav-plans.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z2"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z2"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:150px;top:-4px;left:0px;"><ul style="" id="x1ub0z2">								<li id="ulitem0z2z0"><a href="/rates/postpaid_caps.html" id="ulaitem0z2z0">Monthly Plans</a></li>								<li id="ulitem0z2z1"><a href="/rates/prepaid_compare.html" id="ulaitem0z2z1">Pre-Paid Plans</a></li>								<li id="ulitem0z2z2"><a href="/rates/which_suits.html" id="ulaitem0z2z2">Which Plan Suits Me?</a></li>								<li id="ulitem0z2z3"><a href="/rates/bean_counter.html" id="ulaitem0z2z3">Web Only Specials</a></li>								</ul></div></div></li>												<li class="imatm" style="width:64px;" id="ulitem0z3"><a href="/rates" himg="/images/menu/nav-rates.gif" style="background-image:url(/images/menu/nav-rates.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z3"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z3"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:142px;top:-4px;left:0px;"><ul style="" id="x1ub0z3">								<li id="ulitem0z3z0"><a href="/rates/postpaid_caps.html" id="ulaitem0z3z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z3z0"></span></span>Post-Paid </a>										<div class="imsc"><div class="imsubc" style="width:126px;top:-15px;left:127px;"><ul style="" id="x1ub0z3z0">										<li id="ulitem0z3z0z0"><a href="/rates/postpaid_caps.html" id="ulaitem0z3z0z0">CAPs </a></li>										<li id="ulitem0z3z0z1"><a href="/rates/postpaid_phoneonus.html" id="ulaitem0z3z0z1">Phones On Us </a></li>										<li id="ulitem0z3z0z2"><a href="/rates/postpaid_level15.html" id="ulaitem0z3z0z2">Phones On Us 15 </a></li>										<li id="ulitem0z3z0z3"><a href="/contactus/simkits.html" id="ulaitem0z3z0z3">Sim Kits</a></li>										</ul></div></div></li>								<li id="ulitem0z3z1"><a href="/rates/prepaid_compare.html" id="ulaitem0z3z1"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z3z1"></span></span>Pre-Paid </a>										<div class="imsc"><div class="imsubc" style="width:128px;top:-17px;left:129px;"><ul style="" id="x1ub0z3z1">										<li id="ulitem0z3z1z0"><a href="/rates/prepaid_compare.html" id="ulaitem0z3z1z0">Summary </a></li>										<li id="ulitem0z3z1z1"><a href="/rates/bean_counter.html" id="ulaitem0z3z1z1">Bean Counter </a></li>										<li id="ulitem0z3z1z2"><a href="/rates/super_special_offers.html" id="ulaitem0z3z1z2">Message Monster</a></li>										<li id="ulitem0z3z1z3"><a href="/rates/super_special_offers.html" id="ulaitem0z3z1z3">Motor Mouth </a></li>										<li id="ulitem0z3z1z4"><a href="/rates/prepaid.html" id="ulaitem0z3z1z4">Long Expiry V2V</a></li>										</ul></div></div></li>								<li id="ulitem0z3z2"><a href="/rates/internationalcalls.html" id="ulaitem0z3z2">International Calls</a></li>								<li id="ulitem0z3z3"><a href="/rates/internationalroaming.html" id="ulaitem0z3z3">Globetrotting </a></li>								<li id="ulitem0z3z4"><a href="/rates/thevibe.html" id="ulaitem0z3z4">The Vibe </a></li>								<li id="ulitem0z3z5"><a href="/services/3g_services.html#4" id="ulaitem0z3z5">3G Rates</a></li>								<li id="ulitem0z3z6"><a href="/rates/postpaid_3g.html" id="ulaitem0z3z6">Mobile Browsing</a></li>								<li id="ulitem0z3z7"><a href="/rates/messaging.html" id="ulaitem0z3z7">Messaging </a></li>								<li id="ulitem0z3z8"><a href="/rates/standard_vs_special.html" id="ulaitem0z3z8">Standard vs Special </a></li>								<li id="ulitem0z3z9"><a href="/rates/other.html" id="ulaitem0z3z9">Other</a></li>								</ul></div></div></li>												<li class="imatm" style="width:86px;" id="ulitem0z4"><a href="/services" himg="/images/menu/nav-services.gif" style="background-image:url(/images/menu/nav-services.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z4"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z4"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:105px;top:-4px;left:0px;"><ul style="" id="x1ub0z4">								<li id="ulitem0z4z0"><a href="#" id="ulaitem0z4z0"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z0"></span></span>Basic Stuff</a>										<div class="imsc"><div class="imsubc" style="width:140px;top:-15px;left:90px;"><ul style="" id="x1ub0z4z0">										<li id="ulitem0z4z0z0"><a href="/services/coverage.html" id="ulaitem0z4z0z0">Coverage</a></li>										<li id="ulitem0z4z0z1"><a href="/services/messaging.html" id="ulaitem0z4z0z1">Messaging</a></li>										<li id="ulitem0z4z0z2"><a href="/services/otherservices.html" id="ulaitem0z4z0z2">Other Service</a></li>										<li id="ulitem0z4z0z3"><a href="/services/internationalcalls.html" id="ulaitem0z4z0z3">International Calls</a></li>										<li id="ulitem0z4z0z4"><a href="/services/redpages.html" id="ulaitem0z4z0z4">Red Pages Directory</a></li>										<li id="ulitem0z4z0z5"><a href="/services/premiumsms.html" id="ulaitem0z4z0z5">Premium SMS</a></li>										</ul></div></div></li>								<li id="ulitem0z4z1"><a href="#" id="ulaitem0z4z1"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z1"></span></span>Extra Stuff</a>										<div class="imsc"><div class="imsubc" style="width:140px;top:-15px;left:90px;"><ul style="" id="x1ub0z4z1">										<li id="ulitem0z4z1z0"><a href="/services/internationalroaming.html" id="ulaitem0z4z1z0">Globetrotting</a></li>										<li id="ulitem0z4z1z1"><a href="/services/insurance.html" id="ulaitem0z4z1z1">Insurance Coverage</a></li>										<li id="ulitem0z4z1z2"><a href="/vibe" id="ulaitem0z4z1z2">The Vibe</a></li>										<li id="ulitem0z4z1z3"><a href="/services/mobile_browsing.html" id="ulaitem0z4z1z3">Mobile Browsing</a></li>										<li id="ulitem0z4z1z4"><a href="/services/3g_services.html" id="ulaitem0z4z1z4">3G</a></li>										</ul></div></div></li>								<li id="ulitem0z4z2"><a href="#" id="ulaitem0z4z2"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z4z2"></span></span>Virgin Stuff</a>										<div class="imsc"><div class="imsubc" style="width:180px;top:-15px;left:90px;"><ul style="" id="x1ub0z4z2">										<li id="ulitem0z4z2z0"><a href="/services/duti.html" id="ulaitem0z4z2z0">Dialling Under the Influence</a></li>										<li id="ulitem0z4z2z1"><a href="/services/sosring.html" id="ulaitem0z4z2z1">SOS Ring</a></li>										<li id="ulitem0z4z2z2"><a href="/services/keepsafe.html" id="ulaitem0z4z2z2">Keep Safe</a></li>										</ul></div></div></li>								</ul></div></div></li>												<li class="imatm" style="width:82px;" id="ulitem0z5"><a href="/vibe" himg="/images/menu/nav-thevibe.gif" style="background-image:url(/images/menu/nav-thevibe.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z5"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z5"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:110px;top:-4px;left:1px;"><ul style="" id="x1ub0z5">								<li id="ulitem0z5z0"><a href="/vibesetup" id="ulaitem0z5z0">Get Set Up</a></li>								<li id="ulitem0z5z1"><a href="/vibe/hotstuff.html" id="ulaitem0z5z1">Hot Stuff</a></li>								<li id="ulitem0z5z2"><a href="/vibe/music.html" id="ulaitem0z5z2">Music</a></li>								<li id="ulitem0z5z3"><a href="/vibe/comedy.html" id="ulaitem0z5z3">Comedy </a></li>								<li id="ulitem0z5z4"><a href="/vibe/tonespics.html" id="ulaitem0z5z4">Tones &amp; Pics </a></li>								<li id="ulitem0z5z5"><a href="/vibe/entertainment.html" id="ulaitem0z5z5">Entertainment </a></li>								<li id="ulitem0z5z6"><a href="/vibe/games.html" id="ulaitem0z5z6">Games</a></li>								<li id="ulitem0z5z7"><a href="/vibe/community.html" id="ulaitem0z5z7">Community </a></li>								<li id="ulitem0z5z8"><a href="/vibe/download.html" id="ulaitem0z5z8">Downloads </a></li>								<li id="ulitem0z5z9"><a href="/vibe/help.html" id="ulaitem0z5z9">Help</a></li>								</ul></div></div></li>												<li class="imatm" style="width:121px;" id="ulitem0z6"><a href="/companyinfo" himg="/images/menu/nav-companyinfo.gif" style="background-image:url(/images/menu/nav-companyinfo.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z6"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z6"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:162px;top:-4px;left:;"><ul style="" id="x1ub0z6">								<li id="ulitem0z6z0"><a href="/companyinfo/aboutus" id="ulaitem0z6z0">About Us</a></li>								<li id="ulitem0z6z1"><a href="/companyinfo/media" id="ulaitem0z6z1">Media</a></li>								<li id="ulitem0z6z2"><a href="/companyinfo/jobvacancies" id="ulaitem0z6z2">Careers at Virgin</a></li>								<li id="ulitem0z6z3"><a href="/companyinfo/corporateresponsibility" id="ulaitem0z6z3">Corporate Responsibility</a></li>								</ul></div></div></li>												<li class="imatm" style="width:103px;" id="ulitem0z7"><a href="/contactus" himg="/images/menu/nav-contactus.gif" style="background-image:url(/images/menu/nav-contactus.gif);background-repeat:no-repeat;background-position:center center;" id="ulaitem0z7"><span class="imea imeamj" imexpandarrow="1"><span id="eaulitem0z7"></span></span>&nbsp;</a>								<div class="imsc"><div class="imsubc" style="width:101px;top:-4px;left:0px;"><ul style="" id="x1ub0z7">								<li id="ulitem0z7z0"><a href="/faqs" id="ulaitem0z7z0">FAQs</a></li>								<li id="ulitem0z7z1"><a href="/contactus/callus.html" id="ulaitem0z7z1">Call Us</a></li>								<li id="ulitem0z7z2"><a href="/contactus/emailus.html" id="ulaitem0z7z2">Email Us</a></li>								<li id="ulitem0z7z3"><a href="/contactus/gottagripe.html" id="ulaitem0z7z3">Gotta Gripe?</a></li>								<li id="ulitem0z7z4"><a href="#" id="ulaitem0z7z4"><span class="imea imeasj" imexpandarrow="1"><span id="eaulitem0z7z4"></span></span>Find a Store</a>										<div class="imsc"><div class="imsubc" style="width:86px;top:-17px;left:82px;"><ul style="" id="x1ub0z7z4">										<li id="ulitem0z7z4z0"><a href="/contactus/postpaid.html" id="ulaitem0z7z4z0">Post-Paid</a></li>										<li id="ulitem0z7z4z1"><a href="/contactus/prepaid.html" id="ulaitem0z7z4z1">Pre-Paid</a></li>										<li id="ulitem0z7z4z2"><a href="/contactus/recharge.html" id="ulaitem0z7z4z2">Recharge</a></li>										<li id="ulitem0z7z4z3"><a href="/contactus/simkits.html" id="ulaitem0z7z4z3">Sim Kits</a></li></ul></div></div></li>										</ul></div></div></li>								</ul><div class="imclear">&nbsp;</div></div></div>								
+		</div>
+
+	</div>
+    <!-- header include ends here -->
+		<div class="services_top">
+	</div>
+		
+        <div class="templateSubContainer three_columns">
+          <div class="templateLeftPanel sidemenu_background">
+                
+			
+	<!-- sidemenu include starts here -->
+    			
+				<div style="margin-top: 30px;" id="mouseovers">
+						<img src="/images/rightLogos/clear.gif" border="0">
+				</div>		
+						
+    <!-- sidemenu include ends here -->
+
+       		</div>
+				
+				<div class="templateCentrePanel standard">
+				
+				<!-- START OF MAIN PAGE CONTENT -->
+					<div style="margin:10px; float:left; width:560px;">
+					
+		  
 			  
 			  <!-- contents here -->
 			
@@ -533,34 +385,49 @@ function ValidateForm(theForm) {
                     <td></td>
                 </tr>
               </tbody></table>  
-</td>
-</tr>
-</tbody></table>
-		
-		</td>
-		
-		<td class="rightcolumn"><img src="/images/templateimages/border_side.jpg" width="4" height="295"></td>
-      </tr>
-    </tbody></table>
-  </td></tr><tr>
-    <td><img src="/images/templateimages/border_bottom.jpg" width="766" height="12"></td>
-  </tr>
+					</div>
+					
+					<div class="templateRightPanel">
+						<div style="margin-top: 30px;">
+						<img src="/images/rightLogos/clear.gif" border="0">
+						</div>
+						<div style="margin-top: 10px; margin-bottom: 10px;">
+						 <img src="/images/rightLogos/clear.gif" border="0">
+						</div>
+				  </div>
+                  <!-- END OF MAIN CONTENT-->
+				</div>
+        </div>
 	<!-- footer include starts here -->
-	  <tr>
-    <td>
+	<div class="templateFooterImg">
+			<div id="footer">
+				<ul>
+				<li>© Virgin Mobile Australia 2007</li>
+					<li>|</li>
+				<li><a href="/contactus">Contact Us</a></li>
+				<li>|</li>
+				<li><a href="/sitemap.html">Site Map</a></li>
+				<li>|</li>
+				<li><a href="/sfoa.html">Terms &amp; Conditions</a></li>
+				<li>|</li>
+				<li><a href="/disclaimer.html">Disclaimer</a></li>
+				<li>|</li>
+				<li><a href="/privacy_security.html">Privacy Policy</a></li>
+				<li>|</li>
+				<li><a href="/companyinfo/jobvacancies">Careers at Virgin</a></li>
+				</ul>
+			</div>    
+		</div>
+		
+	<!--[imcode]*** Infinite Menus Settings / Code - This script reference must appear last. ***
+		  *Note: This script is required for scripted add on support and IE 6 sub menu functionality.
+		  *Note: This menu will fully function in all CSS2 browsers with the script removed.-->
+	
+	<script language="JavaScript" src="/scripts/ocscript.js" type="text/javascript"></script><style type="text/css">#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc{visibility:visible;}#imenus0 li ul{}.imcm{position:relative;}</style><style id="extimenus0" type="text/css">#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;border-style:solid; border-color:#bbbbbb; border-width:1px; }</style><style type="text/css">.imcm ul ul{position:relative;z-index:0;} .imcm .imunder{position:absolute;width:100%;}</style>
 
-    <table width="766" border="0" cellspacing="0" cellpadding="2">
-      <tbody><tr style="background: #D30006;">
-        <td width="180" align="center" class="footertext">Virgin Mobile 2007</td>
-        <td width="586" class="footertext">
-		| <a class="footertext" href="/contactus/index.html">&nbsp;Contact Us&nbsp;</a> 
-		| <a class="footertext" href="/sitemap.html">&nbsp;Site Map&nbsp;</a> 
-		| <a class="footertext" href="/sfoa.html">&nbsp;Terms &amp; Conditions&nbsp;</a> 
-		| <a class="footertext" href="/disclaimer.html">&nbsp;Disclaimer&nbsp;</a> 
-        | <a class="footertext" href="/privacy_security.html">&nbsp;Privacy Policy&nbsp;</a></td>
-      </tr>
-    </tbody></table>
-	<script language="javascript" src="/includes/s_code.js" type="text/javascript"></script><img name="s_i_virginMobilePrd" height="1" width="1" border="0" alt="" src="https://virginmobile.122.2O7.net/b/ss/virginMobilePrd/1/H.2-Pdv-2/s57175432193481?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A3%3A11%204%200&amp;ns=virginmobile&amp;cdp=3&amp;pageName=web%3A20070626044551id_%3Ahttp%253A%3Awww.virginmobile.com.au%3Aprivacy_security.html&amp;g=https%3A//web.archive.org/web/20070626044551id_/http%253A//www.virginmobile.com.au/privacy_security.html&amp;cc=AUD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+
+	<!-- SiteCatalyst -->
+	<script language="javascript" src="/includes/s_code.js" type="text/javascript"></script><img name="s_i_virginMobilePrd" height="1" width="1" border="0" alt="" src="https://virginmobile.122.2O7.net/b/ss/virginMobilePrd/1/H.2-Pdv-2/s53624221898258?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A3%3A10%204%200&amp;ns=virginmobile&amp;cdp=3&amp;pageName=web%3A20071205191146id_%3Ahttp%253A%3Awww.virginmobile.com.au%3Aprivacy_security.html&amp;g=https%3A//web.archive.org/web/20071205191146id_/http%253A//www.virginmobile.com.au/privacy_security.html&amp;cc=AUD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	<script language="javascript" type="text/javascript">
 	<!--
 	/* Copyright 1997-2004 Omniture, Inc. */
@@ -574,11 +441,9 @@ function ValidateForm(theForm) {
 	**************/
 	var s_code=s.t();if(s_code)document.write(s_code)
 	//--></script>
-	
-  </td>
-  </tr>
 	<!-- footer include ends here -->
-</tbody></table>
+	
+	</div>
 
 
 
