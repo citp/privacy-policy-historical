@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629051146id_/http%3A//www.nextjump.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205162919id_/http%3A//www.nextjump.com/privacy/index.html) for the most accurate reproduction.*
 
 # Welcome to NextJump
 
   
 Privacy Policy (Last Updated on 8/10/2006)[](http://www.truste.org/ivalidate.php?companyName=Next%20Jump,%20Inc.&sealid=102&ctv_group=NextJump)
 
-  
+Your Privacy   
 We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free company specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization, in ways other than disclosed in this privacy statement. 
 
 Next Jump Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site(s) www.nextjump.com, www.corporateperks.com and private label sub-domains delivered by Next Jump Inc., (i.e. uk.corporateperks.com , etc.). Because Next Jump Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
@@ -13,6 +13,8 @@ Next Jump Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 If you have questions or concerns regarding this statement, you should first contact April Grey at corporateperks@nextjump.com, or by phone at (866) 639-8135. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Next Jump Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union 
+
+The Personal Information We Collect 
 
 On Perks Sites   
 Your first name, last name, valid work email address, and work zip code represent the only pieces of personal information you must submit to access the program. In certain instances, other demographic data will be collected, but not required. Perks uses this information to provide the benefits/services associated with the program. 
@@ -24,8 +26,10 @@ Perks is a portal through which users access discounts redeemable at selected ve
 On Corporate Sites   
 First name, last name, employer, number of employees, valid work email address and phone number are the only required pieces of information collected on www.nextjump.com and www.corporateperks.com. This is done on a voluntary basis and ensures that Next Jump Inc. can properly respond to all inquiries submitted through the site. 
 
-  
+Invite a Spouse/Family member   
 If you choose to use our referral service to tell a spouse/family member about our site, we will ask you for your spouse/family member’s name and email address. We will automatically send your spouse/family member a one-time email inviting him or her to visit the site. Next Jump Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your spouse/family member may contact Next Jump Inc. at corporateperks@nextjump.com to request that we remove this information from our database. 
+
+How We Use This Personal Information
 
 On Perks Sites   
 Next Jump Inc. requires your first name, last name, email address, and work zip code for the following reasons: 
@@ -43,12 +47,12 @@ Click-stream data can help determine the popularity of vendors, offers and site 
 On Corporate Sites   
 Information submitted through www.nextjump.com and www.corporateperks.com is done so on a voluntary basis by individuals seeking to learn more about Next Jump Inc. Personal information is gathered to ensure a prompt and accurate reply by a Next Jump Inc. representative. 
 
-  
+What Information We Share   
 Next Jump Inc. only shares aggregated data to third party vendors, but it will not disclose information specific to any user or company, including email address. This information represents a generic overview of our users' collective viewing habits and allows vendors to modify their discounts based on user traffic. Additionally, some participating corporations have requested monthly reports of traffic on the Perks program. These reports will reveal only the aggregated viewing habits of Perks visitors from that corporation. The reports will not disclose the user name, login ID or any other personal information of users, including email address.   
 When users give money to nonprofits through out Charitable Giving program, we will share personal information including email address, with chosen nonprofit only if permited. Nonprofits use the contact information for acknowledgment purposes and to provide tax receipts. We will not share this information unless you **opt-in** and thereby indicate to us not notify the nonprofit of your gift. If you wish to discontinue receiving information from the respective nonprofit, please contact them directly.   
 When users RSVP to an in-store retail event, limited information is provided to the participating merchant in the form of the guest list for admittance into the private event. This information is limited to your first name and last name, and if you will be bringing a guest. 
 
-  
+Cookies   
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Next Jump Inc. uses cookies on the site(s). Next Jump Inc. does link the information stored in cookies persoanlly identifiable infomation, including email address, you submit while on the site(s). 
 
 Next Jump Inc. uses both session ID cookies and persistent cookies. Session cookies are used to make it easier for you to navigate the site(s). A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
@@ -59,16 +63,18 @@ Some business partners (e.g., advertisers, tracking utilities) use cookies on th
 
 This privacy statement covers the use of cookies by www.nextjump.com and www.corporateperks.com and private label subdomains delivered by Next Jump Inc. only and does not cover the use of cookies by any advertisers. 
 
-  
+Emails   
 Next Jump Inc. will not send unsolicited emails to registered users of Perks without consent. Additionally, users may choose to receive Perks correspondence, including email reminders of specific vendor offers and Perks newsletters. The "my account" channel on the site displays the correspondence you've elected to receive, and provides the option to unsubscribe from future Perks related emails. 
 
-  
+Opting Out   
 All emails sent by Perks contain directions on how to unsubscribe from future correspondence. At any time, users may opt out of Perks related correspondence by sending an email to CorporatePerks@nextjump.com. Users may also access their personal information, including email address to make edits in the “My Account” section of the website. 
 
 In addition, a registered user who wishes that their personal information, including email address to be completely removed from the Perks database should email CorporatePerks@nextjump.com. We will respond to your request within twenty [20] business days. An employee's complete removal of his or her personal information from the database negates that employee's ability to login to Perks 
 
-  
+Notification Of Changes To Privacy Policy   
 Users will be notified of changes or revisions to this privacy policy, including our email practives, by a notice posted on the Perks login page. The notice will contain a link, whereby the Privacy policy can be examined in full. In this way registered users are made aware of policy changes prior to shopping or browsing the Web Site. As always, a user who is not amenable to the conditions of a revised privacy policy may opt out of Perks by means outlined earlier in this document. 
+
+Purchasing Items Directly Through the Perks Site
 
 Agents   
 Next Jump Inc. uses an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain share, store or use personally identifiable information, including email address, for any other purposes. 
@@ -91,25 +97,25 @@ All email addresses are safeguarded through database encryption in both sitting 
 
 Again, Perks will never compromise your personal privacy. Information, including email address, submitted to carry out a transaction where Next Jump Inc. is the vendor is kept in the highest confidentiality, and is absolutely never shared with outside parties in ways other than disclosed in this privacy statement. 
 
-  
+Vendor's Privacy   
 Perks is a portal that enables users to purchase discounted products on the Web Sites of participating vendors. Each vendor maintains its' own privacy policy that you should be familiar with before you submit your personal information. Our privacy policy is not applicable on any of the vendor sites. Therefore, it is important for a potential buyer to familiarize himself with the privacy policies of each vendor. 
 
 Next Jump, Inc will never transmit personal identifiers, including name, email address, or user ids to any participating vendor. Clicking on a vendor site through Perks does not result in the transmission of your personal information to that vendor. 
 
-  
+Limits   
 Although your privacy is of paramount concern to us, Next Jump Inc. cannot reasonably be expected to suppress information where the withholding of such information represents a violation of federal or state law. 
 
 Next Jump Inc. reserves the right to disclose your personally identifiable information, icluding email address, as required by law and when it is believed that disclosure is necessary to protect Next Jump Inc.’s rights and/or comply with a judicial proceeding, court order, or legal process served on the site(s). 
 
-  
+Your Consent   
 As a user of Perks, you consent to our collection and storage of your personal information, including email address, (as defined above) in our database, and to our use of aggregated and non-personal information generated by the viewing habits of our users. 
 
-  
+In Summary:   
 Next Jump Inc. is committed to protecting your privacy. Next Jump Inc. does not sell, trade, give away, or rent personal or company information, including email address, to any outside parties in ways other than disclosed in this privacy statement. 
 
 Next Jump Inc. uses the information collected on the site to make shopping and promotional activities possible and to enhance your overall experience with Perks. 
 
-  
+Contact Us   
 Please direct your questions or comments to: 
 
 By Email: corporateperks@nextjump.com  
