@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224050id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205103201id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,11 @@ Privacy Policy: <http://www.cingular.com/privacy/privacy_policy>
 Customized Garfield Product  
 Café Press  
 Terms of Use: <http://www.cafepress.com/cp/info/help/shopkeepers_agreement.aspx>   
-Privacy Policy: <http://www.cafepress.com/cp/info/help/privacy_policy.aspx>   
+Privacy Policy: <http://www.cafepress.com/cp/info/help/privacy_policy.aspx>
+
+Garfield Patches/United States  
+MBI, Inc. (Willabee and Ward Division)  
+Privacy Policy: <http://willabeeandwardproducts.com/collectibles/privacy_policy.asp>  
 
 
 How is my personally identifiable information used by uclick?
