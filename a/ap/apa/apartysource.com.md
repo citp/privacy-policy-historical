@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartysource.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022312id_/http%3A//apartysource.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartysource.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206005322id_/http%3A//apartysource.com/privacypolicy.html) for the most accurate reproduction.*
 
 # apartysource.com
 
