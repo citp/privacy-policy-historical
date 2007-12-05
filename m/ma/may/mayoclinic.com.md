@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515204046id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205193241id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mayo Clinic medical information and tools for healthy living - MayoClinic.com
 
