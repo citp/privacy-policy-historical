@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529095933id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappos.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205093802id_/http%3A//www.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Zappos.com Privacy Policy
 
@@ -36,6 +36,9 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
   
 (iii)  
 | We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.  
+  
+(iv)  
+| As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.  
   
 (d)  
 |  Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)  
@@ -100,5 +103,5 @@ As you might expect from Zappos.com, the majority of information that we collect
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-ZAPPOS-1 (1-800-927-7671) or 702-943-7677 or  
 
 
-Effective November 16, 2006.  
-Privacy Policy copyright © 2006 Zappos.com, Inc.
+Effective November 30, 2007.  
+Privacy Policy copyright © 2006-2007 Zappos.com, Inc.
