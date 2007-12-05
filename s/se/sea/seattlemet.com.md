@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525000611id_/http%3A//www.seattlemet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205064219id_/http%3A//www.seattlemet.com/privacy) for the most accurate reproduction.*
 
 # Seattle Metropolitan » Privacy Policy
 
@@ -31,4 +31,4 @@ Upon request we provide site visitors with access to no information that we have
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
