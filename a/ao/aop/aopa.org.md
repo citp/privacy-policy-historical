@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626132432id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205215222id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
-# AOPA Online - Privacy Policy Statement
+# AOPA Online: Privacy Policy Statement
 
 **The Aircraft Owners and Pilots Association (AOPA) recognizes how important privacy is to our members and other site visitors.** We are committed to protecting your privacy and want to make sure that you understand how your information is used. We also want to make you aware of the options you have regarding how we use this information. Our intent is that this privacy policy will enhance your experience on the AOPA Web sites and reinforce the trust that you place in AOPA's services and products.
 
@@ -24,7 +24,7 @@ If at any time you don't want to receive information from AOPA partners or AOPA 
 
 AOPA can be reached in the following ways:
 
-| **Postal address:**  
+**Postal address:**  
 421 Aviation Way  
 Frederick, MD 21701 | **E-mail:**  
 [aopahq@aopa.org](mailto:aopahq@aopa.org) | **Telephone:**  
@@ -32,6 +32,3 @@ Frederick, MD 21701 | **E-mail:**
 ---|---|---  
   
 **This policy is effective October 25, 2006.** If our privacy practices change at any time in the future, we will post the policy changes to this page to notify you of these changes and provide you with the ability to opt out of these new uses of collected personal data.
-
-  
-
