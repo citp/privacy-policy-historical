@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the energymatters.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206190845id_/http%3A//www.renewablestore.com.au/catalog/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymatters.com.au privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205133402id_/http%3A//www.renewablestore.com.au/catalog/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Energy Matters, buy alternative energy equipment - solar and wind power
+# Privacy Notice : Energy Matters, buy alternative and renewable energy equipment - solar and wind power
 
 **Privacy Policy:**
 
