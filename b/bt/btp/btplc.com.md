@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615195413id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btplc.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205060325id_/http%3A//www.btplc.com/privacypolicy/Privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacypolicy
+# privacypolicy
 
 Who are we?  
 Why do we have a Privacy Policy?  
@@ -24,11 +24,13 @@ We have developed this policy because we want you to feel confident about the pr
 
 ## Who are we?
 
-BT Group plc is the holding company for an integrated group of businesses that provides voice and data services in the UK and overseas. British Telecommunications plc is a wholly-owned subsidiary of BT Group plc and holds virtually all businesses and assets of the BT group. British Telecommunications plc has four lines of business (LOB) - BT Retail, BT Wholesale, BT Global Services and BT Exact.
+BT Group plc is the holding company for an integrated group of businesses that provides voice and data services in the UK and overseas. British Telecommunications plc is a wholly-owned subsidiary of BT Group plc and holds virtually all businesses and assets of the BT group.
 
-BT Retail provides telephone lines to most people in the UK, as well as a wide range of communications products and services to the residential and business markets including mass market Internet access. BT Wholesale provides network services and solutions to communications companies. BT Global Services is BTÂ´s business services and solutions division serving customers worldwide. BT Exact is BTÂ´s research, technology and IT operations business. It offers expertise and experience in information and communications technology (ICT).
+BT has four customer-focused lines of business: BT Global Services, BT Retail, BT Wholesale and Openreach. BT Retail, BT Wholesale and Openreach operate mainly within the UK, where BT is the largest communications services provider to the residential and business markets, supplying a wide range of communications products and services, including voice, data, internet and multimedia services, and offering a comprehensive range of managed and packaged communications solutions. 
 
-When we refer to "we" or "our" or "BT" we are referring to BT Group plc (which includes British Telecommunications plc) and its subsidiaries, or any of them, as the context requires
+BT Global Services provides a range of products and services, including communications, networked IT and consultancy services to address the needs of major corporations, governments and multi-site global organisations. In April 2007, we announced a new structure, which includes two new business units; BT Design will be responsible for the design and development of the platforms, systems and processes which will support our services; BT Operate will be responsible for their deployment and operation. 
+
+When we refer to "we" or "our" or "BT" we are referring to BT Group plc (which includes British Telecommunications plc) and its subsidiaries, or any of them, as the context requires.
 
 ## Why do we have a Privacy Policy?
 
@@ -136,9 +138,9 @@ If the information we hold about you is inaccurate, please let us know and we wi
 
 You may choose not to receive marketing information from BT and, if you are already receiving such information from us, you can ask us to stop at any time. If you would like BT not to call or mail you with details of products, services and special offers, please call 0800 800 150 (residential customers) or 0800 400 400 (business customers) or contact your Account Manager.
 
-If you would like to stop unsolicited telemarketing calls from companies (including BT), please contact the Telephone Preference Service on 0845 0700707 or do this online at [www.tpsonline.org.uk](http://www.tpsonline.org.uk/) and register your telephone number(s). Direct marketing calls should stop after 28 days.
+If you would like to stop unsolicited telemarketing calls from companies (including BT), please contact the Telephone Preference Service on 0845 0700707 or do this online at [www.tpsonline.org.uk](http://www.tpsonline.org.uk/ "www.tpsonline.org.uk hyperlink 37") and register your telephone number(s). Direct marketing calls should stop after 28 days.
 
-If you would like to stop unsolicited direct marketing mailings companies (including BT), please contact the Mail Preference Service on 0845 7034599 or do this online at [www.mpsonline.org.uk](http://www.mpsonline.org.uk/). Direct marketing mailers should stop or significantly reduce after 3 months. (Remember to re-register if you change your address).
+If you would like to stop unsolicited direct marketing mailings companies (including BT), please contact the Mail Preference Service on 0845 7034599 or do this online at [www.mpsonline.org.uk](http://www.mpsonline.org.uk/ "www.mpsonline.org.uk hyperlink 38"). Direct marketing mailers should stop or significantly reduce after 3 months. (Remember to re-register if you change your address).
 
 Back to top
 
@@ -212,7 +214,7 @@ Back to top
 
 ## When do we use cookies?
 
-A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit areas of our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.
+A "cookie" is a text file which is allocated by our server to your personal computer (PC) when you visit areas of our website. If you want to know more about cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org hyperlink 47") which explains how cookies work and how you can manage their use. We use "cookies" to collect information from visitors to our websites and registered customers.
 
 Our servers use two different types of cookies. The first type is known as a "session-based" cookie and is allocated to your PC only for the duration of your visit to our website. It helps you to move around the website faster. This cookie automatically expires when you close down your browser.
 
@@ -235,7 +237,7 @@ This cookie allows us to:
 
 
 
-We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it. BTÂ´s cookies do not collect any information regarding the use of your PC or your Internet browsing in any way.
+We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it. BT´s cookies do not collect any information regarding the use of your PC or your Internet browsing in any way.
 
 Please note that as the cookie is based on your PC, we will not find it if you visit our websites using a different PC to the one you registered on.
 
