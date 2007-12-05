@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614101743id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dapper.net privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205094733id_/http%3A//www.dapper.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Dapper Privacy Policy
 
 **_Privacy Policy_**
 
-DAPPER Inc., (in this policy: the "Company", "we", "us", or "our") cares about your privacy. This policy explains the accepted privacy practices for our website at [www.dapper.net](http://www.dapper.net/) ("Dapper").  
+DAPPER Inc., (in this policy: the "Company", "we", "us", or "our") cares about your privacy. This policy explains the accepted privacy practices for our website at [www.dapper.net](http://www.dapper.net/) ("Dapper"). �
 
 This policy covers, among other things, what personal information we collect from you whether you are a registered user or not, how we use the information, the data obtained automatically when you use Dapper or its services and how we retain it. 
 
@@ -28,23 +28,23 @@ Some web pages have a login form. If you submit the form through Dapper, we will
 
 We will use personally identifiable information for the following purposes only:
 
-·         To enable you to use Dapper, including the Dapps that you create, store, transmit or otherwise distribute when using Dapper; 
+�         To enable you to use Dapper, including the Dapps that you create, store, transmit or otherwise distribute when using Dapper; 
 
-·         To post your Dapps on Dapper;
+�         To post your Dapps on Dapper;
 
-·         To allow you to access and use saved Dapps on Dapper and to adjust Dapper to your personal preferences; 
+�         To allow you to access and use saved Dapps on Dapper and to adjust Dapper to your personal preferences; 
 
-·         To facilitate the display of information and advertisements pertaining to products and services which might interest you; 
+�         To facilitate the display of information and advertisements pertaining to products and services which might interest you; 
 
-·         To provide you from time to time with information pertaining to Dapper;
+�         To provide you from time to time with information pertaining to Dapper;
 
-·         To contact you as and when we believe it to be necessary;
+�         To contact you as and when we believe it to be necessary;
 
-·         Subject to your express consent at the time of registration with Dapper or later, to send you, from time to time, information pertaining to our Services, as well as marketing and advertising material, whether ours or others'. You may withdraw your consent at any time and cease receiving material of this kind, by following the relevant procedure at Dapper. In any case, we will not share your personal details with any advertisers, without your explicit consent.
+�         Subject to your express consent at the time of registration with Dapper or later, to send you, from time to time, information pertaining to our Services, as well as marketing and advertising material, whether ours or others'. You may withdraw your consent at any time and cease receiving material of this kind, by following the relevant procedure at Dapper. In any case, we will not share your personal details with any advertisers, without your explicit consent.
 
-·         To any other purpose, as stipulated in this Policy, or in the Terms of Use governing the use of Dapper ("Terms of Use").
+�         To any other purpose, as stipulated in this Policy, or in the Terms of Use governing the use of Dapper ("Terms of Use").
 
-We may use anonymous information for the proper operation and function of Dapper, to improve the quality of Dapper and to enhance your experience, to create new services, including services tailored to users’ personal requirements and expectations, and to change or cancel existing features and content. we may share such information with others, provided that it does not identify you personally. 
+We may use anonymous information for the proper operation and function of Dapper, to improve the quality of Dapper and to enhance your experience, to create new services, including services tailored to users� personal requirements and expectations, and to change or cancel existing features and content. we may share such information with others, provided that it does not identify you personally. 
 
 **_Sharing and disclosing information_**
 
@@ -69,7 +69,7 @@ Our cookies may contain a variety of information, such as the Dapps you have acc
 
 We may use cookies for various purposes, such as to facilitate the use of Dapper, to collect statistical information about the use of Dapper, to verify information, to adjust Dapper to your personal preferences and for information security purposes. 
 
-Some of the Cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer’s hard drive. If you wish to block our cookies, you may do so by clicking the "options" button on your browser's menu and follow the necessary instructions. You can read your browser's Help file of for further information. However, bear in mind that disabling cookies may complicate or even prevent the use of Dapper, or certain features thereof. 
+Some of the Cookies may expire when the session ends and you exit your browser. Other cookies are saved on your computer�s hard drive. If you wish to block our cookies, you may do so by clicking the "options" button on your browser's menu and follow the necessary instructions. You can read your browser's Help file of for further information. However, bear in mind that disabling cookies may complicate or even prevent the use of Dapper, or certain features thereof. 
 
 **_Advertising_**
 
