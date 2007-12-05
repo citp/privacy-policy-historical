@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629232822id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205170513id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
 
-# Softpile.com | Privacy Policy
+# Privacy Policy - Softpile, Free Software Downloads
 
 Softpile Software respects the privacy of visitors to any Website owned and operated by the network. 
 
