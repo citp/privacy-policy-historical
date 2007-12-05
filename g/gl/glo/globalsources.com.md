@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625072825id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205231323id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
 
-|  | 
-
 Help & FAQ
 
-**Privacy Policy** **Collection of information**   
+**Privacy Policy**
+
+**Collection of information**   
 When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content like Product Alert. You will receive information only for the products that interest you. To see how this works, view a sample of Product Alert in html format or text format. 
 
 Our system also logs some basic and generic information about your computer, including its: 
