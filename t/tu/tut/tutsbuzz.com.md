@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604180743id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205155705id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
 
-# TutsBuzz.com
-
-| 
-
-**What kind of tutorials do you interested in?**
-
-[](http://www.pixel2life.com/forums/index.php?act=toplist&code=hitin&site=532) | 
-
-##  Privacy Statement 
+# TutsBuzz.com - Tutorial Index Page
 
 We here at Tutsbuzz.com greatly respect your privacy and we hope that our users feel that the information they share with us is 100% secure and private. Here are the guidelines we follow at Tutsbuzz to ensure your privacy and our integrity: 
 
@@ -32,6 +24,4 @@ This web site contains links to other sites. Please be aware that Tutsbuzz.com i
 
 Tutsbuzz.com will never, under any circumstances give away or displays your IP address. Additionally, Tutsbuzz.com will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties. Use of the registration system is optional; however it does maximize the user's experience here at the site. 
 
-If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](https://web.archive.org/web/20070604180743id_/http%3A//www.tutsbuzz.com/contact.html)! Thank you for your cooperation.   
-  
----|---
+If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](http://www.tutsbuzz.com/contact.html)! Thank you for your cooperation. 
