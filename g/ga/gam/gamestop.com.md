@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616181145id_/http%3A//gamestop.com/gs/help/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205134235id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Gamestop.com - Help Desk
 
