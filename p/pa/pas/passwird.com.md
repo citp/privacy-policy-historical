@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwird.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512163413id_/http%3A//passwird.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwird.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205120739id_/http%3A//passwird.com/privacy.shtml) for the most accurate reproduction.*
 
 # Passwird.com - Deals and Bargains
 
