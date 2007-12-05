@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516063537id_/http%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoblog.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205101834id_/http%3A//www.photoblog.com/privacy) for the most accurate reproduction.*
 
-# Photoblog - Privacy Policy
+# Photoblog - Privacy
 
 Last Updated November 4, 2006
 
