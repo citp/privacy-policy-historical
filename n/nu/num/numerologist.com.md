@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624060113id_/http%3A//numerologist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206024423id_/http%3A//www.numerologist.com/privacy.html) for the most accurate reproduction.*
 
 # Numerologist.com -- Privacy Policy
 
