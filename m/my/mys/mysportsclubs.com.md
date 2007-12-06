@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609190959id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206170639id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
 
 # MySportsClubs | Privacy Policy
 
 |  | 
 
-[](https://web.archive.org/trialMembership/)  
+[](http://www.mysportsclubs.com/trialmembership/default.htm?WT.ac=LeftSide2Week)  
   
 ---  
 |  | Privacy Policy  
@@ -82,7 +82,7 @@ Data Quality/Access
 
   1. You can send email via the [Contact Us page](https://web.archive.org/feedback.htm). 
   2. You can visit the [Member Services page](https://web.archive.org/memonly/about/terms.htm). 
-  3. You can send mail to the following postal address: _Town Sports International, 888 7th Avenue, New York, NY 10106._
+  3. You can send mail to the following postal address: _Town Sports International, 5 Penn Plaza, 4th Floor, New York, NY 10001._
 
  **
 
