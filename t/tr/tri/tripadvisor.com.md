@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622094651id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206100847id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 TripAdvisor has provided this privacy policy because we value your right to privacy. This policy is effective as of June 4, 2007 and governs the collection of personal information through this website on or after this date. If you have not registered or otherwise provided personal information through this site on or after June 4, 2007, please refer to our [previous privacy policy](https://web.archive.org/pages/privacy_pre_060407.html) for information about how your personal information will be treated.
 
-This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy or would like a copy of a prior version of our privacy policy that is no longer available online, e-mail us at [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com).
+This policy describes the types of information TripAdvisor collects from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, [contact us](https://web.archive.org/Feedback).
 
 ### Information we collect.
 
@@ -36,7 +36,7 @@ In addition to these communications, if you have provided an email address, we m
 
 We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that may actually be interesting to you, rather than annoying.
 
-You can cancel your registration with us by e-mailing [cancel@tripadvisor.com](mailto:cancel@tripadvisor.com), and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
+You can cancel your registration with us by [e-mailing us](https://web.archive.org/Feedback), and placing your email address in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from our active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them.
 
 ### Disclosure of your personal information.
 
