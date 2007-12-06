@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621022956id_/http%3A//www.prizes.co.uk/index.php%3Fpg%3D15%26PHPSESSID%3D6a884f430624c9d854ad59d86e168dcd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206153233id_/http%3A//www.prizes.co.uk/index.php%3Fpg%3D15%26PHPSESSID%3D5100d72bbc21553b723168fcceb7d568) for the most accurate reproduction.*
 
 # Prizes.co.uk - win prize draws, competitions and contests
 
