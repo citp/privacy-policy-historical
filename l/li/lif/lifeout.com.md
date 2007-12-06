@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622013959id_/http%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206035218id_/http%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LifeOUT.com :: Privacy Policy
 
@@ -6,9 +6,9 @@ At LifeOUT Systems, LLC we believe that your privacy is paramount, and therefore
 
 Cookies
 
-LifeOUT.com sets cookies in order to gather broad demographic information, to deliver content requested by you or specific to your interests, to customize our website for you, and to save your login credentials in order to allow you to visit member-only zones of LifeOUT.com. 
+LifeOUT.com sets cookies in order to gather broad demographic information, to deliver content requested by you or specific to your interests, to customize our website for you, and to save your login credentials in order to allow you to visit member-only areas of LifeOUT.com. 
 
-A cookie is a small string of data that is stored on your computer. LifeOUT.com only saves your login credentials if you request it; your password is encrypted, stored on your computer and transferred over the Internet in encrypted form. Note that you may refuse cookies; however, doing so may prevent certain LifeOUT.com zones from working. 
+A cookie is a small string of data that is stored on your computer. LifeOUT.com only saves your login credentials if you request it; your password is encrypted, stored on your computer and transferred over the Internet in encrypted form. Note that you may refuse cookies; however, doing so may prevent certain LifeOUT.com features from working. 
 
 Registration Form
 
@@ -30,7 +30,7 @@ LifeOUT.com stores feedback sent to us by members. This feedback is used to admi
 
 IP Addresses
 
-LifeOUT.com may track individual IP addresses to help diagnose problems with our service, to administer our site and to gather broad demographic information. User IP address information is used only for our internal purposes. 
+LifeOUT.com may track individual IP addresses to help diagnose problems with our service, to administer our site and to gather broad demographic information. User IP addresses are recorded for security and monitoring purposes. User IP address information is used only for our internal purposes. 
 
 Additional Scenarios
 
@@ -42,18 +42,14 @@ Off-Site Links
 
 LifeOUT.com provides links to sites external to the LifeOUT Systems, LLC family. LifeOUT.com is not responsible for the privacy practices or contents of these other sites. 
 
-Suspend Account
-
-LifeOUT.com provides users the option for suspending their accounts effectively hiding it from other users. [Contact us](https://web.archive.org/support.php) to have your account suspended. Be sure to include your username, email address and password. 
-
 Change/Modify Information
 
 LifeOUT.com provides users the option to change or modify information previously provided. Visit the appropriate section of the website to make such changes. 
 
-Contacting Us
-
-If you have any questions regarding this privacy statement, the practices of this website, or your dealing with this website, please [contact us](https://web.archive.org/support.php). 
-
 Policy Changes
 
 Occasionally we may revise this privacy notice. If we make a change, we will post a notice on the LifeOUT.com website or notify you by email, at which time you will be able to "opt out" of these new practices by contacting us. 
+
+Contacting Us
+
+If you have any questions regarding this privacy statement, the practices of this website, or your dealing with this website, please [contact us](https://web.archive.org/support.php). 
