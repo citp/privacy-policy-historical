@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050054id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206014339id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
 
 # BigBlueBall.com - Anything and Everything About Instant Messaging and Chat
 
