@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scancafe.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529035709id_/http%3A//scancafe.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scancafe.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206053325id_/http%3A//www.scancafe.com/privacy_policy.php) for the most accurate reproduction.*
 
-# ScanCafe
+# ScanCafe - Privacy Policy
 
 By using this website, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Notice that we will include on this page. Frequently reviewing this Privacy Notice and remaining informed about any changes to it is your responsibility, so we encourage you to visit this page often.
 
@@ -36,7 +36,7 @@ d.       (etc.)
 
 ScanCafe! may also automatically receive and record information on server logs from your browser. This information may include your IP address, cookie information, the pages you request, and your log in times. Cookies are pieces of information stored on a user's computer that help ScanCafe! to recognize users who return to the site and to monitor website traffic. This information may help ScanCafe! to improve the site.
 
-3\. **THE WAY WE USE INFORMATION**
+**3\. THE WAY WE USE INFORMATION**
 
 We use the information you provide about yourself when placing an order, only to complete that order and to manage your account and keep your account current and we use this information for billing purposes and to fill your orders. We do not share this information with outside parties except to the extent necessary to complete that order. For example, in order to ship the product and confirm delivery (shipping company) and to bill you for goods and services (transaction processor). We may disclose your personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to:
 
@@ -60,17 +60,17 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-4\. **OUR COMMITMENT TO DATA SECURITY**
+**4\. OUR COMMITMENT TO DATA SECURITY**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 Unfortunately, no method of transmission over the internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect the personal information that you transmit to us, we cannot guarantee its absolute security and you do so at your own risk. ScanCafe! periodically reviews and updates security measures to continually provide improved protection for the registered customer base.
 
-5\. **OUR COMMITMENT TO CHILDREN'S PRIVACY**
+**5\. OUR COMMITMENT TO CHILDREN'S PRIVACY**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
-6\. **HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION**
+**6\. HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION**
 
 You can access all your personally identifiable information that we collect online and maintain by logging on to your account at ScanCafe! through the log on procedure on the website. After logging on, you can review the personally identifiable information you previously submitted, update or modify your information and then submit it. We use this procedure to better safeguard your information.
 
@@ -78,10 +78,10 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we may also take reasonable steps to verify your identity before granting access or making corrections.
 
-7\. **SECURITY FOR THE PHOTOGRAPHS YOU SEND AND THE SCANS DERIVED**
+**7\. SECURITY FOR THE PHOTOGRAPHS YOU SEND AND THE SCANS DERIVED**
 
 To prevent misuse of your photographic images and to protect your privacy, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure your personal property. Access to your photographs is strictly controlled both physically and electronically. Your photographs and scanned images are never shared with third parties. Access is granted only to employees of ScanCafe! who are responsible for processing your images and delivering the ScanCafe! services that you request.
 
-8\. **HOW YOU CAN CONTACT US**
+**8\. HOW YOU CAN CONTACT US**
 
-Should you have other questions or concerns about these privacy policies, please contact us at (000) 000-0000 or send us an email at: [tc@scancafe.com](mailto:tc@scancafe.com)
+Should you have other questions or concerns about these privacy policies, please contact us at (650) 343-0005 or send us an email at: [tc@scancafe.com](mailto:tc@scancafe.com)
