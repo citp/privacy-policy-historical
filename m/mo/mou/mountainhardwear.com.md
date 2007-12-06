@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623044737id_/http%3A//www.mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206015612id_/http%3A//www.mountainhardwear.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mountain Hardwear: Privacy Policy
 
   
 
 
-_Last Updated: July 2005_
+_Last Updated: July 2007_
 
 Mountain Hardwear, Inc. understands that its customers and web site visitors care about how personal information is gathered and used. We appreciate that you trust us to act carefully and responsibly with your personal information. 
 
@@ -57,7 +57,7 @@ Mountain Hardwear and its licensees and affiliates may also use your personally 
 
 Mountain Hardwear uses non-personally identifiable information in any way that it determines is useful to it, including to maintain and improve the quality of its products and services and to offer information and promotions.
 
-**Cookies.** A "cookie" is a small text file containing a unique identification number that is transferred from a site like the Mountain Hardwear web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the site. If your browser accepts "cookies," Mountain Hardwear may use both persistent and session ID cookies to determine if you are a repeat or new visitor; to understand how many different visitors come to this site; to personalize your information on future visits; to offer you information that is appropriate to your demographics interests, and preferences; to monitor and improve its services to you; and to facilitate your shopping session. You can usually modify your browser to decline cookies at your preference, however, declining cookies may limit your ability to receive the benefit of all of the features of this site.
+**Cookies.** A "cookie" is a small text file containing a unique identification number that is transferred from a site like the Mountain Hardwear web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the site. If your browser accepts "cookies," Mountain Hardwear and its affiliates and third-party retailers may use both persistent and session ID cookies to determine if you are a repeat or new visitor; to understand how many different visitors come to this site; to personalize your information to this site or other sites on future visits; to offer you information that is appropriate to your demographic interests and preferences; to monitor and improve its services to you; and to facilitate your shopping session. You can usually modify your browser to decline cookies at your preference, however, declining cookies may limit your ability to receive the benefit of all of the features of this and other sites.
 
 **Change to Use of Information.** If any material change is made in the way in which we use the personally identifiable information that you previously provided to us, Mountain Hardwear will notify you of the change and provide you with an opportunity to "opt out" of having your information used for a different purpose. We will also update this Privacy Policy as changes are made going forward by posting the change on the Mountain Hardwear website.
 
