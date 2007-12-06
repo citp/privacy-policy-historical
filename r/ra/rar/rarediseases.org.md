@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607211528id_/http%3A//rarediseases.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206155436id_/http%3A//www.rarediseases.org/info/privacy) for the most accurate reproduction.*
 
 # NORD - National Organization for Rare Disorders, Inc.
 
