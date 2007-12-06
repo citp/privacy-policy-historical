@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623054722id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2007-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071206022930id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
@@ -212,7 +212,7 @@ function changeSearchInfo(searchType, isDefault, div) {
 			searchInfo = "Search the Web for information on material properties";
 			break;
 		case "partnumbers":
-			searchInfo = "Search the Web for information on part numbers";
+			searchInfo = "Search for parts by part number, manufacturer name, distributor name, or description";
 			break;
 		case "products":
 			searchInfo = "Search online vendor, manufacturer and supplier product catalogs";
@@ -308,11 +308,22 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 
 
 
+<style>
+	
+		div#searchBoxMiddleDiv, div#moreOptionsOuterDiv, div#moreOptions {
+			width:560px;
+		}
+		div#searchBoxInnerDiv {
+			margin-bottom:4px;
+		}
+	
+</style>
+
 
 <table id="searchBoxOuterDiv" class="blueGrayBg" width="100%" cellpadding="0" cellspacing="0" border="0" style="padding-top:5px;"><tbody><tr><td align="center" nowrap=""> 
 	<form name="FindIn" id="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;" style="margin:0px;" action="">
-		<div style="width:560px;vertical-align:middle;text-align:left;" class="blueGrayBg">	
-		<div id="searchBoxInnerDiv" style="padding:5px;margin-bottom:4px;">	
+		<div id="searchBoxMiddleDiv" style="vertical-align:middle;text-align:left;" class="blueGrayBg">	
+		<div id="searchBoxInnerDiv" style="padding:5px;">	
 			<a href="#" onclick="showHide('moreOptions', false); return false;"><img id="hideQsBox" style="display:none;float:right;" src="/pix/buttons/CloseWindowRedX_text.gif" border="0" alt="Close"></a>
 			<span id="searchPrompt" class="boldContent" style="text-align:right;vertical-align:middle;margin-top:3px;font-size:13px;">				
 				
@@ -333,19 +344,19 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 			</span>
 			
 		</div>		
-	<div style="position:relative;width:560px;z-index:99;">
+	<div id="moreOptionsOuterDiv" style="position:relative;z-index:99;">
 													
-		<div id="moreOptions" style="position:absolute;display:none;width:560px;margin-left:0px;margin-right:0px;margin-top:-9px;z-index:99;overflow:hidden;">
+		<div id="moreOptions" style="position:absolute;display:none;margin-left:0px;margin-right:0px;margin-top:-9px;z-index:99;overflow:hidden;">
 			<div id="moreContent" style="padding-bottom:12px; padding-left:50px;padding-top:5px;text-align:left;border-left:1px solid black;border-right:1px solid black;border-bottom:1px solid black;" class="blueGrayBg">
 				<table cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td>
 							<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);" checked=""></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);"></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('engnews', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="engnewsRadio" type="radio" name="show" value="engnews" onclick="changeSearchInfo('engnews', true, this.parentNode);"></td><td><label for="engnewsRadio" style="width:100%;padding-right:30px;display:block;">Engineering News</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
+							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);"></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);" checked=""></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('engnews', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="engnewsRadio" type="radio" name="show" value="engnews" onclick="changeSearchInfo('engnews', true, this.parentNode);"></td><td><label for="engnewsRadio" style="width:100%;padding-right:30px;display:block;">Engineering News</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
 							</tbody></table>
 						</td>
 						<td align="center" valign="top">
-							<div id="SearchInfo" style="margin-top:20px;border:solid #BEC2C2 1px;padding:5px;background-color:#F7F7F7;width:250px;height:45px;text-align:left;">undefined</div>
+							<div id="SearchInfo" style="margin-top:20px;border:solid #BEC2C2 1px;padding:5px;background-color:#F7F7F7;width:250px;height:45px;text-align:left;">Search online vendor, manufacturer and supplier product catalogs</div>
 						</td>
 					</tr>
 				</tbody></table>
@@ -362,7 +373,7 @@ function changeSearchLocation(searchType, searchQuery, fromSearchBox) {
 </td></tr></tbody></table> 
 						
 
-<script language="JavaScript" type="text/javascript">changeSearchInfo('', true, null);</script> 
+<script language="JavaScript" type="text/javascript">changeSearchInfo('products', true, null);</script> 
 	</td>
 </tr>
 </tbody></table> 
@@ -406,23 +417,19 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 					<td align="left" colspan="2">
 						<a href="http://www.globalspec.com/" class="footerlinks">Home</a> 
 			            &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/AboutUs" class="footerlinks">About&nbsp;GlobalSpec</a>
-					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/MediaKit" class="footerlinks">Advertise&nbsp;With&nbsp;Us</a>
+					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Advertising" class="footerlinks">Advertise&nbsp;With&nbsp;Us</a>
 					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap" class="footerlinks">Site&nbsp;Map</a>
 					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap/Directory/" class="footerLinks">Top Categories</a>
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>
-	          			&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>				        
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>		        
 						<br>
 					</td>
 				</tr>
 				<tr>
 					<td colspan="2" align="center">
-						&nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>
-				    	&nbsp; <span class="boldRedContent">|</span> &nbsp; 
-<a href="http://www.globalspec.com/Recommend/Supplier" target="_blank" class="footerlinks">Recommend&nbsp;a&nbsp;Supplier</a> 
- 				    	
+						<a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>				    	
 						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Submit-Site" class="footerLinks">Submit a Site</a>
 						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Email/RecommendEmail" class="footerlinks">Recommend&nbsp;This&nbsp;Site</a>
-						
 					  	<br>
 					</td>
 		  	 	</tr>
