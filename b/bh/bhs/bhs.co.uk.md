@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhs.co.uk privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625222503id_/http%3A//www.bhs.co.uk/mall/infopageviewer.cfm/bhsstore/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhs.co.uk privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206105442id_/http%3A//www.bhs.co.uk/mall/infopageviewer.cfm/bhsstore/privacy) for the most accurate reproduction.*
 
-# BHS privacy : modern living made easy
+# privacy : modern living made easy
 
 Bhs Limited (we and us) are committed to protecting and respecting your privacy. This policy (together with our website [Terms of Use](https://web.archive.org/mall/infopageviewer.cfm/bhsstore/accessibility "Terms of Use") and [Trading Terms](https://web.archive.org/mall/infopageviewer.cfm/bhsstore/termsandconditions "Trading Terms")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998, the data controller is Bhs Limited. 
 
@@ -37,3 +37,5 @@ The Data Protection Act 1998 gives you the right to access information held abou
 ####  How to contact us 
 
 If you have any questions, comments or requests regarding this privacy policy, please feel free to contact us by one of the following ways: by email at [web.feedback@bhs.co.uk](mailto:web.feedback@bhs.co.uk) by telephone on 0845 196 00 00 between the hours of 9am – 5pm, Monday to Saturday 
+
+[childrenswear](http://www.bhs.co.uk/mall/departmentpage.cfm/bhsstore/112276/1/1 "childrenswear")
