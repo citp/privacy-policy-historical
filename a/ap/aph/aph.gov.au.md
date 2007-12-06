@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aph.gov.au privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628011158id_/http%3A//www.aph.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aph.gov.au privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206210510id_/http%3A//www.aph.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Parliament of Australia: Privacy Statement
 
@@ -76,7 +76,7 @@ This site contains links to other sites. The Parliament is not responsible for t
 
 Parliamentary staff comply with information privacy principles. 
 
-### [Accessing files on the site](https://web.archive.org/web/20070628011158id_/http%3A//www.aph.gov.au/access/access.htm)
+### [Accessing files on the site](https://web.archive.org/web/20071206210510id_/http%3A//www.aph.gov.au/access/access.htm)
 
 ## Accessibility 
 
