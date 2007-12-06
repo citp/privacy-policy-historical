@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118083736id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printingblue.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206022333id_/http%3A//www.printingblue.com/privacy.asp) for the most accurate reproduction.*
 
 # PrintingBlue.com Privacy Policy.
 
@@ -86,8 +86,8 @@ If customers have any questions or suggestions regarding our privacy policy, ple
 
 Customer Service   
 **[Printingblue.com](http://printingblue.com/)  
-P.O. BOX 10481  
-Salinas, CA 93912-0481  
+P.O. BOX 281  
+Streamwood, IL 60107-0281  
 Telephone: 302-356-1432**  
 **[support@printingblue.com](mailto:support@printingblue.com)**   
 
