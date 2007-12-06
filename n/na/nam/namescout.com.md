@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626182706id_/http%3A//namescout.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206171625id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Namescout.com
 
@@ -91,6 +91,10 @@ Additionally, our information management systems are configured in such a way as
 **The Accountability of Namescout.com's Agents and Business Partners**
 
 Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+
+**For .AU Domain Names**
+
+When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.
 
 If you feel that Namescout.com, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [service@namescout.com](mailto:service@namescout.com), by telephone at +1 613 768 5140, or by postal mail at:
 
