@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626042645id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockphotopro.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206195101id_/http%3A//www.stockphotopro.com/sppprivacy.php) for the most accurate reproduction.*
 
-# StockPhotoPro - The Stock Photo Community.
+# StockphotoPro - The Stock Photo Community.
 
 for **STOCKPHOTOPRO, INC.**.
 
