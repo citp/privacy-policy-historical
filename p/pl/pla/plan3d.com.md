@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514084422id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206015600id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
