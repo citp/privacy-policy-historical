@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the self-improvement-millionaires.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614190231id_/http%3A//www.self-improvement-millionaires.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self-improvement-millionaires.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206014825id_/http%3A//www.self-improvement-millionaires.com/privacy.php) for the most accurate reproduction.*
 
 # The Lost Files
 
