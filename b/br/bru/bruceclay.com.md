@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613094151id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206030643id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
 
 # bruceclay.com - Privacy Statement
 
