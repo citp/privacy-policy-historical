@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exclusivelyweddings.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629125046id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exclusivelyweddings.com privacy policy that was archived on 2007-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071207173524id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>
@@ -13,19 +13,89 @@ Wedding Favors, Invitations and Accessories from Exclusively Weddings
 <link rel="shortcut icon" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<meta name="KEYWORDS" content=" ">
-<meta name="DESCRIPTION" content="">
+<meta name="keywords" content=" From Exclusively Weddings - Invitations bride accessories, wedding party gifts, ceremony, reception, cake and first toast, guest favors, memories">
+<meta name="description" content=" From Exclusively Weddings - Invitations bride accessories, wedding party gifts, ceremony, reception, cake and first toast, guest favors, memories">
 <script language="javascript">
 //<!--
 // eventually will serve as navigation cookie function
-function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
-	document.cookie='idproduct=' + idproduct;
-	document.cookie='idcategory=' + idcategory;
-	document.cookie='qty=' + qty;
-	document.cookie='seq=' + seq;
-	document.cookie='totrecs=' + totrecs;
-	document.cookie='cartrows=' + cartrows;
+function navigationset(idcategory,seq,totrecs,curpage,qty,path){
+//	document.cookie='qty=' + qty;
+//	document.cookie='idcategory=' + idcategory;
+//	document.cookie='seq=' + seq;
+//	document.cookie='totrecs=' + totrecs;
+//	document.cookie='curpage=' + curpage;
+//	deleteCookie('idcategory',path);
+//	deleteCookie('qty',path);
+//	deleteCookie('seq',path);
+//	deleteCookie('totrecs',path);
+//	deleteCookie('curpage',path);
+	setCookie('qty',qty,path);
+	setCookie('idcategory',idcategory,path);
+	setCookie('seq',seq,path);
+	setCookie('totrecs',totrecs,path);
+	setCookie('curpage',curpage,path);
+//alert(document.cookie);
 }
+
+function deleteCookie(name, path, domain) {
+	if (getCookie(name)) {
+		document.cookie = name + "=" + 
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		"; expires=Thu, 01-Jan-70 00:00:01 GMT";
+	}
+}
+
+function setCookie(name, value, path, domain, expires, secure) {
+	var curCookie = name + "=" + escape(value) +
+		((expires) ? "; expires=" + expires.toGMTString() : "") +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "");
+	document.cookie = curCookie;
+}
+
+function getCookie(name) {
+	var dc = document.cookie;
+	var prefix = name + "=";
+	var begin = dc.indexOf("; " + prefix);
+	if (begin == -1) {
+		begin = dc.indexOf(prefix);
+		if (begin != 0) return null;
+	} else
+		begin += 2;
+	var end = document.cookie.indexOf(";", begin);
+	if (end == -1)
+		end = dc.length;
+	return unescape(dc.substring(begin + prefix.length, end));
+}
+/*
+function deleteCookie(fieldname){
+//	alert(document.cookie);
+	var edittext;
+	var frontstr;
+	var backstr;
+	edittext=document.cookie;
+	frontstr=edittext.substring(0, (edittext.indexOf(fieldname) - 1));
+	backstr=edittext.substring((edittext.indexOf(fieldname) - 1), edittext.length);
+	if (backstr.indexOf(';') == -1) {
+//		alert('end of cookie is field');
+	}
+	else {
+		backstr=backstr.substring(backstr.indexOf(';')+1, backstr.length);
+	}
+	document.cookie
+	document.cookie=frontstr + backstr;
+}
+
+function clearnav(){
+	deleteCookie('idcategory','/','/');
+	deleteCookie('qty','/','/');
+	deleteCookie('seq','/','/');
+	deleteCookie('totrecs','/','/');
+	deleteCookie('curpage','/','/');
+}
+*/
 //-->
 </script>
 
@@ -37,15 +107,28 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 
 <div align="center">
 
-<div id="container">
+
+<!-- Display iframe width -->
+  
+<!-- Display standard width -->
+  <div id="container">
+  
+
 <!--//begin header table//-->
 <div id="printLogo"><img src="/images/header/printLogo.gif" class="logo" width="200" height="63" border="0" alt="Exclusively Weddings"><br clear="all"></div>
 <a name="top" id="top" class="hidden"></a>
-<table width="768" cellpadding="0" cellspacing="0" border="0" summary="table that holds the top nav" id="headerBG">
+
+<!-- Display iframe width -->
+  
+<!-- Display standard width -->
+  <table width="768" cellpadding="0" cellspacing="0" border="0" summary="table that holds the top nav" id="headerBG">
+  
+
+<!--table width="768" cellpadding="0" cellspacing="0" border="0" summary="table that holds the top nav" id="headerBG"-->
 <tbody><tr>
 <td align="center" width="288" rowspan="2">
 <a href="/dynamicIndex.asp"><img src="/images/header/logo.gif" class="logo" width="288" height="78" border="0" alt="Exclusively Weddings - " align="left"></a></td>
-<td align="center" nowrap="nowrap" width="239"><div align="center"><span class="title5">100% Money Back Guarantee</span><br><span class="textnbW">every item - every order - every day</span></div></td>
+<td align="center" nowrap="nowrap" width="239"><div align="center"><a href="/ew_returnsExchange.asp" class="satisfactionText">100% Money Back Guarantee</a><br><span class="textnbW">every item - every order - every day</span></div></td>
 <td align="right" width="140" valign="top" nowrap="nowrap" style="padding:19px 0 0 0; _padding:12px 0 0 0;"><span class="title6">1.800.759.7666</span></td>
 <td width="80" style="padding:5px 5px 0 10px;">
 <!-- START SCANALERT CODE -->
@@ -54,33 +137,49 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 </td></tr>
 
 <tr>
-<td height="20" colspan="3" align="right">
-<table border="0" cellspacing="0" cellpadding="0" align="right">
-<tbody><tr valign="bottom"><td class="topnavTop"><strong><a href="/" class="topnavTop">HOME</a>&nbsp;&nbsp;<span class="topnavTop">|</span>&nbsp;&nbsp;<a href="/ew_customerservice.asp" class="topnavTop">CUSTOMER SERVICE</a>&nbsp;&nbsp;<span class="topnavTop">|</span>&nbsp;&nbsp;<a href="/retrieveHeldCart.asp" class="topnavTop">HELD ORDER</a>&nbsp;&nbsp;<span class="topnavTop">|</span>&nbsp;&nbsp;<a href="/showcart.asp" class="topnavTop">VIEW CART</a></strong></td>
-<td width="28"><img src="/images/header/cart.gif" width="20" height="15" alt="" border="0" hspace="4"></td>
+<td height="20" colspan="3" align="left">
+<div style="position:relative; top:0px; left:0px; height:20px; width:1px;">
+<div style="position:absolute; top:1px; left:19px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td style="color:#ffffff;"><nobr><a href="/" class="topNavTopLink">HOME</a>&nbsp;|
+<a href="/orderStatusLogin.asp" class="topNavTopLink">ORDER STATUS</a>&nbsp;|
+<a href="/ew_customerservice.asp" class="topNavTopLink">CUSTOMER CARE</a>&nbsp;|
+<a href="/retrieveHeldCart.asp" class="topNavTopLink">HELD ORDER</a>&nbsp;|
+<a href="/showcart.asp" class="topNavTopLink">CART</a></nobr></td>
+<td><img src="/images/header/cart.gif" width="20" height="15" alt="" border="0" hspace="2"></td>
 
-<td><span class="topnavTop">0&nbsp;items, $0.00</span>&nbsp;&nbsp;</td></tr>
+<td class="topnavTop"><nobr>0&nbsp;items,
+$0.00&nbsp;</nobr></td></tr>
 </tbody></table>
+</div></div>
 </td>
 </tr>
 <!--//begin dropdown menu//-->
-<tr><form action="/searchItem.asp" method="post" name="hsrch"></form>
+<tr>
+<form action="/searchItem.asp" method="post" name="hsrch"></form>
+<!--form name="hsrch" action="http://exclusivelyweddings.resultspage.com/search" method="GET">
+<input type="hidden" name="p" value="Q" />
+<input type="hidden" name="ts" value="custom" /-->
 <td colspan="4" align="left" class="blue" style="padding:0px; background-color: #11aacc;">
-
-		<table border="0" cellpadding="0" cellspacing="0" summary="search is in this table" align="left" id="searchBox">
-		<tbody><tr>
-		<td class="blue" style="padding:2px 0 0 5px;"><img src="/images/header/search.gif" width="36" height="10" alt="Search"></td>
-		<td width="30" valign="bottom" class="blue" rowspan="2"><input type="image" src="/images/header/go_b.gif" width="23" height="23" border="0" alt="go" name="image"></td>
-	  <td rowspan="2">
-		  <div style="position:relative; top:4px; left:0px; height:36px;">
-		    <div style="position:absolute; top:0px; left:0px;">
-		    <div><div><div style="display:none;"><ul id="imenus0" style="width:615px">
+<table border="0" cellpadding="0" cellspacing="0" summary="search is in this table" align="left" id="searchBox">
+<tbody><tr>
+<td class="blue" style="padding:2px 0 0 5px;">
+<img src="/images/header/search.gif" width="36" height="10" alt="Search"></td>
+<td width="30" valign="bottom" class="blue" rowspan="2">
+<input type="image" src="/images/header/go_b.gif" width="23" height="23" border="0" alt="go" name="image">
+</td>
+<td rowspan="2">
+<div style="position:relative; top:4px; left:0px; height:36px;">
+<div style="position:absolute; top:0px; left:0px;">
+<div><div><div style="display:none;"><ul id="imenus0" style="width:615px">
 <li style="width:60px;"><a href="/Wedding_Invitations_5.html~curPage~1~idCategory~2" title="Wedding Invitations">Wedding<br>Invitations</a>
 
 	<div><div style="width:173px;top:0px;left:-1px;"><ul style="">
 	<li><a href="/Wedding_Invitations_5.html~curPage~1~idCategory~16" title="Wedding Invitations">Wedding Invitations</a>
 	<div><div style="width:155px;top:-19px;left:171px;"><ul style="">
 	<li><a href="/Wedding_Invitations_2.html~idCategory~17" title="View All Invitations">View All Invitations</a></li>
+	<li><a href="/Designed_by_EW_2.html~idCategory~175" title="Designed by EW">Designed by EW</a></li>
 	<li><a href="/Large_Wedding_Invitations_2.html~idCategory~18" title="Large Invitations">Large Invitations</a></li>
 	<li><a href="/Petite_Wedding_Invitations_2.html~idCategory~19" title="Petite Invitations">Petite Invitations</a></li>
 	<li><a href="/Tri-Fold_and_Gate-Fold_Wedding_Invitations_2.html~idCategory~20" title="Tri-Fold and Gate-Fold Styles">Tri-Fold and Gate-Fold Styles</a></li>
@@ -134,7 +233,7 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	</ul></div></div></li>
 
 
-<li style="width:62px;"><a href="/Wedding_Party_Gifts_5.html~curPage~1~idCategory~4" title="Wedding Party Gifts">Wedding<br>Party Gifts</a>
+<li style="width:68px;"><a href="/Wedding_Party_Gifts_5.html~curPage~1~idCategory~4" title="Wedding Party Gifts">Wedding<br>Party Gifts</a>
 
 	<div><div style="width:173px;top:0px;left:-2px;"><ul style="">
 	<li><a href="/Gift_Bags_Cards_2.html~curPage~1~idCategory~49" title="Gift Bags &amp; Cards">Gift Bags &amp; Cards</a></li>
@@ -145,6 +244,9 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	<li><a href="/Bath_and_Body_Product_Gifts_for_Your_Bridesmaids_2.html~idCategory~125" title="Bath &amp; Body Products">Bath &amp; Body Products</a></li>
 	<li><a href="/Bracelets_for_Your_Bridesmaids_2.html~idCategory~52" title="Bracelets">Bracelets</a></li>
 	<li><a href="/Personalized_Gift_Candles_for_Bridesmaids_2.html~idCategory~54" title="Candles">Candles</a></li>
+
+	<li><a href="/Fitness_and_Health_2.html~idCategory~168" title="Fitness and Health">Fitness and Health</a></li>
+
 	<li><a href="/Personalized_Gifts_for_Your_Bridesmaids_Office_2.html~idCategory~57" title="For the Office">For the Office</a></li>
 	<li><a href="/Key_Rings_for_Bridesmaids_2.html~idCategory~55" title="Key Rings">Key Rings</a></li>
 	<li><a href="/Necklaces_for_Bridesmaids_2.html~idCategory~56" title="Necklaces">Necklaces</a></li>
@@ -161,7 +263,7 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	</li>
 	<li><a href="/Groomsmen_Gifts_5.html~curPage~1~idCategory~62" title="Groomsmen Gifts">Groomsmen Gifts</a>
 	<div><div style="width:145px;top:-19px;left:-144px;"><ul style="">
-	<li><a href="/Gifts_and_Accessories_for_Bridesmaids_2.html~idCategory~51" title="View All">View All</a></li>
+	<li><a href="/Gifts_and_Accessories_for_Groomsmen_2.html~idCategory~63" title="View All">View All</a></li>
 	<li><a href="/Barware_Gifts_for_Groomsmen_2.html~idCategory~129" title="Barware">Barware</a></li>
 	<li><a href="/Cigar_Accessories_for_Groomsmen_2.html~idCategory~130" title="Cigar Accessories">Cigar Accessories</a></li>
 	<li><a href="/Clocks_and_Watches_for_Groomsmen_2.html~idCategory~64" title="Clocks and Watches">Clocks and Watches</a></li>
@@ -239,7 +341,7 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	<li><a href="/listHotDealsProducts.asp" title="EW On Sale">EW On Sale</a></li>
 	</ul></div></div></li>
 
-<li style="width:77px;"><a href="/Wedding_Favors_5.html~curPage~1~idCategory~8" title="Wedding Favors">Wedding<br>Guest Favors</a>
+<li style="width:64px;"><a href="/Wedding_Favors_5.html~curPage~1~idCategory~8" title="Wedding Favors">Wedding<br> Favors</a>
 
 	<div><div style="width:173px;top:0px;left:-1px;"><ul style="">
 	<li><a href="/Wedding_Favors_Supplies_5.html~curPage~1~idCategory~97" title="Wedding Favors &amp; Supplies">Wedding Favors &amp; Supplies</a>
@@ -254,14 +356,19 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	<li><a href="/Wedding_Candle_Favors_2.html~idCategory~109" title="Candle Favors">Candle Favors</a></li>
 	<li><a href="/Candy_and_Other_Edibles_for_the_Wedding_Reception_2.html~idCategory~110" title="Candy &amp; Edible Favors">Candy &amp; Edible Favors</a></li>
 	<li><a href="/Do-It-Yourself_Wedding_Favors_and_Supplies_2.html~idCategory~111" title="Do-It-Yourself Favors">Do-It-Yourself Favors</a></li>
-	<li><a href="/Mini_Photo_Favor_Frames_for_Wedding_Gifts_2.html~idCategory~112" title="Mini Photo Frame Favors">Mini Photo Frame Favors</a></li>
+		<li><a href="/Fall_Themed_Favors_2.html~idCategory~172" title="Fall Themed Favors">Fall Themed Favors</a></li>
+		<li><a href="/Mini_Photo_Favor_Frames_for_Wedding_Gifts_2.html~idCategory~112" title="Mini Photo Frame Favors">Mini Photo Frame Favors</a></li>
 	<li><a href="/Personalized_Hershey_Chocolate_Bars_2.html~idCategory~145" title="Personalized Hershey Bars">Personalized Hershey Bars</a></li>
 	<li><a href="/Personalized_Wedding_Mint_Tins_2.html~idCategory~146" title="Personalized Mint Tins">Personalized Mint Tins</a></li>
 	<li><a href="/Wedding_Place_Card_Holders_for_Favors_2.html~idCategory~113" title="Place Card Holders">Place Card Holders</a></li>
 	<li><a href="/Unique_Useful_Wedding_Favors_and_Gifts_2.html~idCategory~116" title="Practical Favors">Practical Favors</a></li>
 	<li><a href="/Favors_for_Your_Wedding_Rehearsal_Dinner_2.html~idCategory~147" title="Rehearsal Dinner Favors">Rehearsal Dinner Favors</a></li>
 	<li><a href="/Ribbon_and_Tags_for_Wedding_Favor_Decoration_2.html~idCategory~114" title="Ribbon &amp; Tags">Ribbon &amp; Tags</a></li>
+	<li><a href="/Spring_Themed_Favors_2.html~idCategory~173" title="Spring Themed Favors">Spring Themed Favors</a></li>
+	<li><a href="/Summer_Themed_Favors_2.html~idCategory~174" title="Summer Themed Favors">Summer Themed Favors</a></li>
 	<li><a href="/Wedding_Favor_Toasting_Flutes_and_Vases_2.html~idCategory~139" title="Toasting Flutes &amp; Vases">Toasting Flutes &amp; Vases</a></li>
+	<li><a href="/Winter_Themed_Favors_2.html~idCategory~171" title="Winter Themed Favors">Winter Themed Favors</a></li>
+	
 	<li><a href="/listHotDealsProducts.asp" title="EW On Sale">EW On Sale</a></li>
 	</ul></div></div>
 		
@@ -274,9 +381,9 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	</ul></div></div></li>
 
 
-<li style="width:58px;"><a href="/Wedding_Memories_5.html~curPage~1~idCategory~9" title="Wedding Memories">Wedding<br>Memories</a>
+<li style="width:62px;"><a href="/Wedding_Memories_5.html~curPage~1~idCategory~9" title="Wedding Memories">Wedding<br>Memories</a>
 
-	<div><div style="width:173px;top:0px;left:-2px;"><ul style="">
+	<div><div style="width:162px;top:0px;left:-2px;"><ul style="">
 	<li><a href="/DVD_Cases_2.html~curPage~1~idCategory~105" title="DVD Cases">DVD Cases</a></li>
 	<li><a href="/Guest_Books_Pens_2.html~curPage~1~idCategory~140" title="Guest Books &amp; Pens">Guest Books &amp; Pens</a></li>
 	<li><a href="/Memory_Books_Scrapbooks_2.html~curPage~1~idCategory~102" title="Memory Books &amp; Scrapbooks">Memory Books &amp; Scrapbooks</a></li>
@@ -286,10 +393,11 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 	<li><a href="/listHotDealsProducts.asp" title="EW On Sale">EW On Sale</a></li>
 	</ul></div></div></li>
 
-<li style="width:68px;"><a href="/Wedding_Colors_and_Wedding_Themes_2.html~idCategory~142" title="Wedding Memories">Colors<br>and Themes</a>
+<li style="width:72px;"><a href="/Wedding_Colors_and_Wedding_Themes_2.html~idCategory~142" title="Wedding Memories">Colors<br>and Themes</a>
 
 	<div><div style="width:70px;top:0px;left:-2px;"><ul style="">
 	<li><a href="/Colors_and_Themes-Beach_2.html~idCategory~149" title="Beach">Beach</a></li>
+	<li><a href="/Colors_and_Themes-Calla_Lilies_2.html~idCategory~170" title="Calla Lilies">Calla Lilies</a></li>
 	<li><a href="/Colors_and_Themes-Color_2.html~idCategory~150" title="Colors">Colors</a>
 	
 	<div><div style="width:166px;top:-20px;left:-166px;"><ul style="">
@@ -305,8 +413,8 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 <li><a href="/Colors_and_Themes-Color-Regal_Reds_2.html~idCategory~165" title="Regal Reds">Regal Reds</a></li>
 	<li><a href="/listHotDealsProducts.asp" title="EW On Sale">EW On Sale</a></li>
 	</ul></div></div>
-	
 	</li>
+	<li><a href="/Colors_and_Themes-Hearts_2.html~idCategory~169" title="Hearts">Hearts</a></li>
 	<li><a href="/Colors_and_Themes-Outdoor_2.html~idCategory~152" title="Outdoor">Outdoor</a></li>
 	<li><a href="/Colors_and_Themes-Seasonal_2.html~idCategory~151" title="Seasonal">Seasonal</a>
 	
@@ -325,21 +433,30 @@ function navigationset(idproduct,idcategory,seq,totrecs,qty,cartrows){
 </ul><div style="clear:left;"></div></div></div></div>
 <script language="javascript" type="text/javascript" src="/includes/cssNav/globalSettings.js"></script>
 <script language="javascript" type="text/javascript" src="/includes/cssNav/navEngine.js"></script>
-		    </div>
-		  </div>
-		</td>
-		</tr>
-		<tr>
-		<td class="blue" style="padding: 0 0 2px 4px;"><input type="text" style="width:115px;" class="searchField" name="strSearch" id="search" maxlength="50" tabindex="1" value="Enter Keyword or Item #" onmouseover="javascript: document.hsrch.strSearch.select();">&nbsp;</td>
+</div>
+</div>
+</td>
 </tr>
-		</tbody></table>
-		
+<tr>
+<td class="blue" style="padding: 0 0 2px 4px;">
+<input type="text" style="width:115px;" class="searchField" name="strSearch" id="search" maxlength="50" tabindex="1" value="Enter Keyword or Item #" onmouseover="javascript: document.hsrch.strSearch.select();">
+<!--input type="text" style="width:115px;" class="searchField" name="w" id="Text1" maxlength="50" tabindex="1" value="Enter Keyword or Item #" onmouseover="javascript: document.hsrch.w.select();"-->
+&nbsp;</td>
+<!--td class="blue" style="padding: 0 0 2px 4px;"><input type="text" style="width:115px;" class="searchField" name="strSearch" id="search" maxlength="50" tabindex="1" value="Enter Keyword or Item #" onmouseover="javascript: document.hsrch.strSearch.select();">&nbsp;</td-->
+</tr>
+</tbody></table>
+
 </td>
 </tr>
 <!--//end of drop down menu//-->
 </tbody></table>
 <!--//end of header table//-->
-<table width="768" border="0" cellspacing="0" cellpadding="0" class="leftShadow" style="padding:0 1px 0 1px;">
+<!-- Display iframe width -->
+  
+<!-- Display standard width -->
+  <table width="768" border="0" cellspacing="0" cellpadding="0" class="leftShadow" style="padding:0 1px 0 1px;">
+  
+<!--table width="768" border="0" cellspacing="0" cellpadding="0" class="leftShadow" style="padding:0 1px 0 1px;"-->
 <tbody><tr valign="top">
 
 <td>
@@ -363,8 +480,8 @@ function out(obj){
 
 function openEmailWin() {
     var emailAddr = document.emailSignupForm.tbEmail.value;
-    var pageVal = "ew_signupForm.asp?emailAddr=" + emailAddr
-    window.open(pageVal, 'EmailSignup', 'width=600,height=358,top=20,left=50,status=0,resizable=1,scrolling=yes,scrollbars=1')
+    var pageVal = "/ew_signupForm.asp?emailAddr=" + emailAddr
+    window.open(pageVal, 'EmailSignup', 'width=600,height=520,top=20,left=50,status=0,resizable=1,scrolling=yes,scrollbars=1')
 }
 </script>
 
@@ -374,16 +491,30 @@ function openEmailWin() {
     <tbody><tr><td><img src="/images/leftnav/topShadowCap.jpg" height="10" width="171" alt=""></td></tr>
     
 
-<!-- EMAIL OFFERS -->
-<tr><td><a href="javascript:newWindow = window.open('/ew_signupForm.asp','SpecialsWindow','menubar=yes,toolbar=no,width=600,height=348,top=20,left=20,status=0,resizable=1,scrolling=yes,scrollbars=1'); newWindow.focus()"><img src="/images/leftnav/emailoffer.jpg" height="25" width="160" alt="Sign Up for Special Offers Via Email" border="0"></a></td></tr>
+<!-- EMAIL OFFERS OLD-->
+<!--tr><td><a href="javascript:newWindow = window.open('/ew_signupForm.asp','SpecialsWindow','menubar=yes,toolbar=no,width=600,height=500,top=20,left=20,status=0,resizable=1,scrolling=yes,scrollbars=1'); newWindow.focus()"><img src="/images/leftnav/emailoffer.jpg" height="25" width="160" alt="Sign Up for Special Offers Via Email" border="0" /></a></td></tr>
 <tr><td class="textnb" style="padding:5px 5px 0px 5px;">Sign up for email offers from Exclusively Weddings.</td></tr>
-<form name="emailSignupForm" method="post"></form>
-<tr><td class="textnb" style="padding:5px 5px 0px 5px;"><input type="text" name="tbEmail" id="tbEmail" class="searchField" style="width:150px;" maxlength="100" value="Enter Email Address &amp; Submit" onmouseover="javascript:this.select();"></td></tr>
-<tr><td style="padding:5px 5px 0px 5px;"><input type="button" name="submitBtn" value="Submit" class="formButton" onclick="openEmailWin();">
+<form name="emailSignupForm" method="post">
+<tr><td class="textnb" style="padding:5px 5px 0px 5px;"><input type="text" name="tbEmail" id="tbEmail" class="searchField" style="width:150px;" maxlength="100" value="Enter Email Address & Submit" onmouseover="javascript:this.select();" /></td></tr>
+<tr><td style="padding:5px 5px 0px 5px;"><input type="button" name="submitBtn" value="Submit" class="formButton" onclick="openEmailWin();" />
 </td></tr>
+</form>
+<tr><td><img src="/images/pixel.gif" height="6" width="1" alt="" /></td></tr-->
+<form name="emailSignupForm" method="post"></form>
+<!-- EMAIL OFFERS -->
+<tr><td>
+  <div style="background:url(/images/leftnav/emailoffer.jpg) no-repeat; width:160px;">
+    <a href="javascript:newWindow = window.open('/ew_signupForm.asp','SpecialsWindow','menubar=yes,toolbar=no,width=600,height=500,top=20,left=20,status=0,resizable=1,scrolling=yes,scrollbars=1'); newWindow.focus()"><img src="/images/pixel.gif" height="37" width="160" alt="Sign Up for Special Offers Via Email" border="0"></a><br>
+    <div style="width:150px; padding:5px 0px 15px 10px;" class="textnb">
+      Sign up for weekly e-mails<br>
+      of new products, e-mail<br>
+      only sales, and more!<br>
+      <input type="text" name="tbEmail" id="tbEmail" value="Enter Email &amp; Click -->" class="searchField" style="width:110px; margin:0 0 8px 0;" maxlength="100" onmouseover="javascript:this.select();">
+      <a href="javascript:openEmailWin();"><img src="/images/leftnav/emailOfferBtn.jpg" name="submitBtn" width="26" height="27" border="0"></a>
+    </div>
+  </div>
+</td></tr> 
 
-<tr><td><img src="/images/pixel.gif" height="6" width="1" alt=""></td></tr>
-  
 <!-- LEFT DYNAMIC NAVIGATION -->
 
     <tr>
@@ -392,6 +523,7 @@ function openEmailWin() {
                 <tbody><tr>
                     <td class="navItemHolderActive">
                         Customer Service<br>
+                        <a href="/emailUsForm.asp" class="navItem">Email Us</a><br>
                         <a href="/ew_about.asp" class="navItem">About Us</a><br>
                         <a href="/contactUs.asp" class="navItem">Contact Us</a><br>
                         <a href="/ew_delivery.asp" class="navItem">Shipping Information</a><br>
@@ -401,7 +533,7 @@ function openEmailWin() {
                         <a href="/ew_testimonials.asp" class="navItem">Customer Feedback</a><br>
                         <a href="/ew_questions.asp" class="navItem">FAQs</a><br>
                         <a href="/ew_requestCatalogForm.asp" class="navItem">Request Free Catalog</a><br>
-                        <!--a href="/orderStatusLogin.asp" class="navItem">Order Status</a><br /-->
+                        <a href="/orderStatusLogin.asp" class="navItem">Order Status</a><br>
                     </td>
                 </tr>
             </tbody></table>
@@ -471,15 +603,15 @@ Eastern Time</p>
 Eastern Time</p>
 
 <p><strong>By Fax:</strong><br>
-Fax your questions or your order to us anytime at <strong>336.275.4165</strong>.  Please include a phone number where we can reach you during business hours.</p>
+Fax your questions or your order to us anytime at <strong>336.389.5105</strong>.  Please include a phone number where we can reach you during business hours.</p>
 
 <p><strong>Email:</strong><br>
 <a href="mailto:service@exclusivelyweddings.com">service@exclusivelyweddings.com</a></p>
 
 <p><strong>Write Us:</strong><br>
 Exclusively Weddings<br>
-1301 Carolina Street<br>
-Greensboro, NC  27401</p>
+2305 Soabar Street<br>
+Greensboro, NC 27406</p>
 
 <br><div class="topLink"><a href="#top">^Back to Top</a><br><br></div>
 <!--//end of content//-->
@@ -498,12 +630,12 @@ Greensboro, NC  27401</p>
         <tbody><tr>
           <td width="10"><img src="/images/footer/homeFooterLeft.jpg" width="10" height="24" alt=""></td>
           <td height="24" align="center" style="padding:0 0 5px 0;">
-            <strong><a href="/ew_about.asp" class="topnav">ABOUT US</a>&nbsp;&nbsp;|
-            &nbsp;&nbsp;<a href="/contactUs.asp" class="topnav">CONTACT US</a>&nbsp;&nbsp;|
-            &nbsp;&nbsp;<a href="/ew_requestCatalogForm.asp" class="topnav">REQUEST FREE CATALOG</a>&nbsp;&nbsp;|
-            &nbsp;&nbsp;<a href="/ew_productplanner.asp" class="topnav">PRODUCT PLANNER</a>&nbsp;&nbsp;|
-            &nbsp;&nbsp;<a href="/ew_security.asp" class="topnav">PRIVACY</a>&nbsp;&nbsp;|
-            &nbsp;&nbsp;<a href="/ew_news.asp" class="topnav">NEWS</a></strong>
+            <strong><a href="http://www.exclusivelyweddings.com/ew_about.asp" class="topnav">ABOUT US</a>&nbsp;&nbsp;|
+            &nbsp;&nbsp;<a href="http://www.exclusivelyweddings.com/contactUs.asp" class="topnav">CONTACT US</a>&nbsp;&nbsp;|
+            &nbsp;&nbsp;<a href="http://www.exclusivelyweddings.com/ew_requestCatalogForm.asp" class="topnav">REQUEST FREE CATALOG</a>&nbsp;&nbsp;|
+            &nbsp;&nbsp;<a href="http://www.exclusivelyweddings.com/ew_productplanner.asp" class="topnav">PRODUCT PLANNER</a>&nbsp;&nbsp;|
+            &nbsp;&nbsp;<a href="http://www.exclusivelyweddings.com/ew_security.asp" class="topnav">PRIVACY</a>&nbsp;&nbsp;|
+            &nbsp;&nbsp;<a href="http://www.exclusivelyweddings.com/ew_news.asp" class="topnav">NEWS</a></strong>
           </td>
           <td width="10" align="right"><img src="/images/footer/homeFooterRight.jpg" width="10" height="24" alt=""></td>
         </tr>
@@ -520,16 +652,15 @@ Greensboro, NC  27401</p>
         </td></tr>
         <tr><td>&nbsp;</td></tr>
         <tr><td colspan="3" align="center">
-          <a class="footerBlueLink" href="/Wedding%20Invitations_5.html~curPage~1~idCategory~2">Wedding Invitations</a>
-          | <a class="footerBlueLink" href="/Bride%27s%20Accessories_5.html~curPage~1~idCategory~3">Brides Accessories</a>
-          | <a class="footerBlueLink" href="/Wedding%20Party%20Gifts_5.html~curPage~1~idCategory~4">Wedding Party Gifts</a>
-          | <a class="footerBlueLink" href="/Wedding%20Ceremony%20Accessories_5.html~curPage~1~idCategory~5">Wedding Ceremony Accessories</a>
-          <br><a class="footerBlueLink" href="/Wedding%20Reception%20Accessories_5.html~curPage~1~idCategory~6">Reception Accessories</a>
-          | <a class="footerBlueLink" href="/Wedding%20Cake%20and%20First%20Toast_5.html~curPage~1~idCategory~7">Cake and First Toast</a>
-          | <a class="footerBlueLink" href="/Wedding%20Guest%20Favors_5.html~curPage~1~idCategory~8">Wedding Guest Favors</a>
-          | <a class="footerBlueLink" href="/Wedding%20Memories_5.html~curPage~1~idCategory~9">Wedding Memories</a>
-					<br><a class="footerBlueLink" href="/Wedding_Colors_and_Wedding_Themes_2.html~idCategory~142">Colors and Themes</a>
-          | <a class="footerBlueLink" href="/sitemap.asp">Site Map</a>
+          <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Invitations_5.html~curPage~1~idCategory~2">Wedding Invitations</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Bride%27s%20Accessories_5.html~curPage~1~idCategory~3">Brides Accessories</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Party%20Gifts_5.html~curPage~1~idCategory~4">Wedding Party Gifts</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Ceremony%20Accessories_5.html~curPage~1~idCategory~5">Wedding Ceremony Accessories</a>
+          <br><a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Reception%20Accessories_5.html~curPage~1~idCategory~6">Reception Accessories</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Cake%20and%20First%20Toast_5.html~curPage~1~idCategory~7">Cake and First Toast</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Guest%20Favors_5.html~curPage~1~idCategory~8">Wedding Guest Favors</a>
+          | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding%20Memories_5.html~curPage~1~idCategory~9">Wedding Memories</a>
+					<br><a class="footerBlueLink" href="http://www.exclusivelyweddings.com/Wedding_Colors_and_Wedding_Themes_2.html~idCategory~142">Colors and Themes</a> | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/listWhatsNew.asp">What's New?</a> | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/messageboards/trans/NewsRpt.asp?type=1&amp;subtype=null">Weekly Wedding Ideas</a> | <a class="footerBlueLink" href="http://www.exclusivelyweddings.com/sitemap.asp">Site Map</a>
         </td></tr>
         <tr><td>&nbsp;</td></tr>
       </tbody></table>
@@ -552,7 +683,8 @@ Greensboro, NC  27401</p>
   <tbody><tr>
     <td width="50"><img src="/images/footer/abc_sm.gif" width="50" height="45" alt="Member, Association of Bridal Consultants"></td>
     <td width="63"><img src="/images/footer/creditCards_sm.gif" width="63" height="45" alt="Mastercard, Visa, American Express, Discover" hspace="2"></td>
-    <td width="90"><a href="http://www.bbbonline.org/cks.asp?id=10207031332124599" target="_blank"><img src="/images/footer/bbbonline_sm.gif" width="90" height="31" border="0" alt="Member of BBB OnLine Reliability Program" title="Link opens in a new window" hspace="2"></a></td>
+    <td width="28"><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=10207031332124599"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/images/footer/bbbonline2.gif" alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accreditation seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a></td>
+    <!--td width="90"><a href="http://www.bbbonline.org/cks.asp?id=10207031332124599" target="_blank"><img src="/images/footer/bbbonline_sm.gif" width="90" height="31" border="0" alt="Member of BBB OnLine Reliability Program" title="Link opens in a new window" hspace="2" /></a></td-->
 
 <td>
 <table width="135" border="0" cellpadding="2" cellspacing="0">
@@ -567,9 +699,9 @@ Greensboro, NC  27401</p>
 
 
     <td valign="middle" align="center" class="text">
-      <a href="/ew_returnsExchange.asp">Order with confidence. See our Return Policy.</a>
+      <a href="http://www.exclusivelyweddings.com/ew_returnsExchange.asp">Order with confidence. See our Return Policy.</a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="/ew_testimonials.asp">Customer Feedback</a><br>
+      <a href="http://www.exclusivelyweddings.com/ew_testimonials.asp">Customer Feedback</a><br>
       <span class="copyrightPadding">Copyright © 2000 - 2007, Exclusively Weddings. All rights reserved.</span>
     </td>
     <td width="54">&nbsp;</td>
