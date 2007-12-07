@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629040443id_/http%3A//www.collab.net/about/legal/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207121508id_/http%3A//www.collab.net/about/legal/pp.html) for the most accurate reproduction.*
 
 # CollabNet - Connect. Collaborate. Innovate.
 
@@ -34,7 +34,7 @@ We may disclose Personal Information to technology partners that may wish to off
 CollabNet may also share Personal Information with government agencies or other third parties where required by or in connection with law enforcement actions, subpoenas or other litigation or applicable law. We may also disclose your Personal Information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
 
 **Opt Out Choice**  
-You may opt out of receiving newsletters and marketing communications from CollabNet in the future by sending an email to [info@collab.net](mailto:info@collab.net). You may also opt out of any disclosures of Personal Information by CollabNet to technology partners and resellers in the future by sending us an email to [info@collab.net](mailto:info@collab.net). These opt out choices do not apply to communications for the purposes of administering order completion, contracts, support, product safety warnings or driver updates, or other comparable activities.
+You may opt out of receiving newsletters and marketing communications from CollabNet in the future by sending an email to [unsubscribe@collab.net](mailto:unsubscribe@collab.net). You may also opt out of any disclosures of Personal Information by CollabNet to technology partners and resellers in the future by sending us an email to [unsubscribe@collab.net](mailto:unsubscribe@collab.net). These opt out choices do not apply to communications for the purposes of administering order completion, contracts, support, product safety warnings or driver updates, or other comparable activities.
 
 **Access and Accuracy**  
 To keep your Personal Information accurate, current, and complete, please contact us as specified in the paragraph below on "Questions or Comments." We will make reasonable efforts to update or correct Personal Information that we maintain in our possession on our own behalf. 
@@ -50,5 +50,3 @@ If you have any questions or comments regarding our Website Privacy Policy, plea
 
 **Effective Date**  
 This Website Privacy Policy is effective as of October 1, 2005. 
-
-Copyright © 2007, CollabNet, Inc. All Rights Reserved.
