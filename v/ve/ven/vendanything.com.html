@@ -1,0 +1,511 @@
+<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2007-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071207230409id_/http%3A//vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en"><head>
+	<base href="http://www.vendanything.com/">
+	<title></title>
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	<script type="text/javascript">
+	var showDateShort = 1;
+	var showDate= 2;
+	var showDateTime= 3;
+	var showTime= 4;
+	function ShowDateTime(dateStyle)
+	{
+	var today = new Date();
+	var dStr = "";
+	switch (dateStyle)
+	{
+	case showDateShort:
+	dStr = today.toDateString();
+	break;
+	case showDateTime:
+	dStr = today.toLocaleString();
+	break;
+	case showTime:
+	dStr = today.toLocaleTimeString();
+	break;
+	case showDate:
+	default:
+	dStr = today.toLocaleDateString();
+	break;
+	}
+	document.write(dStr);
+	}
+	</script>
+	<link href="geostyle.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">
+	<!--
+	function win(fileName) {
+		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300')
+		myFloater.location.href = fileName;
+		
+		if (window.focus) {myFloater.focus()}
+		
+	}
+	function winimage(fileName,width,height) {
+		myFloater = window.open('','myWindow','scrollbars=yes,resizable=yes,status=no,width=' + width + ',height=' + height)
+		myFloater.location.href = fileName;
+	}
+	--></script>
+<style type="text/css">
+<!--
+ .identifier_field { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-style: normal; 
+font-weight: bold; 
+color: #000000; 
+ } 
+
+.main_navigation_1_name { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-style: normal; 
+font-weight: normal; 
+color: #000000; 
+text-decoration: underline; 
+ } 
+
+.main_navigation_1_count { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-style: normal; 
+font-weight: bold; 
+color: #000000; 
+text-decoration: none; 
+ } 
+
+.main_navigation_1_description { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-style: normal; 
+font-weight: normal; 
+color: #cc6600; 
+ } 
+
+.main_navigation_1_subcategories_to { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 12px; 
+font-style: normal; 
+ } 
+
+.main_navigation_1_ad_count { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 10px; 
+font-style: normal; 
+font-weight: normal; 
+color: #ff0000; 
+text-decoration: none; 
+ } 
+
+.main_navigation_1_auction_count { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 10px; 
+font-style: normal; 
+font-weight: normal; 
+color: #0000ff; 
+text-decoration: none; 
+ } 
+
+.main_navigation_1_sub_category_name { 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 10px; 
+font-style: normal; 
+color: #000000; 
+text-decoration: underline; 
+ } 
+
+ -->
+</style>
+
+<script type="text/javascript">
+	var debug = 0;
+	var status = '';
+
+	function createRequestObject() {
+		var ro;
+		var browser = navigator.appName;
+		if(browser == 'Microsoft Internet Explorer'){
+			ro = new ActiveXObject("Microsoft.XMLHTTP");
+		}else{
+			ro = new XMLHttpRequest();
+		}
+		return ro;
+	}
+
+	var http = createRequestObject();
+
+	function sendReq(action, b) {
+		if (b){
+			b = '&amp;b='+b;
+		}
+		if (action=='close'){
+			//use different url for close/cron routines
+			url = 'cron.php?action=cron';
+		} else {
+			//so that page is valid, and ajax still works.
+			url = '?a=ajax&amp;action='+action+b;
+			url = url.replace(/amp;/ig,"");
+		}
+		if(debug) {
+			status += 'URL: '+url+'\n';
+			alert(status);
+		}
+		try {
+			http.open('get', url);
+			if(debug)
+				status += 'Request sent\n\n';
+			http.onreadystatechange = handleResponse;
+			http.send(null);
+		} catch(exception) {
+				if(debug)	alert('exception error is . . . \n\n'+exception);
+			}
+	}
+
+	function handleResponse() {
+		if(http.readyState == 4) {
+      var response = http.responseText;
+      var update = new Array();
+      if(response.indexOf('|') != -1) {
+        update = response.split('|');
+        if(debug) {
+					alert('Debug: \n\t'+status+'\n\nupdate[0] = '+update[0]+'\n\nupdate[1] = '+update[1]);
+					status = '';
+				}
+				if (document.getElementById(update[1]))
+		      document.getElementById(update[1]).innerHTML = update[0];
+		    if (document.getElementById(update[2]))
+		    	document.getElementById(update[2]).innerHTML = update[0];
+		    if (document.getElementById(update[3]))
+		    	document.getElementById(update[3]).innerHTML = update[0];
+		    if (document.getElementById(update[4]))
+		    	document.getElementById(update[4]).innerHTML = update[0];
+			} else if(debug)
+					alert ('Debug: \n\t'+status+'\n\n'+response);
+		}
+	}
+</script>
+	<script type="text/javascript">
+	  	sendReq('close', '');
+	</script>
+</head>
+<body>
+<table class="bodytable">
+	<tbody>
+		<tr>
+			<td><!-- # BEGIN HEADER - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><a href="http://vendanything.com"><img alt="Header Logo" height="130" src="images/logos/vendanythinglogo3web.jpg" width="596"></a>
+ <!-- END HEADER --></td>
+		</tr>
+		<tr>
+			<td><!-- # BEGIN TOP MENU BAR - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; height: 21px; border: 0pt" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; height: 21px; border: 0pt">
+				<tbody>
+					<tr>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="4"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php">Browse</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php?a=19">Search</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php?a=1">Place Your Free Ad NOW!</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php?a=4">My Account</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php?a=28&amp;b=143">Pricing</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn"><a href="index.php?a=28&amp;b=136">Contact Us</a></td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td align="right">
+			<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0pt">
+				<tbody>
+					<tr>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn">
+						<script type="text/javascript">
+						ShowDateTime(showDate)</script>2/24/2020</td>
+						<td class="box_head_1_right">&nbsp;</td>
+						<td><img alt="" height="1" src="images/blank.gif" width="2"></td>
+						<td class="box_head_2_left">&nbsp;</td>
+						<td class="box_head_2_dyn"><a href="register.php">Register</a></td>
+						<td class="box_head_2_right">&nbsp;</td>
+						<td><img alt="" height="1" src="images/blank.gif" width="2"></td>
+						<td class="box_head_2_left">&nbsp;</td>
+						<td class="box_head_2_dyn"><a href="index.php?a=10">Sign In</a></td>
+						<td class="box_head_2_right">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+ <!-- # END TOP MENU BAR --><!-- # BEGIN SUBMENU BAR - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><table cellpadding="0" cellspacing="0" class="submenu" style="margin-bottom: 6px" width="100%">
+	<tbody>
+		<tr>
+			<td style="width: 24px"><img alt="" height="1" src="images/blank.gif" width="24"></td>
+			<td><!--# Submenu Elements Begin-->
+			<table cellpadding="0" cellspacing="0" class="submenu_buttons">
+				<tbody>
+					<tr>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=10">Login</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=137">How it Works</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=135">Seller Features</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=139">Buyer Features</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="register.php">Register</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="javascript:window.external.addFavorite('http://www.vendanything.com','VendAnything.com');">Bookmark Site</a></td>
+						<td><img alt="" src="images/blank.gif" width="20"></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="/" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vendanything.com');">Make Homepage</a></td>
+					</tr>
+				</tbody>
+			</table>
+			<!--# Submenu Elements Begin--></td>
+			<td style="text-align: right">Welcome: <span class="identifier_field">Guest</span><img alt="" height="1" src="images/blank.gif" width="20"> </td>
+		</tr>
+	</tbody>
+</table>
+ <!-- # END SUBMENU BAR --></td>
+		</tr>
+		<tr>
+			<td><!-- MAIN 3 COLUMN BODY TABLE START-->
+			<table class="maintable">
+				<tbody>
+					<tr valign="top">
+						<td class="leftcolumn"><!-- LEFT COLUMN - MAIN TABLE START--><table border="0" cellpadding="0" cellspacing="0" width="190">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn">Quick Search </td>
+						<td class="box_head_1_right">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<form action="index.php?a=19" method="post">
+				<table class="box_content_1" width="100%">
+					<tbody>
+						<tr>
+							<td align="center"><input name="b[search_titles]" type="hidden" value="1"> <input name="b[search_descriptions]" type="hidden" value="1"> <input maxlength="80" name="b[search_text]" size="15" style="border: #000000 1px solid" type="text"> <input class="formbutton" name="submit" type="submit" value="Go"> <br>
+							<a href="index.php?a=19" style="font-size: 12px; font-family: Tahoma">Advanced Search</a> </td>
+						</tr>
+					</tbody>
+				</table>
+			</form>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<!-- # CATEGORIES SECTION BEGIN -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="190">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td class="box_head_1_left">&nbsp;</td>
+						<td class="box_head_1_dyn">Categories</td>
+						<td class="box_head_1_right">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table class="box_content_1" width="100%">
+				<tbody>
+					<tr>
+						<td><table cellpadding="2" cellspacing="1" style="border-style: none; width: 100%;">
+	
+<tbody><tr>
+	<td style="width: 100%;"><a href="index/listings/category255.htm" class="main_navigation_1_name">Aircraft</a><a href="index/listings/category255.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category255.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category12.htm" class="main_navigation_1_name">Announcements </a><a href="index/listings/category12.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category12.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Events, Garage Sales, Lost &amp; Found, etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category11.htm" class="main_navigation_1_name">Antiques </a><a href="index/listings/category11.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category11.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category238.htm" class="main_navigation_1_name">Apparel</a><a href="index/listings/category238.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category238.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Clothing &amp; Accessories</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category161.htm" class="main_navigation_1_name">Arts &amp; Crafts </a><a href="index/listings/category161.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category161.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Arts &amp; Crafts</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category15.htm" class="main_navigation_1_name">Automobiles </a><a href="index/listings/category15.htm" class="main_navigation_1_ad_count">(28)</a><a href="index/listings/category15.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Cars, Trucks, Van, SUV's, etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category176.htm" class="main_navigation_1_name">Books </a><a href="index/listings/category176.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category176.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category13.htm" class="main_navigation_1_name">Business </a><a href="index/listings/category13.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category13.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category177.htm" class="main_navigation_1_name">Cell Phones </a><a href="index/listings/category177.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category177.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category217.htm" class="main_navigation_1_name">Collectibles</a><a href="index/listings/category217.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category217.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Coins, Dolls, Stamps, Etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category218.htm" class="main_navigation_1_name">Commercial Vehicles</a><a href="index/listings/category218.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category218.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Work Trucks, Bobcats, Farm Equipment, Etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category160.htm" class="main_navigation_1_name">Computers &amp; Software</a><a href="index/listings/category160.htm" class="main_navigation_1_ad_count">(5)</a><a href="index/listings/category160.htm" class="main_navigation_1_auction_count">(5)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Computers &amp; Software</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category10.htm" class="main_navigation_1_name">Electronics </a><a href="index/listings/category10.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category10.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category237.htm" class="main_navigation_1_name">Furniture</a><a href="index/listings/category237.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category237.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category179.htm" class="main_navigation_1_name">Gift Certificates </a><a href="index/listings/category179.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category179.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category242.htm" class="main_navigation_1_name">Home Appliances</a><a href="index/listings/category242.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category242.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Washers, Dryers, Stoves, Etc</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category235.htm" class="main_navigation_1_name">Jewelry</a><a href="index/listings/category235.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category235.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Jewelry, Watches, Etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category212.htm" class="main_navigation_1_name">Jobs</a><a href="index/listings/category212.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category212.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Employement Opportunities.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category162.htm" class="main_navigation_1_name">Music &amp; Movies </a><a href="index/listings/category162.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category162.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category247.htm" class="main_navigation_1_name">Musical Instruments</a><a href="index/listings/category247.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category247.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category17.htm" class="main_navigation_1_name">Personals </a><a href="index/listings/category17.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category17.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category216.htm" class="main_navigation_1_name">Pets</a><a href="index/listings/category216.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category216.htm" class="main_navigation_1_auction_count">(1)</a><br><span class="main_navigation_1_description">Dogs, Cats, Birds, Etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category16.htm" class="main_navigation_1_name">Real Estate - Sale</a><a href="index/listings/category16.htm" class="main_navigation_1_ad_count">(10)</a><a href="index/listings/category16.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""><br><span class="main_navigation_1_description">Homes for Sale, Land, Commercial, etc.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category248.htm" class="main_navigation_1_name">Real Estate - Rent</a><a href="index/listings/category248.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category248.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Apartments, Houses, Commercial Leases.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category205.htm" class="main_navigation_1_name">Recreational<br>Vehicles</a><a href="index/listings/category205.htm" class="main_navigation_1_ad_count">(4)</a><a href="index/listings/category205.htm" class="main_navigation_1_auction_count">(1)</a><br><span class="main_navigation_1_description">RV's, Campers, ATV's, Motorcycles, Boats,   Personal Watercraft.</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category14.htm" class="main_navigation_1_name">Rentals </a><a href="index/listings/category14.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category14.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category241.htm" class="main_navigation_1_name">Services</a><a href="index/listings/category241.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category241.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category240.htm" class="main_navigation_1_name">Sporting Goods</a><a href="index/listings/category240.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category240.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Sporting Goods</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category170.htm" class="main_navigation_1_name">Tickets </a><a href="index/listings/category170.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category170.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category254.htm" class="main_navigation_1_name">Tools and Equipment</a><a href="index/listings/category254.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category254.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category239.htm" class="main_navigation_1_name">Toys &amp; Games</a><a href="index/listings/category239.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category239.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Toys and Games</span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category191.htm" class="main_navigation_1_name">Travel</a><a href="index/listings/category191.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category191.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category193.htm" class="main_navigation_1_name">Anything Else</a><a href="index/listings/category193.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category193.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description"></span></td></tr>
+<tr>
+	<td style="width: 100%;"><a href="index/listings/category234.htm" class="main_navigation_1_name">Free Stuff</a><a href="index/listings/category234.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category234.htm" class="main_navigation_1_auction_count">(0)</a><br><span class="main_navigation_1_description">Free Items, Giveaways, Etc.</span></td></tr></tbody></table> </td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- # CATEGORIES SECTION END -->
+ <br>
+						<!-- LEFT COLUMN - MAIN TABLE END--></td>
+						<td class="centercolumn"><!-- CENTER COLUMN - MAIN TABLE START--><p align="center">
+<font size="3"><strong>Privacy Policy</strong></font> 
+</p>
+<div class="p">
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the VendAnything.com website (“VendAnything”) work and to keep it safe (details below). This policy is effective 10/25/2007. 
+</div>
+<br>
+<strong>Collection.</strong> Information posted on VendAnything is obviously publicly available. Our servers are located in the United States. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States. We collect and store the following personal information: 
+<div>
+</div>
+<ul class="bulletindent">
+	<li>email address, physical contact information, and (depending on the service used) sometimes financial information; </li>
+	<li>computer sign-on data, statistics on page views, traffic to and from VendAnything and ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); </li>
+	<li>other information, including users IP address and standard web log information. </li>
+</ul>
+<div class="p">
+<strong>Use.</strong> We use users’ personal information to: 
+</div>
+<ul class="bulletindent">
+	<li>provide our services </li>
+	<li>resolve disputes, collect fees, and troubleshoot problems; </li>
+	<li>encourage safe trading and enforce our policies; </li>
+	<li>customize users’ experience, measure interest in our services, and inform users about services and updates; </li>
+	<li>communicate marketing and promotional offers to you; </li>
+	<li>do other things for users as described when we collect the information. </li>
+</ul>
+<div class="p">
+<strong>Disclosure.</strong> We don’t sell or rent users’ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with: 
+</div>
+<ul class="bulletindent">
+	<li>corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). </li>
+	<li>service providers who help with our business operations. </li>
+</ul>
+<div class="p">
+<strong>Using Information from VendAnything.</strong> You may use personal information gathered from VendAnything only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that. 
+</div>
+<br>
+<strong>Access, Modification, and Deletion.</strong> You can see, modify or erase your personal information by reviewing your posting or my account&nbsp;page. Contact customer support (<a href="mailto:kijiji-com-privacy@kijiji.com"><font color="#000066">customerservice@VendAnything.com</font></a> ) to review any personal information we store that is not available on VendAnything. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
+<div>
+</div>
+<br>
+<strong></strong>
+<div>
+</div>
+<div class="p">
+<strong>Security.</strong> We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees. 
+</div>
+<br>
+<strong>General.</strong> We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a href="mailto:kijiji-com-privacy@kijiji.com"><font color="#000066">customerservice@VendAnything.com</font></a>. 
+<!-- CENTER COLUMN - MAIN TABLE END--></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- MAIN 3 COLUMN BODY TABLE END--></td>
+		</tr>
+		<tr>
+			<td><a href="http://www.adgridwork.com/?r=11511" style="font-size: 14px; color: #7fbe00" target="_blank">Free Advertising</a>
+			<script type="text/javascript">
+			var sid = '11511'; 
+			var title_color = '000000'; 
+			var description_color = '646360'; 
+			var link_color = '7FBE00'; 
+			var background_color = 'FFFFFF'; 
+			var border_color = '646360';</script>
+			<script src="http://www.mediagridwork.com/mx.js" type="text/javascript">
+			</script> </td>
+		</tr>
+		<tr>
+			<td><div class="submenu" style="text-align: center">
+<a class="footer_links" href="index.php">home</a>&nbsp;|&nbsp;<a class="footer_links" href="register.php">register</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=142">about us</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=140">terms &amp; conditions</a>&nbsp;|&nbsp;<a href="index.php?a=28&amp;b=145">privacy</a> | <a class="footer_links" href="index.php?a=28&amp;b=141">help</a> 
+</div>
+<div class="footertext" style="text-align: center">
+©Copyright 2007 <a href="/">www.VendAnything.com</a> All Rights Reserved.<br>
+<img alt="" src="images/a_ccards.gif"><img alt="" src="images/a_paypal.gif"> 
+</div>
+ </td>
+		</tr>
+	</tbody>
+</table>
+
+
+</body></html>
