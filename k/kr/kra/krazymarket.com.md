@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629060807id_/http%3A//www.krazymarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazymarket.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207153630id_/http%3A//krazymarket.com/privacy.php) for the most accurate reproduction.*
 
-# Find the best deals for new and used products, services, and much more!
+# Indonesia's online marketplace! Find the best deals for new and used products, services, and much more!
 
 **Privacy Policy**
 
