@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppyfinder.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509081527id_/http%3A//www.puppyfinder.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppyfinder.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207175232id_/http%3A//www.puppyfinder.com/policy.php) for the most accurate reproduction.*
 
 # Welcome to PuppyFinder.com - The Most Comprehensive Online Resource for Finding and Raising a Puppy!
 
