@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615042754id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207211418id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # Security & Privacy Statement - ZDNet Australia
 
