@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627130324id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207110315id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
 
 # ComingSoon.net - Privacy Statement
 
@@ -34,7 +34,7 @@ This website makes message boards available to its users. Please remember that a
 
 #### Security
 
-This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20070627130324id_/http%3A//www.comingsoon.net/contactinfo.php). 
+This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20071207110315id_/http%3A//www.comingsoon.net/contactinfo.php). 
 
 **Choice/Opt-Out**
 
@@ -42,5 +42,5 @@ Our website provides users with the opportunity to opt-out of receiving communic
 
 ## Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please [contact us](https://web.archive.org/web/20070627130324id_/http%3A//www.comingsoon.net/contactinfo.php).  
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please [contact us](https://web.archive.org/web/20071207110315id_/http%3A//www.comingsoon.net/contactinfo.php).  
 
