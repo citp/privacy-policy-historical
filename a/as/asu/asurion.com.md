@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629060523id_/http%3A//www.asurion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207151500id_/http%3A//www.asurion.com/privacy.html) for the most accurate reproduction.*
 
 # Asurion
 
@@ -82,7 +82,7 @@ Nashville, TN 37211
 
 #### LEGAL NOTICE
 
-© 2006 Asurion. All rights reserved.
+© 2007 Asurion. All rights reserved.
 
 This work is the property of Asurion. It may only be reproduced, disclosed or distributed for non-commercial use with written authorization from Asurion and provided proper trademark and copyright notice shown here is included on all copies. Any unauthorized reproduction, disclosure or distribution of copies by any person of any portion of this work may be a violation of the copyright laws of the United States of America and other countries. 
 
