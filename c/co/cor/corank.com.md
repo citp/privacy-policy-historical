@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corank.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052721id_/http%3A//www.corank.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corank.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207200647id_/http%3A//www.corank.com/legal/privacy.html) for the most accurate reproduction.*
 
 # coRank > Terms of Service > Privacy Policy
 
