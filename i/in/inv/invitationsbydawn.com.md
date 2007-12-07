@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429154523id_/http%3A//www.invitationsbydawn.com/Custom/DawnUS/DD_Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207201525id_/http%3A//www.invitationsbydawn.com/Custom/DawnUS/DD_Privacy.cfm) for the most accurate reproduction.*
 
-# Invitations by Dawn
+# Invitations by Dawn - Unique Theme Wedding Invitations and Accessories
 
 This policy last was updated on July 31, 2002.  
 At InvitationsbyDawn.com, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the data you provide to us.
