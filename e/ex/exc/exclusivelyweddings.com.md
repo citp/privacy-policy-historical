@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629125046id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207173524id_/http%3A//www.exclusivelyweddings.com/ew_security.asp) for the most accurate reproduction.*
 
 # Wedding Favors, Invitations and Accessories from Exclusively Weddings
 
@@ -53,15 +53,15 @@ Eastern Time
 Eastern Time
 
 **By Fax:**  
-Fax your questions or your order to us anytime at **336.275.4165**. Please include a phone number where we can reach you during business hours.
+Fax your questions or your order to us anytime at **336.389.5105**. Please include a phone number where we can reach you during business hours.
 
 **Email:**  
 [service@exclusivelyweddings.com](mailto:service@exclusivelyweddings.com)
 
 **Write Us:**  
 Exclusively Weddings  
-1301 Carolina Street  
-Greensboro, NC 27401
+2305 Soabar Street  
+Greensboro, NC 27406
 
   
 
