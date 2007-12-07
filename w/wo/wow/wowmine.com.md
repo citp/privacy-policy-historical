@@ -1,27 +1,21 @@
-> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616191840id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmine.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208001624id_/http%3A//www.wowmine.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WoWMine - Secured transaction trusted network of chinese farmers who doesn't use macro to farm gold. Information are saved with us.
-
-MEMBER LOGIN  
-LOGIN EMAIL  
-  
-PASSWORD   
-  
-[Register New Account](http://www.wowmine.com/register.php)  
-[Forget Password](http://www.wowmine.com/password_retake.php)
 
 | Game List  
 ---  
 [World of Warcraft US](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=5)  
 [World of Warcraft EU](https://www.wowmine.com/buy-cheap-wholesale-wow-gold.php?serverarea=8)  
+[WoW Power Leveling](http://pl.wowmine.com/power-leveling/index.php)  
 [Final Fantasy XI](http://www.ffmine.com/)  
 [Guild Wars](http://www.gwmine.com/gwmine/en/Orders/OrderForm.htm)  
 [Lineage II](http://www.l2mine.com/l2mine/en/Orders/OrderForm.htm)  
-[Dungeons and Dragons](http://www.ddomine.com/ddomine/en/Orders/OrderForm.htm)  
-[WoW Power Leveling](http://pl.wowmine.com/power-leveling/index.php)  
+[Runescape 2](http://www.rs2mine.com/)  
   
-[](http://www.mmomaven.com/forum/freetour.html)  
-[](https://web.archive.org/web/20070616191840id_/http%3A//best-price-guarantee.php)
+[](http://www.wowma.com/)  
+[](https://web.archive.org/web/20071208001624id_/http%3A//best-price-guarantee.php)
+
+[](http://www.mmomaven.com/)
 
 Privacy Policy
 
@@ -101,7 +95,15 @@ Super Continental US LLC (WoWMine.com)
 
 | 
 
-[](http://server.iad.liveperson.net/hc/47292500/?cmd=file&file=visitorWantsToChat&site=47292500&byhref=1)   
+MEMBER LOGIN  
+LOGIN EMAIL  
+  
+PASSWORD  
+  
+[Register New Account](http://www.wowmine.com/register.php)  
+[Forget Password](http://www.wowmine.com/password_retake.php)
+
+[](http://www.wowmine.com/wowmine-livechat.php)   
 [](http://www.ringcentral.com/)
 
 US TOLL-FREE HOTLINE:  
@@ -112,3 +114,6 @@ Int. Call:
 
 
 [](https://www.scanalert.com/RatingVerify?ref=www.wowmine.com)
+
+|   
+---
