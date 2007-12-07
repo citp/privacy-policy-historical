@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231015323id_/https%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2007-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071207070850id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # PayDotCom.com
 
-| |  PAYDOTCOM
+|  |  PAYDOTCOM
 
  **PAYDOTCOM.COM**
 
  **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20061231015323id_/https%3A//paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20071207070850id_/http%3A//paydotcom.com/terms.php)
 
  ** _Definitions_**
 
