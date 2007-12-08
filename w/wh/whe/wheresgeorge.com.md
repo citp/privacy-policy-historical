@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheresgeorge.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625182624id_/http%3A//www.wheresgeorge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresgeorge.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208155702id_/http%3A//www.wheresgeorge.com/privacy.php) for the most accurate reproduction.*
 
 # Where's George? ® 2.2 Privacy Policy
 
@@ -11,7 +11,7 @@
 |   
 |   
 **#3 User Profiles**  
- | If you register and set up a Personal User Profile, _Where's George?_ and/or _Where's Willy?_ we will not be responsible for any information you provide in your User Profile, as the User Profiles are open to the public. Please be careful with the email address you place in your User Profile or post on the Public Forums, as web crawlers can capture your information from these pages. Also, the staff of _Where's George?_ and/or _Where's Willy?_ will not be responsible for any information posted in someone else's User Profile. If you find something offensive in a User Profile, you can report it to us using the [Contact Us](https://web.archive.org/web/20070625182624id_/http%3A//www.wheresgeorge.com/contact_us.php) page, and we will investigate it.  
+ | If you register and set up a Personal User Profile, _Where's George?_ and/or _Where's Willy?_ we will not be responsible for any information you provide in your User Profile, as the User Profiles are open to the public. Please be careful with the email address you place in your User Profile or post on the Public Forums, as web crawlers can capture your information from these pages. Also, the staff of _Where's George?_ and/or _Where's Willy?_ will not be responsible for any information posted in someone else's User Profile. If you find something offensive in a User Profile, you can report it to us using the [Contact Us](https://web.archive.org/web/20071208155702id_/http%3A//www.wheresgeorge.com/contact_us.php) page, and we will investigate it.  
 |   
 |   
 **#4 Registration**  
