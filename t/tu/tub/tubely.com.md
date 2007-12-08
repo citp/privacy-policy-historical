@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627111102id_/http%3A//dating.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208174655id_/http%3A//dating.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Tubely - 100% Free Online Dating Service
 
