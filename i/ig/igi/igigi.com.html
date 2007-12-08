@@ -1,371 +1,268 @@
-<!--The following is the downloaded HTML source of the igigi.com privacy policy that was archived on 2006-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061021202959id_/http%3A//www.igigi.com/sidepages/main.cfm%3Fpagename%3Dpopups/static/privacy%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igigi.com privacy policy that was archived on 2007-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208011858id_/http%3A//www.igigi.com/sidepages/popups/static/privacy/pagetitle/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<title>Sexy Plus Size Clothing by Igigi: Privacy Policy</title>
-
-
-
+<title>Sexy Plus Size Clothing by Igigi: Privacy-Policy</title>
+<script src="http://www.igigi.com/jquery/jquery-1.2.1.pack.js" language="javascript" type="text/javascript">
+		</script>
 <script type="text/javascript">
-<!--
-pic_width=140;   /*change to match the height of all your images */
-pic_height=510;   /* change to match the width of all your images */
-border_size=0;   /* change to the border size you want on the images */
-alignment=0;      /* 0=left,1=center */
- 
-/* define image urls */
- 
-if (document.images)
- {
-     pic1= new Image(pic_width,pic_height);
-     pic1.src="about/images/vertbanners/about_banner1.jpg";  
-    
-     pic2= new Image(pic_width,pic_height);
-     pic2.src="about/images/vertbanners/about_banner3.jpg";  
-    
-     pic3= new Image(pic_width,pic_height);
-     pic3.src="about/images/vertbanners/about_banner5.jpg";
-	 pic4= new Image(pic_width,pic_height);
-     pic4.src="about/images/vertbanners/about_banner6.jpg"; 
-	 pic5= new Image(pic_width,pic_height);
-     pic5.src="about/images/vertbanners/about_banner7.jpg"; 
- }    
- 
-/* no need to edit past this point (unless you want to add more image slots) */
- 
-if (alignment==1)
- {
-  cent_it="<center>";
-  cent_it2="</center>";
- }
-else
- {
-  cent_it="";
-  cent_it2="";
- }
- 
-function get_random(maxNum)
-{
-  if (Math.random && Math.round)
-  {
-    var ranNum= Math.round(Math.random()*(maxNum-1));
-    ranNum+=1;
-    return ranNum;
-  }
-  else
-  {
-  today= new Date();
-  hours= today.getHours();
-  mins=   today.getMinutes();
-  secn=  today.getSeconds();
-  if (hours==19)
-   hours=18;
-  var ranNum= (((hours+1)*(mins+1)*secn)%maxNum)+1;
-  return ranNum;
-  }
-}
- 
-function get_Image()
-{
- if (document.images)
- {
-  var choose_one= get_random(5);  
-  choose_one--;
- 
-  var pics= new Array(5) 
-   pics[0]=pic1.src;
-   pics[1]=pic2.src;
-   pics[2]=pic3.src;
-   pics[3]=pic4.src;
-   pics[4]=pic5.src; 
- 
-  document.write(cent_it+"<img src='"+pics[choose_one]+"' width='"+pic_width+"' height='"+pic_height+"' border='"+border_size+"'>"+cent_it2);
- }
-}
-//-->
-</script>
+// jQuery
 
-<script language="javascript">
-function menuhighlight(box,action) {
+$(document).ready(function() {
+						   
 
-if (action == 'on')  {
-	box.style.backgroundImage = 'url(/includes/images/toplevel/mainmenu_buts/red1.gif)';
-	}
-else {
-	box.style.backgroundImage = 'none';
-	}
+// show/hide sidemenu - out of commision for time being
+
+
+
+
+
+// path to menu images
+
+var impath = 'https://www.igigi.com/images/newlayout/'
+
+	
+	// top section rollovers
+	$("img.rolltop").mouseover(function() {
+		var newsrc = impath + $(this).attr("id") + '_on.gif';
+		$(this).attr("src",newsrc);
+	 });
+	
+	$("img.rolltop").mouseout(function() {
+		var newsrc = impath + $(this).attr("id") + '_off.gif';
+		$(this).attr("src",newsrc);
+	 });
+	
+	// main menu rollovers - .mainroll class is a td so can't use :hover //
+	$("td.mainroll").hover(
+		function() {
+		$(this).addClass("menuback_on");
+		},
+		function() {
+		$(this).removeClass("menuback_on");
+		});
+	
+	// formfield focus/blur behaviors //
+	$("input.formfield, select.formfield").focus(function() {
+		$(this).css("background-color","#ffffff");
+	});
+	
+	$("input.formfield, select.formfield").blur(function() {
+		$(this).css("background-color","#f6f6f6");
+	});
+	
+	$("input.searchfield").focus(function() {
+		if (this.value != '') {
+			this.value = '';
+		}
+	});
 	
 	
-
-}
-
-
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function searchLaunch() {
-sstr = document.searchform.string.value;
-urlstr = '../ajx_search/igigiSearch_new.cfm?thestring=' + sstr;
-sh = screen.height - 150;
-sw = screen.width - 435;
-props = 'width=425px,height=' + sh + 'px,top=0px,left=' + sw + 'px,scrollbars,resizable'
-window.open(urlstr, 'searchwin', props);
-}
+	
+	// submit button rollovers
+	$("input:submit,input:button").hover(
+		function() {
+		baseclass = $(this).attr("class").split('_')[0] + '_on';
+		$(this).attr("class",baseclass);
+		},
+		function() {
+		baseclass = $(this).attr("class").split('_')[0];
+		$(this).attr("class",baseclass);
+		});
+});
 
 </script>
-
-<link href="http://www.igigi.com/shop/css/main.css" rel="stylesheet" type="text/css">
-<link href="http://www.igigi.com/shop/css/leftmenu.css" rel="stylesheet" type="text/css">
-
+<script type="text/javascript">
+	
+			$(document).ready(function() {
+				$.get('http://www.igigi.com/shop/includes/setjsenabled.cfm');						   
+			});
+		
+</script> 
+<link href="http://www.igigi.com/shop/css/style.css" rel="stylesheet" type="text/css">
 
 </head>
 
-<body>
-
-<table width="792" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td> 
-
-<table width="792" align="left" border="0" cellpadding="0" cellspacing="0" class="body_back">
- <tbody><tr>
-  <td align="left" valign="top"><img src="/includes/images/toplevel/spacer.gif" width="10" height="1" alt=""></td>
-  <td align="left" valign="top">
-   <table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
-    <!-- Begin Global Screen Header -->
-    <tbody><tr>
-      <td align="left" valign="top">
+<body class="maintext mainback">
 
 
+<table width="800" cellpadding="0" cellspacing="0" border="0" align="center">
+	<tbody><tr>
+		<td align="right">
+<table border="0" cellspacing="1" cellpadding="1" align="right" class="maintext">
 
-<!-- HEADER -->
-        <table width="792" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td valign="top"><img src="/includes/images/toplevel/spacer.gif" width="792" height="10" alt=""></td>
-          </tr>
-          <tr>
-            <td valign="top">
-
-
-
-
-              <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td align="left" valign="top" width="140"><a href="http://www.igigi.com/" onmouseover="window.status='Sexy Plus-Size Clothing by IGIGI';  return true;" onmouseout="window.status='';  return true;"><img src="/includes/images/toplevel/logo_140x57.gif" border="0" title="Igigi creates plus size clothing including sexy evening wear and other trendy looks for a modern and confident woman." alt="Igigi creates plus size clothing including sexy evening wear and other trendy looks for a modern and confident woman."></a><br>
-</td>
-				  
-                  <td valign="top"><img src="/includes/images/toplevel/spacer.gif" width="5" height="1" alt=""></td>
-                  <td valign="bottom">
-				  
-					  <a href="javascript:void(0);" onclick="window.open('/sidepages/popups/main.cfm?pagename=forms/catalog_signup.cfm&amp;pagetitle=Sign Up to Receive Our Catalog', 'newWnd', 'width=440 , height=470, resizable=yes, screenX=0, screenY=0, scrollbars=yes')"><img src="/includes/images/toplevel/catalogrequest.gif" border="0"></a>
-				  
-				  </td>
-
-                  <td align="right">                  
-				   <table border="0" cellpadding="0" cellspacing="0" class="p">
-                    <tbody><tr>
-                      <td valign="middle">
-					  <table width="100%" border="0" cellspacing="5" cellpadding="0" class="p">
-					  
-                        <tbody><tr>
-                          <td><a href="javascript:void(0);" class="header_link" onclick="window.open('/sidepages/popups/main.cfm?pagename=forms/emailsign.cfm&amp;pagetitle=Sign IGIGI Email List', 'newWnd', 'width=440 , height=470, resizable=yes, screenX=0, screenY=0, scrollbars=yes')">join our mailing list</a> | </td>
-                          <td><a href="/shop/index.cfm?fuseaction=shopping.basket" class="header_link">shopping bag</a> | </td>
-                          <td><a href="http://www.igigi.com/sidepages/main.cfm?pagename=custserv/index" onmouseover="window.status='Get Customer Service Info'; return true;" onmouseout="window.status=''; return true;" title="Get Customer Service Info" class="header_link">customer service</a> | </td>
-		<td><a href="/shop/index.cfm?fuseaction=users.manager" class="header_link">my account</a></td>
-                        </tr>
-						
-                        <tr>
-                          <td colspan="4" align="right">
-						 
-                            <form name="searchform" onsubmit="searchLaunch(); return false;">
-                             <input type="text" name="string" size="20" onfocus="if(this.value=='Search') {this.value='';}" onblur="if(this.value=='') {this.value='Search';}" value="Search">
-                                    <a href="javascript: void(0);" title="igigi.com Search" class="header_link" onclick="javascript:searchLaunch();">GO &gt;&gt;</a> 
-                            </form>
-                          </td>
-                        </tr>
-                      </tbody></table>
-					  </td>
-                      
-					  
-                    </tr>
-                  </tbody></table></td>
-                </tr>
-            </tbody></table>
-
-
-</td>
-          </tr>
-<!-- high level nav row goes here -->
-<tr>
-<td align="center"><img src="/includes/images/toplevel/spacer.gif" width="1" height="6"></td></tr>
-
-<tr>
-  <td valign="top">
-       <table cellpadding="0" cellspacing="0" border="0" width="100%">
-       <tbody><tr>
-        <td width="33%" align="center" background="/includes/images/toplevel/mainmenu_buts/lifestyle_mainbuts_gradback.jpg" class="topleft_line"><div onmouseover="menuhighlight(this,'on'); this.style.cursor = 'pointer';" onmouseout="menuhighlight(this,'off'); this.style.cursor = 'auto';" onclick="window.location='http://www.igigi.com/shop/'"><a href="http://www.igigi.com/shop/"><img src="/includes/images/toplevel/mainmenu_shop_off.gif" width="100" height="16" border="0" vspace="3"></a></div></td>
-        <td width="33%" align="center" background="/includes/images/toplevel/mainmenu_buts/lifestyle_mainbuts_gradback_off.jpg"><div class="topleft_line" onmouseover="menuhighlight(this,'on'); this.style.cursor = 'pointer';" onmouseout="menuhighlight(this,'off'); this.style.cursor = 'auto';" onclick="window.location='http://www.igigi.com/lifestyle/'"><a href="http://www.igigi.com/lifestyle/"><img src="/includes/images/toplevel/mainmenu_lifestyle_off.gif" width="100" height="16" border="0" vspace="3"></a></div></td>
-        <td width="33%" align="center" background="/includes/images/toplevel/mainmenu_buts/lifestyle_mainbuts_gradback_off.jpg"><div class="topleftright_line" onmouseover="menuhighlight(this,'on'); this.style.cursor = 'pointer';" onmouseout="menuhighlight(this,'off'); this.style.cursor = 'auto';" onclick="window.location='../sidepages/main.cfm?pagename=about/index&amp;pagetitle=none'"><a href="../sidepages/main.cfm?pagename=about/index&amp;pagetitle=none"><img src="/includes/images/toplevel/mainmenu_about_off.gif" width="100" height="16" vspace="3" border="0"></a></div></td>
-       </tr>
-	   
-       </tbody></table>
-   </td>
-</tr>
-
-<!-- end high level nav row -->
-
-
-          <tr>
-            <td align="left" valign="top">
-
-             <table width="100%" border="0" cellspacing="0" cellpadding="0">
-         <!-- <tr>
-           <td colspan="9" align="center"><img src="/includes/images/toplevel/spacer.gif" width="1" height="8"></td>
-         </tr> -->
-         <tbody><tr class="topmenu_back">
-          
-								
-           <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on'); this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off'); this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-New-Arrivals.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-New-Arrivals.html" class="topmenu_link" title="Plus Size Dresses, Tops, Pants, Clothing">New Arrivals</a></div></td>           
-		   
-		   <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on'); this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off'); this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Bridal-Boutique.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Bridal-Boutique.html" class="topmenu_link" title="Plus Size Bridal Dresses, Bridal Wear">Bridal Boutique</a></div></td>
-		   
-		   <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Special-Occasions.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Special-Occasions.html" class="topmenu_link" title="Plus Size Evening Wear">Special Occasions</a></div></td>		   		
-		   
-		   <td align="center"><div class="mbox" id="myshape" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/sidepages/main.cfm?pagename=shopmyshape/index&amp;pagetitle=Welcome to myShape'"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=shopmyshape/index&amp;pagetitle=Welcome to myShape" class="topmenu_link" title="Plus Size Evening Wear">myShape</a></div></td>	
-		      
-           <td align="center"><div class="mbox" id="dresses" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Dresses.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Dresses.html" class="topmenu_link" title="Plus Size Dresses, Plus Size Dress">Dresses</a></div></td>
-		   
-           <td align="center"><div class="mbox" id="tops" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Tops.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Tops.html" class="topmenu_link" title="Plus Size Tops">Tops</a></div></td>
-		   
-           <td align="center"><div class="mbox" id="bottoms" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Bottoms.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Bottoms.html" class="topmenu_link" title="Plus Size Pants, Skirts, Bottoms">Bottoms</a></div></td>
-		     
-		   <td align="center"><div class="mbox" id="all" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-All-Products.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-All-Products.html" class="topmenu_link" title="All Plus Size Clothing Products">All Products</a></div></td>
-		      
-           <td align="center"><div class="mbox" id="sale" onmouseover="menuhighlight(this,'on');this.style.cursor='pointer';" onmouseout="menuhighlight(this,'off');this.style.cursor='auto';" onclick="window.location='http://www.igigi.com/plus-size-clothing/Plus-Size-Sale-Rack.html'"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Sale-Rack.html" class="sale_link" title="Plus Size Sale Clothing">Sale Rack</a></div></td>
-		   
-         </tr>
-        
-        </tbody></table>
-     
-
-
+<tbody><tr>
+	<td colspan="9" align="right"><h1>Sexy, Sophisticated Plus Size Clothing</h1>
 	</td>
 	</tr>
-
-<tr>
-        <td align="center"><img src="/shop/images/spacer.gif" width="1" height="3"></td>
-      </tr>
-
-<tr><td><a href="http://www.igigi.com/sidepages/main.cfm?pagename=general/shippingPromo&amp;pagetitle=Shipping Promotion Details"><img src="/shop/images/banners/holidayShipping.gif" width="792" height="50" vspace="1" border="0"></a></td></tr>
-<tr>
-        <td align="center"><img src="/shop/images/spacer.gif" width="1" height="3"></td>
-      </tr>
-
-</tbody></table>
-
+	
+	<tr valign="bottom">
+		<td><a href="http://www.igigi.com/sidepages/custserv/index.cfm/pagetitle/Welcome-to-Customer-Service" class="topmen">Customer Service</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/shop/index.cfm?fuseaction=shopping.basket" class="topmen">Shopping Bag</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/shop/index.cfm?fuseaction=users.manager" class="topmen">My Account</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/popups/forms/emailsign.cfm/pagetitle/Sign-Up-On-Our-Email-List" class="topmen">Join Our Mailing List</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td>
+		
+		<script type="text/javascript">
+				
+function _lcn_isSecure(){ return location.href.match(/^https/i) == "https";}
+if(typeof(LCNObj) == 'undefined') {var LCNObj = new Object();}
+if(_lcn_isSecure()){LCNObj.url1 = "https://s11.livechatnow.com/";}else{LCNObj.url1 = "http://s11.livechatnow.com/";}
+LCNObj.query = "&img=url&group=General&skin=&survey=&survey_ec=&survey_lm=&rule=&name=&email=&track=";
+LCNObj.open = LCNObj.url1 + "js/enter.php?cid=21472" + LCNObj.query;LCNObj.image = LCNObj.url1 + "img/img.php?id=21472" + LCNObj.query + "&online=http://www.igigi.com/images/chatbuttons/chatbutton_online.gif&back5=http://www.igigi.com/images/chatbuttons/chatbutton_backin5.gif&offline=http://www.igigi.com/images/chatbuttons/chatbutton_offline.gif&t=" + (new Date()).getTime();
+function _cln_enter(){ window.open(LCNObj.open, '_chat_21472', 'resizable=yes,menubar=no,scrollbars=yes, width=500, height=500'); return false;}
+document.write("<a href='"+LCNObj.open+"' onclick='return _cln_enter();'><img src='"+LCNObj.image+"' border='0' /></a>");
+			</script><a href="https://s11.livechatnow.com/js/enter.php?cid=21472&amp;img=url&amp;group=General&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=" onclick="return _cln_enter();"><img src="https://s11.livechatnow.com/img/img.php?id=21472&amp;img=url&amp;group=General&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=&amp;online=http://www.igigi.com/images/chatbuttons/chatbutton_online.gif&amp;back5=http://www.igigi.com/images/chatbuttons/chatbutton_backin5.gif&amp;offline=http://www.igigi.com/images/chatbuttons/chatbutton_offline.gif&amp;t=1580412436542" border="0"></a>
+			
+		
 </td>
-  </tr>
-  <tr>
-    <td><img src="../images/spacer.gif" width="1" height="5"></td>
-  </tr>
-  <tr>
-  	<td class="p">
+	</tr>
 	
-	<a href="http://www.igigi.com/">Home</a>
-	 » Privacy Policy
-	</td>
-  </tr>
-   <tr>
-    <td><img src="../images/spacer.gif" width="1" height="5"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF">
-	
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-	
-	<td bgcolor="#f2f2f2" width="135" valign="top">
-	
-<table width="135" border="0" cellspacing="0" cellpadding="15">
-  <tbody><tr>
-    <td valign="top"><img src="/shop/menu/images/shoptop2.gif" width="130" height="47" border="0"><br>
-     
-      <a href="/plus-size-clothing/Plus-Size-New-Arrivals.html" class="maincat" title="Plus Size New Arrivals">New Arrivals</a><br><br>
-     
-	  <a href="/plus-size-clothing/Plus-Size-Trend-Collections.html" class="maincat" title="Plus Size Trend Collections">Trend Collections</a><br><br>
-	  
-	  <a href="/plus-size-clothing/Plus-Size-Bridal-Boutique.html" class="maincat" title="Plus Size Bridal Wear">Bridal Boutique</a><br>
-	  <a href="/plus-size-clothing/The-Bride.html" class="subcat" title="Plus Size Bridal Wear">The Bride</a><br>
-	  <a href="/plus-size-clothing/Wedding-Party.html" class="subcat" title="Plus Size Bridal Wear">Wedding Party</a><br>
-	  <a href="/plus-size-clothing/Wedding-Guests.html" class="subcat" title="Plus Size Bridal Wear">Wedding Guests</a><p></p>
-	  
-      <p><a href="/plus-size-clothing/Plus-Size-Special-Occasions.html" class="maincat" title="Plus Size Clothing for Special Occasions">Special Occasions</a><br>
-        
-<a href="/plus-size-clothing/Plus-Size-Formal-Gowns.html" class="subcat" title="Plus Size Formal Wear, Formal Dresses">Formal Gowns</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Party-Outfits.html" class="subcat" title="Plus Size Party Outfits">Party Outfits</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Evening-Dresses.html" class="subcat" title="Plus Size Evening Wear, Formal Wear">Evening Dresses</a><br>
-      <a href="/plus-size-clothing/Plus-Size-Nightclub-Wear.html" class="subcat" title="Plus Size Nightclub Outfits">Nightclub Wear</a></p>
-      <p><a href="/plus-size-clothing/Plus-Size-Dresses.html" class="maincat" title="Plus Size Dresses, Plus Size Dress">Dresses</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Black-Dresses.html" class="subcat" title="Plus Size Black Dresses">Black Dresses</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Long-Dresses.html" class="subcat" title="Plus Size Long Dresses">Long Dresses</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Cocktail-Dresses.html" class="subcat" title="Plus Size Cocktail Dresses">Cocktail Dresses</a><br>
-      <a href="/plus-size-clothing/Plus-Size-Casual-Dresses.html" class="subcat" title="Plus Size Casual Dresses">Casual Dresses</a></p>
-      <p><a href="/plus-size-clothing/Plus-Size-Tops.html" class="maincat" title="Plus Size Tops">Tops</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Dressy-Tops.html" class="subcat" title="Dressy Plus Size Tops">Dressy</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Casual-Tops.html" class="subcat" title="Casual Plus Size Tops">Casual</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Longer-Tops.html" class="subcat" title="Longer Plus Size Tops">Longer Tops</a><!-- <br>
-         <a href="/page/100/CTGY/tops_sweaters_3" class="subcat">Sweaters</a><br>
-      <a href="/page/100/CTGY/tops_sporty_3" class="subcat">Sporty</a>-->
-	  </p> 
-      <p><a href="/plus-size-clothing/Plus-Size-Bottoms.html" class="maincat" title="Plus Size Bottoms">Bottoms</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Dressy-Bottoms.html" class="subcat" title="Dressy Plus Size Bottoms">Dressy</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Casual-Bottoms.html" class="subcat" title="Casual Plus Size Bottoms">Casual</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Skirts.html" class="subcat" title="Plus Size Skirts">Skirts</a><br>
-      <a href="/plus-size-clothing/Plus-Size-Pants.html" class="subcat" title="Plus Size Pants">Pants</a></p>
-      <p><a href="/plus-size-clothing/Plus-Size-Cover-Ups.html" class="maincat" title="Plus Size Cover-Ups">Cover-Ups</a><br>
-        <a href="/plus-size-clothing/Plus-Size-Dressy-Cover-Ups.html" class="subcat" title="Dressy Plus Size Cover-Ups">Dressy</a><br>
-      <a href="/plus-size-clothing/Plus-Size-Casual-Cover-Ups.html" class="subcat" title="Casual Plus Size Cover-Ups">Casual</a></p>
-	   <p><a href="/plus-size-clothing/Plus-Size-All-Products.html" class="maincat" title="Plus Size Dresses, Tops, Pants, Cover-Ups">All Products</a></p>
-       <p><a href="/plus-size-clothing/Plus-Size-Sale-Rack.html" class="maincat" style="color:#FF0000" title="Plus Size Sale Clothing">Sale Rack</a></p>
-     
-     
-<p>&nbsp;</p></td>
-  </tr>
 </tbody></table>
 
-	</td>
+
+		</td>
+	</tr>
+	<tr>
+		<td class="whitecell">
+		
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+					<td>
+
+						
+						
+							
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="https://www.igigi.com/images/spacer.gif" height="10" width="1"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="small">
+        	<tbody><tr>
+        		<td valign="bottom"><a href="http://www.igigi.com/" title="IGIGI - Sexy, Sophisticated Plus Size Clothing"><img src="https://www.igigi.com/images/newlayout/igigi_logo_new.gif" hspace="4" border="0" align="bottom"></a>
+				
+				</td>
+				
+        		<td align="right" nowrap="" valign="top">
+					<form name="searchform" action="http://www.igigi.com/shop/index.cfm?fuseaction=search.go" method="post" style="display:inline">
+							<div class="small" style="display:inline">Search </div>
+							
+							<input type="text" name="searchtext" size="20" class="formfield searchfield">
+							<input type="submit" name="sub" value="Go" class="searchbut">
+							</form>
+											</td>
+				
+        		</tr>
+        	</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		
+			
+			<table border="0" cellspacing="0" cellpadding="0" align="right">
+        	<tbody><tr>
+        		<td><a href="http://www.igigi.com/shop/"><img src="https://www.igigi.com/images/newlayout/shopbut_on.gif" border="0" id="shopbut"></a></td>
+        		<td><a href="http://www.igigi.com/lifestyle/"><img src="https://www.igigi.com/images/newlayout/lifestylebut_off.gif" border="0" class="rolltop" id="lifestylebut"></a></td>
+        		<td><a href="http://www.igigi.com/sidepages/shopmyshape/index.cfm/pagetitle/Welcome-to-myShape"><img src="https://www.igigi.com/images/newlayout/myshapebut_off.gif" border="0" class="rolltop" id="myshapebut"></a></td>
+        		<td><a href="http://www.igigi.com/sidepages/about/hist/index/pagetitle/The-IGIGI-Philosophy"><img src="https://www.igigi.com/images/newlayout/aboutbut_off.gif" border="0" class="rolltop" id="aboutbut"></a></td>
+        		</tr>
+        	</tbody></table>
+			
+			</td>
+	</tr>
 	
+	<tr>
+		<td class="topmenucell menuback" align="center">
+			
+			
+		<table border="0" cellpadding="3" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td align="center" class="mainroll" id="t4"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-New-Arrivals-5.html" class="mainmen">New Arrivals</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t73"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-All-Collections-5.html" class="mainmen">Collections</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t39"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Bridal-Boutique-5.html" class="mainmen">Bridal Boutique</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t1"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Dresses-5.html" class="mainmen">Dresses</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t2"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Tops-5.html" class="mainmen">Tops</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t12"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Bottoms-5.html" class="mainmen">Bottoms</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t94"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Accessories-5.html" class="mainmen">Accessories</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t23"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-Sale-Rack-5.html" class="mainmen">Sale Rack</a></td>
+			<td align="center"><img src="http://www.igigi.com/images/spacer.gif" width="8" height="1"></td>
+			<td align="center" class="mainroll" id="t20"><a href="http://www.igigi.com/plus-size-clothing/Plus-Size-All-Products-5.html" class="mainmen">All Products</a></td>
+			
+		</tr>
+		</tbody></table>
 	
-	<td valign="top">
-	<img src="../images/spacer.gif" width="30" height="8">
-	</td>
+		</td>
+	</tr>
 	
-	<td valign="top">
+</tbody></table>
 
 
-	<br><p class="pinkheader">Privacy Policy</p>
-	<br>
-		<a name="top"></a><br>
+						 
+						
+					</td>
+					<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+				</tr>
+				
+				
+
+				
+
+
+
+
+
+
+			
+			<!-- Compress to remove whitespace -->
+		<tr>
+			<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+			<td>
+
+	<table width="100%" cellspacing="1" cellpadding="0">
+		<tbody><tr>
+			<td colspan="2" class="breadcrumbcell" style="padding:4px 0px;">
+				
+	<span class="p">&nbsp; <a href="http://www.igigi.com/">Home</a>
+	
+	
+	</span>
+ 
+			</td>
+  		</tr>
+		
+		<tr>
+			<td width="125">
+			<img src="http://www.igigi.com/sidepages/images/regheads/5.jpg" width="125" height="125"></td>
+			<td class="pagetitle" valign="bottom">
+			Privacy Policy
+			</td>
+  		</tr>
+		<tr>
+			<td valign="top" class="sidepadder_menu">
+				
+					<img src="http://www.igigi.com/images/spacer.gif" height="400" width="1">
+				
+			</td>
+			<td class="sidepadder_main" valign="top">
+			<a name="top"></a><br>
 <table align="center" cellspacing="0" cellpadding="6" border="0" class="p11">
     <tbody><tr>
       <td>
@@ -448,108 +345,110 @@ window.open(urlstr, 'searchwin', props);
         <p><i>(last updated March 2006)</i> </p></td>
     </tr>
 </tbody></table> 
-<br>
-<br>
-<br>
-
-	</td>
-	<td><img src="../images/spacer.gif" width="20" height="8"></td>
+			</td>
 	</tr>
-	
 	</tbody></table>
-	
-	</td>
-  </tr>
-  <tr>
-    <td><img src="/includes/images/toplevel/spacer.gif" width="1" height="8"></td>
-  </tr>
-  <tr>
-    <td>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center">
-	
-<img src="../images/contests/ffbf_sep06/ffbf_sep06_hp_banner.jpg" usemap="#m_ffbf_sep06" border="0">
-<map name="m_ffbf_sep06">
-<area shape="rect" coords="400,0,792,55" href="http://www.igigi.com/sidepages/main.cfm?pagename=general/promotions.cfm&amp;pagetitle=Promotions" alt="Enter Our Contest!">
-<area shape="rect" coords="0,0,396,55" href="http://www.igigi.com/sidepages/main.cfm?pagename=about/modelsearch/modelsearch_form.cfm" alt="Enter the IGIGI National Model Search!">
-</map>
-
-	</td>
-  </tr>
-  <tr>
-  
-    <td><img src="/includes/images/toplevel/spacer.gif" height="5" width="5"></td>
-	
-  </tr>
-  <tr>
-    <td>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	
-      <tbody><tr class="botmenu_back">
-        <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on')" onmouseout="menuhighlight(this,'off')" onclick="window.open('/sidepages/popups/main.cfm?pagename=static/espanol&amp;pagetitle=Igigi En Espanol','newWnd', 'height=500px,width=550px,scrollbars,resizable');"><a onclick="window.open('/sidepages/popups/main.cfm?pagename=static/espanol&amp;pagetitle=Igigi En Espanol','newWnd', 'height=500px,width=550px,scrollbars,resizable');" href="javascript:void(0)" class="topmenu_link">igigi en Español</a></div></td>
-		
-		
-        <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on')" onmouseout="menuhighlight(this,'off')" onclick="window.open('../sidepages/popups/main.cfm?pagename=static/fitinfo&amp;pagetitle=Determining Correct Fit','newWnd', 'resizable=yes,height=500,width=500,scrollbars=yes')"><a onclick="window.open('../sidepages/popups/main.cfm?pagename=static/fitinfo&amp;pagetitle=Determining Correct Fit','newWnd', 'resizable=yes,height=500,width=500,scrollbars=yes')" href="javascript:void(0)" class="topmenu_link">Size Charts</a></div></td>
-        <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on')" onmouseout="menuhighlight(this,'off')" onclick="window.location='http://www.igigi.com/sidepages/main.cfm?pagename=about/cont/index&amp;pagetitle=none';"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=about/cont/index&amp;pagetitle=none" class="topmenu_link">Contact Us</a></div></td>
-        <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on')" onmouseout="menuhighlight(this,'off')" onclick="window.open('/sidepages/popups/main.cfm?pagename=store_loc/store_locator.cfm&amp;pagetitle=Store Locator', 'newWnd', 'width=500 , height=500, resizable=yes, screenX=0, screenY=0, scrollbars=yes')"><a class="topmenu_link" href="javascript:void(0);" onclick="window.open('/sidepages/popups/main.cfm?pagename=store_loc/store_locator.cfm&amp;pagetitle=Store Locator', 'newWnd', 'width=500 , height=500, resizable=yes, screenX=0, screenY=0, scrollbars=yes')">Store Locator</a></div></td>
-        <td align="center"><div class="mbox" onmouseover="menuhighlight(this,'on')" onmouseout="menuhighlight(this,'off')" onclick="window.location='http://www.igigi.com/sidepages/main.cfm?pagename=general/promotions.cfm&amp;pagetitle=Promotions'"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=general/promotions.cfm&amp;pagetitle=Promotions" class="topmenu_link">Promotions</a></div></td>
-      </tr>
-	  
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0" class="p">
-	
-      <tbody><tr>
-        <td valign="top"><img src="/includes/images/toplevel/spacer.gif" height="5" width="5"></td>
-        <td align="center"></td>
-        <td align="right"></td>
-      </tr>
-	  
-      <tr>
-        <td valign="top"><table border="0" cellspacing="0" cellpadding="0" class="p">
-		
-            <tbody><tr>
-              <td rowspan="2" valign="top"><p class="footer_text">
-                  <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-              </p></td>
-              <td valign="top">&nbsp;</td>
-              <td valign="top"><span class="footer_text"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=custserv/payord&amp;pagetitle=Payment/Order Information&amp;an=#PMNT"><img border="0" src="/shop/images/common/credit_cards_image.gif" width="194" height="25"></a></span></td>
-            </tr>
-            <tr>
-              <td valign="top">&nbsp;&nbsp;</td>
-              <td valign="top"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=custserv/shipinf&amp;pagetitle=Shipping Information"><img src="/images/logos/upslogo_footer.gif" width="179" height="30" vspace="3" border="0"></a></td>
-            </tr>
-        </tbody></table></td>
-        <td align="center" valign="top"><span class="footer_text">sales / service:&nbsp;&nbsp;1.888.418.7428<br>
-              <i>or</i>&nbsp;&nbsp;+1.415.692.5658<br>
-              <a href="mailto:service@igigi.com">service@igigi.com</a></span></td>
-        <td align="right" valign="top"><a href="http://www.igigi.com/sidepages/main.cfm?pagename=affiliates/index&amp;pagetitle=Affiliate Program">Affiliate Program</a> | <a href="http://www.igigi.com/sidepages/main.cfm?pagename=wholesale/index.cfm&amp;pagetitle=Wholesale Program">Wholesale Purchasers</a>
-            <p></p>
-            <p class="footer_text"> <a href="http://www.igigi.com/shop/sitemap.cfm">Site Map</a> | <a href="http://www.igigi.com/sidepages/main.cfm?pagename=general/links&amp;pagetitle=Related Links">Links</a> | <a href="http://www.igigi.com/sidepages/main.cfm?pagename=popups/static/privacy&amp;pagetitle=Privacy Policy">Privacy Policy</a></p>
-            <p class="tiny_link">© VFE Inc. All rights reserved, 2006</p>
-			
-			
 
 </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
+			<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+		</tr>
+
+
+
+		<tr>
+			<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+			<td>
+		
+		
+		
+		</td>
+		<td><img src="http://www.igigi.com/images/spacer.gif" width="10" height="1"></td>
+		</tr>
+		</tbody></table> 
+		
+		</td>
+	</tr>
+	<tr>
+		<td>
+		
+			
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="100%" class="maintext wht">
+<tbody><tr>
+		<td colspan="17" align="center"> </td>
+	</tr>
+	
+	<tr>
+		<td colspan="17" align="center"> </td>
+	</tr>
+	<tr>
+		<td><a href="http://www.igigi.com/sidepages/popups/store_loc/store_locator.cfm/pagetitle/Store-Locator" class="topmen">Store Locator</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/popups/static/espanol/pagetitle/IGIGI-En-Español" class="topmen">Igigi en Español</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/wholesale/index.cfm/pagetitle/Wholesale-Accounts" class="topmen">Wholesale Accounts</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/affiliates/index.cfm/pagetitle/Affiliate-Program" class="topmen">Affiliate Program</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/about/cont/index/pagetitle/Contact-Us" class="topmen">Contact Us</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/shop/sitemap.cfm" class="topmen">Site Map</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/general/promotions.cfm/pagetitle/Promotions" class="topmen">Promotions</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/general/links/pagetitle/Related-Links" class="topmen">Links</a></td>
+		<td>&nbsp;&nbsp;&nbsp;</td>
+		<td><a href="http://www.igigi.com/sidepages/popups/static/privacy/pagetitle/Privacy-Policy" class="topmen">Privacy Policy</a></td>
+	</tr>
+	
+	<tr>
+		<td colspan="17" align="center">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="17" align="center" class="footertext_cell"><span style="font-size:13px;">Who Is IGIGI? (ee zhee zhee)</span> <br>
+IGIGI specializes in sexy and sophisticated <a class="topmen" href="http://www.igigi.com/plus-size-clothing/Plus-Size-Dresses.html">plus size dresses</a>, <a class="topmen" href="http://www.igigi.com/plus-size-clothing/Plus-Size-All-Products.html">plus size clothing</a>, <a class="topmen" href="http://www.igigi.com/plus-size-clothing/Plus-Size-Evening-Dresses.html">plus size evening wear</a>, <a class="topmen" href="http://www.igigi.com/plus-size-clothing/Plus-Size-Tops.html">plus size tops</a>, and <a class="topmen" href="http://www.igigi.com/plus-size-clothing/Plus-Size-Bottoms.html">plus size pants and skirts</a>.<br>
+We believe that words like "ample," "opulent," "curvaceous," and "voluptuous" should be mainstays in the fashion dictionary.<br>
+It is important to accentuate and celebrate the beauty and sensuality of the female figure rather than cover it up with piles of fabric.</td>
+	</tr>
+	<tr>
+		<td colspan="17" align="center">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="17" align="center"><a href="http://www.igigi.com/sidepages/custserv/payord/pagetitle/Payment-and-Order -Information"><img border="0" src="https://www.igigi.com/shop/images/common/credit_cards_image.gif" width="194" height="25"></a></td>
+	</tr>
+	<tr>
+		<td colspan="17" align="center"><a href="http://www.igigi.com/sidepages/custserv/shipinf.cfm/pagetitle/Shipping-Information"><img src="https://www.igigi.com/images/logos/upslogo_footer.gif" width="179" height="30" vspace="3" border="0"></a></td>
+	</tr>
+	<tr>
+		<td colspan="17" align="center">
+			<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="17" class="maintext small wht" align="center">©2007 VFE Inc. All rights reserved</td>
+		</tr>
+	
 </tbody></table>
 
-
-
- </td>
-  </tr>
+		
+		</td>
+	</tr>
 </tbody></table>
+	
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-611335-1";
-urchinTracker();
-</script>
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-611335-1";
+	_utimeout="3600";
+	urchinTracker();
+	</script>
 
 
-</td></tr></tbody></table></td></tr></tbody></table></body></html>
+
+
+
+
+
+
+
+		</body></html>
