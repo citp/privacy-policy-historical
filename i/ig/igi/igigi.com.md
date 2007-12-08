@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021202959id_/http%3A//www.igigi.com/sidepages/main.cfm%3Fpagename%3Dpopups/static/privacy%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208011858id_/http%3A//www.igigi.com/sidepages/popups/static/privacy/pagetitle/Privacy-Policy) for the most accurate reproduction.*
 
-# Sexy Plus Size Clothing by Igigi: Privacy Policy
+# Sexy Plus Size Clothing by Igigi: Privacy-Policy
 
-|  |  |   
+|   
 ---  
-[Home](http://www.igigi.com/) » Privacy Policy   
-|  |  | 
-
-Privacy Policy
-
-  
-  
+[Customer Service](http://www.igigi.com/sidepages/custserv/index.cfm/pagetitle/Welcome-to-Customer-Service) |     | [Shopping Bag](http://www.igigi.com/shop/index.cfm?fuseaction=shopping.basket) |     | [My Account](http://www.igigi.com/shop/index.cfm?fuseaction=users.manager) |     | [Join Our Mailing List](http://www.igigi.com/sidepages/popups/forms/emailsign.cfm/pagetitle/Sign-Up-On-Our-Email-List) |     |  [](https://s11.livechatnow.com/js/enter.php?cid=21472&img=url&group=General&skin=&survey=&survey_ec=&survey_lm=&rule=&name=&email=&track=)  
+|  |  |   
+---|---|---  
+|  |    [Home](http://www.igigi.com/)  
+---  
+|  Privacy Policy   
+|    
 |  This Web site (this "Site") is operated by IGIGI, Inc. We recognize that privacy is a major concern for our customers (“customers”) and we respect your privacy. This Privacy Policy is to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at [Customer Service](http://www.igigi.com/about/cont/). If elements of our Privacy Policy change, we will post them here. This Privacy Policy applies to all information obtained through this Site.  
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policy#top)  
 ---  
@@ -64,4 +64,18 @@ The Site contains links to other sites that are not under our control nor covere
 
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policy#top)
 
- _(last updated March 2006)_
+ _(last updated March 2006)_  
+  
+|  |   
+|   
+---  
+[Store Locator](http://www.igigi.com/sidepages/popups/store_loc/store_locator.cfm/pagetitle/Store-Locator) |     | [Igigi en Español](http://www.igigi.com/sidepages/popups/static/espanol/pagetitle/IGIGI-En-Espa%C3%B1ol) |     | [Wholesale Accounts](http://www.igigi.com/sidepages/wholesale/index.cfm/pagetitle/Wholesale-Accounts) |     | [Affiliate Program](http://www.igigi.com/sidepages/affiliates/index.cfm/pagetitle/Affiliate-Program) |     | [Contact Us](http://www.igigi.com/sidepages/about/cont/index/pagetitle/Contact-Us) |     | [Site Map](http://www.igigi.com/shop/sitemap.cfm) |     | [Promotions](http://www.igigi.com/sidepages/general/promotions.cfm/pagetitle/Promotions) |     | [Links](http://www.igigi.com/sidepages/general/links/pagetitle/Related-Links) |     | [Privacy Policy](http://www.igigi.com/sidepages/popups/static/privacy/pagetitle/Privacy-Policy)  
+   
+Who Is IGIGI? (ee zhee zhee)   
+IGIGI specializes in sexy and sophisticated [plus size dresses](http://www.igigi.com/plus-size-clothing/Plus-Size-Dresses.html), [plus size clothing](http://www.igigi.com/plus-size-clothing/Plus-Size-All-Products.html), [plus size evening wear](http://www.igigi.com/plus-size-clothing/Plus-Size-Evening-Dresses.html), [plus size tops](http://www.igigi.com/plus-size-clothing/Plus-Size-Tops.html), and [plus size pants and skirts](http://www.igigi.com/plus-size-clothing/Plus-Size-Bottoms.html).  
+We believe that words like "ample," "opulent," "curvaceous," and "voluptuous" should be mainstays in the fashion dictionary.  
+It is important to accentuate and celebrate the beauty and sensuality of the female figure rather than cover it up with piles of fabric.  
+   
+[](http://www.igigi.com/sidepages/custserv/payord/pagetitle/Payment-and-Order%20-Information)  
+[](http://www.igigi.com/sidepages/custserv/shipinf.cfm/pagetitle/Shipping-Information)  
+©2007 VFE Inc. All rights reserved
