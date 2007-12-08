@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506090208id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208045002id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
 
 # trig.com - Legal :: Privacy
 
