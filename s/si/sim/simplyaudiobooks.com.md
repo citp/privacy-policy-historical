@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321102850id_/http%3A//simplyaudiobooks.com/Privacy_Policy/dp/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208171306id_/http%3A//www.simplyaudiobooks.com/Privacy_Policy/dp/33) for the most accurate reproduction.*
 
 # Simply Audiobooks - Privacy Policy
 
@@ -8,7 +8,7 @@ This policy may change, so please refer back to it periodically. If you use any 
 
 ### Background
 
-We use your email address to inform you of membership and shipment details. We may also send you newsletters, promotional announcements and consumer surveys. You can [unsubscribe](http://simplyaudiobooks.com//lp_unsubscribe/dp/34/) from these messages here. Occasionally, we send our customers postal mail, using the shipping address provided.
+We use your email address to inform you of membership and shipment details. We may also send you newsletters, promotional announcements and consumer surveys. You can [unsubscribe](http://www.simplyaudiobooks.com//lp_unsubscribe/dp/34/) from these messages here. Occasionally, we send our customers postal mail, using the shipping address provided.
 
 ### Use of Information
 
