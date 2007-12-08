@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516011752id_/http%3A//www.jobsinghana.com/home/%3Fview%3D7%26PHPSESSID%3D876f9645f7761ce2ea6f1f894b5d3e9c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinghana.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208024938id_/http%3A//www.jobsinghana.com/home/%3Fview%3D7) for the most accurate reproduction.*
 
-# Jobs In Ghana - Ghana's Leading Recruitment Site
+# Jobs In Ghana - Ghana's Leading Recruitment Site. Right Candidates, Real Jobs
 
 Privacy Policy
 
