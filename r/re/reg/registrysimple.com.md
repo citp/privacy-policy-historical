@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618231826id_/http%3A//www.registrysimple.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208121445id_/http%3A//www.registrysimple.com/privacy.php) for the most accurate reproduction.*
 
 # RegistrySimple: Privacy Policy
 
