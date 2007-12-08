@@ -1,15 +1,21 @@
-<!--The following is the downloaded HTML source of the crayola.com privacy policy that was archived on 2007-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070220100317id_/http%3A//crayola.com/registration/privacy_policy.cfm%3Fmt%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crayola.com privacy policy that was archived on 2007-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208022235id_/http%3A//www.crayola.com/registration/privacy_policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><script language="javascript">
-	var clean_url = "www.crayola.com/registration/privacy_policy.cfm?mt=privacy";
+	var clean_url = "www.crayola.com/registration/privacy_policy.cfm";
 </script> 
 
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<!--[if lt IE 7.]>
+		<script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+	<![endif]-->
 	<title>Crayola.com Privacy Policy</title>
 	<meta http-equiv="keywords" content="">
-	<meta http-equiv="description" content="">	
+	<meta http-equiv="description" content="">
+    
+    <meta name="robots" content="noodp">
+    <meta name="robots" content="noydir">
 	<script language="JavaScript" src="http://a62.g.akamai.net/7/62/10424/65830af7ab4146/www.crayola.com/javascript/swapandpop.js"></script>
 	<link rel="stylesheet" href="/templates/stylesheets/crayola.css" type="text/css">
 	
@@ -19,218 +25,33 @@
 	
 	
 	
-	
 	<link rel="stylesheet" href="/templates/stylesheets/1_column.css" type="text/css">
 
 	
+		
 	
+	<script src="http://a62.g.akamai.net/7/62/10424/95a640aec70dc9/www.crayola.com/javascript/AC_OETags.js" language="javascript"></script>
 	<script language="JavaScript" type="text/javascript">
+		<!--
 		// System globals
 		var actualVersion = 0;          // version the user really has
-		var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-	</script>
+		var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page		
+		// -----------------------------------------------------------------------------
+		// Globals
+		// Major version of Flash required
+		var requiredMajorVersion = 6;
+		// Minor version of Flash required
+		var requiredMinorVersion = 0;
+		// Minor version of Flash required
+		var requiredRevision = 0;
+		
+		hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+		
+		// -----------------------------------------------------------------------------
+		// -->
+		</script>
+	
 
-
-
-
-
-	
-	
-		<title>Crayola.com Privacy Policy</title>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="stylesheet" href="/stylesheets/crayola.css" type="text/css">
-
-	<script language="JavaScript" type="text/javascript">
-	<!--
-	// moock fpi [f.lash p.layer i.nspector]
-	// version: 1.3.6
-	// written by colin moock
-	// code maintained at: http://www.moock.org/webdesign/flash/detection/moockfpi/
-	// terms of use posted at: http://www.moock.org/terms/
-
-	
-	// #############################################
-	// These are the user defined globals.
-	// Modify the following variables to customize the inspection behaviour.
-	
-	var requiredVersion = 6;   // Version the user needs to view site (max 9, min 2)
-	var useRedirect = false;    // Flag indicating whether or not to load a separate
-							   // page based on detection results. Set to true to
-							   // load a separate page. Set to false to embed the
-							   // movie or alternate html directly into this page.
-							   
-	// Only set next three vars if useRedirect is true...
-	var flashPage = ""      // The location of the flash movie page
-	var noFlashPage = ""  // Page displayed if the user doesn't have the
-									  // plugin or we can't detect it.
-	var upgradePage = ""  // Page displayed if we detect an old plugin
-	// #############################################
-	
-	// *************
-	// Everything below this point is internal until after the BODY tag.
-	// Do not modify! Proceed to the BODY tag for further instructions.
-	// *************
-	
-	// System globals
-	var flash2Installed = false;    // boolean. true if flash 2 is installed
-	var flash3Installed = false;    // boolean. true if flash 3 is installed
-	var flash4Installed = false;    // boolean. true if flash 4 is installed
-	var flash5Installed = false;    // boolean. true if flash 5 is installed
-	var flash6Installed = false;    // boolean. true if flash 6 is installed
-	var flash7Installed = false;    // boolean. true if flash 7 is installed
-	var flash8Installed = false;    // boolean. true if flash 8 is installed
-	var flash9Installed = false;    // boolean. true if flash 9 is installed
-	var maxVersion = 9;             // highest version we can actually detect
-	var actualVersion = 0;          // version the user really has
-	var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-	var jsVersion = 1.0;            // the version of javascript supported
-	
-	// -->
-	</script>
-	
-	<script langauge="JavaScript1.1" type="text/javascript">
-	<!--
-	
-	// Check the browser...we're looking for ie/win, but not aol
-	var isAOL = (navigator.appVersion.indexOf("AOL") != -1) ? true : false;
-	var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-	var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false; // true if we're on windows
-	
-	
-	// This is a js1.1 code block, so make note that js1.1 is supported.
-	jsVersion = 1.1;
-	
-	// Write vbscript detection on ie win. IE on Windows doesn't support regular
-	// JavaScript plugins array detection.
-	if(isIE && isWin && !isAOL){
-	  document.write('<scr' + 'ipt language=VBScript\> \n');
-	  document.write('on error resume next \n');
-	  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-	  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-	  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-	  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-	  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
-	  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
-	  document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
-	  document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');
-	  document.write('<\/scr' + 'ipt\> \n'); // break up end tag so it doesn't end our script
-	}
-	// -->
-	</script>
-	
-	<script language="JavaScript" type="text/javascript">
-	<!--
-	
-	// Next comes the standard javascript detection that uses the 
-	// navigator.plugins array. We pack the detector into a function so that 
-	// it preloads before being run.
-	
-	function detectFlash() {  
-	  // If navigator.plugins exists...
-	  if (navigator.plugins) {
-		// ...then check for flash 2 or flash 3+.
-		if (navigator.plugins["Shockwave Flash 2.0"]
-			|| navigator.plugins["Shockwave Flash"]) {
-	
-		  // Some version of Flash was found. Time to figure out which.
-		  
-		  // Set convenient references to flash 2 and the plugin description.
-		  var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-		  var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-	
-		  // DEBUGGING: uncomment next line to see the actual description.
-		  // alert("Flash plugin description: " + flashDescription);
-		  
-		  // A flash plugin-description looks like this: Shockwave Flash 4.0 r5
-		  // We can get the major version by grabbing the character before the period
-		  // note that we don't bother with minor version detection. 
-		  // Do that in your movie with $version or getVersion().
-		  var flashVersion = parseInt(flashDescription.substring(16));
-	
-		  // We found the version, now set appropriate version flags. Make sure
-		  // to use >= on the highest version so we don't prevent future version
-		  // users from entering the site.
-		  flash2Installed = flashVersion == 2;    
-		  flash3Installed = flashVersion == 3;
-		  flash4Installed = flashVersion == 4;
-		  flash5Installed = flashVersion == 5;
-		  flash6Installed = flashVersion == 6;
-		  flash7Installed = flashVersion == 7;
-		  flash8Installed = flashVersion == 8;
-		  flash9Installed = flashVersion >= 9;
-		}
-	  }
-	  
-	  // Loop through all versions we're checking, and
-	  // set actualVersion to highest detected version.
-	  for (var i = 2; i <= maxVersion; i++) {  
-		if (eval("flash" + i + "Installed") == true) actualVersion = i;
-	  }
-	  
-	  // If we're on msntv (formerly webtv), the version supported is 4 (as of
-	  // January 1, 2004). Note that we don't bother sniffing varieties
-	  // of msntv. You could if you were sadistic...
-	  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 4;  
-	  
-	  // DEBUGGING: uncomment next line to display flash version
-	  // alert("version detected: " + actualVersion);
-	
-	
-	  // We're finished getting the version on all browsers that support detection.
-	  // Time to take the appropriate action.
-	
-	  // If the user has a new enough version...
-	  if (actualVersion >= requiredVersion) {
-		// ...then we'll redirect them to the flash page, unless we've
-		// been told not to redirect.
-		if (useRedirect) {
-		  // Need javascript1.1 to do location.replace
-		  if(jsVersion > 1.0) {
-			// It's safe to use replace(). Good...we won't break the back button.
-			window.location.replace(flashPage);  
-		  } else {
-			// JavaScript version is too old, so use .location to load
-			// the flash page.
-			window.location = flashPage;
-		  }
-		}
-	
-		// If we got here, we didn't redirect. So we make a note that we should
-		// write out the object/embed tags later.
-		hasRightVersion = true;                
-	  } else {  
-		// The user doesn't have a new enough version.
-		// If the redirection option is on, load the appropriate alternate page.
-		if (useRedirect) {
-		  // Do the same .replace() call only if js1.1+ is available.
-		  if(jsVersion > 1.0) {
-			window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
-		  } else {
-			window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
-		  }
-		}
-	  }
-	}
-	
-	
-	
-	
-	
-	detectFlash();  // call our detector now that it's safely loaded.  
-	
-	  
-	// -->
-	</script>
-	
-	
-	
-	
-	
-	
-	
-	<script language="javascript" src="http://a62.g.akamai.net/7/62/10424/65830af7ab4146/www.crayola.com/javascript/swapandpop.js"></script>
-	
 	
 	<script language="JavaScript" type="TEXT/JAVASCRIPT">
 	<!--
@@ -244,30 +65,48 @@
 	}
 	//-->
 	</script>
-
-
+	
+		
 	
 	
 	
 	
 	
+	
+	
 
-
-
-<script language="JavaScript" type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
+    function  _CF_checksearch(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-function  _CF_checksearch(_CF_this)
-{
-	return true;
-}
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
 //-->
 </script>
-
 </head>
 
 
@@ -283,11 +122,13 @@ function  _CF_checksearch(_CF_this)
 
 
 
-	<div id="banner">
 	<div id="banner_wrapper">
+	</div>
+	
+	<div id="banner">
 		<!-- logo --->
 		<div id="crayola_logo">		
-			<a href="/index.cfm" title="Go to Crayola.com Home"></a>
+			<a href="/" title="Go to Crayola.com Home"></a>
 			<h1>Crayola</h1>
 		</div>		
 		<!-- end logo-->
@@ -296,20 +137,21 @@ function  _CF_checksearch(_CF_this)
 		<div class="search">
 			<!--<a class="advanced" href="">advanced</a>-->
 			<div class="search_wrapper">
-			<form name="search" action="/search/results.cfm?mt=search" method="POST" onsubmit="return _CF_checksearch(this)"> 				
+			<form name="search" action="/search/results.cfm" method="get" onsubmit="return _CF_checksearch(this)">				
 					<input class="keyword_bg" name="keywords" type="text" alt="Search" value="Search" onfocus="ClearSearchText();">								
 					
 			
 			</form></div>
 			<input type="image" class="search_btn" src="http://a62.g.akamai.net/7/62/10424/ab52585974a567/www.crayola.com/templates/images/searchbutton.gif" value="Submit" alt="Submit">				
-			 	
+			
+	
 			
 		</div>
 	  <!-- end search-->
 	  
 		<!-- customer service button --->
 		<div class="cust_sup_btn">
-			<a href="/canwehelp/index.cfm?mt=customersupport"><img src="http://a62.g.akamai.net/7/62/10424/7909948d9732c4/www.crayola.com/templates/images/customer_sup.gif"></a>		
+			<a href="/canwehelp/index.cfm"><img src="http://a62.g.akamai.net/7/62/10424/7909948d9732c4/www.crayola.com/templates/images/customer_sup.gif"></a>		
 		</div>	
 		
 		<!-- end customer service button-->
@@ -318,435 +160,31 @@ function  _CF_checksearch(_CF_this)
 	
 	 	 
 	 
+	
+	
+
 		
+			
 		<!-- login: not logged in -->  
 		<div class="login">
 			<div class="user">
-			<div class="greeting_reg"><a href="https://www.crayola.com/registration/index.cfm?mt=register&amp;referer=%2Fregistration%2Fprivacy%5Fpolicy%2Ecfm%3Fmt%3Dprivacy">Register for FREE!</a></div>
-			<div class="greetingSpecial" style="font-size:9px">Join the Crayola® community today.</div>		
+			<div class="greeting_reg"><a href="http://www.crayola.com/registration/index.cfm?referer=%2Fregistration%2Fprivacy%5Fpolicy%2Ecfm">Register for FREE!</a></div>
+			<div class="greetingSpecial" style="font-size:9px">Join the Crayola community today.</div>		
 			</div>			
-			<div class="login_btn"><a href="https://www.crayola.com/registration/login.cfm?mt=login&amp;referer=%2Fregistration%2Fprivacy%5Fpolicy%2Ecfm%3Fmt%3Dprivacy"><img src="http://a62.g.akamai.net/7/62/10424/e5102aee5b5d7c/www.crayola.com/templates/images/login_btn.gif"></a></div>	
+			<div class="login_btn"><a href="https://www.crayola.com/registration/login.cfm?referer=%2Fregistration%2Fprivacy%5Fpolicy%2Ecfm"><img src="http://a62.g.akamai.net/7/62/10424/e5102aee5b5d7c/www.crayola.com/templates/images/login_btn.gif"></a></div>	
 		</div>	  
 	
 	<!-- end login-->
 	  
 	  
-	</div>
+
 	</div>
 		
 		
 
 		
 		<div id="main">				
-			 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 				
-		
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-				
-		
-		
-		
-		
-		
-		
-		
-			
-					
-						
-				
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-				
-		
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-		
-			
-						
-			
-			
-						
-			
-			
-				
-		
-		
-			
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-			
-		
-		
-		
-				
-				
-			
-			
-			
-							
-			
-			
-		
-		
-		
-		
-		
-			
-			
-			
-			
-		
-			
-			
-			
-		
-			
-		
-		
-	
-		
-		
-		
-			
 		<style type="text/css" media="screen">
 			.content{ text-align:left; width:550px; }
 			.content p{ margin-bottom:20px; }
@@ -928,27 +366,51 @@ function  _CF_checksearch(_CF_this)
 			<ul>			
 			
 								
-				<li class="coloringCraft"><a href="/coloringcraft/index.cfm?n_id=1&amp;mt=coloringandcrafts" class="coloringCraft"><span>Coloring Craft</span></a></li>
+				<li class="coloringPages"><a href="/free-coloring-pages/" class="coloringPages"><span></span>
+                
+                </a></li>
 				
 				
 									
-				<li class="games"><a href="/gamesfun/index.cfm?n_id=2&amp;mt=games" class="games"><span>Games Fun</span></a></li>
+				<li class="crafts"><a href="/crafts/" class="crafts"><span></span>
+                
+                </a></li>
 				
 				
 									
-				<li class="products"><a href="/canwehelp/products/index.cfm?n_id=3&amp;mt=products" class="products"><span>Products</span></a></li>
+				<li class="games"><a href="/gamesfun/index.cfm?n_id=2" class="games"><span></span>
+                
+                </a></li>
 				
 				
 									
-				<li class="educators"><a href="/educators/index.cfm?n_id=5&amp;mt=educators" class="educators"><span>For Educators</span></a></li>
+				<li class="products"><a href="/products/index.cfm?n_id=3" class="products"><span></span>
+                
+                </a></li>
 				
 				
 									
-				<li class="parents"><a href="/parents/index.cfm?n_id=4&amp;mt=parents" class="parents"><span>For Parents</span></a></li>
+				<li class="educators"><a href="/educators/index.cfm?n_id=5" class="educators"><span></span>
+                
+                </a></li>
 				
 				
 									
-				<li class="about"><a href="/about/index.cfm?n_id=6&amp;mt=about" class="about"><span>About Crayola</span></a></li>
+				<li class="parents"><a href="/parents/index.cfm?n_id=4" class="parents"><span></span>
+                
+                </a></li>
+				
+				
+									
+				<li class="customerSupport"><a href="/canwehelp/index.cfm?n_id=48" class="customerSupport"><span></span>
+                
+                </a></li>
+				
+				
+									
+				<li class="about"><a href="/about/index.cfm?n_id=6" class="about"><span></span>
+                
+                </a></li>
 				
 				
 					
@@ -958,48 +420,65 @@ function  _CF_checksearch(_CF_this)
 	
 		<!-- coloring app -->
 		<div id="coloringApp">
-	
-		<script language="JavaScript" type="text/javascript">
-		<!-- 
-		if(actualVersion > 7) {
-			var oeTags = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
-			+ 'width="168" height="65"'
-			+ 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
-			+ '<param name="movie" value="/templates/images/nav_ColorApp.swf" />'
-			+ '<param name="quality" value="high" />'
-			+ '<param name="flashVars" value="referrer=/registration/privacy_policy.cfm" />'			
-			+ '<embed src="/templates/images/nav_ColorApp.swf" quality="high" '
-			+ 'flashVars="referrer=/registration/privacy_policy.cfm" '
-			+ 'width="168" height="65" '
-			+ 'play="true" '	
-			+ 'loop="true" '
-			+ 'allowScriptAccess="sameDomain" '
-			+ 'type="application/x-shockwave-flash" '
-			+ 'pluginspage="http://www.macromedia.com/go/getflashplayer">'
-			+ '<\/embed>'
-			+ '<\/object>';
-			document.write(oeTags);   // embed the flash movie
-		  } else {  // flash is too old or we can't detect the plugin
-			var alternateContent = '<a href="/coloring_application/index.cfm?mt=digicolor&referrer=/registration/privacy_policy.cfm"><img src="/templates/images/nav_colorApp.gif" width="168" height="65" /></a>';
-			document.write(alternateContent);  // insert non-flash content
-		  }
-		// -->
-		</script><a href="/coloring_application/index.cfm?mt=digicolor&amp;referrer=/registration/privacy_policy.cfm"><img src="/templates/images/nav_colorApp.gif" width="168" height="65"></a>		
 		
-			
+		
+		<script language="JavaScript" type="text/javascript">
+			<!--
+			// Check to see if the version meets the requirements for playback
+			if (actualVersion > 6) {
+				// if we've detected an acceptable version
+				// embed the Flash Content SWF when all tests are passed
+				AC_FL_RunContent(
+							"src", "/templates/images/nav_ColorApp",
+							"width", "148",
+							"height", "60",
+							"scale", "true",
+							"id", "coloring_app",
+							"quality", "high",
+							"bgcolor", "#FFFFCC",
+							"wmode", "transparent", 
+							"flashVars", "referrer=/registration/privacy_policy.cfm",
+							"name", "coloring_app",
+							"allowScriptAccess","sameDomain",
+							"type", "application/x-shockwave-flash",
+							'codebase', 'http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab',
+							"pluginspage", "http://www.adobe.com/go/getflashplayer"
+				);
+			} else {  // flash is too old or we can't detect the plugin
+			var alternateContent = '<a href="/coloring_application/index.cfm?referrer=/registration/privacy_policy.cfm"><img src="/templates/images/nav_colorApp.gif" width="168" height="65" /></a>';
+			document.write(alternateContent);  // insert non-flash content
+			}
+			// -->
+		</script><a href="/coloring_application/index.cfm?referrer=/registration/privacy_policy.cfm"><img src="/templates/images/nav_colorApp.gif" width="168" height="65"></a>
+					
 		</div>
 		<!-- end coloring app -->	
-				
+		
+		<!-- CrayolaStore -->
+		<div id="calendar">
+			<a href="http://www.crayolastore.com" target="_blank"><img src="http://a62.g.akamai.net/7/62/10424/0b1b542de9f714/www.crayola.com/templates/images/nav_crayolastore.gif" alt="Shop online at the CrayolaStore.com"></a>
+		</div>
+		
+		<!-- creaTiVe -->
+		<div id="calendar">
+			<a href="/tv/index.cfm"><img src="http://a62.g.akamai.net/7/62/10424/dc373b95297cc1/www.crayola.com/templates/images/nav_creaTiVe.gif" alt="Crayola CreaTiVe™ online video player"></a>
+		</div>
+		<!-- end creaTiVe -->
+		
 		<!-- calendar -->
 		<div id="calendar">
-			<a href="/calendar/index.cfm?mt=calendar"><img src="http://a62.g.akamai.net/7/62/10424/672e438e4c3fe5/www.crayola.com/templates/images/nav_calendar.gif"></a>
+			<a href="/calendar/index.cfm"><img src="http://a62.g.akamai.net/7/62/10424/672e438e4c3fe5/www.crayola.com/templates/images/nav_calendar.gif" alt="Calendar"></a>
 		</div>
-		<!-- end calendar -->
+		
+		<!-- CrayolaFactory -->
+		<div id="calendar">
+			<a href="/factory" target="_blank"><img src="http://a62.g.akamai.net/7/62/10424/59f25b23684a94/www.crayola.com/templates/images/nav_crayolaFactory.gif" alt="The Crayola Factory - A Hands-on Discovery Center"></a>
+		</div>
 		
 		<!-- flags -->
 		<div id="flag"> 
 			<ul>
-				<li><a href="/canada/index.cfm?mt=canada"><img src="http://a62.g.akamai.net/7/62/10424/5d3e2f3d08f6c2/www.crayola.com/templates/images/2upflagCanada.gif"></a><a href="/aus/index.cfm?mt=australia"><img src="http://a62.g.akamai.net/7/62/10424/49db6cf6863992/www.crayola.com/templates/images/2upflagAustralia.gif"></a></li>
+				<li><a href="/canada/index.cfm"><img src="http://a62.g.akamai.net/7/62/10424/5d3e2f3d08f6c2/www.crayola.com/templates/images/2upflagCanada.gif"></a><a href="/aus/index.cfm"><img src="http://a62.g.akamai.net/7/62/10424/49db6cf6863992/www.crayola.com/templates/images/2upflagAustralia.gif"></a></li>
 				<li><a href="http://www.crayola.com/credirect.cfm?id=4543"><img src="http://a62.g.akamai.net/7/62/10424/2d465d741eae21/www.crayola.com/templates/images/2upflagUK.gif"></a><a href="http://www.crayola.com/credirect.cfm?id=4548"><img src="http://a62.g.akamai.net/7/62/10424/6a968150efc77a/www.crayola.com/templates/images/2upflagMexico.gif"></a></li>				
 			</ul>
 		</div>	
@@ -1010,25 +489,29 @@ function  _CF_checksearch(_CF_this)
 
    
  	<div id="footer">
-		<div id="footer_wrapper">	
-			<div class="links">
-				<a class="bar" href="/sitemap/index.cfm?mt=sitemap">Site Map</a>
-				<a class="bar" href="/registration/privacy_policy.cfm?mt=privacy">Privacy</a>
-				<a class="bar" href="javascript:MM_openBrWindow('/registration/agreement.cfm?width=300&amp;mt=terms','agreement','menubar=yes,scrollbars=yes,width=300,height=300')">Terms of Use</a>
-				<a class="bar" href="/registration/EditPassport.cfm?mt=updatereg">Update Registration</a>
-				
-				<a class="bar" href="/canwehelp/contact/index.cfm?mt=contactus">Contact Us</a>
-				<a class="bar" href="https://recruiter.kenexa.com/crayola/cc/Home.ss?ccid=bupJEdUjsTs%3D" target="_blank">Career Center</a>
-				<a class="nobar" href="javascript:MM_openBrWindow('/templates/copyright.cfm?width=300&amp;mt=copyright','agreement','menubar=yes,scrollbars=yes,width=300,height=300')">Copyright</a>			
-			</div> 
+	</div>
+	<div id="footer_wrapper">	
+		
+		<div class="links">
+			<a class="bar" href="/sitemap/index.cfm">Site Map</a>
+			<a class="bar" href="/registration/privacy_policy.cfm">Privacy</a>
+			<a class="bar" href="javascript:MM_openBrWindow('/registration/agreement.cfm?width=300','agreement','menubar=yes,scrollbars=yes,width=300,height=300')">Terms of Use</a>
+			<a class="bar" href="/registration/EditPassport.cfm">Update Registration</a>
 			
-			
-				
-			
-			
-			<div class="sendFriend"><a href="javascript:MM_openBrWindow('/registration/sendpageform.cfm?mt=sendtofriend&amp;page=http://www.crayola.com/registration/privacy_policy.cfm%3fmt%3dprivacy','sendpage','width=300,height=400')"><img src="http://a62.g.akamai.net/7/62/10424/050c61299a544a/www.crayola.com/templates/images/tell_a_friend.gif"></a></div>
+			<a class="bar" href="/canwehelp/contact/index.cfm">Contact Us</a>
+			<a class="bar" href="https://recruiter.kenexa.com/crayola/cc/Home.ss?ccid=bupJEdUjsTs%3D" target="_blank">Career Center</a>
+			<a class="nobar" href="javascript:MM_openBrWindow('/templates/copyright.cfm?width=300','agreement','menubar=yes,scrollbars=yes,width=300,height=300')">Copyright</a>			
+		<br>
+        <span class="operated_by">This site operated by Crayola LLC.  Visit Crayola.com for <a href="/free-coloring-pages/">Free Coloring Pages</a>, <a href="/crafts/">Crafts</a>, and <a href="/lesson-plans/">Lesson Plans</a>.</span>  
 		</div>
-	</div> 
+		
+			
+
+		<div class="sendFriend"><a href="javascript:MM_openBrWindow('/registration/sendpageform.cfm?page=' + escape(location.href),'sendpage','width=300,height=400')"><img src="http://a62.g.akamai.net/7/62/10424/050c61299a544a/www.crayola.com/templates/images/tell_a_friend.gif"></a></div>
+	</div>
+
+	
+	
 	
 		
 	 
@@ -1038,4 +521,19 @@ function  _CF_checksearch(_CF_this)
 
 
 
-</body></html>
+
+
+	
+<!-- START SmartSource Data Collector TAG -->
+<script language="JavaScript" src="http://a62.g.akamai.net/7/62/10424/2ba1f7106fe033/www.crayola.com/javascript/dcs_tag.js" type="text/javascript">
+</script>
+<!-- END SmartSource Data Collector TAG -->
+
+
+<!-- START SEER TAG -->
+<script language="javascript" src="http://a62.g.akamai.net/7/62/10424/5a9b332578f2b8/www.crayola.com/javascript/seer_ntpagetag.js"></script>
+<noscript> 
+<img src="http://seer.crayola.com/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt=""> 
+</noscript> 
+<!-- END SEER TAG -->
+	</body></html>
