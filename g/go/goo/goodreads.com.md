@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531211127id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208113519id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
 
-# goodreads | see what your friends are reading
+# Goodreads | see what your friends are reading
 
   * Your privacy is protected at Goodreads
   * You control your personal information
