@@ -1,122 +1,61 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626162943id_/http%3A//www.6pm.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208192508id_/http%3A//www.6pm.com/privacy.zhtml) for the most accurate reproduction.*
 
-# Womens Shoes, Mens Shoes, Boots, Handbags & More - Free Shipping - 6pm.com
+# Women's Shoes, Men's Shoes, Kids' Shoes, Handbags - 6PM.com
 
-| 
+### Customer Service: Privacy Policy
 
-#### Our Privacy Pledge
+Thank you for accessing the 6pm.com web site ("Site"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-Last Updated: 5/14/04; www.6pm.com ("website") is owned and operated by eBags Incorporated of 6060 Greenwood Plaza Blvd.Greenwood Village, CO 80111. The terms "6pm.com", "we", "us" and "our" when used in this Privacy Policy indicates eBags Inc., which includes eBags' parent, subsidiaries, divisions, branches, affiliates or companies under common ownership or control of eBags. The terms "you" and "your" when used in this Privacy Policy means any user of this website. 
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy. 
 
-We understand and share your concern about privacy. We want to assure you that 6pm.com respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [privacy@6pm.com](mailto:privacy@6pm.com). 
+**This privacy policy applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.**
 
-  * What information does 6pm.com collect?  
+ **We are not responsible for the content or privacy practices on any non-6pm.com web site to which this Site links or that links to this Site.**
 
-  * Our use of your information  
+#### INFORMATION COLLECTION AND USE
 
-  * Does 6pm.com share the information it receives?  
-
-  * Accessing and updating your information  
-
-  * Security  
-
-  * A special note about children's privacy  
-
-  * Privacy Policy changes  
-
-  * Contacting 6pm.com with question or comments  
-
-
- 
-
-#### What type of information does 6pm.com collect?
-
-Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to make our products and services more efficient and customized to you. You are free to browse the 6pm.com site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us. 
-
-**Automatic Anonymous Information**  
-We automatically track certain information based upon your behavior on our site. This information does not identify you personally. We use this information to improve the content and functionality of this website and our e-mail updates, to analyze our users' behavior, interests, and demographics and to better understand and serve our shoppers. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address. We may also use your IP address to help diagnose problems with our server and to administer our website. [We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them. 
-
-**What about Cookies?**  
-"Cookies" are small pieces of information that a web site will store on your computer’s hard drive. 6pm.com will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. However, cookies by themselves cannot be used to discover the identity of a user. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order from our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-746-3346. For more information on deleting or rejecting cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
-
-**Web beacons**  
-Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to check the open rate of email newsletters. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. For further information about web beacons, please visit "Web beacons" at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
-
-**Personally Identifiable Information**  
-This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature.  
-
-#### Our use of your information
-
-We use the information we collect from you for specific and limited purposes including improving our products and services, making your shopping experience more efficient and relevant, and providing you with a personalized service. We may also use your information internally to administer this website. We review the actions of our visitors on an aggregate basis to determine customers' preferences. 6pm.com also conducts analysis and research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, from our server log files, contests or surveys. 
-
-**Contests and Sweepstakes**  
-When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to complete, execute and return an Affidavit of Eligibility, a Liability Release, and where lawful, a Publicity Release, for us to ensure that you are eligible to receive the prize according to the Contest Rules. In cases where the sweepstakes or promotional offer is co-branded with or sponsored by another party, we may share your information, with your consent, to that party. 
-
-**E-mails**  
-It is possible to register as a My 6pm.com email subscriber directly from our site or through another source, such as an 6pm.com sweepstakes hosted on another site or the co-registration network™. Upon registering, we will periodically send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. If you make a purchase on our site we will send you order and shipping confirmation emails. Unless you have unsubscribed from our email program, we will also send you emails to collect ratings and testimonials feedback related to your purchase. Please visit the [Your Account](https://web.archive.org/members/index.cfm?fuseaction=welcome) page to subscribe, unsubscribe, or change your email preferences at anytime. 
-
-**Gift Certificates**  
-If you purchase a gift certificate on our site, we will ask you to provide the recipient's name and e-mail address. The recipient information you provide us will only be used to deliver the gift certificate and for no other purpose. 
-
-**Affiliate Program**  
-Our Affiliate Program is administered by Commission Junction. Any information collected by them is not governed by this Policy.  
-
-#### Does 6pm.com share the information it receives?
-
-The following describes some of the ways that your personally identifiable information may be disclosed: 
-
-**Fulfillment**  
-During the purchase process, we will share your information with certain intermediaries (e.g. UPS, FedEx, Paymentech, Product Manufacturers) strictly to process and ship your order. 
-
-**Promotional Offers**  
-At times we may present or send offers to select 6pm.com subscribers on behalf of other parties. When we do this, we do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please edit your account preferences. 
-
-**Agents**  
-We employ other third parties to perform services or functions on our behalf in order to improve our site, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants and other companies working with us (collectively, "agents"). They only have access to personal information needed to perform their functions, and may not share any personal information with others or use it for any other purpose than improving 6pm.com services and offerings. If you have made a purchase on the 6pm.com website, we may make your name and postal address available to carefully screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We only share with these carefully screened companies the individual names and postal address of customers who have purchased products from us. If you do not want us to share your name and postal address information, simply follow the instructions in the section below titled "Accessing and Updating Your Information." We may also receive information about you from other sources (such as demographic information and purchase history) and add it to our information in order to make our marketing efforts more efficient. 
-
-**Advertisers**  
-We work with third party advertising companies to serve and track our ads. These third parties may serve other cookies. Our advertising partners use the anonymous, non-personally identifying information they collect from our site, in the aggregate, to help us better market and serve our customers. In the event that our advertisers collect any personal information on our behalf, it will not be used by them or disclosed to any third parties. 
-
-**Third Party Sites**  
-You may visit other web sites, through links on our site, who may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those websites linking from or to our site are not covered by this Policy, and we encourage you to be very cautious before you disclose your personal information to others. If you register for 6pm.com on another web site or use a web site providing a service for 6pm.com, that web site may provide personal information about you and your transactions back to 6pm.com. It is possible that 6pm.com could merge with or be acquired by another business entity. Should such an event occur, you should expect that 6pm.com would share some or all of your information in order to continue to provide such products and services. Notice of such an event will be posted and we will require that the new combined entity follow the practices disclosed in this Privacy Policy. Where appropriate, before disclosing your personally identifiable information to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law. 
-
-**Sharing Within Our Group**  
-In order to provide you with the information, products, or services which you have requested, we may share or transfer your information with other companies within the eBags group of companies. In addition, we may also share your information with other companies within the eBags group who may contact you about their products or services that may interest you. 
-
-**Legal Requests**  
-6pm.com will cooperate with law enforcement inquiries. 6pm.com reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, for the administration of justice, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.  
-
-#### Accessing and Updating Your Information
-
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the Your Account section of the site. 
-
-As a customer, subscriber, or contest entrant, you will occasionally receive e-mail communications about new 6pm.com products, special offers we think you'll like and requests for feedback. If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time. You can do this through any of our emails, by visiting your account preferences page or sending us an email at help@6pm.com. 
-
-You may ask to have your account information removed from our active databases; however, because we keep track of past purchases, we cannot delete information associated with your past purchases. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. However, please be aware that we keep your personally identifiable information only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.  
-
-#### Security
-
-The 6pm.com Security Pledge protects you while you shop at 6pm.com so that you never have to worry about credit card safety. We guarantee that every transaction you make at 6pm.com will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at 6pm.com. 6pm.com' servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, and AOL's browser, so that only 6pm.com can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.  
-
-#### A special note about children's privacy
-
-You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.  
-
-#### Privacy Policy Changes
-
-6pm.com reserves the right to change, modify, add or remove portions of this Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.  
-
-#### Contacting 6pm.com
-
-If you have further questions about 6pm.com's Privacy Policy or comments on how we can improve the 6pm.com shopping experience, please do not hesitate to email us at [privacy@6pm.com](mailto:privacy@6pm.com). 
-
-Need more help? You can refer to our Help Center or email one of our friendly Customer Help Specialists at [help@6pm.com](mailto:help@6pm.com). 
-
-You may also write to us at:  
-Privacy Manager  
-6pm.com  
-6060 Greenwood Plaza Blvd.  
-Greenwood Village, CO 80111  
+  1. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+    * help make this Site easier for you to use by not having to enter information more than once.
+    * help you quickly find information, products, and services.
+    * help us create content on this Site that is most relevant to you.
+    * alert you to new information, products, and services that we offer.
+    1. Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. 
+    2. Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to request us to notify you when we receive a new brand, new product style, or product size or to sign up for our email newsletter and special offers. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners.
+    3. Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
+      1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
+      2. Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
+      3. We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
+    4. Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+    5. Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+  2. Information Use and Disclosure.
+    1. Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
+    2. Communications with You: We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you of a new brand, new product style, or new product size or to sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+    3. External Use. We want to provide you with excellent service and to offer you a great selection - we primarily sell merchandise, not information. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
+      1. As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, DHL Global Mail and Canada Post) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
+      2. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
+      3. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.
+      4. We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
+      5. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
 
-We always enjoy hearing from you and appreciate your business. 
+
+#### DATA SECURITY
+
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+
+#### OPT OUT/CORRECTIONS
+
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of this Site http://www.6pm.com/cs.zhtml, or by emailing your request to 6pm.com's Customer Support department at . Please do not email your credit-card number or other sensitive information.
+
+#### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+
+As you might expect from 6pm.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+
+#### UPDATES TO THIS POLICY
+
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 
+
+Effective September 17, 2007  
+
