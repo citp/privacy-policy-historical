@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpanel.net privacy policy that was archived on 2007-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070620131112id_/http%3A//www.cpanel.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpanel.net privacy policy that was archived on 2007-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071208170723id_/http%3A//www.cpanel.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,7 +15,14 @@
 			}
 		</style>
 		<![endif]-->
-  
+		 <!--[if lte IE 7]>
+			<style type="text/css">
+					#forum-posts li {
+					background: none;border-bottom: solid 1px #CCC;padding: 10px 0 3px 0;}
+					#news-posts li {
+						background: none;border-bottom: solid 1px #CCC;padding: 10px 0 3px 0;}
+			</style>
+			<![endif]-->
         <!-- Page-specific styles -->
         <style type="text/css">
 
@@ -86,8 +93,8 @@ function help_init() {
       // Validate the entries in the form to require that both first and last name are entered
    helppanel.validate = function() {
       var data = this.getData();
-      if (data.captcha == "") {
-         alert("Please answer the verifcation question.");
+      if (data.comments == "") {
+         alert("Please provide some comments.");
          return false;
       } else {
          return true;
@@ -186,7 +193,8 @@ var requiredRevision = 0;
 									 	      <div id="products" class="yuimenu">
                                             <div class="bd">
                                                 <ul>
-                                                    <li class="yuimenuitem"><a href="http://www.cpanel.net/products/cPanelandWHM/linux/cPWHMov.htm">cPanel and WHM</a></li>
+                                                    <li class="yuimenuitem"><a href="http://www.cpanel.net/products/cPanelandWHM/linux/cPWHMov.htm">cPanel and WHM/Linux</a></li>
+<li class="yuimenuitem"><a href="http://www.cpanel.net/products/cPanelandWHM/windows/index.html">cPanel Server Suite/Windows</a></li>
                                                     <li class="yuimenuitem"><a href="http://www.cpanel.net/products/modules.htm">Software Modules</a></li>
                                                     <li class="yuimenuitem"><a href="http://www.cpanel.net/products/partnerproducts.htm">Partner Products</a></li>
                                                 </ul>
@@ -208,7 +216,7 @@ var requiredRevision = 0;
                         	<div class="bd">                    
                             	<ul>
                                 	<li class="yuimenuitem"><a href="http://changelog.cpanel.net/">Change Log</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/contact/contact.html">Contact</a></li>									
+									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/support.htm">Contact</a></li>									
 									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/downloads/downloads.htm">Downloads</a></li>
 									<li class="yuimenuitem"><a href="http://www.cpanel.net/support/docs/index.htm">Documentation</a></li>
 									<li class="yuimenuitem"><a href="http://faq.cpanel.net/">FAQ</a></li>
@@ -220,10 +228,10 @@ var requiredRevision = 0;
                 		<div id="Community" class="yuimenu">
                         	<div class="bd">                                        
                             	<ul>
-                                	<li class="yuimenuitem"><a href="http://blog.cpanel.net">Blog</a></li>
-									<li class="yuimenuitem"><a href="http://forums.cpanel.net/">Forums</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/news/index.htm">News</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/security">Security Center</a></li>
+					<li class="yuimenuitem"><a href="http://forums.cpanel.net/">Forums</a></li>
+					<li class="yuimenuitem"><a href="http://www.cpanel.net/company/news/maillists.htm">Mailing Lists</a></li>
+                                	<li class="yuimenuitem"><a href="http://blog.cpanel.net">News</a></li>
+					<li class="yuimenuitem"><a href="http://www.cpanel.net/security">Security Center</a></li>
                                 	<li class="yuimenuitem"><a href="http://www.cpanel.net/plugins">Third Party / <br>Developers</a></li>
                              	</ul>                    
                        		</div>
@@ -234,8 +242,9 @@ var requiredRevision = 0;
                         	<div class="bd">                                        
                             	<ul>
                                 	<li class="yuimenuitem"><a href="http://www.cpanel.net/company/index.htm">About</a></li>
-									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/employment.htm">Employment</a></li>
 									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/contact/contact.html">Contact</a></li>
+									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/employment.htm">Employment</a></li>
+									<li class="yuimenuitem"><a href="http://www.cpanel.net/company/testimonials.htm">Testimonials</a></li>
                              	</ul>                    
                        		</div>
 					</div></li>
@@ -329,48 +338,57 @@ Telephone 713-529-0800<br>
   
   
 <div id="win">
-   <div class="hd">
-         <div class="lt"></div>
-         <span>cPanel Web Site Feedback Form</span>
-         <div class="rt"></div>
-   </div>
+  <div class="hd">
+    <div class="lt"></div>
+    <span>cPanel Web Site Feedback Form</span>
+    <div class="rt"></div>
+  </div>
   <div class="bd">
-   <form method="POST" action="/feedback/submit.cgi">
-    <div class="content" id="help-content">
-
-	<p>Find everything you were looking for?
-    <input type="radio" name="find" value="1">Yes
-	<input type="radio" name="find" value="2">No
-	</p>
-	<p>If no, what were you looking for?<br>
-	 <textarea name="look_for" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	</p>
-	<p>Is there anything we can do to improve your experience?<br>
-	 <textarea name="experience" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	</p>
-	<p>Comments:<br>
-	   <textarea name="comments" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
-	 </p>
-	 <p>Contact Email (optional): <input type="text" name="contact" size="30" width="200px">
-     <input type="hidden" name="magicaction" value="1">
-	 </p>
-	What is the opposite of down?
-<input type="hidden" name="number" value="3">
-
-	<input type="text" name="captcha" maxlength="12" size="15"><span style="font-size : 10px">(Verification Question)</span>
-   </div>
-      </form>
+    <form method="post" action="/feedback/submit.cgi">
+      <div class="content" id="help-content">
+	    <p>Find everything you were looking for?
+          <input type="radio" name="find" value="1">Yes
+	      <input type="radio" name="find" value="2">No
+		  <input type="text" name="address" class="noshow" width="55px">
+	    </p>
+	    <p>If no, what were you looking for?<br>
+	      <textarea name="look_for" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
+	    </p>
+	    <p>Is there anything we can do to improve your experience?<br>
+	      <textarea name="experience" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
+	    </p>
+	    <p>Comments:<br>
+	      <textarea name="comments" cols="50" rows="3" wrap="physical" class="feedbackTA"></textarea>
+	    </p>
+	    <p>Contact Email (optional): <input type="text" name="contact" size="30" width="200px">
+          <input type="hidden" name="magicaction" value="1">
+	    </p>
+		<input type="text" name="captcha" class="noshow" width="55px">
+      </div>
+    </form>
  </div>
-
-
 </div> 
-
-
-<div id="clearer"></div>
-</div><div id="footer">
- <p><a href="http://www.cpanel.net/sitemap.htm">Sitemap</a> | <a href="http://www.cpanel.net/trademarkup.htm">Trademark</a> | <a href="http://www.cpanel.net/privacy.html">Privacy Policy</a> | <a href="http://www.cpanel.net/legal.html">Legal Notices</a> | <a onclick="show_help()" style="cursor:pointer;cursor:hand"><u>Site Feedback</u></a> | <a href="http://www.cpanel.net/eula.html">License Agreements</a> | <a href="http://www.cpanel.net/media.htm">Press</a> | <a href="http://www.cpanel.net/company/contact/contact.html">Contact</a> </p><p align="center">©Copyright 2001-2007 cPanel. All Rights Reserved.</p>
+<div id="clearer">&nbsp;</div>
+</div>
+<div id="footer">
+  <p><a href="http://www.cpanel.net/sitemap.htm">Sitemap</a> | 
+	 <a href="http://www.cpanel.net/trademarkup.htm">Trademark</a> | 
+	 <a href="http://www.cpanel.net/privacy.html">Privacy Policy</a> | 
+	 <a href="http://www.cpanel.net/legal.html">Legal Notices</a> | 
+	 <a onclick="show_help()" style="cursor:pointer;cursor:hand"><u>Site Feedback</u></a> | 
+	 <a href="http://www.cpanel.net/eula.html">License Agreements</a> | 
+	 <a href="http://www.cpanel.net/media.htm">Press</a> | 
+	 <a href="http://www.cpanel.net/company/contact/contact.html">Contact</a>
+  </p>
+  <p align="center">© Copyright 2001-2007 cPanel, Inc. All Rights Reserved.
+  </p>
 </div>
 </div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-2411239-1";
+urchinTracker();
+</script>
 
 <!-- InstanceEnd -->
 
