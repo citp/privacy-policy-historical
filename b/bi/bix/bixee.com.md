@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409004715id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208220804id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
 
 # Jobs in India, Mumbai jobs, Delhi jobs, Bangalore jobs, Chennai jobs, Hyderabad jobs, Pune jobs - Bixee.com
 
-This Privacy Policy explains how MIH Web Private Ltd. ("Company") collects, use, disclose and protect the Personal Information obtained explicitly through the Company.s web site, "www.Bixee.com" .Site. as well as other information collected automatically without direct submission by you. "Personal Information" is information that enables anyone to contact you. Your full name, address, telephone number, or email address are examples of personal information. 
+This Privacy Policy explains how ibibo Web Private Ltd. ("Company") collects, use, disclose and protect the Personal Information obtained explicitly through the Company.s web site, "www.Bixee.com" .Site. as well as other information collected automatically without direct submission by you. "Personal Information" is information that enables anyone to contact you. Your full name, address, telephone number, or email address are examples of personal information. 
 
 You may need to provide the Company your Personal Information during the course of using some services of the Company. For example, you have to provide your email address to use Job Alerts. For example, you also give your complete Personal Information when you upload your resume. 
 
