@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512004429id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208053210id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
-# Yo! Raps Magazine - The Timless Return Of Rhyme In Hip Hip, RnB, Soul And Rap
+# Yo! Raps Magazine | PRIVACY POLICY / DISCLAIMER
+
+| 
+
+|  Receive alerts to your email, 2way or cellphone!   
+---  
+Choose category:  
+  
+Subscribe  
+Unsubscribe  
+  
+**[](http://www.yoraps.com/advertising.php)**  
+[**
+
+[](http://www.myspace.com/stylesp)
+
+**](http://www.djbijal.com/)[](http://www.bestbuy.com/site/olspage.jsp;jsessionid=I1X1EBZSSCIZVKC4D3FVAGY?_dyncharset=ISO-8859-1&id=pcat17071&type=page&st=gorilla+Zoe&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960)
+
+| 
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
@@ -20,10 +38,11 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 Your use of Yoraps.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of Yoraps.com. By using Yoraps.com , you agree to abide by this Privacy Policy. 
 
-If you have any concerns or questions about our privacy policy or information collected on our sites, please contact us.
-
-| 
-
+If you have any concerns or questions about our privacy policy or information collected on our sites, please [**contact us**](mailto:info@yoraps.com?subject=Privacy%20Policy).  
+  
+---  
+ DISCLAIMER   
+  
 Yo! Raps takes no responsibility or liability for any errors or inaccuracies on any page of the Yo! Raps site. 
 
 We endeavor to provide accurate information relating to each link provided (including those linked to from text, banner or button advertisements), but as linked sites are regularly updated we cannot accept responsibility for inaccurate descriptions or any of their content. 
