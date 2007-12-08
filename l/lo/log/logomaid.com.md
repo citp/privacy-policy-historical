@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logomaid.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428050513id_/http%3A//www.logomaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomaid.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208191326id_/http%3A//www.logomaid.com/privacy.php) for the most accurate reproduction.*
 
 # Professional logo design and corporate identity
 
