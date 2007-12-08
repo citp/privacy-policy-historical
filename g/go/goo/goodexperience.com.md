@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodexperience.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630220951id_/http%3A//www.goodexperience.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodexperience.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208172123id_/http%3A//www.goodexperience.com/about/privacy.html) for the most accurate reproduction.*
 
 # goodexperience.com - customer experience, user experience
 
