@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripplite.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415000609id_/http%3A//tripplite.com/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripplite.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208204717id_/http%3A//www.tripplite.com/privacy/index.cfm) for the most accurate reproduction.*
 
-# Tripp Lite | Tripp Lite Privacy Policy
+# Tripp Lite Tripp Lite Privacy Policy
 
 Protecting your privacy is important to Tripp Lite. The following privacy policy will aid you in understanding how Tripp Lite collects, uses and safeguards the personal information you provide while visiting our website.
 
