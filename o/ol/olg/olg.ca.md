@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olg.ca privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616230759id_/http%3A//www.olg.ca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olg.ca privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208080945id_/http%3A//www.olg.ca/privacy.jsp) for the most accurate reproduction.*
 
 # OLG - Privacy Policy
 
