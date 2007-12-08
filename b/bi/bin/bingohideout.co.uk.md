@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515073500id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208120112id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - Bingo Hideout
+# Privacy Statement
 
 Bingo Hideout has created this privacy statement in order to demonstrate our firm commitment to your privacy. It is our policy not to sell, exchange, or release ANY of your individual personal information to a third party without your expressed permission. Our site's registration form requires users to give us contact information (like their name and email address). We use your IP address to help diagnose problems with our server, and to administer our Web site. Some sites use this for marketing. We don't. We use cookies to deliver content specific to your preferences and to save your password so you don't have to re-enter it each time you visit the forum. 
 
