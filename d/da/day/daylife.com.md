@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614065147id_/http%3A//www.daylife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208025359id_/http%3A//www.daylife.com/privacy_policy) for the most accurate reproduction.*
 
-# Daylife / Privacy Policy
+# Privacy Policy - Daylife
 
 ### _Last Revised October 1, 2006_
 
@@ -100,10 +100,10 @@ You will always have access to your personal information through your account. Y
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear at the top of this page. Your continued use of [Daylife.com](http://daylife.com/) will constitute your acceptance of any changes or revisions made to the Privacy Policy. 
 
-In addition to this privacy policy, please read our [User Agreement](https://web.archive.org/user_agreement). Your use of [Daylife.com](http://daylife.com/) constitutes agreement to all of the terms and conditions in both documents. 
+In addition to this privacy policy, please read our [User Agreement](http://www.daylife.com/user_agreement/). Your use of [Daylife.com](http://daylife.com/) constitutes agreement to all of the terms and conditions in both documents. 
 
 [Daylife.com](http://daylife.com/)
 
-632 Broadway, 10th Floor
+444 Broadway, 5th Floor
 
-New York, New York 10012
+New York, New York 10013
