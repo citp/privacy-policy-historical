@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618113037id_/http%3A//www.mysmallbiz.com/pg/pub/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208175602id_/http%3A//mysmallbiz.com/pg/pub/privacy.php) for the most accurate reproduction.*
 
 # Starting A Small Business, Legitimate Home Business Ideas, Work From Home Business Idea
 
