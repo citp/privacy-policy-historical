@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2007-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070512162507id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208114245id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FeaturePics.com - stock photography : royalty free, rights-managed photos. Privacy Policy.
 
@@ -39,10 +39,10 @@ _Mailing Address:_ We require a mailing address in order to send you checks, 109
 **2\. Online Ordering Information**  
 _Email Logon:_ This is your unique identification to logon.  
 We will send you an e-mail confirming your registration on our site, and in the event you forget your password, we will send it to your e-mail address at your request.   
-Periodically, we will send notification e-mails (for example: your images have been requested, you have email requests from buyers etc.). You can opt-out of this option if you don't want to receive FeaturePics notifications when you edit your account preferences.   
-_First Name/Last Name:_ We require your first and last names to help us differentiate your registration profile   
+Periodically, we will send newsletters (approximately once a month). You can unsubscribe from our mailing list by using the "unsubscribe" link on the bottom of each newsletter.  
+  
 _Billing address:_ Your billing address is required to submit for credit card verification   
-_Credit Card Details: _We **DO NOT** ask you for your credit card information on our open site. You provide the information on the encrypted secure Authorize.Net.__  
+_Credit Card Details:/_ We don't keep credit card numbers in our system; we do retain the last four digits for reference.   
 Use of cookie technology   
 You must enable cookies on your web browser for FeaturePics.com to function correctly. Only Session cookies are required. We don't collect personal information. Our cookies cannot read data from your computer, nor do we do any form of tracking.   
 Identifiable information from children under the age of 13   
