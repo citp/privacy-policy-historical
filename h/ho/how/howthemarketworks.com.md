@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430010713id_/http%3A//www.howthemarketworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208024112id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # HowTheMarketWorks.com - Privacy Policy
 
-## Privacy Policy
-
-Effective November 12, 2006
+Effective April 27, 2007
 
 **Our Commitment To Privacy**
 
