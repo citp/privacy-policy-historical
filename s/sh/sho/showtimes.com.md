@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2007-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070123124004id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208202310id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
-# Privacy Statement for Hollywood.com :: Hollywood.com
+# Privacy Statement for Hollywood.com at Hollywood.com
 
 Hollywood.com, Inc. ("Hollywood.com") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
