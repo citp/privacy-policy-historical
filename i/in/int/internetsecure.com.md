@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627000932id_/http%3A//www.internetsecure.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208011608id_/http%3A//www.internetsecure.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetSecure
 
