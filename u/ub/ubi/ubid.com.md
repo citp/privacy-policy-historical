@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626150010id_/http%3A//www.ubid.com/help/policies_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208070512id_/http%3A//www.ubid.com/help/policies_privacy.asp) for the most accurate reproduction.*
 
 # uBid.com - Help Pages
 
 | 
 
-  
-|  **Contact uBid.com** |   
----|---  
-  
-**About uBid.com** |   
----|---  
-  
+Browse Help
+
+ 
+
+uBid Info
+
+ 
+
+|   
 ---  
   
 | 
 
 ** What is uBid.com's Privacy & Security Policy? **
 
-[](http://www.truste.org/ivalidate.php?url=www.ubid.com&sealid=101)(Last Updated: December 7, 2006)
+[](http://www.truste.org/ivalidate.php?url=www.ubid.com&sealid=101)(Last Updated: July 6, 2005)
 
-uBid.com, Inc. ("uBid.com") has created this statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
+uBid.com, Inc. ("uBid.com") has created this statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
 
 uBid.com uses the information we collect about you to process orders. When you register at uBid.com, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at uBid.com are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.
 
-When you sign up for uBid.com Auction Alerts, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to uBid.com, new services, and special offers. You may choose not to receive any of these emails when you register, or at a later date, by accessing uBid.com Auction Alerts and updating your profile.
+When you sign up for uBid.com Auction Alerts, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to uBid.com, new services, and special offers. You may choose not to receive any of these emails when you register, or at a later date, by accessing uBid.com Auction Alerts.
 
 We occasionally will ask for additional information from you. For instance, we may ask for your name, address, and e-mail address in connection with a contest or other promotional feature in which you participate, so we can administer the contest and notify winners. We may offer contests or promotions with third parties; policies concerning use of your personal data gathered in connection with any such contest or promotion will be specifically set forth in the rules and policies applicable to the contest or promotion.
 
@@ -37,13 +39,9 @@ Recognizing the global nature of the Internet, you agree to comply with all appl
 "Cookies" are pieces of information that are passed to your browser and stored on your computer's hard drive. uBid.com uses cookies to recognize repeat visitors, to automatically enter your login ID in our bid form, and to provide additional features to make bidding & buying at uBid.com easier and more efficient. If you do not wish to receive cookies, you can turn them off using your browser's settings **.** We do not link the information we store in cookies to any personally identifiable information you submit while on our site. ****
 
 **Sharing data with third parties**  
-Upon registration with uBid.com, each of our customers is assigned a random and anonymous customer number, which we use to track customer orders. This customer number is different from any custom login ID selected by you and may be passed to third party vendors with whom we work to provide more efficient and relevant services to our users. Our anonymous customer numbers may be used to measure traffic and visiting patterns on uBid.com and on other websites on the Internet. We may also compile statistics and other data about our customers on an aggregated basis, and may share such aggregated data with selected third parties. uBid.com can (and you authorize us to) release any information about you when we believe that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our user agreements, enforce other uBid.com rights, or protect the rights, property or safety of uBid.com, the uBid.com Web site, our users, or others. Further, as permitted by applicable law, uBid.com can (and you authorize us to) disclose your login ID, name, street, address, city, state, zip code, country, phone number, email, company and any other information in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity whenever uBid.com in its sole discretion believes necessary or appropriate. In the event uBid.com, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
-
-We post sellers testimonials on our web site which may contain personally identifiable information such as the seller's name. We do obtain the seller's consent prior to posting the testimonial to post their name along with their testimonial.
+Upon registration with uBid.com, each of our customers is assigned a random and anonymous customer number, which we use to track customer orders. This customer number is different from any custom login ID selected by you and may be passed to third party vendors with whom we work to provide more efficient and relevant services to our users. Our anonymous customer numbers may be used to measure traffic and visiting patterns on uBid.com and on other websites on the Internet. We may also compile statistics and other data about our customers on an aggregated basis, and may share such aggregated data with selected third parties. uBid.com can (and you authorize us to) release any information about you when we believe that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our user agreements, enforce other uBid.com rights, or protect the rights, property or safety of uBid.com, the uBid.com Web site, our users, or others. Further, as permitted by applicable law, uBid.com can (and you authorize us to) disclose your login ID, name, street, address, city, state, zip code, country, phone number, email, company and any other information in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity whenever uBid.com in its sole discretion believes necessary or appropriate. In the event uBid.com, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
 
 In addition, we may share information about you with third parties as necessary to complete a transaction requested by you or to enable them to provide special opportunities and offers to you. We may share information about you with our business partners, affiliates or other third parties with your approval only. If your personally identifiable information changes, or if you no longer want us to share information you provide with third parties, you may correct, update, or unsubscribe by making the change in My Account located in My Page on uBid.com, or by contacting our Customer Care department at 1-866-WIN-UBID.
-
-On affiliate program pages that are branded with UBid, all the information collected and used is controlled and owned by the Affiliate Service Provider Please see the privacy policy of the Affiliate service provider and review their practices in regards to how they collect and treat your personal identifiable information.
 
 You may choose whether or not to receive Outbid and order processing emails in My Account and in My Mailbox. By registering at uBid.com, you consent to the collection and use of this information by uBid.com for order processing, Auction Alert emails, or the sharing of your personally identifiable information to our business partners (with your consent only). In the event of changes in our privacy policy, this page will be updated with the current information.
 
