@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the google-store.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621163155id_/http%3A//www.google-store.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google-store.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209211253id_/http%3A//www.google-store.com/privacy.php) for the most accurate reproduction.*
 
-# Google Store Worldwide
+# Google Store
 
 Welcome shoppers! The following policy describes the types of information we collect when you visit our store and how we use that information. To learn about our privacy practices on the Google site generally, please see our main [Privacy Policy](http://www.google.com/privacy.html). 
 
