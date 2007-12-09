@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630163218id_/http%3A//www.cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209115135id_/http%3A//www.cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.*
 
 # The Carter Center: Frequently Asked Questions
 
