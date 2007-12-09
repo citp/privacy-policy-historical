@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboards26.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205230816id_/http%3A//www.proboards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards26.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209080817id_/http%3A//www.proboards.com/privacy.html) for the most accurate reproduction.*
 
 # ProBoards.com - Free Remotely Hosted Message Boards
 
