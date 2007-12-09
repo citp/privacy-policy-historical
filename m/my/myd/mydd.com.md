@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydd.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610014737id_/http%3A//mydd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydd.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209123949id_/http%3A//www.mydd.com/privacy) for the most accurate reproduction.*
 
 # MyDD :: Privacy Policy
 
