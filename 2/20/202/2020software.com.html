@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 2020software.com privacy policy that was archived on 2007-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070615033151id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2020software.com privacy policy that was archived on 2007-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071209124812id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/no_navigation_template.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -30,66 +30,181 @@ function MM_preloadImages() { //v3.0
 <!-- The following calls the hitbox code from a central location; DO NOT REMOVE -->
 <!-- A new URL requires the central code to be updated -->
 <script language="JavaScript" src="/shared/conf_hbx.js"></script>
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+<!--VISUAL SCIENCES CODE HBX2.0 (Universal)-->
+
+<!--COPYRIGHT 1997-2005 VISUAL SCIENCES,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://visualsciences.com-->
+
 <script language="javascript">
-//var tt_mlc = "PUT+PAGE+SPECIFIC+MLC+HERE";
-//INITIALIZE VARIABLES
+
+//custom notification cookie
+
+if (window.location.search.indexOf("wrData=on") != -1) document.cookie="wrData=on; path=/";
+
+if (window.location.search.indexOf("wrData=off") != -1) document.cookie="wrData=off; path=/";
+
+
+
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-techtarget.hitbox.com";
+
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-techtarget.hitbox.com";
+
 var pnHost = window.location.host.substring(0,window.location.host.indexOf("."));
-var pnPath = window.location.pathname.substring(window.location.pathname.indexOf("/html/") + 6, window.location.pathname.length);
+
+var pnPath = window.location.pathname;
+
+pnPath = (pnPath.indexOf('/html/') != '-1') ? pnPath.substring(pnPath.indexOf('/html/')+6, pnPath.length) : pnPath.substring(1, pnPath.length);
+
 var pnWLS = window.location.search.toLowerCase();
+
+
+
 //BEGIN EDITABLE SECTION
+
 //CONFIGURATION VARIABLES
+
 hbx.acct="DM5212204PCA83EN3;" + getAccount();//ACCOUNT NUMBER(S)
+
 hbx.pn="/" + pnHost + "/" + pnPath;//PAGE NAME(S)
+
 if (pnWLS.indexOf("offer=") != -1) hbx.pn += "--" + getURLParam("offer");
+
 if (pnWLS.indexOf("track=") != -1) hbx.pn += "--" + getURLParam("track");
+
 hbx.mlc= (typeof tt_mlc != "undefined") ? tt_mlc : getMLC();//MULTI-LEVEL CONTENT CATEGORY
+
 hbx.pndef="title";//DEFAULT PAGE NAME
+
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+
+
 //OPTIONAL PAGE VARIABLES
+
 //ACTION SETTINGS
-hbx.fv="n";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+
 hbx.lt="none";//LINK TRACKING
+
 hbx.dlf="n";//DOWNLOAD FILTER
+
 hbx.dft="n";//DOWNLOAD FILE NAMING
+
 hbx.elf="n";//EXIT LINK FILTER
+
+
+
 //SEGMENTS AND FUNNELS
+
 hbx.seg="";//VISITOR SEGMENTATION
+
 hbx.fnl="";//FUNNELS
+
+
+
 //CAMPAIGNS
+
 hbx.cmp="";//CAMPAIGN ID
+
 hbx.cmpn="";//CAMPAIGN ID IN QUERY
+
 hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+
 hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+
 hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+
 hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+
 hbx.hra="";//RESPONSE ATTRIBUTE
+
 hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+
 hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+
 hbx.hlt="";//LEAD TRACKING
+
 hbx.hla="";//LEAD ATTRIBUTE
+
 hbx.gp="";//CAMPAIGN GOAL
+
 hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+
 hbx.hcn="";//CONVERSION ATTRIBUTE
+
 hbx.hcv="";//CONVERSION VALUE
+
 hbx.cp="null";//LEGACY CAMPAIGN
+
 hbx.cpd="";//CAMPAIGN DOMAIN
+
+
+
 //CUSTOM VARIABLES
+
+var asrcParam = getURLParam("asrc");
+
+var asrc_und_1_pos = asrcParam.indexOf("_");
+
+var asrcLast2 = asrcParam.substring(asrc_und_1_pos+1,asrcParam.length);
+
+var asrc_und_2_pos = asrcLast2.indexOf("_");
+
+var asrc_src = asrcParam.substr(0,asrc_und_1_pos);
+
+var asrc_vehicle = asrcLast2.substr(0,asrc_und_2_pos);
+
+var asrc_vid = asrcLast2.substr(asrc_und_2_pos+1,asrcLast2.length);
+
+var psrcParam = getURLParam("psrc");
+
+if (psrcParam.indexOf("_") != -1) psrcParam = psrcParam.substring(0,psrcParam.indexOf("_")) + "|" + psrcParam.substring(psrcParam.indexOf("_")+1, psrcParam.length);
+
 hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
+
+if (asrc_src != "") {
+
+
+	hbx.hc1=asrc_src + "|" + pnHost + "-" + asrc_vehicle + "-" + asrc_vid + "-";//CUSTOM 1
+
+} else {
+
+	hbx.hc1="";//CUSTOM 1 if no src
+
+}
+
+hbx.hc2=psrcParam;//CUSTOM 2
+
 hbx.hc3="";//CUSTOM 3
+
 hbx.hc4="";//CUSTOM 4
+
 hbx.hrf="";//CUSTOM REFERRER
+
 hbx.pec="";//ERROR CODES
+
+
+
 //INSERT CUSTOM EVENTS
+
+if (document.cookie.indexOf("wrData=on") != -1) {
+
+	window.alert("HITBOX DATA \n accounts (hbx.acct) = " + hbx.acct + "\n pagename (hbx.pn) = " + hbx.pn + "\n hbx.mlc = " + hbx.mlc + "\n visitor segment (hbx.seg) = " + hbx.seg + "\n funnel id (hbx.fnl) = " + hbx.fnl + "\n campaign page (hbx.cmp) = " + hbx.cmp + "\n goal page (hbx.gp) = " + hbx.gp + "\n custom metric 1 (hbx.hc1) =" + hbx.hc1 + "\n custom metric 2 (hbx.hc2) = " + hbx.hc2);
+
+}
+
+
+
 //END EDITABLE SECTION
+
+
+
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="/shared/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+
+</script><script language="javascript1.1" src="/shared/hbx.js"></script>
+
+<!--END VISUAL SCIENCES CODE-->
 <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <!-- END WEBSIDESTORY CODE  -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -101,7 +216,7 @@ hbx.pec="";//ERROR CODES
 <tbody><tr>
 <td width="166" align="left" valign="top"><table width="166" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><a href="../index.html"><img src="../images/templ_headerlogo.gif" alt="TechTarget, The Most Targeted IT Media" width="166" height="129" border="0"></a></td>
+<td><a href="../index.html"><img src="../images/templ_headerlogo.gif" alt="TechTarget, The IT Media ROI Experts" width="166" height="129" border="0"></a></td>
 </tr>
 <tr>
 <td><table width="166" border="0" cellspacing="0" cellpadding="0">
@@ -384,7 +499,7 @@ surveys, simply opt-out from any survey email you receive. </li>
 to attend a vendor-sponsored TechTarget event (including Conferences, Custom
 Media events and Editorial events), or when you request a demo or brochure on
 2020software.com. The vendor's use of that information is governed by the vendor's
-privacy policy and may be used for follow up by telephone, email or other common
+privacy policy and may be used for follow up by telephone, email, direct mail or other common
 methods. You should contact these vendors directly if you have any questions
 about their use of this information. </li>
 <li>Profile information collected when you register or log in on a co-branded
