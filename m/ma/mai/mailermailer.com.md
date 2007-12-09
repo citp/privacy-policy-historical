@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629220315id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209221731id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
 
 # Privacy Policy
 
