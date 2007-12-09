@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktiger.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616034205id_/http%3A//www.linktiger.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktiger.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209184407id_/http%3A//www.linktiger.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: LinkTiger.com - online links checking service
 
@@ -14,7 +14,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 INFORMATION GATHERING AND USAGE
 
   * When you register for LinkTiger.com we ask for information such as your name, billing address, email address and website address. Members who sign up for the free account are not required to enter a name, billing address or credit card information.
-  * LinkTiger.com works with the trusted third party 2CO.com for credit card payment processing. Therefore LinkTiger.com does not receive or have insight in credit card details other than the name and billing address.
+  * LinkTiger.com works with the trusted third party 2Checkout for credit card payment processing. Therefore LinkTiger.com does not receive or have insight in credit card details other than the name and billing address.
   * LinkTiger.com uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 
