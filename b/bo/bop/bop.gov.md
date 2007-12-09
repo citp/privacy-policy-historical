@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407133000id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209215135id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.*
 
 # BOP: Privacy Policy
 
@@ -25,3 +25,5 @@ The Department of Justice is especially concerned about protecting children’s 
 **Cookies**
 
 "Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a website ("persistent cookies"). BOP's website and its component sites do not use persistent cookies. Session cookies are deleted from BOP's server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our website if you do not accept the cookies, but you may be unable to use certain cookie-dependent features. 
+
+Certain pages on DOJ's website and its component sites use session cookies to provide streamlined navigation and for statistical analysis. DOJ also uses session cookies as part of a voluntary web customer satisfaction survey that will appear to a small percentage of its website visitors as they leave DOJ's site. 
