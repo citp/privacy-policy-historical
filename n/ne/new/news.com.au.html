@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2007-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610041446id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210000324id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy | NEWS.com.au</title>
@@ -38,7 +38,7 @@ if (results != null ) {
 
 //-- Stop hiding script --> 
 </script> 
-</head>
+<script type="text/javascript" src="https://web.archive.org/web/20070606202419/http://www.news.com.au/js/jsonheadlines/0,21324,,00.js"></script></head>
 <body>
 	
 		<div class="skip">
@@ -61,32 +61,30 @@ if (results != null ) {
     		<dd><a href="http://www.news.com.au">NEWS.com.au</a> | </dd>
     		<dd><a href="http://www.foxsports.com.au/">FOX SPORTS</a> | </dd>
     		<dd><a href="http://www.news.com.au/classifieds/">CLASSIFIEDS</a> | </dd>
-    		<dd><a href="http://mobile.news.com.au/">MOBILE</a></dd>
-
+    		<dd><a href="http://www.news.com.au/mobile">MOBILE</a></dd>
     		<dd id="search">
         		<form id="ni-search" action="http://searchresults.news.com.au/servlet/Search" method="post" onsubmit="return checkSiteVar();">
             		<fieldset>
-            		    <label for="ninnsearch"><strong>SEARCH FOR:</strong></label>
+            		    <label for="ninnsearch" id="ninnsearch-label"><strong>SEARCH FOR:</strong></label>
             		    <input type="text" id="ninnsearch" name="queryterm">
 					</fieldset>
 					<fieldset id="search-location">
-					    <label for="site-search">Site <input type="radio" name="searchoption" value="yes" id="site-search" checked="checked"></label>
-					    <label for="local-search">Local <input type="radio" name="searchoption" value="no" id="local-search"></label>
-					    <label for="web-search">Web <input type="radio" name="searchoption" value="no" id="web-search"></label>
+					    <label for="site-search"><input type="radio" name="searchoption" value="yes" id="site-search" checked="checked" onclick="showGoogleLogo()"> Site</label>
+					    <label for="local-search"><input type="radio" name="searchoption" value="no" id="local-search" onclick="removeGoogleLogo()"> Local</label>
+					    <label for="web-search"><input type="radio" name="searchoption" value="no" id="web-search" onclick="showGoogleLogo()"> Web</label>
             		    <input type="image" id="ninn-go" src="/images/go-button.gif" title="GO" value="search">
 						<input type="hidden" name="site" value="ninews">
         		    </fieldset>
 				</form>
+				<div id="ni-google">enhanced by Google</div>
     		</dd>
 		</dl> <!-- // #ninnbar -->
-		<div id="ticker">
+		<div id="ticker" class="activated">
         	<div id="sections">
 			    <img id="prev-story" src="/images/ticker-prev.gif" alt="previous"> <img id="pause-story" src="/images/ticker-pause.gif" alt="pause">  <img id="next-story" src="/images/ticker-next.gif" alt="next"> <span id="current-section">Network Highlights:</span>
         	</div>
         	<ul id="headlines">
-            	<li class="top-news" id="top-story">
-
-            	</li>
+            	<li><a href="https://web.archive.org/web/20070607010925/http://eservices.carsguide.news.com.au/cg/trees?CMP=BAC-green&amp;attr=NDM">Help CARSguide.com.au plant 10,000 trees and win an eco-getaway valued at $1300 »</a></li>
         	</ul>
     	</div> <!-- // #ticker -->
 	 
@@ -108,7 +106,7 @@ document.write('</SCR');
 document.write('IPT>');
 
 // End Hide -->
-</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=21673298/SITE=NEWS/AAMSZ=468X60/pageid=48132566"></script>
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=34643529/SITE=NEWS/AAMSZ=468X60/pageid=15454873"></script>
 
 <noscript>
 <A HREF="http://mercury.tiser.com.au/adclick/SITE=NEWS/AAMSZ=468X60/pageid=1">
@@ -136,6 +134,8 @@ document.write('IPT>');
 				
 					<li><a href="/national/">National</a></li>
 				
+					<li><a href="http://www.news.com.au/feature/0,,5012863,00.html">Federal Election</a></li>
+				
 					<li><a href="/world/">World</a></li>
 				
 					<li><a href="/indepth">In-depth Features</a></li>
@@ -148,11 +148,7 @@ document.write('IPT>');
 				
 					<li><a href="/galleries/" class="galleries">Galleries</a></li>
 				
-					<li><a href="/podcasts/" class="podcasts">Podcasts</a></li>
-				
 					<li><a href="/archives/" class="archives">Archives</a></li>
-				
-					<li><a href="http://lab.news.com.au" class="lab">News Lab</a></li>
 				
 		</ul>
 	
@@ -166,13 +162,37 @@ document.write('IPT>');
 				
 					<li><a href="/business/markets/">Markets</a></li>
 				
-					<li><a href="/business/personalfinance/">Personal Finance</a></li>
+					<li><a href="/business/money/">Personal Finance</a></li>
 				
-					<li><a href="/business/property/">Property</a></li>
+					<li><a href="/business/money/property/">Property</a></li>
 				
 					<li><a href="/business/businessowner/">Business Owner</a></li>
 				
-					<li><a href="/business/forbes/">Features</a></li>
+					<li><a href="/business/business-sense/">Business Sense</a></li>
+				
+					<li><a href="/business/forbes/">Forbes</a></li>
+				
+					<li><a href="/business/galleries/" class="galleries">Galleries</a></li>
+				
+		</ul>
+	
+					</li>
+				
+					<li><a href="/business/money/">Money</a>
+						
+		<ul class="drop-menu">
+			
+					<li><a href="/business/money/banking/">Banking</a></li>
+				
+					<li><a href="/business/money/property/">Property</a></li>
+				
+					<li><a href="/business/money/creditcards/">Credit Cards</a></li>
+				
+					<li><a href="/business/money/superannuation/">Superannuation</a></li>
+				
+					<li><a href="/business/money/investing/">Investing</a></li>
+				
+					<li><a href="/business/money/guidesandtools/">Guides &amp; Tools</a></li>
 				
 		</ul>
 	
@@ -182,6 +202,8 @@ document.write('IPT>');
 						
 		<ul class="drop-menu">
 			
+					<li><a href="/entertainment/confidential/">Confidential</a></li>
+				
 					<li><a href="/entertainment/movies/">Movies</a></li>
 				
 					<li><a href="/entertainment/television/">Television</a></li>
@@ -191,8 +213,6 @@ document.write('IPT>');
 					<li><a href="/entertainment/games/">Games</a></li>
 				
 					<li><a href="/entertainment/fashion/">Fashion</a></li>
-				
-					<li><a href="/entertainment/celebrity/">Celebrity</a></li>
 				
 					<li><a href="/entertainment/horoscopes/">Horoscopes</a></li>
 				
@@ -210,23 +230,39 @@ document.write('IPT>');
 						
 		<ul class="drop-menu">
 			
+					<li><a href="/travel/travelnews/">Travel News</a></li>
+				
 					<li><a href="/travel/australia/">Australia</a></li>
 				
 					<li><a href="/travel/world/">World</a></li>
 				
 					<li><a href="/travel/holidayideas/">Holiday Ideas</a></li>
 				
-					<li><a href="/travel/bookingsandoffers/">Bookings &amp; Offers</a></li>
+					<li><a href="http://travelsearch.news.com.au/">Bookings &amp; Offers</a></li>
 				
 					<li><a href="http://travelactivities.news.com.au/">Activities</a></li>
 				
 					<li><a href="/travel/advice/">Travel Advice &amp; Tools</a></li>
 				
-					<li><a href="/travel/tips/">Travel Tips</a></li>
+					<li><a href="/travel/galleries/" class="galleries">Multimedia</a></li>
 				
-					<li><a href="/travel/galleries/" class="galleries">Galleries</a></li>
+		</ul>
+	
+					</li>
 				
-					<li><a href="/travel/archives/" class="archives">Archives</a></li>
+					<li><a href="/technology/">Technology</a>
+						
+		<ul class="drop-menu">
+			
+					<li><a href="/technology/mobiles/">Mobile Phones</a></li>
+				
+					<li><a href="/technology/computers/">Computers</a></li>
+				
+					<li><a href="/technology/digital-cameras/">Digital Cameras</a></li>
+				
+					<li><a href="/technology/home-entertainment/">Home Entertainment</a></li>
+				
+					<li><a href="/technology/gaming/">Gaming</a></li>
 				
 		</ul>
 	
@@ -240,6 +276,8 @@ document.write('IPT>');
 				
 					<li><a href="/cartoons/">Daily Cartoons</a></li>
 				
+					<li><a href="/mostpopular/">Most Popular</a></li>
+				
 		</ul>
 	
 					</li>
@@ -248,81 +286,87 @@ document.write('IPT>');
 				
 					<li><a href="http://video.news.com.au/">Video</a></li>
 				
-					<li><a href="/tools/">Tools</a>
+					<li><a href="/mobile/">Mobile</a>
 						
 		<ul class="drop-menu">
 			
-					<li><a href="/newsalerts/">News Alerts</a></li>
+					<li><a href="http://m.news.com.au/web.htm">Mobile/PDA</a></li>
 				
-					<li><a href="/aboutwireless/">Mobile/PDA</a></li>
+					<li><a href="http://jamster.news.com.au/">Games, Tones &amp; Wallpapers</a></li>
 				
-					<li><a href="/rss/">RSS Feeds</a></li>
+					<li><a href="http://carsguide.news.com.au/mobile">CARSguide.mobi</a></li>
 				
-					<li><a href="http://news.reply.com.au/ni/newspulse.asp">Email Newsletter</a></li>
+					<li><a href="/mobile/three/">3</a></li>
+				
+					<li><a href="/mobile/telstra/">Telstra</a></li>
+				
+					<li><a href="/mobile/optus/">Optus</a></li>
+				
+					<li><a href="/mobile/vodafone/">Vodafone</a></li>
 				
 		</ul>
 	
 					</li>
 				
-					<li><a href="http://www.australianit.news.com.au/" class="indent-right">AUSTRALIAN IT</a></li>
+					<li><a href="http://www.australianit.news.com.au/" rel="track-topnav-ozit" class="indent-right">AUSTRALIAN IT</a></li>
 				
-					<li><a href="http://www.foxsports.com.au/">FOX SPORTS</a></li>
+					<li><a href="http://www.foxsports.com.au/" rel="track-topnav-foxsports">FOX SPORTS</a></li>
 				
-					<li><a href="/classifieds" class="arrow">CLASSIFIEDS</a>
+					<li><a href="/classifieds" rel="track-topnav-classifieds" class="arrow">CLASSIFIEDS</a>
 						
 		<ul class="drop-menu">
 			
-					<li><a href="http://www.truelocal.com.au/?from=news">Local Business</a></li>
+					<li><a href="http://www.truelocal.com.au/?from=news" rel="track-topnav-classifieds">Local Business</a></li>
 				
-					<li><a href="http://www.careerone.com.au/?from=news">Jobs</a></li>
+					<li><a href="http://www.careerone.com.au/?from=news" rel="track-topnav-classifieds">Jobs</a></li>
 				
-					<li><a href="http://carsguide.news.com.au/?from=news">Cars</a></li>
+					<li><a href="http://carsguide.news.com.au/?from=news" rel="track-topnav-classifieds">Cars</a></li>
 				
-					<li><a href="http://www.realestate.com.au/?from=news">Property</a></li>
+					<li><a href="http://www.realestate.com.au/?from=news" rel="track-topnav-classifieds">Property</a></li>
 				
-					<li><a href="http://www.homesite.com.au/?from=news">Home Improvement</a></li>
+					<li><a href="http://www.homesite.com.au/?from=news" rel="track-topnav-classifieds">Home Improvement</a></li>
 				
-					<li><a href="http://newsinteractive.match.com/match/mt.cfm?pg=home&amp;tcid=235605">Dating</a></li>
+					<li><a href="http://newsinteractive.match.com/match/mt.cfm?pg=home&amp;tcid=235605" rel="track-topnav-classifieds">Dating</a></li>
 				
-					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=1" onclick="javascript:popUp('classifieds', this.href); return false;">General Trader ads</a></li>
+					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=1" rel="track-topnav-classifieds" onclick="javascript:popUp('classifieds', this.href); return false;">General Trader ads</a></li>
 				
-					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=5" onclick="javascript:popUp('classifieds', this.href); return false;">Personal ads</a></li>
+					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=5" rel="track-topnav-classifieds" onclick="javascript:popUp('classifieds', this.href); return false;">Personal ads</a></li>
 				
-					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=6" onclick="javascript:popUp('classifieds', this.href); return false;">Travel ads</a></li>
+					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=6" rel="track-topnav-classifieds" onclick="javascript:popUp('classifieds', this.href); return false;">Travel ads</a></li>
 				
-					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=7" onclick="javascript:popUp('classifieds', this.href); return false;">Announcements ads</a></li>
+					<li><a href="http://search.classifieds.news.com.au/servlet/Controller?controlleraction=search&amp;sectionid=7" rel="track-topnav-classifieds" onclick="javascript:popUp('classifieds', this.href); return false;">Announcements ads</a></li>
 				
-					<li><a href="https://www.adplacer.com.au/?from=news">Place a classified newspaper ad</a></li>
+					<li><a href="https://www.adplacer.com.au/?from=news" rel="track-topnav-classifieds">Place a classified newspaper ad</a></li>
 				
-					<li><a href="https://www.adplacer.com.au/?from=news">Weekend Shopper</a></li>
+					<li><a href="https://www.adplacer.com.au/?from=news" rel="track-topnav-classifieds">Weekend Shopper</a></li>
 				
 		</ul>
 	
 					</li>
 				
-					<li><a href="/network/" class="arrow">NEWS NETWORK</a>
+					<li><a href="/network/" rel="track-topnav-newsnetwork" class="arrow">NEWS NETWORK</a>
 						
 		<ul class="drop-menu">
 			
-					<li><a href="http://www.news.com.au/">NEWS.com.au</a></li>
+					<li><a href="http://www.news.com.au/" rel="track-topnav-newsnetwork">NEWS.com.au</a></li>
 				
-					<li><a href="http://www.theaustralian.news.com.au/">The Australian</a></li>
+					<li><a href="http://www.theaustralian.news.com.au/" rel="track-topnav-newsnetwork">The Australian</a></li>
 				
-					<li><a href="http://www.news.com.au/dailytelegraph/">The Daily Telegraph</a></li>
+					<li><a href="http://www.news.com.au/dailytelegraph/" rel="track-topnav-newsnetwork">The Daily Telegraph</a></li>
 				
-					<li><a href="http://www.news.com.au/couriermail/">The Courier-Mail</a></li>
+					<li><a href="http://www.news.com.au/couriermail/" rel="track-topnav-newsnetwork">The Courier-Mail</a></li>
 				
-					<li><a href="http://www.news.com.au/heraldsun/">Herald Sun</a></li>
+					<li><a href="http://www.news.com.au/heraldsun/" rel="track-topnav-newsnetwork">Herald Sun</a></li>
 				
-					<li><a href="http://www.news.com.au/adelaidenow/">AdelaideNow</a></li>
+					<li><a href="http://www.news.com.au/adelaidenow/" rel="track-topnav-newsnetwork">AdelaideNow</a></li>
 				
-					<li><a href="http://www.news.com.au/perthnow/">PerthNow</a></li>
+					<li><a href="http://www.news.com.au/perthnow/" rel="track-topnav-newsnetwork">PerthNow</a></li>
 				
-					<li><a href="http://www.news.com.au/mercury/">The Mercury</a></li>
+					<li><a href="http://www.news.com.au/mercury/" rel="track-topnav-newsnetwork">The Mercury</a></li>
 				
-					<li><a href="http://www.ntnews.news.com.au/">NT News</a></li>
+					<li><a href="http://www.ntnews.news.com.au/" rel="track-topnav-newsnetwork">NT News</a></li>
 				
-					<li><a href="http://www.news.com.au/newspapers/">Community Papers</a></li>
+					<li><a href="http://www.news.com.au/newspapers/" rel="track-topnav-newsnetwork">Community Papers</a></li>
 				
 		</ul>
 	
@@ -397,12 +441,12 @@ document.write('IPT>');
      Section:  5007180;
 	 videoSectionID:  5007180;
      Variant:  static;
-     Elements: av site drop1 drop2 ad feature links tools -->
+     Elements: av site ad feature links tools -->
 
 		<div class="right-content-column">
 			<!-- right content panel -->
-			<div class="right-content-panel clearfloat last">
-								
+			<div class="right-content-panel clearfloat last">		
+				
 				
 				<!-- RHS Block: av -->
 		<h4 class="network media">Video</h4>
@@ -412,17 +456,17 @@ document.write('IPT>');
 		<div class="">
 			
 			
-		<a href="http://video2.foxsports.com.au/video.php?cat=921&amp;id=3145" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=800,height=600');return false;">
-	<img src="/common/imagedata/0,,5517618,00.jpg" alt="Poo's new dating show"></a>
+		<a href="http://video.news.com.au/videoplayer?Channel=NEWS.com.au+video&amp;ClipId=1094_205924&amp;bitrate=300&amp;Format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	<img src="/common/imagedata/0,,5788546,00.jpg" alt="Runway to LA"></a>
 		
 			
-		<a href="http://video2.foxsports.com.au/video.php?cat=921&amp;id=3145" target="_blank" class="play-media" onclick="javascript:window.open(this.href, '_blank', 'width=800,height=600');return false;">
+		<a href="http://video.news.com.au/videoplayer?Channel=NEWS.com.au+video&amp;ClipId=1094_205924&amp;bitrate=300&amp;Format=wmp" target="_blank" class="play-media" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
 	Watch this Video NOW!</a>
 
 			<h5>
-		<a href="http://video2.foxsports.com.au/video.php?cat=921&amp;id=3145" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=800,height=600');return false;">
-	Poo's new dating show</a></h5>
-			<p>MARK Philippoussis is in a state of shock in a US dating show that is completely messing with his head.</p>
+		<a href="http://video.news.com.au/videoplayer?Channel=NEWS.com.au+video&amp;ClipId=1094_205924&amp;bitrate=300&amp;Format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	Runway to LA</a></h5>
+			<p><em>AUSTRALIA'S Next Top Model</em> finalist Jordan Loukas talks fame, fashion and reality TV.</p>
 		</div>
 	
 				
@@ -430,20 +474,20 @@ document.write('IPT>');
 			
 			<ul class="">
 			<li class="video">
-		<a href="http://video.news.com.au/videoplayer?channel=Fox+Other&amp;clipid=1198_58657&amp;bitrate=300&amp;format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
-	Hollywood gossip</a></li>
+		<a href="http://video.news.com.au/videoplayer?Channel=Human+Interest&amp;ClipId=905384&amp;bitrate=300&amp;Format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	Knut so nice</a></li>
 		
 			<li class="video">
-		<a href="http://www.video.news.com.au/newsinteractive/videopage/videoplayer/?channel=National+News&amp;clipid=1094_118274&amp;bitrate=300&amp;format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
-	The 'Big Bird' A380</a></li>
+		<a href="http://video.news.com.au/videoplayer?Channel=National+News&amp;ClipId=1094_206375&amp;bitrate=300&amp;Format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	AFI gongs and glamour</a></li>
 		
 			<li class="video">
-		<a href="http://video.news.com.au/videoplayer?channel=Fox+Other&amp;clipid=1198_58687&amp;bitrate=300&amp;format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
-	Fainting goats 'freeze and fall'</a></li>
+		<a href="http://video.news.com.au/videoplayer?Channel=World+News&amp;ClipId=905454&amp;bitrate=300&amp;Format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	Shooter 'sought fame'</a></li>
 		
 			<li class="video">
-		<a href="http://video.news.com.au/videoplayer?channel=NEWS.com.au+video&amp;clipid=1094_118436&amp;bitrate=300&amp;format=wmp" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
-	'Hannibal' condemns slaughter </a></li>
+		<a href="http://video.news.com.au/videoplayer?Channel=NEWS.com.au+video&amp;ClipId=1094_205674&amp;bitrate=300&amp;Format=flash" target="_blank" onclick="javascript:window.open(this.href, '_blank', 'width=760,height=570');return false;">
+	Smart music for Gen Y</a></li>
 		</ul>
 		
 		
@@ -452,54 +496,58 @@ document.write('IPT>');
 			</p>
 		</div>
 	<!-- END RHS Block: av --><!-- RHS Block: site -->
-		<h4 class="network highlight">Gory golf game</h4>
+		<h4 class="network highlight">Free Christmas games</h4>
 		<!-- Right Panel Dropzone -->
 		<div class="network highlight">
 		    <div class="inner">
-		        <a href="http://www.news.com.au/story/0,23599,21866787-421,00.html"><img src="/common/imagedata/0,,5516768,00.jpg" width="152" height="77" alt=""></a>
-			    <a href="http://www.news.com.au/story/0,23599,21866787-421,00.html">
+		        <a href="http://www.news.com.au/feature/1,,5014262,00.html"><img src="/common/imagedata/0,,5784021,00.jpg" width="152" height="77" alt="" title=""></a>
+			    <a href="http://www.news.com.au/feature/1,,5014262,00.html">
 				</a>		        
-				<h5><a href="http://www.news.com.au/story/0,23599,21866787-421,00.html"><span>Whack!</span></a></h5>
+				<a href="http://www.news.com.au/feature/1,,5014262,00.html">Christmas special</a><br>Count down to Christmas with our Advent calendar game special
 
 
-
-RSPCA slams beer stubby holders that promote "cane toad golf".
 				
 		    </div>
 		</div>
 		<!-- END Right Panel Dropzone -->
-	<!-- END RHS Block: site --><!-- RHS Block: drop1 --><!-- END RHS Block: drop1 --><!-- RHS Block: drop2 --><!-- END RHS Block: drop2 --><!-- RHS Block: ad --><!-- END RHS Block: ad --><!-- RHS Block: feature --><!-- END RHS Block: feature --><!-- RHS Block: links -->
-					<h4 class="network sponsors">Ads By <img alt="Yahoo!" height="13" src="/images/bg-h4-sponsor-yahoo.jpg" width="62"></h4>
-					<div class="network sponsors">
-						<div class="inner" id="sponsor5007180">
-						    <!-- Get the array of sponsored listings from Yahoo! -->
-							<script type="text/javascript" language="javascript" src="http://cmhtml.overture.com/d/search/p/newsinteractive/js/au/ctxt/?ctxtId=newscom_homepage&amp;Partner=news_au_newscom_ctxt&amp;type=homepage&amp;maxCount=3&amp;affilData=ip%3D202.139.106.79%26xfip%3D89.172.234.101%2C+213.144.186.204%2C+64.62.193.60%2C+202.139.106.99%26ua%3DMozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%29"></script>
-							<!-- Extract and display sponsored listings -->
-							<script>
-							    contentMatchBootstrap = function() {
-								    // pass in a unique identifier for the parent div and the class name of the UL
-								    showListings("sponsor5007180", "article-link-list");
-								}
-							</script>
+	<!-- END RHS Block: site --><!-- RHS Block: ad --><!-- END RHS Block: ad --><!-- RHS Block: feature --><!-- AdSpace -->
+<script type="text/javascript" language="JavaScript">
+<!-- Hide from old browsers
+// Cache-busting and pageid values
+random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+
+document.write('<SCR');
+document.write('IPT TYPE="TEXT/JAVASCRIPT" SRC="http://mercury.tiser.com.au/jserver/acc_random=' + random + '/SITE=NEWS/AREA=NEWS.HOME/NETWORKPROMO=SPOTLIGHT/AAMSZ=210X160/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+
+// End Hide -->
+</script><script type="TEXT/JAVASCRIPT" src="http://mercury.tiser.com.au/jserver/acc_random=6025150/SITE=NEWS/AREA=NEWS.HOME/NETWORKPROMO=SPOTLIGHT/AAMSZ=210X160/pageid=15454873"></script>
+
+<noscript>
+<A HREF="http://mercury.tiser.com.au/adclick/SITE=NEWS/AREA=NEWS.HOME/NETWORKPROMO=SPOTLIGHT/AAMSZ=210X160/pageid=1">
+<IMG SRC="http://mercury.tiser.com.au/nserver/SITE=NEWS/AREA=NEWS.HOME/NETWORKPROMO=SPOTLIGHT/AAMSZ=210X160/pageid=1"></A>
+</noscript>
+
+<!-- /AdSpace --><!-- END RHS Block: feature --><!-- RHS Block: links -->
 					
-						</div><!-- .inner -->
-					</div><!-- .network sponsors -->
+					<script type="text/javascript">google_ad_channel='other';</script>
+					<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 				<!-- END RHS Block: links --><!-- RHS Block: tools --><h5>Tools</h5>
 
 		
 		
-		<div class="network tools">
+		<div class="network">
 			<div class="inner">
 				
-				    <ul class="tools-link-list clearfloat">
-        <li class="tool-rss"><a href="http://www.news.com.au/rss">Receive our News Feed</a><br><span><a href="http://www.news.com.au/rss">What is RSS?</a></span></li>
-<li class="tool-newsletter"><a href="http://news.reply.com.au/ni/newspulse.asp">Receive our Email Newsletter</a></li>
-<li class="tool-pics"><a href="http://www.news.com.au/sendusphotos">Send Us Your News Photos</a></li>
-<li class="tool-tips"><a href="http://www.news.com.au/storytip">Send us your Story Tips </a></li>
+				<ul class="tools-link-list clearfloat">
+<li class="tool-rss"><a href="http://www.news.com.au/rss">Receive our news feed</a><br><span><a href="http://www.news.com.au/rss">What is RSS?</a></span></li>
+<li class="tool-newsletter"><a href="http://news.reply.com.au/ni/newspulse.asp">Receive our email newsletter</a></li>
+<li class="tool-pics"><a href="http://www.news.com.au/sendusphotos">Send us your news photos</a></li>
+<li class="tool-tips"><a href="http://www.news.com.au/storytip">Send us your story tips </a></li>
+<li class="tool-mobile"><a href="http://m.news.com.au/web.htm">News on your mobile</a></li>
 </ul>
-
-
-
 			</div>
 		</div>
 	<!-- END RHS Block: tools -->
@@ -534,45 +582,24 @@ RSPCA slams beer stubby holders that promote "cane toad golf".
 				<li><a href="/partnerheadlines_news">News Headlines from Our Partners</a></li>
     		</ul>
 
-    		<p class="copyright">Copyright 2007 News Limited. All times AEST (GMT +10).</p>
+    		<p class="copyright">Copyright 2007 News Limited. All times AEDT (GMT +11).</p>
 		</div> <!-- // #footer 29th May 07 -->
 			
-		<!-- START RedMeasure V4 - Java v1.1 Revision: 1.8 -->
-		<!-- COPYRIGHT 2000 Red Sheriff Limited -->
-		<script language="JavaScript"><!--
-			var pCid="au_newscorp_0";
-			var w0=1;
-			var refR=escape(document.referrer);
-			if (refR.length>=252) refR=refR.substring(0,252)+"...";
-			//--></script>
-		<script language="JavaScript1.1"><!--
-			var w0=0;
-		//--></script>
-		<script language="JavaScript1.1" src="http://server-au.imrworldwide.com/a1.js">
+		<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+		<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+		<script type="text/javascript">
+			var _rsCI="newscorp";
+			var _rsCG="0";
+			var _rsDN="//secure-au.imrworldwide.com/";
+			var _rsCC=0;
 		</script>
-		<script language="JavaScript"><!--
-			if(w0){
-				var imgN='<img src="http://server-au.imrworldwide.com/cgi-bin/count?ref='+
-				refR+'&cid='+pCid+'" width=1 height=1>';
-				if(navigator.userAgent.indexOf('Mac')!=-1){document.write(imgN);
-			}else{
-				document.write('<applet code="Measure.class" '+
-				'codebase="http://server-au.imrworldwide.com/"'+'width=1 height=2>'+
-				'<param name="ref" value="'+refR+'">'+'<param name="cid" value="'+pCid+
-				'"><textflow>'+imgN+'</textflow></applet>');
-				}
-			}
-			document.write("<COMMENT>");
-		//-->
-		</script><comment>
+		<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
 		<noscript>
-		<img src="http://server-au.imrworldwide.com/cgi-bin/count?cid=au_newscorp_0" width=1 height=1>
+		<div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=newscorp&amp;cg=0" alt=""/></div>
 		</noscript>
-		</comment>
-		<!-- END RedMeasure V4 -->
-		
-			<!-- D : Thu Jun 07 09:21:34 2007-->
-
+		<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+			
+			<!-- c : Tue Dec 04 17:08:39 2007-->
 			
 	<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 	<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
@@ -584,8 +611,9 @@ RSPCA slams beer stubby holders that promote "cane toad golf".
 	//CONFIGURATION VARIABLES
 	hbx.acct="DM56111989CD71EN3";//ACCOUNT NUMBER(S)
 	hbx.pn="index";//PAGE NAME(S)
-	hbx.mlc="/news/privacy";//MULTI-LEVEL CONTENT CATEGORY
-	hbx.pndef="title";//DEFAULT PAGE NAME
+	
+		hbx.mlc="/news/privacy";//MULTI-LEVEL CONTENT CATEGORY
+	 hbx.pndef="title";//DEFAULT PAGE NAME
 	hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 	
 	//OPTIONAL PAGE VARIABLES
