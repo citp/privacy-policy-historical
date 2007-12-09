@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624182915id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209111640id_/http%3A//www.ugoto.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - uGoto.com
+
+### Privacy Policy 
 
 We respect your privacy, and we want you to feel comfortable using the uGoto web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than uGoto.com may also receive your information. 
 
@@ -15,36 +17,3 @@ uGoto.com may use your personally identifiable information to provide you with a
 Personally identifiable information also may be disclosed to the proper authorities in special situations where uGoto.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with uGoto.com's rights, property, users, or anyone else who may be harmed by such activities. uGoto.com may reveal personally identifiable information when we have been informed by law enforcement authorities or have established a good faith belief that the law requires uGoto.com to do so.
 
 We reserve the right to change our privacy policy at any time by posting revisions on the uGoto.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
-
-| 
-
-## Today's Top Sites
-
-|   
-  
----  
-[Rate hot girls!](https://web.archive.org/promote/track.php?id=1534)  
-[Hot Sexy TV](https://web.archive.org/promote/track.php?id=1524)  
-[Shocking Videos](https://web.archive.org/friends/out/480/ "http://www.humoron.com")  
-[motata video](https://web.archive.org/friends/out/5250/ "http://www.motata.net")  
-[Video Search](https://web.archive.org/friends/out/356/ "http://www.flurl.com")  
-[Hot Sexy Videos](https://web.archive.org/friends/out/4987/ "http://www.lemonzoo.com")  
-[Crazy Videos](https://web.archive.org/friends/out/942/ "http://jokes-time.com/")  
-[Tons of Videos](https://web.archive.org/friends/out/569/ "http://www.yourfilehost.com")  
-[Naughty Videos](https://web.archive.org/friends/out/2282/ "http://needlaugh.com")  
-[Sexy Vids & Pic](https://web.archive.org/friends/out/3374/ "http://funnypictures.tv")  
-[Hot Video Links](https://web.archive.org/friends/out/5056/ "http://www.hotlinkspace.com")  
-[Yikers Videos](https://web.archive.org/friends/out/316/ "http://yikers.com/")  
-[ **add your site**](https://web.archive.org/friends/signup.php)  
-[ **more cool sites**](https://web.archive.org/friends/)  
- [ **Submit**](https://web.archive.org/submit "Free Media Uploads")      [Vote on Media](https://web.archive.org/submitted/latest/ "Vote on Submitted Media")      Join Chat     **Did You Know**? Ostrich racing is a popular sport in South Africa \- [view more](https://web.archive.org/randomfacts)
-
-## Other Cool Videos
-
-[](https://web.archive.org/friends/out/1773/ "http://www.pagez.co.uk")[](https://web.archive.org/friends/out/4739/ "http://www.davesdaily.com")[](https://web.archive.org/friends/out/356/ "http://www.flurl.com")[](https://web.archive.org/friends/out/5250/ "http://www.motata.net")[](https://web.archive.org/friends/out/480/ "http://www.humoron.com")  
-Trade traffic? Sign up and start sending traffic. We will send 1:1 back via the random rotation plugs above. The more hits you send the more hits you will get back. [**Sign up**](https://web.archive.org/friends/signup.php) if you are interested in trading permanent plug.
-
-## User Statistics
-
-  
-[ **view more member rankings**](https://web.archive.org/members/)
