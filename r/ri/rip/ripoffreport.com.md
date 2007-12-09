@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618085625id_/http%3A//www.ripoffreport.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209173558id_/http%3A//www.ripoffreport.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Ripoff Report
+# Ripoff Report: By Consumers, For Consumers
 
 This privacy policy applies to the Ripoff Report web site. Our contact information is:
 
@@ -32,3 +32,29 @@ Who has access to the information we collect?
 Of the information we do collect, we do not provide our visitors with access to information we collect.
 
 If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
+
+Did you finance with Washington Mutual in 2007 and get an appraisal of your home?
+
+If so, you might be entitled to a **_full refund_**.
+
+E-mail  
+[classaction@  
+careylaw.com](mailto:classaction@careylaw.com?subject=Washington%20Mutual%20Rip-off%2007&body=Give%20us%2020your%20contact%20information.)  
+to see if you qualify.
+
+Did your employer's bank charge you to cash your payroll check because you didn't have an account at their bank?
+
+If so, you might be entitled to relief, _even_ if you no longer work for that employer.
+
+You may be a victim and due compensation! E-mail  
+[classaction@  
+earthlaw.com](mailto:classaction@earthlaw.com?subject=My%20Employer%20Rip-off%20Bank%20Fee&body=Give%20us%20the%20name%20of%20the%20bank,%20the%20company%20you%20work%20for,%20city%20and%20state%20with%20your%20contact%20information.)  
+to see if you qualify.
+
+The federal government didn't live up to its promise to deliver the expedited passports within 14 days.
+
+_Did you pay the federal government $60 to expedite the delivery of your passport and still get it late!?_
+
+[Join Class Action Now!](http://www.ripoffreport.com/reports/0/255/ripoff0255978.htm)
+
+Advertisers above have met our [strict standards for business conduct](https://web.archive.org/advertise.asp).
