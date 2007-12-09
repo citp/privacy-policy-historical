@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510134824id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209173525id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Endicia Internet Postage - Privacy Statement
+# Endicia Privacy Policy
 
-Your privacy is extremely important to us, and we are committed to protecting your privacy rights. This policy describes how we treat your personal and non-personal information collected when you navigate our web-site, use our products, or contact us. 
-
-### Information Collection and Use
+**Information Collection and Use**
 
   1. **When You Visit Our Web Site**  
 When you visit and browse through our web site, we automatically gather and store the following information about your visit (that does not identify you personally): 
@@ -61,11 +59,11 @@ When you use our software to print electronic Delivery or Signature Confirmation
 
 
 
-### Security Practices For Information Collected
+**Security Practices For Information Collected**
 
 We will safeguard, according to strict standards of security and confidentiality, any information you share with us. To ensure that your personal information remains confidential, the information is sent via a "secure session" established by Secure Sockets Layer (SSL) or equivalent technology. These technologies encrypt \- or scramble - your personal information to guard against unauthorized access. 
 
-### Information Sharing
+**Information Sharing**
 
 We do not rent, sell, or swap your personal information with any one for marketing purposes. We only share your information with third parties as follows: 
 
@@ -76,15 +74,17 @@ We do not rent, sell, or swap your personal information with any one for marketi
   5. If you have a DYMO Stamps account, we may share certain information on that DYMO Stamps account, including your contact information, billing transactions, and usage data, with DYMO Corporation. DYMO's usage of this information is governed by DYMO Corporation's privacy policy. For more information on DYMO's privacy policy, plase visit [www.dymo.com](http://www.dymo.com/). 
   6. In the case of a merger or acquisition of our company, service, or assets, we may share your information with the other company, and will notify you of any such transfer. 
 
+
+
 We may, from time to time, communicate information to you regarding services, products, announcements, or special offers from us or from one of our partners. In cases where the communication concerns one of our partners, only we (or our agents under confidentiality agreements) will communicate with you directly, and we will not release your information to our partners. You may opt-out of these communications by notifying us at the e-mail address listed below. 
 
-### Your Access To Information Collected
+**Your Access To Information Collected**
 
 We make every effort to ensure the data we collect is accurate, complete and timely. You may review your account information on-line by logging into your account on the account management section of our web site. You may correct your information at the account management web site, or you may contact us to correct or delete any of your data. 
 
 If you have any questions or suggestions about our privacy policy, please contact us at 
 
-|  [support@endicia.com](mailto:support@endicia.com)   
+[support@endicia.com](mailto:support@endicia.com)   
 650-321-2640 x140   
 ---  
 **Endicia Internet Postage**  
@@ -93,6 +93,13 @@ IBIP Privacy
 Palo Alto, CA 94301-1099  
   
   
-### Privacy Policy Changes
+**Privacy Policy Changes**
 
 We may, from time to time, update our privacy policy. If we make changes to our privacy policy, the new privacy policy will be posted on this web site. 
+
+Endicia Internet Postage is now owned by Sanford, L.P. as a result of the purchase of all of its stock on July 1, 2007. Endicia Internet Postage will continue its operations as a separate subsidiary of Sanford, L.P. 
+
+Last updated on July 2, 2007.
+
+Endicia customers have printed over $1 billion  
+in postage and saved over $65 million.
