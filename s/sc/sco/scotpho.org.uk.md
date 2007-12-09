@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotpho.org.uk privacy policy that was archived on 2007-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070314155923id_/http%3A//www.scotpho.org.uk/web/site/home/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotpho.org.uk privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209055939id_/http%3A//www.scotpho.org.uk/web/site/home/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy and data protection policy
 
