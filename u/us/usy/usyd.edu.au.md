@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072105id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usyd.edu.au privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209195332id_/http%3A//www.usyd.edu.au/privacy.shtml) for the most accurate reproduction.*
 
 # University Web Sites Privacy Statement - The University of Sydney
 
@@ -59,21 +59,21 @@ Survey data will be used only for stated purposes, as approved by the University
 
 ## 3\. Disclosure of personal information
 
-| The University will not disclose personal information concerning you, including your email address, to parties outside the University except in accordance with its [Privacy Policy](http://www.usyd.edu.au/arms/privacy/policy.htm) which conforms to the requirements of the [NSW Privacy and Personal Information Protection Act](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/index.html) . Details regarding disclosure of personal information by the University may be found in the Privacy Management Plan . 
+       |  The University will not disclose personal information concerning you, including your email address, to parties outside the University except in accordance with its [Privacy Policy](http://www.usyd.edu.au/senate/policies/Privacy.pdf) (pdf) which conforms to the requirements of the [NSW Privacy and Personal Information Protection Act](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/index.html) . Details regarding disclosure of personal information by the University may be found in the Privacy Management Plan . 
 
-Student users may opt-in to having their name and email addresses published as part of the on-line directory of students. The University supplies Email facilities so that it can keep in contact with its students and staff in a timely and cost effective manner  
+Student users may opt-in to having their name and email addresses published as part of the on-line directory of students. The University supplies Email facilities so that it can keep in contact with its students and staff in a timely and cost effective manner   
   
 ---|---  
 **Public Forums**  
-| Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
+  |  Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
   
 
 
 ## 4\. Data Quality/Access
 
-      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Personnel Services](http://www.usyd.edu.au/personnel/) as appropriate. 
+      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Sydney People](http://www.usyd.edu.au/sydneypeople/) as appropriate. 
 
-Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/pdf/pmp.pdf).   
+Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/privacy/privacy_mgmt_plan.shtml).   
   
 ---|---  
   
