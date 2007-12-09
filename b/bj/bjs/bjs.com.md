@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627000836id_/http%3A//www.bjs.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209152344id_/http%3A//www.bjs.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - BJ's Wholesale Club
 
 ## Privacy Policy
 
 **Effective Date: September 20, 2001  
-Last Updated: March 22, 2007**
+Last Updated: November 27, 2007**
 
 This Privacy Policy describes our privacy practices with respect to information we collect about our Members and other customers and visitors who (1) shop in our warehouse clubs or purchase products through our web site(s) or (2) register to use our web site(s).
 
@@ -121,16 +121,6 @@ Any information collected on BJ’s Sites is located on a secure server located 
 
 We reserve the right to change this Privacy Statement at any time. However, we will alert you that changes have been made by indicating at the top of the Privacy Statement the date it was last updated. If we ever make a material change to how we use the information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance and provide you the opportunity to change your marketing preferences. We will use information in accordance with the privacy policy under which the information was collected.
 
-### PHARMACIES
-
-This section explains our policy with respect to the uses of personal pharmacy information. Prescription information is stored in an electronic system separate from all other stored Member personal information.
-
-When a prescription is filled for an individual we collect the name, address, telephone number, age, gender, allergies and other prescription-related information. We are required by law to collect this type of information to identify potentially dangerous drug interactions or other health concerns. This information is used to process a pharmacy-related order, to contact an individual with any questions and to provide counseling if necessary.
-
-BJ’s Pharmacy® database is maintained separately from our other Member databases. Only licensed pharmacists, specifically authorized staff and others permitted by law to view this information are allowed to do so. By using our services, you consent to our use and disclosure of your personal health information for purposes of treatment, payment or healthcare operations. We do not otherwise sell, share, rent or disclose personal information collected from our pharmacy or maintained in pharmacy records unless you have either authorized such disclosure or such disclosure is permitted or required by law.
-
-Additional measures taken to protect the confidentiality of prescription information are explained in the BJ’s Pharmacy Notice of Privacy Practices available at our Clubs and on [BJ’s Sites](http://www.bjs.com/news/content/item420.shtml).
-
 ### ONLINE SPECIFICS
 
 **Specialty Business Partners**
@@ -144,5 +134,3 @@ Although co-branded with the BJ’s name, these Partner Sites are independently 
 We encourage parents to take an active interest in their children's use of the Internet. BJ’s Sites are not targeted to children younger than 13 years of age. BJ’s does not knowingly collect or store information of children younger than 13. Visitors to BJ’s Sites who are under the age of 13 may use these sites only with the supervision and consent of a parent or guardian. None of the products or services available through BJ’s Sites may be purchased by anyone less than 18 years of age.
 
 **If you feel that BJ’s is not abiding by its posted Privacy Policy, please notify BJ’s[online](https://web.archive.org/member/service/service.enter.display) or by writing to BJ’s Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: Member Care.**
-
-©2007 BJ's Wholesale Club, Inc.
