@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629092753id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209190626id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
 
 # Privacy Policy - Independent Online Edition > News
 
