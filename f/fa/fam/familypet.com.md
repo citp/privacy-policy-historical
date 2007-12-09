@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familypet.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217130544id_/http%3A//www.familypet.com/index.php%3Fshow_aux_page%3D2%26PHPSESSID%3D4c4850eb8d221e19222d26fb0aaf8005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familypet.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209021826id_/http%3A//www.familypet.com/index.php%3Fshow_aux_page%3D2%26PHPSESSID%3D638a70203cc7f7b41c4a87b481efc4a7) for the most accurate reproduction.*
 
 # FamilyPet.com Pet Supply - Privacy Policy - Pet Supply Store; Dog Supplies - Cat, Bird, Fish and Pet Products!
 
