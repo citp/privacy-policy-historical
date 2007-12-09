@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202222920id_/http%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209133105id_/http%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
 
 # Vistek - Privacy Statement - Information and Collection, Purchases, Log files, Sharing, Links, Newsletter, Contests, Security, Supplementation of Info, Notification of Changes
 
