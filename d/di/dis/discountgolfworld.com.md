@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630223804id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209124015id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement: Discount Golf World
+
+[](http://www.discountgolfworld.com/specials.php?id=111)
 
  Discount Golf World has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[DiscountGolfWorld.com](http://www.discountgolfworld.com/)**. 
 
@@ -40,4 +42,18 @@ This site gives users the following options for removing their information from 
 Questions? Call us toll-free 1-866-411-4349. 
 
   
+
+
+  * [Taylor Made R7 Players Towel](http://www.discountgolfworld.com/products/taylormade/r7-players-towel.html)
+  * [Taylor Made Players Towel](http://www.discountgolfworld.com/products/taylormade/players-towel.html)
+  * [Scotty Cameron by Titleist Circa 62 Putter](http://www.discountgolfworld.com/products/scottycameron/circa-62.html)
+  * [Scotty Cameron by Titleist Circa 62 Charcoal Mist Putter](http://www.discountgolfworld.com/products/scottycameron/circa-62-cm.html)
+  * [Ping G5 Fairway Wood](http://www.discountgolfworld.com/products/ping/g5-fairway.html)
+  * [Ping G5 Driver](http://www.discountgolfworld.com/products/ping/g5-driver.html)
+  * [Nike 62" Windsheer II AutoOpen](http://www.discountgolfworld.com/products/nike/windsheer-2-auto.html)
+  * [Nike 62" Windproof Umbrella for 2008](http://www.discountgolfworld.com/products/nike/windproof-umbrella-2008.html)
+  * [Nike Dri-Fit Rolltop Socks](http://www.discountgolfworld.com/products/nike/rolltop-socks.html)
+  * [Nike Air Max Rejuvenate Golf Shoes](http://www.discountgolfworld.com/products/nike/rejuvenate.html)
+  * [Nike Computer Backpack](http://www.discountgolfworld.com/products/nike/computer-backpack.html)
+
 
