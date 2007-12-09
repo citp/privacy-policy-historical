@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624063246id_/http%3A//pogo.tv/jsp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209115050id_/http%3A//www.pogo.tv/jsp/help/privacy.jsp) for the most accurate reproduction.*
 
 # POGO TV
 
