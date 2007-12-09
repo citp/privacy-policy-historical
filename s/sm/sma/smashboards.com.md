@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509041051id_/http%3A//www.smashboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashboards.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209213459id_/http%3A//smashboards.com/privacy.php) for the most accurate reproduction.*
 
-# Smash World Forums | SmashBoards.com - Powered by vBulletin - Privacy Policy
+# Smash World Forums - Privacy Policy
 
 _Did you know:_  
 When you login, you see less forum advertising?  
-Better yet, [Premium members](https://web.archive.org/web/20070509041051id_/http%3A//www.smashboards.com/premium.php) see no forum advertising!   
+Better yet, [Premium members](https://web.archive.org/web/20071209213459id_/http%3A//smashboards.com/premium.php) see no forum advertising!   
 
 
 ### Privacy Policy
@@ -25,4 +25,4 @@ Smash World's forums are directed to children, teenagers, and adults of all ages
 We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you have questions or would like to see the specific privacy policies of our Adverts, please [email Gideon](mailto:gideon@smashboards.com?Subject=Policy_Questions). Our adverts and we reserve the right to change our Privacy Policy at anytime.   
   
 [](http://topsite.smashboards.com/)  
-All times are GMT -5. The time now is 11:09 PM.
+All times are GMT -4. The time now is 05:34 PM.
