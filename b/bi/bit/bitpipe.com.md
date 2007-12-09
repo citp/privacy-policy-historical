@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215023237id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209124812id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # TechTarget, The Most Targeted IT Media
 
@@ -40,7 +40,8 @@ TechTarget will investigate your complaint and respond to you promptly.
 
 __Key Definitions
 
-In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.  
+In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.
+
 “Clickstream Data” means the information that TechTarget collects through cookies, log files, beacons and clear GIFs, as described in Section 4 below.
 
 “Content Provider” means a third party that owns a white paper, analyst report or other document and allows TechTarget to link to or display that document on the Sites.
@@ -76,6 +77,8 @@ LeadIQ Document Information: Some of the content found at the Sites or delivered
 Third Party Personal Information: The Sites include an “email a friend” feature, which allows a user to email an article to a third party. The email addresses of third parties to whom such articles or documents are emailed are the only third party personal information collected at the Sites.
 
 2020software.com Registration Information: 2020software.com offers free demos and brochures for multiple accounting and business software systems. Once a user registers to receive this information, their registration information is shared with developers and/or resellers of those accounting and business software systems. This information is forwarded to the developer so that the user can receive the requested information. 
+
+TechnologyGuide.com Registration Information: TechnologyGuide.com consists of a family of websites including: Brighthand.com, NotebookReview.com, DigitalCameraReview.com, SpotStop.com and TabletPCReview.com. Each site publishes original content including product reviews, how to guides, news and editorials. TechnologyGuide.com also features user generated content in the form of a user review section and vibrant forum communities. In order to interact in the forums, a user must first complete the registration form. This information is used to contact the user about the services on our site for which they have expressed interest. And, the information provided by the user is also displayed in the user's public profile in our forums and can be viewed by all visitors of this website. However, to ensure total privacy of our users, we do not display a user e-mail addresses.
 
 Supplementary Information: TechTarget may supplement Member Details with publicly available information about a Member’s company. For example, if a Member indicates she works for X Company, we may obtain information showing that X Company has a certain number of employees and a certain estimated annual turnover. This information is called “Supplementary Information”. 
 
@@ -123,7 +126,7 @@ Sharing Information: TechTarget may share profile information collected:
 
   * When we have your consent to share the information. 
   * When you register for one of our search sites you agree to receive marketing research surveys. TechTarget utilizes the services of MyView.com for survey deployment and incentive distribution. If you do not wish to participate in market research surveys, simply opt-out from any survey email you receive. 
-  * When you register or log in to access vendor content or when you register to attend a vendor-sponsored TechTarget event (including Conferences, Custom Media events and Editorial events), or when you request a demo or brochure on 2020software.com. The vendor's use of that information is governed by the vendor's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these vendors directly if you have any questions about their use of this information. 
+  * When you register or log in to access vendor content or when you register to attend a vendor-sponsored TechTarget event (including Conferences, Custom Media events and Editorial events), or when you request a demo or brochure on 2020software.com. The vendor's use of that information is governed by the vendor's privacy policy and may be used for follow up by telephone, email, direct mail or other common methods. You should contact these vendors directly if you have any questions about their use of this information. 
   * Profile information collected when you register or log in on a co-branded partner site is generally available both to TechTarget and that partner. However, the partner's use of that profile information is governed by the partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information. 
   * TechTarget does not share any of your profile information with any person or entity, unless you register to access vendor content, register to attend a vendor-sponsored TechTarget event (including Conferences, Custom Media events and Editorial events), register to request a demo or brochure from 2020software.com, or register for our Newsletters, or as otherwise expressly stated in this Policy [E.G., BUSINESS TRANSFERS]. 
 
@@ -131,12 +134,13 @@ Sharing Information: TechTarget may share profile information collected:
 
 __What Information Do We Disclose to Third Parties?
 
-__Disclosure of Anonymous, Aggregated Information
+Disclosure of Anonymous, Aggregated Information
 
-We provide summary reports to our Content Providers, based on our analysis of Clickstream Data. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." This aggregated information is anonymous and does not disclose to the Content Providers any Member Details about the individual users who saw or clicked on their reports.   
+We provide summary reports to our Content Providers, based on our analysis of Clickstream Data. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." This aggregated information is anonymous and does not disclose to the Content Providers any Member Details about the individual users who saw or clicked on their reports. 
+
 TechTarget also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes. 
 
-__Disclosure of Personal Information
+Disclosure of Personal Information
 
 Philosophy: The Content Providers make the Third Party Content available through TechTarget in return for receiving the contact information of Users who view their Third Party Content. Accordingly, if you view Third Party Content, TechTarget may disclose your Member Details, Clickstream Data and Supplementary Information to the Content Provider, as set forth in more detail below. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. Except as set forth in this Privacy Policy, TechTarget will not disclose personal information to any third parties. Notwithstanding the foregoing, TechTarget may at any time disclose profile information to third parties if we are required to do so by law, regulation or court order.
 
@@ -154,7 +158,7 @@ LeadIQ Document Information: The LeadIQ Activity Data collected when you access 
 
 
 
-TechTarget’s customer agreement with the Content Provider prohibits disclosure of your LeadIQ Activity Data to any third party other than agents of the Content Provider for the permitted marketing purposes set forth above.
+TechTarget's customer agreement with the Content Provider prohibits disclosure of your LeadIQ Activity Data to any third party other than agents of the Content Provider for the permitted marketing purposes set forth above.
 
 Third Party Personal Information: TechTarget does not disclose third party personal information collected through the “email a friend” feature to any third party.
 
