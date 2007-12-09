@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellamey.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515064836id_/http%3A//ellamey.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellamey.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209051053id_/http%3A//www.ellamey.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Ellamey.com - You can find all the marriage related services here ...
+# Ellamey.com - Private Policy
 
 |   
 ---  
@@ -9,13 +9,16 @@
    
    
    
-|   
+| 
+
+[](http://www.invictustech.net/)  
+  
 ---  
 **Terms of use**  
 Privacy Policy | Abuse Policy  
 **Privacy Policy**  
   
-Privacy issues are a high priority for us at Ellamey and we follow standard industry practices to maintain your personal information. Please read the following to learn more about our privacy policy.
+Privacy issues are of high priority for us and we follow standard industrial practices to maintain your personal information. Please read the following to learn more about our privacy policy.
 
 **Ellamey does not spam or sell/lease its user information to third parties.**
 
@@ -25,7 +28,7 @@ This Privacy Policy covers Ellamey's treatment of personally identifiable inform
 
 **Personal Information Collected by Ellamey**
 
-**OPTIONAL PROFILE INFORMATION:** Once you provide the basic information to create an account, you will have the opportunity to provide additional information in the Profile section describing your skills, interests, professional and academic background and favorites. Provision of this additional information beyond what is required at registration is entirely optional; it allows you to better identify yourself and create superior networking opportunities with other through shared contexts. but enables you to better identify yourself and find new opportunities on Ellamey. Your Profile information can only be viewed by other Ellamey visitors or registered members or members of your personal network only depending on the option you choose.  
+**OPTIONAL PROFILE INFORMATION:** Once you provide the basic information to create an account, you will have the opportunity to provide additional information in the Profile section describing your skills, interests, professional and academic background and favorites. Provision of this additional information beyond what is required at registration is entirely optional; it allows you to better identify yourself and create superior networking opportunities with other through shared contexts, but enables you to better identify yourself and find new opportunities on Ellamey. Your Profile information can only be viewed by other Ellamey visitors or registered members or only by the members of your personal network, depending on the option you choose.  
   
 Top  
   
@@ -53,13 +56,13 @@ Top
 
 
 
-**PARTNERING WITH OTHERS:** Ellamey may partner with other online services to offer a combined service. Whenever we offer such combined services, Ellamey will make it clear who the partner is and it will be entirely up to you to use or not to use the service. Where any personal information is passed along to the partner you will be informed prior to that sharing.
+**PARTNERING WITH OTHERS:** Ellamey may partner with other online services to offer a combined service. Whenever we offer such combined services, Ellamey will make it clear who the partner is and it will be entirely up to you to use or not to use the service. When any personal information is passed along the partner you will be informed prior to that sharing.
 
-**PROVISION OF AGGREGATE DEMOGRAPHIC INFORMATION TO THIRD PARTIES:** Ellamey reserves the right to provide aggregate demographic information of its member base to advertisers and others so as to attract pertinent advertisers to advertise on Ellamey. We do not shared personal information of individual users with advertisers.  
+**PROVISION OF AGGREGATE DEMOGRAPHIC INFORMATION TO THIRD PARTIES:** Ellamey reserves the right to provide aggregate demographic information of its member base to advertisers and others so as to attract pertinent advertisers to advertise on Ellamey. We do not share personal information of individual users with advertisers.  
   
 Top  
   
-**DISCLOSURES REQUIRED BY LAW:** It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.  
+**DISCLOSURES REQUIRED BY LAW:** It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith and belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.  
   
 **Abuse Policy**  
   
@@ -70,7 +73,7 @@ Ellamey.com is committed to ensuring and enforcing a safe and friendly online co
   * Member contributions must be civil and tasteful and must not be malicious or designed to offend. Use of swear-words or profanity is strictly prohibited.
   * Do not refer to the personality of other participants or attack an individual’s character or personally insult another member. Do not use the Network to harass, threaten or verbally abuse or intimidate anyone, or behave in any manner that would cause annoyance or distress to other members.
   * Members of Ellamey.com may not insult or defame the site, including any of its employees, moderators or freelancers. You may not post the contents (in part or whole) of any email that you may receive from any Ellamey.com employee(s) and/or moderator.
-  * Do not to post any material that is obscene, defamatory, profane, libelous, threatening, harassing, abusive, hateful or embarrassing towards other person(s) or an entity. We encourage a healthy exchange of opinions and disagreements. By all means challenge an opinion – but please do it respectfully. Name-calling, insults and use of foul or abusive language will not be tolerated. This includes the use of offensive member Display Names and URLs (your personal website address on Ellamey.com).
+  * Do not to post any material that is obscene, defamatory, profane, libelous, threatening, harassing, abusive, hateful or embarrassing towards other person(s) or an entity. We encourage a healthy exchange of opinions and disagreements. By all means, challenge an opinion – but please do it respectfully. Name-calling, insults and use of foul or abusive language will not be tolerated. This includes the use of offensive member Display Names and URLs (your personal website address on Ellamey.com).
   * Please be sure before you divulge the details of your identity or personal information in your post(s), including photos of yourself or your family and friends. Anything posted online is accessible to the entire internet community and Ellamey.com is not liable in cases where such information is misused. Please be aware of the general dangers of online information sharing like identity theft, phishing and other fraudulent activites.
   * Members of Ellamey.com are not permitted to collect or distribute personal data concerning other members at any time.
   * A member of Ellamey.com must not impersonate another member.
@@ -90,11 +93,11 @@ Top
 Top  
   
 **Copyrighted Material:** Uploading copies of copyrighted material as a whole or in part on Ellamey.com without explicit permission from the copyright owner shall be deemed to infringe on the copyright and this applies to materials such as text, images, music, movies, games, and other software in digital and analog format. Ellamey.com reserves the right to immediately delete such material without prior permission/consultation from the member. If you suspect that an image submitted to Ellamey.com is copyright protected and has been used fraudulently, please contact us immediately or send us an email to: [ info@ellamey.com](mailto:info@ellamey.com)   
-**Safety Guidelines:** Ellamey.com is always reaching out to a wider audience by showcasing the best of our member contributions. However, in doing so, we will not allow to be uploaded anything on the site that we think could be potentially endangering or is inflammatory or embarrassing to our members. It also helps members to be aware of certain things in the interest of their safety.
+**Safety Guidelines:** Ellamey.com is always reaching out to a wider audience by showcasing the best of our member contributions. However, in doing so, we will not allow to upload anything on the site that we think could be potentially endangering or is inflammatory or embarrassing to our members. It also helps members to be aware of certain things in the interest of their safety.
 
   * All members are responsible for the safety of their personal information. We recommend that members do not disclose their names, addresses, email addresses, telephone numbers or other personal information online.
   * All members need to be aware that when they upload their photos to the site, the photos are not only visible to the entire internet community but can also be downloaded, since any image that can be displayed on a computer screen can be saved by the person viewing it. It is technically not possible to prevent this and hence Ellamey.com cannot be held liable in such cases. If you are worried about someone else viewing or saving your images then please do not submit them.
-  * Ellamey.com encourages healthy discussion on the topics that members contribute to in forums and where relevant, members are allowed to post links to their content. However, overt promotion of, or inappropriate links to other known commercial websites on any forum are not permitted and will be removed. If you are unsure whether a link or a posting is allowed, please send your queries to [ info@ellamey.com](mailto:info@ellamey.com) . The definition of an “appropriate link” is one that is relevant to both the posting and the forum topic. A “commercial” site is considered as one which promotes a product or service for a price or for other consideration that suggests it is a for-profit business.  
+  * Ellamey.com encourages healthy discussion on the topics that members contribute in forums and are relevant and also members are allowed to post links to their content. However, overt promotion or inappropriate links to other known commercial websites on any forum are not permitted and will be removed. If you are unsure whether a link or a posting is allowed, please send your queries to [ info@ellamey.com](mailto:info@ellamey.com) . The definition of an “appropriate link” is one that is relevant to both the posting and the forum topic. A “commercial” site is considered as one which promotes a product or service for a price or for other consideration that suggests it is a for-profit business.  
 
 
   
@@ -114,4 +117,9 @@ Ellamey.com endeavours to foster a vibrant online community of Indians worldwide
   
    
    
+  
+| ADVERTISEMENT  
+---  
+  [](http://www.invictustech.net/)    
+  
  
