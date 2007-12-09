@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617035615id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209214140id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
 
 # Wilton
 
@@ -27,8 +27,8 @@ If, despite our request that you not send us your unpatented ideas, you still se
 You agree that:  
 
 
-  1. your ideas will automatically become the property of Wilton, without compensation to you,
-  2. Wilton can use the ideas for any purpose and in any way, even give them to others.
+  1. Your ideas will automatically become the property of Wilton, without compensation to you
+  2. Wilton can use the ideas for any purpose and in any way, even give them to others
   3. Wilton will not be obligated to respond to your submission
   4. Wilton will not keep records of submissions and will not return any materials submitted
 
