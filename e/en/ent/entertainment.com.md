@@ -1,69 +1,95 @@
-> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621130611id_/http%3A//www.entertainment.com/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209221756id_/http%3A//www.entertainment.com/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Help - Entertainment
 
----  
-Privacy Policy For Entertainment Publications, Inc.   
+|   |    
+Entertainment Publications, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Entertainment Publications, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. **In addition, Entertainment Publications, Inc. has revised its[Privacy Policy](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp), effective July 18, 2007, consistent with the IAC privacy commitment and standard privacy policy format.** Refer to our [FAQs](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_faq.jsp) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy. |   
    
-Entertainment Publications, Inc., ("Entertainment") respects your privacy. When you use our Web site, we will collect certain information in order to make shopping online possible and provide you with other services. This privacy policy ("Privacy Policy") describes the information we collect, and the manner in which we may use such information.
-
-For our online Fund-Raising Privacy Policy, please [click here](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/parent_fundraising_privacy_policy.jsp).  
+   
+Consumer Privacy at Entertainment Publications, Inc., an IAC Company  
+   
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of [www.entertainment.com](http://www.entertainment.com/) or [www.entertainmentrewardsclub.com](http://www.entertainmentrewardsclub.com/), please click [here](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp). |   
+   
+   
+Information we may collect | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q1)  
+   
+We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. |   
+   
+We also may collect other types of information in the following ways when you visit our website: |   
+   
+• | Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. |   
+• | We may assign your computer one or more [cookies](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q13) which may collect information to facilitate access to our website and to personalize your online experience. |   
+• | We may use standard Internet tools, such [web beacons](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q14), which collect information that tracks your use of our website and enables us to customize our services and advertisements. |   
+   
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. |   
+   
+   
+Information others may collect | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q4)  
+   
+We may allow third-party advertising companies or ad networks to display advertisements on our websites. |   
+   
+• | We do not provide any personal information to these companies. |   
+• | These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. |   
+• | Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. |   
+   
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. |   
+   
+   
+How we may use information we collect | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q2)  
+   
+We may use information to: |   
+   
+• | Fulfill your requests for products and services; |   
+• | Offer products and services that may be of interest to you; |   
+• | Customize the advertising and content that you see on our website; |   
+• | Facilitate use of our website; |   
+• | Manage your account and your preferences; |   
+• | Analyze use of and improve our website, products and services; |   
+• | Identify and protect against fraudulent transactions and other misuses of our website; and |   
+• | Enforce our Terms of Use. |   
+   
+   
+With whom we may share information we collect | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q3)  
+   
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: |   
+   
+• | Service providers, such as credit-card payment processors, performing services on our behalf; |   
+• | Other IAC businesses; |   
+• | Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and |   
+• | Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. |   
+   
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. |   
+   
+   
+Your choices | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q6)  
+   
+You may choose: |   
+   
+• | Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website; |   
+• | To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by going to [My Preferences](https://web.archive.org/my/preferences); |   
+• | To delete or decline [cookies](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q13) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly; |   
+• | To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account. |   
+• | California Residents: You may tell us not to share your personal information with third parties or the IAC family of companies for direct marketing purposes by modifying your preferences on your My Account page. |   
+   
+   
+Security | [Read More](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp#q7)  
+   
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. |   
+   
+   
+Changes to our Privacy Policy |    
+   
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website. |   
+   
+   
+How to contact us |    
+   
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/jsp/consumer/help/safety_privacy_legal/publications_privacy_policy_long.jsp), or our information practices, please contact us by email or postal mail below: |   
+   
+Privacy Officer  
+Entertainment Publications, Inc.  
+1414 East Maple Road  
+Troy, MI 48083  
+[privacy@entertainment.com](mailto:privacy@entertainment.com) |   
   
-   
-IN THIS SECTION...  
-| Collection of Information  
-| Use and Disclosure of Information  
-| Security  
-| Links to Other Sites; Advertisements   
-| Feedback  
-| Notice of Change  
-   
-Still can't find your answer? [Click here](https://web.archive.org/jsp/consumer/help/contact_us.jsp) for further assistance.  
-  | Collection of Information:  
-   
-  | • | When you request certain services using our web site, such as registering as an Online Member, ordering Entertainment products online or activating a credit card, we will ask you to provide personal information about yourself. This information will include name, mailing address, e-mail address, telephone number, **Payment Method** ( **valid** credit card number, credit card type, expiration date) and Entertainment card number. This information, along with the Entertainment® book edition number, is necessary to your receiving and/or being billed for the services you request (e.g., name, address and credit card information when ordering products), and you will not be able to use such services without providing this information.   
-  | • |  We will retain this information for as long as you are a registered Online Member. You may request to terminate your Online Membership and have your personal information removed from our database by submitting a request to [Customer Service](https://web.archive.org/jsp/consumer/help/contact_us.jsp), identifying the subject as "Privacy", and, unless we are prohibited by law, we will remove such information within a 3 month period.  
-  | • | Information such as where you purchased the Entertainment book, prior purchasing history, age, marital status, household information and any other personal information are optional. We will collect information such as this only when knowingly provided by you. We utilize this information in order to provide and improve our service to you.  
-  | • | When you visit our web site, we will automatically collect information regarding your use. Currently, this is done using "Cookies" - small pieces of information that are stored by your browser on your computer's hard drive and relayed back to our servers. We use both Session and Persistent Cookies. Session Cookies track your progression through our Web site in a single visit and are deleted as soon as you close your browser. Persistent Cookies enable such functions as tracking items you place in your shopping cart, geographic location storing and retrieving passwords and identifying you as a prior visitor, Online Member or customer of our Web site. Persistent Cookies remain on your computer until you erase them.   
-  | • | Cookies do not retrieve personal information unless you have previously provided it to us. Most browsers can be set to refuse Cookies and if you wish, you can manually delete Cookies from your computer's hard drive. Currently, you can use most features of our Web site without accepting Cookies (including placing items in your shopping cart and purchasing Books), but refusing Cookies will prevent the storage of items in your shopping cart in between visits and may now, or in the future, affect certain functionality and prohibit your usage of other services.  
-   
-...Back to Top  
-  | Use and Disclosure of Information  
-   
-  | • | We use the information we collect from you in order to process payment of your order, to manage and operate the registered credit card program, (including but not limited to identifying purchases made by you at participating merchants and to credit your activated credit card) and/or to provide you with other services. This information may also be used by us to improve our marketing efforts and services, analyze site usage and customize our Web site's content and layout. We also may use this information to notify you of special offers, discounts, and new products and services via e-mail and other on and offline communications.  
-  | • |  **If your Payment Method or credit card reaches its expiration date, your failure to cancel the Entertainment Program (including, but not limited to the Book Renewal or Entertainment Rewards Programs) in which you are enrolled will constitute your authorization for us to continue billing your Payment Method or credit card.**  
-  | • | When you provide this information to us you are given the choice as to whether you would like to receive information regarding special offers, discounts and new products. If you receive an email from Entertainment it will contain a link allowing you to opt out from receiving future e-mails from us. If you do not want to receive these communications from us, you may also change your email preferences by logging on to the Entertainment.com Web site and clicking on the "My Account" section or by notifying [Customer Service](https://web.archive.org/jsp/consumer/help/contact_us.jsp), identifying the subject as "Privacy".  
-  | • | 
-
-We may collect, create and disclose to third parties aggregate anonymous statistics regarding our customers, sales, traffic analyses and other information regarding or collected through our Web site. Other than in this anonymous form, we will not disclose your personal information without first obtaining your permission except as follows:  
-  
-  |  |  | • | We may disclose personal information if required by law or legal process, and if we believe it is necessary to do so to protect the property and personal safety of us, visitors to our Web site or other third parties.   
----|---|---  
-| • | We may disclose your personal information to third parties providing, or assisting us in providing, services requested by you, or for billing and collection purposes. (including but not limited to credit card issuers or credit card processors).   
-| • | In the unlikely event that substantially all of the assets of Entertainment Publications, Inc., are acquired, customer information will of course be one of the transferred assets.  
-| • | By using our Web site, and providing us with information, you are consenting to our collection and the above uses of your information. You may request to have all of your personal information collected by us removed from our database by submitting a request to [Customer Service](https://web.archive.org/jsp/consumer/help/contact_us.jsp), identifying the subject as "Privacy", and, unless we are prohibited by law, we will remove such information within a 3-month period.   
-| • | We may use third-party advertising companies to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement "click-throughs" and/or other activities on our Web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.  
-   
-...Back to Top  
-  | Security  
-   
-  | We process customer orders and collect and store personally identifiable information using SSL (secure socket layer) encryption technology. SSL encrypts the information you input before it is sent to us via the Internet. In addition, all of the customer information we collect on our Web site is secured against unauthorized access on Entertainment's server.  
-   
-...Back to Top  
-  | Links to Other Sites; Advertisements   
-   
-  | Our Web site may contain advertisements and links to other Web sites ("Third Party Materials"). We are not responsible for the privacy policies or content of these Third Party Materials. Our Privacy Policy only addresses the use and disclosure of information we collect from our Web site. We encourage you to inquire about and review the privacy policies of Third Party Materials before you disclose your personal information to others.  
-   
-...Back to Top  
-  | Feedback  
-   
-  | We appreciate your comments and questions regarding this Privacy Policy. If at any time you believe we have violated this Privacy Policy or that any of your personal information maintained by us is inaccurate, please submit a request to [Customer Service](https://web.archive.org/jsp/consumer/help/contact_us.jsp), identify the subject as "Privacy", and we will use commercially reasonable efforts to investigate and, if we deem necessary, correct such violation or inaccuracy.  
-   
-...Back to Top  
-  | Notice of Change  
-   
-  | We may modify or supplement this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will post those changes on this page, prior to the change taking effect, by showing the change(s) in bold font. **This Privacy Policy will be effective June 15, 2005.**  
-   
-...Back to Top  
-   
-|  | 
+© IAC/InterActiveCorp. All rights reserved. | 
