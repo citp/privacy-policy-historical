@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyink.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607191533id_/http%3A//www.ratemyink.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyink.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210133911id_/http%3A//www.ratemyink.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rate My Ink - Tattoo Pictures & Designs
 
