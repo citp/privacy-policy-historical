@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624230353id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232539id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
+
+THE Hard Rock and AOR Reference on the Internet!
+
+Bands: 4221     CDS: 9517     Songs: 109329
 
   
 
 
-**June 8, 2007** \- Bored? Need someone to talk to? The [Main Message Board](http://heavyharmonies.ipbhost.com/) now has an integrated chat room! So come join the fun... _-Dan_
+**October 12, 2007 -** For those of you who didn't attend the MelodicRock.Com 10th Anniversary Concert in South Bend, IN on Saturday, you missed a once-in-a-lifetime event. I've posted 300 pictures of the show; check them out [**here**](https://web.archive.org/mrfest2007). _-Dan_
 
   
 |  |   
