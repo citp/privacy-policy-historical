@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409131822id_/http%3A//www.audleytravel.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225917id_/http%3A//www.audleytravel.com/index.php/privacy) for the most accurate reproduction.*
 
 # Audley Travel » Privacy Policy
 
@@ -23,6 +23,8 @@ OX27 9AU
 
 or call us on the following phone number:  
 00 44 (0)1869 276 222
+
+Telephone calls to and from Audley Travel may be monitored under our quality control procedures and recorded for training purposes.
 
 #### Personal Information
 
