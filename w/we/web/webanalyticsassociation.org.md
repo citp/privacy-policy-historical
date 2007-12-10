@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623090108id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210154855id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
 
 # WAA Privacy and Private Information Collection Policies - Web Analytics Association, About Us
 
