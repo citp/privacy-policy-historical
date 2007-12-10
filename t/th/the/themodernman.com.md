@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625163827id_/http%3A//www.themodernman.com/yourprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230759id_/http%3A//www.themodernman.com/yourprivacy.html) for the most accurate reproduction.*
 
-# 
+# Discover How to Approach Women & Start Dating Today!
 
-Privacy Policy
+**Privacy Policy**
 
 Hi mate
 
@@ -18,13 +18,21 @@ So, at The Modern Man – we understand your position and will endevour to maint
 
 Here are some FAQs on privacy: 
 
-**Will I ever receive anything in the mail with The Modern Man on it?**
+**
+
+Will I ever receive anything in the mail with The Modern Man on it?
+
+**
 
 No. 
 
 You won’t ever receive anything to your postal address with The Modern Man written on it, so you won’t have to worry about anyone finding out. 
 
-**What information does The Modern Man collect and how do you use it?**
+**
+
+What information does The Modern Man collect and how do you use it?
+
+**
 
 We collect personally identifying information during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products or services. All of this information is provided to us by you. 
 
@@ -39,25 +47,33 @@ We will only contact you when you specifically request so, or in the event that 
   3. Previously contacted us.   
 
 
-We may also contact you via e-mail in the case of any special promotions or events, such as seminars or workshops.  
-  
-**Will you sell or rent my information to third parties?**
+We may also contact you via e-mail in the case of any special promotions or events, such as seminars or workshops.
+
+**
+
+Will you sell or rent my information to third parties?
+
+**
 
 Not at all. 
 
-We will use the information is used for internal marketing purposes only. The Modern Man does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) 
+We will use the information for internal marketing purposes only. The Modern Man does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) 
 
 Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
+**
+
 Can I request to be unsubscribed from any e-mails?
+
+**
 
 All of the mailbags that are sent to you by TMM include unsubscribe instructions. You can remove yourself at any time from our newsletters by e-mailing the nominated e-mail address at the bottom of the mailbag.
 
-Disclaimer
+**Disclaimer**
 
 Any element of this privacy policy may be changed at any time at The Modern Man’s discretion. If we should update this policy, we will post the updates on this page. This policy was revised March 10, 2007. 
 
-If you have any questions or concerns regarding our privacy policy please [contact us](https://web.archive.org/web/20070625163827id_/http%3A//www.themodernman.com/contactus.html). You may also send a letter to: 
+If you have any questions or concerns regarding our privacy policy please [contact us](https://web.archive.org/web/20071210230759id_/http%3A//www.themodernman.com/contactus.html). You may also send a letter to: 
 
 **The Modern Man Company**  
 PO Box 87, Carnegie, Vic  
@@ -67,7 +83,8 @@ Thanks and we hope to be accelerating your success with women and dating very, v
 
 Cheers
 
-**Dan**
+**  
+Dan**
 
   
 Expert Dating Coach &  
