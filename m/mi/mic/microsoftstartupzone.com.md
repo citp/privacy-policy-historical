@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109225718id_/http%3A//microsoftstartupzone.com/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210092903id_/http%3A//microsoftstartupzone.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Startup Zone
-
-## Privacy
-
-## Collection of your Personal Information
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about Microsoft products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, signing up for an event or training, or when purchasing, downloading and/or registering Microsoft products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information. 
 
 The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the site, analyze trends and administer the site. Some of our sites collect information about your hardware and software in order to provide a requested service. Windows Update, for example, needs to know information about your computer in order to recommend needed operating system updates.
 
 Microsoft technical communities provide opportunities to interact with Microsoft employees, experts, and your peers in order to share knowledge and news about Microsoft products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Microsoft advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. [Read more](http://www.microsoft.com/communities/privacy.mspx) about guidelines for safe use of Microsoft technical communities. 
-
-## Use of your Personal Information
 
 The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
 
@@ -32,48 +26,38 @@ Microsoft may disclose personal information if required to do so by law or in th
 
 Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-## Control of your Personal Information
-
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
 
 Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
 
 Microsoft.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by Microsoft.com, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
 
-## Access to your Personal Information
-
 You can review and edit the personal information and contact preferences you provided at this Site by visiting the [Microsoft.com Profile Center](http://go.microsoft.com/?linkid=317769). You will be asked to enter your .NET Passport and password before viewing your personal information. 
 
 At the Profile Center you can: 
 
-•| 
+• | 
 
 View and edit personal information you have already given us at Microsoft.com  
   
 ---|---  
-•| 
+• | 
 
 Tell us whether you want Microsoft.com to send you marketing information.  
   
-•| 
+• | 
 
 Choose whether you want third parties to contact you.  
   
-•| 
+• | 
 
 Subscribe, or cancel subscriptions, to newsletters about our services and products.  
   
 Some services offered on Microsoft.com may collect information that is not accessible via the Profile Center. However, in such cases, you can access your personal information by contacting Microsoft.com as described at the bottom of this statement, or through alternative means of access described by the service. For example, if you buy software through the [Microsoft Product Information Center](http://www.microsoft.com/products), you can review and edit your personal information by contacting one of our Customer Service representatives Monday through Friday, between the hours of 8 a.m. and 10 p.m. ET at 1-888-218-5617. 
 
-## Security of your Personal Information
-
 Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-## Protection of Children's Personal Information
-
 Microsoft.com is a general audience site and does not knowingly collect any personal information from children.
-
-## Use of Cookies
 
 We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
 
@@ -83,25 +67,15 @@ Web beacons, also known as clear gif technology, or action tags, may be used to 
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
 
-## Use of Web Beacons
-
 Microsoft.com Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Microsoft.com to count users who have visited those pages and to deliver co-branded services. Microsoft.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. Microsoft.com prohibits Web beacons from being used to collect or access your personal information.
 
-## Use of Microsoft Passport
-
 This Site uses .NET Passport to provide sign-in and registration services. In order to sign in to this Site using .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a .NET Passport at this site, you are simultaneously registering with Microsoft.com and opening a .NET Passport account. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps to protect your personal information, please read the [.NET Passport privacy statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033).
-
-## Enforcement of this Privacy Statement
 
 If you have questions regarding this statement, you should [contact Microsoft.com](http://go.microsoft.com/?linkid=2606704). If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with this Web site to resolve your concerns. 
 
-## Changes to this Statement
-
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-## Contact Information
 
 Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please [contact us electronically](http://go.microsoft.com/?linkid=2606704) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
 Microsoft.com privacy   
