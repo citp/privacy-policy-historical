@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609025438id_/http%3A//www.handster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180136id_/http%3A//www.handster.com/privacy.php) for the most accurate reproduction.*
 
-# Handster.com - Software for Qtek, MDA, PPC-6700, Cingular 8125 and other Pocket PC.
+# Handster.com - Windows Mobile Software for HTC, iPAQ, i-mate, MDA, Cingular 8125 and other Pocket PC.
 
 Because we gather information about the customers of Handster.com we feel you should fully understand the terms and conditions for use of that information.
 
