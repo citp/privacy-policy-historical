@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501102424id_/http%3A//www.smartcompany.com.au/About-Us/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232027id_/http%3A//smartcompany.com.au/About-Us/Privacy.html) for the most accurate reproduction.*
 
-# Privacy - Smart Company
+# Privacy
 
 The purpose of this Privacy Policy is to advise subscribers, triallists, customers, staff members and those applying for positions with SmartCompany what kind of information the organisation may collect, how that information may be used, to whom it may be disclosed, how that information is stored (including security of the information), the processes for correcting information held and the disposal of such information by SmartCompany. 
 
