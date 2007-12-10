@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608065534id_/http%3A//www.altnet.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210170451id_/http%3A//www.altnet.com/store/privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to Altnet
+# Altnet: Privacy Information
 
-| 
+Privacy Policy
+
+**Altnet privacy and resource usage statement**
 
 **Altnet, Inc. (“Altnet,” “we,” “us,” or “our”) is committed to respecting the privacy rights and concerns of all users of this website (the “Site”), our Peer Points Manager software (the “Software”) and our Peer Points Manager service (the “Service”)** (we refer to the Site, the Software and the Service collectively as the “Altnet Features”). As such, we have established and implemented this privacy statement to inform visitors to the Site and users of the Software and/or the Service how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement. 
 
@@ -41,6 +43,4 @@ Sherman Oaks, CA 91423, USA
 [salesinquiry@altnet.com](mailto:salesinquiry@altnet.com)
 
 **Terms and Conditions**   
-Please also see our [Terms and Conditions of Use](http://www.altnet.com/support/terms) establishing the use, disclaimers, and limitations of liability governing the use of the Site and other Altnet services and applications. 
-
-| 
+Please also see our [Terms and Conditions of use](https://web.archive.org/web/20071210170451id_/http%3A//www.altnet.com/store/terms.aspx "Terms and Conditions") establishing the use, disclaimers, and limitations of liability governing the use of the Site and other Altnet services and applications. 
