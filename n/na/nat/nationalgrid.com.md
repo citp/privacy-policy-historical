@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626221211id_/http%3A//www.nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgrid.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143330id_/http%3A//www.nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.*
 
 # National Grid: Privacy Policy
 
