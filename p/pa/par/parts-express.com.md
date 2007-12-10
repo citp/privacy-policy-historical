@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628133439id_/http%3A//www.partsexpress.com/webpage.cfm%3FWebPage_ID%3D48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234048id_/http%3A//www.partsexpress.com/security.cfm) for the most accurate reproduction.*
 
 # Security / Privacy at Parts Express
 
