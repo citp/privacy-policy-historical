@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609074329id_/http%3A//www.siliconera.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210141426id_/http%3A//www.siliconera.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Siliconera » Privacy Policy
 
