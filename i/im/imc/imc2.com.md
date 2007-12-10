@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429233107id_/http%3A//www.imc2.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imc2.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210205118id_/http%3A//www.imc2.com/Privacy.aspx) for the most accurate reproduction.*
 
 # imc² Privacy Policy
 
@@ -21,7 +21,7 @@ Cookies help us in many ways to make your visit to our website more enjoyable an
 We take utmost care of children's privacy, and take into consideration appropriate national and international laws and regulations on children's privacy. 
 
 **SECURITY.**  
-We take steps to make all information received from you online as secure as reasonably possible against unauthorized access and use. 
+We take steps to make all information received from you online as secure as reasonably possible against unauthorized access and use. Our privacy practices are consistent with The European Union Data Protection Directive through the U.S. Department of Commerce Safe Harbor Program. 
 
 **ACCESS TO YOUR INFORMATION AND COMPLAINTS.**  
 We attempt to keep your files complete, up-to-date, and accurate. We tell you how and where to conveniently access your personal information and how to notify us about errors. The following links are provided for your convenience: 
@@ -34,4 +34,4 @@ The imc² website may contain links to other websites. imc² has no control over
 **YOUR ACCEPTANCE OF OUR PRIVACY PRACTICES.**  
 By using this website or any other imc² website, you signify your acceptance of our Privacy Statement, and you agree to adhere to the Terms and Conditions of Use on the website. 
 
-Last updated: August 10, 2004 
+Last updated: August 10, 2007 
