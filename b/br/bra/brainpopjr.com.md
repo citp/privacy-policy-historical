@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainpopjr.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618084433id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpopjr.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210183301id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.*
 
-# BrainPOP Jr. - Educational Movies, Lesson Plans, Homework Help, Home Schooling Resources, Teacher Resources, Games for Kids, Vocabulary, Quizzes, Activities for Kids, Comics.
+# 
 
 |  | 
 
