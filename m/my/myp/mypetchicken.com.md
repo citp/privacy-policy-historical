@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509223203id_/http%3A//www.mypetchicken.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142537id_/http%3A//www.mypetchicken.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # My Pet Chicken: Privacy Policy
 
@@ -27,7 +27,7 @@ Etc.
 We use your information in these five ways only. We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. 
 
   * When placing an order, to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-  * If you have opted in to our e-newsletter, to email you product and service updates. (You will always have the ability to opt out from receiving newsletters by replying with unsubscribe in the subject line.)
+  * If you have opted in to our e-newsletter, to email you product and service updates. (You will always have the ability to opt out from receiving newsletters by replying with �unsubscribe� in the subject line.)
   * If you send us an inquiry via email, to respond via email.
   * If you register with our website to receive our e-newsletter, to save items in your shopping cart or wish list, or to save announcing new products and services, to store your preferences.
   * In some instances, My Pet Chicken may collect non-personal (aggregate or demographic) data collected on our website and e-newsletters, through cookies, web beacons and web logs. This information is used to better understand and improve the usability, performance and effectiveness of our website and e-newsletters.
