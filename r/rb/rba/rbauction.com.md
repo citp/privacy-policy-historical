@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207025700id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210121211id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Ritchie Bros. Auctioneers - Privacy Statement
 
