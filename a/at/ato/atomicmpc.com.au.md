@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607170142id_/http%3A//www.atomicmpc.com.au/info.asp%3FCIaIID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212018id_/http%3A//www.atomicmpc.com.au/info.asp%3FCIaIID%3D8) for the most accurate reproduction.*
 
 # Atomic v2.6
 
