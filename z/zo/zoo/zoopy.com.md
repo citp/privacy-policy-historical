@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoopy.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615163239id_/http%3A//www.zoopy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopy.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074044id_/http%3A//www.zoopy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ::: Zoopy
 
@@ -26,7 +26,7 @@ User Provided Information
 
 You provide certain personally identifiable information (such as your name, age and email address) to Zoopy when you sign up as a member and choose to make use of the services provided by Zoopy such as uploading and browsing videos or photos, posting comments, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
 
-At no time shall we sell, trade, rent, use or otherwise disclose your personal information to a third party without your consent, except as provided for in this privacy policy.
+At no time shall we sell, trade, rent, use or otherwise disclose your personal information to a third party without your consent, except as provided for in this privacy policy. Only one exception to this applies: if you sign up via the BMW 1 Series website (http://www.bmw1series.co.za) then your data will be shared with BMW only.
 
 And, by editing your profile, you are able to control which information you would like to protect, and how much information you make available to other Zoopy visitors.
 
