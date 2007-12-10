@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623225251id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232855id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We have built our business on a foundation of integrity, honesty, and trust. The
 
 On www.newyorklife.com we strive to provide you with the most comprehensive and dependable source of life insurance and financial products information on the Web. You can access this information on our various sites with complete anonymity. Whether researching our products and services, using our planning tools, or accessing our educational content, you need provide no personal information whatsoever. Whenever you do supply personal information, such as your name, address, telephone number, or e-mail address, it is kept secure and used solely to answer your inquiry, comply with your request, or supply you with information about new products and services to help you meet your needs. 
 
-If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by clicking here. 
+If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here](http://www.newyorklife.com/cda/0,3254,11102,00.html).. 
 
 We will follow the privacy law in your state if that law is different than the policy described in this notice. 
 
@@ -23,7 +23,7 @@ To meet our users' insurance and financial needs, we gather and maintain many ty
 
   * Collect only the information we need to help us deliver superior products and services; 
   * Protect against unauthorized access to your information; 
-  * Refuse to disclose your health information to third parties for marketing purposes: 
+  * Refuse to disclose your health information to third parties for marketing purposes; 
   * Refuse to sell your information to outside mailing list companies or telemarketers; 
   * Require companies that help us service your policy or account to protect your information in accordance with strict privacy standards; 
   * Give you a choice about sharing your information for marketing purposes; 
