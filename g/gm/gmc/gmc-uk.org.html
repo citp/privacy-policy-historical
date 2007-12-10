@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625164246id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmc-uk.org privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210212513id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!-- InstanceBegin template="/Templates/standard-1column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" --> 
@@ -58,6 +58,166 @@ if(location.hash == '#gmc_print') {
   document.write('<div id="print-tools"><a href="javascript:printPage()">print page</a> | <a href=javascript:window.top.close()>close window</a></div>');
 }
 </script>
+
+
+<script language="javascript">
+	function fnWhatCountries(){
+		var winAvailWidth = screen.availWidth;
+		var winAvailHeight = screen.availHeight;
+		popupWin = window.open("/doctors/registration_applications/join_the_register/what_countries.asp","popupWin","toolbar=no,menubar=no,width="+(winAvailWidth*0.75)+",height="+(winAvailHeight*0.75)+",resizable=yes,scrollbars=yes");
+		popupWin.focus();
+	
+	}
+</script>
+
+<script language="javascript">
+	function fnNewWin(link){
+	
+		newWin = window.open(""+ link +"","newWin","toolbar=no,menubar=no,width=800,height=400,resizable=yes,scrollbars=yes");
+		newWin.focus();
+	}
+</script>
+
+<script language="javascript">
+// WEBAPPS - Start ----------------------------------------------------------------------
+
+function fnCheckBrowser(){
+	blnResult = 0;
+	bprops = navigator.userAgent;
+
+	if (bprops.indexOf("Safari")!=-1){
+		var winSiebel = window.open("https://webcache.gmc-uk.org/ecustomer_enu/safari_guidance.html","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+   		winSiebel.opener = null;
+	   	winSiebel = null;
+		blnResult = 1;
+	}
+	
+	if (bprops.indexOf("Opera 8")!=-1){
+		var winSiebel = window.open("https://webcache.gmc-uk.org/ecustomer_enu/opera_guidance.html","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+   		winSiebel.opener = null;
+	   	winSiebel = null;
+		blnResult = 1;
+	}
+	return blnResult;
+}
+
+
+function RunMyGMC() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinMyGMC = window.open("https://webcache.gmc-uk.org/ecustomer_enu/index.aspx","WinMyGMC","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840,height=600");
+	
+		WinMyGMC.opener = null;
+	   	WinMyGMC.focus;
+	   	WinMyGMC = null;	
+	}
+}
+
+
+function RunWebForm() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinWebForm = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+Standard+Web+Enquiry+View&SWEApplet=GMC+WEB+MyGMC+Standard+Web+Enquiry+Form+Applet","WinWebForm","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+		
+		WinWebForm.opener = null;
+		WinWebForm.focus;
+		WinWebForm = null;
+	}
+}
+
+
+function RunNewUser() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinNewUser = window.open("https://webcache.gmc-uk.org/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+User+Registration+Initial+Form+View&SWEApplet=GMC+MyGMC+User+Registration+Initial+Form+Applet","WinNewUser","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+   		WinNewUser.opener = null;
+		WinNewUser.focus;
+   		WinNewUser = null;
+	}
+}
+
+
+function RunLRMP() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var winLRMP = window.open("http://webcache.gmc-uk.org/gmclrmp_enu/start.swe","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+   		winLRMP.opener = null;
+		winLRMP.focus;
+   		winLRMP = null;
+	}
+}
+
+//http://webcache.gmc-uk.org/gmclrmp_enu/
+//https://webcache.gmc-uk.org/ecustomer_enu/
+//https://webcache.gmc-uk.org/gmcplab_enu/
+
+function RunTestMyGMC() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinMyGMC = window.open("http://s1supcrm01/ecustomer_enu/index.aspx","WinMyGMC","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840,height=600");
+	
+		WinMyGMC.opener = null;
+	   	WinMyGMC.focus;
+	   	WinMyGMC = null;	
+	}
+}
+
+
+function RunTestWebForm() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinWebForm = window.open("http://s1supcrm01/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+Standard+Web+Enquiry+View&SWEApplet=GMC+WEB+MyGMC+Standard+Web+Enquiry+Form+Applet","WinWebForm","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+		
+		WinWebForm.opener = null;
+		WinWebForm.focus;
+		WinWebForm = null;
+	}
+}
+
+
+function RunTestNewUser() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var WinNewUser = window.open("http://s1supcrm01/ecustomer_enu/start.swe?SWECmd=GotoView&SWEView=GMC+MyGMC+User+Registration+Initial+Form+View&SWEApplet=GMC+MyGMC+User+Registration+Initial+Form+Applet","WinNewUser","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+   		WinNewUser.opener = null;
+		WinNewUser.focus;
+   		WinNewUser = null;
+	}
+}
+
+
+function RunTestLRMP() 
+{
+	blnChkBrwr = fnCheckBrowser();
+
+	if (blnChkBrwr == 0){
+		var winLRMP = window.open("http://crmpreprod/gmclrmp_enu/start.swe","_blank","status=1,toolbar=no,resizable=yes,dependent=no,scrollbars=yes,width=840 height=600");
+
+   		winLRMP.opener = null;
+		winLRMP.focus;
+   		winLRMP = null;
+	}
+}
+
+// WEBAPPS - End ------------------------------------------------------------------------
+</script>
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --></head>
 
 <body>
@@ -67,7 +227,8 @@ if(location.hash == '#gmc_print') {
   | <a href="/wales/index.asp">GMC&nbsp;Wales/CMC Cymru</a> 
   | <a href="/northernireland/index.asp">GMC&nbsp;Northern Ireland</a> 
   | <a href="http://www.gmcpressoffice.org.uk" target="_blank" title="Open this link in a new window">Press&nbsp;office</a> 
-  | <a href="https://webcache.gmc-uk.org/mygmc/home.do" target="_blank" title="open this link in a new window">MyGMC</a> 
+<!--  | <a href="https://webcache.gmc-uk.org/mygmc/home.do" target="_blank" title="open this link in a new window">MyGMC</a>-->
+  | <a href="#" onclick="RunMyGMC();" title="MyGMC open in a new window">MyGMC</a>  
   | <a href="/publications/right_to_know/index.asp">Freedom&nbsp;of&nbsp;information</a> | <a href="/about/contacts/" accesskey="C">Contact&nbsp;us</a></div>
   <a href="/index.asp"><img src="/images/logo_strapline.gif" alt="Regulating doctors Ensuring good medical practice - click for homepage" vspace="15" border="0"></a>
 <div id="navigation">
@@ -208,14 +369,14 @@ if(location.hash == '#gmc_print') {
   <br>
   <a href="/about/">About&nbsp;us</a> | <a href="/about/contacts/">Contact&nbsp;us</a> 
   | <a href="/links.asp">Links</a> | <a href="/sitemap.asp" accesskey="S">Site&nbsp;map</a> 
-  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="/webaccessibility.asp">Web
+  | <a href="/disclaimer.asp">Disclaimer</a> | <a href="/privacy_policy.asp">Privacy policy</a> | <a href="/accessibility/">Web
   Accessibility</a> <br>
   <br>
  </div>
   © Copyright General Medical Council 2006. All rights reserved. 
 
 <!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
+<!-- Copyright (c) 1996-2007 WebTrends Inc. All rights reserved. -->
 <!-- V8.0 -->
 <!-- $DateTime: 2007/02/16 11:44:56 $ -->
 <script type="text/javascript"><!--
@@ -237,7 +398,7 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wtl.gmc-uk.org/dcsnj8v0t10000sx8zgiduecf_6c1b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
 </noscript>
 
-<!-- END OF SmartSource Data Collector  TAG -->	
+<!-- END OF SmartSource Data Collector TAG -->	
 
 
 </div>
