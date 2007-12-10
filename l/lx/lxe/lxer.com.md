@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232545id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161821id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
 
 # LXer: Privacy Policy
 
-[](https://web.archive.org/)
+[](http://lxer.com/)
 
 ## Linux News  
 The world is talking about GNU/Linux and Free/Open Source Software
