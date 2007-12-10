@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626072948id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234613id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
 
 # Free College Scholarships
 
@@ -40,6 +40,10 @@ By submitting your personal and/or financial information on our site, you are he
 ##### Your Opt-Out Rights:
 
 You may opt-out of receiving communications from us, our affiliates, and/or third parties by not submitting your information. We also allow you to remove your information from our database by responding to any of our email communications with "remove" in the subject line. If you remove your information from our database, it will no longer be used by us for secondary purposes or disclosed to third parties. FreecollegeScholarships.net takes your privacy seriously and we do not tolerate spam.
+
+##### California Privacy Rights:
+
+Under California law, site visitors who are residents of California may request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an e-mail [info@freecollegescholarships.net](mailto:info@freecollegescholarships.net) or write to us at Free College Scholarships LLC., 135 Townsend St, Ste 615, SF CA 94107. 
 
 ##### Change in Policy:
 
