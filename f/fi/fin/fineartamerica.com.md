@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fineartamerica.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630073132id_/http%3A//www.fineartamerica.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fineartamerica.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210165042id_/http%3A//fineartamerica.com/privacypolicy.php) for the most accurate reproduction.*
 
 # FineArtAmerica.com - Privacy Policy
 
