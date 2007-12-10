@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627032619id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210162155id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - World Soccer - The leading authority on international football
 
@@ -23,9 +23,11 @@ This privacy policy may be changed by IPC Media Limited at any time. The revised
 © IPC Media Ltd. 2002   
 All rights reserved. 
 
+### Newsletter
+
 ### Current Issue
 
 ### Advertisements
 
-### Poll: Which league is the strongest?  
+### Poll: Who has been the best player of 2007?  
 
