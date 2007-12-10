@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624194841id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230907id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Dogz Online - The Pure Breed Dog Community of Australia
 
 **Navigation** >> [Home](https://web.archive.org/) >> Privacy Policy 
-
-  
-
 
 **Introduction**  
 At Dogz Online, we respect your privacy. We want to maintain your confidence in our handling of any data and information that is collected during your visit to our web site. We have developed and provided this Privacy Policy to inform you of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information. 
