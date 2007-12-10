@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the traffic.com privacy policy that was archived on 2007-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430054345id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traffic.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210075153id_/http%3A//www.traffic.com/privacy.html%3Fct%3Dfooter_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,7 +11,7 @@
 <meta name="keywords" content="Real time traffic alerts and traffic reports. View online interactive traffic maps for traffic jam, traffic school and local road conditions.">
 <meta name="description" content="traffic reports,traffic alerts,traffic report,real time traffic conditions,live traffic report,houston real time traffic,california road conditions,local traffic report,los angeles real time traffic report,san diego traffic report,dallas traffic report,san diego traffic report,real time traffic report,indiana road conditions">
 
-<link href="../css/style6_3.css" rel="stylesheet" media="all">
+<link href="../css/miscStatic.css" rel="stylesheet" media="all">
 
 <link href="../css/shared/globalPRINT.css" rel="stylesheet" media="print">
 
@@ -25,11 +25,29 @@
 
 
 <script type="text/javascript" language="Javascript">oas_site = 'traffic.com';</script>
-<script src="../js/traffic.js" type="text/javascript" language="Javascript"></script>
+
+<script src="../js/traffic.js?v=4.1.30" type="text/javascript" language="Javascript"></script>
+<script src="../js/4.1.30/prototype.js" type="text/javascript" language="Javascript"></script>
+<script src="../js/4.1.30/jquery-1.2.1.min.js" type="text/javascript" language="Javascript"></script>
+
 <script type="text/javascript" language="javascript">
   eval('_uacct = "UA-68167-1";');
   eval('_udn="traffic.com";');
   eval('urchinTracker();');
+  
+  //turn off jQuery usage of $ as it intrudes on prototype
+  jQuery.noConflict();
+  
+	<!-- uses jQuery to zebra stripe row -->
+	function zebraStripe()
+	{
+		jQuery('.striped tbody tr:even').addClass("rowAlt");
+	}
+		
+	jQuery(document).ready(function(){
+		zebraStripe();
+	});
+  
 </script>
 
 <script type="text/javascript" language="Javascript">
@@ -38,7 +56,7 @@
 OAS_url = 'http://oascentral.traffic.com/RealMedia/ads/';
 OAS_sitepage = oas_site + '/other';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
-OAS_listpos = 'BottomRight,Right,Top1,Top';
+OAS_listpos = 'x04,BottomRight,Right,Top1,Top';
 OAS_query = 'HOMEMETRO=' + getHomeMetro() + '&AWOPARTNER=' + getAWOPartner() + '&SERVICE=' + getServiceOffering();
 OAS_target = '_top';
 //end of configuration
@@ -134,6 +152,7 @@ function MYTRAFFIC_AD(pos)
 
 <script language="JavaScript">var tcdacmd="dt";</script>
 <script src="http://an.tacoda.net/an/13109/slf.js" language="JavaScript"></script>
+<script type="text/javascript" language="javascript">beaconize("website", OAS_sitepage, "0")</script>
 
 <a name="top" id="top"></a>
 
@@ -169,15 +188,168 @@ function MYTRAFFIC_AD(pos)
 </noscript>
 
 
-            <div id="level1"><ul><li id="home"><a href="http://www.traffic.com/index.html">home</a></li><li id="metroAreas"><a href="http://www.traffic.com/allCities.html">metropolitan areas</a></li><li id="mytraffic"><a href="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=mytraffic">MyTraffic</a></li><li id="help"><a href="http://www.traffic.com/faq.html">help</a></li>
-<li id="rightAd">
+            <div id="level1"><ul><li id="metroAreas"><a href="http://www.traffic.com/allCities.html">metropolitan areas</a><span class="pipe">|</span></li><li id="mytraffic"><a href="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=mytraffic">MyTraffic</a><span class="pipe">|</span></li><script> if(isLoggedIn()){$('mytraffic').style.display = 'block';} else {$('mytraffic').style.display = 'none';}</script><li id="signup"><a href="https://secure.traffic.com/Controller?appname=userregistration&amp;workflowname=userreg">Free Sign Up</a><span class="pipe">|</span></li><script> if(!isLoggedIn()){$('signup').style.display = 'block';} else {$('signup').style.display = 'none';}</script>	<li id="changeMetro" style="display:block">
+	<!-- it's a beta... -->
 
-<script>
-	document.write(GetOASNXAd('Top2'));
+<script type="text/javascript">
+
+	function clearZip(zip)
+	{
+		document.getElementById(zip).value = "";
+		document.getElementById(zip).className = "ZipActive";
+	}
+
+
+	function zipColor(zip)
+	{
+		if (document.getElementById(zip).value != "enter a ZIP code"){
+			document.getElementById(zip).className="ZipActive";
+		}
+	}
+
+	function stringFilter(s)
+	{
+		filteredValues = "1234567890";     // Characters stripped out
+		var i;
+		var returnString = "";
+		for (i = 0; i < s.length; i++) {  // Search through string and append to unfiltered values to returnString.
+			var c = s.charAt(i);
+			if (filteredValues.indexOf(c) != -1) returnString += c;
+		}
+		return returnString;
+	}
+
+	function checkZip(zip, zipError)
+	{
+		var zipVal = document.getElementById(zip).value;
+		var zipVal = stringFilter(zipVal);
+		if(zipVal.length == 5)
+		{
+			document.getElementById(zip).value = zipVal;
+			// make call to googleAnalytics
+			var googleAn = "urchinTracker('/virtual/zip_request');";
+			eval(googleAn);
+			return true;
+		}
+		else
+		{
+			document.getElementById(zipError).style.display = "block";
+			document.getElementById(zip).style.border = "1px solid #F00";
+			return false;
+		}
+	}
+
 </script>
 
+
+<form action="" method="get" onsubmit="javascript: this.action = mytraffic + '/Controller'; return checkZip('zip', 'zipError');">
+	<input type="hidden" name="appname" value="mytraffic">
+	<input type="hidden" name="workflowname" value="zipcode">
+	<input type="hidden" name="ct" value="zipSearch_hm">
+	<a href="http://www.traffic.com/allCities.html" title="Select city from a map">Change City</a>
+	<span>or</span>
+	<input type="text" id="zip" name="zip" value="enter a ZIP code" onclick="javascript: clearZip('zip');" class="routeActive">
+	<input type="submit" class="GoButton" value="Go">
+</form>
+
+<div id="zipError">Please enter a 5 digit zipcode only.</div>
+
 </li>
-</ul></div><script type="text/javascript" language="javascript">var hasTab = false;for (i=0; i<document.getElementById('level1').childNodes[0].childNodes.length; i++) { if (document.getElementById('level1').childNodes[0].childNodes[i].nodeName=='LI') { hasTab = true;break; } }  if (hasTab == false) document.getElementById('level1').style.display='none';</script>
+
+<script>zipColor("zip");</script>
+	<li id="routingInputs" style="display:none">
+	<!-- it's a beta... -->
+
+<script type="text/javascript">
+
+	function clearZip(zip)
+	{
+		document.getElementById(zip).value = "";
+		document.getElementById(zip).className = "routeActive";
+	}
+
+
+	function zipColor(zip)
+	{
+		if (document.getElementById(zip).value != "Address City, State or Zip Code"){
+			document.getElementById(zip).className="routeActive";
+		}
+	}
+
+
+</script>
+<h3>
+	Check your drive time
+	<a href="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=routing"></a>
+</h3>
+
+<form id="routingForm" action="http://my.traffic.com/Controller?appname=mytraffic&amp;workflowname=routing" method="POST" onsubmit="saveRoutingAddresses();routeParams();">
+
+	<input type="hidden" name="appname" value="mytraffic">
+	<input type="hidden" name="workflowname" value="routing">
+	<div id="pointA">
+		<label id="pointAlabel" for="pointAinput"><span>Start at:</span></label>
+		<input type="text" id="pointAinput" class="text" name="pointA" value="Address City, State or Zip Code" onclick="javascript: clearZip('zip');">
+	</div>
+	<div id="pointB">
+		<label id="pointBlabel" for="pointBinput"><span>End at:</span></label>
+		<input type="text" id="pointBinput" name="pointB" value="Address City, State or Zip Code" onclick="javascript: clearZip('zip');">
+		<input type="submit" class="GoButton" value="Go">
+	</div>
+</form>
+	<div id="underRoute">
+		<a href="http://www.traffic.com/allCities.html" title="Select city from a map">Change City</a>
+		<span><script>MYTRAFFIC_AD('x04');</script></span>
+	</div>
+</li>
+
+<script>
+zipColor("zip");
+if($("pointAinput")){
+	Event.observe($("pointAinput"), "focus", function(){Nvt.Control.SelectList.showList("RouteHistory", $("pointAinput"), null);});
+}
+if($("pointBinput")){
+	Event.observe($("pointBinput"), "focus", function(){Nvt.Control.SelectList.showList("RouteHistory", $("pointBinput"), null);});
+}
+
+function saveRoutingAddresses(){
+	var history = Nvt.Control.SelectList.getItems("RouteHistory");
+	if($F("pointAinput")){
+		history.addItem($F("pointAinput"), 20);
+	}
+	if($F("pointBinput")){
+		history.addItem($F("pointBinput"), 20);
+	}
+	history.save();
+}
+
+
+	function routeParams()
+	{
+		$('routingForm').action += "&pointA=" + escape($('pointAinput').value) + "&pointB=" + escape($('pointBinput').value);
+		return true;
+	}
+</script>
+<script type="text/javascript">
+	var t;
+	function clearMenus()
+	{
+		jQuery("ul.dropdown").hide();
+	}	
+		
+	function showDropdown(id)
+	{
+		clearMenus(id);
+		jQuery("#" + id + " ul.dropdown").show();
+		clearTimeout(t);
+	}
+	
+	function hideDropdown(id)
+	{			
+		t = setTimeout("jQuery('#" + id + " ul.dropdown').hide()", 100);
+		//setTimeout("alert('5 secs')", 5000);
+	}
+</script></ul></div><script type="text/javascript" language="javascript">var hasTab = false;for (i=0; i<document.getElementById('level1').childNodes[0].childNodes.length; i++) { if (document.getElementById('level1').childNodes[0].childNodes[i].nodeName=='LI') { hasTab = true;break; } }  if (hasTab == false) document.getElementById('level1').style.display='none';</script>
 
 
             
@@ -204,7 +376,7 @@ hideLogin();
 </script>
 
  </div>
-  
+ 
 </div>
 <!-- end metroCityHeader -->
 
@@ -331,20 +503,21 @@ hideLogin();
 <div id="footer">
 	
 	 <ul>
-	  <li><a href="http://www.traffic.com/index.html?ct=footer_home">home</a> | </li>
-	  <li><a href="http://www.traffic.com/site-map.html?ct=footer_sitemap">site map</a> | </li>
-	  <li><a href="http://www.navteq.com/">navteq</a> | </li>
-	  <li><a href="http://magnet.traffic.com">trafficmagnets</a> | </li>		  
-	  <li><a href="http://www.traffic.com/rss.html?ct=footer_rss">rss</a> | </li>  
-	  <li><a href="http://corporate.traffic.com/content/trafficone.html?ct=footer_cobrand">co-brand traffic.com</a> | </li>
-	  <li><a href="http://corporate.traffic.com/promo/index.html?ct=footer_advertise">advertise with us</a> | </li>
-	  <li><a href="http://corporate.traffic.com?ct=footer_corporate">products &amp; services</a></li>
+	  <li><a href="http://www.traffic.com/index.html?ct=footer_home">Home</a> | </li>
+	  <li><a href="http://www.traffic.com/site-map.html?ct=footer_sitemap">Site Map</a> | </li>
+	  <li><a href="http://www.navteq.com/">NAVTEQ</a> | </li>
+	  <li><a href="http://magnet.traffic.com">TrafficMagnets</a> | </li>		  
+	  <li><a href="http://www.traffic.com/rss.html?ct=footer_rss">RSS</a> | </li>  
+	  <li><a href="http://corporate.traffic.com/content/trafficone.html?ct=footer_cobrand">Co-brand Traffic.com</a> | </li>
+	  <li><a href="http://corporate.traffic.com/promo/index.html?ct=footer_advertise">Advertise With Us</a> | </li>
+	  <li><a href="http://corporate.traffic.com?ct=footer_corporate">Products &amp; Services</a> | </li>
+	  <li><a href="http://download.traffic.com/widget/widget.html">Downloads</a></li>
 	 </ul>
 
 	<p>© 2007 Traffic.com, Inc. All rights reserved. 
-		<a href="http://www.traffic.com/terms.html?ct=footer_copyright">copyright &amp; terms of use</a>
-		<a href="http://www.traffic.com/privacy.html?ct=footer_privacy">privacy policy</a>
-		</p><p>Some features of this website are protected under US Patent 7,116,326.  Other patents pending.</p>
+		<a href="http://www.traffic.com/terms.html?ct=footer_copyright">Copyright &amp; Terms of Use</a>
+		<a href="http://www.traffic.com/privacy.html?ct=footer_privacy">Privacy Policy</a>
+		</p><p>Some features of this website are protected under US Patents 7,116,326 and 7,203,595. Other patents pending.</p>
 	<p></p>
 </div><!-- end footer -->
 
@@ -375,6 +548,16 @@ hideLogin();
 -->
 
 <script type="text/javascript" language="Javascript">auditPos();</script>
+<div id="PersistenceContainer" style="position:absolute;width:0;height:0;">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="0" height="0" id="FlashPersistenceContainer" align="middle">
+		<param name="allowScriptAccess" value="always">
+		<param name="movie" value="/swfs/ClientSidePersistor.swf">
+		<param name="quality" value="high">
+		<param name="bgcolor" value="#ffffff">
+			<embed src="/swfs/ClientSidePersistor.swf" quality="high" bgcolor="#ffffff" width="0" height="0" name="FlashPersistenceContainer" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+		</object>
+	<div id="BehaviorPersistenceContainer" style="behaviour:url(#default#userData);position:absolute;width:0;height:0;"></div>
+</div>
 
 
 </body></html>
