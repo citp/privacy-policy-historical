@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wset.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429065034id_/http%3A//new.wset.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wset.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233833id_/http%3A//new.wset.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # ABC 13 - Privacy Policy
 
