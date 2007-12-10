@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicblondes.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623070950id_/http%3A//www.magicblondes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicblondes.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210185037id_/http%3A//magicblondes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
