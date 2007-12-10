@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the jackmyers.com privacy policy that was archived on 2007-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070616194632id_/http%3A//www.mediavillage.com/media_village/2005/08/25/priv) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackmyers.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210132223id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
 
 
@@ -11,966 +9,803 @@
 
 
 
-<meta name="description" content="Media Village Privacy Policy">
-<meta name="keywords" content="">
 
 
 
 
 
-<title>Media Village Privacy Policy -- Jack Myers Media Village</title>
-<link href="http://mediavillage.com/homestyle.css" rel="styleSheet" type="text/css">
 
-<script language="JavaScript" src="http://mediavillage.com/scriptin.js"></script>
-<script language="javascript" src="http://www.mediavillage.com/home/menu.js"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://quantserve.com/quant.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=8500371&m=4372&d=228252&p=2152&p=2461&p=2286&p=2142&p=2282&p=2147&p=2167&p=2157&p=2162"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.8069964787740633&amp;c=8500371&amp;m=4372&amp;d=228252&amp;p=2152&amp;p=2461&amp;p=2286&amp;p=2142&amp;p=2282&amp;p=2147&amp;p=2167&amp;p=2157&amp;p=2162"></script>
+
+
+	<title>Jack Myers - Privacy Policy</title>
+
+	<style type="text/css" media="all">
+	<!--
+		    @import url("http://www.jackmyers.com/templates/tables.css");
+	
+	-->
+	</style>
+		  <meta name="Keywords" content="homepage"> 
+<script type="text/javascript" src="/g/js/prototype.js"></script>
 <script type="text/javascript">
-_qacct="p-87PTHBI0gAVCI";quantserve();</script>
-<noscript>
-<img src="http://quantserve.com/pixel/p-87PTHBI0gAVCI.gif" style="display: none" height="1" width="1"></noscript>
-<!-- End Quantcast tag -->
- 
 
-<script type="text/javascript">
-_uacct = "UA-244383-1";
-urchinTracker();
+	//Objects to interact with server
+	var CMSUtil = {
+		interactWithServer: function(form, isAjax, buildObjectFunction, 
+									returnFunction, action, servlet, 
+									extraFields){
+			if(isAjax == true && returnFunction != null){
+            	var queryString = Form.serialize(form);
+				if(queryString != null){
+					if(action != null){
+						queryString += "&action=" + action + "&isAjax=Y";	
+					}else{
+            			queryString += "&isAjax=Y";
+            		}
+            		if(extraFields){
+            			queryString += extraFields;
+            		}
+            		
+            		var handlerFunction = function(originalRequest){
+            			var response = "(" + originalRequest.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response);    
+            		}    
+           
+					var myAjax = new Ajax.Request(servlet,
+    					{method: 'post', parameters: queryString, onComplete: handlerFunction}
+					);
+				}
+            }else{
+ 				this.submitUserFormNoAJAX(form, action, servlet); 
+			}
+		},
+		
+		submitUserFormNoAJAX: function(form, action, servlet){
+			if(servlet == null) return null;
+    	    form.action = servlet;
+
+    	    if(action != null) {
+    	    	var actionField = document.createElement('input');
+    	    	actionField.setAttribute('name', 'action');
+  				actionField.setAttribute('type', 'hidden');
+  				actionField.value = action;
+    	    	form.appendChild(actionField);
+    	    }
+    		form.submit();
+    	}
+    	
+	}
+	
+	var Action = {
+		attachAction: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "attachActionAJAX";
+			} else {
+				action = "attachAction";
+			}
+			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
+		},
+		
+		deleteAction: function(form, isAjax, returnFunction){
+        	var action = "";
+        	if(isAjax){
+        		action = "deleteActionAJAX";
+        	} else {
+        		action = "deleteAction";
+        	}
+        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
+        },
+		
+		
+		buildAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+				Action.contentID = response.contentID;
+				Action.commentID = response.commentID;
+				Action.contentTypeID = response.contentTypeID;
+				Action.actionDate = response.actionDate;
+				Action.userID = response.userID;
+				Action.actionType = response.actionType;
+				Action.slugLine = response.slugLine;
+			} else {
+			 	Action.error = response.error;
+			}
+		},
+		
+		deletedAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+			} else {
+				Action.error = response.error;
+			}
+		}
+	}
+			
+	var Rating = {
+		addRating: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "addRatingAJAX";
+			} else {
+				action = "addRating";
+			}
+            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
+        },
+        
+		buildRating: function(response){
+			if(response.success == true){
+				Rating.id = response.id;
+				Rating.rating = response.rating;
+				Rating.upvote = response.upvote;
+				Rating.downvote = response.downvote;
+				Rating.type = response.type;
+				Rating.date = response.date;
+				Rating.ipAddress = response.ipAddress;
+			}else{
+				Rating.error = response.error;
+			}
+		}
+		
+	}
+	
+	var User = {
+		createUser: function(form, isAjax, returnFunction){	
+		    var action = "";
+			if(isAjax){
+				action = "createProfileAJAX";
+			} else {
+				action = "createProfile";
+			}
+            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		loginUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "doLoginProfileAJAX";
+			} else {
+				action = "doLoginProfile";
+			}
+        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfileAJAX";
+			} else {
+				action = "updateProfile";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateRegistration: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateRegistrationAJAX";
+			} else {
+				action = "updateReg";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateProfilePassword: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfilePasswordAJAX";
+			} else {
+				action = "updateProfilePassword";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		insertProfilePic: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				//not implemented as of yet
+				return;
+				//action = "updateImageAJAX";
+			} else {
+				action = "updateImage";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		buildUser: function(response){
+			if(response.success == true){
+				User.username = response.username;
+				User.email = response.email;
+				User.firstName = response.firstName;
+				User.lastName = response.lastName;
+				User.birthDate = response.birthDate;
+				User.createDate = response.createDate;
+				User.title = response.title;
+				User.company = response.company;
+				User.address1 = response.address1;
+				User.address2 = response.address2;
+				User.city = response.city;
+				User.state = response.state;
+				User.zipcode = response.zipcode;
+				User.country = response.country;
+				User.custom1 = response.custom1;
+				User.custom2 = response.custom2;
+				User.custom3 = response.custom3;
+				User.custom4 = response.custom4;
+				User.custom5 = response.custom5;
+				User.custom6 = response.custom6;
+				User.custom7 = response.custom7;
+				User.custom8 = response.custom8;
+				User.custom9 = response.custom9;
+			}else{
+				User.error = response.error;
+			}
+		}
+	}
+	
+	var UserContent = {
+		insertContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		editContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		buildContent: function(response){
+			if(response.success == true){
+				for (var i=0; i< response.fields.length; i++){
+					var field = response.fields[i];
+					UserContent[field] = response[field];
+				}
+				UserContent.contentID = response.contentID;
+				UserContent.contentType = response.contentType;
+				UserContent.title = response.title;
+				UserContent.status = response.status;
+			} else {
+				UserContent.error = response.error;
+			}
+		}
+	}
+	
+	var Comment = {
+	
+		insertComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+	
+		deleteComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
+		},
+		
+		updateComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			} else {
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
+		},
+		
+		buildComment: function(response){
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.name = response.name;
+				Comment.comment = response.comment;
+				Comment.email = response.email;
+				Comment.website = response.website;
+				Comment.title = response.title;
+				Comment.isAuthor = response.isAuthor;
+				Comment.flagged = response.flagged;
+				Comment.status = response.status;
+				if(Comment.status == "AUTHOR"){
+					Comment.isAuthor = true;
+				} else if(Comment.status != "APPROVED") {
+					Comment.flagged = true;
+				}
+			} else {
+				Comment.error = response.error;
+			}
+		},
+		
+		nullifyComment: function(response){
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.comment = null;
+				Comment.email = null;
+				Comment.website = null;
+				Comment.title = null;
+				Comment.isAuthor = null;
+				Comment.flagged = null;
+				Comment.status = null;
+			} else {
+				Comment.error = response.error;
+			}
+		}
+	}	
+	
+	var p;
+	var kP = 0;
+	var	aT = 0;
+	var myInterval = window.setInterval(timedMousePos,250);
+	var xPos = -1;
+	var yPos = -1;
+	var firstX = -1;
+	var firstY = -1;
+	var intervals = 0;
+	var d = 0;
+	var mT = 0;
+	document.onkeypress = lk;
+	window.onload = rAT;
+	var cid =  -1 ;
+	var did =  228252 ;	
+	
+	function getMousePos(p) {
+		if(!p)var p = window.event;
+		if (p.pageX || p.pageY) {
+			xPos = p.pageX;
+			yPos = p.pageY;
+		} else if (p.clientX || p.clientY) {
+			xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
+		}
+	}
+
+	
+	function lk() {	
+		kP++;
+	}
+
+	function rAT() {
+		aT = new Date();
+	}
+		
+	function timedMousePos() {
+		document.onmousemove = getMousePos;
+		if (xPos >= 0 && yPos >= 0) {
+			var newX = xPos;
+			var newY = yPos;
+			intervals++;
+		}
+		if (intervals == 1) {
+			firstX = xPos;
+			firstY = yPos;
+		} else if (intervals == 2) {
+			clearInterval(myInterval);
+			calcDistance(firstX,firstY,newX,newY);	
+		}
+	}
+
+
+	function calcDistance(aX,aY,bX,bY){
+		mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+	}
+	
+	function getFieldsForForm(){
+		var sT = new Date();
+		d = sT - aT;
+		var queryString = "&";
+		queryString += "mT=" + mT;
+     	queryString += "&d=" + d;
+     	queryString += "&kP=" + kP;
+     	queryString += "&cid=" + cid;
+     	queryString += "&did=" + did;
+     	queryString += "&socialMedia=Y";
+	    return queryString;
+	}
+		
+	function addFieldsToForm(formObj, redirect) {
+		var sT = new Date();
+		d = sT - aT;
+		var mTField = document.createElement('input');
+		var dField = document.createElement('input');
+		var kPField = document.createElement('input');
+  		var cidField = document.createElement('input');
+  		var didField = document.createElement('input');
+  		var socialMedia = document.createElement('input');
+  	
+  	
+  		socialMedia.setAttribute('name','socialMedia');
+		socialMedia.setAttribute('type', 'hidden');
+		
+  		mTField.setAttribute('name','mT');
+		mTField.setAttribute('type', 'hidden');
+  	  
+		dField.setAttribute('name', 'd');
+		dField.setAttribute('type', 'hidden');
+  	  
+		kPField.setAttribute('name', 'kP');
+		kPField.setAttribute('type', 'hidden');
+  	
+		cidField.setAttribute('name', 'cid');
+		cidField.setAttribute('type', 'hidden');
+  	
+  		didField.setAttribute('name', 'did');
+  		didField.setAttribute('type', 'hidden');	
+  	
+  		if(redirect != null) {
+  			var pathField = document.createElement('input');
+  			pathField.setAttribute('name', 'path');
+  			pathField.setAttribute('type', 'hidden');
+  			pathField.value = redirect;
+  			formObj.appendChild(pathField);
+  		}
+  		mTField.value = mT;
+		dField.value = d;
+		kPField.value = kP;
+		cidField.value = cid;
+		didField.value = did;
+		socialMedia.value = "Y";
+
+		formObj.appendChild(dField);
+		formObj.appendChild(kPField);
+		formObj.appendChild(mTField);
+		formObj.appendChild(cidField);
+		formObj.appendChild(didField);
+		formObj.appendChild(socialMedia);
+	}		
+	
+	
+
+	
+	//helper functions
+	
+	function insertComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function createUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
+	}
+	
+	function loginUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function editUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertProfilePic(form, isAjax, returnFunction, showError){
+		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
+	}
+	
+	function addRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function attachAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
+	}
+	
+	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
+		try{
+			method(form, isAjax, returnFunction);
+		} catch(e) {
+			if(showError) alert(e);
+			alert(msg);
+		}
+		if(isAjax){
+			return false;
+		} else {
+			return true;
+		}
+	}
+
 </script>
-<!-- Start DI Tracking Code for HEAD section-->
-<script language="JavaScript1.2">
-var refr=escape(document.referrer); /* get the http referer and encode it */
-var dom=location.hostname; /* get the host domain */
-var stURL="http://na.link.decdna.net/n/19667/19669/www.mediavillage.com/3a2896350025030000000006000000000e3f9c0d0000000000000000000000000000000100/i/c?0&1pixgif&referer=" + refr;
-if ( (refr && refr.search(dom) == -1) && (location.href.toUpperCase().indexOf("247SEO=N") == -1) ) {
-imageTR = new Image();
-imageTR.src = stURL;
-}
-</script>
-<!-- End DI Tracking Code -->
 
-
+    <script type="text/javascript" src="http://www.jackmyers.com/includes/Form_Validation"></script>
 
 </head>
 
+<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900228252";_q+="&7=228252";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900228252";_qc+="&7=228252";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900228252&7=228252&18=0.2464964008805608">
+</noscript>
 
+<table cellpadding="0" cellspacing="0" border="0" align="center">
 
-
-
-
-
-
-<!-- 				-->
- <!-- 	Ad Block	-->
-<!-- 				-->
-
-<body><div id="container">
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-<td width="762" valign="top" bgcolor="#2967B5" colspan="2">
-
-<center>
-
-<img src="http://mediavillage.com/images/spacer.gif" height="100" width="1" align="left">
-
-
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@TopRight">
-</script>
-
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript"> 
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1"> 
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@TopRight">
-</iframe>'); } else if (_version < 11) {  document.write ('<A HREF="http://oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@TopRight"><IMG SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@TopRight"></a>');}// -->
-</script>
-
-
-
-
-
-
-
-
-
-
-</center></td>
-</tr>
-<tr bgcolor="#104D97" valign="top">
-<td><img src="http://mediavillage.com/images/topmast_corner_lf.gif"></td>
-
-<td align="right"><img src="http://mediavillage.com/images/topmast_corner_rt.gif"></td>
-
-</tr></tbody></table></div>
-
-
- 
-
-
-
-
-<!-- 					-->
-<!-- 	Header Block	-->
-<!-- 					-->
-
-<div id="container"><div id="header"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://mediavillage.com/home/"><img src="http://www.mediavillage.com/images/01_logo_home.gif" width="90" height="27" border="0" alt="Return Home"></a><script src="http://syndicator.linkstorms.com/syndicator2/multilink.jsp?handle=10000.17/mediavillage&amp;image=http://www.mediavillage.com/images/02_logo_features.gif&amp;milonicStyle=bordercolor%3D%27black%27%3Boffcolor%3D%27black%27%3Boncolor%3D%27black%27%3Bonbgcolor%3D%27%23fed239%27%3Boffbgcolor%3D%27%23c9e44a%27%3Bseparatorcolor%3D%27black%27%3B"></script><br><a href="http://mediavillage.com/home/"><img src="http://www.mediavillage.com/images/03_logo_mvlogo.gif" width="332" height="78" border="0" alt="Home"></a></td><td><a href="http://www.mediavillage.com/tv_links/2007/06/13/tv_shows/"><img src="http://mediavillage.com/images/pod_shows1.gif" name="forums" border="0" alt="TV Shows" onmouseover="switchum('forums', '1')" onmouseout="switchum('forums', '0')" height="105" width="111"></a><!----><a href="http://blogs.mediavillage.com/"><img src="http://mediavillage.com/images/pod_blog1.gif" name="blogs" border="0" alt="Media Village Bloggers" onmouseover="switchum('blogs', '3')" onmouseout="switchum('blogs', '2')" height="105" width="108"></a><!----><a href="http://www.mediavillage.com/gallery"><img src="http://mediavillage.com/images/pod_gallery1.gif" name="gallery" border="0" alt="Gallery" onmouseover="switchum('gallery', '5')" onmouseout="switchum('gallery', '4')" height="105" width="108"></a><!----><a href="http://www.mediavillage.com/sound_off"><img src="http://mediavillage.com/images/pod_soundoff1.gif" name="soundoff" border="0" alt="Sound Off!" onmouseover="switchum('soundoff', '7')" onmouseout="switchum('soundoff', '6')" height="105" width="117"></a></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-<!-- 					-->
-<!-- 	Login Block		-->
-<!-- 					-->
-<div id="container">
-<div id="login_container">
-<div id="login_content">
-<span id="login_row_left"></span>
-<span id="login_row_right"></span>
-<span class="date">June 16th 2007</span>
-
-
-<table align="right" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.mediabistro.com/mediavillage/joblistings" class="topnavwhitelink">Find a Job</a><span class="topnavpeach">&nbsp;|&nbsp;<a href="http://www.mediabistro.com/mediavillage/employers/postjob1.asp" class="topnavwhitelink">Post a Job</a><span class="topnavpeach">&nbsp;|&nbsp;<a href="http://marketplace.mediavillage.com" class="topnavwhitelink">Resumes/Freelance</a><span class="topnavpeach">&nbsp;|&nbsp;</span><a href="http://www.mediavillage.com/feeds" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" border="0" wudth="12" height="12"></a><span class="topnavpeach">&nbsp;</span><a href="http://www.mediavillage.com/feeds" rel="alternate" type="application/rss+xml" class="topnavwhitelink">RSS Feeds</a><span class="topnavpeach">&nbsp;|&nbsp;</span> <a href="http://www.mediavillage.com/media_village/2005/08/25" class="topnavwhitelink">Subscribe</a>&nbsp; </span></span></td><td><a href="http://www.mediavillage.com/media_village/2005/08/25" class="topnavwhitelink"><img src="http://www.mediavillage.com/images/topnav_subscribe_icon.gif" width="151" height="24" border="0"></a></td></tr></tbody></table></div></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 					-->
-<!-- 	Search Block	-->
-<!-- 					-->
-
-<style type="text/css">
-  div#jm_search_container {
-  padding-left: 9px;
-  padding-right: 9px;
-  height: 66px;
-  background-image: url("http://mediavillage.com/images/pagetile_2.gif"); }
-</style>
-
-<div id="container">
-<div id="jm_search_container">
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="6e6e6e">
-<tbody><tr><td>
-<center><table border="0" cellpadding="0" cellspacing="0" bgcolor="595959">
 <tbody><tr valign="top">
-<td bgcolor="6e6e6e"><img src="http://mediavillage.com/images/search_leftside.gif" alt="" width="35" height="66"></td>
 
-<td width="50%">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="bottom" rowspan="2">
+	<td width="8" id="shadowleft" rowspan="8"><img src="http://media.jackmyers.com/designimages/left_shadow.gif" width="8" height="1" border="0"></td>
 
-</td>
-<td>
-<img src="http://mediavillage.com/images/search_headlines.gif" alt="" width="252" height="36">
-</td>
+	<td width="33%" background="http://media.jackmyers.com/designimages/top.gif"><a href="http://www.jackmyers.com" border="0">
+	    <img src="http://media.jackmyers.com/designimages/logo_love.gif" alt="jackmyers.com" width="319" height="71" border="0"></a></td>
+	
+	<td width="33%" background="http://media.jackmyers.com/designimages/top.gif"><img src="http://media.jackmyers.com/designimages/top.gif" width="234" height="71" border="0"></td>
+		
+	<td width="33%" id="topright">&nbsp;</td>
+	
+	
+	<td width="8" id="shadowright" rowspan="8"><img src="http://media.jackmyers.com/designimages/top_right_shadow.gif" alt="" width="8" height="20" border="0"></td>
+
 </tr>
 
 <tr>
-<td>
 
+	<td colspan="3" width="100%" id="nav"><a href="/feeds"><img src="http://media.jackmyers.com/designimages/nav_rss.gif" alt="rss" width="67" height="29" border="0"></a><a href="/"><img src="http://media.jackmyers.com/designimages/nav_1b.gif" alt="home" width="62" height="29" border="0"></a><a href="/commentary"><img src="http://media.jackmyers.com/designimages/nav_2.gif" alt="commentary" width="135" height="29" border="0"></a><a href="/commentary/media-business-report"><img src="http://media.jackmyers.com/designimages/nav_2c.gif" alt="media business" width="155" height="29" border="0"></a><a href="http://www.myersreport.com"><img src="http://media.jackmyers.com/designimages/nav_4b.gif" alt="media research" width="151" height="29" border="0"></a><a href="/mediavillage"><img src="http://media.jackmyers.com/designimages/nav_8c.gif" alt="entertainment" width="144" height="29" border="0"></a> <a href="http://www.mediabistro.com/mediavillage/joblistings/"><img src="http://media.jackmyers.com/designimages/nav_7c.gif" alt="media jobs" width="111" height="29" border="0"></a></td>
 
-<script language="JavaScript">
-  <!--
-  function setaction(jumpto) {
-  	if (jumpto == 3) window.location = "http://mediavillage.com/news/cnn.html";
-	else if (jumpto == 2) window.location = "http://mediavillage.com/news/cbs.html"; 
-	else if (jumpto == 9) window.location = "http://mediavillage.com/tv_guide"; 
-	else if (jumpto == 6) window.location = "http://mediavillage.com/news/media_bistro.html"; 
-	else if (jumpto == 8) window.location = "http://mediavillage.com/news/reuters.html"; 
-	else if (jumpto == 5) window.location = "http://mediavillage.com/news/forbes.html"; 
-	else if (jumpto == 4) window.location = "http://mediavillage.com/news/central_talent.html"; 
-    	else if (jumpto == 10) window.location = "http://video.tvguide.com";
-else if (jumpto == 11) window.location = "http://mediavillage.com/news/variety.html";
-     	else if (jumpto == 7) window.location = "http://mediavillage.com/news/multi.html";
-     	else if (jumpto == 1) window.location = "http://mediavillage.com/news/broadcasting.html"; 
-       else window.location = "#";
-	 }
-	   // --></script>
-	     <form method="POST">
-	       <select name="dest" size="1" onchange="setaction(form.dest.selectedIndex)">
-	       <option>Select from:</option>
-	        <option>Broadcastcable.com</option>
-		<option>CBS Television Stations</option>
-    	        <option>CNN Entertainment News</option>
-		<option>CTB Morning Show Highlights</option>
-		<option>Forbes Lifestyle News</option>
-		<option>MediaBistro's TVNewser</option>
-  	        <option>Multichannel.com</option>
-		<option>Reuters Entertainment News</option>
-		<option>TVGuide.com News &amp; Reviews</option>		
-		<option>TVGuide Online Video Guide</option>		
-	        <option>Variety.com</option>
-	       </select>  
+</tr>
 
+<tr>
 
-
-
-	<!--	         <INPUT TYPE=BUTTON VALUE="Go" ONCLICK=setaction(form.dest.selectedIndex) src=http://mediavillage.com/images/search_go.gif> -->
+	<td colspan="3" id="searchbar">
 		
-			   <a href="#" onclick="setaction(form.dest.selectedIndex);return false"><img src="http://mediavillage.com/images/search_go.gif" align="middle" border="0"></a>
-			    
-			    </form></td>
-			    
-
-			    </tr>  
-			    </tbody></table>
-			    
-			    </td>
-			    <td width="50%" align="right">
-			    <table border="0" cellspacing="0" cellpadding="0">
-			    <tbody><tr>
-			    <td>
-			    <img src="http://mediavillage.com/images/search_search.gif" alt="" width="167" height="36">
-			    </td>
-			    <td valign="bottom" class="yahoopower">
-
-
-			    </td>
-			    </tr>
-			    
-			    <tr>
-			    <form action="http://mediavillage.com/search/index.php" method="get" class="borderless_form"></form>
-			    <td colspan="2" class="yahoosearch" valign="middle">Site <input type="radio" name="mode" value="site" checked=""> Web <input type="radio" name="mode" value="internet">
+					<form id="logginForm" name="logginForm" action="/s" method="post" style="padding:0 0 0 0;margin:0 0 0 0;display:inline;">
+			    <input type="hidden" name="action" value="doLogin">
+	            				<input type="hidden" name="permanent" value="N">	
+                <div id="searchstuff"><a href="/register">Subscribe</a> or Login: <input type="text" name="email" size="13"> &nbsp;&nbsp; Password: <input type="password" name="password" size="13"></div>
+                <div id="go"><input type="image" src="http://media.jackmyers.com/designimages/go.gif" alt="go" width="42" height="31" border="0" hspace="5"></div>
+            </form>
+				<form id="searchForm" name="searchForm" action="/search" method="post" style="padding:0 0 0 0;margin:0 0 0 0;display:inline;">
+                        <div id="searchstuff">Search:&nbsp;&nbsp;<input type="text" size="15" name="keywords"></div>
+            <div id="go"><input type="image" src="http://media.jackmyers.com/designimages/go.gif" alt="go" width="42" height="31" border="0" hspace="5"></div>
+	    </form></td>
+	
+</tr>
 
 
 
 
-			    <input name="q" type="text" size="20" value="">
 
 
 
-				<input type="image" src="http://mediavillage.com/images/search_go.gif" name="sa" valign="absmiddle">
-				
-				</td>
-				</tr>
-				</tbody></table>
-				</td>
-				
-				<td bgcolor="6e6e6e"><img src="http://mediavillage.com/images/search_rightside.gif" alt="" width="35" height="66"></td>
-				
-				
-				</tr></tbody></table></center>
-</td></tr></tbody></table>
+<tr>
+
+	<td colspan="3" id="headerbar"><img src="http://media.jackmyers.com/designimages/header_aboutus.gif" alt="about us" width="90" height="26" border="0"></td>
+
+</tr>
+
+
+<tr bgcolor="#ffffff" valign="top">
+
+	<td width="100%" colspan="3">
+	
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td colspan="3" id="breadcrumbs">                            
+                        
+                                                                
+                        
+                                                
+<a href="/">Home</a> &gt; Privacy Policy 
+</td>
+		</tr>
+		
+		<tr>
+			<td colspan="3" align="center">
+			    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard']){ document.write(plpm['Leaderboard']);} else {  if(self['plurp'] && plurp['2142']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2142&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.23856310330418729&amp;p=2142&amp;c=8500371&amp;m=4372&amp;d=228252"></script>			
+			</td>
+		</tr>
+		
+		<tr valign="top">
+	
+			<td width="54%" id="main_col">
+			
+				<h1>Privacy Policy</h1><br>
+			
+				<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; LINE-HEIGHT: 22pt"><span style="FONT-SIZE: 15pt; COLOR: #2b2b2b; FONT-FAMILY: Arial">for JackMyers.com
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">JackMyers.com ("JackMyers") is strongly committed to protecting the privacy of our customers. The purpose of this JackMyers privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather about you when you visit JackMyers, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to the JackMyers site. Please note that this policy applies only to JackMyers, and not to other companies' or organizations' Web sites to which we link. Our policy will be continuously assessed against new technologies, business practices and our customers' changing needs. All changes to our privacy policy will be posted here so that you are aware of our current practices.
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">Information
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">JackMyers collects personal information when you register with JackMyers and use our products or services. When you register we ask for information such as your name, contact information, email address, gender, zip code, occupation, industry, and personal interests. Once you register with JackMyers and sign in to our services, you are not anonymous to us. JackMyers automatically receives and records information on our server logs from your browser, including your IP address, JackMyers cookie information, and the page(s) you request. All requested information on the JackMyers site is not required. You may choose to post additional information about yourself. Please do not post sensitive data on registration pages such as credit card numbers, social security numbers or other personal data. JackMyers is not responsible for your disclosure of personal information on our registration form, sound offs, blogs, postings or other product offerings. You have the option to change your posted data at any time.
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">Disclosure
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">We do not use or disclose information about your individual visits to JackMyers or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. JackMyers may share such information in response to legal process, such as a court order or subpoena, or in special cases such as a physical threat to you or others. And we may share with our Web site partners and prospective customers aggregated statistical "ratings" information about the use of JackMyers.
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">Protection of Data
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">How to Contact Us
+</span></p><p><span style="FONT-SIZE: 10.5pt; COLOR: black; FONT-FAMILY: &quot;Trebuchet MS&quot;; mso-bidi-font-family: Tahoma">We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact <a href="mailto:admin@jackmyers.com">admin@jackmyers.com</a> or write to us: JackMyers.com, Attn: Legal Department, PO Box 615, <city w:st="on"></city>Pine Brook, <state w:st="on"></state>NJ
+<postalcode w:st="on"></postalcode>
+07058. </span></p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+			</td>
+		
+				<td width="14%" id="middle_col">
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Vertical Banner']){ document.write(plpm['Vertical Banner']);} else {  if(self['plurp'] && plurp['2157']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2157&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7374485541502849&amp;p=2157&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Skyscraper']){ document.write(plpm['Skyscraper']);} else {  if(self['plurp'] && plurp['2147']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2147&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6327309476182044&amp;p=2147&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+	</td>
+
+<td width="32%" id="right_col">
+    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Box']){ document.write(plpm['Box']);} else {  if(self['plurp'] && plurp['2152']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2152&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.9260030945362216&amp;p=2152&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+<div id="mostpopular">
+					
+    <img src="http://media.jackmyers.com/designimages/header_mostpopular.gif" alt="most popular" width="300" height="28" border="0">
+    
+    <ul type="square">
+                                    <li><a href="http://www.jackmyers.com/commentary/media-business-report/11193066.html">Avatar Identity Theft Prompts Review of Gaia and Virtual World Rules </a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/11639401.html">"General Hospital": A Thanksgiving Turkey</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/11873871.html">"General Hospital": Leslie Charleson Fans Speak Out!</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/tv-maven/10722066.html">"October Road" Season Two Scoop from the Executive Producer</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/savoring-soaps/11817106.html">General Hospital's Black and White Ball: Black and Blue</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+    
 </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-<!--                                    -->
-<!--    Main Content Block              -->
-<!--                                    -->
-
-<div id="container">
-<div id="home_outer_container">
-<div id="home_inner_container">
-
-
-
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-
-<td width="9"> </td>
-
-<td valign="top" width="192" style="background-image:url('http://mediavillage.com/images/nav_tile.gif');">
-
-
-
-
-
-<div style="padding-top: 12px"></div>
-
-<!-- 					-->
-<!-- 	Poll Block		-->
-<!-- 					-->
-
-
-
-
-
 
 	
+    <script>			
+function pollSubPop (url, name, widgets ) 
+{
+	popupWin = window.open(url, name, widgets);
+	var agt=navigator.userAgent.toLowerCase();
+	var is_major = parseInt(navigator.appVersion);
+     var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+     var is_ie3    = (is_ie && (is_major < 4));
+     var is_ie4    = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+     var is_aol   = (agt.indexOf("aol") != -1);
+     var is_aol3  = (is_aol && is_ie3);
+     var is_aol4  = (is_aol && is_ie4);
+     var is_aol5  = (agt.indexOf("aol 5") != -1);
+     var is_aol6  = (agt.indexOf("aol 6") != -1);
+     var is_comp   = (agt.indexOf("compuserve") != -1);
+     var is_compie = (is_comp && is_ie);
 
+     if(!is_aol6 && !is_aol3 && !is_aol4 && !is_aol5 && !is_compie) { popupWin.opener.top.name = "opener"; }
 
+	popupWin.focus();
+}
 
+function openPopup(url,name,width,height){
+	var widgets = 'width='+width+',height='+height;
+	pollSubPop(url,name,widgets);
+}
 
-<table border="0" cellpadding="0" cellspacing="0" width="186">
-<tbody><tr><td style="background-image: url('http://mediavillage.com/images/poll_part1.gif');">
-<div class="pollq" style="padding-top:40px"> Vote to Save<br> <i>Studio 60</i><br>Send Your Message to NBC</div>
-
-</td></tr>
-
-<tr><td style="background-image: url('http://mediavillage.com/images/poll_part2.gif');">
-
-<div class="polla">
-
-<form action="http://mediavillage.com/cgi-bin/poll.cgi" method="get" class="borderless_form">
-
-<input type="hidden" name="poll_id" value="151">
-<input type="hidden" name="poll_type" value="radio">
-
-<input type="radio" name="answer_1" value="1"> Save <i>Studio 60</i>!<br><input type="radio" name="answer_1" value="2"> No need to save it!<br>
-
-</form></div>
-
-</td></tr>
-
-<tr><td style="background-image: url('http://mediavillage.com/images/poll_part3.gif'); background-repeat:no-repeat"><div style="width:186px; height: 75px; text-align:center;">
-
- <input type="image" src="http://mediavillage.com/images/poll_votebutton.gif" value="Submit" style=" margin-top:40px;"> 
-
-
-
-</div></td></tr></tbody></table>
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-<center>
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@x11">
 </script>
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript">
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1">
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@x11"></iframe>'); } else if (_version < 11) {  document.write ('<A HREF="oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@x11"><IMG SRC="oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@x11"></a>');}// --></script>
-
-
-
-<br><br>
-
-
-
-
-
-
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@x12">
-</script>
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript">
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1">
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@x12"></iframe>'); } else if (_version < 11) {  document.write ('<A HREF="oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@x12"><IMG SRC="oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@x12"></a>');}// --></script>                                                                          
-
-
-
-
-
-<br><br>
-
-
-
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@x13">
-</script>
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript">
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1">
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@x13"></iframe>'); } else if (_version < 11) {  document.write ('<A HREF="oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@x13"><IMG SRC="oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@x13"></a>');}// --></script>                                                                          
-
-<br><br>
-
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@x14">
-</script>
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript">
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1">
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@x14"></iframe>'); } else if (_version < 11) {  document.write ('<A HREF="oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@x14"><IMG SRC="oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@x14"></a>');}// --></script>                                                                          
-
-
-
-
-<br><br>
-
-
-
-<!--- 1st Section:  Delivery Attempt via JX tag. --->
-<script language="JavaScript1.1" src="http://oascentral.mediavillage.com/RealMedia/ads/adstream_jx.ads/mediavillage.com/index.html\@x15">
-</script>
-<!--- 2nd Section:  Browser test; "version" will be set to 10 or 11 --->
-<script language="JavaScript">
-<!--_version=10; //--> </script>
-<script language="JavaScript1.1">
-<!--_version=11; // --> </script>
-<script language="JavaScript">
-<!--- 3rd Section:  Acts on results of Browser test with delivery via SX code --->
-<!-- if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=120 HEIGHT=240 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://oascentral.mediavillage.com/RealMedia/ads/adstream_sx.ads/index.html\@x15"></iframe>'); } else if (_version < 11) {  document.write ('<A HREF="oascentral.mediavillage.com/RealMedia/ads/click_nx.ads/index.html\@x15"><IMG SRC="oascentral.mediavillage.com/RealMedia/ads/adstream_nx.ads/index.html\@x15"></a>');}// --></script>                                                                          
-
-
-
-
-
-</center>
-
+                
+                        
+                
+                                    
+                        
+                                        
+                        
+                                                        
+    <div id="polls_inner">                     <img src="http://media.jackmyers.com/designimages/header_poll_inner.gif" alt="media industry poll" width="300" height="28" border="0">
+                                <form action="http://polls.clickability.com/polls" target="popuppoll">
+                                                                    
+                <input type="HIDDEN" name="pid" value="11025136">
+                <input type="HIDDEN" name="cid" value="8500371">
+                <input type="HIDDEN" name="mr" value="100000">
+                <input type="HIDDEN" name="rurl" value="http://www.jackmyers.com/home/polls/results">
+    
+                <fieldset>
+            
+                    <strong>What Should Members of the Writers Guild Do?</strong>
+                                            <p class="label_checkbox_pair">
+                        <input type="radio" name="oid" value="1">
+                        <label for="foo">Hold out for everything they want.</label>
+                        </p>			        
+                                            <p class="label_checkbox_pair">
+                        <input type="radio" name="oid" value="2">
+                        <label for="foo">"Pick up their pencils" and get back to work.</label>
+                        </p>			        
+                                        <div><input src="http://media.jackmyers.com/designimages/vote.gif" type="image" id="submit" class="formbutton" alt="vote" width="71" height="27" border="0" vspace="6" onclick="pollSubPop('','popuppoll', 'toolbar=no,left=100,top=100,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=460,height=405')"></div>
+                
+                    <div><a href="#" onclick="pollSubPop('/home/polls/results?pid=11025136','popuppoll', 'toolbar=no,left=100,top=100,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=460,height=405')">view results</a></div>
+                
+                </fieldset>
+            </form>
+    
+    </div>
 
 
 </td>
 
+		
+		</tr>
+		
+		</tbody></table>
+		
+	</td>
+	
+</tr>
 
-<td valign="top" style="padding-left:12px; padding-right:12px;">
 
-
-<!-- 					-->
-<!-- 	Content Block	-->
-<!-- 					--->
-
-<div style="padding-top: 12px"></div>
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-<tbody><tr><td bgcolor="#989628"><img src="http://mediavillage.com/images/pg2_nmab_title.gif"></td><td bgcolor="#989628" align="right"><img src="http://mediavillage.com/images/pg2_nmab_title_rt.gif"></td></tr>
 <tr>
 
-<td bgcolor="#B2B03A" colspan="2" style="padding-left:20px; padding-right:13px;">
+	<td colspan="3" id="footer">
+		<div id="copyright">Copyright 2007 Jack Myers. All Rights Reserved. Site powered by <a href="http://www.clickability.com"><img src="http://media.jackmyers.com/designimages/logo_clickability.gif" alt="clickability" width="63" height="16" border="0"></a></div>
+		<div id="links"><a href="/about-us" id="links2">about us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/advertise" id="links2">advertise</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contact-us" id="links2">contact us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/site-map" id="links2">site map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy" id="links2">privacy policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms" id="links2">terms of use</a></div>
+	</td>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Start Rt Col Outer Table -->
-
-<table border="0" cellpadding="0" cellspacing="0" align="right" width="175"><tbody><tr><td width="15" rowspan="2">&nbsp;</td><td>
-
-<!-- Start Top Right 4 pack Table -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="160"><tbody><tr><td width="80">
-
-<!-- Start Sound Off -->
-<form action="http://mediavillage.com/sound_off/2005/04/29/index.html" method="get" class="borderless_form"><input type="hidden" name="sound_off_uri" value="/media_village/2005/08/25/priv"><input type="hidden" name="sound_off_title" value="Media%20Village%20Privacy%20Policy"><input type="image" value="submit" src="http://www.mediavillage.com/images/so_icon_oli.gif" width="80" height="35" border="0" alt="Sound Off!"></form>
-<!-- End Sound Off -->
-
-
-
-
-</td><td width="80">
-
-<!-- Start Forums Link -->
-
-
-
-<a href="http://forums.mediavillage.com/cgi-bin/bbBoard.cgi"><img src="http://www.mediavillage.com/images/rc_icon_oli.gif" border="0" alt="" width="80" height="35"><!-- End FOrum Link --></a></td></tr><tr><td width="80" valign="top">
-
-
-<!-- Start Print Me Link -->
-
-
-
-
-
-
-
-
-<img src="http://www.mediavillage.com/images/pn_icon_blank_oli.gif" border="0" alt="" width="80" height="28">
-
-
-
-
-<!-- End Print Me Link -->
-
-</td><td width="80">
-
-<!-- Start Tell A Friend -->
-
-<form action="http://www.mediavillage.com/media_village/2005/08/19/index.html" method="get" class="borderless_form">
-
-
-
-<input type="hidden" name="sound_off_uri" value="/media_village/2005/08/25/priv"><input type="hidden" name="sound_off_title" value="Media%20Village%20Privacy%20Policy">
-
-<input type="image" value="submit" src="http://www.mediavillage.com/images/fw_icon_oli.gif" width="80" height="28" border="0" alt="Sound Off!">
-</form><!-- End Tell A Friend --></td></tr></tbody></table>
-
-<br>
-
-
-
-<div class="bscenelink" style="padding-bottom:10px">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<style type="text/css">
-
-.bscenelink {
-font-family: Trebuchet MS, Arial;
-color:#FFFFFF;
-font-size: 13px;
-line-height: 14px;
-}
-a.bscenelink {
-font-family: Trebuchet MS, Arial;
-color:#FFFFFF;
-font-size: 13px;
-line-height: 14px;
-}
-a.bscenelink:hover {
-font-family: Trebuchet MS, Arial;
-color:#E6FF3C;
-font-size: 13px;
-line-height: 14px;
-}
-a.bscenelink:active {
-font-family: Trebuchet MS, Arial;
-color:#FFBF38;
-font-size: 13px;
-line-height: 14px;
-}
-a.bscenelink:visited {
-font-family: Trebuchet MS, Arial;
-color:#FFFFFF;
-font-size: 13px;
-line-height: 14px;
-}
-
-
-ul.bts {
-
-padding-left: 10px;
-padding-right: 0px;
-padding-top:4px;
-padding-bottom: 0px;
-margin:0px;
-color: #ffffff;
-font-size:9px;
-list-style-position: inside;
-list-style-type: disc
-
-}
-
-ul.bts li > ul {
-
-
- color: #ffffff;
-
-}
-
-#bts_spacer {
-margin:0px;
-padding:0px;
-width:1 px;
-height: 10px;
-}
-</style>
-
-<table border="0" cellpadding="0" cellspacing="0" width="160">
-<tbody><tr><td width="160" colspan="2"><img src="http://www.mediavillage.com/images/bscene_button_oli.gif" border="0" alt="Behind the Scenes"></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr>
-
-<tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/tv_entertainment/" class="bscenelink">Click For the <b>New Fall Line Up</b></a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/savoring_soaps/" class="bscenelink">Pre-Emmy Potpourri: Chandra Wilson, Another World and More</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/tv_maven/" class="bscenelink">The N: Socially Responsible Without Being Cheesy</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/ed_martin/archives/2007/06/the_sopranos.html" class="bscenelink">What I'll Miss Most About The Sopranos</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/jericho/" class="bscenelink">Jericho Returns for a Second Season</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/ed_martin/archives/2007/06/john_from_cinci.html" class="bscenelink">HBO's New Oddity: John From Cincinnati</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/ed_martin/archives/2007/06/devon_werkheise.html" class="bscenelink">Devon Werkheiser in Ned's Declassified School and Shredderman Rules</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/tv_maven/archives/2007/06/patrick_and_viv.html" class="bscenelink">Patrick and Vivien Sent Home from The Next Food Network Star for Missing Personalities</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/tv_maven/" class="bscenelink">TV Maven's Summer Picks</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/so_you_think_you_can_dance/" class="bscenelink">So You Think You Can Dance: Top 20 Revealed</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr><tr><td valign="top" width="15"><ul class="bts" align="right"><li class="bts"></li></ul></td><td><a href="http://blogs.mediavillage.com/tv_entertainment/" class="bscenelink">Traveler: The Steam and Fog Clear... A Little</a></td></tr><tr><td colspan="2" id="bts_spacer"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-8636538545631782";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="";
-google_color_border = "B2B03A";
-google_color_bg = "B2B03A";
-google_color_link = "E6FF3C";
-google_color_url = "FFFFFF";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-
-
-
-
-
-
-<!-- End Menu -->
-
-<!-- End fan features -->
-
-<!-- Start Behind the Scenes -->
-
-
-
-
-
-
-
-<!--- End Rt Col Outer Table --></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-<style type="text/css">
-
-
-H1 { font-family: Arial; color:#2b2b2b; font-size: 20px; line-height: 20pt; font-weight: bold; padding: 0px; margin: 6px 0px 3px 0px; }
-H2 { font-family: Arial; color:#FAD291; font-size: 14px; line-height: 16pt; font-weight: bold; padding: 0px; margin:  6px 0px 3px 0px; }
-H3 { font-family: Arial; color:#2b2b2b; font-size: 14px; line-height: 18pt; font-weight: bold; margin 3px 0px 3px 0px; }
-
-</style>
-
-
-
-
-<h2></h2>
-
-      
-<div class="columnbody">
-
-
-
-
-
-
-<style type="text/css">
-
-a { color:#ffffff; }
-
-a:hover { color:#FFFFFF; }
-
-a:active { color:#FFBF38; }
-
-a:visited { color:#ffffff; }
-
-</style>
-
-
-<!-- Start "Page" -->
-
-
-
-
-
-<p></p><div class="columntitle">Media Village Privacy Policy</div>
-<br>
-
-MediaVillage.com ("MediaVillage") is strongly committed to protecting the privacy of our customers. The purpose of this MediaVillage privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather about you when you visit MediaVillage, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to the MediaVillage site. Please note that this policy applies only to MediaVillage, and not to other companies' or organizations' Web sites to which we link. Our policy will be continuously assessed against new technologies, business practices and our customers' changing needs. All changes to our privacy policy will be posted here so that you are aware of our current practices. 
-<p>
-Information
-</p><p>
-MediaVillage collects personal information when you register with MediaVillage and use our products or services. When you register we ask for information such as your name, contact information, email address, gender, zip code, occupation, industry, and personal interests. Once you register with MediaVillage and sign in to our services, you are not anonymous to us. MediaVillage automatically receives and records information on our server logs from your browser, including your IP address, MediaVillage cookie information, and the page(s) you request. All requested information on the MediaVillage site is not required. You may choose to post additional information about yourself. Please do not post sensitive data such as credit card numbers, social security numbers or other personal data. MediaVillage is not responsible for your disclosure of personal information on our registration form, sound offs, forums, postings or other product offerings. You have the option to change your posted data at any time. 
-</p><p>
-Disclosure
-</p><p>
-We do not use or disclose information about your individual visits to MediaVillage or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. MediaVillage may share such information in response to legal process, such as a court order or subpoena, or in special cases such as a physical threat to you or others. And we may share with our Web site partners and prospective customers aggregated statistical "ratings" information about the use of MediaVillage.
-</p><p>
-Protection of Data
-</p><p>
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
-</p><p>
-How to Contact Us
-</p><p>
-We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact legal@MediaVillage.com Or write to us: MediaVillage.com, Attn: Legal Department, PO Box 615, Pine Brook, NJ  07058.
-</p><p>
-</p>
-
-
-
-
-
-<!-- End "Page" -->
-
-
-
-
-
-
-
-
-</div></td>
 </tr>
 
 </tbody></table>
-
-
-
-</td>
-
-
-
-</tr></tbody></table>
-
-
-
-
-
-
-
-
-
-<p></p>
-<!-- End "Column" -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="pre_footer">
- 
-</div>
-
- <div id="footer">
- 
- 
-<div style="padding-top:12px;"></div>
- 
- 
- <!-- 					-->
-<!-- 	Footer Block	-->
-<!-- 					-->
- <table border="0" cellpadding="0" cellspacing="0" width="100%" style="">
- 
- <tbody><tr>
-
-<td class="footerhead" width="100">Columns:</td>
-<td class="footernav"> <a href="http://www.mediavillage.com/jmentr" class="footernav">Entertainment Report</a> | <a href="http://www.mediavillage.com/watercooler" class="footernav">Watercooler TV</a> | <a href="http://www.mediavillage.com/jmheard" class="footernav">The Media Village Buzz</a> | <a href="http://www.mediavillage.com/jmlunch" class="footernav">Lunch at Michaels</a></td>
-<td rowspan="4" class="footercopyright" width="160" valign="top">
-
-Copyright © 2007,<br> MediaVillage, LLC.<br> All Rights Reserved.
- 
- </td>
- </tr>
- 
-<tr>
-
-<td class="footerhead">Participate: </td>
-<td class="footernav"> <a href="http://www.mediavillage.com/media_village" class="footernav">Media Village</a> | <a href="http://www.mediavillage.com/sound_off" class="footernav">Sound Off to Network Executives</a> | <a href="mailto:maryann@mediavillage.com" class="footernav">Site Feedback</a> 
-</td>
-
- </tr>
- 
-<tr>
-
-<td class="footerhead">About</td>
-<td class="footernav"> 
-
-<a href="http://www.mediavillage.com/about" class="footernav">Jack Myers</a> | <a href="http://www.mediavillage.com/about/2005/02/24/index.html" class="footernav">Speaking Engagements</a> | <a href="http://www.mediavillage.com/about/2005/02/23/" class="footernav">Press Updates</a>
-| <a href="http://www.mediavillage.com/media_village/2005/08/25/priv" class="footernav">Privacy</a>
-| <a href="http://www.mediavillage.com/media_village/2005/08/25/ua" class="footernav">User Agreement</a>
-</td>
-
- </tr>
-
-<tr>
-
-<td class="footerhead"></td>
-<td class="footernav"> 
-
-<div style="padding-bottom:6px"></div>
- 
-
-
-This work is licensed under the Creative Commons Attribution-NoDerivs 2.5 License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nd/2.5/" class="footernav" target="_blank">http://creativecommons.org/licenses/by-nd/2.5/</a> or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
-
-
-
-</td>
-
- </tr>
- </tbody></table>
-
-
-
-
-
-<script type="text/javascript" src="http://service.collarity.com/cust/mediavillage/ucs.js"></script> 
- 
-
-
-<div style="padding-bottom:12px"></div>
- 
-</div>
-
-
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div></body></html>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2451628-1";
+urchinTracker();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-87PTHBI0gAVCI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-87PTHBI0gAVCI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-87PTHBI0gAVCI.gif"
+style="display: none" border="0" height="1" width="1"
+alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+</body></html>
