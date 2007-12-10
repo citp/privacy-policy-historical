@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610095020id_/http%3A//www.westlaw.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080803id_/http%3A//www.westlaw.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Westlaw UK - Privacy Policy
 
