@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514202417id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israeltoday.co.il privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180903id_/http%3A//www.israeltoday.co.il/default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
 # israel today > Home
 
