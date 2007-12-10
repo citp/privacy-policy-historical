@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldstonecreamery.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622115934id_/http%3A//www.coldstonecreamery.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldstonecreamery.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210131142id_/http%3A//www.coldstonecreamery.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ By providing COLD STONE CREAMERY with your personal information, you signify tha
 
 COLD STONE CREAMERY only gathers personal information when voluntarily submitted by you. If you request information from COLD STONE CREAMERY, or wish to share an experience you had at one of our franchise stores, we'll ask for personal information such as your name, address, and email address, as well as store address and any other information you may wish to share, so that we can best respond to your comments. This information will help us to better customize The Ultimate Ice Cream Experience® at COLD STONE CREAMERY. Additionally, if you contact COLD STONE CREAMERY, we may keep a record of that correspondence.
 
-When you access certain areas of the COLD STONE CREAMERY web site, such as when purchasing gift certificates, we will ask you for your registration or log in information. Such information can include your name, e-mail address, residence or billing addresses, and credit card information. Other areas of the COLD STONE CREAMERY web site can include requests for information for prospective franchisees and vendors. These areas can include requests not only for the above type of information, but also requests for certain financial, credit and other sensitive personal information deemed necessary to evaluate your potential as a franchisee or vendor.
+When you access certain areas of the COLD STONE CREAMERY web site, such as when you create a My Cold Stone account or purchase gift certificates, we will ask you for your registration or log in information. Such information can include your name, e-mail address, residence or billing addresses, product preferences, and credit card information (for online purchases). Other areas of the COLD STONE CREAMERY web site can include requests for information for prospective franchisees and vendors. These areas can include requests not only for the above type of information, but also requests for certain financial, credit and other sensitive personal information deemed necessary to evaluate your potential as a franchisee or vendor.
 
 From time to time we and/or our partners will offer information for prospective franchisees, sponsor contests, sweepstakes, and special services that will require more information. COLD STONE CREAMERY partners or web sites that have links on our site may collect personal information about you. Please be aware that the information collected by these partners or websites is not covered under this Privacy Statement.
 
-As part of customizing and personalizing your service, COLD STONE CREAMERY uses cookies to store and sometimes track information about you. A cookie is a small amount of information that is sent to your browser from a web server and stored on your computer's hard drive. The cookie stores information and is sent when you register or sign in. Cookies track your use and the number of entries in our promotions, sweepstakes, and contests. Cookies also help us to estimate the size of our audience and measure traffic patterns. Additionally, our partners may also use their own cookies. Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site.
+As part of customizing and personalizing your service, COLD STONE CREAMERY uses cookies to store and sometimes track information about you. A cookie is a small amount of information that is sent to your browser from a web server and stored on your computer's hard drive. The cookie stores information and is sent when you register or sign in. Cookies enable you to automatically log into your My Cold Stone account when you visit the site. We also use Cookies to track your use and the number of entries in our promotions, sweepstakes, and contests. Cookies also help us to estimate the size of our audience and measure traffic patterns. Additionally, our partners may also use their own cookies. Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site.
 
 COLD STONE CREAMERY may also collect certain aggregate information about you and your use of our web site whenever you visit, such as various forms of "click stream" information including URLs or domains, site traffic statistics and origination information, page views, impressions, and operating system and browser types. In addition, COLD STONE CREAMERY servers automatically log your IP address when you request pages on our web site. This aggregate information generally will not personally identify you or be correlated to you individually for external purposes. COLD STONE CREAMERY may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all of the aggregate information, provided that, such information does not personally identify you, and the aggregate information will not be used by other companies to contact you.
 
@@ -38,7 +38,7 @@ COLD STONE CREAMERY reserves the right to use or disclose any information when w
 
 ## Choice/Opt-Out
 
-Our site provides users the opportunity to choose how information you provide to us can be used by COLD STONE CREAMERY. If you are getting promotional email from us and would like to be removed from our list, simply click the link at the bottom of any email you receive to unsubscribe.
+Our site provides users the opportunity to choose how information you provide to us can be used by COLD STONE CREAMERY. If you are getting promotional email from us and would like to be removed from our list, simply click the link at the bottom of any email you receive to unsubscribe. You can opt into or out of emails from us by logging into your My Cold Stone account and updating your preferences via the My Account Details page.
 
 ## How does COLD STONE CREAMERY protect your information?
 
@@ -58,11 +58,11 @@ From time to time, it may be necessary for COLD STONE CREAMERY to change this Pr
 
 ## Does COLD STONE CREAMERY allow customers to update or change their personally identifiable information?
 
-Users of the COLD STONE CREAMERY web site may, at any time, review the personally identifiable information they have provided about themselves (and their children), request a change to that information, or request that COLD STONE CREAMERY delete that information from our databases by writing to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com). We welcome your questions and comments about privacy. Please send e-mail to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com), or contact us at:
+Users of the COLD STONE CREAMERY web site may, at any time, review the personally identifiable information they have provided about themselves (and their family members) and make changes to that information via their My Cold Stone Account Details page. Users can also request that their My Cold Stone account be closed via the My Cold Stone Account Details page. Furthermore, users can request that COLD STONE CREAMERY delete all account information from our databases by writing to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com). We welcome your questions and comments about privacy. Please send e-mail to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com), or contact us at:
 
   
- **Creamery Headquarters  
-** 9311 E. Via de Ventura  
+**Creamery Headquarters  
+**9311 E. Via de Ventura  
 Scottsdale, AZ 85258
 
 480-362-4800 phone  
