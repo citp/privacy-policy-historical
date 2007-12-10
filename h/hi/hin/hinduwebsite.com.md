@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618023920id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190127id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
 
 # Hinduwebsite.com Privacy Policy.
 
@@ -24,4 +24,4 @@ Whatever information that is provided under such circumstances is subject to the
 
 They are therefore requested to read very carefully the privacy policy guidelines of each and every website they visit through the links or information we provide, before entering into any contractual or other relationship with them or providing any personal information about themselves or others. 
 
-The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20070618023920id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
+The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20071210190127id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
