@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602130247id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spout.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210192230id_/http%3A//www.spout.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Spout - Privacy
 
@@ -20,7 +20,7 @@ We will use the information we collect to continuously improve our business and 
 ](https://web.archive.org/Contact.aspx)  
  **Changes to Your Preferences and Information**
 
-The information you provide us isn’t set in stone. You can edit your account information with us at any time. Most personal information you may provide is entirely optional. You can delete or modify your account by visiting the applicable account pages; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal or business interests. 
+The information you provide us isn’t set in stone. You can edit your account information with us at any time. Most personal information you may provide is entirely optional. You can modify your account by visiting the applicable account pages or delete your account by [contacting us](https://web.archive.org/Contact.aspx). However, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal or business interests. 
 
 **Cookies**
 
