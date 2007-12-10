@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623153755id_/http%3A//www.imperfectparent.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160237id_/http%3A//www.imperfectparent.com/privacy/index.php) for the most accurate reproduction.*
 
 # The Imperfect Parent || Privacy Policy
 
 | 
-
-| [HOME](http://www.imperfectparent.com/index.php)  
----  
-PARENTING  
-POLITICS/SOCIETY  
-HUMOR  
-LIFESTYLE   
-RESOURCES  
-[COMMUNITY](http://www.imperfectparent.com/community/index.php)  
-[BLOG](http://blog.imperfectparent.com/)  
-[PODCAST](http://podcast.imperfectparent.com/)  
-[DECLARATION](http://www.imperfectparent.com/declaration/index.php)  
-[STORE](http://www.imperfectparent.com/store/index.php)  
-  
-If you don't get our newsletter, you are more than imperfect, you're a horrible person. Enter your email address below to sign up. 
 
 ## Privacy Policy
 
@@ -27,7 +12,7 @@ When you visit one of our Web pages, our server automatically logs your Internet
 
 The Imperfect Parent maintains its own ad display, and currently does not conduct in any marketing research based on our customers purchases, pages visited, etc.
 
-On certain pages, if you choose to register for a contest, newsletter, message board, or some other purpose, we may ask for personal information such as street and/or E-mail address, phone number, consumer preferences, etc. We do not and will not release any such information unless we have your consent, or we believe in good faith that we are legally required to do so or that there is an emergency involving personal danger. Nor will we use this information to contact you in any way other than what is expressly stated in the registration. 
+On certain pages, if you choose to register for a contest, sweepstakes, newsletter, message board, or some other purpose, we may ask for personal information such as street and/or E-mail address, phone number, consumer preferences, etc. We do not and will not release any such information unless we have your consent, or we believe in good faith that we are legally required to do so or that there is an emergency involving personal danger. Nor will we use this information to contact you in any way other than what is expressly stated in the registration. 
 
 The Imperfect Parent collects personal information when registering for our Community forums. The only information that is required is a unique username and valid email address. Your community profile will contain any information you place regarding your occupation, location, interests, and website. These options are all voluntary, and may be left blank if desired. You are also given a choice of whether or not to display your email address. The default option for this is "no".
 
@@ -38,12 +23,7 @@ Given the nature of Web publishing, our privacy policies may change from time to
 If you have any questions about our privacy policy, please write to [prescott@imperfectparent.com](mailto:prescott@imperfectparent.com).   
 
 
-_Last updated 04/18/06_
+_Last updated 08/17/07_
 
-| 
-
-Our supporters:
-
-* * *
-
-* * *
+|   
+---|---
