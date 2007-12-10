@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627200830id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212944id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
 # The Geelong Advertiser
 
