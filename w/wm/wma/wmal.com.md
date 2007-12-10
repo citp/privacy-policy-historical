@@ -1,145 +1,88 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229062445id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113615id_/http%3A//www.wmal.com/article.asp%3FID%3D446047) for the most accurate reproduction.*
 
-# 630 WMAL
+# 630 WMAL: Stimulating Talk – Breaking News
 
-|   
----  
----  
-  
-Weekday Programs
+**Privacy Policy**
 
-Weekend Programs
+This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
 
-Grandy and Andy  
-   Morning Show
+[](https://web.archive.org/ad/click.asp?adID=61359&adRunID=72843)
 
-630 WMAL Presents:  
-The Mid-Morning Show
+**Why we collect information.**
 
-Rush Limbaugh
+Citadel collects information to assist us in delivering a superior level of product.  We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services.  This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them. 
 
-Sean Hannity
+ It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you.  In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about. ****
 
-Chris Core
+ **What information we collect**
 
-John Batchelor  
-  
----  
-  
-News & Info
+The information we learn from customers helps us personalize and continually improve your experience with our products and services.  Here are the types of information we gather.
 
-ABC NEWS
+ **Automatic Information:**
 
-Traffic
+Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, streams viewed or listened to and when you visit our Sites. We use this information to understand how visitors navigate through our Sites and use our products, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.
 
-Weather
+ **Information You Give Us:**
 
-Commuter Forecast
+We receive and store any information you enter during account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain personally identifiable information, but then you might not be able to take advantage of many of our features.  We use the personally identifiable information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our product, and communicating with you.
 
-The Wall Street Journal Report
+ **How we use the information collected.**
 
-630 WMAL Sports  
-  
----  
-  
-630 WMAL Events
+There are a number of situations in which your personal information may help us give you better service.
 
-Arts and Entertainment
+It helps us gain a better understanding of how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
 
-630 WMAL Scrapbook 
+This information is also used to improve our software and services by providing personalized content recommendations, location customization, and/or personalized help and instructions.
 
-Community  
-  
----  
-  
-630 WMAL History
+We track content accesses and downloads  for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.
 
-Contact Us
+When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3rd parties to automatically fill in relevant form fields and simplify the process.  This information is not stored on the 3rd party website until you submit the form.  However, once the form is submitted, then this personally identifiable information may be stored on the 3rd party website.
 
-FAQs
+If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums. ****
 
-Advertise on WMAL  
-  
----  
-  
-Emergency Preparedness
+As is standard practice on many corporate websites, Citadel’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us. For example, knowing your first name lets us welcome you with a greeting the next time you use our products.
 
-The Business Report by Womble Carlyle
+Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. ****
 
-Doc On the Dial
+**Intended Audience**
 
-630 WMAL On Demand  
+Right Now Radio products and services and all Citadel websites are intended for United States Audiences over the age of 13.  All of our services are operated in accordance with the laws of the United States.  We make no representation that any service offered by Citadel is operated in accordance with the laws or governed by other nations.  Please be aware that any personal information you transfer to us will be transferred to the U.S and is subject to U.S. law.  We will reject or delete any personally identifiable information that we believe in good faith to be inconsistent with this Privacy Policy.
+
+Although persons of all ages may visit our websites and participate in activities that do not require the collection of personal information, we do not knowingly or intentionally collect personal information from children under the age of 13.  Except for the limited circumstances listed below, we will automatically reject and delete the registration or entry of any person we believe in good faith to be underage.  Any false or fraudulent registration or entry from a minor will be deemed to be ineligible and will disqualify the minor from the receipt of a prize, benefit, or other participation. 
+
+Except to meet Federal Communications Commission ("FCC") regulations, as required by applicable laws, or other regulatory and legal purposes, we will not use, store, or disclose any child's personal information to a third party without prior parental consent.
+
+ **When we disclose information.**
+
+Citadel does not use your personal information for purposes incompatible with those listed above. Citadel does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.
+
+In some cases, access to certain products and services, such as content subscription products or products distributed by third parties, may require the provision of personal information to a third party, such as a content provider or distributor.  In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party’s use of such information is governed by that party’s privacy policy, and Citadel’s use is governed by this privacy policy.  Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them.  If you do not wish for such a transfer to take place, you should not register for the applicable product or service.  Additionally, Citadel may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties.  In such cases, Citadel may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider.
+
+Citadel may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Citadel, and to better serve our customers. Citadel’s contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Citadel.
+
+Also, Citadel may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Citadel; (b) protect and defend the rights or property of Citadel and its products; or (c) act in urgent circumstances to protect the personal safety of users of Citadel products or the public at large. ****
+
+**Links to other websites.**
+
+Citadel websites and products contain links to other websites and products.  Citadel is not responsible for the privacy practices or the content of such websites or products.  Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.  Citadel has no liability for these third party sites, their policies or actions. ****
+
+ **Security of personal information**
+
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to try to protect guest information from unauthorized access and improper use.  From time to time, we review our security procedures in order to consider appropriate new technology and methods.  
+
+Citadel shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and Citadel cannot warrant the security of any information that you transmit to us.  Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so.  In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information. ****
+
+ **California** **Residents.**
+
+As of January 1, 2005, **California** **Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com).
+
+ **Changes to this policy.**
+
+We may revise this Privacy Policy to keep it up to date with Citadel’s current policies, practices, products, services and web pages.  Citadel reserves the right to revise, change or modify this policy at any time for any reason.  “Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ’s from time to time on specific product.
+
+If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com) to contact us. We will respond to your inquiry within 30 days.
+
+(Last updated August 2007)
+
   
-|  |  Any person accessing this site agrees to the following:  
-  
-WMAL-AM PRIVACY POLICY  
-  
-Last Updated 10/20/99  
-  
-The policies below are applicable to WMAL-AM and other sites on the World Wide Web portion of the Internet owned and operated by ABC Radio, Washington, DC (collectively referred to as "ABC").  
-  
-ABC collects personally identifying information during contests or sweepstakes, during registration for sites that require subscription and in connection with interactive areas requiring registration. In addition, information is collected in certain portions of sites in which guests provide content submissions and suggestions or participate in interactive online activities (e.g., community postings, voting, chat, games, online shopping, surveys, applications for show tickets and bulletin boards). ABC may use such information to fulfill prizes and purchases, track compliance with our rules and terms and conditions, or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event ABC plans to post any such information on a site, guests are provided prior notification of such posting and given the option of preventing such posting.  
-  
-Policies for Individuals Under 13  
-  
-ABC encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites. No information should be submitted to or posted at ABC 's Web sites by guests under 13 years of age without the consent of their parent or guardian. Unless otherwise disclosed during collection, ABC does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever. All registrants receive e-mail confirming their registration. In addition, when a guest under 13 registers, his/her parent or guardian receives an e-mail alerting them to that registration and providing instructions on how the parent or guardian can delete the registration if so desired. Although guests under 13 years of age are allowed to participate in contests, if such a guest wins, notification and prizes are sent to the parents or guardians. No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside ABC. ABC does not post guests' e-mail addresses on ABC Web sites. It is our goal to make your visits to our sites easy and enjoyable.  
-  
-Policies for Individuals 13 Years of Age or Older  
-  
-For visitors who are 13 years of age or over, information submitted at the time of registration or submission may be used for marketing and promotional purposes by ABC and may be shared with other companies that have been prescreened by ABC. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. When you register with ABC, every effort will be made to maintain your information in a secure environment by ABC.  
-  
-If you wish to modify your registration information or stop receiving e-mail updates from ABC just send an email stating "please modify my registration" or "please unsubscribe me" to Webmaster@abc.com.  
-  
-About IP Addresses  
-  
-ABC collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers.  
-  
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address.  
-  
-When guests request pages from ABC sites, our servers log the guests' IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us.  
-  
-Use of Cookies -- The ABC Cookies Policy  
-  
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our site. The use of cookies is an industry standard -- you'll find them at most major Web sites.  
-  
-By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from ABC Web Sites, you won't be offered as many afterward.  
-  
-Examples of How ABC Sites Use Cookies  
-  
-A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. Similarly, the ABC online store uses a temporary cookie to track which products you've chosen to purchase while shopping. The cookie expires once you're done shopping. Letting it do the record-keeping saves you the trouble of entering information over and over again during a single visit. If you decline this cookie, you may have difficulty ordering your selections.  
-  
-How ABC Sites Do Not Use Cookies  
-  
-ABC sites never use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, ABC sites do not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.  
-  
-ABC sites do not use cookies to identify specific individuals, except in such cases as online shopping (see above) and contest registration (where a cookie allows you to enter a contest every day without registering again each time).  
-  
-You may occasionally get cookies from our advertisers. ABC does not control these cookies, and these cookies are not subject to the ABC cookies policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.  
-  
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.  
-  
-Links to Other Sites  
-  
-Users should be aware that when they are on ABC sites they could be directed to other sites that are beyond our control. There are links to other sites from ABC sites that take you outside our service. For example, if you click on a banner advertisement or an ABC search result, the click takes you off the ABC site. This includes links from advertisers, sponsors and partners that may use ABC 's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Always be aware of where you end up.  
-  
-Please keep in mind that whenever you give out personal information online -- for example, via message boards or chat -- that information can be collected and used by people you don't know. While ABC strives to protect its users' personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.  
-  
-Security Policy  
-  
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers, utilizing encryption software.  
-  
-Only those employees who need access to your information in order to do their jobs are allowed access, each having signed comprehensive nondisclosure agreements with ABC, which provide explicit legal confidentiality protections. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.  
-  
-Your Acceptance of These Terms  
-  
-By using this site, you signify your assent to the ABC Privacy Policy. If you do not agree to this policy, please do not use our sites. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the ABC sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions by writing to [Webmaster@abc.com](mailto:Webmaster@abc.com)  
-  
-[**Back to NEWSTALK 630 WMAL main page**](http://wmal.fimc.net/default.asp).  
-  
-© ABC. All rights reserved.  
-  
-[**Join our Loyal Listener Club Today!**](http://wmal.fimc.net/jointheclub.asp)  
-  
----|---  
-  
-[](https://web.archive.org/advertiseon630wmal.asp)
+
