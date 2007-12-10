@@ -1,125 +1,75 @@
-> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231073441id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluggedin.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184456id_/http%3A//pluggedin.com/includes/privacy.html) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy Policy
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Privacy Policy Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-· | [Marketing Communication Help](http://help.yahoo.com/help/us/ymc/index.html)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Y! News: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Y! Directory: Privacy Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Search the Web: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Y! Directory: Security Category](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+Privacy Policy
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+PluggedIn is fully committed to safeguarding your personal information and protecting any information you provide to it. This Privacy Policy (the "Policy") respects and protects the privacy of all visitors to Pluggedin.com and intends to give you as much information and control as possible. 
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+This Policy is part of Pluggedin’s Terms of Service. By using the Site, you agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time without notice. It is your responsibility to read the Policy carefully and review any changes that may have been made.
 
-**What This Privacy Policy Covers**  
+**I. Personal Information**
 
+We may collect and process both information that you voluntarily communicate to us in order to access our Service (such as your email and password) and data related to your preferences and traffic (such as your IP address or the modules selected). You do not need to open an account and provide us with personally identifiable information to use our Service. Some personal information may be necessary to access some aspects of our Service. We will never collect or process personal data pertaining to, directly or indirectly, your race, your political, philosophical, or religious views, your health, or your sexual orientation.
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
+If you choose to purchase music or other goods or service by clicking on a third party link (i.e. Amazon) provided on the website, we will not collect any personal information related to the transaction (i.e. credit card number, address, etc.). The only information that we will collect with respect to such third party links is (a) the number of generic Pluggedin users who utilised such links and (b) the number of purchases made by these generic users.
 
-**Information Collection and Use**
+You may provide information for your Public Profile to introduce yourself to other members of our Site, including the information listed above, or other information, but are under no obligation to do so. The information that you provide for your Public Profile will be publicly displayed without restriction on our Site. By providing such information for public display on Pluggedin.com you recognize that it may be considered public domain and as such may be viewed, copied, or re-distributed by anybody who visits our Website. This public information includes without limitation your music preferences and any other information you choose to make available such as your own name, others’ names, images, song names and biographical information.
 
-      **General**  
+**II. Music Information**
 
+Pluggedin asks for personal information only when it’s necessary in order to deliver value-add service to you. We require certain pieces of information so we can provide you a personalized experience. For example, on Pluggedin.com, our software collects your listening preferences in order to provide you personalized music recommendations, and to allow you to share musical tastes and find other users who have compatible tastes. And while we may use this information for research and to improve the site and services we offer you, except as stated herein or as you specifically give us permission, we promise not to pass on personally identifiable information to third parties.
 
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+**III. Email Communication**
 
-      **Children**  
+Except for administrative emails (like important changes to this privacy policy, for example) all other emails we send are under your control. You may register your wishes at the Account Settings section of Pluggedin.com. We issue many types of email communication. The following is a non-comprehensive list: (1) we send a registration email when you first become a member (2) we send a regular opt-in newsletter (3) we provide an opt-in subscription to occasional emails for the announcement of new site features, special events, etc (4) we send invitations or “add friend requests” at the request of your friends who are users of our service; we may send one follow up email to such invitations if they do not generate a response the first time (5) we notify you of updates that have happened to your account, or your profile page (6) we may notify you when you receive messages from other members of the service. In order to make it easier for you to invite friends to use our services, we enable an easy ”address book import” from other online services (such as Hotmail, etc) – this address-book import will only function if you provide a username/password for the other online service, and we use this information to import your address book, but we do not save it. Furthermore, any user who receives unwanted invitations from our Pluggedin.com service is able to block future unsolicited invitations.
 
+**IV. Cookies**
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
+We use cookies to help you use Pluggedin.com but do not use cookies to capture personally identifiable information. We use “session” cookies to identify you as a valid user, to ensure that no one else can simultaneously log in and use your profile and to help personalize your Pluggedin.com experience in conjunction with your profile. We also use persistent cookies that store an encrypted session id code in order to “recognize” you when you come to the site, without the need for you to log in. 
 
-**Information Sharing and Disclosure**  
+Most browsers have cookies turned on as a default, but you can always disable cookies via your browser preferences. If you choose to disable cookies, however, you won't be able enjoy a significant proportion of Pluggedin's functionality. Please remember that cookies cannot read your hard drive or give any information collected to any third party. A cookie can only be read by the organization that sets it.
 
+**V. Log Files**
 
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://privacy.yahoo.com/privacy/us/all.html). 
+Our log files capture the URLs of the pages visited, browser type, screen resolution, and IP addresses for the purpose of analyzing trends, tracking user movement, administering the site, and gathering broad demographic information for aggregate use. None of this information is linked to personally identifiable.
 
-**Cookies**  
+**VI. Communications (Chat, IM, Message Boards)**
 
+We currently offer chat functionality and in the future we may offer other interactive features such message boards and instant messaging. Please note that all personal information you display or communicate using such functionality becomes public information and we are not responsible for any information you choose to make public. We may monitor such traffic via electronic software or otherwise in order to check for obscenity, defamation or abusive language, which we reserve the right to remove at any time. In addition, if you choose to personally communicate or meet with any other Pluggedin user by exchanging postal/email addresses, telephone numbers or otherwise via the interactive functionality of Pluggedin, you do so at your own risk. Pluggedin cannot be held responsible for any consequences, which flow from your decision to communicate or interact with other Pluggedin users in places or under circumstances, which we do not control. We advise you to use extreme caution whenever you socialize or interact with people whom you have met via the Internet.
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/beacons/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+**VII. Software Updates**
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+In order to ensure that Pluggedin is functioning at its best, from time to time we may ask you to upgrade to a newer version of our software. In addition, we may find it necessary to send you automatic fixes or support files. If we make a modification that materially affects your privacy, we will endeavor to notify you of such modification and we will update the Policy accordingly.
 
-      **General**  
+**VIII. Sharing**
 
+We will share user profile and demographic information with our partners and advertisers, for purposes including, but not limited to, the delivery of targeted advertising. This information will not be linked to any personal information that can identify any individual person.
 
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+**IX. Links**
 
-      **Children**  
+This Policy applies solely to information collected by the Site. The Site contains links to other sites. When you click on links and/or ad banners that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, PluggedIn cannot be responsible for the actions of third parties or for their privacy practices. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website with which they interact.
 
+**X. Tell-A-Friend**
 
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email invitation to visit the site, and may send one follow-up invitation to friends that did not respond. We store this information for the sole purpose of sending these emails. The friend may contact us at [privacy@pluggedin.com](https://web.archive.org/web/20071210184456id_/http%3A//pluggedin.com/includes/privacy@pluggedin.com) to request the removal of this information from our database.
 
-**Confidentiality and Security**  
+**XI. Security**
 
+PluggedIn uses industry-standard technologies when transferring and receiving consumer data exchanged with our site to help ensure its security. We use our best efforts to prevent any interference with your personal data such as loss, diversion, intrusion, unauthorized divulgation, alteration, or destruction.
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
+**XII. Cancellation of Account**
 
-**Changes to this Privacy Policy**  
+At any time you may request by email/ that your account be cancelled and that all associated personal information be deleted. Please note that in this event all your preferences will be lost.
 
+**XIII. Disclaimer**
 
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+We believe in privacy and therefore will take all reasonable measures to ensure that your personally identifiable information remains private. However, in the event that we are forced to disclose personally identifiable information by law (i.e. by court order), we will make such a disclosure without being in violation of this Policy.
 
-**Questions and Suggestions**  
+**XIV. Business Transitions**
 
+If Pluggedin is acquired by another company or sells a portion of its assets to another company, it is likely that user information will be a part of the assets transferred. If as a result of such a business transition information is to be collected, used or disclosed in a manner or for a purpose different from that stated above, Pluggedin will endeavour to notify all users of such changes.
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/ivalidate.php?url=www.yahoo.com). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
+**XV. Consent**
 
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
-
-
-  
-Effective Date: March 28, 2002
-
-
+By disclosing any information to Pluggedin through the website you consent to the collection, storage and use of such information by Pluggedin as set out in this Policy and the Terms of Service. If Pluggedin makes any changes to this Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. If you are concerned about how your information is collected, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in the Policy, please contact us [privacy@pluggedin.com](https://web.archive.org/web/20071210184456id_/http%3A//pluggedin.com/includes/privacy@pluggedin.com).
