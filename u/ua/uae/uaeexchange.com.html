@@ -1,23 +1,22 @@
-<!--The following is the downloaded HTML source of the uaeexchange.com privacy policy that was archived on 2007-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uaeexchange.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.-->
 
 <html><head>
-<title>:: UAE Exchange Centre LLC :: Privacy Policy</title>
+<title>UAEXchange</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="author" content="">
-<meta name="description" content="index">
 <link href="css/basic.css" rel="stylesheet">
-
+<script language="JavaScript" src="js/formVal.js"></script>
+<script language="JavaScript" src="js/emailVal.js"></script>
 <script language="JavaScript">
-	function preSubmit(firstname, lastname, emailaddr, liketosay, areacode, phoneno, city, country) {
-		if (firstname.value == "") { alert('Please input your first name'); return false;}
-		if (lastname.value == "") { alert('Please input your last name'); return false;}
-		if (emailaddr.value == "") { alert('Please input your email address'); return false;}
-		if (liketosay.value == "") { alert('Please input your comments'); return false;}
-		if (areacode.value == "") { alert('Please input your contact phone number area code'); return false;}
-		if (phoneno.value == "") { alert('Please input your contact phone number'); return false;}
-		if (city.value == "") { alert('Please input your city name'); return false;}
-		if (country.value == "XX") { alert('Please select your country of residence'); return false;}
+	function preSubmit() {
+		if (document.ccare.firstname.value == "") { alert('Please input your first name'); document.ccare.firstname.focus(); return false;}
+		if (emailCheck(document.ccare.emailaddr.value) == false) { alert('Please input your email address'); document.ccare.emailaddr.focus(); return false;}
+		if (document.ccare.liketosay.value == "") { alert('Please input your comments'); document.ccare.liketosay.focus(); return false;}
+		if ((document.ccare.areacode.value == "") && (document.ccare.phoneno.value == "")){ alert('Please input your contact phone number area code'); document.ccare.areacode.focus(); return false;}
+		if (document.ccare.phoneno.value == "") { alert('Please input your contact phone number'); document.ccare.phoneno.focus(); return false;}
+		if (document.ccare.city.value == "") { alert('Please input your city name'); document.ccare.city.focus(); return false;}
+		if (document.ccare.country.value == "XX") { alert('Please select your country of residence'); document.ccare.country.focus(); return false;}
+		if (document.ccare.product.value == "XX") { alert('Please select the product or transaction type'); document.ccare.product.focus(); return false;}
 		document.ccare.submit();
 	}
 </script>
