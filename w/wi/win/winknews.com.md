@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509000016id_/http%3A//www.winknews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210193202id_/http%3A//www.winknews.com/about/privacy) for the most accurate reproduction.*
 
-# WINK-TV - Fort Myers, FL | WINKTV Privacy Policy
-
-Story Created: Mar 9, 2007 
-
-Story Updated: Mar 9, 2007 
+# WINK News - Southwest Florida | WINKTV Privacy Policy
 
 This Privacy Policy governs the use and collection of information that winktv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site").     
   
