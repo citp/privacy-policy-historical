@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625045911id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210125717id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # FreakingNews.com - News Photoshop Pictures Contests - home page
 
