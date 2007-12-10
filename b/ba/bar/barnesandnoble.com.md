@@ -1,24 +1,16 @@
-> *The following text is extracted and transformed from the barnesandnoble.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616033047id_/http%3A//www.barnesandnoble.com/help/nc_privacy_policy.asp%3Fz%3Dy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnesandnoble.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232501id_/http%3A//www.barnesandnoble.com/help/nc_privacy_policy.asp%3Fz%3Dy) for the most accurate reproduction.*
 
 # Barnes & Noble.com - Help Desk: Privacy Policy
 
-|  | [Help Desk](http://www.barnesandnoble.com/help/help.asp?z=y&cds2Pid=8104): Barnes & Noble.com Privacy and Security Policies  
-
-
-* * *
-
-The Privacy Policy and Security Policy were revised on September 2006. [Click here](http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&cds2Pid=8104) to see what changes were made.
+The Privacy Policy and Security Policy were revised on September 2006. [Click here](http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&cds2Pid=8104) to see what changes were made.
 
 * * *
 
 Privacy Policy
 
- This Privacy Policy covers what information we collect from you when you visit the Barnes & Noble.com site, how we use it, and under what circumstances we disclose it. By using the Barnes & Noble.com site, you agree with the terms and conditions of this Privacy Policy and [Terms of Use](http://www.barnesandnoble.com/include/terms_of_use.asp?z=y&cds2Pid=8104). 
+This Privacy Policy covers what information we collect from you when you visit the Barnes & Noble.com site, how we use it, and under what circumstances we disclose it. By using the Barnes & Noble.com site, you agree with the terms and conditions of this Privacy Policy and [Terms of Use](http://www.barnesandnoble.com/include/terms_of_use.asp?z=y&cds2Pid=8104). 
 
-* * *
-
-  
-|  |  | 1\. The information we collect  
+|  | 1\. The information we collect  
 ---|---|---  
 |  | 2\. How we use and share Personal Customer Information  
 |  | 3\. Communications from Barnes & Noble.com  
@@ -28,6 +20,7 @@ Privacy Policy
 |  | 7\. Changes to Privacy Policy  
 |  | 8\. Questions or comments  
 |  | 9\. Membership Privacy Policy  
+  
   
 
 
@@ -75,8 +68,7 @@ Barnes & Noble.com shares Personal Customer Information that we collect as follo
   *  **Companies affiliated with Barnes & Noble.com**. From time to time, on limited basis, we may share with entities affiliated with Barnes & Noble.com (e.g., Barnes & Noble Booksellers and Barnes & Noble Membership) contact information of our account holders and individuals that makes purchase without an account so that such entities can promote special offers, events, new products and services. 
     * Barnes & Noble.com account holders can opt-out from our use of your information in this way at any time by logging onto your [Account](http://cart2.barnesandnoble.com/account/youraccount.asp?z=y&cds2Pid=8104) and following the instructions under _Change Your Communication Preferences_
     * Barnes & Noble.com users that make purchases without an account can opt-out by selecting the link at the bottom of any promotional e-mail communication from Barnes & Noble.com and follow the instructions. 
-  * **Other Trustworthy Third Parties**. From time to time, on limited bases, we may share with trustworthy third parties contact information of our account holders so that such third parties can promote their products and services. You, as an account holder, can opt out from our disclosure of your information for this purpose at any time by logging onto your [Account](http://cart2.barnesandnoble.com/account/youraccount.asp?z=y&cds2Pid=8104) and following the instructions under _Change Your Communication Preferences_.
-  *  **Law Enforcement Investigations**. Barnes & Noble.com may release Personal Customer Information when we believe, in our good judgment, that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Barnes & Noble.com, our users, or others.
+  * **Law Enforcement Investigations**. Barnes & Noble.com may release Personal Customer Information when we believe, in our good judgment, that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Barnes & Noble.com, our users, or others.
 
   
   
@@ -153,7 +145,7 @@ If you are also a participant in the Barnes & Noble Membership program you shoul
 
 Security Policy
 
-  1\. Protecting your information
+1\. Protecting your information
 
   
   
@@ -228,6 +220,5 @@ If you do not feel comfortable sending your credit card information to us over t
 7\. Changes to security policy  
   
 This security policy was last changed on September 2006 . To see how the Security Policy changed, go to [September 2006 Security Policy Changes](http://www.barnesandnoble.com/help/nc_privacy_policy8-3rev.asp?z=y&cds2Pid=8104#security). Barnes & Noble.com reserves the right to modify or amend this policy at any time by posting the revised Security Policy on our site. The changes will only affect the information we collect after the effective date of the change to our Security Policy unless we clearly express otherwise The changes made in this September 2006 version affects all information we have collected prior to such date.   
+  
 
-
-   
