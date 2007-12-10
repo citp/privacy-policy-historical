@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313230927id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210112436id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
-# ICIS
+# ICIS - Home
 
 ICIS.COM is owned and operated by Reed Business Information Limited ('RBI'). 
 
@@ -24,7 +24,7 @@ We may ask for further information about you as part of online surveys or if you
 
 We make use of cookies to gather valuable information about how users move around the site. This enables us to understand how the site is used and to make improvements. The information we gather by use of cookies does not include personally indentifying information. 
 
-[www.webtrendslive.com](http://www.webtrendslive.com/)
+[http://www.websidestory.com](http://http//www.websidestory.com/)
 
 **Statistical information**
 
@@ -42,7 +42,7 @@ We may also pass on your information to other companies within our corporate gro
 
 **Our  External Providers **
 
-AdTech, the third party company which serves advertisements on the site, uses cookies to serve and target advertisements effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit their site <http://www.adtech.info/privacy_en.php>. These cookies do not include personally identifying information.
+AdTech, the third party company which serves advertisements on the site, uses cookies to serve and target advertisements effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit their site <http://www.adtech.info/en/cookie_opt-out.html>[](http://www.adtech.info/privacy_en.php). These cookies do not include personally identifying information.
 
 Bluestreak, the third party company which handles our user database, also uses cookies. These cookies may include personally identifying information that you have provided to us by filling in an online form. For more information, please visit their site [http://www.bluestreak.com](http://www.bluestreak.com/). 
 
