@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justclicklocal.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527132159id_/http%3A//www.justclicklocal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justclicklocal.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074300id_/http%3A//www.justclicklocal.com/privacy.php) for the most accurate reproduction.*
 
 # JustClickLocal.com - Privacy policy
 
