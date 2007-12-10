@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607113359id_/http%3A//www.adc.com/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225256id_/http%3A//www.adc.com/legal/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
