@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043253id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140551id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
@@ -24,7 +24,7 @@ The member may also choose to provide more information such as a complete addres
 
 ## Disclosing your personal information
 
-When joining Preloved, members are given the opportunity to specify whether to reveal their email address or telephone number to other Preloved members. The member must choose at least one of these methods of contact. These settings can be changed by visiting the members area at [http://www2.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html) Members may also choose to disclose other personal information to Preloved members by adding this information in the members area. 
+When joining Preloved, members are given the opportunity to specify whether to reveal their email address or telephone number to other Preloved members. The member must choose at least one of these methods of contact. These settings can be changed by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html) Members may also choose to disclose other personal information to Preloved members by adding this information in the members area. 
 
 ## Sharing Information
 
@@ -38,9 +38,9 @@ We may share aggregated demographic information with our partners and advertiser
 
 We send all new members a welcome message via email. We also send members conformation of new adverts placed by them, and advise when they are about to expire.
 
-At the time of joining, members are offered the opportunity to opt in to receiving an email newsletter. This newsletter is published from time to time and containing news about the site, hints and tips, special offers, and other information that we feel would be of interest to our members. Members may at any time choose to no longer receive this information by visiting the members area at [http://www2.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions contained in each email they receive.
+At the time of joining, members are offered the opportunity to opt in to receiving an email newsletter. This newsletter is published from time to time and containing news about the site, hints and tips, special offers, and other information that we feel would be of interest to our members. Members may at any time choose to no longer receive this information by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions contained in each email they receive.
 
-Members may choose to receive information of new adverts published to the site in their chosen category via email using our Ad Alert system. They may also choose to follow discussions in the Preloved forums via email. Members may opt to no longer receive this information at any time by visiting the members area at [http://www2.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions contained in each email they receive.
+Members may choose to receive information of new adverts published to the site in their chosen category via email using our Ad Alert system. They may also choose to follow discussions in the Preloved forums via email. Members may opt to no longer receive this information at any time by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions contained in each email they receive.
 
 ## Tell a friend
 
@@ -52,11 +52,11 @@ We forbid other individuals or organisations from taking email addresses from th
 
 We actively protect members' email addresses from those programs that scan web sites, siphoning out email addresses for spam use. This is done to the best of our ability and current knowledge but without risking denial of access from our legitimate users.
 
-If you believe a company or individual has obtained your email address from Preloved Classifieds and is not responding to a request for contact, please contact us at [http://www2.preloved.co.uk/contact/](http://www.preloved.co.uk/fuseaction-contact.default/2e4fb1e5.html), providing as much information as possible. We will take whatever action we feel is appropriate and within our power. 
+If you believe a company or individual has obtained your email address from Preloved Classifieds and is not responding to a request for contact, please contact us at [http://www.preloved.co.uk/contact/](http://www.preloved.co.uk/fuseaction-contact.default/2e4fb1e5.html), providing as much information as possible. We will take whatever action we feel is appropriate and within our power. 
 
 ## Viewing or changing your personal information
 
-Members may view all information that Preloved Classifieds stores about them as an individual, by visiting our members' area at [http://www2.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html)
+Members may view all information that Preloved Classifieds stores about them as an individual, by visiting our members' area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html)
 
 Here, they may also correct their personal information and unsubscribe from future newsletters (see 'Newsletters and other email' above).
 
