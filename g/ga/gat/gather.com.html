@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gather.com privacy policy that was archived on 2007-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070501171816id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gather.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210061428id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy | Gather</title>
@@ -9,7 +9,7 @@
 	
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Set-Cookie" content="gathersid=www04;domain=.gather.com;path=/">
+	<meta http-equiv="Set-Cookie" content="gathersid=www01;domain=.gather.com;path=/">
 	<meta name="description" content="Gather is a place to connect with people who share your passions. Let your unique voice shine through the articles, images, reviews, or audio you publish. We'll even compensate you with Gather PointsTM. Rewarded for something you'd do for free -- now that's a pretty good deal.">
 	<meta name="keywords" content="advertising, articles, arts, best blogs, blogging, blogs, books, business, comments, community, connections, content, editorial, education, environment, family, food, gather, gather groups, gather points, gathering, groups, health, humor, ideas, images, media, money, movies, music, networks, news, online, online advertising, people, perspectives, photos, poetry, politics, profile, public radio, reviews, social networking, spirituality, sports, stories, technology, text ads, travel, user content, user-driven">
 	<meta http-equiv="imagetoolbar" content="no">
@@ -28,8 +28,8 @@
 
 	
 
-	<link rel="stylesheet" type="text/css" href="global_andre.css?7080">
-	<link rel="stylesheet" type="text/css" href="header_andre.css?6585">
+	<link rel="stylesheet" type="text/css" href="global_andre.css?8602">
+	<link rel="stylesheet" type="text/css" href="header_andre.css?8600">
 
 	<script type="text/javascript" src="js/refcookie.js"></script>
 	<script type="text/javascript">setRefCookie('');</script>
@@ -47,10 +47,12 @@
 
 	
 
+  
+
 	
 
-	<script type="text/javascript" src="js/gather-ads.js.jspf"></script>
-	<script type="text/javascript" src="js/core_andre.js.jspf"></script>
+  <script type="text/javascript" src="js/gather-ads.js.jspf?8600"></script>
+  <script type="text/javascript" src="js/core_andre.js?8801"></script>
 
 
 
@@ -62,60 +64,69 @@
 <div id="content">
   <div id="outer">
   <div id="inner">
+
     <div id="page" class="nav">
 
-
-
-
+  
   <div id="header">
-
-        <div id="headerBarImg"><img src="images/header/bg_hdr_site.png" alt="" class="ie-png" style="width:990px;height:58px"></div>
+        <div id="headerBarImg"><img src="images/header/demille/bg_top_yellow.png" alt="" style="width:990px;height:30px"></div>
         <div id="headerBannerImg"><img src="images/blank.gif" alt=""></div>
         <div id="headerBarContent">
-	    
           <div id="headerBarRight">
-            <div id="siteControls"><a href="faqs.jsp">help</a><span class="linkSeparator">|</span><a href="login.jsp">sign in</a></div>
+            <div id="siteControls">
+              <div style="float: right;height: 20px;"><a href="register.jsp"><img src="images/header/demille/btn_jointoday.png" alt="" width="144" height="20" style="margin-bottom:-6px;margin-left:12px;" border="0"></a></div>
+              <div style="float: right;height: 20px;padding:2px 10px 0 0;"><a href="faqs.jsp">help</a><span class="linkSeparator" style="margin:0 12px;color:#fdde9a">|</span><a href="login.jsp">member sign in</a></div>
+            </div>
             <div id="notifications"></div>
           </div>
-	      
           <div id="headerBarLeft">
-            <div id="siteLinks"><a href="http://www.gather.com/">gather.com</a></div>
-          </div>
-	      
-          <div id="headerBarCenter">
+            <div id="siteLinks"><img src="images/header/demille/btn_lft_gray.png" alt="" width="3" height="20" class="ie-png grayCap"><a href="http://home.gather.com/" class="grayBg">home.gather.com</a><img src="images/header/demille/btn_rt_gray.png" alt="" width="3" height="20" class="ie-png grayCap"></div>
             <div id="siteSearch">
-              <form id="searchForm" name="searchForm" action="searchResults.jsp" method="GET">
-                <div id="searchInputContainer"><input id="searchInput" name="query" type="text" value="search articles" onfocus="searchState(this);" onblur="searchState(this);"></div>
-                <div id="searchArrowContainer"><input type="image" name="submit" src="images/blank.gif" width="22" height="20" id="searchArrow"></div>
+              <form id="searchForm" name="searchForm" action="searchResults.jsp" method="GET" onsubmit="return searchActionPage();">
+                <div id="searchInputContainer">
+                    <select name="contentType" id="contentType">
+                        <option value="Articles">search articles</option>
+                        <option value="Images">search images</option>
+                        <option value="Video">search video</option>
+                        <option value="People">search people</option>
+                        <option value="Groups">search groups</option>
+                    </select> for 
+                <input id="searchInput" name="keywords" type="text" value="enter search terms here" onfocus="searchState(this);" onkeyup="isEmpty(this);" onblur="searchState(this);"></div>
+                <div id="searchArrowContainer"><input type="image" name="submit" src="images/header/demille/btn_search_arrow.png" width="21" height="16" id="searchArrow"></div>
               </form>
             </div>
           </div>
-	    
         </div>
         <div id="headerBannerContent">
-	      
 
+        
+        
+        
 
-
-
-
-
-
-
-	  <div id="sandwhichContent" class="layout">
-	  
-            <div id="headerLogo"><a href="/"><img src="images/header/logo_gather.gif" alt="gather logo" width="144" height="75"></a></div>
-            <div id="headerAd"><script type="text/javascript"><!--
- 		gatherAdFormat = "leaderboard";
- 		gatherAdType = "BANNER";
-        	
-        	show_gather_ad();
-	//--></script></div>
           
-	  </div>
 
-	      <div class="spacer" style="clear:both"></div>
-	      
+
+
+
+
+
+
+    <div id="sandwhichContent" class="layout">
+    
+        <div id="headerLogo"><a href="/"><img src="images/header/logo_gather.gif" alt="gather logo" width="144" height="75"></a></div>
+        <div id="headerAd"><script type="text/javascript"><!--
+        gatherAdFormat = "leaderboard";
+        gatherAdType = "BANNER";
+    
+        show_gather_ad();
+    //--></script></div>
+    
+    </div>
+
+          <div class="spacer" style="clear:both"></div>
+          
+
+
 
 
 
@@ -145,48 +156,53 @@
 
 
 
+
     
-     
 
 
-	    <div id="navSections">
-          <ul>
-            <li class="navShadowLeft"><img src="images/header/tab_shadow_L.png" class="ie-png" alt="" style="width:5px;height:32px"></li><li><a href="my.jsp">My Gather</a></li><li><a href="viewArticles.jsp">Articles</a></li><li><a href="viewImages.jsp">Images</a></li><li><a href="viewComments.jsp">Comments</a></li><li><a href="suggestedTags.jsp">Tags</a></li><li><a href="viewMembers.jsp?filter=feature">People</a></li><li><a href="viewGroups.jsp?filter=feature" class="last">Groups</a></li><li class="navShadowCenter"><img src="images/header/tab_shadow_C.png" class="ie-png" alt="" style="width:10px;height:32px"></li>
-          </ul>
-		</div>
 
-        <div id="navActions">
-          <ul>
-            <li><a href="gInvitePre.jsp">Invite</a></li><li><a href="publish.jsp">Publish</a></li><li><a href="viewInbox.jsp" class="last">Mail</a></li><li class="navShadowLeft"><img src="images/header/tab_shadow_R.png" class="ie-png" alt="" style="width:5px;height:32px"></li>
-          </ul>
-		</div>
-		
-       <div id="navPagesContainer">
-		<div id="navPages">&nbsp;
-       
-		</div>
-       </div>
 
-	   
+
+    
+
+    <div id="navSections">
+        <ul>
+            <li><a href="my.jsp">My Gather</a></li><li><a href="articles.jsp?contentType=Articles&amp;filter=recent">Articles</a></li><li><a href="images.jsp?contentType=Images&amp;filter=recent">Images</a></li><li><a href="video.jsp?contentType=Video&amp;filter=recent">Video</a></li><li><a href="viewComments.jsp">Comments</a></li><li><a href="members.jsp?filter=updated">People</a></li><li><a href="viewGroups.jsp?filter=feature" class="last">Groups</a></li>
+        </ul>
+    </div>
+
+    
+
+    <div id="navActions">
+        <ul>
+            <li><a href="gInvitePre.jsp">Invite</a></li><li><a href="publish.jsp">Publish</a></li><li><a href="viewInbox.jsp" class="last">Mail</a></li>
+        </ul>
+    </div>
+
+
+    <div id="navPagesContainer">
+        <div id="navPages">&nbsp;
+            
+        </div>
+    </div>
+
       </div>
 
 
         </div>
-
   </div>
-
+  
 
 		<div style="padding: 0 5px; background-color: #fff">
 		
 		
 
 
-		
-		<table border="0" cellpadding="0" cellspacing="0" id="pageTable">
+
+		<table border="0" cellpadding="0" cellspacing="0" id="pageTable" width="100%">
 		<tbody><tr>
 
-
-
+    
 
 
 
@@ -202,16 +218,13 @@
 	<div>
 		
 			
-
-<div style="margin:0 126px">
-
-<div class="hdr_container">
-	<div class="hdr_content_left"><h2>Gather Privacy Policy</h2></div>
-	<div style="clear:both;"></div>
-</div>
-
-<span class="t12">
-	
+        <div style="margin:0 126px">
+            <div class="hdr_container">
+                <div class="hdr_content_left"><h2>Gather Privacy Policy</h2></div>
+                <div style="clear:both;"></div>
+            </div>
+            <span class="t12">
+                
 <p>At Gather, Inc. ("Gather"), we strive to develop innovative products and services to benefit our users and registered users ("Members").  We recognize that privacy is an important issue, so we design and operate our products and services with your privacy in mind.  This Privacy Policy outlines the types of personal information we may collect when you use our service ("Service"), which is further described in the Terms of Service ("TOS") available at <a href="http://www.gather.com/userTerms.jsp" class="text_lt_blue">http://www.gather.com/userTerms.jsp</a>, as well as some of the steps we take to secure it.</p>
 
 <p><strong>What This Policy Covers</strong></p>
@@ -286,18 +299,15 @@
 	</ul>
 
 
-</span>
-
-</div>
-
-
+            </span>
+        </div>
+    
 		
 		
 	</div>
 </div>
 <div class="spacer" style="clear:both"></div>
 </td>	
-
 
 
 
@@ -327,6 +337,21 @@
 
 <img src="images/page_cap.gif" width="994" height="15" alt="">
 
+
+<div id="footerTop" class="t11">
+	<a href="/">Home</a> |
+	<a href="my.jsp">My Gather</a> |
+	<a href="articles.jsp?contentType=Articles&amp;filter=recent">Articles</a> |
+	<a href="images.jsp?contentType=Images&amp;filter=recent">Images</a> |
+	<a href="video.jsp?contentType=Video&amp;filter=recent">Video</a> |
+	<a href="viewComments.jsp">Comments</a> |
+	<a href="members.jsp?filter=updated">People</a> |
+	<a href="viewGroups.jsp?filter=feature">Groups</a> |
+	<a href="gInvitePre.jsp">Invite</a> |
+	<a href="publish.jsp">Publish</a> |
+	<a href="viewInbox.jsp">Mail</a>
+</div>&nbsp;
+
 <div id="footer" class="t11">
 	<a href="about.jsp">About Gather</a> |
 	<a href="careers.jsp">Careers</a> |
@@ -335,7 +360,7 @@
 	<a href="userTerms.jsp">Terms of Service</a> |
 	<a href="guidelines.jsp">Community Guidelines</a> |
 	<a href="https://advertiser.gather.com/">Advertise on Gather</a><br>
-	Build 7168, "Burton"; <a href="copyright.jsp">Copyright</a> © 2007 Gather Inc. All rights reserved.
+	Version 9454, "Elvis"; <a href="copyright.jsp">Copyright</a> © 2007 Gather Inc. All rights reserved.
   
 </div>&nbsp;
 
@@ -350,6 +375,10 @@
   <script type="text/javascript">
     pageLength = 0;
     msie = false;
+    
+    var avgCommentHeight = 55;    
+    var numComments = 0;
+        
     if (typeof navigator.userAgent != 'undefined' && navigator.userAgent.indexOf('MSIE') != -1) {
       msie = true;
     }
@@ -357,6 +386,14 @@
     if (msie == true && (typeof colBLength == 'undefined' || colBLength == null || colBLength < 1)) {
       
       pageLength = document.body.scrollHeight;
+      
+      numComments = 0;
+
+      
+      
+
+     pageLength = pageLength + numComments * avgCommentHeight;
+      
     }
     
     footColCAdBanner001 = null;
@@ -377,6 +414,7 @@
 
  	gatherAdFormat = "wide-skyscraper";
  	gatherAdType = "BANNER";
+ 	gatherAdPosition = "1";
         
         
         	
@@ -391,7 +429,13 @@
   <div id="adsHolder002">
     <script type="text/javascript">
     
-    if (msie == true && (pageLength > (264 + 600 + 143 + 300))) {
+    if (msie == true)
+    {
+    		
+              
+      if(pageLength > (264 + 600 + 143 + 300)) 
+      {
+      
       if (footColCAdCPC001 != null && typeof footColCAdCPC001 != 'undefined') {
 
         gatherAdFormat = "gather-www";
@@ -402,7 +446,10 @@
         
         	
         show_gather_ad();
+        }
+     
       }
+      
     }
     </script>
   </div>
@@ -416,6 +463,7 @@
 
  	gatherAdFormat = "wide-skyscraper";
  	gatherAdType = "BANNER";
+ 	gatherAdPosition = "2";
         
         
         	
@@ -437,8 +485,9 @@
 
 
 
-
-
+  
+  
+  
 
 
 <style type="text/css">
@@ -447,7 +496,8 @@
   color:#444;
   font:normal 11px/1.3 Verdana,Arial,sans-serif;
   text-decoration:none;
-  text-align:left
+  text-align:left;
+  z-index: 999;
 }
 .tooltip span.top {
   padding: 30px 8px 0 12px;
@@ -461,7 +511,7 @@
 </style>
 <script type="text/javascript">
   function pageTips() {
-    if (typeof $('pageCellB') != 'undefined') {
+    if (typeof $('pageCellB') != 'undefined' && $('pageCellB') != null) {
       enableTooltips("pageCellB");
     }
   };
@@ -479,11 +529,13 @@
 
 
 
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 _uacct = "UA-759311-1";_udn="gather.com";urchinTracker();
 </script>
+
 
 
 
