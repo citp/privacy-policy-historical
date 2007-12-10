@@ -1,81 +1,52 @@
-> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215205000id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182957id_/http%3A//www.examiner.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Stay Current With Today's Top Breaking News Headlines - Examiner.com
 
-**PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
+**SCOPE OF THIS PRIVACY POLICY**  
+The Examiner.com web site (the “Site”) is owned and operated by Examiner.com. Your privacy on the Internet is of the utmost importance to us. At Examiner.com, we want to make your experience online satisfying and safe. This Privacy Policy describes how Examiner.com protects your privacy when you use the Site. This Privacy Policy applies only to information, including Personal Information, collected through our Site. “Personal Information” means information that identifies you personally, either alone or in combination with other information available to us. This Privacy Policy is part of and incorporated into the [**Terms of Use**](https://web.archive.org/Terms_of_Use.html) for our Site.
 
-This site is owned and operated by Examiner.com. Your privacy on the Internet is of the utmost importance to us. At Examiner.com, we want to make your experience online satisfying and safe.
+**YOUR CONSENT TO THIS PRIVACY POLICY**  
+By using our Site, you are agreeing to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy. If you do not consent to the collection, use, and disclosure of your Personal Information as described in this Privacy Policy, you may not use our Site. If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please email us at [legal@examiner.com](mailto:legal@examiner.com).
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+**THIS PRIVACY POLICY MAY CHANGE**  
+We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all Personal Information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site.  
 
-**INFORMATION EXAMINER.COM GATHERS AND TRACKS**
+**INFORMATION EXAMINER.COM GATHERS AND TRACKS**   
+Examiner.com gathers the following types of information about users: 
 
-Examiner.com gathers two types of information about users:
+> **_Optional Voluntary Information_**  
+>  In order to access or use certain services and capabilities on our Site, you may be required to voluntarily submit certain Personal Information. The use of these services or capabilities is purely optional, so you are not required to submit any Personal Information to Examiner.com if you do not wish to use them. Some of these capabilities include our "e-mail this to a friend" function; posting of classified advertisements; participation in surveys, contests, or sweepstakes; or to submit feedback to us.  
+> 
+> **_Usage tracking_**  
+>  Examiner.com tracks user traffic patterns and content accessed throughout our Site. However, we do not correlate this information with data about individual users. Examiner.com sometimes tracks and catalogs the search terms users of our Site enter in our Search function, but this tracking is not associated with individual users. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand our audience.
+> 
+> **_Cookies_**  
+>  We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this Site to information that you have specifically and knowingly provided. A cookie can't read data off your hard disk or read cookie files created by other sites. We generally use third party advertising companies to serve ads when users visit the Site. In the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. These companies may use information (not including a user’s name, address, email address or telephone number) about user visits to this and other web sites in order to provide advertisements about goods and services of interest to our users. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.doubleclick.com/us/about_doubleclick/privacy/). Examiner.com uses cookies to track user traffic patterns, to enhance your experience when using our Site, to persist information through your session, and to personalize the Site for you based on your preferences and selections. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the Site.
+> 
+> **_Information Sent to Us by Your Web Browser_**  
+>  We may collect information that is sent to us automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed our Web Site, information on your operating system and browser, and the date and time of your visit. Such information does not by itself identify you personally. However, if you have registered on the Site, it may be possible for us to link the information provided by your browser to information that identifies you personally. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we might share our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals.   
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions required for some services on our website including posting classified ads and emailing articles to friends.  
+**USE OF INFORMATION COLLECTED ON THE SITE**   
+Examiner.com may use Personal Information collected on our Site to enhance your experience using our Site (whether to provide interactive or personalized elements on the Site or to better prepare future content based on the interests of our users), to provide information you have requested, to maintain your registration on the Site, to improve our Site, for purposes related to the business of Examiner.com, for any other purpose described in this Privacy Policy, or otherwise as we may disclose to you from time to time. We may also use Personal Information sent to us by your web browser or by cookies to perform statistical analyses of our server logs in order to study the use and popularity of various areas of our Site. We also review IP addresses to analyze where we are getting our audience. 
 
-  * Information Examiner.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Examiner.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Examiner.com divulge any personally identifiable information about an individual user to a third party. Personally identifiable information (â€œPersonal Informationâ€�) includes users name, email address, physical address, telephone number(s), credit card number(s), social security number, buying preferences, income and education levels and related information. 
+Examiner.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track usage patterns in a manner which can be identified to individual users, an advertiser or sponsor will never know that a specific user clicked their ad.
 
+**SHARING OF THE INFORMATION**   
+We may inform advertisers of the results of our analyses of our server logs, including details regarding Site usage and general information about our audience, however, such disclosures will refer only to general, aggregate usage data from these analyses - never specific identifying information. We may share your Personal Information with: (i) our affiliates, subsidiaries, or parent company; (ii) companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as data storage and web hosting services); and (iii) carefully selected third parties for marketing or other purposes not expressly described herein. We may also disclose the Personal Information we collect through our Site when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the terms of use or other agreements that govern your use of our Site; to protect the rights, property or safety of Examiner.com, our users or others; or to protect your vital interests. Information submitted to our Site is an asset of Examiner.com and will become part of our normal business records. Your Personal Information may be transferred to another company that has acquired the stock or assets of Examiner.com, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your Personal Information will still be subject to this Privacy Policy, and the privacy preferences you have expressed to us. 
 
+**THIRD PARTY SITES**   
+Third party sites, including our partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. For example, during your visit to our Site you may link to, or view certain content that is actually created or hosted by a third party. Through the Site you may be introduced to, or be able to access, information, third party sites, advertisements, features, contests or sweepstakes offered by other parties. Examiner.com is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another party’s information on a feature or page operated by a third party.
 
-**Third Party Sites**
+**CHILDREN'S PRIVACY**   
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request Personal Information from anyone under the age of 13 without requesting parental consent. The Site is not directed at nor targeted to children under the age of 13 and we do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to the Site, we will use reasonable efforts to remove such information from our databases.
 
-Third party sites, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view certain content that is actually created or hosted by a third party. Through the Examiner.com website you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Examiner.com is not responsible for the actions or policies of such third parties and is not liable to you for any claims that may arise from your interaction with those third parties or their sites. You should exercise caution and check the applicable privacy policies of those third parties when providing Personal Information or another partyâ€™s information on a feature or page operated by a third party.
+**SECURITY**   
+Examiner.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the Personal Information provided by our Site’s users.
 
-**Optional Voluntary Information**
+**MODIFYING YOUR INFORMATION**  
+We respect your right to make choices about the ways we collect, use and disclose your Personal Information. You may update or modify your information or change your preferences at any time by logging in to the Site using your user name and password, and updating your user profile.
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-  1. "E-mail this to a friend" policy  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
-  2. Classified Advertisement Postings  
-Users submitting a classified ad for publication are requested to provide Personal Information necessary to allow third parties to respond to the ad, and where required, to process payment for the listing of the ad. This Personal Information is retained by Examiner.com and to the extent necessary for response, is posted with the ad. When users submit a classified ad for publication, users agree that the advertisement as it appears on Examiner.com becomes the property of Examiner.com and users assign all ownership interest in the advertisement under copyright law or otherwise to Examiner.com. Submission of an advertisement does not constitute a commitment on the part of Examiner.com to publish the advertisement, and publication of an advertisement does not constitute an agreement from Examiner.com for continued publication. We will accept only standard and required proper punctuation in the text of all advertisements. Examiner.com reserves the right to edit, reclassify, revise, reject or cancel any advertisement at any time, in its sole discretion. Rates and specifications are subject to change. 
-  3. Surveys  
-Examiner.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic Personal Information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
-
-
-
-**Usage tracking**
-
-Examiner.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Examiner.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
-
-Examiner.com sometimes tracks and catalogs the search terms those users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
-
-**Cookies**
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Examiner.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the site 
-
-**Third Party Advertising**
-
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Information), is used to deliver ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
-
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser
-
-**Children**
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-**USE OF INFORMATION**
-
-Examiner.com uses any Personal Information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
-
-Examiner.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any Personal Information about any individual user except when we are required to do so to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-**SHARING OF THE INFORMATION**
-
-Examiner.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except when we are required to do so to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-**SECURITY**
-
-Examiner.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the Personal Information provided by our customers.
-
-**YOUR CONSENT**
-
-By using this site, you consent to the collection and use of your Personal Information by Examiner.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You are encouraged to periodically review this page to view the most current version of this policy.  
-
+**EFFECTIVE DATE OF THIS PRIVACY POLICY**  
+This Privacy Policy is effective as of August 2, 2007
 
 |  
