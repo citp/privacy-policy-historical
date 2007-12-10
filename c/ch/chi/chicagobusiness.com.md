@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405165250id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210162555id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
 # Chicago Business News, Analysis & Articles | Privacy Policy | Crain's
 
   
 **Privacy Policy**
 
-_Chicagobusiness.com_ is the Web site operated by _Crain's Chicago Business_. _Crain's Chicago Business_ is a business unit of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [webmaster@chicagobusiness.com](mailto:webmaster@chicagobusiness.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
+_Chicagobusiness.com_ is the Web site operated by _Crain's Chicago Business_. _Crain's Chicago Business_ is a business unit of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601. We can be reached by e-mail at [webmaster@chicagobusiness.com](mailto:webmaster@chicagobusiness.com) or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our [Terms and Conditions](https://web.archive.org/cgi-bin/article.pl?page_id=1252).
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.
 
@@ -27,4 +27,4 @@ Policy Last Updated: January 1, 2005
 
 Advertisement 
 
-[](http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/125302772854348476@Position1,Right1,Middle1,Left!Middle1?)
+[](http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/16196189783978909@Position1,Right1,Middle1,Left!Middle1?)
