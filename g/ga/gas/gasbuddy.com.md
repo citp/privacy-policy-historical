@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasbuddy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_privacy.aspx) for the most accurate reproduction.*
 
 # GasBuddy Privacy
 
 |  |  [](http://www.gasbuddy.com/) |  |   
 ---  
-New! [Gas Price Maps](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_map_gas_prices.aspx)  |  New! [Get gas prices on your phone!](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_mobile_instructions.aspx)  
+ [Sign Up To Join The Fight Against High Gas Prices!](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/Registration.aspx)  
 [Free Classifieds at SuperAds.com](http://www.superads.com/) |    
-| [](http://www.gasbuddy.com/)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/GB_Map_Gas_Prices.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/GB_Mobile_Instructions.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20070626092821id_/http%3A//www.gasbuddy.com/gb_media_ideas.aspx)  
+| [](http://www.gasbuddy.com/)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_retail_price_chart.aspx?time=24)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/GB_Map_Gas_Prices.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_gastemperaturemap.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/GB_Mobile_Instructions.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_fuel_save.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_contact.aspx)| [](https://web.archive.org/web/20071211001352id_/http%3A//www.gasbuddy.com/gb_media_ideas.aspx)  
 ---|---|---|---|---|---|---|---  
   
   
@@ -42,7 +42,7 @@ www.GasBuddy.com
 Please Note: This is a one-time message sent by a friend of yours. You will not receive any further messages from GasBuddy.com in the future unless another "Tell-a-Friend" message is sent by a web site visitor. In order to prevent receiving any further messages of this type you must reply to this email with "Block Me" in the subject line.   
   
 Privacy Policy - Members Area  
-The Members Area offers many personalized features accessible using a member id and password. A unique email address is used to verify the member id. Registered members will never receive unsolicited email from GasBuddy Inc. In order to enhance a visitors web site experience, we will store information about the preferences of users (ex. favorite stations) to create a personalized user profile. When a user visits the member's area specific information to their needs will be displayed. None of this information is of personal nature and it will not be shared with any third parties.   
+The Members Area offers many personalized features accessible using a member id and password. A unique email address is used to verify the member id. Signed up members will never receive unsolicited email from GasBuddy Inc. In order to enhance a visitors web site experience, we will store information about the preferences of users (ex. favorite stations) to create a personalized user profile. When a user visits the member's area specific information to their needs will be displayed. None of this information is of personal nature and it will not be shared with any third parties.   
 Privacy Policy - Message Forums  
 The message forums provide a location for gasoline related discussion. Please remember that any information disclosed in these areas becomes public. You should exercise caution when deciding what personal information to disclose.   
 Privacy Policy - Questions  
