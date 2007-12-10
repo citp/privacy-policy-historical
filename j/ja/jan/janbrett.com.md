@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617232333id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225626id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,7 @@
 
    Our site provides parents the following option for removing their children's information from our database to not receive future communications. 
 
-     You can send email to [ email@janbrett.com](http://www.janbrett.com/email.html)
+     You can send email to  [errors](http://www.janbrett.com/email.html)[@janbrett.com](http://www.janbrett.com/email.html)
 
 ## Children's Guidelines
 
@@ -31,16 +31,16 @@
 
     Our site provides users the opportunity to opt-out of receiving communications from us .   This site gives users the following option for removing their information from our database to not receive future communications.
 
-    You can send email to [email@janbrett.com](http://www.janbrett.com/email.html)
+    You can send email to [errors@janbrett.com](http://www.janbrett.com/email.html)
 
 ## Correct/Update
 
      This site gives users the following option for changing and modifying information previously provided.
 
-    Email [email@janbrett.com ](http://www.janbrett.com/email.html)
+    Email [errors@janbrett.com](http://www.janbrett.com/email.html)
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   email@janbrett.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   [errors@janbrett.com](http://www.janbrett.com/email.html)
 
-[ Home Page](https://web.archive.org/web/20070617232333id_/http%3A//www.janbrett.com/index.html)
+[ Home Page](https://web.archive.org/web/20071210225626id_/http%3A//www.janbrett.com/index.html)
