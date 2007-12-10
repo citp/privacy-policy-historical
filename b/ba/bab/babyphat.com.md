@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513180246id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210070720id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
 
 # Baby Phat
 
-**Baby Phat :**
+Baby Phat Privacy Policy
 
   * what personally identifiable information of yours is collected from you through our Web site,
   * the organization collecting the information,
