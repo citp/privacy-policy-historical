@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2007-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070222010828id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210091822id_/http%3A//www.yankeemagazine.com/contact/aboutyankee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Yankee Magazine
 
@@ -18,7 +18,11 @@ For information you provide to us, we will not rent or share your contact inform
 
 Yankee Publishing Inc. is composed of different operating groups. Any information we save about you will be shared among these operating groups. Occasionally you may receive offers from these operating groups, to remove your name from those lists, follow the instructions within the communication. 
 
-We have contracted with Yahoo! Search Marketing to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement 'click-throughs,' and/or other activities on our website. No personally identifiable data is collected by or transferred to Yahoo! Search Marketing. Where authorized by us, Yahoo! Search Marketing may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt-out from Yahoo! Search Marketing's collection of such information outside of the Yahoo! network of websites, by clicking on the following link: <http://docs.yahoo.com/info/privacy/us/ysmt.html>. 
+Some of the ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://%20www.doubleclick.net/privacy_policy/). 
+
+Yankee Publishing is currently contracted with Tacoda, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our visitors and customers. All data collected by Tacoda on behalf of our Web sites is owned by Yankee Publishing. This information is used to help provide advertisers with more targeted advertising opportunities, which means that our users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. For more information about Tacoda's privacy policy, including how to opt out, go to [www.tacoda.com/notice](http://www.tacoda.com/notice).
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Print Subscribers Privacy Policy**
 
