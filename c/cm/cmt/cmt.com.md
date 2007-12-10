@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621213921id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210122249id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # CMT.com: Privacy Statement
 
