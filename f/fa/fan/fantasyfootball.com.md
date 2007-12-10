@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204110558id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234405id_/http%3A//www.fantasyfootball.com/policy) for the most accurate reproduction.*
 
 # fantasyfootball.com: Privacy Policy
 
@@ -80,3 +80,5 @@ Customer Support
 4245 Kemp Suite 818  
 Wichita Falls, TX 76308  
 (866) 475-9002 
+
+[](https://web.archive.org/tracker/index.html?t=ad&ad_id=50&url=http%3A%2F%2Fwww.thesportsking.com)
