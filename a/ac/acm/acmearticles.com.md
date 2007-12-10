@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607175812id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210140445id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
 
 # ACME Articles | Free Article Directory
 
@@ -54,9 +54,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-| 
-
-**Sponsored Links** ****
-
- ****  
-****
+|  ****
