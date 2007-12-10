@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinsen-subs.org privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223165727id_/http%3A//www.shinsen-subs.org/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinsen-subs.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210100151id_/http%3A//www.shinsen-subs.org/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Shinsen-Subs :: Privacy Policy Statement
 
