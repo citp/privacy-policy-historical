@@ -1,10 +1,30 @@
-> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016234023id_/http%3A//www.optimum.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225348id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dwebsite_privacy) for the most accurate reproduction.*
 
 # Optimum
 
-## Privacy Policy
+## Protecting Your Privacy
+
+At Cablevision, we value your privacy.
+
+Please select another link below to view another privacy policy.
+
+## Website Privacy Policy
 
 Click below for specific information about:
+
+  * Who We Are And How To Reach Us
+  * Participation Eligibility and Membership
+  * Collection of Personal Information
+  * Registration for Participation in Website Services
+  * Use of Tracking Devices
+  * Use and Collection of Information by Affiliate Entities and Other Websites
+  * Our Policy on Disclosing Your Information to Parties Other than Cablevision
+  * How To Add, Change, or Delete Personal Information
+  * Our Security Procedures
+  * Notification of Changes in the Privacy Policy
+  * Children's Privacy Policy
+
+
 
 Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include any person that accesses our website at any point on the site for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
 
@@ -16,7 +36,7 @@ CSC Holdings, Inc.
 1111 Stewart Avenue  
 Bethpage, NY 11714-3581  
 Attention: Webmaster  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
+[Click here](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php) to send us an e-mail.
 
 ### II. Participation Eligibility and Membership
 
@@ -58,7 +78,7 @@ You do not need to have cookies turned on to browse most of our website. However
 
 ### Use of Clear GIFs
 
-Websites of operational providers may use clear GIFs to track non-personal or personal information. A clear GIF is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many visitors have accessed the site or to retrieve certain cookies and track visitor preferences. We may use clear GIFs to access certain cookies or to gather aggregate information about visitor usage patters; however, this does not include personal information about our visitors.
+Websites of operational providers may use clear GIFs to track non-personal or personal information. A clear GIF is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website, such as how many visitors have accessed the site or to retrieve certain cookies and track visitor preferences. We may use clear GIFs to access certain cookies or to gather aggregate information about visitor usage patterns; however, this does not include personal information about our visitors.
 
 Other websites may use clear GIFs to track non-personal or personal information. Cablevision, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitor's must review other website operators' privacy policies to determine the type and extent of tracking devices use.
 
@@ -74,7 +94,7 @@ We may in the future decide to share visitors' personal information collected ov
 
 We may share your personal information with our operational providers or those persons, companies or agents who provide support for the internal operations of the website, such as sweepstakes fulfillment services, maintenance and technical services, and e-commerce contractors ("contract service" and "operational providers"), as necessary to provide our services or carry out our business activities. If you use a credit card for services or features on this website, our contract service or operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your request. We may also link to other operational providers. These providers often have their own terms of usage agreements and privacy policies. Please be advised that when you leave this website, you will be subject to the privacy policy and terms of usage agreement of the website that you are accessing.
 
-When visitors send an e-mail to us, we may disclose the content of your e-mail to Affiliate Entities or other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/index.jhtml?pageType=terms).
+When visitors send an e-mail to us, we may disclose the content of your e-mail to Affiliate Entities or other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/terms.jsp).
 
 We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information, such as zip code clustering, online and from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
 
@@ -82,7 +102,7 @@ In event of a sale or transfer of Cablevision assets including its database, cus
 
 ### VIII. How To Add, Change, or Delete Personal Information
 
-You may be able to add, change or delete certain personal information submitted to us online by contacting us [via e-mail](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your personal information.
+You may be able to add, change or delete certain personal information submitted to us online by contacting us [via e-mail](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your personal information.
 
 ### IX. Our Security Procedures
 
@@ -105,7 +125,7 @@ Please contact us if you have any questions about this Privacy Policy.
 Contact us at:  
 1111 Stewart Avenue  
 Bethpage, NY 11714-3581  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
+[Click here](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php) to send us an e-mail.
 
 Thank you for visiting!
 
