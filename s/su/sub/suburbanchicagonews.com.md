@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529122420id_/http%3A//www.suntimes.com/aboutus/privacy.static) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210214338id_/http%3A//www.suntimes.com/aboutus/privacy.stng) for the most accurate reproduction.*
 
-# Chicago Sun-Times :: About Us ::
+# Privacy policy :: CHICAGO SUN-TIMES :: About Us
 
-Privacy policy :: 
+August 24, 2007
 
 **PRIVACY POLICY** **  (Updated as of September 26, 2006)**
 
- **** **** Digital Chicago Inc., a subsidiary of Sun-Times Media Group, Inc. ("Digital Chicago" or "we" or "us"), operates this web site (Web Site). This Privacy Policy explains what information is collected on this Web Site, how we use your information, and your choices. This Privacy Policy only covers information collected at this Web Site and other web sites operated by Digital Chicago where this Privacy Policy is posted (collectively, Digital Chicago Web Sites), and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated) or any other company.  Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.suntimes.com/aboutus/terms.static), which governs your use of this Web Site. Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.  **__**
+ **** **** Digital Chicago Inc., a subsidiary of The Sun-Times Company ("Digital Chicago" or "we" or "us"), operates this web site ("Web Site"). This Privacy Policy explains what information is collected on this Web Site, how we use your information, and your choices. This Privacy Policy only covers information collected at this Web Site and other web sites operated by Digital Chicago where this Privacy Policy is posted (collectively, Digital Chicago Web Sites), and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated) or any other company.  Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.suntimes.com/aboutus/terms.static), which governs your use of this Web Site. Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.  **__**
 
 **_Table of Contents_**
 
@@ -28,7 +28,7 @@ _
 
 _Use by this Web Site_
 
-Sharing and Disclosure of PII to Third Parties __
+Sharing and Disclosure of PII to Third Parties __                        
 
 Affiliated Parties                        
 
