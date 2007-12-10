@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629223433id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230243id_/http%3A//www.virginholidays.co.uk/info/important/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Policy - Important - Virgin Holidays
-
-## My Virgin Holidays
+# Privacy Policy - - Virgin Holidays
 
 Worried about providing us with information on line?
 
@@ -38,6 +36,8 @@ When applying for a job we will ask for personal information. The purpose for wh
 
 
 
+
+You are entitled to a copy of your information held by us. If you would like to use this please contact us at: Customer Relations, Virgin Holidays Limited, The Galleria, Station Road, Crawley, West Sussex, RH10 1WW. We may make a small charge for providing this to you. 
 
 ### Third Parties
 
