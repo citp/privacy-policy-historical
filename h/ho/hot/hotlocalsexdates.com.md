@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotlocalsexdates.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628090125id_/http%3A//hotlocalsexdates.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlocalsexdates.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135858id_/http%3A//www.hotlocalsexdates.com/support/privacy.htm) for the most accurate reproduction.*
 
 # SexDates Affiliate Center | SexDate Network
 
@@ -11,4 +11,4 @@ We do not collect any customer information. Please see our payment processor's P
 
 > This notice applies to all information collected or submitted on All of SexDates Websites  
   
-SexDates Support Center  |  [SexDates Family of Sites](http://www.sexdatenetwork.com/)  | [Anti-Spam Policy](https://web.archive.org/web/20070628090125id_/http%3A//hotlocalsexdates.com/support/antispam.htm)  |  [ Privacy Policy](https://web.archive.org/web/20070628090125id_/http%3A//hotlocalsexdates.com/support/privacy.htm)  |  [ 18 U.S.C. 2257](https://web.archive.org/web/20070628090125id_/http%3A//hotlocalsexdates.com/support/complience.htm)  |  [ Terms Of Service](https://web.archive.org/web/20070628090125id_/http%3A//hotlocalsexdates.com/support/terms.htm "Terms Of Service")
+SexDates Support Center  |  [SexDates Family of Sites](http://www.sexdatenetwork.com/)  | [Anti-Spam Policy](https://web.archive.org/web/20071210135858id_/http%3A//www.hotlocalsexdates.com/support/antispam.htm)  |  [ Privacy Policy](https://web.archive.org/web/20071210135858id_/http%3A//www.hotlocalsexdates.com/support/privacy.htm)  |  [ 18 U.S.C. 2257](https://web.archive.org/web/20071210135858id_/http%3A//www.hotlocalsexdates.com/support/complience.htm)  |  [ Terms Of Service](https://web.archive.org/web/20071210135858id_/http%3A//www.hotlocalsexdates.com/support/terms.htm "Terms Of Service")
