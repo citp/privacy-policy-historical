@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - On Demand Recruiting & Staffing Software - Bullhorn
 
@@ -12,7 +12,7 @@ Industry Buzz
 Staffing and Recruiting Trends   
 ---  
 In addition you’ll receive occasional updates from Bullhorn. Your email address is totally secure and will NEVER be shared, sold, or rented.  
-  |  | [home](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
+  |  | [home](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
 ---|---  
   
 ### Bullhorn Privacy Statement 
@@ -23,9 +23,9 @@ Because customers entrust Bullhorn with important information/data, we have esta
 ---  
 **Robin Mee**  
 President,  
-[Mee Derby](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/pdf/Mee_Derby_Case_Study.pdf) and CASA (Capitol Area Staffing Association)
+[Mee Derby](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/pdf/Mee_Derby_Case_Study.pdf) and CASA (Capitol Area Staffing Association)
 
-[View Testimonials](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/testimonials.php)  
+[View Testimonials](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/testimonials.php)  
   
 ##### **Collected Information**
 
@@ -55,7 +55,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 ---|---|---  
   | 
 
-By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20070629024650id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
+By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20071210210825id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
 
 |    
  
