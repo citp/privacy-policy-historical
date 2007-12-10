@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625022008id_/http%3A//www.goemerchant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goemerchant.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234853id_/http%3A//www.goemerchant.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - GoEmerchant.com
 
 **GoEmerchant Information Security and Privacy Statement**  
-  
 This statement provides you with information regarding the policies we have established and follow by which we protect the privacy and integrity of the information we collect. 
 
 **This statement describes:**  
