@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvypr.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514073703id_/http%3A//www.ogilvypr.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvypr.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075822id_/http%3A//www.ogilvypr.com/privacy.cfm) for the most accurate reproduction.*
 
 # Ogilvy Public Relations WorldwideOgilvy PR Worldwide: Privacy Policy
 
