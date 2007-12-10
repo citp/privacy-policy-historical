@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615224903id_/http%3A//manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231327id_/http%3A//www.manufacturers.com.tw/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # B2BManufactures.com
 
