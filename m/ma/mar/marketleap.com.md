@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611150727id_/http%3A//www.marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080401id_/http%3A//www.marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Marketleap Privacy Policy - Compliant with the World's Most Stringent Standards
 
@@ -38,4 +38,4 @@ We urge consumers to check the e-mail privacy policy of a company before they pa
 
 
 
-For more information, please [contact us](https://web.archive.org/web/20070611150727id_/http%3A//www.marketleap.com/contactus/default.htm).
+For more information, please [contact us](https://web.archive.org/web/20071210080401id_/http%3A//www.marketleap.com/contactus/default.htm).
