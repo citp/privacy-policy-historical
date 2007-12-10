@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625150650id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katu.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190339id_/http%3A//www.katu.com/about/privacy) for the most accurate reproduction.*
 
-# KATU - Portland, Oregon | KATU Privacy Policy
+# KATU.com - Portland, Oregon | KATU Privacy Policy
 
-Story Published: Aug 25, 2006 at 1:22 PM PDT 
+Story Published: Aug 25, 2006 at 1:22 PM PST 
 
-Story Updated: Sep 8, 2006 at 6:09 PM PDT 
+Story Updated: Sep 8, 2006 at 6:09 PM PST 
 
 This Privacy Policy governs the use and collection of information that katutv.com its affiliates, partners, advertisers, agents, related companies and service providers (collectively, "we," "our" or the "website") obtain from you while you are visiting our web site (the "Site"). 
 
@@ -86,36 +86,28 @@ This Privacy Policy is effective as of August 1, 2006.
 
 | 
 
-[ ](https://web.archive.org/younews "YouNewsTV - Submit Your Local News")
+Current Temp  38 °F 
 
-Current Temp  52 °F 
+Overcast 
 
-Mostly Cloudy 
+Wind : Variable at 3 MPH 
 
-Wind : South at 
+Humidity : 93 % 
 
-3.45 mph 
-
-Humidity : 80 % 
-
-Pressure : 30.28 in 
+Pressure : 30.35" (1027.7 mb) 
 
 [More Weather](https://web.archive.org/weather)
 
 Portland to Interstate Bridge (I-5)  
 Travel Time: 7 Min
 
-## KATU NOTICE
+[](https://web.archive.org/home/ondemand/ABCShows "Watch ABC Shows")
 
-Non-cable viewers in The Dalles can now watch KATU on Channel 18.
+Watch ABC shows and news online, free!
 
 [](https://web.archive.org/home/ondemand/video "Video")
 
 Latest news video from KATU.com.
-
-[](http://www.katu.com/home/ondemand/6223586.html "Watch ABC Shows")
-
-Watch ABC shows and ABC News online, free!
 
 [](http://www.katu.com/home/ondemand/3594851.html "KATU News Alerts")
 
