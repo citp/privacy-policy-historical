@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506080054id_/http%3A//www.zerochaos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211003152id_/http%3A//www.zerochaos.com/privacy.html) for the most accurate reproduction.*
 
 # ZeroChaos
 
