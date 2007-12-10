@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogshares.com privacy policy that was archived on 2006-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061018195709id_/http%3A//blogshares.com/help.php%3Fnode%3D57) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogshares.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210232546id_/http%3A//blogshares.com/help.php%3Fnode%3D57) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>BlogShares Help | Blogshares</title>
@@ -31,18 +31,320 @@ function checkAll(form)
 </script>
 
 <script type="text/javascript" src="lib/js/control.js"></script>
-</head>
-<body id="main-body" topmargin="0" marginwidth="0" marginheight="0">
+<style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:normal 11px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 4px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+color:white;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: white;
+color:black;
+}
+
+</style>
+
+<script type="text/javascript">
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="/index.php">Front Page</a>'
+menu1[1]='<a href="/help.php?node=2">About</a>'
+menu1[2]='<a href="/help.php?node=3">Quick Start</a>'
+menu1[3]='<a href="/upgrade.php">Premium Membership</a>'
+menu1[4]='<a href="/help.php">Help</a>'
+menu1[5]='<a href="/help.php?node=4">Rules</a>'
+menu1[6]='<a href="/bs/">Blog</a>'
+
+//Contents for menu 2, and so on
+var menu2=new Array()
+menu2[0]='<a href="/roles.php">People</a>'
+menu2[1]='<a href="/yabbse/index.php">Forums</a>'
+menu2[2]='<a href="/corpmain.php">Corporations</a>'
+menu2[3]='<a href="/missions.php">Missions</a>'
+menu2[4]='<a href="/missions.php?cat=8">Link Exchange</a>'
+menu2[5]='<a href="/funds.php">Funds</a>'
+menu2[6]='<a href="/premium.php">Premium Members</a>'
+menu2[7]='<a href="/newest.php">Newest Players</a>'
+menu2[8]='<a href="/toptraders.php">Top Traders</a>'
+menu2[9]='<a href="/today.php">Played Today</a>'
+menu2[10]='<a href=\"/help.php?node=48\">Hall of Fame</a>'
+menu2[11]='<a href="/cheatypants.php">Cheatypants Finder</a>'
+menu2[12]='<a href="/volunteer.php">Volunteer!</a>'
+menu2[13]='<a href="/yabbse/index.php?topic=16386.0">Say Hello!</a>'
+
+var menu3=new Array() // Leaders
+menu3[0]='<a href="/new_leaders.php">Leaderboard</a>'
+menu3[1]='<a href="/new_leaders.php?board=7">Composite</a>'
+menu3[2]='<a href="/new_leaders.php?board=1">Wealth</a>'
+menu3[3]='<a href="/new_leaders.php?board=2">Chips</a>'
+menu3[4]='<a href="/new_leaders.php?board=99">Ideas</a>'
+menu3[5]='<a href="/new_leaders.php?board=4">Artefacts</a>'
+menu3[6]='<a href="/new_leaders.php?board=5">Karma</a>'
+menu3[7]='<a href="/new_leaders.php?board=6">Sigma</a>'
+
+var menu4=new Array() // Games
+menu4[0]='<a href="/chances.php">Chances</a>'
+menu4[1]='<a href="/lottery.php">Lottery</a>'
+
+var menu5=new Array() // Blogs
+menu5[0]='<a href="/add_site.php">Add A New Blog</a>'
+menu5[1]='<a href="/top100.php">Top 100</a>'
+menu5[2]='<a href="/topstock.php">Stock Tips</a>'
+menu5[3]='<a href="/priority.php">Priority Queue</a>'
+menu5[4]='<a href="/added.php">Newest Additions</a>'
+menu5[5]='<a href="/recent.php">Recently Indexed</a>'
+menu5[6]='<a href="/random.php">Random Blog</a>'
+menu5[7]='<a href="/major_old.php?type=highest">Highest Share Prices</a>'
+menu5[8]='<a href="/major_old.php?type=lowest">Lowest Share Prices</a>'
+menu5[9]='<a href="/major_old.php?type=incoming">Most Incoming Links</a>'
+menu5[10]='<a href="/major_old.php?type=outgoing">Most Outgoing Links</a>'
+menu5[11]='<a href="http://blogshares.com/yabbse/index.php?topic=6314.0">Report Share Discrep</a>'
+
+var menu6=new Array() //Premium menu
+menu6[0]='<a href="/industries.php">Industries</a>'
+menu6[1]='<a href="/industry_hierarchy.php">Industries JavaTree</a>'
+menu6[2]='<a href="/industry_descriptions.php">Descriptions</a>'
+menu6[3]='<a href="/ideas.php">Ideas Market</a>'
+menu6[4]='<a href="/bondsmarket.php">Bonds Market</a>'
+menu6[5]='<a href="/ideasmarket.php">Player Market</a>'
+menu6[6]='<a href="/idea_drops.php">Recent Idea Drops</a>'
+menu6[7]='<a href="/industries_trading.php">Industries Trading</a>'
+menu6[8]='<a href="/ideadata.php">Ideas Hot Sheet</a>'
+menu6[9]='<a href="/indprod.php">Ideas Production</a>'
+menu6[10]='<a href="/indexist.php">Ideas Existing</a>'
+menu6[11]='<a href="/needideas.php">Ideas Needed</a>'
+menu6[12]='<a href="/needbonds.php">Bonds Needed</a>'
+menu6[13]='<a href="/needartes.php">Artefacts Needed</a>'
+menu6[14]='<a href="/artetool.php">Artefact Tool</a>'
+menu6[15]='<a href="/artefact.php">Artefacts - Heavy</a>'
+menu6[16]='<a href="/artefact_list.php">Artefacts - Light</a>'
+menu6[17]='<a href="/yabbse/index.php?topic=15653.0">Suggest Artefact</a>'
+
+var menu7=new Array() //Non-premium menu
+menu7[0]='<a href="/industries.php">Industries</a>'
+menu7[1]='<a href="/industry_hierarchy.php">Industries JavaTree</a>'
+menu7[2]='<a href="/industry_descriptions.php">Descriptions</a>'
+menu7[3]='<a href="/ideas.php">Ideas Market</a>'
+menu7[4]='<a href="/bondsmarket.php">Bonds Market</a>'
+menu7[5]='<a href="/ideasmarket.php">Player Market</a>'
+menu7[6]='<a href="/artefact.php">Artefacts - Heavy</a>'
+menu7[7]='<a href="/artefact_list.php">Artefacts - Light</a>'
+
+var menu8=new Array() //premium menu Chips
+menu8[0]='<a href="/chips.php">Transfer Chips</a>'
+menu8[1]='<a href="/chipmarket.php">Chip Marketplace</a>'
+menu8[2]='<a href="/textads.php">Text Ads</a>'
+menu8[3]='<a href="/raffle.php">Raffles</a>'
+menu8[4]='<a href="/yabbse/index.php?board=18">Forum Chip Board</a>'
+
+var menu9=new Array() //non-premium menu Chips
+menu9[0]='<a href="/chips.php">Transfer Chips</a>'
+menu9[1]='<a href="/textads.php">Text Ads</a>'
+menu9[2]='<a href="/raffle.php">Raffles</a>'
+menu9[3]='<a href="/yabbse/index.php?board=18">Forum Chip Board</a>'
+
+var menu10=new Array() //Other Tools
+menu10[0]='<a href="/spider_status.php">Spider Stats</a>'
+menu10[1]='<a href="/graphblast.php">Graphs</a>'
+menu10[2]='<a href="/marketdata.php">Market Data</a>'
+menu10[3]='<a href="http://ray.got.net/blogshares-bookmarklets.html">Bookmarklets</a>'
+menu10[4]='<a href="http://bs.marcchampagne.com">T\$\'s Tools</a>'
+menu10[5]='<a href="http://bs.helicell.net/">AdamF\'s Add-Ons</a>'
+menu10[6]='<a href="http://www.tengrrl.com/blogshares/search.shtml">tengrrl\'s Searches</a>'
+menu10[7]='<a href="http://www.sproutworks.com/blogsharesideas.php">BSmith\'s IdeaTracker</a>'
+menu10[8]='<a href="http://blogshares.com/yabbse/index.php?topic=14002.msg75405#msg75405">Midoribe\'s DeaderHelper</a>'
+menu10[9]='<a href="http://blogshares.com/help.php?node=60">Player Tutorials</a>'
+menu10[10]='<a href="http://quacktrack.com/">QuackTrack</a>'
+
+var menu11=new Array() //B$ Extra
+menu11[0]='<a href="http://en.wikipedia.org/wiki/Blogshares">B$ in Wikipedia</a>'
+menu11[1]='<a href="http://www.myspace.com/blogshares">B$ on MySpace</a>'
+menu11[2]='<a href="http://www.last.fm/group/BlogShares+Music+Lovers">B$ at Last.fm</a>'
+menu11[3]='<a href="http://www.flickr.com/groups/95426400@N00/">B$ Flickr Group</a>'
+
+var menu12=new Array() //Contact
+menu12[0]='<a href="mailto:support@blogshares.com">Email</a>'
+menu12[1]='<a href="/user.php?view=messages&recipient=8832&compose=yes">Contact MrPilot</a>'
+menu12[2]='<a href="/user.php?view=messages&recipient=16398&compose=yes">Contact Island Dave</a>'
+menu12[3]='<a href="/user.php?view=messages&recipient=45740&compose=yes">Contact AdamF</a>'
+menu12[4]='<a href="/yabbse/index.php?board=13.0">Report Violation</a>'
+menu12[5]='<a href="/yabbse/index.php?board=6.0">Technical Support</a>'
+
+var menu13=new Array() //Voting
+menu13[0]='<a href="/help.php?node=94">Introduction</a>'
+menu13[1]='<a href="/help.php?node=98">Overview</a>'
+menu13[2]='<a href="/help.php?node=95">Voting Process</a>'
+menu13[3]='<a href="/help.php?node=96">Demographics</a>'
+menu13[4]='<a href="/help.php?node=99">Moderating Votes</a>'
+menu13[5]='<a href="/voted_blog_finder.php">Voted Blog Finder</a>'
+menu13[6]='<a href="/yabbse/index.php?topic=15413.0">Report Voting Error</a>'
+menu13[7]='<a href="/yabbse/index.php?topic=15923.0">Suggest New Industries</a>'
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='#003F88'  //menu bgcolor
+var menutxcolor='#FFFFFF'
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';color:'+menutxcolor+'!important;background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-18 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+/*function delayclearhidemenu() {
+setTimeout('clearhidemenu()',250);
+}*/
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+</script></head><body id="main-body" topmargin="0" marginwidth="0" marginheight="0"><div id="dropmenudiv" style="visibility:hidden;width:165px;color:#FFFFFF!important;background-color:#003F88" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
+
 <div id="newheader">
-   <div id="newhead1"><a href="http://www.komen.org/intradoc-cgi/idc_cgi_isapi.dll?IdcService=SS_GET_PAGE&amp;nodeId=411"><img src="images/logo_bar_1-bca.jpg" width="260" height="70" alt="Blogshares - The Fantasy Blog Stock Market Game"></a></div>
-	 <div id="newhead2"><script type="text/javascript"><!--
+   <div id="newhead1"><img src="images/logo_bar_2007.jpg" width="260" height="70" alt="Blogshares - The Fantasy Blog Stock Market Game"></div>
+    <div id="newhead2"><script type="text/javascript"><!--
 google_ad_client = "pub-0105693174133881";
 google_ad_width = 468;
 google_ad_height = 60;
 google_ad_format = "468x60_as";
-google_ad_type = "text_image";
 google_ad_channel ="9009747546";
-google_color_border = "527142";
+google_color_border = "E1E7DF";
 google_color_bg = "E1E7DF";
 google_color_link = "527142";
 google_color_url = "666666";
@@ -50,68 +352,50 @@ google_color_text = "527142";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+
 </div>
+  <!--<div id="newhead2"><a href="http://service.bfast.com/bfast/click?bfmid=29150849&siteid=41641774&bfpage=welcome"><img src="images/sharebuilder/468x60_IFL.gif" width="468" height="60" alt="Sharebuilder!"></a></div>  -->
 </div>
 
-
+<script type="text/javascript" src="lib/js/navbuilder.js"></script>
 <div id="navcontainer"> 
+<script type="text/javascript">
+var navSet = [
+{"id": "basics", "title": "Basics", "href": "index.php", "menu": "menu1", "size": "150px"}, {"id": "menu_community", "title": "Community", "href": "roles.php", "menu": "menu2", "size": "150px"}, {"id": "menu_leaders", "title": "Leaders", "href": "leaders.php", "menu": "menu3", "size": "150px"}, {"id": "menu_blogs", "title": "Blogs", "href": "blogs.php", "menu": "menu5", "size": "150px"}, {"id": "menu_industries", "title": "Industries", "href": "ideas.php", "menu": "menu7", "size": "150px"}, {"id": "menu_voting", "title": "Voting", "href": "help.php?node=94", "menu": "menu13", "size": "170px"}, {"id": "menu_chips", "title": "Chips", "href": "index.php", "menu": "menu9", "size": "150px"}, {"id": "menu_games", "title": "Games", "href": "chances.php", "menu": "menu4", "size": "150px"}, {"id": "menu_tools", "title": "Tools", "href": "marketdata.php", "menu": "menu10", "size": "170px"}, {"id": "menu_extra", "title": "B$ Extra", "href": "bookmarklets.php", "menu": "menu11", "size": "150px"}, {"id": "menu_pixels", "title": "Pixels", "href": "/pixels.php"}, {"id": "menu_advertise", "title": "Advertise", "href": "/advertise.php"}, {"id": "menu_contact", "title": "Contact", "href": "mailto:support@blogshares.com", "menu": "menu12", "size": "150px"}];navBuilder.execute(navSet);
+</script>
+<noscript>
 <ul id="navlist"> 
 <li><a href="http://blogshares.com/index.php">Home</a></li> 
 <li><a href="http://blogshares.com/help.php">Help</a></li> 
 <li><a href="http://blogshares.com/help.php?node=4">Rules</a></li>
 <li><a href="http://blogshares.com/bs/">Blog</a></li>
 <li><a href="http://blogshares.com/industries.php">Industries</a></li> 
-<!-- <li><a href="http://blogshares.com/search.php">Search</a></li>  -->
 <li><a href="http://blogshares.com/major.php">Links</a></li> 
 <li><a href="http://blogshares.com/leaders.php">Leaders</a></li>
 <li><a href="http://blogshares.com/yabbse/index.php">Forums</a></li> 
-<!-- <li><a href="http://blogshares.com/topstock.php">Tips</a></li> now part of Links -->
 <li><a href="http://blogshares.com/roles.php">People</a></li>
-<!-- <li><a href="http://bsec.blogshares.com/">BSEC</a></li> -->
-<!-- <li><a href="http://blogshares.com/chips.php">Chips</a></li>  -->
 <li><a href="http://blogshares.com/chances.php">Chances</a></li> 
 <li><a href="http://blogshares.com/corpmain.php">Corps</a></li>
 <li><a href="http://blogshares.com/missions.php">Missions</a></li>
 <li><a href="http://blogshares.com/pixels.php">Pixels</a></li>
 <li><a href="http://blogshares.com/advertise.php">Advertise</a></li>
-<!--<li><a href="http://www.komen.org/intradoc-cgi/idc_cgi_isapi.dll?IdcService=SS_GET_PAGE&nodeId=411"><img src="http://blogshares.com/id/PinkRibbonLLti.jpg"></a></li> -->
-<!-- <li><a href="http://blogshares.com/help.php?node=52">Toolbox</a></li> now part of Links -->
-<!-- <li><a href="http://blogshares.com/rss.php">RSS</a></li> --> 
-</ul> 
+</ul>
+</noscript>
 </div><!-- end navcontainer-->
 <div style="font-size: 0.5em"><br></div>
 
 <div id="left-col-new">
-<div class="block-title">Somebody Said...</div><div class="block"><a href="http://id.chilleddreams.com/node/36" style="text-decoration:none" target="_new"><b><u>Camp Falcon?</u></b><br>Oct 12: Attack on<br>Camp Falcon; Massive<br>Explosion; Where is<br>the Media Coverage?<br>w/ Video</a><br><br><p style="font-size: 10px; color: #777"><a href="http://blogshares.com/textads.php">your message here...</a></p></div>
+<div class="block-title">Somebody Said...</div><div class="block"><b><u>Bring Them Home Now!</u></b><br>Support the troops,<br>get them out of Iraq<br>Now!<br><br><p style="font-size: 10px; color: #777"><a href="http://blogshares.com/textads.php">your message here...</a></p></div>
 
 <!--
 <div style="margin-top:-10px;text-align:center"><br><IMG SRC="http://service.bfast.com/bfast/serve?bfmid=29150849&siteid=41382289&bfpage=home" BORDER="0" WIDTH="1" HEIGHT="1" NOSAVE >
 <A HREF="http://service.bfast.com/bfast/click?bfmid=29150849&siteid=41382289&bfpage=home" TARGET="_top"><IMG SRC="sharebuilder.new.gif" BORDER="0" WIDTH="165" HEIGHT="225" ALT="ShareBuilder"></A><br>
 </div>
 -->
-<script language="javascript" src="http://blogshares.proxy.blogads.com/tfzfenpolfzydpn/blogshares/feed.js"></script>
-<div style="text-align: center">
-<script type="text/javascript"><!--
-google_ad_client = "pub-0105693174133881";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="0192110134";
-google_color_border = "527142";
-google_color_bg = "E1E7DF";
-google_color_link = "527142";
-google_color_url = "666666";
-google_color_text = "527142";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-<!--
-google_ad_width = 125;
-google_ad_height = 125;
-google_ad_format = "125x125_as";
--->
+
+<!-- <script language="javascript" src="http://blogshares.proxy.blogads.com/tfzfenpolfzydpn/blogshares/feed.js"></script> -->
+
+
 <!--
 <div class="block">
 <a href="http://www.dpbolvw.net/click-1606700-7382532" target="_top" >
@@ -135,69 +419,115 @@ height=600 src="http://media.fastclick.net/w/get.media?sid=19460&m=3&tp=3&d=s&v=
 
 </div>
 
-<!--
 <div class="block-title">Sponsors</div>
 <div class="block">
-If you're interested in using BlogShares as an advertising venue or marketing partner please use the <a href="http://www.santacruztech.com">Santa Cruz Tech contact form</a>
+<div id="ad-blogads">
+<link rel="stylesheet" type="text/css" href="http://blogshares.com/sponsor_blogads.css">
+<script language="javascript" src="http://cache.blogads.com/937251261/feed.js"></script>
 </div>
+</div>
+<div style="text-align: center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0105693174133881";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="0192110134";
+google_color_border = "3D7A37";/*"527142";*/
+google_color_bg = "E1E7DF";
+google_color_link = "3D7A37";/*"527142";*/
+google_color_url = "666666";
+google_color_text = "3D7A37";/*"527142";*/
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0105693174133881";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_cpa_choice = "CAEQiZipvQIQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAGgj0IYGh53glriidq87KASibkYzcASj_k-TgASjmpYPXASit0IDLASjTiqq_ASjNocS6ASiNiISkASiulsd2KJm09KMBKOKIlpYBKJDlzMQBKJXJ0bIBKIrPyrIBKK3V0bIB";
+google_ad_channel = "5978264960";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "CC1100";
+google_color_url = "8E236B";
+google_color_text = "black";
+//-->
+</script>
+<!--
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 -->
+</div>
 
+  <br>
+<div style="font-size:0.1em"><a href="http://shes.aflightrisk.org/">she's a flight risk</a></div>
 <div class="block-title">Junior Sponsors</div>
 <div class="block">
       <!-- vanture: added by C 2005-11-8 -->
-<p><a href="http://www.politicalheritage.com//" style="color:black" target="_new">Political Heritage</a></p>
+<p><a href="http://www.politicalheritage.com/" style="color:black" target="_new">Political Heritage</a></p>
 <p>The American leader in bus conversion <a style="color: black" href="http://www.vanture.com/" target="_new">Vanture Coach Manufacturing</a></p>
 <p><a href="http://actionchiro.net/" style="color:black" target="_new">Action Chiropractic Santa Cruz</a></p>
 <p><a style="color: black" href="http://www.cafeshops.com/blogsharesgear" target="_new">BlogShares Gear</a></p>
-<p><a style="color: black" href="http://www.buyers-almanac.com/" target="_new">Buyers Guide</a></p>
+<!--<p><a style="color: black" href="http://www.buyers-almanac.com/" target="_new">Buyers Guide</a></p>-->
 <p><a style="color: black" href="http://www.wyldryde.org/" target="_new">Wyldryde.org</a></p>
-<p><a style="color: black" href="http://barkplacepets.com/" target="_new">Pet accessories:<br> Bark Place Pets</a></p>
+<p><a style="color: black" href="http://www.bobateadirect.com/home.php" target="_new">Boba Tea Direct</a></p>
+<p><a style="color: black" href="http://id.chilleddreams.com/freebies/" target="_new">Free Samples</a></p>
+<p><a style="color: black" href="http://splogbot.com/catalogs" target="_new">Free Catalogs</a></p>
 <p><a style="color: black" href="http://deluxegrrl.com/" target="_new">Deluxe Grrl</a></p>
-<p><a style="color: black" href="http://www.phreacs.com.au/" target="_new">Twentythrees</a></p>
-<p><a style="color: black" href="http://www.active.com/donate/ltnSanJo/1856_vickih" target="_new">Fight Leukemia With Christopher</a></p>
 <p><a style="color: black" href="http://www.littlekenny.com" target="_new">The Little Kenny</a></p>
-<p><a style="color: black" href="http://www.fantasymvp.net" target="_new">Fantasy Football</a></p>
-<p><a style="color: black" href="http://www.scarypersonals.com/" target="_new">Scary Personals</a></p>
-<p><a style="color: black" href="http://www.archmailledesigns.com" target="_new">Chainmail</a></p>
-<p></p>
+<p><a style="color: black" href="http://web.blogads.com/advertise/bargain_blog_ads" target="_new">BlogAds Hive</a></p>
+<p><a style="color: black" href="http://id.chilleddreams.com/freebies/" target="_new">Freebies</a></p>
+
 </div><!-- end junior sponsor div -->
 
+<div class="block-title">Latest Forum Posts</div>
+<div class="block"><span style="font-size:10px;"><a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=18599.msg111763#msg111763">Re: Ask an Index Mana...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=14475">Beijós XXI SGP</a><br>03:20:50 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19137.msg111762#msg111762">Re: Changes to user.p...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=13829">AdamF</a><br>03:15:55 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19137.msg111761#msg111761">Re: Changes to user.p...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=14028">Wayne Hurlbert</a><br>03:14:05 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19142.msg111759#msg111759">Re: ♫ Happy Bir...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=14377">Perri Nelson</a><br>03:04:26 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19137.msg111758#msg111758">Re: Changes to user.p...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=13829">AdamF</a><br>02:48:40 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19144.msg111757#msg111757">[BSEC CASE 347] Jin J...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=13705">RobChina</a><br>02:44:32 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19142.msg111756#msg111756">Re: ♫ Happy Bir...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=13414">[PC] Beverly Shaw</a><br>02:39:37 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19143.msg111755#msg111755">[BSEC CASE 346] Eveni...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=12978">Midoribe</a><br>02:20:28 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19137.msg111754#msg111754">Re: Changes to user.p...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=11924">Friendly Wholesale Bonds</a><br>02:20:22 pm</span><br>
+<a style="font-weight:bold;color:#DC143C;" href="http://blogshares.com/yabbse/index.php?topic=19142.msg111753#msg111753">♫ Happy Birthda...</a><br><span style="font-size:10px;color:#2E0854;"><a style="color:#00009C;" href="http://blogshares.com/yabbse/index.php?action=profile;u=13349">Matrixz</a><br>02:16:31 pm</span><br>
+</span><br><b><a style="font-size:9px;color:black" href="/yabbse/index/php">Read More</a></b></div>
 
 </div><!-- end left-col -->
 <div id="right-col"><div class="block-title">
 Quick News
 </div>
 <div class="block">
- <span style="color:purple"><b>October 15, 2006</b></span> 
+ <span style="color:darkblue"><b>December 9, 2007</b></span><br>
 <br>
-
+<span style="color:purple"><b>Game Development</b></span>:<br>
+<a href="http://blogshares.com/yabbse/index.php?topic=19038">Player Ideas Market</a><br>
 <br>
-<span style="color:red"><b>Index Reorganization</b></span>
+<a href="http://blogshares.com/yabbse/index.php?topic=19137.0">Changes to User Profile Display</a><br>
 <br>
-<a href="http://blogshares.com/yabbse/index.php?topic=16322">New Documentation</a>
+<span style="color:green"><b>New Contests</b></span>:<br>
+<a href="http://blogshares.com/yabbse/index.php?topic=19128.0">Bowl Pickem Contest</a><br>
 <br>
-<a href="http://blogshares.com/yabbse/index.php?topic=16309">Blog Demographics</a>
+<a href="http://blogshares.com/yabbse/index.php?topic=19013.0">Blogging Contest #7</a><br>
 <br>
-<span style="color:#ff0999"><b>New Premium Page</b></span>
+<span style="color:orange"><b>Futurama Raffle Winners</b></span>:<br>
+<a href="http://blogshares.com/raffle.php">Max Power, HiChris, Ts, matt Williams, SubWolf</a><br>
 <br>
-<a href="http://blogshares.com/ideadata.php">Ideas Hot Sheet</a>	 
-<br>
-<span style="color:darkblue"><b>Data Points Added</b></span>
-<br>
-<a href="http://blogshares.com/yabbse/index.php?topic=16289">Industries.php</a>
-<br>
-<span style="color:darkgreen"><b>Fun:</b></span>
-<br>
-<a href="http://blogshares.com/yabbse/index.php?topic=16268">Suggestions Wanted</a>
-<br>
-<hr><span style="color:grey"><b>Spiders Status: </b></span><span style="color:green"><b>UP</b></span></div>
+<span style="color:#51a3f1"><b>Take Action</b></span>:<br>
+<a href="http://blogshares.com/yabbse/index.php?topic=18946.0">Vote a Wacko</a><br>
+<hr><span style="color:grey"><b>Spiders Status: </b></span><span style="color:green"><b>UP!</b></span></div>
 
 <form method="get" action="mastersearch.php">
 <div id="toolbar">
 <fieldset>
 <label for="search_box"></label>
-<input class="frmText" type="text" name="search" id="search" size="15" value="">
-<input class="frmButton" type="submit" value="Go">&nbsp;<select name="searchfor" tabindex="1"><option value="">Pick Search</option>
+<input class="frmText" type="text" name="search" style="background-color:#E0EEE0;" id="search" size="15" value="">
+<input class="frmButton" style="background-color:#993300;" type="submit" value="Go">&nbsp;<select style="background-color:#FFFAF0;" name="searchfor" tabindex="1"><option value="">Pick Search</option>
 <option value="url">Blog URL</option>
 <option value="title">Blog Title</option>
 <option value="corp">Corporation</option>
@@ -210,17 +540,6 @@ Quick News
 </form>
 
 
-<div class="block-title">New DB Box</div>
-<div class="block" id="db-box">
-<p style="text-align: center"><a href="pixels.php">View Pixel Gallery</a></p>
-<p style="text-aligh: left; margin: 0"><b>Current:</b> $1,630</p>
-<div style="text-align: center">
-<div style="border: 2px black solid; width: 151px; height: 10px; text-align: left"><div style="background-color: #080; width: 40px; height: 10px; font-size: .3em">&nbsp;</div></div>
-</div>
-<div style="text-align: right">
-<p style="margin: 0"><b>Goal:</b> $6,000</p>
-</div>
-</div>
 
 
 <div class="block-title">Members Area</div>
@@ -242,144 +561,106 @@ Not yet registered? <br>
 <br><a href="recover_password.php">Forgotten your password?</a>
 </div>
 </div>
+<div class="block-title">Today's Birthdays</div>
+<div class="block" id="birtdays"><span style="font-size:12;">
+<a href="/user.php?id=52800">James Dietz</a><br>
+<a href="/user.php?id=53982">chien-nan yang</a><br>
+</span></div>
+<div class="block-title">Lottery Winners</div>
+<div class="block" id="lotterywin"><span style="font-size:10px;">
+<a href="/user.php?id=23857">T$ </a><br>
+&nbsp;&nbsp;24 Nov 2007 @ 11:25<br>
+&nbsp;&nbsp;<b>B$3,018,200,000,000.00</b><br>
+<a href="/user.php?id=38335">[+] Eric Kwan</a><br>
+&nbsp;&nbsp;06 Nov 2007 @ 16:25<br>
+&nbsp;&nbsp;<b>B$315,350,000,000.00</b><br>
+<a href="/user.php?id=8732">JoPro Savings and Loan o3 </a><br>
+&nbsp;&nbsp;28 Oct 2007 @ 13:25<br>
+&nbsp;&nbsp;<b>B$82,150,000,000.00</b><br>
+<a href="/user.php?id=8732">JoPro Savings and Loan o3 </a><br>
+&nbsp;&nbsp;23 Oct 2007 @ 08:25<br>
+&nbsp;&nbsp;<b>B$97,650,000,000.00</b><br>
+<a href="/user.php?id=27428">Ken Adams</a><br>
+&nbsp;&nbsp;09 Oct 2007 @ 16:25<br>
+&nbsp;&nbsp;<b>B$1,267,950,000,000.00</b><br>
+<b><a style="color:salmon;" href="/lottery.php">Buy Lottery Tickets!</a></b>
+</span></div>
 </div>
-<div id="main"><p><a href="help.php?node=1">Help Index</a> | <a href="help.php?node=57">Node 57</a> |&nbsp;<a href="comments.php?group=3&amp;item=57"><img src="/images/talk2.png" border="0">&nbsp;Start&nbsp;a&nbsp;conversation</a></p><p class="note">Last Updated: <b>N/A</b></p><div id="helpbox">
+<div id="main">
+<p style="text-align:center;font-size:9px;">System Time: 15:25 10 Dec 2007 - 19 Players Online | <b><a style="color:blue;" href="upgrade.php">Upgrade to Premium</a></b></p>
+<p style="text-align:center;font-size:9px;font-weight:bold;color:green">STATUS: Latine loqui coactus sum. - Come chat in <a href="javascript:void(0);" onclick="window.open('http://www.blogshares.com/irc-ap.php','chat2','width=650,height=450,top=0,left=0,directories=no,location=no,menubar=no,resizable=yes,scrollbars=no,status=yes,andtoolbar=no.'); return false">#blogshares</a> (<a href="/jade/">Chanstats</a>)</p>
+<p><a href="help.php?node=1">Help Index</a> | <a href="help.php?node=57">Node 57</a> |&nbsp;<a href="comments.php?group=3&amp;item=57"><img src="/images/talk2.png" border="0">&nbsp;Start&nbsp;a&nbsp;conversation</a></p><p class="note">Last Updated: <b>N/A</b></p><div id="helpbox">
 <h2>B$ Help: Privacy Policy</h2>
- <h2>Information About Our Organization and Website</h2>
+ <h2>Information About Our Organization and Website</h2><br>
+Modern information and communication technologies play a fundamental role in the activities of an organization like BlogShares.<br>
 <br>
-Modern information and communication technologies play a fundamental role in the activities of an organization like BlogShares.
+We are based in the the United States.<br>
 <br>
-
+Our principal activity is: Fantasy Stock Market Game<br>
 <br>
-We are based in the the United States.
+Our privacy policy covers BlogShares and its web site.<br>
 <br>
-
+Organization Name: BlogShares<br>
 <br>
-Our principal activity is: Fantasy Stock Market Game
+Controller: Santa Cruz Tech <br>
 <br>
-
+Websites(s): http://www.blogshares.com<br>
+<h2>Providing Visitors With Anonymous Access</h2><br>
+You can access our Website home page and browse our site without disclosing your personal data. Certain data is logged for security reasons and we reserve the right to retain such data indefinitely. Valid information is necessary to signup for an account of the service provided to the user; we may retain this indefinitely, and disclose said data in the event of users abusing the system.<br>
+<h2>The Services and Links of Our Website</h2><br>
+Our Website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data.<br>
 <br>
-Our privacy policy covers BlogShares and its web site.
+Our Website does include links to third party Web service providers.<br>
+<h2>Automatic Collection of Information</h2><br>
+We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes:<br>
 <br>
-
+* Technical administration of the Website<br>
+* Customer administration<br>
+* Facilitate playing the game<br>
 <br>
-Organization Name: BlogShares
+We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes:<br>
 <br>
-
+* Technical administration of the Website<br>
+* Customer administration<br>
+* Facilitate playing the game<br>
 <br>
-Controller: Santa Cruz Tech 
+<h2>Data Collection and Purpose Specification</h2><br>
+We collect the personal data that you may volunteer while using our services.<br>
 <br>
-
+We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.<br>
 <br>
-Websites(s): http://www.blogshares.com
+We do collect website URLs and names from other sources such as Weblogs.com (http://www.weblogs.com)<br>
+<h2>Children's Privacy</h2><br>
+We do not knowingly collect personal data from children.<br>
 <br>
-<h2>Providing Visitors With Anonymous Access</h2>
+We do not take specific steps to protect the privacy of children who disclose their personal data to us.<br>
 <br>
-You can access our Website home page and browse our site without disclosing your personal data. Certain data is logged for security reasons and we reserve the right to retain such data indefinitely. Valid information is necessary to signup for an account of the service provided to the user; we may retain this indefinitely, and disclose said data in the event of users abusing the system.
+We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personal data from children on our Website.<br>
+<h2>Disclosure and Visitor Choice</h2><br>
+We do not disclose your personal data to our subsidiaries or other organizations, except in the case of abuse.<br>
+<h2>Confidentiality / Security</h2><br>
+We do not give visitors to our Website the option of using a secure transmission method to send us their personal data.<br>
 <br>
-<h2>The Services and Links of Our Website</h2>
+We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.<br>
+<h2>Privacy Compliance</h2><br>
+There are no national laws or self-regulatory schemes applicable to our website or organization.<br>
 <br>
-Our Website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data.
-<br>
-
-<br>
-Our Website does include links to third party Web service providers.
-<br>
-<h2>Automatic Collection of Information</h2>
-<br>
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes:
-<br>
-
-<br>
-* Technical administration of the Website
-<br>
-* Customer administration
-<br>
-* Facilitate playing the game
-<br>
-
-<br>
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes:
-<br>
-
-<br>
-* Technical administration of the Website
-<br>
-* Customer administration
-<br>
-* Facilitate playing the game
-<br>
-
-<br>
-<h2>Data Collection and Purpose Specification</h2>
-<br>
-We collect the personal data that you may volunteer while using our services.
-<br>
-
-<br>
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
-<br>
-
-<br>
-We do collect website URLs and names from other sources such as Weblogs.com (http://www.weblogs.com)
-<br>
-<h2>Children's Privacy</h2>
-<br>
-We do not knowingly collect personal data from children.
-<br>
-
-<br>
-We do not take specific steps to protect the privacy of children who disclose their personal data to us.
-<br>
-
-<br>
-We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personal data from children on our Website.
-<br>
-<h2>Disclosure and Visitor Choice</h2>
-<br>
-We do not disclose your personal data to our subsidiaries or other organizations, except in the case of abuse.
-<br>
-<h2>Confidentiality / Security</h2>
-<br>
-We do not give visitors to our Website the option of using a secure transmission method to send us their personal data.
-<br>
-
-<br>
-We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.
-<br>
-<h2>Privacy Compliance</h2>
-<br>
-There are no national laws or self-regulatory schemes applicable to our website or organization.
-<br>
-
-<br>
-There are no global or regional regulatory or self-regulatory schemes applicable to our website or organization.
-<br>
-<h2>Privacy Support</h2>
-<br>
-If you have an enquiry or concern about our privacy policy, please contact: <a href="mailto:support@blogsahres.com">support@blogshares.com</a>.
-<br>
-
+There are no global or regional regulatory or self-regulatory schemes applicable to our website or organization.<br>
+<h2>Privacy Support</h2><br>
+If you have an enquiry or concern about our privacy policy, please contact: <a href="mailto:support@blogsahres.com">support@blogshares.com</a>.<br>
 <br>
 We do not recommend another means by which visitors' concerns may be addressed.
 </div>
 <p></p></div><div id="footer" style="font-size:x-small; text-align: center">
- <div style="text-align:center">
+ <div style="text-align:center"><br>
+<a href="mailto:support@blogshares.com">Contact</a> | <a href="http://blogshares.com/advertise.php">Advertise</a> | <a href="http://blogshares.com/help.php?node=57">Privacy</a> | <a href="http://blogshares.com/help.php?node=58">Legal</a> | <a href="http://blogshares.com/help.php?node=4">Rules</a><br>
 <br>
-<a href="mailto:support@blogshares.com">Contact</a> | <a href="http://blogshares.com/advertise.php">Advertise</a> | <a href="http://blogshares.com/help.php?node=57">Privacy</a> | <a href="http://blogshares.com/help.php?node=58">Legal</a> | <a href="http://blogshares.com/help.php?node=4">Rules</a>
-<br>
-
-<br>
-BlogShares is a service of <a href="http://santacruztech.com/">Santa Cruz Tech</a>.
-<br>
-Copyright ©2004-2006 <a href="http://jaycampbell.com/">Jay Campbell</a> of <a href="http://santacruztech.com/">Santa Cruz Tech</a>.
-<br>
-Original Concept and Programming by Seyed Razavi.
-<br>
-Original Design Copyright ©2003 <a href="http://snazzykat.com/">Simply Delish Designs</a>.
-<br>
-Modified Design by Marshall Roch and <a href="http://jayallen.org/">Jay Allen</a>.
-<br>
+BlogShares is a service of <a href="http://santacruztech.com/">Santa Cruz Tech</a>.<br>
+Copyright ©2004-2007 <a href="http://jaycampbell.com/">Jay Campbell</a> of <a href="http://santacruztech.com/">Santa Cruz Tech</a>.<br>
+Original Concept and Programming by Seyed Razavi.<br>
+Original Design Copyright ©2003 <a href="http://wonderbliss.com/">Simply Delish Designs</a>.<br>
+Modified Design by Marshall Roch and <a href="http://jayallen.org/">Jay Allen</a>.<br>
+Are you looking for <a href="/topstock.php">Hot Stocks</a> or <a href="/top100.php">Stock Tips</a>?<br>
 </div><p></p>
 <p>
 <!-- WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
