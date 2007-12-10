@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608124041id_/http%3A//www.comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfi.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184842id_/http%3A//www.comfi.com/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Phone Cards Online: make calls for less. ComFi.com
+# Comfi.com - Privacy Policy
 
 Comfi.com is strongly committed to protecting the privacy of users of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for users.   
 The purpose of this Comfi.com privacy policy is to inform you, as a welcome visitor to Comfi.com, what kinds of information we may gather about you when you visit Comfi.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to the Comfi.com site. 
