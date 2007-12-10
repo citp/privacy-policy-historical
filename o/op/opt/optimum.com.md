@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526144559id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dwebsite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225348id_/http%3A//www.optimum.com/privacy.jsp%3Ft%3Dwebsite_privacy) for the most accurate reproduction.*
 
 # Optimum
 
@@ -36,7 +36,7 @@ CSC Holdings, Inc.
 1111 Stewart Avenue  
 Bethpage, NY 11714-3581  
 Attention: Webmaster  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
+[Click here](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php) to send us an e-mail.
 
 ### II. Participation Eligibility and Membership
 
@@ -102,7 +102,7 @@ In event of a sale or transfer of Cablevision assets including its database, cus
 
 ### VIII. How To Add, Change, or Delete Personal Information
 
-You may be able to add, change or delete certain personal information submitted to us online by contacting us [via e-mail](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your personal information.
+You may be able to add, change or delete certain personal information submitted to us online by contacting us [via e-mail](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php). Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your personal information.
 
 ### IX. Our Security Procedures
 
@@ -125,7 +125,7 @@ Please contact us if you have any questions about this Privacy Policy.
 Contact us at:  
 1111 Stewart Avenue  
 Bethpage, NY 11714-3581  
-[Click here](http://cablevision.custhelp.com/cgi-bin/cablevision.cfg/php/enduser/ask.php) to send us an e-mail.
+[Click here](http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/ask.php) to send us an e-mail.
 
 Thank you for visiting!
 
