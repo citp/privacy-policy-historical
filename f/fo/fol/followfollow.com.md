@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608011154id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110959id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
-# FollowFollow.com - the definitive Rangers website. Independent news and stats from footymad.net
+# Rangers FC News from FollowFollow.com - The Definitive Rangers FC website
 
 **_Entertainment & Sports Agency Privacy Policy_**
 
@@ -68,4 +68,4 @@ Some information and e-mails sent to us may be used as testimonials but no e-mai
 
 **_Contacting Us_** If you have any questions or concerns about the information we hold about you, you can get in touch by filling in a short contact form, which can be reached by 
 
-[_clicking here_.](http://www.footymad.net/feedback/loadcont.asp?CID=EMFM&type=gen)
+[_clicking here_.](http://www.footymad.net/contact.asp)
