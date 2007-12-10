@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609095612id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184020id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -53,17 +53,16 @@ Duplicators** ](http://www.primera.com/)
 [ **Primera Europe CD / DVD  
 Duplizierer und Drucker** ](http://www.primeraeurope.com/)  
 [ **DVD Duplicator  
-DVD Duplicators by MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "DVD Duplicator, DVD Duplicators, by MF Digital")  
+DVD Duplicators by MF Digital** ](http://www.mfdigital.com/ "DVD Duplicator, DVD Duplicators, by MF Digital")  
 [ **Microboards  
 Disc Copiers/Printers** ](http://www.microboards.com/ "CD and DVD Copiers and Printers")  
 [ **CD Duplicators DVD  
 Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
 [ **Blank DVDs  
 from Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fshop%2f "Blank DVDs from Disc Makers")  
-[ **DVD Duplicators** ](http://www.vinpowerdigital.com/ "CD DVD Duplicators by Vinpower")  
 [ **Noble House CD & DVD**   
 **Duplicators/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.noblehousecd.com%2f "Noble House CD & DVD Duplicators/Printers")  
-[ **DVD Duplicator CD Duplicators**   
-**by CopyStars.com** ](http://www.copystars.com/ "DVD Duplicator CD Duplicators by CopyStars.com")  
+[ **DVD Duplicator**   
+**by CopyStars.com** ](http://www.copystars.com/ "DVD Duplicator by CopyStars.com")  
 [ **MicroBoards CD DVD printer**   
 **Publishers & Duplicators** ](http://www.microboards.co.uk/ "MicroBoards, CD / DVD printer Publishers & Duplicators")
