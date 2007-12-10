@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608171927id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210132207id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.*
 
 # KCET Online - Privacy Policy.ph - Privacy Policy
 
@@ -73,7 +73,7 @@ KCET offers you the convenience of making on-line membership contributions and d
 
 KCET highly recommends that parents and guardians spend time with their children when they are online or listening to or watching KCET content. Parents and guardians are encouraged to learn and participate in their children's online interests interactive activities, and pre-screen any information submitted by their children to any website including KCET Sites. 
 
-**Use of Online Forums:** Minors under that age of 13 are not permitted to use the Online Forum section of the Site. Please see Paragraph IV of the Terms of Use [Terms of Use](https://web.archive.org/terms-of-use.php#_4 "Children Under the Age of 13") and the [Kids Privacy Policy](https://web.archive.org/kids/privacy-policy.php "Kids Privacy Policy") for further information. 
+**Use of Online Forums:** Minors under the age of 13 are not permitted to use the Online Forum section of the Site. Please see Paragraph IV of the [Terms of Use](https://web.archive.org/terms-of-use.php#_4 "Children Under the Age of 13") and the [Kids Privacy Policy](https://web.archive.org/kids/privacy-policy.php "Kids Privacy Policy") for further information. 
 
 **Submissions to KCET Sites:** If a person indicating that he/she is under 18 submits information and/or content to a KCET Site, KCET may decide, in its sole discretion, to condition use of such information and/or content on KCET's receipt of parental consent. KCET shall notify the parent of users under the age of 18 if that user wins a KCET contest, sweepstakes or game. Please see Paragraph IV of the [Terms of Use](https://web.archive.org/terms-of-use.php#_5 "Copyright and Trademark Information") and the KCET [Kids Privacy Policy](https://web.archive.org/kids/privacy-policy.php "Kids Privacy Policy") for further information. 
 
