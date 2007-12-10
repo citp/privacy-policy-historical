@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidilife.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624123346id_/http%3A//www.vidilife.com/index.cfm%3Ff%3Dhelp.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidilife.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230856id_/http%3A//www.vidilife.com/index.cfm%3Ff%3Dhelp.privacy) for the most accurate reproduction.*
 
 # Free video streaming, video hosting, video blog
 
