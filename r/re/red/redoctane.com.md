@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616053713id_/http%3A//www.redoctanegames.com/2_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoctane.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230519id_/http%3A//www.redoctanegames.com/2_privacy.asp) for the most accurate reproduction.*
 
 # RedOctaneGames.com :: Privacy Policy
 
