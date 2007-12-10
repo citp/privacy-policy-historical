@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531131007id_/http%3A//www.phonydiploma.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224517id_/http%3A//www.phonydiploma.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,8 +28,8 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-  * By E-Mail: management@phonydiploma.com 
-  * By Phone: 804-421-2850
+  * By E-Mail: info@documentprintingservices.com 
+  * By Phone: 1-888-325-3347
 
   
   
