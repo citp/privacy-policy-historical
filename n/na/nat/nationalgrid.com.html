@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationalgrid.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626221211id_/http%3A//www.nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalgrid.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210143330id_/http%3A//www.nationalgrid.com/corporate/legal/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-UK" lang="en-UK"><head>
 		
@@ -92,7 +92,7 @@ window.location = url;
 <div class="clear"></div>
 <div id="rowSiteNav">
 	
-	<div id="navGlobal" style="background:#0067c6 url(/NR/rdonlyres/0C0B78B7-2C82-4008-A01D-C8430846C786/0/ng06.jpg) no-repeat;">
+	<div id="navGlobal" style="background:#0067c6 url(/NR/rdonlyres/A26903FB-245A-4E27-B0D5-D28BA24DBBD7/0/ng08.jpg) no-repeat;">
 	<div id="headerImg">
 	</div>
 		
@@ -272,6 +272,11 @@ Adapted from Shawn Shell and Jay Grossman's MSDN article.
     if( typeof __CMS_PostbackForm.onsubmit != "undefined" )
     {
         __cmsResetFormCachedOnSubmit = __CMS_PostbackForm.onsubmit;
+        __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
+    }
+    else
+    {
+        __cmsResetFormCachedOnSubmit = null;
         __CMS_PostbackForm.onsubmit = __cmsResetFormOverrideOnSubmit;
     }
 
