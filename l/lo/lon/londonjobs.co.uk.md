@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032928id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232822id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
 # LondonJobs UK Privacy statement
 
@@ -25,7 +25,7 @@ If you enter a contest or promotion we ask for your name, address and e-mail add
 
 If you order Services from us, we will ask you for your Company name and address main contact details, contact details for invoicing and information about who will use the Services. Dependant on your payment terms, we may ask you for your credit card details.
 
-If you use our 'email a friend' service, we ask for the friend's email address. We then send an automatic, one-time email inviting your friend to visit us. Details of this transaction are stored only to send that one-time email or to track complaints of mischievous use. Your friend may email [help@londonjobs.co.uk](mailto:help@londonjobs.co.uk) to ask that it be deleted.
+If you use our 'email a friend' service, we ask for the friend's email address. We then send an automatic, one-time email inviting your friend to visit us. Details of this transaction are stored only to send that one-time email or to track complaints of mischievous use. Your friend can contact our [Customer Support team using our online form](https://web.archive.org/home/help_candidate.html) to ask that it be deleted.
 
 We may use some of the information collected about you to personalise your visits to our Site so that the Site appeals to your interests and offers goods or services to you that you may want. We can also use the information to help us develop the design and style of our websites to improve our service to you.
 
@@ -49,7 +49,8 @@ We use our best efforts to limit access to our CV services to recruiters who agr
 You may remove your CV from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of your CV by recruiters in these instances.
 
 **Jobs-by-Email**  
-The Jobs-by-Email service matches a job seeker's requirements for employment with the profile of vacancies advertised on our Site. For job seekers who subscribe to this Service you receive an email listing those jobs that we believe you should be interested in. You define your requirements by creating "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time. **Filtering Forms**  
+The Jobs-by-Email service matches a job seeker's requirements for employment with the profile of vacancies advertised on our Site. For job seekers who subscribe to this Service you receive an email listing those jobs that we believe you should be interested in. You define your requirements by creating "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time. **Email-a-Friend**  
+Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose that the fulfilment of this service. **Filtering Forms**  
 When you apply for positions with some of our Clients, you will be requested to complete a Filtering Form. The information submitted by you on the Filtering Form will be used by our Client to assess your suitability for the position to which it applies. We are not responsible for framing the questions in our Client's Filtering Forms, and merely provide the electronic means to enable our Client to present the Filtering Form to you, and to collect the Filtering Form once it has been completed by you. We do not process any of the data in completed forms, which we present to our Clients in our Applicants' database. We may, however, temporarily store your completed forms. **More About Cookies**  
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. This allows you to experience a more personalised service when you revisit our Site and allows us to find out about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to access or use all parts of our Site. You can learn more about cookies by visiting www.allaboutcookies.com **Your Consent**  
 By using this Site, you agree that we may collect and use information as described in this policy. We will always make clear how we do this, and allow you to tell us whether and to whom your information may be disclosed. 
@@ -79,7 +80,7 @@ Langstone Technology Park
 Langstone Road  
 Havant  
 PO9 1SA  
-[help@londonjobs.co.uk](mailto:help@londonjobs.co.uk)
+[Customer Support Contact Form](https://web.archive.org/home/help_candidate.html)
 
 Londonjobs is a division of Jobsite UK (Worldwide) Limited (company number 03097157), a subsidiary of Associated Newspapers Limited (company number 84121).
 
