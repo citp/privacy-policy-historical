@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2007-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430124022id_/http%3A//www.homesteps.com/private_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211003934id_/http%3A//www.homesteps.com/private_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
@@ -88,10 +88,10 @@ function MM_findObj(n, d) { //v4.01
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
   if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
-
-function MM_showHideLayers() { //v6.0
+function MM_showHideLayers() { //v9.0
   var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
     if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
     obj.visibility=v; }
 }
@@ -152,9 +152,7 @@ function MM_showHideLayers() { //v6.0
                     <tr valign="top"> 
                       <td><!-- #BeginLibraryItem "/Library/coupon.lbi" --><table cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
-	<td align="right">
-	<br> 
-	<a href="http://www.homesteps.com/coupon.cfm"><img src="images/coupon.gif" width="141" height="44" border="0"></a></td>
+	<td align="right"><a href="http://www.homesteps.com/coupon.cfm"><img src="Library/images/coupon.gif" width="141" height="44" border="0"></a></td>
   </tr>
 </tbody></table>
 <!-- #EndLibraryItem --></td>
@@ -363,10 +361,10 @@ function MM_showHideLayers() { //v6.0
     </tr>
     <tr valign="top"> 
       <td><a href="/rl04_supplierinterest.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('supp_services','','/images/real_04_hot.gif',1)"><img name="supp_services" border="0" src="/images/real_04.gif" width="130" height="17"></a></td>
-    </tr>
+    </tr><!--
     <tr valign="top"> 
-      <td><a href="/rl04_3forms.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('forms_bro','','/images/real_06_hot.gif',1)"><img name="forms_bro" border="0" src="/images/real_06.gif" width="130" height="17"></a></td>
-    </tr>
+      <td><a href="/rl04_3forms.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('forms_bro','','/images/real_06_hot.gif',1)"><img name="forms_bro" border="0" src="/images/real_06.gif" width="130" height="17"></a></td>
+    </tr>--> 
     <tr valign="top"> 
       <td><a href="/rl05_reg_areaman.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('area_cont','','/images/real_05_hot.gif',1)"><img name="area_cont" border="0" src="/images/real_05.gif" width="130" height="17"></a></td>
     </tr>
