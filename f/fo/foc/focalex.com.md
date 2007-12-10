@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the focalex.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629113224id_/http%3A//www.focalex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalex.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224153id_/http%3A//www.focalex.com/privacy) for the most accurate reproduction.*
 
 # Focalex: Privacy
 
 **Focalex's General Privacy Statement.**
 
-Last Updated on 05/03/2007 
+Last Updated on 07/18/2007 
 
-If you have any questions regarding this statement, you should contact our privacy group by email ([privacy@focalex.com](mailto:privacy@focalex.com)) or you can send inquiries via postal mail to: Focalex, Inc., Privacy Group, 90 Bridge St., Newton, MA, 02458. 
+If you have any questions regarding this statement, you should contact our privacy group by email ([privacy@focalex.com](mailto:privacy@focalex.com)) or you can send inquiries via postal mail to: Focalex, Inc., Privacy Group, 300 Fifth Avenue, 3rd Floor, Waltham, MA, 02451. 
 
 This Privacy Policy applies to consumers that have signed up via Focalex.com. Focalex may edit this privacy policy from time to time. When we make any substantial changes of users' Personally Identifiable Information, we will notify you by posting a prominent notice on our privacy policy and our home page, [www.focalex.com](http://www.focalex.com/) and we will provide an opportunity for you to opt-out of any further use of your Personally Identifiable Information. 
 
@@ -74,7 +74,7 @@ Additionally, Focalex may provide individual or summarized information to reputa
 
 ## Access To Personally Identifiable Information
 
-Updates to your list preferences can be made by using the manage preferences link in most email messages. If you would like to correct, update, delete, or deactivate other profile information, you can do so by contacting customer support at [help@focalex.com](mailto:help@focalex.com), or by sending a postal mail message to Focalex, Inc., 90 Bridge St, Newton, MA 02458. 
+Updates to your list preferences can be made by using the manage preferences link in most email messages. If you would like to correct, update, delete, or deactivate other profile information, you can do so by contacting customer support at [help@focalex.com](mailto:help@focalex.com), or by sending a postal mail message to Focalex, Inc., 300 Fifth Avenue, 3rd Floor, Waltham, MA 02451 
 
 ## Security
 
@@ -90,4 +90,4 @@ Any additional information offered or any additional services requested by you, 
 
 ## Contact Us
 
-If you have any questions regarding the policies of this site or your dealings with this site, please send an email message to: [privacy@focalex.com](mailto:privacy@focalex.com), or send postal mail to Privacy Group, Focalex Inc., 90 Bridge St, Newton, MA 02458\. 
+If you have any questions regarding the policies of this site or your dealings with this site, please send an email message to: [privacy@focalex.com](mailto:privacy@focalex.com), or send postal mail to Privacy Group, Focalex Inc., 300 Fifth Avenue, 3rd Floor, Waltham, MA 02451. 
