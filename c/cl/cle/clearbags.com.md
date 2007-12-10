@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607172720id_/http%3A//www.clearbags.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbags.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210190827id_/http%3A//www.clearbags.com%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 ### Our Commitment to Your Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have implemented physical, electronic, and managerial procedures to safeguard and secure the information we collect. This Web site uses industry strength 128bit SSL (Secure Socket Layer) encryption to secure sensitive information. 
+To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have implemented physical, electronic, and managerial procedures to safeguard and secure the information we collect. This site uses up to 256bit SSL (Secure Socket Layer) encryption to secure sensitive information. 
 
 ### How to Contact Us
 
