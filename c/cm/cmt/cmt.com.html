@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2007-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070621213921id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210122249id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -11,11 +11,6 @@ CMT.com: Privacy Statement
 
 <script language="JavaScript" src="/shared/scripts/flash_detect.js"></script>
 <script language="JavaScript" src="/shared/scripts/Media.js"></script>
-
-<script type="text/javascript" src="/global/scripts/yeti/mtvi_required.js"></script><script src="/global/scripts/yeti/core.js"></script><script src="/global/scripts/yeti/logger.js"></script><script src="/global/scripts/yeti/util.js"></script><script src="/global/scripts/yeti/dispatcher.js"></script></head><body><div><img name="s_i_" height="1" width="1" border="0" alt=""></div>
-<script type="text/javascript" src="/sitewide/scripts/yeti/mtvi_config.js"></script>
-<script type="text/javascript" src="/global/scripts/yeti/searchstate.js"></script>
-<script type="text/javascript" src="/global/scripts/coda/builds/mtvi_full.js"></script><div><img name="s_i_none" height="1" width="1" border="0" alt=""></div>
 
 <script language="JavaScript">
 if((typeof sections == 'undefined') || (sections == null)){
@@ -64,89 +59,9 @@ repValS = repValS.replace(/ /g, "");
 mep1 += repValS;
 </script>
 
-<script language="JavaScript" src="/sitewide/scripts/rep.js"></script>
-
-<script type="text/javascript">
-var remote_host = '69.31.88.133';
-
-</script>
-
-<script type="text/JavaScript" src="/global/reporting/scripts/rep_object.js"></script>
-
-<script type="text/JavaScript" language="JavaScript">
-var omniCall = new ReportingCall(defaultCall);
-
-/*********************************************
-* Dynamic Charts Overrides *
-**********************************************/
-function parseDynCharts(){
-var prefix = "if_nt_dynCharts_";
-var charts = [
-"albums",
-"artistBrds",
-"artists",
-"news",
-"photoArtists",
-"photoShows",
-"shows",
-"showBrds",
-"tours",
-"videos"
-];
-
-var chartsCall = "";
-for(i in charts){
-if(omniCall[(prefix + charts[i])]){
-chartsCall += charts[i] + "_" + omniCall[(prefix + charts[i])] + "|";
-omniCall.deleteRepProps(prefix + charts[i]);
-}
-}
-chartsCall = chartsCall.substring(0, chartsCall.length-1);
-if(chartsCall != "")
-omniCall.dynCharts = chartsCall;
-}
-parseDynCharts();
-
-/*********************************************
-* Yahoo Partner Overrides *
-**********************************************/
-if(document.referrer.indexOf("yahoo")>=0)
-omniCall.partner = "yahoo";
-
-try{
-//	MTVi.reporting.PartnerSearch.setTerms("");
-//	omniCall.partnerSearch=MTVi.reporting.PartnerSearch.getKeywords();
-omniCall.partnerSearch=MTVi.reporting.PartnerSearch.get("");
-}catch(e){}
-
-</script>
-
-<script language="JavaScript" src="/sitewide/scripts/omni_config.js"></script>
-
-<script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
-
-<script type="text/javascript">
-// Reporting Account Config
-com.mtvi.reporting.Account={
-name:'cmtvia',
-dynamic:'true',
-list:'cmtviadev=cmt-d,cmt-q',
-filters:'javascript:,cmt.com,mtvi.com'
-};
-// Sample Reporting Call
-var dispatcher=com.mtvi.reporting.Dispatcher;
-function reportVideo(a_section, a_videoTitle){
-if(com.mtvi.util.isDefined(a_section) && com.mtvi.util.isDefined(a_videoTitle)){
-var c_pageName='video/'+a_section+'/'+a_videoTitle;
-dispatcher.setAttribute('pageName',c_pageName);
-dispatcher.setAttribute('channel','video');
-dispatcher.setAttribute('hier2',c_pageName);
-dispatcher.sendCall();
-}
-}
-//reportVideo('mcmadness','testVideoTitle');
-
-</script>
+<script type="text/javascript" src="/sitewide/scripts/mtvi_reporting.js"></script></head><body><div style="position:absolute; visibility:hidden; width:1px; height:1px; border:0px; top:-100px; left:-100px" id="urchin"><iframe src="https://web.archive.org/web/20080412191320/http://media.mtvnservices.com/metrics/urchin.html?uri=web.archive.org/"></iframe></div><div style="display:none;" id="s_code"><img name="s_i_cmtvia" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cmtvia/1/H.1-pdv-2/s86465292250120?[AQB]&amp;ndh=1&amp;t=24/1/2020%202%3A45%3A37%201%200&amp;g=https%3A//web.archive.org/web/20071210122249id_/http%253A//www.cmt.com/interact/terms/privacy.jhtml&amp;cc=USD&amp;ch=web&amp;h2=web/web/20071210122249id_/http%253A/www.cmt.com/interact/terms/privacy.jhtml&amp;c4=not_logged_in&amp;c21=cmt&amp;c41=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></div>
+<script type="text/javascript" src="/sitewide/scripts/mtvi_reporting_overrides.jhtml"></script>
+<script type="text/javascript" src="/sitewide/scripts/mtvi_reporting_setvalues.js"></script>
 
 <link rel="stylesheet" href="/sitewide/styles/global.css" type="text/css">
 <link rel="stylesheet" href="/sitewide/styles/menus.css" type="text/css">
@@ -207,140 +122,7 @@ eval("videoPopUp=window.open('" + sUrl + "?" + clipy + ss + ap + additionalVals 
 </script>
 
 <script language="javascript">window.name = 'cmt';</script>
-
-<script type="text/JavaScript">
-function depricatedStationAlert() {
-alert('This Station Is No Longer Available');
-return true;
-}
-function launchRSN(varStationID) {
-var depricatedStation = false;	
-switch (varStationID) {
-case 161 : varStationID = 16364;
-break;
-case 160 : varStationID = 16374;
-break;
-case -136 : varStationID = 16588;
-break;
-case -128 : varStationID = 16489;
-break;	
-case 221 : varStationID = 16487;
-break;
-case -220 : varStationID = 16568;
-break;
-case -135 : varStationID = 16498;
-break;
-case 225	: varStationID = 16384;
-break;
-case -150 : varStationID = 16592;
-break;
-case -236 : varStationID = 16579;
-break;
-case -184 : varStationID = 16535;
-break;
-case -139 : varStationID = 16501;
-break;
-case 214 : varStationID = 16484;
-break;
-case -265 : varStationID = 66687;
-break;
-case -171 : varStationID = 16522;
-break;
-case -259 : varStationID = 49815;
-break;
-case -80 : varStationID = 16433;
-break;
-case -182 : varStationID = 16533;
-break;
-case -266 : varStationID = 66689;
-break;
-case -233 : varStationID = 16567;
-break;
-case -237 : varStationID = 16580;
-break;
-case -203 : varStationID = 16553;
-break;
-case 66 : varStationID = 16382;
-break;
-case -264 : varStationID = 66692;
-break;
-case 3 : varStationID = 16453;
-
-case -149 : depricatedStation = depricatedStationAlert();
-break;
-case -178 : depricatedStation = depricatedStationAlert(); 
-break;
-case -223 : depricatedStation = depricatedStationAlert(); 
-break;
-case -251 : depricatedStation = depricatedStationAlert();
-break;
-case -185 : depricatedStation = depricatedStationAlert();
-break;
-case -47 : depricatedStation = depricatedStationAlert();
-break;
-case -219 : depricatedStation = depricatedStationAlert();
-break;
-case -120 : depricatedStation = depricatedStationAlert();
-break;
-case -246 : depricatedStation = depricatedStationAlert();
-break;
-case -163 : depricatedStation = depricatedStationAlert();
-break;
-case -162 : depricatedStation = depricatedStationAlert(); 
-break;
-case -189 : depricatedStation = depricatedStationAlert();
-break;
-case -187 : depricatedStation = depricatedStationAlert();
-break;
-case -170 : depricatedStation = depricatedStationAlert();
-break;
-case -169 : depricatedStation = depricatedStationAlert();
-break;
-case -267 : depricatedStation = depricatedStationAlert();
-break;
-case -181 : depricatedStation = depricatedStationAlert();
-break;
-case -124 : depricatedStation = depricatedStationAlert();
-break;
-case -140 : depricatedStation = depricatedStationAlert();
-break;
-case -250 : depricatedStation = depricatedStationAlert();
-break;
-case -129 : depricatedStation = depricatedStationAlert();
-break;
-case -269 : depricatedStation = depricatedStationAlert();
-break;
-case -245 : depricatedStation = depricatedStationAlert();
-break;
-case -21 : depricatedStation = depricatedStationAlert();
-break;
-case -133 : depricatedStation = depricatedStationAlert();
-break;
-case -262 : depricatedStation = depricatedStationAlert();
-break;
-}
-
-/* tuner = window.open('http://radio.sonicnet.com/player/launchplayer.asp?A='+varStationID+'&face=CMT','TUNER','width=492,height=381,toolbar=no,resizable=no,scrollbars=no'); */
-if(!depricatedStation) {
-tuner = window.open('/sitewide/apps/radio/tuner/?stationId='+varStationID,'TUNER','width=700,height=370,toolbar=no,resizable=no,scrollbars=no');
-}
-}
-</script>
-
-<div style="visibility:hidden; display:none;">
-<img src="/global/guid/trigger.gif" width="1" border="0">
-</div>
-
-<script type="text/javascript" src="http://www.mtv.com/global/analytics/global_tracker.jhtml"></script>
-<script type="text/javascript">
-//SetGlobalTracker();
-</script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-1464777-1";
-__utmSetVar(BringBackCookieValue());
-urchinTracker();
-</script>
+<script language="javascript" src="/sitewide/scripts/launchradio.jhtml"></script>
 <!-- googleon: all -->
 
 <script language="JavaScript" src="/sitewide/scripts/mouseover.js"></script>
@@ -361,10 +143,7 @@ urchinTracker();
 
 <!-- body_element.jhtml -->
 
-<!-- Omniture Call -->
-<div style="display:none;">
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_cmtvia" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cmtvia/1/G.7-PD-R/s87168274961487?[AQB]&amp;ndh=1&amp;t=24/1/2020%202%3A45%3A30%201%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20070621213921id_/http%253A//www.cmt.com/interact/terms/privacy.jhtml&amp;cc=USD&amp;h2=undefined&amp;c4=not_logged_in&amp;c21=cmt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-</div>
+<script type="text/javascript" language="javascript">dispatcher.sendCall();</script>
 
 <!-- /body_element.jhtml -->
 
@@ -373,8 +152,8 @@ urchinTracker();
 <div id="header_ad_space">
 
 <div id="topad">
-<script type="text/javascript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}var ad='<IFRAME SRC="http://ad.doubleclick.net/adi/country.mtvi/terms;portal=interact;section_1=terms;pageName=privacy;dcopt=ist;u=|portal-interact|section_1-terms|pageName-privacy|dcopt-ist;sz=728x90;tile=1;ord=' + ord + '?" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no" width=728 height=90></IFRAME>';
-document.write(ad);</script><iframe src="http://ad.doubleclick.net/adi/country.mtvi/terms;portal=interact;section_1=terms;pageName=privacy;dcopt=ist;u=|portal-interact|section_1-terms|pageName-privacy|dcopt-ist;sz=728x90;tile=1;ord=224121109670430300?" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90"></iframe>
+<script type="text/javascript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}var ad='<IFRAME SRC="http://ad.doubleclick.net/adi/country.mtvi/interact/terms/atf_adi_standard;sec0=interact;sec1=terms;pageName=privacy;dcopt=ist;pos=atf;tag=adi;mtype=standard;u=|sec0-interact|sec1-terms|pageName-privacy|dcopt-ist|pos-atf|tag-adi|mtype-standard;sz=728x90;tile=1;ord=' + ord + '?" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no" width=728 height=90></IFRAME>';
+document.write(ad);</script><iframe src="http://ad.doubleclick.net/adi/country.mtvi/interact/terms/atf_adi_standard;sec0=interact;sec1=terms;pageName=privacy;dcopt=ist;pos=atf;tag=adi;mtype=standard;u=|sec0-interact|sec1-terms|pageName-privacy|dcopt-ist|pos-atf|tag-adi|mtype-standard;sz=728x90;tile=1;ord=876419879165312000?" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90"></iframe>
 </div>
 
 </div>
@@ -409,12 +188,15 @@ document.searchForm.onsubmit=formSub;
 </script></div>
 <div id="header_menu_module">
 
-<a href="/loaded/" onmouseover="menu(0);" onmouseout="headerOutX(0);"><img src="/sitewide/includes/headerfooter/img/hdr_nav_loadedvideo.gif" width="103" height="17" alt="loaded video" name="hdr_nav_loadedvideo" class="header_nav"></a><a href="/news/" onmouseover="menu(1)" onmouseout="headerOutX(1)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_news.gif" width="60" height="17" alt="news" name="hdr_nav_news" class="header_nav"></a><a href="/artists/" onmouseover="menu(2)" onmouseout="headerOutX(2)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_artists.gif" width="69" height="17" alt="artists" name="hdr_nav_artists" class="header_nav"></a><a href="/music/" onmouseover="menu(3)" onmouseout="headerOutX(3)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_music.gif" width="63" height="17" alt="music" name="hdr_nav_music" class="header_nav"></a><a href="/shows/" onmouseover="menu(4)" onmouseout="headerOutX(4)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_on_tv.gif" width="62" height="17" alt="on tv" name="hdr_nav_on_tv" class="header_nav"></a><a href="/interact/" onmouseover="menu(5)" onmouseout="headerOutX(5)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_interact.gif" width="75" height="17" alt="interact" name="hdr_nav_interact" class="header_nav"></a><a href="/games/" onmouseover="menu(6)" onmouseout="headerOutX(6)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_games.gif" width="67" height="17" alt="games" name="hdr_nav_games" class="header_nav"></a><a href="/mobile/" onmouseover="menu(7)" onmouseout="headerOutX(7)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_mobile.gif" width="67" height="17" alt="mobile" name="hdr_nav_mobile" class="header_nav"></a><a href="http://shop.cmt.com/" onmouseover="menu(8)" onmouseout="headerOutX(8)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_shop.gif" width="58" height="17" alt="shop" name="hdr_nav_shop" class="header_nav"></a><a href="#" onclick="launchUrge('referrer=cmt'); return false;" onmouseover="menu(9)" onmouseout="headerOutX(9)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_downloads.gif" width="89" height="17" alt="downloads" name="hdr_nav_downloads" class="header_nav"></a><img src="/sitewide/includes/headerfooter/img/hdr_nav_end.gif" width="1" height="17" alt="" class="header_nav">
+<a href="/loaded/" onmouseover="menu(0);" onmouseout="headerOutX(0);"><img src="/sitewide/includes/headerfooter/img/hdr_nav_video.gif" width="63" height="17" alt="video" name="hdr_nav_video" class="header_nav"></a><a href="/news/" onmouseover="menu(1)" onmouseout="headerOutX(1)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_news.gif" width="60" height="17" alt="news" name="hdr_nav_news" class="header_nav"></a><a href="/artists/" onmouseover="menu(2)" onmouseout="headerOutX(2)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_artists.gif" width="69" height="17" alt="artists" name="hdr_nav_artists" class="header_nav"></a><a href="/music/" onmouseover="menu(3)" onmouseout="headerOutX(3)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_music.gif" width="63" height="17" alt="music" name="hdr_nav_music" class="header_nav"></a><a href="/shows/" onmouseover="menu(4)" onmouseout="headerOutX(4)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_on_tv.gif" width="62" height="17" alt="on tv" name="hdr_nav_on_tv" class="header_nav"></a><a href="/interact/" onmouseover="menu(5)" onmouseout="headerOutX(5)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_interact.gif" width="75" height="17" alt="interact" name="hdr_nav_interact" class="header_nav"></a><a href="/games/" onmouseover="menu(6)" onmouseout="headerOutX(6)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_games.gif" width="67" height="17" alt="games" name="hdr_nav_games" class="header_nav"></a><a href="/mobile/" onmouseover="menu(7)" onmouseout="headerOutX(7)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_mobile.gif" width="67" height="17" alt="mobile" name="hdr_nav_mobile" class="header_nav"></a><a href="http://shop.cmt.com/" onmouseover="menu(8)" onmouseout="headerOutX(8)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_shop.gif" width="58" height="17" alt="shop" name="hdr_nav_shop" class="header_nav"></a><a href="http://blog.cmt.com/" onmouseover="menu(9)" onmouseout="headerOutX(9)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_blogs.gif" width="58" height="17" alt="blogs" name="hdr_nav_blogs" class="header_nav"></a><a href="http://www.rhapsody.com/country" onmouseover="menu(10)" onmouseout="headerOutX(10)"><img src="/sitewide/includes/headerfooter/img/hdr_nav_listen.gif" width="63" height="17" alt="listen" name="hdr_nav_listen" class="header_nav"></a><img src="/sitewide/includes/headerfooter/img/hdr_nav_end.gif" width="1" height="17" alt="" class="header_nav">
 
 <div class="header_menu" id="menu0">
 <ul>
 <li>
 <a href="/loaded/">CMT Loaded</a>
+</li>
+<li>
+<a href="/music/videos/">Music Videos</a>
 </li>
 </ul>
 </div>
@@ -477,25 +259,25 @@ document.searchForm.onsubmit=formSub;
 <a href="/music/">Music Main</a>
 </li>
 <li>
-<a href="/music/events/cma_music_festival/2007/">CMA Music Festival</a>
+<a href="/cma-awards/">CMA Awards</a>
 </li>
 <li>
 <a href="/asm/texas_tourism/2007/">Texas Music</a>
 </li>
 <li>
-<a href="/acm-awards/">ACM Awards</a>
+<a href="/music/listening_parties/">Hear Music Now</a>
 </li>
 <li>
-<a href="/music/listening_parties/">Hear Music Now</a>
+<a href="/artists/cmt-on-tour/sugarland/2007/">CMT On Tour</a>
 </li>
 <li>
 <a href="/music/radio/">Radio CMT</a>
 </li>
 <li>
-<a href="/music/videos/">Videos</a>
+<a href="/music/videos/">Music Videos</a>
 </li>
 <li>
-<a href="/music/studio_330_sessions/">Studio 330 Sessions</a>
+<a href="/music/studio_330_sessions/">Unplugged at Studio 330</a>
 </li>
 </ul>
 </div>
@@ -533,6 +315,9 @@ document.searchForm.onsubmit=formSub;
 <a href="/interact/calling_all_fans/">Calling All Fans</a>
 </li>
 <li>
+<a href="/interact/music_city_madness/">Music City Madness</a>
+</li>
+<li>
 <a href="http://cmtauctions.com" rel="nofollow">Auctions</a>
 </li>
 <li>
@@ -543,9 +328,6 @@ document.searchForm.onsubmit=formSub;
 </li>
 <li>
 <a href="/interact/newsletters/">Newsletters</a>
-</li>
-<li>
-<a href="/interact/music_city_madness/">Music City Madness</a>
 </li>
 <li>
 <a href="/asm/racing/">Racing Corner</a>
@@ -621,11 +403,21 @@ document.searchForm.onsubmit=formSub;
 </li>
 </ul>
 </div>
-
-<div id="menu9" class="header_menu">
+<div class="header_menu" id="menu9">
 <ul>
-<li><a href="#" onclick="launchUrge('referrer=cmt'); return false;">URGE Main</a></li>
-<li><a href="#" onclick="launchUrge('referrer=cmt&amp;page=channel&amp;id=cmt'); return false;">CMT on URGE</a></li>
+<li>
+<a href="http://blog.cmt.com/">Country Music Blog</a>
+</li>
+<li>
+<a href="http://showsblog.cmt.com/">Shows Blog</a>
+</li>
+</ul>
+</div>
+<div class="header_menu" id="menu10">
+<ul>
+<li>
+<a href="http://www.rhapsody.com/country" rel="nofollow">Listen on Rhapsody</a>
+</li>
 </ul>
 </div>
 
@@ -639,19 +431,20 @@ fixNavList(document.all.item('menu5'));
 fixNavList(document.all.item('menu6'));
 </script>
 <![endif]--></div>
+
 </div>
 <div id="main">
 <div id="content">
 
-<div class="topheading long">
+<h1 class="topheading long">
 <div class="filler"></div>
 <span class="section">
 Interact:
-<span class="subsection">Terms of Use</span>
+<span class="subsection">Privacy Statement</span>
 </span>
 <span class="other"></span>
 &nbsp;
-</div>
+</h1>
 
 <div id="centercol" class="all">
 <div class="storytext">
@@ -803,49 +596,38 @@ Copyright © 2005 Country Music Television, Inc. a subsidiary of MTV Networks, a
 
 </div><!-- content -->
 </div><!-- main -->
-
 <!-- global page footer goes here -->
 
 <div id="footer">
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-<td>
+<td width="61%">
 <p class="nav">
-<a href="/loaded/">Videos</a> | <a href="/news/">News</a> | <a href="/artists/">Artists</a> | <a href="/music/">Music</a> | <a href="/shows/">On&nbsp;TV</a> | <a href="/interact/">Interact</a> | <a href="/games/">Games</a> | <a href="/mobile/">Mobile</a> | <a href="http://shop.cmt.com/">Shop</a>
+<nobr><a href="/loaded/">Video</a> | <a href="/news/">News</a> | <a href="/artists/">Artists</a> | <a href="/music/">Music</a> | <a href="/shows/">On&nbsp;TV</a> | <a href="/interact/">Interact</a> | <a href="/games/">Games</a> | <a href="/mobile/">Mobile</a> | <a href="http://shop.cmt.com/">Shop</a> | <a href="http://www.rhapsody.com/country" nofollow="nofollow">Listen</a></nobr>
 </p>
 <p class="nav">
-<a href="/interact/help/">Help/FAQ</a> 
+<a href="http://webtools.cmt.com/">CMT Webtools</a> | <a href="/interact/help/">Help/FAQ</a> 
 <!-- commented out --><!-- end comment --> | <a href="/adspecs/">Advertising</a> | <a href="/sitemap/">Sitemap</a> | <a href="/one_country/">CMT One Country</a></p>
 <p>
 E-commerce on this website is brought to you by MTVN Direct Inc.
 </p>
 </td>
-<td>
-<p class="copyright" align="left">
-©2007 Country Music Television, Inc.,<br>
-a Viacom company<br>
-A division of <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a><br>
-All Rights Reserved.<br>
-<a href="/interact/terms/">Terms of Use</a>.
-<a href="/interact/terms/privacy.jhtml"><b>PRIVACY STATEMENT</b></a><br>
-<a href="/interact/terms/copyright_compliance_policy.jhtml"><b>COPYRIGHT POLICY</b></a><br>
-<a href="https://jobhuntweb.viacom.com/jobhunt/main/jobhome.asp">Job Opportunities</a>
+<td width="39%" align="right" class="copyright_border">
+<p class="copyright">
+<a href="/interact/terms/">Terms of Use</a> | <a href="https://jobhuntweb.viacom.com/jobhunt/main/jobhome.asp">Job Opportunities</a><br>
+<a href="/interact/terms/privacy.jhtml">Privacy Statement</a> | <a href="/interact/terms/copyright_compliance_policy.jhtml">Copyright Compliance Policy</a>
 </p>
 </td>
 </tr>
 </tbody></table>
+<div id="mtvn_attribution">
+
+<img src="/sitewide/assets/img/logos/mtvn_logo_dark.gif" width="129" height="24" border="0" alt="MTV Networks">
+
+©2007 Country Music Television, Inc., a Viacom company. A division of <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a>. All Rights Reserved.
+</div>
 
 </div><!-- footer -->
-
-<!-- footer ad space -->
-<div id="footer_ad_space">
-
-<div id="topad">
-<script type="text/javascript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}var ad='<IFRAME SRC="http://ad.doubleclick.net/adi/country.mtvi/terms;portal=interact;section_1=terms;pageName=privacy;dcopt=ist;u=|portal-interact|section_1-terms|pageName-privacy|dcopt-ist;sz=728x90;tile=2;ord=' + ord + '?" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no" width=728 height=90></IFRAME>';
-document.write(ad);</script><iframe src="http://ad.doubleclick.net/adi/country.mtvi/terms;portal=interact;section_1=terms;pageName=privacy;dcopt=ist;u=|portal-interact|section_1-terms|pageName-privacy|dcopt-ist;sz=728x90;tile=2;ord=224121109670430300?" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90"></iframe>
-</div>
-
-</div>
 
 </div><!-- body -->
 
@@ -857,9 +639,6 @@ var channelID="21"
 
 </script>
 
-<div style="visibility:hidden; display:none;">
-<img src="/global/guid/trigger2.gif" width="1" border="0">
-</div>
 
 
 
