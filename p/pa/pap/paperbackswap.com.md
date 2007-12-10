@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426191244id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080807id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
 
-# PaperBackSwap.com - Privacy Policy
+# PaperBackSwap :: Privacy Policy
 
 This page describes how the **Paperbackswap** handles information that we learn about consumers when consumers visit the www.paperbackswap.com, or contact us by mail, phone, or email. Any personally identifying information you provide is voluntary. We use it to fulfill a request you make or to assist us in carrying out our mission: facilitating the trading of books, music, videogames, or other media between our club members. 
 
@@ -10,6 +10,8 @@ This page describes how the **Paperbackswap** handles information that we learn 
   1. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   2. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of **Paperbackswap's** [Terms of Use](https://web.archive.org/help/terms_of_use.php), or as otherwise required by law.
   3. We may transfer information about you if **Paperbackswap** is acquired by or merged with another company.
+
+
 
 **If you visit our Web sites to browse, read, or download information:**   
 We may collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use; your operating system and other information about the computer and programs that you use to access our site; the date and time you access our sites; the pages within our site that you visit; and the Internet address of the site from which you linked directly to our sites.
