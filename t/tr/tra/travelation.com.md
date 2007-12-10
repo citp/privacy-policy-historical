@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084822id_/http%3A//www.travelation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211004134id_/http%3A//www.travelation.com/privacy.htm) for the most accurate reproduction.*
 
-# -- Travelation.com - cheap tickets travel and discount airfare -- Privacy Policy
+# Travelation.com - cheap tickets travel and discount airfare - Privacy Policy
 
 Travelation understands that making a purchase online involves a great deal of trust on your part. Your trust is extremely important to us and as such, we make it our highest priority to ensure that we have implemented information handling practices consistent with the highest standards and best practices of organizations currently doing business on the Internet. 
 
