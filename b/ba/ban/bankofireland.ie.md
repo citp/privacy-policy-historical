@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofireland.ie privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629175313id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofireland.ie privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210092131id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
 
 # Bank of Ireland - Legal Statement - Bank of Ireland's Privacy Statement - Privacy Statement
 
