@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205124024id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210093938id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# ITEX Payment Systems
+# ITEX >> Help Center >> Privacy Policy
 
-| 
+|  | 
 
 Help Center >> Privacy Policy
 
-[Print Format](https://web.archive.org/web/20070205124024id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
+[Print Format](https://web.archive.org/web/20071210093938id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
 
 ## Privacy Policy and Online Data Collection Notice
 
 _Effective February 8, 2005_
 
- **Table of Contents**
+**Table of Contents**
 
   1. Our Commitment to Privacy
   2. Overview
@@ -29,7 +29,7 @@ _Effective February 8, 2005_
 
 **1\. Our Commitment to Privacy**
 
-The privacy of the information that you provide us is very important to us. This Privacy Policy is intended to explain our information practices at ITEX Corporation ("ITEX") and to inform you of the manner in which your personal information is protected. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We want you to fully understand our privacy practices, and we welcome your comments and questions on this policy statement. You may e-mail your questions or comments to: [barb@itex.com](mailto:barb@itex.com "Email barb@itex.com").
+The privacy of the information that you provide us is very important to us. This Privacy Policy is intended to explain our information practices at ITEX Corporation ("ITEX") and to inform you of the manner in which your personal information is protected. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We want you to fully understand our privacy practices, and we welcome your comments and questions on this policy statement. You may e-mail your questions or comments to: [rob@itex.com](mailto:rob@itex.com "Email rob@itex.com").
 
 **2\. Overview**
 
@@ -75,7 +75,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **7\. Our Commitment to Children's Privacy**
 
-Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. Although this Site is not directed towards young children, we are intent on complying with applicable laws and regulations regarding children, including the United States' Children's Online Privacy Protection Act. We will not knowingly collect or maintain any personally identifiable information from children under 13. Parents are hereby put on notice that ITEX does not provide a mechanism to obtain parental consent. If you are a parent or guardian who has discovered that your child has submitted his or her personal information, we will make reasonable efforts to remove the information from our database, at your request. To request the removal of your child's information, please send an email to barb@itex.com and be sure to include in your message the same member name and password that your child submitted.
+Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. Although this Site is not directed towards young children, we are intent on complying with applicable laws and regulations regarding children, including the United States' Children's Online Privacy Protection Act. We will not knowingly collect or maintain any personally identifiable information from children under 13. Parents are hereby put on notice that ITEX does not provide a mechanism to obtain parental consent. If you are a parent or guardian who has discovered that your child has submitted his or her personal information, we will make reasonable efforts to remove the information from our database, at your request. To request the removal of your child's information, please send an email to rob@itex.com and be sure to include in your message the same member name and password that your child submitted.
 
 **8\. Processing Data in the United States**
 
@@ -87,10 +87,6 @@ We allow you to access your personally identifiable information for the purpose 
 
 **10\. How to Contact Us**
 
-Should you have other questions or concerns about these privacy practices, please call us at 425.463.4000 or send us an e-mail at: [barb@itex.com](mailto:barb@itex.com "Email barb@itex.com").
+Should you have other questions or concerns about these privacy practices, please call us at 425.463.4000 or send us an e-mail at: [rob@itex.com](mailto:rob@itex.com "Email rob@itex.com").
 
-  
-  
-  
-ITEX and ITEX Payment Systems are registered service marks of ITEX Corporation.  
-© 2007 ITEX Corporation. All rights reserved. 
+| 
