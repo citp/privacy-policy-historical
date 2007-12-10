@@ -1,35 +1,74 @@
-> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2001-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010808171936id_/http%3A//naughtywebcams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182626id_/http%3A//www.naughtywebcams.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
 
-# Naughty Webcams Privacy Policy
+# NaughtyWebcams - Privacy Policy
 
-  
-_**Naughty Webcams takes your privacy seriously. Please read the following to learn more about our privacy policy.** _
+  * Your Acceptance
 
-**What this Privacy Policy Covers**  
-This Privacy Policy covers Naughty Webcams treatment of personally identifiable information that Naughty Webcams collects when you are on the Naughty Webcams site, and when you use Naughty Webcams services. This policy also covers Naughty Webcams treatment of any personally identifiable information that Naughty Webcams business partners share with Naughty Webcams. 
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-Naughty Webcams is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Naughty Webcams collects information from our users at several different points on our website. 
+  * Overview
 
-**Membership Registration**  
-We request information from the user on our signup form. Here a user must provide contact information (like name and postal address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+NaughtyWebcams respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use NaughtyWebcams, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the NaughtyWebcams website.
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. We do not recommend the use of cookies. The reason is that anyone who has access to your computer, may access our site with your user information. 
+  * Personal Identifying Information
 
-**Log Files**  
-We use IP addresses to analyze advertising, administer the site, track user’s movement, and gather broad demographic information for aggregate use. 
+NaughtyWebcams will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-**Sharing**  
-We use an outside credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. We partner with other parties to provide specific advertising services. We will not share names, or other contact information with these third parties. 
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-**Links**  
-This web site may contains links to other sites. Please be aware that we Naughty Webcams are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+When you do provide us with personal identifying information, such information will be gathered solely by NaughtyWebcams, and is for use solely by NaughtyWebcams. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-**Security**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to security@naughtywebcams.com. 
+NaughtyWebcams may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-**Correction/Updating Personal Information:**  
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+NaughtyWebcams may request personal identifying information on specific pages that allow users to contact NaughtyWebcams. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of NaughtyWebcams or those of NaughtyWebcams customers or chat hosts, (4) under exigent circumstances to protect the physical safety of NaughtyWebcams, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+
+  * Our Cookies
+
+Your browser offers so-called "cookies," which - if you allow their use - store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+
+We may use cookies to:
+
+    * Deliver content specific to your interests.
+    * Save your password so you don’t have to re-enter it each time you visit our sites.
+
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
+
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+
+  * Chat Rooms and Forums
+
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+
+  * Minors
+
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. NaughtyWebcams does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested.
+
+Members areas of NaughtyWebcams may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@naughtywebcams.com](https://web.archive.org/web/20071210182626id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
+
+  * Unsolicited Email Received by You
+
+NaughtyWebcams does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from NaughtyWebcams, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [support](https://web.archive.org/web/20071210182626id_/http%3A//www.naughtywebcams.com/contactsupport.php?).
+
+NaughtyWebcams also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if NaughtyWebcams becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, NaughtyWebcams reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the NaughtyWebcams program, termination of NaughtyWebcams services, and forfeiture of all commissions.
+
+  * Contact
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@naughtywebcams.com](https://web.archive.org/web/20071210182626id_/http%3A//www.naughtywebcams.com/contactsupport.php?) and provide us with your name, your NaughtyWebcams login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+NaughtyWebcamss Limited   
+c/o Ariel Secretaries Limited
+
+196, Arch Makarios Ave, Ariel Corner,
+
+1st Flr, Office 102
+
+P.O. Box 57528
+
+3316 Limassol - Cyprus
+
+
+
