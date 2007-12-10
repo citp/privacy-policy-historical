@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610021705id_/http%3A//militarybyowner.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210203249id_/http%3A//www.militarybyowner.com/privacy.asp) for the most accurate reproduction.*
 
 # MilitarybyOwner.com - Real Estate near U.S. Military Bases
 
