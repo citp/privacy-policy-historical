@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626171802id_/http%3A//www.investorsinsight.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210133703id_/http%3A//www.investorsinsight.com/privacy.aspx) for the most accurate reproduction.*
 
 # InvestorsInsight : Privacy Policy
 
 |  |  |   
 ---  
-[Home Page](https://web.archive.org/web/20070626171802id_/http%3A//www.investorsinsight.com/default.aspx) > [Privacy Policy](https://web.archive.org/web/20070626171802id_/http%3A//www.investorsinsight.com/privacy.aspx)  
+[Home Page](https://web.archive.org/web/20071210133703id_/http%3A//www.investorsinsight.com/default.aspx) > [Privacy Policy](https://web.archive.org/web/20071210133703id_/http%3A//www.investorsinsight.com/privacy.aspx)  
   
 |  |  |   
 ---  
