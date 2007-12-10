@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531225157id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210133554id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore - 1-877-848-2168 Privacy Policy
 
