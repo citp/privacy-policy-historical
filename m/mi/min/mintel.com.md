@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220005020id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210084936id_/http%3A//www.mintel.com/privacy.htm) for the most accurate reproduction.*
 
 # Mintel International Group: Consumer, Media and Market Research
 
@@ -59,6 +59,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 **The Data Controller:**  
 ---  
-**email:** | [data.controller@mintel.com](mailto:dta.controller@mintel.com)  
+**email:** | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
 **postal address:** | Mintel Group, 18-19 Long Lane, London, EC1A 9PL  
 **website url:** | [www.mintel.com](http://www.mintel.com/)
