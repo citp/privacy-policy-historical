@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615204021id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210121544id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/Italy/Rome/AncientRome/IMG033italy.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/Bulgaria/Balchik/AJP_2425.jpg.html)
 
-Rome - Italy 
+The Botanical Gardens and Queen Marie's Palace, Balchik, Bulgaria 
 
 | 
 
@@ -17,10 +17,9 @@ Our Privacy Statement  |
 
 ##### 
 
-[ ](http://www.travelsignposts.com/Destination/v/Greece/Athens/athens_0065.jpg.html)
+[ ](http://www.travelsignposts.com/Destination/v/Austria/Salzburg/DSC_0368.jpg.html)
 
-Temple of Hephaestus, Agora  
-[Athens - Greece] 
+Salzburg, Austria 
 
 | 
 
@@ -57,8 +56,7 @@ Enjoy peace of mind when you know you're insured; get a quote here.
 [Buy some luggage](http://www.travelsignposts.com/resources/buy-luggage-online.php)  
 Buy luggage online: cases, carry-ons, daypacks, and all kind of travel gear (US)  
   
-  
-
+[](http://www.travelsignpostsphoto.com/ebook/index.php)
 
   
 We respect the privacy of those who visit our web site and those who become subscribers. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
