@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softtester.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035138id_/http%3A//www.softtester.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softtester.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210201216id_/http%3A//www.softtester.com/privacy.shtml) for the most accurate reproduction.*
 
 # SoftTester: Download Freeware and Shareware Software
 
-We can be reached via our [contact form](https://web.archive.org/web/20070623035138id_/http%3A//www.softtester.com/contactus.shtml) or you can reach us by telephone at +44(0)7939 513 013
+We can be reached via our [contact form](https://web.archive.org/web/20071210201216id_/http%3A//www.softtester.com/contactus.shtml) or you can reach us by telephone at +44(0)7939 513 013
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
