@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2007-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070307091714id_/http%3A//www.oleolefootball.com/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235716id_/http%3A//www.oleolefootball.com/privacy.htm) for the most accurate reproduction.*
 
 # Our Policy for Football Match Listing
 
 This privacy policy ("Policy") describes the information we may collect, how we may collect and use it, with whom we may share it, and certain other privacy issues, including the precautions we take to protect your privacy.
 
- **TYPES OF INFORMATION THAT MAY BE COLLECTED**
+**TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
 The following are the types of information we may collect: 
 
