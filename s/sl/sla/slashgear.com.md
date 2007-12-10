@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218161345id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210181918id_/http%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SlashGear, Latest Tech and Gadget News
+# Privacy Policy - SlashGear
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information.
 
