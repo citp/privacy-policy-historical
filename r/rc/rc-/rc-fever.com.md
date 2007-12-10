@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429194644id_/http%3A//www.rc-fever.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210185609id_/http%3A//www.rc-fever.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: RC FEVER - Walkera Dragonfly Helicopter Radio Control Store
 
@@ -8,7 +8,7 @@
 |  | Special  
 ---|---  
   
-|  | [](https://web.archive.org/web/20070429194644id_/http%3A//www.rc-fever.com/help.php)  
+|  | [](https://web.archive.org/web/20071210185609id_/http%3A//www.rc-fever.com/help.php)  
 ---|---  
 | Privacy statement  
 ---  
@@ -61,7 +61,7 @@
       **General**  
 
 
-  * You can edit your [RC-FEVER.com Account Information](https://web.archive.org/web/20070429194644id_/http%3A//www.rc-fever.com/register.php?mode=update) at any time. 
+  * You can edit your [RC-FEVER.com Account Information](https://web.archive.org/web/20071210185609id_/http%3A//www.rc-fever.com/register.php?mode=update) at any time. 
   * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
   * We reserve the right to send you certain communications relating to the RC-FEVER.com service, such as service announcements, administrative messages and the RC-FEVER.com Newsletter, that are considered part of your RC-FEVER.com account, without offering you the opportunity to opt-out of receiving them. 
 
@@ -79,14 +79,17 @@
 **Questions and Suggestions**  
 
 
-  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20070429194644id_/http%3A//www.rc-fever.com/help.php?section=contactus&mode=update) or you can contact us at: 
+  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20071210185609id_/http%3A//www.rc-fever.com/help.php?section=contactus&mode=update) or you can contact us at: 
 
 
 
    
   
     
-|  |  | [](https://web.archive.org/web/20070429194644id_/http%3A//www.rc-fever.com/cart.php)  
+|  |  | [](https://web.archive.org/web/20071210185609id_/http%3A//www.rc-fever.com/cart.php)  
+---|---  
+  
+|  | Recently Viewed  
 ---|---  
   
 |  | Authentication  
