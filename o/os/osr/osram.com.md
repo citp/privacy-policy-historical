@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113195543id_/http%3A//osram.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235830id_/http%3A//www.osram.com/osram_com/_metapages/Privacy.html) for the most accurate reproduction.*
 
-# OSRAM - About Us - Privacy
+# OSRAM|Privacy Policy|Privacy
 
-|  Privacy Policy
+Privacy Policy
 
   **OSRAM Commitment to Data Privacy Protection**  
 Protecting the security and privacy of your personal data is important to OSRAM; therefore, we conduct our business in compliance with applicable laws on data privacy protection and data security. We hope the policy outlined below will help you understand what data OSRAM may collect, how OSRAM uses and safeguards that data and with whom we may share it. 
@@ -16,6 +16,8 @@ When you do provide us with personal data, we usually use it to respond to your 
   * we may store and process personal data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services; or
   * we (or a third party on our behalf) may use personal data to contact you about an OSRAM offer in support of your business needs or to conduct online surveys to understand better our customers' needs.
 
+
+
 If you choose not to have your personal data used to support our customer relationship (especially direct marketing or market research), we will respect your choice. We do not sell or otherwise market your personal data to third parties, except to OSRAM affiliates. 
 
   **Purpose Limitation**  
@@ -26,6 +28,8 @@ OSRAM will collect, use or disclose personal data supplied by you online only fo
   * is required by law or the competent governmental or judicial authorities,
   * is necessary to establish or preserve a legal claim or defense,
   * is necessary to prevent fraud or other illegal activities, such as willful attacks on OSRAM information technology systems.
+
+
 
 **Communications or Utilization Data**  
 Through your use of telecommunications services to access our Web site, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are technically generated and could conceivably relate to personal data. To the extent that there is a compelling necessity, the collection, processing and use of your communications or utilization data will occur and will be performed in accordance with the applicable data privacy protection legal framework. 
@@ -44,14 +48,3 @@ To protect your personal data against accidental or unlawful destruction, loss o
 
   **Questions and Comments**  
 OSRAM will respond to reasonable requests to review your personal data and to correct, amend or delete any inaccuracies. If you have any questions or comments about the OSRAM Data Privacy Protection, please click on "Contact" and inform us about your request. As the Internet matures, so will our Data Privacy Protection Policy. We will post changes to our Data Privacy Protection Policy on this page. Please check this page regularly to keep up-to-date. 
-
-  
-  
-
-
-* * *
-
-  
-[Imprint](https://web.archive.org/about_us/imprint.html) / [Terms of use](https://web.archive.org/about_us/terms.html) / [Privacy Policy](https://web.archive.org/about_us/privacy.html) / Sitemap / [Contact](https://web.archive.org/contact/index.html)  
-© 2006, by OSRAM GmbH. All rights reserved. |  |  |   
-
