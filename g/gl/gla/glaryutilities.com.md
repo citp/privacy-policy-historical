@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627130830id_/http%3A//www.glaryutilities.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210201439id_/http%3A//www.glaryutilities.com/privacy.html) for the most accurate reproduction.*
 
-# Glary Utilities - Privacy Statements
-
-## Privacy Statements
+# Privacy Policy
 
 It is recommended that you read this privacy policy. Below is a summary of Glarysoft's online privacy policy. This policy covers the Glarysoft community web sites. 
 
