@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927101212id_/http%3A//www.gfusa.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160110id_/http%3A//www.grameenfoundation.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation
 
@@ -25,11 +25,26 @@ Currently, Grameen Foundation requires personal information on the following pag
 
 **Publication downloads:** Contact information you provide may be used to send you infrequent updates which are directly related to the publication you are downloading. 
 
-Donation Information and Secure Transactions 
+Donation information and secure transactions 
 
 **Transaction security:** When you donate to Grameen Foundation via our website, your donation information is encrypted and transmitted by way of a secure connection. Grameen Foundation uses your credit card information _only_ for the purpose of processing your donation, and it is not disclosed for any other purpose. 
 
 **Donation page:** When you donate to Grameen Foundation, we collect credit card and contact information necessary to verify and complete the transaction, as well as your communication preferences. We will follow those preferences in using your personal contact information to send you future mailings. 
+
+**General security:** In order to protect your personal information, we use technologies and processes such as encryption, access control procedures, network firewalls, physical security, and other measures. These measures increase the security and privacy of information traveling to, from, and within www.grameenfoundation.org. Only our authorized employees or agents carrying out permitted business functions are allowed to access personal information. 
+
+Updating your personal information
+
+You may contact us any time to review the personal information we have on file and or to request corrections at: 
+
+Manager of Annual Giving   
+Grameen Foundation   
+50 F Street NW, 8th floor   
+Washington, DC 20001   
+(toll free) 1-888-764-3872 x125 or outside the U.S. (202) 628-3560 x125   
+[development@grameenfoundation.org](mailto:development@grameenfoundation.org)
+
+In addition, if you signed up to receive any of our online newsletters or communications, you received a welcome message immediately after you signed up. It contains a web address where you can access and update your online account information. If you do allow others, including family or household members, to access Grameen Foundation members-only services, please understand that you are responsible for the actions of those individuals. 
 
 [Grameen Foundation](https://web.archive.org/) : Privacy policy  
 
