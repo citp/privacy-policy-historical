@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2006-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061230033115id_/http%3A//sasktel.com/about-us/company-information/policies/privacy.html%3FLink%3DPrivacy-Ftr%26campaign%3DHomePage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213200id_/http%3A//www.sasktel.com/about-us/company-information/policies/privacy.html%3FLink%3DPrivacy-Ftr%26campaign%3DHomePage) for the most accurate reproduction.*
 
 # SaskTel - Privacy
 
@@ -65,34 +65,34 @@ In certain circumstances in which it is necessary to do so, or where permitted b
 
 SaskTel has always been, and will continue to be, committed to the privacy of your personal information. In addition to our existing procedures and our adherence to The Freedom of Information and Protection of Privacy Act (FOIP ) which governs our approach to handling personal information , we have adopted the following privacy principles from the Canadian Standards Association' s Model Code for the Protection of Personal Information: 
 
-Principle 1 – Accountability   
+Principle 1 - Accountability   
 SaskTel is responsible for the personal information under our control and has designated a Chief Privacy Officer (CPO) as being accountable for SaskTel's compliance with the privacy principles. 
 
 Principle 2 -Identifying Purposes for the collection of personal information   
 SaskTel will identify the purpose for collecting personal information at or before the time the information is collected. 
 
-Principle 3 – Obtaining Consent for the Collection, Use and Disclosure of Personal Information   
+Principle 3 - Obtaining Consent for the Collection, Use and Disclosure of Personal Information   
 We require the knowledge and consent of the customer for the collection, use or disclosure of personal information except where it is impractical or inappropriate to do such as in emergency situations. 
 
-Principle 4 – Limiting Collection of Personal Information   
+Principle 4 - Limiting Collection of Personal Information   
 SaskTel will limit the collection of personal information to that which is necessary for the purposes identified by the company. SaskTel will collect personal information by fair and lawful means. 
 
-Principle 5 – Limiting Use, Disclosure and Retention of Personal Information   
+Principle 5 - Limiting Use, Disclosure and Retention of Personal Information   
 SaskTel will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. SaskTel retains personal information only as long as necessary for the fulfillment of those purposes. 
 
-Principle 6 – Accuracy of Personal Information   
+Principle 6 - Accuracy of Personal Information   
 Personal information will be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
 
-Principle 7 – Security Safeguards   
+Principle 7 - Security Safeguards   
 SaskTel will protect personal information by security safeguards appropriate to the sensitivity of the information. 
 
-Principle 8 – Openness   
+Principle 8 - Openness   
 SaskTel will make readily available to customers and employees, specific information about its policies and procedures relating to the management of personal information. 
 
-Principle 9 – Customer and Employee Access to Personal Information   
+Principle 9 - Customer and Employee Access to Personal Information   
 Upon request, customers and employees shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. 
 
-Principle 10 – Challenging Compliance   
+Principle 10 - Challenging Compliance   
 A customer may address a challenge concerning compliance with the above principles to the Chief Privacy Officer.   
 
 
