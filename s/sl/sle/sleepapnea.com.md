@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602000727id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210035737id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
 
 # Privacy Notice, Respironics
 
@@ -30,4 +30,4 @@ When a user performs a search within the Site, Respironics may record informatio
 
 Respironics does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Respironics’ behalf unless such transfer is legally required. Similarly, it is against Respironics’ policy to sell Personal Information collected online without consent. 
 
-[](http://printfriendly.respironics.com/print.asp?ref=https://web.archive.org/web/20070602000727id_/http%3A//global.respironics.com/PrivacyNotice.asp "Print")
+[](http://printfriendly.respironics.com/print.asp?ref=https://web.archive.org/web/20071210035737id_/http%3A//global.respironics.com/PrivacyNotice.asp "Print")
