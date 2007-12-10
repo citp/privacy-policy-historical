@@ -1,0 +1,234 @@
+<!--The following is the downloaded HTML source of the kontactr.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210122727id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Kontactr - free personal contact forms...</title>
+
+<meta name="Description" content="Kontactr is a free one-click contact form service that allows you to create your own free contact form so that people can contact you without knowing your email address.">
+
+<meta name="Keywords" content="free contact form, free contact forms, contact form, contact forms, email form, php contact form, contact us form, create contact form, email contact form, web contact form, simple contact form, service contract form, ajax, wordpress">
+
+<base href="http://kontactr.com">
+
+<script src="http://clevertutorials.com/libs/prototype.js" type="text/javascript"></script>
+<script src="http://clevertutorials.com/libs/scriptaculous.js" type="text/javascript"></script>	
+
+<script language="javascript">
+function createRequestObject() {
+    var ro;
+    var browser = navigator.appName;
+    if(browser == "Microsoft Internet Explorer"){
+        ro = new ActiveXObject("Microsoft.XMLHTTP");
+    }else{
+        ro = new XMLHttpRequest();
+    }
+    return ro;
+}
+
+var http = createRequestObject();
+
+function sendemail(t, u) {
+
+    http.open('get', 'form_activate.php?t='+t+'&u='+u+'');
+    http.onreadystatechange = handleResponse;
+    http.send(null);
+
+}
+
+function handleResponse() {
+    if(http.readyState == 4){
+        var response = http.responseText;
+        var update = new Array();
+
+        if(response.indexOf('|' != -1)) {
+            update = response.split('|');
+alert("Check: ID="+update[0]+" inner="+update[1]);
+         
+        }
+    }
+}
+</script>
+
+<link href="http://kontactr.com/default.css" rel="stylesheet" type="text/css">
+<link href="http://kontactr.com/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://kontactr.com/video/swfobject.js"></script>
+<script type="text/javascript" src="http://kontactr.com/video/Kontactr.js"></script>
+<link rel="stylesheet" type="text/css" href="http://kontactr.com/video/FlashTemplate.css">
+
+</head>
+<body>
+
+<div id="header">
+
+	<a href="index.php"><img src="http://kontactr.com/images/logo.jpg" style="float: left;"></a>
+	<div id="menu">
+		<ul>
+
+			<li><a href="http://kontactr.com/">home</a></li>
+			<li><a href="http://kontactr.com/login/">login</a></li>
+			<li><a href="http://kontactr.com/signup/">sign up</a></li>
+			<li><a href="http://kontactr.com/faq/">faq</a></li>
+			<li><a href="http://kontactr.com/user/kontactr">contact</a></li>
+			<li><a href="http://kontactr.com/blog">blog</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- end #header -->
+<div id="page"><div id="content">
+
+
+
+
+<p>We are committed to safeguarding the privacy of our website visitors. This policy sets out how we will treat your personal 
+
+information.</p>
+<br>
+<b>(1) What information do we collect?</b>
+
+<p>We may collect, store and use the following kinds of personal data.</p>
+
+<ol>
+<li>information about your visits to and use of this website.</li>
+<li>information that you provide us during registration.</li>
+</ol>
+
+<p>Whilst we must collect and use the following, we do NOT store, aside from that necessary to complete our service to you, the 
+
+following information:</p>
+
+<ol>
+<li>the email address of people who send messages through your Kontactr form.</li>
+<li>the name of people who send messages through your Kontactr form.</li>
+<li>the subject or content of messages sent through your Kontactr form.</li>
+</ol>
+
+<p>We will not without your express consent provide any of the above information to any third parties.</p>
+
+<br>
+<b>(2) Information about website visits</b>
+
+<p>We may collect information about your computer and your visits to this website such as your IP address, geographical 
+
+location, browser type, referral source, length of visit and number of page views. We may use this information in the 
+
+administration of this website, to improve the website's usability, and for marketing purposes.</p>
+
+<br>
+<b>(3) Using your personal data</b>
+
+<p>Personal data submitted on this website will be used only for the purposes specified in this privacy policy or in relevant 
+
+parts of the website.</p>
+
+<p>In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:</p>
+
+<ol>
+<li>improve your browsing experience by personalizing the website.</li>
+<li>send information to you by email in relation to the Kontactr service (including, but not limited to, updates or 
+
+improvements to the service).</li>
+<li>provide people with statistical information about our user base - but this information will not be used to identify any 
+
+individual user.</li>
+<li>conduct proper administration of the website and the Kontactr service.</li>
+</ol>
+
+<p>We will not without your express consent provide your personal information to any third parties for the purpose of direct 
+
+marketing.</p>
+<br>
+<b>(4) Other disclosures</b>
+
+<p>In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may 
+
+disclose information about you:</p>
+
+<ol>
+<li>to the extent that we are required to do so by law.</li>
+<li>in connection with any legal proceedings or prospective legal proceedings.</li>
+<li>in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of 
+
+fraud prevention and reducing credit risk).</li>
+</ol>
+<br>
+<b>(5) International data transfers</b>
+
+<p>Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.</p>
+
+<br>
+<b>(6) Security of your personal data</b>
+
+<p>We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information.</p>
+
+<p>We provide 99.9% uptime for all forms remotely hosted on our servers. All information submitted using our forms are sent 
+
+immediately and the result of the submission is shown instantly. So we are responsible for data not received due to other 
+
+problems like Incorrect email, downtime on your email service etc..</p>
+
+<p>You are responsible for keeping your password confidential. We will not ask you for your password under any circumstances.</p>
+
+<br>
+<b>(7) Policy amendments</b>
+
+<p>We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page 
+
+occasionally to ensure you are happy with any changes.</p>
+
+<p>We will also notify you of changes to our privacy policy by email.</p>
+
+<br>
+<b>(8) Your rights</b>
+
+<p>You may instruct us to provide you with any personal information we hold about you.</p>
+
+<br>
+<b>(9) Contact</b>
+
+<p>If you have any questions about this privacy policy or our treatment of your personal data, please write to us at 
+
+<a href="http://kontactr.com/user/kontactr">http://kontactr.com/user/kontactr</a></p>
+
+
+</div></div>
+<!-- end #page -->
+<div id="footer">
+
+	<p align="center" id="legal"><a href="http://kontactr.com/privacy/">Privacy Policy</a>  |  <a href="http://kontactr.com/terms/">Terms of Use</a>  |  Copyright © 2007 <a href="http://kontactr.com">Kontactr</a>  |  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=gfxindia%40gmail%2ecom&amp;item_name=Kontactr&amp;buyer_credit_promo_code=&amp;buyer_credit_product_category=&amp;buyer_credit_shipping_method=&amp;buyer_credit_user_address_change=&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF&amp;charset=UTF%2d8">Donate</a></p>
+        <p align="center">
+<!-- AddThis Bookmark Button BEGIN -->
+<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a> <script type="text/javascript">var addthis_pub = 'Templora';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>  
+<!-- AddThis Bookmark Button END -->
+
+       </p>
+
+</div>
+
+<script language="JavaScript" type="text/javascript" src="http://kontactr.com/libs/wz_tooltip.js"></script>
+
+<!-- 103bees.com 'bee' code v1.11 - please do not make any changes! -->
+<script type="text/javascript" src="http://103bees.com/bees/?bee=6369&amp;fid=9124"></script>
+<!-- 103bees.com 'bee' code -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247135-5";
+urchinTracker();
+</script>
+<!--
+<script src="http://www.demofuse.com/server/DFTour.php?sid=1024410" type="text/javascript"></script>
+<script type="text/javascript" defer="defer">DemofuseTour.Init();</script>
+
+
+<script type="text/javascript" src="http://www.tapefailure.com/track/6bda4e89477d5baa73661069c0258253/1/"></script>
+<script type="text/javascript">
+var tfForms = true;
+</script>
+-->
+
+
+</body></html>
