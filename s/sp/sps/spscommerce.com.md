@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spscommerce.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517063119id_/http%3A//www.spscommerce.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spscommerce.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234615id_/http%3A//www.spscommerce.com/privacy.shtml) for the most accurate reproduction.*
 
 # SPS Commerce | Privacy Statement
 
@@ -6,15 +6,15 @@ SPS Commerce understands that when you visit our Web site and provide us with pe
 
 **What information does SPSCommerce.com collect from site visitors?**
 
-You can visit SPSCommerce.com without telling us who you are or revealing any personal information. While we do log IP addresses (the Internet address of a computer) — and use "cookies" to track user sessions and page views on our site, we only use such data to analyze overall user trends, and individual users remain anonymous. Tracking user sessions and page views helps us understand how visitors use our site, which areas are most popular, and how long visitors spend there.
+You can visit SPSCommerce.com without telling us who you are or revealing any personal information. While we do log IP addresses (the Internet address of a computer) - and use "cookies" to track user sessions and page views on our site, we only use such data to analyze overall user trends, and individual users remain anonymous. Tracking user sessions and page views helps us understand how visitors use our site, which areas are most popular, and how long visitors spend there.
 
-SPS Commerce’s cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information collected through our site.
+SPS Commerce's cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information collected through our site.
 
 **How is my email address or other personal information used?**
 
 SPS Commerce uses email addresses and other personal information submitted through our Web site to reply to your requests for information about our products, services and other general information.
 
-We will need certain details — such as your name, email address, postal address, or phone number in order to respond to your inquiries and provide you with more information on those services. On occasion, we may also use your contact information to inform you of SPS Commerce services that you might be interested in. We do not disclose information about individual visits to SPSCommerce.com or other personal information that you may give us to any third parties without your permission.
+We will need certain details - such as your name, email address, postal address, or phone number in order to respond to your inquiries and provide you with more information on those services. On occasion, we may also use your contact information to inform you of SPS Commerce services that you might be interested in. We do not disclose information about individual visits to SPSCommerce.com or other personal information that you may give us to any third parties without your permission.
 
 In certain instances, such as when you register for an event or respond to a specific marketing campaign, you may be asked to provide information about your company's supply chain initiatives. This information helps us understand how SPS Commerce can best respond to your needs.
 
@@ -24,7 +24,7 @@ SPS Commerce will occasionally offer an email communication to interested partie
 
 **Does this Privacy Policy include SPS Commerce customers and third-party Web sites that may be hyperlinked from SPSCommerce.com?**
 
-SPS Commerce’s Privacy Policy only addresses the use and disclosure of information collected via SPSCommerce.com. We do not control and are not responsible for the privacy and data collection practices on other sites we hyperlink to, host or manage for customers and third parties with which we contract.
+SPS Commerce's Privacy Policy only addresses the use and disclosure of information collected via SPSCommerce.com. We do not control and are not responsible for the privacy and data collection practices on other sites we hyperlink to, host or manage for customers and third parties with which we contract.
 
 **In what instances may SPS Commerce be obligated to provide information about its site visitors?**
 
