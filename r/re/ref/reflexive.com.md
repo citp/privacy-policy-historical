@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629172133id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210045918id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy%26CID%3D23306) for the most accurate reproduction.*
 
 # Reflexive Arcade Privacy Policy
 
