@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503162306id_/http%3A//www.woolworths.co.uk/ww_p2/help/index.jhtml%3Fsection%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000358id_/http%3A//www.woolworths.co.uk/web/jsp/help/index.jsp%3Fsection%3D10) for the most accurate reproduction.*
 
 # Woolworths.co.uk
 
@@ -28,7 +28,7 @@ To do this we place cookies on your computer that collect information on our beh
 
 Coremetrics is used to analyse the data collected this is then passed back to us via a secure connection. Our contract with Coremetrics prohibits them from using the data themselves. 
 
-You can opt out from having your data collected by visiting [this page](https://web.archive.org/ww_p2/help/index.jhtml?section=27 "link to Coremetrics Opt-out page")
+You can opt out from having your data collected by visiting [this page](https://web.archive.org/web/jsp/help/index.jsp?section=30 "link to Coremetrics Opt-out page")
 
 ##### Cookies
 
@@ -61,9 +61,9 @@ Where you have ordered Digital Services, we reserve the right to remotely access
 
 ##### Third Parties
 
-Unless it is necessary to fulfil your order (including for the delivery of goods and services you have ordered by third parties), we will not provide your personal information (i.e. information you supply that identifies you) to any third party without your consent, or unless we are required to do so by law.
+We may share your personal information with our service providers and other companies in the Woolworths group, for example to help fulfil your order, process your payment details and provide services to us.
 
-Ways in which we might use your information to fulfil your order may include passing it on to employees and agents of the Group to administer any accounts, products and services and passing it on to a technical partner to carry out processing of your personal information on our behalf.
+We may also use your personal information to contact you for feedback or customer satisfaction purposes, either directly or through a service provider. You are under no obligation to respond to any such request for feedback.
 
 If you check the relevant box under 'options' on your Account Registration page, we will also provide your information to other carefully selected third parties so that they can send you details of their products, offers and services that may be of interest to you. We will not pass your personal data unless you have consented to this use. If you no longer wish to receive such information, you can change your options in your Account details at any time.
 
@@ -75,11 +75,11 @@ We endeavour to take all reasonable steps to protect your personal information. 
 
 ##### Information we receive from third parties
 
-We may supplement the information that you provide to us with information that we receive from third parties, for example, collected from other members of your household.
+We may supplement the information that you provide to us with information that we receive from third parties, for example, collected from other members of your household or from service providers as part of our feedback and customer satisfaction processes.
 
 ##### Access to your Information
 
-You may access and update all of your data via: <https://www.woolworths.co.uk/ww_p2/account/index.jhtml?redirect=account_home> or by updating your details in Your Account.
+You may access and update all of your data via: [https://www.woolworths.co.uk/web/jsp/account/secure/index.jsp](https://web.archive.org/web/jsp/account/secure/index.jsp) or by updating your details in Your Account.
 
 ##### Other Links
 
@@ -93,4 +93,4 @@ Please note that all products and services are supplied subject to our Terms & C
 
 If you have any comments or queries in connection with our privacy policy, please contact our Customer Services team.
 
-[Return to the Customer Services Home Page](https://web.archive.org/ww_p2/help/index.jhtml).
+[Return to the Customer Services Home Page](https://web.archive.org/web/jsp/help/index.jsp).
