@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php%3Fcat%3D8%26id%3D1) for the most accurate reproduction.*
 
-# :: UAE Exchange Centre LLC :: Privacy Policy
+# UAEXchange
 
   
 | 
@@ -12,16 +12,16 @@ Policy
 |  What's New   
 ---  
   
-  * [UAE Exchange bags the prestigious Dubai Quality Appreciation Program](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=2)  
+  * [UAE Exchange bags the prestigious Dubai Quality Appreciation Program](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=2)  
 
-  * [Sri Lankan banks join hands with UAE Exchange to launch unique promotion; Prizes worth over 7mn LKR announced](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=3)  
+  * [Sri Lankan banks join hands with UAE Exchange to launch unique promotion; Prizes worth over 7mn LKR announced](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=3)  
 
-  * [Dr.B.R.Shetty has been awarded the Pravasi Bharatiya Samman 2007](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=4)  
+  * [Dr.B.R.Shetty has been awarded the Pravasi Bharatiya Samman 2007](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=2&sid=4)  
 
 
   
   
-[Home](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/index.php) > Privacy Policy > Policy     
+[Home](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/index.php) > Privacy Policy > Policy     
 
   
 
@@ -40,4 +40,4 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
   
   
   
-   •  [About Us](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=1&id=1)     •  [Services](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=2&id=1)     •  [News](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=1)     •  [Careers](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=6&id=1)     •  [Contact Us](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=1)     •  [Network](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=3)     •  [Privacy Policy](https://web.archive.org/web/20070502172731id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=8&id=1)
+   •  [About Us](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=1&id=1)     •  [Services](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=2&id=1)     •  [News](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=4&id=1)     •  [Careers](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=6&id=1)     •  [Contact Us](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=1)     •  [Network](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=5&id=3)     •  [Privacy Policy](https://web.archive.org/web/20071210161302id_/http%3A//www.uaeexchange.com/uaexchange.php?cat=8&id=1)
