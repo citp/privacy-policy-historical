@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612112347id_/http%3A//www.airniugini.com.pg/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D5%26Itemid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210205055id_/http%3A//www.airniugini.com.pg/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D5%26Itemid%3D70) for the most accurate reproduction.*
 
 # Air Niugini Limited - Air Niugini Privacy & Security of Information Statement
 
@@ -21,11 +21,10 @@ Class:  |  | Preferred Currency:
 Adults: |  | Children   
 (2-11): |  | Infant   
 (under 2): |   
-|   
   
 For bookings with more than eight passengers, infants, or complex itineraries please contact your nearest [Air Niugini Sales Office](https://web.archive.org/index.php?option=com_contact&catid=69&Itemid=3) or Travel Agent. 
 
-**_Note_** : The following international locations; **Fiji (Nadi), Honiara, Hong Kong and Manila** , are currently not available for online booking. Please consult your nearest [Air Niugini Sales Office](https://web.archive.org/index.php?option=com_contact&catid=69&Itemid=3) or Travel agent for bookings to/from these locations.   
+**_Note_** : The following international locations; **Fiji (Nadi), Honiara, and Hong Kong** , are currently not available for online booking. Please consult your nearest [Air Niugini Sales Office](https://web.archive.org/index.php?option=com_contact&catid=69&Itemid=3) or Travel agent for bookings to/from these locations.   
 **Narita (Tokyo, Japan)** is available now for online booking. 
 
 [Click here](http://bookings.airniugini.com.pg/itd/itd/Profile) to go to your online booking profile. 
