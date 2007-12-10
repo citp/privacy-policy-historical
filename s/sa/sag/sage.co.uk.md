@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072636id_/http%3A//www.sage.co.uk/legal/home.aspx%3Ftid%3D141648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210045717id_/http%3A//www.sage.co.uk/legal/home.aspx%3Ftid%3D141648) for the most accurate reproduction.*
 
 # Sage (UK) Limited - Legal
 
