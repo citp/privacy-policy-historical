@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406203706id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231731id_/http%3A//www.autismspeaks.org/info/privacy.php) for the most accurate reproduction.*
 
 # Autism Speaks, Info, Privacy Policy
 
@@ -56,9 +56,19 @@ Autism Speaks encourages parents and guardians to spend time with their children
 
 It is important to note that Autism Speaks contains links to sites other than www.autismspeaks.org, and that those sites may not follow the same privacy policies as Autism Speaks. These sites may send their own cookies to you, and may collect data and make uses of it that Autism Speaks would not. 
 
-**Additional Information**
+**Privacy Protection Procedures**
 
-Protecting your information is important to us. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for hackers or other third parties not under the control of Autism Speaks to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, Autism Speaks cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy. 
+Protecting your information is important to us. We have implemented appropriate physical, technical and organizational measures, such as using industry-accepted encryption for transmission of credit card information, to help keep your information secure, accurate, current, and complete. In addition, all Autism Speaks agents and contracts with access to personal information obtained on the Autism Speaks web site are bound to adhere to this policy as part of their contract with Autism Speaks.
+
+Autism Speaks protects your personal information in a variety of ways. For certain services, such as our online forums, only minimal personal information is required, such as email addresses. In addition, personal information provided to our walk and donations sites is encrypted. We also protect that account information by placing it on a secure portion of our site that is only accessible by authorized personnel. In addition, IP addresses are not linked to personally identifiable information. 
+
+Autism Speaks secures its web server architecture through a number of means, including a firewall; closing of non-essential or high-risk services; encryption of user passwords, and secure storage of all backup information. In addition, Autism Speaks conducts regular security reviews of the hardware and software powering the site and makes the appropriate upgrades when required. All hardware access is limited to authorized personnel who must pass through a variety of security measures to access the system. Vendors who have access to the servers are aware of the security restrictions and follow the appropriate protocols to maintain the security of the system.  
+ ** ******  
+Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for hackers or other third parties not under the control of Autism Speaks to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, Autism Speaks cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk.
+
+ **Additional Information**
+
+This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy. 
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY. 
 
@@ -70,3 +80,5 @@ Autism Speaks
 New York, NY 10016
 
 This privacy policy is effective as of March 17, 2005. 
+
+[](http://events.autismspeaks.org/espeaks)
