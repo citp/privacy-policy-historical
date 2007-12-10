@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421232109id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210165019id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
 
 # Powerful UPS and USPS Shipping Software for Miva Merchant
 
@@ -20,9 +20,9 @@ We use cookies as part of our authenticaton system when you login to your accoun
 
 While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
 
- **Information Dissemination**
+**Information Dissemination**
 
-None of the information that is collected by this web site is rented, sold, or shared with any 3rd parties for any purpose.  The only exception to this is the disclosing to Marketworks of each Marketworks username that has registered to use ShipWorks.
+None of the information that is collected by this web site is rented or sold to any 3rd parties for any purpose.  Limited information may be shared with a 3rd party that has partnered with Interapptive if that information is protected under a confidentiality agreement with that 3rd party and is used only as a part of providing the ShipWorks service to the customer.
 
  **Links to Other Sites**
 
