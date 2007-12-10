@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629135912id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234331id_/http%3A//nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # NursingCenter - About Us - Privacy Policy
 
@@ -21,42 +21,34 @@ The NursingCenter registration form requires contact information, such as your n
 
 For example, your contact information allows NursingCenter staff to get in touch with you for administrative purposes, when necessary. Demographic and profile data helps us to improve your NursingCenter experience.  By understanding your preferences, we can offer you appropriate content, products and services to meet your specific needs.  
   
-| Opt-in procedures  
-During registration, you may choose to receive e-mail notifications of special offers and discounts from three different sources: 
-
-  * NursingCenter, including a twice-monthly newsletter of new site features and content
-  * Lippincott Williams & Wilkins (LWW), NursingCenter's parent company, including special product offers
-  * LWW's carefully selected partners.
-
-
-
-At any point after completing the registration form, you may opt-in to these services or cancel them by changing the preferences in your user profile. For related information, see Using cookies  
-  
----|---  
 | Participating in surveys and contests  
 NursingCenter occasionally offers contests and surveys, in which we ask participants for contact information, unique identifiers, and demographic information. These contests and surveys are always voluntary and never required to gain access to NursingCenter.
 
 We use contact information to notify winners and award prizes. Survey responses assist us in providing relevant content and improving your overall experience at NursingCenter.  
   
+---|---  
 | Participating in public forums  
 NursingCenter may offer its members chat rooms, forums, interactive webcasts, message boards, and news groups. Please remember that these are public areas and that information you choose to disclose in them may be viewed by anyone, anywhere. Exercise caution when disclosing personal information in any of these areas.
 
 NursingCenter cannot be held accountable for information willingly shared in a public forum or other area because the information can be viewed by other members and anonymous parties over whom NursingCenter has no control. Keep in mind at all times that information shared by other users in a public area is never examined by the clinical and editorial experts at NursingCenter for accuracy, appropriateness, and currentness. NursingCenter cannot be held liable for events arising from the use of information in a public forum.  
   
-| Special offers for NursingCenter members  
-After registering at NursingCenter, members may receive a welcome e-mail to verify username and password. Other offers may occasionally be communicated in subsequent e-mails. If you do not wish to receive communications from NursingCenter following the initial welcome e-mail, you may modify your user profile at any time.  
 | Order fulfillment  
 When purchasing a product or service from NursingCenter, you will be asked to provide contact information, unique identifiers, and financial information, such as your billing account or credit card numbers. We use your contact information to reach you if a problem occurs with your order. We use your financial information for billing and to make sure your order is fulfilled properly.  
   
   
+| 
+
+Registration Form  
+NursingCenter collects personal information, including email address, when visitors register on the site to become members.  This information allows us to present you with a more customized experience on NursingCenter, including offers, products and services from NursingCenter, Lippincott Williams & Wilkins, and third parties whom we deem appropriate.  We comply with the provisions of the CAN-SPAM Act of 2003 and will not provide your email address to any outside parties without your express consent.  You may unsubscribe from any email series by following the instructions in the email, or by sending an unsubscribe request to [editor@nursingcenter.com](mailto:editor@nursingcenter.com).  
+  
+---|---  
 | Sharing information with third parties  
-We compile, or aggregate, information collected from and about our members in a database. We share information in the aggregate with our partners and advertisers. No personally identifiable information is included. However, LWW will share personally identifiable information with those of its carefully selected partners that you elect (opt in) to receive e-mail notifications from.
+We compile, or aggregate, information collected from and about our members in a database. We share information in the aggregate with our partners and advertisers. No personally identifiable information is included.
 
 We use a credit card-processing company to administer purchases made on the site, and a shipping company to fulfill orders for products other than those delivered online. We share your personal information with these partners to ensure that your purchases are fulfilled properly and in a timely manner. These partners do not use this information for any other purpose.  
   
----|---  
 | Using cookies  
-NursingCenter uses a technology called cookies to maintain information on your computer. A cookie is a small packet of information that you’ve shared with us. We use cookies to store your account information, fulfill and track your purchases and, ultimately, make it easier for you to use the site.
+NursingCenter uses a technology called "cookies" to maintain information on your computer. A cookie is a small packet of information that you’ve shared with us. We use cookies to store your account information, fulfill and track your purchases and, ultimately, make it easier for you to use the site.
 
 To take full advantage of the services NursingCenter provides, you must have cookies turned on. Consult your computer’s Help section to learn how to turn cookies on or off. Be assured that demographic information is shared only in the aggregate (not individual information) and that our partners are committed to using that information only to offer products and services that meet your needs.  
   
@@ -69,8 +61,8 @@ NursingCenter uses an outside advertising company to display advertisements on o
 
 The NursingCenter MarketPlace may feature products marketed and distributed to users by third-party vendors. These vendors are carefully screened by NursingCenter to provide the best possible shopping experience for our members. Nevertheless, NursingCenter assumes no responsibility for orders placed with these vendors, nor liability for their products, services, or fulfillment capabilities.  
   
-| Correcting your personal information  
-You may modify your personal information at any time by making changes to your user profile. If you need assistance in making changes to your profile, please contact us at [CustomerService@NursingCenter.com](mailto:Customerservice@NursingCenter.com) or call at 800-256-4045.  
+| Changing your personal information  
+You may modify your personal information at any time by making changes to your [user profile](http://www.nursingcenter.com/login/updateprofile.asp). If you need assistance in making changes to your profile, please contact us at [CustomerService@NursingCenter.com](mailto:Customerservice@NursingCenter.com) or call at 800-256-4045.  
   
   
 | Security and updates  
@@ -86,10 +78,15 @@ Further, all employee passwords must be changed regularly. Employees are kept up
 If you have questions about the security of your information, please free to contact us by mail or e-mail.  
   
 | Receiving site updates  
-From time to time, NursingCenter may send e-mail announcements about site maintenance as well as updates about the site. Members cannot unsubscribe to these announcements; they contain important information about membership benefits or changes in our service. We understand the importance of limiting the number of these announcements in your electronic mailbox, and so use them only when necessary.  
+From time to time, NursingCenter may send e-mail announcements about site maintenance as well as updates about the site. They contain important information about membership benefits or changes in our service. These announcements may also be posted on the web site itself.  
 ---|---  
-| Changes to this policy  
-If NursingCenter’s privacy policy changes, we will post the changes immediately. Members will be notified by e-mail if we decide to use personally identifiable information in a manner different from that stated at the time of collection, and members will have a choice about whether we use their information in this different manner.  
+| 
+
+Changes to this policy  
+If NursingCenter’s privacy policy changes, we will post the changes immediately. Members will be notified by e-mail if we decide to use personally identifiable information in a manner different from that stated at the time of collection, and members will have a choice about whether we use their information in this different manner.
+
+Date of last update: October, 2007  
+  
 | Contacting NursingCenter  
 If you have questions about this privacy statement, the practices of this site, or your dealings with NursingCenter in any way, please feel free to contact us by mail or [e-mail](mailto:CustomerService@NursingCenter.com):
 
