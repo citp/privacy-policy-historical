@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629131715id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -91,9 +91,9 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
 ---  
 | [ ** _Contact Us_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/CustomerContactUsDisplay.do)  
  | [ ** _Security and Privacy_**](http://www.pleasantholidays.com/PleasantHolidaysWeb/Security.do)  
-[Site Features](https://web.archive.org/web/20070629131715id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20070629131715id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
-[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20070629131715id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20070629131715id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
+[Site Features](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=SiteMap.html) | [Hawaii/Mexico/USA](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=HawaiiMexicoUSA.html)  
+[Tahiti/Fiji/Australia/New Zealand](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AustraliaSouthPacific.html) | [Asia/Other Destinations/Cruises](https://web.archive.org/web/20071210231421id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/HTMLPagesDisplay.do?screenName=AsiaOtherDestCruises.html)  
   
- 1999-2007 Pleasant Holidays, LLC. All rights reserved.  
+© 1999-2007 Pleasant Holidays, LLC. All rights reserved.  
   
-SessionId: 0001iIZtKbCAbjw9Mcp0GgKxMZZ:1244ng341| [](http://www.nurun.com/)
+SessionId: YblYoyYqmpxxRW_RmYFFxqn| [](http://www.nurun.com/)
