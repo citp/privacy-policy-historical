@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410123439id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210091744id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
 
 # Davis Cup - Legal Information
 
@@ -32,7 +32,7 @@ We may use personal information collected about you to personalise your visits t
 
 We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use.
 
-Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.daviscup.com/feedback.asp?id=7).
+Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.daviscup.com/feedback.asp?userid=7).
 
 **Traffic Data**
 
