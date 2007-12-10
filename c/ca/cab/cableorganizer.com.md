@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2007-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070226045858id_/http%3A//cableorganizer.com/supportsuite/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210094845id_/http%3A//cableorganizer.com/supportsuite/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C71) for the most accurate reproduction.*
 
 # CableOrganizer.com - Tips & Advice
 
