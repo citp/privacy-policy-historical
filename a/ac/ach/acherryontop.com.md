@@ -1,41 +1,22 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site.php%3Fid%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210191008id_/http%3A//www.acherryontop.com/article%3Fa%3D1521) for the most accurate reproduction.*
 
-# A Cherry On Top, Scrapbook Shoppe - Privacy Statement
+# Privacy Statement - A Cherry On Top, Scrapbooking Shoppe
 
-At A Cherry On Top we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.
+**PRIVACY POLICY**
 
-When you order, we need to know your name, e-mail address, mailing address, credit card number and expiration date. You may give us your phone number as well.  This will help if we have any questions about your order or if we need to contact you about your order.  We do not give out this information to any other party.  It is held in strict confidentiality.
+**General Privacy Statement**  
+You may visit ACherryOnTop.com and use our resources without revealing any information about yourself. However, to post on our Message Board, submit to our Gallery, enter our Chat room, or use our internal Private Message system, you must first set up a password-protected account. The only personal data that is required to obtain an account is your name and e-mail address.
 
-We may also use the information we collect from you to occasionally notify you about important changes to the Web site, new services at A Cherry On Top and special offers we think you'll find valuable. If you would rather not receive this information, simply click on the Manage My Subscription link in the email you receive.  You can then choose to opt out of the newsletter.
+**E-mail Addresses**  
+We do not, have not, and will not ever sell, lease, trade, give, or transfer email addresses to any other business or entity. Your e-mail address is safe with us; we are committed to protecting your privacy.
 
- **How Secure is StickersGalore.com and ACherryonTop.com?**  
-When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data we collect is protected against unauthorized access.  Credit card information is not stored online.
+**Personal Information**  
+When you place an order at ACherryOnTop.com, we need to know your name, e-mail address, mailing address, credit card number and expiration date. Giving us your phone number is optional -this will help if we have any questions or need to conatct you about your order.  We do not give out this information to any other party, it is held strictly confidential.
 
- **What are 'cookies'?  
-** "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do allow you to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can change the settings on your browser to prevent it from accepting cookies (note that if you do this, your shopping cart will not work properly).  Our cookies are used primarily for the convenience of our customers.
+**"Cookies"**  
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do allow you to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can change the settings on your browser to prevent it from accepting cookies (note that if you do this, your shopping cart will not work properly).  Our cookies are used primarily for the convenience of our customers.
 
- **Does A Cherry On Top disclose the information it collects to outside parties?  
-** NO!  We do not, have not and will not ever sell, trade, or rent your personal information to others.  We are committed to protecting your privacy!
+**How Secure is ACherryOnTop.com?**  
+When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by ScanAlert to verify Hacker Safe status.
 
-If you have any further questions concerning your privacy online, feel free to Contact Us!
-
-  
-**Related Ordering Articles ...**  
-[Customer Credit](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=274)  
-[Rush This Order Option](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=195)  
-[40% off coupon code ...](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=157)  
-[Back Ordered / Out of Stock Items](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=38)  
-[Payment Options](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=35)  
-[Delivery Time](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=36)  
-[Our 30-Day Satisfaction Guarantee](https://web.archive.org/web/20070607093517id_/http%3A//www.acherryontop.com/site?id=37)  
-|  • [Interview: Meet BigSissy73](https://web.archive.org/site?a=456)  
-• [Meet Kathy Moore ...](https://web.archive.org/site?a=453)  
-• [Faces of ACOT ...](https://web.archive.org/site?a=446)  
-• [New! We now accept PayPal ...](https://web.archive.org/site?a=440)• [What’s in your brain?](https://web.archive.org/site?a=444)  
-• [Bi-scraptual and loving it.](https://web.archive.org/site?a=445)  
-• [The Trouble With CHA ...](https://web.archive.org/site?a=424)  
-• [Digital Scrapbooking](https://web.archive.org/site?a=423)• [Show off your Summer Layouts](https://web.archive.org/site?a=83)  
-• [Ribbon Designers ...](https://web.archive.org/site?a=246)  
-• [Craftbits Submit a Layout](http://www.craftbits.com/html/submitalayout.htm)
-
- **Featured Products**
+Published on 10/01/2007.
