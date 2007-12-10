@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newezinearticles.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509000829id_/http%3A//www.newezinearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newezinearticles.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210125851id_/http%3A//www.newezinearticles.com/privacy.php) for the most accurate reproduction.*
 
 # New Ezine Articles | Privacy Statement
 
