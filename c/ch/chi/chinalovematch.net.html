@@ -1,0 +1,415 @@
+<!--The following is the downloaded HTML source of the chinalovematch.net privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211003047id_/http%3A//www.chinalovematch.net/help.asp%3Fclass%3D15) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+        Privacy Policy
+        - Help Center -
+        Chinalovematch.net
+    </title>
+    <link href="css/xj555.css" rel="stylesheet" type="text/css">
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <style type="text/css">   
+div,td{font-size:12px;}
+.menu{font-size:12px;position:relative;z-index:100; }    
+.menu ul{list-style:none; padding:0px;margin:0px;}    
+.menu li {float:left;position:relative; padding:0px;margin:0px;}    
+.menu ul ul {visibility:hidden;position:absolute;top:30px;}    
+.menu table {position:absolute; top:0; left:0;}    
+.menu ul li:hover ul,    
+.menu ul a:hover ul{visibility:visible;}    
+.menu a,.menu a:visited{display:block; padding:8px;color:#fff;text-decoration:none; font-weight:bold;  }    
+.menu a:hover{background:#f2cdb0;color:#f00; font-weight:bold;}    
+.menu ul ul{}    
+.menu ul ul li {clear:both;text-align:left;font-size:12px;}    
+.menu ul ul li a,.menu ul ul li a:visited{display:block; background:#b50000;width:150px;height:20px; padding:3px 10px; margin:0;border:0;border-bottom:1px solid #a50000; line-height:22px; }    
+.menu ul ul li a:hover{border:0;background:#f2cdb0;border-bottom:1px solid #fff;}   
+
+   
+
+</style>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#A50000">
+    <tbody><tr>
+        <td height="6">
+            <script src="/js/prototype.js" type="text/javascript"></script>
+
+            <script type="text/javascript">
+        var sun1 = '';
+        function chatwindow(i)
+        {
+            $("divfindcall").style.display='none';
+            newWin=window.open("/userchat.asp?un=&iscall=yes&id="+i,"chatwindow"+sun1,"resizable=yes,top=50,left=50,width=720,height=580,menubar=no,status=yes,toolbar=no")
+        }
+        var m = 0;
+        function searchcall()
+        {
+             if (sun1 != "" )
+             {
+                var url = "/ajaxget.asp";
+                var pars = "action=iscall&d="+new Date();
+                var myAjax = new Ajax.Updater(
+                    "divfindcall",
+                    url,
+                    {
+                    method: "get",
+                    parameters: pars,
+                    onComplete: reportError
+                });
+             }
+        }
+        
+        function reportError(request)
+        {
+            if($("divfindcall").innerHTML == "")
+                startfind();
+            else
+                userremark();
+        }
+        function startfind()
+        {
+            setTimeout(searchcall,3000);
+        }
+        startfind();
+        
+        function userremark()
+        {
+            $("divfindcall").style.height = "120px";
+            $("divfindcall").style.width = "300px";
+            $("divfindcall").style.backgroundColor="#a2d0ef";
+            $("divfindcall").style.padding = "5px";
+            
+            $("divfindcall").style.top=(document.documentElement.scrollTop+(document.documentElement.clientHeight-$("divfindcall").offsetHeight)/2)-100+"px";
+            $("divfindcall").style.left=(document.documentElement.scrollLeft+(document.documentElement.clientWidth-$("divfindcall").offsetWidth)/2)+"px";
+
+        }
+            </script>
+
+            <div id="divfindcall" style="position: absolute; z-index: 99;">
+            </div>
+        </td>
+    </tr>
+</tbody></table>
+<table bgcolor="#A50000" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tbody><tr>
+        <td>
+            <table width="960" border="0" cellpadding="0" cellspacing="0" align="center">
+                <tbody><tr>
+                    <td align="center">
+                        <div style="background: url(/images/index2_1.gif); width: 960px; height: 87px; text-align: right;">
+                            <div style="margin: 5px 10px; height: 22px; line-height: 22px;">
+                                <img src="/images/english.gif">
+                                <a href="http://www.chinalovematch.net/index.asp">English</a>
+                                <img src="/images/chinese.gif">
+                                <a href="http://cn.chinalovematch.net/index.asp?lan=GB">简体中文</a>
+                                <img src="/images/chinese.gif">
+                                <a href="http://cn.chinalovematch.net/index.asp?lan=Big5">繁体中文</a></div>
+                            <div style="margin: 10px 10px 0px 5px;">
+                                <a href="#" onclick="window.external.addFavorite(window.location.href,document.title);">
+                                    <img src="/images/copyright2.gif"></a></div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="menu">
+                            <ul>
+                                <li><a href="/index.asp">Home</a></li>
+                                
+                                <li><a href="/searchs.asp">Search
+                                    <!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/searchsname.asp">Name Search</a></li>
+                                        <li><a href="/searchs.asp">Quick Search</a></li>
+                                        <li><a href="/searchsmore.asp">Advanced Search</a></li>
+                                        <li><a href="/searchsfull.asp">Detailed Search</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                <li><a href="/hotmember.asp">Top Members
+                                    <!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/hotmember.asp?action=ltm">By Last Login</a></li>
+                                        <li><a href="/hotmember.asp?action=hot">By Hits</a></li>
+                                        <li><a href="/hotmember.asp?action=lot">By Activity</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                <li><a href="/magazineclass.asp">eMagazine
+                                    <!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/magazineclass.asp">Front Page &amp; Contents</a>
+                                            </li><li><a href="/magazineclass.asp?class=9">Other Asian Ladies &amp; Cultures</a></li><li><a href="/magazineclass.asp?class=1">Cross Cultural Issues</a></li><li><a href="/magazineclass.asp?class=3">Chinese Ladies</a></li><li><a href="/magazineclass.asp?class=10">Immigration Issues</a></li><li><a href="/magazineclass.asp?class=4">Chinese Culture</a></li><li><a href="/magazineclass.asp?class=5">Travel China</a></li><li><a href="/magazineclass.asp?class=6">Expats In China</a></li><li><a href="/magazineclass.asp?class=11">China Current Events</a></li><li><a href="/magazineclass.asp?class=7">Hong Kong &amp; Taiwan</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                <li><a href="/gift.asp">Flowers &amp; Gifts<!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                <li><a href="/help.asp">About Us
+                                    <!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/help.asp?class=13">About Us</a></li><li><a href="/help.asp?class=17">FAQ</a></li><li><a href="/help.asp?class=19">Contact Us</a></li><li><a href="/help.asp?class=21">Member Complaint</a></li><li><a href="/help.asp?class=15">Privacy Policy</a></li><li><a href="/help.asp?class=16">Terms &amp; Conditions</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                <!--move to other place -->
+                                <li><a href="help.asp?class=14">Translation
+                                    <!--[if IE 7]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/aboutchat.asp">Instant Chat Translation</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                                
+                                <li><a href="/login.asp">Member Log In</a></li>
+                                <li><a href="/reg.asp">Join Free</a></li>
+                                
+                            </ul>
+                        </div>
+                        
+                    </td>
+                    <td align="right" class="bar">
+                    </td>
+                </tr>
+            </tbody></table>
+            <!--start members -->
+            
+            <table valign="top" width="960px" align="center" style="background-color: #ffffff;" cellpadding="5px" class="about12">
+                <tbody><tr>
+                    <td>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=94">
+                            
+                            <img title="YOYO" src="../sphoto/200771112161885277.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=417">
+                            
+                            <img title="yiran" src="../sphoto/200792714475173499.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=501">
+                            
+                            <img title="shanshan" src="../sphoto/200711214123273499.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=777">
+                            
+                            <img title="lonelyadi" src="../sphoto/2007111121364873499.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=64">
+                            
+                            <img title="yiyi" src="../sphoto/200742618373098553.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="../display.asp?id=183">
+                            
+                            <img title="cecilia" src="../sphoto/20078302352182400.jpg" width="130" height="130">
+                        </a>
+                    </td>
+                    
+                    <td align="center">
+                        <a href="/searchs.asp">
+                            <img src="/images/more.gif"></a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <!--end members -->
+        </td>
+    </tr>
+</tbody></table>
+
+    <table width="960" border="0" cellspacing="0" cellpadding="0" style="background-color: #ffffff" align="center">
+        <tbody><tr>
+            <td style="height: 30px">
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div style="width: 180px; float: left; padding:0px 10px;">
+                    <div class="listm">
+                        <li><a href="help.asp?class=13">About Us</a></li><li><a href="help.asp?class=17">FAQ</a></li><li><a href="help.asp?class=19">Contact Us</a></li><li><a href="help.asp?class=21">Member Complaint</a></li><li><a href="help.asp?class=15">Privacy Policy</a></li><li><a href="help.asp?class=16">Terms &amp; Conditions</a></li>
+                    </div>
+					
+                </div>
+                <div style="float: right; width: 720px; line-height: 20px;margin-right:10px;">
+                    <div style="width: 700px; line-height: 20px; border: 1px solid #a50000; padding:10px; min-height:600px; margin-bottom:15px; background:">
+                        <div class="abouttd">
+                            Privacy Policy
+                        </div>
+                        <div style="text-align:justify;">
+                            <h4>CLM.NET collects or may collect the following; </h4>
+<div>Contact Information which must include an email address where we can contact you. It may also include your name, mobile phone number, other phone numbers or address details. This information is collected as part of the member registration process and is provided by you. You can update it at any time.</div>
+<div><strong>Profile Information </strong>such as age, gender, nationality, interests, marital status, location etc. Please look at any profile on the CLM.NET site to see the full range of information collected. This information is collected as part of the member registration process, and is provided by you. You can update it at any time. </div>
+<div><b>Communications</b> (by email or other means, which pass through the CLM.NET systems) between yourself and other members or employees of CLM.NET. </div>
+<div><b>Personal Information</b> provided voluntarily by you. This could be in response to surveys, contests or online activities. </div>
+<div><b>Emailed Comments</b> and/or opinions of other members or site visitors about you. These may include testimonials, complaints and general member feedback. </div>
+<div><b>Private Notes</b> about you whereby another member may add you to his or her list of favourites and make notes there to help him / her remember his / her communication with you. These notes are only ever visible to that individual member. CLM.NET does not monitor or look at these notes in ordinary circumstances. </div>
+<div><b>Unidentifiable information</b>, such as your IP address, browser type, pages visited etc. None of this information identifies you personally. </div>
+<div><b>Changes to Policy: </b>CLM.NET may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to CLM.NET operations. All personal information held by CLM.NET will be governed by its most recent policy, posted on CLM.NET. </div>
+<h3>Use of the information CLM.NET collects about you.</h3>
+<h3>CLM.NET generally uses personal information to:</h3>
+<div>1. Provide you with products or services you have requested </div>
+<div>2. Personalize and customize your experiences on CLM.NET </div>
+<div>3. Post profile information on the CLM.NET website that is used to promote you to our other members. As such, it may be viewed by individuals anywhere in the world</div>
+<div>4. Manage and enhance CLM.NET services </div>
+<div>5. Communicate with you (including forwarding messages from other members) </div>
+<div>6. Provide you with ongoing information about opportunities on CLM.NET in which CLM.NET believes you may be interested </div>
+<div>7. Give you the opportunity from time to time to receive e-mail and 'e-newsletters' from CLM.NET </div>
+<div>8. Communications with other members are passed on to those members automatically. They are also stored for a limited period so that they can also be accessed via the CLM.NET website by either party </div>
+<div>9. Other personal information provided voluntarily by you is used to better understand our members and to help us improve and promote our services </div>
+<div>10. Testimonials are posted on our website and included in emails to members to help promote our services. CLM.NET assumes that both partners mentioned in a testimonial are happy for the testimonial to be used in this way</div>
+<div>11. Complaints are investigated as appropriate. The fact of the complaint may be recorded and details stored in case of future complaints against the same member </div>
+<div>12. Other members' private notes about you are used there to help him / her remember his / her communication with you. These notes are only ever visible to that individual member. CLM.NET does not monitor or look at these notes under ordinary circumstances </div>
+<div>13. Non-personally identifiable information is aggregated and used to help us improve our service and infrastructure. CLM.NET may also provide your information to:</div>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+<div>a. Third parties engaged by CLM.NET to perform functions on its behalf, such as processing credit card information, mail outs, debt collection, marketing, research and advertising </div>
+<div>b. Third parties authorized by you to receive information held by CLM.NET </div>
+<div>c. Other third parties, as required by law </div></blockquote>
+<h3>CLM.NET storage and security of personal information:</h3>
+<div>1. All information is stored on the CLM.NET systems. Safeguards including physical, technical (firewalls, SSL encryptions etc) and procedural methods are used to protect this data. </div>
+<div>2. You can update your contact and profile information at any time by logging onto CLM.NET website and following the appropriate links. </div>
+<div>3. Communications with other members are deleted from our systems on a regular basis. </div>
+<div>4. Other personal information provided voluntarily by you in response to surveys, competitions etc is deleted on a regular basis as soon as possible after the end of the event. </div>
+<div>5. Testimonials, complaints and other feedback are stored indefinitely. </div>
+<h3>Accessing personal information CLM.NET holds about you:</h3>
+<div>1. You can access all the contact and profile information we hold about you at any time, simply by logging on to the CLM.NET site. If you have forgotten your login details, <a href="/getpassword.asp"><strong>click here</strong></a> to have your password sent to you. </div>
+<div>2. If you would like to know what other information we hold about you, please contact us by email at <u><a href="mailto:service@chinalovematch.net">service@chinalovematch.net</a></u>.&nbsp; Please include your CLM.NET username and tell us the email address on your CLM.NET account</div>
+<h3>In case of a question, problem or complaint about our use of your personal information</h3>
+<div>Please contact us in any of the following ways by email at <u><a href="mailto:service@chinalovematch.net">service@chinalovematch.net</a></u>.&nbsp; Please include your CLM.NET username and the email address on your CLM.NET account. </div>
+<h3>CLM.NET 'cookie' policy</h3>
+<div>As a default, we use a feature of your browser called a 'cookie' to assign a user ID. A cookie is a small piece of data that is sent to your browser from the site you are visiting and stored on your computer's hard drive. Cookies are very common and completely normal throughout the Internet. Cookies do not harm your computer nor can they access information stored on your computer. The primary purpose of cookies is to maintain your customized settings on a site. Members that do not accept cookies will be able to log on to the site, but profile identifying information will appear in browser URLs and may compromise account security. </div>
+<h3>Balancing Members’ Privacy Needs and Rights:</h3>
+<div>1. Please note that as a general policy, CLM.NET does not review the content of private e-mail messages or screen the Profiles posted by CLM.NET members (although it may periodically review the information posted in the public areas of the service) and accepts no responsibility for resolving disputes between members. </div>
+<div>2. CLM.NET receives communications from members concerning other members. These may be testimonials, complaints or general information. CLM.NET aims to be as open as possible with all its members, without compromising the privacy of any individuals. </div>
+<div>3. If you complain about another member, we may advise that member that a complaint about him / her has been received. However, we will not tell the member who made the complaint without your express permission. Further, if we suspect that the member would be able to identify who made the complaint, we will not advise that a complaint has been made unless we have your express permission. </div>
+<div>4. When a complaint about a member is received, no action will be taken unless the complaint is substantiated by evidence. However, a record of the complaint may be made and included in the data held about that member. </div>
+<div>5. Communications between two members will be released to either member on request. They will not be released to third parties. </div>
+<div>6. If another member has written 'private notes' about you, CLM.NET considers that those notes were written for that member's use only, and to display them to others would be a violation of that member's privacy. Those notes will not as a rule be released to you, even if you request all information held by CLM.NET about you. </div>
+<h3>&nbsp;CLM.NET staff use of and access to information;</h3>
+<div>CLM.NET employees and contractors may also be members of the site, and their employment may give them access to information not generally available to other members of CLM.NET or the general public.</div>
+<div><strong>The following code governs the behaviour of CLM.NET employees and contractors:</strong></div>
+<div>1. They will not use personal contact information or other personal information held by CLM.NET for any purpose other than the performance of their jobs and/or contracts. </div>
+<div>2. They may not post profiles, and under no circumstances may they contact CLM.NET Members except for the express purpose of performing their employment and/or contract duties.</div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+    
+<table valign="top" width="960px" align="center" style="background-color: #ffffff;" cellpadding="5px" class="about12">
+    <tbody><tr>
+        <td>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=51">
+                
+                <img title="MrBadArt" src="../sphoto/200742412181310367.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=44">
+                
+                <img title="Diesel1973" src="../sphoto/20074246441178246.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=140">
+                
+                <img title="RAUL" src="../sphoto/20078239595183474.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=53">
+                
+                <img title="thatsmypillow" src="../sphoto/20074241624353159.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=349">
+                
+                <img title="ascotsprings" src="../sphoto/20079211144973499.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+        <td align="center">
+            <a href="../display.asp?id=385">
+                
+                <img title="Andy_084865" src="../sphoto/20079242355673499.jpg" width="130" height="130" border="0">
+            </a>
+        </td>
+        
+                    <td align="center">
+                    <a href="/searchs.asp"><img src="/images/more.gif"></a>
+                    </td>
+    </tr>
+</tbody></table>
+<table style="background: #FFFFFF; border: 1px #a50000 dashed; width: 960px;" align="center">
+    <tbody><tr>
+        <td width="230">
+            <img src="/images/copyright.gif" alt=""></td>
+        <td class="bottomlink" align="left">
+            <a href="/help.asp?class=13">About Us</a> <a href="/help.asp?class=19">Contact Us</a> <a href="/searchs.asp">
+                Search</a> <a href="/magazineclass.asp">eMagazine</a> <a href="/help.asp?class=16">Terms
+                    &amp; Conditions</a> <a href="/gift.asp">Flowers &amp; Gifts</a> <a href="/reg.asp">Join Now</a>
+            <a href="/login.asp">Login</a>
+        </td>
+        <td>
+            
+            <div style="text-align: right;">
+                <label title="46.875">
+                    &nbsp;&nbsp;&nbsp;&nbsp;</label>
+            </div>
+        </td>
+    </tr>
+</tbody></table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2929402-1";
+urchinTracker();
+</script>
+
+
+</body></html>
