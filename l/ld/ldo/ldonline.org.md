@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609125436id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210164444id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
 
 # LD OnLine :: Privacy Policy
 
