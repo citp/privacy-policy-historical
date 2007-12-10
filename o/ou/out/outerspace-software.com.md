@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604121714id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234038id_/http%3A//outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
 # Outerspace Software: Realtime 3D Video Titling and VJ Effects - Privacy Policy
 
@@ -10,7 +10,7 @@ Anonymous data is collected automatically about site visitors, indicating their 
 
 ### Cookies
 
-Cookies are used by our our affiliation partners to store their affiliation ID.
+Cookies are used by our online gallery to store your login information. Cookies are also used by our our affiliation partners to store their affiliation ID.
 
 ### Personal information
 
@@ -20,9 +20,13 @@ When you buy a product we need to collect payment and shipping information from 
 
 Secure credit card orders are handled by our online credit card processing partner Share-It! Please contact [Share-It!](http://www.shareit.com/) for their privacy policy. Note that Share-It! does NOT transfer your credit card information to us, they only inform us that the credit card charge has been authorized.
 
+### Online activation
+
+Our products require online activation. No other information than your license keys are sent to our server during online activation.
+
 ### Mailing list
 
-We use the "confirmed opt-in" method for collecting e-mail addresses for our mailing list. This means you'll have to respond to an e-mail that the mailing host will send you. We do this to make sure you can't be subscribed without your permission, protecting you against spam. Your e-mail address will only be used for our mailing list and will not be given or sold to any third party.
+We use the _confirmed opt-in_ method for collecting e-mail addresses for our mailing list. This means you'll have to respond to an e-mail that the mailing host will send you. We do this to make sure you can't be subscribed without your permission, protecting you against spam. Your e-mail address will only be used for our mailing list and will not be given or sold to any third party.
 
 ### Malicious components
 
