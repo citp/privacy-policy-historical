@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623174204id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160908id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
 
 # Pinnacle Shopping Cart Software - PINNACLE SHOPPING CART SOFTWARE SERVICE & LICENSE AGREEMENT
 
