@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mingleville.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/p-privacy_info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingleville.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/p-privacy_info.html) for the most accurate reproduction.*
 
 # MingleVille.com :: Privacy Policy
 
-[](https://web.archive.org/x_home.html) | | Population: | 98,881  
+[](https://web.archive.org/x_home.html) | | Population: | 109,773  
 ---|---  
-Members Online: | 181  
-Guests Online: | 803  
+Members Online: | 235  
+Guests Online: | 1,694  
   
 | 
 
 MingleVille's Privacy Policy  
-» Here is our privacy policy. If you have any questions regarding your privacy, please [Contact Us](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/section-contactus_help.html).  
+» Here is our privacy policy. If you have any questions regarding your privacy, please [Contact Us](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/section-contactus_help.html).  
   
 ---|---  
   
@@ -28,22 +28,22 @@ For identification purposes we will require the following personal information f
 \- Your country as it is an important element for your account's profile  
 
 
-By default, your e-mail address will be hidden from other users but you may choose to display or hide it in your [Privacy Settings](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html).
+By default, your e-mail address will be hidden from other users but you may choose to display or hide it in your [Privacy Settings](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html).
 
 If you disclose your real name and what town or city you live in, these will be visible on your profile. Your gender and country will be visible and cannot be hidden.
 
 Published Information  
-Any information you post, disclose or upload on your profile is visible to the public. To limit your audience you may change your [Privacy Settings](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html) to prevent guests (users who have not logged in on MingleVille) from viewing any part of your profile. For those who are logged into MingleVille, you may specify a certain age range who can view your profile pages.
+Any information you post, disclose or upload on your profile is visible to the public. To limit your audience you may change your [Privacy Settings](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/do-settings.cmd-ps_myaccount.html) to prevent guests (users who have not logged in on MingleVille) from viewing any part of your profile. For those who are logged into MingleVille, you may specify a certain age range who can view your profile pages.
 
 You should exercise caution when deciding what personal information you wish to be publicly viewable. Anybody can download your pictures or videos from your profile. MingleVille will not be held responsible for any misuse of your personal information, pictures or videos by another person.
 
 Cookies  
 MingleVille uses cookies to keep track of your session. Your settings should allow cookies to be set or you may experience problems with keeping logged in on our site.
 
-When logging in, you may tick the checkbox to automatically log you in every time you visit our site. This will create a cookie which will store some of your account data to allow you to login automatically. This feature should not be used on a shared computer. Simply [Logout](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/x_logout.html) to clear this cookie and prevent being logged in automatically.
+When logging in, you may tick the checkbox to automatically log you in every time you visit our site. This will create a cookie which will store some of your account data to allow you to login automatically. This feature should not be used on a shared computer. Simply [Logout](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/x_logout.html) to clear this cookie and prevent being logged in automatically.
 
 3rdparty Content  
 MingleVille is not responsible for the content or practices of any other websites which may link to through advertisements or links members have posted.
 
 Contact Us  
-You may contact us at any time. Please go to our [Contact Us](https://web.archive.org/web/20070526014422id_/http%3A//www.mingleville.com/section-contactus_help.html) page to see what current contact methods we have available. 
+You may contact us at any time. Please go to our [Contact Us](https://web.archive.org/web/20071210112421id_/http%3A//www.mingleville.com/section-contactus_help.html) page to see what current contact methods we have available. 
