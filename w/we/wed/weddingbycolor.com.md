@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2007-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070211004915id_/http%3A//www.weddingbycolor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210233305id_/http%3A//www.weddingbycolor.com/privacy) for the most accurate reproduction.*
 
 # Wedding By Color- Bride's Online Scrapbook. Share Your Wedding Story
 
-[](https://web.archive.org/) |   
----|---  
-  
 Thank you for using WeddingByColor.com.
 
 WeddingByColor.com is an online community that allow users (brides) to share their wedding and connect with each other.
