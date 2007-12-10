@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the badgirlpotd.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613234304id_/http%3A//www.badgirlbucks.com/membersprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgirlpotd.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090809id_/http%3A//www.badgirlbucks.com/membersprivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Privacy Policy Statement
 
-This website (the "Site") is owned by Synister, Inc 
+This website (the "Site") is owned by Deepak Agarwal 
 
-We can be reached via e-mail at [support@badgirlbucks.com](mailto:support@badgirlbucks.com)
+We can be reached via e-mail at [support@badgirlfans.com](mailto:support@badgirlfans.com)
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -58,15 +58,15 @@ There may be occasions when a subscriber will be presented with special offers e
 
 **_"OPT-OUT" Revocation Procedure._**
 
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@badgirlbucks.com](mailto:support@badgirlbucks.com), clearly stating that the subscriber has revoked consent to receive any future Offers. 
+The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [support@badgirlfans.com](mailto:support@badgirlfans.com), clearly stating that the subscriber has revoked consent to receive any future Offers. 
 
 **_Data Controller._**
 
-The Data Controller for all personal information collected about subscribers of the site is: Lucina, and can be reached by e-mail at [support@badgirlbucks.com](mailto:support@badgirlbucks.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
+The Data Controller for all personal information collected about subscribers of the site is: Lucina, and can be reached by e-mail at [support@badgirlfans.com](mailto:support@badgirlfans.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
 
 **_Review of Personal Information by Subscriber/Means of Challenging Data._**
 
-A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at [support@badgirlbucks.com](mailto:support@badgirlbucks.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
+A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at [support@badgirlfans.com](mailto:support@badgirlfans.com), clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
 
 The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
 
