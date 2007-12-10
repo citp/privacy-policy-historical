@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628233141id_/http%3A//www.politics.ie/portal.php%3Fpage%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225036id_/http%3A//www.politics.ie/portal.php%3Fpage%3D12) for the most accurate reproduction.*
 
 # Politics news, Irish politics, Ireland politics, Irish political news, party politics - politics.ie :: Politics.ie
 
