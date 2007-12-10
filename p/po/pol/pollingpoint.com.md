@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628093829id_/http%3A//www.pollingpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210033551id_/http%3A//www.pollingpoint.com/privacy) for the most accurate reproduction.*
 
 # PollingPoint | A Nationwide Network of Millions of People Inspiring Public Debate
 
@@ -81,7 +81,8 @@ Panelists may discontinue participation with PollingPoint at any time by e-maili
 
 You may contact PollingPoint via Polimetrix at:
 
-364 University Avenue  
+285 Hamilton Avenue  
+Suite 200  
 Palo Alto, CA 94301
 
   
