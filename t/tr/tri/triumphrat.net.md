@@ -1,68 +1,44 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415030300id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210113548id_/http%3A//www.triumphrat.net/faq.php%3Ffaq%3Dprivacy%23faq_tratprivacy) for the most accurate reproduction.*
 
-# TriumphRat.Net :: Triumph Motorcycles, RAT Discussions, Triumph Web Links, Motorcycle News, Events, Triumph FAQ
+# TriumphRat.Net - FAQ: TriumphRat.Net Privacy Statement
 
-Privacy Statement for TriumphRat.Net
+The following discloses the information gathering and dissemination practices for TriumphRat.Net: 
 
-**TriumphRat.Net** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ TriumphRat.Net ](http://www.triumphrat.net/)
+**Information Automatically Logged**  
+We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and/or Service Provider you are using. Your IP address is also used to gather broad demographic information, and for other purposes. 
 
-Information Automatically Logged 
+TriumphRat.Net collects your email address to generate and validate your user profile. Birth dates are collected to validate minimum age requirements. 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and/or Service Provider you are using. Your IP address is also used to gather broad demographic information, and for other purposes.
+TriumphRat.Net tracks Browser Version, OS Version, Screen Resolution, Items clicked on, Search Engine Used, Search Engine words used to find TriumphRat.Net, and other types of general information. 
 
-In addition, TriumphRat.Net can track Browser Version, OS Version, Screen Resolution, Items clicked on, Search Engine Used, Search Engine words used to find TriumphRat.Net, and other types of general information. TriumphRat.Net does not pull your email address.
+**Cookies**  
+TriumphRat.Net uses cookies to keep track of your visits, and to make sure you don't see the same banner ad repeatedly. We also use cookies to deliver content specific to your interests, automate preferences, simplify login procedures, and for other purposes. 
 
-Cookies
+**Advertisers**  
+TriumphRat.Net is supported through several Sponsor / Advertiser relationships. Ads are served through infrastructure provided by TriumphRat.Net's Administrator, as well as through partner Ad Networks. Advertisers who are supported on the in-house infrastructure are provided weekly reports with impressions and click-through statistics. Partner-supported networks maintain their own infrastructure, TriumphRat.Net receives reports on Impressions and Click-Throughs. No personal information is shared. 
 
-TriumphRat.Net uses cookies to keep track of your visits, and to make sure you don't see the same banner ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+**Registration Forms**  
+Our site's registration form requires users to give us minimum contact information (name, email, and user name). Optional information is provided at the user's discretion. 
 
-Advertisers
+Contact information from the registration forms is used to for community purposes only. Whatever information our users choose to share is considered public information. We do not share user profile information with any third party. 
 
-When use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+**Surveys**  
+Online Surveys do not collect user information. If a user chooses to comment on a survey, it is considered public information. 
 
-Registration Forms
+**External Links**  
+This site contains links to other sites. TriumphRat.Net is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site's registration form requires users to give us some contact information (like their name, email, and user id), and other optional information (like street address). 
+**Public Forums**  
+TriumphRat.Net makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-Contact information from the registration forms is used to for community purposes only. Whatever information our users choose to share is considered public information. We do not gather complete user information on **TriumphRat.Net**.
+**Security**  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. However, TriumphRat.Net will not be responsible for the information input or posted on TriumphRat.Net by any visitor or member. 
 
-Surveys
+**Usage by Children under the age of 13**  
+TriumphRat.Net is considered useful for individuals over the age of 13, and does not encourage users under that age to register and utilize this site. 
 
-Our online surveys do not collect user information. If a user chooses to comment on a survey, it is considered public information. 
+**Data Quality/Access**  
+This site gives users the following options for changing and modifying information previously provided. Registered Users can access previously provided information through the [**User Control Panel**](http://www.triumphrat.net/usercp.php) and modify the profile information. 
 
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-External Links
-
-This site contains links to other sites. **TriumphRat.Net** is not responsible for the privacy practices or the content of such Web sites. 
-
-Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. However, TriumphRat.Net will not be responsible for the information input or posted on TriumphRat.Net by any visitor or member.
-
-Children's Guidelines
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
-  2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent 
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
-    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes. 
-    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. 
-    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity. 
-  4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service. 
-  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
-  6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. 
-  7. We will NOT provide any links to Web sites that are unsuitable for children. 
-  8. We will encourage children to get their parent's permission before sharing personal information online. 
-
-
-
-Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[ webmaster@TriumphRat.Net](mailto:webmaster@triumphrat.net)
+**Contacting Us**  
+If you have any questions about this privacy statement, please [Click On This Link to Contact The Webmaster](http://www.triumphrat.net/sendmessage.php). 
