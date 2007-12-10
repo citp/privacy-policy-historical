@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420134316id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155931id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20070420134316id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20070420134316id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20070420134316id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20071210155931id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20071210155931id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20071210155931id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
@@ -46,6 +46,6 @@ The information required for the completion of IP Australia's electronic filing 
 
 
   
-© Commonwealth of Australia, 2006  
+© Commonwealth of Australia, 2007  
 [Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
 [Disclaimer](https://web.archive.org/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/about/site_privacy.shtml) | [About this Site](https://web.archive.org/about/site.shtml) | [IP Media Centre](https://web.archive.org/media/index.htm)
