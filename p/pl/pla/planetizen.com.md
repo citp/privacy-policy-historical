@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626220256id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235839id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planetizen
 
-3 September 2005 - 12:20pm 
+3 September 2005 - 11:20am 
 
 We respect your privacy. All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Planetizen will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please do not hesitate to let us know.
 
