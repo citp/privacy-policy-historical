@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624063451id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslbase.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210102955id_/http%3A//www.eslbase.com/privacy) for the most accurate reproduction.*
 
 # eslbase.com - Privacy policy
 
@@ -16,7 +16,7 @@ The purpose of this statement is to explain to you what personal information we 
 
 **4** We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with the UK data protection legislation.
 
-**5** We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by clicking [here](https://web.archive.org/web/20070624063451id_/http%3A//www.eslbase.com/login.asp) to sign in to your account, and then following the link to your homepage..
+**5** We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by clicking [here](https://web.archive.org/web/20071210102955id_/http%3A//www.eslbase.com/login.asp) to sign in to your account, and then following the link to your homepage..
 
 **6** If you add your name to any list on eslbase.com, or if you post your resume, the information you provide will be available for other members to see. They will be able to email you at the email address you provide at registration, but your email address will not be disclosed to them unless you choose to reply to their email.
 
