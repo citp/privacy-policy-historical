@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623192128id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210123956id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
 
 # MetroGuide Privacy Policy
 
