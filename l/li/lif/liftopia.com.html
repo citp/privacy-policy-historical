@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liftopia.com privacy policy that was archived on 2007-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070324154103id_/http%3A//www.liftopia.com/document.php%3FId%3D80) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liftopia.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210212746id_/http%3A//liftopia.com/privacy-statement.page) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     
@@ -13,6 +13,7 @@
 	<meta name="revisit-after" content="10 days">
 	<meta name="copyright" content="Liftopia">
 	
+    <link rel="stylesheet" type="text/css" href="./skins/customer/styles/calendar-blue.css">
     <link rel="stylesheet" type="text/css" href="./skins/customer/styles/liftopia.css">
     <link rel="stylesheet" type="text/css" media="print" href="./skins/customer/styles/print.css">
     <script src="./skins/customer/scripts/search.js" type="text/javascript"></script>
@@ -20,12 +21,14 @@
     <script src="./skins/customer/scripts/email_validation.js" type="text/javascript"></script>
     <script src="./skins/customer/scripts/toggle.js" type="text/javascript"></script>
 
-    <link rel="stylesheet" type="text/css" href="./skins/customer/styles/calendar-blue.css">
     <script type="text/javascript" src="./skins/customer/scripts/calendar.js"></script>
     <script type="text/javascript" src="./skins/customer/scripts/calendar-en.js"></script>
     <script type="text/javascript" src="./skins/customer/scripts/calendar-setup.js"></script>
 
-    
+    <link rel="stylesheet" type="text/css" href="./skins/customer/styles/clearfix.css">
+
+            <link rel="stylesheet" type="text/css" href="./skins/customer/styles/level2.css">
+	
         
         
 </head>
@@ -36,27 +39,27 @@
     <div id="banner">
     	<div style="height:114px;width:210px;cursor:pointer;cursor:hand" onclick="self.location='./'">&nbsp;</div>
     </div>
-    
+
     <div id="topnav">
-        <ul id="topnavlist">
-        <li><a href="document.php?Id=6" class="topmenu">FAQs</a></li>
-        <li><a href="document.php?Id=5" class="topmenu">Contact Us</a></li>
-                    <li><a href="my_account.php" class="topmenu">My Account</a></li>
-                <li><a href="./" class="topmenu">Home</a></li>
-        </ul>
+        <span id="topnavlist">
+        <span><a href="contact.page" class="topmenu">Contact Us</a></span> | 
+        <span><a href="faq.page" class="topmenu">Lift Ticket Help</a></span> | 
+                    <span><a href="my_account.php" class="topmenu">My Account</a></span>
+                </span>
     </div>
     
-    <div id="panes">
+    <div id="panes" class="clearfix">
 
 
 
 <div id="liftopiaLogo"><img src="./skins/customer/images/liftopia_logo.gif"></div>
-
+				 
+		
         <div id="leftpane">
         
             <div id="leftsearch">
             
-                                
+                					                
                     <p class="header1">Search</p>
                    
                     <div id="modifySearch">
@@ -64,14 +67,14 @@
 						<table>
 							<tbody><tr><td><b>Vacation Start Date:</b><br></td></tr>
 							<tr><td>
-                            <input class="input" name="StartDate" type="text" value="03/31/2007" size="11" id="StartDate">
+                            <input class="input" name="StartDate" type="text" value="12/17/2007" size="11" id="StartDate">
                             <a href="#" name="anchor_StartDate" id="anchor_StartDate"><img src="./skins/customer/images/datepicker.gif" class="icon" alt="Select Date"></a>
 							</td></tr>
                         </tbody></table>
                         
                         <table>
                         <tbody><tr><td><b>How Many Days?</b></td></tr>
-                        <tr><td><select name="NumberOfDays">
+                        <tr><td><select name="NumberOfDays" class="input">
 <option label="1" value="1" selected="selected">1</option>
 <option label="2" value="2">2</option>
 <option label="3" value="3">3</option>
@@ -83,7 +86,8 @@
 </select>
 </td></tr>
                         <tr><td><b>How Many Adults?</b></td></tr>
-                        <tr><td><select name="NumberAdult">
+                        <tr><td><select name="NumberAdult" class="input">
+<option label="0" value="0">0</option>
 <option label="1" value="1" selected="selected">1</option>
 <option label="2" value="2">2</option>
 <option label="3" value="3">3</option>
@@ -95,7 +99,7 @@
 </select>
 </td></tr>
                         <tr><td><b>How Many Children?</b></td></tr>
-                        <tr><td><select name="NumberChild">
+                        <tr><td><select name="NumberChild" class="input">
 <option label="0" value="0" selected="selected">0</option>
 <option label="1" value="1">1</option>
 <option label="2" value="2">2</option>
@@ -110,7 +114,8 @@
                         </tbody></table>
                         
                         <p>
-                            <input type="hidden" name="ResortId" value="0">
+                            <input type="hidden" name="ResortGroup" value="">
+                            <!-- <input type="hidden" name="ResortId" value="0" /> -->
                             <input type="hidden" name="RegionCatId" value="X_0">
                             <input type="image" src="./skins/customer/images/bttn_search_sm.gif" alt="Search">
                         </p>
@@ -128,8 +133,9 @@
 					<script src="https://www.liftopia.com/ads/index.php?section=serve&amp;id=38&amp;output=js"></script>
 				</div>
 						
+				<div class="shim" style="height: 200px; width: 50px;"></div>
             </div>
-            
+
             
         </div>
 
@@ -138,7 +144,12 @@
 
 <h1 class="header1">Privacy Statement</h1>
 
-<p></p><p><font size="1"><strong><span style="font-size: 10pt; font-family: Arial;">Privacy Policy</span></strong><span style="font-size: 10pt; font-family: Arial;"> <br>
+<p></p><div style="float: right;"><a href="http://www.truste.org/ivalidate.php?url=www.liftopia.com&amp;sealid=101 "><img border="0" src="/truste/clickseal.gif" alt="TrustE Verify Mark"></a></div>
+<p><font size="1"><strong><span style="font-size: 10pt; font-family: Arial;"><br>
+</span></strong></font></p>
+<p><font size="1"><strong><span style="font-size: 10pt; font-family: Arial;"><br>
+</span></strong></font></p>
+<p><font size="1"><strong><span style="font-size: 10pt; font-family: Arial;">Privacy Policy</span></strong><span style="font-size: 10pt; font-family: Arial;"> <br>
 We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our Site. This privacy statement discloses the privacy practices for www.liftopia.com. <br>
 <br>
 Liftopia does not share, rent, sell or trade Personally Identifiable Information with third parties for their promotional use. Your trust and confidence are our highest priority. For questions or concerns regarding our privacy policy, please contact Liftopia at (888) 205-1764. <br>
@@ -197,7 +208,11 @@ In the event that Liftopia or substantially all of Liftopia's assets are acquire
 <strong>Notification of Changes</strong> <br>
 If we intend to use any personally identifiable information in a manner different than what is stated at the time of data collection, we will notify you via e-mail and give you the opportunity to opt-out. In addition, if we make any material changes in our privacy practices, we will post a notice on our Site advising users of the change. <o:p></o:p></span></font></p>
 <font size="2"><span style="font-weight: bold;">Opt Out Opportunity</span></font><br style="font-weight: bold;"><span class="EmailStyle15"><span style="font-size: 10pt; font-family: Arial;">We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.<span style="">&nbsp; </span></span></span><span class="EmailStyle15"><span style="font-size: 10pt; font-family: Arial;">If you no longer wish to receive promotional or marketing communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at info@liftopia.com.&nbsp; You may also opt out by contacting us at </span></span>(888) 205-1764.
-<p><font size="1"><span style="font-size: 10pt; font-family: Arial;"> <strong>Contact Us </strong><b><br>
+<p>  </p>
+<p><strong><span style="font-size: 10pt; font-family: Arial; color: black;">TRUSTe Program</span></strong><span style="font-size: 10pt; font-family: Arial; color: black;"> <br>
+Liftopia, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site <a href="../../../../../">www.liftopia.com</a>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. </span></p>
+<p><span style="font-size: 10pt; font-family: Arial; color: black;">If you have questions or concerns regarding this statement, you should first contact Ron Schneidermann at <a href="mailto://support@liftopia.com/">support@liftopia.com</a>. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with us to resolve your concerns.</span><strong><span style="font-size: 10pt; font-family: Arial;"><o:p></o:p></span></strong></p>
+<p><font size="1"><span style="font-size: 10pt; font-family: Arial;"><strong>Contact Us </strong><b><br>
 </b>If you have questions or concerns regarding your privacy or security on our Site, feel free to contact us by e-mail, phone or postal mail. Our customer care associates are available to answer your questions or address your concerns. <br>
 <br>
 <strong>E-mail:</strong> <a href="mailto:info@liftopia.com">info@liftopia.com</a> <br>
@@ -211,27 +226,35 @@ U.S.A.      <o:p></o:p></span></font></p><p></p>
         </div> <!-- centerpane -->
     </div> <!-- panes -->
 
-    <div id="bottomnav">
-        <ul id="bottomnavlist">
-        <li><a id="about" href="document.php?Id=1">About Liftopia</a></li>
-        <li><a id="press" href="document.php?Id=2">Press Room</a></li>
-        <li><a id="support" href="document.php?Id=3">Site Support</a></li>
-        <li><a id="photo" href="document.php?Id=4">Photo Gallery</a></li>
-        <li><a id="contact" href="document.php?Id=5">Contact Us</a></li>
-        </ul>
-    </div>
-    
-    <div id="footer">
-        <ul id="footerlist">
-        <li>Copyright 2007 Liftopia Inc.</li>
-        <li><a href="document.php?Id=7">Terms of Use</a></li>
-        <li><a href="document.php?Id=80">Privacy Statement</a></li>
-        <li><a href="document.php?Id=8">Site Map</a></li>
-        <li><a href="document.php?Id=9">Help/Site Support</a></li>
-                    <li><a href="logout.php" onclick="return confirm('Would you like to end your session?');">Log Off</a></li>
-                </ul>
-    </div>
+	<div id="ft">
+		<div id="bottomnav">
+			<ul id="bottomnavlist">
+			<li><a id="about" href="about.page">About Liftopia</a></li>
+			<li><a id="press" href="press.page">Press</a></li>
+			<li><a id="support" href="site-support.page">Lift Ticket Help</a></li>
+			<li><a href="faq.page">FAQ</a></li>	
+			<li><a href="http://classifieds.liftopia.com/">Buy/Sell Gear</a></li>
+			<li><a id="blog" href="http://www.gigasnow.com/" target="_blank">Blog</a></li>
+			<li><a href="http://thelodge.liftopia.com/kickapps/service/searchEverything.kickAction?keywords=&amp;as=5188&amp;st=&amp;tid=">The Lodge</a></li>
+			<!--li><a id="photo" href="photo-gallery.page">Photo Gallery</a></li>
+			<li><a id="contact" href="contact.page">Contact Us</a></li-->
+			</ul>
+		</div>
+	    
+		<div id="footer">
+			<div style="float:right;"><a href="privacy-statement.page"><img src="truste/truste_seal_web.gif" alt="TrustE Seal" border="0"></a></div>
 
+			<ul id="footerlist">
+			<li class="left">© 2007 Liftopia Inc.</li>
+			<li class="middle"><a href="terms-of-use.page">Terms of Use</a></li>
+			<li class="middle"><a href="privacy-statement.page">Privacy</a></li>
+			<li class="middle"><a href="site-map.page">Site Map</a></li>
+			<li class="middle"><a href="partner-with-liftopia.page">Join Our Resort Network</a></li>
+							<li class="middle"><a href="site-support.page">Lift Ticket Help</a></li>
+				<li class="right"><a href="logout.php" onclick="return confirm('Would you like to end your session?');">Log Off</a></li>
+						</ul>
+		</div>
+	</div>
 </div> <!-- main -->
 
 
@@ -581,6 +604,7 @@ dcsTag();
 
 
 
+	<script type="text/javascript" src="./skins/customer/scripts/avant_sfpc_10065.js"></script>
 
 
 </body></html>
