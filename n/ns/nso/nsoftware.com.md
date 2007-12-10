@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623072416id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143646id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # /n software inc. - Privacy Policy
 
@@ -36,7 +36,7 @@ If you choose to disable cookies on your computer browser, you may not be able t
 
 ### Third Party Services 
 
-/n software’s website contains links to other sites on the Internet.  We do not share your personal information with those sites, nor are we responsible for the content on their websites. 
+/n software's website contains links to other sites on the Internet.  We do not share your personal information with those sites, nor are we responsible for the content on their websites. 
 
 We may provide personal information to third-party service providers that aid us in the delivery of products and/or services.  /n software does not disclose information to any third-party that is not legally obligated to protect your personal information.  /n software does not sell your personal information collected online without your explicit consent. 
 
