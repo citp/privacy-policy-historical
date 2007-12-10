@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527194159id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210202310id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
-# Checks In The Mail - Personal Checks, Business Checks, Address Labels, Photo Checks.
+# Checks In The Mail - Personal Checks, Business Checks, Address Labels, Photo Products.
 
 ** Online Privacy Statement for  
 ****Checks In The Mail, Inc. **   
 **[http://www.citm.com](http://www.citm.com/)**
 
+Effective 10/30/2007   
 Checks In The Mail, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.citm.com. 
 
-**Checks In The Mail guarantees that it will not directly or through any affiliate, disclose to, sell, lease or rent to any nonaffiliated third party your e-mail address, physical address or non-public financial information, in any way whatsoever.  We understand and appreciate that your privacy is important to you. This is why we are taking this bold approach to ensuring that any information provided by you to Checks In the Mail remains confidential. We appreciate your patronage and look forward to maintaining your trust every time we do business together.**
+**Checks In The Mail guarantees that it will not directly disclose to, sell, lease or rent to any nonaffiliated third party your e-mail address, physical address or non-public financial information, in any way whatsoever.  We understand and appreciate that your privacy is important to you. This is why we are taking this bold approach to ensuring that any information provided by you to Checks In the Mail remains confidential. We appreciate your patronage and look forward to maintaining your trust every time we do business together.**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
@@ -88,4 +89,4 @@ Click the image below to view the certificate information provided at Verisign's
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Checks In The Mail, Inc. 2435 Goodwin Lane New Braunfels, TX 78135 Tel. 1-800-733-4443 [info@citm.com](mailto:info@citm.com) 
 
 
-Last Updated 2006.11.22
+Last Updated 2007.10.30
