@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420035506id_/http%3A//www.historynet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210160614id_/http%3A//www.historynet.com/privacy) for the most accurate reproduction.*
 
 # TheHistoryNet | Privacy Policy
 
@@ -6,16 +6,16 @@
   
   
   
-[](https://web.archive.org/magazines)  
+[](https://web.archive.org/magazines)[](http://www.historynet.com/magazines)  
   
 
 
-Do you believe today’s U.S. military personnel are receiving the level of healthcare they deserve? 
+Is history being given short shrift as a classroom subject? 
 
   
 [](https://web.archive.org/picture_of_the_day)
 
-| 
+v  | 
 
 Weider History Group Privacy Policy 
 
