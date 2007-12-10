@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622015403id_/http%3A//marmot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210084813id_/http%3A//marmot.com/privacy) for the most accurate reproduction.*
 
 # Marmot Mountian Privacy Policy | marmot.com
 
