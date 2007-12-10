@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626121642id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210070119id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
 
 # Factiva Privacy Policy
 
@@ -12,13 +12,13 @@ This page describes Factiva’s general commitment to privacy and specifically t
 
 Information gathered through this Web site
 
-In sections of this site, you have the chance to provide to us personal identifying information such as your name, e-mail address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
+In sections of this site, you have the chance to provide to us personal identifying information such as your name, email address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
 
 Factiva may also use your information collectively, such as to measure what area users visit most frequently and what information users access the most. We use this data anonymously in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. This aggregate information is never used so that individual users can be personally identified and it does not involve the transfer of any personal data we hold about you. 
 
 Marketing of other Factiva Services
 
-If you give us permission, we may use your personal information to make you aware of additional Factiva services that may be of interest to you. We may also ask you for other additional information, to be provided at your discretion, in an effort to deliver to you the best possible service experience. Factiva provides you with the opportunity to opt-in to these types of communications. If you choose to receive these types of communications at the time of registration, but later decide you no longer want to receive them, simply email us at [remove@factiva.com](mailto:remove@factiva.com) or contact us at the address below.
+If you give us permission, we may use your personal information to make you aware of additional Factiva services that may be of interest to you. We may also ask you for other additional information, to be provided at your discretion, in an effort to deliver to you the best possible service experience. Factiva provides you with the opportunity to opt-in to these types of communications. If you choose to receive these types of communications at the time of registration, but later decide you no longer want to receive them, simply email us at [remove@factiva.com](mailto:remove@factiva.com) or contact us at the address below. 
 
 Storage of your Personal Information by Factiva
 
@@ -26,7 +26,7 @@ The personal information that you provide to Factiva is held on our secure serve
 
 Updating Account Information
 
-You have the right to ask Factiva for a copy of the personal information that we hold about you. This information shall be provided on payment of an administration fee. To do this you can write to us at the appropriate address specified below. If you wish to update the personal information that we hold about you please contact us at the address set out below or through this website. 
+You have the right to ask Factiva for a copy of the personal information that we hold about you. This information shall be provided on payment of an administration fee. To do this you can write to us at the appropriate address specified below. If you wish to update the personal information that we hold about you please contact us at the address set out below or through this web site. 
 
 Cookies 
 
@@ -38,6 +38,12 @@ Factiva provides, within some services, various opportunities for you to submit 
 
 Privacy Commitment Changes 
 
-If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this web site or at the address below. 
+If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this website or at the address below. 
 
-_*Factiva is a trademark of Factiva, Inc._
+Who is Factiva?
+
+Factiva is an international group of companies and you should be aware that your data may be transferred to Factiva entities in countries outside your own. Not all such countries have personal data protection laws but Factiva imposes its privacy policy on all its group companies. 
+
+Users based in the United States will be supplying their personal information to Factiva, Inc. Users outside of these territories will be supplying their personal information to Factiva Limited of 6th Floor, Commodity Quay, East Smithfield, London E1 9UN. (Both companies trade as “Factiva”). 
+
+_*Factiva is a trademark of of Dow Jones & Company Inc. _
