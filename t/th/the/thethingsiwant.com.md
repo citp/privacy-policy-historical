@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethingsiwant.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618202909id_/http%3A//www.thethingsiwant.com/w3c/privacy.php4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethingsiwant.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210154849id_/http%3A//www.thethingsiwant.com/w3c/privacy.php4) for the most accurate reproduction.*
 
 # TheThingsIWant.com : Privacy Policy
 
