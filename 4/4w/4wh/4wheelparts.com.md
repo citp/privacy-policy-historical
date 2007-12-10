@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624124159id_/http%3A//www.4wheelparts.com/InfoT6.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210202710id_/http%3A//www.4wheelparts.com/InfoT6.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Your Personal Information Is Private
 
-4 Wheel Parts is serious about protecting our customers personal information. You can always browse our site without providing any personal information.
+4 Wheel Parts is serious about protecting our customers� personal information. You can always browse our site without providing any personal information.
 
 While doing business with you, we may have to gather certain information, such as your name, home address, vehicle and email address. We will not sell, rent, trade or give away individual, personally identifiable information entered on this site to any third party. We collect such information so that we can process orders, personalize your shopping experience, or send you the latest product and other useful material. If you do not wish to receive further material from 4 Wheel Parts, you can simply respond to our email or otherwise tell us that you do not want to receive future communications.
 
