@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629034745id_/http%3A//www.careerjet.co.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001330id_/http%3A//www.careerjet.co.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
