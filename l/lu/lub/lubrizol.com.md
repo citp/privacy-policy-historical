@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630174407id_/http%3A//www.lubrizol.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234935id_/http%3A//www.lubrizol.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - The Lubrizol Corporation
 
@@ -14,4 +14,4 @@ We intend to protect Personal Information that you provide to us. We want to mai
 
 This site may contain links to third party sites that Lubrizol does not own or maintain. Lubrizol is not responsible for the privacy practices or other aspects of those sites.
 
-Please see Lubrizol's [Terms of Use](https://web.archive.org/web/20070630174407id_/http%3A//www.lubrizol.com/TermsofUse.asp) for additional information about this site.
+Please see Lubrizol's [Terms of Use](https://web.archive.org/web/20071210234935id_/http%3A//www.lubrizol.com/TermsofUse.asp) for additional information about this site.
