@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamarathon.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404073001id_/http%3A//www.devinesports.com/Privacy_Statement.44.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamarathon.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210152253id_/http%3A//www.devinesports.com/Privacy_Statement.44.0.html) for the most accurate reproduction.*
 
 # Devine Sports: Privacy Statement
 
