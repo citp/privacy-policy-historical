@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204153223id_/http%3A//www.himalayadirect.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210183113id_/http%3A//www.himalayadirect.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy-Himalaya Herbals | UK & European Ayurvedic Organic Health Beauty Shop
+# 
 
 ### Information Collection and Use
 
-Himalaya Herbal Healthcare (Jersey) Limited, hereinafter referred to as Himalayaeurope.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Himalayaeurope.com collects information from our users at several different points on our website.
+Himalaya Herbal Healthcare (Jersey) Ltd., hereinafter referred to as Himalayadirect.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Himalayadirect.com collects information from our users at several different points on our website.
 
   
 
 
 ### Membership
 
-When you make a purchase on our site, you automatically become a member. You provide the following information to Himalayaeurope.com: 
+When you make a purchase on our site, you automatically become a member. You provide the following information to Himalayadirect.com:
 
-  * Your name 
-  * Your email address 
-  * Your billing and shipping address 
-  * Your telephone number 
-  * The type of credit card you are using if applicable 
-  * Your credit card number and expiration date, or other form of payment 
+  * Your name
+  * Your email address
+  * Your billing and shipping address
+  * Your telephone number
+  * The type of credit card you are using if applicable
+  * Your credit card number and expiration date, or other form of payment
 
   
 
