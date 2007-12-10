@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043218id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210181807id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy covers wholelattelove.com's treatment of personally identifiable information that we collect when you are on the wholelattelove.com site.
+This Privacy Policy covers wholelattelove.com’s treatment of personally identifiable information that we collect when you are on the wholelattelove.com site.
 
  **Information Collection & Use:**  
 Whole Latte Love collects personally identifiable information when you register for an account and when you use certain products or services. When you register with Whole Latte Love, we ask for your name, home address, e-mail address and credit information Whole Latte Love uses this information for two general purposes: to customize the advertising and content you see and to fulfill your requests for certain products and services.
