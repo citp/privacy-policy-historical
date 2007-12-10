@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617082322id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231701id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
-# Furniture XO - Get Your Furniture Online
+# Furniture XO
 
 **Your Personal Information**
 
