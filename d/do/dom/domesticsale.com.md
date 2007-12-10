@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623170034id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155424id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -44,23 +44,28 @@ Member area
 
 Testimonials
 
- **Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!"  
+"This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!!"
+
+"I was having a difficult time selling my pups...then I added them to Domesticsale.com. **Within 2 weeks they were sold**. I had over 300 hits! I'll come here first next time! Thanks so much!"   
+Mineral Wells, WV
+
+" **Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!"  
 Thanks again, Maryann Ward. Kemptville, Ontario, Canada
 
  **"Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!"  
-Rebecca , Gainesville FL 
+Rebecca , Gainesville FL
 
 I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
-Regards, Kerry *pinkbike* 
+Regards, Kerry *pinkbike*
 
 I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)"  
-ELENITA SCHNEIDER 
+ELENITA SCHNEIDER
 
-**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
-Perry Pono, Rhode Island 
+ **This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
+Perry Pono, Rhode Island
 
 This is a very nice site, I **sold my car** in few days!!!"   
-Thank You. Steve. 
+Thank You. Steve.
 
 Thank you very much! I sold **all my pups** in week. Remove my ad ASAP, please ..."   
 Sincerely, Jeff. 
