@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the axill.in privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517010307id_/http%3A//axill.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.in privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210170022id_/http%3A//www.axill.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Axill India
-
-##### Axill’s privacy policy
+# Advertiser Network | Affiliate Marketing Network | Publisher Network
 
   
 
