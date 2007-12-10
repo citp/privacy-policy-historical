@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427120628id_/http%3A//www.daytondailynews.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytondailynews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174010id_/http%3A//www.daytondailynews.com/c/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # DaytonDailyNews: Dayton, Ohio, news and information
 
@@ -10,8 +10,8 @@ DaytonDailyNews.com respects the privacy of visitors to our site. This Privacy P
 
 Ray Marcano  
 Dayton Daily News  
-45 South Ludlow St.  
-Dayton, Ohio 45402  
+1611 S. Main St.  
+Dayton, Ohio 45409  
 937-225-2323  
 [rmarcano@coxohio.com](mailto:rmarcano@coxohio.com)
 
