@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407152004id_/http%3A//www.danier.com/en_ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234532id_/http%3A//www.danier.com/eng/customerService/termsOfUsePrivacy.cfm%3F%26var%3Dd%26ckey%3DCA) for the most accurate reproduction.*
 
-# Danier Canada - Privacy & Security
+# Danier - Leave ordinary behind - leather and suede manufacturing and design.
+
+## Terms of Use/Privacy
 
 Thank you for choosing to shop at Danier Leather. Your privacy and security are important to us. For over 28 years, we have been dealing with customers like you in our stores and we pride ourselves on making the shopping experience enjoyable, safe and secure. All personal information and credit card information you share with us are handled with the highest security features and held in the strictest confidence. We will never divulge, sell, barter or share customer information without explicit prior consent from our customers and visitors.
 
@@ -14,7 +16,7 @@ Thank you for choosing to shop at Danier Leather. Your privacy and security are 
 
 At Danier respecting the privacy and the wishes of our customers is an important part of our everyday commitment to fulfill our Mission: “to Satisfy Our Customers’ Need to Feel Good About Themselves.” Below is our Privacy Protection Policy which spells out our responsibilities and commitments to the secure protection and responsible use of our customers’ personal information entrusted to us. 
 
-[The Danier Privacy Protection Policy](https://web.archive.org/web/20070407152004id_/http://www.danier.com/en_ca/privacy/protection.shtml)
+[The Danier Privacy Protection Policy](https://web.archive.org/web/20071210234532id_/http%3A//www.danier.com/eng/customerService/protection.shtml)
 
 ## Why Do We Need Your Personal Information?
 
@@ -30,10 +32,10 @@ You can also choose not to receive any other marketing communications from Danie
 
 OR
 
-Privacy Officer – Unsubscribe
-    Danier Leather
-    2650 St. Clair Ave. West
-    Toronto ON M6N 1M2
+Privacy Officer – Unsubscribe 
+    Danier Leather 
+    2650 St. Clair Ave. West 
+    Toronto ON M6N 1M2 
 
 ## A Word About Cookies
 
@@ -46,5 +48,3 @@ The Danier Web site may contain links to other sites. Please be aware that Danie
 ## Changes to the Privacy Policy
 
 We reserve the right to change our privacy policy at any time. Accordingly we recommend that you check this page periodically in order to review our current policies.
-
- 
