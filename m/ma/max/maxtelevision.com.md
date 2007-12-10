@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000745id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235836id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Setindia.com Entertainment E x t e n d e d
+# MAX Television
 
 **PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING THIS WEB SITE.**
 
@@ -49,6 +49,3 @@ SET reserves the right to change this policy at any time by notifying guests of 
 For those who are under 13 years old, please submit your personal information after taking your guardian's consent.
 
 Last Updated: May 31, 2004
-
-|    
----|---
