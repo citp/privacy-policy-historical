@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2007-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070407121457id_/http%3A//dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210143308id_/http%3A//www.dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DC Lottery - Privacy Policy
 
