@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629102023id_/http%3A//www.samplewords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231429id_/http%3A//www.samplewords.com/privacy.html) for the most accurate reproduction.*
 
-# Samplewords.com Privacy Policy
-
-Effective **01/01/2002**
-
-**Privacy Notice Table Of Contents:**  
-Our Commitment To Privacy   
-The Information We Collect   
-How We Use Information   
-Our Commitment To Data Security   
-Our Commitment To Children's Privacy   
-How To Contact Us
+# Search Results
 
 **Our Commitment To Privacy**
 
@@ -26,22 +16,12 @@ Email addresses
 Phone numbers  
 Credit/Debit Card Information 
 
-
-
-
-We also partner with external websites that may provide online services and may choose to collect information.  Information collected by other websites promoted on the Samplewords.com website is subject to the privacy policy of such websites.
+We also partner with external websites that may provide online services and may choose to collect information. Information collected by other websites promoted on the Samplewords.com website is subject to the privacy policy of such websites.
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.   
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 **Our Commitment To Data Security**
 
@@ -53,4 +33,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send an email to  [info@samplewords.com](mailto:info@samplewords.com)
+Should you have other questions or concerns about these privacy policies, [please click here to email us](mailto:info@samplewords.com)
