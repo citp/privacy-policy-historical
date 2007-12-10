@@ -1,149 +1,89 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090849id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Care.com
 
-#### Find Answers To Your Questions:
+**Last Updated: July 11, 2007**
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Care.com, Inc. ("Care.com") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. This privacy policy covers the service offered at the [Care.com](https://web.archive.org/) Website (the "Site") and outlines the type of information we collect, its uses, and steps we take to safeguard it.
 
-### Privacy Policy
+Care.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Care.com Website at [www.care.com](https://web.archive.org/). Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-**Why A Privacy Policy?**  
+If you have questions or concerns regarding this statement, you should first contact our Legal Dept. at [legal@care.com](mailto:legal@care.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+**Information We Collect**  
+Care.com is committed to helping match users who are seeking home or care services ("Care Seekers") to users who are providers of home or care services ("Care Providers"). Accordingly, we collect user submitted personally identifying information and other information specific to the services requested or provided. As part of providing you our services, we may obtain personal information from the following sources:
 
- **This Privacy Policy protects your privacy by:**
+  * Information you provide to us on forms that you enter on the Site or that you provide to us in writing.
+  * Information that you provide to us by telephone, such as when you contact our customer care department.
+  * Information we receive automatically when you visit our web site. Please see "Cookies and other Technical Data" below.
+  * Information from third parties, including verification services, payment processing services, and other online and offline sources. For example, this would include information we receive from a third-party verification service in response to a user requesting a background check on themselves. It would also include updated address or contact information that we might use to correct our records so that we can communicate with you more easily.
 
- **Informing you about:**
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
 
+The information we collect may include: first name, last name, city, state, address, ZIP code, phone, email address and other information specific to the service requested or provided. If you become a registered subscriber we may collect your credit card information and billing address. If you become a registered Care Provider, we may collect your date of birth, gender, company name (if applicable), and ZIP codes served. If you are a company or agency registering as a Care Provider, we may also collect information about the company including the tax id, the year established, and the number of employees. If you request a background check on yourself we may collect your Social Security Number. In addition, if you request a background check on yourself we may obtain criminal background information from a third-party verification service. Use of such a verification service is voluntary.
 
+We may also collect information about third-party references from Care Providers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Care Provider creates or updates their profile. This information is collected so that a Care Seeker or Care.com acting on behalf of a Care Seeker can contact the third-party reference to verify information provided by the Care Provider. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from Care.com, they can contact Care.com Member Care at membercare@care.com.
 
-**Empowering you to choose:**
+If you use our blog on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+We use the information we obtain to develop and deliver our services and to fulfill legal requirements. We limit the collection and use of customer information to the minimum we require to deliver superior service to our customers and to administer our business. 
 
+Providing your information is voluntary and you can always choose not to provide it by choosing not to use our Site, services, or features.
 
+**Cookies and Other Technical Data**  
+Our web servers also use "cookies". A cookie is a small text file that is stored on a user's computer. We use cookies to administer and customize our service and to better understand, on an aggregate basis, how users interact with our Site. If you choose to disable cookies, you may not be able to use certain features of the Site. For example, we require that you have cookies enabled to enroll in our service or to log in to your account. We do not store any personally identifiable information in cookies.
 
-**Assuring you that Network Solutions:**
+As is true of most web sites, when you visit our Site we gather certain information automatically and store it in log files. We gather technical information about your computer such as your IP address, operating system, browser type, pages visited, manner of connection to the Internet, and referring URL. We use this information in aggregate to analyze trends and administer our service. The information that we collect through log files is not tied to personally identifiable information.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+We and/or advertising affiliates may employ "tracking pixels" (also referred to as "web beacons") to count the number of users that visit a page on our Site that includes these tracking pixels. Tracking pixels are used to analyze the effectiveness of advertising campaigns and to better understand the way that users interact with our Site. These tracking pixels do not identify individual users and analysis of data obtained by these tracking pixels is performed on an aggregate basis.
 
+We also employ a third-party service provider to assist in tracking site usage. This service provider uses cookies and "tracking pixels" to collect information on our behalf about the pages you visit while on our site. This service allows us to better administer the site and our service. The data collected by this service provider does not identify individual users and the analysis of this data is performed on an aggregate basis.
 
+We may use third-party advertising companies, such as Performics Inc., to serve or track ads on our web site and other web sites. These companies may use non-personally identifiable information about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Performics, please [click here](http://performics.com/our_company_files/privacy.htm).
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+**Third Party Information Sharing**  
+The information collected by Care.com is used in the operation of the Site, including the sharing of certain Care Seeker information with prospective Care Providers and vice/versa. In addition, we may share your personal information with third parties that offer related products or services. However, we will only do so with your consent. 
 
-  
-**Third Party Advertising and Cookies**
+We do not share your personal information with other third parties except as permitted or required by law or as described within this privacy policy and including the following:
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+  * In order to provide our services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email, process background checks, host videos (if you decide to post one to your account), or process credit card payments. In addition, address information may be shared with a service provider to determine geographic information. These service providers have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding. We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of Care.com, our customers and others, including exchanging information for fraud protection and credit risk reduction.
+  * If there is a change of control in Care.com's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this statement, you will be notified by email and/or through a notice posted on our Site, and you will have a choice as to whether your existing information is used in a new manner.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+**Your Choices**  
+Care.com provides users the ability to opt-out of receiving email communications from us. If you wish to cease future communications, you can opt-out by using the link on the bottom of an email that you receive from Care.com or, if you are a registered member, by visiting the Profile section of your account.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Care.com reserves the right to send you specific administrative notices that are required by law, regulation, or as needed to service your account. Administrative notices also include notifications of new messages or job postings in your area and responses to jobs that you have posted. You may not opt-out of receiving these administrative emails.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Care Providers have the ability to suppress certain information, such as their phone number(s), from displaying to Care Seekers. Care Providers can set such preferences in the Profile section of their account.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Care.com provides the ability for a user to conduct a background check on themselves with a third-party verification service. If you decide to use this service, a summary of the background check results are made available to you on the Site. You have control over which other users can view the results of your background check. The results may include personal information, such as your first name and last name. Your use of such a service is voluntary.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+**Your Access to Personally Identifiable Information**  
+If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may contact Care.com Member Care at membercare@care.com and request that your account be closed.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+**How We Protect Your Information**  
+Care.com is committed to earning and keeping your trust and we understand the need to keep your information secure and private. As a result we have implemented industry-recognized safeguards to protect your information. These safeguards include:
 
- **Getting to Know Our Customers**
+  * Care.com is registered with Verisign, the leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. With Verisign, you can be assured that your communication with the Care.com web site is secure. We use SSL (Secure Socket Layer), the industry standard method for computers to communicate securely without risk of manipulation or recipient impersonation. We utilize SSL in the online registration process, in the login process, and in the account management section of the Site. 
+  * Care.com uses encryption technology to protect sensitive information such as credit card information, date of birth, and information related to background checks. 
+  * Care.com employs firewalls and system monitoring to protect against unauthorized access of our systems. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Please remember that you also play a valuable role in data security. You should never share your Care.com password with anyone. If you feel your password has been compromised, you should change it immediately by logging into your account and accessing the "Profile" section within "My Account". After you have finished using our Site, you should log out of your Care.com account and exit your browser. 
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+**Privacy Policy Changes**  
+This Privacy Policy may change, from time to time, due to changes on our Site, legal developments, business factors and ever-changing technology. Notifications to changes of our Privacy Policy will be posted on our Site, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+**Contact for Privacy Related Issues**  
+If you have any questions on our Privacy Policy, you can contact us at:
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+Legal Department   
+Care.com, Inc.   
+1400 Main Street   
+Waltham, MA 02451 USA 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+legal@care.com 
