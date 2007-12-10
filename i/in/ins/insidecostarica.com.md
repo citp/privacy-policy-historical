@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232058id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210094647id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
 
 # Inside Costa Rica
 
