@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629024250id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210123632id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
 
 # Russian women - Privacy Statement
 
-[12 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Friday June 29 2007 at 00:02 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
-[6 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
+[1 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Monday December 10 2007 at 01:02 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
+[0 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
 [Photos updated last week - list of profiles](http://www.russian-women.net/updated_photos_weekly.shtml)   
 [Photos updated last week - links with thumbs (may be huge page to load!)](http://www.russian-women.net/updated_photos_thumbnailed_weekly.shtml)   
-Currently there are **19198** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album/).   And **47622** previously listed women are no longer available.   
+Currently there are **18568** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album/).   And **49469** previously listed women are no longer available.   
   
 
 
