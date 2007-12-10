@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the electronista.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630151520id_/http%3A//www.electronista.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electronista.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210094211id_/http%3A//www.electronista.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Electronista | Privacy Policy</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="robots" content="INDEX,FOLLOW">
+	<meta name="Author" content="Electornista.com">
 	<link rel="shortcut icon" href="http://images.macnn.com/images/electronista_favicon.ico">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link rel="alternate" title="Electronista RSS Feed" href="/electronista.rss" type="application/rss+xml">
@@ -69,7 +73,12 @@
 						<li><a class="head" href="http://www.electronista.com/" onmouseover="javascript:nav(1,8);">home</a></li>
 					</ul>
 				</div>
-								
+								<div id="head4">				
+					<ul>
+						<li><a class="head" href="http://www.electronista.com/reviews/" onmouseover="javascript:nav(7,8);">reviews</a></li>
+					</ul>
+				</div>
+				
 				<div id="head7">				
 					<ul>
 						<li><a class="head" href="http://www.electronista.com/electronista.rss" onmouseover="javascript:nav(7,8);">feeds</a></li>
@@ -82,13 +91,13 @@
 				</div>
 				<div id="head8">				
 					<ul>
-						<li><a class="head" href="http://macnn.com/about/" onmouseover="javascript:nav(8,8);">about</a></li>
+						<li><a class="head" href="http://www.electronista.com/about/" onmouseover="javascript:nav(8,8);">about</a></li>
 					</ul>
 				</div>
 
 				<div id="head8">				
 					<ul>
-						<li><a class="head" href="/contact/">contact</a></li>
+						<li><a class="head" href="http://www.electronista.com/contact/">contact</a></li>
 					</ul>
 				</div>
 
@@ -108,6 +117,53 @@
 
 <div id="stock">
 				
+<script language="javascript" type="text/javascript" src="http://www.macnn.com/js/prototype.js"></script>   
+<script language="javascript" type="text/javascript" src="http://www.macnn.com/js/effects.js"></script> 
+<script language="javascript" type="text/javascript" src="http://www.macnn.com/js/controls.js"></script>
+<link rel="stylesheet" href="http://www.electronista.com/popup_search/popup_search.css" type="text/css">
+
+
+<div style="position: relative;">
+  <form class="search-wrapper" name="search" action="/search/" method="post">
+    <div class="left"></div>
+    <input name="path" id="search_for" value="search electronista" size="8" onfocus="javascript:if(this.value=='search electronista') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='search electronista'}" type="text">
+    <div class="right"></div>
+    <div id="search_reset" style="display: none;" onclick="$('search_for').value=''"></div>
+    <div id="search_indicator" style="display: none; "></div>
+  </form>
+  
+  <div id="sp_results" style="display: none; position:absolute;"></div>
+</div>
+<script type="text/javascript">
+  var psearchcompleter = new Ajax.Autocompleter('search_for', 
+    'sp_results',
+    'http://www.electronista.com/popup_search/search.php', {
+        indicator: $('search_indicator'),
+        onShow: function(element, update){
+          Effect.Appear(update,{duration:0.15}); 
+          Element.show('search_reset'); 
+        },
+        onHide: function(element, update){ 
+          new Effect.Fade(update,{duration:0.15}); 
+          if($F('search_for') == '') Element.hide('search_reset');
+        }
+    });
+  psearchcompleter.onClick = function(event) {
+    var link = Event.findElement(event, 'LI').down('A');
+    window.location.href = link.href;
+    this.hide();
+  }
+  psearchcompleter.startIndicator = function(){
+    $('search_indicator').show()
+    $("sp_results").innerHTML = new Template('<ul class="sp_results"><li class="footer more_search">Use Google to <a href="/scripts/search.php?q=#{query}&cof=FORID:11&cx=016098913973739642605:dokdqh-kgzq">search the Web</a> or <a href="/scripts/search.php?q=#{query}&cof=FORID:11&cx=016098913973739642605:5lsev44k9eu">search electronista</a></li></ul>').evaluate({query: $F('search_for')});
+    $("sp_results").show()
+    psearchcompleter.show()
+  }
+  psearchcompleter.stopIndicator = function(){
+    $('search_indicator').hide();
+    if($F('search_for') != '') Element.show('search_reset');
+  }
+</script>
 			</div>
 
 		</div>
@@ -158,11 +214,7 @@
 			<div class="sideheadtoolbox"></div>
 			<div class="sidebodnarrow">
 
-<center><form name="search" action="/search/" method="post">
-				<input name="path" type="text" value="search electronista" size="12" onfocus="javascript:if(this.value=='search electronista') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='search electronista'}">
-				<input type="submit" name="Submit" value="Go">
-				<input type="hidden" name="site" value="electronista">
-				</form>
+<center>
 				<form name="menu1">
 					<select name="site" size="1" onchange="MM_jumpMenu('parent',this,0)">
 						<option value="">font size</option>
@@ -184,35 +236,26 @@
 
 <div class="sideheadnarrow"></div>
 			<div class="sidebodnarrow">
-				<ul><span class="nhead">MacNN</span><li><a href="http://www.macnn.com/articles/07/06/30/iphone.first.impressions/">iPhone: first impressions</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/iphone.2.4.week.wait/">iPhone 2-4 week wait</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/849.refurb.macbooks/">$849 refurb MacBooks</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/att.to.expand.coverage/">AT&amp;T to expand coverage</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/iphone.user.guide/">iPhone User Guide</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/att.iphone.supply/">AT&amp;T iPhone supply</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/apple.iphone.notes/">Apple iPhone notes</a></li>
-<li><a href="http://www.macnn.com/articles/07/06/29/first.iphone.disassembly/">First iPhone disassembly</a></li>
+				<span class="nhead">MacNN</span><ul><li><a href="http://www.macnn.com/articles/07/12/08/simpleimage.5.released/">SimpleImage 5 released</a></li>
+<li><a href="http://www.macnn.com/articles/07/12/07/compusa.bought.out/">CompUSA bought out</a></li>
+<li><a href="http://www.macnn.com/articles/07/12/07/refurb.aluminum.imacs/">Refurb Aluminum iMacs</a></li>
+<li><a href="http://www.macnn.com/articles/07/12/07/usa.today.buyers.guide/">USA TODAY buyers guide</a></li>
+<li><a href="http://www.macnn.com/articles/07/12/07/new.kobayashi.font/">New Kobayashi font</a></li>
 <li><a href="http://www.macnn.com/headlines/">more...</a></li></ul>
 
-<ul><span class="nhead">iPodNN</span><li><a href="http://www.ipodnn.com/articles/07/06/26/leather.video.ipod.cases/">Leather video iPod cases</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/06/22/itransmitter.2.w.remote/">iTransmitter 2 w/remote</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/06/21/ipod.to.computer.transfer/">iPod To Computer Transfer</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/05/31/itunes.plus.growing.pains/">iTunes Plus growing pains</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/05/31/ipod.usb.fm.transmitter/">iPod USB FM Transmitter</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/05/18/istyles.2007.sleeves/">iStyles 2007 sleeves</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/05/15/body.glove.kickstand.case/">Body Glove kickstand case</a></li>
-<li><a href="http://www.ipodnn.com/articles/07/05/11/scottevest.polo.and.hoodie/">Scottevest Polo and Hoodie</a></li>
+<span class="nhead">iPodNN</span><ul><li><a href="http://www.ipodnn.com/articles/07/12/07/creative.zen.stone.plus.4g/">Creative ZEN Stone Plus 4G</a></li>
+<li><a href="http://www.ipodnn.com/articles/07/12/07/prie.touchstand.ipod.case/">PRIE TouchStand iPod case</a></li>
+<li><a href="http://www.ipodnn.com/articles/07/12/07/kenwood.clk/">Kenwood CLK</a></li>
+<li><a href="http://www.ipodnn.com/articles/07/11/13/36.speck.ipod.cases/">36 Speck iPod cases</a></li>
+<li><a href="http://www.ipodnn.com/articles/07/10/26/usbfever.touch.crystal.cas/">USBfever Touch Crystal cas</a></li>
 <li><a href="http://www.ipodnn.com/headlines/">more...</a></li></ul>
 
 
-<ul><span class="nhead">Electronista</span><li><a href="http://www.electronista.com/articles/07/06/29/apples.iphone.arrives/">Apple's iPhone arrives</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/intel.larrabee.rumor/">Intel Larrabee Rumor</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/new.asus.gps.pda/">New ASUS GPS PDA</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/hd.dvd.internet.features/">HD DVD Internet Features</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/verizon.evdo.rev.a/">Verizon EVDO Rev A</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/minipc.sa800.sliced.pc/">MiniPC SA800 'sliced' PC</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/moto.rizr.z8.ships/">Moto RIZR Z8 Ships</a></li>
-<li><a href="http://www.electronista.com/articles/07/06/29/verizon.iwhatever/">Verizon iWhatever</a></li>
+<span class="nhead">Electronista</span><ul><li><a href="http://www.electronista.com/articles/07/12/08/2tb.tivo.series.3/">2TB Tivo Series 3</a></li>
+<li><a href="http://www.electronista.com/articles/07/12/07/compusa.bought.out/">CompUSA bought out</a></li>
+<li><a href="http://www.electronista.com/articles/07/12/07/usa.today.buyers.guide/">USA TODAY buyers guide</a></li>
+<li><a href="http://www.electronista.com/articles/07/12/07/chinese.iphone.knockoff/">Chinese iPhone knockoff</a></li>
+<li><a href="http://www.electronista.com/articles/07/12/07/sev.19.new.ipod.garments/">SeV: 19 new iPod garments</a></li>
 <li><a href="http://www.electronista.com/headlines/">more...</a></li></ul>
 <!-- Site Meter -->
 <script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25electronista">
@@ -224,6 +267,16 @@
 <!-- Copyright (c)2006 Site Meter -->
 
 			</div>
+
+
+                        <div class="sidebodnarrow">
+
+                <!-- /privacy/ -->
+
+
+
+</div>
+
 			<div class="sidebot"></div>
 <div class="sidebotnarrow"></div>
 
@@ -238,21 +291,23 @@
 			<div class="sidebodnarrow2">
 
  <p> 
-<script language="JavaScript" src="http://kermit.macnn.com/?DC=esta_sky2&amp;JS=Y"></script><noscript><A HREF="http://kermit.macnn.com/?SHT=esta_sky2&RANDOM=1256242863"><IMG SRC="http://kermit.macnn.com/?SIT=esta_sky2&RANDOM=1256242863"></A></noscript>
+<script language="JavaScript" src="http://kermit.macnn.com/?DC=esta_sky2&amp;JS=Y"></script><noscript><A HREF="http://kermit.macnn.com/?SHT=esta_sky2&RANDOM=1499273602"><IMG SRC="http://kermit.macnn.com/?SIT=esta_sky2&RANDOM=1499273602"></A></noscript>
 </p>
 
 <!--<p>
-<center><SCRIPT LANGUAGE="JavaScript" SRC="http://kermit.macnn.com/?DC=macnn_sidebar_top.3&JS=Y"></SCRIPT><NOSCRIPT><A HREF="http://kermit.macnn.com/?SHT=macnn_sidebar_top.3&RANDOM=1256242864"><IMG SRC="http://kermit.macnn.com/?SIT=macnn_sidebar_top.3&RANDOM=1256242864"></A></NOSCRIPT></center>
+<center><SCRIPT LANGUAGE="JavaScript" SRC="http://kermit.macnn.com/?DC=macnn_sidebar_top.3&JS=Y"></SCRIPT><NOSCRIPT><A HREF="http://kermit.macnn.com/?SHT=macnn_sidebar_top.3&RANDOM=1499273603"><IMG SRC="http://kermit.macnn.com/?SIT=macnn_sidebar_top.3&RANDOM=1499273603"></A></NOSCRIPT></center>
 </p>
 
 <p>
-<SCRIPT LANGUAGE="JavaScript" SRC="http://kermit.macnn.com/?DC=macnn_sidebar_top.4&JS=Y"></SCRIPT><NOSCRIPT><A HREF="http://kermit.macnn.com/?SHT=macnn_sidebar_top.4&RANDOM=1256242865"><IMG SRC="http://kermit.macnn.com/?SIT=macnn_sidebar_top.4&RANDOM=1256242865"></A></NOSCRIPT></p>  -->
+<SCRIPT LANGUAGE="JavaScript" SRC="http://kermit.macnn.com/?DC=macnn_sidebar_top.4&JS=Y"></SCRIPT><NOSCRIPT><A HREF="http://kermit.macnn.com/?SHT=macnn_sidebar_top.4&RANDOM=1499273604"><IMG SRC="http://kermit.macnn.com/?SIT=macnn_sidebar_top.4&RANDOM=1499273604"></A></NOSCRIPT></p>  -->
+
+
+                
 
 </div>
 <div class="sidebotnarrow2">
 </div>
 			
-
 
 		</div></div>
 <div align="center">
@@ -270,7 +325,7 @@
 <div id="supporthead"></div>
 		<div id="supportbod">
 			
-<p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=1&amp;lid=440375&amp;cid=105442&amp;pr=2&amp;tstamp=20070611192041&amp;url=http://ad.doubleclick.net/clk%3b107204567%3b17361067%3bc%3fhttp://www.astrivestudentloans.com%3flkupcd%3da376877%26cmpgn_cd%3dp17361067%26web_ad_id%3da107204567%26buf%3d999" class="ibHeadWide">Astrive Student Loans:</a> <span class="ibminorWide">Borrow Up To $40K – Defer Payments Until After Graduation</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=2&amp;lid=441235&amp;cid=105557&amp;pr=2&amp;tstamp=20070611192041&amp;url=http://track.did-it.com/n%3flid%3d39371563%26tid%3d435e74d475310%26url%3dhttp://www.letstalk.com/inlink.htm%3fto%3d866279%26LID%3d39371563" class="ibHeadWide">Get a Free Cell Phone with any Carrier Plan!:</a> <span class="ibminorWide">At LetsTalk.com, Compare Rates &amp; Save on 100's of Cell Phones. Free Next-Day Shipping!</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=3&amp;lid=439813&amp;cid=105304&amp;pr=2&amp;tstamp=20070611192041&amp;url=http://www.clickmanage.com/events/clickevent.aspx%3fca%3d10106%26e%3d1042%26l%3d8452342%26u%3dhttp%253A%252F%252Fisonic.polkaudio.com%252F%253FWT.srch%253D1" class="ibHeadWide">Polk Audio I-Sonic Entertainment System:</a> <span class="ibminorWide">Listen to HD radio, sync your ipod, play DVD's and more with the I-Sonic. Free Shipping!</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=4&amp;lid=333093&amp;cid=43613&amp;pr=2&amp;tstamp=20070611192041&amp;url=http://www.cashforlaptops.com" class="ibHeadWide">Sell your Laptop - working or not. Free shipping.:</a> <span class="ibminorWide">Get an instant online quote and sell your laptop today !</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=5&amp;lid=436031&amp;cid=104543&amp;pr=2&amp;tstamp=20070611192041&amp;url=http://clk.atdmt.com/VON/go/ndstrvon0590031215von/direct/01/" class="ibHeadWide">Vonage, #1 Rated Digital Phone Service!:</a> <span class="ibminorWide">Unlimited local and long distance calling for $24.99 a month! 30 days risk-free trial!   </span></p>
+<p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=1&amp;lid=470472&amp;cid=133543&amp;pr=2&amp;tstamp=20071210043543&amp;url=http://www.Ringerman.com/Bonus-Ringtones.php%3fs%3dIB-RM-473" class="ibHeadWide">Download Ringtones:</a> <span class="ibminorWide">Download All Your Favorite Songs, Wallpapers &amp; More. Get 10 Complimentary Ringtones Instantly!</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=2&amp;lid=466961&amp;cid=133106&amp;pr=2&amp;tstamp=20071210043543&amp;url=http://ad.adlegend.com/click%3fspacedesc%3d1105674_1062236_1x1_1089204_1105674%26ML_NIF%3dN" class="ibHeadWide">Office for MAC 2004:</a> <span class="ibminorWide">Buy Office 2004 for Mac Today and Get a Free Upgrade to 2008. Learn More!</span></p><p><a href="http://links.industrybrains.com/click?sid=85&amp;rqctid=473&amp;pos=3&amp;lid=448552&amp;cid=106413&amp;pr=2&amp;tstamp=20071210043543&amp;url=http://www.powerbookmedic.com/xcart1/customer/home.php%3fMMCF_IndustryBrains" class="ibHeadWide">PowerBookMedic will fix any Powerbook, iBook, iPod:</a> <span class="ibminorWide">We offer Parts, Hard Drives, Superdrives, Ram Upgrades &amp; Repairs all backed up w/ our 1YR Warranty!</span></p>
 			<span class="text">
 				<strong>Buy from <a href="http://macnn.com/rd.php?id=22254">The Apple Store</a>, 
 				<a href="http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&amp;offerid=78941.10000049&amp;type=3&amp;subid=0">iTunes.com</a>, 
@@ -286,7 +341,7 @@
 				<a class="ibHead" href="JavaScript:new_win('http://www.macnn.com/ads/ib/ib_inquirer.php?view=true', 450, 655) ">Have your product or service listed here.</a>
 		</div>
 		<div id="footer">
-			<div id="copyright">All contents copyright © Mac News Network 2006. Branding + Design: <a href="http://www.gesamtbild.com">www.gesamtbild.com</a></div>
+			<div id="copyright">All contents copyright © MNM Media, LLC (MacNN) 2007. Branding + Design: <a href="http://www.gesamtbild.com">www.gesamtbild.com</a></div>
 			<a href="#top"><img src="http://images.leftlanenews.com/newimages/arrow-anc.gif" height="7" width="7" alt="" border="0"> Top</a>
 		</div>
 	</div>
@@ -302,6 +357,10 @@ urchinTracker();
 </script>
 
 
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://electronista.us.intellitxt.com/intellitxt/front.asp?ipid=10231"></script>
+<!-- end Vibrant Media IntelliTXT script section -->			
+			
 
 
 
