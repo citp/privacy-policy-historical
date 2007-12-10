@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the servicebench.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626185336id_/http%3A//www.servicebench.com/story_c.php%3Fnews_ID%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicebench.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210130140id_/http%3A//www.servicebench.com/index.php%3Fc_ID%3D171) for the most accurate reproduction.*
 
-# ServiceBench, Inc.
+# ServiceBench
 
-### Privacy Policy
+## Privacy Policy
 
 ServiceBench is committed to maintaining the privacy of your information and to safeguard your privacy on line.  Please read the information below to understand how your personal information will be treated as you make use of the services offered by ServiceBench.   
 
