@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630081555id_/http%3A//wineinsiders.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineinsiders.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210082250id_/http%3A//www.wineinsiders.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - A Taste of California Wine Clubs
 
@@ -12,4 +12,4 @@ We may also use any contact information we collect to occasionally notify you ab
 
 If you would rather not receive any communications from us at info@ATasteofCalifornia.com. We will be happy to remove you from any of our contact lists.
 
-A Taste of California welcomes your questions and comments about privacy. If you would like to email us, please [click here](https://web.archive.org/web/20070630081555id_/http%3A//wineinsiders.com/contact.cfm) or call us at 1-800-615-7304. 
+A Taste of California welcomes your questions and comments about privacy. If you would like to email us, please [click here](https://web.archive.org/web/20071210082250id_/http%3A//www.wineinsiders.com/contact.cfm) or call us at 1-800-615-7304. 
