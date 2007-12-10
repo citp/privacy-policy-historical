@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626023233id_/http%3A//www.cartmanager.net/administration/privacypolicy.php3%3FReferrer%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001109id_/http%3A//www.cartmanager.net/administration/privacypolicy.php3%3FReferrer%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
