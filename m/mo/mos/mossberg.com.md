@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514130659id_/http%3A//www.mossberg.com/content.asp%3Fid%3D580) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074818id_/http%3A//www.mossberg.com/content.asp%3Fid%3D580) for the most accurate reproduction.*
 
 # O.F. Mossberg & Sons, Inc. - Firearms, Shotguns, Rifles, Accessories, and Precision Machining
 
@@ -90,4 +90,6 @@ Mossberg will use commercially reasonable efforts to promptly respond and resolv
 **US DEALERS:**  
 **INTL DEALERS:**  
   
-[](http://www.mossberg.com/cgi-bin/commerce.exe?preadd=action&key=99057)
+THIS WEEK'S FEATURED TIP: 
+
+Always keep the muzzle pointed in a safe direction. 
