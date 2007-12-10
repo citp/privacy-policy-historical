@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623224111id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182927id_/http%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
 
-# Daily: Privacy Policy
+# Daily.co.uk: Privacy Policy
 
 This privacy policy sets out how Daily.co.uk uses and protects any information that you supply when you use this website or Daily.co.uk services . 
 
