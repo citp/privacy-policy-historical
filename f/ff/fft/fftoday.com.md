@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607225941id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210102306id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FF Today
 
