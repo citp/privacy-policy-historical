@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219102259id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225047id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for pearlcrescent.com
 
@@ -63,7 +63,16 @@ The data we collect is available only to employees and agents of our company.  
 
 Cookies
 
-We do not use cookies on our web site.
+Cookies are a technology which can be used to provide you with tailored information from a web site.  A cookie is an element of data that a web site can send to your browser, which may then store it on your system.  You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+Our web site uses cookies for the following purposes:
+
+  * To gather information about visitors to our web site.  This information is used to improve our products and services.
+  * If you make a comment on our blog, we use cookies to store profile information so you do not need to enter it again.
+  * If you purchase our products or subscribe to our services, we use cookies to maintain session information.
+  * If you use our bug tracking system or calendar, we use cookies to store user preferences and login information.
+
+
 
 * * *
 
