@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313204724id_/http%3A//www.tcs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210123831id_/http%3A//www.tcs.com/includes/Footer/Default.aspx%3FshowForm%3D1) for the most accurate reproduction.*
 
-# TCS - Privacy Policy
+# Tata Consultancy Services
 
 **Tata Consultancy Services Limited (TCS)** is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you, we receive from you, on the Internet. 
 
