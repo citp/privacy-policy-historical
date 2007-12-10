@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619043429id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211004308id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
 
 # Sam Houston State University Web Privacy Policy
 
