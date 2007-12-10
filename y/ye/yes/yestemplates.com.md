@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yestemplates.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505055038id_/http%3A//www.yestemplates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yestemplates.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210192708id_/http%3A//www.yestemplates.com/privacy.html) for the most accurate reproduction.*
 
 # Web design Templates, Logo, Template Customization, Complete Website Services
 
