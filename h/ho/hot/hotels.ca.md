@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416151847id_/http%3A//www.hotels.ca/hotel-htdocs/ca/hotels.ca/PrivacyAndSecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001432id_/http%3A//www.hotels.ca/hotel-htdocs/ca/hotels.ca/PrivacyAndSecurity.htm) for the most accurate reproduction.*
 
 # hotels.ca
 
