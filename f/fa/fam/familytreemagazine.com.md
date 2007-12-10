@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familytreemagazine.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051107id_/http%3A//www.familytreemagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familytreemagazine.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211005805id_/http%3A//www.familytreemagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Family Tree Magazine
 
