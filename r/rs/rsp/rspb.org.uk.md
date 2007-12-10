@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615003442id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210214136id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
 
 # The RSPB: About our site: Privacy
 
-[](https://web.archive.org/web/20070615003442id_/http%3A//www.rspb.org.uk/help/privacy.asp?view=print)
+[](https://web.archive.org/web/20071210214136id_/http%3A//www.rspb.org.uk/help/privacy.asp?view=print)
 
 The RSPB is committed to protecting your privacy and security. Whenever you provide personal information, we will treat that information in accordance with this policy, current UK Data Protection legislation and Internet best practice.
 
