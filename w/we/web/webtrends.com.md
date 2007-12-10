@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507131507id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT%26WT.svl%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184631id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT%26WT.svl%3Dftr_privacy) for the most accurate reproduction.*
 
 # WebTrends Privacy Policy
 
