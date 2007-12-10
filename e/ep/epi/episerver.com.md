@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426095104id_/http%3A//www.episerver.com/en/Start_page/_/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210141426id_/http%3A//www.episerver.com/en/Start_page/System/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement - EPiServer
+# Privacy Statement - EPiServer 2007
 
 EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the Web site [www.episerver.com](http://www.episerver.com). This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this Web site, you consent to the principles for collection and usage of information described in this privacy statement.
 
