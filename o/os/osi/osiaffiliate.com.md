@@ -1,11 +1,20 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203004830id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211001350id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
-# OSI Affiliate Website
+# affiliate software | Privacy
 
 Omnistar Interactive has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for all sites in the Omnistar Interactive family of sites. 
 
 **What We Collect and Where**  
-Our sites use several different forms that our customers can use to request information, products, and services. From these forms we collect but are not limited to the following informaiton:
+Our sites use several different forms that our customers can use to request information, products, and services. From these forms we collect but are not limited to the following information:
+
+  * Visitors' contact information 
+
+  * Financial information 
+
+  * IP addresses 
+
+
+
 
 **How Secure is the Information We Collect?**  
 Omnistar makes every effort to follow industry standard security measures to prevent the loss, misuse and alteration of the information under our control. 
