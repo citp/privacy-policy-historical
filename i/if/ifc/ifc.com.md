@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527125112id_/http%3A//ifc.com/bottomnav%3FaId%3D17998) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075946id_/http%3A//ifc.com/bottomnav%3FaId%3D17998) for the most accurate reproduction.*
 
 # IFC.com: Official site of the Independent Film Channel IFC tv, uncut: TV schedule, program descriptions, film credits, watch videos, buy DVDs and more at the IFC store
 
