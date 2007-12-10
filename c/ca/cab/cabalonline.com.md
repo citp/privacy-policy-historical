@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabalonline.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626091418id_/http%3A//www.cabalonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabalonline.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231655id_/http%3A//www.cabalonline.com/privacy.asp) for the most accurate reproduction.*
 
 # CABAL Online - The Revolution Of Action
 
