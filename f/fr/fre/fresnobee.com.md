@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623231421id_/http%3A//www.fresnobee.com/104/story/1511.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210222727id_/http%3A//www.fresnobee.com/104/story/1511.html) for the most accurate reproduction.*
 
 # FresnoBee.com: About Us: Privacy Policy
-
-  
-
 
 * * *  
   
@@ -28,7 +25,7 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 The Fresno Bee is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by The Fresno Bee that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the The Fresno Bee services to provide additional personal information. Parental consent can be provided in two ways:
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20070623231421id_/http%3A//www.fresnobee.com/104/story/parental_consent.html) (which will be provided in applicable areas on our site); or 
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20071210222727id_/http%3A//www.fresnobee.com/104/story/parental_consent.html) (which will be provided in applicable areas on our site); or 
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form.
 
 
@@ -43,22 +40,6 @@ The Fresno Bee hosts a number of online stores that sell a variety of goods and 
 
  **Cookies**
 
-A "cookie" is a small data text file that is placed in your browser and allows The Fresno Bee to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and The Fresno Bee does not use cookies to collect personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests.
+A "cookie" is a small data text file that is placed in your browser and allows The Fresno Bee to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and The Fresno Bee does not use cookies to collect personal information. Instead, they allow us to see which parts of our site you have used so that we can better serve you when you return to our site. Cookies may be used to provide you with information and special opportunities tailored to your interests. 
 
- **Direct Mailings and "Opting Out"**
-
-We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an e-mail at [staff@fresnobee.com](mailto:staff@fresnobee.com) and requesting that you not receive any of these of these offers.
-
- **You Can Change Your Private Information at any Time**
-
-Information you provide to The Fresno Bee may be stored by us for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an e-mail to [staff@fresnobee.com](mailto:staff@fresnobee.com).
-
- **Remember The Risks Whenever You Use The Internet**
-
-You should know that when you voluntarily disclose personal information on the The Fresno Bee system (for example, in forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to The Fresno Bee and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, our partners and other Internet sites or services that may be accessible through The Fresno Bee have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.
-
-The ads appearing on this Web site are delivered to you by RealMedia, our Web advertising partner. Please click [here](http://www.realmedia.com/privacy.html) for more information on RealMedia and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns.
-
- **Tell Us How We're Doing**
-
-If you have any questions or comments about our policies, please contact us by sending an e-mail to [staff@fresnobee.com](mailto:staff@fresnobee.com)
+[Continued on the next page >](https://web.archive.org/about_us/story/1511-p2.html)
