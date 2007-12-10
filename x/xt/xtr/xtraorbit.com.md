@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227194641id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090446id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
-# XtraOrbit.Com :: Company Profile :: Privacy Policy
+# XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Google CheckOut and Credit Cards Accepted.
 
+|  |  |  |   
+---|---|---  
+|  | 
+
+|   
 ---  
 **T** his Privacy Policy governs the manner in which XtraOrbit collects, uses, stores, archives and discloses information collected from users (each, a "User") of this Web site. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.   
   
@@ -48,4 +53,7 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
   
 **XtraOrbit Team**  
   
-
+  
+  
+|  |   
+| 
