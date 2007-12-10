@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619110131id_/http%3A//www.totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalvid.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232226id_/http%3A//www.totalvid.com/guidePrivacy.cfm) for the most accurate reproduction.*
 
 # Movie Downloads On Demand - Download Movies and Download Videos
 
