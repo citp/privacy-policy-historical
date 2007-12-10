@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625035633id_/http%3A//www.123stitch.com/cgi-bin/privacy_policy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123stitch.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223917id_/http%3A//www.123stitch.com/cgi-bin/privacy_policy.pl) for the most accurate reproduction.*
 
 # Cross Stitch with 1-2-3 Stitch!
 
@@ -53,8 +53,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at 1-801-495-0908 or send us an email at GoAsk123@123stitch.com.
-
-[ ](http://www.bbbonline.org/cks.asp?id=107011111203537) |   
----|---  
-  
-Copyright © 1997-2007, 1-2-3 Stitch!®, Bluffdale UT. All Rights Reserved. Your online resource for Cross Stitch, Paper Craft, Rubber Stamps, Rubber Stamping, Needlepoint, Punch Needle, Scrapbooks, and Scrapbooking. 
