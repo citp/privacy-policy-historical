@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611085112id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210214902id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
-
-### Random Weblog
-
-[Digital Library Groningen](http://db.weblog.ub.rug.nl/) ::: A weblog on scholarly online publishing, open access, and library related technology  
-
 
 ## Statement of Policy
 
