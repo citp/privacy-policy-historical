@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404204248id_/http%3A//www.firestonecompleteautocare.com/opencms/opencms/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074856id_/http%3A//www.firestonecompleteautocare.com/privacy_statement/index.jsp) for the most accurate reproduction.*
 
-# Firestone Complete Auto Care | Privacy Statement
+# Firestone Complete Auto Care | privacy statement
 
 Firestone Complete Auto Care thanks you for accessing or using this web site (the "Site"). Firestone Complete Auto Care wants to assure you that Firestone Complete Auto Care respects your privacy. Firestone Complete Auto Care knows that trust is the key to any successful business relationship. The following Privacy Policy describes Firestone Complete Auto Care's commitment to protect your personal information.
 
@@ -10,7 +10,7 @@ This Privacy Policy explains how Firestone Complete Auto Care collects, uses and
 
 **THE SITE INCLUDES LINKS TO THE WEB SITES OF THIRD PARTIES. WE PROVIDE THESE LINKS AS A CONVENIENCE TO OUR USERS. THE INCLUSION OF ANY LINK DOES NOT IMPLY FIRESTONE COMPLETE AUTO CARE'S ENDORSEMENT OF ANY COMPANY, ITS WEB SITE, OR THE PRODUCTS AND SERVICES IT SELLS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY WEB SITE OTHER THAN OUR OWN SITE.**
 
-**THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
+**THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE "FRAMED" TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
 
 **Information Collection and Use.**  
 **1\. Information Collection.** Firestone Complete Auto Care may collect information from you at several different points and in different ways on this Site Firestone Complete Auto Care will ask you for your permission before Firestone Complete Auto Care collects any information that personally identifies you or allows Firestone Complete Auto Care to contact you. Firestone Complete Auto Care's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, Firestone Complete Auto Care can use your personal information to:
@@ -47,4 +47,4 @@ Upon your request, Firestone Complete Auto Care will (a) remove your personal in
 **Updates to This Policy**  
 If Firestone Complete Auto Care decides to change or update this Privacy Policy, Firestone Complete Auto Care will post changes and updates on this Site so that you will always be aware of what information Firestone Complete Auto Care collects, uses and distributes. Firestone Complete Auto Care encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Firestone Complete Auto Care's Privacy Policy, please use the "Contact Us" section of this Site.
 
-**© 2006 Firestone Complete Auto Care. All rights reserved.**
+**© 2007 Firestone Complete Auto Care. All rights reserved.**
