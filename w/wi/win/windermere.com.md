@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630111928id_/http%3A//www.windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210141157id_/http%3A//www.windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
 
 # Windermere.com Privacy Policy
 
