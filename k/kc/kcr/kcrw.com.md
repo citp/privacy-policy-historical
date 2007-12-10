@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522050640id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182053id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — KCRW | 89.9FM
+# Privacy Policy — KCRW 89.9FM | Next Generation Internet Radio for Music, News & Arts
 
 At KCRW Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used. 
 
