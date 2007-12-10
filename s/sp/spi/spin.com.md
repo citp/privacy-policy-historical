@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625051742id_/http%3A//www.spin.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155715id_/http%3A//www.spin.com/about/privacy) for the most accurate reproduction.*
 
 # SPIN.com: Privacy Policy
 
