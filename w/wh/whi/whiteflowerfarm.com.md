@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618041902id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210114152id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
-# Online Privacy & Security - White Flower Farm
+# White Flower Farm - Online Privacy & Security
 
   
 **Your Privacy**
@@ -9,7 +9,7 @@ White Flower Farm respects the privacy of every individual who shops via our pri
 
 When you place an order online, all personal information you give White Flower Farm is kept absolutely private. We will not share or sell your name, postal address, or any other personal information you provide us to any outside companies or agencies.
 
-For our gardening friends who choose to receive our occasional emails, rest assured we do not share, rent, or sell your email address to outside companies or agencies. Period.
+For our gardening friends who choose to receive our occasional e-mails, rest assured we do not share, rent, or sell your e-mail address to outside companies or agencies. Period.
 
 If you receive our print catalogue or order via mail or telephone, there is a chance we will share your name with reputable third parties whose products might be of interest to you. If you do not want us to share your information with third parties, please email our customer service team at [custserv@whiteflowerfarm.com.](mailto:custserv@whiteflowerfarm.com) When you request a catalogue online, you are given the opportunity to opt-out of having your postal address shared.
 
