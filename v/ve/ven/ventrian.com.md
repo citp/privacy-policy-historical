@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623201030id_/http%3A//www.ventrian.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210184035id_/http%3A//www.ventrian.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Ventrian Systems - DotNetNuke Modules, Skins & Skin Objects
 
