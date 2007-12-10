@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428091618id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110928id_/http%3A//www.vancouver2010.com/en/privacy) for the most accurate reproduction.*
 
 # Vancouver 2010 - VANOC Website Privacy Policy
 
 Respecting the privacy and confidentiality of your personal information is important to the Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games (“VANOC”). This website Privacy Policy explains how VANOC collects, uses and discloses your personal information on the VANOC website (the “Website”).
 
-The purpose of this Policy is to make visitors to this Website aware of how VANOC protects the privacy and confidentiality of you personal information.
+The purpose of this Policy is to make visitors to this Website aware of how VANOC protects the privacy and confidentiality of you personal information and the circumstances under which VANOC uses your personal information.
 
 **Jurisdiction  
-** This Website is governed by the laws of the province of British Columbia and Canada. By using this Website you agree that your use of this Website is subject to the jurisdiction of British Columbia and Canada. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws.
+** This terms and conditions under which you use this Website (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of British Columbia and no other jurisdiction. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of British Columbia and shall be within the exclusive jurisdiction of the Courts of the Province of British Columbia.
 
 **What is personal information?  
-** Personal information is information about an identifiable individual, not including business contact information i.e. information that would allow an individual to be contacted at their place of business, or work product information. For example, personal information includes such things as your name, date of birth, personal e-mail address, credit card information and other financial information about you.
+** Personal information is information about an identifiable individual, not including business contact information (i.e. information that would allow an individual to be contacted at their place of business, or work product information). For example, personal information includes such things as your name, date of birth, personal e-mail address, credit card information and other financial information about you.
 
 **What are the purposes for collection, use and disclosure of personal information?  
 ** VANOC collects, uses and discloses your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which VANOC may collect, use and disclose your personal information on this Website are:
@@ -21,6 +21,10 @@ The purpose of this Policy is to make visitors to this Website aware of how VANO
   * To facilitate communication with you
 
   * To grant you/enable you to access certain special features or areas of the Website
+
+  * To facilitate the processing of any order for Vancouver 2010 merchandise or tickets
+
+  * To process any of your requests for information
 
   * To make available to you through the Website certain services
 
@@ -70,7 +74,7 @@ If you choose to disable cookies associated with the Website, this may affect yo
 ** There will be a separate part of the Website for the use of the Media. We will require that members of the Media who wish to use this secure part of the Website obtain a secure authentication offline. Members of the Media will be required to provide this authentication in order to access this part of the Website. We will also collect personal information for members of the Media, such as user name, e-mail address, phone number and name of media outlet for verification and statistical purposes.
 
 **Job Opportunities  
-** The website allows you to submit an application for employment and your resume. The website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
+** The Website allows you to submit an application for employment and your resume. The Website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
 
 **Links to other sites  
 ** This Website contains links to other small websites. When you click on of those links, you are contacting another internet resource. VANOC has no responsibility or liability for, or control over those websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that website’s terms and conditions of use.
@@ -83,7 +87,7 @@ If you choose to disable cookies associated with the Website, this may affect yo
 
 This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to VANOC’s collection, use and disclosure of your personal information in accordance with the revised Privacy Policy.
 
-This version has been in effect since February 3, 2006.
+This version has been in effect since November, 2007.
 
   
 
