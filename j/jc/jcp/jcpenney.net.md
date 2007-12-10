@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jcpenney.net privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629160111id_/http%3A//www.jcpenney.com/jcp/CustomerServiceSub.aspx%3FDeptID%3D12476%26CatID%3D12490%26CatTyp%3DCSR%26Dep%3D%26cmCatLevel%3D3%26cmCatID%3DCustomerService%7C12490) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpenney.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231404id_/http%3A//www.jcpenney.com/jcp/CustomerServiceSub.aspx%3FDeptID%3D12476%26CatID%3D12490%26CatTyp%3DCSR%26Dep%3D%26cmCatLevel%3D3%26cmCatID%3DCustomerService%7C12490) for the most accurate reproduction.*
 
 # JCPenney
 
   
 |  |  |   
 ---  
-|  |       |  <><><><><>|   
+|  |       |  |   
 
 
 | 
@@ -21,7 +21,7 @@ Privacy Policy last updated October 5, 2006
 Changes involved updating the supplemental information provided with respect to the use of web beacons.   
   
   
- AT JCPenney Your Privacy is a Priority  
+ At JCPenney Your Privacy is a Priority  
   
 At JCPenney we seek to provide products, services, and offers of value to you and your family. We use information from our interactions with you and other customers, and from other parties, to help us achieve that goal.
 
@@ -117,11 +117,11 @@ You can update or correct your name, address, or telephone number for your JCPen
 
   * writing to GEMB at P.O. Box 981402, El Paso, TX 79998-1402;
   * calling 1-8777-969-1233 (Puerto Rico 1-800-981-8400; U.S. Virgin Islands 1-800-474-5580); or
-  *  _[clicking here](http://www3.jcpenney.com/jcp/JCProute.Aspx?target=CREDITCENTER&refpagename=CustomerServiceSub%25252Easpx&refdeptid=12476&refcatid=12490&mscssid=6217a02784b044ff788f457d8629cc86bxMnVNoV5aGWxMnVNoV5aGo200B5FA057ECDE53F2A039FCE42F6F123C100718016&CmCatId=EXTERNAL|12490)_ to access your JCPenney credit card account information on-line. Note: JCPenney Personal Payment Plan Account Information currently is not available on-line. 
+  *  _[clicking here](http://www4.jcpenney.com/jcp/JCProute.Aspx?target=CREDITCENTER&refpagename=CustomerServiceSub%25252Easpx&refdeptid=12476&refcatid=12490&CmCatId=EXTERNAL|12490&mscssid=66a89c49faf74430c8687bcacfd22562cxMnVNoVza3oxMnVNoVza3W200B062687AF2BBC71F26C397B55608B40D70734423)_ to access your JCPenney credit card account information on-line. Note: JCPenney Personal Payment Plan Account Information currently is not available on-line. 
 
   
   
-The Privacy of JCP.com Customers  
+The Privacy of JCP.com Customers   
   
 Security  
   
@@ -144,7 +144,7 @@ Accepting cookies through your web browser is your personal choice. You can stil
 
 JCPenney also may use advertising companies to place our advertising at other sites across the Internet. These advertising companies collect anonymous information about your visits to our web site or interaction with our email through the use of "web beacons". This technology allows them to use information about your visits to this and other web sites to help us develop ads about goods and offers that may be of interest to you. Web beacons are also used by JCPenney to review how visitors to jcp.com navigate the site or interact with our email advertising. Third party companies may be utilized to assist in the collection and analysis of this data, but at no time is your personally identifiable information accessed or shared with other companies through one of these web beacons. If you would like more information about the use of web beacons and the options available to you, please 
 
-[_click here_](http://www3.jcpenney.com/jcp/customerservicesub.aspx?cattyp=CSR&catid=19803&refpagename=CustomerServiceSub%25252Easpx&refdeptid=12476&refcatid=12490&mscssid=6217a02784b044ff788f457d8629cc86bxMnVNoV5aGWxMnVNoV5aGo200B5FA057ECDE53F2A039FCE42F6F123C100718016&CmCatId=EXTERNAL|12490)
+[_click here_](http://www4.jcpenney.com/jcp/customerservicesub.aspx?cattyp=CSR&catid=19803&refpagename=CustomerServiceSub%25252Easpx&refdeptid=12476&refcatid=12490&CmCatId=EXTERNAL|12490&mscssid=66a89c49faf74430c8687bcacfd22562cxMnVNoVza3oxMnVNoVza3W200B062687AF2BBC71F26C397B55608B40D70734423)
 
 .   
   
@@ -186,9 +186,9 @@ We may change our privacy policy from time to time. When considering any change,
   * email us at [_privacy@jcpenneyeservices.com_](mailto:privacy@jcpenneyeservices.com)
 
   
->   
   
-[Click here to return to Customer Service!](https://web.archive.org/web/20070629160111id_/http%3A//www.jcpenney.com/jcp/CustomerService.aspx)  
+  
+[Click here to return to Customer Service!](https://web.archive.org/web/20071210231404id_/http%3A//www.jcpenney.com/jcp/CustomerService.aspx)  
   
   
   
