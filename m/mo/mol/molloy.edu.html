@@ -1,10 +1,15 @@
-<!--The following is the downloaded HTML source of the molloy.edu privacy policy that was archived on 2007-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070514070137id_/http%3A//www.molloy.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the molloy.edu privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210074628id_/http%3A//www.molloy.edu/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Molloy College</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<!--<link rel="stylesheet" type="text/css" href="/styles/styles.css">
+<link rel="stylesheet" type="text/css" href="/catalog/stylesheet.css">-->
+
 <link rel="stylesheet" type="text/css" href="/styles/styles.css">
+
 
 <script type="text/javascript" src="/includes/browser.js"></script><script type="text/javascript" src="/includes/saf-build.js"></script>
 <script type="text/JavaScript">
@@ -32,6 +37,72 @@ function MM_validateForm() { //v4.0
     } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
   } if (errors) alert('The following error(s) occurred:\n'+errors);
   document.MM_returnValue = (errors == '');
+}
+
+function YY_checkform() { //v4.71
+//copyright (c)1998,2002 Yaromat.com
+  var a=YY_checkform.arguments,oo=true,v='',s='',err=false,r,o,at,o1,t,i,j,ma,rx,cd,cm,cy,dte,at;
+  for (i=1; i<a.length;i=i+4){
+    if (a[i+1].charAt(0)=='#'){r=true; a[i+1]=a[i+1].substring(1);}else{r=false}
+    o=MM_findObj(a[i].replace(/\[\d+\]/ig,""));
+    o1=MM_findObj(a[i+1].replace(/\[\d+\]/ig,""));
+    v=o.value;t=a[i+2];
+    if (o.type=='text'||o.type=='password'||o.type=='hidden'){
+      if (r&&v.length==0){err=true}
+      if (v.length>0)
+      if (t==1){ //fromto
+        ma=a[i+1].split('_');if(isNaN(v)||v<ma[0]/1||v > ma[1]/1){err=true}
+      } else if (t==2){
+        rx=new RegExp("^[\\w\.=-]+@[\\w\\.-]+\\.[a-zA-Z]{2,4}$");if(!rx.test(v))err=true;
+      } else if (t==3){ // date
+        ma=a[i+1].split("#");at=v.match(ma[0]);
+        if(at){
+          cd=(at[ma[1]])?at[ma[1]]:1;cm=at[ma[2]]-1;cy=at[ma[3]];
+          dte=new Date(cy,cm,cd);
+          if(dte.getFullYear()!=cy||dte.getDate()!=cd||dte.getMonth()!=cm){err=true};
+        }else{err=true}
+      } else if (t==4){ // time
+        ma=a[i+1].split("#");at=v.match(ma[0]);if(!at){err=true}
+      } else if (t==5){ // check this 2
+            if(o1.length)o1=o1[a[i+1].replace(/(.*\[)|(\].*)/ig,"")];
+            if(!o1.checked){err=true}
+      } else if (t==6){ // the same
+            if(v!=MM_findObj(a[i+1]).value){err=true}
+      }
+    } else
+    if (!o.type&&o.length>0&&o[0].type=='radio'){
+          at = a[i].match(/(.*)\[(\d+)\].*/i);
+          o2=(o.length>1)?o[at[2]]:o;
+      if (t==1&&o2&&o2.checked&&o1&&o1.value.length/1==0){err=true}
+      if (t==2){
+        oo=false;
+        for(j=0;j<o.length;j++){oo=oo||o[j].checked}
+        if(!oo){s+='* '+a[i+3]+'\n'}
+      }
+    } else if (o.type=='checkbox'){
+      if((t==1&&o.checked==false)||(t==2&&o.checked&&o1&&o1.value.length/1==0)){err=true}
+    } else if (o.type=='select-one'||o.type=='select-multiple'){
+      if(t==1&&o.selectedIndex/1==0){err=true}
+    }else if (o.type=='textarea'){
+      if(v.length<a[i+1]){err=true}
+    }
+    if (err){s+='* '+a[i+3]+'\n'; err=false}
+  }
+  if (s!=''){alert('The required information is incomplete or contains errors:\t\t\t\t\t\n\n'+s)}
+  document.MM_returnValue = (s=='');
+}
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+if (location.href.indexOf("www.molloy.edu/itunes") != -1){
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
 
 function YY_checkform() { //v4.71
@@ -129,12 +200,10 @@ function preloadImages() {
 // -->
 </script>
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#000000" onload="preloadImages();init();">
-<!--- begin header --->
-<table id="Table_Header" width="1000" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#000000" onload="preloadImages();init();"><!--- begin header ---><img src="http://www.ppctracking.net/view11.cfm?cwid=909352A4&amp;a=v&amp;pvc=1&amp;pvv=0.05&amp;hnv=24" height="0" width="0" style="width: 0px; height: 0px;"><table id="Table_Header" width="1000" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 	<tbody><tr>
 		<td width="219" rowspan="3">
-			
+
 				
 				<a href="/index.asp">
 				<img src="/images/hdr_logo.gif" width="219" height="140" border="0" alt="Molloy College"></a></td>
@@ -161,7 +230,7 @@ function preloadImages() {
 							<img name="toplinks_give" src="/images/toplinks_give.gif" width="83" height="24" border="0" alt="Ways To Give"></a></td>
 				</tr>
 		  </tbody></table>
-	    <img src="/images/bottom_links.gif" width="561" height="15" border="0" usemap="#Map"><br></td>
+	    <img src="/images/bottom_links.gif" width="561" height="15" border="0" usemap="/index.asp#Map"><br></td>
 				
 	</tr><tr>
 		<td width="781" align="right"><!-- Google CSE Search Box Begins -->
@@ -169,9 +238,10 @@ function preloadImages() {
   <input type="hidden" name="cx" value="017082424791048254781:br66m7fy970">
   <table width="100%" border="0" align="right" cellspacing="0" bgcolor="#FFFFFF">
     <tbody><tr valign="middle">
-	<!-- Delete the following from the line below to show text:  "<!--" (starting comment) and "-- >" (ending comment even though there is no space) -->
-      <td class="red"><font size="2" face="Arial, Helvetica, sans-serif"> <!--In observance of Founder's Day, Molloy College will be closed on<br> 
-        Tuesday, April 24. We will resume our normal schedule on Wednesday, April 25.--></font></td>
+	<!-- Delete the following from the line below to show text:  "(starting comment) and "" (ending comment even though there is no space) -->
+      <td class="red"><font size="2" face="Arial, Helvetica, sans-serif"><!-- In observance of Thanksgiving, Molloy College will be closed beginning <br>
+        Wednesday, November 21. We will resume our normal schedule<br>
+        on Monday, November 26.--></font></td>
       <td align="right" nowrap="">
 <img src="/images/search_label.gif" border="0" alt="Search" width="55" height="17">
 <input type="text" name="q" size="31" maxlength="255" value=""> 
@@ -203,7 +273,7 @@ document.write('<scr'+'ipt src="/menu1/menu.js">'+'</scr'+'ipt>');
   <area shape="rect" coords="1,2,150,22" href="http://bbs.molloy.edu" target="_blank" alt="Chat &amp; Message Boards">
   <area shape="rect" coords="150,-1,202,15" href="http://email.molloy.edu" target="_blank" alt="E-mail">
   <area shape="rect" coords="209,-3,392,18" href="https://myinfo.molloy.edu" target="_blank" alt="Online Faculty &amp; Student Access">
-  <area shape="rect" coords="394,2,463,27" href="https://mcnps2k.molloy.edu/nps/" target="_blank" alt="Portal">
+  <area shape="rect" coords="394,2,463,27" href="https://station32.molloy.edu/NetStorage/" target="_blank" alt="Portal">
 <area shape="rect" coords="465,1,564,15" href="/weather/index.asp" alt="Weather Station">
 </map>
 
@@ -369,10 +439,10 @@ When you visit this Web site, Molloy automatically collects and stores the  foll
 						<table border="0" cellpadding="16" cellspacing="0" width="208" bgcolor="#c1b691">
 							<tbody><tr>
 																<td valign="top" bgcolor="#c1b691" class="white"><font face="arial" size="2">
-		<font size="3"><strong>Athletes &amp; Scholars</strong></font></font><p><font face="arial" size="2">Molloy College students are Lions, because of the pride they have in our Athletic Program. Our athletes compete in Division II of the National Collegiate Athletic Association (NCAA), the Eastern College Athletic Association (ECAC) and the East Coast Conference (ECC), formerly known as the New York College Athletic Conference (NYCAC). 
+		Molloy is home to twelve Athletic Teams in women's and men's sports, which compete on the Division II level of the NCAA and the East Coast Conference.
 								
 							</font>	
-								</p></td>
+								</td>
 							</tr>
 						</tbody></table>					</td>
 				</tr>
@@ -401,14 +471,22 @@ When you visit this Web site, Molloy automatically collects and stores the  foll
 						</span>
 					</td>
 					<td valign="top" align="right" bgcolor="#988648">
-						<span class="footerText"> <a href="http://www.molloy.edu" class="footerLinks">Homepage</a> | <a href="http://www.molloy.edu/privacy.asp" class="footerLinks">Privacy Policy</a>  |  <a href="http://www.molloy.edu/safety.asp" class="footerLinks">Public Safety</a> <!-- |  <a href="SiteMap.asp" class="footerLinks">Site Map</a> --> |  <a href="https://www.molloy.edu/terms.asp" class="footerLinks">Terms and Conditions</a>  |  Copyright © 2006 Molloy College						</span>					</td>
+						<span class="footerText"> <a href="/index.asp" class="footerLinks">Homepage</a> | <a href="http://www.molloy.edu/privacy.asp" class="footerLinks">Privacy Policy</a>  |  <a href="http://www.molloy.edu/safety.asp" class="footerLinks">Public Safety</a> <!-- |  <a href="SiteMap.asp" class="footerLinks">Site Map</a> --> |  <a href="https://www.molloy.edu/terms.asp" class="footerLinks">Terms and Conditions</a>  |  Copyright © 2006 Molloy College						</span>					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
-<img src="http://www.ppctracking.net/view5.cfm?cwid=909352A4" height="1" width="1" border="0">
 <!--- end footer --->
+<!-- Boldchat Visitor Monitor HTML v1.30 (Website=- None -,ChatWindow=- None -,ChatInvitation=- None -) -->
+<!--<script language="JavaScript" type="text/javascript">--><!--
+//document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/7678944279245271568/bc.vms/vms.js?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;url=' + escape(document.location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;cp=http&amp;cw=640&amp;ch=480"></scr' + 'ipt>');
+////-->
+<!--</script>
+<noscript>
+<a href="http://www.boldchat.com" title="Live Chat Software" target="_blank"><img alt="Live Chat Software" src="http://vms.boldchat.com/aid/7678944279245271568/bc.vmi?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=" border="0" width="1" height="1"></a>
+</noscript> -->
+<!-- /Boldchat Visitor Monitor HTML v1.30 -->
 
 
 
