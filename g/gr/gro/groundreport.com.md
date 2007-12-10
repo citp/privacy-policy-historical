@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groundreport.com privacy policy that was archived on 2007-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070523045729id_/http%3A//groundreport.com/content.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundreport.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223412id_/http%3A//www.groundreport.com/content.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Ground Report Privacy Policy
+# GroundReport
 
 **Privacy Policy**
 
@@ -66,4 +66,48 @@ We will modify this Policy if our privacy practices materially change in the fut
 
 If you have any questions about this Policy, or the practices of or your dealings with the Site, please email us at info@groundreport.com.
 
-|  | 
+**Terms of Use**
+
+GroundReport is an open news platform for original content. GroundReport will under no circumstances tolerate the publication of false, obscene, hateful or unauthorized content. 
+
+To report obscenity, false information or hate language in text and/or images, please use the _Report Abuse_ button on the relevant article page. If unable to use the "Report Abuse" function, please use the [Contact Form](http://www.groundreport.com/info.php?action=contact) and specify the article in violation.   
+
+
+GroundReport respects the Digital Millenium Copyright Act (DMCA) and its application for a designated agent is pending. In the interim, please use the [Contact Form](http://www.groundreport.com/info.php?action=contact) for all copyright complaints. GroundReport takes copyright infringement seriously and responds promptly to all complaints.   
+
+
+**Writers**
+
+Writers on GroundReport implicitly agree to publish only truthful, original text and images in their articles. Violation of copyright or publication of libelous, obscene and/or hateful language will result in deletion of all articles and account termination.
+
+**Writers will not profit from the publication of false or unauthorized text or images.** Writers forfeit all earnings associated with false or unauthorized content.   
+
+
+Writers retain all rights to and ownership of the articles they write on GroundReport. In publishing their work on GroundReport, writers agree to allow the publication of their article and images on [http://www.groundreport.com](http://www.groundreport.com/) alongside contextual advertisements. Upon publication, writers have the option to select from the following licenses to protect their work:
+
+_**Attribution (Very Relaxed)**_  
+  
+---  
+  
+Allows for changes and redistribution, commercial and non-commercial, that credits you as author.
+
+|   
+_****__**Attribution No Derivatives (Relaxed)**_  
+  
+Allows for redistribution, commercial and non-commercial, that credits you as author. No changes to your work are allowed.  
+  
+_****__**Attribution Non-commercial (Strict)**_  
+  
+Lets others redistribute, change and build upon your work non-commercially.  
+  
+_****__**Attribution Non-commercial No Derivatives (Very Strict)**_  
+  
+Allows for non-commercial redistribution that credits you as author. No changes to your work are allowed.  
+  
+**Readers**
+
+Readers agree to respect the intellectual property licenses associated with images and text on GroundReport.com. 
+
+**Comments**
+
+GroundReport does not tolerate the posting of spam or hate language in comment fields. Comments containing advertisements, profanity, obscenity or hate language will be promptly deleted and the commentor's account terminated.
