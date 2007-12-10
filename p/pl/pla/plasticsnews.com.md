@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052902id_/http%3A//www.plasticsnews.com/subscriber/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161403id_/http%3A//www.plasticsnews.com/subscriber/privacy.html) for the most accurate reproduction.*
 
 # Plastics News - Privacy Policy
 
 [](https://web.archive.org/subscriber/headlines.phtml)  
 |   | 
 
-_PlasticsNews.com_ , _PlasticsEncounter.com_ and _PlasticsNews.com/China_ are the Web sites of _Plastics News_ , a publication of Crain Communications Inc. Our postal address is 1725 Merriman Road, Akron, OH 44313, USA. We can be reached by e-mail at [webmaster@plasticsnews.com](mailto:webmaster@plasticsnews.com) or by telephone at 330-865-6212. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
+_PlasticsNews.com_ , _PlasticsEncounter.com_ and _PlasticsNews.com/China_ are the Web sites of _Plastics News_ , a publication of Crain Communications Inc. Our postal address is 1725 Merriman Road, Akron, OH 44313, USA. We can be reached by e-mail at _webmaster@plasticsnews.com_ or by telephone at 330-865-6212. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
 
@@ -19,7 +19,7 @@ Information collected about subscribers and users may be used by us and our affi
 
 From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [lcialella@crain.com](mailto:lcialella@crain.com) or, if you are a print subscriber, please call 1-800-678-9595. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
 
-We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [subs@crain.com](mailto:subs@crain.com). You may not be able to fully access this Web site if you request removal of your personal information. 
+We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [subs@crain.com](mailto:subs@crain.com?subject=PlasticsNews). You may not be able to fully access this Web site if you request removal of your personal information. 
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
 
