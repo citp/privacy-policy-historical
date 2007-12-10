@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430080830id_/http%3A//www.seedmagazine.com/misc/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210161203id_/http%3A//www.seedmagazine.com/misc/privacy_policy.php) for the most accurate reproduction.*
 
 # Seed: Privacy Policy
 
@@ -76,7 +76,7 @@ This Privacy Policy and the privacy practices of Seed Media will be subject excl
 
 ### Contacting Us
 
-If you have any comments or questions regarding our Privacy Policy, please contact us at [webmaster@seedmediagroup.com ](https://web.archive.org/web/20070430080830id_/http%3A//www.seedmagazine.com/misc/%E2%80%9Dmailto:webmaster@seedmediagroup.com)or at our contact information below. 
+If you have any comments or questions regarding our Privacy Policy, please contact us at [webmaster@seedmediagroup.com ](https://web.archive.org/web/20071210161203id_/http%3A//www.seedmagazine.com/misc/%E2%80%9Dmailto:webmaster@seedmediagroup.com)or at our contact information below. 
 
 Seed Media Group, LLC  
 12 W. 21st St, 7th Floor  
