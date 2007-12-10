@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the find.com privacy policy that was archived on 2007-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614173113id_/http%3A//www.find.com/main/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the find.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210174801id_/http%3A//www.find.com/main/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>FINDPRIVACY STATEMENT</title>
@@ -15,49 +15,58 @@
 	<script language="javascript" src="/js/c2c.js"></script>
 </head>
 
-	<body onload="SearchMenu('B','c_sinput','');">
+<body onload="SearchMenu('B','c_sinput');">
 	<div id="d_wrap">
 	<div id="d_top">
-	<div id="d_logo">
-		<a href="/"><img src="/images/find_logo.gif" alt="FIND.COM"></a>
-		<div id="d_home_link"><a href="/" class="home_link">Home page</a></div>
-	</div><!-- <div id=d_logo> -->
 	<div id="top_menu">
 		<table>
 			<tbody><tr>
 				<td>Welcome, Guest <a href="/main/signin.jsp" onclick="showLogin();return false;">[sign in]</a></td>
+				<td><a href="/">home</a></td>
 				<td><a href="/main/help.jsp">help</a></td>
 			</tr>
 		</tbody></table>
 	</div><!-- <div id=top_menu> -->
+	<div id="d_search_wrap">
+	<div id="d_logo">
+		<a href="/"><img src="/images/find_logo.gif" alt="FIND.COM"></a>
+	</div><!-- <div id=d_logo> -->
 	<div id="d_search">
-		<div id="sbox_top"></div>
-		<div id="sbox_content">
-			<div id="c_sinput"></div>
-		</div>
-		<div id="sbox_bottom"></div>
+		<table>
+			<tbody><tr>
+				<td>
+					<table>
+						<tbody><tr class="nav">
+							<td><a href="#" class="nav" id="sbbus" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('B','c_sinput');return false;" onfocus="if(this.blur)this.blur();" style="color: rgb(0, 0, 0);">Business</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbres" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('R','c_sinput');return false;" onfocus="if(this.blur)this.blur();">People</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbtel" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('T','c_sinput');return false;" onfocus="if(this.blur)this.blur();">By Phone #</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbadr" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('A','c_sinput');return false;" onfocus="if(this.blur)this.blur();">By Address</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbweb" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('W','c_sinput');return false;" onfocus="if(this.blur)this.blur();">Web</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbsho" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('S','c_sinput');return false;" onfocus="if(this.blur)this.blur();">Shopping</a></td>
+							<td class="sdiv"><a href="#" class="nav" id="sbdri" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('V','c_sinput');return false;" onfocus="if(this.blur)this.blur();">Directions</a></td>
+							<td></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="c_sinput"><form method="get" action="/LocalSearch" name="search_form" onsubmit="return onSubmit(&quot;B&quot;);" style="display:inline;"><input type="hidden" name="srchtype" value="B"><table> <tbody><tr class="srch">  <td><input name="what" id="bwhat" tabindex="1" size="25" maxlength="150" value="" type="text" onfocus="onFocus(this);" onblur="onBlur(this);" style="color: rgb(187, 187, 187);"></td>  <td><input name="where" id="bwhere" tabindex="2" size="25" maxlength="150" value="" type="text" onfocus="onFocus(this);" onblur="onBlur(this);" style="color: rgb(187, 187, 187);"></td>  <td>   <select name="cntryid" id="bcntryid" tabindex="3">    <option selected="" id="0001" value="0001">USA</option>    <option id="0353" value="0353">Ireland</option>    <option id="0033" value="0033">France</option>    <option id="0044" value="0044">UK</option>   </select>  </td>  <td><input id="bbutton" tabindex="3" type="submit" value="Find Business"></td>  <td>   <div id="d_workimg" style="visibility:hidden;">    <img id="workimg" src="/images/sm_snake.gif">   </div>  </td> </tr> <tr class="srchindent">  <td colspan="2"><input tabindex="4" type="checkbox" name="buscat" onclick="toggleBusCat();"><span class="toggle">check for Category of Business Search</span></td>  <td colspan="2"><a href="#" class="toggle" onclick="toggleBusDis(&quot;D&quot;);">search by distance?</a></td> </tr></tbody></table></form></div>
+				</td>
+			</tr>
+		</tbody></table>
 	</div><!-- <div id=d_search> -->
+	</div><!-- <div id=d_search_wrap> -->
+	<div id="d_search_bar">
+				<span id="top_bgbl"><img src="/images/top_bg_bl_white.gif"></span>
+				<span id="top_bgbr"><img src="/images/top_bg_br_white.gif"></span>
+	</div>
 	<div id="d_click2call">
 		<a href="*" onclick="Click2Call();return false;" onfocus="if(this.blur)this.blur();"><span class="c2cques">Already know your number?</span><br><br>
 		Click here to try our Click 2 Call service<br>
 		Make free or very cheap calls from any phone!<br></a>
 	</div><!-- <div id=d_click2call> -->
 		
-	<div id="d_search_bar">
-		<table>
-			<tbody><tr>
-				<td class="sbheader"><span class="sb_txt_header">SEARCH:</span></td>
-				<td class="sbutton" id="sb_bus" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('B','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_bus" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">Business</a></div></td>
-				<td class="sbutton" id="sb_res" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('R','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_res" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">People</a></div></td>
-				<td class="sbutton" id="sb_tel" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('T','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_tel" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">By Phone #</a></div></td>
-				<td class="sbutton" id="sb_adr" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('A','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_adr" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">By Address</a></div></td>
-				<td class="sbutton" id="sb_web" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('W','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_web" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">Web</a></div></td>
-				<td class="sbutton" id="sb_sho" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('S','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_sho" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">Shop</a></div></td>
-				<td class="sbutton" id="sb_dri" onmouseover="MouseOverButton(this);" onmouseout="MouseOutButton(this);" onclick="SearchMenu('V','c_sinput','');return false;"><div class="sb_txt"><a id="sblnk_dri" href="/" onclick="return false;" onfocus="if(this.blur)this.blur();">Drive</a></div></td>
-				<td class="sbutton"></td>
-			</tr>
-		</tbody></table>
-	</div><!-- <div id=d_search_bar> -->
 	<div class="spacer"></div>
 </div><!-- <div id=d_top> -->
 
@@ -74,7 +83,7 @@
 <a href="/main/privacy.jsp">Privacy Policy</a><br>
 <a href="/main/terms.jsp">Terms &amp; Cond.</a><br></td>
 				<td nowrap="" width="6"></td>
-				<td nowrap="" width="1" bgcolor="#999999" height="15"><spacer height="1" width="1" type="block"></spacer></td>
+				<td nowrap="" width="1" bgcolor="#999999" height="15"></td>
 				<td nowrap="" width="6"></td>
 				<td valign="top" class="txt">
 					<b>Privacy Policy</b><br>
