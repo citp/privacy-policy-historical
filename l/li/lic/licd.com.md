@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202130022id_/http%3A//licd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000829id_/http%3A//www.licd.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Least I Could Do » Home Page
+# Least I Could Do »
 
-|  |  |   
----|---  
-  
-Privacy Policy  
+## Privacy Policy
 
-
-  
 Blind Ferret Entertainment, producer of Least I Could Do and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At Blind Ferret, we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality. ________________________________________   
 **Information Gathered**   
 We don't collect personal information without your knowledge. We don't sell, rent, or give your personal information to unrelated third parties without your prior permission. This policy explains what information we collect about you and how we use that information. We also outline the choices you have.   
@@ -37,29 +32,6 @@ ________________________________________
 
 **Blind Ferret Entertainment®** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental. 
 
-The content of this web-site-graphics, text and other elements-is © Copyright 2004 by Blind Ferret Entertainment, and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher. 
+The content of this web-site-graphics, text and other elements-is � Copyright 2004 by Blind Ferret Entertainment, and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher. 
 
 **Least I Could Do®** is not intended for readers under 18 years of age. 
-
-|  |  All content & images are © Blind Ferret Entertainment.  
-[Privacy Policy](http://www.leasticoulddo.com/privacy_policy.php) | [Advertising](http://www.leasticoulddo.com/advertise.php) |  Site design by Leaking Faucet Studio  
-Webmasters: Scot Lincicome and Ryan McCahan   
----|---  
-  
-|  |  |  |  |   
----|---|---  
-|  Log into your Forum Account.
-
-Username:   
-Password:  
-
-
-  
-|   
-  
-|  |   
----|---|---  
-  
-[](http://licd.com/app/phpAdsNew-2.0.5/adclick.php?bannerid=130&zoneid=6&source=&dest=http%3A%2F%2Fimp.nevertales.com%2Findex3.html)  
-  
-|  | 
