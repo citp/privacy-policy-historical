@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623080454id_/http%3A//www.dwell.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234945id_/http%3A//www.dwell.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - dwell.com
 
-  
+Dwell Magazine Website Privacy Policy  
 Thank you for visiting the Dwell magazine website. On this site, we want to provide you with information that is tailored to your individual needs and, at the same time, help you protect your privacy. This notice explains our online information practices and the choices you can make about the way your personal information is collected and used. 
 
-  
+The Types of Information We Collect  
 From time to time at this site, you can order products, enter contests, vote in polls, subscribe to one of our services, or participate in our online forums or communities. When you do any of these things, we ask you for personally identifiable information such as your name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
 You may also occasionally submit information about other people. For example, you might submit a person's name and e-mail address to order a gift or gift subscription online. If you want it sent directly to the recipient, you may submit the recipient's name, address, and telephone number. 
 
 We also may collect certain non-personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). We may collect your Internet Protocol address ("IP address"), which is usually associated with the place from which you enter the Internet, like your Internet service provider, your company or your university.
 
-  
+How We Use the Information  
 We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you. We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you, or to contact you about your account with us. 
 
 We use the information that you provide about others to enable us to send them your gifts. From time to time, we also may use this information to offer products, programs, or services to them. 
