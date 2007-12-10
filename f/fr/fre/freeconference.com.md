@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconference.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629135404id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconference.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230454id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy: Protecting customer privacy during telephone conferencing is of highest importance. Contact us about our teleconferencing services today!
 
@@ -20,7 +20,7 @@ The following points provide you with an overview of our policies and a link to 
 
  **Does FreeConference.com Use Cookies?** Yes, FreeConference.com uses cookies for a variety of reasons, including improving your browsing experience online.  In addition, cookies help us personalize the site experience for you. Tell me more.
 
- **What is your policy for providing refunds for purchases?**   If you use our Web-Scheduled Premium 800 conference service we will bill your credit card for each minute spent on the line by each caller who calls into the conference.  If you request a refund, our policy is to research all refund claims no later than the first full business day following your inquiry.  If we find that an adjustment is fairly justified, we will process that adjustment or credit within five business days of the original inquiry.  If the adjustment or credit is not deemed to be valid, we will provide a written explanation within the same time frame.
+ **What is your policy for providing refunds for purchases?**   If you use our conference service we will bill your credit card for each minute spent on the line by each caller who calls into the conference.  If you request a refund, our policy is to research all refund claims no later than the first full business day following your inquiry.  If we find that an adjustment is fairly justified, we will process that adjustment or credit within five business days of the original inquiry.  If the adjustment or credit is not deemed to be valid, we will provide a written explanation within the same time frame.
 
  **Does FreeConference.com Place Banner Ads on Other Web Sites?**   FreeConference.com currently uses a third-party advertising company to place our ads on the Internet and cookie technology is used to measure the effectiveness of those ads.  You should know that the use of such cookies is subject to the third party's privacy policy, and not the policy of FreeConference.com. Tell me more.
 
