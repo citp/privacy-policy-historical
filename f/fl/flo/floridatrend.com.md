@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219103110id_/http%3A//floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234215id_/http%3A//www.floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
 
 # Florida Trend - Florida's Source For Business News
 
@@ -10,7 +10,7 @@ Our postal address is **490 1st Ave. S., 8th floor, St. Petersburg, FL 33701**.�
 
 We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) or **(727) 821-5800**.
 
-Your use of our websites indicates to us that you have read and accepted our [Privacy Policy](https://web.archive.org/web/20070219103110id_/http%3A//floridatrend.com/section.asp?secID=8) and our [Terms and Conditions](https://web.archive.org/web/20070219103110id_/http%3A//floridatrend.com/section.asp?secID=7).
+Your use of our websites indicates to us that you have read and accepted our [Privacy Policy](https://web.archive.org/web/20071210234215id_/http%3A//www.floridatrend.com/section.asp?secID=8) and our [Terms and Conditions](https://web.archive.org/web/20071210234215id_/http%3A//www.floridatrend.com/section.asp?secID=7).
 
 Our web sites use “cookies,” an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user’s requested activity, to target specific information, to perform analysis and for research and development.
 
