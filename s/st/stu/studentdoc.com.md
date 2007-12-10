@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506055953id_/http%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080250id_/http%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions of Use for Studentdoc.com
 
@@ -16,19 +16,15 @@
 
 Or write:
 
-  MRG
-
-                Legal Division
-
-                Copyright Agent 
-
-                3525 Rochester Road 
-
+                MRG, LLC  
+                Legal Division  
+                Copyright Agent   
+                3525 Rochester Road   
                 Troy, MI 48083
 
 **4.   Reserved Rights.  **We reserve the right to revise our _Privacy Statement_ at any time at our discretion. Changes to our _Privacy Statement_ and _Statement Regarding Legal Communications_ will become effective upon posting to our website.  You are responsible for checking this policy periodically to monitor any changes to our privacy practices. Continued access or use of this Site shall be deemed as conclusive acceptance of the modified agreement.
 
-**5.   Parental Guidance is Required**.  Children are not eligible to use our website or our services, and we ask that minors (under the age of 18) do not submit any personal information to MRG. If you are a minor, you can use this service only in conjunction with your parents or guardians supervision or as permitted under Title XIII of the United State Code – _Children’s Online Privacy Protection Section Act1303_ , (Regulation of Unfair and Deceptive Acts and Practices in connection with the collection and use of personal information from and about children on the internet). 
+**5.   Parental Guidance is Required**.  Children are not eligible to use our website or our services, and we ask that minors (under the age of 18) do not submit any personal information to MRG. If you are a minor, you can use this service only in conjunction with your parents or guardians supervision or as permitted under Title XIII of the United State Code – _Children’s Online Privacy Protection Section Act1303_ , (Regulation of Unfair and Deceptive Acts and Practices in connection with the collection and use of personal information from and about children on the internet). 
 
 **6.   Personal Information.  **Personal information includes information such as your zip code, your usage patterns, name, address, phone number, e-mail address, and other similar information collected on the website, unless it is unauthorized by law. Private information is stored in a secure electronic format and periodically deleted. 
 
@@ -84,4 +80,7 @@ Only those employees of MRG who require access to data concerning users are gran
 
 Last Updated 10-14-06
 
-Copyright 2006 Medical Resource Group, LLC. All rights reserved
+Copyright 2007 Medical Resource Group, LLC. All rights reserved
+
+  
+
