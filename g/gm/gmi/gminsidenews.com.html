@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the gminsidenews.com privacy policy that was archived on 2007-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070517205559id_/http%3A//www.gminsidenews.com/forums/faq.php%3Ffaq%3Dnew_faq_item%23faq_new_faq_item_tos) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gminsidenews.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210231129id_/http%3A//www.gminsidenews.com/forums/faq.php%3Ffaq%3Dnew_faq_item%23faq_new_faq_item_tos) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="generator" content="vBulletin 3.5.4">
+<meta name="generator" content="vBulletin 3.6.8">
 
 	
 <meta name="keywords" content="gmi,forums,forum,GMI,GMInsidenews,gminsidenews,">
@@ -23,15 +23,15 @@ body
 	margin: 5px 10px 10px 10px;
 	padding: 0px;
 }
-a:link
+a:link, body_alink
 {
 	color: #22229C;
 }
-a:visited
+a:visited, body_avisited
 {
 	color: #000066;
 }
-a:hover, a:active
+a:hover, a:active, body_ahover
 {
 	color: #FF4400;
 }
@@ -56,17 +56,17 @@ td, th, p, li
 	color: #FFFFFF;
 	font: bold 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
 }
-.tcat a:link
+.tcat a:link, .tcat_alink
 {
 	color: #ffffff;
 	text-decoration: none;
 }
-.tcat a:visited
+.tcat a:visited, .tcat_avisited
 {
 	color: #ffffff;
 	text-decoration: none;
 }
-.tcat a:hover, .tcat a:active
+.tcat a:hover, .tcat a:active, .tcat_ahover
 {
 	color: #FFFF66;
 	text-decoration: underline;
@@ -77,15 +77,15 @@ td, th, p, li
 	color: #FFFFFF;
 	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
 }
-.thead a:link
+.thead a:link, .thead_alink
 {
 	color: #FFFFFF;
 }
-.thead a:visited
+.thead a:visited, .thead_avisited
 {
 	color: #FFFFFF;
 }
-.thead a:hover, .thead a:active
+.thead a:hover, .thead a:active, .thead_ahover
 {
 	color: #FFFF00;
 }
@@ -94,15 +94,15 @@ td, th, p, li
 	background: #0537CA;
 	color: #E0E0F6;
 }
-.tfoot a:link
+.tfoot a:link, .tfoot_alink
 {
 	color: #E0E0F6;
 }
-.tfoot a:visited
+.tfoot a:visited, .tfoot_avisited
 {
 	color: #E0E0F6;
 }
-.tfoot a:hover, .tfoot a:active
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
 {
 	color: #FFFF66;
 }
@@ -197,17 +197,17 @@ legend
 	padding: 3px 6px 3px 6px;
 	white-space: nowrap;
 }
-.vbmenu_control a:link
+.vbmenu_control a:link, .vbmenu_control_alink
 {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.vbmenu_control a:visited
+.vbmenu_control a:visited, .vbmenu_control_avisited
 {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.vbmenu_control a:hover, .vbmenu_control a:active
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
 {
 	color: #FFFFFF;
 	text-decoration: underline;
@@ -226,17 +226,17 @@ legend
 	white-space: nowrap;
 	cursor: pointer;
 }
-.vbmenu_option a:link
+.vbmenu_option a:link, .vbmenu_option_alink
 {
 	color: #22229C;
 	text-decoration: none;
 }
-.vbmenu_option a:visited
+.vbmenu_option a:visited, .vbmenu_option_avisited
 {
 	color: #22229C;
 	text-decoration: none;
 }
-.vbmenu_option a:hover, .vbmenu_option a:active
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
 {
 	color: #FFFFFF;
 	text-decoration: none;
@@ -249,17 +249,17 @@ legend
 	white-space: nowrap;
 	cursor: pointer;
 }
-.vbmenu_hilite a:link
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
 {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.vbmenu_hilite a:visited
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
 {
 	color: #FFFFFF;
 	text-decoration: none;
 }
-.vbmenu_hilite a:hover, .vbmenu_hilite a:active
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
 {
 	color: #FFFFFF;
 	text-decoration: none;
@@ -268,11 +268,16 @@ legend
 .bigusername { font-size: 14pt; }
 
 /* ***** small padding on 'thead' elements ***** */
-td.thead, div.thead { padding: 4px; }
+td.thead, th.thead, div.thead { padding: 4px; }
 
 /* ***** basic styles for multi-page nav elements */
 .pagenav a { text-decoration: none; }
 .pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
 
 /* ***** define margin and font-size for elements inside panels ***** */
 .fieldset { margin-bottom: 6px; }
@@ -283,6 +288,7 @@ form { display: inline; }
 label { cursor: default; }
 .normal { font-weight: normal; }
 .inlineimg { vertical-align: middle; }
+.underline { text-decoration: underline; }
 -->
 </style>
 
@@ -290,15 +296,61 @@ label { cursor: default; }
 
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=a1f06f4517bba0920db32ce98bacb1fa&";
+var SESSIONURL = "";
 var IMGDIR_MISC = "http://www.gminsidenews.com/forums/images/misc";
 var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
 
-<script type="text/javascript" src="clientscript/vbulletin_global.js"></script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=368"></script>
 
-<link rel="alternate" type="application/rss+xml" title="GMInsideNews Forums RSS Feed" href="external.php?type=RSS">
+
+<link rel="alternate" type="application/rss+xml" title="GMInsideNews Forums RSS Feed" href="external.php?type=RSS2">
+
+<!-- 
+  nCode Image Resizer
+  (c) nCode
+  http://www.ncode.nl/vbulletinplugins/
+-->
+<script type="text/javascript" src="http://www.gminsidenews.com/forums/clientscript/ncode_imageresizer.js?v=1.0.1"></script>
+<style type="text/css">
+<!--
+table.ncode_imageresizer_warning {
+	background: #FFFFE1;
+	color: #000000;
+	border: 1px solid #CCC;
+	cursor: pointer;
+}
+
+table.ncode_imageresizer_warning td {
+	font-size: 10px;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+table.ncode_imageresizer_warning td.td1 {
+	padding: 5px;
+}
+
+table.ncode_imageresizer_warning td.td1 {
+	padding: 2px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+NcodeImageResizer.MODE = 'enlarge';
+NcodeImageResizer.MAXWIDTH = 800;
+NcodeImageResizer.MAXHEIGHT = 800;
+
+NcodeImageResizer.BBURL = 'http://www.gminsidenews.com/forums';
+
+vbphrase['ncode_imageresizer_warning_small'] = 'Click this bar to view the full image.';
+vbphrase['ncode_imageresizer_warning_filesize'] = 'This image has been resized. Click this bar to view the full image. The original image is sized %1$sx%2$s and weights %3$sKB.';
+vbphrase['ncode_imageresizer_warning_no_filesize'] = 'This image has been resized. Click this bar to view the full image. The original image is sized %1$sx%2$s.';
+vbphrase['ncode_imageresizer_warning_fullsize'] = 'Click this bar to view the small image.';
+//-->
+</script><script type="text/javascript" src="/vbspell.js"></script>
 <title>GMInsideNews Forums - FAQ: General Board Rules</title>
 </head>
 <body leftmargin="0" rightmarging="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -343,10 +395,10 @@ var vb_disable_ajax = parseInt("0", 10);
 	<tbody><tr>
 		<td height="106" width="100%">
 			<a href="http://www.gminsidenews.com">
-			<img src="http://www.gminsidenews.com/gm_left.jpg" border="0"></a></td>
+			<img src="http://www.gminsidenews.com/gm_left.jpg" border="0" width="449" height="140"></a></td>
 		<td height="106" width="100%">
 			<a href="http://www.gminsidenews.com/">
-			<img src="http://www.gminsidenews.com/New_Site/gm_right.jpg" align="right" hspace="0" border="0"></a></td>
+			<img src="http://www.gminsidenews.com/New_Site/gm_right.jpg" align="right" hspace="0" border="0" width="305" height="140"></a></td>
 	</tr>
 </tbody></table>
 <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#075DF0" height="10">
@@ -383,43 +435,41 @@ var vb_disable_ajax = parseInt("0", 10);
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="100%">
-		<p align="center"><!--webbot bot="HTMLMarkup" startspan --><script language="JavaScript" type="text/javascript">
+		<p align="center"><script language="JavaScript" type="text/javascript" src="http://www.gminsidenews.com/Ads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
    if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
    document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://www.gminsidenews.com/Ads/adjs.php?n=ab558ad8");
+   document.write ("http://www.gminsidenews.com/Ads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;target=_blank");
    document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
-
-  </script><script language="JavaScript" type="text/javascript" src="http://www.gminsidenews.com/Ads/adjs.php?n=ab558ad8&amp;exclude=,"></script><!--webbot bot="HTMLMarkup" endspan --></p></td>
-	</tr>
-	<tr>
+//-->
+        </script><script language="JavaScript" type="text/javascript" src="http://www.gminsidenews.com/Ads/adjs.php?n=677250448&amp;target=_blank&amp;exclude=,"></script><noscript>
+        <a href='http://www.gminsidenews.com/Ads/adclick.php?n=a51e1022' target='_blank'><img src='http://www.gminsidenews.com/Ads/adview.php?n=a51e1022' border='0' alt=''></a></noscript>
+</p></td></tr><tr>
 		<td width="100%">
 		<p align="center"><b><font face="Verdana">
 		<a href="mailto:admin@gminsidenews.com?subject=Sponsorship Information">
 		Advertising Information</a></font></b></p></td>
+
 	</tr>
 </tbody></table>
+<!-- USC header edit start -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
 
-
-
-<script type="text/javascript">
-<!--
-function log_out()
-{
-	ht = document.getElementsByTagName("html");
-	ht[0].style.filter = "progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)";
-	if (confirm('Are you sure you want to log out?'))
-	{
-		return true;
-	}
-	else
-	{
-		ht[0].style.filter = "";
-		return false;
-	}
-}
-//-->
-</script>
+<td valign="top">
+<!-- USC header edit end -->
+<form name="spell_form" id="spell_form" method="POST" target="spellWindow" action="/vbspell.php">
+<input type="hidden" name="spell_formname" value="">
+<input type="hidden" name="spell_fieldname" value="">
+<input type="hidden" name="spellstring" value="">
+</form>
 
 <br>
 
@@ -432,13 +482,13 @@ function log_out()
 			<tbody><tr valign="bottom">
 				<td><a href="#" onclick="history.back(1); return false;"><img src="http://www.gminsidenews.com/forums/images/misc/navbits_start.gif" alt="Go Back" border="0" title="Go Back"></a></td>
 				<td>&nbsp;</td>
-				<td width="100%"><span class="navbar"><a href="index.php?s=a1f06f4517bba0920db32ce98bacb1fa" accesskey="1">GMInsideNews Forums</a></span> 
-	<span class="navbar">&gt; <a href="faq.php?s=a1f06f4517bba0920db32ce98bacb1fa">FAQ</a></span>
+				<td width="100%"><span class="navbar"><a href="index.php" accesskey="1">GMInsideNews Forums</a></span> 
+	<span class="navbar">&gt; <a href="faq.php">FAQ</a></span>
 
 </td>
 			</tr>
 			<tr>
-				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/forums/faq.php?faq=new_faq_item"><img class="inlineimg" src="http://www.gminsidenews.com/forums/images/misc/navbits_finallink.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong>
+				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/forums/faq.php?faq=new_faq_item"><img class="inlineimg" src="http://www.gminsidenews.com/forums/images/misc/navbits_finallink_ltr.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong>
 	General Board Rules
 
 </strong></td>
@@ -452,8 +502,8 @@ function log_out()
 		<td class="alt2" nowrap="nowrap" style="padding:0px">
 			
 		<!-- login form -->
-		<form action="login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-		<script type="text/javascript" src="clientscript/vbulletin_md5.js"></script>
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=368"></script>
 		<table cellpadding="0" cellspacing="3" border="0">
 		<tbody><tr>
 			<td class="smallfont"><label for="navbar_username">User Name</label></td>
@@ -462,11 +512,11 @@ function log_out()
 		</tr>
 		<tr>
 			<td class="smallfont"><label for="navbar_password">Password</label></td>
-			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" accesskey="p" tabindex="102"></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
 			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
 		</tr>
 		</tbody></table>
-		<input type="hidden" name="s" value="a1f06f4517bba0920db32ce98bacb1fa">
+		<input type="hidden" name="s" value="">
 		<input type="hidden" name="do" value="login">		
 		<input type="hidden" name="vb_login_md5password">
 		<input type="hidden" name="vb_login_md5password_utf">
@@ -482,28 +532,26 @@ function log_out()
 <!-- / breadcrumb, login, pm info -->
 
 <!-- nav buttons bar -->
-<div align="center">
-	<table class="tborder" cellpadding="6" cellspacing="0" border="0" width="100%" align="center" style="border-top-width:0px">
-	<tbody><tr align="center">
-		
-		
-			<td class="vbmenu_control"><a href="register.php?s=a1f06f4517bba0920db32ce98bacb1fa" rel="nofollow">Register</a></td>
-		
-		<td class="vbmenu_control"><a href="faq.php?s=a1f06f4517bba0920db32ce98bacb1fa" accesskey="5">FAQ</a></td>
-		<td class="vbmenu_control"><a href="memberlist.php?s=a1f06f4517bba0920db32ce98bacb1fa">Members List</a></td>
-		<td class="vbmenu_control"><a href="/forums/gallery/">Media Gallery</a></td>
-		<td class="vbmenu_control"><a href="/forums/chat/flashchat.php">Chat</a></td>
-		<td class="vbmenu_control"><a href="calendar.php?s=a1f06f4517bba0920db32ce98bacb1fa">Calendar</a></td>
-<td class="vbmenu_control"><a href="vbgarage.php?s=a1f06f4517bba0920db32ce98bacb1fa&amp;do=list">vBGarage</a></td>
-				
+<table class="tborder" cellpadding="6" cellspacing="0" border="0" width="100%" align="center" style="border-top-width:0px">
+<tbody><tr align="center">
+	
+	
+		<td class="vbmenu_control"><a href="register.php" rel="nofollow">Register</a></td>
+	
+	
+	<td class="vbmenu_control"><a href="faq.php" accesskey="5">FAQ</a></td>
+	<td class="vbmenu_control"><a href="memberlist.php">Members List</a></td>
+	<td class="vbmenu_control"><a href="calendar.php">Calendar</a></td>
+        <td class="vbmenu_control"><a href="vbgarage.php?do=list">vBGarage</a></td>
 			
-			<td class="vbmenu_control"><a href="forumdisplay.php?s=a1f06f4517bba0920db32ce98bacb1fa&amp;do=markread" rel="nofollow">Mark Forums Read</a></td>
-						
 		
-		
-	</tr>
-	</tbody></table>
-</div>
+		<td class="vbmenu_control"><a href="forumdisplay.php?do=markread" rel="nofollow">Mark Forums Read</a></td>
+					
+	
+	
+	
+</tr>
+</tbody></table>
 <!-- / nav buttons bar -->
 
 <br>
@@ -511,8 +559,12 @@ function log_out()
 
 
 
+
+<!-- / PAGENAV POPUP -->
+
+
 <form action="faq.php" method="get">
-<input type="hidden" name="s" value="a1f06f4517bba0920db32ce98bacb1fa">
+<input type="hidden" name="s" value="">
 <input type="hidden" name="do" value="search">
 
 <table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
@@ -1066,8 +1118,15 @@ is/becomes the property of GMInsidenews and it's owners.</p>
 
 
 <br>
-<div class="smallfont" align="center">All times are GMT -5. The time now is <span class="time">03:55 PM</span>.</div>
+<div class="smallfont" align="center">All times are GMT -5. The time now is <span class="time">06:11 PM</span>.</div>
 <br>
+
+<!-- USC footer edit start -->
+</td>
+
+</tr>
+</tbody></table>
+<!-- USC footer edit end -->
 
 
 			
@@ -1097,7 +1156,7 @@ is/becomes the property of GMInsidenews and it's owners.</p>
 	<td class="tfoot" align="right" width="100%">
 		<div class="smallfont">
 			<strong>
-				<a href="sendmessage.php" rel="nofollow">Contact Us</a> -
+				<a href="sendmessage.php" rel="nofollow" accesskey="9">Contact Us</a> -
 				<a href="http://www.gminsidenews.com">GMInsideNews</a> -
 				
 				
@@ -1115,18 +1174,17 @@ is/becomes the property of GMInsidenews and it's owners.</p>
 <div align="center">
 	<div class="smallfont" align="center">
 	<!-- Do not remove this copyright notice -->
-	Powered by vBulletin Version 3.5.4<br>Copyright ©2000 - 2007, Jelsoft Enterprises Ltd.
+	Powered by vBulletin® Version 3.6.8<br>Copyright ©2000 - 2007, Jelsoft Enterprises Ltd.
 	<!-- Do not remove this copyright notice -->
-	&nbsp;</div>
+	</div>
 	
 	<div class="smallfont" align="center">
 	<!-- Do not remove  or your scheduled tasks will cease to function -->
 	
 	<!-- Do not remove  or your scheduled tasks will cease to function -->
 	
-	©2006 GMInsidenews.com<p><b><font face="Verdana">GMInsidenews.com is not 
-	affiliated with General Motors Corp.&nbsp; </font></b>
-	</p></div>
+	©2006 GMInsidenews.com
+	</div>
 </div>
 
 </form>
@@ -1153,8 +1211,7 @@ is/becomes the property of GMInsidenews and it's owners.</p>
 </style>
 <!-- end Vibrant Media IntelliTXT style sheet -->
 <!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://gminsidenews.us.intellitxt.com/intellitxt/front.asp?ipid=2643&amp;kwpn=2&amp;mk=8"></script>
+<script type="text/javascript" src="http://gminsidenews.us.intellitxt.com/intellitxt/front.asp?ipid=2643&amp;kwpn=4&amp;mk=6"></script>
 <!-- end Vibrant Media IntelliTXT script section -->
-
 
 </body></html>
