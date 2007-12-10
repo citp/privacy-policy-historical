@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630111418id_/http%3A//inman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074844id_/http%3A//www.inman.com/privacy.aspx) for the most accurate reproduction.*
 
 # Real Estate News and Tips for Buyers, Sellers & Investors - Inman News
 
