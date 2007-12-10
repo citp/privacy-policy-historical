@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206160648id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearthhacks.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210223526id_/http%3A//www.gearthhacks.com/privacy.php) for the most accurate reproduction.*
 
 # Google Earth Hacks - Privacy Statement
-
-_Google Earth Hacks is not affiliated with Google in any way_
 
 Google Earth Hacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [gEarthHacks.com](http://www.gearthhacks.com/)
 
@@ -26,6 +24,3 @@ This site makes message boards available to its users. Please remember that any 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [mickey@gearthhacks.com](mailto:mickey@gearthhacks.com)
-
-  
-
