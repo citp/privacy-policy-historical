@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportbuyer.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623132240id_/http%3A//www.reportbuyer.com/customer_services/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportbuyer.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234518id_/http%3A//www.reportbuyer.com/customer_services/privacy_and_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
