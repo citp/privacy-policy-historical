@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpabuilder.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526174056id_/http%3A//cpabuilder.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpabuilder.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213037id_/http%3A//www.cpabuilder.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Cpa Builder
 
