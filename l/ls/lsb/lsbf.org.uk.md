@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630113551id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210183813id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
 
 # LSBF - London School of Business and Finance Privacy Policy
 
@@ -10,7 +10,7 @@ Please keep in mind that whenever you voluntarily **disclose personal informatio
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords, where applicable. **Please be careful and responsible when you're online**.
 
-If you have any requests concerning your personal information or any queries with regard to these practices, [please contact us](mailto:feedback@lsbf.org.uk).
+If you have any requests concerning your personal information or any queries with regard to these practices, [please contact us](http://www.lsbf.org.uk/contact.html).
 
 back to top
 
@@ -38,6 +38,6 @@ We will not disclose your information to any other companies or their respective
 
 ## Information Retention
 
-We hope that you will enjoy our sites and that you will revisit them regularly. Should a user login remain unused for a period of 180 days, the account will be automatically terminated. Under the Data Protection Act we will also remove any personal data on request (assuming that we can ensure the request came from the information owner). To do so, please write to [dpa@lsbf.org.uk](mailto:dpa@lsbf.org.uk).
+We hope that you will enjoy our sites and that you will revisit them regularly. Should a user login remain unused for a period of 180 days, the account will be automatically terminated. Under the Data Protection Act we will also remove any personal data on request (assuming that we can ensure the request came from the information owner). To do so, please write to [dpa@lsbf.org.uk](http://www.lsbf.org.uk/contact.html).
 
 back to top
