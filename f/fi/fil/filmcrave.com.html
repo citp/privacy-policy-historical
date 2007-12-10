@@ -1,0 +1,707 @@
+<!--The following is the downloaded HTML source of the filmcrave.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210030443id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="A social networkig site created specifically for movies. Create your own top movie lists, write reviews the way you want to, rate the movies you’ve seen, compare lists and view personalities- meet people just like yourself.  You can send messages to your friends, comment on their lists and even invite non-members – all of this is free and it’s easy to sign up! ">
+<meta name="keywords" content="movies, lists, film, reviews, friends, social networking, free, recent, new, profile, talk, new, filmcrave, film crave, filmcrave, spout, matchflick, flixster, flickster, imdb,  dating, dvds, top movies, top rated movies, top movie lists, movie reviews, horror, action, drama, mystery, crime, war, romance, family, animation, animated, comedy, scifi, sci-fi, science fiction, thriller">
+<title>Filmcrave.com :: Terms of Use Agreement</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+</head>
+
+<body bgcolor="#c8c8c8">
+<center>
+<link rel="stylesheet" type="text/css" media="screen,projection" href="/css/star_rating.css"><table width="977" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<script language="JavaScript" src="../js/popup.js"></script>
+
+<script src="/js/star_rating.js"></script>
+<script language="JavaScript">
+var xmlHttp
+var xmlHttp2
+var xmlHttp3
+var commentlink = "0";
+var blntrailer = false;
+
+var mypopup = new PopupWindow("searchdiv");
+mypopup.offsetX=0;
+mypopup.offsetY=20;
+
+var deletepopup = new PopupWindow("deletediv");
+deletepopup.offsetX=-138;
+deletepopup.offsetY=18;
+
+var deletelistpopup = new PopupWindow("deletelistdiv");
+deletelistpopup.offsetX=-75;
+deletelistpopup.offsetY=18;
+
+var editlisttitlepopup = new PopupWindow("editlisttitlediv");
+editlisttitlepopup.offsetX=-60;
+editlisttitlepopup.offsetY=18;
+
+var deletereviewpopup = new PopupWindow("deletereviewdiv");
+deletereviewpopup.offsetX=-75;
+deletereviewpopup.offsetY=18;
+
+var deletefriendpopup = new PopupWindow("deletefrienddiv");
+deletefriendpopup.offsetX=0;
+deletefriendpopup.offsetY=18;
+
+var trailer_popup = new PopupWindow("trailer_hidden");
+trailer_popup.offsetX=-71;
+trailer_popup.offsetY=25;
+
+function show_trailer() {
+	if (document.getElementById("trailer_hidden").innerHTML != "") {
+		document.getElementById("trailer_show").innerHTML = document.getElementById("trailer_hidden").innerHTML;
+		document.getElementById("trailer_hidden").innerHTML = "";
+	}
+	//document.getElementById("trailer_show").innerHTML = '<table width="603" height="425" cellpadding="0" cellspacing="0" border="0"><tr><td>&nbsp;</td></tr></table>';
+	//trailer_popup.showPopup('frm_searchbox');
+	//blntrailer = true;
+  	return false;
+}
+
+function hide_trailer() {
+	document.getElementById("trailer_hidden").innerHTML = document.getElementById("trailer_show").innerHTML;
+	document.getElementById("trailer_show").innerHTML = "";
+	//var flashMovie=getFlashMovieObject("vd_trailer");
+	//flashMovie.StopPlay();
+	//trailer_popup.hidePopup();
+	//document.getElementById("trailer_show").innerHTML = "";
+	//blntrailer = false;
+	return false;
+}
+
+function fix_trailer() {
+	if (blntrailer == true)
+	{
+		trailer_popup.showPopup('frm_searchbox');
+		return false;
+	}
+}
+
+function getFlashMovieObject(movieName)
+{
+  if (window.document[movieName]) 
+  {
+    return window.document[movieName];
+  }
+  if (navigator.appName.indexOf("Microsoft Internet")==-1)
+  {
+    if (document.embeds && document.embeds[movieName])
+      return document.embeds[movieName]; 
+  }
+  else // if (navigator.appName.indexOf("Microsoft Internet")!=-1)
+  {
+    return document.getElementById(movieName);
+  }
+}
+
+function show_delete_list() {
+  deletelistpopup.showPopup('deletelist');
+  return false;
+}
+
+function show_edit_list_title() {
+  editlisttitlepopup.showPopup('editlisttitle');
+  return false;
+}
+
+function show_delete_review() {
+  deletereviewpopup.showPopup('deletereview');
+  return false;
+}
+
+function show_delete_friend() {
+  deletefriendpopup.showPopup('deletefriend');
+  return false;
+}
+
+function show_delete_comment(link) {
+  if (link.substr(0,1) == "A")
+  {
+    commentlink = link.replace("A","");
+    deletepopup.offsetX=0;
+    deletepopup.offsetY=20;
+  }
+  else
+  {
+    commentlink = link;
+    deletepopup.offsetX=-138;
+    deletepopup.offsetY=18;
+  }
+  deletepopup.showPopup('deletecomment'+link);
+  return false;
+}
+
+function delete_comment()
+{
+  xmlHttp2=GetXmlHttpObject()
+
+  if (xmlHttp2==null)
+  {
+    alert ("Your browser does not support AJAX!")
+    return
+  }
+
+  var url="/ajax/delete_comment.php?id="
+  url=url+commentlink+"&sid="+Math.random()
+  xmlHttp2.onreadystatechange=stateChanged_comment
+  xmlHttp2.open("GET",url,true)
+  xmlHttp2.send(null)
+  deletepopup.hidePopup();
+  return false;
+}
+
+function stateChanged_comment()
+{
+  if (xmlHttp2.readyState==4 || xmlHttp2.readyState=="complete")
+  {
+    if (xmlHttp2.responseText=="Failed")
+    {
+      alert("Deletion of comment failed!")
+    }
+    else
+    {
+	  document.getElementById("comment" + xmlHttp2.responseText).style.height = "0px";
+	  document.getElementById("comment" + xmlHttp2.responseText).innerHTML = "";
+    }
+  }
+}
+
+function approve_comment(link)
+{
+  xmlHttp3=GetXmlHttpObject()
+
+  if (xmlHttp3==null)
+  {
+    alert ("Your browser does not support AJAX!")
+    return
+  }
+
+  var url="/ajax/approve_comment.php?id="
+  url=url+link+"&sid="+Math.random()
+  xmlHttp3.onreadystatechange=stateChanged_approve_comment
+  xmlHttp3.open("GET",url,true)
+  xmlHttp3.send(null)
+  return false;
+}
+
+function stateChanged_approve_comment()
+{
+  if (xmlHttp3.readyState==4 || xmlHttp3.readyState=="complete")
+  {
+    if (xmlHttp3.responseText=="Failed")
+    {
+      alert("Approval of comment failed!")
+    }
+    else
+    {
+	  document.getElementById("commentA" + xmlHttp3.responseText).style.borderColor = "#FFFFFF";
+	  document.getElementById("commentA" + xmlHttp3.responseText).style.backgroundColor = "#FFFFFF";
+	  document.getElementById("commentA" + xmlHttp3.responseText).style.height = "0px";
+	  document.getElementById("commentA" + xmlHttp3.responseText).innerHTML = "";
+    }
+  }
+}
+
+function do_search(myinputbox) {
+  if (myinputbox.value == "")
+  {
+    mypopup.hidePopup();
+	return false;
+  }
+  else
+  {
+    document.getElementById("searchdiv").innerHTML='<table border="0" cellpadding="0" cellspacing="0" width="298px"><tr><td class="bgwhite"><span class="blackboldtext">Searching...</span></td><td class="bgwhite" align="right"><a href="#" class="blueboldlink" onClick="mypopup.hidePopup();return false;">Close</a>&nbsp;&nbsp;</td></tr></table>';
+    xmlHttp=GetXmlHttpObject()
+
+    if (xmlHttp==null)
+    {
+      alert ("Your browser does not support AJAX!")
+      return
+    }
+
+    var myElement = document.getElementById('frm_radio_search');
+	if (myElement.checked == false)
+	{
+	  var url="../ajax/do_search_users.php?txt="+myinputbox.value+"&sid="+Math.random();
+	}
+	else
+	{
+	  var url="../ajax/do_search.php?txt="+myinputbox.value+"&sid="+Math.random();
+	}
+	
+    xmlHttp.onreadystatechange=do_search_stateChanged;
+	//xmlHttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded"); 
+	//xmlHttp.setRequestHeader("Content-Type", "text/xml; charset=iso-8859-9");
+	//xmlHttp.setRequestHeader("Content-Type", "text/xml; charset=iso-8859-1");
+    xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+    return false;
+  }
+}
+
+function do_search_stateChanged()
+{
+  if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+  {
+    document.getElementById("searchdiv").innerHTML=xmlHttp.responseText;
+  }
+}
+
+function add_to_list(movie_index)
+{
+	xmlHttp2=GetXmlHttpObject()
+
+    if (xmlHttp2==null)
+    {
+      alert ("Your browser does not support AJAX!")
+      return
+    }
+
+    var url="../ajax/add_to_list.php?id="+movie_index+"&sid="+Math.random();
+    xmlHttp2.onreadystatechange= add_to_list_stateChanged;
+    xmlHttp2.open("GET",url,true);
+    xmlHttp2.send(null);
+    return false;
+}
+
+function add_to_list_stateChanged()
+{
+  if (xmlHttp2.readyState==4 || xmlHttp2.readyState=="complete")
+  {
+    if (xmlHttp2.responseText == "ok")
+	{
+	  //h = document.frames('rp_drag').document.body.scrollHeight;
+	  //document.all.rp_drag.style.height = h + 30;
+rp_drag.reloadPage();	}
+	else
+	{
+		alert (xmlHttp2.responseText);
+	}
+  }
+}
+
+function save_star_rating(str)
+{
+  xmlHttp=GetXmlHttpObject()
+
+  if (xmlHttp==null)
+  {
+    alert ("Your browser does not support AJAX!")
+    return
+  }
+
+  var url="/ajax/save_star_rating.php?";
+  url=url+str+"&sid="+Math.random();
+  xmlHttp.onreadystatechange=save_star_rating_stateChanged;
+  xmlHttp.open("GET",url,true);
+  xmlHttp.send(null);
+  return false;
+}
+
+function save_star_rating_stateChanged()
+{
+  if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+  {
+    var str1=xmlHttp.responseText;
+	if (str1.substr(0,5) != "Error")
+	{
+	  var int1=str1.indexOf(";");
+	  document.getElementById("avg"+str1.substr(0,int1)).className = "ratingavg"+str1.substr(int1+1);
+	  calculate_points();
+	}
+	else
+	{
+	  alert(xmlHttp.responseText);
+	}
+  }
+}
+
+function calculate_points()
+{
+  xmlHttp3=GetXmlHttpObject()
+
+  if (xmlHttp3==null)
+  {
+    alert ("Your browser does not support AJAX!")
+    return
+  }
+
+  var url="/ajax/calculate_points.php?sid="+Math.random();
+  xmlHttp3.onreadystatechange=calculate_points_stateChanged;
+  xmlHttp3.open("GET",url,true);
+  xmlHttp3.send(null);
+  return false;
+}
+
+function calculate_points_stateChanged()
+{
+  return false;
+}
+
+function GetXmlHttpObject()
+{
+  var objXMLHttp=null
+  if (window.XMLHttpRequest)
+  {
+    objXMLHttp=new XMLHttpRequest()
+  }
+  else if (window.ActiveXObject)
+  {
+    try
+    {
+      objXMLHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+    catch (e)
+    {
+      objXMLHttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+  }
+  return objXMLHttp
+}
+
+function adjust_titles(title_id,max_width,max_ht)
+{
+  var i=1;
+  var blnTrimed=false;
+  var blnOK=true;
+  while (blnOK==true)
+  {
+    blnTrimed=false;
+    var ruler1 = document.getElementById(title_id+i);
+	if (ruler1 == null)
+	{
+	  blnOK = false;
+	}
+	else
+	{
+      while (ruler1.offsetWidth > max_width || ruler1.offsetHeight > max_ht)
+      {
+        var str1 = ruler1.innerHTML;
+        var len1 = str1.length;
+        ruler1.innerHTML = str1.substr(0,(len1-1));
+        blnTrimed=true;
+      }
+      if (blnTrimed==true)
+      {
+        ruler1.innerHTML = ruler1.innerHTML + "...";
+      }
+	}
+	i=i+1;
+  }
+}
+
+function change_search(search_type)
+{
+  var myElement = document.getElementById('frm_searchbox');
+  if (search_type == 'm')
+  {
+    myElement.value = 'Search Movies by Name';
+	myElement.style.color = '#B8B7B7';
+  }
+  else
+  {
+    myElement.value = 'Search Members by Profile Name, Full Name, and Email';
+	myElement.style.color = '#B8B7B7';
+  }
+}
+</script>
+<tbody><tr>
+    <td class="shadeleft" width="8">&nbsp;</td>
+    <td width="761" height="71">
+		<table cellpadding="0" cellspacing="0" border="0" width="761">
+			<tbody><tr>
+				<td width="167" height="71"><a href="index.php" target="_self"><img src="images/logo.jpg" title="Film Crave Home" width="167" height="71" border="0"></a></td>
+				<td class="header" width="594" align="left">
+<!-- <div style="position:relative; left:45px; top:0px; width:350px;"> -->
+  <table cellpadding="0" cellspacing="0" border="0" width="360">
+    <tbody><tr>
+	  <td width="60" rowspan="3">&nbsp;</td>
+      <td width="10" align="center"><input name="frm_radio_search" id="frm_radio_search" type="radio" value="m" class="radio2" onclick="change_search('m');" checked=""></td>
+      <td width="65" align="left">&nbsp;<span class="blacktextbold2">Movies</span></td>
+      <td width="10" align="center"><input name="frm_radio_search" id="frm_radio_search" type="radio" value="u" class="radio2" onclick="change_search('u');"></td>
+      <td width="65" align="left">&nbsp;<span class="blacktextbold2">Members</span></td>
+      <td width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="search_films.php" target="_self" class="greenboldlink">Advanced Search + </a></td>
+    </tr>
+	<tr>
+      <td colspan="5" height="3"></td>
+    </tr>
+    <tr>
+      <!-- <td colspan="5"><input name="frm_search" type="text" id="frm_search" size="40" maxlength="80" value="" style="margin-bottom:3px;"/>&nbsp;<input type="submit" name="frm_search2" value="SEARCH" id="frm_search" class="button" /></td> -->
+      <td colspan="5"><input name="frm_searchbox" id="frm_searchbox" type="text" size="56" maxlength="255" style="color:#B8B7B7;" value="Search Movies by Name" autocomplete="off" onfocus="this.value='';this.style.color='#000000';" onkeyup="mypopup.showPopup('frm_searchbox');do_search(this);"></td>
+    </tr>
+  
+  </tbody></table>
+<!-- </div> -->
+<!-- This div is hidden -->
+<div id="searchdiv" class="searchpopup" style="z-index:100">
+	<table border="0" cellpadding="0" cellspacing="0" width="298px"><tbody><tr><td class="bgwhite"><span class="blackboldtext">Searching...</span></td><td class="bgwhite" align="right"><a href="#" class="blueboldlink" onclick="mypopup.hidePopup();return false;">Close</a>&nbsp;&nbsp;</td></tr></tbody></table>
+</div>
+<!-- This div is hidden -->
+<div id="deletediv" class="deletepopup">
+<table width="152" border="0" cellpadding="5">
+  <tbody><tr><td width="152"><strong>Are you sure you want to delete this comment?</strong></td>
+  </tr><tr><td><input id="deleterecordbutton" class="inputbutton" style="cursor:pointer" type="button" value="Delete" onclick="delete_comment();">&nbsp;&nbsp;<input class="inputbutton" style="cursor:pointer" type="button" value="Cancel" onclick="deletepopup.hidePopup();return false;"></td></tr></tbody></table>
+</div>
+	</td>
+			</tr>
+		</tbody></table>
+	</td>
+    <td class="profile_left" width="8">&nbsp;</td>
+    <td width="201" class="profile" valign="top">
+<!-- HTML for when not logged in -->
+<table width="201" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center"><div style="margin-top:7px; margin-right:5px;"><span class="large_white" style="line-height:15px; font-size:12px;">
+<script language="JavaScript">
+var Quote=new Array()
+
+Quote[0] = "&quot;Have you ever danced with the devil in the pale moonlight?&quot; - Batman (1989)";
+Quote[1] = "&quot;This is my house, I have to defend it.&quot; - Home Alone (1990)";
+Quote[2] = "&quot;If I were the man I was five years ago, I'd take a flamethrower to this place!&quot; - Scent of a Woman (1992)";
+Quote[3] = "&quot;Abashed the Devil stood and felt how awful goodness is.&quot; - The Crow (1994)";
+Quote[4] = "&quot;Were you listening to me, Neo? Or were you looking at the woman in the red dress?&quot; - The Matrix (1999)";
+Quote[5] = "&quot;Jimmy was the kind of guy that rooted for bad guys in the movies.&quot; - Goodfellas (1990)";
+Quote[6] = "&quot;Desperation is a stinky cologne. &quot; - Super Troopers(2001)";
+var Q = Quote.length;
+var whichQuote=Math.round(Math.random()*(Q-1));
+function showQuote(){document.write(Quote[whichQuote]);}
+showQuote();
+</script>"This is my house, I have to defend it." - Home Alone (1990)</span></div></td>
+  </tr>
+</tbody></table>
+<!-- END HTML for when not logged in -->
+	</td>
+</tr>
+
+  <tr>
+    <td class="shadeleft">&nbsp;</td>
+    <td valign="top">
+		<table width="761" border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+<!-- Navigation Start -->
+<!-- Navigation Start -->
+			<td width="128" valign="top">
+				<table width="127" border="0" cellspacing="0" cellpadding="0" class="navigation">
+				  <tbody><tr>
+					<td width="10" height="10">&nbsp;</td>
+					<td></td>
+				  </tr>
+				  <tr>
+					<td>&nbsp;</td>
+					<td width="117" height="20">
+<a href="index.php" target="_self" class="navigation">Home</a></td>
+				  </tr>
+				  <tr>
+					<td></td>
+					<td height="20">
+<a href="reviews.php" target="_self" class="navigation">Movie Reviews</a></td>
+				  </tr>
+				  <tr>
+					<td></td>
+					<td height="20">
+<a href="list_member_movie.php" target="_self" class="navigation">Movie Lists</a></td>
+				  </tr>
+				  <tr>
+					<td></td>
+					<td height="20">
+<a href="coming_soon.php" target="_self" class="navigation">Coming Soon</a></td>
+				  </tr>
+				    <tr>
+					<td></td>
+					<td height="20">
+<a href="box_office.php" target="_self" class="navigation">In Theater</a></td>
+				  </tr>
+				 <!-- <tr>
+					<td></td>
+					<td height="20">
+</td>
+				  </tr>-->
+				  <tr>
+					<td></td>
+					<td height="20">
+<a href="search_films.php" target="_self" class="navigation">Search</a></td>
+				  </tr>
+<!-- START Sign In NEED TO HIDE IF ALREADY SIGNED IN -->
+ 					 <tr>
+					<td></td>
+					<td height="20">
+<a href="sign_up.php" target="_self" class="navigation">Sign Up</a></td>
+				  </tr>
+				    <tr>
+					<td height="4" colspan="2"></td>
+				  </tr>
+				    <tr>
+					<td height="1" colspan="2" bgcolor="#CCCCCC"></td>
+				  </tr>
+				   <tr>
+					<td height="4" colspan="2"></td>
+				  </tr>
+				  <form action="login.php" name="frm_login" method="post"></form>
+				  <tr>
+					<td></td>
+					<td height="20"><input id="user_name" name="user_name" type="text" size="17" maxlength="100" style="width:100px; color:#FFFFFF;" class="grey" value="username (email)" onfocus="if(this.value=='username (email)'){this.value='';this.style.color='#000000';}"></td>
+				  </tr>
+				   <tr>
+					<td></td>
+					<td height="20"><input id="password" name="password" type="password" size="17" maxlength="25" style="width:100px; color:#FFFFFF;" class="login_password" value="" onchange="this.className='grey';this.style.color='#000000';" onfocus="this.className='grey';this.style.color='#000000';"></td>
+				  </tr>
+				   <tr>
+					<td></td>
+					<td height="20"><table width="103" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="14">&nbsp;</td>
+                        <td width="89" align="right">
+                          <input name="submit" type="submit" value="Sign In" class="button">
+                        </td>
+                      </tr>
+                    </tbody></table></td>
+				   </tr>
+				  
+					<tr>
+					<td height="4" colspan="2">
+					</td>
+				  </tr>
+				    <tr>
+					<td height="1" colspan="2" bgcolor="#CCCCCC"></td>
+				  </tr>
+				   <tr>
+					<td height="4" colspan="2"></td>
+				  </tr>
+<!-- End Sign In NEED TO HIDE IF ALREADY SIGNED IN -->
+					<tr>
+					<td colspan="2" align="center" style="padding-top:3px; padding-bottom:3px;">
+					<script type="text/javascript"><!--
+   e9 = new Object();
+   e9.size = "120x600";
+   e9.addBlockingCategories="Adult,Pop-under,Pop-up,Full-page";
+   e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FilmCraveforMovieLovers/ROS/tags.js"></script>
+					
+					
+</td>
+				  </tr>
+				</tbody></table>				</td>
+<!-- Profile Area End -->
+<!-- Navigation End -->
+<!-- Content Area Start -->
+			<td width="633" valign="top">
+			<table width="633" border="0" cellspacing="0" cellpadding="0">
+			  <tbody><tr>
+				<td width="15">&nbsp;</td>
+				<td width="608" height="15">&nbsp;</td>
+				<td width="10">&nbsp;</td>
+			  </tr>
+			<tr>
+				<td></td>
+				<td>
+			  <table width="608" border="0" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+					  <td class="gradientorange" width="408" height="32" valign="top"><span class="large_white">Privacy Policy  (updated 8/15/07)</span></td>
+				      </tr>
+			</tbody></table>
+			  <table width="608" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td>
+				  <p><span class="blacktextbold2">Introduction </span><br>FilmCrave.com takes your privacy seriously. FilmCrave is designed for users and members to share photos, information, movie reviews and other information. This information will not be used outside of the FilmCrave.com community in a way that would identify a single user. Some of this information is necessary to display in order to facilitate adequate communication amongst members and users of this online community. Please do not post any information or photos that you are not comfortable displaying to other members and users of this website. </p><br>
+				  
+				  <p><span class="blacktextbold2">Information Collected </span><br>FilmCrave.com collects basic information such as name, email address, age and gender to authenticate users and help better understand our audience. Other data, such as your profile information including but not limited to religion, hometown, age and interests are collected in order to better assist users in finding and communicating with one another. This information is not shared with 3rd parties in any way that could identify a single user or in a way that would break this agreement.</p><br>
+<p>
+FilmCrave.com also collects non-personal information such as IP address and browser type in order to better manage our website, track usage and help make your browsing experience better. This aggregate data may be shared with 3rd party vendors in a way that will not identify an individual user.</p><br>
+<p>
+In order to assist with users communication and facilitate the social-networking aspect of the website, information such as your personal profile, movie reviews and favorite movies will publicly shown across the website. All content personal content that could be used to identify a user's individually such as birth date, gender, name and email should be shown at the discretion of the user. Some of this information may be available to non-members and members alike. </p><br>
+<p>
+FilmCrave.com may use some information such as movie reviews and top movie lists for other purposes such as advertising, marketing and print material. None of this information may be used in a way to identify a single user’s identity. 
+</p><br>
+                  
+                   <p><span class="blacktextbold2">E-mail Communication</span><br>A user’s email address may also be used to send updates, user notifications and newsletters. Some of this communication may be turned off by updating your preferences in the user profile. Emails may also be sent to non-members if a member invites a user to join the FilmCrave.com community. These emails are sent on the behalf of another member and we do not monitor the frequency or content of this email.</p><br>
+				   
+					  <p><span class="blacktextbold2">Links</span><br>Filmcrave.com may link to outside websites. We are not responsible for the content or privacy of any information that is transferred to these websites that reside outside of the FilmCrave.com community.</p>
+                  
+<br>
+<p><span class="blacktextbold2">Cookies and Advertisements </span><br>
+FilmCrave.com may have advertisements on the website that will use cookies to track the frequency of advertisements that a user has seen. These advertisements may also link to an outside website in which FilmCrave.com is not responsible for the content of any information on these sites. FilmCrave.com may also use cookies to track basic information to make browsing and visiting this website easier.</p>
+<br>
+
+<p><span class="blacktextbold2">Changes to Privacy Policy</span><br>
+FilmCrave.com reserves the right to change this privacy policy at any time without notice. Any changes to this policy will be posted on the website for at least 30 days. The date of any and all changes will also be posted at the top of this page. We take you privacy seriously and if you have any issues, questions or concerns with this policy please contact us at <a href="mailto:privacy@filmcrave.com">privacy@filmcrave.com.
+</a></p>
+
+				   </td>
+                </tr>
+               
+                <tr>
+                  <td height="32" valign="top">
+				 </td>
+                </tr>
+              </tbody></table>
+			  <!-- End Content Area-->
+                </td></tr></tbody></table>
+			</td>
+		  </tr>
+		</tbody></table>
+	</td>
+    <td class="shaderight">&nbsp;</td>
+<!-- User Profile Area -->
+    <td valign="top">
+<!-- HTML for when not logged in -->
+<table width="201" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td height="5"></td>
+</tr>
+ <tr>
+    <td height="42" align="center" class="right_text" style="padding-top:6px;"><div style="border-bottom:#CCCCCC 1px solid; border-top:#CCCCCC 1px solid; padding-top:5px; padding-bottom:5px;">FilmCrave Benefits:</div></td>
+  </tr>
+  <tr>
+	<td height="5"></td>
+</tr>
+  <tr>
+    <td align="center" class="right_header" height="42">Rate Movies</td>
+  </tr>
+  <tr>
+    <td><img src="../images/right_side_stars.png" alt="Rate Movies"></td>
+  </tr>
+   <tr>
+    <td align="center" class="right_header" height="42">Create Movie Lists</td>
+  </tr>
+  <tr>
+    <td><img src="../images/right_side_list.png" alt="Create Movie Lists"></td>
+  </tr>
+   <tr>
+    <td align="center" class="right_header" height="42">Share Movie Reviews</td>
+  </tr>
+  <tr>
+    <td><img src="../images/right_side_review.png" alt="Movie Reviews"></td>
+  </tr>
+  <tr>
+  	<td align="center" height="50" valign="bottom"><a href="sign_up.php"><img src="images/sign_up_btn.png" alt="Sign Up for Filmcrave.com" width="156" height="42" border="0"></a></td>
+  </tr>
+
+</tbody></table>
+<!-- END HTML for when not logged in -->
+		
+	</td>
+	<!-- End User Profile Area -->
+  </tr>
+  <tr>
+    <td class="shadeleft">&nbsp;</td>
+    <td class="bottom" height="26" align="center"><table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="whitetextbold" align="center"><a href="support_filmcrave.php" target="_self" class="whitetextbold">Support FilmCrave</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="faq_help.php" target="_self" class="whitetextbold">FAQ &amp; Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="advertise1.php" target="_self" class="whitetextbold">Advertise &amp; Business </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="about_us.php" target="_self" class="whitetextbold">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<!--<a href="update_blog.php" target="_self" class="whitetextbold">Update Blog </a>&nbsp;&nbsp;|&nbsp;&nbsp;--><a href="terms.php" target="_self" class="whitetextbold">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.php" target="_self" class="whitetextbold">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.php" target="_self" class="whitetextbold">Contact Us</a></td>
+  </tr>
+</tbody></table>
+</td>
+    <td class="shaderight">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+</center>
+
+
+
+</body></html>
