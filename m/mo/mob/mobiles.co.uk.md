@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329021654id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182444id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# our privacy policy. - Cheap Mobile Phones on Orange, T-Mobile, 3, O2, Vodafone
+# our privacy policy. - Best Mobile Phone Deals on Orange, T-Mobile, 3, O2, Virgin
 
 ## Mobiles.co.uk Privacy Statement
 
