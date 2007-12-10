@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402052351id_/http%3A//www.dealsdirect.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210092750id_/http%3A//www.dealsdirect.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Deals Direct Australia
+# Privacy Statement - DealsDirect.com.au Australia's #1 Discount Online Department Store
+
+  
+
 
   * [Privacy and Security](http://www.dealsdirect.com.au/privacy/#privacy)
   * [The National Privacy Principles](http://www.dealsdirect.com.au/privacy/#nationalprivacy)
@@ -18,7 +21,7 @@
 
 ### Privacy and Security
 
-At DealsDirect.com.au we understand that you value your privacy and wish to have your personal information kept secure. Our Privacy Policy describes generally how we manage your personal information and safeguard your privacy. If you would like more information, please don't hesitate to [_contact us_](http://www.dealsdirect.com.au/contact_us.php).
+At DealsDirect.com.au we understand that you value your privacy and wish to have your personal information kept secure. Our Privacy Policy describes generally how we manage your personal information and safeguard your privacy. If you would like more information, please don't hesitate to [_contact us_](http://www.dealsdirect.com.au/contact-us/).
 
   
 
@@ -51,6 +54,8 @@ Please be assured we will not disclose information about you unless the disclosu
 
 We may also use your personal information to provide you with information about other services offered by us. However, the only information that you must provide is your name and payment details (where applicable). If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.
 
+We do not engage in unsolicited telephone or email marketing. In particular, if you are contacted by telephone by an individual or organisation claiming to represent DealsDirect.com.au - do not purchase from the organisation as we have a strict policy against telephone marketing.
+
   
 
 
@@ -58,7 +63,7 @@ We may also use your personal information to provide you with information about 
 
 In most cases you may have access to personal information that we hold about you. We will handle requests for access to your personal information in accordance with the National Privacy Principles.
 
-We encourage all requests for access to your personal information to be directed to the Privacy Officer [paul@auctionbrokers.com.au](mailto:paul@auctionbrokers.com.au) or by writing to us at our postal address. We will deal with all requests for access to personal information as quickly as possible. Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. We may charge you a fee for access if a cost is incurred by us in order to retrieve your information, but in no case will we charge you a fee for your application for access.
+We encourage all requests for access to your personal information to be directed to the Privacy Officer by [emailing us](http://www.dealsdirect.com.au/contact-us/email-us/) or by writing to us at our postal address. We will deal with all requests for access to personal information as quickly as possible. Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. We may charge you a fee for access if a cost is incurred by us in order to retrieve your information, but in no case will we charge you a fee for your application for access.
 
 In some cases, we may refuse to give you access to personal information we hold about you. This includes, but is not limited to, circumstances where giving you access would: be unlawful (e.g., where a record which contains personal information about you is subject to a claim for legal professional privilege by one of our clients); have an unreasonable impact on other people's privacy; prejudice an investigation of unlawful activity.
 
@@ -94,9 +99,9 @@ Once your transaction is finalised, both the electronic and hard-copy informatio
 
 If you would like more information about the way we manage personal information which we hold about you, or are concerned that we may have breached your privacy, please contact us by email, fax or post:
 
-**Email us[ _here_](http://www.dealsdirect.com.au/contact_us.php)**  
-**Fax:** 02 9737 0121   
-**Post** : The Privacy Officer, DealsDirect, PO BOX 6520, SILVERWATER NSW 2126
+**Email us[here](http://www.dealsdirect.com.au/contact-us/email-us/)**  
+**Fax:** 02 9782 6900  
+**Post:** The Privacy Offer, DealsDirect.com.au, PO Box 3395, Bankstown Square NSW 2200
 
 ### Changes To Our Privacy Policy
 
