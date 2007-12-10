@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301125937id_/http%3A//gamescene.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210175739id_/http%3A//gamescene.com/privacy.html) for the most accurate reproduction.*
 
 # GameScene : Privacy Policy
 
