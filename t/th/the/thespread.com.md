@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thespread.com privacy policy that was archived on 2007-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070508231711id_/http%3A//www.thespread.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespread.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210230035id_/http%3A//www.thespread.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
-# theSpread.com - Privacy Policy
+# Privacy Policy
 
 Non-employee Persons in this context includes Individuals who are viewers, readers, subscribers, advertisers, contest participants, forum members, customers, Internet users who are exposed to the media and e-commerce content of Thespread.com 
 
