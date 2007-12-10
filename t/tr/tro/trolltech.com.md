@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629191332id_/http%3A//www.trolltech.com/trolltech/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210213506id_/http%3A//trolltech.com/trolltech/privacypolicy) for the most accurate reproduction.*
 
 # Trolltech Privacy Policy — Trolltech
 
@@ -36,7 +36,7 @@ Trolltech allows visitors to self-select communities, through the registration p
 
 ### Communications Choices
 
-Trolltech recognizes that users may not wish to be contacted about new or related products. Trolltech.com allows you to opt-out of e-mail marketing that may result from use of the site. These choices may be made as part of the registration process or from links in marketing mailings. You may also always return to the registration profile to change your election relating to opt-out or by sending an email to our automated link [unsubscribe@trolltech.com](mailto:unsubscribe@trolltech.com). If you have any problems in using these opt-out mechanisms, please send an e-mail to [privacy@trolltech.com](mailto:privacy@trolltech.com), indicate opt-out in the subject line and specify what problem you have encountered in the body of the message. There are a few limited exceptions to the opt-out, but notice is provided that the service includes certain communications. These exceptions include: patch and product security update related communications, defined communications related to product download, specific communications that are part of the reason for a specific trading or user community - such as price/product related communications to the members of our partner network. 
+Trolltech recognizes that users may not wish to be contacted about new or related products. Trolltech.com allows you to opt-out of e-mail marketing that may result from use of the site. These choices may be made as part of the registration process or from links in marketing mailings. You may also always return to the registration profile to change your election relating to opt-out or by sending an email to our automated link [unsubscribe (at) trolltech.com](mailto:unsubscribe@trolltech.com) . If you have any problems in using these opt-out mechanisms, please send an e-mail to [privacy (at) trolltech.com](mailto:privacy@trolltech.com) , indicate opt-out in the subject line and specify what problem you have encountered in the body of the message. There are a few limited exceptions to the opt-out, but notice is provided that the service includes certain communications. These exceptions include: patch and product security update related communications, defined communications related to product download, specific communications that are part of the reason for a specific trading or user community - such as price/product related communications to the members of our partner network. 
 
 ### Third Party Opt-in Lists
 
@@ -58,7 +58,7 @@ Trolltech will amend this policy from time to time. If we make any substantial c
 
 ### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@trolltech.com](mailto:privacy@trolltech.com). 
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy (at) trolltech.com](mailto:privacy@trolltech.com) . 
 
 This document was last reviewed on May 2, 2006 
 
