@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502094708id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210105149id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
@@ -52,8 +52,6 @@ New York, New York 10004
 
 This policy, like the online medium itself, is subject to change. 
 
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
-
 ### Article Comments
 
   
@@ -64,5 +62,5 @@ This policy, like the online medium itself, is subject to change.
 
 **You need to be logged in** in order to post your comments. 
 
-[**Click Here**](https://web.archive.org/web/20070502094708id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
+[**Click Here**](https://web.archive.org/web/20071210105149id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
 
