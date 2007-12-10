@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iburst.co.za privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219145241id_/http%3A//www.iburst.co.za/default.aspx%3Flink%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iburst.co.za privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210094658id_/http%3A//www.iburst.co.za/default.aspx%3Flink%3Dlegal_privacy) for the most accurate reproduction.*
 
 # iBurst Mobile Broadband Internet Access : Legal : Privacy Policy
 
