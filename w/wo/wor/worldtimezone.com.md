@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627105011id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210215248id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
 
 # Web Site Disclaimer and Privacy Statement for WorldTimeZone.com
 
@@ -46,19 +46,19 @@ If you have any questions, please contact us via [Email](https://web.archive.org
   
 
 
-This website is invaluable for figuring out what time our event will happen in each part of the world: we are organizing a worldwide simultaneous dance of Thriller for a Guinness World Record and your website allows us to know clearly what time it will be in each time zone!   
-Ines Markeljevic  
-[ Toronto ](http://www.worldtimezone.com/time/wtzresult.php?CiID=1206&forma=24h), Canada [ [ New York](http://www.worldtimezone.com/time/wtzresult.php?CiID=10182&forma=24h), USA ]   
+Absolutely briliant web site. Since my familiy is scattered all over the globe, it makes it easier not to disturb them sleeping. As well very helpful making professional telephone calls. Keep it up!   
+Tishina  
+[ Frankfurt ](http://www.worldtimezone.com/time/wtzresult.php?CiID=6419&forma=24h), Germany [ [ Reading ](http://www.worldtimezone.com/time/wtzresult.php?CiID=11775&forma=24h), United Kingdom ]   
   
 ---  
   
-I simply love this website, it free my mind from backward/forward calculations. extremely fabulous, matchless!   
-Sadia Fahim  
-[ Lahore ](http://www.worldtimezone.com/time/wtzresult.php?CiID=4654&forma=24h), Pakistan [ Lahore, Pakistan ]   
+I always had a tough time to look around but with the help of this site, its been very very easy for me to get into any of the world and look up for the time etc.. Its fablous, interesting and gets to know lots out of it and gets knowledge. God bless the person who did come up with such an idea.   
+John Rey  
+[ Bhutan ](http://www.worldtimezone.com/time/wtzresult.php?CiID=42108&forma=24h), [ Bhutan ]   
   
-I was looking to find the time where my son is located,he is in Afghanistan serving in the Air Force.I suprised to see that he is 8&1/2 hours ahead of us not on an even hour. My older son is a Marine and travels too, this web site is handy for knowing the time differences. Thanks.   
-Christina Padgett  
-[ Anderson](http://www.worldtimezone.com/time/wtzresult.php?CiID=10718&forma=12h), SC, USA [ [ Greenville](http://www.worldtimezone.com/time/wtzresult.php?CiID=10739&forma=12h), SC USA]   
+This site is great. My coworkers and I use it regularly as we have to make phone calls all across the US and Canada. It is very helpful in assuring that we do not call anyone at an unreasonable time. Thank you so much for such a useful tool.   
+Jonny Collins  
+[ Lewiston ](http://www.worldtimezone.com/time/wtzresult.php?CiID=9003&forma=12h), Maine, USA [ [ Lewiston](http://www.worldtimezone.com/time/wtzresult.php?CiID=9003&forma=12h), Maine, USA]   
   
 Global System for Mobile communications [(GSM)](https://web.archive.org/gsm.html)\- most popular standard for Mobile phones in the world. GSM service is used in more than 210 countries and territories.
 
