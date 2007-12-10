@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617052255id_/http%3A//wizarduniverse.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizarduniverse.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210235544id_/http%3A//www.wizarduniverse.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Wizard Entertainment
 
 |  |  |  |  |  |  |   
 [](http://www.wizarduniverse.com/) | [](http://www.wizarduniverse.com/) |   |   
-[](http://store.yahoo.com/wizarduniverse/wizenmag.html) | [](http://www.wizarduniverse.com/conventions/index.cfm) | [](http://www.wizarduniverse.com/store/index.cfm) |   
-|  [](http://www.toygrader.com/)
-
-[](http://www.garrisoncarida.com/index.php)[](http://www.rifftrax.com/cart.php?m=affiliate_go&affiliateID=b26081481e975af95572c0dd853e3e3b&go)
-
+[](http://store.yahoo.com/wizarduniverse/wizenmag.html) | [](http://www.wizardworld.com/) | [](http://www.wizarduniverse.com/store/index.cfm) |   
+|  [](http://www.toygrader.com/) |   
 |   
 |   
-| 
-
-[](http://wizarduniverse.stores.yahoo.net/wizworeas20.html)  
-  
 ---  
 | 
 
@@ -84,7 +77,7 @@ Ultimately, **you** as a user are solely responsible for maintaining the secrecy
 * * *
 
   
-Should you have any further questions about WizardUniverse.com’s privacy policies and procedures, please e-mail us at [privacy@wizarduniverse.com ](mailto:privacy@wizarduniverse.com) Thank you, be smart out there, and have a blast!  
+Should you have any further questions about WizardUniverse.com’s privacy policies and procedures, please e-mail us at [privacy@wizardent.com ](mailto:privacy@wizardent.com) Thank you, be smart out there, and have a blast!  
   
   
 [Advertise](http://www.wizarduniverse.com/info/advertise.cfm) • [Corporate](http://www.wizarduniverse.com/info/corporate.cfm) • [Jobs](http://www.wizarduniverse.com/info/jobs.cfm) • [Legal](http://www.wizarduniverse.com/info/legal.cfm) • [Links](http://www.wizarduniverse.com/info/links.cfm) • [Press Releases](http://www.wizarduniverse.com/info/press.cfm) • [Privacy](http://www.wizarduniverse.com/info/privacy.cfm) • [Contact Info](http://www.wizarduniverse.com/info/contact.cfm) • [Site Credits](http://www.wizarduniverse.com/info/credits.cfm)   
