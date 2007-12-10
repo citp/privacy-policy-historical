@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the secumd.org privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629192532id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the secumd.org privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210174528id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
@@ -11,14 +11,12 @@
 
 
 
-<script type="text/javascript" src="/fsrscripts/triggerParams.js"></script>
-<script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
-<script type="text/javascript">Poll();</script>
 
 
 
 
-</head><body onload="void(0);" bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"><bb:menulib c="0">
+
+<script src="AjaxRequest.js" type="text/javascript"></script></head><body onload="void(0);" bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"><bb:menulib c="0">
 <script type="text/javascript" src="../menu_includes/menumachine.js"></script>
 </bb:menulib>
 <script language="JavaScript">
@@ -112,9 +110,20 @@
 <tr valign="top">
 	<td width="28"><img src="../../images/lower/spacer.gif" alt="" height="29" width="28" border="0"></td>
 	<td width="175" background="../../images/lower/left_column_bkgd.gif"><img src="../../images/lower/spacer.gif" alt="" name="menuGraphic" height="304" width="175" border="0">
-		<table width="100%" border="0" cellspacing="0" cellpadding="10">
-		<tbody><tr><td class="financialtip"><b>SECU Financial Tip:</b><br>
-				Can I re-order my SECU checks online? Of course! ...<a href="http://www.secumd.org/html/secu/lower.htm?page=apps.check_order" target="_blank">learn more</a>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+		<tbody><tr><td align="center">
+				<div id="dhtmltooltip"></div>
+				<script src="/includes/javascripts/DHTMLtooltip.js" type="text/javascript"></script>
+				<input type="hidden" id="showFlyout" value="1">
+				<div id="enable" style="display:;">
+				<a href="javascript:handleFlyout();" id="flyoutTask" class="disable_flyout_menu" onmouseover="ddrivetip('You can turn the flyout menu ON or OFF at any time by clicking this button.');" ;="" onmouseout="hideddrivetip();"><span id="flyoutMenuDescription">Disable</span> Flyout Menu</a>
+				</div>
+			</td>
+		</tr>
+
+		<tr><td class="financialtip" style="padding:10px;"><b>SECU Financial Tip:</b><br>
+				Arm yourself with knowledge about the latest scams out there ...<a href="http://www.secumd.org/html/secu/lower.htm?page=security.fraud_alerts">learn more</a>
 			</td></tr>
 		</tbody></table>
 		<table width="175" border="0" cellspacing="0" cellpadding="0">
@@ -363,7 +372,7 @@
 	</td>
 	
 	
-		<td align="right"><a title="SECU is an Equal Housing Lender" href="../../html/secu/lower.htm?page=about.equal_housing"><img src="../../images/index/ehi_logo.gif" alt="LINK: SECU is an Equal Housing Lender" width="33" height="67" border="0"></a><a title="SECU and Federal Insurance" href="../../html/secu/lower.htm?page=about.ncua"><img src="../../images/index/ncua_logo_larger.gif" alt="LINK: SECU and Federal Insurance" width="64" height="67" border="0"></a><a title="SECU and private deposit insurance" href="../../html/secu/lower.htm?page=about.esi"><img src="../../images/index/esi_logo.gif" alt="LINK: SECU and private deposit insurance" width="71" height="67" border="0"></a></td>
+		<td align="right"><a title="SECU is an Equal Housing Lender" href="../../html/secu/lower.htm?page=about.equal_housing"><img src="../../images/index/ehi_logo.gif" alt="LINK: SECU is an Equal Housing Lender" width="58" height="67" border="0"></a><a title="SECU and Federal Insurance" href="../../html/secu/lower.htm?page=about.ncua"><img src="../../images/index/ncua_logo_larger.gif" alt="LINK: SECU and Federal Insurance" width="64" height="67" border="0"></a><a title="SECU and private deposit insurance" href="../../html/secu/lower.htm?page=about.esi"></a></td>
 	
 </tr>
 </tbody></table>
@@ -384,402 +393,68 @@
 
 
 
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/07/14 12:01:53 $ -->
-<script language="Javascript"><!--
-var gService = true;
-var gTimeZone = -5;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	
-dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	if (document.cookie.indexOf(name+"=")!=-1){
-		var id=dcsGetCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		WT.vt_f="0";
-		WT.vt_f_a="0";
-		var dLst=new Date(lv);
-		dSes.setTime(ss);
-		if
-((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if
-((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	else{
-		var tmpname=name+"_TMP=";
-		document.cookie=tmpname+"1";
-		if (document.cookie.indexOf(tmpname)!=-1){
-			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-				WT.co_f=gWtId;
-				WT.vt_f="0";
-			}
-			else if
-((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-				WT.co_f=gTempWtId;
-				WT.vt_f="1";
-			}
-			else{
-				WT.co_f="2";
-				var cur=dCur.getTime().toString();
-				for (var i=2;i<=(32-cur.length);i++){
-	
-WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-				}
-				WT.co_f+=cur;
-				WT.vt_f="1";
-			}
-	
-WT.vt_f_a=(typeof(gWtAccountRollup)!="undefined")?"0":"1";
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
-		}
-		else{
-			WT.vt_f="2";
-			WT.vt_f_a="2";
-			return;
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+dSes.getTime();
-	var expiry="; expires="+dExp.toGMTString();
-	
-document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"";
-path="/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?(";domain="+gFpcDom):(""));
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gWtId="";
-var gTempWtId="";
-if (gService){
-	var gConvert=true;
-}
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V7.5 -->
-<!-- $DateTime: 2005/06/29 17:35:36 $ -->
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-//var RE={"%09":/\t/g,"%20"://g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-if (window.ActiveXObject){
-	var gFV="";
-	for (var gVer=2;gVer<=10;gVer++){
-		try{
-			var gFlash = eval("newActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-			if (gFlash){
-				gFV=gVer+".0";
-				break;
-			}
-		}
-		catch(e){
-		}
-	}
-}
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
-<script language="JavaScript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsh55ken00000cpzlgayn0xl_5h2u";
-
-if
-((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-	document.write("<SCR"+"IPT Language='JavaScript'SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
-}
-//-->
-</script><script language="JavaScript" src="https://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/wtid.js"></script>
-<script language="Javascript"><!--
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	
-WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-	
-WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	if (typeof(gVersion)!="undefined"){
-		WT.jv=gVersion;
-	}
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft InternetExplorer")&&document.body){
-	
-WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
-			WT.fi="Yes";
-			WT.fv=gFV;
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('ShockwaveFlash')!=-1){
-				WT.fi="Yes";
-	
-WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var
-front=DCS.dcsqry.substring(0,pos);
-					var
-end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if
-((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft InternetExplorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function A(N,V){
-	return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-	if (typeof(RE)!="undefined"){
-		var retStr = new String(S);
-		for (R in RE){
-			retStr = retStr.replace(RE[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsLoadHref(evt){
-	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-		window.location=gHref;
-		gHref="";
-	}
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-	
-gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1"HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-	
-WT[meta.name.substring(3)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-	
-DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-	
-DCS[meta.name.substring(4)]=meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	var
-P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
+<!-- Copyright (c) 1996-2006 WebTrends Inc.  All rights reserved. -->
+<!-- $DateTime: 2006/03/01 12:51:54 $ -->
+<script src="/webtrends/wtinit.js" type="text/javascript"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/wtid.js"></script>
+<script src="/webtrends/wtbase.js" type="text/javascript"></script>
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1"
-SRC="http://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/njs.gif?
-dcsuri=/nojavascript&amp;WT.js=No">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 </noscript>
-<!-- END OF SmartSource Data Collector  TAG --> 
+<!-- END OF SmartSource Data Collector TAG -->	
+
+
+
+
+<div id="bbML2" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 305px;">
+	<bb:menu height="305" width="175" i="1" v="1.5">
+		<script type="text/javascript"><!--
+bbL=bbMenu.length;bbMenu[bbL]=new _bbroot(bbL,"bbML2",0,0,0,0,0,0,1,15,4,"","","",0,0,400,"menuGraphic","#003399",1,1,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,0,0,"left",5,5,0.45,0.67,0,"#003399",0,0,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,1,0,"left",14,5,0,0,0,/*URL*/"../../GeneratedItems/spacer.gif",0,0,5,5);
+/*begin_bbMenuDefs*/
+bbMenu[bbL].bM("m334vcqc","","Loans",175,28,/*URL*/"../secu/lower.htm?page=loans.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcqi","","Credit Cards",175,28,/*URL*/"../secu/lower.htm?page=credit.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcqu","","Checking & Savings",175,28,/*URL*/"../secu/lower.htm?page=checking.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcrk","","Insurance & Investments",175,28,/*URL*/"../secu/lower.htm?page=insurance.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcry","","Business Services",175,28,/*URL*/"../secu/lower.htm?page=business.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcs2","","Rates & Calculators",175,28,/*URL*/"../secu/lower.htm?page=ratescalc.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m334vcsi","","News & Resources",175,28,/*URL*/"../secu/lower.htm?page=news.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m45wdxu2","","Branches & ATMs",175,28,/*URL*/"../secu/lower.htm?page=branches.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m45wdxuk","","Applications & Forms",175,28,/*URL*/"../secu/lower.htm?page=apps.listing","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m4jxuuhf","","Education Center",175,28,/*URL*/"../secu/lower.htm?page=education.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m2jxfpr7","","Your Security & Privacy",175,25,/*URL*/"../secu/lower.htm?page=security.index","/images/index/nav_your_security.gif","/images/index/nav_your_security_over.gif","#ffcc33","white","#cc0000","#00997f","","","","",0);
+/*end_bbMenuDefs*/
+bbMenu[bbL].buildLayers();
+//-->
+</script><div id="bbML2m334vcqc" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:0px;"><div id="bbML2m334vcqcn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Loans</div><div id="bbML2m334vcqce" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcqi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:28px;"><div id="bbML2m334vcqin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Credit Cards</div><div id="bbML2m334vcqie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcqu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:56px;"><div id="bbML2m334vcqun" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Checking &amp; Savings</div><div id="bbML2m334vcque" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcrk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:84px;"><div id="bbML2m334vcrkn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Insurance &amp; Investments</div><div id="bbML2m334vcrke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcry" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:112px;"><div id="bbML2m334vcryn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Business Services</div><div id="bbML2m334vcrye" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcs2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:140px;"><div id="bbML2m334vcs2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Rates &amp; Calculators</div><div id="bbML2m334vcs2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m334vcsi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:168px;"><div id="bbML2m334vcsin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">News &amp; Resources</div><div id="bbML2m334vcsie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m45wdxu2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:196px;"><div id="bbML2m45wdxu2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Branches &amp; ATMs</div><div id="bbML2m45wdxu2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m45wdxuk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:224px;"><div id="bbML2m45wdxukn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Applications &amp; Forms</div><div id="bbML2m45wdxuke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m4jxuuhf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:252px;"><div id="bbML2m4jxuuhfn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Education Center</div><div id="bbML2m4jxuuhfe" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:280px;"><div id="bbML2m2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:175px;height:25px;"><img name="bbML2m2jxfpr7i" id="bbML2m2jxfpr7i" src="/images/index/nav_your_security.gif" width="175" height="25" alt="Your Security &amp; Privacy" title="Your Security &amp; Privacy"></div><div id="bbML2m2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+</bb:menu></div>
+
+	
+
 
 <div id="bbML" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 305px;">
-			<bb:menu height="305" width="175" i="1" v="1.5">
-				<script type="text/javascript"><!--
+	<bb:menu height="305" width="175" i="1" v="1.5">
+		<script type="text/javascript"><!--
 bbL=bbMenu.length;bbMenu[bbL]=new _bbroot(bbL,"bbML",0,0,0,0,0,0,1,15,4,"","","",0,0,400,"menuGraphic","#003399",1,1,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,0,0,"left",5,5,0.45,0.67,0,"#003399",0,0,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,1,0,"left",14,5,0,0,0,/*URL*/"../../GeneratedItems/spacer.gif",0,0,5,5);
 /*begin_bbMenuDefs*/
 bbMenu[bbL].bM("m334vcqc","","Loans",175,28,/*URL*/"../secu/lower.htm?page=loans.index","","","#ffcc33","white","navy","#00997f","","","","",0);
@@ -833,7 +508,6 @@ bbMenu[bbL].bM("mhq6t7y","m334vcrz","Accidental Death and Dismemberment",175,36,
 bbMenu[bbL].bM("mhq6t7z","m334vcrz","Automobile and Homeowners",175,24,/*URL*/"../secu/lower.htm?page=insurance.auto_homeowners","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mhq6t80","m334vcrz","Whole Life, Disability, and Critical Illness",175,36,/*URL*/"../secu/lower.htm?page=insurance.whole_life","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mhq6t82","m334vcrz","Dental",175,24,/*URL*/"../secu/lower.htm?page=insurance.dental","","","#e1e7f3","white","navy","#00997f","","","","",1);
-
 bbMenu[bbL].bM("mhq6t85","m334vcrz","Vehicle Mechanical<br>Breakdown",175,36,/*URL*/"../secu/lower.htm?page=insurance.vehicle_mechanical","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcs0","m334vcrk","Investment Consulting",175,24,/*URL*/"../secu/lower.htm?page=insurance.investment","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcry","","Business Services",175,28,/*URL*/"../secu/lower.htm?page=business.index","","","#ffcc33","white","navy","#00997f","","","","",0);
@@ -865,11 +539,9 @@ bbMenu[bbL].bM("mnmccdp","m334vcrr","Savings",175,24,/*URL*/"../secu/lower.htm?p
 bbMenu[bbL].bM("m334vcsi","","News & Resources",175,28,/*URL*/"../secu/lower.htm?page=news.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcs3","m334vcsi","Service Partners >",175,24,/*URL*/"../secu/lower.htm?page=news.service_partners","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcs4","m334vcs3","Accel Members Financial Counseling",175,36,/*URL*/"../secu/lower.htm?page=news.financial_counseling","","","#e1e7f3","white","navy","#00997f","","","","",1);
-
 bbMenu[bbL].bM("m334vcs6","m334vcs3","Auto Dealership Network",175,24,/*URL*/"../secu/lower.htm?page=news.cualn","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcs8","m334vcs3","Motor Vehicle Certification Program (MVCP)",175,36,/*URL*/"../secu/lower.htm?page=news.mvcp","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcs9","m334vcs3","Enterprise Used Car Sales",175,24,/*URL*/"../secu/lower.htm?page=news.enterprise","","","#e1e7f3","white","navy","#00997f","","","","",1);
-
 bbMenu[bbL].bM("m334vcsc","m334vcs3","United Buying Service (UBS)",175,24,/*URL*/"../secu/lower.htm?page=news.united_buying","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m8jb8jh","m334vcs3","Travelers Checks",175,24,/*URL*/"../secu/lower.htm?page=news.travelers","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcse","m334vcsi","Calendar of Events",175,24,/*URL*/"../secu/lower.htm?page=news.calendar","","","#e1e7f3","white","navy","#00997f","","","","",1);
@@ -880,18 +552,12 @@ bbMenu[bbL].bM("m45wdxu2","","Branches & ATMs",175,28,/*URL*/"../secu/lower.htm?
 bbMenu[bbL].bM("m45wdxuk","","Applications & Forms",175,28,/*URL*/"../secu/lower.htm?page=apps.listing","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m4jxuuhf","","Education Center",175,28,/*URL*/"../secu/lower.htm?page=education.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m45wdxut","m4jxuuhf","Frequently Asked Questions",175,24,/*URL*/"../secu/lower.htm?page=education.faq","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m45wdxuu","m4jxuuhf","Financial Articles >",175,24,/*URL*/"../secu/lower.htm?page=education.financial_articles","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig0","m45wdxuu","Auto",175,24,/*URL*/"../secu/lower.htm?page=education.fa_auto","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig1","m45wdxuu","Home",175,24,/*URL*/"../secu/lower.htm?page=education.fa_home","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig2","m45wdxuu","Refinancing",175,24,/*URL*/"../secu/lower.htm?page=education.fa_refinancing","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig3","m45wdxuu","College",175,24,/*URL*/"../secu/lower.htm?page=education.fa_college","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig4","m45wdxuu","Credit Cards",175,24,/*URL*/"../secu/lower.htm?page=education.fa_credit_cards","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m3xvlig5","m45wdxuu","Taxes",175,24,/*URL*/"../secu/lower.htm?page=education.fa_taxes","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("m45wdxuu","m4jxuuhf","Financial Articles",175,24,/*URL*/"../secu/lower.htm?page=education.financial_articles","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m3xvlifx","m4jxuuhf","Glossary",175,24,/*URL*/"../secu/lower.htm?page=glossary.index","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m3xvlify","m4jxuuhf","Googolplex",175,24,/*URL*/"../secu/lower.htm?page=education.googolplex","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m4jxuuhe","m4jxuuhf","Home & Family Finance Resource Center",175,36,/*URL*/"../framesets/home_family_frc.htm","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("muak4e1","m4jxuuhf","Retirement Central",175,24,/*URL*/"../secu/lower.htm?page=education.retirement_central","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m2jxfpr7","","Your Security & Privacy",175,25,/*URL*/"../secu/lower.htm?page=security.index","","","#ffcc33","white","#cc0000","#00997f","","","","",0);
+bbMenu[bbL].bM("m2jxfpr7","","Your Security & Privacy",175,25,/*URL*/"../secu/lower.htm?page=security.index","/images/index/nav_your_security.gif","/images/index/nav_your_security_over.gif","#ffcc33","white","#cc0000","#00997f","","","","",0);
 bbMenu[bbL].bM("m4jxuuhg","m2jxfpr7","Fraud Alerts",175,24,/*URL*/"../secu/lower.htm?page=security.fraud_alerts","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m4jxuuhh","m2jxfpr7","Report Lost or Stolen<br>Account Info",175,36,/*URL*/"../secu/lower.htm?page=security.report_lost","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m4jxuuhi","m2jxfpr7","How We Protect You",175,24,/*URL*/"../secu/lower.htm?page=security.how_we_protect","","","#e1e7f3","white","navy","#00997f","","","","",1);
@@ -1124,21 +790,7 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLm4jxuuhfx1" style="left: 97px; top: 271px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm45wdxut" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm45wdxutn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Frequently Asked Questions</div><div id="bbMLm45wdxute" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxuu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxuun" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Financial Articles &gt;</div><div id="bbMLm45wdxuue" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm45wdxuux2" style="left: 97px; top: 42px; z-index: 4000; position: absolute; visibility: hidden;">
-<div id="bbMLm3xvlig0" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm3xvlig0n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Auto</div><div id="bbMLm3xvlig0e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm3xvlig1" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm3xvlig1n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Home</div><div id="bbMLm3xvlig1e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm3xvlig2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLm3xvlig2n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Refinancing</div><div id="bbMLm3xvlig2e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm3xvlig3" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLm3xvlig3n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">College</div><div id="bbMLm3xvlig3e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm3xvlig4" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:100px;background-color:#003399"><div id="bbMLm3xvlig4n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Credit Cards</div><div id="bbMLm3xvlig4e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm3xvlig5" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:125px;background-color:#003399"><div id="bbMLm3xvlig5n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Taxes</div><div id="bbMLm3xvlig5e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
+<div id="bbMLm45wdxuu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxuun" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Financial Articles</div><div id="bbMLm45wdxuue" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm3xvlifx" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLm3xvlifxn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Glossary</div><div id="bbMLm3xvlifxe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
@@ -1149,7 +801,7 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLmuak4e1" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:137px;background-color:#003399"><div id="bbMLmuak4e1n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Retirement Central</div><div id="bbMLmuak4e1e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
-<div id="bbMLm2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:280px;"><div id="bbMLm2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:161px;height:20px;overflow:hidden;padding-left:14px;padding-top:5px">Your Security &amp; Privacy</div><div id="bbMLm2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:280px;"><div id="bbMLm2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:175px;height:25px;"><img name="bbMLm2jxfpr7i" id="bbMLm2jxfpr7i" src="/images/index/nav_your_security.gif" width="175" height="25" alt="Your Security &amp; Privacy" title="Your Security &amp; Privacy"></div><div id="bbMLm2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm2jxfpr7x1" style="left: 97px; top: 297px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm4jxuuhg" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm4jxuuhgn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Fraud Alerts</div><div id="bbMLm4jxuuhge" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -1167,7 +819,32 @@ bbMenu[bbL].buildLayers();
 </div>
 </bb:menu></div>
 
-			
+
+
+<script>
+	function handleFlyout() {
+		if (document.getElementById('showFlyout').value == 0) {
+			document.getElementById('bbML').style.display = '';
+			document.getElementById('bbML2').style.display = 'none';
+			document.getElementById('flyoutTask').className = 'disable_flyout_menu';
+			document.getElementById('flyoutMenuDescription').innerHTML = 'Disable';
+			document.getElementById('showFlyout').value = 1;
+		} else {
+			document.getElementById('bbML').style.display = 'none';
+			document.getElementById('bbML2').style.display = '';
+			document.getElementById('flyoutTask').className = 'enable_flyout_menu';
+			document.getElementById('flyoutMenuDescription').innerHTML = 'Enable';
+			document.getElementById('showFlyout').value = 0;
+		}
+		// ajax request to store settings in db
+		submitFlyoutPreferences('3724317','41680212');
+	}
+</script>
+
+
+<script type="text/javascript" src="/includes/javascripts/ajaxRequest.js"></script>
+<script type="text/javascript" src="/includes/javascripts/lt.js"></script>
+
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
