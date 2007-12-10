@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2007-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070410062044id_/http%3A//www.certainteed.com/certainteed/undefined/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210091909id_/http%3A//www.certainteed.com/certainteed/undefined/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 |       | | | [ROOFING](https://web.archive.org/CertainTeed/Undefined/Roofing/)| | [VINYL SIDING](https://web.archive.org/CertainTeed/Undefined/Siding/)| | [FIBER CEMENT SIDING](https://web.archive.org/CertainTeed/Undefined/FiberCementSiding/)| | [WINDOWS](https://web.archive.org/CertainTeed/Undefined/Windows/default.htm)| | [PIPE](https://web.archive.org/CertainTeed/Undefined/Pipe/)| | [FOUNDATIONS](https://web.archive.org/CertainTeed/Undefined/Foundations/)|         
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-      | | | [INSULATION](https://web.archive.org/CertainTeed/Undefined/Insulation/)| | [FENCE/RAILING/DECK](https://web.archive.org/CertainTeed/Undefined/FenceDeckRail/)| | [MILLWORK](https://web.archive.org/CertainTeed/Undefined/Millwork/)| | [WALLS](https://web.archive.org/CertainTeed/Undefined/Walls/)| | [CEILINGS](https://web.archive.org/CertainTeed/Undefined/Ceilings/)| |  |         
+      | | | [INSULATION](https://web.archive.org/CertainTeed/Undefined/Insulation/)| | [FENCE/RAILING/DECK](https://web.archive.org/CertainTeed/Undefined/FenceDeckRail/)| | [TRIM](https://web.archive.org/CertainTeed/Undefined/Trim/)| | [WALLS](https://web.archive.org/CertainTeed/Undefined/Walls/)| | [CEILINGS](https://web.archive.org/CertainTeed/Undefined/Ceilings/)| |  |         
 |  |   
+---|---  
+|   
 ---  
   
   
