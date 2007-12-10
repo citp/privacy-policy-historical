@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626200120id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210120428id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Real Estate News and Advice
 
-  
-[News & Advice](https://web.archive.org/)  
-**Privacy Statement**  
-  
+| 
 
+Privacy Statement 
 
 ### The Information We Collect
 
@@ -34,7 +32,7 @@ Agents and contractors of Realty Times who have access to personally identifiabl
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/rtcpages/privacy_updates.htm) for instructions on how to make your request. 
+We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/rtpages/privacy_updates.htm) for instructions on how to make your request. 
 
 Finally, the Realty Times site covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -58,7 +56,7 @@ Some of the Realty Times site covered by this Privacy Notice may use a reputable
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-How You can Access or Correct Information For instructions on how you can access the personally identifiable information that Realty Times site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/rtcpages/privacy_updates.htm). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+How You can Access or Correct Information For instructions on how you can access the personally identifiable information that Realty Times site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/rtpages/privacy_updates.htm). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 ### How to Contact Us
 
@@ -70,5 +68,33 @@ From time to time, we may update this privacy notice. We will notify you about m
 
 The Privacy Notice posted on this site was updated on or about August 1, 2006. 
 
-Copyright © 2007 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
+|    
 
+
+Real Estate News Network
+
+[ ](http://www.adobe.com/go/getflashplayer)
+
+**Mortgage Rates**  
+30 Year Fixed: 5.96%  
+15 Year Fixed: 5.65%  
+1 Year Adj: 5.46%  
+(U.S. Weekly Averages)  
+
+
+Today's Headlines  
+
+
+  * [Washington Report: Hot Debates on Subprimes and Foreclosures](https://web.archive.org/rtpages/20071210_washingtonreport.htm)
+  * [Don't Bet The Farm On Interest Rates](https://web.archive.org/rtpages/20071210_farmrates.htm)
+  * [Interest Rate Update](https://web.archive.org/rtpages/20071210_ratewatch.htm)
+  * [Market Conditions: Sisters, Oregon](https://web.archive.org/rtpages/20071210_mrktconditions.htm)
+  * [AIA Research Shows Cities Increasingly Have "Green Thumb"](https://web.archive.org/rtpages/20071210_greenthumb.htm)
+  * [Marketing Without Money](https://web.archive.org/rtpages/20071210_marketmoney.htm)
+  * [Ten Ways to Make Your Emails More Appealing: Part II](https://web.archive.org/rtpages/20071210_appealingemails.htm)
+  * [Investor Report: Battle of the Warring Housing Price Indexes](https://web.archive.org/rtpages/20071207_investorreport.htm)
+  * [Hot Market: Bismarck, North Dakota – Safe for Living and Investing](https://web.archive.org/rtpages/20071207_hotmarketbismarck.htm)
+  * [Not Everyone Cheering Federal Bailout For Subprime Borrowers](https://web.archive.org/rtpages/20071207_bailoutborrow.htm)
+
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C&LINK=http://www.hypertracker.com/go/cp/rtsb040601/)   
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?OpenAgent&TYPE=RealTimes\\Proquest_Sponsor_C3&LINK=http://www.realestategrowth.com/freedemo.asp?sc=6269)
