@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tvweek.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429031757id_/http%3A//www.tvweek.com/page.cms%3FpageId%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvweek.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211004059id_/http%3A//www.tvweek.com/about/privacy-policy) for the most accurate reproduction.*
 
-# TV Week
-
-**PRIVACY POLICY**
+# Privacy Policy - TVWeek
 
 TVWeek.com is the Web site of Television Week, a publication of Crain Communications Inc. Our postal address is 6500 Wilshire Boulevard, Suite 2300, Los Angeles CA 90048. We can be reached by e-mail at [nworrell@tvweek.com](mailto:nworrell@tvweek.com) or by telephone at 330-836-9180. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
@@ -18,8 +16,10 @@ These surveys and contests are entirely voluntary and you may decline to partici
 
 From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [nworrell@tvweek.com](mailto:nworrell@tvweek.com) or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
 
-We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [nworrell@tvweek.com.](mailto:nworrell@tvweek.com) You may not be able to fully access this Web site if you request removal of your personal information. 
+We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [nworrell@tvweek.com](mailto:nworrell@tvweek.com). You may not be able to fully access this Web site if you request removal of your personal information. 
 
 This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000. 
 
-Policy Last Updated: January 1, 2005
+  
+Policy Last Updated: January 1, 2005  
+
