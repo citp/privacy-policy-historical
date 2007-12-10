@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipaccess.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427035731id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipaccess.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210172535id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.*
 
 # Drop Ship Access
 
@@ -50,4 +50,4 @@ We communicate regularily with users in order to provide services and assistance
 
 If you have questions or concerns about these privacy policies, please call us at 866 390 5053 or send us an email at [support@DropShipAccess.com](mailto:support@DropShipAccess.com).
 
-Use of the Drop Ship Access services and this website constitutes acceptance of our [Membership & Privacy Policy](https://web.archive.org/web/20070427035731id_/http%3A//www.dropshipaccess.com/privacy.php)
+Use of the Drop Ship Access services and this website constitutes acceptance of our [Membership & Privacy Policy](https://web.archive.org/web/20071210172535id_/http%3A//www.dropshipaccess.com/privacy.php)
