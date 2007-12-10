@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610125418id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210154659id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Like most Web sites, schwans.com uses a technology called "cookies." Cookies are
 
 ### Children and Parents
 
-Schwans.com is not directed toward children under the age of 13. Children under age 13 should not submit personal information to Schwan's Home Service, Inc. without explicit permission of a parent or legal guardian. Where appropriate, Schwan's Home Service, Inc. will instruct children not to submit personal information and will require a parent or guardian's consent for anyone under the age of 13. If your child has already submitted personal information and you would like to have it removed, SSchwan's Home Service, Inc. will do whatever possible to comply with your request. 
+Schwans.com is not directed toward children under the age of 13. Children under age 13 should not submit personal information to Schwan's Home Service, Inc. without explicit permission of a parent or legal guardian. Where appropriate, Schwan's Home Service, Inc. will instruct children not to submit personal information and will require a parent or guardian's consent for anyone under the age of 13. If your child has already submitted personal information and you would like to have it removed, Schwan's Home Service, Inc. will do whatever possible to comply with your request. 
 
 ### Miscellaneous
 
