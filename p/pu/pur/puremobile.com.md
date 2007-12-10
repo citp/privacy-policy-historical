@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209170802id_/http%3A//www.puremobile.com/help.asp%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210225949id_/http%3A//www.puremobile.com/help.asp%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
 
-# PureMobile - Help Page
+# Help Center for Frequently Asked Questions - PureMobile
 
 PureMobile is hosted using a private server where it hosts the PureMobile.com and PureMobile.ca Online Store pages, the online ordering system, and the order data.
 
