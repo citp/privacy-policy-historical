@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611100535id_/http%3A//coroflot.com/public/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coroflot.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210183758id_/http%3A//www.coroflot.com/public/privacy.asp) for the most accurate reproduction.*
 
 # Coroflot - Privacy Policy
 
