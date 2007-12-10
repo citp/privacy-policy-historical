@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516054852id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210090607id_/http%3A//isoc.org/help/privacy) for the most accurate reproduction.*
 
 # ISOC Search/Site Map/Help: Privacy Statement
 
