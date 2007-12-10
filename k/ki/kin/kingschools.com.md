@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614153252id_/http%3A//www.kingschools.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210170402id_/http%3A//www.kingschools.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # King Schools - FAA Exam Prep Software, Pilot Training DVDs, and Pilot Gear
 
@@ -7,7 +7,7 @@ Here's our Privacy Policy Statement-
 
 This is the web site of King Schools, Inc.  
 Our postal address is: 3840 Calle Fortunada San Diego, CA 92123   
-You can email us at [custserv@kingschools.com](mailto:custserv@kingschools.com?subject=KingSchools.com%20web%20site)   
+You can email us at [custserv@kingschools.com](mailto:custserv@kingschools.com)   
 You can reach us by telephone at 800 854-1001 (Worldwide:858-541-2200)
 
 Any changes to this Policy will be posted on this site with a new effective date 
