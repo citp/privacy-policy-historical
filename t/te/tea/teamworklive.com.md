@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623220126id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142528id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # TeamWork Live - Privacy Policy
 
@@ -54,6 +54,6 @@ We may periodically update this policy. We will notify you about significant cha
 
 ### Questions
 
-If you have any additional questions or concerns about this policy, please contact us at [support@collectivesoft.com](mailto:support@collectivesoft.com) or write us at CollectiveSoft, Customer Care - Privacy Policy Issues, 821 Cole St, San Francisco, CA 94117.
+If you have any additional questions or concerns about this policy, please contact us at [support@collectivesoft.com](mailto:support@collectivesoft.com) or write us at CollectiveSoft, Customer Care - Privacy Policy Issues, 1382 8th Ave #1, San Francisco, CA 94122.
 
 Effective March 1, 2006
