@@ -1,58 +1,116 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609013330id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210131351id_/http%3A//www.toshiba.ca/web/link%3Fid%3D87) for the most accurate reproduction.*
 
 # Toshiba Canada - Privacy Statement
 
-At Toshiba of Canada Limited we take pride in providing our customers with the highest quality products, services and support.  To do so effectively, we require certain relevant information from our customers, which is treated with complete confidentiallity and respect.
+Last Revised September 17, 2007
 
-In concert with the Federal Government’s legislation the PERSONAL INFORMATION PROTECTION AND ELECTRONICS DOCUMENTS ACT (PIPEDA), Toshiba has adopted Ten Privacy Principles.  
-All information received from individuals is handled in a manner which is consistent with these principles.
+**TOSHIBA OF CANADA LIMITED PRIVACY STATEMENT**  
 
-Toshiba has implemented policies and procedures which support the ten principles, and our Privacy Officer as well as our staff are committed to ensure that our obligations to you regarding your personal information are fulfilled.  
 
-**TOSHIBA’S PRIVACY PRINCIPLES**
+The purpose of this Privacy Statement is to inform you about the types of Personal Information Toshiba of Canada Limited (as follows, “ **Toshiba** ” “ **we** ” or “ **us** ”) collects, uses and discloses. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
-1. Accountability
+We are proud to demonstrate our commitment to your privacy, by complying with the laws and regulations under applicable privacy laws in Canada, including the _Personal Information Protection and Electronic Documents Act.  
+_
 
-Toshiba of Canada Limited is accountable for all personal information in its possession or control, including information disclosed to third parties for processing.
-
-2. Identifying Purposes
-
- When collecting personal information from our customers, employment candidates or employees we will clearly identify in each case the specific purposes for doing so.
-
-3. Consent
-
- Consent to the collection of personal information for the identified purposes will be obtained before or at the time the information is collected.  In some cases the party through the process of providing the information grants consent.
-
-4. Limiting Collection
-
- The collection of personal information will be limited to information that is necessary for the purposes identified by Toshiba of Canada Limited.  Information will be collected only by fair and lawful means.
-
-5. Limiting Use, Disclosure and Retention
-
- Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the express consent of the individual or as required by law.  It will only be retained for as long as necessary to fulfill the identified purpose, after which time it will be destroyed erased or made anonymous.
-
-6. Accuracy
-
- Toshiba will use reasonable efforts to keep personal information as accurate, complete and up-to-date as necessary for the purposes identified to the individual.
-
-7. Safeguarding Personal Information
-
- Toshiba will protect personal information with physical, organizational and technological safeguards appropriate to the sensitivity of the information.
-
-8. Openness
-
- Toshiba will make information about its personal information management policies and practices available on request.
-
-9. Access to Personal Information
-
- Upon written request, Toshiba will provide, within a reasonable time, information about the personal information in its custody or control, including its use and the identity of any third parties to whom the information has been disclosed.  Individuals have the right to challenge the accuracy and completeness of their personal information and request that it be amended as appropriate.  Toshiba will advise third parties to whom the information has been disclosed of the amendment.
-
-10. Challenging Compliance
-
-You have the right to challenge our privacy compliance.  Before we are able to provide you with any information or correct any inaccuracies we may ask you to verify your identity and for other details to help us respond to your request.  If you wish to inquire about aspects of our Privacy Policy please direct your written request to our Privacy Officer, Human Resources Department, 191 McNabb Street, Markham, On., L3R 8H2 or E-Mail us at [privacyofficer@toshiba.ca](mailto:privacyofficer@toshiba.ca).  
- 
+From time to time, we may make changes to this Privacy Statement. The Privacy Statement is current as of the “last revised” date which appears at the top of this page. We will treat Personal Information in a manner consistent with the Privacy Statement under which it was collected and our Privacy Policy, unless we have your consent to treat it differently. This Privacy Statement applies to any information we collect or receive about you, from any source.
 
   
-Personal information is collected from our customers, employment candidates and our employees at certain times and for various reasons.  It may be collected on-line on our Company website, on documents in person or on the phone. 
+**The following topics will be covered in this Privacy Statement:**
 
-The following lists the various situations where personal information may be collected and discusses the granting of consent, the purposes for collection, length of retention and disclosure of this information in each situation.
+1\. To which companies does this Privacy Statement apply?  
+2\. What is Personal Information?  
+3\. How do we collect your Personal Information?  
+4\. Where do we store your Personal Information?  
+5\. How do we use your Personal Information?  
+6\. To whom do we provide your Personal Information?  
+7\. When and how do we obtain your consent?  
+8\. How do we ensure the privacy of your Personal Information when dealing with our affiliates and other third parties?  
+9\. How long will we utilize, disclose or retain your Personal Information?  
+10\. How can you review your Personal Information that we have collected, utilized or disclosed?  
+11\. How do you know that the Personal Information we have on you is accurate?  
+12\. What if the Personal Information we have on you is inaccurate?  
+13\. How fast will we respond to your written requests?  
+14\. Are there any costs to you for requesting information on your Personal Information or on our Privacy Policy or practices?  
+15\. How do we know that it is really you requesting your Personal Information?  
+16\. That safeguards have we implemented to protect your Personal Information?  
+17\. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?  
+**  
+1\. To which companies does this Privacy Statement apply?**  
+This Privacy Statement applies to the collections, uses and disclosures of Personal Information by Toshiba and its divisions, including its Consumer Electronics Group, Medical Systems Group, Information Systems Group and Office Products Group.  
+
+
+**2\. What is Personal Information?**  
+“Personal Information” is any information that is identifiable with you. This information may include but is not limited to your name, mailing address, phone number, email address, business facsimile number, credit card number, household income, banking information, and creditor information. Personal Information, however, does not include your name, business title or business address and business telephone number in your capacity as an employee of an organization.  
+
+
+**3\. How do we collect your Personal Information?**  
+We will always collect your Personal Information by fair and lawful means (for example, when you purchase a Toshiba product, register warranties, use the Toshiba website or speak to a Toshiba representative). We often collect Personal Information from you and from third party service providers, where we have obtained your consent to do so or as otherwise permitted by law.  
+
+
+**4\. Where do we store your Personal Information**?  
+We will keep the Personal Information that we collect primarily at our offices at 191 McNabb Street, Markham, Ontario, and at the offices of our affiliates. While our service providers may, from time to time, also hold your Personal Information in connection with purposes for which you provided your consent or as otherwise permitted or required by law, we remain responsible, and remain the contacts for, such information.
+
+**  
+5\. How do we use your Personal Information?**  
+We identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use. We generally use your Personal Information for the following purposes (the “Purposes”): (i) to process your purchase orders; (ii) to complete your service requests; (iii) to assist you with technical support; (iv) to gather your opinion and feedback through surveys; (v) to enrol you in our contests or promotional programs; (vi) to include you on our mailing list; and (vii) to process your application for employment.
+
+  
+**6\. To whom do we provide your Personal Information?** We identify to whom, and for what purposes, we disclose your Personal Information, at the time we collect such information from you and obtain your consent to such disclosure.   
+For example, we may disclose your Personal Information to third party service providers with whom we have a contractual agreements that includes appropriate privacy standards, where such third parties are assisting us with the Purposes \-- for example, service providers may be used to repair products, provide telephone support, assist in the completion of your orders, notify you of any contests or special offers, and data storage.  
+We will only make disclosures of Personal Information to such persons for which you provide your consent. Notwithstanding the foregoing, we may also make disclosures of Personal Information to a potential acquiror in connection with a transaction involving the sale of the business of Toshiba or as otherwise permitted or required by law.  
+In addition, we may send Personal Information outside of the country for the purposes set out above, including for process and storage by service providers in connection with such purposes, and you should note that while such information is out of the country, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country.
+
+  
+**7\. When and how do we obtain your consent?**  
+We obtain your consent prior to collecting, and in any case, prior to using or disclosing your Personal Information for any purpose. You may provide your consent to us either orally, electronically or in writing.
+
+  
+**8\. How do we ensure the privacy of your Personal Information when dealing with our affiliates and other third parties?**  
+We ensure that all affiliates and other third parties that are retained to perform services on our behalf and are provided with Personal Information are contractually required to observe the intent of this Privacy Statement and our Privacy Policy and practices.
+
+  
+**9\. How long will we utilize, disclose or retain your Personal Information?**  
+We may keep a record of your Personal Information, correspondence or comments in a file specific to you. We will utilize, disclose or retain your Personal Information for as long as necessary to fulfill the purposes for which that Personal Information was collected and as permitted or required by law.
+
+  
+**10\. How can you review your Personal Information that we have collected, utilized or disclosed?**  
+If you make a written request to review any Personal Information about you that we have collected, utilized or disclosed, we will provide you with any such Personal Information to the extent required by law. We will make such Personal Information available to you in a form that is generally understandable, and will explain any abbreviations or codes.
+
+  
+**11\. How do you know that the Personal Information we have on you is accurate?**  
+We will ensure that your Personal Information is kept as accurate, complete and up-to-date as possible. We will not routinely update your Personal Information, unless such a process is necessary. We expect you, from time to time, to supply us with written updates to your Personal Information, when required.
+
+**  
+12\. What if the Personal Information we have on you is inaccurate?**  
+At any time, you can challenge the accuracy or completeness of your Personal Information in our records. If you successfully demonstrate that your Personal Information in our records is inaccurate or incomplete, we will amend the Personal Information as required. Where appropriate, we will transmit the amended information to third parties having access to your Personal Information.  
+
+
+**13\. How fast will we respond to your written requests?**  
+We will attempt to respond to each of your written requests not later than thirty (30) days after receipt of such requests. We will advise you in writing if we cannot meet your requests within this time limit. You have the right to make a complaint to the federal Privacy Commissioner in respect of this time limit.
+
+  
+**14\. Are there any costs to you for requesting information about your Personal Information or our Privacy Policy or practices?**  
+We will not charge any costs for you to access your Personal Information in our records or to access our Privacy Policy or practices without first providing you with an estimate of the approximate costs, if any. You may withdraw your requests for access to information by notifying us within the thirty (30) day notice period disclosed on the estimate. If you do not notify us within such thirty (30) day period, we will send you a further notice indicating that you will be deemed to have withdrawn your request for access unless you advise us otherwise within thirty (30) days. If, after the expiry of this second thirty (30) day period, you have not so advised us, we will deem your request to have been withdrawn and provide you with written notice to that effect.
+
+  
+**15\. How do we know that it is really you requesting your Personal Information?**  
+We may request that you provide sufficient identification to permit access to the existence, use or disclosure of your Personal Information. Any such identifying information shall be used only for this purpose.
+
+  
+**16\. What safeguards have we implemented to protect your Personal Information?**  
+We have implemented physical, organizational, contractual and technological security measures to protect your Personal Information from loss or theft, unauthorized access, disclosure, copying, use or modification. The only employees who are granted access to your Personal Information are those with a business ‘need-to-know’ or whose duties reasonably require such information.
+
+  
+**17\. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?**  
+All comments, questions, concerns or complaints regarding your Personal Information or our Privacy Policy and practices, should be forwarded to our Privacy Officer as follows.
+
+In writing:
+
+Privacy Officer  
+Toshiba of Canada Limited  
+191 McNabb Street  
+Markham, ON L3R 8H2  
+
+
+Email: [privacyofficer@toshiba.ca](mailto:privacyofficer@toshiba.ca)  
+
