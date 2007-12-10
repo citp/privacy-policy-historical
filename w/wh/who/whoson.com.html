@@ -1,0 +1,298 @@
+<!--The following is the downloaded HTML source of the whoson.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210162452id_/http%3A//www.whoson.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" href="psl.css"><link type="text/css" rel="stylesheet" href="/WebResource.axd?d=dhLjUiD0i8eOWL4cz0_ptJnAIsa6XMrEd39fom8RelzECw8WoJw1oLtLQ_EOWirp0O3l9iCeIh-qJP8a4MpO47BAJ3Um7_mc4A1hWTKb0Cw1&amp;amp;t=633183706320000000"><link type="text/css" rel="stylesheet" href="/RadControls/Menu/Skins/PSL/styles.css"><link type="text/css" rel="stylesheet" href="/WebResource.axd?d=DvnrQgFW8l4tgXRlzPB9AwpXG_UxUwangdvQ0cGj8hvJIAz1Rs_y8VkswX2X6nZW0cR3gLjgo1ar4_jkjXvG8eIPmNugtptAfwuNIVVt5Ys1&amp;amp;t=633183786880000000"><link type="text/css" rel="stylesheet" href="/RadControls/Panelbar/Skins/System/styles.css"><title>
+	Privacy Policy
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8PFgIeBFRleHQFKUNhbGwgVXMgT24gMSA4MDAgNjgwIDc3MTIgKDlhbSAtIDZwbSBHTVQpZGQCCw8PFgIfAAUNQ2xpY2sgVG8gQ2hhdGRkAhcPDxYCHwAFIFNpdGUgTGFzdCBVcGRhdGVkOiA0dGggU2VwdCAyMDA3ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDWN0bDAwJFRvcE1lbnUFDWN0bDAwJFNpZGVCYXIpiS2l39FsLH/+XVmm3g1IlLBd6A==">
+
+
+<script type="text/javascript">
+<!--
+var locX=0;
+var locY=150;
+var imgW=0;
+var maxX=0;
+var getC=0;
+var docW=document.body.clientWidth;
+var hldX=0;
+var incX=1;
+var cStat=1;
+imgPoll=new Image();
+imgPoll.onload=chkImg;
+function woAfterLoad(){
+ var tmpDiv=document.createElement('DIV');
+ tmpDiv.setAttribute('name', 'woInvite');
+ tmpDiv.setAttribute('id', 'woInvite');
+ tmpDiv.setAttribute('align', 'right');
+ tmpDiv.style.position='absolute';
+ tmpDiv.style.top=150;
+ tmpDiv.style.left=0;
+ tmpDiv.style.zIndex=999;
+ document.body.appendChild(tmpDiv);
+ setTimeout('getImg()',1000);
+}
+function woMove(){
+ if(hldX==0){
+  newX=locX+incX;
+  if(incX>0){
+   if(newX<maxX){
+    locX=newX;woDIVs.left=locX+'px';
+    setTimeout('woMove()',12);
+   } else {
+    incX=-1;
+    setTimeout('woMove()',1000);
+   }
+  } else {
+   if(locX>0){
+    locX=newX;woDIVs.left=locX+'px';
+    setTimeout('woMove()',6);
+   } else {
+    setTimeout('stopInvite()',4000);
+   }
+ }
+ }
+}
+function getImg(){
+ var rTimer=5000;
+ var pUrl="http://gateway1.whoson.com/poll.gif?d=www.whoson.com&ip=64.208.172.174&u=115-59150.953125&stamp="+(new Date()).getTime();
+ imgPoll.src=pUrl;
+ getC++;
+ if(getC>10)rTimer=10000;
+ if(rTimer>0)setTimeout("getImg()",rTimer);
+}
+function chkImg(){
+ if(imgPoll!=null){
+  nStat=imgPoll.width;
+  if(nStat==1 && cStat==2)nStat=2;
+  if(nStat!=cStat){
+   cStat=nStat;
+   if(cStat==3)startChat();
+   if(cStat==2)startInvite();
+   if(cStat==1)stopInvite();
+  }
+ }
+}
+function getIImgw(){
+ imgW=woIMG.width;maxX=docW-imgW;
+}
+function startInvite(){
+ var ofsY;
+ if(document.documentElement && document.documentElement.scrollTop){
+  ofsY=document.documentElement.scrollTop;
+ } else {
+  ofsY=document.body.scrollTop;
+ }
+ hldX=0;incX=1;locX=0;locY=150;
+ woDIVs=document.getElementById('woInvite').style;
+ woDIVh=document.getElementById('woInvite');
+ woDIVh.innerHTML='<a href="javascript:void(0);" onclick="return startChat(event);" onMouseOver="anPause()" onMouseOut="anResume()"><img border="0" src="http://gateway1.whoson.com/invite.gif?d=www.whoson.com&ip=64.208.172.174&u=115-59150.953125&stamp='+(new Date()).getTime()+'" name="woIImg"</a>';
+ woDIVs.top=(locY+ofsY)+'px';woDIVs.left=locX+'px';
+ setTimeout('woMove()',3000);
+ woIMG=document.images.woIImg;
+ woIMG.onload=getIImgw;
+}
+function stopInvite(){
+ cStat=1;woDIVh.innerHTML="";
+ setTimeout("getImg()",5000);
+}
+function startChat(event){
+ clsX=locX+imgW-12;
+ clsY=locY+12;
+ if(event.clientX<clsX || event.clientY>clsY){
+  this.chatWindow=window.open("https://hosted1.whoson.com/chat/chatstart.htm?domain=www.whoson.com","Chat","width=484,height=361");
+  this.chatWindow.focus();this.chatWindow.opener=window;
+ }
+ stopInvite();
+}
+function anPause(){
+ hldX=1;
+}
+function anResume(){
+ hldX=0;
+ setTimeout('woMove()',1000);
+}
+var woOldOnload=window.onload;
+if(typeof woOldOnload=='function'){
+ if (! (String(woOldOnload).indexOf('woAfterLoad') > 0))
+ {
+   var woRunOnload = woOldOnload;
+   window.onload=function(){woRunOnload();woAfterLoad();};
+ }
+} else {
+ window.onload=woAfterLoad;
+}
+// -->
+</script>
+
+    <div class="textwhite"><span id="ctl00_lblTopHeading">Call Us On 1 800 680 7712 (9am - 6pm GMT)</span></div>
+    <div class="header">
+        <img src="images/master/logo.jpg" class="logo" alt="WhosOn Live Web Stats">
+        <div class="topnavpadding">
+        <div class="topnav">
+        <div class="topnavpaddinginside">
+            <div id="ctl00_TopMenu" class="radmenu RadMenu_PSL ">
+	<!-- 4.3.2 --><script type="text/javascript" src="/WebResource.axd?d=dhLjUiD0i8eOWL4cz0_ptJnAIsa6XMrEd39fom8RelzECw8WoJw1oLtLQ_EOWirpO1prMjKoLAjP0pEnpWbvnqXOpTXuL3JUSFIH_2se4W01&amp;t=633183706320000000"></script><span id="ctl00_TopMenuStyleSheetHolder" style="display:none;"></span><ul class="horizontal rootGroup">
+		<li class="item first"><a href="introduction.aspx" id="ctl00_TopMenu_m0" class="link"><span class="text">Products</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="introduction.aspx" id="ctl00_TopMenu_m0_m0" class="link"><span class="text">WhosOn Introduction</span></a></li><li class="item"><a href="benefits.aspx" id="ctl00_TopMenu_m0_m1" class="link"><span class="text">WhosOn Benefits</span></a></li><li class="item"><a href="installable.aspx" id="ctl00_TopMenu_m0_m2" class="link"><span class="text">Installable Edition</span></a></li><li class="item"><a href="hosted.aspx" id="ctl00_TopMenu_m0_m3" class="link"><span class="text">Hosted Edition</span></a></li><li class="item"><a href="hosteddedicated.aspx" id="ctl00_TopMenu_m0_m4" class="link"><span class="text">Dedicated Servers</span></a></li><li class="item"><a href="isp.aspx" id="ctl00_TopMenu_m0_m5" class="link"><span class="text">ISP Edition</span></a></li><li class="item"><a href="chattranslate.aspx" id="ctl00_TopMenu_m0_m6" class="link"><span class="text">Live Chat Translation</span></a></li><li class="item"><a href="dotnetnuke.aspx" id="ctl00_TopMenu_m0_m7" class="link"><span class="text">WhosOn For DotNetNuke</span></a></li><li class="item"><a href="editionchooser.aspx" id="ctl00_TopMenu_m0_m8" class="link"><span class="text">Choose Your Edition Wizard</span></a></li><li class="item last"><a href="developer.aspx" id="ctl00_TopMenu_m0_m9" class="link"><span class="text">Features &amp; Options For The Developer</span></a></li>
+			</ul>
+		</div></li><li id="ctl00_TopMenu_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="trialoptions.aspx" id="ctl00_TopMenu_m2" class="link"><span class="text">Free Trial</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="trialoptions.aspx" id="ctl00_TopMenu_m2_m0" class="link"><span class="text">Try WhosOn</span></a></li><li class="item last"><a href="livedemo.aspx" id="ctl00_TopMenu_m2_m1" class="link"><span class="text">Request A Live Demo</span></a></li>
+			</ul>
+		</div></li><li id="ctl00_TopMenu_m3" class="item separator "><span class="text"></span></li><li class="item"><a href="howtobuy.aspx" id="ctl00_TopMenu_m4" class="link"><span class="text">Purchase</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="howtobuy.aspx" id="ctl00_TopMenu_m4_m0" class="link"><span class="text">How To Buy</span></a></li><li class="item"><a href="installableorder.aspx" id="ctl00_TopMenu_m4_m1" class="link"><span class="text">Installable Edition</span></a><div class="slide">
+					<ul class="vertical group level2">
+						<li class="item first"><a href="installableorder.aspx" id="ctl00_TopMenu_m4_m1_m0" class="link"><span class="text">Purchase New License</span></a></li><li class="item"><a href="installableorderclients.aspx" id="ctl00_TopMenu_m4_m1_m1" class="link"><span class="text">Add Additional Operators</span></a></li><li class="item"><a href="installableorderupdates.aspx" id="ctl00_TopMenu_m4_m1_m2" class="link"><span class="text">Annual Support</span></a></li><li class="item last"><a href="installableupgrade.aspx" id="ctl00_TopMenu_m4_m1_m3" class="link"><span class="text">Upgrades</span></a></li>
+					</ul>
+				</div></li><li class="item"><a href="hostedorder.aspx" id="ctl00_TopMenu_m4_m2" class="link"><span class="text">Hosted Edition</span></a></li><li class="item last"><a href="isporder.aspx" id="ctl00_TopMenu_m4_m3" class="link"><span class="text">ISP Edition</span></a></li>
+			</ul>
+		</div></li><li id="ctl00_TopMenu_m5" class="item separator "><span class="text"></span></li><li class="item"><a href="support.aspx" id="ctl00_TopMenu_m6" class="link"><span class="text">Support</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="support.aspx" id="ctl00_TopMenu_m6_m0" class="link"><span class="text">Support Home</span></a></li><li class="item last"><a href="http://www.parkersoft.co.uk/client.aspx" target="_blank" id="ctl00_TopMenu_m6_m1" class="link"><span class="text">Customer Area</span></a></li>
+			</ul>
+		</div></li><li id="ctl00_TopMenu_m7" class="item separator "><span class="text"></span></li><li class="item"><a href="#" id="ctl00_TopMenu_m8" class="link"><span class="text">Partners</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first last"><a href="partners.aspx" id="ctl00_TopMenu_m8_m0" class="link"><span class="text">Become A Partner</span></a></li>
+			</ul>
+		</div></li><li id="ctl00_TopMenu_m9" class="item separator "><span class="text"></span></li><li class="item last"><a href="#" id="ctl00_TopMenu_m10" class="link"><span class="text">Company</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="contact.aspx" id="ctl00_TopMenu_m10_m0" class="link"><span class="text">Contact Us</span></a></li><li class="item"><a href="about.aspx" id="ctl00_TopMenu_m10_m1" class="link"><span class="text">About Us</span></a></li><li class="item"><a href="feedback.aspx" id="ctl00_TopMenu_m10_m2" class="link"><span class="text">Send Feedback</span></a></li><li class="item last"><a href="events.aspx" id="ctl00_TopMenu_m10_m3" class="link"><span class="text">Upcoming Events</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input type="hidden" id="ctl00_TopMenu_Hidden" name="ctl00$TopMenu"><script type="text/javascript">window["ctl00_TopMenu"] = RadMenu.Create("ctl00_TopMenu");window["ctl00_TopMenu"].Initialize({"ExpandAnimation":{"Type":"InOutQuad"},"Skin":"PSL","CollapseDelay":200,"Enabled":true},{"ctl00_TopMenu_m1":{"IsSeparator":true,"NavigateAfterClick":false},"ctl00_TopMenu_m3":{"IsSeparator":true,"NavigateAfterClick":false},"ctl00_TopMenu_m5":{"IsSeparator":true,"NavigateAfterClick":false},"ctl00_TopMenu_m7":{"IsSeparator":true,"NavigateAfterClick":false},"ctl00_TopMenu_m8":{"NavigateAfterClick":false},"ctl00_TopMenu_m9":{"IsSeparator":true,"NavigateAfterClick":false},"ctl00_TopMenu_m10":{"NavigateAfterClick":false}});</script>
+</div>
+        </div>
+       </div>
+       </div>
+    </div>
+    <div class="pageedge">
+        <div class="location">
+            <div class="sitemap">
+                <img id="ctl00_imgSM" src="images/master/sitemap.gif" alt="Location:" border="0">
+                <span id="ctl00_SitePath"><a href="#ctl00_SitePath_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=XA1NSh5EblRgwmlIbQtdAA2&amp;t=633228058627031250" border="0"></a><span><a href="http://www.whoson.com">Home Page</a></span><span> : </span><span>Privacy Policy</span><a id="ctl00_SitePath_SkipLink"></a></span>
+            </div>
+            <div class="chatlinks">
+                <span class="chatlink" id="wochat" onclick="javascript:window.open('https://hosted1.whoson.com/chat/chatstart.htm?domain=www.whoson.com&amp;select=d','wochat','width=484,height=361');return false;">
+                <img id="ctl00_imgChat" src="images/master/chatstart.gif" alt="Start Chat" border="0">
+                <span id="ctl00_lblChat">Click To Chat</span></span>
+                <span class="chatlink" id="wocall" onclick="javascript:window.open('https://hosted1.whoson.com/chat/callback.aspx?domain=www.whoson.com','wocall','width=484,height=361');return false;">
+                <img id="ctl00_imgCallBack" src="images/master/callback.gif" border="0">
+                <span id="ctl00_lblCallBack">Request Call Back</span></span>
+            </div>
+        </div>
+        <div class="pagepadding">
+            <div class="locationleft">
+                <div id="ctl00_SideBar" class="panelbar RadPanelbar_System " style="border-style:None;width:169px;">
+	<!-- 4.2.2 --><script type="text/javascript" src="/WebResource.axd?d=DvnrQgFW8l4tgXRlzPB9AwpXG_UxUwangdvQ0cGj8hvJIAz1Rs_y8VkswX2X6nZW0cR3gLjgo1ar4_jkjXvG8d8jjSlh028XazzP_KH5LWEt3czjEBy12GMZZeWYUvAi0&amp;t=633183786880000000"></script><span id="ctl00_SideBarStyleSheetHolder" style="display:none;"></span><ul class="rootGroup">
+		<li class="item first"><a href="/introduction.aspx" id="ctl00_SideBar_p0" class="link"><span class="text">Product Info</span></a><div class="slide" style="display:block;">
+			<ul class="group level1 " style="display:block;">
+				<li class="item first"><a href="/introduction.aspx" id="ctl00_SideBar_p0_p0" class="link"><span class="text">Introduction</span></a></li><li class="item"><a href="/tour1.aspx" id="ctl00_SideBar_p0_p1" class="link"><span class="text">Quick Tour</span></a></li><li class="item"><a href="/products.aspx" id="ctl00_SideBar_p0_p2" class="link"><span class="text">Editions</span></a></li><li class="item last"><a href="/compare.aspx" id="ctl00_SideBar_p0_p3" class="link"><span class="text">How Do We Compare</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/benefits.aspx" id="ctl00_SideBar_p1" class="link"><span class="text">Benefits</span></a><div class="slide" style="display:block;">
+			<ul class="group level1 " style="display:block;">
+				<li class="item first"><a href="/benefits.aspx" id="ctl00_SideBar_p1_p0" class="link"><span class="text">Don't Be Blind</span></a></li><li class="item"><a href="/benefitschat.aspx" id="ctl00_SideBar_p1_p1" class="link"><span class="text">Live Chat Works</span></a></li><li class="item"><a href="/benefitsmoney.aspx" id="ctl00_SideBar_p1_p2" class="link"><span class="text">Save Money</span></a></li><li class="item last"><a href="/benefitstime.aspx" id="ctl00_SideBar_p1_p3" class="link"><span class="text">Save Time</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/trialoptions.aspx" id="ctl00_SideBar_p2" class="link"><span class="text">Free Trial</span></a><div class="slide" style="display:block;">
+			<ul class="group level1 " style="display:block;">
+				<li class="item first"><a href="/installabletrial.aspx" id="ctl00_SideBar_p2_p0" class="link"><span class="text">Installable Edition</span></a></li><li class="item"><a href="/hostedrequest.aspx" id="ctl00_SideBar_p2_p1" class="link"><span class="text">Hosted Edition</span></a></li><li class="item last"><a href="/isptrial.aspx" id="ctl00_SideBar_p2_p2" class="link"><span class="text">ISP Edition</span></a></li>
+			</ul>
+		</div></li><li class="item last"><a href="#" id="ctl00_SideBar_p3" class="link"><span class="text">Purchasing</span></a><div class="slide" style="display:block;">
+			<ul class="group level1 " style="display:block;">
+				<li class="item first last"><a href="/howtobuy.aspx" id="ctl00_SideBar_p3_p0" class="link"><span class="text">How To Buy</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input type="hidden" id="ctl00_SideBar_Hidden" name="ctl00$SideBar"><script type="text/javascript">window["ctl00_SideBar"] = new RadPanelbar("ctl00_SideBar");window["ctl00_SideBar"].Initialize({"CookieName":"ctl00_SideBar","Enabled":true,"Skin":"System","ExpandAnimation":{"Type":"None"},"CollapseAnimation":{"Type":"None"}},{"ctl00_SideBar_p0":{"Expanded":true,"Value":"info"},"ctl00_SideBar_p1":{"Expanded":true,"Value":"benefits"},"ctl00_SideBar_p2":{"Expanded":true,"Value":"trials"},"ctl00_SideBar_p3":{"Expanded":true,"Value":"purchase","NavigateAfterClick":false}});</script>
+</div>
+                <br>
+                <div align="center">
+                <br>
+                <a href="mcpreview.aspx">
+                <img id="ctl00_imgMCP" src="images/mcpmagsml.gif" alt="MCP Editors Choice" border="0"></a>
+                <br>
+                <br>
+                </div>
+            </div>
+            <div class="content">
+                
+    <strong></strong>
+    <h1>Parker Software Privacy Policy</h1>
+    <strong>
+Non-Personal Information 
+    </strong>
+    <br>
+In general, you can visit Parker Software on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Also, we may collect and store other information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider, browser type, and country of origin. We use this information only to measure site activity and to develop ideas for improving our sites.
+    <br>
+    <br>
+    <strong>Personal Information&nbsp;</strong><br>
+    We &nbsp;may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). This will occur in certain circumstances, including for example, when you download trial software, sign up for newsletter services, download patches, purchase software, register software, or join a limited-access premium service. We use your Personal Information for three primary purposes:
+
+To enable you to find or gain access to information, software or services on our web site. 
+To help us personalize the content or navigational choices presented to you in order to make your future experiences on our web site as efficient as possible. 
+To allow us to inform you of product updates and upgrades, special offers, new services and products, as well as updated information that may be especially pertinent to you.&nbsp;<br>
+    <br>
+    Parker Software will not provide your name, e-mail address, mailing address, phone number, or any other Personal Information to any third parties. If you don't want
+    Parker Software to send you e-mail or postal mail regarding our products, services, or special offers, do not check the appropriate check boxes requesting us to do so.
+    <br>
+    <br>
+    <strong>
+
+Online Registration</strong>
+    <br>
+When you register a product, whether purchased online directly from Parker Software
+    or otherwise, we store the Personal Information you give us on a secure server. That information is treated in the same manner as any Personal Information gathered through the online store.&nbsp;<br>
+    <br>
+    <strong>
+
+Cookies<br>
+    </strong>
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. They only contain a secure identifying code that we use to match you to your Personal Information whenever you return to our site. Your Personal Information is never directly connected to nor stored on your computer, but is accessed when we identify your cookie to provide you with a more personalized experience when visiting our site.
+    <br>
+    <br>
+    <strong>
+
+What Information Do We Collect? 
+        <br>
+    </strong>
+The type of information we maintain on our secure Personal Information server falls into two categories. The first is general information about you such as name, billing address, e-mail address, company name, etc. We do not store credit card information as part of your Personal Information. The second is product-specific information that enables us to customize information for you depending on which of our products or services you have purchased or registered. Our Technical Support department also utilizes this information when you contact it.
+
+We also store information about how you navigate our site so that when you return to it again, we may present you with a more efficient, personalized experience based on your interests and needs. As we continue to develop the whoson.com site, we hope to continually increase the personally customized quality of your browsing and shopping experiences.
+
+We also store specific information if you enter a contest that enables us to track entrants and award prizes. Similarly, we store specific information gathered in on-line surveys we conduct in order for us to accurately interpret the information gathered.&nbsp;<br>
+    <br>
+    Parker Software reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web site in a timely manner.
+
+Please feel free to contact the webmaster with any questions, comments, or problems that might arise.
+
+
+
+            </div>
+        </div>
+        <br>
+    </div>
+    <div class="footer">
+       <div class="footerpadding">
+           <div class="footertext">
+            Copyright © 2007 Parker Software Ltd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span class="textblack">
+                <span id="ctl00_lblLastUpdated">Site Last Updated: 4th Sept 2007</span>
+            </span>
+            <br>
+            <br>
+            <a class="footerlink" href="sitemap.aspx">Site Map</a> | 
+            <a class="footerlink" href="sendfriend.aspx">Send To A Friend</a> | 
+            <a class="footerlink" href="subscribe.aspx">Subscribe</a> |
+            <a class="footerlink" href="terms.aspx">Terms</a> | 
+            <a class="footerlink" href="privacy.aspx">Privacy Policy</a> | 
+            <a class="footerlink" href="contact.aspx">Contact</a>
+         </div>
+       </div>
+    </div>
+    </form>
+
+
+<div name="woInvite" id="woInvite" align="right" style="position: absolute; left: 0px; z-index: 999;"></div></body></html>
