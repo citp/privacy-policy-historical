@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204000613id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dhome%26page%3D0080privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usps.gov privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210060157id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dhome%26page%3D0080privacy) for the most accurate reproduction.*
 
 # USPS - Privacy Notice Highlights
 
@@ -74,7 +74,7 @@ This statement applies to USPS™ customers and usps.com visitors, unless a sepa
 | 
 
   * We welcome you to view our full [privacy policy](http://www.usps.com/homearea/docs/privpol_long.htm "Privacy Policy").
-  * You may [contact](http://www.usps.com/homearea/docs/privpol_long.htm#inquiries) the privacy office at [privacy@usps.gov](mailto:privacy@usps.gov\(privacy@usps.gov) or USPS, Privacy Office, 475 L’Enfant Plaza SW Washington. DC 20260-2200.
+  * You may [contact](http://www.usps.com/homearea/docs/privpol_long.htm#inquiries) the privacy office at [privacy@usps.gov](mailto:privacy@usps.gov) or USPS, Privacy Office, 475 L’Enfant Plaza SW Washington. DC 20260-2200.
 
   
   
