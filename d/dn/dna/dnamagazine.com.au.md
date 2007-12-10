@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425152404id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231151id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
 
 # DNA - Privacy Policy
 
@@ -58,10 +58,8 @@ At DNA your privacy is our priority. We do not give out information about our cu
 
 DNA Publications Pty Limited trading as DNA Magazine Australia (ABN 68 092 649 566)
 
-  
  **POLICIES & PROCEDURES - GENERAL - POLICY: PRIVACY POLICY:**
 
-  
  **PURPOSE:**
 
 The purpose of this policy is to enable DNA Publications Pty Limited (DNA) to comply with the Privacy (Private sector) Amendment Act 2000 (the act) of Australia to the best of its ability.
@@ -103,6 +101,3 @@ Complaints with regards to the adherence to the Act and this Policy should be ad
 Privacy Officer, DNA Publications Pty Limited, PO Box 127, LIDCOMBE NSW 1825 AUSTRALIA.
 
 It is the policy of DNA to deal with any complaint within 5 working days after receipt of the complaint in writing.
-
-  
-
