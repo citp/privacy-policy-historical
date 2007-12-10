@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313103000id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210234402id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
 
 # Service Uptime - Privacy Policy
-
-|  |  |  | 
 
 PRIVACY POLICY (Version 1.1; Revised March 1, 2005)
 
@@ -24,6 +22,3 @@ ServiceUptime occasionally uses "cookies", which allows us to recognize who you 
 This site contains links to other sites. ServiceUptime is not responsible for the privacy practices or the content of such web sites.
 
 If you have any questions regarding this policy, please contact [](mailto:info@serviceuptime.com).
-
-|  |   
----|---|---|---|---|---
