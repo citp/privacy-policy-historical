@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630231326id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210220816id_/http%3A//www.tidbits.com/about/privacy.html) for the most accurate reproduction.*
 
 # TidBITS Privacy Statement
 
-(Last updated Wednesday, November 17, 2004.) 
+(Last updated Tuesday, October 30, 2007.) 
 
 TidBITS Electronic Publishing takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.
 
@@ -62,4 +62,4 @@ Special thanks to [digital.forest](http://www.forest.net/), our Web and mailing 
 
 Copyright 2007 TidBITS.   
 Send comments to [our webmaster](http://www.tidbits.com/about/webmaster.html).   
-Last updated on Wednesday, November 17, 2004
+Last updated on Tuesday, October 30, 2007
