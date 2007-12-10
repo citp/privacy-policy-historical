@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627143252id_/http%3A//www.kbtx.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211003235id_/http%3A//www.kbtx.com/unclassified/647.html) for the most accurate reproduction.*
 
 # KBTX - HomePage
-
-GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
