@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630165419id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210142003id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs.com
 
 Internet Employment Linkage, Inc. is a licensee of the TRUSTe Privacy Program.
 
-This Privacy Policy governs the collection and use of user data from those portions of [ ](http://www.truste.org/ivalidate.php?url=www.higheredjobs.com&sealid=101) the HigherEdJobs.com website that are available to the public without a login ID or password (the "Public Site") and those portions, such as the Employer Section and My HigherEdJobs, that we restrict to users with a login ID and password (the "Restricted Site"). The Public Site and the Restricted Site are, collectively, called the "Web Site." Except where specified otherwise, the provisions in this Privacy Policy apply to the Web Site as a whole.
+[ ](http://www.truste.org/ivalidate.php?url=www.higheredjobs.com&sealid=101) This Privacy Policy governs the collection and use of user data from those portions of the HigherEdJobs.com website that are available to the public without a login ID or password (the "Public Site") and those portions, such as the Employer Section and My HigherEdJobs, that we restrict to users with a login ID and password (the "Restricted Site"). The Public Site and the Restricted Site are, collectively, called the "Web Site." Except where specified otherwise, the provisions in this Privacy Policy apply to the Web Site as a whole.
 
 If users have questions or concerns regarding this statement, they should first contact the Operations Department at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com) or by postal mail at 1010 Lake Street, Suite 611, Oak Park, IL 60301. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _TRUSTe Watchdog Dispute Resolution Process_ (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
@@ -27,11 +27,11 @@ C. Resume Center. If you register for a personal My HigherEdJobs account, you wi
 
 
 
-D. Other Technical Information/Cookies. We collect an IP address from all visitors to our Web Site.  We use your IP address to help diagnose problems with our server and to administer our Web Site. In addition to information provided by your browser, we use "cookies" for remembering your preferences, maintaining information about whether you are currently logged into our systems, and tracking click streams.  Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies, but if you prefer, you can set your browser to refuse cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. In the event you refuse cookies, however, you may not be able to take advantage of benefits offered by our Web Site.
+D. Other Technical Information/Cookies. We collect an IP address from all visitors to our Web Site.  We use your IP address to help diagnose problems with our server and to administer our Web Site. In addition to information provided by your browser, we use "cookies" for remembering your preferences, maintaining information about whether you are currently logged into our systems, and tracking click streams.  Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies, but if you prefer, you can set your browser to refuse cookies. We do not use cookies to store any personally identifiable information you submit while on our site. If you use My HigherEdJobs and request us to do so, we will use a cookie to help us recall information about your account such as your user name and password. In the event you refuse cookies, however, you may not be able to take advantage of benefits offered by our Web Site.
 
 E. Job Postings. Persons, whether as individuals or as employees of a business who use the Employer Section or the Single Posting Pages of the Web Site may be asked for their business email addresses, business address and phone, billing information, and a password. Although there is no cost to Job Seekers for using the services on the Web Site, Job Posters will be charged a fee for requested services.  We use data collected from Job Posters to provide requested services.
 
-F. Payments By Credit Card. We use outside company products, Verisign PayFlow Pro ([http://www.Verisign.com](http://www.verisign.com/)) through Oracle Small Business ([http://www.OracleSmallBusiness.com](http://www.oraclesmallbusiness.com/)), to verify credit card data so we can bill and account for products sold to Job Posters. This company does not retain, share, store or use credit card data for any other purposes.
+F. Payments By Credit Card. We use an outside bank merchant account to verify credit card data so we can bill and account for products sold to Job Posters. This company does not retain, share, store or use credit card data for any other purposes.
 
 ## DISCLOSURE OF INFORMATION
 
@@ -61,4 +61,4 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 11/30/2005
+Last Updated: 10/31/2007
