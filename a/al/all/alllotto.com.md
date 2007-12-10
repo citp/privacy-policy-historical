@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207042337id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alllotto.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224305id_/http%3A//www.alllotto.com/privacy.php) for the most accurate reproduction.*
 
 # Latest Lottery News
 
@@ -10,7 +10,7 @@ AllLotto works with a third party that serves data to this site. To find out mor
 
  **Contact Us**
 
-We are glad to answer any questions or entertain any comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, [click here](https://web.archive.org/web/20070207042337id_/http%3A//www.alllotto.com/13gtfagt.php) to contact us. 
+We are glad to answer any questions or entertain any comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties if you have not expressed your explicit objection by email. If you have any questions regarding this statement or any other dealing with this site, [click here](https://web.archive.org/web/20071210224305id_/http%3A//www.alllotto.com/13gtfagt.php) to contact us. 
 
 **Logged Files**
 
