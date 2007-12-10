@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the macresearch.org privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628223719id_/http%3A//www.macresearch.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macresearch.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210155524id_/http%3A//www.macresearch.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - MacResearch
-
-By joel at Fri, 2005-09-16 01:13
+# Privacy Policy | MacResearch
 
 This is the web site of MacResearcher.  
 We can be reached via e-mail at general@macresearcher.com.
