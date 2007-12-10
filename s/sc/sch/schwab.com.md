@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219191940id_/http%3A//www.schwab.com/public/schwab/nn/privacy.html%3Fcmsid%3DP-1017748%26lvl1%3Dnn%26refid%3DP-1000654%26refpid%3DP-997170) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075639id_/http%3A//www.schwab.com/public/schwab/nn/privacy.html%3Fcmsid%3DP-1017748%26lvl1%3Dnn%26refid%3DP-1971134%26refpid%3DP-997170) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -37,8 +37,7 @@ Charles Schwab & Co., Inc. is part of the Schwab family of financial services co
 
 The Charles Schwab Corporation   
 Charles Schwab & Co., Inc., a broker-dealer   
-U.S. Trust Corporation, a wealth management firm   
-Charles Schwab Bank, N.A., a retail bank   
+Charles Schwab Bank, a retail bank   
 CyberTrader, Inc., a broker-dealer for active traders 
 
 Many clients within the Schwab family of companies do business with more than one affiliate, creating an efficient, comprehensive financial relationship to meet individual needs. When appropriate, Schwab may share information we collect about you within our family of companies to: 
@@ -75,7 +74,7 @@ If you prefer, you may choose to limit the information we share about you with o
 for services in Chinese at **800-662-6068** ;   
 for services in Spanish at **800-786-5174** ;   
 from outside the U.S. at  **415-667-5009** ; 
-  * Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as to any accounts you may have with any of our affiliates, except for accounts you may have at U.S. Trust Corporation. If you have an account at U.S. Trust Corporation, you will receive a separate privacy notice which will tell you how it shares information about you and how you can limit its ability to do so. 
+  * Your choice will be applied to you as an individual and will automatically be extended to all of your accounts with us, as well as to any accounts you may have with any of our affiliates. 
   * Joint account holders may instruct us on behalf of another account holder. 
   * You may make your privacy choice at any time and it will remain in effect until you change it. 
 
@@ -86,7 +85,7 @@ If you choose to limit these types of information sharing, we may continue to sh
 **State Laws**  
 We will comply with state laws that apply to the disclosure or use of information about you. For example, if your address is in Vermont, we will automatically limit information sharing as described in "How to Limit the Sharing of Information About You" without your having to advise us of this privacy choice.
 
-The following notice is required to be made under Nevada law to all customers with a Nevada mailing address. At any time, you may request to be placed on our internal “do not call” list. You may do so by calling Schwab at **800-435-4000**. Customers from any state may request to be placed on Schwab’s internal “do not call” list by calling **800-435-4000**. If you would like further information about this notice, you may contact us at Charles Schwab & Co., Inc., 101 Montgomery Street, San Francisco, CA 94104; or call **800-435-4000**. For services in Chinese, please call **800-662-6068**. For services in Spanish, please call **800-786-5174**. From outside the U.S., please call **415-667-5009**. Email us at [help@schwab.com](mailto:help@schwab.com?refid=P-1382503&refpid=P-1017748). For more information about the Nevada “do not call” notice requirement, you may also contact the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; phone: **702-486-3132** ; email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us?refid=P-1352898&refpid=P-1017748) .  
+The following notice is required to be made under Nevada law to all customers with a Nevada mailing address. At any time, you may request to be placed on our internal “do not call” list. You may do so by calling Schwab at **800-435-4000**. Customers from any state may request to be placed on Schwab’s internal “do not call” list by calling **800-435-4000**. If you would like further information about this notice, you may contact us at Charles Schwab & Co., Inc., 101 Montgomery Street, San Francisco, CA 94104; or call **800-435-4000**. For services in Chinese, please call **800-662-6068**. For services in Spanish, please call **800-786-5174**. From outside the U.S., please call **415-667-5009**. Email us at [Privacy@schwab.com](mailto:Privacy@schwab.com?refid=P-1382503&refpid=P-1017748). For more information about the Nevada “do not call” notice requirement, you may also contact the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; phone: **702-486-3132** ; email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us?refid=P-1352898&refpid=P-1017748).  
   
 **Safeguarding Your Information, Maintaining Your Trust**  
 We take precautions to ensure the information we collect about you is protected and is accessed only by authorized individuals or organizations. 
@@ -123,7 +122,7 @@ We are committed to keeping accurate, up-to-date records to help ensure the inte
 **We will provide you with advance notice of important changes to our information-sharing practices. 
 
 **Contact Us with Questions**  
-If you have any questions or concerns, please contact us by email at help@schwab.com or call us at **800-435-4000**.   
+If you have any questions or concerns, please contact us by email at [Privacy@schwab.com](mailto:Privacy@schwab.com?refid=P-1961742&refpid=P-1017748) or call us at **800-435-4000**.   
 For services in Chinese, please call **800-662-6068**.   
 For services in Spanish, please call **800-786-5174**.   
 From outside the U.S., please call **415-667-5009**. 
@@ -237,12 +236,7 @@ Employee Training
 
  **  
 Training:**  
-We take precautions to ensure that your account and personal information at Schwab are accessed only by employees who are authorized and monitored. This is done through access controls and training, as well as physical, electronic and procedural safeguards. Employees are trained in our notifications policy and are required to promptly report any potential breach to our swift response team. All customers are covered by Schwab’s Breach Notification Policy. In July 2003, Schwab implemented a corporate policy on breach notifications and a centralized swift response team was established. Privacy, Risk Management & Investigations, Information Security, Legal, Corporate Communications and other of our business units work together to respond to potential incidents as quickly as possible. 
-
-  * All customers are covered by Schwab’s Breach Notification Policy. In July 2003, Schwab implemented a corporate policy on breach notifications and a centralized swift response team was established. Privacy, Risk Management & Investigations, Information Security, Legal, Corporate Communications and other of our business units work together to respond to potential incidents as quickly as possible. 
-  * Potential incidents are tracked, assessed and investigated. When necessary outside law enforcement agencies become involved. 
-
-
+We take precautions to ensure that your account and personal information at Schwab are accessed only by employees who are authorized and monitored. This is done through access controls and training, as well as physical, electronic and procedural safeguards.
 
 Return to top  
 
@@ -286,6 +280,10 @@ If you do use a third-party computer, be particularly careful to ensure you have
   * Note that Schwab will never ask you to provide personal financial information in an email. 
   * Do not open an email from a sender that your do not recognize. Be particularly cautious of any attachments to emails from unrecognized sources. 
   * Immediately report any unusual activity regarding your Schwab accounts to our representatives at **888-3-SCHWAB**. 
+  * Consider using a token as an additional layer of authentication, especially if you frequently access your Schwab account from third-party workstations.
+
+Schwab provides a keychain-size token as a further, optional layer of authentication to enhance your security. The token generates a regularly changing passcode, which must be used at each login. It is particularly useful if you travel frequently. If you would like a security token, or to learn more about this option, just give Schwab a call at **800-435-4000**. 
+
 
 
 
