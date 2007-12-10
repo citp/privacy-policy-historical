@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615041639id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210182631id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
+
+**Got a minute? Help us out: Take our **[60-second survey](http://www.surveymonkey.com/s.aspx?sm=1ZSa9QdvRVEjt_2bW1sjXIgg_3d_3d)** , be entered to win $200!**
 
 ## The Imaging Resource  
 Privacy Policy
