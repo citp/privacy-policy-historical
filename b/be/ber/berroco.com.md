@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527142617id_/http%3A//berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210201626id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
 
 # Berroco® KnitBits®
 
@@ -26,3 +26,28 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 If you have other concerns or questions about any aspect of this policy, you may e-mail us at [info@berroco.com](mailto:info@berroco.com).
 
 | 
+
+**To Subscribe:**
+
+Enter your e-mail 
+
+address in the Subscription Box 
+
+at the top of this page. Then click "Subscribe" 
+
+& you may win a 
+
+Free Sweater kit. 
+
+**To Preview:**  
+See our previously
+
+published issues in our KnitBits Archive 
+
+at left. 
+
+**To Unsubscribe:**
+
+Click [here](https://web.archive.org/cancel_knitbits.html). 
+
+[](https://web.archive.org/win.html)
