@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2007-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070411110334id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccneb.edu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210175959id_/http%3A//www.mccneb.edu/privacy.asp) for the most accurate reproduction.*
 
 # Metro | Privacy Policy
 
