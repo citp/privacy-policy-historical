@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501220739id_/http%3A//www.knex.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210075027id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
 
-# K'NEX | About K'NEX | Privacy Policy
+# K'NEX | About K'NEX | K'NEX Privacy Policy
 
-PARENTS PRIVACY POLICY
+| 
 
-The Parents section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parents](https://web.archive.org/parents/index.php) and [Catalog](https://web.archive.org/customer/home.php) sections of the site. 
+K'NEX offers exceptional play value through building and bringing models to life! 
+
+The Parents section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parents](https://web.archive.org/Parents/) and [Catalog](https://web.archive.org/Shop/home.php) sections of the site. 
 
 Please know that any information collected in conjunction with any of these opportunities will be strictly used for only the intention it was collected. Never, in any case, do we sell or distribute information gathered to anyone, nor do we make our mailing lists available to anyone. We might, however, use this information in conjunction with a marketing partner, where we control when and how we use the information. Any information used in this specific manner would be in the categorized and generic format, and not individual names, email addresses, etc.
 
@@ -15,11 +17,11 @@ Please take note of this important information! Guidelines have been established
 This web site is operated by: 
 
 K'NEX Industries  
-2990 Bergey Road  
+P.O. Box 700  
 Hatfield, PA 19440  
 1-800-KID-KNEX (1-800-543-5639) (Consumer Relations)  
 Email@knex.com (Consumer Relations)  
-1-215-997-7722 (Main Offices)
+1-800-822-5639 (Main Offices)
 
 COPPA includes a child's email address in its definition of "personal information."
 
@@ -29,7 +31,7 @@ COPPA prohibits us, and any company, from conditioning your child's participatio
 
 You, as a parent, are automatically informed by email when your child contacts us via the K'NEX Web site. The personal information we have collected from your child via email contact is as follows: the child's first name, email address, and your email address. We occasionally have surveys and contests, where we may ask, in addition, for age, and gender. You have the right to delete all of this personal information from our records at any time. You may do so by clicking the "unsubscribe" link below.
 
-<http://www.knex.com/includes/unsubscribe.php>  
+[http://www.knex.com/About_KNEX/unsubscribe.php](https://web.archive.org/About_KNEX/unsubscribe.php)  
 
 
 Once we have received and processed your request, you will receive an email notifying you that all of your child's information has been deleted from our database.   
@@ -84,7 +86,7 @@ Please contact our Consumer Service Center regarding any questions and/or inquir
 
 SUBMITTING AN IDEA OR PICTURE TO K'NEX
 
-K'NEX doesn't accept models or ideas except for possible posting to the Photo Gallery section of our web site. We can't accept ideas for any other purpose. The problem we have, along with most other companies, is that there could be confusion if we have independently developed an idea that you think is based upon what you have submitted. We wouldn't want to appear to be using an idea you have sent in, if we had not agreed with you in advance that we wanted it. For example, if you had sent an idea for a crane, and we had been developing one for months, or even years, you might incorrectly think we had taken your idea! We, as a company, cannot allow ourselves to be put in that position, as we are sure you can understand.
+K'NEX doesn't accept models or ideas except for possible posting to the Photo Gallery section of our web site. We can't accept ideas for any other purpose. The problem we have, along with most other companies, is that there could be confusion if we have independently developed an idea that you think is based upon what you have submitted. We wouldn't want to appear to be using an idea you have sent in, if we had not agreed with you in advance that we wanted it. For example, if you had sent an idea for a crane, and we had been developing one for months, or even years, you might incorrectly think we had taken your idea! We, as a company, cannot allow ourselves to be put in that position, as we are sure you can understand
 
 So unless you intend to share your idea or model with us as a gift, please do not send pictures, models, or any other creative material to us! Material submitted will be considered as non-confidential and nonproprietary, giving us the right to use it any way we wish. This may include making and selling products based upon such material, licensing the material to others or posting your ideas/photos on our web site  
 (By the way, you will see language similar to the above in the "legal" part of most web sites!)
@@ -97,5 +99,6 @@ So unless you intend to share your idea or model with us as a gift, please do no
 
 K'NEX Consumer Services  
 P.O. Box 700  
-Hatfield, PA 19440  
+Hatfield, PA 19440
 
+| 
