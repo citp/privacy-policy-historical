@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612212429id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000643id_/http%3A//siliconinvestor.advfn.com/privacy.aspx) for the most accurate reproduction.*
 
 # SI - privacy.aspx
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20070612212429id_/http%3A//www.siliconinvestor.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20071211000643id_/http%3A//siliconinvestor.advfn.com/terms.aspx)   
   
   
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
