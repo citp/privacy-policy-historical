@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230065338id_/http%3A//myron.com/about/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180027id_/http%3A//www.myron.com/about/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# Myron Privacy Statement
+# Myron - The Leader in Personalized Business Gifts ™
 
----  
-  
+Privacy Statement
+
 Myron Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: Myron.com.
 
 There are two kinds of unencrypted information that we are interested in when you visit our site: Preferences based on your browsing activities, and Demographics that you provide. Preferences are items of information that tell us about your browsing habits on our web site; that is, how you get to us, which pages you visit, how often you visit them, and what features you use. We use this information to ensure that the current design of our web site continues to meet your evolving needs. We achieve this through the use of "cookies" which are small pieces of information stored by your browser on your hard drive. They are anonymous, in that they do not contain any Personal Information or Demographics.
@@ -14,43 +14,48 @@ Cookies are only used for our own informational purposes. You must enable your b
 
 This site contains links to other sites. Myron Online is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses an order form for customers to request information, products, and services. We collect the visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.  
-  
-  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All private data travels to and from the site encrypted using SSL encryption. Our data center uses industry-standard means of safeguarding private business information.   
-  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Our site uses an order form for customers to request information, products, and services. We collect the visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+
+Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All private data travels to and from the site encrypted using SSL encryption. Our data center uses industry-standard means of safeguarding private business information.
+
+Choice / Opt-out
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+
+Correct / Update
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send email to:  
+  * _You can send email to_  
 [service@myron.com](mailto:service@myron.com)
-  * You can send mail to the following postal address:  
+  * _You can send mail to the following postal address_  
 Myron Corp.  
 205 Maywood Avenue  
 Maywood, NJ 07607
-  * You can call the following telephone number:  
+  * _You can call the following telephone number_  
 201-843-6796
 
-  
-  
-  
-This site gives the option to change and update your account information.  
-  
-  * Email:  
+
+
+This site gives the option to change and update your account information.
+
+  * _Email_  
 [service@myron.com](mailto:service@myron.com)
-  * Send mail to the following postal address:  
+  * _Send mail to the following postal address_  
 Myron Corp.  
 205 Maywood Avenue  
-Maywood, NJ 07607
-  * Call this number:  
+Maywood, NJ 07607 
+  * _Call this number_  
 201-843-6796
 
-  
-  
-  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-  
+
+
+Contacting Our Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
   * Webmaster  
 Myron Corp.  
 205 Maywood Avenue  
