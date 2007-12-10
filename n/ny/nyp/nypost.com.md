@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154424id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypost.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210034550id_/http%3A//www.nypost.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Legal - New York Post Online Edition
+# Privacy Policy | New York Post
 
 _Effective as of June 21, 2006_   
 **NYP Holdings, Inc. ("The Post")** , which includes The New York Post, NYPOST.COM, NYPOSTSTORE.COM, STORE.NYPOST.COM and other Internet sites controlled by The Post ( **"Post Sites"** ), is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. The Post has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
@@ -58,7 +58,7 @@ The Post uses reasonable administrative, technical, personnel and physical measu
 
 **ACCESS:** HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
 
-To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](https://web.archive.org/web/20070630154424id_/http%3A//www.nypost.com/legal/URL_STEM_SSL/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
+To review or modify your preferences or to delete the PII that The Post has collected from you via the Post Sites, [click here](https://web.archive.org/web/20071210034550id_/http%3A//www.nypost.com/legal/URL_STEM_SSL/useradmin/useradmin.htm). As an alternative, you may also review or modify your PII by contacting The Post Privacy Officer at the address indicated below under REMEDIES AND COMPLIANCE. 
 
 To review, modify or delete the PII The Post has collected off-line about you (from reputable third parties, newspaper subscription data, etc.), email us at [onlinehelp@nypost.com](mailto:onlinehelp@nypost.com). 
 
