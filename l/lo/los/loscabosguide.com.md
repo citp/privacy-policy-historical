@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loscabosguide.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624142227id_/http%3A//www.loscabosguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loscabosguide.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180724id_/http%3A//www.loscabosguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice - www.loscabosguide.com
 
