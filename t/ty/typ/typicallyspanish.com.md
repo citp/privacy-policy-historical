@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2007-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070529182339id_/http%3A//www.typicallyspanish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110721id_/http%3A//www.typicallyspanish.com/privacy.html) for the most accurate reproduction.*
 
-# The Privacy Page at Typically Spanish.com
+# Privacy Typically Spanish.com
+
+* * *
 
 ## Privacy Statement for typicallyspanish.com
 
@@ -87,3 +89,6 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ info@typicallyspanish.com](mailto:info@typicallyspanish.com)
+
+|  **Sponsored Results:**  
+
