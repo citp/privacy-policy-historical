@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626175529id_/http%3A//www.rolandus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210125545id_/http%3A//www.rolandus.com/privacy.aspx) for the most accurate reproduction.*
 
 # Roland U.S. - Privacy
 
 ##  Privacy
 
-Roland Corporation U.S. recognizes the importance of protecting the privacy of all information provided by users of www.rolandus.com. We created the following policy guidelines with a fundamental respect for our users« right to privacy and because we value our relationships with our users. 
+Roland Corporation U.S. recognizes the importance of protecting the privacy of all information provided by users of www.rolandus.com. We created the following policy guidelines with a fundamental respect for our users' right to privacy and because we value our relationships with our users. 
 
-Roland Corporation U.S. collects information about users during their registration for certain sections of our Website. When users request pages from our Web server, the server automatically attempts to identify the user«s domain name, but not the e-mail address. We also track certain information, in the aggregate, on pages and features that users access or view. 
+Roland Corporation U.S. collects information about users during their registration for certain sections of our Website. When users request pages from our Web server, the server automatically attempts to identify the user's domain name, but not the e-mail address. We also track certain information, in the aggregate, on pages and features that users access or view. 
 
 Users electing to subscribe to newsletters or magazines, enter contests or to access special sections, are required to supply certain personal information during a "registration" process. Information collected through these forms may be used by Roland Corporation U.S. to gather broad demographic information about our users in general, for audits, and to perform statistical analysis of user behavior in order to measure interest in the various areas of our Website. 
 
