@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the hospitalitynet.org privacy policy that was archived on 2007-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070618224745id_/http%3A//www.hospitalitynet.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hospitalitynet.org privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210182332id_/http%3A//www.hospitalitynet.org/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--
 
-Page generated: 10 May 2006, 10:51:31 CEST (17303)
-0.0129259 wallclock secs ( 0.01 usr +  0.00 sys =  0.01 CPU)
+Page generated:  6 October 2007, 16:28:35 CEST by 58.251.47.233 (27872)
+0.0112858 wallclock secs ( 0.01 usr +  0.00 sys =  0.01 CPU)
 
 
 
@@ -18,112 +18,96 @@ Page generated: 10 May 2006, 10:51:31 CEST (17303)
 <meta name="robots" content="index,follow">
 <link rel="stylesheet" href="/pics/hn.css">
 <link rel="stylesheet" href="/hsyndicate.css">
-<script language="javascript">
-
-//   window.name = 'mainWindow';
-
-   function setVariables(){
-    if (navigator.appName == "Netscape") {
-    v=".top=";dS="document.";sD="";y="window.pageYOffset"
-   }
-    else {v=".pixelTop=";dS="";sD=".style";y="document.body.scrollTop"}}
-    function checkLocation(){
-    object="object1";yy=eval(y);eval(dS+object+sD+v+yy);setTimeout("checkLocation()",10)
-   }
-
-   function show() {
-   all.style.display="block";
-   latest.style.display="none";
-   }
+<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script><script src="/js/AC_ActiveX.js" type="text/javascript"></script><script src="/js/scripts.js" type="text/javascript"></script><script language="javascript">
  
-   function hide() {
-   latest.style.display="block";
-   all.style.display="none";
-   }
-   
-   function MM_swapImage() { //v3.0
-   var i,j=0,x,a=MM_swapImage.arguments; 
-   document.MM_sr=new Array; for(i=0; i<(a.length-2); i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-   }
 
-   function MM_swapImgRestore() { //v3.0
-   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-   }
+//Input the IDs of the IFRAMES you wish to dynamically resize to match its content height:
+//Separate each ID with a comma. Examples: ["myframe1", "myframe2"] or ["myframe"] or [] for none:
+var iframeids=["button90", "button120"]
 
-   function MM_preloadImages() { //v3.0
-   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-   }
+//Should script hide iframe from browsers that don't support this script (non IE5+/NS6+ browsers. Recommended):
+var iframehide="yes"
 
-   function MM_findObj(n, d) { //v3.0
-   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-   d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-   }
+var getFFVersion=navigator.userAgent.substring(navigator.userAgent.indexOf("Firefox")).split("/")[1]
+var FFextraHeight=parseFloat(getFFVersion)>=0.1? 16 : 0 //extra height in px to add to iframe in FireFox 1.0+ browsers
 
-   function openFlash(url){
-   var theTop=(screen.height/2)-(300/2);
-   var theLeft=(screen.width/2)-(600/2);
-   var features='height=300,width=600,top='+theTop+',left='+theLeft+",scrollbars=no";
-   theWin=window.open(url,'',features);
-   }
+function resizeCaller() {
+var dyniframe=new Array()
+for (i=0; i<iframeids.length; i++){
+if (document.getElementById)
+resizeIframe(iframeids[i])
+//reveal iframe for lower end browsers? (see var above):
+if ((document.all || document.getElementById) && iframehide=="no"){
+var tempobj=document.all? document.all[iframeids[i]] : document.getElementById(iframeids[i])
+tempobj.style.display="block"
+}
+}
+}
 
-   function openWhatsNew(url){
-   var theTop=(screen.height/2)-(400/2);
-   var theLeft=(screen.width/2)-(600/2);
-   var features='height=400,width=600,top='+theTop+',left='+theLeft+",scrollbars=yes";
-   theWin=window.open(url,'',features);
-   }
+function resizeIframe(frameid){
+var currentfr=document.getElementById(frameid)
+if (currentfr && !window.opera){
+currentfr.style.display="block"
+if (currentfr.contentDocument && currentfr.contentDocument.body.offsetHeight) //ns6 syntax
+currentfr.height = currentfr.contentDocument.body.offsetHeight+FFextraHeight; 
+else if (currentfr.Document && currentfr.Document.body.scrollHeight) //ie5+ syntax
+currentfr.height = currentfr.Document.body.scrollHeight;
+if (currentfr.addEventListener)
+currentfr.addEventListener("load", readjustIframe, false)
+else if (currentfr.attachEvent){
+currentfr.detachEvent("onload", readjustIframe) // Bug fix line
+currentfr.attachEvent("onload", readjustIframe)
+}
+}
+}
 
-   function openWin(url,theWidth,theHeight){
-   var theTop=(screen.height/2)-(theHeight/2);
-   var theLeft=(screen.width/2)-(theWidth/2);
-   var features='height='+theHeight+',width='+theWidth+',top='+theTop+',left='+theLeft+",scrollbars=no";
-   theWin=window.open(url,'',features);
-   }
+function readjustIframe(loadevt) {
+var crossevt=(window.event)? event : loadevt
+var iframeroot=(crossevt.currentTarget)? crossevt.currentTarget : crossevt.srcElement
+if (iframeroot)
+resizeIframe(iframeroot.id);
+}
 
-   function openWinScroll(url,theWidth,theHeight){
-   var theTop=(screen.height/2)-(theHeight/2);
-   var theLeft=(screen.width/2)-(theWidth/2);
-   var features='height='+theHeight+',width='+theWidth+',top='+theTop+',left='+theLeft+",scrollbars=yes";
-   theWin=window.open(url,'',features);
-   }
+function loadintoIframe(iframeid, url){
+if (document.getElementById)
+document.getElementById(iframeid).src=url
+}
 
-   </script>
+if (window.addEventListener)
+window.addEventListener("load", resizeCaller, false)
+else if (window.attachEvent)
+window.attachEvent("onload", resizeCaller)
+else
+window.onload=resizeCaller
+
+
+
+ </script>
 </head>
-<body bgcolor="#250505" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('/pics/buttons/previous_over.gif','/pics/buttons/index_over.gif','/pics/buttons/next_over.gif','/pics/buttons/t_contributeyournews2.gif','/pics/buttons/t_contactus1.gif','/pics/buttons/t_becomeareguser2.gif','/pics/mail_over.gif','/pics/print_over.gif');setVariables();checkLocation();">
+<body bgcolor="#250505" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('/pics/buttons/previous_over.gif','/pics/buttons/index_over.gif','/pics/buttons/next_over.gif','/pics/buttons/t_contributeyournews2.gif','/pics/buttons/t_contactus1.gif','/pics/buttons/t_becomeareguser2.gif','/pics/mail_over.gif','/pics/print_over.gif');">
 <div align="center">
 <a name="top"></a><table border="0" cellpadding="0" cellspacing="0" height="100%"><tbody><tr>
 <td valign="top" align="left" width="176" bgcolor="#625a5a" class="class"><div align="center">
 <a href="/index.html" onmouseover="window.status='Homepage'; return true" onmouseout="window.status=''"><img src="/pics/logo.gif" width="176" height="114" border="0"></a><table border="0" cellpadding="0" cellspacing="0" width="176"><tbody><tr>
 <td width="10"></td>
 <td>
-<br><span class="menu"><a href="/index.html" class="menulink" onmouseover="window.status='Home'; return true" onmouseout="window.status=''">HOME</a><br><a href="/news/index.html" class="menulink" onmouseover="window.status='Industry News'; return true" onmouseout="window.status=''">INDUSTRY NEWS</a><br><a href="/list/1-10/154000355.html" class="menulink" onmouseover="window.status='Financial News'; return true" onmouseout="window.status=''">FINANCIAL NEWS</a><br><a href="/reports/index.html" class="menulink" onmouseover="window.status='Market Reports'; return true" onmouseout="window.status=''">MARKET REPORTS</a><br><a href="/columns/index.html" class="menulink" onmouseover="window.status='Columns'; return true" onmouseout="window.status=''">COLUMNS</a><br><a href="/associationupdate/index.html" class="menulink" onmouseover="window.status='Association Update'; return true" onmouseout="window.status=''">ASSOCIATION UPDATE</a><br><a href="/list/1-10/154000437.html" class="menulink" onmouseover="window.status='Captured'; return true" onmouseout="window.status=''">CAPTURED</a><br><a href="/list/1-10/154000356.html" class="menulink" onmouseover="window.status='MultiMedia'; return true" onmouseout="window.status=''">MULTIMEDIA</a><br><a href="/list/1-10/154000357.html" class="menulink" onmouseover="window.status='Indepth'; return true" onmouseout="window.status=''">INDEPTH</a><br><a href="/list/1-10/154000550.html" class="menulink" onmouseover="window.status='Job Opportunities'; return true" onmouseout="window.status=''">JOB OPPORTUNITIES</a><br><a href="/list/1-10/154000546.html" class="menulink" onmouseover="window.status='Job Demands'; return true" onmouseout="window.status=''">JOB DEMANDS</a><br><a href="/marketplace/index.html" class="menulink" onmouseover="window.status='MarketPlace'; return true" onmouseout="window.status=''">   MARKETPLACE</a><br><a href="/hotelschools.html" class="menulink" onmouseover="window.status='Hotelschools'; return true" onmouseout="window.status=''">HOTELSCHOOLS</a><br><a href="/web/index.html" class="menulink" onmouseover="window.status='Industry Links'; return true" onmouseout="window.status=''">INDUSTRY LINKS</a><br><a href="/event/index.html" class="menulink" onmouseover="window.status='Industry Events'; return true" onmouseout="window.status=''">INDUSTRY EVENTS</a><br><a href="/list/1-10/154000366.html" class="menulink" onmouseover="window.status='Documents &amp; Presentations'; return true" onmouseout="window.status=''">DOCUMENTS</a><br><a href="/book/index.html" class="menulink" onmouseover="window.status='BookShelf'; return true" onmouseout="window.status=''">BOOKSHELF</a><br><a href="/list/1-10/154000530.html" class="menulink" onmouseover="window.status='Past Polls'; return true" onmouseout="window.status=''">PAST POLLS</a><br><a href="/list/1-10/154000369.html" class="menulink" onmouseover="window.status='Hotel Comics'; return true" onmouseout="window.status=''">OTHELLO</a><br><a href="/rss.html" class="menulink" onmouseover="window.status='RSS Feed'; return true" onmouseout="window.status=''">RSS FEED (XML)</a><br><a href="/msn.html" class="menulink" onmouseover="window.status='RSS Feed'; return true" onmouseout="window.status=''">MICROSOFT® ALERTS</a></span><br><hr color="#4f4f4f">
+<br><span class="menu"><a href="/index.html" class="menulink">HOME</a><br><a href="/news/index.html" class="menulink">INDUSTRY NEWS</a><br><a href="/list/1-10/154000355.html" class="menulink">FINANCIAL NEWS</a><br><a href="/reports/index.html" class="menulink">MARKET REPORTS</a><br><a href="/columns/index.html" class="menulink">COLUMNS</a><br><a href="/associationupdate/index.html" class="menulink">ASSOCIATION UPDATE</a><br><a href="/list/1-10/154000437.html" class="menulink">CAPTURED</a><br><a href="/list/1-10/154000346.html" class="menulink">MULTIMEDIA</a><br><a href="/list/1-10/154000357.html" class="menulink">INDEPTH</a><br><a href="/list/1-10/154000665.html" class="menulink">JOB OPPORTUNITIES</a><br><a href="/marketplace/index.html" class="menulink">   MARKETPLACE</a><br><a href="/hotelschools.html" class="menulink">HOTELSCHOOLS</a><br><a href="/web/index.html" class="menulink">INDUSTRY LINKS</a><br><a href="/event/index.html" class="menulink">INDUSTRY EVENTS</a><br><a href="/list/1-10/154000366.html" class="menulink">DOCUMENTS</a><br><a href="/book/index.html" class="menulink">BOOKSHELF</a><br><a href="/list/1-10/154000530.html" class="menulink">PAST POLLS</a><br><a href="/list/1-10/154000369.html" class="menulink">OTHELLO</a><br><a href="/rss.html" class="menulink">RSS FEED (XML)</a><br><a href="/msn.html" class="menulink">MICROSOFT® ALERTS</a></span><br><hr color="#4f4f4f">
 <form method="post" name="menusearch" action="/search.html">
-<span class="menu">SEARCH</span><br><input type="hidden" name="search" value="yes"><input type="hidden" name="first" value="1"><input type="hidden" name="last" value="10"><input type="hidden" name="searchperiod" value=""><input type="hidden" name="order" value=""><input name="query" size="15"> <span class="menu"><a href="javascript:document.menusearch.submit()" class="menulink" onmouseover="window.status='Search'; return true" onmouseout="window.status=''">GO</a></span><br><span class="menu"><a href="/search.html" class="menulink" onmouseover="window.status='Power Search'; return true" onmouseout="window.status=''">POWER SEARCH</a></span>
+<span class="menu">SEARCH</span><br><input type="hidden" name="search" value="yes"><input type="hidden" name="first" value="1"><input type="hidden" name="last" value="10"><input type="hidden" name="searchperiod" value=""><input type="hidden" name="order" value=""><input name="query" size="15"> <span class="menu"><a href="javascript:document.menusearch.submit()" class="menulink">GO</a></span><br><span class="menu"><a href="/search.html" class="menulink">POWER SEARCH</a></span>
 </form>
 <hr color="#4f4f4f">
 <span class="menu">
-         COMMUNITY<br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink" onmouseover="window.status='Register'; return true" onmouseout="window.status=''">NEWSLETTER</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink" onmouseover="window.status='Register'; return true" onmouseout="window.status=''">REGISTER</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink" onmouseover="window.status='Update Registration'; return true" onmouseout="window.status=''">UPDATE REGISTRATION</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/post.html" class="menulink" onmouseover="window.status='Post/Submit Content'; return true" onmouseout="window.status=''">POST/SUBMIT CONTENT</a><br></span><hr color="#4f4f4f">
+         COMMUNITY<br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink">NEWSLETTER</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink">REGISTER</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://submit.hsyndicate.com/hn.html" target="inspect" class="menulink">UPDATE REGISTRATION</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/post.html" class="menulink">POST/SUBMIT CONTENT</a><br></span><hr color="#4f4f4f">
 <span class="menu">
-         ALLIANCES<br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17001120.html" class="menulink" onmouseover="window.status='AH&amp;LA'; return true" onmouseout="window.status=''">AH&amp;LA</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17000749.html" class="menulink" onmouseover="window.status='IH&amp;RA'; return true" onmouseout="window.status=''">IH&amp;RA</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17001014.html" class="menulink" onmouseover="window.status='HSMAI'; return true" onmouseout="window.status=''">HSMAI</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17004206.html" class="menulink" onmouseover="window.status='HFTP'; return true" onmouseout="window.status=''">HFTP</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://online.hitec.org/" target="inspect" class="menulink" onmouseover="window.status='HITEC'; return true" onmouseout="window.status=''">HITEC</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.hotelschools.com" target="inspect" class="menulink" onmouseover="window.status='Hotelschools.com'; return true" onmouseout="window.status=''">HOTELSCHOOLS.COM</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.wiredhotelier.com" target="inspect" class="menulink" onmouseover="window.status='WiredHotelier.com'; return true" onmouseout="window.status=''">WIREDHOTELIER.COM</a><br></span><hr color="#4f4f4f">
-<span class="menu"><a href="/contact.html" class="menulink" onmouseover="window.status='Contact Us'; return true" onmouseout="window.status=''">CONTACT US</a><br><a href="/post.html" class="menulink" onmouseover="window.status='Advertising'; return true" onmouseout="window.status=''">ADVERTISING</a><br><a href="http://www.hsyndicate.com/mediakit/146000320.html" target="inspect" class="menulink" onmouseover="window.status='Mediakit'; return true" onmouseout="window.status=''">MEDIAKIT</a><br></span><hr color="#4f4f4f">
+         ALLIANCES<br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17001120.html" class="menulink">AH&amp;LA</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17000749.html" class="menulink">IH&amp;RA</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.hsmaieconnect.org" class="menulink" target="_blank">HSMAI</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="/organization/17004206.html" class="menulink">HFTP</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://online.hitec.org/" target="inspect" class="menulink">HITEC</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.hotelschools.com" target="inspect" class="menulink">HOTELSCHOOLS.COM</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.wiredhotelier.com" target="inspect" class="menulink">WIREDHOTELIER.COM</a><br><img src="/pics/bullet_blokje.gif" width="4" height="12" border="0"><a href="http://www.wiwih.com" target="inspect" class="menulink">WIWIH.COM</a><br></span><hr color="#4f4f4f">
+<span class="menu"><a href="/contact.html" class="menulink">CONTACT US</a><br></span><hr color="#4f4f4f">
+<span class="menu"><input type="button" name="advertising" value="Advertising Info" onclick="document.location.href = '/post.html'" style="border: solid 1px #cecece; background-color: #660000; color: #ffffff; cursor: hand;"></span>
 </td>
 </tr></tbody></table>
 </div></td>
 <td valign="top" align="left" width="18"><img src="/pics/dot.gif" width="12" height="1" border="0"></td>
 <td valign="top" align="left" width="512" bgcolor="#660000">
-<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20"><tbody><tr>
-<td width="22"><img src="/pics/dot.gif" width="1" height="1" border="0"></td>
-<td><span class="location"><a href="/index.html" class="locationlink" onmouseover="window.status='Home'; return true" onmouseout="window.status=''">Home</a> / <u>Privacy Statement</u></span></td>
-</tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" height="72"><tbody><tr><td valign="middle" align="right"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="512" height="60"><param name="movie" value="/pics/kop_whats_new.swf">
-<param name="quality" value="high">
-<param name="play" value="true">
-<embed src="/pics/kop_whats_new.swf" type="application/x-shockwave-flash" bgcolor="#660000" width="512" height="60" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" quality="high" play="true"></object></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="92"><tbody><tr><td valign="top" align="center"><div align="left" style="width: 486px; height: 60px; border: solid 1px #ffffff; margin-left: 18px; margin-top: 10px; background: #333333 url(/pics/ad_tag.gif) no-repeat top right;"><iframe scrolling="no" frameborder="0" src="/showad.html?type=banner" style="width: 468px; height: 60px;"></iframe></div></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" height="20"><tbody><tr>
 <td width="22"><img src="/pics/dot.gif" width="1" height="1" border="0"></td>
 <td><img src="/pics/koppen/kop_privacy_s.gif" width="137" height="20" border="0"></td>
@@ -228,7 +212,7 @@ google_color_text = "333333";
 </td>
 </tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="512" height="20" background="/pics/eindlijn_transparant.gif"><tbody><tr height="35"><td height="35" valign="top" align="right" background="/pics/eindlijn_transparant.gif"></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="512" height="5"><tbody><tr><td valign="middle" align="center"><img src="/pics/dot.gif" width="1" height="1" border="0"></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" align="center"><div align="left" style="width: 486px; height: 60px; border: solid 1px #ffffff; margin-left: 18px; margin-bottom: 10px; background: #333333 url(/pics/ad_tag.gif) no-repeat top right;"><iframe scrolling="no" frameborder="0" src="/showad.html?type=banner" style="width: 468px; height: 60px;"></iframe></div></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" height="20"><tbody><tr>
 <td width="22"><img src="/pics/dot.gif" width="1" height="1" border="0"></td>
 <td><img src="/pics/koppen/kop_copyrights.gif" width="89" height="20" border="0"></td>
@@ -237,7 +221,7 @@ google_color_text = "333333";
 <td width="30"></td>
 <td valign="middle" class="tabeldata">
 <img src="/pics/dot.gif" width="5" height="5" border="0"><br>
-       Copyright© 1995-2006 Hospitality Net™ All rights reserved.<br>
+       Copyright© 1995-2007 Hospitality Net™ All rights reserved.<br>
        Trademarks and product names are the property of their respective owners.<br><a href="/privacy.html" class="footer" onmouseover="window.status='Privacy Statement'; return true" onmouseout="window.status=''">Privacy Statement</a> -
        <a href="/terms.html" class="footer" onmouseover="window.status='Terms &amp; Conditions'; return true" onmouseout="window.status=''">Terms &amp; Conditions</a> -
        <a href="/post.html" class="footer" onmouseover="window.status='Advertising Information'; return true" onmouseout="window.status=''">Advertising Information</a><br><img src="/pics/dot.gif" width="5" height="5" border="0">
@@ -249,23 +233,12 @@ google_color_text = "333333";
 </td></tr></tbody></table>
 </td>
 <td valign="top" align="left" width="18"><img src="/pics/dot.gif" width="12" height="1" border="0"></td>
-<td valign="top" bgcolor="#625a5a" width="176"><div id="object1" align="center" style="height:605; padding-left: 8px; padding-top: 8px; position:absolute; visibility:show; top:0px; z-index:2;">
-<script language="javascript">
-<!--
-google_ad_client = "pub-1148962932778150";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text";
-google_ad_channel ="9103765090";
-google_color_border = "625a5a";
-google_color_bg = "625a5a";
-google_color_link = "cccccc";
-google_color_url = "ffffff";
-google_color_text = "cccccc";
-//-->
-</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</div></td>
+<td align="center" valign="top" width="122">
+<div style="width: 120px; height: 600px; border: solid 1px #ffffff; margin-top: 10px; background-color: #333333;"><iframe scrolling="no" frameborder="0" src="/showad.html?type=skyscraper" style="width: 120px; height: 600px;"></iframe></div>
+<iframe id="button90" name="button90" scrolling="no" frameborder="0" src="/showad.html?type=button120x90" width="122" height="5353" style="margin: 0px; display: block;"></iframe><iframe id="button120" name="button120" scrolling="no" frameborder="0" src="/showad.html?type=button120x60" width="122" height="5353" style="margin: 0px; display: block;"></iframe><script language="Javascript">
+     google_ad_client = "pub-1148962932778150";google_ad_width = 120;google_ad_height = 600;google_ad_format = "120x600_as";google_ad_type = "text";google_ad_channel ="9103765090";google_color_border = "250505";google_color_bg = "250505";google_color_link = "ffffff";google_color_url = "ffffff";google_color_text = "cccccc";
+    </script><script language="Javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</td>
 </tr></tbody></table>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
