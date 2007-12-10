@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613134541id_/http%3A//www.extraspace.com/Policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135210id_/http%3A//www.extraspace.com/Policies/Privacy.aspx) for the most accurate reproduction.*
 
 # Extra Space Storage: Privacy Statement and Legal Disclaimer
 
 ---  
   
-|  |  |    
+| 
+
+[](https://www.scanalert.com/RatingVerify?ref=www.extraspace.com)
+
+|  |    
 **Privacy Policy**
 
 We at Extra Space Storage value the relationship we have with our customers and web site visitors. We are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site, access our online services, or participate in our online offerings. Although our web site has unique services and offerings, they share a similar privacy philosophy. Therefore, we drafted this corporate online privacy policy to represent Extra Space Storage's general privacy approach to the information practices of our web site. 
@@ -26,6 +30,12 @@ We have a variety of mechanisms for you to modify and update the contact informa
 We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, we take measures to ensure that the information used to process your request is accurate and current.   
   
 ---|---|---  
+  
+|  [**about us**](https://web.archive.org/Corporate/AboutExtraSpaceStorage/) | [**contact us**](https://web.archive.org/Corporate/ContactUs/) | [**en español**](http://espanol.extraspace.com/) | [**employment**](https://web.archive.org/Corporate/Employment/) | [**investor relations**](https://web.archive.org/InvestorInfo/Default.aspx) | [**site map**](https://web.archive.org/SiteMap.aspx) | [**privacy policy**](https://web.archive.org/Policies/Privacy.aspx)  
+---  
+[self storage locations](https://web.archive.org/StorageFacilities/) | [business self storage](https://web.archive.org/BusinessStorage/) | [household self storage](https://web.archive.org/HouseholdStorage/) | [self storage supplies](https://web.archive.org/StorageSupplies/) | [self storage tips](https://web.archive.org/StorageTips/) | [self storage FAQs](https://web.archive.org/StorageFAQ/)  
+Sites: [AL, AZ](https://web.archive.org/SiteMap_1.aspx) | [CA](https://web.archive.org/SiteMap_2.aspx) | [CO, CT, DE, DC, FL, GA, HI, IL, IN](https://web.archive.org/SiteMap_3.aspx) | [KS, KY, LA, MA, MD, MI, MS](https://web.archive.org/SiteMap_4.aspx)   
+[NH, NJ, NM, NV, NY, OH, OR](https://web.archive.org/SiteMap_5.aspx) | [PA, RI, SC, TN, TX, UT, VA, WA](https://web.archive.org/SiteMap_6.aspx)  
   
   
 
