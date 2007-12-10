@@ -1,48 +1,50 @@
-> *The following text is extracted and transformed from the gifanimations.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630232125id_/http%3A//www.gifanimations.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifanimations.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210042001id_/http%3A//www.gifanimations.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Free animated gif, graphic animation, icon, and clipart
+# Animated . Animations of , Animated gifs, graphics, clip art Free
 
-| GIF Animation  
+| Animations  
 ---  
-[Aliens](http://www.gifanimations.com/action/MenuSelection/1/39)  
-[Animals](http://www.gifanimations.com/action/MenuSelection/1/1)  
-[Arrows](http://www.gifanimations.com/action/MenuSelection/1/2)  
-[Astronaut](http://www.gifanimations.com/action/MenuSelection/1/3)  
-[Babies](http://www.gifanimations.com/action/MenuSelection/1/4)  
-[Body Parts](http://www.gifanimations.com/action/MenuSelection/1/5)  
-[Books](http://www.gifanimations.com/action/MenuSelection/1/6)  
-[Bullets](http://www.gifanimations.com/action/MenuSelection/1/7)  
-[Butterflies](http://www.gifanimations.com/action/MenuSelection/1/8)  
-[Cars](http://www.gifanimations.com/action/MenuSelection/1/9)  
-[Cartoons](http://www.gifanimations.com/action/MenuSelection/1/10)  
-[Computers](http://www.gifanimations.com/action/MenuSelection/1/11)  
-[Construction](http://www.gifanimations.com/action/MenuSelection/1/12)  
-[Counters](http://www.gifanimations.com/action/MenuSelection/1/13)  
-[Creatures](http://www.gifanimations.com/action/MenuSelection/1/14)  
-[Email](http://www.gifanimations.com/action/MenuSelection/1/15)  
-[Explosives](http://www.gifanimations.com/action/MenuSelection/1/16)  
-[Fire](http://www.gifanimations.com/action/MenuSelection/1/17)  
-[Food](http://www.gifanimations.com/action/MenuSelection/1/18)  
-[Games](http://www.gifanimations.com/action/MenuSelection/1/19)  
-[Holidays](http://www.gifanimations.com/action/MenuSelection/1/20)  
-[Houses](http://www.gifanimations.com/action/MenuSelection/1/21)  
-[Insects](http://www.gifanimations.com/action/MenuSelection/1/22)  
-[Lines](http://www.gifanimations.com/action/MenuSelection/1/23)  
-[Love](http://www.gifanimations.com/action/MenuSelection/1/24)  
-[Messages](http://www.gifanimations.com/action/MenuSelection/1/26)  
-[Money](http://www.gifanimations.com/action/MenuSelection/1/25)  
-[Music](http://www.gifanimations.com/action/MenuSelection/1/27)  
-[Smiley Faces](http://www.gifanimations.com/action/MenuSelection/1/28)  
-[Sports](http://www.gifanimations.com/action/MenuSelection/1/29)  
+[Aliens](http://www.gifanimations.com/animation/MenuSelection/1/39)  
+[Animals](http://www.gifanimations.com/animation/MenuSelection/1/1)  
+[Arrows](http://www.gifanimations.com/animation/MenuSelection/1/2)  
+[Astronaut](http://www.gifanimations.com/animation/MenuSelection/1/3)  
+[Babies](http://www.gifanimations.com/animation/MenuSelection/1/4)  
+[Body Parts](http://www.gifanimations.com/animation/MenuSelection/1/5)  
+[Books](http://www.gifanimations.com/animation/MenuSelection/1/6)  
+[Bullets](http://www.gifanimations.com/animation/MenuSelection/1/7)  
+[Butterflies](http://www.gifanimations.com/animation/MenuSelection/1/8)  
+[Cars](http://www.gifanimations.com/animation/MenuSelection/1/9)  
+[Cartoons](http://www.gifanimations.com/animation/MenuSelection/1/10)  
+[Computers](http://www.gifanimations.com/animation/MenuSelection/1/11)  
+[Construction](http://www.gifanimations.com/animation/MenuSelection/1/12)  
+[Counters](http://www.gifanimations.com/animation/MenuSelection/1/13)  
+[Creatures](http://www.gifanimations.com/animation/MenuSelection/1/14)  
+[Email](http://www.gifanimations.com/animation/MenuSelection/1/15)  
+[Explosives](http://www.gifanimations.com/animation/MenuSelection/1/16)  
+[Fire](http://www.gifanimations.com/animation/MenuSelection/1/17)  
+[Food](http://www.gifanimations.com/animation/MenuSelection/1/18)  
+[Games](http://www.gifanimations.com/animation/MenuSelection/1/19)  
+[Holidays](http://www.gifanimations.com/animation/MenuSelection/1/20)  
+[Houses](http://www.gifanimations.com/animation/MenuSelection/1/21)  
+[Insects](http://www.gifanimations.com/animation/MenuSelection/1/22)  
+[Lines](http://www.gifanimations.com/animation/MenuSelection/1/23)  
+[Love](http://www.gifanimations.com/animation/MenuSelection/1/24)  
+[Messages](http://www.gifanimations.com/animation/MenuSelection/1/26)  
+[Money](http://www.gifanimations.com/animation/MenuSelection/1/25)  
+[Music](http://www.gifanimations.com/animation/MenuSelection/1/27)  
+[Smiley Faces](http://www.gifanimations.com/animation/MenuSelection/1/28)  
+[Sports](http://www.gifanimations.com/animation/MenuSelection/1/29)  
    
 Clipart Images  
-[Backgrounds](http://www.gifanimations.com/action/MenuSelection/2/30)  
-[Banners](http://www.gifanimations.com/action/MenuSelection/2/31)  
-[Buttons](http://www.gifanimations.com/action/MenuSelection/2/32)  
-[Clip Art](http://www.gifanimations.com/action/MenuSelection/2/34)  
-[Lines](http://www.gifanimations.com/action/MenuSelection/2/37)  
-[Small Icons](http://www.gifanimations.com/action/MenuSelection/2/38)  
-  |  **GIFAnimations Privacy Policy**
+[Backgrounds](http://www.gifanimations.com/animation/MenuSelection/2/30)  
+[Banners](http://www.gifanimations.com/animation/MenuSelection/2/31)  
+[Buttons](http://www.gifanimations.com/animation/MenuSelection/2/32)  
+[Clip Art](http://www.gifanimations.com/animation/MenuSelection/2/34)  
+[Lines](http://www.gifanimations.com/animation/MenuSelection/2/37)  
+[Small Icons](http://www.gifanimations.com/animation/MenuSelection/2/38)  
+  | 
+
+**GIFAnimations.com Privacy Policy**
 
 GIFAnimations, and its advertisers and affiliates, are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
@@ -58,4 +60,4 @@ GIFAnimations, as well as most sites on the Internet, use "cookies" to enhance y
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-**GIFAnimations** works with a third party that serves ads to this site. To find out more about how they (BURST Media) manage the privacy of information in conjunction with serving ads on this site, click [here](http://www.burstmedia.com/). 
+**GIFAnimations** works with a third party that serves ads to this site. To find out more about how they (BURST Media) manage the privacy of information in conjunction with serving ads on this site, click [here](http://www.burstmedia.com/).
