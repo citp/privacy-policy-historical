@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617051224id_/http%3A//www.sears.ca%3A80/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210231824id_/http%3A//www.sears.ca%3A80/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
 
 # yourprivacy
 
@@ -35,15 +35,15 @@
 
 | 
 
-Your privacy is important to us! Sears is committed to respecting your privacy through the protection of your Personal Information.
+Your privacy is important to us! Sears Canada Inc. (“Sears”) is committed to respecting your privacy through the protection of your Personal Information.
 
-As the collection of information is facilitated through technological advances such as the Internet, we have re-established our commitment to protecting your Personal Information.
+As the collection of information is facilitated through technological means such as the Internet, we have re-established our commitment to protecting your Personal Information.
 
 The following outlines our pledge to you: 
 
   * **Purpose and Consent:** Before collecting your Personal Information, or at the time of collection, we will explain to you the purpose of collecting it and obtain your [consent](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397321&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3). 
   * **Limiting Collection:** Our collection of Personal Information is limited to what is reasonable under the circumstances and your information will be used only for the purpose for which it is collected. 
-  * **Security:** Your Personal Information is kept confidential and secure and is not disclosed to anyone outside our group of companies and our service providers without your consent, unless required by law. 
+  * **Security:** Your Personal Information is kept confidential and secure and is not disclosed to anyone outside our group of companies and our selected third party service providers/business partners  without your consent, unless required by law. 
   * **Access:** You have the right to access your own Personal Information, and to correct any inaccuracies. 
 
 
@@ -51,7 +51,7 @@ The following outlines our pledge to you:
   
 
 
-Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in September 2006.
+Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in September 2007.
 
   
   
