@@ -1,688 +1,429 @@
-<!--The following is the downloaded HTML source of the theobserver.ca privacy policy that was archived on 2007-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070523194512id_/http%3A//www.theobserver.ca/webapp/sitepages/gencontent.asp%3Fprivacy%3D1%26catname%3DPrivacy%2BStatement%26catmainname%3DNotices) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theobserver.ca privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210143050id_/http%3A//www.theobserver.ca/Privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Osprey Media. - The Sarnia Observer - Ontario, CA</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	The Sarnia Observer - Ontario, CA
+</title><meta name="verify-v1" content="d6z08LHMJpxwYvCjwOTY+88Gin3uGyGsf9hfukfOjv8=">
 
-<script language="JavaScript">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
 
-<!-- Begin
-function 
-get_random() {
-    var ranNum= Math.floor(Math.random()*5) * Math.floor(Math.random()*5);
-    return ranNum;
-}
-
-function
-popUp(url) {
-	window.open(url, "WELCOME", "scrollbars=1,resizable=1,width=400,height=500")
-}
-
-function
-customPopUp(url, settings) {
-	window.open(url, "OSPREY", settings)
-}
+<script type="text/javascript" src="/js/hover.js"></script>
 
 
-function formHandler(form){
-var URL = document.form.site.options[document.form.site.selectedIndex].value;
-window.location.href = URL;
-}
+<script type="text/javascript" defer="defer">
 
-function 
-mOver(tdId){
-	var tdId2 = tdId + "a";
-	var tdcol = "#eeeeee";
-	if(document.getElementById){
-  		//document.getElementById(tdId2).style.backgroundColor = tdcol;
-  		document.getElementById(tdId).style.backgroundColor = tdcol;
-	}else if(document.all){ 
-		//document.all.item(tdId2).style.backgroundColor = tdcol;
-		document.all.item(tdId).style.backgroundColor = tdcol;
-	}
-}
+            $(document).ready( function() {
+            
+                    //$("div#rsscontent").load("/rssreader/");
 
-function 
-mOut(tdId){
-	var tdId2 = tdId + "a";
-	var tdcol = "#ffffff";
-	if(document.getElementById){
-		//document.getElementById(tdId2).style.backgroundColor = tdcol;
-		document.getElementById(tdId).style.backgroundColor = tdcol;
-	}else if(document.all){ 
-		//document.all.item(tdId2).style.backgroundColor = tdcol;
-		document.all.item(tdId).style.backgroundColor = tdcol;
-	}
-}
+                    // for now the click event will be ignored, but normally
+                    // it would do something usefull here
+                    $('a.jbutton').click( function() { return true; });
+                    // make sure we add the main class
+                    $('a.jbutton').addClass( 'a_button');
+                    // also for the span in the a
+                    $('a.jbutton span').addClass( 'a_button_span');
+                    // catch the hover effect
+                    $('a.jbutton').hover(
+                        function() {
+                            // mouse is over the button, so highlight it by adding the
+                            // appropriate classes
+                            $(this).addClass( 'a_button_hover');
+                            $(this).children('span').addClass( 'a_button_hover_span');
+                        },
+                        function() {
+                            // mouse has been moved out, so remove the highlight classes
+                            $(this).removeClass( 'a_button_hover');
+                            $(this).children('span').removeClass( 'a_button_hover_span');
+                            // and also the activated (pressed) classes, because we could
+                            // also be coming to this event when mouse was clicked outside
+                            // the button (and this is basically the fix we needed)
+                            $(this).removeClass( 'a_button_active');
+                            $(this).children('span').removeClass( 'a_button_active_span');
+                            
+                        }
+                    );
+                    // catch the mouse down event, so we can add the activated/pressed state
+                    $('a.jbutton').mousedown(
+                        function() {
+                            $(this).addClass( 'a_button_active');
+                            $(this).children('span').addClass( 'a_button_active_span');
+                        }
+                    );
+                    // and ofcourse the pressed state should be removed when mouse is up
+                    $('a.jbutton').mouseup(
+                        function() {
+                            $(this).removeClass( 'a_button_active');
+                            $(this).children('span').removeClass( 'a_button_active_span');
+                        }
+                    );
+                    
+                }
+            );
 
-function
-chkNFSignup() {
-	var form = document.forms.genForm;
-	var err_msg = "Please correct the following:\n";
-	var submit_ok = 1;
-	
-	if (form.name.value == "") {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Company Name.";
-	}
-	if (form.email.value == "") {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Contact Person.";
-	}
-	if ((form.email.value == "") 
-		|| (form.email.value.indexOf("@") == -1) 
-		|| (form.email.value.indexOf(".") == -1) ){
-		
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing valid Email.";
-	}
-	if ((form.url.value == "") || (form.url.value == "yourwebsite.com")) {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- Missing Company URL";
-	}
-	if (!form.agree_to_terms.checked) {
-		submit_ok = 0;
-		err_msg = err_msg + "\n- You must agree to Osprey Media's Terms and Conditions.";
-	}
-	
-	//form.np_name.value = form.np_url[form.np_url.selectedIndex].text;
-	
-	if (submit_ok == 1) {
-		return true;
-	} else {
-		alert(err_msg);
-		return false;
-	}
-}
-
-
-function 
-breakout_of_frame()
-{
-  if (top.location != location) {
-    top.location.href = document.location.href ;
-  }
-}
-// End -->
 </script>
+       
 
-
-
+<link rel="stylesheet" type="text/css" href="/css/ToolTip.css"><link rel="stylesheet" type="text/css" href="/css/SiteMenu.css"><link rel="stylesheet" type="text/css" href="/css/thickbox.css"><link rel="stylesheet" type="text/css" href="/css/CurvyCorners.css"><link rel="stylesheet" type="text/css" href="/css/common.css"><link rel="stylesheet" type="text/css" href="/css/npinner.css">
 <style type="text/css">
-<!--
-//a{text-decoration:none}
-//a:hover{text-decoration: underline}
-//a:link {color: #000000}
-//a:visited {color: #666666}
-//a:hover {text-transform:bold; letter-spacing:.0cm}
-//a:hover {color: red;}
-
-
-iframe{margin-top: 0px; margin-left: 0px;}
-
-.seasonsgreetings {font-family:  Arial, Helvetica, Verdana; font-size: 11px; color: #000000}
-
-
-body, td, select, option, input {font-family:  Arial, Helvetica, Verdana; font-size: 12px}
-a, a:visited, a:link {color: #ff0000; text-decoration: underline}
-a:hover {color: #cc0000; text-decoration: none}
-
-td.altrow1 {background: #ffffff}
-td.altrow2 {background: #eeeeee}
-.copy_text{font-size: 10px; color: #aaaaaa}
-.raquo{color: #aa0000}
-.box_title{font-weight: bold}
-.photo_credit {font-size: 9px}
-
-.headline{font-family: Arial, Helvetica, Verdana,; font-size: 18px}
-
-a.submenu, a.submenu:visited, a.submenu:link {color: #ffffff; text-decoration: none; font-size: 12px}
-a.submenu:hover {color: #FFFfcc}
-
-a.footerlink, a.footerlink:visited, a.footerlink:link {color: #ffffff; text-decoration: underline; font-size: 10px}
-a.footerlink:hover {color: #eeeeee;  text-decoration: none;}
-
-
-a.menu, a.menu:visited, a.menu:link {color: #ffffff; text-decoration: none; font-weight: bold; font-size: 12px}
-a.menu:hover {color: #FFFfcc}
-
-a.topmenu, a.topmenu:visited, a.topmenu:link {color: #ffffff; text-decoration: none; font-size: 10px}
-a.topmenu:hover {color: #FFFfcc}
-
-a.regtext, a.regtext:visited, a.regtext:link {color: #000000; text-decoration: none; font-size: 12px}
-a.regtext:hover {color: #000000}
-
-a.headline, a.headline:visited, a.headline:link {color: #ff0000; text-decoration: none; font-family: 'helvetica neue','arial narrow', Arial, Verdana, Helvetica;font-weight: bold; font-size: 18px}
-a.headline:hover {color: #aaaaaa}
-
-.g1 a:link { color:#ffffff; text-decoration:underline; }
-.g1 a:hover { color:#aaaaaa; text-decoration:none; }
-.g1 a:visited { color:#ffffff; text-decoration:underline; }
--->
+#tsrightcolumn { background: #fff url("/images/176x64/www.theobserver.ca.gif") no-repeat; }
 </style>
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/npie7.css" type="text/css" /><link rel="stylesheet" href="/css/npinnerie7.css" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/npie6.css" type="text/css" /><link rel="stylesheet" href="/css/npinnerie6.css" type="text/css" />
+<![endif]-->
 </head>
-<body bgcolor="#ffffff" onload="breakout_of_frame()"><center>
+<body>
+<script type="text/javascript" src="http://canoe.com/js_source/barresreseau/canoeNetworkBarsEn_generic.js"></script>
+<a name="top"></a>
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE2NDQ5NTU0D2QWAmYPZBYCAgEPZBYSZg9kFgJmDxYCHgRUZXh0BfMDPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIExBTkdVQUdFPSJKYXZhU2NyaXB0MS4xIj4KPCEtLSBPc3ByZXktTWVkaWFATGVhZGVyYm9hcmRzIGFuZCBCYW5uZXJzICg3Mjh4OTAgYW5kIDQ2OHg2MCkKaWYgKHR5cGVvZiBPQVNfcm5zID09ICJ1bmRlZmluZWQiKSBPQVNfcm5zID0gbmV3IFN0cmluZyAoTWF0aC5yYW5kb20oKSkuc3Vic3RyaW5nKDIsIDExKTsKZG9jdW1lbnQud3JpdGUoJzxzY3InKydpcHQgTEFOR1VBR0U9IkphdmFTY3JpcHQxLjEiIFNSQz0iaHR0cDovL25ldHdvcmstY2EuMjQ3cmVhbG1lZGlhLmNvbS9SZWFsTWVkaWEvYWRzL2Fkc3RyZWFtX2p4LmFkcy9Pc3ByZXktTWVkaWEvMScrT0FTX3JucysnQFRvcDEseDEwLHgxNSxQb3NpdGlvbjMhVG9wMT9KWCZYRSZDQVQ9aG9tZSZYRSZjaXR5PVNhcm5pYSZzdGF0ZT1vbnRhcmlvJm5ld3NwYXBlcj1odHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhIj48L3NjcicrJ2lwdD4nKTsvLyAtLT4KPC9zY3JpcHQ+CmQCAQ9kFgJmDw9kFgQeBXN0eWxlBQ9jdXJzb3I6cG9pbnRlcjseB29uY2xpY2sFOmRvY3VtZW50LmxvY2F0aW9uPSdodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL3dlYXRoZXIuYXNweCcWCAIBDw8WAh4ISW1hZ2VVcmwFMGh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvSW1hZ2VzL2J5X2xldHRlci9iLmdpZmRkAgMPFgIfAAUCLTJkAgUPFgIfAAUNUGFydGx5IGNsb3VkeWQCBw8WAh8ABQdTYXJuaWEgZAICDxYCHwAFsC88c2VsZWN0IGlkPSJzZWxlY3RtZW51IiBvbkNoYW5nZT0iZ290b1B1YmxpY2F0aW9uKHRoaXNbdGhpcy5zZWxlY3RlZEluZGV4XS52YWx1ZSkiPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgYW4gT3NwcmV5IFB1YmxpY2F0aW9uOjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj4mbmJzcDs8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9IiI+TiBFIFcgUyBQIEEgUCBFIFIgUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPC9vcHRpb24+DQoKDQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmJhbmNyb2Z0dGhpc3dlZWsuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5CYW5jcm9mdCAtIEJhbmNyb2Z0IHRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGViYXJyaWVleGFtaW5lci5jb20vIj5CYXJyaWUgLSBCYXJyaWUgRXhhbWluZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuYmFycnlzYmF5dGhpc3dlZWsuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5CYXJyeSdzIEJheSAtIEJhcnJ5J3MgQmF5IHRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5pbnRlbGxpZ2VuY2VyLmNhLyI+QmVsbGV2aWxsZSAtIEludGVsbGlnZW5jZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuYnJhbnRmb3JkZXhwb3NpdG9yLmNhLyI+QnJhbnRmb3JkIC0gRXhwb3NpdG9yPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmNoYXRoYW1kYWlseW5ld3MuY2EvIj5DaGF0aGFtIC0gQ2hhdGhhbSBEYWlseSBOZXdzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5vcnRodW1iZXJsYW5kdG9kYXkuY29tLyI+Q29ib3VyZyAtIENvYm91cmcgRGFpbHkgU3Rhcjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aHVtYmVybGFuZHRvZGF5LmNvbS8iPkNvbGJvcm5lIC0gQ29sYm9ybmUgQ2hyb25pY2xlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWVudGVycHJpc2VidWxsZXRpbi5jb20vIj5Db2xsaW5nd29vZCAtIEVudGVycHJpc2UgQnVsbGV0aW48L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuc3RhbmRhcmQtZnJlZWhvbGRlci5jb20vIj5Db3Jud2FsbCAtIFN0YW5kYXJkIEZyZWVob2xkZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cudm9pY2VvZnRoZWZhcm1lci5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkRyZXNkZW4gLSBWb2ljZSBvZiB0aGUgRmFybWVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmR1bm52aWxsZWNocm9uaWNsZS5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkR1bm52aWxsZSAtIER1bm52aWxsZSBDaHJvbmljbGU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZWxsaW90bGFrZXN0YW5kYXJkLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5FbGxpb3QgTGFrZSAtIFN0YW5kYXJkPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm1pZG5vcnRobW9uaXRvci5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPkVzcGFub2xhIC0gTWlkLU5vcnRoIE1vbml0b3I8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZm9ydGVyaWV0aW1lcy5jYS93ZWJhcHAvc2l0ZXBhZ2VzLyI+Rm9ydCBFcmllIC0gVGltZXM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZ2FuYW5vcXVlcmVwb3J0ZXIuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5HYW5hbm9xdWUgLSBHYW5hbm9xdWUgUmVwb3J0ZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaGFsaWJ1cnRvbmVjaG8uY2Evd2ViYXBwL3NpdGVwYWdlcy8iPkhhbGlidXJ0b24gLSBIYWxpYnVydG9uIEVjaG88L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cudGhlcG9zdC5vbi5jYS93ZWJhcHAvc2l0ZXBhZ2VzLyI+SGFub3ZlciAtIFRoZSBQb3N0PC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmlubmlzZmlsZXhhbWluZXIuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPklubmlzZmlsIC0gSW5uaXNmaWwgRXhhbWluZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cua2luZ3N0b250aGlzd2Vlay5jb20vIj5LaW5nc3RvbiAtIEtpbmdzdG9uIFRoaXMgV2Vlazwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGV3aGlnLmNvbS8iPktpbmdzdG9uIC0gS2luZ3N0b24gV2hpZyBTdGFuZGFyZDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aGVybm5ld3MuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPktpcmtsYW5kIExha2UgLSBOb3J0aGVybiBOZXdzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXBvc3QuY2EvIj5MaW5kc2F5IC0gVGhlIExpbmRzYXkgUG9zdDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5tYXJrZGFsZXN0YW5kYXJkLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+TWFya2RhbGUgLSBNYXJrZGFsZSBTdGFuZGFyZDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5taWRsYW5kZnJlZXByZXNzLmNvbS8iPk1pZGxhbmQgLSBGcmVlIFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm1pbmRlbnRpbWVzLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5NaW5kZW4gLSBNaW5kZW4gVGltZXM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubmFwYW5lZWd1aWRlLmNvbS8iPk5hcGFuZWUgLSBOYXBhbmVlIEd1aWRlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5pYWdhcmFhZHZhbmNlLmNhLyI+TmlhZ2FyYS1vbi10aGUtTGFrZSAtIE5pYWdhcmEgQWR2YW5jZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5uaWFnYXJhZmFsbHNyZXZpZXcuY2EvIj5OaWFnYXJhIEZhbGxzIC0gUmV2aWV3PC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd2VzdC5uaWFnYXJhY29tbXVuaXR5bmV3c3BhcGVycy5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPk5pYWdhcmEgRmFsbHMtIFcuIE5pYWdhcmEgQ29tbXVuaXR5IE5ld3NwYXBlcnM8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubnVnZ2V0LmNhLyI+Tm9ydGggQmF5IC0gTm9ydGggQmF5IE51Z2dldDwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5ub3J0aGtlbnRsZWFkZXIuY29tL3dlYmFwcC9zaXRlcGFnZXMvIj5Ob3J0aCBLZW50IC0gTm9ydGggS2VudCBMZWFkZXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cub3JpbGxpYXBhY2tldC5jb20vIj5PcmlsbGlhIC0gUGFja2V0IGFuZCBUaW1lczwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5vd2Vuc291bmRzdW50aW1lcy5jb20vIj5Pd2VuIFNvdW5kIC0gU3VuIFRpbWVzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWRhaWx5b2JzZXJ2ZXIuY2EvIj5QZW1icm9rZSAtIERhaWx5IE9ic2VydmVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXBldGVyYm9yb3VnaGV4YW1pbmVyLmNvbS8iPlBldGVyYm9yb3VnaCAtIFBldGVyYm9yb3VnaCBFeGFtaW5lcjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5wZXRyb2xpYXRvcGljLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+UGV0cm9saWEgLSBQZXRyb2xpYSBUb3BpYzwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5jb3VudHl3ZWVrbHluZXdzLmNhL3dlYmFwcC9zaXRlcGFnZXMvIj5QaWN0b24gLSBDb3VudHkgV2Vla2x5IE5ld3M8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cubm9ydGh1bWJlcmxhbmR0b2RheS5jb20vIj5Qb3J0IEhvcGUgLSBQb3J0IEhvcGUgRXZlbmluZyBHdWlkZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS8iPlNhcm5pYSAtIE9ic2VydmVyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNhdWx0c3Rhci5jb20vIj5TYXVsdCBTdGUgTWFyaWUgLSBTYXVsdCBTdGFyPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNhdWx0dGhpc3dlZWsuY29tLyI+U2F1bHQgU3RlIE1hcmllIC0gU2F1bHQgVGhpcyBXZWVrPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vc3RraXR0cy5uaWFnYXJhY29tbXVuaXR5bmV3c3BhcGVycy5jb20vd2ViYXBwL3NpdGVwYWdlcy8iPlN0LiBDYXRoYXJpbmVzIC0gU3QuIENhdGhhcmluZXMgU2hvcHBpbmcgTmV3czwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5zdGNhdGhhcmluZXNzdGFuZGFyZC5jYS8iPlN0LiBDYXRoYXJpbmVzIC0gU3RhbmRhcmQ8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuY29tbXVuaXR5cHJlc3MuY2Evd2ViYXBwL3NpdGVwYWdlcy8iPlN0aXJsaW5nIC0gQ29tbXVuaXR5IFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZXN1ZGJ1cnlzdGFyLmNvbS8iPlN1ZGJ1cnkgLSBTdWRidXJ5IFN0YXI8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly90aG9yb2xkLm5pYWdhcmFjb21tdW5pdHluZXdzcGFwZXJzLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+VGhvcm9sZCAtIFRob3JvbGQgTmV3czwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy50aW1taW5zcHJlc3MuY29tLyI+VGltbWlucyAtIERhaWx5IFByZXNzPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRyZW50b25pYW4uY2Evd2ViYXBwL3NpdGVwYWdlcy8iPlRyZW50b24gLSBUcmVudG9uaWFuPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LndlbGxhbmR0cmlidW5lLmNhLyI+V2VsbGFuZCAtIFRyaWJ1bmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93ZWxsYW5kLm5pYWdhcmFjb21tdW5pdHluZXdzcGFwZXJzLmNvbS93ZWJhcHAvc2l0ZXBhZ2VzLyI+V2VsbGFuZCAtIFdlbGxhbmQgTmV3czwvb3B0aW9uPg0KCiAgDQoKICA8b3B0aW9uIHZhbHVlPSIiPiZuYnNwOzwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iIj5NIEEgRyBBIFogSSBOIEUgUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS08L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaW50ZXJpb3JzbWFnYXppbmUuY2EiPkNlbnRyYWwgT250YXJpbyBJbnRlcmlvcnMgTWFnYXppbmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuaGFtaWx0b25tYWdhemluZS5jb20iPkhhbWlsdG9uIE1hZ2F6aW5lPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LmtpbmdzdG9ubGlmZS5jYSI+S2luZ3N0b24gTGlmZTwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5tdXNrb2thbWFnYXppbmUuY29tIj5NdXNrb2thIE1hZ2F6aW5lPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3Lm5pYWdhcmFtYWcuY2EiPk5pYWdhcmEgTWFnYXppbmU8L29wdGlvbj4NCgogIDxvcHRpb24gdmFsdWU9Imh0dHA6Ly93d3cuZ29sZm9udGFyaW8uY2EiPk9udGFyaW8gR29sZjwvb3B0aW9uPg0KCiAgPG9wdGlvbiB2YWx1ZT0iaHR0cDovL3d3dy5zYXVsdGdvb2RsaWZlLmNvbSI+U2F1bHQgR29vZCBMaWZlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnNpbWNvZWxpZmUuY2EiPlNpbWNvZSBMaWZlPC9vcHRpb24+DQoKICA8b3B0aW9uIHZhbHVlPSJodHRwOi8vd3d3LnRoZWhvbWVzaG93LmNhIj5UaGUgSG9tZSBTaG93PC9vcHRpb24+DQoKPC9zZWxlY3Q+ZAIQD2QWAmYPFgIfAAWcATxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly93d3cuY2Fub2VrbGl4LmNvbS9hZHMvanMvZW5jb2RlP3NyYz1vc3ByZXlvYnNlcnZlcjpuZXdzJm49NSZpZT1kZXRlY3Qmb2U9ZGV0ZWN0JmxnPWVuJmJ3PTEmaGw9MSZ3aD00NjgiPjwvc2NyaXB0PmQCEQ9kFgICCQ8QDxYCHwAFCVVSIFNhcm5pYWRkZGQCFg9kFgJmDxYCHwAF6wM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgTEFOR1VBR0U9IkphdmFTY3JpcHQxLjEiPgo8IS0tIE9zcHJleS1NZWRpYUBXaWRlIFNreXNjcmFwZXIgKDE2MHg2MDAgYW5kIDEyMHg2MDApCmlmICh0eXBlb2YgT0FTX3JucyA9PSAidW5kZWZpbmVkIikgT0FTX3JucyA9IG5ldyBTdHJpbmcgKE1hdGgucmFuZG9tKCkpLnN1YnN0cmluZygyLCAxMSk7CmRvY3VtZW50LndyaXRlKCc8c2NyJysnaXB0IExBTkdVQUdFPSJKYXZhU2NyaXB0MS4xIiBTUkM9Imh0dHA6Ly9uZXR3b3JrLWNhLjI0N3JlYWxtZWRpYS5jb20vUmVhbE1lZGlhL2Fkcy9hZHN0cmVhbV9qeC5hZHMvT3NwcmV5LU1lZGlhLzEnK09BU19ybnMrJ0BUb3AxLHgxMCx4MTUsUG9zaXRpb24zIXgxMD9KWCZYRSZDQVQ9aG9tZSZYRSZjaXR5PVNhcm5pYSZzdGF0ZT1vbnRhcmlvJm5ld3NwYXBlcj1odHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhIj48L3NjcicrJ2lwdD4nKTsKLy8gLS0+Cjwvc2NyaXB0PmQCFw9kFgICAQ8WAh8ABbsaPGRpdiBpZD0nZnBDTUFydGljbGVzJz48dWwgaWQ9ImZwQ01BcnRpY2xlTGlzdCI+PGxpPjxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTE5MTYiPjQwNCBUb3duaG91c2UgWW91dGggRHJvcC1pbiBDZW50cmU8L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPk1vbmRhdG8gVGh1cnNkYXk6IDM6MDAgdG8gOTowMCBwLm0uIEZyaWRheTogMzowMCB0byA1OjMwIHAubS4gIExvY2hpZWwgS2l3YW5pcyBDZW50cmUgMThOb3J0aCBDb2xsZWdlIEF2ZW51ZSBTYXJuaWEsIE9udGFyaW8gTG93ZXIgIFsuLi5dPC9wPjxwIGNsYXNzPSJmcEFydGljbGVQb3N0ZWRCeSI+UG9zdGVkIGJ5IDxhIGhyZWY9Ii9BY2NvdW50L1Byb2ZpbGUuYXNweD91bj1Cb3lzYW5kR2lybHMiPkJveXNhbmRHaXJsczwvYT4gfCA8YSBocmVmPSIvQ29tbXVuaXR5L05ld3NEaXNwbGF5LmFzcHg/Yz0xOTE2JiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48bGk+PGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9MTAxNyI+TFJXIDE1NHRoIEFubml2ZXJzYXJ5IFNlcnZpY2UgPC9hPjxwIGNsYXNzPSdmcEFydGljbGVCb2R5Jz5PY3RvYmUyMXN0LCAyMDA3IDEwOjAwYW0gIGF0IExvbmRvbiBSb2FkIFdlc3QgVW5pdGVkIENodXJjaCwgMjA5MiBMb25kb24gTGluZSwgU2FybmlhLCBPbnRhcmlvIFNwZWNpYWwgR3Vlc3QgU3BlYWtlci1SZXYuIEdhcnkgUGFya2VyIEx1bmNoIGFuZCBGZWxsb3dzaGlwICBbLi4uXTwvcD48cCBjbGFzcz0iZnBBcnRpY2xlUG9zdGVkQnkiPlBvc3RlZCBieSA8YSBocmVmPSIvQWNjb3VudC9Qcm9maWxlLmFzcHg/dW49TG9uZG9uQ2h1cmNoIj5Mb25kb25DaHVyY2g8L2E+IHwgPGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9MTAxNyYjdGhyZWFkcyI+Q29tbWVudHM8L2E+PC9wPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTYzOSI+VGhlIEJveXMgYW5kIEdpcmxzIENsdWIgb2YgU2FybmlhL0xhbWJ0b248L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPkNvb3AvVm88d2JyIC8+bHVudGVlcG9zaXRpb25zIGFyZSBhdmFpbGFibGUuTXVzdCBlbmpveSB3b3JraW5nIHdpdGggY2hpbGRyZW4uICBGaXJzdCBBaWQvQ1BSIGlzIGNvbnNpZGVyZWQgYW4gYXNzZXQuICBTdWNjZXNzZnVsIGNhbmRpZGF0ZXMgd2lsbCB3b3JrIGFsbCBwcm9ncmFtcyB0aGUgQ2x1YiAgWy4uLl08L3A+PHAgY2xhc3M9ImZwQXJ0aWNsZVBvc3RlZEJ5Ij5Qb3N0ZWQgYnkgPGEgaHJlZj0iL0FjY291bnQvUHJvZmlsZS5hc3B4P3VuPUJveXNhbmRHaXJscyI+Qm95c2FuZEdpcmxzPC9hPiB8IDxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTYzOSYjdGhyZWFkcyI+Q29tbWVudHM8L2E+PC9wPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTQyMCI+Vm9sdW50ZWVyIEluZm9ybWF0aW9uIFNlc3Npb248L2E+PHAgY2xhc3M9J2ZwQXJ0aWNsZUJvZHknPlRoZSBTZXh1YWwgQXNzYXVsdCBTdXJ2aXZvcnMnIENlbnRyZSBpcyBsb29raW5nIGZvciBzb21lIG5ldyB2b2x1bnRlZXJzLiAgSWYgeW91IGFyZSBhIG1hdHVyZSwgbm9uLWp1ZGdlbWVudGFsPHdiciAvPmdvb2QgbGlzdGVuZXIgLSB0aGlzIG1heSBiZSBmb3IgIFsuLi5dPC9wPjxwIGNsYXNzPSJmcEFydGljbGVQb3N0ZWRCeSI+UG9zdGVkIGJ5IDxhIGhyZWY9Ii9BY2NvdW50L1Byb2ZpbGUuYXNweD91bj1TQXN1cnZpdm9ycyI+U0FzdXJ2aXZvcnM8L2E+IHwgPGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9NDIwJiN0aHJlYWRzIj5Db21tZW50czwvYT48L3A+PC9saT48bGk+PGEgaHJlZj0iL0NvbW11bml0eS9OZXdzRGlzcGxheS5hc3B4P2M9NDE5Ij5UQUtFIEJBQ0sgVEhFIE5JR0hUPC9hPjxwIGNsYXNzPSdmcEFydGljbGVCb2R5Jz5TZXB0ZW1iZXIgMjAsIDIwMDcsIDc6MzAgcC5tLiAgSG9zdGVkIGJ5IHRoZSBTZXh1YWwgQXNzYXVsdCBTdXJ2aXZvcnMnIENlbnRyZSBTYXJuaWEtTGFtYnRvbi4gVGhpcyBuYXRpb25hbCBldmVudCBpcyB0byBicmluZyBhd2FyZW5lc3MgYWJvdXQgc2V4dWFsIHZpb2xlbmNlIHRvICBbLi4uXTwvcD48cCBjbGFzcz0iZnBBcnRpY2xlUG9zdGVkQnkiPlBvc3RlZCBieSA8YSBocmVmPSIvQWNjb3VudC9Qcm9maWxlLmFzcHg/dW49U0FzdXJ2aXZvcnMiPlNBc3Vydml2b3JzPC9hPiB8IDxhIGhyZWY9Ii9Db21tdW5pdHkvTmV3c0Rpc3BsYXkuYXNweD9jPTQxOSYjdGhyZWFkcyI+Q29tbWVudHM8L2E+PC9wPjwvbGk+PC91bD48L2Rpdj48ZGl2IGlkPSdmcENNQmxvZ3MnPjx1bCBpZD0nZnBCbG9nTGlzdCc+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvQmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9NjkiPjEwIFN0ZXBzIHRvIEVuZCBWaW9sZW5jZSBBZ2FpbnN0IFdvbWVuPC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5TdGVwIEl0IFVwIE9udGFyaW8gIDEuIFVuZGVyc3RhbmQgdGhhdCB2aW9sZW5jZSBhZ2FuaXN0IHdvbWVuIGlzIGFuIGVxdWFsaXR5IHJpZ2h0cyBpc3N1ZS4gIDIuIFJlY29nbml6ZSB0aGF0IG1hbGUgcG93ZXIgaXMgdXBoZWxkIGJ5IFsuLi5dPC9wPjxwIGNsYXNzPSdmcEJsb2dQb3N0ZWRCeSc+UG9zdGVkIGJ5IDxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvQWNjb3VudC9wcm9maWxlLmFzcHg/dW49U2V4dWFsU3Vydml2b3JzIj5TZXh1YWxTdXJ2aXZvcnM8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS9ibG9ncy9WaWV3Q29tbXVuaXR5UGFnZS5hc3B4P0Jsb2dJRD02OSYjdGhyZWFkcyI+Q29tbWVudHM8L2E+PC9wPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvQmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9NTYiPkhvdyB3aWxsIHRoZSBTdGluZyBkbyB0aGlzIHllYXI/PC9hPjxwIGNsYXNzPSdmcEJsb2dCb2R5Jz5Ib3cgd2lsbCB0aGUgU3RpbmcgZG8gdGhpcyBzZWFzb24/IE9uIHBhcGVyIHRoaXMgdGVhbSBhcHBlYXJzIHJlYWR5IHRvIG1ha2Ugc29tZSBub2lzZSB0aGlzIHNlYXNvbi5JdCB3b3VsZCBiZSBhIHBsZWFzdXJlIHRvIHNlZSBbLi4uXTwvcD48cCBjbGFzcz0nZnBCbG9nUG9zdGVkQnknPlBvc3RlZCBieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0FjY291bnQvcHJvZmlsZS5hc3B4P3VuPXJoaWx0cyI+cmhpbHRzPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvYmxvZ3MvVmlld0NvbW11bml0eVBhZ2UuYXNweD9CbG9nSUQ9NTYmI3RocmVhZHMiPkNvbW1lbnRzPC9hPjwvcD48L2xpPjwvdWw+PC9kaXY+ZAIYD2QWAmYPPCsACQEADxYEHghEYXRhS2V5cxYAHgtfIUl0ZW1Db3VudAIBZBYCZg9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBVpodHRwOi8vbXlwaG90b3MudGhlb2JzZXJ2ZXIuY2EvbXljYXB0dXJlL3Bob3Rvcy9BbGJ1bS5hc3B4P0V2ZW50SUQ9MzI3NzY0JkNhdGVnb3J5SUQ9MzI4ODBkFgRmDw8WAh8DBUJodHRwOi8vbXlwaG90b3MudGhlb2JzZXJ2ZXIuY2EvUEhPVE9TL1NBUk8vMVVzZXJQaG90b3MvMTQxMTYxVC5qcGdkZAICDxYCHwAFBk1vdmllc2QCGQ9kFgJmDxYCHwAFkQ08ZGl2IGNsYXNzPSJyaWdodHNlcCB0d29lcWNvbCI+PHVsIGNsYXNzPSJmcENhbCI+PGxpPjxkaXYgY2xhc3M9ImZwQ2FsQmciPjxoNT48YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0NhbGVuZGFyL0Rpc3BsYXlFdmVudHMuYXNweD9kYXRlPTEyJTJmMTAlMmYyMDA3IiBzdHlsZT0iY29sb3I6IzBjNzcwMCI+VG9kYXk8L2E+PC9oNT48L2Rpdj48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0NhbGVuZGFyL0luZm8uYXNweD9jPTE2NDImY2Fsc2VsPTEyJTJmMTAlMmYyMDA3Ij5BIFZpY3RvcmlhbiBDaHJpc3RtYXM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS9DYWxlbmRhci9JbmZvLmFzcHg/Yz01MDUmY2Fsc2VsPTEyJTJmMTAlMmYyMDA3Ij5Cb3lzIGFuZCBHaXJscyBDbHViIG9mIFNhcm5pYS9MYW1idG9uPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvQ2FsZW5kYXIvSW5mby5hc3B4P2M9ODA0JmNhbHNlbD0xMiUyZjEwJTJmMjAwNyI+SnVuaW9yIExlYWRlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS9DYWxlbmRhci9JbmZvLmFzcHg/Yz0yMTI5JmNhbHNlbD0xMiUyZjEwJTJmMjAwNyI+U3BlbGxpbmcgQmVlIFJlZ2lzdHJhdGlvbjwvYT48L2xpPjwvdWw+PC9kaXY+PGRpdiBjbGFzcz0idHdvZXFjb2wiPjx1bCBjbGFzcz0iZnBDYWwiPjxsaT48ZGl2IGNsYXNzPSJmcENhbEJnIj48aDU+PGEgaHJlZj0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS9DYWxlbmRhci9EaXNwbGF5RXZlbnRzLmFzcHg/ZGF0ZT0xMiUyZjExJTJmMjAwNyIgc3R5bGU9ImNvbG9yOiMwYzc3MDAiPkRlYy4gMTEsIDIwMDc8L2E+PC9oNT48L2Rpdj48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0NhbGVuZGFyL0luZm8uYXNweD9jPTE5ODMmY2Fsc2VsPTEyJTJmMTElMmYyMDA3Ij5BbiBPbGQgRmFzaGlvbmVkIENocmlzdG1hczwvYT48L2xpPjxsaT48ZGl2IGNsYXNzPSJmcENhbEJnIj48aDU+PGEgaHJlZj0iaHR0cDovL3d3dy50aGVvYnNlcnZlci5jYS9DYWxlbmRhci9EaXNwbGF5RXZlbnRzLmFzcHg/ZGF0ZT0xMiUyZjE0JTJmMjAwNyIgc3R5bGU9ImNvbG9yOiMwYzc3MDAiPkRlYy4gMTQsIDIwMDc8L2E+PC9oNT48L2Rpdj48L2xpPjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0NhbGVuZGFyL0luZm8uYXNweD9jPTMzNSZjYWxzZWw9MTIlMmYxNCUyZjIwMDciPlRoZSBCb3lzIGFuZCBHaXJscyBDbHViIG9mIFNhcm5pYS9MYW1idG9uIERhbmNlPC9hPjwvbGk+PGxpPjxkaXYgY2xhc3M9ImZwQ2FsQmciPjxoNT48YSBocmVmPSJodHRwOi8vd3d3LnRoZW9ic2VydmVyLmNhL0NhbGVuZGFyL0Rpc3BsYXlFdmVudHMuYXNweD9kYXRlPTEyJTJmMTclMmYyMDA3IiBzdHlsZT0iY29sb3I6IzBjNzcwMCI+RGVjLiAxNywgMjAwNzwvYT48L2g1PjwvZGl2PjwvbGk+PGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cudGhlb2JzZXJ2ZXIuY2EvQ2FsZW5kYXIvSW5mby5hc3B4P2M9MjAyNyZjYWxzZWw9MTIlMmYxNyUyZjIwMDciPlRoZWF0cmUgU2FybmlhIHByZXNlbnRzIFRoZSBMaW9uLCBUaGUgV2l0Y2ggYW5kIFRoZSBXYXJkcm9iZTwvYT48L2xpPjwvdWw+PC9kaXY+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBQUcY3RsMDAkU2VhcmNoQm94JFJhZGlvQnV0dG9uMQUcY3RsMDAkU2VhcmNoQm94JFJhZGlvQnV0dG9uMgUcY3RsMDAkU2VhcmNoQm94JFJhZGlvQnV0dG9uMgUcY3RsMDAkU2VhcmNoQm94JFJhZGlvQnV0dG9uMwUcY3RsMDAkU2VhcmNoQm94JFJhZGlvQnV0dG9uM5dDODObNofJJMTVWOgHXJQboay6">
 
-<table border="0" width="940" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="770" valign="top" align="left">	
 
-
-<table border="0" width="770" id="table1">
-	<tbody><tr>
-		<td align="center" width="3%">
-		<img border="0" src="/webapp/sitepages/images/advertisement-v.gif" width="10" height="90">
-		</td>
-		<td align="center" valign="middle">
-
-<script type="text/javascript" language="JavaScript1.1">
+<div id="maincontainer">
+	
+    <div id="lbw">
+        <div id="lbMedia"><script type="text/javascript" language="JavaScript1.1">
 <!-- Osprey-Media@Leaderboards and Banners (728x90 and 468x60)
 if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
-document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!Top1?JX&XE&CAT=&XE&city=&state=ontario&newspaper=www.theobserver.ca"></scr'+'ipt>');
-// -->
-</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1645172306@Top1,x10,x15,Position3!Top1?JX&amp;XE&amp;CAT=&amp;XE&amp;city=&amp;state=ontario&amp;newspaper=www.theobserver.ca"></script>
-		</td>
-		<td align="center" width="3%">
-		<img border="0" src="/webapp/sitepages/images/advertisement-v.gif" width="10" height="90"></td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="770" bgcolor="#000000">
-<form name="form"></form>
-  <tbody><tr>
-     <td width="20%"><a href="http://www.ospreymedia.ca"><img src="/webapp/sitepages/images/osprey_logo.gif" align="textTop" border="0"></a></td>
-	<td width="60%" align="left" valign="middle">&nbsp;
-	</td>
-    <td width="25%">
-<p align="right">
-<select name="site" size="1" onchange="javascript:formHandler()" style="font-size: 8pt; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; ">
-  <option>Select An Osprey Newspaper</option>
-  <option value="http://www.bancroftthisweek.com">Bancroft - Bancroft this Week</option>
-  <option value="http://www.thebarrieexaminer.com/webapp/sitepages/">Barrie - Barrie Examiner</option>
-  <option value="http://www.barrysbaythisweek.com">Barry's Bay - Barry's Bay this Week</option>
-  <option value="http://www.intelligencer.ca/webapp/sitepages/">Belleville - Intelligencer</option>
-  <option value="http://www.brantfordexpositor.ca/webapp/sitepages/">Brantford - Expositor</option>
-  <option value="http://www.chathamdailynews.ca/webapp/sitepages/">Chatham - Chatham Daily News</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Cobourg - Cobourg Daily Star</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Colborne - Colborne Chronicle</option>
-  <option value="http://www.theenterprisebulletin.com/webapp/sitepages/">Collingwood - Enterprise Bulletin</option>
-  <option value="http://www.standard-freeholder.com/webapp/sitepages/">Cornwall - Standard Freeholder</option>
-  <option value="http://www.voiceofthefarmer.com">Dresden - Voice of the Farmer</option>
-  <option value="http://www.dunnvillechronicle.com/webapp/sitepages/">Dunnville - Dunnville Chronicle</option>
-  <option value="http://www.elliotlakestandard.ca/webapp/sitepages/">Elliot Lake - Standard</option>
-  <option value="http://www.midnorthmonitor.com/webapp/sitepages/">Espanola - Mid-North Monitor</option>
-  <option value="http://www.forterietimes.ca/webapp/sitepages/">Fort Erie - Times</option>
-  <option value="http://www.gananoquereporter.com/webapp/sitepages/">Gananoque - Gananoque Reporter</option>
-  <option value="http://www.haliburtonecho.ca/webapp/sitepages/">Haliburton - Haliburton Echo</option>
-  <option value="http://www.thepost.on.ca/webapp/sitepages/">Hanover - The Post</option>
-  <option value="http://www.kingstonthisweek.com/webapp/sitepages/">Kingston - Kingston This Week</option>
-  <option value="http://www.thewhig.com/webapp/sitepages/">Kingston - Kingston Whig Standard</option>
-  <option value="http://www.northernnews.ca/webapp/sitepages/">Kirkland Lake - Northern News</option>
-  <option value="http://www.thepost.ca/webapp/sitepages/">Lindsay - Daily Post</option>
-  <option value="http://www.markdalestandard.com/webapp/sitepages/">Markdale - Markdale Standard</option>
-  <option value="http://www.midlandfreepress.com/webapp/sitepages/">Midland - Free Press</option>
-  <option value="http://www.mindentimes.ca/">Minden - Minden Times</option>
-  <option value="http://www.napaneeguide.com/webapp/sitepages/">Napanee - Napanee Guide</option>
-  <option value="http://advance.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara-on-the-Lake - Niagara Advance</option>
-  <option value="http://www.niagarafallsreview.ca/webapp/sitepages/">Niagara Falls - Review</option>
-  <option value="http://west.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara Falls- W. Niagara Community Newspapers</option>
-  <option value="http://www.nugget.ca/webapp/sitepages/">North Bay - North Bay Nugget</option>
-  <option value="http://www.northkentleader.com">North Kent - North Kent Leader</option>
-  <option value="http://www.orilliapacket.com/webapp/sitepages/">Orillia - Packet and Times</option>
-  <option value="http://www.owensoundsuntimes.com/webapp/sitepages/">Owen Sound - Sun Times</option>
-  <option value="http://www.thedailyobserver.ca/webapp/sitepages/">Pembroke - Daily Observer</option>
-  <option value="http://www.thepeterboroughexaminer.com/webapp/sitepages/">Peterborough - Peterborough Examiner</option>
-  <option value="http://www.petroliatopic.com">Petrolia - Petrolia Topic</option>
-  <option value="http://www.countyweeklynews.ca/webapp/sitepages/">Picton - County Weekly News</option>
-  <option value="http://www.northumberlandtoday.com/webapp/sitepages/">Port Hope - Port Hope Evening Guide</option>
-  <option value="http://www.theobserver.ca/webapp/sitepages/">Sarnia - Observer</option>
-  <option value="http://www.saultstar.com/webapp/sitepages/">Sault Ste Marie - Sault Star</option>
-  <option value="http://www.saultthisweek.com/webapp/sitepages/">Sault Ste Marie - Sault This Week</option>
-  <option value="http://stkitts.niagaracommunitynewspapers.com/webapp/sitepages/">St. Catharines - St. Catharines News</option>
-  <option value="http://www.stcatharinesstandard.ca/webapp/sitepages/">St. Catharines - Standard</option>
-  <option value="http://www.communitypress.ca/webapp/sitepages/">Stirling - Community Press</option>
-  <option value="http://www.thesudburystar.com/webapp/sitepages/">Sudbury - Sudbury Star</option>
-  <option value="http://thorold.niagaracommunitynewspapers.com/webapp/sitepages/">Thorold - Thorold News</option>
-  <option value="http://www.timminspress.com/webapp/sitepages/">Timmins - Daily Press</option>
-  <option value="http://www.trentonian.ca/webapp/sitepages/">Trenton - Trentonian</option>
-  <option value="http://www.thewallaceburgnews.ca/">Wallaceburg - Wallaceburg News</option>
-  <option value="http://www.wellandtribune.ca/webapp/sitepages/">Welland - Tribune</option>
-  <option value="http://welland.niagaracommunitynewspapers.com/webapp/sitepages/">Welland - Welland News</option>
-</select>&nbsp;
-</p></td>
-  </tr>
-  
-</tbody></table>
-<table width="770" height="25" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><a href="http://ospreynewsnetwork.ca"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_01.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://www.ospreymedialp.com/subscriptions"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_02.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreyobituaries.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_03.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreywheels.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_04.gif" width="130" height="25" alt="" border="0"></a></td>
-		<td><a href="http://www.ospreyclassifiednetwork.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_05.gif" width="128" height="25" alt="" border="0"></a></td>
-		<td><a href="http://ospreycareers.com"><img src="http://library.ospreymedialp.com/omlpbar/images/omlpNetBar_06.gif" width="128" height="25" alt="" border="0"></a></td>
-	</tr>
-</tbody></table>
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="770">
-  <tbody><tr>
-    <td align="left">
-    	<a href="http://www.theobserver.ca/webapp/sitepages/"><img border="0" src="/npimages/www.theobserver.ca.gif" width="284" height="64"></a>
-    </td>
-    <td align="right">
-	<script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=364"></script>
-	</td>
-  </tr>
-</tbody></table>
-<br>
-<table cellpadding="0" border="0" cellspacing="0" width="770" background="/webapp/sitepages/images/h_dot.gif">
-	<tbody><tr>
-		<td align="left"><img src="/webapp/sitepages/images/h_dot.gif" border="0"></td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="770">
-  <tbody><tr>
-		<td><font face="Verdana" size="1">
-    
-		<a href="http://www.theobserver.ca/webapp/sitepages/">HOME</a>&nbsp;&gt;&nbsp;
-		<a href="http://www.theobserver.ca/webapp/sitepages/">THE SARNIA OBSERVER</a>
+document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!Top1?JX&XE&CAT=home&XE&city=Sarnia&state=ontario&newspaper=http://www.theobserver.ca"></scr'+'ipt>');// -->
+</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1625811103@Top1,x10,x15,Position3!Top1?JX&amp;XE&amp;CAT=home&amp;XE&amp;city=Sarnia&amp;state=ontario&amp;newspaper=http://www.theobserver.ca"></script>
 
-				&nbsp;&gt;&nbsp;NOTICES
-				&nbsp;&gt;&nbsp;PRIVACY STATEMENT</font></td>
-		<td align="right" valign="bottom">
-		Wednesday, May 23, 2007
-    	</td>
-  </tr>
-</tbody></table>
-<table cellpadding="0" border="0" cellspacing="0" width="770" background="/webapp/sitepages/images/h_dot.gif">
-	<tbody><tr>
-		<td align="left"><img src="/webapp/sitepages/images/h_dot.gif" border="0"></td>
-	</tr>
-</tbody></table>
-<table cellpadding="2" cellspacing="0" border="0">
-	<tbody><tr>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=366"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=367"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=368"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=369"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=370"></script></td>
-		<td><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=371"></script></td>
-	</tr></tbody></table>
-<br> 
-
-
-  <table border="0" width="770" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td width="112" nowrap="" valign="top">
-      	
-<script language="JavaScript">
-<!-- Begin
-function popUp_don(url) {
-	//sttng = '';
-	//window.open(url, "Donation", sttng);
-	window.open(url, "Donation", 'height=700,width=600,resizable=no,scrollbars=yes,toolbar=nolocation=no,menubar=no');
-}
-// End -->
-</script>
-
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Read The Observer</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Local+News&amp;catmainname=Read+The+Observer&amp;psttme=16">Local News
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Sports&amp;catmainname=Read+The+Observer&amp;psttme=16">Sports
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Editorial&amp;catmainname=Read+The+Observer&amp;psttme=16">Editorial
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Canada&amp;catmainname=Read+The+Observer&amp;psttme=16">Canada
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=United+States&amp;catmainname=Read+The+Observer&amp;psttme=16">United States
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=World&amp;catmainname=Read+The+Observer&amp;psttme=16">World
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Business&amp;catmainname=Read+The+Observer&amp;psttme=16">Business
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Advertorial&amp;catmainname=Read+The+Observer&amp;psttme=16">Advertorial
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Life&amp;catmainname=Read+The+Observer&amp;psttme=16">Life
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Entertainment&amp;catmainname=Read+The+Observer&amp;psttme=16">Entertainment
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Travel&amp;catmainname=Read+The+Observer&amp;psttme=16">Travel
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Advice%2FLeisure&amp;catmainname=Read+The+Observer&amp;psttme=16">Advice/Leisure
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Religion&amp;catmainname=Read+The+Observer&amp;psttme=16">Religion
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/content_list.asp?catname=Wheels&amp;catmainname=Read+The+Observer&amp;psttme=16">Wheels
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.ospreyclassifiednetwork.com/classifieds/?newspaper=Sarnia+Observer">Classifieds
-</a></td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">The Observer</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=About+Us&amp;catmainname=The+Observer&amp;psttme=9">About Us
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=Email+Addresses&amp;catmainname=The+Observer&amp;psttme=9">Email Addresses
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=Subscribe+and+SAVE&amp;catmainname=The+Observer&amp;psttme=12">Subscribe and SAVE
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=Circulation&amp;catmainname=The+Observer&amp;psttme=9">Circulation
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=Contests&amp;catmainname=The+Observer&amp;psttme=9">Contests
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://bayfest.theobserver.ca/">Bayfest Blog
-</a></td></tr></tbody></table>
-<br>
-		<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Publications</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=150+Years&amp;catmainname=Publications&amp;psttme=9">150 Years
-</a>
-</td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top">&nbsp;&nbsp;•&nbsp;</td><td><a href="http://www.theobserver.ca/webapp/sitepages/gencontent.asp?catname=Real+Estate&amp;catmainname=Publications&amp;psttme=9">Real Estate
-</a>
-</td></tr></tbody></table>
-
-<!----Start of Features Section-->
-	  <br>
-	  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#ffffff">Features</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	  <table border="0" cellspacing="0" cellpadding="0">
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Automotive&catmainname=Automotive">
-				Automotive</a></td>
-	 	 </TR>
-	 	 <tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Home&catmainname=Home">
-				Home</a></td>
-	 	 </TR-->
-	 	 
-	 	  <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/ospreyhealth/?pg=8605">Osprey Health Series</a></td>
-	 	 </tr-->
-	 	 
-	 	  <tbody><tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Osprey+Writers+Group&amp;catmainname=Osprey+Writers+Group">
-				Osprey Writers Group</a></td>
-	 	 </tr>
-	 	  <tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Ottawa+column&amp;catmainname=Ottawa+column">
-				Ottawa Column</a></td>
-	 	 </tr>
-	 	  <tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Queens+Park&amp;catmainname=Queens+Park">
-				Queen's Park Column</a> </td>
-	 	 </tr>
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top"><a href="/webapp/sitepages/feature.asp">Special 
-				Report</a></td>
-	 	 </TR-->
-	 	 <!--tr>
-	 		 <td valign="top">&nbsp;&nbsp;&#149;&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/content_list.asp?catname=Travel&catmainname=Travel">Travel</a><br>
-			</td>
-	 	 </TR-->
-	 	 
-	  </tbody></table>
-<!----End of Features Section-->
-
-
-<br>
-  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="5" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>
-                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-                  <tbody><tr>
-                    <td width="100%"><font color="#ffffff">Links</font></td>
-                  </tr>
-                </tbody></table></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-<table border="0" width="100%" cellspacing="0">
-
-   <tbody><tr>
-    <td width="100%">
-    	<table border="0" cellpadding="0" cellspacing="0">    			
-	  	<tbody><tr> 
-				<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-				<td valign="top">
-				<a href="/webapp/sitepages/linkcontent.asp?linkmenuname=Economic+Partnership&amp;catname=Economic+Partnership">Economic Partnership</a>
-			</td>
-    		</tr>
-
-  	<tr> 
-				<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-				<td valign="top">
-				<a href="/webapp/sitepages/linkcontent.asp?linkmenuname=Real+Estate&amp;catname=Real+Estate">Real Estate</a>
-			</td>
-    		</tr>
-
-
-		</tbody></table>
-		</td>
-	</tr>
+</div>
+        <div id="lbWeather"><div id="ctl00_Weather1_Weather" class="grsilo" onclick="document.location='http://www.theobserver.ca/weather.aspx'" style="cursor:pointer;">
 	
-</tbody></table>
-  <br>
+    <div class="content">
+        <div class="t"></div>
+        <div class="d">
+            <div id="currentweather">
+                <div id="cwIcon"><img id="ctl00_Weather1_WthrImg" src="http://www.theobserver.ca/Images/by_letter/b.gif" border="0"></div>
+                <div id="cwStatus">Currently -2 °C | Partly cloudy</div>
+                <div id="cwBy">Sarnia </div>
+            </div>
+        </div>
+    </div>
+    <div class="b"><div></div></div>
+
+</div></div>
+		<div class="spacer"></div>
+    </div>
+	<div id="topmediaseperator"></div>
+	<br>
+	<div id="topsection">
+		<div id="tswrapper">
+			<div id="tscontentcolumn">
+				<div class="tube">
+			
+					<div class="twoeqcol">
+						<a href="/"><img src="/images/www.theobserver.ca.gif" width="284" height="64" style="border-width: 0"></a>
+					</div>
+	
+					<div class="twoeqcol">
+	                    <div id="network">
+	                        <div id="networktop">		
+					            <select id="selectmenu" onchange="gotoPublication(this[this.selectedIndex].value)">
+
+  <option value="">Select an Osprey Publication:</option>
+
+  <option value="">&nbsp;</option>
+
+  <option value="">N E W S P A P E R S ----------------------------------------------</option>
 
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="5" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>
-                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-                  <tbody><tr>
-                    <td width="100%"><font color="#ffffff">Osprey Personals</font></td>
-                  </tr>
-                </tbody></table></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-<!--put on line 373 sitecontent.asp--><!--put on line 172 sitemenu.asp-->
-<table cellspacing="0" width="100%" border="0">
-  <tbody>
 
-    <tr>
-      <td>
-      <table border="0" cellpadding="0" cellspacing="0">
-      	<tbody><tr>
-			<td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-      		<td valign="top"><a href="http://sarnia.ospreypersonals.com">Osprey 
-            Personals</a>
-      		</td>
-      	</tr>
-	   </tbody></table>
-	  
-        </td>
-    </tr>
-    
+  <option value="http://www.bancroftthisweek.com/webapp/sitepages/">Bancroft - Bancroft this Week</option>
 
-  </tbody>
-</table>
+  <option value="http://www.thebarrieexaminer.com/">Barrie - Barrie Examiner</option>
 
-<!---OSPREY NEWS ARCHIVE---->
-	  
-	  		  	  <br>
-	  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-	    <tbody><tr>
-	          <td><table border="0" cellspacing="0" cellpadding="0">
-	    		<tbody><tr>
-	    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-	    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-	        		<td>
-	                <table border="0" cellspacing="0" width="100%" cellpadding="2">
-	                  <tbody><tr>
-	                    <td width="100%"><font color="#FFFFFF">Osprey News 
-						Archive Service</font></td>
-	                  </tr>
-	                </tbody></table>
-	                </td>
-				</tr>
-				</tbody></table></td>
-	    </tr>
-	  </tbody></table>
-	  <table border="0" cellspacing="0" cellpadding="0">
-	 	 <tbody><tr>
-	 		 <td valign="top">&nbsp;&nbsp;•&nbsp;</td>
-  	 		 <td valign="top">
-				<a href="/webapp/sitepages/archives.asp">
-				Archive Service</a></td>
-	 	 </tr>
-		</tbody></table>  
-<!---OSPREY NEWS ARCHIVE---->
-      </td>
-      <td><img src="/webapp/sitepages/images/spacer.gif" width="5"></td>
-      <td valign="top" width="468">
-      		
-<center><b><font face="Arial, Helvetica, Garmond" size="5">OSPREY MEDIA
-      GROUP LP</font>
-<font face="Arial, Helvetica, Garmond" size="2"><br>
-<br>
-<b style="mso-bidi-font-weight: normal">WEB-SITE PRIVACY POLICY</b></font></b></center><b>
-<p><font face="Arial, Helvetica, Garmond" size="1">Welcome to www.theobserver.ca (the "Site").</font>
+  <option value="http://www.barrysbaythisweek.com/webapp/sitepages/">Barry's Bay - Barry's Bay this Week</option>
+
+  <option value="http://www.intelligencer.ca/">Belleville - Intelligencer</option>
+
+  <option value="http://www.brantfordexpositor.ca/">Brantford - Expositor</option>
+
+  <option value="http://www.chathamdailynews.ca/">Chatham - Chatham Daily News</option>
+
+  <option value="http://www.northumberlandtoday.com/">Cobourg - Cobourg Daily Star</option>
+
+  <option value="http://www.northumberlandtoday.com/">Colborne - Colborne Chronicle</option>
+
+  <option value="http://www.theenterprisebulletin.com/">Collingwood - Enterprise Bulletin</option>
+
+  <option value="http://www.standard-freeholder.com/">Cornwall - Standard Freeholder</option>
+
+  <option value="http://www.voiceofthefarmer.com/webapp/sitepages/">Dresden - Voice of the Farmer</option>
+
+  <option value="http://www.dunnvillechronicle.com/webapp/sitepages/">Dunnville - Dunnville Chronicle</option>
+
+  <option value="http://www.elliotlakestandard.ca/webapp/sitepages/">Elliot Lake - Standard</option>
+
+  <option value="http://www.midnorthmonitor.com/webapp/sitepages/">Espanola - Mid-North Monitor</option>
+
+  <option value="http://www.forterietimes.ca/webapp/sitepages/">Fort Erie - Times</option>
+
+  <option value="http://www.gananoquereporter.com/webapp/sitepages/">Gananoque - Gananoque Reporter</option>
+
+  <option value="http://www.haliburtonecho.ca/webapp/sitepages/">Haliburton - Haliburton Echo</option>
+
+  <option value="http://www.thepost.on.ca/webapp/sitepages/">Hanover - The Post</option>
+
+  <option value="http://www.innisfilexaminer.ca/webapp/sitepages/">Innisfil - Innisfil Examiner</option>
+
+  <option value="http://www.kingstonthisweek.com/">Kingston - Kingston This Week</option>
+
+  <option value="http://www.thewhig.com/">Kingston - Kingston Whig Standard</option>
+
+  <option value="http://www.northernnews.ca/webapp/sitepages/">Kirkland Lake - Northern News</option>
+
+  <option value="http://www.thepost.ca/">Lindsay - The Lindsay Post</option>
+
+  <option value="http://www.markdalestandard.com/webapp/sitepages/">Markdale - Markdale Standard</option>
+
+  <option value="http://www.midlandfreepress.com/">Midland - Free Press</option>
+
+  <option value="http://www.mindentimes.ca/webapp/sitepages/">Minden - Minden Times</option>
+
+  <option value="http://www.napaneeguide.com/">Napanee - Napanee Guide</option>
+
+  <option value="http://www.niagaraadvance.ca/">Niagara-on-the-Lake - Niagara Advance</option>
+
+  <option value="http://www.niagarafallsreview.ca/">Niagara Falls - Review</option>
+
+  <option value="http://west.niagaracommunitynewspapers.com/webapp/sitepages/">Niagara Falls- W. Niagara Community Newspapers</option>
+
+  <option value="http://www.nugget.ca/">North Bay - North Bay Nugget</option>
+
+  <option value="http://www.northkentleader.com/webapp/sitepages/">North Kent - North Kent Leader</option>
+
+  <option value="http://www.orilliapacket.com/">Orillia - Packet and Times</option>
+
+  <option value="http://www.owensoundsuntimes.com/">Owen Sound - Sun Times</option>
+
+  <option value="http://www.thedailyobserver.ca/">Pembroke - Daily Observer</option>
+
+  <option value="http://www.thepeterboroughexaminer.com/">Peterborough - Peterborough Examiner</option>
+
+  <option value="http://www.petroliatopic.com/webapp/sitepages/">Petrolia - Petrolia Topic</option>
+
+  <option value="http://www.countyweeklynews.ca/webapp/sitepages/">Picton - County Weekly News</option>
+
+  <option value="http://www.northumberlandtoday.com/">Port Hope - Port Hope Evening Guide</option>
+
+  <option value="http://www.theobserver.ca/">Sarnia - Observer</option>
+
+  <option value="http://www.saultstar.com/">Sault Ste Marie - Sault Star</option>
+
+  <option value="http://www.saultthisweek.com/">Sault Ste Marie - Sault This Week</option>
+
+  <option value="http://stkitts.niagaracommunitynewspapers.com/webapp/sitepages/">St. Catharines - St. Catharines Shopping News</option>
+
+  <option value="http://www.stcatharinesstandard.ca/">St. Catharines - Standard</option>
+
+  <option value="http://www.communitypress.ca/webapp/sitepages/">Stirling - Community Press</option>
+
+  <option value="http://www.thesudburystar.com/">Sudbury - Sudbury Star</option>
+
+  <option value="http://thorold.niagaracommunitynewspapers.com/webapp/sitepages/">Thorold - Thorold News</option>
+
+  <option value="http://www.timminspress.com/">Timmins - Daily Press</option>
+
+  <option value="http://www.trentonian.ca/webapp/sitepages/">Trenton - Trentonian</option>
+
+  <option value="http://www.wellandtribune.ca/">Welland - Tribune</option>
+
+  <option value="http://welland.niagaracommunitynewspapers.com/webapp/sitepages/">Welland - Welland News</option>
+
+  
+
+  <option value="">&nbsp;</option>
+
+  <option value="">M A G A Z I N E S ---------------------------------------------------</option>
+
+  <option value="http://www.interiorsmagazine.ca">Central Ontario Interiors Magazine</option>
+
+  <option value="http://www.hamiltonmagazine.com">Hamilton Magazine</option>
+
+  <option value="http://www.kingstonlife.ca">Kingston Life</option>
+
+  <option value="http://www.muskokamagazine.com">Muskoka Magazine</option>
+
+  <option value="http://www.niagaramag.ca">Niagara Magazine</option>
+
+  <option value="http://www.golfontario.ca">Ontario Golf</option>
+
+  <option value="http://www.saultgoodlife.com">Sault Good Life</option>
+
+  <option value="http://www.simcoelife.ca">Simcoe Life</option>
+
+  <option value="http://www.thehomeshow.ca">The Home Show</option>
+
+</select>
+	                        </div>
+                            
+
+<div id="networkleft">
+    <ul class="networklist">
+        <li><a href="http://ospreycareers.com">Careers</a></li>
+        <li><a href="http://www.ospreyclassifiednetwork.com/classifieds/?newspaper=Sarnia+Observer">Classifieds</a></li>
+    </ul>
+</div>
+<div id="networkmid">
+    <ul class="networklist">
+        <li><a href="http://ospreyobituaries.com/?reg=27">Obituaries</a></li>
+        <li><a href="http://ospreywheels.com/">Wheels</a></li>
+    </ul>
+</div>
+<div id="networkright">
+    <ul class="networklist">
+        <li><a href="http://ospreynewsnetwork.ca/">Digital Edition</a></li>
+        <li><a href="http://shopping.theobserver.ca/">Shopping</a></li>
+    </ul>
+</div>
+	                    </div>
+					</div>
+					<div class="spacer"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="tsrightcolumn" style="cursor:pointer" onclick="window.location.href='/community/';"></div>
+		<div class="spacer"></div>
+	</div>
+
+
+
+	<div id="navsection">
+		<div id="nwrapper">
+			<div id="ncontentcolumn">
+				<div class="tube">
+					<div id="nptabs">
+						<table border="0" cellpadding="0" cellspacing="0" align="right">
+						<tbody><tr>
+							<td><img src="/images/nptoptabs_01.gif"></td><td id="tabsubscribe"><a href="/subscribe/">SUBSCRIBE</a></td><td><img src="/images/nptoptabs_02.gif"></td>
+							<td id="tabnpdate">Monday, December 10, 2007</td>
+							<td><img src="/images/nptoptabs_03.gif"></td>
+						</tr>
+						</tbody></table>
+						<div class="spacer"></div>
+					</div>
+					<div id="npNavL"><div id="npNavR"><ul id="firMenu" class="Menu"><li id="npNavNews"><a href="/CategoryList.aspx?id=619">News</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1724&amp;cname=Local News">Local News</a></li><li><a href="/SearchCat.aspx?cid=1725&amp;cname=Editorial">Editorial</a></li><li><a href="/SearchCat.aspx?cid=1752&amp;cname=Canada">Canada</a></li><li><a href="/SearchCat.aspx?cid=1726&amp;cname=World">World</a></li><li><a href="/SearchCat.aspx?cid=1407&amp;cname=Queen" s="" park'="">Queen's Park</a></li><li><a href="/SearchCat.aspx?cid=1924&amp;cname=Wheels">Wheels</a></li></ul></div></li><li id="npNavSports"><a href="/CategoryList.aspx?id=621">Sports</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1751&amp;cname=Sports">Sports</a></li><li><a href="/features/OHL/">OHL Corner</a></li></ul></div></li><li id="npNavBusiness"><a href="/CategoryList.aspx?id=624">Business</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1727&amp;cname=Business">Business</a></li></ul></div></li><li id="npNavArtsLife"><a href="/CategoryList.aspx?id=628">Arts/Life</a><div><ul class="subMenu"><li><a href="/SearchCat.aspx?cid=1728&amp;cname=Life">Life</a></li><li><a href="/SearchCat.aspx?cid=1729&amp;cname=Entertainment">Entertainment</a></li><li><a href="/SearchCat.aspx?cid=1947&amp;cname=Travel">Travel</a></li><li><a href="/SearchCat.aspx?cid=1730&amp;cname=Advice/Leisure">Advice/Leisure</a></li><li><a href="/SearchCat.aspx?cid=1946&amp;cname=Religion">Religion</a></li></ul></div></li><li id="npNavFeatures"><a href="/CategoryList.aspx?id=620">Features</a><div><ul class="subMenu"><li><a href="/genSearch1.aspx?cid=1247&amp;cname=150 Years">150 Years</a></li><li><a href="/genSearch1.aspx?cid=1248&amp;cname=Real Estate">Real Estate</a></li></ul></div></li><li id="npNavContactUs"><a href="/feedback1/contactdetailst.aspx">Contact Us</a><div><ul class="subMenu"><li><a href="/feedback1/Contactdetailst.aspx">Contact Publication</a></li><li><a href="/feedback1/Display.aspx">Feedback</a></li><li><a href="/genSearch1.aspx?cid=270&amp;cname=About Us">About Us</a></li><li><a href="/genSearch1.aspx?cid=551&amp;cname=Email Addresses">Email Addresses</a></li><li><a href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Web Advertising</a></li><li><a href="/genSearch1.aspx?cid=3585&amp;cname=Back Issues">Back Issues</a></li></ul></div></li></ul></div></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="nrightcolumn">
+			<div class="tube">
+					<div id="cmtabs">
+						<table border="0" cellpadding="0" cellspacing="0" align="right">
+						<tbody><tr>
+							<td><img src="/images/cmtoptabs_01.gif"></td>
+							<td id="tabcmsubmit"><a href="/account/?sir=1">SUBMIT</a></td>
+							<td><img src="/images/cmtoptabs_02.gif"></td>
+							<td id="tabcmjl">﻿<a href="/account/newuser.aspx">Join</a> 
+|
+<a href="/account/">Sign-In</a></td>
+							<td><img src="/images/cmtoptabs_03.gif"></td>
+						</tr>
+						</tbody></table>
+						<div class="spacer"></div>
+					</div>
+					<div id="cmNavL"><div id="cmNavR">
+					    <ul id="secMenu" class="Menu"><li id=""><a>Community</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=685&amp;catname=Local happenings">Local happenings</a></li><li><a href="/Community/Articles.aspx?id=686&amp;catname=Health">Health</a></li><li><a href="/Community/Articles.aspx?id=687&amp;catname=Lifestyles">Lifestyles</a></li><li><a href="/Community/Articles.aspx?id=688&amp;catname=General chatter">General chatter</a></li></ul></div></li><li id="cmNavSports"><a href="/CommunityCategoryList.aspx?id=11">Sports</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=689&amp;catname=Hockey">Hockey</a></li><li><a href="/Community/Articles.aspx?id=850&amp;catname=Sarnia Sting">Sarnia Sting</a></li><li><a href="/Community/Articles.aspx?id=851&amp;catname=Sarnia Junior B Blast">Sarnia Junior B Blast</a></li><li><a href="/Community/Articles.aspx?id=690&amp;catname=Baseball">Baseball</a></li><li><a href="/Community/Articles.aspx?id=691&amp;catname=High School Basketball">High School Basketball</a></li><li><a href="/Community/Articles.aspx?id=692&amp;catname=Football">Football</a></li><li><a href="/Community/Articles.aspx?id=693&amp;catname=Soccer">Soccer</a></li><li><a href="/Community/Articles.aspx?id=694&amp;catname=Golf">Golf</a></li><li><a href="/Community/Articles.aspx?id=695&amp;catname=Curling">Curling</a></li><li><a href="/Community/Articles.aspx?id=696&amp;catname=Lacrosse">Lacrosse</a></li><li><a href="/Community/Articles.aspx?id=697&amp;catname=Bowling">Bowling</a></li><li><a href="/Community/Articles.aspx?id=698&amp;catname=Recreation">Recreation</a></li><li><a href="/Community/Articles.aspx?id=699&amp;catname=Miscellaneous">Miscellaneous</a></li></ul></div></li><li id="cmNavChurches"><a href="/CommunityCategoryList.aspx?id=16">Churches</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=702&amp;catname=Christian">Christian</a></li><li><a href="/Community/Articles.aspx?id=703&amp;catname=Jewish">Jewish</a></li><li><a href="/Community/Articles.aspx?id=704&amp;catname=Muslim">Muslim</a></li><li><a href="/Community/Articles.aspx?id=705&amp;catname=Hindu">Hindu</a></li><li><a href="/Community/Articles.aspx?id=706&amp;catname=Buddhist">Buddhist</a></li></ul></div></li><li id="cmNavNonProfit"><a href="/CommunityCategoryList.aspx?id=17">Non Profit</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=700&amp;catname=Volunteer groups">Volunteer groups</a></li><li><a href="/Community/Articles.aspx?id=701&amp;catname=Activities">Activities</a></li></ul></div></li><li id="cmNavEntertainment"><a href="/CommunityCategoryList.aspx?id=12">Entertainment</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=707&amp;catname=Nightlife">Nightlife</a></li><li><a href="/Community/Articles.aspx?id=708&amp;catname=Art">Art</a></li><li><a href="/Community/Articles.aspx?id=709&amp;catname=Music">Music</a></li><li><a href="/Community/Articles.aspx?id=710&amp;catname=TV">TV</a></li><li><a href="/Community/Articles.aspx?id=711&amp;catname=Movies">Movies</a></li><li><a href="/Community/Articles.aspx?id=712&amp;catname=Gaming">Gaming</a></li><li><a href="/Community/Articles.aspx?id=713&amp;catname=Theatre">Theatre</a></li><li><a href="/Community/Articles.aspx?id=714&amp;catname=Museum">Museum</a></li><li><a href="/Community/Articles.aspx?id=715&amp;catname=Books &amp; literature">Books &amp; literature</a></li><li><a href="/Community/Articles.aspx?id=716&amp;catname=Hobbies">Hobbies</a></li><li><a href="/Community/Articles.aspx?id=717&amp;catname=Just for fun">Just for fun</a></li><li><a href="/Community/Articles.aspx?id=718&amp;catname=Miscellaneous">Miscellaneous</a></li><li><a href="/Community/Articles.aspx?id=719&amp;catname=Festivals">Festivals</a></li></ul></div></li><li id="cmNavSchools"><a href="/CommunityCategoryList.aspx?id=14">Schools</a><div><ul class="subMenu"><li><a href="/Community/Articles.aspx?id=720&amp;catname=Elementary">Elementary</a></li><li><a href="/Community/Articles.aspx?id=721&amp;catname=Secondary School">Secondary School</a></li><li><a href="/Community/Articles.aspx?id=722&amp;catname=College">College</a></li><li><a href="/Community/Articles.aspx?id=723&amp;catname=University">University</a></li><li><a href="/Community/Articles.aspx?id=724&amp;catname=Adult Education">Adult Education</a></li><li><a href="/Community/Articles.aspx?id=725&amp;catname=Other">Other</a></li></ul></div></li></ul>
+					    
+					</div></div>
+			</div>
+		</div>
+		<div class="spacer"></div>
+	</div>
+
+	
+	<div id="contentwrapper">
+		<div id="contentcolumn">
+			<div id="cctube">
+			
+			    <div class="bFade">
+			        <div class="rght">
+			            <div class="tube">
+                            <div id="inHead">
+                                
+    <h1>Privacy</h1>
+    <ul id="breadcrumb">
+        <li>
+            <a id="ctl00_MainContentTop_HyperLink2" href="./">Home</a>
+        </li>
+        <li>
+            Privacy
+        </li>
+
+    </ul>
+
+
+                            </div>
+                            <div id="inTopMedia"><script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=364"></script></div>
+                            <div class="spacer"></div>
+		                </div>
+			        </div>
+			    </div>
+
+                <div class="toptube">
+                    <div id="inBody">
+                    
+                        
+
+
+        <div id="inTitle">
+<h2>Osprey Media.</h2>
+<h3>WEB-SITE PRIVACY POLICY</h3>
+</div>
+
+<p>Welcome to www.theobserver.ca (the "Site").
 </p><blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We understand that privacy online is important to users of our Site, especially
+  <p>We understand that privacy online is important to users of our Site, especially
 when conducting business.<br>
 This statement governs our privacy policies with respect to those users of the
 Site ("Visitors") who visit without<br>
 transacting business and Visitors who register to transact business on the Site
 and make use of the various services offered by www.theobserver.ca
 (collectively, "Services") ("Authorized Customers").<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-"Personally Identifiable Information"</font>
+<p>
+"Personally Identifiable Information"
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">refers to any information that identifies or can be used to identify, contact,
+  <p>refers to any information that identifies or can be used to identify, contact,
 or locate the person to whom such information pertains, including, but not
 limited to, name, address, phone number, fax number, email address, financial
 profiles, social security number, and credit card information. Personally
 Identifiable Information does not include information that is collected
 anonymously (that is, without identification of the individual user)
 or demographic information not connected to an identified individual.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-What Personally Identifiable Information is collected?</font>
+<p>
+What Personally Identifiable Information is collected?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We may collect basic user profile information from all of our Visitors. We
+  <p>We may collect basic user profile information from all of our Visitors. We
 collect the following additional information from our Authorized Customers: the
 names, addresses, phone numbers and email addresses of Authorized Customers, the
 nature and size of the business, and the nature and size of the advertising
 inventory that the Authorized Customer intends to purchase or sell.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-What organizations are collecting the information?</font>
+<p>
+What organizations are collecting the information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">In addition to our direct collection of information, our third party service
+  <p>In addition to our direct collection of information, our third party service
 vendors (such as credit card companies, clearinghouses and banks) who may
 provide such services as credit, insurance, and escrow services may collect this
 information from our Visitors and Authorized Customers. We do not control how
@@ -691,88 +432,88 @@ they use personal information provided to them from Visitors and Authorized
 Customers. Some of these third parties may be intermediaries that act solely as
 links in the distribution chain, and do not store, retain, or use the
 information given to them.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does the Site use Personally Identifiable Information?</font>
+<p>
+How does the Site use Personally Identifiable Information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We use Personally Identifiable Information to customize the Site, to make
+  <p>We use Personally Identifiable Information to customize the Site, to make
 appropriate service offerings, and to fulfill buying and selling requests on the
 Site. We may email Visitors and Authorized Customers about research or purchase
 and selling opportunities on the Site or information related to the subject
 matter of the Site. We may also use Personally Identifiable Information to
 contact Visitors and Authorized Customers in response to specific inquiries, or
 to provide requested information.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-With whom may the information may be shared?</font>
+<p>
+With whom may the information may be shared?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Personally Identifiable Information about Authorized Customers may be shared
+  <p>Personally Identifiable Information about Authorized Customers may be shared
 with other Authorized Customers who wish to evaluate potential transactions with
 other Authorized Customers. We may share aggregated information about our
 Visitors, including the demographics of our Visitors and Authorized Customers,
 with our affiliated agencies and third party vendors. We also offer the
 opportunity to "opt out" of receiving information or being contacted
 by us or by any agency acting on our behalf.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How is Personally Identifiable Information stored?</font>
+<p>
+How is Personally Identifiable Information stored?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Personally Identifiable Information collected by www.theobserver.ca is
+  <p>Personally Identifiable Information collected by www.theobserver.ca is
 securely stored and is not accessible to third parties or employees of
 www.theobserver.ca except for use as indicated above.
 <br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 What choices are available to Visitors regarding collection, use and
-distribution of the information?</font>
+distribution of the information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">
+  <p>
 Visitors and Authorized Customers may opt out of receiving unsolicited
 information from or being contacted by us and/or our vendors and affiliated
 agencies by responding to emails as instructed, or by contacting us at <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a><br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-Are Cookies Used on the Site?</font>
+<p>
+Are Cookies Used on the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Cookies are used for a variety of reasons. We use Cookies to obtain information
+  <p>Cookies are used for a variety of reasons. We use Cookies to obtain information
 about the preferences of our Visitors and the services they select. We also use
 Cookies for security purposes to protect our Authorized Customers. For example,
 if an Authorized Customer is logged on and the site is unused for more than 10
 minutes, we will automatically log the Authorized Customer off.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does www.theobserver.ca use login information?</font>
+<p>
+How does www.theobserver.ca use login information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">www.theobserver.ca uses login information, including, but not limited to,
+  <p>www.theobserver.ca uses login information, including, but not limited to,
 IP addresses, ISPs, and browser types, to analyze trends, administer the Site,
 track a user's movement and use, and gather broad demographic information.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 What partners or service providers have access to Personally Identifiable
-Information from Visitors and/or Authorized Customers on the Site?</font>
+Information from Visitors and/or Authorized Customers on the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">www.theobserver.ca has entered into and will continue to enter into
+  <p>www.theobserver.ca has entered into and will continue to enter into
 partnerships and other affiliations with a number of vendors.<br>
 Such vendors may have access to certain Personally Identifiable Information on a
 need to know basis for evaluating Authorized Customers for service eligibility.<br>
@@ -783,14 +524,14 @@ order or subpoena or a request from a law enforcement agency to release
 information. We will also disclose Personally Identifiable Information when
 reasonably necessary to protect the safety of our Visitors and Authorized
 Customers.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-How does the Site keep Personally Identifiable Information secure?</font>
+<p>
+How does the Site keep Personally Identifiable Information secure?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">All of our employees are familiar with our security policy and practices. The
+  <p>All of our employees are familiar with our security policy and practices. The
 Personally Identifiable Information of our Visitors and Authorized Customers is
 only accessible to a limited number of qualified employees who are given a
 password in order to gain access to the information. We audit our security
@@ -801,26 +542,26 @@ commercially reasonable measures to maintain a secure site, electronic
 communications and databases are subject to errors, tampering and break-ins, and
 we cannot guarantee or warrant that such events will not take place and we will
 not be liable to Visitors or Authorized Customers for any such occurrences.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 How can Visitors correct any inaccuracies in Personally Identifiable
-Information?</font>
+Information?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">Visitors and Authorized Customers may contact us to update Personally
+  <p>Visitors and Authorized Customers may contact us to update Personally
 Identifiable Information about them or to correct any inaccuracies by emailing
 us at <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a><br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
+<p>
 Can a Visitor delete or deactivate Personally Identifiable Information
-collected by the Site?</font>
+collected by the Site?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We provide Visitors and Authorized Customers with a mechanism to
+  <p>We provide Visitors and Authorized Customers with a mechanism to
 delete/deactivate Personally Identifiable Information from the Site's database
 by contacting <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a>.
 However, because of backups and records of deletions, it may be impossible to
@@ -829,269 +570,214 @@ individual who requests to have Personally Identifiable Information deactivated
 will have this information functionally deleted, and we will not sell, transfer,
 or use Personally Identifiable Information relating to that individual in any
 way moving forward.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">What happens if the Privacy Policy Changes?</font>
+<p>What happens if the Privacy Policy Changes?
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">We will let our Visitors and Authorized Customers know about changes to our
+  <p>We will let our Visitors and Authorized Customers know about changes to our
 privacy policy by posting such changes on the Site. However, if we are changing
 our privacy policy in a manner that might cause disclosure of Personally
 Identifiable Information that a Visitor or Authorized Customer has previously
 requested not be disclosed, we will contact such Visitor or Authorized Customer
 to allow such Visitor or Authorized Customer to prevent such disclosure.<br>
-  </font>
+  
   </p>
 </blockquote>
-<p><font face="Arial, Helvetica, Garmond" size="1">
-Links:</font>
+<p>
+Links:
 </p>
 <blockquote>
-  <p><font face="Arial, Helvetica, Garmond" size="1">This web site contains links to other web sites. Please note that when you click
+  <p>This web site contains links to other web sites. Please note that when you click
 on one of these links, you are moving to another web site. We encourage you to
 read the privacy statements of these linked sites as their privacy policies may
 differ from ours.<br>
-  </font>
+  
   </p></blockquote>
-  <p><u><font face="Arial, Helvetica, Garmond">Contacting the Privacy Manager</font></u><br>
+  <p><u>Contacting the Privacy Manager</u><br>
 
-  <font face="Arial" size="2">The Privacy Manager</font><br>
-  <font face="Arial" size="2">Osprey Media</font><br>
-  <font face="Arial" size="2">100 Renfrew Drive, Suite 110</font><br>
-  <font face="Arial" size="2">Markham</font>,<font face="Arial" size="2">Ontario</font><br>
-  <font face="Arial" size="2">L3R 9R6</font><br>
-  <font face="Arial" size="2">905-752-1132 Ext 251</font><br>
-  <font face="Arial" size="2"><a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a></font>
+  The Privacy Manager<br>
+  Osprey Media<br>
+  100 Renfrew Drive, Suite 110<br>
+  Markham,Ontario<br>
+  L3R 9R6<br>
+  905-752-1132 Ext 251<br>
+  <a href="mailto:privacy@ospreymedialp.com">privacy@ospreymedialp.com</a>
 
-</p><p align="left"><font face="Arial,Helvitica,Garmond" size="1">Any rights not expressly granted herein are reserved.<br>
-<font face="Arial, Helvetica, Garmond" size="1">© 2007www.theobserver.ca , All rights
+</p><p align="left">Any rights not expressly granted herein are reserved.<br>
+© 2007 www.theobserver.ca, All rights
 reserved.
 Unauthorized duplication or publication of any materials from this Site is
-expressly prohibited.</font>
+expressly prohibited.
 
-</font></p><hr noshade="" size="1" color="#C0C0C0"><font face="Arial,Helvitica,Garmond" size="1">
-      </font><font face="Arial,Helvitica,Garmond" size="1"><!-- Webmaster please do not remove the below code -->
+</p><hr noshade="" size="1" color="#C0C0C0">
+      <!-- Webmaster please do not remove the below code -->
 <!-- We would like to keep our utilities free. -->
 <!-- Thank you! -->COPYRIGHT NOTICE.© 1999-2007 <a href="http://209.204.219.152">PriorityDigital.com</a>
       Prepared for: www.theobserver.ca  ,All rights reserved.
-      </font></b></td>
-      <td>
-	<img src="/webapp/sitepages/images/spacer.gif" width="5"></td>
-      <td width="150" nowrap="" valign="top">
-   	      	
-<script>
-<!--
-function
-cedromSrch(form) {
-var cedromUrl = "search/archive_results.asp";
 
-	if (form.srchWhere[1].checked) {
-		form.action = cedromUrl + "?text=" + form.txtKeyword.value;
-	} else {
-		form.action = "/webapp/sitepages/search/search.asp";	
-	}
+                        
+                        
+                        <br>
+                        <br>
+                        <div class="toptube">
+                            <script type="text/javascript" src="http://www.canoeklix.com/ads/js/encode?src=ospreyobserver:news&amp;n=5&amp;ie=detect&amp;oe=detect&amp;lg=en&amp;bw=1&amp;hl=1&amp;wh=468"></script>
+                        </div>
+			           
+                    </div>
+                    
+                    <div id="inSideMedia">
+                        
+<div id="quick_search" class="toptube">
+					<div class="blueo">
+						<div class="content">
+							<div class="t"></div>
+							<div class="d">
 
-	return true;
-}
--->
-</script>
+                    <div class="toptube">
+                        <input name="ctl00$SearchBox$SearchBox" type="text" id="ctl00_SearchBox_SearchBox" class="qksrch">
+                        <input name="ctl00$SearchBox$HiddenBox" type="text" id="ctl00_SearchBox_HiddenBox" style="visibility:hidden;display:none;">
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton1" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton1" checked="checked"><label for="ctl00_SearchBox_RadioButton1">Past 7 days - FREE</label></span><br>
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton2" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton2"><label for="ctl00_SearchBox_RadioButton2">Archive Service</label></span><br>
+                        <span class="qksrchrad"><input id="ctl00_SearchBox_RadioButton3" type="radio" name="ctl00$SearchBox$sg_chk" value="RadioButton3"><label for="ctl00_SearchBox_RadioButton3">UR Sarnia</label></span>
+                        <div class="toptube aCenter"><input type="submit" name="ctl00$SearchBox$SearchButton" value="Search" id="ctl00_SearchBox_SearchButton" class="qksrchbtn"></div>
+                    </div>
+	
+							</div>
+						</div>
+						<div class="b"><div></div></div>
+					</div>
+					
+</div>
 
-<form method="post" action="/webapp/sitepages/search/search.asp" onsubmit="return cedromSrch(this);">
-	<table border="0" width="24%" id="table1" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="113">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000" id="table2">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0" id="table3">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000">
-				<img src="../includes/images/spacer.gif" width="5" height="1"></td>
-    			<td bgcolor="#ffffff">
-				<img src="../includes/images/spacer.gif" width="1" height="1"></td>
-        		<td><font color="#FFFFFF">&nbsp;Article Search</font><font size="2" face="arial,helvetica,verdana,sans-serif" color="#ffffff"></font></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>		
-              </td>
-			<td bgcolor="#000000"></td>
-		</tr>
-		<tr>
-			<td width="113">
-			<p align="left">
-			<input type="text" name="txtKeyword" size="15"></p></td>
-			<td>
-			<input type="submit" value="Search" name="butSearch" style="font-size: 10px"></td>
-		</tr>
-		</tbody></table>
-		
-		<table border="0" width="100%" id="table5" cellspacing="0" cellpadding="0"> 
-		<tbody><tr>
-			<td>
-			<input type="radio" name="srchWhere" value="1" checked="">Past 7 days - FREE
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<input type="radio" name="srchWhere" value="0">Archive Service
-			</td>
-		</tr>
-		</tbody></table>
-	<input type="hidden" name="txtdays" value="7">
-	<input type="hidden" name="np_search" value="www.theobserver.ca">
-</form>
-  <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><table border="0" cellspacing="0" cellpadding="0">
-    		<tbody><tr>
-    			<td bgcolor="#ff0000"><img src="images/spacer.gif" width="6" height="1"></td>
-    			<td bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1"></td>
-        		<td>&nbsp;<font color="#ffffff">Special Interest</font></td>
-			</tr>
-			</tbody></table></td>
-    </tr>
-  </tbody></table>
-<table border="0" cellspacing="0" width="100%" cellpadding="0">
-		<tbody><tr>
-		<td>
-
-		
-			• <a href="/webapp/sitepages/readerservices/dealeroutlets.asp?catmainname=Reader+Services&amp;catname=Single+Copy+Outlets">Single Copy Outlets</a>
-    	<br>
-    	
-			• <a href="/webapp/sitepages/readerservices/subscribe.asp?catname=Subscribe&amp;catmainname=Reader+Services">Subscribe</a>
-    	<br>
-		
-			• <a href="/webapp/sitepages/contact.asp?catname=Contact&amp;catmainname=Reader+Services">Contacts</a>
-    	<br>
-		
-		</td>
-		</tr>
-</tbody></table>
+                        
 
 
-
-
-<p align="center">
-
-      
-			<table cellspacing="0" cellpadding="0" width="100%" border="0" background="/webapp/sitepages/images/h_dot.gif">
-    			<tbody><tr>
-        		  <td><img src="/webapp/sitepages/images/spacer.gif" height="1" width="1"></td>
-    			</tr>
-			</tbody></table>
-			<br>
-            
-<iframe width="150" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/webapp/sitepages/includes/weather.asp?city=CAON0601">
-</iframe>
-
-                <!--<IFRAME WIDTH=150 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="/webapp/sitepages/includes/weather.asp?city=CAON0601">
-                </IFRAME>-->
-
-              <table border="0" width="100%" cellpadding="0" cellspacing="0">
-                
-                <tbody><tr>
-                	<td align="center" valign="top"><br>
-                <center>
-
-    <!--include virtual = "/webapp/sitepages/includes/ohl_sports_side_ads.asp" -->
-
-<script type="text/javascript" language="JavaScript1.1">
+			            <div class="kestrel aCenter">
+				            <script type="text/javascript" src="http://kestrel.ospreymedialp.com/JBSPro/files/JBSPro.asp?JS=1&amp;Z=749"></script>
+			            </div>
+			            
+			            <div class="toptube aCenter">
+				            
+			            </div>
+			            
+			            
+			
+			            <div class="toptube aCenter">
+				            <script type="text/javascript" language="JavaScript1.1">
 <!-- Osprey-Media@Wide Skyscraper (160x600 and 120x600)
 if (typeof OAS_rns == "undefined") OAS_rns = new String (Math.random()).substring(2, 11);
-document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!x10?JX&XE&CAT=privacystatement&XE&city=sarnia&state=ontario&newspaper=www.theobserver.ca"></scr'+'ipt>');
+document.write('<scr'+'ipt LANGUAGE="JavaScript1.1" SRC="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1'+OAS_rns+'@Top1,x10,x15,Position3!x10?JX&XE&CAT=home&XE&city=Sarnia&state=ontario&newspaper=http://www.theobserver.ca"></scr'+'ipt>');
 // -->
-</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1645172306@Top1,x10,x15,Position3!x10?JX&amp;XE&amp;CAT=privacystatement&amp;XE&amp;city=sarnia&amp;state=ontario&amp;newspaper=www.theobserver.ca"></script>
-</center>
-                	</td>
-                </tr>
-                
-              </tbody></table>
-		</p></td>
-	  </tr>
-	</tbody></table>
-<br>
+</script><script language="JavaScript1.1" src="http://network-ca.247realmedia.com/RealMedia/ads/adstream_jx.ads/Osprey-Media/1625811103@Top1,x10,x15,Position3!x10?JX&amp;XE&amp;CAT=home&amp;XE&amp;city=Sarnia&amp;state=ontario&amp;newspaper=http://www.theobserver.ca"></script>
+			            </div>
+			            
+                    </div>
+                    <div class="spacer"></div>
+                </div>
+			</div>
+		</div>
+	</div>
 
-<table cellspacing="0" cellpadding="3" width="770" border="0" bgcolor="#ff0000">
-    <tbody><tr>
-      <td width="55%">
+	<div id="rightcolumn">
+		<div id="rctube">
+		
 
-        <font size="1" face="verdana">
-        <a href="/webapp/sitepages/gencontent.asp?disclaimer=1&amp;catname=Web+Site+Disclaimer&amp;catmainname=Notices" class="footerlink">Disclaimer</a> 
-        <font color="#ffffff">•</font>
-        <a href="/webapp/sitepages/gencontent.asp?privacy=1&amp;catname=Privacy+Statement&amp;catmainname=Notices" class="footerlink">Privacy</a><font color="#ffffff"> •</font>
-        <a class="footerlink" target="_blank" href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Website Advertising Opportunities</a><font color="#ffffff"> •</font>
-        <a href="/webapp/sitepages/newsfeedsignup.asp"><font color="#ffffff">Osprey News Feed</font></a>
-        </font>
-      </td>
-      <td width="43%">
-        <p align="right"><font color="#ffffff">© 2007, Osprey Media
-        </font>
-      </p></td>
-    </tr>
+            <div class="gSilo">
+	            <div class="rt"></div>
+	            <div class="tube">
+
+							
+                        <div id="ctl00_fpComNewsBlogs">
+	
+							<div class="subcontent">
+								<div id="subcontentnb">
+								    <a href="/community/default.aspx"><img src="/images/cmonbsm.gif" width="156" height="40" style="border: 0"></a>
+								</div>
+								<div class="subcontentbody">
+								<div class="tube">
+                                    <div id="fpCMArticles"><ul id="fpCMArticleList"><li><a href="/Community/NewsDisplay.aspx?c=1916">404 Townhouse Youth Drop-in Centre</a><p class="fpArticleBody">Mondato Thursday: 3:00 to 9:00 p.m. Friday: 3:00 to 5:30 p.m.  Lochiel Kiwanis Centre 18North College Avenue Sarnia, Ontario Lower  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=BoysandGirls">BoysandGirls</a> | <a href="/Community/NewsDisplay.aspx?c=1916&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=1017">LRW 154th Anniversary Service </a><p class="fpArticleBody">Octobe21st, 2007 10:00am  at London Road West United Church, 2092 London Line, Sarnia, Ontario Special Guest Speaker-Rev. Gary Parker Lunch and Fellowship  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=LondonChurch">LondonChurch</a> | <a href="/Community/NewsDisplay.aspx?c=1017&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=639">The Boys and Girls Club of Sarnia/Lambton</a><p class="fpArticleBody">Coop/Vo<wbr>lunteepositions are available.Must enjoy working with children.  First Aid/CPR is considered an asset.  Successful candidates will work all programs the Club  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=BoysandGirls">BoysandGirls</a> | <a href="/Community/NewsDisplay.aspx?c=639&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=420">Volunteer Information Session</a><p class="fpArticleBody">The Sexual Assault Survivors' Centre is looking for some new volunteers.  If you are a mature, non-judgemental<wbr>good listener - this may be for  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=SAsurvivors">SAsurvivors</a> | <a href="/Community/NewsDisplay.aspx?c=420&amp;#threads">Comments</a></p></li><li><a href="/Community/NewsDisplay.aspx?c=419">TAKE BACK THE NIGHT</a><p class="fpArticleBody">September 20, 2007, 7:30 p.m.  Hosted by the Sexual Assault Survivors' Centre Sarnia-Lambton. This national event is to bring awareness about sexual violence to  [...]</p><p class="fpArticlePostedBy">Posted by <a href="/Account/Profile.aspx?un=SAsurvivors">SAsurvivors</a> | <a href="/Community/NewsDisplay.aspx?c=419&amp;#threads">Comments</a></p></li></ul></div><div id="fpCMBlogs"><ul id="fpBlogList"><li><a href="http://www.theobserver.ca/Blogs/ViewCommunityPage.aspx?BlogID=69">10 Steps to End Violence Against Women</a><p class="fpBlogBody">Step It Up Ontario  1. Understand that violence aganist women is an equality rights issue.  2. Recognize that male power is upheld by [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.theobserver.ca/Account/profile.aspx?un=SexualSurvivors">SexualSurvivors</a> | <a href="http://www.theobserver.ca/blogs/ViewCommunityPage.aspx?BlogID=69&amp;#threads">Comments</a></p></li><li><a href="http://www.theobserver.ca/Blogs/ViewCommunityPage.aspx?BlogID=56">How will the Sting do this year?</a><p class="fpBlogBody">How will the Sting do this season? On paper this team appears ready to make some noise this season.It would be a pleasure to see [...]</p><p class="fpBlogPostedBy">Posted by <a href="http://www.theobserver.ca/Account/profile.aspx?un=rhilts">rhilts</a> | <a href="http://www.theobserver.ca/blogs/ViewCommunityPage.aspx?BlogID=56&amp;#threads">Comments</a></p></li></ul></div>
+                                </div>
+								</div>
+								<div class="subcontentfooter"></div>
+							</div>
+                        
+</div>
+                            <div class="toptube">
+				                    
+                            <div class="spacer"></div>
+                        </div>
+						<div class="toptube subcontent">
+							<div id="subcontentpv">
+							    <a href="http://myphotos.theobserver.ca/"><img src="/images/cmopvsm.gif" );="" width="156" height="40" border="0"></a>
+							</div>
+							<div class="subcontentbody">
+								<div class="tube">
+								 
+								 <table id="ctl00_PGal1_DataList1" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td>
+        <div style="text-align:center">
+            <a id="ctl00_PGal1_DataList1_ctl00_HyperLink1" href="http://myphotos.theobserver.ca/mycapture/photos/Album.aspx?EventID=327764&amp;CategoryID=32880"><img id="ctl00_PGal1_DataList1_ctl00_Image1" src="http://myphotos.theobserver.ca/PHOTOS/SARO/1UserPhotos/141161T.jpg" border="0"><br>
+                Movies</a>
+        </div>
+    </td><td></td><td></td><td></td>
+	</tr>
 </tbody></table>
-<table cellspacing="0" cellpadding="0" width="770" border="0" bgcolor="#000000">
-    <tbody><tr>
-          <td><img src="images/spacer.gif" height="5" width="1"></td>
-    </tr>
-</tbody></table>
+					         
+								</div>
+							</div>
+							<div class="subcontentfooter"></div>
+						</div>
+						
+						<div class="toptube">
+							<a href="/account/?sir=1&amp;continue=%2fAccount%2fAlerts.aspx"><img src="/images/signupfor.gif" width="156" height="100" border="0"></a>
+						</div>
 
 
-<style>
-.p2wTxt, .p2wTxtTop, .p2wTxt a, .p2wTxt a:link, .p2wTxt a:visited, .p2wTxt a:hover {
-	font-size: 10px;
-	color: #777777;
-}
+						<div class="toptube">
+							<a href="javascript:PopUp('/Account/Help/iconlegend.html', 500, 400);"><img src="/images/whaticons.gif" width="156" height="100" border="0"></a>
+						</div>
 
-.p2wTxtTop{
-	padding-top: 5px;
-	font-weight: bold
-}
 
-.p2wVertBar {
-	border-left: 1px dotted #aaaaaa;
-	background-color: #ffffff;
-}
-</style>
+						<div class="toptube">
+							<div class="subcontent">
+								<div id="subcontentcc">
+								    <a href="/Calendar/DisplayEvents.aspx"><img src="/images/cmoccsm.gif" width="156" height="40" style="border: 0"></a>
+								</div>
+								<div id="cmEventsPreview" class="subcontentbody">
+									<div class="tube"><div class="rightsep twoeqcol"><ul class="fpCal"><li><div class="fpCalBg"><h5><a href="http://www.theobserver.ca/Calendar/DisplayEvents.aspx?date=12%2f10%2f2007" style="color:#0c7700">Today</a></h5></div></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=1642&amp;calsel=12%2f10%2f2007">A Victorian Christmas</a></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=505&amp;calsel=12%2f10%2f2007">Boys and Girls Club of Sarnia/Lambton</a></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=804&amp;calsel=12%2f10%2f2007">Junior Leaders</a></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=2129&amp;calsel=12%2f10%2f2007">Spelling Bee Registration</a></li></ul></div><div class="twoeqcol"><ul class="fpCal"><li><div class="fpCalBg"><h5><a href="http://www.theobserver.ca/Calendar/DisplayEvents.aspx?date=12%2f11%2f2007" style="color:#0c7700">Dec. 11, 2007</a></h5></div></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=1983&amp;calsel=12%2f11%2f2007">An Old Fashioned Christmas</a></li><li><div class="fpCalBg"><h5><a href="http://www.theobserver.ca/Calendar/DisplayEvents.aspx?date=12%2f14%2f2007" style="color:#0c7700">Dec. 14, 2007</a></h5></div></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=335&amp;calsel=12%2f14%2f2007">The Boys and Girls Club of Sarnia/Lambton Dance</a></li><li><div class="fpCalBg"><h5><a href="http://www.theobserver.ca/Calendar/DisplayEvents.aspx?date=12%2f17%2f2007" style="color:#0c7700">Dec. 17, 2007</a></h5></div></li><li><a href="http://www.theobserver.ca/Calendar/Info.aspx?c=2027&amp;calsel=12%2f17%2f2007">Theatre Sarnia presents The Lion, The Witch and The Wardrobe</a></li></ul></div></div>
+									<div class="spacer"></div>
+								</div>
+								<div class="subcontentfooter"></div></div>
+						</div>
+						
 
-</td>
-<td width="10"><img src="/webapp/images/spacer.gif" width="10" height="1"></td>
-<td style="padding: 5px" class="p2wVertBar" width="170" valign="top" align="left">
-<a href="http://shopping.theobserver.ca"><img src="/webapp/images/7dayshopdir.gif" border="0" width="170" height="85"></a><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Apparel &amp; Jewelry</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62436930_20070521" title="London's Trade Center - Great Buys">Bob Martin's Golf &amp; Fashions</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Automotive &amp; Vehicles</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62471912_20070521" title="Are You In?">Parklane Chev. Cadillac Ltd.</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62472953_20070518" title="A To Z Event Sign &amp; Drive Lease">Sarnia Nissan</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Charity &amp; Volunteer Groups</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62474233_20070518" title="Seeking Volunteer Community Representatives">Community Care Access Centre</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Employment &amp; Staffing</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62473953_20070518" title="Mutual Funds Representative">Ing</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Funeral Homes &amp; Cemeteries</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62432838_20070518" title="Your Family Matters">D.j. Robb Funeral Home Ltd.</a></td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62472779_20070518" title="Planning Ahead Is A Gift Of Love">Lakeview Cemetery &amp; Crematorium</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Lawn &amp; Garden</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62471006_20070516" title="Helping You">Southshore Landscape Garden Centre</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Medical &amp; Pharmacy</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62459743_20070517" title="Are You Tired Of Hot Flushes And Night Sweats?">London Road Diagnostic Clinic</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Pools &amp; Spas</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62473231_20070517" title="One Stop Shopping For All Your Pool Needs">Aqua Pools, Patios &amp; Spas</a></td></tr>
-<tr><td class="p2wTxtTop" colspan="2" style="padding-top: 5px;">Travel &amp; Hotels</td></tr>
-<tr><td valign="top" class="p2wTxt">•&nbsp;</td>
-<td valign="top" class="p2wTxt"><a href="http://shopping.theobserver.ca/marketplace/SarniaObserver/main/Lookup.aspx?io=62472768_20070518" title="Canada Wide Seats On Sale">Travel Discountrers</a></td></tr>
-</tbody></table>
+						<div class="toptube">
+							<a href="http://shopping.theobserver.ca/"><img src="/images/cmo7daysm.gif" width="156" height="100" border="0"></a>
+						</div>
 
-</td></tr></tbody></table></center>
+
+
+	            </div>
+	            <div class="lb"><div class="rb"></div></div></div></div>
+	</div>
+	<div class="spacer"></div>
+	<br><br>
+	<div id="footer">
+		<p><a href="/CategoryList.aspx?id=619">News</a> | <a href="/CategoryList.aspx?id=621">Sports</a> | <a href="/CategoryList.aspx?id=624">Business</a> | <a href="/CategoryList.aspx?id=628">Arts/Life</a> | <a href="/CategoryList.aspx?id=620">Features</a> | <a href="/feedback1/contactdetailst.aspx">Contact Us</a></p>
+		<p>© 2007, <a href="http://ospreymedialp.com">Osprey Media </a>| 
+<a href="/Disclaimer.aspx">Disclaimer</a> | 
+<a href="/Privacy.aspx">Privacy</a> |
+<a href="http://ospreymediagroup.com/corporate/default.asp?section=advertise">Website Advertising</a> |
+<a href="/rss/about.aspx">RSS</a> |
+<a href="/feedback1/default2.aspx?aspxerrorpath=">Report a Bug</a></p>
+	</div>
+	
+</div>
+
+    </form>
+
 
 </body></html>
