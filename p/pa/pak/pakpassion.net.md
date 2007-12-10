@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608121450id_/http%3A//www.pakpassion.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210175432id_/http%3A//www.pakpassion.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PakPassion - Pakistan Cricket Site- Privacy Policy
 
