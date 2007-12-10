@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609212640id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210173959id_/http%3A//www.brockport.edu/privacy.html) for the most accurate reproduction.*
 
 # SUNY Brockport Privacy Policy
 
@@ -23,7 +23,7 @@ When visiting our Web site, we automatically collect and store the following inf
 
 
 
-None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Privacy and Security Act](http://assembly.state.ny.us/leg/?cl=114&a=3) . The information that is collected automatically is used to improve the content of our Web site and to help us understand how our _users_ are interacting with our Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and we are not authorized to sell or otherwise disclose the information collected from our Web site for commercial marketing purposes.
+None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Privacy and Security Act ](http://www.oft.state.ny.us/policy/OFTEnablingLeg.htm). The information that is collected automatically is used to improve the content of our Web site and to help us understand how our _users_ are interacting with our Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and we are not authorized to sell or otherwise disclose the information collected from our Web site for commercial marketing purposes.
 
 ### Information Collected When You E-mail Us or Complete a Transaction 
 
@@ -43,7 +43,7 @@ Further, the disclosure of information, including _personal information_ , colle
 
 ### Retention of Information Collected Through Our Web Site
 
-We retain the information collected through our Web site in accordance with the records retention and disposition requirements of the [New York State Arts & Cultural Affairs Law](http://www.archives.nysed.gov/a/nysaservices/ns_mgr_start_rmlaw.shtml).  In general, our Internet services logs, comprising electronic files or automated logs created to monitor access and use of our Web site, are maintained for not less than three backup cycles or the end of the budget year to facilitate departmental annual reporting, whichever is greater.  Public reports generated from the information in these logs provide only aggregate information and will remain on file indefinitely for purposes of comparison.  Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed at the end of this policy.
+We retain the information collected through our Web site in accordance with the records retention and disposition requirements of the [New York State Arts & Cultural Affairs Law](http://home.att.net/~allanmcnyc/art_laws.html).  In general, our Internet services logs, comprising electronic files or automated logs created to monitor access and use of our Web site, are maintained for not less than three backup cycles or the end of the budget year to facilitate departmental annual reporting, whichever is greater.  Public reports generated from the information in these logs provide only aggregate information and will remain on file indefinitely for purposes of comparison.  Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed at the end of this policy.
 
 ### Access to and Correction of _Personal Information_ Collected Through Our Web Site
 
