@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522134204id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210134143id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Trade Arabia - Online business directory with over 200,000 profiles
 
@@ -58,11 +58,8 @@ Tradearabia.com welcomes your continuous input regarding our Privacy Policy or o
   
 |   
 ---  
-  
-Premium Content
-
-[](https://web.archive.org/web/20070522134204id_/http%3A//www.tradearabia.com/premium)  
-  
+[ ](https://web.archive.org/web/20071210134143id_/http%3A//www.tradearabia.com/premium/specialFeature.asp)  
+[ ](https://web.archive.org/web/20071210134143id_/http%3A//www.tradearabia.com/premium/default.asp)  
    
    
  
