@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookfinder.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624062216id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookfinder.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210202658id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.*
 
 # BookFinder.com: Privacy policy
 
