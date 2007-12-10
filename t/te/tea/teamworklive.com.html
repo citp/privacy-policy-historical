@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teamworklive.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623220126id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teamworklive.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210142528id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>TeamWork Live - Privacy Policy</title>
@@ -10,22 +10,37 @@
 
 
 <meta name="robots" content="noindex">
-<link href="/style.1182555656000.css" rel="stylesheet" type="text/css" media="all" charset="UTF-8">
-<link href="/print.1182555656000.css" rel="stylesheet" type="text/css" media="print" charset="UTF-8">
+<meta name="viewport" content="width=780; initial-scale=1.0">
 
-<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+<link href="/style.css?1196220810000" rel="stylesheet" type="text/css" media="all" charset="UTF-8">
+<link href="/print.css?1195293322000" rel="stylesheet" type="text/css" media="print" charset="UTF-8">
 
-
-<script src="/js/combined.1182555656000.js" charset="UTF-8" type="text/javascript"></script>
-
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 
 
+<script type="text/javascript">
+var defaultOnError = window.onerror;
+window.onerror = function(){return true};
+function addOnload(func) {
+    if (typeof func != 'function')
+        return;
+    var oldOnload = window.onload;
+    if (typeof window.onload != 'function')
+        window.onload = func;
+    else
+        window.onload = function() {oldOnload();func();}
+}
+function chkCookie() {
+    document.cookie = 'chk=' + new Date().getTime() + '; path=/';
+    if (!document.cookie) document.write('<div id="noScriptMessage" class="error-msg">WARNING: Your browser currently does not have cookies enabled. This site will not function correctly without it.</div>');
+}
+</script>
 </head>
 
 
-<body id="main">
+<body id="main" class="null yui-skin-sam">
 
 <div id="pBar">
     <div id="pBarMsg">Working...</div>
@@ -66,7 +81,7 @@
 <div id="dash"><table>
     <tbody><tr>
         <td>
-            <div id="subTabs" style="width: 600px">
+            <div id="subTabs" style="width:550px">
                 
                 
                 
@@ -83,7 +98,7 @@
     
         <h2 class="separator-bottom print-center">Privacy Policy</h2>
     
-    <script type="text/javascript" language="JavaScript">chkCookie();</script>
+    <script language="JavaScript">chkCookie();</script>
     
     
     <span>
@@ -140,7 +155,7 @@
     <h3>Disclosure</h3>
     <p>We may disclose personally identifiable information if required to do so by law;
     if such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes;
-    or if your actions violate our <a href="/TermsOfService.htm">Terms of Service</a>.</p>
+    or if your actions violate our <a href="/TermsOfService.htm" class="underline">Terms of Service</a>.</p>
     <br>
     <h3>Changes to this Policy</h3>
     <p>We may periodically update this policy. We will notify you about significant changes in the
@@ -149,8 +164,8 @@
     <br>
     <h3>Questions</h3>
     <p>If you have any additional questions or concerns about this policy, please contact us at
-    <a href="mailto:support@collectivesoft.com">support@collectivesoft.com</a> or write us at
-    CollectiveSoft, Customer Care - Privacy Policy Issues, 821 Cole St, San Francisco, CA 94117.</p>
+    <a href="mailto:support@collectivesoft.com" class="underline">support@collectivesoft.com</a> or write us at
+    CollectiveSoft, Customer Care - Privacy Policy Issues, 1382 8th Ave #1, San Francisco, CA 94122.</p>
     <p class="default sgray">Effective March 1, 2006</p>
 </div>
 </span>
@@ -162,21 +177,29 @@
     </tr>
     
 </tbody></table>
+<div id="actionWindow" class="modalForm" style="visibility:hidden"></div>
+<span id="currentPage" style="display:none">PrivacyPolicy</span>
 <!-- SUCCESSFUL_REQUEST -->
 <span id="jid" style="display: none"></span>
 
 
-<script type="text/javascript" language="JavaScript">
-addOnload(function() {
+<script language="JavaScript">
+
+addOnload(function(){
+    window.onerror = defaultOnError;
     
     
     
     
+    window.onbeforeunload = confirmLeaveEditor;
 });
-window.onbeforeunload = confirmLeaveEditor;
 </script>
 <div id="shade" onclick="closeModal()"></div>
-<div id="tooltip" style="display:none"><div class="tt-shadow"><div class="tt-shadow2"><div id="tooltipContent" class="tt-content"></div></div></div></div>
+
+    <script src="/js/combined.js?1196934127000" charset="UTF-8" type="text/javascript"></script>
+
+
+
 
 
 <!-- Render time: ~ 2 ms -->
