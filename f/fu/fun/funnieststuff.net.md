@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620232055id_/http%3A//funnieststuff.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210135428id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
 
-# Daily Email Newsletter for the Funniest Videos, pictures, & jokes on the net
+# Daily Email Newsletter - Funniest Video of the Day
 
 ## Information Collection and Use
 
@@ -58,3 +58,6 @@ Houston, TX 77057
 USA
 
 This Funniest Stuff Privacy Policy is subject to change without notice. Please review this Privacy Policy on this website frequently to look for changes. Your continued membership will signify your unconditional acceptance to the modified terms. 
+
+  
+
