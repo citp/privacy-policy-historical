@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overlandagency.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426094244id_/http%3A//www.overlandagency.com/default.asp%3Fid%3D200) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overlandagency.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210180029id_/http%3A//www.overlandagency.com/privacy%2Bpolicy.aspx) for the most accurate reproduction.*
 
-# Overland Agency - Privacy Policy
+# Overland Agency | Interactive Advertising Agency - About - Contact Us - Privacy Policy
 
 **Overland Agency's Privacy Policy**
 
@@ -12,12 +12,12 @@ In this Privacy Policy we provide detailed information on when and why we collec
 
 In general, you can browse our website without giving us any personal information. We use web-tracking software to analyze traffic to this website in order to understand our customers and visitors needs and to continually improve our site for them. This web tracking software collects only anonymous, aggregate statistics. 
 
-However, certain activities on our site require you to provide personal information. For example you need to register to read whitepapers and sign-up for events. As part of the registration process, we ask you to create an account by providing your name, title, phone number, email address, and mailing address. 
+However, certain activities on our site require you to provide personal information. For example you need to register to read whitepapers and sign up for events. As part of the registration process, we ask you to create an account by providing your name, title, phone number, e-mail address, and mailing address. 
 
   
 
 
-  * During the registration process, if you request to be contacted by Overland Agency when new resources are available, we will use the information to send you e-mail or mail when new whitepapers, articles, news or seminars are available. You can unsubscribe at any time by going _here_.
+  * During the registration process, if you request to be contacted by Overland Agency when new resources are available, we will use the information to send you e-mail or mail when new whitepapers, articles, news or seminars are available. You can unsubscribe at any time.
   * During the registration process, if you selected to not be contacted or notified of new resources, or if you later unsubscribed we will respect your privacy. 
 
 
@@ -32,7 +32,7 @@ Our website does not offer information intended to attract children. Overland Ag
 
  **Security of Personal Information**
 
-When you submit any form on overlandagency.com, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+When you submit any form on overlandagency.com, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
 
  **Use of Cookies**
 
@@ -44,7 +44,7 @@ Our website contains links to information on other websites. We do not have any 
 
  **Unsubscribing or Changing Your Account Information**
 
-If you have registered with Overland Agency, you may change your preferences or unsubscribe at any time by following the instructions provided [here](https://web.archive.org/web/20070426094244id_/http%3A//www.overlandagency.com/default.asp?id=250).
+If you have registered with Overland Agency, you may change your preferences or unsubscribe at any time by following the instructions provided [here](https://web.archive.org/web/20071210180029id_/http%3A//www.overlandagency.com/default.asp?id=250).
 
  **Your Consent**
 
@@ -60,7 +60,4 @@ Fax: 503-963-8502
 
 Portland, OR 97204
 
-This document was last updated September 2004. 
-
-  
-
+This document was last updated June 2007. 
