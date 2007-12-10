@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624063649id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211000623id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy - Dial-a-Phone
 
@@ -52,11 +52,7 @@ If any of the information that you have provided us changes, for example if you 
 
 #### Non Dial-a-Phone Customers
 
-If you are not an existing customer of Dial-a-Phone and have received promotional emails that you no longer wish to receive you can unsubscribe by following the links below and entering your email address:
-
-[http://www.emb1.co.uk/Unsubscribe.asp?id=15&clientid=117](http://www.emb1.co.uk/Unsubscribe.asp?id=15&clientid=117)
-
-[http://www.emb1.co.uk/Unsubscribe.asp?id=26&clientid=117](http://www.emb1.co.uk/Unsubscribe.asp?id=26&clientid=117)
+If you are not an existing customer of Dial-a-Phone and have received promotional emails that you no longer wish to receive you can unsubscribe by following the links at the top of the email.
 
 * ### Your Consent ...Top
 
