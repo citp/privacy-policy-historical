@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425215208id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210110636id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-   
-  
----  
-  
 ##  **Information Use**
 
 Individual information is used to deliver requested newsletter, products, or services. _Aggregate information_ (in the form of statistics) is used as input in developing new products and services; to improve upon existing products and services; to decide upon marketing activities; and to generally describe our site visitors and customer base. 
@@ -37,7 +32,7 @@ In the event WebsiteMarketingPlan.com, WebMarketingPlace.com, or MyOnlineWedding
 
 The primary means of communication from the site is via the newsletter. When a user wishes to subscribe to the newsletter we ask for contact information such as email address. We send all new subscribers a welcoming email that includes unsubscribe instructions. 
 
-Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via telephone at 314-842-1446, or postal mail at 8050 Watson Road, Suite 315, St. Louis, MO 63119. 
+Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via postal mail at 483 S. Kirkwood Road, #113, St. Louis, MO 63122. 
 
 ##  Special Offers and Updates 
 
@@ -64,7 +59,7 @@ This Website contains links to other sites. Please be aware that we, Website Mar
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Email: [bkyle@websitemarketingplan.com](mailto:bkyle@websitemarketingplan.com)   
-Postal Mail: Web Marketing Place  
-                      8050 Watson Road, Suite 315  
-                      St. Louis, MO 63119  
+Postal Mail: Web Marketing Place LLC  
+                 483 S. Kirkwood Road, #113  
+                 St. Louis, MO 63122  
 Telephone: 314-842-1446
