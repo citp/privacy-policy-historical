@@ -1,11 +1,20 @@
-> *The following text is extracted and transformed from the hannaford.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506055046id_/http%3A//www.hannaford.com/Contents/Common/PrivacyStatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaford.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210080745id_/http%3A//www.hannaford.com/Contents/Common/PrivacyStatement.shtml) for the most accurate reproduction.*
 
 # Privacy and Information Security Notice - Hannaford Supermarkets
 
   
 Privacy and Information Security Notice
 
+It means a lot to us that you selected Hannaford to be your supermarket. It’s important to us that you’re happy with the service you receive, whether it’s in-store, online or via direct mail. For this reason, we created the Hannaford Privacy Policy to show you exactly how carefully personal information is handled. 
+
 Your privacy and information security is of the utmost importance to us. We pledge to protect your privacy. We will never sell, distribute, or misuse the information you share with us.
+
+  * Online Privacy Policy 
+  * Off-line Privacy Policy 
+
+
+
+Online Privacy Policy 
 
 **Our Online Data Collection and Use Practices**
 
@@ -77,6 +86,40 @@ Your privacy and information security is of the utmost importance to us. We pled
 **How to Contact Us**
 
   * Should you have other questions or concerns about this privacy statement or our data collection practices, please call us at 1-800-213-9040.
+
+
+
+Off-line Privacy Policy 
+
+**Direct Mail Coupons**
+
+  * Like most coupon programs, Hannaford has the ability to utilize coupon data to view customer redemption. Information gathered through these programs is only available in group-format. Individual customer purchases cannot be viewed. This data helps us to understand customer interest and develop ongoing offers that are relevant to you and your family. 
+
+We assure you that your name, address and information about your grocery purchase related to the direct mail coupons will be never be sold to outside companies. Hannaford will only share the information with a very limited number of carefully selected third party business partners who are contractually bound to only use the information for the above-mentioned purpose and exclusively for Hannaford. 
+
+There are two primary ways in which your data may be used. 
+
+First, to provide you with a more personalized shopping experience, we will periodically send offers and other information about our products and services to groups of customers that appear to have similar interests. For example, if you bought dog food with the coupon, we may send you valuable offers for dog food or other related items available at Hannaford. 
+
+Second, to provide additional value to our customers, we may allow our suppliers to provide offers to a select group of customers that may be interested in their items. To ensure your personal data is protected, we will obtain the materials from the supplier and communicate offers directly to our customers. 
+
+In all instances, the information will only be used to provide information and offers regarding products and service available at Hannaford. 
+
+If at any time you would like us to refrain from sending you direct mail, please let us know and we will do so immediately. No questions asked. Representatives at our Hannaford Customer Information Center are happy to assist with these requests. Feel free to call us anytime with questions or concerns at 800-213-9040.
+
+
+
+
+**Sweepstakes**
+
+  * Any Hannaford entry form associated with a sweepstakes will provide an option to be added to our customer list. We’ll use the customer list to send periodic information or offers that we feel may be of interest to you about Hannaford or other carefully selected products. 
+
+If at any time you would like us to refrain from sending you offers in the mail, please let us know and we will do so immediately. No questions asked. Representatives at our Hannaford Customer Information Center are happy to assist with these requests. Feel free to call us anytime with questions or concerns at 800-213-9040. 
+
+
+
+
+The Hannaford Privacy Policy may be changed at any time without prior notice.
 
 |   |   
 ---|---
