@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digimarc.com privacy policy that was archived on 2007-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070622095817id_/http%3A//www.digimarc.com/corp/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digimarc.com privacy policy that was archived on 2007-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071210092745id_/http%3A//www.digimarc.com/corp/privacy.asp%3Ffootlink_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Privacy Policy | Digimarc</title>
@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="/css/corp.css" type="text/css" media="all">	
 	<link rel="stylesheet" href="/css/sIFR-screen.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/css/sIFR-print.css" type="text/css" media="print">
+	<link rel="stylesheet" type="text/css" href="/css/interstitial.css">
 	<script src="/js/sifr.js" type="text/javascript"></script>
 </head>
 
@@ -112,7 +113,7 @@
 						<!--Begin Government Content Column in Footer -->
 						<div class="footer_govt">
 							<a href="/govt/default.asp?footlink_govt" class="footyhead_govt" title="Government ID Solutions"><span class="footyhead">Government ID Solutions</span></a>
-							<p>For nearly 50 years, Digimarc has provided <a href="/govt/solutions.asp?footlink_govtsolutions" class="footy">comprehensive secure ID solutions</a>, producing high-volume, high-security identification documents such as driver licenses, national IDs, voter IDs, entitlement documents and other government-issued credentials.</p>
+							<p>For over 50 years, Digimarc has provided <a href="/govt/solutions.asp?footlink_govtsolutions" class="footy">comprehensive secure ID solutions</a>, producing high-volume, high-security identification documents such as driver licenses, national IDs, voter IDs, entitlement documents and other government-issued credentials.</p>
 							<ul class="footer_list">
 								<li><a href="/govt/lifecycle.asp?footlink_lifecycle" class="footy">Learn more about the Secure ID Lifecycle, the most comprehensive approach to preventing identity theft and fraud</a></li>
 								<li><a href="/govt/verify.asp?footlink_verify" class="footy">Address regulatory and security concerns, and meet REAL ID requirements, with the Identity Validation Suite, designed to combat fraud in the enrollment process </a></li>
@@ -132,14 +133,27 @@
 						</ul>
 						<!--End Very Bottom Links -->
 							
-						<!--Begin Right Nav Column in Footer-->	
+						<!--Begin Right Nav Column in Footer-->
+						<script language="JavaScript" type="text/JavaScript">
+							<!--
+							function MM_jumpMenu(targ,selObj,restore){ //v3.0
+							  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+							  if (restore) selObj.selectedIndex=0;
+							}
+							//-->
+						</script>	
 						<div class="footer_lingua">
-							<form name="Choose Language"><select name="navi" onchange="go()" class="lingua">
-								<option value="">Choose Other Language&nbsp;
-								</option><option value="" disabled="disabled">&nbsp;Government ID Solutions&nbsp;
-								</option><option value="http://www.digimarc.com/espanol/default.asp?footlink_spanish" style="color: #003066;">&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;En Español
-								</option><option value="http://www.digimarc.com/francais/default.asp?footlink_french" style="color: #003066;">&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;En Français
-								</option></select></form></div>
+							<form name="Choose Language">
+							<select name="menu2" onchange="MM_jumpMenu('parent',this,0)" class="lingua">
+								<option value="#">&nbsp;Choose Other Language&nbsp;</option>
+								<optgroup class="lingua" label="&nbsp;Government ID Solutions">
+									<option class="lingua" value="http://www.digimarc.com/espanol/default.asp?footlink_spanish" style="color: #003066;">En Español</option>
+									<option class="lingua" value="http://www.digimarc.com/francais/default.asp?footlink_french" style="color: #003066;">En Français</option>
+									<option class="lingua" value="http://www.digimarc.com/arabic/default.asp?footlink_french" style="color: #003066;">بالعربية</option>
+								</optgroup>
+							</select>
+							</form>
+						</div>
 						<div class="footer_rnav">
 							<div class="footer_rnav_top"><a href="/corp/about.asp?footlink_about" class="rnav_news_top" title="About Digimarc Corporation"><span>About Digimarc Corporation</span></a>
 							</div>
@@ -198,6 +212,7 @@
 							<li><a href="/corp/governance.asp">Corporate Governance</a></li>
 							<li><a href="/corp/execs.asp">Executive Team</a></li>
 							<li><a href="/corp/board.asp">Board of Directors</a></li>
+							<li><a href="/corp/stats.asp">Statistics</a></li>	
 							<li><a href="/corp/careers.asp">Careers</a></li>							
 							<li><a href="/corp/contact.asp">Contact Us</a></li>							
 						</ul>
