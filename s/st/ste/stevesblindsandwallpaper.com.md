@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517193752id_/http%3A//www.stevesblindsandwallpaper.com/sb_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevesblindsandwallpaper.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210144549id_/http%3A//www.stevesblindsandwallpaper.com/sb_BLPrivacy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# Steve's Blinds and Wallpaper
 
 Your Privacy and Security is our Top Priority
 
