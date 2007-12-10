@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628012217id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpages.ie privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210064605id_/http%3A//www.goldenpages.ie/static/privacy.html) for the most accurate reproduction.*
 
-# Golden Pages: product, business and service search directory for Ireland - Privacy Policy
+# Truvo Ireland: product, business and service search directories for Ireland - Privacy Policy
 
 Your privacy is important to us so we only use the information you provide about yourself and your company when using this website to answer your enquiry or to assist us in improving our service to you. We do not share this information with any third party except to the extent necessary to answer your enquiry if that enquiry requires the involvement of the third party. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and they are not shared with outside parties. 
 
