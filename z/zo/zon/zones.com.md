@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2007-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070316063402id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dzbs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210093908id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Daboutus_privacy%26zone%3Dzbs) for the most accurate reproduction.*
 
 # Zones: Connecting Businesses and Technology
 
