@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619091851id_/http%3A//www.lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210174409id_/http%3A//www.lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Diet & Fitness
 
