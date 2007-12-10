@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206044817id_/http%3A//metservice.co.nz/default/index.php%3Falias%3Dprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210212755id_/http%3A//www.metservice.co.nz/default/index.php%3Falias%3Dprivacy-statement) for the most accurate reproduction.*
 
-# MetService.com:
+# Information Privacy Statement:MetService.com - Weather
 
 MetService is an agency for the purposes of the Privacy Act 1993 ("the Act"). We understand the need to safeguard your personal information and respect your rights under the Act.
 
@@ -10,7 +10,7 @@ From time to time when you visit www.metservice.co.nz (the "Site") we collect, r
 **Who are "We"?  
 ** In this Privacy Policy, all references to "we", "us", and "our" refer to MetService. 
 
-You can contact us via our [web contact form here](https://web.archive.org/web/20070206044817id_/http%3A//metservice.co.nz/default/index.php?alias=contacts).
+You can contact us via our [web contact form here](https://web.archive.org/web/20071210212755id_/http%3A//www.metservice.co.nz/default/index.php?alias=contacts).
 
 Our postal address is:  
 Meteorological Service of New Zealand Limited  
@@ -45,7 +45,7 @@ New Zealand
 
   
 **Your Right to Access and Correct Your Information  
-** We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by [getting in contact with us](https://web.archive.org/web/20070206044817id_/http%3A//metservice.co.nz/default/index.php?static=contactmetservice).
+** We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by [getting in contact with us](https://web.archive.org/web/20071210212755id_/http%3A//www.metservice.co.nz/default/index.php?alias=contacts).
 
   
 **E-mail Addresses  
