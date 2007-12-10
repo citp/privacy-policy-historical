@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629134127id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224417id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
-# Visa Bureau Privacy Policy
+# Privacy Policy: Visa Bureau
 
-This Policy is devised to help you feel more confident about the privacy and security of your personal details. We collect and process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation. 
+  »   **Privacy Policy: Visa Bureau**
+
+This Policy is devised to help you feel more confident about the privacy and security of your personal details. We collect and process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.
 
 ###### 1\. Information Gathered
 
@@ -31,7 +33,7 @@ When you enter our site your computer will automatically be issued with a cookie
 
 A cookie will not provide us with any personal information. Therefore, if you have not supplied us with any personal information, you can still browse our site anonymously. If you do not want a cookie you can set your browser to deny it.
 
-**How to find and control your cookies:  
+ **How to find and control your cookies:  
 **  
 If you're using Netscape 6.0:  
 On your Task Bar, click:   
