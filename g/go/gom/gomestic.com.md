@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomestic.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429130223id_/http%3A//www.gomestic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomestic.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210224252id_/http%3A//www.gomestic.com/privacy) for the most accurate reproduction.*
 
-# Gomestic :: Terms of Use
+# Gomestic :: Privacy
 
 1.  **General**. 
 
@@ -16,7 +16,7 @@ e.  This Privacy Policy applies to the practices of Gomestic and its affiliates
 
 2.  **Information Collected**. 
 
-a.  Gomestic collects personal information when you register with Gomestic for the purpose of receiving Gomestic's newsletters.. Gomestic may also collect personal information when you use other products or services provided by Gomestic, when you visit pages of certain partners of Gomestic, and when you enter certain links or other promotional features on the Site. 
+a.  Gomestic collects personal information when you register with Gomestic for the purpose of receiving Gomestic's newsletters.. Gomestic may also collect personal information and/or install a "cookie" on your personal computer when you use, access or logon other products or services provided by Gomestic, when you visit pages of certain partners of Gomestic, and when you enter certain links or other promotional features on the Site. 
 
 b.  Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Gomestic may request. 
 
