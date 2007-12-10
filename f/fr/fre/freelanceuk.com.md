@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelanceuk.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625024028id_/http%3A//www.freelanceuk.com/about/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanceuk.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210144305id_/http%3A//www.freelanceuk.com/about/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement :: Freelance UK
 
