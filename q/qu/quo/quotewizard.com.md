@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209012652id_/http%3A//www.quotewizard.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074838id_/http%3A//quotewizard.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**TheQuoteWizard.com Web Privacy Statement**
+Privacy Statement
+
+**QuoteWizard Web Privacy Statement**
 
 _This privacy policy was last updated on June 19th, 2006_
 
-TheQuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
+QuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
 
 **Information We Collect**
 
-Collecting various types of information from our visitors allows TheQuoteWizard to periodically adjust our site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners. 
+Collecting various types of information from our visitors allows QuoteWizard to periodically adjust our site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners. 
 
 **Information Collected Automatically**
 
-Some information is automatically sent to TheQuoteWizard by your browser or Internet session each time you visit one of our sites. These types of information include: 
+Some information is automatically sent to QuoteWizard by your browser or Internet session each time you visit one of our sites. These types of information include: 
 
   * The name of your browser, e.g., Internet Explorer, Netscape Navigator.
   * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
@@ -28,21 +30,27 @@ This information allows us to see how users are finding our sites, and which pag
 
 **Information You Provide to Us**
 
-In addition to the information automatically collected by your browser, TheQuoteWizard also collects information that you provide to us when you request quote information. 
+In addition to the information automatically collected by your browser, QuoteWizard also collects information that you provide to us when you request quote information. 
 
 Our web sites provide users with the opportunity to request quote information from insurance providers and brokers. To do this, we collect contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information relevant to the applicant's insurability (driver history, vehicle usage, etc). This contact information is then provided to the insurance partners from which the user has requested quote information. 
 
-TheQuoteWizard uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms. TheQuoteWizard also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service. 
+QuoteWizard uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms. QuoteWizard also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service. 
 
 **How We Use This Information**
 
-The information that is automatically collected by our web site allows TheQuoteWizard to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
+The information that is automatically collected by our web site allows QuoteWizard to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
 
-TheQuoteWizard may share personally identifiable information with third-party businesses for the purpose of direct marketing, specifically e-mail marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+QuoteWizard may share personally identifiable information with third-party businesses for the purpose of direct marketing, specifically e-mail marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+
+**How Our Insurance Partners May Use This Information**
+
+IMPORTANT: All proposed named insured listed on this application must be made aware of the following: 
+
+In order to provide you with the most accurate quotes possible, insurance companies may need to obtain additional background information about you. As an example Consumer reports may be ordered in connection with your insurance application. These reports provide information that may assist in determining your eligibility for insurance and the price you may be charged. Consumer reports may also be used for updates, renewals or extensions of this insurance. The insurance company may also obtain and use a credit-based insurance score based on information contained in your credit report. The insurance company may use a third party in connection with the development of the insurance score. 
 
 **Your Rights -- Our Obligations**
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On occasion, we may use certain directory information that we collect from you to send you information about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by e-mailing: unsubscribe@TheQuoteWizard.com. 
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On occasion, we may use certain directory information that we collect from you to send you information about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by e-mailing: unsubscribe@QuoteWizard.com. 
 
 Other than directory information, the data that you provide to us as you use the web site will be held in strict confidence by the company, and will be used for company purposes only. 
 
@@ -56,7 +64,7 @@ When you visit some of our sites, we use cookies to keep track of your informati
 
 **Links From Our Site To Other Sites**
 
-Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you. TheQuoteWizard is not responsible for the privacy practices or the content of any web sites which we do not directly control. 
+Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you. QuoteWizard is not responsible for the privacy practices or the content of any web sites which we do not directly control. 
 
 **Definitions**
 
@@ -78,8 +86,8 @@ A browser session is defined as the period of time a browser is in consecutive u
 
 **SSL Encryption (Secure Sockets Layer)**
 
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. TheQuoteWizard also uses SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. QuoteWizard also uses SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
 
 **URL (Uniform Resource Locator)**
 
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for TheQuoteWizard is www.TheQuoteWizard.com. 
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for QuoteWizard is www.QuoteWizard.com. 
