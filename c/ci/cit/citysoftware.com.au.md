@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409054701id_/http%3A//www.citysoftware.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210154810id_/http%3A//www.citysoftware.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
 
-# City Software: Black Tie Service, Plain Wrap Prices!
+# City Software | Black Tie Service, Plain Wrap Prices!
 
 **eStore.com.au is a wholly-owned subsidiary of City Software Pty Ltd., one of Australia's most trusted online Hardware, Software and Consumables resellers.**
 
