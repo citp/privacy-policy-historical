@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221429id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074355id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
 
 # WNYC - About WNYC
 
@@ -26,9 +26,9 @@ WNYC will ask you to provide the information necessary to process and service yo
 
 WNYC may occasionally share names and postal addresses collected through membership pledges with carefully selected organizations. If you do not want your address exchanged, please contact Listener Services: [listenerservices@wnyc.org](mailto:listenerservices@wnyc.org) or call 212-669-3333 to classify your membership record as "No Exchange". It is WNYC policy not to sell or exchange e-mail addresses with any organization.
 
-## Bulletin Board Participation:
+## Comments/Bulletin Board Participation:
 
-WNYC reserves the right to collect the e-mail addresses of those who post messages to our bulletin board, information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with bulletin board rules and occasionally to alert members and visitors to opt-in to our e-mail newsletter but is never shared with other organizations.
+WNYC reserves the right to collect the e-mail addresses of those who post comments, messages to our bulletin board, information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with bulletin board rules and occasionally to alert members and visitors to opt-in to our e-mail newsletter but is never shared with other organizations.
 
 ## Security:
 
