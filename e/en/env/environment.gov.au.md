@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506121941id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115814id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
-# Department of the Environment and Water Resources - privacy statement
+# Department of the Environment, Water, Heritage and the Arts - privacy statement
 
 ## Scope
 
-This notice applies to the Department of the Environment and Water Resources web site only. The web site is managed by the Australian Government Department of the Environment and Water Resources.
+This notice applies to the Department of the Environment, Water, Heritage and the Arts web site only. The web site is managed by the Australian Government Department of the Environment, Water, Heritage and the Arts.
 
 ## Personal Information
 
 The use of the term "personal information" in this privacy notice means any information from which your identity is apparent or can be reasonably ascertained.
 
-The Department of the Environment and Water Resources collects personal information that you choose to give us, for example your email address.
+The Department of the Environment, Water, Heritage and the Arts collects personal information that you choose to give us, for example your email address.
 
 We do not collect identifiable personal information about you if you only browse this web site.
 
@@ -26,7 +26,7 @@ We do not share information about you with other government agencies, other orga
 
 
 
-We analyse non-identifiable web site traffic data to improve our services. On occassion, we may use cookies.
+We analyse non-identifiable web site traffic data to improve our services. On occasion, we may use cookies.
 
 ## Your choices
 
@@ -44,17 +44,17 @@ We also follow the _Guidelines for Federal and ACT Government websites_ issued b
 
 ## Contact us
 
-If you have any privacy concerns with the Department of the Environment and Water Resources web site, please [contact the Privacy Contact Officer](mailto:privacy@deh.gov.au):
+If you have any privacy concerns with the Department of the Environment, Water, Heritage and the Arts web site, please contact the Privacy Contact Officer - privacy@deh.gov.au:
 
 Privacy Contact Officer  
-Australian Government Department of the Environment and Water Resources  
+Australian Government Department of the Environment, Water, Heritage and the Arts  
 GPO Box 787  
 Canberra ACT 2601  
 Australia  
 phone: +61 2 6274 1578  
 fax: +61 2 6274 1587  
-[privacy@deh.gov.au](mailto:privacy@deh.gov.au)
+privacy@deh.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20070506121941id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20071211115814id_/http%3A//www.environment.gov.au/about/privacyfull.html).
