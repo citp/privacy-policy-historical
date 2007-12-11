@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623015208id_/http%3A//www.prepsportswear.com/info.aspx%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211035432id_/http%3A//www.prepsportswear.com/info.aspx%3Fcategory%3Dprivacypolicy) for the most accurate reproduction.*
 
 # PrepSportswear.com FAQ
+
+| 
 
 **Privacy Policy**  
 Prep Sportswear knows that you care how information about you is used and shared, and we appreciate your trust that we will protect your privacy. This notice describes our privacy policy. **By visiting Prep Sportswear, you are accepting the practices described in this Privacy Policy.** **What Personal Information About Customers Does Prep Sportswear Gather?**  
@@ -18,5 +20,3 @@ We may disclose information about you to law enforcement or other government off
 You can always choose not to provide information, even though it might be needed to take a purchase or to take advantage of other features on Prep Sportswear. **Minors**  
 We require children under the age of 13 to inform their parents of their intent to use Prep Sportswear. We also ask that minors under the age of 16 do NOT submit any personal information to us. If you are a minor (under the age of 18), you can use Prep Sportswear only in conjunction with your parents or guardians permission. **Conditions of Use and Revisions**  
 If you choose to visit Prep Sportswear, your visit and any dispute over privacy is subject to this Policy and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of Washington. If you have any concern about privacy at Prep Sportswear, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the User Agreement will change also. We may e-mail periodic reminders of our policies and agreement, unless you have instructed us not to, but you should check our web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
-
-| 
