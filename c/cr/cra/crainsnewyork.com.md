@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629070418id_/http%3A//www.crainsnewyork.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211233224id_/http%3A//www.crainsnewyork.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3Dprivacy) for the most accurate reproduction.*
 
-# NewYorkBusiness.com
-
-|  | 
-
-Privacy Statement
-
-  
-
+# Static | Crain's New York Business.com
 
 NewYorkBusiness.com is the Web site of _Crain’s New York Business_ , a publication of Crain Communications Inc. Our postal address is 711 Third Avenue, New York, NY 10017-4036. We can be reached by e-mail at [**nyweb@crain.com**](mailto:nyweb@crain.com) or by telephone at 212-210-0423. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
@@ -28,16 +21,3 @@ This Web site is operated in the United States. If you are located in the Europe
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [**privacyhelp@crain.com**](mailto:privacyhelp@crain.com) or 313-446-6000.
 
 Policy Last Updated: January 1, 2005 
-
-  
-|  | 
-
-[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.crainsny.com/news/STATIC/60815001/15620892959@Left1,Middle1,Middle2,Top1,Bottom1!Middle1?)
-
-   
-
-[](https://sec.crain.com/cn/QuickOrder.aspx?p=W6CNCMB1)
-
-[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.crainsny.com/news/STATIC/60815001/15620892959@Left1,Middle1,Middle2,Top1,Bottom1!Middle2?)
-
-[ ](https://web.archive.org/apps/pbcs.dll/qwikNavsearch?QwikNav=newsstand)
