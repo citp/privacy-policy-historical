@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straightdope.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502153828id_/http%3A//www.chicagoreader.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straightdope.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211050945id_/http%3A//www.chicagoreader.com/privacy.html) for the most accurate reproduction.*
 
 # Chicago Reader, Inc. (general information, advertising information, how to contact)
 
