@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626122216id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211194735id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# harrypotterfanfiction.com :: Over 42,000 Harry Potter stories.
+# harrypotterfanfiction.com :: Over 45,000 Harry Potter stories plus podcasts
 
 _Privacy Policy_
 
@@ -14,6 +14,6 @@ Our network is not set up to track, collect or distribute personal information a
 
 In addition, our website tracks information about the visits to our web site. For example, we compile statistics that show the daily number of visitors to our site, the daily requests we receive for particular files on our web site, and what countries those requests come from. These aggregated statistics are used to guage the popularity of the site, but again, the statistics contain no personal information and cannot be used to gather such information. 
 
-If you have any problem with privacy on this site, please use the [contact section](http://www.harrypotterfanfiction.com/docs/contact.html) to mail a staff member.
+If you have any problem with privacy on this site, please use the [contact section](http://www.harrypotterfanfiction.com/getinfo.php?page=staffcontact) to mail a staff member.
 
 * * *
