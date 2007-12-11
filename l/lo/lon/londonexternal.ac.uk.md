@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617064314id_/http%3A//www.londonexternal.ac.uk/web/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211175106id_/http%3A//www.londonexternal.ac.uk/contact_us/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - External Programme website - University of London
 
@@ -22,8 +22,10 @@ Where 'Web Forms' appear on the site user's might be prompted to supply personal
 
 ## Student-to-Student Network(s)
 
-In certain instances the External Programme's website facilitates communication between students (and staff) via online networks. Through these facilities personal information (e.g. an email address) might be made available to other students (and staff). Within this context it should be made clear that the networks operate on an 'opt-in' basis, i.e. you have to request that your details are added to the network and consent to their inclusion. It should be noted, however, that staff at The University of London External Programme don't generally monitor such services, and consequently, The External Programme doesn't accept responsibility for any information or other material transmitted using a particular service. Similarly, The views expressed by students using these networks (or similar) do not reflect the views of The University of London External Programme.
+In certain instances the External Programme's website facilitates communication between students (and staff) via online networks. Through these facilities personal information (e.g. an email address) might be made available to other students (and staff). Within this context it should be made clear that the networks operate on an 'opt-in' basis, i.e. you have to request that your details are added to the network and consent to their inclusion. It should be noted, however, that staff at the University of London External Programme don't generally monitor such services, and consequently, the External Programme doesn't accept responsibility for any information or other material transmitted using a particular service. Similarly, The views expressed by students using these networks (or similar) do not reflect the views of the University of London External Programme.
 
-##  Third Party Links and information
+##  Third-Party Links and information
 
-The External Programme's website has links to third party websites and information. While links and information are only added if they are perceived to be of use to our website users The University of London External Programme does not accept responsibility for their content. Moreover, The University of London External Programme cannot be held responsible for any information submitted to the third party sites and any subsequent use of the information
+The External Programme's website has links to third-party websites and information. While links and information are only added if they are perceived to be of use to our website users the University of London External Programme does not accept responsibility for their content. Moreover, the University of London External Programme cannot be held responsible for any information submitted to the third-party sites and any subsequent use of the information.
+
+Get **Adobe Reader** to read available pdf(s) - download it for free from the Adobe Website. [external link - will open in a new window]. 
