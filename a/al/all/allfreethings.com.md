@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623042053id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040807id_/http%3A//www.allfreethings.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # All Free Things Privacy Policy
-
-  
-
-
-[](http://ab.vcmedia.com/c/s=7622/c=122776/)
-
-  
-
 
 | 
 
@@ -57,9 +49,7 @@ Circuit City or Best Buy - which is your favorite? Click to answer the question,
 
 There is nothing better than Free-Stuff, and www.Free2Try.com is where the Internet goes for Free Stuff and Trial Offers!
 
-Gamers, are you up for the challenge? Get your free Sony PlayStation 3 now by clicking here. That is, if you think you can handle it!
-
-Get back into your skinny jeans by getting 3 free months of NutriSystem. Join now because the only thing you have to lose is weight!
+Get back into your skinny jeans by getting 3 free months of Jenny Craig. Join now because the only thing you have to lose is weight!
 
   
   
