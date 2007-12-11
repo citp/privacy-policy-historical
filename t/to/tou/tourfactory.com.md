@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623022752id_/http%3A//tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083801id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
-# Virtual Tour Company - TourFactory is the premiere software provider of real estate virtual tours.
+# TourFactory - The Real Estate Virtual Tours That Seller's Love!
 
 **Information Collection and Use**  
 Home Debut, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Home Debut, Inc. collects information from our users at several different points on our website.
