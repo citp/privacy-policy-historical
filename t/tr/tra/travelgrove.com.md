@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618042020id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211160510id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
 
 # Travelgrove Privacy Policy
 
@@ -86,16 +86,17 @@ back to top
 
 ### Travel Themes
 
-[Casino Deals](https://web.archive.org/themes/vacation-themes.php?vacation_deal=lasvegas&idReferral=&adid=)   
-[Lastminute](https://web.archive.org/themes/vacation-themes.php?vacation_deal=lastminute&idReferral=&adid=)   
-[Cruises Caribbean](https://web.archive.org/themes/vacation-themes.php?vacation_deal=cruisesbahamas&idReferral=&adid=)   
+[New Year Destinations](https://web.archive.org/newyear_destination.php?idReferral=) NEW!  
+[Christmas Destinations](https://web.archive.org/christmas_destination.php?idReferral=) NEW!  
+[Extend Your Summer: Warm Winter Escapes](https://web.archive.org/themes/themes.php?id=16&title=Extend%20Your%20Summer:%20Warm%20Winter%20Escapes&idReferral=&adid=)   
+  
   
 
 
 ###### Travel Tools  
   
 ---  
-[Country information](https://web.archive.org/worldfacts/country-info.php?idReferral=&adid=) NEW!  
+[Country information](https://web.archive.org/worldfacts/country-info.php?idReferral=&adid=)  
 [Travel Forum](https://web.archive.org/worldfacts/forum/index.php?idReferral=&adid=)  
 [Airport Parking](https://web.archive.org/html/bottom_bar/airport-parking.php?idReferral=&adid=)  
 [Hostels](https://web.archive.org/html/bottom_bar/hostels.php?idReferral=&adid=)   
