@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626024053id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211190629id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Chamberlain Privacy Policy
 
 **Privacy is very important to Chamberlain.**   
 It is Chamberlain´s policy to respect the privacy of users who visit our Web site. To ensure this, the following policy statement explains how we collect information from you as well as how it is used. 
