@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the becomegorgeous.com privacy policy that was archived on 2006-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061216194802id_/http%3A//www.becomegorgeous.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becomegorgeous.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101239id_/http%3A//www.becomegorgeous.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy - BecomeGorgeous.com
 
-This web site is owned by Radu Panait & Inge Ignat.
+## Privacy Policy - BecomeGorgeous.com
 
-Our postal address is:  
-     Str Zenit 4/17 
+BecomeGorgeous.com does not divulge any information regarding the members. 
 
-We can be reached via e-mail at contact@becomegorgeous.com or you can reach us by telephone at +40721073221
+We realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address.
+**Information We Collect:**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages visitors access or visit, user-specific information on what pages visitors access or visit, information volunteered by the visitor, such as survey information and/or site registrations / subscriptions.
+The information we gather on our sites falls into two categories: (1) information you supply when you register or initiate transactions, and (2) tracking information collected as you navigate through our sites. Third-party providers featured on, or linked to from, our sites, such as vendors of products and services offered through our sites, may gather information, as well.
 
-The information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes.
+\- _Information providede to BecomeGorgeous.com_  
+In order to use many of BecomeGorgeous.com services and features we ask you to register to become a member. During this member registration process, we will ask you for personally identifiable information such as your name, email address, mailing address, zip code, country, gender, birthdate, interests
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site.
+- _Information collected by BecomeGorgeous.com_ : IP address and cookies  
+Your IP address is the indentification number of your computer and this number is provided by your ISP .We use your IP address to help diagnose problems with our server and to administer our website. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or following the unsubscribe instructions that accompany an email. You will only receive email from us if you subscribe to one of our mailing lists or request that we contact you or engage in business with us.
+Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer.We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. _~ From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. ~_ If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
+- _Information collected by our advertisers_  
+Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensures that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
+\- _Newsletters and Promotions:_  
+We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either by following the 'unsubscribe' link located near the bottom of each newsletter,  
+Promotional emails: If you provide us with your email address, from time to time we may send you emails about products that we are affiliate with, services and special offers
 
-Upon request we provide site visitors with access to a description of information that we maintain about them. Visitors can access this information by e-mailing us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Visitors can have this information corrected by sending us e-mail at the above address.
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving visitor data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above email addresses or phone number.
+_contact us_  
+If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: contact[at]becomegorgeous[dot]com
