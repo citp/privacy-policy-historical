@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearticleinsiders.com privacy policy that was archived on 2007-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070525110505id_/http%3A//www.thearticleinsiders.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticleinsiders.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211084806id_/http%3A//www.thearticleinsiders.com/privacy.php) for the most accurate reproduction.*
 
 # TheArticleInsiders.com Free Article Content for Ezines, Blogs, Newsletters and Websites
 
