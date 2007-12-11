@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gawab.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016152331id_/http%3A//www.gawab.com/webfront/main.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gawab.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192342id_/http%3A//www.gawab.com/webfront/main.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
-# Gawab.com 4,627,530 Users Can't Be Wrong!
+# Gawab.com 5,038,647 Users Can't Be Wrong!
 
 This Privacy Policy applies to the collection, use, storage and disclosure of information by Gawab.com. If there are any exceptions, Gawab.com will clearly state them prior to collecting any information. Please be aware that, as part of the Services, Gawab.com provides links to Web sites operated by third parties, and also provides co-branded web-based email services to third parties for display on their own Web sites. Gawab.com is not responsible for information collection, privacy practices or content of those third party Web sites or applications. 
 
