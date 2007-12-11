@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oversources.com privacy policy that was archived on 2007-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070311214438id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversources.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150240id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.*
 
-# Privacy Notice at China Electronics Wholesaler
+# Privacy Notice - China Electronics Wholesaler
 
 Privacy Notice 
 
