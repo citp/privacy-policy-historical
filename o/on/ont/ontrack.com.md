@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624014315id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211104519id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ontrack® Data Recovery
 
 Last revision date:  November 2006
 
@@ -20,7 +20,7 @@ The information we collect**
 
   * We allow you to register to receive periodic email correspondence from us. The information we collect for this purpose is your name and your email address. 
   * Whenever you shop our online store, at the time of check-out, we obtain from you the information we need to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The transfer of this information is secure and cannot be received or read by others. 
-  * In the course of performing services for you, you may provide to us data and information that is contained on various types of electronic storage media (e.g. back-up tapes, hard drives, CD/DVD) and provide us with your instructions regarding information you would like for us to search for and return to you or otherwise make available for your review.
+  * In the course of performing services for you, you may provide to us data and information that is contained on various types of electronic storage media (e.g. back-up tapes, hard drives, CD/DVD) and provide us with your instructions regarding information you would like for us to search for and return to you or otherwise make available for your review. 
 
 
 
@@ -28,12 +28,12 @@ The information we collect**
 How we use and protect the information we collect**
 
   * **Data and media**
-    * During our performance of services we will act on your instructions as contained in communications with us and any associated contracts for our services and will retrieve and process only that information you have authorized us to retrieve and process,
+    * During our performance of services we will act on your instructions as contained in communications with us and any associated contracts for our services and will retrieve and process only that information you have authorized us to retrieve and process, 
     * In addition, Kroll Ontrack has in place various security policies and practices that are managed by its Security and Information Technology departments that are designed to protect the information you share with us from loss, misuse, unauthorized access or disclosure. 
   * **Email messages**
     * If you provide permission, we will send occasional email messages to let you know about changes to our Web site, promotional offers and special discounts on products that we believe will be of interest to you. 
     * Email messages also may be sent to invite you to participate in a contest or survey or to provide you with information about a product you have purchased from Kroll Ontrack. 
-    * We may also communicate with you via email to advise you of the progress of our services or to solicit additional information from you about the services.
+    * We may also communicate with you via email to advise you of the progress of our services or to solicit additional information from you about the services. 
   * **Online Orders**   
 We use the personal information you supply to complete and ship your order. Your email address is used to send you an order confirmation, as well as to alert you to any changes in the availability of the items you ordered. 
   * **Surveys and Contests**  
@@ -42,11 +42,11 @@ Occasionally, Kroll Ontrack requests information through surveys or contests. Re
 
 
 **  
-How to opt-out **  
+How to opt-out**  
 If you no longer wish to receive periodic emails from us, please follow the unsubscribe instructions located at the bottom of the email or send us an email at [remove@krollontrack.com](mailto:remove@krollontrack.com). Please note that we will have a 7-day processing period for opt-out requests.
 
 **  
-How to gain access to the information we have on file for you **  
+How to gain access to the information we have on file for you**  
 There may be times where you wish to gain access to the information we have on file for you. To receive a copy of this information, please send us an email at [privacy@krollontrack.com](mailto:privacy@krollontrack.com), or call toll-free at 800-752-1333. 
 
 **  
