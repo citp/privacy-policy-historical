@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601020523id_/http%3A//fan-sites.org/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211175136id_/http%3A//fan-sites.org/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D12) for the most accurate reproduction.*
 
-# Fan-Sites (dot) org - Content
+# The Fan Sites Network - Content
 
 **Privacy Policy**  
 Web-Glitter and Fan-Sites(dot)ORG, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
@@ -21,4 +21,4 @@ Fan-Sites(dot)ORG, as well as most sites on the Internet, uses "cookies" to enha
 **Opt Out Procedure**  
 If you would like to "opt out," that is, to prevent any data from being stored by Fan-Sites(dot)ORG, please mail us. If you have any additional questions about Fan-Sites(dot)ORG's dedication to consumer privacy, please contact us at [webmaster@fan-sites.org](mailto:webmaster@fan-sites.org)
 
-Copyright © by Fan-Sites (dot) org All Right Reserved.
+Copyright © by The Fan Sites Network All Right Reserved.
