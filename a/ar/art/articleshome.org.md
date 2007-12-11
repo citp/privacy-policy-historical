@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2006-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061221095728id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115413id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
 
 # ArticlesHome.org
 
@@ -50,6 +50,16 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-|    
-  
+| 
 
+[ ](http://www.axandra.com/go.to/VegasLights//articleshome_org)
+
+**[ ](http://www.axandra.com/go.to/VegasLights//articleshome_org) **
+
+**[ ](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=VegasLights)**
+
+****
+
+**  
+  
+**
