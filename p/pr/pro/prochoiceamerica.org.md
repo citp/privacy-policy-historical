@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429121718id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080750id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
 
 # NARAL Pro-Choice America's Online Privacy Policy
 
@@ -34,7 +34,15 @@ Unless you opt out, we may use the information you provide us when you contribut
 
 NARAL Pro-Choice America purchases mailing lists from other organizations and as a result you may receive mailings or e-mail from us.
 
- **Cookies:** A cookie is a tiny text file that is stored on your computer when you visit a web site such as NARAL Pro-Choice America's. To enhance your experience with our site, some pages may use cookies. Additionally, portions of our site link to external sites—such as GetActive and Yahoo!—that have their own Privacy Policy governing the use of cookies.  Please refer to these external sites for additional information.
+**When you sign up to receive text messages on your cell phone through Txt4Choice** : You may sign up to receive text messages on your cell phone from NARAL Pro-Choice America, the NARAL Pro-Choice America Foundation, and NARAL Pro-Choice America PAC by completing a form on our website, opting in through some other online transaction, or texting a keyword to our shortcode. NARAL Pro-Choice America, the NARAL Pro-Choice America Foundation, and NARAL Pro-Choice America PAC permit its state-based network of affiliates to send text messages to text message subscribers. 
+
+Unless you opt out, you will receive text messages regarding reproductive-choice related issues, often with ways to take action. You may remove your name from our text message subscription at any time by texting “stop” to 30644. 
+
+Cell phone numbers provided for text messaging will only be used to send text messages. Unless you provide your cell phone number through another mechanism, such as by completing an online transaction, we will not call your cell phone number. Cell phone numbers will not be traded or exchanged with any outside organization.
+
+If you include an email address in a text message reply, you are opting in to receive email alerts through the Choice Action Network. After you send an email in reply to a text message, you will receive a confirmation email with information about how to unsubscribe. 
+
+**Cookies:** A cookie is a tiny text file that is stored on your computer when you visit a web site such as NARAL Pro-Choice America's. To enhance your experience with our site, some pages may use cookies. Additionally, portions of our site link to external sites—such as GetActive and Yahoo!—that have their own Privacy Policy governing the use of cookies.  Please refer to these external sites for additional information.
 
 ProChoiceAmerica.org will use cookies to tailor your experience on our site to your general geographic location and interests. In these cases, we will always ask permission before placing a cookie file on your computer, and unless you choose to furnish us with personally identifiable information there will be nothing in our cookie files that identifies you personally. Should you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
