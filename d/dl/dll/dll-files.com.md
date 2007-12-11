@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618181212id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211112601id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
 
 # DLL-files.com - Privacy Policy
 
@@ -6,7 +6,7 @@ We have a special Privacy Policy at our 24/7 Livesupport. [Privacy Policy for 24
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20070618181212id_/http%3A//www.dll-files.com/contact.php)
+To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20071211112601id_/http%3A//www.dll-files.com/contact.php)
 
 For each visitor to our Web page, our Web server automatically recognizes the following:
 
@@ -18,7 +18,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20070618181212id_/http%3A//www.dll-files.com/contact.php).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20071211112601id_/http%3A//www.dll-files.com/contact.php).
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
