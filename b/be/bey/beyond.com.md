@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232144id_/http%3A//beyond.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021559id_/http%3A//beyond.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Job Search - Search Jobs, Post your Resume - Beyond.com
+# Find Jobs, Post Your Resume - Beyond.com
 
 If you have questions or concerns regarding this statement, please contact us. 
 
@@ -29,7 +29,7 @@ We are the sole owners of the information collected on this site. We will not se
 
 We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
-In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. 
+In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. Beyond.com may post advertisements of third parties on this Site, including promotions of advertisers, members, or sponsors showing their goods and services on this Site. Your correspondence, purchases, participation in, or any other dealings with third parties found on this Site are solely between you and such third party, and such third parties may provide you with other offers or follow up email from this site or other sources. You agree that Beyond.com shall not be responsible for any loss or damage of any sort incurred as a result of any such dealings or as the result of the presence of such third parties on this Site. Moreover, Beyond.com shall not be responsible or liable for the accuracy, quality, suitability, currency or content of the statements or conduct of any third party on this Site. 
 
  
 
