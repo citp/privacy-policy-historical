@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the complianceonline.com privacy policy that was archived on 2007-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070622175734id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the complianceonline.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211014732id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
         <title>Privacy Policy - ComplianceOnline Quality &amp; Compliance Portal</title>
@@ -8,346 +8,356 @@
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <link title="Flex Stylesheet" href="/images/comp.css" type="text/css" rel="STYLESHEET"> 
         <link title="Flex Stylesheet" href="/images/style.css" type="text/css" rel="STYLESHEET"> 
+        <link href="/images/complianceHome.css" type="text/css" rel="STYLESHEET">
 
      </head>
-      <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" class="ecbody" onunload="unloadEvent()">
+      <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="doLoad('1');">
+ <table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr><td style="padding-left:5px;padding-right:5px;padding-top:5px;">
             
 
 
 
- <script language="JavaScript" type="text/JavaScript" src="/images/Tracking.js"></script>
- <script language="javascript" src="/images/answers.js" type="text/javascript"></script>
- <script type="text/javascript">
-    setCustom('reg5b78c652ca969c0alix|RGX1182534584062|ComplianceOnline|1234667546');
-</script>
-<script>
-    var category = "";
-    var query ;
-     function validate(){
-      if((document.form1.query.value).length < 1){
-           alert("Enter the search string");
-            document.form1.query.focus();
-            return false;
-      } else {
-        query = document.form1.query.value;
-		if(category == "web") {
-		   window.open("http://www.complianceonline.com/cms/cms/offline/googlesearch.jsp?query="+query,"google_search");
-		   return false;
-		} else {
-               if(category == "Marketplace"){
- 			     document.getElementById("source").value = "CO_Store_DB";
-  			     document.getElementById("project").value = "Compliance-online";
-                 document.form1.action = "http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&amp;v:sources=CO_Store_DB&amp;v:project=Compliance-online&amp;query="+query;
-               }else if(category == "Directory"){
-                 document.form1.action = "http://www.complianceonline.com/webdir/webdir/web/admin/searchDirectory.html?q="+query+"&contentType="+category ;
-               }else {
-   			     document.getElementById("source").value = "All";
-  			     document.getElementById("project").value = "Compliance-online-content";
-                 document.form1.action = "http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&amp;v:sources=All&amp;v:project=Compliance-online-content&amp;query="+query;
-               }
-  				 document.form1.submit();
-               return true;
-        }
-      }
-    }
-  function bcolor(d_name)
-  {
-   document.getElementById('queryID').focus();
-    var tabName = new Array(7);
-  	tabName[0] = 'td1';
-  	tabName[1] = 'td2';
-  	tabName[2] = 'td3';
-  	tabName[3] = 'td4';
+<style type="text/css">
+.txt2 {
 
-    var sbutName = new Array(7);
-  	sbutName[0] = 'button_content.gif';
-  	sbutName[1] = 'button_store.gif';
-  	sbutName[2] = 'button_web.gif';
-  	sbutName[3] = 'button_web.gif';
-
-    var sbutWidth = new Array(7);
-  	sbutWidth[0] = 124;
-  	sbutWidth[1] = 109;
-  	sbutWidth[2] = 150;
-  	sbutWidth[3] = 150;
-
-  	var imgName = new Array(7)
-  	imgName[0] = 'im1';
-  	imgName[1] = 'im2';
-  	imgName[2] = 'im3';
-  	imgName[3] = 'im4';
-
-  	var tablName = new Array(7)
-  	tablName[0] = 'nl1';
-  	tablName[1] = 'nl2';
-  	tablName[2] = 'nl3';
-  	tablName[3] = 'nl4';
-  	tablName[4] = 'nl5';
-
-  	var tabrName = new Array(7)
-  	tabrName[0] = 'nr1';
-  	tabrName[1] = 'nr2';
-  	tabrName[2] = 'nr3';
-  	tabrName[3] = 'nr4';
-  	tabrName[4] = 'nr5';
-
-   	var tabValue = new Array(7)
-  	tabValue[0] = 'Content';
-  	tabValue[1] = 'Store';
-  	tabValue[2] = 'Web (Google)';
-  	tabValue[3] = 'Web (Google)';
-
-   	var content = new Array(7)
-  	content[0] = '';
-  	content[1] = 'Marketplace';
-  	content[2] = 'web';
-  	content[3] = 'web';
-
-       for(i=0; i<3; i++){
-         var thestyle = document.getElementById(tabName[i]).style;
-        
-		 thestyle.cursor="hand";
-         if(d_name == tabName[i]){
-            category = content[i];
-            thestyle.backgroundColor='#A1C8FB';
-			thestyle.backgroundImage = "url(/images/vivisimo/images/bluetab_bg.gif)"; 
-            thestyle.color='#000099';
-            thestyle.cursor='arrow';
-            document[tablName[i]].src = "/images/vivisimo/images/bluetab_left.gif";
-	        document[tabrName[i+1]].src = "/images/vivisimo/images/bluetab_right.gif";
- 		    var lyr = document.getElementById("title");
-            lyr.innerHTML = "Search  <strong>"+ tabValue[i]+ ": </strong>&nbsp;";
-
- 		    document.getElementById("sbutton").style.backgroundImage = "url(/images/vivisimo/images/"+sbutName[i]+")";
- 		    document.getElementById("sbutton").style.width = sbutWidth[i];
-		    document.getElementById("sbutton").style.cursor = "hand";
-
-	    } else {
-	      thestyle.backgroundColor='#ffffff';
-
-	      thestyle.color='#333333';
-  			thestyle.backgroundImage = "url(/images/vivisimo/images/greytab_bg.gif)"; 
-            document[tablName[i]].src = "/images/vivisimo/images/greytab_left.gif";
-	        document[tabrName[i+1]].src = "/images/vivisimo/images/greytab_right.gif";
-
-            }
-       }
-   }
-
-
-function unloadEvent()
-{
- if(window.screenLeft < 10004)
- {
-   //refresh
- } else if(window.screenLeft == undefined){
-   //refresh
- }else {
-  
- }
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #999999;
+	width: 90px;
 }
+.verdana11blue {
 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #114672;
+}
+.verdana11BlackTab {
 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.verdana11BlackTabLineNoHt {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height:11px;
+	color: #000000;
+}
+.verdanaSkyLink {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0033CC;
+	text-decoration:none;
+}
+.verdanaError {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+	text-decoration:none;
+}
+</style>
+
+<script language="javascript" src="/images/answers.js" type="text/javascript"></script>
+
+<script>
+
+function searchtx(){
+ var type =null;
+
+ var j = 0;
+ var radio_buttons = new Array();
+ var the_form = window.document.getElementById("form3");
+ var query = document.getElementById("query").value;
+if(query.length < 1){
+           alert("Enter the search string");
+           document.getElementById("query").focus();
+            return false;
+      }  else {
+ var searchCat;
+ for(var i=0; i<the_form.length; i++)
+      {
+      var temp = the_form.elements[i].type;
+      if((temp == "radio") && (the_form.elements[i].checked)) { 
+      
+	      //alert(the_form.elements[i].value)
+		searchCat = the_form.elements[i].value;
+      }
+      
+    }
+if(searchCat == "complianceonline") {
+     document.getElementById("source").value = "All";
+     document.getElementById("project").value = "Compliance-online-content";
+
+ document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v%3Asources=All&v%3Aproject=Compliance-online-content&query="+query
+
+}
+if(searchCat == "store") {
+     document.getElementById("source").value = "COP";
+     document.getElementById("project").value = "Compliance-online-store";
+
+ document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=COP&v:project=Compliance-online-store&query="+query
+
+}
+if(searchCat == "training") {
+     document.getElementById("source").value = "Training";
+     document.getElementById("project").value = "Compliance-online-training";
+
+ document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=Training&v:project=Compliance-online-training&query="+query
+
+} 
+if(searchCat == "blogs") {
+     document.getElementById("source").value = "Blogs";
+     document.getElementById("project").value = "Compliance-online-blogs";
+
+ document.getElementById("form3").action="http://search.complianceonline.com/search/cgi-bin/query-meta?input-form=simple&v:sources=Blogs&v:project=Compliance-online-blogs&query="+query
+
+} 
+
+  javascript:urchinTracker('Search from Home for '+searchCat); 
+
+ document.getElementById("form3").submit();
+ return true;
+}
+}
 </script>
 
+<script>
+function doLoad()
+{
+var urls=location.href;
+if(urls.indexOf('homePageNew.jsp')>-1)
+{
+   document.getElementById('imageId').innerHTML = " ";
 
-<script language="JavaScript" defer="" src="/images/complianceonline/js/tag.js"></script>
-<table width="100%" align="center">
+}
+else
+{
+ document.getElementById('imageId').innerHTML = "<tr><td valign=top align=right style=padding-bottom:5px;padding-right:10px><a href=/cms/cms/offline/index.html ><img src=/images/store/home_icon.png border=0></img></td></tr>";
 
-
-  <tbody><tr> 
-    <td>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	  <tbody><tr align="center" valign="bottom">
-	    <td><a href="/cms/cms/offline/news.html"><img src="/images/complianceonline/icon_news.gif" width="42" height="42" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><a href="/cms/cms/offline/library.html"><img src="/images/complianceonline/icon_bestprac.gif" width="42" height="42" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-         <!--	    <td><a href="/cms/cms/offline/academy.html"><img src="/images/complianceonline/icon_training.gif" width="42" height="42" border="0"></a></td>-->
-	    <!--<td><img src="/images/complianceonline/1px_trans.gif" width="10" height="1"></td>-->
-	    <td align="center" valign="middle"><a href="/ecommerce/control/myCo"><img src="/images/complianceonline/myco_icon.gif" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td rowspan="2" align="center" width="350" valign="middle"><a href="/cms/cms/offline/index.html"><img src="/images/complianceonline/logo_compliance.gif" width="291" height="52" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><a href="/ecommerce/control/trainingHome"><img src="/images/complianceonline/icon_webinar.gif" width="42" height="42" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><a href="/ecommerce/control/main"><img src="/images/complianceonline/icon_market.gif" width="42" height="42" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><a href="javascript:gotoanswers()"><img src="/images/complianceonline/icon_community.gif" width="42" height="42" border="0"></a></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <!--<td><a href="/cms/cms/offline/jobs.html"><img src="/images/complianceonline/icon_jobs.gif" width="42" height="42" border="0"></a></td>-->
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	  </tr>
-	  <tr align="center" valign="top">
-	    <td><span class="arial13black"><a href="/cms/cms/offline/news.html">News</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td width="120"><span class="arial13black"><a href="/cms/cms/offline/library.html">Best Practices</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	   <!-- <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>-->
-	    <td align="left" width="142"><span class="arial13black"><a href="/ecommerce/control/myCo">My ComplianceOnline</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><span class="arial13black"><a href="/ecommerce/control/trainingHome">Online Training</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><span class="arial13black"><a href="/ecommerce/control/main">Store</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><span class="arial13black"><a href="javascript:gotoanswers()">Community</a></span></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	    <td><img src="/images/complianceonline/1px_trans.gif" width="1" height="1"></td>
-	  </tr>
-	</tbody></table>
-
- <table width="100%" border="0" cellspacing="2" cellpadding="0">
-	  <tbody><tr align="right" valign="bottom">
-	    <td>
-	    
-	    
-		      <a href="/ecommerce/control/compliancelogin" class="arial13">Login</a> | 
-		      <a href="/ecommerce/control/registration" class="arial13">Register here</a>&nbsp;&nbsp;
-		   
-            
-
-	    </td>
-	  </tr>
-	</tbody></table>
-
-	 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-  <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
-   <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="10" height="1"></td>
-   <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="120" height="1"></td>
-		
-  <td colspan="14" align="left" valighn="top">
-  <table width="80%" align="left	" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-   	<td width="220" align="right" height="27" valign="middle" nowrap="" class="arial13Grey"><font color="#666666"> Select Search category</font> 
-      &nbsp;</td>
-    <td width="6" align="right" valign="bottom"> <img name="nl1" align="absbottom" src="/images/vivisimo/images/bluetab_left.gif"> 
-    </td>
-	<td width="69" align="center" class="arial13Blue" id="td1" onclick="bcolor('td1');" background="/images/vivisimo/images/bluetab_bg.gif" style="cursor: pointer; background-color: rgb(161, 200, 251); background-image: url(&quot;/images/vivisimo/images/bluetab_bg.gif&quot;); color: rgb(0, 0, 153);"> 
-      <div onclick="bcolor('td1');" id="td1" align="center"><b>Content </b></div>
-	</td>
-	<td width="6" align="left" valign="bottom"> <img name="nr2" align="absbottom" src="/images/vivisimo/images/bluetab_right.gif"> 
-    </td>
-	<td width="6" align="right" valign="bottom"> <img name="nl2" align="absbottom" src="/images/vivisimo/images/greytab_left.gif"> 
-    </td>
-	<td width="69" align="center" id="td2" onclick="bcolor('td2');" class="arial13Blue" style="cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); background-image: url(&quot;/images/vivisimo/images/greytab_bg.gif&quot;);"> 
-      <div onclick="bcolor('td2');" id="td2" align="center"><b>Store</b></div>
-	</td>
-	<td width="6" valign="bottom"> <img name="nr3" align="absbottom" src="/images/vivisimo/images/greytab_right.gif"> </td>
-	
-	<td width="6" align="right" valign="bottom"> <img name="nl3" align="absbottom" src="/images/vivisimo/images/greytab_left.gif"> 
-    </td>
-	<td width="118" align="center" valign="middle" class="arial13Blue" id="td3" onclick="bcolor('td3');" style="cursor: pointer; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); background-image: url(&quot;/images/vivisimo/images/greytab_bg.gif&quot;);"> 
-      <div onclick="bcolor('td3');" id="td3"><b>Web</b> (Google)</div>
-	</td>
-	<td width="247" valign="bottom"> <img name="nr4" align="absbottom" src="/images/vivisimo/images/greytab_right.gif"> </td>
-	<td width="14"></td>
-	</tr></tbody></table>
-	</td>
-	<td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
- </tr>
-  <tr>
-     <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>		 
-    <td colspan="16">
-   <table width="100%" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-   <td bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" height="10"></td>
-   <td colspan="14" bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" width="100%" height="10"></td>
-		 
-    <td bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" height="10"></td>
-  </tr>
-  </tbody></table>
-  </td>
-  <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
-  </tr>
- <tr bgcolor="#A1C8FB">
- 		
-		 <form name="form1" method="post" onsubmit="return validate()"></form>
-		 <input type="hidden" name="input-form" value="simple">
-		 <input type="hidden" name="v:sources" id="source" value="CO_Content_DB">
-		 <input type="hidden" name="v:project" id="project" value="Compliance-online-content">
-		  <td align="left" valign="bottom" nowrap="" bgcolor="#FFFFFF"><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
-		 <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="10" height="1"></td>
-		 <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="60" height="1"></td>
-		 <td align="right" valign="center" class="arial13black" nowrap="" width="220">
-		    <div id="title" valign="center" style="padding:'5px'">Search  <strong>Content: </strong>&nbsp;</div>
-		 </td>
-		 <td valign="bottom" align="left" width="700">
-			 <input type="text" name="query" id="queryID" size="42">&nbsp;
-             <input onclick1="return validate()" type="submit" id="sbutton" value="" style="background: url(&quot;/images/vivisimo/images/button_content.gif&quot;); width: 124px; height: 24px; border: 0px; cursor: pointer;">
-		  </td>
-		   <td colspan="12" valign="bottom" align="left">
-		   &nbsp;
-		   </td>
-		   <td align="left" valign="bottom" nowrap="" bgcolor="#FFFFFF"><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
-		  
-  </tr>
-  <tr>
-   <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
- <td colspan="16">
-   <table width="100%" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-   <td bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" height="10"></td>
-   <td colspan="14" bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" width="100%" height="10"></td>
-		 
-    <td bgcolor="#A1C8FB"><img src="/images/vivisimo/images/spacer.gif" height="10"></td>
-  </tr>
-  </tbody></table>
-  </td>
-  <td align="left" valign="bottom" nowrap=""><img src="/images/vivisimo/images/spacer.gif" width="3" height="1"></td>
-  </tr>
- </tbody></table>
-&nbsp;<span class="whiteLight">
-     
-       
-       
-       
-       
-       
-       
-       
-
-
-     
-</span>
-	<br>
-
-
-<script>bcolor('td1');</script>
+}
+}
+</script>
 
  
-    <script>bcolor('td1');</script>
 
 
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-right:1px solid #CCCCCC;">
+<tbody><tr>
 	
 
+	<td colspan="2" valign="top" bgcolor="EEF2FB" height="100%" style="border-left:1px solid #CCCCCC; ">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		<td background="/images/training/head_bg.gif" style="background-repeat:repeat-x;" aligna="center">
+			<!-- Links and search bar starts -->
+			
+			<table border="0" width="100%" cellpadding="0" cellspacing="0" aligna="center">
+			<tbody><tr><td colspan="5"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="10"></td></tr>
+			<tr>
+			<td><img src="/images/lp/webinar/1px_trans.gif"></td>
+			<td> 
+				<!-- Top Links (news, best practises, store etc., ) Starts --> 
+				
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><img src="/images/training/news_ico.gif" width="25" height="15"></td>
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+					<td><a href="/cms/cms/offline/news.html" style="text-decoration:none;" onclick="javascript:urchinTracker('News link from Home')"><span class="verdanaSky12Link">News</span></a></td>
+
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
+
+					<td><img src="/images/training/best_practices_ico.gif" width="23" height="25"></td>
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+					<td><a href="/cms/cms/offline/library.html" style="text-decoration:none;" onclick="javascript:urchinTracker('Best Practices link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Best Practices</span></a></td>
+
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
+
+					<td><img src="/images/training/onlinetraining_ico.gif" width="21" height="23"></td>
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+					<td><a href="/ecommerce/control/trainingHome" style="text-decoration:none;" onclick="javascript:urchinTracker('Online Training link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Online Training</span></a></td>
+
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
+
+					<td><img src="/images/training/store_ico.gif" width="21" height="23"></td>
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+					<td><a href="/ecommerce/control/main" style="text-decoration:none;" onclick="javascript:urchinTracker('Store link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Store</span></a></td>
+
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="10"></td>
+
+					<td><img src="/images/training/bulb_icon_03.gif" width="14" height="23"></td>
+					<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+					<td><a href="/ecommerce/control/answersHome" style="text-decoration:none;" onclick="javascript:urchinTracker('Community link from Home')"><span class="verdana12Black" style="color:#0033CC;font-size:12px;">Answers</span></a></td>
+
+				</tr>
+				</tbody></table>
+
+				<!-- Top Links (news, best practises, store etc., ) Ends --> 
+			</td>
+			<td rowspan="3"><img src="/images/lp/webinar/1px_trans.gif" width="5" height="1"></td>
+                        <td rowspan="3" valign="bottom">
+                         <table border="0" cellspacing="0" cellpadding="0" width="100%" id="imageId"><tbody><tr><td valign="top" align="right" style="padding-bottom:5px;padding-right:10px"><a href="/cms/cms/offline/index.html"><img src="/images/store/home_icon.png" border="0"></a></td></tr></tbody></table>
+                       
+                       
+                       
+
+                        
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" abgcolor="#EEF2FB">
+			<tbody><tr>
+			<td valign="top" align="right" width="5"><img src="/images/training/login/curv_white_top_left.gif"></td>
+			<td background="/images/training/login/white_bg_top.gif" style="background-repeat:repeat-x;"></td>
+			<td valign="top" width="5"><img src="/images/training/login/curv_white_top_right.gif"></td>
+			</tr>
+			<tr>
+			<td valign="top" align="right" width="5" background="/images/training/login/white_bg_left.gif" style="background-repeat:repeat-y;"></td>
+			<td>
+			<!--sign in table -->
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="verdana11BlackTab"><tbody><tr><td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" class="verdana11BlackTabLineNoHt">
+			<tbody><tr><td colspan="2" height="1"></td></tr>
+			<tr><td width="6"></td><td class="verdana11BlackTab" height="16">Welcome <b>Guest</b> </td></tr>
+			<tr><td colspan="2" height="5"></td></tr>
+			<tr><td width="6"></td><td class="verdana11BlackTab" height="16">Member <a href="/ecommerce/control/compliancelogin" class="verdanaSkyLink" onclick="javascript:urchinTracker('Sign in link from Home')"><b>Sign In</b></a></td></tr>
+			<tr><td colspan="2" height="1"></td></tr>
+			<tr><td width="5"></td><td class="verdana11BlackTab" height="16">Not a Member? <a href="/ecommerce/control/registration" class="verdanaSkyLink" onclick="javascript:urchinTracker('Sign up link from Home')"><b>FREE Sign Up</b></a></td></tr>
+			<tr><td colspan="2" height="5"></td></tr>
+			</tbody></table></td></tr>
+			</tbody></table>	
+			<!--sign in table -->
+			</td>
+			<td valign="top" align="right" width="5" background="/images/training/login/white_bg_right.gif" style="background-repeat:repeat-y;"></td>
+			</tr>
+			<tr>
+			<td valign="top" align="right" width="5"><img src="/images/training/login/curv_white_btm_left.gif"></td>
+			<td background="/images/training/login/white_bg_btm.gif" style="background-repeat:repeat-x;"><img src="/images/lp/webinar/1px_trans.gif" height="1"></td>
+			<td valign="top" width="5"><img src="/images/training/login/curv_white_btm_right.gif"></td>
+			</tr>
+			</tbody></table>
 
 
 
-            <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td width="3%">&nbsp;</td>
-<td width="94%" class="arial13black"><p class="arial13black">Privacy policy</p>
-<p>At ComplianceOnline, we are committed to protecting your privacy and to gives you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.</p>
-<p class="arial13black">Collecting Personal Information</p>
+
+			</td>
+			<td rowspan="3"><img src="/images/lp/webinar/1px_trans.gif" width="8" height="1"></td>
+			</tr>
+
+			<tr><td colspan="2"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="3"></td></tr>
+
+			<tr>
+			<td>&nbsp;<a href="/cms/cms/offline/index.html"><img src="/images/training/co_logo_home.gif" width="175" height1="40" hspace1="8" border="0"></a></td>
+			<td widtha="100%">
+				<table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" width="100%">
+				<tbody><tr>
+					<td><img src="/images/training/curv_white_top_left.gif"></td>
+					<td background="/images/training/white_bg_top.gif"><img src="/images/lp/webinar/1px_trans.gif" width1="1" height1="1"></td>
+					<td><img src="/images/training/curv_white_top_right.gif"></td>
+				</tr>
+
+				<tr>
+					<td background="/images/training/white_bg_left.gif"><img src="/images/lp/webinar/1px_trans.gif"></td>
+					<td width="100%">
+						
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<form id="form3" method="post" onsubmit="return searchtx()"></form>
+						<tbody><tr>
+							<td colspan="3"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="8"></td>
+							<td colspan="3">
+								<span class="verdana12black" style="color:#000000;font-size:12px;padding-bottom:3px">
+								<input type="radio" name="search" value="complianceonline" checked=""> ComplianceOnline &nbsp;&nbsp;  <input type="radio" name="search" value="store"> Store &nbsp;&nbsp; <input type="radio" name="search" value="training"> Training 
+							</span></td>
+						</tr>
+						<tr>
+							<td><img src="/images/lp/webinar/1px_trans.gif" width="5"></td>
+							<td width="14" height="14" valign="top"><img src="/images/training/search_ico.gif" width="14" height="18" hspace="5"></td>
+							<td width="50" valign="top"><span class="verdana12black" style="color:#636363;font-size:15px;"><b>Search&nbsp;</b></span></td>
+							<td width="300" valign="bottom">
+								<input type="text" size="50" name="query" id="query">
+							</td>
+							<td width="150" align="left" valign="top" style="padding-left:10px">
+								<input type="submit" id="sbutton" value="" style="background:url('/images/training/search.gif'); width: 72; height: 24px; border:0;">
+							</td>
+							<td><img src="/images/lp/webinar/1px_trans.gif" width="5">
+								<input type="hidden" name="input-form" value="simple">
+								<input type="hidden" name="v:sources" id="source" value="CO_Content_DB">
+								<input type="hidden" name="v:project" id="project" value="Compliance-online-content"></td>
+						</tr>
+						<tr><td colspan="6"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="5"></td></tr>
+						
+						</tbody></table>
+				
+				</td>
+				<td background="/images/training/white_bg_right.gif"><img src="/images/lp/webinar/1px_trans.gif"></td>
+				</tr>
+				
+				<tr>
+					<td><img src="/images/training/curv_white_btm_left.gif"></td>
+					<td background="/images/training/white_bg_btm.gif"><img src="/images/lp/webinar/1px_trans.gif"></td>
+					<td><img src="/images/training/curv_white_btm_right.gif"></td>
+				</tr>
+				</tbody></table>
+			
+			</td></tr>
+			<tr><td colspan="5"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="5"></td></tr>
+			</tbody></table>
+			<!-- Links and search bar starts -->
+
+		</td></tr>
+		</tbody></table>
+	</td>
+
+
+</tr>
+
+<tr><td align="left" bgcolor="#CCCCCC" colspan="2" height="1"><img src="/images/lp/webinar/1px_trans.gif" width="1" height="1"></td>
+
+</tr>
+</tbody></table>
+
+
+  <br>
+            <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td valign="top"><table cellspacing="0" cellpadding="0" border="0" bgcolor="34669C"><tbody><tr><td><img src="https://www.complianceonline.com/images/training/curv_gred_left.gif"></td>
+</tr>
+</tbody></table>
+</td>
+<td background="/images/training/gred_bg.gif" width="100%" style="background-repeat:repeat-x;" class="verdana11Black"><span class="verdana12Black"><b>&nbsp;&nbsp;Privacy policy</b></span> </td>
+<td valign="top"><table cellspacing="0" cellpadding="0" border="0" bgcolor="34669C"><tbody><tr><td><img src="https://www.complianceonline.com/images/training/curv_gred_right.gif"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td valign="top" colspan="3"><table cellspacing="0" width="100%" class="verdana11BlackTab" cellpadding="0" border="0" style="border-left:1px solid #D3D4D4; border-bottom:1px solid #D3D4D4;border-right:1px solid #D3D4D4;"><tbody><tr><td valign="top" width="12"></td>
+<td valign="top" class="verdana12Black" style="padding-right:10px"><table cellspacing="0" cellpadding="0" width="100%" border="0" class="verdana12Black"><tbody><tr><td><p>At ComplianceOnline, we are committed to protecting your privacy and to gives you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.</p>
+<p><b>Collecting Personal Information</b></p>
 <p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are ordering e-mail newsletters, joining a limited-access premium site, or purchasing products or services. Personal information collected by ComplianceOnline often is limited to e-mail address, language, country or location, but may include other information when needed to fulfill your request or order.</p>
 <p>ComplianceOnline may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, ComplianceOnline may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, employer, job title and department, telephone and fax numbers, and other personal information.</p>
 <p>When ordering products or services, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to proceed with that activity.</p>
 <p>When you buy and install the new products, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Web site. This is considered your personal profile.</p>
 <p>When you submit personal information to ComplianceOnline through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which ComplianceOnline maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors and partners of ComplianceOnline. Such vendors and partners are bound by contract not to use your personal information for their own purposes or provide it to any third parties.</p>
-<p class="header">Use of Personal Information</p>
+<p><b>Use of Personal Information</b></p>
 <p>ComplianceOnline collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of ComplianceOnline and selected third parties.</p>
 <p>ComplianceOnline will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ComplianceOnline or the site; (b) protect and defend the rights or property of ComplianceOnline and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of ComplianceOnline, its Web sites, or the public.</p>
 <p>ComplianceOnline may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. ComplianceOnline may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.</p>
-<p class="header">Security of Personal Information</p>
+<p><b>Security of Personal Information</b></p>
 <p>ComplianceOnline strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.</p>
 <p>Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.</p>
-<p class="header">Changes to this Statement</p>
+<p class="header"><b>Changes to this Statement</b></p>
 <p>ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site.</p>
 </td>
-<td width="3%">&nbsp;</td>
 </tr>
 </tbody></table>
+<br> </td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
             <table cellspacing="0" cellpadding="0" width="100%" border="0">
         <tbody>
            <tr>
@@ -371,6 +381,9 @@ function unloadEvent()
 </table>
 
 
+  </td>
+</tr>
+</tbody></table>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -378,4 +391,4 @@ _uacct = "UA-91240-3";
 urchinTracker("Privacy Policy");
 </script>
       
-</td></tr></tbody></table></body></html>
+</body></html>
