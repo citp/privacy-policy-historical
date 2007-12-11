@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfibi.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630204058id_/http%3A//www.amfibi.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfibi.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020640id_/http%3A//www.amfibi.com/info/privacy.html) for the most accurate reproduction.*
 
 # Amfibi: Privacy Policy
 
