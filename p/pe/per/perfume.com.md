@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630021450id_/http%3A//www.perfume.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211063649id_/http%3A//www.perfume.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Perfume and Cologne - Buy Brand Name Perfumes Online
 
