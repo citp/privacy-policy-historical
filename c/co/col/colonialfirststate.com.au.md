@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208114514id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211074144id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
 
 # Colonial First State: Privacy
 
@@ -22,7 +22,7 @@ We aim to ensure that the personal information we retain about you is accurate, 
 
 ## **Online services**
 
-For statistical purposes we collect information on web site activity (such as the number of users who visit our web site, the date and time of visits, the number of pages viewed, navigation patterns, what country and what systems users have used to access the site and, when entering our web site from another web site, the address of that web site) through the use of [ 'cookies'](https://web.archive.org/footer/security.aspx?menutabtype=footer#cookie). This information on its own does not identify an individual but it does provide us with statistics that can be used to analyse and improve our web site. 
+For statistical purposes we collect information on web site activity (such as the number of users who visit our web site, the date and time of visits, the number of pages viewed, navigation patterns, what country and what systems users have used to access the site and, when entering our web site from another web site, the address of that web site) through the use of [ 'cookies'](https://web.archive.org/footer/security.aspx?menutabtype=footer#cookie). This information on its own does not identify an individual but it does provide us with statistics that can be used to analyse and improve our web site.
 
 If you want to see our more detailed privacy policy document [ click here](https://web.archive.org/prospects/FS2545.pdf). 
 
