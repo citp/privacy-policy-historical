@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the judici.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622030255id_/http%3A//www.judici.com/service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judici.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211044508id_/http%3A//www.judici.com/service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Judici Privacy Policy
-
-|  | **Judici.com Privacy Policy**
 
 This statement sets forth the privacy policy for Judici.com (the Website) and describes the practices Judici.com follows to respect the privacy of all authorized users of this site.
 
@@ -16,8 +14,4 @@ The information you provide is used only for internal statistical analysis and r
 
 Judici does not sell, rent, distribute or disclose your personally identifiable information collected at subscription to any third parties; provided however, that Judici reserves the right to disclose such information as may be required by law.
 
-For questions about Judici's privacy or information usage policies, [contact us.](https://web.archive.org/service/contact_us.jsp?id=3)  
-  
----  
-   
- 
+For questions about Judici's privacy or information usage policies, [contact us.](https://web.archive.org/service/contact_us.jsp?id=3)
