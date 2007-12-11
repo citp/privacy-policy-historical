@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429190326id_/http%3A//www.submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062319id_/http%3A//www.submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
 
 # Submit Corner - Privacy Policy
 
@@ -26,4 +26,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: _[webmaster@wired2000.com](mailto:webmaster@wired2000.com)_
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: _webmaster[at]wired2000[dot] com_
