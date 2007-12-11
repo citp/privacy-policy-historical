@@ -1,56 +1,41 @@
-> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614172134id_/http%3A//www.retail-week.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211172436id_/http%3A//www.retail-week.com/privacy_and_cookie_policy.html) for the most accurate reproduction.*
 
-# Retail Week - Business information for the retail industry
-
-  
-
-
-* * *
-
-**Our Commitment To Your Privacy**   
-
-
-* * *
-
-Retail Week and [Emap Plc](http://www.emap.com/) are committed to protecting your privacy and security. From time to time _We_ may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, _Our_ bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap for processing both inside and outside the European Economic Area [EEA]. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. We will never wilfully disclose personal information about you to any third party other than to process an order without first receiving your permission or unless we are under a legal obligation to do so. 
-
-**Why We Need To Collect Information From You**
-
-* * *
+# Services - Privacy Policy
 
   
-_We_ will notify you as to the types of information _We_ are collecting about you as well as the uses _We_ intend to make of that information. _We_ may use the information _We_ collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you'll find of interest. 
 
-**Who Else Will We Tell About You?**
 
-* * *
+## Our Commitment To Your Privacy
 
-  
-_We_ will not pass on your personal details to any third party, including site sponsors or advertisers, without your permission. _We_ may provide aggregate statistics about Our users, sales, traffic patterns and related site information to _Our_ third-party partners (if any), but these statistics will not contain any information about you from which you could be identified. 
+Retail Week and Emap Communications Limited are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap Communications Limited for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy **"Who Else Will We Tell About You" section below**  
+This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Communications Limited in correspondence, by telephone or by other means not detailed in this Policy.
 
-**Feedback, Comments & Suggestions**
+## Why We Need To Collect Information From You
 
-* * *
+We will notify you as to the types of information we are collecting about you as well as the uses we intend to make of that information. We may use the information we collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you'll find of interest.
 
-  
-If you have any queries about _Our_ **Privacy Policy** or any queries about the protection of personal information _We_ hold about you, please do not hesitate to contact us:   
-Our address is: 
+## Who Else Will We Tell About You?
 
-Retail Week   
-Emap Retail   
-33-39 Bowling Green Lane   
-London   
-EC1R 0DA   
-UK 
+Subject to what we say below, we will not pass on your personal details to any third party, including site sponsors or advertisers, without your consent. We may provide aggregate statistics about our users, sales, traffic patterns and related site information to Our third-party partners (if any), but these statistics will not contain any information about you from which you could be identified.   
+If you enter any competitions on this Web site it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving.   
+Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Retail Week or Communications Limited acquires, or is Retail Week acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Retail Week despite a change of ownership.   
+We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you.   
+Finally, Communications Limited is not responsible for all of the web sites that are referred to, or linked to, in this Web site. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this Policy.
 
-Tel: +44 (0)20 7505 8000   
-Email: [editorial@retail-week.com](mailto:editorial@retail-week.com)
+## Security and possibility of international transfer
 
-**In Summary**
+Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but We always demand that those parties to whom We transfer data adhere to the same security procedures that We follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.
 
-* * *
+## The Use Of 'Cookies'
 
-  
-_We're_ committed to protecting your privacy. _We_ use the information We collect on the site only for the purposes for which you have consented. _We_ won't pass on your personal information to others without your permission. Please note that countries outside the **EEA** may not have the same level of protection as countries within the **EEA** , but _We_ always demand that those parties to whom We transfer data adhere to the same security procedures that _We_ follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.   
-If you do not agree with this **Privacy Policy** you should **not** submit your personal information on this web-site.   
-Please refer to the site's [Terms & Conditions Of Use >>](https://web.archive.org/nav?page=retailweek.legal.tnc). 
+In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website.   
+Why Do We Use Cookies? Like many other websites, this website uses cookies as they enable Retail Week to identify your computer when you visit this website. For example, cookies make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. **[Click here](http://www.aboutcookies.org/)** for instructions on how to disable cookies.   
+Please be aware that if you do disable cookies, certain services on this website may not be available to you and your enjoyment of this website may be impaired.
+
+## Feedback, Comments & Suggestions
+
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information We hold about you, please do not hesitate to contact us: Our address is Greater London House, Hampstead Road, London, NW1 7EJ
+
+## Finally
+
+If you do not agree with this Privacy Policy you should not submit your personal information on this website. Please refer to the sites [**Terms & Conditions Of Use**](https://web.archive.org/terms_and_conditions.html)
