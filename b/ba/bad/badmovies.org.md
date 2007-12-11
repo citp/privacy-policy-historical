@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528181855id_/http%3A//badmovies.org/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badmovies.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053748id_/http%3A//www.badmovies.org/information/privacy.html) for the most accurate reproduction.*
 
 # Badmovies.org Privacy Policy
 
+WHO ARE YOU?  
+  
 Online privacy should be important to you. This page outlines exactly what information is gathered when you visit Badmovies.org. 
 
 Do not make the mistake of thinking you are anonymous while online. If someone wants to find you, they will. The Badmovies.org server does keep logs, intended to assist in debugging and also controlling criminal activity. These logs are private, only available to myself and the hosting administrators. A program on the server provides general statistical information about traffic and that is all. If you click on the review for [Plan Nine from Outer Space](https://web.archive.org/movies/plannine/) then the program lets me know ten thousand and one people have now read the review, vice ten thousand. Only by manually checking the server log can I start to identify you. Unless you have been doing something naughty, I really do not have the time. 
