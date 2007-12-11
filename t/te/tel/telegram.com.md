@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208040520id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211140558id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
 
-# Worcester Telegram & Gazette
+# telegram.com - Info Center
 
-**Friday January 31, 2020** Last updated: 09:09 AM EDT  
-**Privacy Policy**
-
-This policy describes how the web sites maintained by the Telegram & Gazette - telegram.com, eworcester.com and OnTheCommon.com and others as they become available - collect and utilize users' personal identifiable information.
+This policy describes how the web sites maintained by the Telegram & Gazette - telegram.com, eworcester.com and worcesterlivingmagazine.com and others as they become available - collect and utilize users' personal identifiable information.
 
 The web sites will not disclose a user's personal identifiable information to a third party without the user's express permission.
 
@@ -17,7 +14,9 @@ We do develop summary reports of usage for our advertisers. This includes the nu
 
 **Information we do gather**
 
-Certain services, such as contests, the eWorcester Wire, OnTheCommon.com and participation in The Diner, require registration. The registration generally includes only name, street address and email address and is necessary for the administration of the service. We do not share this information with third parties without disclosing that intention.
+Certain services require registration. We do not share this information with third parties without disclosing that intention.
+
+We have partnered with TACODA Audience Networks which uses general information about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements about goods and services that may be of interest to you. If you wish to opt out of this and other targeted adverstising networks, you can use the [Network Advertising Initiave Opt-out Tool](http://networkadvertising.org/managing/opt_out.asp).
 
 **Usage tracking**
 
@@ -31,18 +30,6 @@ Users can forward a news story to someone else by clicking the link at the botto
 
 T&G Online often offers contests in which participants must register. Required information always includes at least name and email address. Sometimes more information is required. The rules and terms of each contest can vary. Contests are often run in partnership with advertisers or businesses and registration information may be shared with those parties.
 
-**OnTheCommon.com**
-
-OnTheCommon, eWorcester's community publishing site, collects personal information - name and email address - but it is used only to form summary reports of usage. OnTheCommon employs cookies, a bit of information stored in the user's computer. These are necessary for user authorization and site navigation. Users won't be able to register or log in as members if cookies are disabled.
-
 **Subscribing to the paper, buying a photo and/or placing a classified ad**
 
 Personal information is required to complete any of these transactions. The information is maintained in databases offline by the individual departments.
-
-  
-[Get a printer-friendly version of this page](http://cgi.telegram.com/cgi-bin/ezprint.pl)
-
-[©2002](http://www.telegram.com/tools/telegram/copyright.html) Worcester Telegram & Gazette Corp.
-
-[Order the Telegram & Gazette,  
-delivered daily to your home or office!](https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html)
