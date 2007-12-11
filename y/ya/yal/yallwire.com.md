@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2007-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070509054043id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211024045id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
 
 # Yallwire Privacy Policy
 
@@ -42,12 +42,12 @@ Should you choose to in the future, Yallwire provides its users the opportunity 
 
 If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to [support@yallwire.com](mailto:info@yallwire.com)
 
-Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037 
+Send your request via post to: 609 W. 18th #C, Austin, Tx 78701 
 
 **Correct/Update**  
 If you would like to change or modify information you previously provided to us, please utilize one of the following options: Email your request to [contact@yallwire.com](mailto:contact@yallwire.com)
 
-Send your request via post to: 2301 E Street NW, A-910, Washington, DC 20037 
+Send your request via post to: 609 W. 18th #C, Austin, Tx 78701 
 
 **Contacting the Website**   
 If you have any questions regarding this privacy statement, the practices of this site or your dealings with this Website, you may contact: [info@yallwire.com](mailto:infoATyallwire.com)
