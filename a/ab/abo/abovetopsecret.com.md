@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617191017id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030541id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
 
-# Updated AboveTopSecret.com Privacy Policy
-
-**[**AboveTopSecret.com**](http://www.abovetopsecret.com/forum/mem/AboveTopSecret.com)**   
-|  |  **posted on 12-11-2006 @ 08:18 PM** |   
----|---  
-  
-**Updated AboveTopSecret.com Privacy Policy  
-**  
-
+# Updated AboveTopSecret.com Privacy Policy, page 1
 
 ### Our Commitment To Privacy
 
@@ -36,6 +28,10 @@ From time to time data cookies will be set by various portions of the applicatio
 
 Advertising networks that serve advertising on AboveTopSecret.com may write their own cookies for the purposes of determining advertising frequency and relevance. We have performed reasonable diligence on all advertising networks authorized to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. 
 
+**Data Mining:**
+
+At no time will your personal profile information, posting history, or any other activity specific to your time on our websites be used for the purposes of targeted messages from advertisers or marketers purchasing ads or other marketing products on these websites. 
+
 **Our Commitment To Data Security:**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
@@ -52,4 +48,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please send us an email using our [Contact Form](http://www.abovetopsecret.com/forum/contact.php).
+Should you have other questions or concerns about these privacy policies, please send us an email using our [Contact Form](http://www.abovetopsecret.com/forum/contact.php). 
