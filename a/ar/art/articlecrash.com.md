@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110853id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleCrash Directory | Free Author Submission | Find Free Content for Publication | RSS Feeds- Free Content for your Website!
 
-[](http://www.articlecrash.com/english.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/german.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/'spanish.php'?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/french.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/'italian.php'?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/portuguese.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/japanese.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/korean.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php) |  [](http://www.articlecrash.com/chinese.php?u=https://web.archive.org/web/20070609035715id_/http%3A//www.articlecrash.com/privacy.php)  
----|---|---|---|---|---|---|---|---  
-  
 ArticleCrash.com™ values the privacy of our Authors/Publisher, we will not disclose any personal information to any vendor, partner or outside agency. This includes your e-mail address, name, and location.
 
 **IP Addresses**
@@ -39,12 +36,7 @@ This statement and the policies outlined herein are not intended to and do not c
 
 **Contacting Article Crash™**
 
-  * [**email**](http://www.articlecrash.com/contacts.php)
-  * **Postal Mail:**  
-Article Crash™  
-PO Box 2352  
-Claremore, Oklahoma   74018
-
+[**email**](http://www.articlecrash.com/contacts.php)
 
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email or postal mail.
