@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dose.ca privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630035243id_/http%3A//www.canwestglobal.com/privacyIF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dose.ca privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211195027id_/http%3A//www.canwestglobal.com/privacyIF.html) for the most accurate reproduction.*
 
 # CanWest Global Communications Corp.
 
@@ -20,7 +20,7 @@ The application of this Customer Privacy Statement and the CanWest MediaWorks Pr
 
 **A SINGLE POLICY**
 
-Any time you do business with a member of the CanWest MediaWorks Group, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest MediaWorks Privacy Policy.([Click here to download the full CanWest Privacy Policy in pdf format](https://web.archive.org/web/20070630035243id_/http%3A//www.canwestglobal.com/PDF/privpolicyIFen.pdf)) 
+Any time you do business with a member of the CanWest MediaWorks Group, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest MediaWorks Privacy Policy.([Click here to download the full CanWest Privacy Policy in pdf format](https://web.archive.org/web/20071211195027id_/http%3A//www.canwestglobal.com/PDF/privpolicyIFen.pdf)) 
 
 **WHAT IS PERSONAL INFORMATION?**
 
