@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlexplore.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627095337id_/http%3A//www.articlexplore.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Df02197a8991a75d1e9384fbf89fdfa80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlexplore.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040338id_/http%3A//www.articlexplore.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3De745f3225c644bae934a144adf2ab9bb) for the most accurate reproduction.*
 
 # privacy ArticleXplore.com - Article directory. Submit articles and get free traffic.
 
