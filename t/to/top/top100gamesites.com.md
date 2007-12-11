@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top100gamesites.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627001252id_/http%3A//www.top100gamesites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100gamesites.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211174147id_/http%3A//www.top100gamesites.com/privacy.htm) for the most accurate reproduction.*
 
 # Game - Top 100 Sites
 
