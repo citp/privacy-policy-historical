@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616180753id_/http%3A//www.webcrawler.com/webcrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075734id_/http%3A//www.webcrawler.com/webcrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - WebCrawler
 
@@ -84,3 +84,5 @@ Bellevue, Washington 98004 USA
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
 E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)
+
+Policy effective January 1, 2005. 
