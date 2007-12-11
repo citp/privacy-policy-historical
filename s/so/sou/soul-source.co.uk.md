@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427074731id_/http%3A//www.soul-source.co.uk/site-official-section/privacy-policy-soul-source.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060759id_/http%3A//www.soul-source.co.uk/site-official-section/privacy-policy-soul-source.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Soul Source | Soul Source Rare and Northern Soul
 
@@ -38,7 +38,7 @@ Telasource may place a "cookie" in your computer's browser. Cookies are small te
 
 Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to disable cookies or to inform you when they are set. However you may not be able to take full advantage of the features of our website if you disable them.
 
-You can find out more about the way cookies work and how to disable them on [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
+You can find out more about the way cookies work and how to disable them on [](http://www.allaboutcookies.org/ "www.allaboutcookies.org")[www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 **Security**
 
