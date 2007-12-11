@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051539id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211013853id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FREE UK DELIVERY
 
@@ -39,9 +39,9 @@ GRAB YOURSELF A BARGAIN!
 
 CUSTOMER COMMENTS...
 
-"Just wanted to say thanks for very quick service - placed an order on your website at 12 o'clock on Monday and I have the helmet and all the goodies that go with it at 9:30 on Tuesday morning. Excellent service and excellent price, will definitely use you again and recommend you to friends."
+"My helmet arrived today. Many thanks for your prompt service and reply. If I need anything else I will not hesitate to use you again. Thanks once again."
 
- **Chris Edge - Cheshire**
+ **Scott Timson - Wrexham**
 
 FREE UK DELIVERY OVER £25
 
