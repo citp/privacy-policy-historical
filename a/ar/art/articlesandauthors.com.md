@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the articlesandauthors.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607121002id_/http%3A//www.articlesandauthors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesandauthors.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesandAuthors.com - THE Premier Site for Free Articles AND Article Authors
 
 **Article Authors/Writers:** Got articles? Need links?  **Submit your articles** for free as an author with ArticlesandAuthors.com ([learn more...](https://web.archive.org/learnmore.php))  
-**Website Owners/Publishers:** Got websites? Need content?  **Get free articles** from ArticlesandAuthors.com ([learn more...](https://web.archive.org/web/20070607121002id_/http%3A//learnmore-publishers.php))   
+**Website Owners/Publishers:** Got websites? Need content?  **Get free articles** from ArticlesandAuthors.com ([learn more...](https://web.archive.org/web/20071211033450id_/http%3A//learnmore-publishers.php))   
   
 **Search ArticlesandAuthors.com:**        |  Bookmark Us  |  [Contact Us](https://web.archive.org/contacts.php)  |  [Home](http://www.articlesandauthors.com/)  
   
