@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the evitamins.com privacy policy that was archived on 2007-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070629022959id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evitamins.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211223555id_/http%3A//www.evitamins.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>eVitamins - Privacy Policy</title>
@@ -49,22 +49,23 @@ var subobj=document.getElementById(subobjstr)
 subobj.style.display=(subobj.style.display!="block")? "block" : "none"
 var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
 var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
-LeftPosition = (screen.width) ? (screen.width-400)/2 : 0;
-/*TopPosition = (screen.height) ? (screen.height-700)/2 : 0;*/
-TopPosition = document.body.scrollTop + 30;
+  LeftPosition = (screen.width) ? (screen.width-400)/2 : 0;
+  /*TopPosition = (screen.height) ? (screen.height-700)/2 : 0;*/
+  TopPosition = document.body.scrollTop + 30;
 
+  document.all.infoType.style.visibility = 'hidden';
+  subobj.style.left=LeftPosition
+  subobj.style.top=TopPosition
+  return false
+  }
+  else
+  return true
+  }
 
-subobj.style.left=LeftPosition
-subobj.style.top=TopPosition
-return false
-}
-else
-return true
-}
-
-function overlayclose(subobj){
-document.getElementById(subobj).style.display="none"
-}
+  function overlayclose(subobj){
+  document.getElementById(subobj).style.display="none"
+  document.all.infoType.style.visibility = 'visible';
+  }
 
 </script>
 <!-- ############# END review POP ##############-->
@@ -242,6 +243,7 @@ function show_cart(){
 	} catch(err) { 
 		return;
 	}
+  document.all.infoType.style.visibility = 'hidden';
 	popedup_cart.style.visibility="visible";
 	aw=rw(popedup_b2a_cart);
 	bw=rw(popedup_b2b_cart);
@@ -313,6 +315,7 @@ function hide_cart(){
 	poperup_cart.onmouseover=null;
 	poperup_a_cart.onmouseout=null;
 	poperup_a_cart.onmouseover=show_cart;
+  document.all.infoType.style.visibility = 'visible';
 }
 
 function hide_clrc(){
@@ -386,11 +389,14 @@ window.onload=popup_init;
 
 <body leftmargin="0" topmargin="0" marginwidth="0">
 <center>
+<!--######### BEGIN GREY OUT DIV #################################-->
+<div id="grey_out">
+</div>
 <!--######### BEGIN HEADER #################################-->
-<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td height="70">
-			<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0">
+		<td height="70" align="center">
+			<table height="70" border="0" cellpadding="0" cellspacing="0">
   				<tbody><tr>
   					<td width="185" height="70" rowspan="2"><a href="http://www.evitamins.com"><img src="/images/logosolo.gif" width="185" height="40" border="0" alt="Buy vitamins, supplements, weight loss pills and more!"></a></td>
   					<td align="right"><table cellpadding="0" cellspacing="5" border="0">
@@ -559,155 +565,442 @@ window.onload=popup_init;
 <div id="container">
 <table width="98%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
 <div id="container">
-<ul id="navigation_menu">
-	<li><a href="http://www.evitamins.com/personalcare_main.asp" class="l1" onmouseover="h_s()" onmouseout="s_s()">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bath &amp; Beauty&nbsp;&nbsp;</a>
-		<ul>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=38">&nbsp;&nbsp;Batherapy</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=144">&nbsp;&nbsp;Conditioner</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=607">&nbsp;&nbsp;Cosmetics</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=142">&nbsp;&nbsp;Deodorant</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=74">&nbsp;&nbsp;Hair Products</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=101">&nbsp;&nbsp;Mouth Care</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=85">&nbsp;&nbsp;Pain Relief</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=131">&nbsp;&nbsp;Soap</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=143">&nbsp;&nbsp;Shampoo</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=686">&nbsp;&nbsp;Shaving Cream</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/skincare_main.asp">&nbsp;&nbsp;Skin Care</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=133">&nbsp;&nbsp;Toothpaste</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=150">&nbsp;&nbsp;Travel Products</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/sportsnutrition_main.asp" class="l2" onmouseover="h_s()" onmouseout="s_s()">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bodybuilding&nbsp;&nbsp;</a>
-		<ul>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=49">&nbsp;&nbsp;Amino Acids</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=248">&nbsp;&nbsp;Anabolic</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=103">&nbsp;&nbsp;Bars</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=250">&nbsp;&nbsp;Cell Volumizers</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=122">&nbsp;&nbsp;Creatine Supplements</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=96">&nbsp;&nbsp;Growth Hormones (HGH) </a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=251">&nbsp;&nbsp;Hardcore Supplements</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=123">&nbsp;&nbsp;Meal Replacements</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=95">&nbsp;&nbsp;Muscle Recovery</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=121">&nbsp;&nbsp;NO2 Supplements</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=388">&nbsp;&nbsp;Posing - Tanning Gels</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=102">&nbsp;&nbsp;Protein</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=98">&nbsp;&nbsp;Runner's Care</a></li>
-			<li><a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=124">&nbsp;&nbsp;Weight Gainers</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/herbs_main.asp" class="l3">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Herbs&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=139">&nbsp;&nbsp;Alfalfa</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=151">&nbsp;&nbsp;Aloe Vera</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=175">&nbsp;&nbsp;Dandelion</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=179">&nbsp;&nbsp;Echinacea</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=455">&nbsp;&nbsp;Ginger</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=140">&nbsp;&nbsp;Ginseng</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=199">&nbsp;&nbsp;Kelp</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=420">&nbsp;&nbsp;Olive Leaf </a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=419">&nbsp;&nbsp;Oregano</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=411">&nbsp;&nbsp;Mushroom</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=543">&nbsp;&nbsp;Saw Palmetto</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/herbs_main.asp">&nbsp;&nbsp;MORE HERBS...</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/pets_main.asp" class="l4">&nbsp;&nbsp;<img src="images/nav/headerbluedown.gif" border="0">&nbsp;Pets&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=688">&nbsp;&nbsp;Accessories</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=374">&nbsp;&nbsp;Anxiety</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Appetite Control</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Bites/Cuts/Wounds</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=370">&nbsp;&nbsp;Cat Vitamins</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=442">&nbsp;&nbsp;Digestion</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=369">&nbsp;&nbsp;Dog Vitamins</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=368">&nbsp;&nbsp;Fresh Breath</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=372">&nbsp;&nbsp;General Pet Formulas</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=371">&nbsp;&nbsp;Joint Formulas</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=375">&nbsp;&nbsp;Separation Formulas</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=444">&nbsp;&nbsp;Skin &amp; Coat Formulas</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=689">&nbsp;&nbsp;Treats</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/sexual_main.asp" class="l5">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Sexual&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=134">&nbsp;&nbsp;Condoms</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=665">&nbsp;&nbsp;Erectile Dysfunction</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=131">&nbsp;&nbsp;Female Performance</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=132">&nbsp;&nbsp;Lubricants</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=133">&nbsp;&nbsp;Male Enhancement</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=130">&nbsp;&nbsp;Male Performance</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/vitamins_main.asp" class="l6">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Vitamins&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=3">&nbsp;&nbsp;Antioxidants</a></li>
-			<li><a href="http://www.evitamins.com/liquid_vitamins.asp">&nbsp;&nbsp;Liquid Vitamins</a></li>
-			<li><a href="http://www.evitamins.com/minerals_main.asp">&nbsp;&nbsp;Minerals</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=57">&nbsp;&nbsp;Multiple Vitamins</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=113">&nbsp;&nbsp;Prenatal Vitamins</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=52">&nbsp;&nbsp;Vitamin A</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=53">&nbsp;&nbsp;Vitamin B</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=54">&nbsp;&nbsp;Vitamin C</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=55">&nbsp;&nbsp;Vitamin D</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=56">&nbsp;&nbsp;Vitamin E</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=89">&nbsp;&nbsp;Vitamin K</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/weightloss_main.asp" class="l7">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Weight Loss&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=114">&nbsp;&nbsp;Appetite Suppressants</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=115">&nbsp;&nbsp;Apple Cider Vinegar</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=116">&nbsp;&nbsp;Body Fat Calculators</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=94">&nbsp;&nbsp;Carb Blockers</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=119">&nbsp;&nbsp;Cellulite Treatment</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=87">&nbsp;&nbsp;Diuretics</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=118">&nbsp;&nbsp;Fat Blockers</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=86">&nbsp;&nbsp;Fat Burners</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=3&amp;subID=137">&nbsp;&nbsp;Green Tea</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=89">&nbsp;&nbsp;Hoodia Diet Pills</a></li>
-			<li><a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=91">&nbsp;&nbsp;Metabolism Booster</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=519">&nbsp;&nbsp;Thyroid Balance</a></li>
-		</ul>
-	</li>
-	<li><a href="http://www.evitamins.com/viewallcategories.asp" class="l8">&nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Other Categories&nbsp;&nbsp;</a>
-		<ul>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=92">&nbsp;&nbsp;Anxiety</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=4">&nbsp;&nbsp;Arthritis</a></li>
-			<li><a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Baby</a></li>
-			<li><a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Children</a></li>
-			<li><a href="http://www.evitamins.com/cholesterol_main.asp">&nbsp;&nbsp;Cholesterol</a></li>
-			<li><a href="http://www.evitamins.com/cold_flu_main.asp">&nbsp;&nbsp;Cold &amp; Flu</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=13">&nbsp;&nbsp;Detox</a></li>
-			<li><a href="http://www.evitamins.com/digestion_main.asp">&nbsp;&nbsp;Digestion</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=15">&nbsp;&nbsp;Energy</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=17">&nbsp;&nbsp;Heart Support</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=149">&nbsp;&nbsp;Household Items</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=112">&nbsp;&nbsp;Inflammation</a></li>
-			<li><a href="http://www.evitamins.com/mens_main.asp">&nbsp;&nbsp;Men's Health</a></li>
-			<li><a href="http://www.evitamins.com/product_grid2.asp?catID=24">&nbsp;&nbsp;Stress</a></li>
-			<li><a href="http://www.evitamins.com/womans_main.asp">&nbsp;&nbsp;Women's Health</a></li>
-			<li><a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/viewallcategories.asp">&nbsp;&nbsp;MORE CATEGORIES...</a></li>
-		</ul>
-	</li>
-</ul>
-</div><!--/container-->
-</td></tr>
-<tr>
-<td>
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-	 <tbody><tr>
-		<td class="bluebar">
-			<table cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td class="bluebar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallproducts.asp">Shop By Product</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallbrands.asp">Shop By Brand</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/shopbygender.asp">Shop By Gender</a></td>
-					<td width="240" align="right" class="bluebar">Order Toll-Free 1-888-222-6056&nbsp;</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--######### END HEADER #################################-->
-</td></tr></tbody></table><!--######### BEGIN PROMO HEADER #################################-->
+  <table cellspacing="0" cellpadding="0" align="center">
+    <tbody><tr>
+
+      <td>
+        <ul id="navigation_menu">
+          <li>
+            <a href="http://www.evitamins.com/personalcare_main.asp" class="l1">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bath &amp; Beauty&nbsp;&nbsp;
+            </a>
+            <ul>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=38">&nbsp;&nbsp;Batherapy</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=144">&nbsp;&nbsp;Conditioner</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=607">&nbsp;&nbsp;Cosmetics</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=142">&nbsp;&nbsp;Deodorant</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=74">&nbsp;&nbsp;Hair Products</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=101">&nbsp;&nbsp;Mouth Care</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=85">&nbsp;&nbsp;Pain Relief</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=131">&nbsp;&nbsp;Soap</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=143">&nbsp;&nbsp;Shampoo</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=78&amp;subID=686">&nbsp;&nbsp;Shaving Cream</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/skincare_main.asp">&nbsp;&nbsp;Skin Care</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=133">&nbsp;&nbsp;Toothpaste</a>
+              </li>
+              <li>
+                <a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=150">&nbsp;&nbsp;Travel Products</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.evitamins.com/sportsnutrition_main.asp" class="l2" onmouseover="h_s()" onmouseout="s_s()">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Bodybuilding&nbsp;&nbsp;
+            </a>
+
+            <ul>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=49">&nbsp;&nbsp;Amino Acids</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=248">&nbsp;&nbsp;Anabolic</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=103">&nbsp;&nbsp;Bars</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=250">&nbsp;&nbsp;Cell Volumizers</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=122">&nbsp;&nbsp;Creatine Supplements</a>
+              </li>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=96">&nbsp;&nbsp;Growth Hormones (HGH) </a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=251">&nbsp;&nbsp;Hardcore Supplements</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=123">&nbsp;&nbsp;Meal Replacements</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=95">&nbsp;&nbsp;Muscle Recovery</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=121">&nbsp;&nbsp;NO2 Supplements</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=388">&nbsp;&nbsp;Posing - Tanning Gels</a>
+              </li>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=102">&nbsp;&nbsp;Protein</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=32&amp;subID=98">&nbsp;&nbsp;Runner's Care</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=124">&nbsp;&nbsp;Weight Gainers</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/herbs_main.asp" class="l3">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Herbs&nbsp;&nbsp;
+            </a>
+            <ul>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=139">&nbsp;&nbsp;Alfalfa</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid2.asp?catID=151">&nbsp;&nbsp;Aloe Vera</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=175">&nbsp;&nbsp;Dandelion</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=179">&nbsp;&nbsp;Echinacea</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=455">&nbsp;&nbsp;Ginger</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=140">&nbsp;&nbsp;Ginseng</a>
+              </li>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=199">&nbsp;&nbsp;Kelp</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=420">&nbsp;&nbsp;Olive Leaf </a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=419">&nbsp;&nbsp;Oregano</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=411">&nbsp;&nbsp;Mushroom</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=62&amp;subID=543">&nbsp;&nbsp;Saw Palmetto</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/herbs_main.asp">&nbsp;&nbsp;MORE HERBS...</a>
+              </li>
+
+            </ul>
+          </li>
+          <li>
+            <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/pets_main.asp" class="l4">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Pets&nbsp;&nbsp;
+            </a>
+            <ul>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=688">&nbsp;&nbsp;Accessories</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=374">&nbsp;&nbsp;Anxiety</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Appetite Control</a>
+              </li>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=441">&nbsp;&nbsp;Bites/Cuts/Wounds</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=370">&nbsp;&nbsp;Cat Vitamins</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=442">&nbsp;&nbsp;Digestion</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=369">&nbsp;&nbsp;Dog Vitamins</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=368">&nbsp;&nbsp;Fresh Breath</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=372">&nbsp;&nbsp;General Pet Formulas</a>
+              </li>
+
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=371">&nbsp;&nbsp;Joint Formulas</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=375">&nbsp;&nbsp;Separation Formulas</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=444">&nbsp;&nbsp;Skin &amp; Coat Formulas</a>
+              </li>
+              <li>
+                <a onmouseover="h_s()" onmouseout="s_s()" style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=100&amp;subID=689">&nbsp;&nbsp;Treats</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="http://www.evitamins.com/sexual_main.asp" class="l5">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Sexual&nbsp;&nbsp;
+            </a>
+            <ul>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=134">&nbsp;&nbsp;Condoms</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=665">&nbsp;&nbsp;Erectile Dysfunction</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=131">&nbsp;&nbsp;Female Performance</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=132">&nbsp;&nbsp;Lubricants</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=133">&nbsp;&nbsp;Male Enhancement</a>
+              </li>
+              <li>
+                <a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=51&amp;subID=130">&nbsp;&nbsp;Male Performance</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.evitamins.com/vitamins_main.asp" class="l6">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Vitamins&nbsp;&nbsp;
+            </a>
+            <ul>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=3">&nbsp;&nbsp;Antioxidants</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/liquid_vitamins.asp">&nbsp;&nbsp;Liquid Vitamins</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/minerals_main.asp">&nbsp;&nbsp;Minerals</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=57">&nbsp;&nbsp;Multiple Vitamins</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=113">&nbsp;&nbsp;Prenatal Vitamins</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=52">&nbsp;&nbsp;Vitamin A</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=53">&nbsp;&nbsp;Vitamin B</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=54">&nbsp;&nbsp;Vitamin C</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=55">&nbsp;&nbsp;Vitamin D</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=56">&nbsp;&nbsp;Vitamin E</a>
+              </li>
+              <li>
+                <a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid2.asp?catID=89">&nbsp;&nbsp;Vitamin K</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.evitamins.com/weightloss_main.asp" class="l7">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;Weight Loss&nbsp;&nbsp;
+            </a>
+
+            <ul>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=114">&nbsp;&nbsp;Appetite Suppressants</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=115">&nbsp;&nbsp;Apple Cider Vinegar</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=116">&nbsp;&nbsp;Body Fat Calculators</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=94">&nbsp;&nbsp;Carb Blockers</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=119">&nbsp;&nbsp;Cellulite Treatment</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=87">&nbsp;&nbsp;Diuretics</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=118">&nbsp;&nbsp;Fat Blockers</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=86">&nbsp;&nbsp;Fat Burners</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=3&amp;subID=137">&nbsp;&nbsp;Green Tea</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=89">&nbsp;&nbsp;Hoodia Diet Pills</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=91">&nbsp;&nbsp;Metabolism Booster</a>
+              </li>
+
+              <li>
+                <a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/product_grid_sub.asp?catID=27&amp;subID=519">&nbsp;&nbsp;Thyroid Balance</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.evitamins.com/viewallcategories.asp" class="l8">
+              &nbsp;&nbsp;<img src="/images/nav/headerbluedown.gif" border="0">&nbsp;More Categories</a>
+            <ul>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=92">&nbsp;&nbsp;Anxiety</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=4">&nbsp;&nbsp;Arthritis</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Baby</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/child_main.asp">&nbsp;&nbsp;Children</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/cholesterol_main.asp">&nbsp;&nbsp;Cholesterol</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/cold_flu_main.asp">&nbsp;&nbsp;Cold &amp; Flu</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=13">&nbsp;&nbsp;Detox</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/digestion_main.asp">&nbsp;&nbsp;Digestion</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=15">&nbsp;&nbsp;Energy</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=17">&nbsp;&nbsp;Heart Support</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=149">&nbsp;&nbsp;Household Items</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=112">&nbsp;&nbsp;Inflammation</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/mens_main.asp">&nbsp;&nbsp;Men's Health</a>
+              </li>
+              <li>
+                <a href="http://www.evitamins.com/product_grid2.asp?catID=24">&nbsp;&nbsp;Stress</a>
+              </li>
+
+              <li>
+                <a href="http://www.evitamins.com/womans_main.asp">&nbsp;&nbsp;Women's Health</a>
+              </li>
+              <li>
+                <a style="border-bottom:1px solid #4C83C8" href="http://www.evitamins.com/viewallcategories.asp">&nbsp;&nbsp;MORE CATEGORIES...</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody></table>
+
+</div>
+<!--/container-->
+</td></tr><tr>
+  <td>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td colspan="3">
+          <table cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+              <td class="bluebar">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallproducts.asp">Shop By Product</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/viewallbrands.asp">Shop By Brand</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.evitamins.com/shopbygender.asp">Shop By Gender</a>
+
+              </td>
+              <td width="240" align="right" class="bluebar">Order Toll-Free 1-888-222-6056&nbsp;</td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td class="orangebar_left"></td>
+
+        <td class="orangebar" align="center">
+          <!--<form method="get" action="javascript:search(1);" name="searchform">-->
+          <form method="get" action="searchpage.asp" name="searchform">
+            <table cellpadding="3" cellspacing="0" border="0">
+              <tbody><tr>
+                <td class="generaldeafult" align="right" width="80">
+                  <font color="#066AA3">
+                    <b>SEARCH:</b>
+                  </font>
+                </td>
+                <td>
+                  <select name="infoType">
+                    <option value="">Select a Category</option>
+                    <option value="products">Products</option>
+                <option value="ingredients">Ingredients</option>
+                    <option value="encyclopedia">Encyclopedia</option>
+                    <option value="health recipes">Health Recipes</option>
+                  </select>
+                </td>
+                <td>
+                  <input type="text" name="keyword" size="40">
+                  </td>
+                <td>
+                  <input type="image" border="0" value="Go" name="Go" src="/images/searchbox/go-button-gateway-search.gif">
+                    </td>
+                  </tr>
+            </tbody></table>
+            <input type="hidden" name="action" value="yes">
+            </form>
+
+        </td>
+        <td class="orangebar_right" width="2"></td>
+      </tr>
+    </tbody></table>
+    <!--######### END HEADER #################################-->
+  </td>
+</tr></tbody></table>
+
+<!--######### BEGIN PROMO HEADER #################################-->
 <!--<table width="98%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#D6E7F7">
 	<tr>
 		<td height="35">
@@ -720,29 +1013,29 @@ window.onload=popup_init;
 	</tr>
 </table>-->
 <!--######### END PROMO HEADER #################################-->
-<table width="98%" border="0" cellpadding="0" cellspacing="0" class="promobar">
-<tbody><tr>
+<!--<table width="98%"  border="0" cellpadding="0" cellspacing="0" class=promobar>
+<tr>
 		<td>
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  				<tbody><tr>
-  					<td align="center"><img src="/images/nav/promobar/summer.gif"></td>
+  				<tr>
+  					<td align="center"><a href=http://www.evitamins.com/product_grid.asp?brandid=GlaxoSmithKline><img src=/images/nav/promobar/alli.gif border=0></a></td>
   				</tr>
-  			</tbody></table>
+  			</table>
   		</td>
 	</tr>
-</tbody></table>
+</table>-->
 
 <table width="98%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 	<!--########## BEGIN Side Bar ###################################-->
 <td width="190" valign="top" bgcolor="#ffffff">
-<br>
+  <!--<br>
 <div id="leftCol">
-	<div class="title"><img src="/images/nav/searchsitehead.gif"></div>
+	<div class="title"><img src="/images/nav/searchsitehead.gif" /></div>
 	<div class="boxed">
 		<div class="search">
-			<form method="get" action="http://www.evitamins.com/searchpage.asp" name="searchform">
-				<select name="infoType" class="searchboxmain">
+			<form method="get" action="http:///searchpage.asp" name="searchform">
+				<select name=infoType class=searchboxmain>
 					<option value="">Select a Category</option>
      				<option value="products">Products</option>
      				<option value="ingredients">Ingredients</option>
@@ -750,12 +1043,12 @@ window.onload=popup_init;
      				<option value="health recipes">Health Recipes</option>
      			</select>
      			<input type="text" name="keyword" size="15" class="form-input">
-				<input type="image" border="0" value="Go" name="Go" src="/images/searchbox/go-button-gateway.gif" align="absmiddle">
+				<input type="image" border=0 value="Go" name="Go" src="/images/searchbox/go-button-gateway.gif" align=absmiddle>
 				<input type="hidden" name="action" value="yes">
 			</form>
-			<img src="/images/clear.gif" width="1" height="4" border="0"><div><img src="/images/nav/bottom_box.gif" width="190"></div>
-	</div></div></div>			
-	<!--########## END Search Box ###################################-->
+			<img src="/images/clear.gif" width="1" height="4" border="0"><div><img src="/images/nav/bottom_box.gif" width="190" /></div>
+	</div></div></div>	-->
+  <!--########## END Search Box ###################################-->
 	<!--########## BEGIN NEWSLETTER ###################################-->
 	<br>
 			<table border="0" cellspacing="0" cellpadding="0">
@@ -847,13 +1140,13 @@ window.onload=popup_init;
 	<div id="browse" class="boxed">
 	<ul>
 		
-												<li><a href="http://www.evitamins.com/news.asp?id=606011" rel="" nofollow""="">Cats, Humans Share Ancient Bond</a></li>
+												<li><a href="http://www.evitamins.com/news.asp?id=610764" rel="" nofollow""="">Chest Compressions Effective in Emergency Cardiac Arrest</a></li>
 										
-												<li><a href="http://www.evitamins.com/news.asp?id=605799" rel="" nofollow""="">Moms, Dads With MS Equal Transmitters of Disease</a></li>
+												<li><a href="http://www.evitamins.com/news.asp?id=610784" rel="" nofollow""="">Stroke Rehab Technique Has Lasting Results</a></li>
 										
-												<li><a href="http://www.evitamins.com/news.asp?id=606021" rel="" nofollow""="">Clinical Trials Update: June 28, 2007</a></li>
+												<li><a href="http://www.evitamins.com/news.asp?id=610763" rel="" nofollow""="">Abdominal Fat Tied to High  Risk  for Coronary Trouble</a></li>
 										
-												<li><a href="http://www.evitamins.com/news.asp?id=605927" rel="" nofollow""="">School Nurses Key to Preventing Heart Disease</a></li>
+												<li><a href="http://www.evitamins.com/news.asp?id=610805" rel="" nofollow""="">Clinical Trials Update: Dec. 11, 2007</a></li>
 										
 	</ul>
 	<img src="/images/clear.gif" width="1" height="4" border="0"><br>
@@ -910,74 +1203,74 @@ window.onload=popup_init;
 <div id="lccontainer">
 			<div id="lcheader"></div>
 			
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12017">Radiance Night Creme by Burt's Bees</a></div>
-			<div id="lcproductinfo" class="lctext">
-			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
-			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $14.99<br>
-							<b>Our Price:</b> $11.99<br>
-							<b>Save:</b> $3.00</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12017"><img border="0" src="/images/products/thumbnails/BBnightcream.jpg" id="lcproductimage">
-			</a></td></tr></tbody></table></div>
-		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12016">Radiance Eye Creme by Burt's Bees</a></div>
-			<div id="lcproductinfo" class="lctext">
-			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
-			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $14.99<br>
-							<b>Our Price:</b> $11.99<br>
-							<b>Save:</b> $3.00</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12016"><img border="0" src="/images/products/thumbnails/BBeyecream.jpg" id="lcproductimage">
-			</a></td></tr></tbody></table></div>
-		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12015">Radiance Day Creme by Burt's Bees</a></div>
-			<div id="lcproductinfo" class="lctext">
-			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
-			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $14.99<br>
-							<b>Our Price:</b> $11.99<br>
-							<b>Save:</b> $3.00</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12015"><img border="0" src="/images/products/thumbnails/BBradianceday.jpg" id="lcproductimage">
-			</a></td></tr></tbody></table></div>
-		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12014">Peach &amp; Willowbark Deep Pore Scrub by Burt's Bees</a></div>
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13579">Supreme Vegan D 2000 IU by VegLife</a></div>
 			<div id="lcproductinfo" class="lctext">
 			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
 			<tbody><tr><td class="tiny">
 			<b>MSRP:</b> $7.99<br>
 							<b>Our Price:</b> $6.39<br>
 							<b>Save:</b> $1.60</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12014"><img border="0" src="/images/products/thumbnails/BBdeepporescrub.jpg" id="lcproductimage">
+			<a href="http://www.evitamins.com/product.asp?pid=13579"><img border="0" src="/images/products/thumbnails/VLsupremed.jpg" id="lcproductimage">
 			</a></td></tr></tbody></table></div>
 		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12013">Orange Essence Facial Cleanser by Burt's Bees</a></div>
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13578">Vegan Chromium by VegLife</a></div>
 			<div id="lcproductinfo" class="lctext">
 			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
 			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $7.99<br>
-							<b>Our Price:</b> $6.39<br>
-							<b>Save:</b> $1.60</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12013"><img border="0" src="/images/products/thumbnails/BBorangecleanser.jpg" id="lcproductimage">
+			<b>MSRP:</b> $5.39<br>
+							<b>Our Price:</b> $4.31<br>
+							<b>Save:</b> $1.08</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13578"><img border="0" src="/images/products/thumbnails/VLveganchromium.jpg" id="lcproductimage">
 			</a></td></tr></tbody></table></div>
 		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12012">Wild Lettuce Complexion Soap by Burt's Bees</a></div>
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13577">Saw Palmetto by VegLife</a></div>
 			<div id="lcproductinfo" class="lctext">
 			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
 			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $7.99<br>
-							<b>Our Price:</b> $6.39<br>
-							<b>Save:</b> $1.60</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12012"><img border="0" src="/images/products/thumbnails/BBwildlettuce.jpg" id="lcproductimage">
+			<b>MSRP:</b> $8.99<br>
+							<b>Our Price:</b> $7.19<br>
+							<b>Save:</b> $1.80</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13577"><img border="0" src="/images/products/thumbnails/VLsawpalm.jpg" id="lcproductimage">
 			</a></td></tr></tbody></table></div>
 		
-			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=12011">Lemon Poppy Seed Facial Cleanser by Burt's Bees</a></div>
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13576">Evening Primrose by VegLife</a></div>
 			<div id="lcproductinfo" class="lctext">
 			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
 			<tbody><tr><td class="tiny">
-			<b>MSRP:</b> $7.99<br>
-							<b>Our Price:</b> $6.39<br>
-							<b>Save:</b> $1.60</td><td>
-			<a href="http://www.evitamins.com/product.asp?pid=12011"><img border="0" src="/images/products/thumbnails/BBlemonpoppy.jpg" id="lcproductimage">
+			<b>MSRP:</b> $39.99<br>
+							<b>Our Price:</b> $31.99<br>
+							<b>Save:</b> $8.00</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13576"><img border="0" src="/images/products/thumbnails/vegevprim.gif" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13575">FOS-idophilus by VegLife</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $16.39<br>
+							<b>Our Price:</b> $13.11<br>
+							<b>Save:</b> $3.28</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13575"><img border="0" src="/images/products/thumbnails/VLfosidophilus.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13573">Methyl B-12 Lozenge by VegLife</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $8.99<br>
+							<b>Our Price:</b> $7.19<br>
+							<b>Save:</b> $1.80</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13573"><img border="0" src="/images/products/thumbnails/VLmethylb12.jpg" id="lcproductimage">
+			</a></td></tr></tbody></table></div>
+		
+			<div id="lcproductname" class="lctext"><a href="http://www.evitamins.com/product.asp?pid=13572">5-HTP 50 mg by VegLife</a></div>
+			<div id="lcproductinfo" class="lctext">
+			<table cellpadding="3" cellspacing="0" border="0" class="tiny">
+			<tbody><tr><td class="tiny">
+			<b>MSRP:</b> $17.99<br>
+							<b>Our Price:</b> $14.39<br>
+							<b>Save:</b> $3.60</td><td>
+			<a href="http://www.evitamins.com/product.asp?pid=13572"><img border="0" src="/images/products/thumbnails/VL5htp50mg.jpg" id="lcproductimage">
 			</a></td></tr></tbody></table></div>
 		
 			<div id="lcfooter"></div>
