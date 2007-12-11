@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
 
 # DVO Enterprises Privacy Policy
 
@@ -13,15 +13,15 @@ Steve Van Wie
 
 NEWSLETTER
 
-[• Current Issue](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/homecookn)  
-[• Newsletter Archive](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/newsletterarchive.html)   
-[• Contact Info](https://web.archive.org/web/20070630114346id_/http%3A//dvo.com/contact.html)
+[• Current Issue](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/homecookn)  
+[• Newsletter Archive](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/newsletterarchive.html)   
+[• Contact Info](https://web.archive.org/web/20071211181947id_/http%3A//www.dvo.com/contact.html)
 
   
 
 
 |    
-DVO Enterprises is committed to protecting the privacy and security of its online visitors. None of your personal information will be sold or rented to other companies for any reason. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe environment for everyone.
+DVO Enterprises is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe environment for everyone.
 
 **PERSONALLY IDENTIFIABLE INFORMATION**
 
@@ -41,7 +41,7 @@ We collect IP addresses to obtain aggregate information on the use of dvo.com. A
 
 **SECURITY**
 
-DVO Enterprises ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise. We will give out personal information as required by law, for example to comply with a court order or subpoena or to assist in criminal investigations. We may also give out personal information when we deem it advisable in order to protect the safety and security of our sites and visitors to our sites. 
+DVO Enterprises ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. We will give out personal information as required by law, for example to comply with a court order or subpoena or to assist in criminal investigations. We may also give out personal information when we deem it advisable in order to protect the safety and security of our sites and visitors to our sites. 
 
 **Why are we so safe?**
 
