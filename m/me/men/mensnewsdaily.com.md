@@ -1,59 +1,33 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213021id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211213638id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# MND: » Privacy Policy
+# MND: News and Commentary Since 2001 » Privacy Policy
 
-| 
+## Privacy Policy
 
-Java King, Inc. is the owner of various domains, including MensNewsDaily.com, MNDnet.com, blogwonks.com, and others.
+MensNewsDaily (MND) takes your privacy seriously. Please note changes to our privacy policy.  
+_  
+NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the federal government and the technology industry to help you guard against Internet fraud, secure your computer and protect your personal information._
 
-Internet user privacy and confidentiality is of the highest importance to _Java King, Inc._ (hereinafter JKI), the owner of this domain.. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and _JKI_.
+MND collects personal information when you register with our site. MND may combine information about you that we have with information we obtain from business partners or other companies.
 
-**Traffic Data**  
-Each time a visitor comes to a _JKI_ website, our software collects some basic technical information, including the visitor’s domain name, referral data and browser and platform type. However, we will not disclose your individual identity or personally identifiable data to any party.
+MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-If and when we do present aggregated information on our traffic data to outside companies, no one will be able to identify you or contact you.
+  * We provide the information to trusted partners who work on behalf of or with MND . These companies may use your personal information to help communicate with you about matters we think may interest you.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law.
+  * We transfer information about you if MND is acquired by or merged with another company.
 
-**Cookies**  
-A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. We use cookies in a very limited manner, primarily to help deliver advertisements so that you won’t receive the same advertisement too many times. We use cookies to identify unique browsers that visit us and to track site navigation.
 
-Other sites which place advertisements on our site, or which we may provide a link referencing an article that is available to view on MensNewsDaily.com or BlogWonks.com, also have the ability to assign their cookies to you in a process that JKI does not control.
 
-Cookies cannot be used to identify individuals, only machines. So these advertisers will not know who a visitor is, nor will they have any personally identifiable information about a visitor.
+Changes to this Privacy Policy
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-**Third Party Advertising**  
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).
-
-**Other sites**  
-_JKI_ webistes contain many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy policies of these linked sites, because their privacy practices may differ from ours.
+MND may update this policy. Please note [this page](http://mensnewsdaily.com/privacy-policy/) for any changes to our privacy policy.
 
 **Who can I ask if I have any additional questions?**  
-If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com. 
+If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com.
 
-You must be [logged in](http://mensnewsdaily.com/wp/wp-login.php?redirect_to=http://mensnewsdaily.com/privacy-policy/) to post a comment.
+Filed under: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") — admin @ 1:26 pm 
 
-|   
-  
-* * *
+**  [Print This Page](http://mensnewsdaily.com/privacy-policy/printpage/ "Print This Page") | Other posts by [admin](http://mensnewsdaily.com/author/admin/ "Posts by admin")**
 
-* * *
-
-MensNEWSdaily®, mndnet.com, BlogWonks.com™, BlogWonk.com™, NewsWax.com™, YakVox.com™, DorkWatch.org™, CounterPulse.com™, JavaKing.com™ © 2001 - 2006 Java King, Inc.. _Opinions found on this website are expressly those of the author(s) and do not necessarily reflect the opinion of this publication, its editorial staff or contributors._ Words, graphics, audio, video, and all other content published on this domain must adhere to our [ Terms of Service ](http://mensnewsdaily.com/terms-of-service/). JAVA KING, INC AND ITS SUBSIDIARIES, ADVERTISERS, SPONSORS AND AFFILIATES, DISCLAIM ALL WARRANTIES, REPRESENTATIONS OR ENDORSEMENTS HEREIN EXPRESSED OR IMPLIED. 
-
-* * *
-
-[](http://pr.blogflux.com/)
-
-* * *
-
-[ ](http://s11.sitemeter.com/stats.asp?site=s11mndnet)
-
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00221208P001)
-
-* * *
-
-* * *
-
-©2001-2006 Java King, Inc. All Rights Reserved. 
+Comments are closed.
