@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227225245id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081337id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
 
 # FamousWhy.com - Famous People, Famous Regions, a Lot of Articles and Free Software Downloads
 
-09 April, 2006
+08 March, 2007
 
 **Privacy**
 
@@ -106,4 +106,4 @@ This Web site contains links to other Web sites. We are not responsible for the 
 
 **Notification of Changes**
 
-This privacy statement was last updated on April 06, 2006. 
+This privacy statement was last updated on March 08, 2007. 
