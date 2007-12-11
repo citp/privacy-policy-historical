@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630131810id_/http%3A//www.knowthis.com/information/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowthis.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061448id_/http%3A//www.knowthis.com/information/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement: KnowThis.com
 
+|  [ ](http://www.knowthis.com/index2.php?option=com_content&task=view&id=135&pop=1&page=0&Itemid=436 "Print")  
+  
 _October 11, 2006_
 
   
@@ -32,4 +34,4 @@ KnowThis utilizes session cookies which are set to expire after a user's session
 KnowThis contains many links to external Internet resources. KnowThis is not responsible for the privacy policies (or lack of) or the content of these websites. Please refer to the privacy statement on these sites for further clarification of their policies. 
 
 **CONTACT INFORMATION**  
-If you have any questions about this privacy statement, please contact us by email at: _support4 at KnowThis.com_. 
+If you have any questions about this privacy statement, please contact us by email at: _support5 at KnowThis.com_. 
