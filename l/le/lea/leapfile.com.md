@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625073523id_/http%3A//www.leapfile.com/www/corp/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040604id_/http%3A//www.leapfile.com/www/corp/Privacy.jsp) for the most accurate reproduction.*
 
-# LeapFILE Secure File Exchange | Email Large Files
+# LeapFILE Privacy Policy
 
 LeapFILE has established this Privacy Policy because your privacy is extremely important to us.  You provide us with personal information that you expect will be kept confidential.  Any personal information that you may provide to us will be used to provide you, our customer, better information, products and services. 
 
