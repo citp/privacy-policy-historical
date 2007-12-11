@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629045125id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060204id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - OneLoveNet.com: Find Singles Free Dating Site, Online Dating Service, Personal Ads
+# Privacy Policy - OneLoveNet.com: Find Singles Free Dating Site, Free Online Dating Service, Personal Ads
 
 |  [Home](https://web.archive.org/)  
-[Local Singles Free](http://www.onelovenet.com/index.cgi/def/localsingles/)
+[Local Singles Free](http://www.onelovenet.com/index.cgi/def/localsingles/)  
+[Top Hobbies](http://www.onelovenet.com/index.cgi/def/topinterests/)
 
  **Welcome,  
 new user!**
@@ -20,6 +21,7 @@ Search profiles
 * [Man looking for woman](http://www.onelovenet.com/index.cgi/def/listmembers/usertypeid/1/pref_usertypeid/2/)  
 * [Woman looking for man](http://www.onelovenet.com/index.cgi/def/listmembers/usertypeid/2/pref_usertypeid/1/)  
 What's New?  
+* [Dating & Singles Forum](https://web.archive.org/forum/script/forum_show.pl)  
 * [Dating by Professions](http://www.onelovenet.com/index.cgi/def/datingbyprofessions/)  
 * [Picture Rating](http://www.onelovenet.com/index.cgi/def/hotpicturerating/)  
 * [Invite Friends](http://www.onelovenet.com/index.cgi/def/invitefriends/)  
