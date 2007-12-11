@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629223248id_/http%3A//www.beckett.com/InfoPages/PrivacyPolicy.osi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062443id_/http%3A//www.beckett.com/InfoPages/PrivacyPolicy.osi) for the most accurate reproduction.*
 
 # Beckett Media LP
 
 ## Legal Notice
 
-Beckett is a registered trademark. All the materials at this site are protected by United States Copyright Laws, and any unauthorized reproduction, preparation of derivative works, distribution (whether by state or other transfer of ownership, or by rental, lease or lending), or other display of the copyrighted work publicly, without the express written consent of beckett.com is expressly prohibited, and any violation could expose the user to both criminal and civil liability. 
+Beckett ? is a registered trademark. All the materials at this site are protected by United States Copyright Laws, and any unauthorized reproduction, preparation of derivative works, distribution (whether by state or other transfer of ownership, or by rental, lease or lending), or other display of the copyrighted work publicly, without the express written consent of beckett.com is expressly prohibited, and any violation could expose the user to both criminal and civil liability. 
 
 ## Privacy Policy and Statement
 
@@ -80,6 +80,6 @@ If you have any questions about this privacy statement, the practices of this si
 Beckett Media LP   
 4635 McEwen Road  
 Dallas, Texas 75244  
-[webmaster@beckett.com](https://web.archive.org/web/20070629223248id_/http%3A//www.beckett.com/InfoPages/webmaster@beckett.com)
+[webmaster@beckett.com](https://web.archive.org/web/20071211062443id_/http%3A//www.beckett.com/InfoPages/webmaster@beckett.com)
 
 [Member Terms of Service Agreement](http://www.beckett.com/estore/info.asp?T=CP&D=1724)
