@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fiercebiotech.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018032904id_/http%3A//fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercebiotech.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211035412id_/http%3A//www.fiercebiotech.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FierceMarkets
+# FierceMarkets Privacy Policy
 
 We take our readers' privacy very seriously. We are committed to protecting it. We understand that many of our readers entrust us with their contact information, and **we _never_ sell or give away that information**.
 
 ###  **Websites**
 
-While our websites uses “cookies,” we do not link them to any personally identifiable information. This information is used to enhance the quality of the newsletter sign-up process and to provide general statistics regarding use of the web sites. If you choose to not have your browser accept cookies, you will still be able to view the majority of our sites.
+While our websites use “cookies,” we do not link them to any personally identifiable information. This information is used to enhance the quality of the newsletter sign-up process and to provide general statistics regarding use of the web sites. If you choose to not have your browser accept cookies, you will still be able to view the majority of our sites.
 
 ### **Email Publications**
 
