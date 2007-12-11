@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210130418id_/http%3A//www.hach.com/hc/static.template/templateName%3DHcCorporate.HcPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211052702id_/http%3A//www.hach.com/hc/static.template/templateName%3DHcCorporate.HcPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Hach | Corporate | Policies | Privacy Policy
 
