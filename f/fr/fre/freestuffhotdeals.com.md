@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuffhotdeals.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623043133id_/http%3A//www.freestuffhotdeals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffhotdeals.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211184628id_/http%3A//www.freestuffhotdeals.com/privacy.html) for the most accurate reproduction.*
 
 # Free Stuff Hot Deals Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **General:**
 
-> FreeStuffHotDeals.com does NOT share personal information you provide to us with other companies. We will NEVER release, sell or give a Members name or e-mail address to any other entity, party or organization, without the member's explicit prior permission. 
+> FreeStuffHotDeals.com does NOT share personal information you provide to us with other companies. We will NEVER release, sell or give a member's name or e-mail address to any other entity, party or organization, without the member's explicit prior permission. 
 
 **Other sites:**
 
