@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614120533id_/http%3A//www.savethechildren.org/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192931id_/http%3A//www.savethechildren.org/about/policies/privacy.html%3Fsource%3Dhp_ft_privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Save the Children
 
