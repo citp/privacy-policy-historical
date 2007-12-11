@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429120516id_/http%3A//www.menulog.com.au/show_page.php%3FpageId%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061042id_/http%3A//www.menulog.com.au/show_page.php%3FpageId%3D52) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
@@ -14,10 +14,10 @@ Menulog is committed to ensuring the privacy and security of all information co
 
 
 **The information we collect**  
-When you lodge a booking via the Menulog web site, we need to collect information about you in order to enable us to deliver our service. This information includes, but is not limited to, details such as your name, your contact details, your requirements and relevant booking information.
+When you lodge a booking and/or place a takeaway order via the Menulog web site, we need to collect information about you in order to enable us to deliver our service. This information includes, but is not limited to, details such as your name, your contact details, your delivery address, your requirements and relevant booking information. 
 
- **How we use the information**  
-If you decide to complete an on-line form, the information that you enter into the on-line form will be collected and saved by us. The information you supply to us is used to assess your requirements and to enable the relevant restaurant to contact you in response to your enquiry. 
+**How we use the information**  
+If you decide to complete an on-line form, the information that you enter into the on-line form will be collected and saved by us. The information you supply to us is used to assess your requirements and to enable the relevant restaurant or takeaway delivery partner to contact you in response to your enquiry. 
 
 We may disclose your information to various third parties for the following purposes: 
 
