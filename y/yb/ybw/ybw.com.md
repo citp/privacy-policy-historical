@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2007-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070220032727id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081117id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
