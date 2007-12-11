@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the verticalmeasures.com privacy policy that was archived on 2007-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614104204id_/http%3A//www.verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verticalmeasures.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211160031id_/http%3A//www.verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Internet Marketing Company | Higher Search Engine Rankings | Link Building | SEO | SEM</title>
-<meta name="description" content="Vertical Measures is an Internet marketing company offering affordable search engine marketing services. More traffic. More leads. More business! We help companies get higher search engine rankings by providing search engine optimization consulting and quality link building.">
-<meta name="keywords" content="Internet marketing company, higher search engine rankings, search engine optimization, quality link building, article marketing, keyword research services, pay per click consulting, blog marketing, lead generation, internet marketing tools, internet marketing, search engine marketing firm, SEO services">
+<title>Link Building | SEO | Internet Marketing Company | Higher Search Engine Rankings | Link Popularity</title>
+<meta name="description" content="Vertical Measures is a search engine marketing company offering SEO and advanced link building services. We help companies get higher search engine rankings thru link popularity and search engine optimization services.">
+<meta name="keywords" content="link popularity, link building, Internet marketing company, higher search engine rankings, search engine marketing company, search engine optimization, quality link building, article marketing, keyword research services, pay per click consulting, blog marketing, lead generation, internet marketing tools, internet marketing, search engine marketing firm, SEO services">
 <meta name="verify-v1" content="SswCvf++iI9rNmPxf5BbomuGyJE1aWkEyX26pUpAO38=">
 <meta name="robots" content="index, follow">
 <!-- This Internet marketing company website discusses these topics: search engine marketing services, search engine optimization, higher search engine rankings, article marketing, link building, one way links, and seo services -->
@@ -30,6 +30,11 @@ function validate_contact ( )
     {
         alert ( "Please fill in the 'Email' box." );
     	document.contact.Email.focus();
+		return false;
+	}if ( document.contact.passwd.value == "" )
+    {
+        alert ( "Please fill in the Captcha Password" );
+		document.contact.passwd.focus();
 		return false;
 	}
 }
@@ -91,7 +96,12 @@ function validate_free ( ){
         alert ( "Please fill in the 'Phone' box." );
 		document.free.Phone.focus();
 		return false;
-    }
+    }if ( document.free.passwd.value == "" )
+    {
+        alert ( "Please fill in the Captcha Password" );
+		document.free.passwd.focus();
+		return false;
+	}
 }
 
 //-->
@@ -227,11 +237,11 @@ interest?</b></td></tr>
 				<tr><td><span style="color:red">*</span>Email:</td><td><input name="Email" type="text" class="text" size="20"></td></tr>
 				<tr><td style="padding-bottom:12px">Phone:<br><span style="font-size:10px">(optional)</span> </td><td style="padding-bottom:12px"><input name="Phone" type="text" class="text" size="20" value="(xxx) xxx-xxxx" onfocus="if(this.value=='(xxx) xxx-xxxx')this.value='';"></td></tr>
 				<tr><td colspan="2">				<table><tbody><tr><td align="center">
-				<img src="images/captcha2.jpg" border="1"><br>
+				<img src="displaytext.php" border="1"><br>
 				
 				</td></tr>
-				<tr><td colspan="2" align="center">Enter the Captcha Password here: (Note: all letters are lowercase)
-				<input type="hidden" name="tmpFile" value="/tmp/86mJZYNWaqTJ5dIb.tmp">
+				<tr><td colspan="2" align="center">Enter the Captcha Password here
+				<!--(Note: all letters are lowercase)<input type='hidden' name='tmpFile' value='' />-->
 				<input type="text" name="passwd" size="6" title="Enter the password above"></td></tr>
 				</tbody></table>
 </td></tr>
