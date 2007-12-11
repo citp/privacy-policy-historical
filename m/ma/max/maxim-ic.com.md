@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629042733id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211220425id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim/Dallas
 
@@ -6,7 +6,7 @@ Maxim Integrated Products, Inc. and its wholly owned subsidiaries want you to kn
 
 **Changes to Privacy Policy**
 
-Maxim/Dallas reserves the right to modify its privacy policy at any time. Customers and site visitors are notified via the following list of changes: 
+Maxim reserves the right to modify its privacy policy at any time. Customers and site visitors are notified via the following list of changes: 
 
   * Policy effective: October 29, 2002 
   * Revision: July 14, 2004: Added "Changes to Privacy Policy" section.
@@ -29,17 +29,19 @@ We collect aggregate information that is not personally identifiable. This anony
 
 The personal information you provide allows you to: 
 
-* make purchases;
-* receive information or materials (such as samples);
-* subscribe to receive regular information;
-* receive messages from us; and
-* help us better understand your needs and interests so we can provide you with better service. 
+  * make purchases; 
+  * receive information or materials (such as samples); 
+  * subscribe to receive regular information; 
+  * receive messages from us; and 
+  * help us better understand your needs and interests so we can provide you with better service. 
+
+
 
 You are not required to provide personal information, but some site features will not be available if you decline to provide needed information. 
 
 Under certain circumstances, your information will be forwarded to our sales representatives and distributors for follow-up action. 
 
-**Does Maxim/Dallas Sell or Provide Information to Others?**
+**Does Maxim Sell or Provide Information to Others?**
 
 No, we do not provide personally identifiable information to any third party. 
 
@@ -57,7 +59,7 @@ For other requests, contact us at [webmaster@maxim-ic.com](mailto:webmaster@maxi
 
 **Contacting Us**
 
-We encourage visitors to comment on any aspect of our site. Most pages on the Maxim/Dallas website include a Comments link at the bottom of the page. These comments go directly to website management. 
+We encourage visitors to comment on any aspect of our site. Most pages on the Maxim website include a Comments link at the bottom of the page. These comments go directly to website management. 
 
 For other concerns see: 
 
