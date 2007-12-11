@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2007-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070110164802id_/http%3A//www.track-trace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080517id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
 
 # track-trace - Privacy statement
 
@@ -34,7 +34,7 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us through our feedback form.
 
-[Privacy](https://web.archive.org/web/20070110164802id_/http%3A//www.track-trace.com/privacy.php)  
- Copyright © 1998-2006 Webfokus   
+[Privacy](https://web.archive.org/privacy)   
+ Copyright © 1998-2007 Webfokus   
