@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207123400id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211111847id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
 
 # Strategic Growth Consulting Services,Executive Coaching Services,Leadership Development Services,CEO Coaching, Executive Coaching, Branding and Strategic Growth Services
 
@@ -6,7 +6,7 @@ N2growth ("N2") registration forms request certain contact and profile informati
 
   * to provide relevant, personalized, targeted news and information via e-mail; 
   * to help target advertising messages included in our e-mail newsletters so that we are able to continue provide our service to you at no cost; 
-  * to enable our customer service professionals to respond to your feedback.
+  * to enable our customer service professionals to respond to your feedback. 
 
 
 
@@ -20,13 +20,13 @@ Although we do everything within our power to protect the privacy of the informa
 
 Copyright © 2006 N2growth.  All rights reserved. Protected by copyright laws of the United States and international treaties. Use of N2 logo's, branding information, tag lines, white papers, articles, blog posts, newsletter and other intellectual property may only be used pursuant to the subscription agreement and reproduction, copying, or redistribution for commercial purposes is strictly prohibited without the express written permission of N2.
 
-The N2 newsletter and certain blog posts and other electronic data contains links to third party Web sites. The linked sites are not under the control of N2 and N2 is not responsible for the contents, advertising, products or any other materials or links contained in these linked sites. N2 provides these links only as a convenience, and inclusion of a link does not imply endorsement of the linked site by N2 or its affiliates.
+The N2 newsletter and certain blog posts and other electronic data contains links to third party Websites. The linked sites are not under the control of N2 and N2 is not responsible for the contents, advertising, products or any other materials or links contained in these linked sites. N2 provides these links only as a convenience, and inclusion of a link does not imply endorsement of the linked site by N2 or its affiliates.
 
 Information, documents, and links included in N2 documents and content are provided "as is" without any warranty. While N2 uses reasonable efforts to include accurate information, it does not make any representation as to its accuracy or completeness. The material is available to users who utilize this information at their own risk and N2 is not liable for any damages arising from use of its content.
 
 Privacy Policy
 
-**Pacific Security Capital respects the privacy of its web site visitors**
+**N2growth respects the privacy of its web site visitors**
 
 We believe that responsible use of the information you share with N2growth("N2") and any of its operating subsidiaries is of the utmost importance. The following guidelines have been created in accordance with the United States Federal Trade Commission guidelines and European Union Personal Data Protection Directive. As part of our ongoing effort to provide best in class venture growth solutions to you, the consumer, N2 has outlined the following information to address online privacy and consumer protection. 
 
