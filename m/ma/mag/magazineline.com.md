@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
@@ -16,12 +16,12 @@
   [Duplicate Issue](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Duplicates%20ML)  
   [Magazine Request](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Magazine%20Request%20ML)  
   [Missing Issues](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Missing%20ML)  
-  [Submit a Payment](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
+  [Submit a Payment](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
   [Technical Problems](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Technical%20Problems%20ML)  
   [Temporary Suspension](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Temporary%20Suspension%20ML)  
   [Wrong Expiration Date](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=Wrong%20Expiration%20Date%20ML)
 
- [Frequently Asked Questions](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/customerservice.htm)  
+ [Frequently Asked Questions](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/customerservice.htm)  
    
  Magazineline  
  4440 Hagadorn Road  
@@ -72,10 +72,10 @@
 
  To read more about our  
  Privacy and Security policies,  
- [click here](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm).  
+ [click here](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm).  
   
   
-[](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/specialoffers.htm)  
+[](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/specialoffers.htm)  
 [](https://web.archive.org/haupt/Category/GiftFinder.aspx?SiteID=26)  
   | 
 
@@ -146,6 +146,6 @@ Our Security Pledge
 >  **Prefer to Order Via Phone?  
 >  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20070624044232id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20071211103736id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
