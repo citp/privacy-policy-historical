@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629154335id_/http%3A//www.answerbag.com/q_view/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211022216id_/http%3A//www.answerbag.com/q_view/15) for the most accurate reproduction.*
 
 # What is Answerbag's Privacy Policy? | Answerbag.com
 
