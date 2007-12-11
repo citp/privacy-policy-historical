@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2007-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070530001514id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211081846id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
     <title>AWF: Privacy Policy</title>
@@ -19,6 +19,13 @@
         generator.document.title = titles[page];
         generator.document.close();
     }
+    
+	function popUp(URL) {
+		day = new Date();
+		id = day.getTime();
+		eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=780,height=500');");
+	}
+    
     function x_rates(usd_rate) {
         // get USD value (from checkboxes)
         var radio = document.getElementById('Donation_Levels').donation;
@@ -163,10 +170,10 @@
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-                    <img src="/files/3540_file_elesingrass.jpg" width="544" height="161">    		      </td>
+                    <img src="/files/3624_file_Elephantshrew_Thomson.JPG" width="544" height="161">    		      </td>
     		      
         <td class="right" style="width: 210px">
-        The elephant's survival was not an issue just 40 years ago.  Today however, they are often constricted to reserves due to pressure from poachers and human encroachment on their habitats.
+        As its name suggests, the elephant shrew is the most massive of the shrew family. They can grow to an astonishing one and a half pounds.
               </td>
             </tr>
             </tbody></table>
@@ -183,7 +190,9 @@
                         <div id="printPage">
                             <a href="javascript: openwin(0);"><img src="/images/button_enews.gif" width="114" height="21" alt="eNews Sign Up" border="0"></a>
                             <a href="/section/_email"><img src="/images/button_email_page.gif" alt="Email This Page" width="101" height="21" border="0"></a>
-                            <a href="/section/_footer/_privacy?print=true"><img src="/images/button_print.gif" alt="Print This Page" width="101" height="21" border="0"></a>
+
+							<a href="javascript:popUp('/section/_footer/_privacy?print=true')"><!--
+							--><img src="/images/button_print.gif" alt="Print This Page" width="101" height="21" border="0"></a>
                         </div>
                         <div class="clear"></div>
                     </td>
@@ -200,7 +209,8 @@
                                         <p>The African Wildlife Foundation (AWF) has created this Privacy Policy to explain 
   why we collect particular information and how we will protect your personal 
   privacy within our Website. AWF respects your privacy. The following statement 
-  details our practices related to the collection, use and disclosure of your 
+  details our practices related to the collection, use and disclosure of 
+your 
   personal information. We value your trust and appreciate your important sponsorship. 
   If you have any questions or comments concerning our personal information management 
   practices, please contact us. Our email and phone number are listed below. 
@@ -208,11 +218,10 @@
   Policy. The African Wildlife Foundation reserves the right at any time and without 
   notice to change this Privacy Policy simply by posting such changes on our Site. 
   Any such change will be effective immediately upon posting.</p>
+
 <p></p><div class="subTitle">What Information We Collect and How We Use That Information:</div><br>
-  Our registration forms require users to give us contact information that may 
-  include name, email address, format preference (HTML vs. Text), address, interests, 
-  and similar information. We do not request or store sensitive information from 
-  our visitors, such as credit card or social security numbers. <p></p>
+  Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. <b>Members who wish to ensure that their information is not shared should contact AWF using the instructions provided below.</b><p></p>
+
 <p></p><div class="subTitle">Internet Protocol Address:</div><br>
   We collect an IP address from all visitors to our Site. An IP address is a number 
   that is automatically assigned to your computer when you use the Internet. We 
@@ -221,6 +230,7 @@
   information for aggregate use in order for us to improve the site, and deliver 
   customized, personalized content. IP addresses are not linked to personally 
   identifiable information. <p></p>
+
 <p></p><div class="subTitle">Use of "Cookies": </div><br>
   Our Site may use cookies to enhance your experience while using our Site. Cookies 
   are pieces of information that some websites transfer to the computer that 
@@ -232,6 +242,7 @@
   not to receive cookies, you can alter the configuration of your browser to refuse 
   cookies. If you choose to have your browser refuse cookies, it is possible that 
   some areas of our Site will not function properly when you view them. <p></p>
+
 <p></p><div class="subTitle">Security: </div><br>
   All information provided to the African Wildlife Foundation is transmitted using 
   SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets 
@@ -241,9 +252,10 @@
   Wildlife Foundation. Unfortunately, however, no data transmission over the Internet 
   is 100% secure. While we strive to protect your information, we cannot ensure 
   or warrant the security of such information. <p></p>
+
 <p></p><div class="subTitle">Complaints: </div><br>
   If you wish to file a complaint as to our compliance with our Privacy Policy, 
-  please contact us. The African Wildlife Foundation takes your privacy complaints 
+  <a href="mailto:webmaster@awf.org">please contact us</a>. The African Wildlife Foundation takes your privacy complaints 
   very seriously, so please be clear and detailed as to all facts related to your 
   complaints<p></p>
 <p></p><div class="subTitle">Other Websites: </div><br>
