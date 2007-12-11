@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612191008id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211193649id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
 
-# U.S. Department of Defense Official Website - DoD Seal and Military Service Seals
+# Privacy Policy - U.S. Department of Defense
 
-## Privacy and Security
+## Privacy Policy 
 
 * * *
 
-  1. **DefenseLINK** is provided as a public service by the [ **Office of the Assistant Secretary of Defense-Public Affairs**](https://web.archive.org/pubs/almanac/asdpa.html) and the [ **Defense Technical Information Center**](http://www.dtic.mil/).
+  1. **DefenseLINK** is provided as a public service by the [ **Office of the Assistant Secretary of Defense-Public Affairs**](https://web.archive.org/pubs/almanac/asdpa.html).
 
   2. Information presented on **DefenseLINK** is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
 
