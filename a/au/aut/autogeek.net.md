@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autogeek.net privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207234220id_/http%3A//autogeek.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autogeek.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211225748id_/http%3A//www.autogeek.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,12 +12,10 @@ All information gathered by AutoGeek.net, through your order, is kept strictly c
 
 Yahoo!, our host server, does not store your credit card information. All order information sent to AutoGeek.net is kept strictly confidential. We do not trade, barter, rent or sell your name or personal information to anyone for any purpose.
 
-If you would prefer you can place your order by phone, fax, or mail.
-
-Mail printable order form: 
+If you would prefer you can place your order by phone.
 
 AutoGeek.Net  
-617 S.E. Central Pkwy.  
-Stuart, FL 34994
+7778 SW Ellipse Way  
+Stuart, FL 34997
 
-Call toll free: 1-800-869-3011 X-100
+Call toll free: 1-800-869-3011
