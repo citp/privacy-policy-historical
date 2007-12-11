@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023423id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081415id_/http%3A//www.craftbits.com/html/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,19 +12,15 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ####  Cookies 
 
-Our Site uses cookies to keep track of your shopping cart. This helps us keep track of the items you have selected to purchase.We do not use cookies for any other purpose. __
+Our Site uses cookies to keep track of your session for logging in purposes. We do not use cookies for any other purpose. __
 
 ####  Advertisers 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-####  Order Forms 
+####  Registration 
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). 
-
-Contact information from the order forms is used to get in touch with the visitor when necessary. 
-
-Financial information that is collected is used to bill the user for products and services. 
+We require the users of the site to register with us before they can access some parts of this site. Registration is a one time process and for a majority of the content on the site, registration is NOT required. By registering, you also receive a newsletter twice a month containing information about activity on our site. The information collected at the time of registration is held on the servers at our web hosts. This information is not shared with any other third party. 
 
 Demographic and profile data is also collected at our site.   
 We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
@@ -33,10 +29,7 @@ We use this data to tailor our visitor's experience at our site showing them con
 
 We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
 
-Contact information from the contests is used to get in touch with the visitor when necessary. 
-
-Demographic and profile data is also collected at our site.   
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Contact information from the contests is used to get in touch with the visitor when necessary. Sometimes external brands sponsor such competitions and demographic information about the users entering these competitions may be shared with the sponsors. 
 
 ####  External Links 
 
