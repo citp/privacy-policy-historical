@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626182610id_/http%3A//www.tafensw.edu.au/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211103925id_/http%3A//www.tafensw.edu.au/legal/privacy.htm) for the most accurate reproduction.*
 
 # TAFE NSW - Legal
 
@@ -87,4 +87,4 @@ As there may be specific legal provisions relating to the use of information sub
 
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time.
 
-We would be pleased to receive any [comments or suggestions on this policy](https://web.archive.org/web/20070626182610id_/http%3A//www.tafensw.edu.au/contact/webmaster.htm).
+We would be pleased to receive any [comments or suggestions on this policy](https://web.archive.org/web/20071211103925id_/http%3A//www.tafensw.edu.au/contact/webmaster.htm).
