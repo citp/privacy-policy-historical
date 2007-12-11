@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2007-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070401081648id_/http%3A//utube.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192452id_/http%3A//www.utube.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Universal Tube & Rollform Equipment Corporation - Tube Machinery - Used Tube Mills, Used Pipe Mills, Emmedi Welders, Rollformer
 
