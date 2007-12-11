@@ -1,36 +1,35 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2007-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070218145048id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110150id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PersonalizationMall.com Privacy Policy**
+---  
+  
+PersonalizationMall.com has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following discloses our information gathering and dissemination practices for our website (www.personalizationmall.com) and our affiliated stores. 
 
-* * *
+**We do not release our customer’s personal information to third parties.  
+**Our site uses an order form for customers to request products and services. During order submission, we collect the customer’s personal information (address, phone number, email address, etc) and financial information (credit card numbers). Personal information from the order form is used by PersonalizationMall.com and its agents to send orders to our customers and to contact the customer if necessary. Financial information that is collected is used to bill the user for products and services for that purchase only. Credit card information is not required to place an order with PersonalizationMall.com. For the convenience of our customers other payment options are available, including check and money order options. PersonalizationMall.com will never sell any customer information to third parties.
 
-PersonalizationMall.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website (www.personalizationmall.com) and our affiliated stores. 
+Our website operates with an SSL certificate provided by Verisign, an industry leader in online security. The information exchanged during checkout is encrypted using this SSL protocol. To review details of our relationship with Verisign, click the Verisign logo found at the bottom of any PersonalizationMall.com page.
 
-We use your IP address to help diagnose problems with our server, to administer our Web site, and to collect demographic information for internal purposes. 
+In order to place an order with PersonalizationMall.com, a visitor must register for an account. We maintain customer address information and order history on our secure servers.
 
-Our site uses cookies to keep track of your shopping cart and to store current session information. 
+We use visitor IP addresses to help diagnose problems with our server, to administer our Web site, and to collect demographic information for internal purposes. 
 
-In order to place an order with PersonalizationMall, you must register for an account. We maintain your address information and order history on our servers. 
+Our site uses cookies to keep track of visitor shopping carts and to store current session information. For more information about cookies, [click here](http://www.personalizationmall.com/StaticPage.aspx?pageid=25).
 
-Our site uses an order form for customers to request products and services. We collect visitor's contact information (like their email address) and financial information (credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services. We do not release any customer information to third parties. 
+The "Join Our List" page collects email and name information of visitors interested in receiving emails about special discounts and/or new product announcements.  
 
-"Join Our List" page collects email and name information for customers/visitors willing to receive occasional emails about special discounts and/or new product announcements. 
 
 **Contacting PersonalizationMall.com:**
 
-* * *
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact: 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-PersonalizationMall.Com.  
-8102 Lemont Road, Building 1700  
-Woodridge, IL 60517
-
+PersonalizationMall.com  
+8102 Lemont Road, Building 1400  
+Woodridge, IL 60517  
 Phone: 630-910-6000  
 Fax: 630-910-6006  
-Email: service@PersonalizationMall.com 
-
-[](http://www.personalizationmall.com/Default.aspx)|   
+Email: [Service@PersonalizationMall.com](mailto:Service@PersonalizationMall.com)  
+  
+[](http://www.personalizationmall.com/category.aspx?storeid=3&categoryid=1027)|   
 ---|---
