@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cymaxstores.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507130011id_/http%3A//www.cymaxstores.com/scripts/page.asp%3FidPage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymaxstores.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211174918id_/http%3A//www.cymaxstores.com/scripts/page.asp%3FidPage%3D6) for the most accurate reproduction.*
 
 # cymaxstores.com
 
