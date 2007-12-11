@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the dotphoto.com privacy policy that was archived on 2007-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628100131id_/http%3A//www.dotphoto.com/AboutPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotphoto.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211115052id_/http%3A//www.dotphoto.com/AboutPrivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 	<meta http-equiv="imagetoolbar" content="no">
-<title>Digital Photography-Secure Ordering of Digital Prints, Photo Cards and Gifts with dotPhoto</title>
-<meta name="WT.seg_1" content="GuestReseller">
-
-<!--SrvID=[4]-->
+	
+    <title>Digital Photography-Secure Ordering of Digital Prints, Photo Cards and Gifts with dotPhoto</title>
+<!--SrvID=[3]-->
 <style type="text/css">
 <!--
 body {font-family: Verdana, Arial, Helvetica;}
@@ -241,20 +240,23 @@ a.TopStatusBar:hover {
 
 .LeftNavLink {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 10px;
-    color: #7D7D7D;
+    font-size: 11px;
+    color: #194582;
+    /*color: #7D7D7D;*/
 	font-weight: bold;
-    line-height: 12px;
+    line-height: 20px;
     text-decoration:none;
+    white-space: nowrap;
 }
 
 a.LeftNavLink:hover {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 11px;
     color: #b7b7b7;
 	font-weight: bold;
-    line-height: 12px;
+    line-height: 20px;
     text-decoration:underline;
+    white-space: nowrap;
 }
 
 .FooterLink {
@@ -576,166 +578,164 @@ a.BottomNav:hover {
 
 -->
 </style>
-<script language="JavaScript" type="text/javascript">
-<!--
-//---- WebTrends tracking script 8/4/2006 W.Drummond -----
 
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsu1hu3l000008qpbxebp7l5_3p7y";
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gConvert=true;
+    <script language="JavaScript" type="text/javascript">
+        <!--
+        window.name = "dotPhotoMain";
 
-if ((typeof(gConvert)!="undefined")&&
-	gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&
-		(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-			document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf
-			('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
+        function HeaderSearchKeyPress(eEvent) {
+            var keyCode = eEvent.keyCode ? eEvent.keyCode :
+			            eEvent.charCode ? eEvent.charCode :
+			            eEvent.which ? eEvent.which : void 0;
+        	
+            if (keyCode == 13) {
+	            HeaderCheckSearch();
+            }
+        }
 
-//---- WebTrends tracking script end ---
+        function HeaderCheckSearch() {
+            var sTemp;
+            if (document.frmHeaderSearch.HeaderSearchString.value.indexOf("Search") >= 0)
+	            document.frmHeaderSearch.HeaderSearchString.value = "";
 
-window.name = "dotPhotoMain";
+            if (document.frmHeaderSearch.HeaderSearchString.value.length == 0) {
+	            document.frmHeaderSearch.HeaderSearchString.focus();
+	            alert("Please enter your keywords");
+	            return false;
+            }
+            else {
+	            if (document.frmHeaderSearch.PhotoSearchType != null){
+		            if (document.frmHeaderSearch.PhotoSearchType.selectedIndex == 0) {
+			            document.frmHeaderSearch.action = "Search.asp?MID=" + document.frmHeaderSearch.HeaderMID.value + "&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
+			            document.frmHeaderSearch.submit();
+			            }
+		            else
+		            {
+			            document.frmHeaderSearch.action = "Search.asp?MID=0&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
+			            document.frmHeaderSearch.submit();
+		            }
+	            }
+	            else {
+		            document.frmHeaderSearch.action = "Search.asp?MID=0&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
+		            document.frmHeaderSearch.submit();
+	            }
+            }
+        }
 
-function HeaderSearchKeyPress(eEvent) {
-	var keyCode = eEvent.keyCode ? eEvent.keyCode :
-				eEvent.charCode ? eEvent.charCode :
-				eEvent.which ? eEvent.which : void 0;
-	
-	if (keyCode == 13) {
-		HeaderCheckSearch();
-	}
-}
+        function openHelp(str) {
+            var loc, loc2, helpWin;
 
-function HeaderCheckSearch() {
-	var sTemp;
-	if (document.frmHeaderSearch.HeaderSearchString.value.indexOf("Search") >= 0)
-		document.frmHeaderSearch.HeaderSearchString.value = "";
+            loc = str.lastIndexOf("/");
+            loc = loc + 1;
+            loc2 = str.length;
 
-	if (document.frmHeaderSearch.HeaderSearchString.value.length == 0) {
-		document.frmHeaderSearch.HeaderSearchString.focus();
-		alert("Please enter your keywords");
-		return false;
-	}
-	else {
-		if (document.frmHeaderSearch.PhotoSearchType != null){
-			if (document.frmHeaderSearch.PhotoSearchType.selectedIndex == 0) {
-				document.frmHeaderSearch.action = "Search.asp?MID=" + document.frmHeaderSearch.HeaderMID.value + "&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
-				document.frmHeaderSearch.submit();
-				}
-			else
-			{
-				document.frmHeaderSearch.action = "Search.asp?MID=0&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
-				document.frmHeaderSearch.submit();
-			}
-		}
-		else {
-			document.frmHeaderSearch.action = "Search.asp?MID=0&SearchString=" + document.frmHeaderSearch.HeaderSearchString.value;
-			document.frmHeaderSearch.submit();
-		}
-	}
-}
+            str = str.substring(loc, loc2);
 
-function openHelp(str) {
-	var loc, loc2, helpWin;
+            if ((str == "About.asp") || (str == "AboutPress.asp") || (str == "AboutInvestorInfo.asp") ||
+            (str == "AboutContactUs.asp") || (str == "AboutPrivacy.asp") || (str == "AboutTermsOfService.asp")
+	            || (str == "Support.asp") || (str == "MainHelp.asp") || (str == "Tips.asp") || (str == "TipsDigitalCamera.asp")
+	            || (str == "TipsPhotoBasics.asp") || (str == "TipsUsingdotPhoto.asp") || (str == "Gallery.asp") || (str == "MemEditImage.asp")
+	            || (str == "FrontPromo1.asp") || (str == "FrontPromo2.asp") || (str == "FrontPromo3.asp")){
+	            window.location.href = "/MainHelp.asp";
+	            return false;
+            }
 
-	loc = str.lastIndexOf("/");
-	loc = loc + 1;
-	loc2 = str.length;
+            str = "/Help/" + str;
 
-	str = str.substring(loc, loc2);
+            helpWin = window.open(str, "helpWin", "width=400,height=420,scrollbars=yes,resizable=yes");
+            helpWin.focus();
+            helpWin.opener = self;
+        }
 
-	if ((str == "About.asp") || (str == "AboutPress.asp") || (str == "AboutInvestorInfo.asp") ||
-	(str == "AboutContactUs.asp") || (str == "AboutPrivacy.asp") || (str == "AboutTermsOfService.asp")
-		|| (str == "Support.asp") || (str == "MainHelp.asp") || (str == "Tips.asp") || (str == "TipsDigitalCamera.asp")
-		|| (str == "TipsPhotoBasics.asp") || (str == "TipsUsingdotPhoto.asp") || (str == "Gallery.asp") || (str == "MemEditImage.asp")
-		|| (str == "FrontPromo1.asp") || (str == "FrontPromo2.asp") || (str == "FrontPromo3.asp")){
-		window.location.href = "/MainHelp.asp";
-		return false;
-	}
+        function openDemo() {
+            demoWin = window.open('demo/demo.html','tipWin','width=450,height=350');
+            demoWin.focus();
+            demoWin.opener = self;
+        }
+        
+        function refreshFrame() {
+        }
+        
+        //-->
+    </script>
 
-	str = "/Help/" + str;
-
-	helpWin = window.open(str, "helpWin", "width=400,height=420,scrollbars=yes,resizable=yes");
-	helpWin.focus();
-	helpWin.opener = self;
-}
-
-function openDemo() {
-	demoWin = window.open('demo/demo.html','tipWin','width=450,height=350');
-	demoWin.focus();
-	demoWin.opener = self;
-}
-
-function refreshFrame() {
-
-}
-
-//-->
-</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsu1hu3l000008qpbxebp7l5_3p7y/wtid.js"></script>
-
-
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/13966/slf.js" language="JavaScript"></script>
-
-
+    
+    <script language="JavaScript">var tcdacmd="dt";</script>
+    <script src="http://an.tacoda.net/an/13966/slf.js" language="JavaScript"></script>
+    
+    
+    <script src="img/banners/bannerad3.js" type="text/javascript"></script>
 
 </head>
 
-
-
-        <body bgcolor="#9CB5CB" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="1" link="#0067B0" alink="#0067B0" vlink="#0067B0">
-    
-
-
-<table width="764" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#FFFFFF">
-	<tbody><tr>
-		<td colspan="3" align="center">
-			<table width="764" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr align="center">
-					<td colspan="12"></td>
-				</tr>
-				
-				<tr>
-					
-						<td width="159">&nbsp;</td>
-					
-					<td colspan="11" align="right" valign="top" class="TopNav">
-					     <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
-						<a href="StoreProductDetail.asp?StID=2&amp;GC=GST&amp;IC=GIFTSET" class="TopNav"><img src="img/summer_icon.gif" border="0"><font color="018148"> Gift Ideas</font></a>  | 
-							<a href="/Join.asp" class="TopNav">Join Free</a> |
-							<a href="/MemLogin.asp?Redir=AboutPrivacy%2Easp" class="TopNav">Sign in</a> |
-							<a href="/Gallery.asp" class="TopNav">Galleries</a> |
-							<a href="/GuestOrderViewAlbum.asp" class="TopNav"><img src="IMG/mydp_tab_carticon.gif" width="23" height="18" border="0"> Cart</a> |
-							<a href="/Support.asp" class="TopNav">Help</a>&nbsp;&nbsp;
-						 <!-- End Section For FileUploader.aspx Redirect-->
+ 
+<!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+<body bgcolor="#9CB5CB" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="1" link="#0067B0" alink="#0067B0" vlink="#0067B0">
+    <table width="764" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#FFFFFF">
+	    <tbody><tr>
+		    <td colspan="3" align="center">
+			    <table width="764" border="0" cellpadding="0" cellspacing="0"> 
+				    <!-- Advertising banner -->
+				    <tbody><tr align="center">
+					    <td colspan="3"></td>
+				    </tr>
+				    
+				    <!-- top navigation, dotPhoto logo, and other stuff -->
+				    <tr>
+				        <!-- The most left column is for the dotPhoto logo,
+				                crosses three rows to keep the height compact -->
+				        <td rowspan="3" style="background: url(img/nav_bg.gif) bottom repeat-x;">
+					    <a href="/"><img src="img/frontpage/dotphoto_logo.gif" width="148" height="75" border="0"></a> 
+				        </td>
+				        
+				        <!-- The next column is to allow for user uploaded logos,
+				                As it is hosted in the middle row (need a blank td above and below
+				                It will not distort the horizontal of the menus, but it
+				                will explode the height of the header by design -->
+				        <td></td>
+				    
+				        <!-- Tip-Top navigation -->
+					    <td align="right" valign="top" class="TopNav">
+						    <a href="StoreBrowseStart.asp?MP=Y" class="TopNav"><font color="018148"><img src="img/little-gift.gif" border="0"> Gift Ideas</font></a> | 
+                                    <a href="/Join.asp" class="TopNav">Join Free</a> |
+                                    <a href="/Gallery.asp" class="TopNav">Galleries</a> |
+                                    <a href="/GuestOrderViewAlbum.asp" class="TopNav"><img src="IMG/mydp_tab_carticon.gif" width="23" height="18" border="0"> Cart</a> |
+                                    <a href="/Support.asp" class="TopNav">Help</a>&nbsp;&nbsp;|
+                                    <a href="/MemLogin.asp?Redir=AboutPrivacy%2Easp" class="TopNav">Sign in</a>&nbsp;&nbsp;
+						     <!-- End Section For FileUploader.aspx Redirect-->
 					</td>
 				</tr>
 				
-					<tr>
-						<td height="19" colspan="12">
-						
-							<a href="http://www.ivpressonline.com"><img src="SAN1/CustomLogos/843484.gif" border="0"></a>
-						
-						</td>
-					</tr>
-				
+				<!-- Second row: needs no first column (dotPhoto logo),
+				        a column for custom logo,
+				        a basically extra space to accomodate a giganto custom logo -->
 				<tr>
-					
-						<td background="IMG/nav_bg.gif"><a href="&#10;&#9;&#9;&#9;&#9;&#9;&#9;http://www.exclaim.com/" target="_blank"><img src="img/poweredbylogo.gif&#10;&#9;&#9;&#9;&#9;&#9;&#9;" width="148" height="25" border="0"></a></td>
-		      
-					<td valign="bottom" align="right" background="img/mydp_menubg.gif" colspan="11">
-					     <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+				    <td>
+										    
+				    </td>
+				    <td><img src="IMG/spacer.gif" width="605" height="15"></td>
+				</tr>
+
+                <!-- Third row: needs no first column (dotPhoto logo),
+                        second column used for "Powered by" if custom logo,
+                        used for navigation tabs -->
+				<tr>
+				    <td style="background: url(img/nav_bg.gif) bottom repeat-x;">
+					    
+                    </td>						
+					<td style="background: url(img/nav_bg.gif) bottom repeat-x; vertical-align: bottom; text-align: right;" align="right">
+						 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+											
 						
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								
 									<td width="21" valign="bottom"><img src="img/nav_tableft_white.gif" width="21" height="33" border="0"></td>
-									<td width="77" valign="bottom"><a href="/GuestViewAlbum.asp"><img src="img/dptab_myalbums_white.gif" width="77" height="33" border="0"></a></td>
+									<td width="77" valign="bottom"><a href="/MemLogin.asp"><img src="img/dptab_myalbums_white.gif" width="77" height="33" border="0"></a></td>
 									
 										<td width="21" valign="bottom"><img src="img/nav_tabmiddle_white.gif" width="21" height="33" border="0"></td>
 									
-									<td width="77" valign="bottom"><a href="/GuestListShows.asp"><img src="img/dptab_myshows_white.gif" width="77" height="33" border="0"></a></td>
+									<td width="77" valign="bottom"><a href="/MemLogin.asp"><img src="img/dptab_myshows_white.gif" width="77" height="33" border="0"></a></td>
 									
 										<td width="21" valign="bottom"><img src="img/nav_tabmiddle_white.gif" width="21" height="33" border="0"></td>
 									
@@ -752,30 +752,32 @@ function refreshFrame() {
 					</td>
 				</tr>
 
-                
-                    <tr bgcolor="#DDAA00">
-                
+				
+				        <tr style="background: #ddaa00">
+				
 
-					<td height="21" colspan="12">
+					<td style="height: 24px;" colspan="3">
+						 
 						<table border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
-					     <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+						<!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 								<td width="464" height="21" class="TopStatusBar">&nbsp;<b>WELCOME BACK</b>&nbsp;&nbsp;&nbsp;&nbsp;
-						&nbsp;Guest: ivpress&nbsp;&nbsp;
+						
 								</td>
 
 								<td width="300">
 									<form style="display:inline;" onkeypress="HeaderSearchKeyPress(event);" name="frmHeaderSearch" action="Search.asp" method="post" onsubmit="return false;">
 									<table border="0" cellspacing="0" cellpadding="0">
 										<tbody><tr>
-                					     <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+										 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 										
 											<td width="140" align="right">
-												<input type="hidden" name="HeaderMID" value="843484">
+												<input type="hidden" name="HeaderMID" value="0">
 												<input type="text" id="HeaderSearchString" name="HeaderSearchString" size="15" maxlength="30" class="NormalTextSmall">
 											</td>
 											<td width="13">&nbsp;</td>
-											<td width="147" align="left"><a href="#" onclick="javascript:HeaderCheckSearch()"><img src="IMG/mydp_find1.gif" width="58" height="21" border="0"></a></td>
+											<!--<td width="147" align="left"><a href="#" onClick="javascript:HeaderCheckSearch()"><img src="IMG/mydp_find1.gif" width="58" height="21" border="0"/></a></td>-->
+										    <td width="147" align="center"><input type="button" value="Search" onclick="javascript:HeaderCheckSearch()" style="width: 58px; height:19px; font-family: Arial Verdana; font-size: 8pt; font-weight: bold;"></td>
 										 <!--End of FileUploader.aspx redirect -->
 										</tr>
 									</tbody></table>
@@ -785,22 +787,56 @@ function refreshFrame() {
 						</tbody></table>
 					</td>
 				</tr>
-             <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
 				
-				<tr>
-					<td colspan="12" align="center">
-						<table cellpadding="0" cellspacing="0">
-							<tbody><tr><td>&nbsp;</td></tr>
-							<tr><td align="center"><img src="img/FreeShippingBanner_NoDate02.gif"></td><td rowspan="2" align="left"></td></tr>
-						</tbody></table>			
-					</td>
-				</tr>	
-			 <!-- End of section for FileUploader.aspx redirect-->
+			     
+			        <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+				    
+				    <tr>
+					    <td colspan="3" align="center" style="height: 68px">
+						    <table cellpadding="0" cellspacing="0">
+							    <tbody><tr><td>&nbsp;</td></tr>
+							    <tr>
+							        <td align="center">
+							            <!-- Replaced with a rotating banner ad
+							                    30-OCT-2007
+							                    Bryan LeBlanc
+							            <img src= />
+							            -->
+				                        <script type="text/javascript">
+                                            // Courtesy of SimplytheBest.net - http://simplythebest.net/scripts/
+                                            //
+                                            //  myAd = new Banner( 5, 468, 60, "Visit our sponsor", 1, 0 );
+                                            //  (time between rotations (seconds), width of banner, height of banner, alt text, starting banner, random (0 means it iterates through banners, 1 means it randomly picks the next banner))
+                                            //
+                                            //  myAd.Ad( "banners/banner_1.gif", "business_planning.html", "_blank", "Business planning" )
+                                            //  path to image, url, target window, and mouseover message
+                                            <!--
+                                            myAd = new Banner(5, 480, 60, "DotPhoto.com Promotions", 1, 1);
+                                            myAd.Ad( "img/banners/FreeShippingBanner_NoDate02.gif", "#", null, "Free Shipping..." );
+                                            myAd.Ad( "img/banners/12centPrintBanner.gif", "#", null, "12 cent prints all the time." );
+                                            myAd.Ad( "img/banners/dotphotoGoBanner.jpg", "/dotPhotoGo.asp", null, "Get dotPhotoGO now" );
+                                            myAd.Ad( "img/banners/dotPhotoShowBanner.gif", "http://www.dotphoto.com/Flashtool/MemViewShow.asp?SID=185291", "_blank", "Visit the dotPhoto show" );
+                                            myAd.Ad( "img/banners/EyeFiBanner.jpg", "/EyeFiAddToCart.asp", null, "Free your memories... quickly, easily, and wirelessly!" );
+                                            myAd.Ad( "img/banners/LigareBanner.jpg", "/GreetingCardLogo.asp?StID=2&GC=CRD&IC=CRD&MC=LIGARE&SC=44", null, "Order exclusive Ligare Signature Series holiday cards" );
+                                            myAd.output();
+                                            // -->
+                                        </script><a href="javascript:bannerAd0.link();" onmouseover="bannerAd0.showStatus(); return true" onmouseout="status='';return true"><img src="img/banners/FreeShippingBanner_NoDate02.gif" width="480" name="bannerAd0Img" height="60" alt="DotPhoto.com Promotions" border="0"></a>							        
+							        </td>
+							        <td rowspan="2" align="left"></td>
+							    </tr>
+						    </tbody></table>			
+					    </td>
+				    </tr>	
+			     
+			    <!-- End of section for FileUploader.aspx redirect-->
 				
-			</tbody></table>
-		</td>
-	</tr>
-<tr><td></td><td valign="top">
+			    </tbody></table>
+		    </td>
+	    </tr>
+        <tr>
+            <td></td>
+            <!-- Begin main content -->
+            <td valign="top">
 
 <center>
 <table border="0" cellspacing="0" cellpadding="0" width="640">
@@ -1260,63 +1296,69 @@ function refreshFrame() {
 </td>
     </tr>
     
-    <tr>
-        <td align="center" valign="bottom" colspan="3">
-    		<table width="764" border="0" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="TableBorderTop">
-             <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
-    			<tbody><tr>
-    				<td width="88" rowspan="3" valign="top"><img src="IMG/privacy.gif" width="83" height="29"></td>
-    				<td width="676" height="17" align="center">
-    					<span class="FooterLink">
-    							<a href="/About.asp" class="FooterLink">About Us</a> | 
-    							<a href="/AffiliateMarketing.asp" class="FooterLink">Affiliates</a> | 
-    							<a href="http://dotphoto.typepad.com/blog" class="FooterLink">dotPhoto blog</a> |
-    							<a href="/PrintPlans.asp?TabLoc=3" class="FooterLink">Membership</a> | 
-                                <a href="http://www.pictavision.com/PVconfig/p-15-pictavision.aspx" class="FooterLink">Mobile</a> |
-                				<a href="photo_contest/photo_contest.asp" class="FooterLink">Photo Contest</a> | 
-                				<a href="/PricingAndReturn.asp" class="FooterLink">Pricing</a>     							
-    							
-    					</span>
+	<tr>
+		<td align="center" valign="bottom" colspan="3">
+			
+			
+			<table width="764" border="0" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="TableBorderTop">
+			 <!--If redirect from FileUploader.aspx then remove "Join Free/SignIn/Galleries/Cart/Help-->
+				<tbody><tr>
+					<td width="88" rowspan="3" valign="top"><img src="IMG/privacy.gif" width="83" height="29"></td>
+					<td width="676" height="17" align="center">
+						<span class="FooterLink">
+								<a href="/About.asp" class="FooterLink">About Us</a> | 
+								<a href="/AffiliateMarketing.asp" class="FooterLink">Affiliates</a> | 
+								<a href="http://dotphoto.typepad.com/blog" class="FooterLink">blog</a> |
+								<a href="/PrintPlans.asp?TabLoc=3" class="FooterLink">Membership</a> | 
+								<a href="http://www.pictavision.com/PVconfig/p-15-pictavision.aspx" class="FooterLink">Mobile</a> | 
+								<a href="/PricingAndReturn.asp" class="FooterLink">Pricing</a>|
+								<a href="http://dotphoto.custhelp.com/cgi-bin/dotphoto.cfg/php/enduser/std_adp.php?p_faqid=508" class="FooterLink">Promotion Details</a> |
+								<a href="/GuestOrderDetail.asp" class="FooterLink">Order Tracking</a> 
+						</span>
     				</td>
-                </tr>
+				</tr>
 
-    			<tr>
-    				<td width="676" height="20" align="center" valign="top">
-    					<span class="FooterLink">
-    							<a href="http://www.dotphotopro.com" class="FooterLink">Professionals</a> |
-    							<a href="/Newspapers.asp" class="FooterLink">Newspapers</a> |
-    							<a href="/Terms.asp" class="FooterLink">Terms</a> | 
-    							<a href="/AboutPrivacy.asp" class="FooterLink">Privacy</a> | 
-    							<a href="dotPhotoGo.asp" class="FooterLink">FREE Desktop Software</a> | 
-    							<a href="/AboutContactUs.asp" class="FooterLink">Contact Us</a> | 
-    							<a href="/Support.asp" class="FooterLink">Help</a> |
-    							<a href="/dp-sitemap.asp" class="FooterLink">Sitemap</a>
-    					</span>
-    				</td>
-                </tr>
-            
-    		    <tr>
-    				<td height="16" align="center" class="FooterGreyText">Copyright ©2000-2007&nbsp;dotPhoto, Inc. All Rights Reserved</td>
-    	        </tr>
-    		</tbody></table>
-        </td>
-    </tr>
+				<tr>
+					<td width="676" height="20" align="center" valign="top">
+						<span class="FooterLink">
+								<a href="http://www.dotphotopro.com" class="FooterLink">Professionals</a> |
+								<a href="/Newspapers.asp" class="FooterLink">Newspapers</a> |
+								<a href="/Terms.asp" class="FooterLink">Terms</a> | 
+								<a href="/AboutPrivacy.asp" class="FooterLink">Privacy</a> | 
+								<a href="dotPhotoGo.asp" class="FooterLink"><span style="color:Red;">NEW</span> FREE Upload Software</a> | 
+								<a href="/AboutContactUs.asp" class="FooterLink">Contact Us</a> | 
+								<a href="/Support.asp" class="FooterLink">Help</a> |
+								<a href="/dp-sitemap.asp" class="FooterLink">Sitemap</a>
+						</span>
+					</td>
+				</tr>
+			
+				<tr>
+					<td height="16" align="center" class="FooterGreyText">Copyright ©2000-2007&nbsp;dotPhoto, Inc. All Rights Reserved</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
 
 
-    <script language="javascript" type="text/javascript">
-       document.onload = refreshFrame();
-    </script>
+	<script language="javascript" type="text/javascript">
+		document.onload = refreshFrame();
+	</script>
 
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/16 12:16:18 $ -->
-<script src="/sdc.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670673-1";
+urchinTracker();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-f7NPOxzl7xaIg";quantserve();</script>
 <noscript>
-<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsu1hu3l000008qpbxebp7l5_3p7y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/>
+<a href="http://www.quantcast.com/p-f7NPOxzl7xaIg" target="_blank"><img src="http://pixel.quantserve.com"/pixel/p-f7NPOxzl7xaIg.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
+<!-- End Quantcast tag -->
 
 
 
