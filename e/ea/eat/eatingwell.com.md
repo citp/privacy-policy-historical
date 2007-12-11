@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2007-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070408020402id_/http%3A//www.eatingwell.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030212id_/http%3A//www.eatingwell.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Eating Well
 
-### ABOUT EATING WELL
+### ABOUT EATINGWELL
+
+and special offer emails.
+
+* * *
 
 | 
 
@@ -46,25 +50,4 @@ We gather and store all your personal information, including credit-card informa
 
 In keeping with common order-processing and customer-acquisition practices, we do cooperatively share magazine subscriber database lists. We do run our lists against the Direct Marketing Association's national Do-Not-Promote list to ensure we do not send mail to anyone who has put their name on this list. From time to time, we might opt to have companies (those we feel will be of interest to you) send you information about themselves. If you are a mail-order or Internet customer and have not told us to withhold your information, from time to time you may receive promotional offers from related cooking and health companies. If you are a mail-order customer and would prefer to be removed from this list, please call our Customer Service number (800-337-0402) and we will be happy to help you. 
 
-| 
-
-FREE NEWSLETTERS
-
-as well as special offer emails, and get a free gift & a chance to win a cookbook!
-
-* * *
-
-[](https://web.archive.org/community/rss/rss_feeds.html)  
-• [Recipes](https://web.archive.org/community/rss/rss_feeds.html)  
-• [Menus](https://web.archive.org/community/rss/rss_feeds.html)
-
-* * *
-
-[](https://web.archive.org/market/)
-
-  
-
-
-* * *
-
-[](https://web.archive.org/shop/cookbooks/eatingwell_diet.html)[Buy _The EatingWell Diet_ book now and get a FREE 28-day Food Diary!](https://web.archive.org/shop/cookbooks/eatingwell_diet.html)  
+|   
