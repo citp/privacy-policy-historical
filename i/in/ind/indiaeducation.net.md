@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaeducation.net privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426141116id_/http%3A//www.indiaeducation.info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaeducation.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154240id_/http%3A//www.indiaeducation.net/common/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
