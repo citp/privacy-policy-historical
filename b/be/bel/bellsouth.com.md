@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627095535id_/http%3A//www.bellsouth.com/privacydoc.html%3Fft%3Dpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellsouth.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211201739id_/http%3A//www.bellsouth.com/privacydoc.html%3Fft%3Dpol) for the most accurate reproduction.*
 
 # BellSouth - Legal Notices and Privacy Statement
+
+**BellSouth is now part of the new AT &T. As we continue to consolidate and re-brand from BellSouth to AT&T, the BellSouth privacy policy will continue to apply to legacy BellSouth services and to your interactions with BellSouth Web sites. We will be updating our privacy policies to reflect this change.**
 
 At BellSouth we are committed to honoring the privacy of our on-line customers and visitors to our Web sites. We recognize the importance to you of maintaining an appropriate level of privacy and security for the personal information we collect from you over the Internet. The following discloses our Web site information gathering and use practices and is limited to the protection and use of personal information collected by us in the online environment. Your access to and use of our site are subject to this policy and any other terms of use or policies posted by us. Please note that this privacy statement applies only to this site and not to the web sites of our advertisers or of other companies or organizations to which we link. All references to “BellSouth” throughout this policy statement include, unless otherwise stated, all BellSouth affiliate companies, successors and assigns. 
 
