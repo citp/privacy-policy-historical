@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627034801id_/http%3A//drivetime.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105956id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Us
 
@@ -14,9 +14,6 @@
   * [DT Difference
 
 ](http://www.drivetime.com/en-US/dtdifference/default.aspx "DriveTime Used Car and Truck Financing")
-  * [Earn a Free Gift
-
-](http://www.drivetime.com/en-US/earnafreegift/default.aspx "DriveTime DT Rewards Programs")
   * [Press Room
 
 ](http://www.drivetime.com/en-US/pressroom/default.aspx "DriveTime - Press Room")
