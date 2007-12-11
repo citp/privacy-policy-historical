@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213316id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051359id_/http%3A//www.mercent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mercent Corporation - Privacy Policy
 
