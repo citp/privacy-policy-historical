@@ -1,32 +1,26 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614175236id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100300id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
 
-# Jessops.com - Privacy Policy
+# Privacy Policy
+
+Jessops.com Privacy Policy
 
 This privacy statement covers the site www.jessops.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
 
-1\. What personally identifiable information Jessops collects.
-
-2\. What personally identifiable information third parties collect through the Web site.
-
-3\. What organization collects the information. 
-
-4\. How Jessops uses the information.
-
-5\. With whom Jessops may share user information. 
-
-6\. What choices are available to users regarding collection, use and distribution of the information. 
-
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Jessops control. 
-
-8\. How users can correct any inaccuracies in the information.
-
+1\. What personally identifiable information Jessops collects.  
+2\. What personally identifiable information third parties collect through the Web site.  
+3\. What organization collects the information.  
+4\. How Jessops uses the information.  
+5\. With whom Jessops may share user information.  
+6\. What choices are available to users regarding collection, use and distribution of the information.  
+7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Jessops control.  
+8\. How users can correct any inaccuracies in the information.  
 9\. How users can contact us with questions regarding this privacy policy.
 
 If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.
 
 If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact us at: [cs@jessops.com](mailto:cs@jessops.com) or call 0845 458 7005.
 
-### Information Collection and Use
+**Information Collection and Use**
 
 _Information Collection_  
 Jessops is the sole owner of the information collected on www.jessops.com. Jessops collects information from our users at several different points on our Web site. 
@@ -58,7 +52,10 @@ We do not have ANY third party advertising on our site.
 _Log Files_  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Webtrends that uses log files to analyze user movement.
 
-### Communications from the Site
+**back to top**  
+
+
+**Communications from the Site**
 
 _Special Offers and Updates_  
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
@@ -72,7 +69,10 @@ On rare occasions it is necessary to send out a strictly service related announc
 _Customer Service_  
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account. We reply via email or phone, in accordance with the users wishes.
 
-### Sharing
+**back to top**  
+
+
+**Sharing**
 
 _Legal Disclaimer_  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
@@ -139,5 +139,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-top of Policy  
+**back to top**  
 
