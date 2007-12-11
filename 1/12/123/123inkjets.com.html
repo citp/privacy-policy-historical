@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630104652id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123inkjets.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211140149id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>123inkjets.com - Your Privacy Rights</title>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>123inkjets.com - Your Privacy Rights</title>                                                                                                                                                                                                                             
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">                                                                                                                                                           
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="/cs/css/css.css" type="text/css">
-
-        <link rel="stylesheet" href="/css/css.css" type="text/css">
-
+        <link rel="stylesheet" href="/js/static.css" type="text/css">
         <meta name="description" content="123InkJets offers a great discount on printer ink cartridges, laser toners, ink jet refill kits, ribbons, inkjet cartridges for HP, Lexmark, Epson, Canon, Brother, Dell, and more.">
         <meta name="keywords" content="ink cartridges,printer ink,inkjet cartridges,printer ink cartridges,printer toners,laser toners,inkjet printer cartridges,lexmark ink cartridges,epson,canon,brother,dell,hp ink cartridges">
         <meta name="robots" content="NOYDIR">
@@ -16,36 +15,17 @@
 function escapeFrames(){
     if(top.frames.length>0){
         var ver = parseInt(navigator.appVersion, 10);
-        try {
-            if(frames['acerno'].location.URL != '') {
-                if ( ((navigator.appName == 'Netscape') && (ver >= 3)) || ((navigator.appName == 'Microsoft Internet Explorer') && (ver >= 4)) ){
-                    try{
-                        if (typeof(top.okayFrameset) == 'undefined') { properClickThrough=true;top.location.replace(self.location); } // Added for UpsellIt
-                    } catch(err) {
-                        properClickThrough=true;top.location.replace(self.location);
-                    }
-                } else {
-                    try{
-                        if (typeof(top.okayFrameset) == 'undefined') { properClickThrough=true;top.location = self.location; } // Added for UpsellIt
-                    } catch(err) {
-                        properClickThrough=true;top.location = self.location;
-                    }
-                }
-            } //if acerno
-
-        } catch(err) {
-            if ( ((navigator.appName == 'Netscape') && (ver >= 3)) || ((navigator.appName == 'Microsoft Internet Explorer') && (ver >= 4)) ){
-                try{
-                    if (typeof(top.okayFrameset) == 'undefined') { properClickThrough=true;top.location.replace(self.location); } // Added for UpsellIt
-                } catch(err) {
-                    properClickThrough=true;top.location.replace(self.location);
-                }
-            } else {
-                try{
-                    if (typeof(top.okayFrameset) == 'undefined') { properClickThrough=true;top.location = self.location; } // Added for UpsellIt
-                } catch(err) {
-                    properClickThrough=true;top.location = self.location;
-                }
+        if ( ((navigator.appName == 'Netscape') && (ver >= 3)) || ((navigator.appName == 'Microsoft Internet Explorer') && (ver >= 4)) ){
+            try{
+                if (typeof(top.okayFrameset) == 'undefined') { top.location.replace(self.location); }
+            } catch(err) {
+                top.location.replace(self.location);
+            }
+        } else {
+            try{
+                if (typeof(top.okayFrameset) == 'undefined') { top.location = self.location; }
+            } catch(err) {
+                top.location = self.location;
             }
         }
     }
@@ -57,19 +37,31 @@ function escapeFrames(){
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#699bed" background="http://cdn.123inkjets.com/images/topnav/header_bg_1.gif">
   <tbody><tr>
     
-	<td width="215" height="80" valign="top"><a href="http://www.123inkjets.com/index.html"><img src="http://cdn.123inkjets.com/images/topnav/header_logo_1.jpg" alt="123inkjets.com" width="205" height="80" border="0"></a></td>
-    <td width="100%" align="center" valign="middle"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="27" width="10"><br><img src="http://cdn.123inkjets.com/images/topnav/header_tagline_1.jpg" alt="inkjet cartridge save" width="375" height="30"></td>
-    <td width="100" valign="top"><img src="http://cdn.123inkjets.com/images/topnav/header_valueprop_1.jpg" alt="inkjet cartridge printer" width="80" height="60"></td>
-    <td width="110" valign="top"><img src="http://cdn.123inkjets.com/images/topnav/header_links_1.gif" alt="123inkjets.com" width="110" height="80" border="0" usemap="#linkMap"></td>
+	<td width="215" height="80" valign="top"><a href="/index.html"><img src="http://cdn.123inkjets.com/images/topnav/header_logo_1.jpg" alt="123inkjets.com" width="205" height="80" border="0"></a></td>
+    <td width="100%" align="center" valign="middle">
+	<table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="center">
+			<div style="width: 450px;background: url(http://cdn.123inkjets.com/images/topnav/header_bg_1.gif) repeat top left;padding: 26px 0px 24px 0px">
+			<span style="color: #ffcc33;font: 22px verdana;letter-spacing: -1px">FREE SHIPPING on all orders over $55</span><br>
+			<span style="color: #ffcc33;font: 9px verdana">CONDITIONS APPLY. <a href="/cs/shipping_methodscosts.html"><font color="#ffcc33">CLICK HERE</font></a></span><br>
+			</div>
+			</td>
+		</tr>
+	</tbody></table>
+	</td>
+	<td width="100" valign="top"><!--<img src='http://cdn.123inkjets.com/images/topnav/header_valueprop_1.jpg' alt='inkjet cartridge printer' width='80' height='60'> --></td>
+    <td width="110" valign="top"><img src="http://cdn.123inkjets.com/images/topnav/header_links_1.gif" alt="123inkjets.com" width="110" height="80" border="0" usemap="#linkMap"></td></tr>
+	<tr width="100%"><td width="215" align="center" valign="top" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style:italic; color: #1c3463;">Inkjet Cartridges, Toner, &amp; More!</td><td colspan'3'=""><img src="images/spacer.gif" height="15" width="30"></td></tr> 
 
-	</tr><tr>
+	<tr>
 	<td></td><td></td><td></td><td height="1" width="100%" align="center"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="1" width="100%" border="0" alt="inkjet cartridge printer"></td></tr>
   
 </tbody></table>
 <map name="linkMap">
-  <area shape="rect" coords="2,2,109,25" href="http://www.123inkjets.com/cart.html?frm=tnav">
-  <area shape="rect" coords="2,27,108,52" href="http://www.123inkjets.com/customers.html?frm=tnav">
-  <area shape="rect" coords="2,53,108,76" href="http://www.123inkjets.com/cs/index.html">
+  <area shape="rect" coords="2,2,109,25" href="/cart.html">
+  <area shape="rect" coords="2,27,108,52" href="/customers.html">
+  <area shape="rect" coords="2,53,108,76" href="/cs/index.html">
 </map>
 <!-- end MAIN header area -->
 
@@ -134,15 +126,15 @@ function escapeFrames(){
 					<td width="4" rowspan="2"><img src="http://cdn.123inkjets.com/images/topnav/tab_recy_off_rite.gif" width="4" height="25" alt=""></td>
 				</tr> 
 				<tr>
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="http://www.123inkjets.com/">Ink Cartridges</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/toner.html?frm=tnav">Laser Toners</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/ribbon.html?frm=tnav">Ribbons</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/solidink.html?frm=tnav">Solid Ink</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/paper.html?frm=tnav">Photo Paper</a></b>&nbsp;</td>
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/media.html?frm=tnav">Blank CD/DVD</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/papercrafts.html?frm=tnav">Paper Crafts</a></b>&nbsp;</td> 
-					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/cable.html?frm=tnav">Cables</a></b>&nbsp;</td> 
-					<!--td bgcolor='http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif' class='topNavoff' align='center' height='24' nowrap>&nbsp;<b><a href='/memory.html?frm=tnav'>Memory</a></b>&nbsp;</td> -->
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/">Ink Cartridges</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/toner.html">Laser Toners</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/ribbon.html">Ribbons</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/solidink.html">Solid Ink</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/paper.html">Photo Paper</a></b>&nbsp;</td>
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/media.html">Blank CD/DVD</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/papercrafts.html">Scrapbooking</a></b>&nbsp;</td> 
+					<td background="http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a href="/cable.html">Cables</a></b>&nbsp;</td> 
+					<!--td bgcolor='http://cdn.123inkjets.com/images/topnav/tab_off_bg.gif' class='topNavoff' align='center' height='24' nowrap>&nbsp;<b><a href='/memory.html'>Memory</a></b>&nbsp;</td> -->
 					<td background="http://cdn.123inkjets.com/images/topnav/tab_recy_off_bg.gif" class="topNavoff" align="center" height="24" nowrap="">&nbsp;<b><a style="color: #FFFFFF;" href="/content.html?show=recycle&amp;frm=tnav">Recycle</a></b>&nbsp;</td> 
 				</tr> 
 			</tbody></table>
@@ -153,60 +145,50 @@ function escapeFrames(){
 		<td width="100%" height="24" align="center" valign="middle" class="subNav" bgcolor="#003196" style="color: #F1f1f1;">
 		</td>
 	</tr>
-	<tr>
-		<td rowspan="10" width="100%" align="right" height="1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td rowspan="10" width="100%" align="center" height="1" background="http://cdn.123inkjets.com/images/topnav/search_bg.gif"><table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 	
-		<form method="get" action="/search_results.html" name="product_search" onsubmit="properClickThrough=true;"></form>
-	<tbody><tr>
-		<td height="40" align="center" background="http://cdn.123inkjets.com/images/topnav/search_bg.gif" valign="top">
-			<table border="0" cellspacing="0" cellpadding="0" height="40">
-				<tbody><tr>
-					<td valign="middle"><img src="http://cdn.123inkjets.com/images/topnav/search.gif" alt="" width="80" height="40" border="0"></td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" alt="" border="0" height="1" width="5"></td>
-					<td><input type="text" name="search_string" size="20" maxlength="100" value="&nbsp;»Enter Search Here«" onfocus="this.value=''" style="background-color:#fffee9; color: #e5835c; font-weight: bold;"></td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" alt="" border="0" height="1" width="5"></td>
-					<td>
-						<!-- table border='0' cellspacing='0' cellpadding='0'>
-							<tr>
-								<td><input type='radio' name='search_type' value='printer' checked></td>
-								<td><font color='#0F3B9C'>Printer</font</td>
-							</tr>
-							<tr>
-								<td><input type='radio' name='search_type' value='product' ></td>
-								<td><font color='#0F3B9C'>Product</font</td>
-							</tr>
-						</table -->
-					</td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" alt="" border="0" height="1" width="10"></td>
-					<td><a href="#" onclick="javascript:properClickThrough=true;document.product_search.submit();" onmouseover="imageGoButton.src='http://cdn.123inkjets.com/images/topnav/go_over.gif';" onmouseout="imageGoButton.src='http://cdn.123inkjets.com/images/topnav/go.gif';"><img id="imageGoButton" src="http://cdn.123inkjets.com/images/topnav/go.gif" border="0" alt="Search 123inkjets.com"></a></td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" alt="" border="0" height="1" width="35"></td>
-                                                <td valign="top"><a href="/cs/shipping_methodscosts.html"><img src="http://cdn.123inkjets.com/images/topnav/shipping_free.gif" alt="Free Shipping" width="130" height="40" border="0"></a></td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" height="10" width="20"></td>
-					<td align="right"><a href="/cs/shipping_oneyear.html"><img src="http://cdn.123inkjets.com/images/topnav/guarantee_1year.gif" width="175" height="40" border="0"></a></td>
-					<td><img src="http://cdn.123inkjets.com/images/spacer.gif" height="10" width="20"></td>
-					<td align="right">
+		<form method="get" action="/bmsearch.php" name="product_search"></form>
+      <tbody><tr>
+	  <td height="43" width="10%"><img src="/images/spacer.gif" alt="" border="0" height="1" width="5"></td>
+        <td width="165" rowspan="2" valign="top" align="right" background="/images/topnav/search_bg_full.gif">
+		<table align="right" width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="171" height="63" align="right" valign="top"><img src="/images/topnav/search_promo_00.gif" alt="search inkjet cartridges" width="165" height="63" border="0"></td>
+          </tr>
+        </tbody></table></td>
+    <!--<td width='5'><img src='/images/spacer.gif' alt='' border='0' height='1' width='5'></td> -->
+        <td width="11%"><input type="text" name="q" id="txtQuestionSearch" autocomplete="off" size="25" maxlength="100" value="&nbsp;»Enter SEARCH Here«" onfocus="this.value=''"><br></td>
+		<!--<td><img src='/images/spacer.gif' alt='' border='0' height='1' width='5'></td> -->      
+        <td width="50" align="left"><a onclick="javascript:document.product_search.submit();" onmouseover="imageGoButton.src='/images/topnav/go_over.gif';" onmouseout="imageGoButton.src='/images/topnav/go.gif';"><img src="/images/spacer.gif" alt="" border="0" height="1" width="5"><img id="imageGoButton" src="/images/topnav/go.gif" border="0" alt="Search 123inkjets.com"></a></td>
+        
+        <td width="150" align="right" valign="top"><a href="/cs/shipping_methodscosts.html"><img src="/images/topnav/shipping_free.gif" alt="Free Shipping" width="130" height="40" border="0"></a></td>
+        
+        <td width="1%"><img src="/images/spacer.gif" height="10" width="20"></td>
+        <td width="180" valign="top" align="left"><a href="/cs/shipping_oneyear.html"><img src="/images/topnav/guarantee_1year.gif" width="175" height="40" border="0"></a></td>
+        <td width="3%"><img src="/images/spacer.gif" height="10" width="20"></td>
+        <td width="10%" align="left">
+		<!-- START SCANALERT CODE-->
+            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.123inkjets.com"><img width="115" height="30" border="0" src="https://images.scanalert.com/meter/survey/www.123inkjets.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying prohibited by law - hacker safe is a trademark of scanalert'); return false;"></a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <!-- END SCANALERT CODE -->
+      </tr>
+    
+  <tr>
+    <td width="1%" bgcolor="#E1E1E0" background="/images/topnav/top_shadow.gif">&nbsp;</td>
+    <td colspan="12" background="/images/topnav/top_shadow.gif" bgcolor="#E1E1E0"><img src="/images/spacer.gif" height="20" width="100%"></td>
+    </tr>
+   </tbody></table>
+  </td>
+  </tr>
+  
 
-<!-- START SCANALERT CODE--> 
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.123inkjets.com"><img width="115" height="30" border="0" src="https://images.scanalert.com/meter/survey/www.123inkjets.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td> 
-<!-- END SCANALERT CODE -->  
-
-<!-- START GENERIC Security Icon 
-<a href='/cs/shipping_secureshopping.html'><img src='http://cdn.123inkjets.com/images/topnav/secure_site.gif' width='110' height='40' border='0'></a></td> 
- END GENERIC Security Icon -->
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-	<tr><td colspan="5" width="100%" background="http://cdn.123inkjets.com/images/spacer.gif" bgcolor="#F1F4FB"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="2" width="100%"></td></tr>	
-<tr><td colspan="5" width="100%" background="http://cdn.123inkjets.com/images/spacer.gif" bgcolor="#AEC0E4"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="1" width="100%"></td></tr>	
-	<tr><td colspan="5" width="100%" background="http://cdn.123inkjets.com/images/top_shadow.gif" bgcolor="#efefef"><img src="http://cdn.123inkjets.com/images/spacer.gif" height="10" width="10"></td></tr>	
-	
 			
 			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+		
+	
+
 	
 	<!-- end sub nav area -->
 
@@ -435,7 +417,7 @@ Officer <br>
 25 E. Easy Street<br>
 Simi Valley, CA 93065</p>
 <p>You may also contact us 
-by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. </p>
+by email at <a href="mailto:privacy@123inkjetsmailer.com">privacy@123inkjetsmailer.com</a>. </p>
 <p></p></td>
 																				</tr>
 																			
@@ -476,21 +458,7 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 </p>
 
 <!-- NEW bottom nav, designed to enhance viewability of main content on home page -->
-<link href="/css/css.html" rel="stylesheet" type="text/css">
-<img src="http://cdn.123inkjets.com/images/spacer.gif" width="1" height="5" alt="inkjet printer ink save"><br>
-<form action="index.html" method="post" name="printer" onsubmit="return Validate();">
-<table align="center" width="98%" cellpadding="0" cellspacing="0" style="background-image:url(http://cdn.123inkjets.com/images/newsletter/nl_bg_01.gif); background-repeat: repeat-x; background-color: #D9D9D9; border: 1px solid #CFE1FC;">
-<tbody><tr align="center">
-<td valign="middle" align="center" width="60%"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="1" height="20" alt="inkjet printer ink save"><img src="http://cdn.123inkjets.com/images/newsletter/nl_title_01.gif" height="40" width="440" alt="inkjet newsletter save" border="0"></td>
-<td width="10%" align="right">
-<img src="http://cdn.123inkjets.com/images/newsletter/nl_arrow.gif" width="15" height="40" alt="inkjet printer ink save">
-<img src="http://cdn.123inkjets.com/images/spacer.gif" width="10" height="10" alt="inkjet printer ink save"></td>
-<td width="15%" align="left"><input type="text" name="email" size="35" value="Email Address" onfocus="if(this.value=='Email address')this.value='';"></td>
-<td width="15%" align="left"><input type="image" src="http://cdn.123inkjets.com/images/newsletter/nl_signup.gif" name="submit" value="Sign Up"></td>
-</tr>
-</tbody></table>
-</form>
-
+<!-- <link href='/css/css.html' rel='stylesheet' type='text/css'> -->
 <table background="http://cdn.123inkjets.com/images/btm_nav/bg_grey_gradient.gif" align="center" valign="top" width="100%" height="225" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
 <table align="center" valign="top" width="98%" height="125" border="0" cellpadding="0" cellspacing="0">
@@ -527,7 +495,7 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 	  <img src="http://cdn.123inkjets.com/images/btm_nav/category_underline.gif"><br>
 	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/policies_privacy.html">Your Privacy Rights</a><br>
 	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/policies_termsandconditions.html">Terms &amp; Conditions</a><br>
-	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/policies_cookies.html">Cookies</a><br>
+	  <!-- <img src='http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif'><a href='/cs/policies_cookies.html'>Cookies</a><br> -->
 	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/policies.html">Anti-Spam Policy</a>
 	  </td>
 	  <td width="20%" height="100" class="btmnav_cat">
@@ -545,7 +513,8 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 <!-- <img src='http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif'><a href='xxx'>Email Sales Rep</a><br> -->
 	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/yourorder.html">Email Customer Service</a><br>
 <!-- <img src='http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif'><script language=JavaScript src='http://im.zbeta.com/js/status_image.php?base_url=http://im.zbeta.com&l=imadmin&x=1&deptclass=1&btn=1'>Email Customer S2</a></script><br>-->
-	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/index2.html">Affiliate Program</a>	  
+	  <img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/cs/index2.html">Affiliate Program</a><br>
+		<img src="http://cdn.123inkjets.com/images/btm_nav/bullet_101.gif"><a href="/sitemap.php">Sitemap</a>	  
 	  </td>
 	  </tr>
 	  <tr>
@@ -558,6 +527,10 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 </tr>
 <tr bgcolor="#003196"><td><img src="http://cdn.123inkjets.com/images/spacer.gif" height="10" width="10"></td></tr>
 </tbody></table>
+<map name="shuffle_iphone">
+<area shape="rect" coords="316,42,457,59" href="scontent.html?show=iphone_giveaway">
+<area shape="rect" coords="103,68,350,84" href="scontent.html?show=shuffle_giveaway">
+</map>
 
 <br>
 <table width="99%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
@@ -588,7 +561,7 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 		<a href="/cs/policies_termsandconditions.html" style="font-size:10px;">Terms &amp; Conditions</a> | <sup>©</sup> Copyright 1998-2007 123inkjets.com | <a onclick="NewWindow(this.href,'name','275','287','no');return false" href="/scontent.html?show=fbackform&amp;frm=ftr&amp;pag=/cs/policies_privacy.html">Site Feedback</a><!-- | <a href='/jobs.html' style='font-size:10px;'>Employment Opportunities</a>--><br>
 		<p></p>
 		</td>		
-		<td width="18%" align="center" valign="absmiddle"><img src="http://cdn.123inkjets.com/images/icon_visa.gif" alt="Visa Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_mscard.gif" alt="Mastercard Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_disco.gif" alt="Discover Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_amex.gif" alt="American Express Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_paypal.gif" alt="Paypal Accepted - New!"><img src="http://cdn.123inkjets.com/images/icon_echeck.gif" alt="Paypal Accepted - New!"><br>
+		<td width="18%" align="center" valign="absmiddle"><img src="http://cdn.123inkjets.com/images/icon_visa.gif" alt="Visa Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_mscard.gif" alt="Mastercard Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_disco.gif" alt="Discover Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><img src="http://cdn.123inkjets.com/images/icon_amex.gif" alt="American Express Accepted"><img src="http://cdn.123inkjets.com/images/spacer.gif" width="2"><!--<img src='http://cdn.123inkjets.com/images/icon_paypal.gif' alt='Paypal Accepted - New!'>--><img src="http://cdn.123inkjets.com/images/icon_echeck.gif" alt="Paypal Accepted - New!"><br>
 
 </td>
 	</tr>
@@ -600,9 +573,54 @@ by email at <a href="mailto:privacy@123inkjets.com">privacy@123inkjets.com</a>. 
 line, or media products.<br>
 UPS and the UPS brandmark are trademarks that are used with permission by the owner, United Parcel Service of America, Inc. All rights reserved.<br>  </td>
 	</tr>	
-</tbody></table>
-<!--// Execution took 0.06 seconds //--> 
-<!-- 10.1.10.23  www.123inkjets.com SID=//-->
+</tbody></table><!--HBX_type: standard-->
+<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-valueclickmedia.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM550816PLZS93EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="/Cs/policies_privacy";//MULTI-LEVEL CONTENT 
+hbx.pndef="index.html";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT 
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="1";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script>
+<script language="javascript1.1" src="http://www.123inkjets.com/hbx_custom.js?v=0.01"></script>
+<script language="javascript1.1" src="http://www.123inkjets.com/hbx.js?v=2.53"></script>
+<!--END WEBSIDESTORY CODE-->
+
+<!--// Execution took 0 seconds //--> 
+<!-- 10.1.10.9  www.123inkjets.com SID=eofd8n1h8h5lk9trdcdi28cqf2//-->
 
 <script language="Javascript">
 var e = document.getElementsByTagName("a");
@@ -623,69 +641,12 @@ for(var i=0;i<ai.length;i++)
         ai[i].oldClick= (ai[i].onclick)?ai[i].onclick : function() {};
         ai[i].onclick= function(event) { PopUpFlag=false; return (this.oldClick());};
 }
+</script><script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-<!--HBX_type: standard-->
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-valueclickmedia.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM550816PLZS93EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="/Cs/policies_privacy";//MULTI-LEVEL CONTENT 
-hbx.pndef="index.html";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT 
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="1";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="https://www.123inkjets.com/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+<script type="text/javascript">
+_uacct = "UA-1678897-2";
+urchinTracker();
+</script>
 
 
 
