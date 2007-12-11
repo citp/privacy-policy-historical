@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630050517id_/http%3A//mortgages.interest.com/content/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061500id_/http%3A//mortgages.interest.com/content/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Mortgages, home loans and interest rates- Interest.com
 
