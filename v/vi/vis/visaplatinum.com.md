@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the visaplatinum.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618223022id_/http%3A//www.visa-asia.com/ap/sea/general/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaplatinum.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100727id_/http%3A//www.visa-asia.com/ap/sea/general/privacy/index.shtml) for the most accurate reproduction.*
 
 # Visa Southeast Asia | Privacy Policy
 
-| [](https://web.archive.org/ap/sea/general/abtvisa/index.shtml)  
+| [](http://www.visa.com/aboutvisa)  
 ---  
 [](https://web.archive.org/ap/sea/general/legal/index.shtml)  
 [](https://web.archive.org/ap/sea/general/privacy/index.shtml)  
 [](https://web.archive.org/ap/sea/general/hyperlink/index.shtml)  
 [](https://web.archive.org/ap/sea/general/copyright/index.shtml)  
 |  |   
-|  | Visa International Service Association (“Visa”, “we”, “us” or “our”) wants you to feel secure when visiting the Visa AP website. Committed to protecting your privacy, Visa safeguards your personal information to maintain customer trust. 
+|  | Visa Inc. (“Visa”, “we”, “us” or “our”) wants you to feel secure when visiting the Visa AP website. Committed to protecting your privacy, Visa safeguards your personal information to maintain customer trust. 
 
 Visa respects the privacy of visitors of www.Visa-asia.com and its related sites (collectively the “Visa AP website”) by disclosing and explaining in this Privacy Policy (“Policy”) how Visa collects, uses and shares information about you from the Visa AP website and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Privacy Policy and those of all web sites you visit.  
   
@@ -144,7 +144,7 @@ Please note that whenever you submit any information to us in connection with an
 
  Attention:  
 Corporate Communications  
-Visa International Service Association  
+Visa Inc.  
 Robinson Road  
 P.O. Box 597  
 Singapore 901147  
