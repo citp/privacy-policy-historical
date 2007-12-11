@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amtrakguestrewards.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630065602id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrakguestrewards.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023639id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Amtrak - Help - Privacy & Security
+# Amtrak - Help - Privacy Policy
 
 Section 1 — Introduction
 
@@ -118,7 +118,7 @@ Each time you visit Amtrak.com, we collect some information automatically about 
 
 Generally, we use cookies to:
 
-  * Remind us of who you are and to access your account information (stored on our secure sewers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your user ID and password.
+  * Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your user ID and password.
   * Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.
   * Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.
 
