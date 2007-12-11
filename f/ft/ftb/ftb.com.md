@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405000359id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053004id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # First Tennessee | All Things Financial : Privacy Policy
 
