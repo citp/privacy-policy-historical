@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531030352id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.in privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211152504id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIN) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -26,7 +26,7 @@ By accepting the Privacy Policy and the User Agreement in registration, you expr
 
 When you use our Site, we collect and store your personal information from you. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Site to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose.
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our Site, you will need to register using our online registration form, where you may be required to provide us with your contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Site. You may provide us with a eBay ID.
+In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our Site, you will need to register using our online registration form, where you may be required to provide us with your contact and identity information, residence / place of business information, billing information, shipping information, bank account details and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Site. You may provide us with an eBay ID.
 
 We may automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), your computer browser information, and your IP address.
 
@@ -109,10 +109,14 @@ To protect your privacy and security, we will verify your identity before granti
 
   10. By using the Site, you consent to the collection and use of the information you disclose on the Site by eBay. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation.
 
-  11.  **Tell us what you think**
+  11.  **PaisaPay Data Privacy and Security Policy**
+
+Please click the hyperlink to carefully read [PaisaPay Data Privacy and Security Policy](http://pages.ebay.in/help/policies/paisapay-policy-data-privacy-security.html).
+
+  12.  **Tell us what you think**
 
   
-At eBay, we welcome your questions and comments regarding our privacy policy. You may contact eBay at [http://pages.ebay.in/help/contact_inline/index.html.](http://pages.ebay.in/help/contact_inline/index.html#)
+At eBay, we welcome your questions and comments regarding our privacy policy. You may contact eBay at [http://pages.ebay.in/help/contact_inline/index.html.](http://pages.ebay.in/help/contact_inline/index.html)
 
 
 
