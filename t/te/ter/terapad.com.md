@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504085346id_/http%3A//www.terapad.com/index.cfm%3Ffa%3DcontentLegal.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062503id_/http%3A//www.terapad.com/index.cfm%3Ffa%3DcontentLegal.privacyPolicy) for the most accurate reproduction.*
 
 # Terapad.com - Miscellaneous > Privacy Policy
 
