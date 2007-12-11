@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614110137id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095027id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Rent.com: Privacy Policy
 
@@ -37,7 +37,7 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
     * Provide the ability to communicate with Renters, Lessors and Roommates.
     * Resolve disputes, collect fees and troubleshoot problems.
     * Customize your experience and otherwise measure and improve our services and the website's content and layout.
-    * Tell you about targeted marketing, service updates, and promotional offers based on your communication preferences. (If we use your personal information to market to you, you will be able to opt-out of such uses; see “Choice/Opt-Out” below.)
+    * Tell you about targeted marketing, service updates, and promotional offers based on your communication preferences. (If we use your personal information to market to you, you will be able to opt-out of such uses; see �Choice/Opt-Out� below.)
     * Compare information for accuracy and verify it with third parties.
     * Measure consumer interest in our products and services.
     * Help promote a safe service and detect and prevent error, fraud and other potentially prohibited or illegal activity.
@@ -46,7 +46,7 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
   4. Disclosure. We may share some or all of your personal information with:
     * Members of our corporate family to provide joint services and help detect and prevent potentially illegal acts. (Our corporate affiliates will market only to users who request their services.)
     * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
-    * Other third parties to whom you explicitly ask us to send your information, or about whom you are explicitly notified and consent to when using a specific service. (The information we disclose in this way may be subject to those third parties’ privacy policies.) 
+    * Other third parties to whom you explicitly ask us to send your information, or about whom you are explicitly notified and consent to when using a specific service. (The information we disclose in this way may be subject to those third parties� privacy policies.) 
     * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, affiliate and rewards programs and co-branded credit cards).
     * Another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
