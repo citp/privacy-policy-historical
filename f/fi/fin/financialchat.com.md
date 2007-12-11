@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialchat.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403145423id_/http%3A//www.financialchat.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialchat.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212005753id_/http%3A//www.financialchat.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Financial Chat
 
