@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629233009id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211130615id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
 
 # TORRENTS | TO | Your BitTorrent Search
 
@@ -17,7 +17,8 @@ A cookie is a small piece of data that is sent to a user's browser from a web se
 **Policy Changes**  
 We reserve the rigth to change our privacy prolicy. Changes to our policy will be posted on this site, and notifications will be sent to our registered users. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise. 
 
-  
+[](http://www.usenext.de/index.cfm?TD=372153)
+
   
 
 
