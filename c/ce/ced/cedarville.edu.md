@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609155953id_/http%3A//www.cedarville.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181402id_/http%3A//www.cedarville.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Cedarville University Privacy Policy
 
