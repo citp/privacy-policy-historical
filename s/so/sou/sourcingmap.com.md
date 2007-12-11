@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427173804id_/http%3A//www.sourcingmap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211050359id_/http%3A//www.sourcingmap.com/privacy.php) for the most accurate reproduction.*
 
 # SourcingMap
 
@@ -31,4 +31,4 @@ Sourcingmap and our secure payment service providers use the latest technology t
 
 **Opt-Out**
 
-If visitors and customers prefer not to be contacted by us, they may opt-out of receiving future mailing from us. They can inform us at info@sourcingmap.com. 
+If visitors and customers prefer not to be contacted by us, they may opt-out of receiving future mailing from us. They can inform us at [](mailto:info@sourcingmap.com). 
