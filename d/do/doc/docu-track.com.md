@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163713id_/http%3A//www.docu-track.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102213id_/http%3A//www.docu-track.com/privacy) for the most accurate reproduction.*
 
 # Tracker Software Products Ltd - Privacy Policy
 
