@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609043922id_/http%3A//www.rrd.com/wwwRRD/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211233121id_/http%3A//www.rrd.com/wwwRRD/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Notices
 
@@ -20,7 +20,7 @@ To enable us to assess the effectiveness and usefulness of this site, we will co
 
 Trademarks and Intellectual Property
 
-The term "RR Donnelley" and the Moore Wallace word mark and design are registered trademarks. All related product and service names, designs and slogans are the trademarks or service marks of Heritage Preservation Corporation, or of Moore Wallace Incorporated, both of which are wholly-owned subsidiaries of RR Donnelley. All other product and service marks on this site are the trademarks of their respective owners. Moreover, all comments, suggestions or other information sent to this site will become the property of RR Donnelley. 
+The term "RR Donnelley" is a registered trademark. All related product and service names, designs and slogans are the trademarks or service marks of Heritage Preservation Corporation or of other wholly-owned subsidiaries of RR Donnelley. All other product and service marks on this site are the trademarks of their respective owners. Moreover, all comments, suggestions or other information sent to this site will become the property of RR Donnelley. 
 
 Safe Harbor
 
@@ -34,7 +34,7 @@ Questions, comments, or access requests regarding the Safe Harbor or EU Personal
 
 Changes to this Privacy Policy
 
-We may change this Privacy Policy from time to time. If this Privacy Policy changes, the revised Privacy Policy will be posted at the "Privacy Policy & Legal Notices" link on the site's home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read " **Newly Revised Privacy Policy**." Please check the Privacy Policy frequently. Your continued use of the site constitutes acceptance of such changes in the Privacy Policy, except where further steps are required by applicable law. This Privacy Policy is effective as of July 10, 2006.
+We may change this Privacy Policy from time to time. If this Privacy Policy changes, the revised Privacy Policy will be posted at the "Privacy Policy & Legal Notices" link on the site's home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read " **Newly Revised Privacy Policy**." Please check the Privacy Policy frequently. Your continued use of the site constitutes acceptance of such changes in the Privacy Policy, except where further steps are required by applicable law. This Privacy Policy is effective as of June 21, 2007.
 
 Comments
 
