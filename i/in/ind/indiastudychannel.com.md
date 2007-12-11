@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2007-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070313205532id_/http%3A//www.indiastudychannel.com/coursefinder/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115836id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# IndiaStudyChannel.com Privacy Policy
 
 We collect personal information from site visitors. This information will be used only for authenticating members, statistical reports. Registered member's information will be displayed in various appropriate pages in this website. 
 
