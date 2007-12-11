@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211094011id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The Game Creators - Privacy Policy
-
-Order Online
-
-[](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=1&f=order)
-
-Newsletter
-
-**Issue 53** is out now  
-[](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)  
-Get our free newsletter 
-
-Forums
-
-Join tens of thousands of game developers in our forums, where you can post and read over one million messages.
-
-  
-[](http://spreadfirefox.com/community/?q=affiliates&id=979&t=85) | 
-
-The Game Creators - Privacy Policy 
 
 The Game Created Limited have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -36,7 +17,7 @@ Our site's registration form requires users to give us contact information (like
 
 Contact information from the registration forms is used to get in touch with the customer when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20071211094011id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 Financial information that is collected is used to bill the user for products and services by the Share-It and PayPal services. At no time does The Game Creators Limited see your card or bank details.
 
@@ -44,7 +25,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Contact information from the order forms is used to get in touch with the visitor when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20071211094011id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 This site contains links to other sites. The Game Creators Limited are not responsible for the privacy practices or the content of such Web sites and you visit them at your own risk.
 
@@ -54,47 +35,6 @@ This site gives users the following options for changing and modifying informati
 
 You can edit your details by using the User Control Panel after logging into the site. If you do not have a User Account then no details can be changed.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20071211094011id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
 
 Last Updated: 24 July 2003
-
-| 
-
-Newsletter #53
-
-[](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)
-
-[FPSC X10 Video, DBPro News, X-Quad Editor, PurePLUGIN, Tutorials and loads more!](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)
-
-Subscribe for free:
-
-Latest Releases
-
-[X-Quad Editor](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=xquadeditor)  
-[PurePLUGIN](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=pureplugin)  
-[Enhanced Animations](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=enhanced_animations)  
-[Dark Shader](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=darkshader)  
-[FPSC Model Pack 6](http://www.fpscreator.com/pack6.html)  
-[ConvSEO](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=convseo)  
-[DarkGDK .NET](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=21&f=dgdk_net)  
-
-
-User Gallery
-
-[](https://web.archive.org/?m=gallery_view&i=477)  
-[](https://web.archive.org/?m=gallery_view&i=476)  
-[](https://web.archive.org/?m=gallery_view&i=474)  
-[](https://web.archive.org/?m=gallery_view&i=471)  
-[Visit our new screen shot Gallery](https://web.archive.org/web/20070629011909id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=gallery)
-
-Special Offer
-
-[](http://darkbasicpro.thegamecreators.com/?f=hands_on_vol2)
-
-Quick Poll
-
-**When will you upgrade to Vista?**
-
-  
-  
----|---|---
