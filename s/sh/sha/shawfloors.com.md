@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623065300id_/http%3A//www.shawfloors.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211203559id_/http%3A//www.shawfloors.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Shaw Floors: Privacy Policy -ShawFloors.com
 
 #### Shaw Industries Inc. Privacy Policy
 
