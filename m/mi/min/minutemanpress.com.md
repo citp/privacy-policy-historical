@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minutemanpress.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608173334id_/http%3A//www.minutemanpress.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minutemanpress.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211032020id_/http%3A//www.minutemanpress.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Minuteman Press International, Inc. : Privacy Policy
 
@@ -55,11 +55,11 @@ Persons who provide us with information in response to franchise recruitment adv
 |   
 ---  
   
-[Privacy Policy](https://web.archive.org/web/20070608173334id_/http%3A//www.minutemanpress.com/privacy_policy.html)
+[Privacy Policy](https://web.archive.org/web/20071211032020id_/http%3A//www.minutemanpress.com/privacy_policy.html)
 
 |  **Minuteman Press International, Inc.**  
 61 Executive Boulevard • Farmingdale, NY 11735 • USA  
 Phone: 631-249-1370 • Fax: 631-249-5618  
 Toll-Free: 800-645-3006  
-E-mail: [info@minutemanpress.com](https://web.archive.org/web/20070608173334id_/http%3A//www.minutemanpress.com/contact/index.html)  
+E-mail: [info@minutemanpress.com](https://web.archive.org/web/20071211032020id_/http%3A//www.minutemanpress.com/contact/index.html)  
 
