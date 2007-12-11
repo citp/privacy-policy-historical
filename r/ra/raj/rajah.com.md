@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2007-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070418235911id_/http%3A//rajah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajah.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211164318id_/http%3A//www.rajah.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -34,7 +34,7 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 
 Third Party Cookies 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 8/20/02 UPDATE: 
 
@@ -44,7 +44,7 @@ We use MaxWorldwide and other third-party advertising companies to serve ads whe
 
 Third Party Cookies 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 5/19/04 UPDATE:
 
@@ -54,6 +54,6 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
 We welcome your questions and comments about our privacy policy. If you would like to drop us a line, please email [privacy@rajah.com](mailto:privacy@rajah.com)
