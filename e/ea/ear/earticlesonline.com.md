@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627081019id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154527id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
 
 # eArticlesOnline.com - Publish Articles for Free - Ezine Publishers Get Free Article Reprints
 
