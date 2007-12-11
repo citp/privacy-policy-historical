@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redpepper.ug privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612034323id_/http%3A//www.redpepper.ug/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redpepper.ug privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211201714id_/http%3A//redpepper.ug/privacy.php) for the most accurate reproduction.*
 
 # Red Pepper Uganda Online. Our Commitment To Your Privacy
 
