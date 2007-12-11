@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624104319id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060114id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
+JARKEY.NET, PRIVACY POLICY
 
-Web Entertainment Productions, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
+We appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you’re using our web site. The following describes our collection of and use of any information that we may collect from you.
 
 **Questions**
 
-If you have any questions, we can be reached via [e-mail](mailto:jarkey_games@yahoo.com).
+If you have any questions, we can be reached via <http://www.jarkey.net/contact.html>.
 
 **We generally do not collect any information.**
 
@@ -26,6 +26,6 @@ We collect electronic mail information only if it is volunteered by you, such as
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated.  We will not notify you of any amendments or updates to this Privacy Policy.  It is your responsibility to check this Privacy Policy often for any changes hereto.
 
-copyright 2005  Web Entertainment Productions, Inc.  All Rights Reserved. 
+copyright 2007  Jarkey.Net  All Rights Reserved. 
 
  
