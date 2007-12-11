@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630120817id_/http%3A//nsdl.org/help/%3Fpager%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154525id_/http%3A//nsdl.org/help/%3Fpager%3Dprivacy) for the most accurate reproduction.*
 
 # NSDL.org - Privacy Policy - The National Science Digital Library
 
@@ -23,6 +23,10 @@ Personalization services allow users to maintain a persistent, customized view o
 Access to some information may be shared at user discretion. Internally, it will be available to limited staff for the purposes of quality control.
 
 User created public content is potentially linkable by other users, and therefore will be maintained even if the creator is no longer a registered user. User created customization information will not be maintained if the user is no longer registered.
+
+## On-line forms
+
+NSDL enables users to perform certain actions through online forms, such as contacting community members, registering for events and requesting information or materials. Personally identifiable information that has been voluntarily submitted may be collected and stored to facilitate these interactions. By submitting a form, the user grants permission to NSDL to use the information provided to carry out the intended request. NSDL will not willfully share personally identifiable information to outside organizations unless related to the intended request or as required by law.
 
 ## Web server logs
 
