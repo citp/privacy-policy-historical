@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616075053id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075842id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # Worth1000.com | Photoshop Contests | Are you Worthy™ | hidden
 
