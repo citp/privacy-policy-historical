@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516022727id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051259id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Koehler Home Decor Privacy Policy
+# Koehler Home Decor Privacy & Security Policies
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -26,7 +26,7 @@ Koehler Home Décor would like to assure you that we do **not** :
 Koehler Home Décor does: 
   * Safeguard customers' information from unauthorized access. 
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services.) 
-  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20070516022727id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
+  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20071211051259id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
   * Maintain confidentiality of customer information when undertaking projects with other companies. 
 
 
@@ -50,4 +50,4 @@ As you browse the site, Koehler Home Décor's Web servers collect information ab
 
 While we may gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
 
-If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20070516022727id_/http%3A//www.koehlerhomedecor.com/contact.html).
+If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20071211051259id_/http%3A//www.koehlerhomedecor.com/contact.html).
