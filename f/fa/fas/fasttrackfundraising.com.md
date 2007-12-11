@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622034349id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150219id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
 
 # FastTrack privacy policy – FastTrack Fundraising
 
 [Home](http://www.fasttrackfundraising.com/) » FastTrack Fundraiser privacy policy
 
-  
-**Your Privacy is Important to Us!**
+[](https://web.archive.org/tell-a-friend.php)
 
 **SECURITY & PRIVACY STATEMENT**  
 Effective November 20, 2002
@@ -23,6 +22,8 @@ This Privacy Statement is effective as of the date written above and is designed
   * Campaign organizers, participants and supporters who participate in our online campaign programs may choose whether they want to continue to receive communications from us; 
   * We provide our registered campaign organizers with access to their account information and the ability to modify that information; and 
   * We are dedicated to creating a secure environment for user information and use an advanced network server security system to safeguard user information. 
+
+
 
 In the more detailed description of our privacy practices below, when we use the term "you," we are referring to registered campaign organizers, participants, supporters and general users of our web sites who order campaign products or information from our web sites. When we use the term "personal information," we are referring to a user's first and last name, address, telephone number, and e-mail address. 
 
