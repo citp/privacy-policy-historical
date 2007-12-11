@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-music.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623202920id_/http%3A//www.get-music.net/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-music.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211121154id_/http%3A//www.get-music.net/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ Get-Music.net
 
@@ -26,3 +26,13 @@ Third Party Cookies
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 If you think Get-Music.net has violated any of these privacy policies, please [contact us](https://web.archive.org/site/contact.html "Contact us") immediately. 
+
+13:11:48 - crazyken2007 (Hong Kong)  
+13:08:56 - amr_hmd (Egypt)  
+13:08:50 - kalel29 (Algeria)  
+13:08:08 - sabuju (Namibia)  
+13:07:50 - natalia.mi (Slovakia (slovak Republic))  
+12:58:50 - kunyuksira (Indonesia)  
+12:57:54 - tadpad (Thailand)  
+12:57:11 - lothiras (Serbia And Montenegro)  
+
