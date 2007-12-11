@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613045607id_/http%3A//www.tentonhammer.com/node/743) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211051905id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TenTonHammer
 
@@ -8,7 +8,11 @@ Although we hope that our members get to know each other, you are not required t
 
 Ten Ton Hammer is committed to keeping your Personal Information safe. We have security measures in place to protect against loss, misuse or alteration of your Personal Information under our control. We use physical, electronic, and procedural safeguards to protect our data, and only authorized personnel have access to most of your Personal Information. Credit and Debit card information is encrypted during transmission and is encrypted whenever it is not in use, and is not available to Ten Ton Hammer personnel.
 
-Although we take precautions to prevent unfortunate occurrences, Ten Ton Hammer does not assume any responsibility or liability for acts of third parties or of employees or agents acting beyond their authority. **Definition** " _Personal Information_ " means any information relating to your membership and use of the Site, and any information which identifies you or your account. This includes but is not limited to your name, address, email address, your password for Site access, and your telephone number.
+Although we take precautions to prevent unfortunate occurrences, Ten Ton Hammer does not assume any responsibility or liability for acts of third parties or of employees or agents acting beyond their authority.
+
+ **Definition**
+
+" _Personal Information_ " means any information relating to your membership and use of the Site, and any information which identifies you or your account. This includes but is not limited to your name, address, email address, your password for Site access, and your telephone number.
 
 **Disclosure**
 
@@ -28,4 +32,10 @@ Any communication with another member or visitor to the Site is NOT private and 
 
 Your right to privacy is important to us. Ten Ton Hammer obtains certain Personal Information (as later defined) in order to provide our members with news, updates and other information we believe will be useful to you. Your Personal Information is provided to us upon registration and during your use of Master Games' internet sites. ("Site").
 
-Ten Ton Hammer is committed to providing members with a Site that respects their privacy. Please review this Privacy Policy which is subject to change from time to time. Note, however, that this Privacy Policy only applies to our Site and does NOT apply to the web sites or Internet sites of any other person or entity. Should you have any questions or comments, please contact one of our administrators at **[admin-tth@tentonhammer.com](mailto:admin-tth@tentonhammer.com)**[.](mailto:admin-tth@tentonhammer.com)
+Ten Ton Hammer is committed to providing members with a Site that respects their privacy. Please review this Privacy Policy which is subject to change from time to time. Note, however, that this Privacy Policy only applies to our Site and does NOT apply to the web sites or Internet sites of any other person or entity. Should you have any questions or comments, please contact one of our administrators at **[admin-tth@tentonhammer.com](mailto:admin-tth@tentonhammer.com)**.
+
+* * *
+
+**Licenses**
+
+_Ten Ton Hammer Audio Player_ based on [Audio Player Wordpress plugin](http://www.1pixelout.net/code/audio-player-wordpress-plugin/) and used [under license](http://creativecommons.org/licenses/by/2.0/).
