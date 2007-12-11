@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209173218id_/http%3A//www.nationalcity.com/about/privacy.asp%3FWT.svl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021018id_/https%3A//www.nationalcity.com/about/privacy.asp%3FWT.svl%3D2) for the most accurate reproduction.*
 
 # Privacy Notice - About National City - National City Corporation
 
@@ -38,7 +38,7 @@
 ---  
 |  |  |  |   
 ---  
-The basis of each customer relationship at National City is built on trust. You have chosen to do business with National City, and we guard that relationship with great care, beginning with the information you have chosen to share with us.  
+The basis of each customer relationship at National City is built on trust. You have chosen to do business with National City, and we guard that relationship with great care, beginning with the information you share with us.  
    
 Jump to ...  
 | Overview  
@@ -49,7 +49,7 @@ Fair Credit Reporting Act Disclosure | National City's Pledge
 Children's Online Privacy & Protection  
 Effective date and changes  
 National City companies  
-[Privacy notice FAQs](https://web.archive.org/web/20061209173218id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs](https://web.archive.org/web/20071211021018id_/https%3A//about/privacyfaq.asp)  
 ---|---  
    
 OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.  
@@ -94,7 +94,7 @@ Back to top
   
    
 Fair Credit Reporting Act Disclosure*  
-We share information about you with our affiliates. Under the Fair Credit Reporting Act you may direct us not to share certain credit information with our affiliates. Examples of the kind of credit information that you may direct us not to share include the nonpublic personal information you provide in your application or that we obtain about you from nonaffiliated third parties such as credit bureaus. If you don’t want such information shared you may write to us at National City Corporation, Attention: Office of Consumer Privacy, P.O. Box 4068, Kalamazoo, MI 49009. Please provide your name, address, social security number and account number(s).
+We share information about you with our affiliates. Under the Fair Credit Reporting Act you may direct us not to share certain credit information with our affiliates. Examples of the kind of credit information that you may direct us not to share include the nonpublic personal information you provide in your application or that we obtain about you from nonaffiliated third parties such as credit bureaus. If you don’t want such information shared you may write to us at National City Corporation, Attention: Office of Consumer Privacy, P.O. Box 4068, Kalamazoo, MI 49009. Please provide your name, address, Social Security Number and account number(s).
 
 (NOTE: If you have previously requested that we restrict such sharing you do not need to make another request.)
 
@@ -122,14 +122,16 @@ Back to top
   
    
 National City companies  
-National City Bank, NatCity Investments, Inc., National City Insurance Agency of Pennsylvania, Inc., Sterling Private Investments, Inc., National City Home Loan Services, Inc., First Franklin Financial Corporation, Allegiant Asset Management Company, Allegiant Insurance Services Co., National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC, Chippewa Valley Title Agency. Inc. 
+National City Bank, NatCity Investments, Inc., National City Insurance Agency of Pennsylvania, Inc., Allegiant Asset Management Company, Allegiant Insurance Services Co., National City Insurance Group, Inc., Harbor Insurance Agency, Inc., National City Mortgage Co., National City Partnership Solutions, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, NatCity Trust Company of Delaware, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC, Florida Consolidated Agency, Inc.
 
 Back to top   
   
    
 * Vermont Residents: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. California Residents: We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.   
    
-(rev 10/2006)  
+(rev 07/2007)  
+   
+   
 |  |   
 ---|---  
 |   
@@ -141,17 +143,9 @@ Back to top
 |   
 ---|---  
 |   
-|  |  | Email fraud: Phishing scams |  |   
-|  |  | Learn how to avoid becoming a victim of bogus emails. |   
-|  |  | [Learn more ](https://web.archive.org/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
-|  |  |  |   
-|   
-|   
----|---  
-|   
-|  |  | Telephone scams  |  |   
-|  |  | Don't become a victim of telemarketing scams. |   
-|  |  | [Learn more ](https://web.archive.org/shared/messages/jump.asp?url=http://www.ftc.gov/bcp/conline/pubs/tmarkg/target.htm) |   
+|  |  | Consumer alerts  |  |   
+|  |  | Protect yourself from becoming a victim. |   
+|  |  | [Learn more ](https://web.archive.org/about/privacy/alerts/default.asp) |   
 |  |  |  |   
 |   
 |   
@@ -162,8 +156,10 @@ Back to top
 | 
 
 [Privacy notice FAQs ](https://web.archive.org/about/privacyfaq.asp)  
-Answers to frequently asked questions about National City's Privacy notice.  
-  
+Answers to frequently asked questions about National City's Privacy notice.
+
+[Privacy and security ](https://web.archive.org/about/privacy/)  
+Learn more about how you can protect your personal information.   
   
 |   
 ---|---  
