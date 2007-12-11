@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620090250id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083244id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
@@ -79,7 +79,7 @@ In addition, we may disclose your personal information to:
 
 
 Your personal information and our related companies   
-Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies which includes the Invizage Pty Ltd and Universal Publishers Pty Ltd ( **"Related Companies"** ).
+Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies which includes Universal Publishers Pty Ltd ( **"Related Companies"** ).
 
 Sensis may share your personal information with the Related Companies to assist them with their business development and to market their own products and services to you and may continue to do so after your cease acquiring services from us. The Related Companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about the Related Companies, their areas of business and their commitment to privacy, please contact us. (see 'How to contact us' below). 
 
