@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430162215id_/http%3A//www.lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095924id_/http%3A//www.lbc.co.uk/article.asp%3Fid%3D26816) for the most accurate reproduction.*
 
 # LBC Radio
 
@@ -38,7 +38,7 @@ Our site uses both the personal and aggregated information collected for multipl
 
 We share aggregated information collected from the site with third parties for both advertising and promotional purposes. 
 
-Personal information collected by this site may be shared with other Chrysalis companies or with our agents, such as the company handling our Listener Club mailings. With your permission, we may also share personal information collected on the site with pre-screened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, if you are the winner of a contest your name and town may be posted on the site. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services. 
+Personal information collected by this site may be shared with other Global Radio companies or with our agents, such as the company handling our Listener Club mailings. With your permission, we may also share personal information collected on the site with pre-screened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, if you are the winner of a contest your name and town may be posted on the site. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services. 
 
 Also, if you have subscribed to our listener club and do not want to receive e-mail newsletters in the future, please discontinue your membership by coming to the website and following the instructions to “unsubscribe”. 
 
