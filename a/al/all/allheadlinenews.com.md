@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630062631id_/http%3A//www.allheadlinenews.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040504id_/http%3A//www.feedsyndicate.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# AHN - Privacy Policy
+# AHN | FeedSyndicate | Privacy Policy
 
 **Privacy and Security Policy**
 
