@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617231938id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbutnobutyes.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081026id_/http%3A//www.yesbutnobutyes.com/privacy.html) for the most accurate reproduction.*
 
-# YesButNoButYes
-
-### Privacy Policy
+# YesButNoButYes: Privacy Policy
 
 YesButNoButYes.com respects each individual user's right to privacy. We collect NO personal information, except a user's name and email address if supplied via our comment system or email subscription request function. We only collect phone numbers if they're written on matchbooks and passed to us in sweaty nightclubs, and even then, we don't make any promises to call you back, at least for a few days. 
 
