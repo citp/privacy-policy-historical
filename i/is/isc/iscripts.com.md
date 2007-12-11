@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614160504id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023107id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
-# iScripts.com, free web software and scripts for your web site
+# iScripts.com, free and commercial open source PHP web software and scripts. Create turnkey web business in social networking, virtual mall, online swapping, image hosting, site builder. We can also customize and install these scripts
 
 We recognize the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to us. We are sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of our most significant responsibilities. 
 
