@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2007-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070417041937id_/http%3A//www.homebusinessmag.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211084101id_/http%3A//www.homebusinessmag.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Home Business - Home Based Business - Work From Home - MLM - Work At Home - Privacy Statement
 
