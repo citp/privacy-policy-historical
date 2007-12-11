@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2007-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070203014948id_/http%3A//www.pointsincase.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointsincase.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075510id_/http%3A//www.pointsincase.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Points in Case
 
@@ -19,6 +19,6 @@ We do maintain weekly mailing lists which we use to send out exclusive Website c
 
 **Advertisements and Third Parties**
 
-Our advertisements are sometimes served by outside agencies (third parties). Even though you are looking at our pages, you are looking at their images or links, and they collect their own logs and may serve their own cookies. They have their own privacy policies which you may want to review. Please [ask us](http://www.pointsincase.com/about.htm#contact) if you would like to review their privacy policies.
+Our advertisements are sometimes served by outside agencies (third parties). Even though you are looking at our pages, you are looking at their images or links, and they collect their own logs and may serve their own cookies. They have their own privacy policies which you may want to review. Please [ ask us](http://www.pointsincase.com/about.htm#contact) if you would like to review their privacy policies.
 
 We may choose to run ads from other networks with no notice. Keep in mind that any site you go to as a result of clicking on an advertisement banner or link will have its own separate privacy policy or lack of same.
