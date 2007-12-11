@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerhouse-fitness.co.uk privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429102405id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerhouse-fitness.co.uk privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211085731id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
     <title>Powerhouse Fitness: Privacy Policy</title>
@@ -30,6 +30,77 @@ Johnson Exercise Equipment, Ellipticals, Commercial Exercise Equipment</title>
 
 
 
+<script> 
+// CREDITS: // Snowmaker Copyright (c) 2003 Peter Gehrig. All rights reserved. 
+// Distributed by http://www.hypergurl.com // Permission given to use the script on webpages provided that this notice remains as is. 
+// Set the number of snowflakes (more than 30 - 40 not recommended) 
+var snowmax=35
+// Set the colors for the snow. Add as many colors as you like 
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+// Set the fonts, that create the snowflakes. Add as many fonts as you like 
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+// Set the letter that creates your snowflake (recommended:*) 
+var snowletter="*" 
+// Set the speed of sinking (recommended values range from 0.3 to 2) 
+var sinkspeed=0.6 
+// Set the maximal-size of your snowflaxes 
+var snowmaxsize=22 
+// Set the minimal-size of your snowflaxes 
+var snowminsize=8 
+// Set the snowing-zone // Set 1 for all-over-snowing, set 2 for left-side-snowing 
+// Set 3 for center-snowing, set 4 for right-side-snowing 
+var snowingzone=1 /////////////////////////////////////////////////////////////////////////// 
+// CONFIGURATION ENDS HERE /////////////////////////////////////////////////////////////////////////// 
+// Do not edit below this line 
+var snow=new Array() 
+var marginbottom 
+var marginright 
+var timer 
+var i_snow=0 
+var x_mv=new Array(); 
+var crds=new Array(); 
+var lftrght=new Array(); 
+var browserinfos=navigator.userAgent 
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/) 
+var ns6=document.getElementById&&!document.all 
+var opera=browserinfos.match(/Opera/) 
+var browserok=ie5||ns6||opera 
+function randommaker(range) { rand=Math.floor(range*Math.random()) 
+return rand } 
+function initsnow() { 
+if (ie5 || opera) { 
+marginbottom = document.body.clientHeight 
+marginright = document.body.clientWidth } 
+else if (ns6) { 
+marginbottom = window.innerHeight 
+marginright = window.innerWidth } 
+var snowsizerange=snowmaxsize-snowminsize 
+for (i=0;i<=snowmax;i++) { crds[i] = 0; lftrght[i] = Math.random()*15; x_mv[i] = 0.03 + Math.random()/10
+snow[i]=document.getElementById("s"+i)
+snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+snow[i].size=randommaker(snowsizerange)+snowminsize 
+snow[i].style.fontSize=snow[i].size 
+snow[i].style.color=snowcolor[randommaker(snowcolor.length)] 
+snow[i].sink=sinkspeed*snow[i].size/5 
+if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)} 
+if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)} 
+if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4} 
+if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2} 
+snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size) 
+snow[i].style.left=snow[i].posx 
+snow[i].style.top=snow[i].posy } 
+movesnow() 
+} 
+function movesnow() { for (i=0;i<=snowmax;i++) { crds[i] += x_mv[i]; 
+snow[i].posy+=snow[i].sink
+snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]); 
+snow[i].style.top=snow[i].posy 
+if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){ if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)} 
+if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)} 
+if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4} 
+if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2} snow[i].posy=0 } } 
+var timer=setTimeout("movesnow()",50) } for (i=0;i<=snowmax;i++) { document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>") } 
+if (browserok) { window.onload=initsnow } </script><span id="s0" style="position: absolute; top: 346.2px; font-family: &quot;Arial Narrow&quot;; font-size: 15px; color: rgb(170, 170, 204); left: 1345.14px;">*</span><span id="s1" style="position: absolute; top: 375.28px; font-family: &quot;Comic Sans MS&quot;; font-size: 21px; color: rgb(204, 204, 221); left: 1325.5px;">*</span><span id="s2" style="position: absolute; top: 536.12px; font-family: &quot;Comic Sans MS&quot;; font-size: 9px; color: rgb(221, 221, 255); left: 506.504px;">*</span><span id="s3" style="position: absolute; top: 101.8px; font-family: Times; font-size: 10px; color: rgb(170, 170, 204); left: 753.777px;">*</span><span id="s4" style="position: absolute; top: 514.56px; font-family: &quot;Comic Sans MS&quot;; font-size: 17px; color: rgb(221, 221, 255); left: 873.813px;">*</span><span id="s5" style="position: absolute; top: 541.88px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(204, 204, 221); left: 52.8843px;">*</span><span id="s6" style="position: absolute; top: 423.84px; font-family: Times; font-size: 13px; color: rgb(204, 204, 221); left: 1063px;">*</span><span id="s7" style="position: absolute; top: 262.56px; font-family: &quot;Arial Black&quot;; font-size: 17px; color: rgb(221, 221, 255); left: 122.37px;">*</span><span id="s8" style="position: absolute; top: 135.92px; font-family: &quot;Arial Black&quot;; font-size: 19px; color: rgb(221, 221, 255); left: 936.514px;">*</span><span id="s9" style="position: absolute; top: 330.92px; font-family: Times; font-size: 19px; color: rgb(221, 221, 255); left: 1245.24px;">*</span><span id="s10" style="position: absolute; top: 425.48px; font-family: &quot;Arial Narrow&quot;; font-size: 11px; color: rgb(221, 221, 255); left: 185.12px;">*</span><span id="s11" style="position: absolute; top: 693.8px; font-family: &quot;Arial Black&quot;; font-size: 10px; color: rgb(204, 204, 221); left: 1136.33px;">*</span><span id="s12" style="position: absolute; top: 143.2px; font-family: Times; font-size: 15px; color: rgb(170, 170, 204); left: 860.476px;">*</span><span id="s13" style="position: absolute; top: 252.48px; font-family: &quot;Comic Sans MS&quot;; font-size: 11px; color: rgb(204, 204, 221); left: 682.101px;">*</span><span id="s14" style="position: absolute; top: 185.44px; font-family: &quot;Arial Narrow&quot;; font-size: 8px; color: rgb(204, 204, 221); left: 220.511px;">*</span><span id="s15" style="position: absolute; top: 405.56px; font-family: Times; font-size: 17px; color: rgb(204, 204, 221); left: 220.421px;">*</span><span id="s16" style="position: absolute; top: 323.44px; font-family: &quot;Comic Sans MS&quot;; font-size: 8px; color: rgb(204, 204, 221); left: 1098.22px;">*</span><span id="s17" style="position: absolute; top: 78.88px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(170, 170, 204); left: 147.044px;">*</span><span id="s18" style="position: absolute; top: 497.24px; font-family: Times; font-size: 18px; color: rgb(221, 221, 255); left: 335.296px;">*</span><span id="s19" style="position: absolute; top: 546.56px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(221, 221, 255); left: 742.748px;">*</span><span id="s20" style="position: absolute; top: 343.6px; font-family: &quot;Arial Black&quot;; font-size: 20px; color: rgb(221, 221, 255); left: 1266.05px;">*</span><span id="s21" style="position: absolute; top: 643.44px; font-family: &quot;Arial Black&quot;; font-size: 8px; color: rgb(170, 170, 204); left: 55.0864px;">*</span><span id="s22" style="position: absolute; top: 526.2px; font-family: &quot;Arial Black&quot;; font-size: 15px; color: rgb(221, 221, 255); left: 532.98px;">*</span><span id="s23" style="position: absolute; top: 173.84px; font-family: &quot;Comic Sans MS&quot;; font-size: 13px; color: rgb(204, 204, 221); left: 1051.19px;">*</span><span id="s24" style="position: absolute; top: 223.92px; font-family: &quot;Comic Sans MS&quot;; font-size: 19px; color: rgb(204, 204, 221); left: 217.727px;">*</span><span id="s25" style="position: absolute; top: 743.8px; font-family: &quot;Arial Narrow&quot;; font-size: 10px; color: rgb(204, 204, 221); left: 868.444px;">*</span><span id="s26" style="position: absolute; top: 201.48px; font-family: &quot;Arial Black&quot;; font-size: 11px; color: rgb(204, 204, 221); left: 1305.7px;">*</span><span id="s27" style="position: absolute; top: 12.96px; font-family: Times; font-size: 12px; color: rgb(170, 170, 204); left: 523.142px;">*</span><span id="s28" style="position: absolute; top: 457.48px; font-family: &quot;Arial Black&quot;; font-size: 11px; color: rgb(170, 170, 204); left: 886.013px;">*</span><span id="s29" style="position: absolute; top: 682.56px; font-family: &quot;Arial Narrow&quot;; font-size: 17px; color: rgb(221, 221, 255); left: 1159.55px;">*</span><span id="s30" style="position: absolute; top: 630.28px; font-family: &quot;Comic Sans MS&quot;; font-size: 21px; color: rgb(170, 170, 204); left: 171.205px;">*</span><span id="s31" style="position: absolute; top: 718.84px; font-family: &quot;Arial Narrow&quot;; font-size: 13px; color: rgb(204, 204, 221); left: 706.639px;">*</span><span id="s32" style="position: absolute; top: 329.88px; font-family: &quot;Arial Narrow&quot;; font-size: 16px; color: rgb(170, 170, 204); left: 969.487px;">*</span><span id="s33" style="position: absolute; top: 613.48px; font-family: &quot;Comic Sans MS&quot;; font-size: 11px; color: rgb(204, 204, 221); left: 1304.9px;">*</span><span id="s34" style="position: absolute; top: 534.2px; font-family: &quot;Comic Sans MS&quot;; font-size: 15px; color: rgb(204, 204, 221); left: 705.096px;">*</span><span id="s35" style="position: absolute; top: 149.48px; font-family: &quot;Arial Black&quot;; font-size: 11px; color: rgb(204, 204, 221); left: 1010.82px;">*</span> 
 
 <script language="JavaScript">
 
@@ -65,11 +136,19 @@ function MM_goToURL() { //v3.0
 
 <div align="center">
 
+<table border="0" cellpadding="0" cellspacing="0" width="870">
+  <tbody><tr valign="top">
+    <td align="center">
+<img border="0" src="images/xmas_header_07.gif"></td>
+    </tr>
+</tbody></table>
+    
+
+
 <!-- ********************************************************************************* -->
 <table border="0" cellpadding="0" cellspacing="0" width="870">
   <tbody><tr valign="top">
     <td width="750" align="left">
-    
     <!-- main table -->
 <!-- ********************************************************************************* -->   
 
@@ -96,7 +175,7 @@ function OnChange2(dropdown)
     
 <tbody><tr>
       <td>
-         <table border="0" cellpadding="0" cellspacing="0" width="750" bgcolor="ffffff" class="border-top-left-bottom-black-1px">
+         <table border="0" cellpadding="0" cellspacing="0" width="750" bgcolor="ffffff" class="border-bottom-black-1px border-left-black-1px">
             <tbody><tr>
               <td width="400" height="10" valign="top" align="left">
               <!--
@@ -121,14 +200,14 @@ function OnChange2(dropdown)
 				<tbody><tr>
 					<td height="20">&nbsp; &nbsp;
 
-                    <a href="about.asp?" class="topnav">about
-               us</a>&nbsp; |&nbsp;&nbsp;<a href="site_map.asp?" class="topnav">site map</a>&nbsp; | &nbsp;<a href="contact_us.asp?" class="topnav">contact</a>&nbsp;
+                    <a href="about.asp" class="topnav">about
+               us</a>&nbsp; |&nbsp;&nbsp;<a href="site_map.asp" class="topnav">site map</a>&nbsp; | &nbsp;<a href="contact_us.asp" class="topnav">contact</a>&nbsp;
                 |&nbsp;
-                    <a href="jobs.asp?" class="topnav">jobs</a>&nbsp; | &nbsp;<a href="testimonials.asp?" class="topnav">testimonials</a>&nbsp; | &nbsp;<a href="services.asp?" class="topnav">services</a>&nbsp; | &nbsp;<a href="terms.asp?" class="topnav">terms &amp; conditions</a></td>
+                    <a href="jobs.asp" class="topnav">jobs</a>&nbsp; | &nbsp;<a href="testimonials.asp" class="topnav">testimonials</a>&nbsp; | &nbsp;<a href="services.asp" class="topnav">services</a>&nbsp; | &nbsp;<a href="terms.asp" class="topnav">terms &amp; conditions</a></td>
 					<td width="">
 					<table cellpadding="0" cellspacing="0" width="177">
 						<tbody><tr>
-							<td align="right">| &nbsp;<a href="../b2b/default.asp?" class="topnav">commercial website</a></td>
+							<td align="right">| &nbsp;<a href="../b2b/default.asp" class="topnav">commercial website</a></td>
 						</tr>
                     </tbody></table></td>
 				</tr>
@@ -141,151 +220,228 @@ function OnChange2(dropdown)
        <div align="right">
        
      <table border="0" cellpadding="0" cellspacing="0" width="80%" bgcolor="#000000">
-      <tbody><tr><form method="GET" action="http://www.powerhouse-fitness.co.uk/store/find.asp?" style="padding: 0"></form>
+      <tbody><tr><form method="GET" action="http://www.powerhouse-fitness.co.uk/store/find.asp" style="padding: 0"></form>
        <td align="center">
         <p align="right">
         <font face="Verdana" size="1"><font color="#FFFFFF">
 	
   		List by brand:
 	<select size="1" name="find_drop" onchange="OnChange2(this.form.find_drop);" style="background-color:#FFFFFF; font-family:Verdana; font-size:9px">
-        	 <option selected="" value=""> </option>  
        	  
+          
               <option value=""></option>
                  	 	
+          
               <option value="BBE">BBE</option>
                  	 	
-              <option value="Beny">Beny</option>
+          
+              <option value="Beny">Beny / V-Fit / MotiveFitness</option>
                  	 	
+          
               <option value="BH%20Fitness">BH Fitness</option>
                  	 	
+          
+              <option value="BioSynergy">BioSynergy</option>
+                 	 	
+          
               <option value="Body%20Sculpture">Body Sculpture</option>
                  	 	
+          
               <option value="Bodycraft">Bodycraft</option>
                  	 	
-              <option value="Bodytec">Bodytec</option>
+          
+              <option value="Bodymax">Bodymax</option>
                  	 	
+          
               <option value="Bowflex">Bowflex</option>
                  	 	
+          
               <option value="Bremshey">Bremshey</option>
                  	 	
+          
               <option value="BSN">BSN</option>
                  	 	
+          
               <option value="Bullworker">Bullworker</option>
                  	 	
+          
               <option value="Bullworker-accessories">Bullworker-accessories</option>
                  	 	
+          
               <option value="Chemical%20Nutrition">Chemical Nutrition</option>
                  	 	
+          
               <option value="Concept">Concept</option>
                  	 	
+          
               <option value="EAS">EAS</option>
                  	 	
+          
               <option value="Extreme">Extreme</option>
                  	 	
+          
               <option value="G%20Pulse">G Pulse</option>
                  	 	
+          
               <option value="Garnell">Garnell</option>
                  	 	
+          
               <option value="Harvard">Harvard</option>
                  	 	
+          
               <option value="Healthrider">Healthrider</option>
                  	 	
+          
               <option value="Hoist">Hoist</option>
                  	 	
+          
               <option value="Horizon">Horizon</option>
                  	 	
+          
               <option value="Infiniti">Infiniti</option>
                  	 	
+          
               <option value="Interactive%20Nutrition">Interactive Nutrition</option>
                  	 	
+          
               <option value="Johnson">Johnson</option>
                  	 	
+          
               <option value="LA%20MUSCLE">LA MUSCLE</option>
                  	 	
+          
               <option value="Labrada">Labrada</option>
                  	 	
+          
               <option value="Life%20Fitness">Life Fitness</option>
                  	 	
+          
               <option value="Lonsdale">Lonsdale</option>
                  	 	
+          
               <option value="Marcy">Marcy</option>
                  	 	
+          
               <option value="Matrix">Matrix</option>
                  	 	
+          
               <option value="Maximuscle">Maximuscle</option>
                  	 	
+          
               <option value="Nautilus">Nautilus</option>
                  	 	
+          
               <option value="NordicTrack">NordicTrack</option>
                  	 	
+          
               <option value="Personality">Personality</option>
                  	 	
+          
               <option value="PhD">PhD</option>
                  	 	
+          
               <option value="Polar">Polar</option>
                  	 	
+          
               <option value="Powerball">Powerball</option>
                  	 	
+          
               <option value="PowerBlock">PowerBlock</option>
                  	 	
+          
               <option value="Powerbreathe">Powerbreathe</option>
                  	 	
+          
               <option value="Powerhouse">Powerhouse</option>
                  	 	
+          
               <option value="Powerhouse-Elite">Powerhouse-Elite</option>
                  	 	
+          
               <option value="Powerhouse-VR2">Powerhouse-VR2</option>
                  	 	
+          
               <option value="PowerTec">PowerTec</option>
                  	 	
+          
+              <option value="Precor">Precor</option>
+                 	 	
+          
               <option value="Proform">Proform</option>
                  	 	
+          
               <option value="Reebok">Reebok</option>
                  	 	
+          
               <option value="Reflex">Reflex</option>
                  	 	
+          
               <option value="Schwinn">Schwinn</option>
                  	 	
+          
               <option value="Sci-Fit">Sci-Fit</option>
                  	 	
+          
               <option value="SCIFIT">SCIFIT</option>
                  	 	
+          
               <option value="Sigma">Sigma</option>
                  	 	
+          
               <option value="Slamman">Slamman</option>
                  	 	
+          
               <option value="Smart-tec">Smart-tec</option>
                  	 	
+          
               <option value="Supermat">Supermat</option>
                  	 	
+          
               <option value="Supermats">Supermats</option>
                  	 	
+          
               <option value="T-sport">T-sport</option>
                  	 	
+          
               <option value="Tanita">Tanita</option>
                  	 	
+          
               <option value="Teeter">Teeter</option>
                  	 	
+          
               <option value="Tricore">Tricore</option>
                  	 	
+          
               <option value="Trimline">Trimline</option>
                  	 	
+          
               <option value="Trimmaster">Trimmaster</option>
                  	 	
+          
               <option value="Trixter">Trixter</option>
                  	 	
+          
               <option value="Tunturi">Tunturi</option>
                  	 	
+          
+              <option value="USN">USN</option>
+                 	 	
+          
+              <option value="Vibratec">Vibratec</option>
+                 	 	
+          
               <option value="VibroGym">VibroGym</option>
                  	 	
+          
               <option value="Vision">Vision</option>
                  	 	
+          
               <option value="WaterRower">WaterRower</option>
                  	 	
+          
               <option value="Weider">Weider</option>
                  	 	
-              <option value="Xyience">Xyience</option>
-                 	 	
+          
               <option value="York">York</option>
                  	 	
        	  
@@ -310,11 +466,11 @@ function OnChange2(dropdown)
   </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="750" height="20" bgcolor="#808080" class="border-top-left-right-black-1px">
                  <tbody><tr>
-                  <td width="17%" valign="middle" align="center"><b><a href="http://www.powerhouse-fitness.co.uk/store/../default.asp?" class="mainmenu">Home Page</a></b></td>
-                  <td width="25%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/brochure_downloads.asp?" class="downloadmenu">Brochure Downloads</a></b></td>
-                  <td width="23%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/brochure_request.asp?" class="requestmenu">Brochure Request</a></b></td>
-                  <td width="19%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/store_locator.asp?" class="locatormenu">Store Locator</a></b></td>
-                  <td width="16%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/basket.asp?" class="basketmenu">Basket</a></b></td>
+                  <td width="17%" valign="middle" align="center"><b><a href="http://www.powerhouse-fitness.co.uk/store/../default.asp" class="mainmenu">Home Page</a></b></td>
+                  <td width="25%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/brochure_downloads.asp" class="downloadmenu">Brochure Downloads</a></b></td>
+                  <td width="23%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/brochure_request.asp" class="requestmenu">Brochure Request</a></b></td>
+                  <td width="19%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/store_locator.asp" class="locatormenu">Store Locator</a></b></td>
+                  <td width="16%" valign="middle" align="center" class="border-left-black-1px"><b><a href="http://www.powerhouse-fitness.co.uk/store/basket.asp" class="basketmenu">Basket</a></b></td>
                  </tr>
 </tbody></table>
 
@@ -340,18 +496,16 @@ function OnChange2(dropdown)
 <!-- ********************************************************************************* -->
     </td>
     
-    <td width="120" valign="top">
+    <td width="119" valign="top" bgcolor="#000000" class="border-right-black-1px" align="left">
     <!-- second column -->
 
 <a href="http://www.powerhouse-fitness.co.uk/store/store_locator.asp">
-	<img src="sidelayer/side_layer_map_kev.gif" border="0" width="120" height="171" lowsrc="sidelayer/side_layer_map_low.gif" longdesc="Store Locator" alt="Store Locator"></a><br>
+	<img src="sidelayer/side_nav_map.gif" border="0" width="119" height="171" lowsrc="sidelayer/side_nav_map.gif" longdesc="Store Locator" alt="Store Locator"></a><br>
 
     </td>
   </tr>
 </tbody></table>
 <!-- ********************************************************************************* -->
-
-
 
     
 
@@ -386,7 +540,7 @@ function OnChange2(dropdown)
 <table border="0" cellpadding="0" cellspacing="0" height="177" width="124" style="padding: 0" bgcolor="#7EA9D3">
 <tbody><tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/../b2b/default.asp?" class="deptcomm" target="_blank" title="Trade Section - Commercial Department">
+		<a href="http://www.powerhouse-fitness.co.uk/store/../b2b/default.asp" class="deptcomm" target="_blank" title="Trade Section - Commercial Department">
 		Commercial<br>fitness equipment</a>
 		</td>
 	</tr> 
@@ -397,62 +551,62 @@ function OnChange2(dropdown)
 	</tr>
        <!--<tr>
 		<td valign="middle" height="21" align="left" class="border-bottom-black-1px">
-		<a class="deptnavtreadmill" title="Special Offers on Fitness Equipment" href="http://www.powerhouse-fitness.co.uk/store/special-offers.asp?">Special Offers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		<a class="deptnavtreadmill" title="Special Offers on Fitness Equipment" href="http://www.powerhouse-fitness.co.uk/store/special-offers.asp">Special Offers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>   -->       
 	
   
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a class="deptnavtreadmill" title="Treadmills Department - Fitness Equipment" href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=2&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=treadmills?">Treadmills&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		<a class="deptnavtreadmill" title="Treadmills Department - Fitness Equipment" href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=2&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=Treadmills">Treadmills&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>
 
 <tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=7&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=elliptical_trainers?" class="deptnavelliptical" title="Ellipticals Department - Fitness Equipment">Ellipticals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=7&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=elliptical_trainers" class="deptnavelliptical" title="Ellipticals Department - Fitness Equipment">Ellipticals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>
 <tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=6&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=rowing_machines?" class="deptnavrowers" title="Rowing Machines - Rowers Department - Fitness Equipment">Rowing machines</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=6&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=rowing_machines" class="deptnavrowers" title="Rowing Machines - Rowers Department - Fitness Equipment">Rowing machines</a>
 		</td>
 	</tr>
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=4&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=exercise_cycles?" title="Exercise Bikes Department - Fitness Equipment" class="deptnavbikes">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=4&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=exercise_cycles" title="Exercise Bikes Department - Fitness Equipment" class="deptnavbikes">
 		Exercise bikes</a>
 		</td>
 	</tr>
 	
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=5&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=steppers?" title="Steppers and Climbers Department - Fitness Equipment" class="deptnavclimbers">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=5&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=steppers" title="Steppers and Climbers Department - Fitness Equipment" class="deptnavclimbers">
 		Climbers &amp; Steppers</a>
 		</td>
 	</tr>
                    
 	
 	<tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=11&amp;sorting_feature=yes&amp;pagenumber=1&amp;sort_orderby=Asc&amp;department=fitness_accessories?" title="Fitness Accessories Department - Fitness Equipment" class="deptnavaccessories">Fitness accessories</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=11&amp;sorting_feature=yes&amp;pagenumber=1&amp;sort_orderby=Asc&amp;department=fitness_accessories" title="Fitness Accessories Department - Fitness Equipment" class="deptnavaccessories">Fitness accessories</a>
 		</td>
 	</tr>
 	
 	
 	
 	<tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=21&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=vibration_machines?" title="Vibration Machines - Fitness Equipment" class="deptnavaccessories">Vibration Plates</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=21&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=vibration_machines" title="Vibration Machines - Fitness Equipment" class="deptnavaccessories">Vibration Plates</a>
 		</td>
 	</tr>
 	<tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=22&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=inversion_machines?" title="Inversion Machines - Fitness Equipment" class="deptnavaccessories">Inversion Machines</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=22&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=inversion_machines" title="Inversion Machines - Fitness Equipment" class="deptnavaccessories">Inversion Machines</a>
 		</td>
 	</tr>
 	<tr>
-		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=71&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=trampolines?" title="Trampolines Department - Fitness Equipment" class="deptnavaccessories">Trampolines&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px"><a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=71&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=trampolines" title="Trampolines Department - Fitness Equipment" class="deptnavaccessories">Trampolines&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>
 		<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=35&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=heart_rate_monitors?" title="HRM - Heart Rate Monitors Department - Fitness Equipment" class="deptnavhrm">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=35&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=heart_rate_monitors" title="HRM - Heart Rate Monitors Department - Fitness Equipment" class="deptnavhrm">
 		Heart rate monitors</a>
 		</td>
 	</tr>  
@@ -461,7 +615,7 @@ function OnChange2(dropdown)
 	
 <tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=15&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=body_fat_monitors?" title="Body Fat Monitors Department - Fitness Equipment" class="deptnavbodyfat">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=15&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=body_fat_monitors" title="Body Fat Monitors Department - Fitness Equipment" class="deptnavbodyfat">
 		Body fat monitors</a>
 		</td>
 	</tr>   
@@ -474,14 +628,14 @@ function OnChange2(dropdown)
 	</tr>
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=9&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=multi_gyms?" title="Multigyms - Multi Gyms Department - Strength Equipment" class="deptnavmultigym">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=9&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=multi_gyms" title="Multigyms - Multi Gyms Department - Strength Equipment" class="deptnavmultigym">
 		Multigyms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>
         
 	<tr>
 		<td valign="middle" align="left" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=10&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=benches_and_free_weight_systems?" class="deptnavfreeweights" title="Benches and Free Weight systems - Strength Equipment">
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=10&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=benches_and_free_weight_systems" class="deptnavfreeweights" title="Benches and Free Weight systems - Strength Equipment">
 		Benches and<br>free weight systems</a>
 		</td>
 	</tr>
@@ -493,7 +647,7 @@ function OnChange2(dropdown)
 	
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/weights-bars-and-kits.asp?" class="deptnavweightsaccessories" title="Weights and Kits - Strength Equipment">
+		<a href="http://www.powerhouse-fitness.co.uk/store/weights-bars-and-kits.asp" class="deptnavweightsaccessories" title="Weights and Kits - Strength Equipment">
 		Weights and kits</a>
 		</td>
 	</tr>
@@ -501,7 +655,7 @@ function OnChange2(dropdown)
 
           <tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=62&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=weight-training-accessories?" class="deptnavfreeweights" title="Weight Training Accessories - Strength Equipment">Weight training<br>accessories</a>
+		<a href="http://www.powerhouse-fitness.co.uk/store/dept.asp?dept_id=62&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=weight-training-accessories" class="deptnavfreeweights" title="Weight Training Accessories - Strength Equipment">Weight training<br>accessories</a>
 		</td>
 	</tr>             
  
@@ -513,7 +667,7 @@ function OnChange2(dropdown)
 	</tr>
 	<tr>
 		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
-		<a href="dept.asp?dept_id=23&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=multi_gyms?" title="Multigyms - Multi Gyms Department - Strength Equipment" class="deptnavmultigym">
+		<a href="dept.asp?dept_id=23&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=games_tables" title="Games Tables - Games Tables Department - Indoor Sports" class="deptnavmultigym">
 		Games Tables&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</td>
 	</tr>
@@ -532,7 +686,12 @@ function OnChange2(dropdown)
 		Boxing equipment</a>
 		</td>
 	</tr>
-	
+	<tr>
+		<td valign="middle" align="left" height="21" class="border-bottom-black-1px">
+		<a href="dept.asp?dept_id=206&amp;sorting_feature=yes&amp;sort_orderby=Asc&amp;pagenumber=1&amp;department=M_O_R" class="deptcomm" title="Mail Order Returns Section / Ex-Display">
+		Mail Order Returns /<br>Ex Display Section</a>
+		</td>
+	</tr>
 	
 
 
@@ -542,7 +701,7 @@ function OnChange2(dropdown)
 </div>       
 <p></p>
 
-<form method="POST" action="http://www.powerhouse-fitness.co.uk/store/find2.asp?">
+<form method="POST" action="http://www.powerhouse-fitness.co.uk/store/find2.asp">
 	<table border="0" cellpadding="0" width="124" cellspacing="0" style="background-color: #3399FF; border-bottom: 1 solid #000000">
     	<tbody><tr>
 			<td width="116" class="border-box-black-1px" bgcolor="#000000">
@@ -624,14 +783,14 @@ function OnChange2(dropdown)
 <br>
  
 
-<a href="http://www.powerhouse-fitness.co.uk/store/terms.asp#security?">
+<a href="http://www.powerhouse-fitness.co.uk/store/terms.asp#security">
   <img border="0" src="../adverts/security.gif" width="105" height="79" alt="secure site"></a><br><br> 
-
+<a target="_blank" href="../powerhouse_price_promise.htm"> 
+<img border="0" src="../adverts/ph_price_promise.png" width="105" alt="The Powerhouse Price Promise"></a>
 
    
 
 </div>
-
               </td>
              
               <td valign="top" align="center">
@@ -806,7 +965,7 @@ function OnChange2(dropdown)
             <td valign="top" width="429"><font face="Verdana" size="2">If you 
 			have any questions/comments about privacy, you should email us at <a href="mailto:info@powerhouse-fitness.co.uk?subject= Privacy Policy questions/comments.">
 			info@powerhouse-fitness.co.uk</a>
-              or call 0141 221 3885 and ask to speak to the person responsible 
+              or call 0141 951 4477 and ask to speak to the person responsible 
 			for privacy matters, <b>Nigel Webster</b> <i>(Managing Director)</i>.</font></td>
           </tr>
           <tr>
@@ -834,7 +993,7 @@ function OnChange2(dropdown)
               Powerhouse Fitness<br>
               Unit 11, 12 Whitehall Street<br>
               Glasgow<br>
-              [t] 0141 221 3885<br>
+              [t] 0141 951 4477<br>
               [e] <a href="mailto:kev@powerhouse-fitness.co.uk">
 			kev@powerhouse-fitness.co.uk</a></font></td>
           </tr>
@@ -942,535 +1101,6 @@ Microsoft's official Cookie page</a>.
 <img border="0" src="images/1x1.gif" width="13" height="100%"></td>
       <td width="75" height="3" valign="bottom" align="center">
       
-      <img border="0" src="Assets/logos/teeter.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Teeter_Gravity_Boots" title="Teeter Gravity Boots" style="text-decoration:none"><font color="#000000">
-      Gravity Boots</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Teeter_Gravity_Boots" title="Teeter Gravity Boots" style="text-decoration:none">
-		<img src="../store/teeter/gravityboots_tn.jpg" width="70" height="70" border="0" alt="Teeter Gravity Boots" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£74.99</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/tricore-logo.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Tricore_Original_Ab_Trainer" title="Tricore Original Ab Trainer" style="text-decoration:none"><font color="#000000">
-      Original Ab Trainer</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Tricore_Original_Ab_Trainer" title="Tricore Original Ab Trainer" style="text-decoration:none">
-		<img src="../store/product_info/accessories/tricore/abtrainer_tn.jpg" width="70" height="70" border="0" alt="Tricore Original Ab Trainer" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£49.99</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/bodysculpture.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BM1510_Power_Trainer_Plus" title="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="text-decoration:none"><font color="#000000">
-      BM1510 Programmable Vibro Plate Power Trainer Plus</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BM1510_Power_Trainer_Plus" title="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="text-decoration:none">
-		<img src="../store/1510_tn.jpg" width="70" height="70" border="0" alt="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£599.99</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/bodysculpture.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BW3210A_Folding_Bench_With_Leg_Curl_and_Arm_Pad" title="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="text-decoration:none"><font color="#000000">
-      BW3210A  Folding Bench with Leg and Arm Curl</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BW3210A_Folding_Bench_With_Leg_Curl_and_Arm_Pad" title="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="text-decoration:none">
-		<img src="../store/product_info/bodysculpture/BW-3210A_tn.jpg" width="70" height="70" border="0" alt="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£79.99</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/bodytec.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Bodytec_502_Performance_Trainer_Multi_Gym_and_Leg_Press" title="Bodytec 502 Performance Trainer Multi-Gym with Leg Press" style="text-decoration:none"><font color="#000000">
-      502 Performance Trainer Multi-Gym with Leg Press</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Bodytec_502_Performance_Trainer_Multi_Gym_and_Leg_Press" title="Bodytec 502 Performance Trainer Multi-Gym with Leg Press" style="text-decoration:none">
-		<img src="../store/product_info/bodytec/Bodytec-502Gym_tn.jpg" width="70" height="70" border="0" alt="Bodytec 502 Performance Trainer Multi-Gym with Leg Press" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£499.99</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/bodytec.jpg" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Bodytec_PS2_Lever_Gym_Yellow" title="Bodytec PS2 Lever Gym  - YELLOW" style="text-decoration:none"><font color="#000000">
-      PS2 Lever Gym  - YELLOW</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Bodytec_PS2_Lever_Gym_Yellow" title="Bodytec PS2 Lever Gym  - YELLOW" style="text-decoration:none">
-		<img src="../store/product_info/weights_n_benches/bodytec/Bodytec_PS2_Lever_Gym_Yellow_tn.jpg" width="70" height="70" border="0" alt="Bodytec PS2 Lever Gym  - YELLOW" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£499.00</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/infiniti.gif" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Infiniti_JT950_Cycle" title="Infiniti JT950 Programmable Cycle" style="text-decoration:none"><font color="#000000">
-      JT950 Programmable Cycle</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Infiniti_JT950_Cycle" title="Infiniti JT950 Programmable Cycle" style="text-decoration:none">
-		<img src="../store/product_info/cycles/infiniti/JT950_M_tn.jpg" width="70" height="70" border="0" alt="Infiniti JT950 Programmable Cycle" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£349.00</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/infiniti.gif" width="75" align="center">
-      </td>
-      <td width="21" height="3" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
-      </tr>
-
-      
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13"></td>
-      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Infiniti_ST950_Elliptical" title="Infiniti ST950 Elliptical" style="text-decoration:none"><font color="#000000">
-      ST950 Elliptical</font></a>
-     </td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21"></td>
-      </tr>
-
-      <tr>
-      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="80"></td>
-      <td valign="top" align="center" width="75">
-      <a href="product.asp?dept_id=200&amp;pf_id=Infiniti_ST950_Elliptical" title="Infiniti ST950 Elliptical" style="text-decoration:none">
-		<img src="../store/product_info/ellipticals/infiniti/TN_ST950_tn.jpg" width="70" height="70" border="0" alt="Infiniti ST950 Elliptical" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
-		Now:</span><br><span class="grid_now_price">£349.00</span></td>
-      <td width="21" class="grid_cell_rl">
-<img border="0" src="images/1x1.gif" width="21" height="80"></td>
-      </tr>
-
-
-      <tr>
-      <td width="13" height="13" class="grid_cell_bl">
-<img border="0" src="images/1x1.gif" width="13" height="13"></td>
-      <td width="75" height="13" class="grid_cell_b">
-<img border="0" src="images/1x1.gif" width="75" height="20"></td>
-      <td width="21" height="13" class="grid_cell_br">
-<img border="0" src="images/1x1.gif" width="21" height="13"></td>
-      </tr>
-
-      </tbody></table>
-						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-								&nbsp;</td></tr></tbody></table>
-		</td>
-      
-		
-
-
-
-	</tr>
-					            
-		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
-		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
-      <tbody><tr>
-      <td width="13" height="8" class="grid_cell_tl">
-<img border="0" src="images/1x1.gif" width="13" height="8"></td>
-      <td width="75" height="8" class="grid_cell_t">
-<img border="0" src="images/1x1.gif" width="75" height="8"></td>
-      <td width="21" height="8" class="grid_cell_tr">
-<img border="0" src="images/1x1.gif" width="21" height="8"></td>
-      </tr>
-
-      <tr>
-      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
-<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
-      <td width="75" height="3" valign="bottom" align="center">
-      
-      <img border="0" src="Assets/logos/powerhouse-fitness.jpg" width="75" align="center">
       </td>
       <td width="21" height="3" class="grid_cell_rl">
 <img border="0" src="images/1x1.gif" width="21" height="100%"></td>
@@ -1536,7 +1166,6 @@ Microsoft's official Cookie page</a>.
 <img border="0" src="images/1x1.gif" width="13" height="100%"></td>
       <td width="75" height="3" valign="bottom" align="center">
       
-      <img border="0" src="Assets/logos/powerhouse-fitness.jpg" width="75" align="center">
       </td>
       <td width="21" height="3" class="grid_cell_rl">
 <img border="0" src="images/1x1.gif" width="21" height="100%"></td>
@@ -1561,6 +1190,656 @@ Microsoft's official Cookie page</a>.
       <a href="product.asp?dept_id=200&amp;pf_id=Powerhouse_twist_Stepper" title="Powerhouse Twist Stepper with Free Toning Tubes" style="text-decoration:none">
 		<img src="../store/product_info/twist_tn.jpg" width="70" height="70" border="0" alt="Powerhouse Twist Stepper with Free Toning Tubes" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
 		Now:</span><br><span class="grid_now_price">£44.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Teeter_Gravity_Boots" title="Teeter Gravity Boots" style="text-decoration:none"><font color="#000000">
+      Gravity Boots</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Teeter_Gravity_Boots" title="Teeter Gravity Boots" style="text-decoration:none">
+		<img src="../store/teeter/gravityboots_tn.jpg" width="70" height="70" border="0" alt="Teeter Gravity Boots" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£74.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Tricore_Original_Ab_Trainer" title="Tricore Original Ab Trainer" style="text-decoration:none"><font color="#000000">
+      Original Ab Trainer</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Tricore_Original_Ab_Trainer" title="Tricore Original Ab Trainer" style="text-decoration:none">
+		<img src="../store/product_info/accessories/tricore/abtrainer_tn.jpg" width="70" height="70" border="0" alt="Tricore Original Ab Trainer" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£49.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Vibratec_VB2_Club" title="Vibratec VB2 Club Vibration Plate" style="text-decoration:none"><font color="#000000">
+      VB2 Club Vibration Plate</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Vibratec_VB2_Club" title="Vibratec VB2 Club Vibration Plate" style="text-decoration:none">
+		<img src="../store/product_info/vibration_plates/vibratec/vibratec_VB2_tn.jpg" width="70" height="70" border="0" alt="Vibratec VB2 Club Vibration Plate" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£999.00</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Vibratec_VB5_Smart_Toner" title="Vibratec VB5 Smart Toner" style="text-decoration:none"><font color="#000000">
+      VB5 Smart Toner</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Vibratec_VB5_Smart_Toner" title="Vibratec VB5 Smart Toner" style="text-decoration:none">
+		<img src="../store/product_info/vibration_plates/vibratec/vibratec_VB5_tn.jpg" width="70" height="70" border="0" alt="Vibratec VB5 Smart Toner" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£699.00</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BM1510_Power_Trainer_Plus" title="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="text-decoration:none"><font color="#000000">
+      BM1510 Programmable Vibro Plate Power Trainer Plus</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BM1510_Power_Trainer_Plus" title="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="text-decoration:none">
+		<img src="../store/1510_tn.jpg" width="70" height="70" border="0" alt="Body Sculpture BM1510 Programmable Vibro Plate Power Trainer Plus" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£499.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BW3210A_Folding_Bench_With_Leg_Curl_and_Arm_Pad" title="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="text-decoration:none"><font color="#000000">
+      BW3210A  Folding Bench with Leg and Arm Curl</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Body_Sculpture_BW3210A_Folding_Bench_With_Leg_Curl_and_Arm_Pad" title="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="text-decoration:none">
+		<img src="../store/product_info/bodysculpture/BW-3210A_tn.jpg" width="70" height="70" border="0" alt="Body Sculpture BW3210A  Folding Bench with Leg and Arm Curl" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£89.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Bodymax_502_Performance_Trainer_Multi_Gym_and_Leg_Press" title="Bodymax 502 Performance Trainer Multi-Gym with Leg Press" style="text-decoration:none"><font color="#000000">
+      502 Performance Trainer Multi-Gym with Leg Press</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Bodymax_502_Performance_Trainer_Multi_Gym_and_Leg_Press" title="Bodymax 502 Performance Trainer Multi-Gym with Leg Press" style="text-decoration:none">
+		<img src="../store/product_info/Bodymax/Bodymax-502Gym_tn.jpg" width="70" height="70" border="0" alt="Bodymax 502 Performance Trainer Multi-Gym with Leg Press" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£499.99</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Bodymax_PS2_Lever_Gym_Yellow" title="Bodymax PS2 Lever Gym  - YELLOW" style="text-decoration:none"><font color="#000000">
+      PS2 Lever Gym  - YELLOW</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Bodymax_PS2_Lever_Gym_Yellow" title="Bodymax PS2 Lever Gym  - YELLOW" style="text-decoration:none">
+		<img src="../store/product_info/weights_n_benches/Bodymax/Bodymax_PS2_Lever_Gym_Yellow_tn.jpg" width="70" height="70" border="0" alt="Bodymax PS2 Lever Gym  - YELLOW" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£499.00</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Infiniti_JT950_Cycle" title="Infiniti JT950 Programmable Cycle" style="text-decoration:none"><font color="#000000">
+      JT950 Programmable Cycle</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Infiniti_JT950_Cycle" title="Infiniti JT950 Programmable Cycle" style="text-decoration:none">
+		<img src="../store/product_info/cycles/infiniti/JT950_M_tn.jpg" width="70" height="70" border="0" alt="Infiniti JT950 Programmable Cycle" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£299.00</span></td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="80"></td>
+      </tr>
+
+
+      <tr>
+      <td width="13" height="13" class="grid_cell_bl">
+<img border="0" src="images/1x1.gif" width="13" height="13"></td>
+      <td width="75" height="13" class="grid_cell_b">
+<img border="0" src="images/1x1.gif" width="75" height="20"></td>
+      <td width="21" height="13" class="grid_cell_br">
+<img border="0" src="images/1x1.gif" width="21" height="13"></td>
+      </tr>
+
+      </tbody></table>
+						      <table width="109" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
+								&nbsp;</td></tr></tbody></table>
+		</td>
+      
+		
+
+
+
+	</tr>
+					            
+		<tr><td valign="top" width="119" bgcolor="#FFFFFF" align="center">
+		<table cellpadding="0" width="109" height="67" style="padding: 0" cellspacing="0" class="grid_table">
+      <tbody><tr>
+      <td width="13" height="8" class="grid_cell_tl">
+<img border="0" src="images/1x1.gif" width="13" height="8"></td>
+      <td width="75" height="8" class="grid_cell_t">
+<img border="0" src="images/1x1.gif" width="75" height="8"></td>
+      <td width="21" height="8" class="grid_cell_tr">
+<img border="0" src="images/1x1.gif" width="21" height="8"></td>
+      </tr>
+
+      <tr>
+      <td width="13" height="3" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="100%"></td>
+      <td width="75" height="3" valign="bottom" align="center">
+      
+      </td>
+      <td width="21" height="3" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21" height="100%"></td>
+      </tr>
+
+      
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13"></td>
+      <td width="75" align="center"><a class="column_cell_name" href="product.asp?dept_id=200&amp;pf_id=Infiniti_ST950_Elliptical" title="Infiniti ST950 Elliptical" style="text-decoration:none"><font color="#000000">
+      ST950 Elliptical</font></a>
+     </td>
+      <td width="21" class="grid_cell_rl">
+<img border="0" src="images/1x1.gif" width="21"></td>
+      </tr>
+
+      <tr>
+      <td width="13" valign="bottom" align="center" class="grid_cell_ll">
+<img border="0" src="images/1x1.gif" width="13" height="80"></td>
+      <td valign="top" align="center" width="75">
+      <a href="product.asp?dept_id=200&amp;pf_id=Infiniti_ST950_Elliptical" title="Infiniti ST950 Elliptical" style="text-decoration:none">
+		<img src="../store/product_info/ellipticals/infiniti/TN_ST950_tn.jpg" width="70" height="70" border="0" alt="Infiniti ST950 Elliptical" style="border: 1px solid #000000"></a><br><span class="grid_now_text">
+		Now:</span><br><span class="grid_now_price">£299.00</span></td>
       <td width="21" class="grid_cell_rl">
 <img border="0" src="images/1x1.gif" width="21" height="80"></td>
       </tr>
@@ -1640,8 +1919,9 @@ Microsoft's official Cookie page</a>.
 &nbsp;</td></tr></tbody></table>
 
 
-
-
+<!--
+<div align="center"><script src="http://seal.ranking.com/seal.aspx?urlid=1452881"></script><br><a href="http://www.ranking.com" style="color:blue;font-family:Arial;font-size:10px;" target="_blank">Website Ranking</a><p>&nbsp;</p></div>
+-->
 
 
 
