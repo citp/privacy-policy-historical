@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429102405id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211085731id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
 
 # Powerhouse Fitness: Privacy Policy
 
-| 
-
-[](http://www.safebuy.org.uk/certificate/d0d8d337-92b7-4428-b26c-743b6ef05ba3.html)
-
-[ ](http://www.powerhouse-fitness.co.uk/store/terms.asp#security?)
-
-|  |  |   
+|  |  |  |   
 ---|---  
   
   
@@ -46,7 +40,7 @@ The type of information we will collect about you includes:
 |  | The personal information which we hold will be held securely in accordance with our internal security policy and the law.  
 |  | If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.  
 |  | We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.  
-|  | If you have any questions/comments about privacy, you should email us at [ info@powerhouse-fitness.co.uk](mailto:info@powerhouse-fitness.co.uk?subject=%20Privacy%20Policy%20questions/comments.) or call 0141 221 3885 and ask to speak to the person responsible for privacy matters, **Nigel Webster** _(Managing Director)_.  
+|  | If you have any questions/comments about privacy, you should email us at [ info@powerhouse-fitness.co.uk](mailto:info@powerhouse-fitness.co.uk?subject=%20Privacy%20Policy%20questions/comments.) or call 0141 951 4477 and ask to speak to the person responsible for privacy matters, **Nigel Webster** _(Managing Director)_.  
 |  |   
 **( Web Content** |  | All web site design, graphics, software, underlying code and all other material on this site are owned by Powerhouse Fitness or its content provider Great Web Ltd.  
 | For Permission to use any part of this website contact:  
@@ -55,7 +49,7 @@ Website Designer / Marketing
 Powerhouse Fitness  
 Unit 11, 12 Whitehall Street  
 Glasgow  
-[t] 0141 221 3885  
+[t] 0141 951 4477  
 [e] [ kev@powerhouse-fitness.co.uk](mailto:kev@powerhouse-fitness.co.uk)  
   
 * * *
