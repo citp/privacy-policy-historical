@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629130742id_/http%3A//www.freeview.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021448id_/http%3A//www.freeview.co.uk/privacy) for the most accurate reproduction.*
 
 # Freeview - Privacy Cookie Policy
 
