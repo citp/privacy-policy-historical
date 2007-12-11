@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501154645id_/http%3A//www.pepperdine.edu/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211042337id_/http%3A//www.pepperdine.edu/contact/privacy.htm) for the most accurate reproduction.*
 
 # Pepperdine University - Contanct Us - Privacy Policy
 
