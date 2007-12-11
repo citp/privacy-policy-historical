@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the surefire.com privacy policy that was archived on 2007-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513014119id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/strfnbr/6/pgrfnbr/262) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surefire.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211051518id_/http%3A//www.surefire.com/maxexp/main/co_disp/displ/strfnbr/6/pgrfnbr/262) for the most accurate reproduction.-->
 
 <html><head>
 <title>Surefire Privacy Policy</title> 
 <meta name="keywords" content="surefire privacy policy, surefire privacy protection, surefire secured website">
 <meta name="description" content="SureFire is serious about protecting our customers' personal information. ">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" href="/surefire/content/templates/common/includes/styles.css" type="text/css">
+<script type="text/javascript" src="/surefire/content/templates/microsite/main/swfobject.js"></script>
+
+<script src="/surefire/content/templates/main/scripts/external.js" language="javascript" type="text/javascript"></script>
 <script language="JavaScript">
 <!--
 if(window.event + "" == "undefined") event = null;
@@ -42,8 +46,39 @@ function remInput(){
 if(optin.email.value==mText[0]){optin.email.value=mText[1];}}
 </script>
 
-<script src="/surefire/content/templates/main/scripts/external.js" language="javascript" type="text/javascript"></script>
 
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+//window.attachEvent("onload", correctPNG);
+</script>
 </head>
 <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0">
 <script language="JavaScript1.2" src="/surefire/content/templates/main/scripts/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/surefire/content/templates/main/scripts/HM_Array.js" type="text/javascript"></script><script language="JavaScript1.2" src="/surefire/content/templates/main/scripts/HM_ScriptDOM.js" type="text/javascript"></script>
@@ -93,12 +128,12 @@ if(optin.email.value==mText[0]){optin.email.value=mText[1];}}
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/carfnbr/149/sesent/00" class="subcat">Accessories</a><br>
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/carfnbr/97/sesent/00" class="subcat">Batteries</a><br>
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/carfnbr/376/sesent/00" class="subcat">EarPro Products</a><br>
-								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/carfnbr/279/sesent/00" class="subcat">Clothing</a><br>
+								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/pgname/SF_Clothing/strfnbr/6" class="subcat">Clothing</a><br>
 								<a href="https://www.surefire.com/maxexp/main.pl?pgm=max_gift&amp;func=checkout&amp;wnname=cart&amp;strfnbr=6&amp;sesent=0,0" class="subcat">Gift Certificates</a><br>
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/carfnbr/405/sesent/00" class="subcat">Specials</a>
 								<br>	<img src="/images/spacer.gif" width="1" height="8" border="0"><br>
 								<span class="sideHeader">TRAINING</span><br>
-								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/strfnbr/10/pgname/Home" class="subcat" target="new">SureFire Institute</a>
+								<a href="http://www.surefireinstitute.com" class="subcat" target="new">SureFire Institute</a>
 								<br>	<img src="/images/spacer.gif" width="1" height="8" border="0"><br>
 								<span class="sideHeader">MILITARY</span><br>
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/514/sesent/00" class="subcat">NSN Orders</a>
@@ -107,7 +142,7 @@ if(optin.email.value==mText[0]){optin.email.value=mText[1];}}
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/530/sesent/00" class="subcat">User Manuals</a><br>
 								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/528/sesent/00" class="subcat">Flashlight Specs</a><br>
 								<a href="http://www.surefire.com/maxexp/main.pl?pgm=co_catreq&amp;func=disp&amp;strfnbr=6&amp;sesent=0,0" class="subcat">Catalogs</a><br>
-								<a href="/maxexp/main/co_disp/displ/pgrfnbr/38/sesent/00" class="subcat">FAQ</a>
+								<a href="http://www.surefire.com/maxexp/main/co_disp/displ/pgrfnbr/38/sesent/00" class="subcat">FAQ</a>
 								<br><img src="/images/spacer.gif" width="1" height="9" border="0"><br>
 								<img src="/surefire/content/templates/main/main/g_line.gif" border="0"><br>
 								
