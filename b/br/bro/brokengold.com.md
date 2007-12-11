@@ -1,28 +1,7 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629185453id_/http%3A//www.brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062340id_/http%3A//www.brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Gold Jewelry Online
+# BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
-| 
-
-REQUEST YOUR FREE GOLD PACKAGE   
-  
----  
-First Name*:  |   
-Last Name*:  |   
-Address*:  |    Apt/Suite:  
-City*:  |   
-State*:  |   
-Zip*:  |   
-Phone Number: |   
-Email Address: |   
-How did you hear  
-about us?: |   
-|    
-  
-| 
-
-[](http://www.truste.org/ivalidate.php?companyName=Quick%20Cash%20Pawn&sealid=101&ctv_group=QCP)  
-  
 PRIVACY POLICY 
 
 [](http://www.truste.org/ivalidate.php?companyName=Quick%20Cash%20Pawn&sealid=101&ctv_group=QCP)
@@ -34,13 +13,13 @@ If you have questions or concerns regarding this statement, you should first con
 * * *
 
 **The following applies only to North Carolina residents.**  
-Brokengold.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to support@brokengold.com or write to North Carolina Privacy Information c/o Brokengold.com, 1648 Memorial Dr Burlington NC 27215. We will not honor such request more than once per calendar year.  
+Broken Gold™ may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a North Carolina resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to support@brokengold.com or write to North Carolina Privacy Information c/o Brokengold.com, 1648 Memorial Dr Burlington NC 27215. We will not honor such request more than once per calendar year.  
 For more information on how your personally identifiable information is collected and used, please read our Privacy Policy.
 
 **Privacy Policy  
 Effective as of May 16, 2007**
 
-Brokengold.com ("we," "us," "our") makes this Web site (the "Site") available to consumers who are interested in obtaining information regarding obtaining cash for broken or unwanted jewelry ("Consumers"), subject to this privacy policy (the "Policy") and the Site's terms and conditions of use ("Terms and Conditions"). This Policy explains what information we collect on the Site, how we use and/or share this information, and how such information is maintained. By using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site.
+Broken Gold™ ("we," "us," "our") makes this Web site (the "Site") available to consumers who are interested in obtaining information regarding obtaining cash for broken or unwanted jewelry ("Consumers"), subject to this privacy policy (the "Policy") and the Site's terms and conditions of use ("Terms and Conditions"). This Policy explains what information we collect on the Site, how we use and/or share this information, and how such information is maintained. By using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site.
 
 Note that this Policy applies only with respect to the information collected on the Site and not any information collected or obtained through other methods or sources.
 
@@ -100,7 +79,7 @@ Users may, at any time, choose not to receive promotional e-mails from us, or ou
 
 **Third Party Services**
 
-The information regarding unwanted or broken jewelry and/or other unwanted or broken gold pieces will be provided by the Jewelry Purchaser. Although we advise all of our partners to support this Policy, we have no control over their information handling practices and are not responsible for any failure of such partners (or unaffiliated third parties) to adhere to this Policy.
+The information regarding unwanted or broken jewelry and/or other unwanted or Broken Gold pieces will be provided by the Jewelry Purchaser. Although we advise all of our partners to support this Policy, we have no control over their information handling practices and are not responsible for any failure of such partners (or unaffiliated third parties) to adhere to this Policy.
 
 **Third Party Cookies**
 
