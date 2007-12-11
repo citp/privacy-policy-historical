@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neilgaiman.com privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206092950id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neilgaiman.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150200id_/http%3A//www.harpercollins.com/templates.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy, HarperCollins Publishers
 
@@ -11,7 +11,7 @@ Some of our online activities are directed to children under 13. When those acti
 
 From time to time HarperCollins may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Web sites, or technology. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If HarperCollins materially changes its practices regarding the collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
 
-**COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY HARPERCOLLINS**
+ **COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY HARPERCOLLINS**
 
 General. HarperCollins collects personally identifiable information ("PII" -- that is, information such as your full name, e-mail address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
 
@@ -23,7 +23,7 @@ We may also use cookies or similar tools to relate your use of our Web sites to 
 
 You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
 
-**NOTICE: HARPERCOLLINS WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**
+ **NOTICE: HARPERCOLLINS WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**
 
 When you voluntarily provide PII to HarperCollins, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses we will make of the information. 
 
@@ -35,7 +35,7 @@ HarperCollins's Web sites may be linked to Internet sites operated by other comp
 
 HarperCollins's Web sites may also be linked to sites operated by companies affiliated with HarperCollins (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's [Privacy Principles](http://www.newscorp.com/privacy.html), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-**CHOICE: HARPERCOLLINS WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
+ **CHOICE: HARPERCOLLINS WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
 
 HarperCollins will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with HarperCollins (i.e., not part of the News America Group), unless we obtain your permission. 
 
@@ -55,7 +55,7 @@ There may be instances when HarperCollins may disclose PII without providing you
 
 HarperCollins uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, we use reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. Passwords and PII are stored by HarperCollins behind firewalls. Credit card information is encrypted both in transit and when stored within HarperCollins's online databases.
 
-**ACCESS: HOW TO ACCESS, OR CORRECT YOUR PII OR STOP ALL FUTURE COMMUNICATIONS FROM HARPERCOLLINS**
+ **ACCESS: HOW TO ACCESS, OR CORRECT YOUR PII OR STOP ALL FUTURE COMMUNICATIONS FROM HARPERCOLLINS**
 
 HarperCollins has implemented a procedure for you to access, correct or delete your PII, and, if you are a member of HarperCollins, review your user preferences. If you would like to know the types of information that HarperCollins collects from visitors to its Web sites, please send your request to [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) or write to Legal Department, HarperCollins Publishers, 10 East 53rd Street, New York, NY 10022. 
 
@@ -66,13 +66,13 @@ In the event your PII on file is incorrect, you may correct the PII by sending a
 You may access and change your user preferences for HarperCollins Web site. 
 
   * To login, users can enter their [username and password here](https://web.archive.org/Registration/SignMeUp.aspx)
-  * Logged-in users can enter here to [view and set preferences](https://web.archive.org/Registration/PersonalInfo.aspx).
+  * Logged-in users can enter here to [view and set preferences](https://web.archive.org/Registration/PersonalInfo.aspx). 
 
 If you wish to stop all future communications from HarperCollins, please contact [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) requesting that your PII be permanently removed from any HarperCollins database. We will send you a written confirmation of such removal.
 
 However, there may be residual information that will remain within our databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.
 
-**REMEDIES AND COMPLIANCE: HOW TO CONTACT HARPERCOLLINS ABOUT PRIVACY CONCERNS**
+ **REMEDIES AND COMPLIANCE: HOW TO CONTACT HARPERCOLLINS ABOUT PRIVACY CONCERNS**
 
 If you have concerns regarding the collection and use of your PII or any other privacy issues, please contact: 
 
