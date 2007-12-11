@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623083022id_/http%3A//help.quicken.com/support/privacy/%3Flid%3Dsite_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicken.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023324id_/http%3A//help.quicken.com/support/privacy/%3Flid%3Dsite_footer) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,7 +32,7 @@ We work to protect your personal information from loss, misuse or unauthorized a
 
 
 
-[Tell me more](https://web.archive.org/web/20070619053205id_/http://help.quicken.com/support/privacy/security.shtml) about Quicken's security practices. 
+[Tell me more](https://web.archive.org/web/20071211130948id_/http://help.quicken.com/support/privacy/security.shtml) about Quicken's security practices. 
 
   
 3\. What information do we collect and how do we use it?
@@ -45,7 +45,7 @@ When you use our product or services, we collect the following types of informat
 
   * **Online Bill Payment Verification Information** , such as your login name, password, response to security questions to confirm your identify. When using our online bill payment services, we request your date of birth or social security number to confirm your identity and prevent fraudulent use of your information at the time of enrollment. To protect access to your account we will also ask you to verify your identity in the event you contact Customer Support for assistance with your account. This information will only be used to verify critical information about you, including your contact information in relation to your Quicken Bill Pay account.   
 
-  * **Technical Information** such as software or browser version, operating system, or IP address. If you are accessing our online services through the Quicken software product, we may collect anonymous information about the pages viewed, and links selected to help us evaluate Web site usage. This information helps us to determine areas of our Web sites that are most helpful to our customers and what areas may need improvement. We use cookies to help us track site usage. We also use cookies to make your visit to our Web site easier by recognizing you when you return or by customizing your Web site experience. [Tell me more](https://web.archive.org/web/20070619053205id_/http://help.quicken.com/support/privacy/use.shtml) about Quicken's Web Technologies.   
+  * **Technical Information** such as software or browser version, operating system, or IP address. If you are accessing our online services through the Quicken software product, we may collect anonymous information about the pages viewed, and links selected to help us evaluate Web site usage. This information helps us to determine areas of our Web sites that are most helpful to our customers and what areas may need improvement. We use cookies to help us track site usage. We also use cookies to make your visit to our Web site easier by recognizing you when you return or by customizing your Web site experience. [Tell me more](https://web.archive.org/web/20071211130948id_/http://help.quicken.com/support/privacy/use.shtml) about Quicken's Web Technologies.   
 
   * **Other Information Sources.** We may use publicly available sources outside of Intuit to verify or supplement the information you give us. For example, we may obtain address updates from the U.S. Postal Service or demographic information from direct marketing companies. We use this data to help us maintain accurate records and to improve the products and services that we deliver to you.   
 
@@ -53,7 +53,7 @@ When you use our product or services, we collect the following types of informat
 
 
 
-[Tell me more](https://web.archive.org/web/20070619053205id_/http://help.quicken.com/support/privacy/qservices.shtml) about Quicken.com Services. 
+[Tell me more](https://web.archive.org/web/20071211130948id_/http://help.quicken.com/support/privacy/qservices.shtml) about Quicken.com Services. 
 
   
 4\. When do we share your information?
