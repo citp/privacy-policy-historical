@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615015912id_/http%3A//store.softballfans.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softballfans.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211073900id_/http%3A//store.softballfans.com/index.asp%3FPageAction%3DCustom%26ID%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
