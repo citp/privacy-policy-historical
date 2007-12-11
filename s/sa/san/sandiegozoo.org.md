@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625010309id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154250id_/http%3A//www.sandiegozoo.org/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of sandiegozoo.org
 
