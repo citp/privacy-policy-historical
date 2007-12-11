@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604170829id_/http%3A//www.websitemagazine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060322id_/http%3A//www.websitemagazine.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Magazine Privacy Policy - WebsiteMagazine.com
 
