@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614220328id_/http%3A//www.editgrid.com/article/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editgrid.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110350id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Spreadsheets - EditGrid
 
-30th April, 2007 
+30th April, 2007
 
 As the service provider to EditGrid, we at Team and Concepts Limited ("TnC") hold user privacy to a high regard. This policy describes how we protect privacy at EditGrid. 
 
 In a nutshell: 
 
-  1. We take prudent and necessary steps to protect your spreadsheet data from unauthorised third-party access. 
-  2. We do not sell or release your personal information to any third party unless and only to such extent we are obliged in law to do so. 
+  1. We take prudent and necessary steps to protect your spreadsheet data from unauthorised third-party access.
+  2. We do not sell or release your personal information to any third party unless and only to such extent we are obliged in law to do so.
 
 
 
-##  Spreadsheet data 
+Spreadsheet data
 
 When you create a spreadsheet on EditGrid, or upload a spreadsheet onto EditGrid, you will be able to share it with other EditGrid users and/or with public (ie any user who may or may not have logged in). You shall specify the sharing mode of a spreadsheet with respect to any user and/or a group thereof by means of express actions or by allowing the system defaults, which you can change in advance, be applied. Only such users may read, write, copy, lock, download or reference to your spreadsheet, embed it onto other media, or otherwise access the spreadsheet or a version thereof in the manner you prescribe for each user and/or a group thereof. 
 
@@ -21,7 +21,7 @@ You are advised to take caution when you make personal, sensitive or confidentia
 
 Search engines and web archives routinely crawl websites for indexing and caching purposes. If you share a spreadsheet to public for viewing or exporting, it may be cached by search engines or web archives from time to time and be accessible from search engine caches or web archives even after you have disabled its public sharing on EditGrid. EditGrid exerts no control over search engine caches and web archives once the spreadsheet has been cached. 
 
-##  Personal information 
+Personal information
 
 We ask you to provide us a username of your choice and a password when you sign up as a personal user. Such information is necessary to protect against unauthorised access. You will submit your username and password to us every time you log on to EditGrid for authentication purpose. You must have an account at EditGrid in order to have your spreadsheets saved and to share and collaborate with other users. 
 
@@ -29,7 +29,6 @@ Your username will serve as your identity on EditGrid. It forms part of the URL 
     
     
     http://www.editgrid.com/user/ **your_username** / **sheet_name**
-    
 
 Your username will also be used to identify the owner, co-editor, lock owner, and last editing user of a spreadsheet or a version thereof. Only a user with permission to read a spreadsheet, with or without password protection, will be able to access such information. 
 
@@ -41,13 +40,13 @@ When you use EditGrid, whether logged-in or not, your browser send us a lot of i
 
 We restrict access to personal information to staff members of TnC and its contractors, all of whom are bound by confidentiality obligations. 
 
-##  Future changes 
+Future changes
 
 Please note that we may change this policy from time to time. We will post the most up-to-date version of this policy on this page and keep an archive of prior versions of this policy, which are available upon request. For major changes we will also post a prominent notice on the site to notify you of the changes. 
 
-If you have any enquiries about this policy, or would like to have a copy of a prior version of this policy please contact us at [compliance@tnc.hk](mailto:compliance@tnc.hk "mailto:compliance@tnc.hk"). 
+If you have any enquiries about this policy, or would like to have a copy of a prior version of this policy please contact us at [compliance@tnc.hk](mailto:compliance@tnc.hk "mailto:compliance@tnc.hk") . 
 
-##  Limitations 
+Limitations
 
 This policy covers only the online spreadsheet service and any external services directly connected for such purpose. It does not, without limitation, cover [EditGrid Blog](http://blog.editgrid.com/ "http://blog.editgrid.com/"), [EditGrid Forum](http://forum.editgrid.com/ "http://forum.editgrid.com/"), [EditGrid Wiki](http://wiki.editgrid.com/ "http://wiki.editgrid.com/") and any other subsidiary but separate services. 
 
