@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627024400id_/http%3A//www.yello.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211064134id_/http%3A//yello.in/privacy.php) for the most accurate reproduction.*
 
 # Yello - free classifieds for cars, real estate, jobs in India
 
@@ -61,7 +61,7 @@ Yello do not link aggregate user data with personally identifiable information.
 3.3 | Yello reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.  
    
 **4\. Choice/Opt-out**  
-| 4.1 |  Yello provides you the opportunity to ‘opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.   
+| 4.1 |  Yello provides you the opportunity to �opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.   
 ---|---  
   |    
   | If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [service@yello.in](mailto:service@yello.in).   
