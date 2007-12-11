@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528124532id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211124020id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
 
 # Protect America - Protect America Home Security - Privacy Policy
 
