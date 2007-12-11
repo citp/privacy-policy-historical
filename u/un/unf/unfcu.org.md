@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514153453id_/http%3A//www.unfcu.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfcu.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080632id_/http%3A//www.unfcu.org/Privacy.asp) for the most accurate reproduction.*
 
 # UNFCU - Privacy Policy
 
@@ -87,7 +87,7 @@ to the address indicated.
 **INTERNET PRIVACY  
 **
 
-When you visit our website at [www.unfcu.org](https://web.archive.org/web/20070514153453id_/http://www.unfcu.org/default.asp), we want you to feel secure that we are respecting your privacy. The majority of the UNFCU website is protected with 128 bit SSL encryption. This encryption protects the user’s information from being viewed by an unauthorized party.
+When you visit our website at [www.unfcu.org](https://web.archive.org/web/20071211080632id_/http://www.unfcu.org/default.asp), we want you to feel secure that we are respecting your privacy. The majority of the UNFCU website is protected with 128 bit SSL encryption. This encryption protects the user’s information from being viewed by an unauthorized party.
 
 We protect your account information by placing it on the secure portion of our website. That is why you have to enter a unique member number and password each time you want to access your account information. In addition, you can use the sign off button located throughout Internet Banking to securely exit your account without closing your browser. Your password should never be shared with anyone.
 
@@ -115,7 +115,7 @@ Please note that we do not provide your email address to third parties. However,
 Please be advised that email messages sent to us from outside of our specified web forms may not be secure against interception by unauthorized individuals. Therefore, if you wish to communicate sensitive or personal information, you may want to send it by postal mail.
 
 (F) Opt Out Email Policy  
-Any member who does not wish to receive email promotions or notices can reply to any email sent and ask to be removed from the UNFCU email list.
+Any member who does not wish to receive email promotions or notices can click on the unsubscribe link provided within the email to be removed from the UNFCU email list.
 
 We are committed to protecting your privacy and confidential member information. If you are concerned about your financial privacy and want to know more about this important subject, or if you have a question regarding this Privacy Policy, please call us at **+1 347-686-6000** or send an email to [email@unfcu.com](mailto:email@unfcu.com). You can also write us at the following address:
 
