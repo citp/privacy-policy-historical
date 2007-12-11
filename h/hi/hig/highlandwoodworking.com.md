@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2007-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070227074541id_/http%3A//www.highlandwoodworking.com/index.asp%3FPageAction%3DCustom%26ID%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211064112id_/http%3A//www.highlandwoodworking.com/index.asp%3FPageAction%3DCustom%26ID%3D33) for the most accurate reproduction.*
 
 # Your Privacy
-
- | |  | |    
-  
-  
-
-
-  
-
-
-**Highland Affiliate Program**  
-Many have asked and now it's here - the Highland Woodworking Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted retailers. [Become an affiliate member](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131) of our woodworking team and earn sale commissions while establishing name recognition for your own site. It's as simple as posting a link on your site to refer customers to Highland Woodworking.
-
-**Customer Kudos January 2007**  
-_I would like to take this opportunity to thank you for this outstanding example of world class customer service! I have been a customer in the past and have always been pleased with your fine products, prompt service and excellent prices.  
-Rest assured that in the future, I will look to Highland Woodworking first, for all of my woodworking needs!
-
-Sincerely,   
-Stewart S. 
-
-_
-
-| | | | 
 
 Your Privacy
 
@@ -59,7 +37,4 @@ or you can reach us by telephone at 800-241-6748
   * With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
   * If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-  
----|---  
-|   
- | |  | |  
+
