@@ -1,26 +1,7 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629030319id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211211344id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - About Us: The BigScreen Cinema Guide
 
-| General Information  
----  
-[About Us](https://web.archive.org/about/index.php)  
-[Help Documents](https://web.archive.org/about/help.php)  
-[What's New](https://web.archive.org/about/whatsnew.php)  
-[RSS Feeds](https://web.archive.org/xml/index.php)  
-[Show Your Support!](https://web.archive.org/about/supportbigscreen.php)  
-[Terms & Conditions](https://web.archive.org/about/terms.php)  
- **Privacy Policy**  
-Business Information  
-[Index](https://web.archive.org/business/index.php)  
-[Fact Sheet](https://web.archive.org/business/factsheet.php)  
-[Theaters](https://web.archive.org/business/theaters.php)  
-[Advertisers](https://web.archive.org/business/adinfo.php)  
-[Restaurants](https://web.archive.org/business/restaurants.php)  
-[Hotels](https://web.archive.org/business/hotels.php)  
-Contact Us  
-[Contact Form](https://web.archive.org/business/contact.php)  
-  
 About Us  
 Privacy Policy  
 
@@ -61,13 +42,3 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
-
-  
-| The BigScreen Cinema Guide is a service of [SVJ Designs LLC](http://www.svjdesigns.com/). All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2007, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by [ProNIC Solutions](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns).
-
-'ACADEMY AWARDS®' and 'OSCAR®' are the registered trademarks and service marks of the [Academy of Motion Picture Arts and Sciences](http://www.oscars.org/).
-
-| Web Hosting by  
- **[ProNIC Solutions](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns)**  
-[](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns)  
----|---
