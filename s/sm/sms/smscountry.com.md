@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507090227id_/http%3A//www.smscountry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211063656id_/http%3A//www.smscountry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy & Anti - Spam policy to send SMS through SMScountry
 
@@ -11,6 +11,12 @@ We use the information you provide us (during registration process etc) to keep 
 The User can change/update any of his/her personal information by simply going to the "My Profile" link found on each of the post login pages of SMSCountry website.
 
 Any information/content that is sent to SMSCountry for sms text messaging and/or storage purposes will remain the property of the User. SMSCountry will at no time collect or redistribute this information without obtaining your consent, except where legally required by law to do so. This has particular reference to any database, numbers and/or recipient details that you may deliver to us, or store on our databases.
+
+We take credit card fraud seriously in order to insure our customers the best possible protection of their credit card information. We log and track all IP addresses and use them to trace any fraudulent transactions. We report any fraud attempts to the related local/international organization. 
+
+We do not retain credit card details in our system or database. All credit card details are processed by our financial institutions (paypal, ccavenues, mashreqbank.com) in a secure environment. 
+
+To discourage fraud, we do not list all the ways we check credit cards for authenticity here. In some instances, we go out of our way to make sure that the person placing the order is indeed the person authorized to use the credit card account.
 
 As a matter of policy, we neither rent nor sell personally identifiable information about our Users to any third party. We may however aggregate all personally identifiable information and may disclose such aggregated information to any or all advertisers, marketing and general or commercial promotional purposes. Even in these cases, disclosure of any information that could personally identify you would not be permitted.
 
