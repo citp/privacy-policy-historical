@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwebcam.com privacy policy that was archived on 2007-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070217092921id_/http%3A//www.iwebcam.com/Home/tabid/131/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebcam.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155737id_/http%3A//www.iwebcam.com/Home/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# iWebcam.com - Instant Social Networking™
+# Scripts and Code - Free Live Webcam Video Chat Room Service - Live Streaming Video and Chat
 
 PRIVACY POLICY. For the purposes of facilitating compliance with the provisions of any applicable government privacy legislation you hereby consent to IGENETIX collection of and use of your personal information necessary to allow participation of activity in whole or part on the Service. 
 
