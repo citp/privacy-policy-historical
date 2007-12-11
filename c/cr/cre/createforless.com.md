@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createforless.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623083940id_/http%3A//www.createforless.com/customer_service/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createforless.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020238id_/http%3A//www.createforless.com/customer_service/privacy_policy.asp) for the most accurate reproduction.*
 
 # CreateForLess -- Customer Service
 
