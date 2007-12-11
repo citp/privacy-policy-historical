@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626020609id_/http%3A//www.housing.com/home/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030620id_/http%3A//housing.com/home/content/privacy.html) for the most accurate reproduction.*
 
 # Housing: Buy, sell, rent, finance, move, and improve your home. For sale by owner listings. Tips & tools for mortgages, loans, credit reports & more
 
