@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626120321id_/http%3A//www.adminder.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211214144id_/http%3A//www.adminder.com/privacy.shtml) for the most accurate reproduction.*
 
 # AdMinder V3.3 Website Advertising Manager - Automated. Proven. Guaranteed.
 
