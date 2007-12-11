@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122643id_/http%3A//www.anitaborg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211204940id_/http%3A//anitaborg.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Anita Borg Institute for Women and Technology
 
