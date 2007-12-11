@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224093205id_/http%3A//emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060306id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Canadian Pharmacy Online, Cheap Online Mexican Pharmacy
 
 ---  
-**PRIVACY POLICY**  
+PRIVACY POLICY  
   It is our top priority to protect your privacy. We do collect personal information about you in order to fill your prescription orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted to us. This notice describes our current privacy policy and practices.  
 **Privacy And Security**  
   We have strict policies and procedures in place to safeguard the privacy and security of your personal information. Your personal information, including the data contained in our computers, is protected from unauthorized access. Its use is restricted to employees and others having a business need for the information.  
