@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619060727id_/http%3A//www.ivillage.co.uk/ivillageuk/network/articles/0%2C%2C165080_165191%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivillage.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211045321id_/http%3A//www.ivillage.co.uk/ivillageuk/network/articles/0%2C%2C165080_165191%2C00.html) for the most accurate reproduction.*
 
 # iVillage UK Privacy Policy
 
@@ -135,7 +135,7 @@ To unsubscribe from Newsletters [click here](http://www.ivillage.co.uk/membercen
 
 To unsubscribe from email marketing communications [click here](http://www.ivillage.co.uk/nomail)
 
-To unsubscribe altogether from our database, please contact [customerservice@email.ivillage.co.uk](mailto:customerservice@email.ivillage.co.uk)
+To unsubscribe altogether from our database, please contact [ukcustomerservice@mail.ivillage.com](mailto:ukcustomerservice@mail.ivillage.com)
 
 When requesting that personally identifiable information be amended or deleted, please keep in mind that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes. However, we may use that information, from time to time, to recontact former members or visitors to the iVillage Site in certain limited circumstances - for instance, if required to do so by law. 
 
