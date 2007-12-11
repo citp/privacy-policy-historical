@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlepoint.com privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302232644id_/http%3A//www.singlepoint.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlepoint.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211044653id_/http%3A//www.singlepoint.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SinglePoint: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Effective Date: November 3, 2006**
 
-This privacy policy ("Policy") applies to www.goingsinglepoint.com (the "Site"), which is owned and operated by Wireless Services Corporation and its affiliates (collectively "WSC") and to WSC's mobile applications and related services (collectively, and together with the Site, the "Services"). This Policy does not apply to information collected "offline" or not related to the WSC Services. In particular, this Policy does not apply to information collected by WSC as an agent for any third party service provider or cellular phone company. .
+This privacy policy ("Policy") applies to www.goingsinglepoint.com (the "Site"), which is owned and operated by Wireless Services Corporation and its affiliates (collectively "WSC") and to WSC's mobile applications and related services (collectively, and together with the Site, the "Services"). This Policy does not apply to information collected "offline" or not related to the WSC Services. In particular, this Policy does not apply to information collected by WSC as an agent for any third party service provider or cellular phone company.
 
 Modifications of this Policy
 
