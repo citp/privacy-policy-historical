@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
+
+# EuroBrussels.com - Privacy policy
+
+Eurobrussels takes your privacy very seriously. This privacy policy explains how we safeguard your personal information. 
+
+In summary, we do not pass your email address or any other personal details to other companies. 
+
+## General information we collect
+
+We collect information on web site usage to enable us to monitor usage of the web sites. This information includes the number of visitors, the pages they visit, and the length of each visit. This information is only published in aggregate statistics. 
+
+## Newsletter
+
+We store your email address if you subscribe to one of our newsletters. This email address will not be passed to any other company. 
+
+## Surveys
+
+We conduct surveys to allow us to understand our users. We may publish this information in aggregate statistics, but we do not pass on personal information to other companies. 
+
+## Amending your newsletter subscription
+
+You can remove your subscription at any time by clicking on the unsubscribe link at the bottom of the newsletter. 
+
+## Security
+
+The database and website are protected against unauthorised access to your details. 
+
+## Contact for queries, concerns or amendments
+
+If you have any queries, concerns or amendments please contact us on [info@eurobrussels.com](mailto:info@eurobrussels.com), or write to us at our registered office at 9 High Drive, London, KT3 3UJ United Kingdom. 
+
+[ ](http://www.eurobrussels.com/count/UBICounter.php)
+
+Subscribe to the free   
+EuroBrussels newsletter.   
+[ Click here ](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/newsletter.php) to join   
+50,000 subscribers 
+
+"Thank you for the easy and professional service you gave us. We had a very good response"   
+[more testimonials](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/testimonials.php). 
+
+IT, Business, Secretarial,   
+Finance, Accounting, HR?   
+[Brussels Jobs](http://www.brusselsjobs.com/) has   
+many jobs for international experts 
+
+80,000+ unique   
+visitors monthly   
+50,000 subscribers  
+[Recruit here](https://web.archive.org/web/20071211060510id_/http%3A//www.eurobrussels.com/Brussels_Recruitment.php)
