@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macprovideo.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626121709id_/http%3A//www.macprovideo.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macprovideo.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060509id_/http%3A//www.macprovideo.com/about/privacy.php) for the most accurate reproduction.*
 
 # macProVideo.com - Privacy Policy
 
@@ -15,3 +15,5 @@
   5. Do you have a question about our Privacy Policy? Let us know ... to contact us, [Click Here](https://web.archive.org/contact/).
 
 
+
+[](http://www.geotrust.com/ "Site Secured by GeoTrust")
