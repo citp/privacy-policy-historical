@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630051546id_/http%3A//www.phillyburbs.com/pb-dyn/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211212521id_/http%3A//www.phillyburbs.com/pb-dyn/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
 
 # phillyBurbs.com | Privacy
 
+  |  |  |   |  |   
+---  
   | 
 
 [Home](http://www.phillyburbs.com/) / Privacy
@@ -22,7 +24,9 @@ On you first visit to phillyBurbs, we ask for some basic demographic information
 
 Web servers for phillyBurbs automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., msn.com) of visitors. This information is used for various purposed including internal review, to tailor information to individual visitors, and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users in an aggregated, anonymous basis to our advertisers and potential advertisers.
 
-PhillyBurbs places a "cookie" on the computer of our users to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site; we may also use this information for editorial purposes such as measuring traffic patterns (i.e. cookies can ensure that you don't see the same ad too many times in a session and that you do not have to re-enter your registration information during your visit). We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of the cookies delivered by phillyBurbs by changing the setting on your browser. Be aware that this will disable all cookies delivered to your browser, not just the one delivered by phillyBurbs.
+PhillyBurbs places a "cookie" on the computer of our users to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site; we may also use this information for editorial purposes such as measuring traffic patterns (i.e. cookies can ensure that you don't see the same ad too many times in a session and that you do not have to re-enter your registration information during your visit). We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of the cookies delivered by phillyBurbs by changing the setting on your browser. Be aware that this will disable all cookies delivered to your browser, not just the one delivered by phillyBurbs. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).  
 
  **What about information I find on phillyBurbs?**  
 We don't mind if you share stories from our sites with friends and family, or if you copy them for your personal or educational use. However, all of the materials within phillyBurbs.com are copyrighted either to the originating newspaper (the Bucks County Courier Times, the Intelligencer Record or the Burlington County Times) or to Calkins Media, Inc., so we would appreciate it if you don't republish this information without our express written consent. Other publishing mediums include, but are not limited to, Web sites, databases, newspapers, magazines, newsletters, radio or television.
@@ -34,4 +38,5 @@ We don't mind if you share stories from our sites with friends and family, or if
 Contact Executive Editor Karl Smith by phone (215.269.5061) or [e-mail](mailto:ksmith@phillyburbs.com).  
 
 
-|  
+|    
+ 
