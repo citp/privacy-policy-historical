@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629121609id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232337id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
 
 # PAPower: Pennsylvania PowerPort Privacy Policy
 
