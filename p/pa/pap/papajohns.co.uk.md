@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428050929id_/http%3A//www.papajohns.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211063711id_/http%3A//www.papajohns.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Papa John's UK - Papa John's Privacy Statement
 
