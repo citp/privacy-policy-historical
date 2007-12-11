@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadaupdates.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614160431id_/http%3A//www.canadaupdates.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaupdates.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021526id_/http%3A//www.canadaupdates.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Canada Updates
 
@@ -47,4 +47,4 @@ Security.**
 We use industry-standard security protocols, such as (if and where appropriate) firewalls and restrictions on which employees can access user data. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit.  
 **  
 Notification of Changes**  
-This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at [privacy@LivePunjab.com] requesting the same.
+This policy may be revised over time as new features are added to the Web site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this Web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at [privacy@LivePunjab.com] requesting the same. 
