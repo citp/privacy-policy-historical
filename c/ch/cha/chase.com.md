@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202190510id_/http%3A//www.chase.com/ccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211121440id_/http%3A//www.chase.com/ccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,10 +52,10 @@ Even if you do tell us not to share, we may share other types of information wit
 **Q. How do I tell you about my privacy choices?**   
 A. You may contact us by:
 
-  * calling us toll-free at 1-888-868-8618, or 
-  * for hearing impaired assistance, dialing 7-1-1,then 1-888-868-8618 and wait for operator assistance, or
-  * writing us at P.O. Box 260185, Baton Rouge, LA 70826-0185 
-  * submitting them [ online](https://chaseonline.chase.com/colappmgr/colportal/prospect?_nfpb=true&_pageLabel=page_ecareprefs)
+  * Calling us toll-free at 1-888-868-8618, or 
+  * For hearing impaired assistance, dialing 7-1-1,then 1-888-868-8618 and wait for operator assistance, or
+  * Writing us at P.O. Box 260185, Baton Rouge, LA 70826-0185 
+  * Submitting them [ online](https://chaseonline.chase.com/colappmgr/colportal/prospect?_nfpb=true&_pageLabel=page_ecareprefs)
 
 **You do not need to contact us unless you want to make one of the privacy choices listed above. If you are a current customer, you do not need to contact us unless you want to change a choice you previously indicated to us.**
 
@@ -80,7 +80,6 @@ A. This Policy covers the JPMorgan Chase & Co. family of companies. The followin
   * JPMorgan Chase Bank, N.A.
   * JPMorgan Insurance Agency, Inc.
   * J.P. Morgan Securities Inc.
-  * J.P. Morgan Trust Company, N.A.
   * Chase Bank USA, N.A.
   * Chase Auto Finance Corp.
   * Chase Home Finance LLC
@@ -88,5 +87,7 @@ A. This Policy covers the JPMorgan Chase & Co. family of companies. The followin
   * Chase Insurance Agency, Inc.
   * Banc One Acceptance Corp.
   * Bank One Education Finance Corporation
+  * Collegiate Funding Services, Inc.
+  * CFS-Sun Tech Servicing LLC
 
-This Policy applies to current and former consumer customers. Separate policies may apply to customers of certain businesses, such as Private Banking or Insurance. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our websites apply when you use those sites. In addition, our online consumer information practices are at [www.Chase.com/privacy](https://web.archive.org/pages/chase/cc/privacysecurity). Please contact us if you see any personal information on our website that you believe is incorrect. This policy is effective as of September 1, 2006.
+This Policy applies to current and former consumer customers. Separate policies may apply to customers of certain businesses, such as Private Banking orPrivate Client Services. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our websites apply when you use those sites. In addition, our online consumer information practices are at [www.Chase.com/privacy](https://web.archive.org/pages/chase/cc/privacysecurity). Please contact us if you see any personal information on our website that you believe is incorrect. This policy is effective as of September 15, 2007.
