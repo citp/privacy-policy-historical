@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalprosperity.info privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625165521id_/http%3A//www.globalprosperity.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalprosperity.info privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211091831id_/http%3A//www.globalprosperity.info/privacy.php) for the most accurate reproduction.*
 
 # Free Reprint Article | Free Content to Republish | Privacy Statement
 
