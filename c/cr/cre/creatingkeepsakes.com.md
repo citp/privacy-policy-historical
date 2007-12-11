@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2007-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070423221301id_/http%3A//www.creatingkeepsakes.com/global/nav.php%3Furl%3D%252fprivacy.ihtml%26site%3DCK%26name%3DBOTTOM%2BPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101940id_/http%3A//www.creatingkeepsakes.com/privacy.ihtml) for the most accurate reproduction.*
 
 # Creating Keepsakes Scrapbook Magazine
 
@@ -19,5 +19,7 @@ Our online shopping carts are highly secure to protect your information. When yo
 Our sites may provide links or ads to other web sites. We do not endorse or accept responsibility for the content or privacy policies of those sites. DoubleClick is our third-party ad server. They may share anonymous information with their clients such as date/time of the banner ad shown, the IP address, etc. If you would like to know more about their policies, please visit <http://www.doubleclick.com/us/corporate/privacy>.
 
 Be aware that CK Media is not responsible for any personal information you post online in our message boards or galleries.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [(http://networkadvertising.org/consumer/opt_out.asp)](http://networkadvertising.org/consumer/opt_out.asp). 
 
 CK Media reserves the right to use or disclose any information without notice or consent as needed to satisfy any law or legal violations. We also reserve the right to modify this policy at any time.
