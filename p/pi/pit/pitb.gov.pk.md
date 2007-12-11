@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624080511id_/http%3A//www.pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211185632id_/http%3A//www.pitb.gov.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PITB Privacy Policy
 
 |  |  |  |   
   
 ---|---|---  
+[](http://stp.pitb.gov.pk/)  
+|  |   
+  
+---|---  
 |  |  |  |  |  |  | 
 
 PITB PRIVACY POLICY   
@@ -19,8 +23,7 @@ PITB does not collect any information about the Users unless they choose to prov
   
   |   
 ---|---|---|---  
-|  |    
-All record keepers face the possibility of disclosure of their records in some civil, criminal, or administrative matter. PITB could be required to disclose personal information in response to valid legal processes such as applicable laws, search warrant, subpoena, or court order. Disclosures may also be necessary to protect PITB’s legal rights or during emergencies if physical safety is believed to be at risk.  |   
+|  |  All record keepers face the possibility of disclosure of their records in some civil, criminal, or administrative matter. PITB could be required to disclose personal information in response to valid legal processes such as applicable laws, search warrant, subpoena, or court order. Disclosures may also be necessary to protect PITB’s legal rights or during emergencies if physical safety is believed to be at risk.  |   
 ---|---|---  
 |  | 
 
@@ -29,8 +32,7 @@ What Information About Users Does PITB Collect?
   
 PITB considers any information that could reasonably be used to identify the Users as "personally identifying information." PITB does not retain personally identifiable information about the Users when they visit the Website unless they choose to provide such information to PITB (i.e. sending an e-mail, registering as the User, participating in a survey, responding to a feedback or "contact us" form, etc.)  |   
 ---|---|---  
-|  |    
-PITB, Government Departments, Bodies, Agencies and Organizations may request personally identifiable information from the Users in order to provide requested services however, such information is handled as in the case of an in-person visit to that same Body, Department, Agency or Organization.  |   
+|  |  PITB, Government Departments, Bodies, Agencies and Organizations may request personally identifiable information from the Users in order to provide requested services however, such information is handled as in the case of an in-person visit to that same Body, Department, Agency or Organization.  |   
 ---|---|---  
 |  | 
 
@@ -39,11 +41,9 @@ E-Mail Communications and Web Forms
   
 If the Users send PITB an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails PITB information, PITB will use this personally identifying information only to respond to the Users’ requests. PITB may redirect your message to another government agency or person who is in a better position to respond to the Users’ queries or comments.  |   
 ---|---|---  
-|  |    
-All e-mail messages received contain the e-mail addresses of persons who voluntarily communicated with or requested information from PITB. The Users’ e-mail addresses are not sold, leased or shared with any non-governmental or commercial entities without the Users’ consent. When the Users give their e-mail addresses to PITB for purposes of communicating with or requesting information, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by law.  |   
+|  |  All e-mail messages received contain the e-mail addresses of persons who voluntarily communicated with or requested information from PITB. The Users’ e-mail addresses are not sold, leased or shared with any non-governmental or commercial entities without the Users’ consent. When the Users give their e-mail addresses to PITB for purposes of communicating with or requesting information, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by law.  |   
 ---|---|---  
-|  |    
-Information submitted via e-mail or web forms may be at risk of being intercepted, read or modified. The Users are advised not to pass on any personal and confidential information such as security passwords and credit card numbers while using the Website unless specifically required by an authorized person. PITB shall not be liable for any misuse or loss of any such information.  |   
+|  |  Information submitted via e-mail or web forms may be at risk of being intercepted, read or modified. The Users are advised not to pass on any personal and confidential information such as security passwords and credit card numbers while using the Website unless specifically required by an authorized person. PITB shall not be liable for any misuse or loss of any such information.  |   
 ---|---|---  
 |  | 
 
