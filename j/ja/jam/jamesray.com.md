@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304050746id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211204811id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # James Arthur Ray | Help zone | Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual. Practical results through spiritual growth.
 
@@ -93,7 +93,7 @@ To opt-out of receiving marketing material from James Ray International:
   4. Send a request with your current contact information to:  
 James Ray International  
 Attn: Privacy Manager  
-2386 Faraday Avenue Suite 110  
+5927 Balfour Ct Ste 104  
 Carlsbad, CA 92008 
 
 James Ray International will take reasonable steps to implement your request to opt out. However, please note that due to production and mailing timelines, it may take around six weeks to make the requested change and, until that change takes effect, you may still receive promotional information from us. 
@@ -112,7 +112,7 @@ To **update** or **change** your information:
   3. Send a request to:  
 James Ray International  
 Attn: Customer Care  
-2386 Faraday Avenue Suite 110  
+5927 Balfour Ct Ste 104  
 Carlsbad, CA 92008 
   4. Call 760-476-9077 
 
@@ -152,7 +152,7 @@ Please contact our Privacy Manager to report any known or suspected privacy or s
   1. Postal Mail:  
 James Ray International  
 Attn: Privacy Manager  
-2386 Faraday Avenue Suite 110  
+5927 Balfour Ct Ste 104  
 Carlsbad, CA 92008 
   2. Email: [webservices@jamesray.com](mailto:webservices@jamesray.com?subject=Privacy%20Policy)
   3. Phone: 760-476-9077 
