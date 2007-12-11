@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628023853id_/http%3A//www.footlocker.com/content/custserv/supercat--home/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211171513id_/http%3A//www.footlocker.com/content/custserv/supercat--home/help--privacyPolicy) for the most accurate reproduction.*
 
 # Foot Locker
 
