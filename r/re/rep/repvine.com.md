@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623104201id_/http%3A//www.repvine.com/footer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212003143id_/http%3A//www.repvine.com/footer/privacy.php) for the most accurate reproduction.*
 
 # RepVine - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.repvine.com&sealid=101)
-
-**Updated: September 5th, 2006**
-
-DigitalMoses LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.repvine.com/. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact customer service at <http://www.repvine.com/footer/contactus.php?ac=privacy>. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+**Updated: September 29th, 2007**
 
 **Registration**  
 You may view the site without registering. However in order to use this Web site services, you must first complete the registration form [create a user name and password]. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.
