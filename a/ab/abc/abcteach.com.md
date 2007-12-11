@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403224615id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211153245id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,6 @@ Main Menu:
 [Directory](http://www.abcteach.com/ "Directory")  
 [abctools](http://www.abcteach.com/abctools_home.php "abctools")  
 [What's New?](https://web.archive.org/whats_new.php "What's New?")  
-[E-mail a Friend](https://web.archive.org/email_a_friend.php "E-mail a Friend")  
 [Search](http://www.abcteach.com/search.php "Search")  
 [Membership](http://www.abcteach.com/subscribe.php "Membership")  
 [Site License](http://www.abcteach.com/site_license.php "Site License")  
@@ -55,4 +54,5 @@ Main Menu:
 [Who's Who](http://www.abcteach.com/about_us.php "Who's Who")  
 [Contact Us](http://www.abcteach.com/contact_us.php "Contact Us")  
 [Advertise](https://web.archive.org/advertising.php "Advertise")  
-[Help](http://www.abcteach.com/help.php "Help")
+[Help](http://www.abcteach.com/help.php "Help")  
+[RSS](http://www.abcteach.com/cmd/rss.php)
