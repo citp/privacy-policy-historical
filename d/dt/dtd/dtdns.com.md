@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623115250id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211195615id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Statement
 
-| 
-
-Sales/Support:  
-1-941-378-5341
-
-|  |  | 
-
 The following privacy statement discloses our information gathering and dissemination practices for this web site.
 
-Effective Date: April 5, 2004
+Effective Date: September 5, 2007
 
 ### IP Address Usage
 
@@ -37,7 +30,7 @@ Our site provides customers the opportunity to opt-out of receiving communicatio
 
 ### 3rd Party Anonymous Statistics Gathering
 
-We have contracted with Overture Services, Inc. ("Overture") to monitor certain pages of our web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture's privacy policy at <http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml>. 
+DtDNS makes use of [Google Analytics](http://www.google.com/analytics/) ("Google") for statistical tracking purposes. Google may use cookies to track visitors based on incoming search terms and other aggregate statistical information. For more information on how Google stores and uses this information, please see their [Privacy Policy](http://www.google.com/intl/en_ALL/privacy.html).
 
 ### Account Modification/Cancellation
 
@@ -49,11 +42,4 @@ This site gives customers the option for removing their information from our dat
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact:
 
-> Sceiron Interactive, Inc. 4509 Bee Ridge Rd. Ste. E2 Sarasota, FL  34233 UNITED STATES OF AMERICA   E-mail to: [admin@dtdns.com](mailto:admin@dtdns.com)
-
-  
-
-
-* * *
-
-| 
+> Justin Scott dba DtDNS 4458 McIntosh Park Dr. #1303 Sarasota, FL  34232 UNITED STATES OF AMERICA   E-mail to: [admin@dtdns.com](mailto:admin@dtdns.com)
