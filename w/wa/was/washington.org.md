@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washington.org privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301132208id_/http%3A//www.washington.org/action/act_shortcutselection.cfm%3FIDCT%3D458) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washington.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081723id_/http%3A//www.washington.org/action/act_shortcutselection.cfm%3FIDCT%3D458) for the most accurate reproduction.*
 
 # Official Tourism Site of Washington, DC - Topic Pages
 
