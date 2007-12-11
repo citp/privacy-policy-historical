@@ -1,114 +1,405 @@
-<!--The following is the downloaded HTML source of the ifilmpro.com privacy policy that was archived on 2007-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070622122929id_/http%3A//www.ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifilmpro.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211203816id_/http%3A//www.ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>
-	
-		IFILM - Video, User Video, Movies, Trailers, Music and Viral Videos
-	</title> 
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   
-   
-
-   <!-- you will not erase this usually-->
-   
-	<!-- CSS FILES -->
-	<link type="text/css" rel="stylesheet" href="/css/global.css">
-	
-   
-   
-	<!-- additional CSS files -->
-	
-	
-
-	<!--[if IE 6]>
-		<link type="text/css" rel="stylesheet" href="/css/ie6.css" />
-	<![endif]-->
-	<!--[if IE 7]>
-		<link type="text/css" rel="stylesheet" href="/css/ie7.css" />
-	<![endif]-->
-	<!-- JAVASCRIPT FILES -->
-	<!-- YUI -->
-      
-   		<!-- YUI css -->
-   		<link rel="stylesheet" type="text/css" href="/global/yui/build/container/assets/container.css">
-   		<!-- YUI Libraries -->
-   		<script type="text/javascript" src="/js/yuimerged.js"></script>
-   		<script type="text/javascript" src="/js/global.js"></script>
-      
+		<title>
          
-   		<script type="text/javascript" language="javascript">
-   		// <![CDATA[
-   		IFILMEnvironmentSetup()
-   		// ]]>	
-   		</script>
-   		
-         
-      
+			   
+				SPIKE Powered by IFILM - TV Shows, User Video, Music Video, Viral Video and Movie Trailers
+            
+            
+		</title> 
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		
+		<meta name="verify-v1" content="e4UOVH7KNvRaIgMJssdTNIqEFUlbz4Epvd5pDLOVY/g=">
+	
+		
+		<!-- you will not erase this usually-->
+		
+			<!-- CSS FILES -->
+			<link href="/consolidation/spike-style.css?files=/ui/css/global.css,/ui/css/carousel.css," rel="stylesheet" type="text/css" media="screen">
+		
+	
+		<!-- additional CSS files -->
+		
+		
+		<script type="text/javascript">
+			var ie = false;
+		</script>
+		<!--[if IE 6]>
+			<link type="text/css" rel="stylesheet" href="/ui/css/ie6.css" />
+			<script type="text/javascript">
+				ie = true;
+			</script>
+		<![endif]-->
+		<!--[if IE 7]>
+			<link type="text/css" rel="stylesheet" href="/ui/css/ie7.css" />
+		<![endif]-->
+      	
+      		<script type="text/javascript" src="/consolidation/spike-framework.js?files=/ui/js/jquery.js,/ui/js/framework.js,"></script>
+	   		<script type="text/javascript" src="/consolidation/spike-functions.js?files=/ui/js/global-jq.js,"></script>
+			
+		   		<script type="text/javascript" language="javascript">
+		   		// <![CDATA[
+			   		IFILMEnvironmentSetup();
+			   		
+			   		pageLoadFuncs.push(function() {
+				   			try {
+								var min = 10000;
+								var value = '60';
+								
+								if(value == '') return;							
+								var valInSeconds = parseInt(value)*1000;
+								
+								if(isNaN(valInSeconds) || valInSeconds < min) {
+									valInSeconds = min;
+								}
+								safelog("reload interval: " + valInSeconds, "INFO", "ad refresh interval");
+								
+								var z = window.setInterval('IFILM.adManager.refreshAds()', valInSeconds);
+							} catch(e) {
+								safelog("problem reloading " + e.message, "ERROR", "ad refresh interval");
+							}
+			   		});
+			   		
+		   		// ]]>	
+		   		</script>
+	   		
+		
       
 		<!-- additional JS files -->
 		
 			<!-- no additional js -->
-				
-</head>
-
-
-
-<body id="home" class="home">
-<div class="container">
-	
+			
 		
+		<script type="text/javascript">
+			<!--//
+			 function doAB() {   
+				var abcookieval=IFILM.cookieManager.get("ab");
+				if(abcookieval==undefined) {
+					var num=Math.floor(Math.random()*20+1);
+					IFILM.cookieManager.set("ab",num);
+					//  alert(testVal);   
+				}
+			}  
+			doAB(); //SHAN
+			//-->
+		</script> 			
+	</head>
+
+	
+	
+	<body id="home" class="home">
+		<div class="container">
+			
+			<!--<div id="announcement">
+	<table border="0" cellpadding="0" cellspacing="0" align="center" width="974">
+		<tr>
+			<td id="annleft" valign="top">
+				Welcome to the new SPIKE powered by iFilm,<br /> where the best viral and web videos from iFilm meet the hottest shows from SPIKE TV.
+		    </td>
+		    <td id="annright" valign="top"><a href="#" onClick="clearAnnouncement();" >Don't Show This Again<img src="http://dyn.ifilm.com/website/dontshowx.gif" width="10" height="10" border="0" alt=""/></a></td>
+	  </tr>
+	</table>
+</div>--> 
+				
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+	<!--//
+	pageLoadFuncs.push(function() {
+		try {
+			jq("#head-carousel").jcarousel({
+				visible: 3,
+				animation: "normal",
+				wrap: "both",
+				buttonPrevHTML: '<a href="#" id="spikecarousel-prev"><img src="http://dyn.ifilm.com/website/btn_prev_arrow.gif" alt="scroll back" /></a>',
+				buttonNextHTML: '<a href="#" id="spikecarousel-next"><img src="http://dyn.ifilm.com/website/btn_next_arrow.gif" alt="scroll forward" /></a>'					
+			});
+			
+		} catch(e) { 
+			safelog(e, 'ERROR', 'HeadCarousel');
+		}
+		jq('#NETWORKLAYER').css( { 
+								'display': 'none',
+								'position': 'relative',
+								'visibility': 'visible'
+								} );
+	});
+	//-->
+</script>
 
 <div id="HEADER">
-	<div id="IFILM"><a href="/" id="IFILMLOGO"><img src="http://dyn.ifilm.com/image/img/ifilmlogo-beta.gif" alt="IFILM" width="179" height="66"></a></div>
+	<div id="IFILM"><a href="/" id="IFILMLOGO" class="clearfix"><img src="http://dyn.ifilm.com/website/spikelogo2.gif" alt="IFILM" width="246" height="92"></a></div>
 	
 	<div id="HEADERAD" class="ad-leaderboard">
 
 <script type="text/javascript">
-var nviewspre = IFILM.cookieManager.getSessionCookie("nviews") || false;
-   if ( !nviewspre) { 
-      nviewspre = 0;
-   }
-   nviewspre++;
-advString = IFILM.constants.OPENSCRIPT + ' src="http://ad.doubleclick.net/adj/ifilm.mtvi/';
-advString += ';nviews=' + nviewspre +  ';section_0=;section_1=;srcco=;vidid=;prichan=;cxtchan=;collid=;genre=;maturity=mat;envid=;testmode=;dcopt=ist;' + dartRef + ';tile=1;sz=728x90;uri=;ord=' + ord + '?';
-advString += "&amp;ifilmrnd=" + Math.round((Math.random() * 1000000)) + '-' + Math.round((Math.random() * 1000000));
-advString += '">' + IFILM.constants.CLOSESCRIPT;
-document.write(advString);
+	<!--
+	var nviewspre = IFILM.cookieManager.getSessionCookie("nviews") || false;
+	if ( !nviewspre) nviewspre = 0;
+	nviewspre++;
+	
+	var zone = '';   
+	var zone2 = '';   
+	var zone3 = '';  
+
+	urlString = 'http://ad.doubleclick.net/adj/ifilm.mtvi/';
+	if(zone2 != "") urlString += '/'+zone2;
+	if(zone3 != "") urlString += '/'+zone3;
+	
+	urlString += ';node=survey;nviews=' + nviewspre +  ';section_0=;section_1=;section_2=;srcco=;vidid=;prichan=;cxtchan=;collid=;genre=;maturity=mat;envid=;testmode=;dcopt=ist;' + dartRef + ';tile=1;sz=728x90;uri=;ord=' + ord;
+	urlString += "&amp;ifilmrnd=" + Math.round((Math.random() * 1000000)) + '-' + Math.round((Math.random() * 1000000));
+	
+	advString = IFILM.constants.OPENSCRIPT + ' src="' + urlString  + '" id="banner-ad-script">' + IFILM.constants.CLOSESCRIPT;
+	IFILM.adManager.banner = urlString;
+	//Only create IFILM.AdObj if requestScope has zone, otherwise do not create new IFILM.AdObj since there is no page refresh
+	if(zone != "") new IFILM.AdObj("HEADERAD", urlString); //document.write(advString);
+
+	//alert("banner.jsp > ADURL ="+urlString);
+	-->
 </script></div>
+	<div id="globaltxtad">&nbsp;</div>
+
 </div> 
 <div id="TASKBAR">
-	<ul class="clearfix">
+	<ul class="clearfix" id="taskbarNavigation">
 		<li><a href="/">Home</a></li>
-		<li>IFILM Channels <span class="trigger"><a href="#" class="menutrigger" id="TASKBAR_NAV"><img src="http://dyn.ifilm.com/image/website/taskbar-menu-trigger-open.gif" class="triggerimg" alt="|+|"></a></span></li>
-		<li><a href="/upload">Upload a Video</a></li>
-		<li id="USER" class="last-child"><a href="/user/login.jsp" id="LOGINLINK">Log-in</a> or <a id="REGISTERLINK" href="/s/user/registration/register.jsp">Sign-up</a></li>
-	</ul>
-</div>
+		<li><a href="/top100?sublisting=mostviewednow" class="ajax-layer" id="CHANNELLINK">Channels</a></li>
+		<li><a href="/network/spike" class="ajax-layer" id="NETWORKLINK">SPIKE Shows</a></li>
+		<li><a href="/schedule/spike" class="schedule">TV Show Schedule</a></li>
+		<li><a href="/photoalbum/25163">Babealizer</a></li>
+		<li><a href="#" class="ajax-layer" id="CONTESTLINK">WIN STUFF</a></li>
 		
+		
+		<li id="LOGOUT"><a href="/user/login.jsp" id="SIGNINLINK" class="ajax-layer">Log-in</a></li>
+		<li id="USER"><a id="REGISTERLINK" href="/s/user/registration/register.jsp">Sign-up</a></li>
+		
+	</ul>
+	<div id="CHANNELLAYER" class="clearfix">
+		<ul>
+		<li><a href="/subchannel/extreme-sports">Action Sports</a></li>
+<li><a href="/subchannel/anime">Animation &amp; Cartoons</a></li>
+<li><a href="/subchannel/comedy">Comedy</a></li>
+<li><a href="/subchannel/commercials">Commercials</a></li>
+</ul><ul>
+<li><a href="/subchannel/girls">Girls</a></li>
+<li><a href="/subchannel/motorsports">Motorsports</a></li>
+<li><a href="/subchannel/movies">Movie Trailers &amp; Clips</a></li>
+<li><a href="/subchannel/musicvideos">Music Videos</a></li>
+</ul><ul>
+<li><a href="/subchannel/shorts">Short Films</a></li>
+<li><a href="/network/spike">SPIKE TV</a> new!</li>
+<li><a href="/subchannel/tvclips">Television</a></li>
+<li><a href="/channel/uservideo">User Video</a></li>
+</ul><ul class="last-child">
+<li><a href="/subchannel/videogames">Video Games</a></li>
+<li><a href="/subchannel/viralvideo">Viral Videos</a></li>
 
-<form id="SEARCHFORM" method="get" name="nsForm" action="/search">
-	<fieldset>
-		<label for="q">Search IFILM</label>
-		<input id="q" name="query" value="" maxlength="80">
-		<input id="s" name="s" type="submit" value="Video Search">
-	</fieldset>
-</form>
+		</ul>
+	</div>
+	<div id="NETWORKLAYER">
+		<ul class="clearfix">
+	<li class="clearfix"><a href="/show/23406" class="tn_frame clearfix"><img src="http://dyn.ifilm.com/website/MLE_55x40.jpg" border="0" alt="Major League Eating" width="55" height="40"></a>
+	<h5><a href="/show/23406">Major League Eating</a></h5></li>
 
-	
+	<li class="clearfix"><a href="/group/geekray" class="tn_frame clearfix"><img src="http://dyn.ifilm.com/ads/55x40_gift_guide_logo.jpg" border="0" alt="Holiday Gift Guide" width="55" height="40"></a>
+	<h5><a href="/group/geekray">Holiday Gift Guide</a></h5></li>
 
-	
-	<div id="BODYCONTENT" class="columns-3 wide clearfix">
-		<div id="MAINCONTENT" class="">
-			<div id="PRIMARY">
+	<li class="clearfix"><a href="/show/22307" class="tn_frame clearfix"><img src="http://dyn.ifilm.com/website/tuf6.jpg" border="0" alt="The Ultimate Fighter" width="55" height="40"></a>
+	<h5><a href="/show/22307">The Ultimate Fighter</a></h5></li>
+</ul>
+
+		
+			<ul class="carousel-list" id="head-carousel">
+				
+				
+					
+						<li id="spikeShowsTaskbar-item-1">
+					
+					
+						<span class="item"><a href="/show/23733">2007 Spike Video...</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/22307">The Ultimate Figh...</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/25183">MoCap, LLC</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/22792">Manswers</a></span>
+					
+					
+						
+						</li><li id="spikeShowsTaskbar-item-2">
+					
+				
+					
+					
+						<span class="item"><a href="/show/20271">TNA iMPACT!</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/23449">World's Most...</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/23285">Hooters Swimsuit...</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/23406">Major League Eati...</a></span>
+					
+					
+						
+						</li><li id="spikeShowsTaskbar-item-3">
+					
+				
+					
+					
+						<span class="item"><a href="/show/20265">Game Head</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/21636">Murder</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/22138">Casino Cinema</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/21943">Geek-Ray Vision</a></span>
+					
+					
+						
+						</li><li id="spikeShowsTaskbar-item-4">
+					
+				
+					
+					
+						<span class="item"><a href="/show/21454">The Kill Point</a></span>
+					
+					
+				
+					
+					
+						<span class="item"><a href="/show/21908">MXC</a></span>
+					
+					
+				</li>
+			</ul>
+			
+		
+	</div>
+	<div id="CONTESTLAYER"><ul>
+
+	<li><a href="/group/questforcomfort" class="tn_frame"><img src="http://dyn.ifilm.com/website/hanes_winStuff.gif" alt="Hanes Quest for Comfort"></a>
+	<h5><a href="/group/questforcomfort">Hanes Quest for Comfort</a><br>Watch and vote for your favorites now!</h5></li>
+	<li><a href="/sweeps/rambo"><img src="http://dyn.ifilm.com/website/rambo_win_stuff.gif" alt="Ultimate UFC Action Sweeps"></a>
+	<h5><a href="/sweeps/rambo">Ultimate UFC Action Sweeps</a><br> Rambo wants you to enter!</h5></li>
+	<li class="last"><a href="/sweeps/socool" class="tn_frame"><img src="http://dyn.ifilm.com/website/tmobile_win_stuff.gif" alt="T-Mobile So Cool Sweeps"></a>
+	<h5><a href="/sweeps/socool">T-Mobile So Cool Sweeps</a></h5></li>
+
+</ul></div>
+	<div id="SIGNINLAYER">
+		
+		<form id="TASKBAR_LOGINFORM" class="standardform" name="taskbar_loginForm" action="/ajaxlogin?ns=1" method="post" onsubmit="return submitToAjax(this, IFILM.user);">
+			<p id="loginform_message" class="login_error error"></p>
+			<fieldset>
+				<ol class="clearfix">
+					<li class="hilight" id="forgotpassword"><a href="/user/requestpassword/">Forgot Your Password</a></li>
+					<li><label for="TASKBAR_LOGIN">Username:</label>
+					<input id="TASKBAR_LOGIN" class="text" type="text" name="login"></li>
+					<li><label for="TASKBAR_PASSWORD">Password:</label>
+					<input id="TASKBAR_PASSWORD" class="text" type="password" name="password"></li>
+					<li><input type="submit" value="Log-IN" name="submit" class="submit"></li>
+					<li class="hilight" id="retainlogin"><input id="TASKBAR_RETAINLOGIN" type="checkbox" checked="checked" value="true" name="alwaysLoggedIn">
+					<label for="TASKBAR_RETAINLOGIN">Keep me signed in on this computer</label></li>
+				</ol>
+			</fieldset>
+		</form>
+	</div>
+</div>
 				
 
 
 
+<script language="javascript" type="text/javascript">
+<!--//
+	function resetSearchCookies()
+	{
+	   var searchTabArray = new Array("video_tab","people_tab", "episode_tab", "playlist_tab");
+	   for(i=0;i<searchTabArray.length;i++)
+	      IFILM.cookieManager.set(searchTabArray[i],0);
+	    
+	
+	}
+//-->	
+</script>
+<form id="SEARCHFORM" method="get" name="nsForm" action="/search" class="clearfix" onsubmit="return resetSearchCookies();">
+	
+	<p>
+		<input id="q" name="query" value="" maxlength="80">
+		<input id="s" name="s" type="submit" value="Search">
+	</p>
+</form>
+
+			
+	
+			
+			<div id="BODYCONTENT" class="columns-3 wide clearfix">
+				
+				<div id="MAINCONTENT" class=" clearfix">
+					<div id="PRIMARY" class="clearfix">
+						
+
+
+
 
 
 
@@ -132,7 +423,10 @@ document.write(advString);
 		
 
 	
-	 <div class="textpad"><div align="center">This Privacy Policy was last modified on April 30, 2006 and is effective immediately.</div><br><div align="right">Go to our <a href="../../../../about/terms_of_use">Terms of Use</a></div><br><div align="center"><strong>IFILM Network Privacy Policy And Your California Privacy Rights</strong></div><br>This is the official privacy policy and statement of California privacy rights of the IFILM Network ("Privacy Policy") and is a part of the Agreement we have with you regarding your use of the IFILM Network. To review any of the other terms and conditions in our Agreement with you, you can go directly to our Agreement (which we will also refer to as our <a href="../../../../about/terms_of_use">Terms of Use</a>), or any of the other terms and conditions that apply to you which are referred to in our <a href="../../../../about/terms_of_use">Terms of Use</a> or in the Privacy Policy below. Any terms that are not defined in this Privacy Policy shall have the meaning given in the <a href="../../../../about/terms_of_use">Terms of Use</a>. Our Agreement, including, without limitation, this Privacy Policy, is legally binding on all users of the IFILM Network. <br><br>The IFILM Network is offered and made available only to users 13 years of age or older and if you are not yet 13 years old, or your use of our IFILM Network is prohibited or restricted in any way by the laws, regulations or other governmental requirements of the jurisdiction in which you live or reside, or if, for any reason and at any time, you do not agree with all of the terms and conditions of our <a href="../../../../about/terms_of_use">Terms of Use</a>, please discontinue using the IFILM Network immediately because by using or attempting to use the IFILM Network, you certify that you are at least 13 years of age and meet all other eligibility requirements for your use of the IFILM Network. <br><br>This Privacy Policy governs only the Personal Information (as defined in our <a href="../../../../about/terms_of_use">Terms of Use</a>) collected by IFILM as a result of your use of or registration with the IFILM Network and does not cover any information collected in any other manner, for any other purpose or by any other web site or enterprise. <br><br><span class="head">Overview: This Privacy Policy is intended to explain our privacy practices and inform you as to: </span><br><br><strong>*</strong> The kinds of Personal Information we collect from users of the IFILM Network and how that information is collected; <br><strong>*</strong> How we use your Personal Information; <br><strong>*</strong> The circumstances under which we disclose Personal Information to third parties; <br><strong>*</strong> How you can access, update or delete any Personal Information collected about you by us; and<br><strong>*</strong> The mechanisms we have implemented to protect your Personal Information. <br><br>We reserve the right, without advance notice to you, to revise this Privacy Policy at any time by posting the revisions and/or the revised Privacy Policy on the IFILM Network (e.g., on our home page, although we also provide links to this Privacy Policy throughout the IFILM Network). Such revisions shall be effective to you immediately upon posting. We encourage you to check this Privacy Policy and our <a href="../../../../about/terms_of_use">Terms of Use</a> often for updates. We may also e-mail you about any changes we make. We are committed to protecting our users' privacy. Keeping the Personal Information you share with us on the IFILM Network secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. <br><br><div align="center" class="head">YOUR CALIFORNIA PRIVACY RIGHTS</div><br>If you are a resident of the State of California, under the California Civil Code, you have the right to request, from companies conducting business in California, a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "<u>unsubscribe</u>") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. <br><br>IFILM qualifies for the alternative option. IFILM has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. <br><br>If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (e-mail or postal mail). Send an e-mail to the Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a>, or you may contact us by regular mail at: <br><br><span class="head">Privacy Administrator<br>IFILM Corporation<br>1024 N. Orange Drive<br>Hollywood, California 90038<br><br>Attn: Your California Privacy Rights <br><br></span><span class="head">All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</span> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via e-mail. Please include your zip code for our own recordkeeping.) <span class="head">We will not accept requests via the telephone or by facsimile.</span> We are not responsible for notices that are not labeled or not sent properly or do not have complete information. <br><br>To all users of the IFILM Network, if you have questions about this Privacy Policy, please contact our Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> or by regular mail at: <br><br><span class="head">Privacy Administrator<br>IFILM Corporation<br>1024 N. Orange Drive<br>Hollywood, California 90038 <br><br></span><div align="center" class="head">GENERAL PRIVACY INFORMATION</div><br>The IFILM Network is designed and targeted to United States ("U.S.") audiences and is governed by and operated in accordance with the laws of "U.S." We make no representation that the IFILM Network is operated in accordance with the laws or regulations or is governed by other nations. If you are located in the European Union or elsewhere outside of the U.S. and you use the IFILM Network, you do so at your own risk and initiative and you, not us, are responsible for compliance with all of the laws and regulations that apply to you. Please be aware that any Personal Information you provide to us or we obtain as a result of your use of the IFILM Network, will be transferred to the U.S and subject to U.S. law. By using the IFILM Network, participating in any IFILM Network activities and/or providing us with your Personal Information, you consent to the transfer and processing of Personal Information to the U.S. and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. <br><br> All users of the IFILM Network are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.<br><br>Your continued participation on the IFILM Network indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may, from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in our Terms of Use). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the IFILM Network, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason. <br><br><div align="center" class="head">Collection and Use of Personal Information: </div><br>When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a customer or you have provided this type of information to IFILM or any of our Affiliates (as defined in our <a href="../../../../about/terms_of_use">Terms of Use</a>). We collect Personal Information about you when you visit the IFILM Network and when you input information, whether you are registering to use any services, features or functions of the IFILM Network, participating in promotions, or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including Personal Information, to tailor your experience on the IFILM Network, to display Content we think may be of interest to you, or to let us customize what you see when you visit the IFILM Network according to your preferences. <br><br>It is your responsibility to give us current, complete, truthful and accurate information and to keep the Personal Information that you provide to us up to date. <span class="head">We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. </span><br><br> You are solely responsible for maintaining the strict confidentiality of your user name and password and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so.  You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the IFILM Network and for any use of the website or any other activity or conduct in connection with the IFILM Network, by any others who use your user name or password, unless and until you notify us that your user name or password may have been compromised, misappropriated or improperly taken, or used by another party.  Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features of functions of the IFILM Network. <br><br><span class="head">a. During Registration.</span> When you register with the IFILM Network, you are required to provide us with your e-mail address, as well as additional Personal Information. We will allow you to change the password portion of your User ID, as well as certain other Personal Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name you have given us during registration and which is associated with your User ID. Among other things, these kinds of information help us securely identify you as a registered user of the IFILM Network and those services, features and functions you have registered or are otherwise authorized to use (e.g., Communities, Posting). As a registered user of the IFILM Network, from time to time, we may also provide you with certain options to opt-in to subscribe to e-mail newsletters and other periodic information. You will also have the right to opt-out or change your preferences at any time by logging in with your User ID and changing the settings in your account or you can opt-out or unsubscribe to particular e-mail communications by responding to that e-mail and using the 'unsubscribe' or opt-out procedure included in that communication. <br><br>If you are a registered user, you acknowledge, understand and agree that you are giving us your consent to track your activities, your use of the IFILM Network and its functions and features, and agree to this Privacy Policy and our Agreement with you. <br><br><span class="head">b. In Connection with Contests and Sweepstakes.</span> Registration may not always be required to enter Promotions such as contests and sweepstakes on the IFILM Network. These may have a separate registration or entry process and may require your submission of Personal Information such as your first and last name, street address, city, state and zip code, e-mail address, telephone number and date of birth. The entry page and/or Rules will provide the specific requirements for the Promotion involved. You may also have the opportunity to opt-in to special offers from our Advertisers in connection with many of these types of Promotions. <br><br><span class="head">c. In Connection with Promotions and Offers - Opt Out Procedures.</span> We or our Affiliates may contact IFILM Network registered users or others that have registered for or participated in various IFILM Network Promotions, transactions or events, or send offers for the purchase of goods and/or services that may of interest to users. You may opt out of receiving marketing and promotional e-mails from us at any time by logging into the IFILM Network as a registered user with your User ID and editing the preferences and selections available to you and the information associated with your account. You can also use the opt-out mechanism that is contained in the e-mails we or our Affiliates send you. However, we or our Affiliates may continue to contact you via e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your registration, any services, features or functions you have enrolled or registered to use, any Promotions you have participated in or have entered, goods or services you have ordered or other transactions you have undertaken with the IFILM Network. <br><br>In the event that we or our Affiliates unknowingly send an e-mail or other message to a child (a person under the age of 13 years) who has registered with the IFILM Network in violation of the IFILM Network Agreement, the child or the child's parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future e-mails or text messages using the opt-out (e.g., unsubscribe) mechanism contained in the e-mail or message, or to request termination of the child's registration and status as a registered user with the IFILM Network. Please see the Section of this Privacy Policy below entitled "<span class="head"><u>Review, Update, or Delete Your Personal Information</u></span>" for details. <br><br><span class="head">d. Sharing of Aggregate Information with Third Parties. </span>Some of the aggregate data we collect in connection with the IFILM Network may be shared with Advertisers and other business partners of IFILM and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies. <br><br><span class="head">Use of Communities:</span> If you use any of the Communities' features and functions made available on or through the IFILM Network, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. IFILM is in no way responsible for the accuracy, use, or misuse of any information that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization. <br><br><span class="head">Cookies and Similar Technology:</span> We use 'cookie' technology to collect data regarding your visits to the IFILM Network. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: <br><br><strong>*</strong> Keeping count of your return visits to the IFILM Network or our Affiliates', Advertisers' or partners' sites; <br><strong>*</strong> Accumulating and reporting aggregate, statistical information in connection with the IFILM Network; <br><strong>*</strong> Determining which features users like best; and <br><strong>*</strong> Saving your User ID or other information so you don't have to re-enter it each time you visit the IFILM Network. <br><br>Although we may track the numbers of visitors to inform us on how best to improve and update the IFILM Network and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the IFILM Network, enhance and improve our service, improve the look of the IFILM Network and display advertising and marketing information. <br><br>The IFILM Network may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the IFILM Network and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. <span class="head">This Privacy Policy does not cover any use of Personal Information that an Advertiser or ad server may collect from you.</span> We encourage you to investigate and ask questions directly of them in this regard. <br><br><span class="head">Privacy of Your Postings:</span> We respect the privacy of the contents of users' e-mail and Postings. However, we reserve the right to monitor, edit, and disclose your use of the IFILM Network, information pertaining to any e-mail or Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our <a href="../../../../about/terms_of_use">Terms of Use</a>, or to protect the interests of our users, Affiliates, Advertisers, suppliers, service providers and others. <br><br><span class="head">Disclosure to Third Parties:</span> We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. When we plan to disclose your Personal Information to Advertisers, we ask you to opt-in to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. We may disclose Personal Information to Affiliates for marketing or administrative purposes (for opt-out procedures, please see the Section of this Privacy Policy above entitled "<strong>In Connection with Promotions and Offers ? Opt Out Procedures</strong>") <br><br> <strong>a. Co-Branded Services and Features.</strong> The IFILM Network also offers co-branded services and features, such as events and/or Promotions that we put together with another company of our Affiliates ("<u>Co-Branded Partner</u>"). Such services and features may be hosted on the IFILM Network and/or on our Co-Branded Partner’s website.  We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both IFILM and our Co-Branded Partner to collect and use your Personal Information provided during the Registered User registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly. <br><br> The Co-Branded Partner will be identified on the co-branded feature or service. <br><br> <strong>b.  User Video Upload.</strong>  Registered users that participate in our User Video Upload feature agree to have certain Personal Information posted on the IFILM Network and the Platforms (as defined in the IFILM Video Submission Service Agreement) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded Partner’s website in connection with the display of the user’s video.  Registered users that upload videos may also be required to submit additional Personal Information.  <br><br><strong>c. Operational Service Providers.</strong>We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining IFILM Network services, features, functions and operations. We will refer to these third parties as "<u>operational service providers</u>" and we use operational service providers to efficiently provide the full range of Content and the services, features and functions we bring you and we request that our operational service providers also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with the IFILM Network. Additionally, such operational service providers are not permitted to use your Personal Information for their own marketing or promotional purposes. <br><br><strong>d. Other Non-Affiliated Third Parties.</strong>We will make your Personal Information available to non-affiliated third parties in the following limited circumstances: <br><br><strong>*</strong> When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); <br><strong>*</strong> If we believe your actions violate any law, regulation, our Agreement, this Privacy Policy, or any of our other terms and conditions, Rules, offerings or any other services, features or functions of the IFILM Network, or if you threaten the rights, property or safety of the IFILM Network, IFILM, its Affiliates, or any of its or their service providers, suppliers, Advertisers, customers, users, registered users or any other party; <br><strong>*</strong> If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or <br><strong>*</strong> In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Affiliates. <br><br><span class="head">Security &amp; Protection of Personal Information:</span> We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We also limit access to the IFILM Network by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our service providers follow the same policy. <br><br><span class="head">Review, Update or Delete Your Personal Information:</span> Generally, you may review, update or delete your Personal Information collected by the IFILM Network. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility cannot be deleted, but can be modified with sufficient verification of the correct information. Deletion or attempted deletion of certain Personal Information, such as your user name, may not be permitted and/or may result in suspension or termination of any registration you may have made. To review, update or delete your Personal Information collected by the IFILM Network, please go to your account page from either the IFILM.com home page or any of the links to edit your preferences or the information associated with your account on the IFILM Network. <br><br>If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the IFILM Network's Privacy Administrator via e-mail with a request at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> and be prepared to provide verification of your identity. Personal Information collected for certain Promotions, such as contests or sweepstakes entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request unless the entrant is a child under the age of 13 years old. <br><br>Parents (including legal guardians) of children that registered on the IFILM Network in violation of the <a href="../../../../about/terms_of_use">Terms of Use</a> who wish to terminate their child's registration must send us an e-mail at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> and provide us with their child's User ID or alternatively, a parent must provide verifiable identification that they are the parent of the ineligible child. Children under the age of 13 that are unknowingly registered on the IFILM Network are in violation of our <a href="../../../../about/terms_of_use">Terms of Use</a>. We will not allow direct access to a user's registration and Personal Information by any person without the user's User ID (Please see above for how to change your preferences or the information associated with your account). If a parent does not have his or her child's User ID, the parent will be required to send an e-mail to the Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> that includes the parent's name, address, telephone and e-mail address, in addition to the child's name and e-mail address associated with the child's User ID registered on the IFILM Network, plus the child's date of birth. IFILM will send a confirming e-mail to the parent via the e-mail address provided to verify that the parent wishes to terminate his or her child's registration. The parent must then confirm by sending a reply e-mail to the designated return address. IFILM will then terminate the child's account but will notify the child of the termination request via e-mail and will identify the name, address and e-mail address of the person making the request. <br><br>We reserve the right to deny access, use and registration privileges to any user, including, without limitation, a registered user of any services, features or functions of the IFILM Network, if we believe there is a question about the identity of the person trying to access any services, features or functions of the IFILM Network. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. <br><br><span class="head">Questions: If you have questions about our Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your personally identifiable information, you may contact us directly by sending us an e-mail to <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a>. </span><br><br><span class="head">Sole Statement: </span>This document is the sole statement of IFILM's Privacy Policy with respect to the IFILM Network, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. <br><br><div align="center">Copyright © IFILM Corporation 2006 - All Rights Reserved.</div></div> 		
+	 <div class="textpad"><div align="center">This Privacy Policy was last modified on April 30, 2006 and is effective immediately.</div><br><div align="right">Go to our <a href="../../../../about/terms_of_use">Terms of Use</a></div><br><div align="center"><strong>IFILM Network Privacy Policy And Your California Privacy Rights</strong></div><br>This is the official privacy policy and statement of California privacy rights of the IFILM Network ("Privacy Policy") and is a part of the Agreement we have with you regarding your use of the IFILM Network. To review any of the other terms and conditions in our Agreement with you, you can go directly to our Agreement (which we will also refer to as our <a href="../../../../about/terms_of_use">Terms of Use</a>), or any of the other terms and conditions that apply to you which are referred to in our <a href="../../../../about/terms_of_use">Terms of Use</a> or in the Privacy Policy below. Any terms that are not defined in this Privacy Policy shall have the meaning given in the <a href="../../../../about/terms_of_use">Terms of Use</a>. Our Agreement, including, without limitation, this Privacy Policy, is legally binding on all users of the IFILM Network. <br><br>The IFILM Network is offered and made available only to users 13 years of age or older and if you are not yet 13 years old, or your use of our IFILM Network is prohibited or restricted in any way by the laws, regulations or other governmental requirements of the jurisdiction in which you live or reside, or if, for any reason and at any time, you do not agree with all of the terms and conditions of our <a href="../../../../about/terms_of_use">Terms of Use</a>, please discontinue using the IFILM Network immediately because by using or attempting to use the IFILM Network, you certify that you are at least 13 years of age and meet all other eligibility requirements for your use of the IFILM Network. <br><br>This Privacy Policy governs only the Personal Information (as defined in our <a href="../../../../about/terms_of_use">Terms of Use</a>) collected by IFILM as a result of your use of or registration with the IFILM Network and does not cover any information collected in any other manner, for any other purpose or by any other web site or enterprise. <br><br><span class="head">Overview: This Privacy Policy is intended to explain our privacy practices and inform you as to: </span><br><br><strong>*</strong> The kinds of Personal Information we collect from users of the IFILM Network and how that information is collected; <br><strong>*</strong> How we use your Personal Information; <br><strong>*</strong> The circumstances under which we disclose Personal Information to third parties; <br><strong>*</strong> How you can access, update or delete any Personal Information collected about you by us; and<br><strong>*</strong> The mechanisms we have implemented to protect your Personal Information. <br><br>We reserve the right, without advance notice to you, to revise this Privacy Policy at any time by posting the revisions and/or the revised Privacy Policy on the IFILM Network (e.g., on our home page, although we also provide links to this Privacy Policy throughout the IFILM Network). Such revisions shall be effective to you immediately upon posting. We encourage you to check this Privacy Policy and our <a href="../../../../about/terms_of_use">Terms of Use</a> often for updates. We may also e-mail you about any changes we make. We are committed to protecting our users' privacy. Keeping the Personal Information you share with us on the IFILM Network secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. <br><br><div align="center" class="head">YOUR CALIFORNIA PRIVACY RIGHTS</div><br>If you are a resident of the State of California, under the California Civil Code, you have the right to request, from companies conducting business in California, a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "<u>unsubscribe</u>") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. <br><br>IFILM qualifies for the alternative option. IFILM has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. <br><br>If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (e-mail or postal mail). Send an e-mail to the Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a>, or you may contact us by regular mail at: <br><br><span class="head">Privacy Administrator<br>IFILM Corporation<br>1024 N. Orange Drive<br>Hollywood, California 90038<br><br>Attn: Your California Privacy Rights <br><br></span><span class="head">All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</span> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via e-mail. Please include your zip code for our own recordkeeping.) <span class="head">We will not accept requests via the telephone or by facsimile.</span> We are not responsible for notices that are not labeled or not sent properly or do not have complete information. <br><br>To all users of the IFILM Network, if you have questions about this Privacy Policy, please contact our Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> or by regular mail at: <br><br><span class="head">Privacy Administrator<br>IFILM Corporation<br>1024 N. Orange Drive<br>Hollywood, California 90038 <br><br></span><div align="center" class="head">GENERAL PRIVACY INFORMATION</div><br>The IFILM Network is designed and targeted to United States ("U.S.") audiences and is governed by and operated in accordance with the laws of "U.S." We make no representation that the IFILM Network is operated in accordance with the laws or regulations or is governed by other nations. If you are located in the European Union or elsewhere outside of the U.S. and you use the IFILM Network, you do so at your own risk and initiative and you, not us, are responsible for compliance with all of the laws and regulations that apply to you. Please be aware that any Personal Information you provide to us or we obtain as a result of your use of the IFILM Network, will be transferred to the U.S and subject to U.S. law. By using the IFILM Network, participating in any IFILM Network activities and/or providing us with your Personal Information, you consent to the transfer and processing of Personal Information to the U.S. and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. <br><br> All users of the IFILM Network are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.<br><br>Your continued participation on the IFILM Network indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may, from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in our Terms of Use). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the IFILM Network, even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason. <br><br><div align="center" class="head">Collection and Use of Personal Information: </div><br>When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a customer or you have provided this type of information to IFILM or any of our Affiliates (as defined in our <a href="../../../../about/terms_of_use">Terms of Use</a>). We collect Personal Information about you when you visit the IFILM Network and when you input information, whether you are registering to use any services, features or functions of the IFILM Network, participating in promotions, or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including Personal Information, to tailor your experience on the IFILM Network, to display Content we think may be of interest to you, or to let us customize what you see when you visit the IFILM Network according to your preferences. <br><br>It is your responsibility to give us current, complete, truthful and accurate information and to keep the Personal Information that you provide to us up to date. <span class="head">We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. </span><br><br> You are solely responsible for maintaining the strict confidentiality of your user name and password and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so.  You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the IFILM Network and for any use of the website or any other activity or conduct in connection with the IFILM Network, by any others who use your user name or password, unless and until you notify us that your user name or password may have been compromised, misappropriated or improperly taken, or used by another party.  Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features of functions of the IFILM Network. <br><br><span class="head">a. During Registration.</span> When you register with the IFILM Network, you are required to provide us with your e-mail address, as well as additional Personal Information. We will allow you to change the password portion of your User ID, as well as certain other Personal Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name you have given us during registration and which is associated with your User ID. Among other things, these kinds of information help us securely identify you as a registered user of the IFILM Network and those services, features and functions you have registered or are otherwise authorized to use (e.g., Communities, Posting). As a registered user of the IFILM Network, from time to time, we may also provide you with certain options to opt-in to subscribe to e-mail newsletters and other periodic information. You will also have the right to opt-out or change your preferences at any time by logging in with your User ID and changing the settings in your account or you can opt-out or unsubscribe to particular e-mail communications by responding to that e-mail and using the 'unsubscribe' or opt-out procedure included in that communication. <br><br>If you are a registered user, you acknowledge, understand and agree that you are giving us your consent to track your activities, your use of the IFILM Network and its functions and features, and agree to this Privacy Policy and our Agreement with you. <br><br><span class="head">b. In Connection with Contests and Sweepstakes.</span> Registration may not always be required to enter Promotions such as contests and sweepstakes on the IFILM Network. These may have a separate registration or entry process and may require your submission of Personal Information such as your first and last name, street address, city, state and zip code, e-mail address, telephone number and date of birth. The entry page and/or Rules will provide the specific requirements for the Promotion involved. You may also have the opportunity to opt-in to special offers from our Advertisers in connection with many of these types of Promotions. <br><br><span class="head">c. In Connection with Promotions and Offers - Opt Out Procedures.</span> We or our Affiliates may contact IFILM Network registered users or others that have registered for or participated in various IFILM Network Promotions, transactions or events, or send offers for the purchase of goods and/or services that may of interest to users. You may opt out of receiving marketing and promotional e-mails from us at any time by logging into the IFILM Network as a registered user with your User ID and editing the preferences and selections available to you and the information associated with your account. You can also use the opt-out mechanism that is contained in the e-mails we or our Affiliates send you. However, we or our Affiliates may continue to contact you via e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your registration, any services, features or functions you have enrolled or registered to use, any Promotions you have participated in or have entered, goods or services you have ordered or other transactions you have undertaken with the IFILM Network. <br><br>In the event that we or our Affiliates unknowingly send an e-mail or other message to a child (a person under the age of 13 years) who has registered with the IFILM Network in violation of the IFILM Network Agreement, the child or the child's parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future e-mails or text messages using the opt-out (e.g., unsubscribe) mechanism contained in the e-mail or message, or to request termination of the child's registration and status as a registered user with the IFILM Network. Please see the Section of this Privacy Policy below entitled "<span class="head"><u>Review, Update, or Delete Your Personal Information</u></span>" for details. <br><br><span class="head">d. Sharing of Aggregate Information with Third Parties. </span>Some of the aggregate data we collect in connection with the IFILM Network may be shared with Advertisers and other business partners of IFILM and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies. <br><br><span class="head">Use of Communities:</span> If you use any of the Communities' features and functions made available on or through the IFILM Network, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. IFILM is in no way responsible for the accuracy, use, or misuse of any information that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization. <br><br><span class="head">Cookies and Similar Technology:</span> We use 'cookie' technology to collect data regarding your visits to the IFILM Network. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: <br><br><strong>*</strong> Keeping count of your return visits to the IFILM Network or our Affiliates', Advertisers' or partners' sites; <br><strong>*</strong> Accumulating and reporting aggregate, statistical information in connection with the IFILM Network; <br><strong>*</strong> Determining which features users like best; and <br><strong>*</strong> Saving your User ID or other information so you don't have to re-enter it each time you visit the IFILM Network. <br><br>Although we may track the numbers of visitors to inform us on how best to improve and update the IFILM Network and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the IFILM Network, enhance and improve our service, improve the look of the IFILM Network and display advertising and marketing information. <br><br>The IFILM Network may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the IFILM Network and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. <span class="head">This Privacy Policy does not cover any use of Personal Information that an Advertiser or ad server may collect from you.</span> We encourage you to investigate and ask questions directly of them in this regard. <br><br><span class="head">Privacy of Your Postings:</span> We respect the privacy of the contents of users' e-mail and Postings. However, we reserve the right to monitor, edit, and disclose your use of the IFILM Network, information pertaining to any e-mail or Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our <a href="../../../../about/terms_of_use">Terms of Use</a>, or to protect the interests of our users, Affiliates, Advertisers, suppliers, service providers and others. <br><br><span class="head">Disclosure to Third Parties:</span> We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. When we plan to disclose your Personal Information to Advertisers, we ask you to opt-in to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. We may disclose Personal Information to Affiliates for marketing or administrative purposes (for opt-out procedures, please see the Section of this Privacy Policy above entitled "<strong>In Connection with Promotions and Offers ? Opt Out Procedures</strong>") <br><br> <strong>a. Co-Branded Services and Features.</strong> The IFILM Network also offers co-branded services and features, such as events and/or Promotions that we put together with another company of our Affiliates ("<u>Co-Branded Partner</u>"). Such services and features may be hosted on the IFILM Network and/or on our Co-Branded Partner’s website.  We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both IFILM and our Co-Branded Partner to collect and use your Personal Information provided during the Registered User registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly. <br><br> The Co-Branded Partner will be identified on the co-branded feature or service. <br><br> <strong>b.  User Video Upload.</strong>  Registered users that participate in our User Video Upload feature agree to have certain Personal Information posted on the IFILM Network and the Platforms (as defined in the IFILM Video Submission Service Agreement) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded Partner’s website in connection with the display of the user’s video.  Registered users that upload videos may also be required to submit additional Personal Information.  <br><br><strong>c. Operational Service Providers.</strong>We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining IFILM Network services, features, functions and operations. We will refer to these third parties as "<u>operational service providers</u>" and we use operational service providers to efficiently provide the full range of Content and the services, features and functions we bring you and we request that our operational service providers also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with the IFILM Network. Additionally, such operational service providers are not permitted to use your Personal Information for their own marketing or promotional purposes. <br><br><strong>d. Other Non-Affiliated Third Parties.</strong>We will make your Personal Information available to non-affiliated third parties in the following limited circumstances: <br><br><strong>*</strong> When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); <br><strong>*</strong> If we believe your actions violate any law, regulation, our Agreement, this Privacy Policy, or any of our other terms and conditions, Rules, offerings or any other services, features or functions of the IFILM Network, or if you threaten the rights, property or safety of the IFILM Network, IFILM, its Affiliates, or any of its or their service providers, suppliers, Advertisers, customers, users, registered users or any other party; <br><strong>*</strong> If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or <br><strong>*</strong> In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Affiliates. <br><br><span class="head">Security &amp; Protection of Personal Information:</span> We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We also limit access to the IFILM Network by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our service providers follow the same policy. <br><br><span class="head">Review, Update or Delete Your Personal Information:</span> Generally, you may review, update or delete your Personal Information collected by the IFILM Network. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility cannot be deleted, but can be modified with sufficient verification of the correct information. Deletion or attempted deletion of certain Personal Information, such as your user name, may not be permitted and/or may result in suspension or termination of any registration you may have made. To review, update or delete your Personal Information collected by the IFILM Network, please go to your account page from either the IFILM.com home page or any of the links to edit your preferences or the information associated with your account on the IFILM Network. <br><br>If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the IFILM Network's Privacy Administrator via e-mail with a request at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> and be prepared to provide verification of your identity. Personal Information collected for certain Promotions, such as contests or sweepstakes entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request unless the entrant is a child under the age of 13 years old. <br><br>Parents (including legal guardians) of children that registered on the IFILM Network in violation of the <a href="../../../../about/terms_of_use">Terms of Use</a> who wish to terminate their child's registration must send us an e-mail at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> and provide us with their child's User ID or alternatively, a parent must provide verifiable identification that they are the parent of the ineligible child. Children under the age of 13 that are unknowingly registered on the IFILM Network are in violation of our <a href="../../../../about/terms_of_use">Terms of Use</a>. We will not allow direct access to a user's registration and Personal Information by any person without the user's User ID (Please see above for how to change your preferences or the information associated with your account). If a parent does not have his or her child's User ID, the parent will be required to send an e-mail to the Privacy Administrator at <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a> that includes the parent's name, address, telephone and e-mail address, in addition to the child's name and e-mail address associated with the child's User ID registered on the IFILM Network, plus the child's date of birth. IFILM will send a confirming e-mail to the parent via the e-mail address provided to verify that the parent wishes to terminate his or her child's registration. The parent must then confirm by sending a reply e-mail to the designated return address. IFILM will then terminate the child's account but will notify the child of the termination request via e-mail and will identify the name, address and e-mail address of the person making the request. <br><br>We reserve the right to deny access, use and registration privileges to any user, including, without limitation, a registered user of any services, features or functions of the IFILM Network, if we believe there is a question about the identity of the person trying to access any services, features or functions of the IFILM Network. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. <br><br><span class="head">Questions: If you have questions about our Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your personally identifiable information, you may contact us directly by sending us an e-mail to <a href="mailto:feedback@ifilm.com">feedback@ifilm.com</a>. </span><br><br><span class="head">Sole Statement: </span>This document is the sole statement of IFILM's Privacy Policy with respect to the IFILM Network, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. <br><br><div align="center">Copyright © IFILM Corporation 2006 - All Rights Reserved.</div></div> 	
+
+
+			
 			
 
 	
@@ -144,20 +438,20 @@ document.write(advString);
 
 
 
-			</div>
-			<div id="SUPPLEMENT">
+					</div>
+					<div id="SUPPLEMENT" class="clearfix">
+						
+					</div>
+					
+						<!-- dynamic forms and menus go here -->
+					
+				</div>
 				
-			</div>
-			
-				<!-- dynamic forms and menus go here -->
-			
-		</div>
-		
-		<div id="NAV" class="clearfix">
-			
-			
-			<div id="PRIMARYNAV">
-			    
+				<div id="NAV" class="clearfix">
+					
+					
+					<div id="PRIMARYNAV">
+					    
 	
 
 
@@ -169,95 +463,97 @@ document.write(advString);
 <ul>
 <li><h3>About IFILM</h3></li>
 <li><a href="/about/advertise">Advertise with IFILM</a></li>
-<li><a href="/about/contactus">Contact us</a></li>
-<li><a href="/about/news/">In the news</a></li>
-<li><a href="/about/jobs">Jobs</a></li>
-<li><a href="/about/management">Management</a></li>
+<li><a href="/about/contactus">Contact Us</a></li>
+<li><a href="/about/news/">In the News</a></li>
 <li><a href="/about/pr/">Press Releases</a></li>
 </ul>
 </div>
 
-				<div id="TVPROMO">
-					
+						<div id="TVPROMO">
+							
+						</div>
+					</div>
+					 
 				</div>
-			</div>
-			 
-		</div>
+				
+			 </div>
 		
-	 </div>
-	
-	
-		
+			
+				
 
 
 		<div id="FOOTER">
+			<div id="footer_logo">
 			
 				
-			
 			<div id="ABOUT_PANEL" class="fpanel">
-				<h4>IFILM <em>an MTV Networks Company</em></h4>
+				<h4>SPIKE <em>Powered by IFILM</em></h4>
 				<div id="footer_container" class="clearfix">
 					<div class="footer_group">
-						<p>Advertise with IFILM: <a href="http://dyn.ifilm.com/image/i/adv/ifilm_media_kit.ppt">Ad Specs</a> <!--  | <a href="http://dyn.ifilm.com/image/i/adv/ifilm_media_kit.ppt">Media Kit</a>--> </p>
+					    <p>Contact: <a href="/help">Help &amp; FAQ</a> | <a href="mailto:feedback@ifilm.com">Feedback</a> | <a href="/sitemap">Sitemap</a></p>
+					
 						<p>Subscribe: <a href="/newsletter/signup">Newsletter</a> | <a href="/feedindex">RSS Feeds</a></p>
+					
 					</div>
 					<div class="footer_group last-child">
-						<p>Contact: <a href="/about">Company Info</a> | <a href="/about/jobs">Jobs</a> | <a href="/help">Help &amp; FAQ</a> | <a href="mailto:feedback@ifilm.com">Feedback</a></p>
-						<p>Legal: <a href="/about/notice_takedown">Copyright Compliance Policy</a> | <a href="/about/privacy_policy.jsp" class="highlight_link">Privacy Policy/Your CA Privacy Rights</a> | <a href="/about/terms_of_use.jsp">Terms</a></p>
+						<p>Advertise with SPIKE: <a href="http://mediakit.spiketv.com" target="_blank">Media Kit</a> | <a href="/s/ads/specrequest.jsp">Contact Us</a></p>
+						<p>Legal: <a href="/about/notice_takedown">Copyright Policy</a> | <a href="/about/privacy_policy.jsp">Privacy Policy/Your CA Privacy Rights</a> | <a href="/about/terms_of_use.jsp">Terms</a></p>
 					</div>
 				</div>
 			</div>
 
-			<div id="COPYRIGHT">Copyright ©  IFILM, Corp. All Rights Reserved</div>
+				<div id="COPYRIGHT">COPYRIGHT 2007 VIACOM INTERNATIONAL</div>
+		
+			</div>
 		</div>
       
-	
-	
-		<form action="/ajaxlogin" id="INPAGELOGIN" class="inpageform clearfix" onsubmit="return submitToAjax(this, IFILM.user)">
-			<fieldset>
-				<input type="hidden" name="userId" value="-1">
-				<input type="hidden" name="performLogin" value="true">
-				<a href="#" id="closelink" title="close" onclick="IFILM.pageManager.removeLoginWindow(); return false;">X</a>
-				<p id="LOGIN_MESSAGE"></p>
-				<p>
-					<label for="INPAGE_LOGIN">Username:</label>
-					<input type="text" class="text" name="login" id="INPAGE_LOGIN">
-				</p>
-				<p>
-					<label for="INPAGE_PASSWORD">Password:</label>
-					<input type="password" class="text" name="password" id="INPAGE_PASSWORD">
-				</p>
-				<input type="checkbox" name="alwaysLoggedIn" id="INPAGE_RETAINLOGIN" value="true" checked="checked">
-				<label for="INPAGE_RETAINLOGIN">Keep me signed in on this computer</label>
-				<p id="INPAGELOGIN_SUBMIT"><input type="submit" name="submit" value="Log-in"></p>
-				<p class="loginrecovery"><a href="/user/requestpassword">Forgot your username or password?</a></p>
-			</fieldset>
-		</form>
-		
+			
+			
+				<form action="/ajaxlogin" id="INPAGELOGIN" class="inpageform clearfix" onsubmit="return submitToAjax(this, IFILM.user)">
+					<fieldset>
+						<input type="hidden" name="userId" value="-1">
+						<input type="hidden" name="performLogin" value="true">
+						<a href="#" id="closelink" title="close" onclick="IFILM.pageManager.removeLoginWindow(); return false;">X</a>
+						<p id="LOGIN_MESSAGE" class="login_error"></p>
+						<p>
+							<label for="INPAGE_LOGIN">Username:</label>
+							<input type="text" class="text" name="login" id="INPAGE_LOGIN">
+						</p>
+						<p>
+							<label for="INPAGE_PASSWORD">Password:</label>
+							<input type="password" class="text" name="password" id="INPAGE_PASSWORD">
+						</p>
+						<input type="checkbox" name="alwaysLoggedIn" id="INPAGE_RETAINLOGIN" value="true" checked="checked">
+						<label for="INPAGE_RETAINLOGIN">Keep me signed in on this computer</label>
+						<p id="INPAGELOGIN_SUBMIT"><input type="submit" name="submit" value="Log-in"></p>
+						<p class="loginrecovery"><a href="/user/requestpassword">Forgot your username or password?</a></p>
+					</fieldset>
+				</form>
+				
 
 
 
 	<ul id="CHANNELMENU" class="navmenu">
 		
-				<li><a href="/channel/anime">Animation &amp; Cartoons</a></li>
-				<li><a href="/channel/comedy">Comedy</a></li>
-				<li><a href="/channel/commercials">Commercials</a></li>
-				<li><a href="/subchannel/extreme-sports">Extreme Sports</a></li>
-				<li><a href="/channel/girls">Girls</a></li>
+				<li><a href="/subchannel/extreme-sports">Action Sports</a></li>
+				<li><a href="/subchannel/anime">Animation &amp; Cartoons</a></li>
+				<li><a href="/subchannel/comedy">Comedy</a></li>
+				<li><a href="/subchannel/commercials">Commercials</a></li>
+				<li><a href="/subchannel/girls">Girls</a></li>
 				<li><a href="/subchannel/motorsports">Motorsports</a></li>
 				<li><a href="/subchannel/movies">Movie Trailers &amp; Clips</a></li>
 				<li><a href="/subchannel/musicvideos">Music Videos</a></li>
-				<li><a href="/channel/shorts">Short Films</a></li>
+				<li><a href="/subchannel/shorts">Short Films</a></li>
 				<li><a href="/subchannel/tvclips">Television</a></li>
 				<li><a href="/channel/uservideo">User Video</a></li>
 				<li><a href="/subchannel/videogames">Video Games</a></li>
 				<li><a href="/subchannel/viralvideo">Viral Videos</a></li>
-		<li class="allitems last-child"><a href="/collections">IFILM Index »</a></li>
+		
 	</ul>
 
-	
-	 
-	
+			
+			 
+				
 
 
 
@@ -281,7 +577,10 @@ document.write(advString);
 
 
 
-
+<form id="analytics_test" name="analytics_test">
+<input type="hidden" name="pageName" value="site_doc">
+<input type="hidden" name="mlc" value="/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs">
+</form>
 <script type="text/javascript">
 <!-- 
 try {
@@ -303,7 +602,7 @@ var hbx=_hbEvent("pv");
 hbx.vpc="HBX0100u";
 hbx.gn="ehg-ifilm.hitbox.com";
 
-var ptype = 'help-about '+IFILM.constants.DASHES+' privacy_policy';
+var ptype = 'help-about -- privacy_policy';
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
@@ -318,8 +617,8 @@ hbx.acct="DM5507092GCA;DM5602026FEB"; //
 //setIFILMCookie("mediaPromoter",site+"..content_help-about_privacy_policy.." + mPromoter3);
 
 //hbx.mlc="";	//MULTI-LEVEL CONTENT CATEGORY
-hbx.pn = 'legacypage/WEB-INF/display/about/aboutview.jsp';
-hbx.mlc='legacypage/WEB-INF/display/about/aboutview.jsp';
+hbx.pn ='site_doc';
+hbx.mlc='/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs';
 hbx.pndef="title";//DEFAULT PAGE NAME
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 //OPTIONAL PAGE VARIABLES
@@ -368,18 +667,34 @@ if (refsiteid!=""){
 }
 cv.c27=hbxRef;
 if("" != "-1"){
-	cv.c30="|legacypage/WEB-INF/display/about/aboutview.jsp/legacypage/WEB-INF/display/about/aboutview.jsp";
+	cv.c30="|/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs/site_doc";
 }
-cv.c31="|legacypage/WEB-INF/display/about/aboutview.jsp/legacypage/WEB-INF/display/about/aboutview.jsp";
+
+var abcookieval=IFILM.cookieManager.get("ab");
+cv.c29=abcookieval;
+
+
+
+cv.c31="|/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs/site_doc";
 cv.c32="IFILM";
-cv.c33="-1|" + hbx.mlc + "/" + hbx.pn;//CUSTOM 33
+cv.c33="-1|/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs/site_doc";//CUSTOM 33
 if (getIFILMChip("ifilm_session","ifilm_cmpnid")) {
-	cv.c34=getIFILMChip("ifilm_session","ifilm_cmpnid") + "|legacypage/WEB-INF/display/about/aboutview.jsp/legacypage/WEB-INF/display/about/aboutview.jsp";
+	cv.c34=getIFILMChip("ifilm_session","ifilm_cmpnid") + "|/ifilm(co_1658)/info/legal_and_policies/privacy_policy/site_docs/site_doc";
 }
 hbx.hrf="";//CUSTOM REFERRER
 hbx.pec="";//ERROR CODES
-//alert(cv.c2);
+
 //INSERT CUSTOM EVENTS
+
+
+
+
+
+
+
+
+
+
 
 //END EDITABLE SECTION
 
@@ -388,36 +703,59 @@ hbx.pec="";//ERROR CODES
 // -->
 </script>
 
-<script type="text/javascript" src="/js/tracking/ifilm_hbx_migration_js.js"></script>
+<script type="text/javascript" src="/ui/js/tracking/ifilm_hbx_migration_js.js"></script>
 
 
 <!--END WEBSIDESTORY CODE-->
-	
+				
+			
+			
+				
+			
+			
+				<style type="text/css">
+	<!--//
+		#globalTextAdUnit { display: none; }
+	//-->
+</style>
 
-	
-		<script type="text/javascript" src="http://loomia.cachefly.net/js/clix.js"></script>
-
-
+<div id="globalTextAdUnit">
 	<script type="text/javascript">
-	try {
-		var ifilmuserid=getIFILMCookie("id");
-		var L_VARS=new Object();
-		L_VARS.publisher_key=2937425341;
-		L_VARS.userid=ifilmuserid;
-		loomia_clickstreamRecorder(L_VARS);
-		safelog("Loomia Initialized");
-		safelog("ifilmuserid: " + ifilmuserid);
-	} catch(e) {
-		safelog("Loomia not initialized due to error:");
-	 	safelog("Error: " + e);
-	 }
-	</script>
-	
-	<!-- PAGEOK -->
-	</div>
-
-
+		<!--
+		urlString = 'http://ad.doubleclick.net/adj/ifilm.mtvi/homepage;section_0=homepage;section_1=;section_as=globaltxtad;srcco=-1;vidid=-1;prichan=homepage;cxtchan=homepage;collid=;genre=;maturity=mat2;envid=ifilm-qa;testmode=;dcopt=ist;refsite=default;reftype=none;tile=1;sz=1x1;uri=/;ord=1599500220738400.2&amp;';
+		urlString += "&amp;ifilmrnd=" + Math.round((Math.random() * 1000000)) + '-' + Math.round((Math.random() * 1000000));
 		
+		config = {
+			width: '1',
+			height: '1',
+			FRAMEBORDER: "0",
+			border: "0",
+			marginwidth: "0",
+			marginheight: "0",
+			hspace: "0",
+			vspace: "0",
+			scrolling: "no",
+			style: "border: none; visibility: hidden;",
+			src: "/iframe/vciframesrc.jsp?advurl=" + encodeURIComponent(urlString)
+		}
+		 new IFILM.AdObj("globalTextAdUnit", urlString, config); //document.write(advString);
+		-->
+	</script>
+</div>
+			
+			
+			
+
+
+
+
+
+	
+			
+			<!-- PAGEOK -->
+		</div>
+	
+
 
 
 
