@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630060432id_/http%3A//paulallen.com/Template2.aspx%3FcontentId%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211065627id_/http%3A//www.paulallen.com/Template2.aspx%3FcontentId%3D11) for the most accurate reproduction.*
 
 # PaulAllen.com
 
