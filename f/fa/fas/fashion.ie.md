@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashion.ie privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405025642id_/http%3A//www.fashion.ie/women-ireland-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.ie privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100118id_/http%3A//www.fashion.ie/women-ireland-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion.ie Ireland
 
