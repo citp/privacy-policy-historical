@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406122326id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075253id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Statement
 
-   [](http://www.couponsurfer.com/) **[322](https://web.archive.org/web/20070406122326id_/http%3A//www.couponsurfer.com/pg_show.cfm?pg_id=41) Free Coupons From Over 100 [Stores](https://web.archive.org/web/20070406122326id_/http%3A//www.couponsurfer.com/browsemerchants.cfm)** CouponSurfer Privacy Statement
+   [](http://www.couponsurfer.com/) **[354](https://web.archive.org/web/20071211075253id_/http%3A//www.couponsurfer.com/pg_show.cfm?pg_id=41) Free Coupons From Over 100 [Stores](https://web.archive.org/web/20071211075253id_/http%3A//www.couponsurfer.com/browsemerchants.cfm)** CouponSurfer Privacy Statement
 
 > The CouponSurfer.com mission is to simplify the shopping experience of on-line consumers by providing a dedicated web site of major brand promotions. Consumers view coupons at their convenience with an interactive easy-to-use format. CouponSurfer.com saves consumers time and money by eliminating the need for searching through newspapers or hundreds of web sites. 
 > 
@@ -17,4 +17,4 @@
 > Information Sharing and Disclosure   
 >  CouponSurfer.com may use contractors or vendors to help us provide some of the services at our site. If we need to disclose personal information for them to provide the services, it is with the requirement that the information is kept confidential and is used only for those services. 
 
-[Get Help](http://www.couponsurfer.com/faq.cfm) | [Learn About CouponSurfer](http://www.couponsurfer.com/about.cfm) | [Talk to us](http://www.couponsurfer.com/suggest_coupon.cfm) | [Top Ten Coupons](http://www.couponsurfer.com/special.cfm) | [Affiliate Program](http://www.couponsurfer.com/affiliate.cfm) Copyright ©1998-2007 CouponSurfer.com, Inc. All rights reserved.
+[Get Help](http://www.couponsurfer.com/faq.cfm) | [Learn About CouponSurfer](http://www.couponsurfer.com/about.cfm) | [Talk to us](http://www.couponsurfer.com/suggest_coupon.cfm) | [Top Ten Coupons](http://www.couponsurfer.com/special.cfm) | [Affiliate Program](http://www.couponsurfer.com/affiliate.cfm) Copyright ©1998-2007 CouponSurfer, Inc. All rights reserved. | 
