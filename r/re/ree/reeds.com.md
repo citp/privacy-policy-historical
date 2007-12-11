@@ -1,76 +1,150 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405023950id_/http%3A//www.reeds-jewelers.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211134217id_/http%3A//about-reeds.reeds.com/Privacy.html) for the most accurate reproduction.*
 
-# Reeds Jewelers
+# REEDS Jewelers: Privacy Policy
 
-**Your Privacy**
+**Last updated on: 09-01-2006**
 
-We are committed to maintaining your privacy. 
+Reeds Jewelers, Inc., offers customer-friendly policies designed to afford you a most secure and safe shopping experience. Click on PRIVACY and TERMS OF USE for the details, or simply scroll down. 
 
-The Internet contains a wealth of information. Unfortunately, it may also contain personal details you do not want publicly shared. For example, your real name (many people on the Internet use aliases, alter egos, or nicknames), street address, phone number, or e-mail address. When you go online, sites you visit may be gathering information about you without your knowledge. 
+## Privacy Policy
 
-At Reeds.com, we respect your right to confidentiality, and are committed to protecting your privacy. The information we gather on our Web site is used to process your order efficiently and effectively, and to determine the products and services that will be of most value to you. To ensure your privacy, it is our policy not to sell or rent our mailing list to anyone or any company. 
+Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We are able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. Reeds has procedures in place to ensure that your personal information is handled in a safe, secure, and responsible manner. 
 
-**Information We Collect and How It’s Used**
+**Our Privacy Policy addresses the following questions:**
 
-**Your IP Address  
-** An Internet Protocol (IP) address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use your IP address to help diagnose problems with our servers and to administer our Web site. We do not link IP addresses to anything personally identifiable. This means that a user session will be tracked, but the user will be anonymous. 
+  * Who is Reeds Jewelers, Inc.?
+  * What information does Reeds collect?
+  * How does Reeds use the information collected?
+  * What information does Reeds share with others?
+  * Does Reeds use third-party advertising?
+  * How can I access and correct information collected from me?
+  * How can I opt out of receiving further communications from Reeds?
+    * How to be removed from Reeds' Paper Catalog Mailing List
+    * How to unsubscribe from Reeds' email Marketing List 
+  * Are Reeds credit cards available?
+  * Does Reeds send unsolicited promotional emails?
+  * How does Reeds safeguard the information collected?
+  * Is my online transaction secure?
+  * Does Reeds use cookies?
+  * Does Reeds aggregate information?
+  * What is Reeds' policy with respect to data collection from children?
+  * Whom do I contact if I have additional questions or concerns about this policy?
+  * Will Reeds' Privacy Policy ever change?
 
-**Cookies  
-** "Cookies" are pieces of data your browser stores on your computer's hard drive. They enable us to determine when you — or someone using the same browser you previously used — revisits Reeds. Cookies also enable us to create a more personalized shopping experience for you. 
 
-Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Reeds does not use cookies to retrieve personal information about you from your computer. 
 
-**Your Account  
-** When you set up an account with Reeds, we will ask you for information about how to contact you, your preferred method of payment, and your preferred shipping address. If necessary, we use your contact information to reach you for help processing an order you have placed. We may ask for demographic and interest-based information when you create an account. Whether you provide such information is purely optional. We may, from time to time, use this information to send those on our mailing list notices about upcoming events and promotions. 
+## Who is Reeds Jewelers, Inc.?
 
-**Other Information We Collect  
-** When you purchase a product or make an offer on a product, we ask you for information such as name, address, and credit card information. We store and use this information so we can process your order. If necessary, we may use this information to contact you for help processing the order. Whenever you send us personal correspondence, such as e-mail or letters, we may collect and store such information. This ensures more efficient customer service and enables us to provide you with the most current information concerning your account. 
+Founded in 1946, Reeds Jewelers is a leading full-service multi-channel jewelry retailer, with 90 stores in 18 states, a national [direct mail catalog](http://catalogs.reeds.com/AdvertisedOffers.html), and an ecommerce web site, [www.reeds.com](http://www.reeds.com/), serving customers across all 50 states and those stationed abroad at APO/FPO addresses. To view our current roster of Reeds stores, please view our [Store Locations](http://about-reeds.reeds.com/ReedsLocations.html). 
 
-**About Children**  
-For their protection, children are not eligible to use Reeds’ services. Because we are not a children's site, we do not provide most of the privacy measures that are so important for their protection on the Internet. Because of this, we ask that minors do not submit any information to Reeds without the expressed consent and participation of a parent or guardian. 
+_PLEASE NOTE: Reeds Jewelers, Inc., is not associated with any other jewelry chain or store using the name Reeds or Reeds Jewelers._
 
-**Removing Your Information from Our Records**  
-If for some reason, you want us to remove your credit card and contact information from our database, we will — after all of your transactions have been completed. Simply follow the instructions given on the Web site while accessing your account, or contact us at: 1-800-545-7977 or (910) 350-3200. Such information, however, is never completely removed from our database archives because we routinely back up our servers for disaster recovery and tax-record purposes. 
+**What Information Does Reeds Collect?**
 
-**Disclosure of Information to Third Parties**
+Reeds collects information you provide to us to serve your needs. For example, if you place an order, or simply register on our site, you will provide to us your name, address, email address, phone number and credit card information. Of course, if you are placing an order, you will need to know the product(s) you wish to purchase. 
 
-**Personal Information**  
-Personal information includes your name, e-mail address, mailing address, method of payment information and other data that identifies you as an individual. 
+Reeds also collects information you voluntarily submit when participating in one of our various services, promotions, programs or surveys. From your transactions and other interactions with us, we obtain information concerning the specific products or services you purchase or use. 
 
-Your personal information is used by Reeds, our suppliers and shippers in order to process and ship your orders. Reeds does not sell, trade, rent or release your personal information to third parties. 
+Reeds also receives information about you from other companies, including, but not limited to information on your creditworthiness for private label credit card offers and products you may be interested in purchasing. 
 
-**Data Security**  
-Many steps have been taken in order to prevent unauthorized access, maintain accuracy, and guarantee proper use of information. To ensure this, we have placed appropriate devices, as well as secure personnel and management in charge of your personal information so that we can safeguard all information we collect online. We do not use or share any personally identifiable information provided to us online in any ways other than those previously specified without also giving you the opportunity to prohibit or opt-out of such uses. 
+Reeds is a highly ethical company and requires the highest standard of conduct from our employees and business partners. As members of the Jewelers of America and other distinguished industry organizations, we adhere to the Direct Marketing Association's Guidelines for Ethical Business Practice, Shopping and Consumer Rights and the DMA's Privacy Promise. 
 
-**Aggregate Information**  
-Reeds occasionally shares aggregate data about customers, traffic patterns, sales, and other site information with partners, vendors, and other reputable third parties. This data, however, does not contain any personally identifying information such as email, telephone numbers, names, or addresses. For example, we do not disclose that you purchased a specific product, but we may share statistics on how many customers have purchased a specific product. 
+## How Does Reeds Use The Information Collected?
 
-**Legal Issues**  
-Reeds discloses personal information when required by law or in the good-faith belief that such action is necessary to:   
-**·** Conform to the edicts of the law or comply with a legal process served on Reeds or its Web site; **·** Protect and defend the rights or property of Reeds, the site, or the users of Reeds;   
-**·** And act under exigent circumstances to protect the personal safety of users of Reeds, its Web site, or the public. 
+Reeds may use the information collected as follows: 
 
-**Credit Card Security**
+  * to complete your purchase transactions and provide the services you request; 
+  * to send you catalogs and other offerings through the mail; 
+  * to contact you about the status of your orders; 
+  * to identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you; 
+  * to notify you of product recalls or provide other information concerning products you have purchased; and 
+  * to improve our merchandise selections, customer service, and overall customer shopping experience. 
 
-Shopping on the Internet is incredibly safe. 
 
-At Reeds, we ensure that it is safe by transferring all of your personal information, including your name, address and credit card, over a Secure Socket Layer (SSL) line. This ensures that your information is encrypted and cannot be read by others as it travels over the Internet. The secure mode begins when you initiate your order. You will know you're in secure mode when the tiny padlock icon — located at the bottom of your browser — appears as "locked." 
 
-You also can verify you are in secure mode by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." After the information reaches Reeds, it is stored on a secure server, which means it resides behind a firewall and cannot be accessed from outside the company. At that point, your information can only be accessed by employees to process your orders. All such employees sign a privacy/security policy, which provides legal confidentiality protections for our customers. Violations of this policy result in disciplinary actions, including the possibility of termination, criminal prosecution and civil action. 
+See third-party advertising below. 
 
-Your Reeds account is password-protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. Reeds will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. 
+## What Information Does Reeds Share with Others?
 
-Remember to sign out of your Reeds account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place. 
+**Affiliated Partners** : Reeds may share the collected information with affiliated partner companies and licensees in order to deliver contractually designated products and services. For example, in some cases we may use service provider partners to help us perform some of these tasks, including, but not limited to, processing or fulfilling your orders or performing customer service, business analyses or quality control (e.g., we use UPS to deliver most of our packages to our customers), and consequently we may share your contact information with these service providers. In such cases, we will require these service providers to enter into agreements with us regarding the confidential handling of your information. We may also provide your contact information to your credit card issuer or to credit card processors for their purposes in processing your order. When you make a purchase through the Reeds.com web site, or register with the Reeds.com web site, you will provide us with an email address where we, or these service providers, may contact you for the purposes described in this paragraph. 
 
-**VeriSign – The Sign of Trust on the Net  
-** Reeds Jewelers is registered with VeriSign, the leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. All information sent to us through our web site is automatically encrypted for safe storage. The VeriSign Secure Site Program allows you to learn more about Web sites you visit before you submit any confidential information. 
+**Legal Disclosures** : In the highly unlikely event Reeds is required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws, Reeds will make such disclosure. In the event the ownership of all or a part of a business within Reeds Jewelers were to change, customer information pertinent to that business's operations would likely be transferred to, or licensed for use by, the new owner. 
 
-Our customers may submit credit card and other sensitive data to Reeds.com online store with the assurance that: This site has a VeriSign Secure Server ID. VeriSign has verified the organizational name and that Reeds Jewelers, Inc. has the proof of right to use it. This site legitimately runs under the auspices of Reeds Jewelers, Inc. All information sent to this site, if in an SSL session, is encrypted, protecting against disclosure to third parties. 
+**Third Party Offers** : If Reeds chooses to offer you selected third party products and services that we think would be of benefit to you and you accept the offer, Reeds would supply this third party firm with just the personal information necessary for this partner to deliver the offer, product or service to you. 
 
-**Your Consent**
+**Reeds Credit Card Account** : We may share your information with the bank that issues Reeds credit card accounts, World Financial Network National Bank. (You can read their privacy policy at <https://onlineaccess.mycreditcard.cc/reeds?Action=Privacy.jsp>.) 
 
-By using our Web site, you are consenting to the collection, storage, and dissemination of data as described above. We will post any changes to our Privacy Policy on this page so you can readily review our most current policy. Reeds also reserves the right to e-mail you regarding changes to our Privacy Policy or any other matters Reeds thinks is necessary for the administration of the site. 
+## Does Reeds use Third-Party Advertising?
 
-**Jeweler’s Vigilance Committee**
+Reeds may share web site usage information about visitors to our web site, who have received a targeted promotional campaign, with a reputable third-party advertising or marketing company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising or marketing company may note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). This information is not shared outside of this arrangement. 
 
-Reeds Jewelers, Inc. is a registered member of The Jewelers Vigilance Committee. The Jewelers Vigilance Committee (JVC) is a self-regulatory organization to foster ethics and integrity in the jewelry industry. The JVC represents the industry before the FTC, U.S. Customs, State Attorneys General, and others developing consumer protection. JVC continues to provides services to the industry and consumers with JVC Alternative Dispute Resolution, JVC Trademark Services, JVC Educational Services, JVC Government Relations Division, JVC Monitoring and Counseling Services, and a Precious Metal Testing Facility. 
+## How To Access And Correct Information Collected?
+
+You can update or correct your name, address, telephone number or email address for the Reeds.com web site or Reeds catalog at any time by visiting our website and clicking on the My Info link at the top of the page and then completing Register/Login. To view or correct any of this information, you may also call us at 1-877-406-3266 Monday thru Friday from 9am to 6pm Eastern time or writing us at: 
+
+> R J I  
+>  P.O. Box 2229  
+>  Wilmington, NC 28402  
+>  Attn: Customer Service 
+
+## How Can I Opt Out Of Receiving Further Communications From Reeds?
+
+### How to Be Removed from a Paper Catalog Mailing List
+
+You can contact us by mail, phone or email at the address or phone number above. You may also click on the [Remove from email/ mailing list](http://www.reeds.com/user/Unsubscribe.html) link at the bottom of every page. 
+
+We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented due to lead times with external vendors on printed materials. 
+
+### How to Unsubscribe from the Reeds.com Email Newsletter
+
+You may click on the Unsubscribe link on any promotional emails you receive from Reeds. You can contact us by mail, phone or email at the address or phone number above. You may also click on the [Remove from email/ mailing list](http://www.reeds.com/user/Unsubscribe.html) link at the bottom of every page. 
+
+Once you have unsubscribed, you will be removed from receiving future email solicitations, apart from those that have already been processed before this request was received. Note that unsubscribing from promotional emails will not affect your receipt of order status emails which will still be provided to you after purchasing online at Reeds.com. 
+
+## Are Reeds Credit Cards Available?
+
+Yes. You can apply for a Reeds credit card account issued by World Financial Network National Bank to receive special offers and participate in exclusive brand benefits, including the Reeds Rewards program, in which you accumulate points to spend at Reeds for every dollar threshold you meet. Read more on the Apply for a Credit Card page. WFNNB also provides an online portal to update your personal credit card account information, view your statement and pay your credit card bill online, add authorized buyers to your account and request a credit limit increase. For more information on Reeds credit services provided by World Financial Network National Bank visit their site at: <https://onlineaccess.mycreditcard.cc/reeds?Action=Intro.jsp>. 
+
+To obtain a privacy policy, opt-out information, or contact information, for the Reeds private-label credit card, you may contact the issuer of your card, the World Financial Network National Bank, by clicking through to the WFNNB privacy policy page at <https://onlineaccess.mycreditcard.cc/reeds?Action=Privacy.jsp>. 
+
+## Does Reeds Send Unsolicited Promotional emails?
+
+No. Reeds only sends marketing email offers to customers who have explicitly requested them. To request occasional promotional email offers, notifying you of special deals, web-only offers, product previews, and in-store events for stores near you, you may sign up for Email Offers on this web site, or call, fax or write us at the address listed above. To remove your name from any email offer list, click the unsubscribe link in any of our marketing emails you receive, login to My Account under the My Info section of Reeds.com, or contact our Customer Service Center. Registered web site users who have purchased from Reeds.com will receive standard order status communications, such as order confirmation, shipping dates, etc. via email at the registered email account the user has designated. Your choice to opt-in or opt-out of promotional emails will not affect the order status and registration service. 
+
+## How Does Reeds Safeguard the Information Collected?
+
+Reeds protects against unauthorized disclosures by limiting access to only those Reeds employees who need the information to do their jobs. Reeds employees are trained about their responsibility to protect our customers' privacy. We limit the information we provide to outside companies to only the information we believe is appropriate to enable them to carry out their responsibilities under our contracts or to offer you products and services we think might be of interest to you. We contractually require that the information provided be used only for the specifically authorized purpose and that its confidentiality be maintained. 
+
+## Is My Online Transaction Secure?
+
+Yes. It is very secure. The use of the latest cutting edge technology ensures that your shopping experience will be safe and secure. We encrypt your personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security software. We constantly update our security procedures and enhance our site to meet the very latest encryption standards. All of your sensitive information is scrambled before, during and after your order is placed on our site. 
+
+You may notice an unbroken key  or a closed lock  at the bottom of the page when you enter our "check-out" page. This means that your browser has opened a secure connection with our site! You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." 
+
+**PLEASE NOTE THAT NORMAL E-MAIL (such as using the "Contact Us" form on Reeds.com or sending an email via your home email service) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.**
+
+## Does Reeds Use HTML Cookies?
+
+Reeds uses HTML cookies to enhance the browsing and shopping experience on the Reeds.com web site. Cookies are small files or records that we place on your computer's hard drive to collect information about your activities on the Reeds site. **There are absolutely no personally identifiable pieces of information stored anywhere in these cookie files, and they are used solely by Reeds to enhance your shopping experience and to allow us to serve you better in the future.** These cookies transmit information back to the Reeds web site computers; these computers are, generally speaking, the only computers which are authorized to read such information. The information captured makes it possible for us (i) to speed navigation, keep track of items in your shopping cart, and provide you with custom tailored content; (ii) to remember information you gave to us so you don't have to re-enter it each time you visit the Reeds site; (iii) to monitor the effectiveness of some of our marketing email campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. 
+
+Most people do not even know that cookies are being placed on their computers when they visit the Reeds.com site or most other web sites because web browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie acceptance altogether. 
+
+Note that if you refuse cookies, you will be unable to order from the Reeds.com site using the Shopping Cart. You will still be able to browse our selection, but the order process requires that your Web Browser be set to allow cookies. Moreover, by not allowing cookies, your overall Internet browsing experience could be adversely affected. 
+
+## Does Reeds Aggregate Information?
+
+Reeds Jewelers has carefully selected a company, Coremetrics, that will assist us in better understanding your use of our site. Coremetrics collects information on our site through first-party data collection by placing cookies on your computer. The information that is collected through these cookies educates us on such things as search engine referral, how you navigate through our site, responses to email offers, unique visitor identification, and product browsing and purchasing information. Reeds.com does not allow Coremetrics to collect credit card, username or password information. The information that is collected by Coremetrics is analyzed by Coremetrics and is sent to Reeds.com through a secure web connection. The analyzed data will allow for Reeds.com to better understand your interests and needs in our web site and how to better serve those interests and provide you with more personalized product offerings. Our contract with Coremetrics prohibits them from using any of the data collected on our site for any other purpose or match it against any other information in its possession. Coremetrics is required to maintain all information collected and its analysis in confidence. As a visitor to Reeds.com, you have the choice to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience that the Coremetrics analysis allows us to provide to you, but you may still maintain anonymity. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, [click here](https://web.archive.org/web/20071211134217id_/http%3A//about-reeds.reeds.com/Opt-Out.html). 
+
+## What is Reeds' Policy With Respect To Data Collection From Children?
+
+Reeds does not knowingly collect any personal information from children under the age of 13 on our web site. For more information on laws protecting children's privacy online, visit the US Federal Trade Commission's web site on the 1999 Children's Online Privacy Protection Act (COPPA) at <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>. 
+
+## Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
+
+If you have any questions or concerns about Reeds privacy policy, please [click here](http://shopping-tools.reeds.com/Help.html#contact_us) for Reeds' contact information to reach our Customer Service Center by phone, email, live chat or postal mail. 
+
+For more information on privacy in general, please visit the US Federal Trade Commission's site on Privacy Initiatives at <http://www.ftc.gov/privacy/index.html> or the Electronic Privacy Information Center, <http://www.epic.org/>, a public interest research center clearinghouse for privacy issues. 
+
+## Will this Privacy Policy ever change?
+
+Yes. This policy may be modified from time to time. You are encouraged to review this policy on a monthly basis. 
