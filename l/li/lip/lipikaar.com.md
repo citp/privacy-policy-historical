@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625060706id_/http%3A//www.lipikaar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020717id_/http%3A//lipikaar.com/privacy.asp) for the most accurate reproduction.*
 
 # ..:: Use LIPIKAAR to enter text in an Indian language under Microsoft WORD, Excel, Access, Power Point, Notepad, MSN Messenger, and all other applications running under Windows.
 
@@ -63,4 +63,4 @@ Lipikaar will retain Your information for as long as is necessary to - carry out
 
 © Lipikaar – Last revised: December 2005 
 
-[](https://web.archive.org/web/20070625060706id_/http%3A//www.lipikaar.com/privacy.asp#top)
+[](https://web.archive.org/web/20071211020717id_/http%3A//lipikaar.com/privacy.asp#top)
