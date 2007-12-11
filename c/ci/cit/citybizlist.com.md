@@ -1,12 +1,19 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607221744id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061732id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # citybizlist: Privacy Policy
 
 ---  
-[](http://citybiz.smartonline.com/)  
-[Other Cities ](https://web.archive.org/newcity.aspx) [News/Releases](https://web.archive.org/lstg/lstgindex.aspx?cat=7) [Announcements / Community](https://web.archive.org/lstg/lstgindex.aspx?cat=1) [People/Resumes](https://web.archive.org/lstg/lstgindex.aspx?cat=9) [](https://citybizlist.jobexchangenetwork.com/)  
-[Real Estate](https://web.archive.org/lstg/lstgindex.aspx?cat=8) [Business Listings](https://web.archive.org/lstg/lstgindex.aspx?cat=3) [Marketplace / Services](https://web.archive.org/lstg/lstgindex.aspx?cat=6)   
-[](http://citybizlist.collectivex.com/)[ ](http://citybizlist.collectivex.com/)  
+  
+[](http://citybizlist.4jobs.com/)
+
+[](http://citybizlist.localconnect.com/search.aspx?keyword=NetGuide&location=Baltimore)[](http://citybiz.smartonline.com/)  
+[](https://web.archive.org/citybizcenter.aspx)[](http://citybizlist.collectivex.com/)
+
+Find local business services by clicking on a category
+
+[](https://web.archive.org/citybizB2B.aspx)
+
+[News/Releases](https://web.archive.org/lstg/lstgindex.aspx?cat=7) [Announcements / Community](https://web.archive.org/lstg/lstgindex.aspx?cat=1) [People/Resumes](https://web.archive.org/lstg/lstgindex.aspx?cat=9)  
 |   
 ---  
 | Privacy Policy |   
@@ -35,17 +42,18 @@ citybizlist welcomes feedback to this document – [feedback@citybizlist.com](ma
 |   
 [](https://web.archive.org/emailLink.aspx)  
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=108&layout=multi&id=1595)
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=109&layout=multi&id=1264)
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=109&layout=multi&id=1236)
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=108&layout=multi&id=1623)
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=111&layout=multi&id=785)
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=111&layout=multi&id=813)
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=112&layout=multi&id=1389)
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=112&layout=multi&id=1417)
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=110&layout=multi&id=1093)
+  
 
-[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=106&layout=multi&id=1112)
+
+[](http://clincher.berndtgroup.net/cgi-bin/adcycle/adclick.cgi?gid=114&id=1558)
 
   
 
