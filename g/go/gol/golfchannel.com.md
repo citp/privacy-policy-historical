@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623092949id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211022718id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
 
-# The Golf Channel - PGA, LPGA, Champions, European Tour, Nationwide, Canadian Tour &
+# TGC - Privacy Policy - December 20, 2000
 
 TheGolfChannel.com's PRIVACY POLICY
 
