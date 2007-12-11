@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514172052id_/http%3A//www.prospect.org/cs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021729id_/http%3A//www.prospect.org/cs/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Prospect
 
