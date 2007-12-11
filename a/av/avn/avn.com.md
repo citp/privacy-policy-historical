@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2007-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070511101327id_/http%3A//avn.com/index_cache.php%3FPrimary_Navigation%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020144id_/http%3A//www.avn.com/index.cfm%3Fobjectid%3D8DCB19AF-1372-4B41-C451CA13A1D6C06D) for the most accurate reproduction.*
 
-# AVN :: Privacy Policy
+# Privacy Policy
 
 AVN.com and its subsidiary websites, as well as show websites are a Teddy Communications Inc. site. In protecting your privacy we are providing this statement detailing our online data practices and the options you have about the way your data is collected and used on these Teddy Communications, Inc. sites.
 
-**Collecting Data**  
+ **Collecting Data**  
 Only persons who provide us with the requested unique user specific data will be able to order programs, services and products or otherwise participate in the site's activities and programs. Non-unique user data may be collected when you visit many of our site pages such as the kind of browser you are using (e.g., Netscape, Internet Explorer, Mozilla Firefox), the kind of operating system you are using, (e.g., Windows 2000 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, MSN).
 
-**Data Usage**
+ **Data Usage**
 
 We may use the data you provide about yourself to complete your requests for our programs, services and products, to address your inquiries about our programs, and to offer you other products, programs or services that might be of interest to you.
 
@@ -23,28 +23,26 @@ Although we take appropriate steps to protect against unauthorized disclosures o
 
 Teddy Communications, Inc. sites covered by this Privacy Policy will not use or distribute unique user specific data provided to us in ways unrelated to the ones detailed above without also providing you with an opportunity to opt out of these unrelated uses.
 
-**Collection of Data by Strategic Partner Sites and Sponsors**
+ **Collection of Data by Strategic Partner Sites and Sponsors**
 
 Links on our sites may direct you to other sites and their information policies and privacy guidelines may differ from ours. Please read the privacy statements on other sites as we have no control over what these strategic partner sites do with your data collected and/or submitted. The Teddy Communications, Inc. sites covered by this Privacy Statement sometimes may offer programs (e.g., contests, sweepstakes, or promotions) that are sponsored by or co-branded with identified strategic partners. The strategic partners may obtain unique user specific data that visitors voluntarily submit to participate in the programs. Teddy Communications, Inc. has no control over these strategic partners' use of this data.
 
-**Cookies**
+ **Cookies**
 
 To better understand our site traffic, many of our Internet pages use "cookies” to track user experience. Cookies are text files placed in your computer's browser. Cookies do not tell us your e-mail address or other unique user specific data unless you choose to provide this data to us by, for example, registering at one of our sites. However, once you choose to furnish the site with unique user specific data, this data may be built into the cookie.
 
 We use cookies to understand site usage and to improve the content and programs on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site) or to save your password in password-protected areas. We also may use cookies to offer you programs, services or products.
 
-**Security Commitment**
+ **Security Commitment**
 
 We have implemented appropriate physical, electronic, and managerial procedures to protect and help prevent unauthorized access, control data security, and properly use the data collected online.
 
-**Data Changes**
+ **Data Changes**
 
-For instructions on how you can access the unique user specific data that this Teddy Communications, Inc. site has collected about you online, or how to correct factual errors in such data, please contact us at privacy@avn.com.
+For instructions on how you can access the unique user specific data that this Teddy Communications, Inc. site has collected about you online, or how to correct factual errors in such data, please contact us at [privacy@avn.com](mailto:privacy@avn.com).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-**Contact Information**
+ **Contact Information**
 
-If you have any questions or concerns about the Teddy Communications, Inc. online policy for this site or its implementation you may contact us at [privacy@avn.com](mailto:privacy@avn.com).
-
- 
+If you have any questions or concerns about the Teddy Communications, Inc. online policy for this site or its implementation you may contact us at 
