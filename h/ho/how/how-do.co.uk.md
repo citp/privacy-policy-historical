@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624092246id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211104326id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # How-Do - Privacy Policy -
 
@@ -81,3 +81,8 @@ If you want further information, or wish to communicate with us about this Priva
 How-Do is a company registered in England and Wales under company number 6103268 whose registered office is at Hollins Chambers, 64A Bridge Street, Manchester, M3 3BA, UK.
 
 You can mail us at contact@how-do.co.uk with any comments or for further information. 
+
+* * *
+
+Did you enjoy this article? Please share it!  
+[](http://reddit.com/submit?url=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "Reddit!")[](http://del.icio.us/post?url=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "Del.icio.us!")[](http://www.google.com/bookmarks/mark?op=add&bkmk=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "Google!")[](https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&top=0&url=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "Live!")[](http://www.facebook.com/share.php?u=http://www.how-do.co.uk/privacy-policy/&t=Privacy%20Policy "Facebook!")[](http://slashdot.org/bookmark.pl?url=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "Slashdot!")[](http://technorati.com/faves/?add=http://www.how-do.co.uk/privacy-policy/ "Technorati!")[](http://www.stumbleupon.com/submit?url=http://www.how-do.co.uk/privacy-policy/&title=Privacy%20Policy "StumbleUpon!")[](http://www.newsvine.com/_tools/seed&save?u=http://www.how-do.co.uk/privacy-policy/ "Newsvine!")[](http://www.furl.net/storeIt.jsp?u=http://www.how-do.co.uk/privacy-policy/ "Furl!")[](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.how-do.co.uk/privacy-policy/ "Yahoo!")
