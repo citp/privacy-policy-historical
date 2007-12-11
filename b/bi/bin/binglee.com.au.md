@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514112136id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155440id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
 
 # Bing Lee - Bing Lee Privacy Policy
 
