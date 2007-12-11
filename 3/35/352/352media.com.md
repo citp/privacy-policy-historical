@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625090558id_/http%3A//www.352media.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211152056id_/http%3A//www.352media.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Web Design Company - Atlanta Web Design, Florida and New York Web Development, Seattle Interactive Agency
+# Web design company, Web development - 352 Media Privacy Policy for Web site development
 
 Our Privacy Policy is simple:
 
