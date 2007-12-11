@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321123948id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211194500id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WorkSessions - Privacy Policy
 
