@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisionfx.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623051803id_/http%3A//www.revisionfx.com/company/legal_notices/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionfx.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211062237id_/http%3A//www.revisionfx.com/company/legal_notices/privacy_policy) for the most accurate reproduction.*
 
 # RE:Vision Effects, Inc. : Company: Legal Notices
 
@@ -24,7 +24,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to [info@revisionfx.com](mailto:info@revisionfx.com)
+You can send email to info (at) revisionfx (dot) com
 
 Contacting the Web Site
 
@@ -34,4 +34,4 @@ If you have any questions about this privacy statement, the practices of this si
 RE:Vision Effects, Inc.  
 18 Vicksburg Street  
 San Francisco,CA 94114  
-info@revisionfx.com
+info (at) revisionfx (dot) com
