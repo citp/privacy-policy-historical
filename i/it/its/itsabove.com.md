@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507000306id_/http%3A//www.itsabove.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083951id_/http%3A//www.itsabove.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Its Above.com Privacy policy
 
-Itsabove.com ONLINE PRIVACY POLICY  
+ Itsabove.com ONLINE PRIVACY POLICY  
 Itsabove.com is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through Itsabove.com's Web site, which includes all of the Itsabove.com.com Guide-Sites and governs online data collection and usage by Itsabove.com. Please read the complete Itsabove.com Online Privacy Policy below and contact us if you have any questions.
 
 COLLECTION AND TRACKING OF PERSONAL INFORMATION
