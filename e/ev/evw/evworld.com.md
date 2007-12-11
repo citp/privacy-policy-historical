@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531091919id_/http%3A//www.evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053812id_/http%3A//www.evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # EV WORLD EV WORLD: THE FUTURE IN MOTION
 
