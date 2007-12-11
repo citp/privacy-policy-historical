@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogburst.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613051342id_/http%3A//blogburst.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogburst.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101331id_/http%3A//www.blogburst.com/about/privacy.html) for the most accurate reproduction.*
 
 # BlogBurst Privacy Policy
 
