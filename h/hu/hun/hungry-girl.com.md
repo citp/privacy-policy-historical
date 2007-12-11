@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617022157id_/http%3A//www.hungry-girl.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043055id_/http%3A//www.hungry-girl.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # Hungry Girl
 
