@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comptechdoc.org privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625142148id_/http%3A//www.comptechdoc.org/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptechdoc.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211132507id_/http%3A//www.comptechdoc.org/members/privacy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
