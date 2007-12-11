@@ -1,32 +1,48 @@
-<!--The following is the downloaded HTML source of the oversources.com privacy policy that was archived on 2007-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070311214438id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oversources.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211150240id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Notice at China Electronics Wholesaler</title>
+<title>Privacy Notice - China Electronics Wholesaler</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<link href="http://static.oversources.com/v1.1/style/global.css" rel="stylesheet">
-<link href="http://static.oversources.com/v1.1/style/commons.css" rel="stylesheet">
-<script language="javascript" src="http://static.oversources.com/v1.1/js/commons.js"></script> 
-<script language="javascript" src="http://static.oversources.com/v1.1/js/connection.js"></script> 
-<script language="javascript" src="http://static.oversources.com/v1.1/js/verify.js"></script> 
-<script language="javascript" src="http://static.oversources.com/v1.1/js/category.js"></script> 
+<link href="http://static.oversources.com/v1.1/style/global.css?1f5873a97136afe176198900bedd878b" rel="stylesheet">
+<link href="http://static.oversources.com/v1.1/style/commons.css?38f85d499bed09c598df1c4b1816e5e7" rel="stylesheet">
+<style type="text/css">
+<!--
+.product_image {
+  height: 120;	width: 120;
+  margin: auto;
+}
+
+.product_image a {	
+  display: block;	
+  height: 120;	width: 120;
+  text-indent: -9999px;	
+}
+-->
+</style>
+<script language="javascript" src="http://static.oversources.com/v1.1/js/commons.js?f3c30624391da0cd24256c6b02d66e6b"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/connection.js?1888dcf0677724acbe5867e124e12878"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/verify.js?4c9c21c5b39dbece48b9aca34e7fbe89"></script> 
+<script language="javascript" src="http://static.oversources.com/v1.1/js/category.js?a1711cc92717f34437d4699785049433"></script> 
+
 </head>
 <body>
-<table id="outside" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td id="header">
+
 
 <script language="javascript">
 <!--
-
-var _currencies_rate = "0.13,US$#,2";
+var _currencies_rate = "0.142,US$#,2";
 function chgCurrency(el) {
   try {
 	var surl = "http://www.oversources.com/product/rate";
 	var postData = "currency=" + el.value;
-	var request = Connect.asyncRequest('POST', surl, { success:successCurrency, failure:failureCurrency }, postData)
-	GetE("currency_prompt").focus();
+	var request = Connect.asyncRequest('POST', surl, { success:successCurrency, failure:failureCurrency }, postData);
+	if (GetE("currency_prompt")) {
+		GetE("currency_prompt").focus();
+	} else if (GetE("paymentmethod")) {
+        GetE("paymentmethod").focus();
+	}
   } catch (ex) {
     failureCurrency();
   }
@@ -80,7 +96,7 @@ function failureCurrency(o) {
 	window.location.reload();
 }
 
-function parsePrice(o, dsp, rate, bit) {
+function parsePrice(o, dspName, rate, bit) {
 	var name = o.className;
 	if (name=="default_currency") {
 	  var currency = GetE("currency");
@@ -91,10 +107,10 @@ function parsePrice(o, dsp, rate, bit) {
 	var price = parseFloat(o.lang);
 	if (isNaN(price)) return;	
 	if (price < 0) return;	
-    o.innerHTML = dsp.replace("#", formatPrice(price * rate, bit));
+    o.innerHTML = dspName.replace("#", formatPrice(price * rate, bit));
 }
 
-function priceHandle(o, dsp, rate, bit, order) {
+function priceHandle(o, dspName, rate, bit, order) {
     var name = o.className;
     if (name!="currently_price" && name!="originally_price" && name!="discount_price" && name!="shipping_price") return;
     var price = parseFloat(o.lang);
@@ -113,8 +129,8 @@ function priceHandle(o, dsp, rate, bit, order) {
 			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
 			}			
             var formatTotal = formatPrice(tmpprice * tmpcount, bit);
-			o.innerHTML = dsp.replace("#", formatTotal);
-			o.title = formatTotal;
+			o.innerHTML = dspName.replace("#", formatTotal);
+			o.title = getPrice(tmpprice * tmpcount, bit);			
 		}
 	} else if (price==(-2-order)) {
 		var total = 0;
@@ -137,8 +153,8 @@ function priceHandle(o, dsp, rate, bit, order) {
 			total = parseFloat(GetE(formula).title);
 		}
 		var formatTotal = formatPrice(total, bit);
-		o.title = formatTotal;
-		o.innerHTML = dsp.replace("#", formatTotal);
+		o.title = getPrice(total, bit);
+		o.innerHTML = dspName.replace("#", formatTotal);
 	} else if (price==(-3-order)) {
         if (formula.indexOf("/") > 0) {
 			var fs = formula.split("/");
@@ -152,8 +168,8 @@ function priceHandle(o, dsp, rate, bit, order) {
 			  tmpprice = parseFloat(getPrice(tmpprice * rate, bit))
 			}	
 			var formatTotal = formatPrice(tmpprice / tmpcount, bit);
-			o.innerHTML = dsp.replace("#", formatTotal);
-			o.title = formatTotal;
+			o.innerHTML = dspName.replace("#", formatTotal);
+			o.title = getPrice(tmpprice / tmpcount, bit);
 		}
 	} 
 }
@@ -162,6 +178,22 @@ function chgOtherBrand(el) {
 	GetE("brand").focus();
 	if (el.value=="") return;    
 	window.location = "http://www.oversources.com/browse/b." + el.value + "/";
+}
+
+var show_word = "Search the product...";
+
+function showSearch(obj){
+	if(obj.value=="") obj.value=show_word;
+	obj.style.color='gray';
+}
+
+function hideSearch(obj){
+    if(obj.value==show_word) obj.value="";
+	obj.style.color='#000';
+}
+
+function doSearch(obj) {
+	if(obj.q.value==show_word) obj.q.value="";
 }
 
 function getPrice(price, bit) {
@@ -220,123 +252,89 @@ function showShippingCost(price, rate, displayName, bit) {
     return '<span lang="'+price+'" class="currently_price">'+dspPrice+'</span>';
 }
 -->
-</script> 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+</script>
+<table id="header" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td class="logo"><a href="http://www.oversources.com/"><img border="0" src="http://www.oversources.com/images/oversources.jpg" width="200" height="80" alt="China Electronics Wholesaler"></a></td>
-    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="title"><h1>China Electronics Wholesaler</h1></td>
-    <td class="account" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td class="logo"><div id="websitelogo"><a href="http://www.oversources.com/">&nbsp;</a></div></td>	
+	
+	<td class="pagetitle">
+	  <h1>China Electronics Wholesaler</h1>
+	  <form id="searchform" onsubmit="doSearch(this)" action="/search/product" method="get">
+	  <input id="search_query" name="q" type="text" size="15" onblur="showSearch(this)" onfocus="hideSearch(this)" autocomplete="off" value="Search the product..."><input id="search_submit" type="image" title="Submit" src="http://static.oversources.com/v1.1/images/search.gif?6ae43eef8cc39051a7d486ebd5efdf1c">
+    </form></td>	
+		 
+	<td class="side">
+    <table id="account" border="0" cellspacing="0" cellpadding="0">
 	  <tbody><tr>
-	    <td class="diagonal"><img border="0" src="http://static.oversources.com/v1.1/images/diagonal.jpg" width="25" height="25"></td>
-	    <td class="space">&nbsp;</td>	 
-      
-        <td><span class="icon">»</span><a href="http://www.oversources.com/account/login">Sign In</a></td>
+		<td class="diagonal"><img border="0" src="http://static.oversources.com/v1.1/images/diagonal.gif" width="25" height="25"></td>
+		<td class="space">&nbsp;</td>
+		
+		<td><span class="icon">»</span><a href="http://www.oversources.com/account/login">Sign In</a></td>
 		
 		<td><span class="icon">»</span><a href="http://www.oversources.com/account/register">Sign Up</a></td>
 		
-	  
-		<td><a href="http://www.oversources.com/shopping/check_out"><img class="checkout" src="http://static.oversources.com/v1.1/images/check-out.gif" width="28" height="13" alt="Check Out">Check Out</a></td>
+		
+		<td><a href="http://www.oversources.com/shopping/check_out"><img src="http://static.oversources.com/v1.1/images/check-out.gif" alt="Check Out" width="28" height="13" border="0" class="checkout">Check Out</a></td>
 	  </tr>
 	</tbody></table>
-	</td>
-  </tr>
-</tbody></table></td>
-  </tr>
-  <tr>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-	  <tbody><tr>
-		<td class="description">Wholesale Consumer Electronics, Car Audio, Digital Cameras, Car Electronics, MP3 Players, Bluetooth Products, MP4 Players, Spy Cameras, Security Products and Electronic Gadgets from China. Selling small lots to oversea buyers at low factory prices!</td>
-		<td class="shopping">
-   
-          <div id="mycart"><a href="http://www.oversources.com/shopping/shopping_cart">0 Items(s)</a>(<span id="shopping_cart_total"><span lang="0.0" class="currently_price">US$0.00</span></span>)</div>
+	<div id="yourname"></div>
 
-          <table id="currencies" border="0" cellspacing="0" cellpadding="0">
-		    <tbody><tr>
-			  <td id="currency_prompt">Currencies: </td>
-			  <td><select id="currency" name="currency" onchange="chgCurrency(this);"><option value="USD" selected="selected">USD</option><option value="AUD">Australian Dollar</option><option value="CAD">Canadian Dollar</option><option value="CHF">Swiss Franc</option><option value="EUR">Euro</option><option value="GBP">British Pound</option><option value="HKD">Hong Kong Dollar</option><option value="JPY">Japanese Yen</option><option value="SGD">Singapore Dollar</option></select></td>
-			</tr>
-		  </tbody></table>		  
-		</td>
-	  </tr>
-	</tbody></table></td>
-  </tr>
-</tbody></table></td>
+	   <div id="mycart"><a class="shoppingcart" href="http://www.oversources.com/shopping/shopping_cart">0 Items(s) </a>(<span id="shopping_cart_total"><span lang="0.0" class="currently_price">US$0.00</span></span>)<select id="currency" name="currency" onchange="chgCurrency(this);"><option value="USD" selected="selected">USD</option><option value="AUD">Australian Dollar</option><option value="CAD">Canadian Dollar</option><option value="CHF">Swiss Franc</option><option value="EUR">Euro</option><option value="GBP">British Pound</option><option value="HKD">Hong Kong Dollar</option><option value="JPY">Japanese Yen</option><option value="SGD">Singapore Dollar</option></select></div>
+  	
+
+    </td>
   </tr>
 </tbody></table>
-<div class="menuside">
-<table class="menu" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="search"><form name="_search" method="get" action="http://www.oversources.com/product/search">
-	  Search 
-	  <input type="hidden" name="action" value="result">
-	  <input class="input" type="text" name="q">
-	  <input class="button" type="submit" value="GO">	 
-	</form></td>    
-	<td class="space">&nbsp;</td>
+<div id="menu_nav"><div id="cattop"><div class="side">
+  <ul>
 
-	  
       
-	    <td class="item"><a href="/list/hot.shtml">Featured Products</a></td>
+	    <li><a href="/list/hot.shtml">Featured Products</a></li>
 	  
 
-	        
-		<td class="interval">•</td>
-	  
       
-	    <td class="item"><a href="/list/specials.shtml">Special Promotion</a></td>
+	    <li><a href="/list/specials.shtml">Special Promotion</a></li>
 	  
 
-	        
-		<td class="interval">•</td>
-	  
       
-	    <td class="item"><a href="/list/new.shtml">New Arrivals</a></td>
+	    <li><a href="/list/new.shtml">New Arrivals</a></li>
 	  
 
-	        
-		<td class="interval">•</td>
-	  
       
-	    <td class="item"><a href="/list/coming.shtml">Coming Soon</a></td>
+	    <li><a href="/list/coming.shtml">Coming Soon</a></li>
 	  
 
-	        
-		<td class="interval">•</td>
-	  
       
-	    <td class="item"><a href="http://www.oversources.com/static/volume_purchase.shtml">Volume Purchase</a></td>
+	    <li><a href="http://www.oversources.com/static/volume_purchase.shtml">Volume Purchase</a></li>
 	  
 
-	<td class="right">&nbsp;</td>
-  </tr>
-</tbody></table>
-</div></td>
-  </tr>
-  <tr>
-	<td id="navigation">
-<div class="navcontent">
+  </ul>
+</div></div></div><!--End cattop-->
+<div class="clear"></div>
+
+
+<div id="top_nav"><div class="side1"><div class="side2"><div class="side3"><div class="side4">
   <a class="first" href="http://www.oversources.com/">Home</a>&gt;&gt;<span>Privacy Notice</span>
-</div></td>
-  </tr>
-  <tr>
-    <td id="content"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+</div></div></div></div></div>
+<div class="bodyside"><div id="workbody">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td id="left" valign="top">
 
 
 
-<table class="item" border="0" cellspacing="0" cellpadding="0">
+
+<table class="navitem" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td class="title"><a href="http://www.oversources.com/category/">Wholesale Categories</a></td>
+    <td class="title"><div class="sidel"><div class="side2"><a href="http://www.oversources.com/category/">Wholesale Categories</a></div></div></td>
   </tr>
   <tr>
     <td class="body">
-	  <table class="category_item" border="0" cellspacing="0" cellpadding="0"><tbody><tr id="mp3_mp4_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.mp3_mp4_players/">MP3/MP4 Players &amp; Accessories</a></td></tr><tr id="computer_hardware"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.computer_hardware/">Computer Hardware</a></td></tr><tr id="dvd_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.dvd_players/">DVD Players</a></td></tr><tr id="gps_devices"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.gps_devices/">GPS &amp; Accessories</a></td></tr><tr id="tv_monitors"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.tv_monitors/">TV &amp; Monitors</a></td></tr><tr id="bluetooth"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.bluetooth/">Bluetooths</a></td></tr><tr id="digital_imaging"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.digital_imaging/">Digital Imaging</a></td></tr><tr id="Electronic_gadgets"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.Electronic_gadgets/">Electronic Gadgets</a></td></tr></tbody></table>
+	  <table class="category_item" border="0" cellspacing="0" cellpadding="0"><tbody><tr id="chinese_art_gallery"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.chinese_art_gallery/">Chinese Art Gallery</a></td></tr><tr id="mp3_mp4_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.mp3_mp4_players/">MP3/MP4 Players &amp; Accessories</a></td></tr><tr id="computer_hardware"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.computer_hardware/">Computer Hardware</a></td></tr><tr id="dvd_players"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.dvd_players/">DVD Players</a></td></tr><tr id="gps_devices"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.gps_devices/">GPS &amp; Accessories</a></td></tr><tr id="tv_monitors"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.tv_monitors/">TV &amp; Monitors</a></td></tr><tr id="bluetooth"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.bluetooth/">Bluetooths</a></td></tr><tr id="digital_imaging"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.digital_imaging/">Digital Imaging</a></td></tr><tr id="Electronic_gadgets"><td onclick="clickItem(this);" class="expand">&nbsp;</td><td class="itemlink"><a href="http://www.oversources.com/browse/c.Electronic_gadgets/">Electronic Gadgets</a></td></tr></tbody></table>
 	</td>
+  </tr>
+  <tr>
+    <td class="foot"><div class="sidel"><div class="side2"></div></div></td>
   </tr>
   <tr>
     <td><img border="0" height="1" width="158" src="http://static.oversources.com/v1.1/images/blank.gif"></td>
@@ -344,10 +342,11 @@ function showShippingCost(price, rate, displayName, bit) {
 </tbody></table>
 
 
-<table class="item" border="0" cellspacing="0" cellpadding="0">
+
+<table class="navitem" border="0" cellspacing="0" cellpadding="0">
   
   <tbody><tr>
-    <td class="title">Browse By Features</td>
+    <td class="title"><div class="sidel"><div class="side2">Browse By Features</div></div></td>
   </tr>
   
   <tr>
@@ -372,73 +371,87 @@ function showShippingCost(price, rate, displayName, bit) {
   
 	</td>
   </tr>
+  <tr>
+    <td class="foot"><div class="sidel"><div class="side2"></div></div></td>
+  </tr>
 </tbody></table>  
    
 
   
              
 
+<table class="navitem" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><div class="sidel"><div class="side2"><a href="http://www.oversources.com/list/new.shtml">New Arrivals</a></div></div></td>
+  </tr>
+  <tr>
+    <td class="pbody">
+	  <div title="1.8 inch TFT LCD Screen 4GB MP4 Player with One Built-in Speaker, MP4P-018-012" class="product_image" style="background: url(http://images.oversources.com/productimage/audio_video_4GB_MP4_Players_MP4P-018-012-4GB-middle.jpg?79e8e9e1048668fed581120b364aaba0) no-repeat 50% 50%"><a href="http://www.oversources.com/display/1.8_inch_tft_lcd_screen_4gb_mp4_player_with_one_built-in_speaker,_mp4p-018-012.shtml">&nbsp;</a></div>
+	  <div class="product_name"><a href="http://www.oversources.com/display/1.8_inch_tft_lcd_screen_4gb_mp4_player_with_one_built-in_speaker,_mp4p-018-012.shtml">1.8 inch TFT LCD Screen 4GB MP4 Player with One Built-in Speaker, MP4P-018-012</a></div>
+	  <div class="product_price"><span class="sample_price">Sample Price:</span><span lang="370.0" class="currently_price">US$52.54</span></div>
+	</td>
+  </tr>
+  <tr>
+    <td class="foot"><div class="sidel"><div class="side2"></div></div></td>
+  </tr>
+</tbody></table>
+
 		  
              
 
-<table class="item" border="0" cellspacing="0" cellpadding="0">
+<table class="navitem" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td class="title"><a href="http://www.oversources.com/service/faqs/">Helpful Information</a></td>
+    <td class="title"><div class="sidel"><div class="side2"><a href="http://www.oversources.com/list/coming.shtml">Coming Soon</a></div></div></td>
+  </tr>
+  <tr>
+    <td class="pbody">
+	  <div title="Bluetooth Stereo Headset" class="product_image" style="background: url(http://images.oversources.com/productimage/mobile_bluetooth_headsets_MyEar-BTH-middle.jpg?2641d06515fbfd634073778836313cf9) no-repeat 50% 50%"><a href="http://www.oversources.com/display/bluetooth_stereo_headset.shtml">&nbsp;</a></div>
+	  <div class="product_name"><a href="http://www.oversources.com/display/bluetooth_stereo_headset.shtml">Bluetooth Stereo Headset</a></div>
+	  <div class="product_price"><div class="coming_soon">Coming Soon</div></div>
+	</td>
+  </tr>
+  <tr>
+    <td class="foot"><div class="sidel"><div class="side2"></div></div></td>
+  </tr>
+</tbody></table>
+
+
+
+		  
+             
+
+<table class="navitem" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="title"><div class="sidel"><div class="side2"><a href="http://www.oversources.com/service/faqs/">Helpful Information</a></div></div></td>
   </tr>
   <tr>
     <td class="body">
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e829bd1cb004b.shtml">Why Should I Choose Kindbridge?</a></div>
-	  <div class="dspcontent">What’s So Good About Kindbridge? I Saw Similar Products Somewhere Else For Less Anyway!  Oversources.com is one of very few companies that offer immediate online ordering for direct delivery of ...</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8df8c1e922db.shtml">How to Find a Supplier in China?</a></div>
-	  <div class="dspcontent">Suppose you come up with a product idea or think you have market channels for certain products, and you want to find a supplier in China because of the low product development cost and low production ...</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e8293a6d4004a.shtml">Tell Me About Kindbridge - Company Info</a></div>
-	  <div class="dspcontent">What is Kindbridge? Are you, like, Chinese, or what?   Kindbridge is a Chinese based general trading and wholesale company located in the city of Shenzhen, China.  Almost all of our business is done t...</div>
   
       <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e82587ac5003e.shtml">Visiting kindbridge</a></div>
-	  <div class="dspcontent">Can I visit you? I want to meet the wonderful people of Kindbridge!  
-     If you’re in China and you want to come and see us, let us know. (You can from    customer service     page to send us...</div>
+	  <div class="dspcontent">Can I visit you? I want to meet the wonderful people of Kind...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e829bd1cb004b.shtml">Why Should I Choose Kindbridge?</a></div>
+	  <div class="dspcontent">What’s So Good About Kindbridge? I Saw Similar Product...</div>
   
       <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8debe40f22da.shtml">How to Import from China?</a></div>
-	  <div class="dspcontent">You may be able to find a new business opportunity or profit growth by directly importing products from China. It can be complicated, but it can pay off in both immediate profit and long-term success....</div>
+	  <div class="dspcontent">You may be able to find a new business opportunity or profit...</div>
   
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e7a95b7010e8293a6d4004a.shtml">Tell Me About Kindbridge - Company Info</a></div>
+	  <div class="dspcontent">What is Kindbridge? Are you, like, Chinese, or what?   Kindb...</div>
+  
+      <div class="dsptitle"><a href="http://www.oversources.com/service/faq_display/529175420e85733b010e8df8c1e922db.shtml">How to Find a Supplier in China?</a></div>
+	  <div class="dspcontent">Suppose you come up with a product idea or think you have ma...</div>
+  
+      <div class="more"><a href="http://www.oversources.com/service/faqs/">more...</a></div>
 	</td>
-  </tr>
-</tbody></table>
-
-
-		  
-             
-
-<table class="item" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="title"><a href="http://www.oversources.com/content/knowledge_base/">Knowledge Base</a></td>
   </tr>
   <tr>
-    <td class="body">
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/52917542112778d101113f8673fd00b5.shtml">Introduction to How GPS Receivers Work</a></div>
-	  <div class="dspcontent">Our ancestors had to go to pretty extreme measures to keep from getting lost.</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/52917542112778d10111343aa1490096.shtml">Introduction to How Bluetooth Works</a></div>
-	  <div class="dspcontent">There are lots of different ways that electronic devices can connect to one another.</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/529175421113614001112698bf5a010a.shtml">How MP3 Players work?</a></div>
-	  <div class="dspcontent">The MP3 player is the most recent in an evolution of music formats that have helped consumers enjoy their tunes.</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/529175421113614001111ddf27420044.shtml">What is personal computer?</a></div>
-	  <div class="dspcontent">A small, relatively inexpensive computer designed for an individual user.</div>
-  
-      <div class="dsptitle"><a href="http://www.oversources.com/content/knowledge_base_display/5291754211136140011127379e6b0110.shtml">About Digital camera.</a></div>
-	  <div class="dspcontent">Instead of film, a digital camera has a sensor that converts light into electrical charges.</div>
-  
-	</td>
+    <td class="foot"><div class="sidel"><div class="side2"></div></div></td>
   </tr>
 </tbody></table>
 
-        
+
+		
 </td>
     <td id="mainarea" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
@@ -463,17 +476,15 @@ function showShippingCost(price, rate, displayName, bit) {
       </tr>
     </tbody></table></td>
   </tr>
-</tbody></table></td>
-  </tr>
-  <tr>
-	<td id="navigation">
-<div class="navcontent">
+</tbody></table>
+</div></div><!--workbody-->
+
+<div id="bottom_nav"><div class="side1"><div class="side2">
   <a class="first" href="http://www.oversources.com/">Home</a>&gt;&gt;<span>Privacy Notice</span>
-</div></td>
-  </tr>
-  <tr>
-    <td id="footer">
-<div id="footlayer"><table cellspacing="0" cellpadding="0" width="100%" border="0">
+</div></div></div>
+
+<div id="footer">
+<div id="footlayer"><table width="100%" cellspacing="0" cellpadding="0" border="0">
     <thead>
         <tr>
             <td width="20%">CUSTOMER SERVICE</td>
@@ -501,7 +512,7 @@ function showShippingCost(price, rate, displayName, bit) {
                 <li><a href="http://www.oversources.com/service/faq_display/5291754210da85370110dde2741401ab.shtml">Shopping Process</a> </li>
                 <li><a href="http://www.oversources.com/static/return_policy.shtml">Return Policy</a>&nbsp; </li>
                 <li><a href="http://www.oversources.com/service/faqs/">FAQs</a> </li>
-                <li><a href="http://www.oversources.com/content/knowledge_base/">Knowledge Base</a> </li>
+                <li><a href="http://www.oversources.com/tech/">Knowledge Base</a> </li>
             </ul>
             </div>
             </td>
@@ -519,7 +530,7 @@ function showShippingCost(price, rate, displayName, bit) {
             <div>
             <ul>
                 <li><a href="http://www.oversources.com/static/about_us.shtml">About Us</a> </li>
-                <li><a href="http://www.oversources.com/content/list/news/">Wholesale News</a> </li>
+                <li><a href="http://www.oversources.com/dig/">Wholesale News</a> </li>
                 <li><a href="http://www.oversources.com/content/customer_comments/">Customer Comments</a> </li>
             </ul>
             </div>
@@ -529,7 +540,7 @@ function showShippingCost(price, rate, displayName, bit) {
             <ul>
                 <li><a href="http://www.oversources.com/service/sitemap/">Site Map</a> </li>
                 <li><a href="http://www.oversources.com/download/">Downloads</a> </li>
-                <li><a href="http://www.oversources.com/product/search">Search</a> </li>
+                <li><a href="http://www.oversources.com/search/product">Search</a> </li>
                 <li><a href="http://www.oversources.com/content/links.shtml">Links</a> </li>
             </ul>
             </div>
@@ -537,36 +548,22 @@ function showShippingCost(price, rate, displayName, bit) {
         </tr>
     </tbody>
 </table>
-<p align="center"><img height="21" alt="visa" src="/resources/Image/Certificate/visa.gif" width="37"><img height="21" alt="mastercard" src="/resources/Image/Certificate/mastercard.gif" width="37"><img alt="discover" src="/resources/Image/Certificate/discover.gif"><img height="21" alt="echeck" src="/resources/Image/Certificate/echeck.gif" width="37"><img height="21" alt="amex" src="/resources/Image/Certificate/amex.gif" width="37"><img height="21" alt="paypal" src="/resources/Image/Certificate/paypal.gif" width="57"><a href="https://www.paypal.com/verified/pal=paypal%40chinabatterys.com"><img height="70" alt="PayPal Verified" src="/resources/Image/Certificate/paypalverifyseal.gif" width="70" border="0"></a></p></div>
+<p align="center"><img width="37" height="21" alt="visa" src="/resources/Image/Certificate/visa.gif"><img width="37" height="21" alt="mastercard" src="/resources/Image/Certificate/mastercard.gif"><img alt="discover" src="/resources/Image/Certificate/discover.gif"><img width="37" height="21" alt="echeck" src="/resources/Image/Certificate/echeck.gif"><img width="37" height="21" alt="amex" src="/resources/Image/Certificate/amex.gif"><img width="57" height="21" alt="paypal" src="/resources/Image/Certificate/paypal.gif"><a href="https://www.paypal.com/verified/pal=paypal%40chinabatterys.com"><img width="70" height="70" border="0" alt="PayPal Verified" src="/resources/Image/Certificate/paypalverifyseal.gif"></a></p></div>
 <div id="copyright">
 
-
       
-	    <span class="item"><a href="http://www.oversources.com/static/policies.shtml">Policies</a></span>
+	    <span class="footitem"><a href="http://www.oversources.com/static/policies.shtml">Policies</a></span>
 	  
 	    <span class="interval">|</span>
 
-
       
-	    <span class="item"><a href="http://www.oversources.com/static/privacy_notice.shtml">Privacy Notice</a></span>
+	    <span class="footitem"><a href="http://www.oversources.com/static/privacy_notice.shtml">Privacy Notice</a></span>
 	  
 	    <span class="interval">|</span>
 
    Copyright © 2006 China Electronics Wholesaler Inc. All rights reserved. 
-</div>
+</div></div>
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-try {
-  _uacct = "UA-938608-1";
-  urchinTracker();
-} catch (ex) {}
--->
-</script>
-</td>
-  </tr>
-</tbody></table>
 
 </body></html>
