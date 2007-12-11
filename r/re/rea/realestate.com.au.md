@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609001616id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211212828id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
 # Real Estate, Property, Land and Homes for Sale, lease and rent - realestate.com.au
 
