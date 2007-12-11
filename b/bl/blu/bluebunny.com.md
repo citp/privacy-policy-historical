@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628160209id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211010526id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Blue Bunny Privacy Policy
 
@@ -41,4 +41,4 @@ Any material changes to these privacy terms and conditions will be posted on our
 
 ### PRIVACY POLICY EFFECTIVE DATE: 4/20/2007
 
-If you have any questions about this privacy statement or this web site, please feel free to [contact us](https://web.archive.org/web/20070628160209id_/http%3A//www.bluebunny.com/ContactUS.aspx).
+If you have any questions about this privacy statement or this web site, please feel free to [contact us](https://web.archive.org/web/20071211010526id_/http%3A//www.bluebunny.com/ContactUS.aspx).
