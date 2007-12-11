@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618134329id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211041146id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - The Great Indian Bazaar
 
@@ -30,9 +30,8 @@ This site contains links to many other sites. www.infobanc.com is not responsibl
 
 **Customer Service  
 Information for Business and Commerce (InfoBanc.com)  
-124-A/7, 3rd Floor   
-Main Road, Katwaria Sarai   
-(Opp. Indian Statistical Institute)   
+7-C, 3rd Floor, Flat No. 4   
+Katwaria Sarai,   
 New Delhi - 110 016  
 India   
 Tel: 91-11-26961886   
