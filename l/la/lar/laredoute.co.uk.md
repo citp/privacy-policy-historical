@@ -1,51 +1,54 @@
-> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514085051id_/http%3A//www.laredoute.co.uk/goToPrivacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053356id_/http%3A//www.laredoute.co.uk/goToPrivacy.action) for the most accurate reproduction.*
 
 # Redoute
 
-### Privacy policy 
+### Privacy policy
 
-#### Your confidentially and privacy 
+#### Your confidentiality and privacy
 
-We guarantee to protect your privacy. We take great care to make sure you receive the best protection possible for your personal information and any financial details that you provide. The La Redoute website is a secure site, and any personal data we collect from you is safe from misuse. 
+It is important to us to protect your privacy. We take great care to make sure that you receive the best protection for your personal information and any financial details that you provide. Our website is a secure site and any personal data we collect from you is safe from misuse. We abide by the Data Protection Act 1998 and we make sure that any personal information we hold is handled properly. This means that information will be fairly and lawfully processed, that we will make sure that it is accurate, and that your information is not kept for longer than necessary. Your information will be kept secure and processed in line with your rights under the Data Protection Act 1998.
 
-We abide by the Data Protection Act 1998 and we make sure that any personal information we hold is handled properly. This means that your information will be fairly and lawfully processed, that we will make sure that it is accurate, and that your information is not kept for longer than necessary. Your information will be kept secure and processed in line with your rights under the Data Protection Act 1998 and will not be transferred to countries without adequate protection.
+#### Information we might need from you:
 
-#### Information we might need from you: 
-
-Your name, date of birth, address, customer number, telephone number, e-mail address, credit/debit card number, expiry date and issue number. If you enter a prize draw we need your name, address, customer number and e-mail address. 
+Your name, address, customer number, telephone number, email address, credit/debit card number, expiry date, start date, issue number and card security code. If you enter a prize draw we need your name, address, customer number and email address.
 
 #### How we use this information:
 
-We use the information you provide to 
+We use the information you provide to:
 
-  * confirm the receipt of your order, process it and keep you informed of progress 
-  * keep you up to date with new services, facilities, special offers and promotions
-  * enhance your shopping experience in the future by tailoring the site to meet your needs 
-  * administer prize draws. 
+  * Confirm the receipt of your order, process it and keep you informed of progress
+  * Keep you up to date with new services, facilities, special offers and promotions (see below for details)
+  * Administer prize draws
+  * Enhance your shopping experience in the future by tailoring the site to meet your needs
+  * Administer your La Redoute shopping account
+  * Administer your La Redoute Personal Account if you have one (see below for details).
 
 
 
-As a responsible lender we search the files of credit reference agencies who record the search and share information about you and the conduct of your account with them, other lenders and relevant third parties. We check everyone's details with fraud prevention agencies and if anyone gives us false or inaccurate information and we suspect fraud, we record this. We and other organisations use such records to make decisions about credit and all types of insurance proposals and claims for you, members of your household and those with whom you are financially linked, to prove identity, for money laundering prevention and fraud prevention. 
+We may also use the information you provide to perform a credit search. We will perform a credit search if:
 
-We may also use your information, including shopping habits, to approve, open and run your credit account, including payment recovery, debtor tracing and for our marketing. We may share your information with other organisations who may contact you for marketing purposes. If you do not wish to be contacted by third parties for these purposes, please [write to us](https://web.archive.org/Help_Legal/ContactUs.aspx) or telephone [Customer Care Team](https://web.archive.org/Help_Legal/ContactUs.aspx) or [send an email to us](https://web.archive.org/Help_Legal/ContactUs.aspx). 
+  * You apply for a La Redoute Personal Account; or
+  * You are a new customer and you order a catalogue.
 
-We may use your email address for such purposes but will not pass your details to third parties unless you have given us express permission to do so. If you do not want us to use your email address for marketing purposes please [write to us](https://web.archive.org/Help_Legal/ContactUs.aspx) or telephone our [Customer Care Team](https://web.archive.org/Help_Legal/ContactUs.aspx) or [send an email to us](https://web.archive.org/Help_Legal/ContactUs.aspx) with your name and customer number in the message box. If you are happy to receive electronic marketing from La Redoute but no longer wish to receive electronic marketing from third parties you may withdraw permission for third party contact at any time. Simply [write to us](https://web.archive.org/Help_Legal/ContactUs.aspx) or telephone our [Customer Care Team](https://web.archive.org/Help_Legal/ContactUs.aspx) or [send an email to us](https://web.archive.org/Help_Legal/ContactUs.aspx) with 'email no third party marketing' as the subject heading and your name and customer reference number in the message box. We will process your request as quickly as possible. 
 
-If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [write to us](https://web.archive.org/Help_Legal/ContactUs.aspx) or telephone our [Customer Care Team](https://web.archive.org/Help_Legal/ContactUs.aspx). 
 
-#### Cookies 
+If we perform a credit search, we will search the files of credit reference agencies who will record the search and we may share information (including credit and electoral role data) about you and the conduct of your account with them and with other lenders and relevant third parties. We check everyone's details with fraud prevention agencies and if anyone gives us false or inaccurate information and we suspect fraud, we record this. We and other organisations use such records, together with records which relate to members of your household and those with whom you are financially linked, to make decisions about credit and all types of insurance proposals and claims for you, members of your household and those with whom you are financially linked. This information will also be used to prove identity, for money laundering prevention and for fraud prevention purposes. We may also use your information held within the Redcats group of companies, including shopping habits, to approve, open and run your Personal Account, including for the purposes of payment recovery and debtor tracing. If you require details of the credit reference agencies from whom we obtain, and with whom we record information about you, please write to us or telephone our Customer Care team on 0844 842 2222. Our lines are open from 8am to 9pm, Monday to Saturday. Calls cost up to 5p per minute with a connection charge of no more than 3.5p from all BT landlines. Mobiles and other providers' charges may vary. 
 
-To provide you with specially tailored information from our website and to track the effectiveness of online advertising we, in conjunction with third party companies, may use cookies. Cookies are pieces of data that a website can send to your browser and may be then stored on your system. Cookies allow us to understand who has seen which web pages and any advertisements that may be placed on them and to track the effectiveness of our online advertising generally. They also help us to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+We would like to keep you informed about our new products and any special offers throughout the season. We will contact you by post, telephone, SMS and email unless you ask us not to do so. You can do this by visiting [Contact Us](https://www.laredoute.co.uk/Help_Legal/ContactUs.aspx) and sending an email with 'no more marketing' as the subject. Please include your name and customer number and the method of contact (email, SMS, telephone or post) that you want us to stop. Alternatively, contact our Customer Care team on 0844 842 2222.
 
-This information helps us to improve the overall level of service we provide to you.  
-Most web browsers automatically accept cookies. You do not have to accept cookies and can set up your web browser to automatically notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it.   
-[I would like to view the privacy policy](https://www.atlasdmt.co.uk/privacy/general/) of the third party companies.   
-[I would like to opt out](https://www.atlasdmt.co.uk/privacy/general/) of online tracking.
+We may also share your details with third parties who provide products or services that may be of interest to you. We may give them permission to contact you by post, telephone, SMS and email unless you ask us not to do so. If you no longer wish to receive marketing information from third parties, please visit [Contact Us](https://www.laredoute.co.uk/Help_Legal/ContactUs.aspx) and send us an email with 'no third party marketing' as the subject. Please include your name and customer number and the method of contact from third parties (email, SMS, telephone or post) that you want to stop. Alternatively, contact our Customer Care team on 0844 842 2222.
 
-#### How we keep this information secure:
+#### How we use Cookies
 
-All the information above is transmitted securely using SSL encryption. This means that the information is sent in such a way that, in the extremely unlikely event that someone is somehow able to obtain this information, only we can decode the information to obtain your details. This is done by encrypting the data between your computer and our server. We encrypt the data using a certificate provided by a trusted third party, Verisign. For more details, click on the Verisign logo.
+To provide you with specially tailored information from our website and to track the effectiveness of online advertising we, in conjunction with third party companies, may use cookies. Cookies are pieces of data that a website can send to your browser and may then be stored on your system. They show which pages on a site you have seen and any advertisements that may be placed on them. They also help us identify which are the most popular areas of our site and those which need to be improved to make them easier to use. Most web browsers automatically accept cookies. You do not have to accept cookies and can set up your web browser to automatically notify you when you receive a cookie. This will give you the opportunity to decide whether or not to accept it.
+
+[I would like to view the privacy policy of the third party companies](https://www.atlasdmt.co.uk/privacy/general/) of the third party companies.   
+[I would like to opt out of online tracking](https://www.atlasdmt.co.uk/privacy/general/) of online tracking. 
+
+#### How we keep your information secure:
+
+Every transaction you complete on our site is transmitted securely using SSL encryption. This means that the information is sent in such a way that only we can decode it to obtain your details. This is done by encrypting the data between your computer and our server. We encrypt data using a certificate provided by a trusted third party.
 
 You can tell that the data is encrypted as the address in your browser will change from // to // and a small padlock icon will appear at the bottom of your browser window. This is your guarantee that you can send your details to us with confidence.
 
-We are required by the Data Protection Act 1998 to follow strict security procedures in how we store and disclose information. You may be assured that we will adhere to these procedures with your personal details.
+The Data Protection Act 1998 sets out strict security procedures in how we store and disclose information. You can be sure that we take data protection very seriously and will always adhere to these procedures to protect your personal details.
