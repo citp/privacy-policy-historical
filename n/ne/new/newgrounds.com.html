@@ -1,874 +1,423 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623180734id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211234022id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Newgrounds Privacy Statement</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Privacy Policy</title>
+	<script type="text/javascript" src="http://js.ngfiles.com/ng.js"></script>
+	<script type="text/javascript" src="http://js.ngfiles.com/ajaxrequest.js"></script>
+	<script type="text/javascript" src="http://js.ngfiles.com/loginheader.js"></script>
+	<script type="text/javascript" src="http://js.ngfiles.com/prototype.js"></script>
+	<script type="text/javascript" src="http://js.ngfiles.com/scriptaculous.js"></script>
+	<!-- JS -->
+
+	<script type="text/javascript">
+	// <![CDATA[
+
+		// ==================== Code for handling the AJAX login box ========================
+		// We're embedding this here, rather than in a .js, because we need to guarantee it's loaded just below
+
+		var u_cookie = "NG_GG_username";
+		var pm_count_cookie_name = "unread_PMs";
+		var unread_pm_count = null;
+		var page_is_dynamic = false;
+
+		function ReturnCookie(this_name)
+		{
+			var parts = document.cookie.split(';');
+			var sub_parts;
+
+			for(var i=0; i<parts.length; i++)
+			{
+				sub_parts = parts[i].split('=');
+
+				sub_parts[0] = sub_parts[0].replace(/\s/, '');
+				if(sub_parts[0] == this_name)
+				{
+					return(unescape(sub_parts[1]));
+				}
+			}
+
+			// If we're here, we didn't find the cookie
+			return(null);
+		}
+
+		// Set cookies from JavaScript using this - swiped from http://www.dustindiaz.com/top-ten-javascript/
+		function SetCookie(name, value, expires)
+		{
+			if(typeof expires == "undefined")
+			{
+				expires = 0;
+			}
+
+			var today = new Date();
+			today.setTime(today.getTime());
+
+			if(expires)
+			{
+				expires = expires * 1000 * 60 * 60 * 24;
+			}
+			var expires_date = new Date(today.getTime() + expires);
+
+			document.cookie = name + '=' + escape(value) + ((expires) ? ';expires='+expires_date.toGMTString() : '' ) + ';path=/;domain=.newgrounds.com';
+		}
+
+		function DivSwap(old_div_id, new_div_id)
+		{
+			var old_div = document.getElementById(old_div_id);
+			var new_div = document.getElementById(new_div_id);
+
+			if((old_div) && (new_div))
+			{
+				new_div.style.display = "block";
+				old_div.style.display = "none";
+			}
+		}
+
+		function IsSoftLoggedIn()
+		{
+			return((ReturnCookie(String.fromCharCode(118,109,107,49,100,117,53,108,56,109)) != null) || (ReturnCookie(String.fromCharCode(118,109,107,108,100,117,53,73,56,109)) != null));
+		}
+
+		function LoadLoginBox()
+		{
+			// Let's make sure the browser isn't preserving some weird state
+			if(!(typeof request_in_progress == "undefined"))
+			{
+				// This variable may not have been loaded yet, since it's coming from a .js file
+				request_in_progress = false;
+			}
+
+			// Always see if they've got a username cookie to put as a default value in the login box
+			var username = ReturnCookie(u_cookie);
+			if(username != null)
+			{
+				document.getElementById("lb_username").value = username;
+			}
+
+			// Also always check for a # of unread PMs, handed off from PHP
+			if(unread_pm_count != null)
+			{
+				// Got a value, set it and store it in a cookie
+				SetUnreadPMCount(unread_pm_count);
+			}
+			else
+			{
+				// Didn't get a value.  See if we've got anything stored from before, in a cookie
+				var unread_pm_count_cookie = ReturnCookie(pm_count_cookie_name);
+				if((unread_pm_count_cookie != null) && (unread_pm_count_cookie > 0))
+				{
+					SetUnreadPMCount(unread_pm_count_cookie);
+				}
+			}
+
+			// Now swap in the appropriate box
+			if(!(IsSoftLoggedIn()))		// They're not logged in, so show the login form
+			{
+				DivSwap("loginbox", "loginbox_notloggedin");
+			}
+			else						// They are logged in, so show their account options
+			{
+				// Gotta do this here, so the username displays properly on page refreshes
+				SetLoggedInUsername(username);
+
+				DivSwap("loginbox", "loginbox_loggedin");
+			}
+		}
+
+		function SetUnreadPMCount(value)
+		{
+			var new_count = "";
+			if(value > 0)
+			{
+				new_count = " (" + FormatNumber(value) + ")";
+			}
+
+			document.getElementById("unread_pm_count_display").innerHTML = new_count;
+			SetCookie(pm_count_cookie_name, value);
+		}
+
+		function SetLoggedInUsername(name)
+		{
+			document.getElementById("loginbox_username").innerHTML = "<a href=\"http://" + name.toLowerCase() + ".newgrounds.com/\">" + name + "</a>";
+			document.getElementById(username_fieldname).value = name;				// Also set the name in the login text field
+		}
+
+	// ]]>
+	</script>
+
+	<link rel="stylesheet" href="http://css.ngfiles.com/ng.css" type="text/css" media="screen">
+	<!-- CSS -->
+
+	<link rel="shortcut icon" type="image/png" href="http://img.ngfiles.com/favicon.ico">
+
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 </head>
 
 <body>
 
-<!---------- BEGIN GLOBAL HEADER ---------->
-<a name="top"></a>
+<div id="mainframe">
+	<div id="main">
 
-<script type="text/javascript" src="/js/genericfunctions.js"></script>
-<script type="text/javascript" src="/js/ajaxagent.js"></script>
-<script type="text/javascript" src="/js/loginheader.js"></script>
-<script type="text/javascript" src="/js/formutils.js"></script>
-<script type="text/javascript">
+		<div id="center">
 
-	// ========================= Load the navbar image swaps ===========================
-	function NGRollOver(name)
-	{
-		document.images[name].src = eval(name + "on.src");
-	}
+			<h1 class="ng"><a href="http://www.newgrounds.com/">Newgrounds.com — Everything, By Everyone.</a></h1>
 
-	function NGRollOut(name)
-	{
-		document.images[name].src = eval(name + "off.src");
-	}
+			<div id="wholeloginbox" class="loginbox">
+				<div id="loginbox" style="display: none;">
+					<strong class="status">Checking login status…</strong>
+				</div>
+				<div id="loginbox_notloggedin" class="hidecode" style="display: block;">
+					<form method="post" action="http://www.newgrounds.com/account/" id="loginboxform" onsubmit="AttemptLogin();return(false);">
 
-	function InitNGRolls(num)
-	{
-		var this_image;
+					<ul>
+						<li><a href="http://www.newgrounds.com/join">Not a member? SIGN UP!</a></li>
+						<li><input type="submit" class="hiddensubmit" value="s"><a href="http://www.newgrounds.com/join/forgot">Forgot login?</a></li>
+					</ul>
 
-		for(var i=1; i<=num; i++)
-		{
-			this_image = "nav_b" + i;
-			eval(this_image + "on = new Image();");
-			eval(this_image + "on.src = \"/images2006/" + this_image + "_on.gif\";");
-			eval(this_image + "off = new Image();");
-			eval(this_image + "off.src = \"/images2006/" + this_image + "_off.gif\";");
-		}
-	}
+					<p>
+						<strong>USERNAME:</strong>
+						<input type="text" name="lb_username" id="lb_username" maxlength="20" class="inputfield formtext">
+					</p>
+					<p>
+						<strong>PASSWORD:</strong>
+						<input type="password" name="lb_userpass" id="lb_userpass" maxlength="10" class="inputfield formtext">
+					</p>
 
-	InitNGRolls(8);
-	// ======================= End of navbar image swap code ============================
-
-	// ==================== Code for handling the AJAX login box ========================
-	var u_cookie = "NG_GG_username";
-	var p_cookie = "NG_GG_userpass";
-	
-	function ReturnCookie(this_name)
-	{
-		var parts = document.cookie.split(';');
-		var sub_parts;
-
-		for(var i=0; i<parts.length; i++)
-		{
-			sub_parts = parts[i].split('=');
-
-			sub_parts[0] = sub_parts[0].replace(/\s/, '');
-			if(sub_parts[0] == this_name)
-			{
-				return(sub_parts[1]);
-			}
-		}
-
-		// If we're here, we didn't find the cookie
-		return(null);
-	}
-	
-	function DivSwap(old_div_id, new_div_id)
-	{
-		var old_div = document.getElementById(old_div_id);
-		var new_div = document.getElementById(new_div_id);
-		
-		if((old_div) && (new_div))
-		{
-			new_div.style.display = "block";
-			old_div.style.display = "none";
-		}
-	}
-	
-	function IsSoftLoggedIn()
-	{
-		return((ReturnCookie(u_cookie) != null) && (ReturnCookie(p_cookie) != null));
-	}
-
-	function LoadLoginBox()
-	{
-		// Let's make sure the browser isn't preserving some weird state
-		if(!(typeof request_in_progress == "undefined"))
-		{
-			// This variable may not have been loaded yet, since it's coming from a .js file
-			request_in_progress = false;
-		}
-	
-		// Always see if they've got a username cookie to put as a default value in the login box
-		var username = ReturnCookie(u_cookie);
-		if(username != null)
-		{
-			document.forms["loginboxform"].elements["username"].value = username;
-		}
-	
-		// Now swap in the appropriate box
-		if(!(IsSoftLoggedIn()))		// They're not logged in, so show the login form
-		{
-			DivSwap("loginbox", "loginbox_notloggedin");
-		}
-		else						// They are logged in, so show their account options
-		{
-			// Gotta do this here, so the username displays properly on page refreshes
-			SetLoggedInUsername(username);
-			
-			DivSwap("loginbox", "loginbox_loggedin");
-		}
-	}
-	
-	function SetLoggedInUsername(name)
-	{
-		document.getElementById("loginbox_username").firstChild.data = name;
-	}
-	// ========================= End of AJAX login box code =============================
-
-</script>
-<style type="text/css">
-
-FORM { margin-bottom : 0px; margin-top : 0px; }
-
-body
-{
-	background-color: #2F3238;
-	color: #C2C7CB;
-	background-image: url(/images2006/bg_gradient.gif);
-	background-repeat: repeat-x;
-	margin-top: 0px;
-	margin-left: 0px;
-	margin: 0px;
-}
-
-a { text-decoration: none; }
-a:link { color: #FFAB0D; }
-a:visited { color: #B47101; }
-a:active { color: #FFAB0D; }
-a:hover { color: #FFEE70; }
-
-body, div, td
-{
-	scrollbar-face-color: #41464E;
-	scrollbar-highlight-color: #575F68;
-	scrollbar-3dlight-color: #000000;
-	scrollbar-darkshadow-color: #000000;
-	scrollbar-shadow-color: #33373C;
-	scrollbar-arrow-color: #FFCC00;
-	scrollbar-track-color: #2F3238;
-}
-
-.global_field
-{
-	font-family: Arial;
-	color: #000000;
-	font-size: 11px;
-	font-weight: bold;
-	background-color: #FFCC00;
-	background-image: url('/layout04/newhf/tf_bg_sm.gif');
-	border-left: #000000 2px solid;
-	border-top: #000000 2px solid;
-	border-right: #45494F 1px solid;
-	border-bottom: #45494F 1px solid;
-}
-
-.global_field_sm
-{
-	font-family: Arial;
-	color: #000000;
-	font-size: 10px;
-	background-color: #FFCC00;
-	background-image: url('/layout04/newhf/tf_bg_sm.gif');
-	border-left: #000000 2px solid;
-	border-top: #000000 2px solid;
-	border-right: #45494F 1px solid;
-	border-bottom: #45494F 1px solid;
-}
-
-.button_normal
-{
-	font-family: Arial;
-	color: #FFCC00;
-	font-size: 11px;
-	font-weight: bold;
-	background-color: #41464E;
-	border-left: #20252A 1px solid;
-	border-top: #20252A 1px solid;
-	border-right: #5F656B 1px solid;
-	border-bottom: #5F656B 1px solid;
-}
-
-.font_contact
-{
-	font-family: Arial,Helvetica;
-	font-size: 10px;
-}
-
-.font_vd_small
-{
-	font-family: Verdana,Arial,Helvetica;
-	font-size: 10px;
-}
-
-.font_a2
-{
-	font-family: Arial,Helvetica;
-	font-size: 13px;
-}
-
-a.header:link { color: #ffcc00; }
-a.header:visited { color: #ffcc00; }
-a.header:hover { color: #ffffff; }
-a.header:active { color: #ffab0d; }
-
-.font_header
-{
-	font-family: Arial,Helvetica;
-	font-size: 10px;
-	font-weight: bold;
-	letter-spacing: 1px;
-}
-
-.font_small_header
-{
-	font-family: Arial,Helvetica;
-	font-size: 9px;
-}
-
-.loginbox {
-	font-family: Arial,Helvetica;
-	font-size: 10px;
-	font-weight: bold;
-	letter-spacing: 1px;
-	padding: 4px;
-	margin-left: 1px;
-}
-
-.loginput {
-	width: 145px;
-	height: 18px;
-	font-size: 10px;
-	background: #fc0;
-	color: black;
-	border: 2px solid #fc0;
-	margin-bottom: 6px; *margin-bottom: 1px;
-	}
-
-#loginbox_notloggedin {
-	display: none;
-	padding-top: 1em;
-}
-
-#loginbox_loggedin {
-	display: none;
-	padding-top: 1.5em;
-}
-
-#loginbox_username {
-	font-weight: bold;
-	font-style: italic;
-}
-
-#login_submitbutton {		/* Ugly hack for IE 6 */
-	height: 7px;
-	width: 7px;
-	background-color: #000000;
-	border: #000000 1px solid;
-	display: none;
-	_display: inline;
-}
-
-#loginbox_animation_login {
-	display: none;
-	font-family: Arial,Helvetica;
-	font-size: 10px;
-	font-weight: bold;
-	text-align: left;
-	padding-left: 8px;
-}
-
-#loginbox_animation_logout {
-	display: none;
-	margin-top: 1em;
-	text-align: left;
-}
-
-a.clickableText
-{
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-a.clickableText:visited
-{
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-a.clickableText:hover
-{
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-a.clickableText:active
-{
-	color: #ffffff;
-	text-decoration: none;
-	font-weight: normal;
-}
-
-</style>
-
-<table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
-	<tbody><tr>
-		<td background="/images2006/top.gif" height="144">
-		<table border="0" cellpadding="0" cellspacing="0" width="770" height="144">
-			<tbody><tr>
-				<td width="355"><a href="/index.html"><img src="/images2006/spacer.gif" width="345" height="144" border="0"></a></td>
-				<td width="242">
-				<table border="0" cellpadding="0" cellspacing="0" width="242">
-					<tbody><tr>
-						<td><img src="/images2006/spacer.gif" width="242" height="95"></td>
-					</tr>
-					<tr>
-						<td align="center">
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td><img src="/images2006/search_head.gif" width="215" height="8"></td>
-							</tr>
-							<tr>
-								<td><form method="GET" name="search" action="/portal/search.php" onsubmit="return(CheckSearch());">
-								<table border="0" cellpadding="0" cellspacing="0">
-									<tbody><tr>
-										<td align="right"><img src="/images2006/search_left.gif" width="16" height="18"></td>
-										<td><input type="text" name="terms" size="12" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>
-										<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
-										<td><select name="kind" size="1" style="font-family: Arial; font-size: 8pt; background-color: rgb(69,81,96); color: rgb(255,204,0); border: 1px solid rgb(0,0,0)">
-										<option value="j">Title</option>
-										<option value="a">Author</option>
-										</select></td>
-										<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
-										<td><input type="image" src="/images2006/search.gif" width="41" height="18" alt="SEARCH!" border="0"></td>
-									</tr>
-								</tbody></table>
-								</form></td>
-							</tr>
-							<tr>
-								<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
-							</tr>
-						</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-				</td>
-				<td valign="top"><img src="/images2006/spacer.gif" width="5" height="5"></td>
-				<td width="165" valign="top" align="center" class="font_header">
-					<div id="loginbox" class="loginbox" style="display: none;">checking login status...</div>
-					<div id="loginbox_notloggedin" class="loginbox" style="display: block;">
-						<form name="loginboxform" method="post" action="/gold/account.php" onsubmit="AttemptLogin();return(false);">
-						
-						<table border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td class="font_small_header">
-								<font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br>
-								<font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a>&nbsp;<input type="submit" id="login_submitbutton" value="Submit"><br>
-							</td>
-						</tr>
-						<tr>
-							<td><img src="/images2006/spacer.gif" width="7" height="7"></td>
-						</tr>
-						<tr>
-							<td>
-								<img src="/images2006/head_username.gif" width="59" height="8"><br>
-								<input type="text" name="username" size="24" maxlength="20" class="loginput"><br>
-								<img src="/images2006/spacer.gif" width="5" height="6"><br>
-								<img src="/images2006/head_password.gif" width="60" height="8"><br>
-								<input type="password" name="userpass" size="24" maxlength="10" class="loginput">
-							</td>
-						</tr>
-						<tr>
-							<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
-						</tr>
-
-						<tr>
-							<td align="center">
-								<div id="loginbox_button"> 
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tbody><tr>
-										<td><input type="checkbox" name="remember" id="remember" value="on"></td>
-										<td class="font_small_header" nowrap="">
-											<a class="clickableText" href="javascript:HandleClick('remember');">Save!</a> [<a href="javascript:OpenRememberExplainWin();">?</a>] 
-										</td>
-										<td width="50%" align="right">
-											<input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18">
-										</td>
-									</tr>
-									</tbody></table>
-								</div>
-								<div id="loginbox_animation_login">
-									Logging In
-								</div>
-							</td>
-						</tr>
-						</tbody></table>
-												
-						</form>
+					<div id="loginbox_button">
+						<p class="save">
+							<input type="checkbox" name="lb_remember" id="lb_remember" value="on">
+							<a class="textclick" href="javascript:HandleClick('lb_remember');">Save Info!</a>
+						</p>
+						<span class="btn"><a href="javascript:AttemptLogin();">Jack In!&nbsp;&gt;</a></span>
 					</div>
-					<div id="loginbox_loggedin" class="loginbox">
-						Logged in as <span id="loginbox_username">.</span>.<br>
-						<img src="/images2006/spacer.gif" width="2" height="10"><br>
-						<div align="center">
-							<a href="/gold/account.php"><img src="/images2006/acct_opt.gif" width="84" height="18" border="0"></a><br>
-							<img src="/images2006/spacer.gif" width="2" height="10"><br>
-							<a href="/pm/"><img src="/images2006/inbox.gif" width="84" height="18" border="0"></a><br>
-							<img src="/images2006/spacer.gif" width="2" height="10"><br>
-							<a href="/gold/logout.php" onclick="AttemptLogout();return(false);"><img src="/images2006/logout.gif" width="84" height="18" border="0"></a>
-							<div id="loginbox_animation_logout">
-								Logging Out
-							</div>
-						</div>
+					<div id="loginbox_animation_login" class="hidecode">
+						<p class="save"><strong class="status">Logging in…</strong></p>
 					</div>
-				</td>
-				<td valign="top" align="center"><img src="/images2006/spacer.gif" width="3" height="5"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-	<td align="center">
-		<table border="0" cellpadding="0" cellspacing="0" width="762" bgcolor="#000000">
-		<tbody><tr>
-		<td align="center" class="font_header"><a href="/primer.html" class="header">About NG</a> | <a href="/lit/portal_faq.html" class="header">Help / FAQ</a> | <a href="/chat/" class="header">Chat</a> | <a href="/lit/" class="header">Literature</a> | <a href="/webcam/" class="header">Webcams</a> | <a href="/mature/" class="header">Mature</a> | <a href="/users_list.html" class="header">Users</a> | <a href="/network/net_news.html" class="header">Network</a> | <a href="/togo/psp/" class="header">PSP</a> | <a href="/wallpapers/" class="header">Wallpapers</a> | <a href="/store/">Store</a> | <a href="/submit.html" class="header">Submit Content</a></td>
-		</tr>
-		<tr>
-		<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
-		</tr>
-		</tbody></table>
-	</td>
-	</tr>
-	<tr>
-	<td>
-	  <table border="0" cellpadding="0" cellspacing="0">
-	  <tbody><tr>
-			<td><a href="/portal/" onmouseover="NGRollOver('nav_b1');window.status='Flash Portal';return true;" onmouseout="NGRollOut('nav_b1');window.status='';return true;"><img src="/images2006/nav_b1_off.gif" width="138" height="42" alt="Flash Portal" name="nav_b1" border="0"></a></td>
-			<td><a href="/audio/" onmouseover="NGRollOver('nav_b2');window.status='Audio Portal';return true;" onmouseout="NGRollOut('nav_b2');window.status='';return true;"><img src="/images2006/nav_b2_off.gif" width="127" height="42" alt="Audio Portal" name="nav_b2" border="0"></a></td>
-			<td><a href="/game/" onmouseover="NGRollOver('nav_b3');window.status='Games';return true;" onmouseout="NGRollOut('nav_b3');window.status='';return true;"><img src="/images2006/nav_b3_off.gif" width="74" height="42" alt="Games" name="nav_b3" border="0"></a></td>
-			<td><a href="/toon/" onmouseover="NGRollOver('nav_b4');window.status='Toons';return true;" onmouseout="NGRollOut('nav_b4');window.status='';return true;"><img src="/images2006/nav_b4_off.gif" width="68" height="42" alt="Toons" name="nav_b4" border="0"></a></td>
-			<td><a href="/collection/" onmouseover="NGRollOver('nav_b5');window.status='Collections';return true;" onmouseout="NGRollOut('nav_b5');window.status='';return true;"><img src="/images2006/nav_b5_off.gif" width="121" height="42" alt="Collections" name="nav_b5" border="0"></a></td>
-			<td><a href="/collection/series.html" onmouseover="NGRollOver('nav_b6');window.status='Series';return true;" onmouseout="NGRollOut('nav_b6');window.status='';return true;"><img src="/images2006/nav_b6_off.gif" width="73" height="42" alt="Series" name="nav_b6" border="0"></a></td>
-			<td><a href="/bbs/" onmouseover="NGRollOver('nav_b7');window.status='Forums';return true;" onmouseout="NGRollOut('nav_b7');window.status='';return true;"><img src="/images2006/nav_b7_off.gif" width="83" height="42" alt="Forums" name="nav_b7" border="0"></a></td>
-			<td><a href="/ngmag/" onmouseover="NGRollOver('nav_b8');window.status='NG Mag';return true;" onmouseout="NGRollOut('nav_b8');window.status='';return true;"><img src="/images2006/nav_b8_off.gif" width="86" height="42" alt="NG Mag" name="nav_b8" border="0"></a></td>
-	  </tr>
-	  </tbody></table>
-	</td>
-	</tr>
-	<tr>
-		<td align="center">
-		<table border="0" cellpadding="0" cellspacing="0" width="770">
-			<tbody><tr>
-				<td width="15"><img src="/layout04/newhf/banner_left.gif" width="12" height="100"></td>
-				<td width="100%" background="/layout04/newhf/banner_mid.gif" align="center">
-				<iframe src="http://ads.newgrounds.com/ads.php?t=1&amp;s=et" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe>
-				</td>
-				<td width="26"><img src="/layout04/newhf/banner_right.gif" width="23" height="100"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td background="/layout04/newhf/bg_full.gif" align="center">
-		
+
+					</form>
+				</div>
+				<div id="loginbox_loggedin" class="logged hidecode">
+					<div id="loginbox_loggedin_msg">
+						<strong class="status">Logged in as:<br><span id="loginbox_username">.</span></strong>
+					</div>
+					<div id="loginbox_animation_logout" class="hidecode">
+						<strong class="status">Logging out…</strong>
+					</div>
+					<span class="btn"><a href="http://www.newgrounds.com/pm/">Inbox<em id="unread_pm_count_display"></em></a></span>
+					<span class="btn"><a href="http://www.newgrounds.com/account/">My Account</a></span>
+					<span class="btn"><a href="http://www.newgrounds.com/account/logout" onclick="AttemptLogout();return(false);">Log Out</a></span>
+				</div>
+			</div>
+
+			<form method="get" id="search" action="#" onsubmit="RunSearch('topsearch', 'portal');return(false);">
+				<input type="text" id="topsearch_terms" size="12" class="search inputfield formtext">
+				<select id="topsearch_type" class="formtext pulldown">
+					<option value="title">Title&nbsp;&nbsp;</option>
+					<option value="author">Author&nbsp;&nbsp;</option>
+				</select>
+				<span class="btn"><a href="#" onclick="RunSearch('topsearch', 'portal');return(false);">Search!</a></span>
+			</form>
+
+			<div id="nav-sub">
+				<dl>
+					<dd><a href="http://www.newgrounds.com/primer">About Newgrounds</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/news/">Blogs</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/chat/">Chat</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/downloads/">Downloads</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/lit/">Lit</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/mature/">Mature</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/network/">Network</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/rankings/">Rankings</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/store/">Store</a> |</dd>
+					<dd><a href="http://www.newgrounds.com/submit">Submit Content!</a></dd>
+				</dl>
+			</div>
+
+			<div id="nav-main">
+				<dl>
+					<dd id="flashportal"><a href="http://www.newgrounds.com/portal/">Flash Portal</a></dd>
+					<dd id="audioportal"><a href="http://www.newgrounds.com/audio/">Audio Portal</a></dd>
+					<dd id="games"><a href="http://www.newgrounds.com/game/">Games</a></dd>
+					<dd id="toons"><a href="http://www.newgrounds.com/toon/">Toons</a></dd>
+					<dd id="collections"><a href="http://www.newgrounds.com/collection/">Collections</a></dd>
+					<dd id="series"><a href="http://www.newgrounds.com/collection/series">Series</a></dd>
+					<dd id="forums"><a href="http://www.newgrounds.com/bbs/">Forums</a></dd>
+					<dd id="ngmag"><a href="http://www.newgrounds.com/ngmag/">NG Mag</a></dd>
+				</dl>
+			</div>
+			<br clear="left">
+
 			<script type="text/javascript">
+			// <![CDATA[
 				LoadLoginBox();
+			// ]]>
 			</script>
-		<!---------- END GLOBAL HEADER ---------->
+			
+			<!-- USERBANNER -->
+			
+			<div id="cont-out">
+				<div id="cont-mid">
+					<div id="cont">
+
+						<!-- NOAD -->
+			
+						<div class="box ad">
+							<div class="boxtop"><div></div></div>
+							<div class="boxl">
+								<div class="boxr">
+									<div class="boxm">
+										<iframe src="http://ads.newgrounds.com/ads.php?t=1&amp;s=et" frameborder="0" height="90" width="728" scrolling="no" class="horzad" id="topsuperbanner"></iframe>
+									</div>
+								</div>
+							</div>
+							<div class="boxbot"><div></div></div>
+						</div>
+						<br clear="left">
+
+						<!-- End of the top header include -->
 
 
 
-<center>
-<table border="0" width="730" cellpadding="0" cellspacing="0"><tbody><tr><td>
+						<div class="all lit">
 
-<br>
-<font face="arial" size="-1">
-<div>
-<!--  Begin of Privacy Statement 
-    -->
-<h2>
-Privacy Statement for 
-Newgrounds
-</h2>
-<p>
-<b>
-Newgrounds
-</b>
- has created this privacy
-      statement in order to demonstrate our firm commitment to privacy.
-      The following discloses the information gathering and
-      dissemination practices for this Web site:
-      
-<a href="http://www.newgrounds.com">
-Newgrounds
-</a>
-</p>
+							<div class="box title">
+								<div class="boxtop"><div></div></div>
+								<div class="boxl">
+									<div class="boxr">
+										<div class="boxm">
+											<div class="headsizer">
+												<div class="heading"><h2 class="i-readme">Newgrounds<strong class="gray">:</strong> <span>Privacy Statement</span></h2></div>
+											</div>
 
-<h4>
-Information Automatically Logged
-</h4>
-<p>
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for on-line voting.
-</p>
+											<div class="bundle">
+											<ul class="bread"><li class="first"><a href="/">NG Home</a></li> <li class="white">Privacy</li></ul>
+											</div>
 
-<div class="section" id="cookiedet">
-<h4>
-Cookies
-</h4>
-<p>
-Our Site uses cookies for the purpose of accumulating Grounds Gold. For each unique area you visit, you receive one gold unit. This information is not used for marketing purposes.
-</p>
+											<div class="hr"><hr></div>
+
+											<div class="boxdeep">
+											<p>Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, <a href="/">Newgrounds.com</a>.</p>
+
+											<h4 class="white">Information Automatically Logged</h4>
+											<p>We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for on-line voting.</p>
+
+											<h4 class="white">Cookies</h4>
+											<p>Our site uses cookies to store your login information, if you choose to create an account and browse the site as a registered user.</p>
+
+											<h4 class="white">Third Party Advertising</h4>
+											<p>Some ads appearing on this website are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please visit <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a>.</p>
+											<p>We use Gorilla Nation, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.</p>
+
+											<h4 class="white"> Advertisers &amp; Third Party Cookies</h4>
+											<p>In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique cookie on your browser. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.</p>
+
+											<h4 class="white">Registration Forms</h4>
+											<p>Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (such as their zip code or age). Contact information from these forms is used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
+											<p>Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.</p>
+
+											<h4 class="white">Order Forms</h4>
+											<p>Our site uses an order form for customers to request information, products, and services. We may collect contact information (such as their email address) from these forms to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below.</p>
+
+											<h4 class="white">Contests</h4>
+											<p>We run contests on our site in which we ask visitors for contact information. This information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
+
+											<h4 class="white">External Links</h4>
+											<p>This site contains links to other sites. Newgrounds is not responsible for the privacy practices or the content of such Web sites.</p>
+
+											<h4 class="white">Public Forums</h4>
+											<p>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+
+											<h4 class="white">Children's Guidelines</h4>
+											<p>This site DOES NOT MEET the Online Privacy Protection Act guidelines. This site has links that are unsuitable for children.</p>
+
+											<h4 class="white">Choice/Opt-Out</h4>
+											<p>Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. This may be done from the <a href="/account/">account options page</a>.</p>
+
+											<h4 class="white">Data Quality/Access</h4>
+											<p>This site gives users the option of changing and modifying information previously provided. This may be done from the <a href="/account/">account options page</a>.</p>
+
+											<h4 class="white">Contacting the Web Site</h4>
+											<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: <a href="mailto:tom@newgrounds.com">tom@newgrounds.com</a>.</p>
+
+											</div>
+
+										</div>
+									</div>
+								</div>
+								<div class="boxbot"><div></div></div>
+							</div>
+
+
+
+						</div>
+
+						<!-- Beginning of the bottom footer include -->
+
+						<div class="box adfoot">
+							<div class="boxtop"><div></div></div>
+							<div class="boxl">
+								<div class="boxr">
+									<div class="boxm">
+										<iframe src="http://www.newgrounds.com/includes/ad_bottom.php?id=2" scrolling="no" frameborder="0" height="90" width="728" id="bottomsuperbanner" class="horzad"></iframe>
+									</div>
+								</div>
+							</div>
+							<div class="boxbot"><div></div></div>
+						</div>
+
+						<!-- UP-HEADER:BEGIN -->
+
+						<br clear="all">
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
-<div class="section" id="advdet">
-<h4>
-Advertisers
-</h4>
-<p>
-
-        We use an outside ad company to display ads on our site. These ads may contain cookies. 
-        While we use cookies in other parts of our Web site, cookies received with banner ads are 
-        collected by our ad company, and we do not have access to this information.
-      
-</p>
-
+<div id="foot">
+	<div><span>
+		<strong class="dotted yellow">© Copyright 1995-2007 Newgrounds, Inc. All Rights Reserved. <a href="http://www.newgrounds.com/privacy" class="yellow">Privacy Policy</a> | <a href="http://www.newgrounds.com/legal" class="yellow">Terms of Use</a></strong>
+		<strong class="dotted">newgrounds.com — Your #1 online entertainment community. All your base are belong to us.</strong>
+		<strong class="dotted yellow">
+			<a href="http://www.newgrounds.com/portal/">Flash Portal</a> |
+			<a href="http://www.newgrounds.com/audio/">Audio Portal</a> |
+			<a href="http://www.newgrounds.com/game/">Games</a> |
+			<a href="http://www.newgrounds.com/toon/">Toons</a> |
+			<a href="http://www.newgrounds.com/collection/">Collections</a> |
+			<a href="http://www.newgrounds.com/collection/series">Series</a> |
+			<a href="http://www.newgrounds.com/bbs/">Forums</a> |
+			<a href="http://www.newgrounds.com/ngmag/">NG Mag</a>
+		</strong>
+		<strong class="dotted orange">
+			<a href="http://www.newgrounds.com/primer">About Newgrounds</a> |
+			<a href="http://www.newgrounds.com/lit/faq">Help / FAQ</a> |
+			<a href="http://www.newgrounds.com/chat/">Chat</a> |
+			<a href="http://www.newgrounds.com/lit/">Literature</a> |
+			<a href="http://www.newgrounds.com/webcam/">Webcams</a> |
+			<a href="http://www.newgrounds.com/mature/">Mature</a> |
+			<a href="http://www.newgrounds.com/rankings/">Rankings</a> |
+			<a href="http://www.newgrounds.com/network/">Network</a> |
+			<a href="http://www.newgrounds.com/downloads/">NG Arsenal</a>
+		</strong>
+		<strong class="dotted red">
+			<a href="http://www.newgrounds.com/staff">The Staff</a> |
+			<a href="http://www.newgrounds.com/store/">NG Store</a> |
+			<a href="http://www.newgrounds.com/link">Link to Us!</a> |
+			<a href="http://www.newgrounds.com/submit">Submit Content!</a> |
+			<a href="http://www.newgrounds.com/feeds/rss/">RSS</a>
+		</strong>
+	</span></div>
 </div>
 
-<p>
-
-</p><h3><font face="Verdana">
-	Third Party Advertising</font></h3>
-Some ads appearing on this website are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">click here</a>
-<p>
-We use Gorilla Nation, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.
-
-</p><h3><font face="Verdana">
-	Third Party Cookies</font></h3>
-In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser.
-
-<p></p>
-
-
-<div class="section" id="reg">
-<h4>
-Registration Forms
-</h4>
-<p>
-Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (like their zip code or age). 
-</p>
-
-<p>
-Contact information from the registration forms is used to get in touch with the customer when necessary. 
-</p>
-
-<p>
-
-        Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-      
-</p>
-
-<p>
-Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
-</p>
-
-<p>
-
-        Demographic and profile data is also collected at our site. 
-<br>
-
- 
-          This information is shared with advertisers on an aggregate basis.
-
-</p>
-
-</div>
-
-<div class="section" id="order">
-<h4>
-Order Forms
-</h4>
-<p>
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address). 
-</p>
-
-<p>
-Contact information from the order forms is used to get in touch with the visitor when necessary. 
-</p>
-
-<p>
-
-        Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-      
-</p>
-
-</div>
-
-<div class="section" id="survey">
-<h4>
-Surveys
-</h4>
-<p>
-Our online surveys ask visitors for contact information (like email address). 
-</p>
-
-<p>
-Contact information from the surveys is used to identify users. The customer's contact information is also used to get in touch with the visitor when necessary. 
-</p>
-
-<p>
-
-        Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-      
-</p>
-
-</div>
-
-<div class="section" id="contests">
-<h4>
-Contests
-</h4>
-<p>
-We run contests on our site in which we ask visitors for contact information (like email address). 
-</p>
-
-<p>
-Contact information from the contests is used to get in touch with the visitor when necessary. 
-</p>
-
-<p>
-
-        Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-      
-</p>
-
-</div>
-
-<div class="section" id="linkothers">
-<h4>
-External Links
-</h4>
-<p>
-
-        This site contains links to other sites. 
-        
-<b>
-Newgrounds
-</b>
- 
-        is not responsible for the privacy practices or the content of such Web sites. 
-      
-</p>
-</div>
-
-<div class="section" id="cobranded">
-<h4>
-Special Relationships
-</h4>
-<p>
-Newgrounds is a Tromaville.com affiliate. All user data is made available to Tromaville.
-</p>
-</div>
-
-<div class="section" id="pforum">
-<h4>
-Public Forums
-</h4>
-<p>
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-</p>
-</div>
-
-<div class="section" id="childguidedet">
-<h4>
-Children's Guidelines
-</h4>
-
-<p>
-
-          This site 
-<b>
-DOES NOT MEET
-</b>
- the Online Privacy Protection Act guidelines
-          The following criteria are violated: 
-          
-</p><ol>
-<li>
-
-	     This site has links that are unsuitable for children.
-</li>
-
-</ol>
-<p></p>
-
-</div>
-
-<div class="section" id="optout">
-<h4>
-Choice/Opt-Out
-</h4>
-
-<p>
-
-        Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.
-      
-</p>
-
-<p>
-</p><ol>
-
-<li>
-
-            You can visit the following URL: 
-<a href="http://www.newgrounds.com/gold/index.html">
-http://www.newgrounds.com/gold/index.html
-</a>
-</li>
-
-</ol>
-<p></p>
-
-</div>
-
-<div class="section" id="data">
-<h4>
-Data Quality/Access
-</h4>
-<p>
-This site gives users the following options for changing and modifying information previously provided:
-        
-</p><ol>
-
-<li>
-
-            You can visit the following URL: 
-<a href="http://www.newgrounds.com/gold/index.html">
-http://www.newgrounds.com/gold/index.html
-</a>
-</li>
-
-</ol>
-<p></p>
-</div>
-
-<h2>
-Contacting the Web Site
-</h2>
-<p>
-
-      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-      
-<br>
-</p><address>
-<a href="mailto:tom@newgrounds.com">tom@newgrounds.com</a>
-</address>
-<p></p>
-<!--  End of Privacy Statement 
-    -->
-</div>
-
-
-
-</font></td></tr></tbody></table>
-<p>
-
-
-		<!---------- BEGIN GLOBAL FOOTER ---------->
-		</p></center></td>
-	</tr>
-	<tr>
-		<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="770">
-			<tbody><tr>
-				<td width="185"><img src="/layout04/newhf/sub_left.gif" width="185" height="23"></td>
-				<td background="/layout04/newhf/sub_bg.gif" width="575">
-				<table border="0" cellpadding="5" cellspacing="0" width="100%">
-					<tbody><tr>
-						<td class="font_vd_small"><a href="/portal/">Flash Portal</a> | <a href="/game/">Games</a> | <a href="/toon/">Toons</a> | <a href="/collection/hot.html">Genres &amp; Series</a> | <a href="/audio/">Audio Portal</a> | <a href="/ngmag/">NG Mag</a> | <a href="/mature">Mature</a> | <a href="/shop/">NG Store</a></td>
-						<td class="font_vd_small"><b>^ <a href="#top">Top</a></b></td>
-					</tr>
-				</tbody></table>
-				</td>
-				<td width="10"><img src="/layout04/newhf/sub_right.gif" width="10" height="23"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-		<table border="0" cellpadding="0" cellspacing="0" width="770">
-			<tbody><tr>
-				<td width="10"><img src="/layout04/newhf/bot_1.gif" width="10" height="30"></td>
-				<td width="750" background="/layout04/newhf/bot_bg.gif" align="center">
-				<table border="0" cellpadding="0" cellspacing="0" width="750">
-					<tbody><tr>
-						<td>
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td><img src="/layout04/newhf/bot_2.gif" width="11" height="30"></td>
-								<td background="/layout04/newhf/bot_3.gif" class="font_vd_small"><b>Copyright 1995-2006 <a href="/">Newgrounds Inc</a>.<br>
-								<img src="/layout04/newhf/spacer_3.gif" width="3" height="3"></b></td>
-								<td><img src="/layout04/newhf/bot_4.gif" width="13" height="30"></td>
-							</tr>
-						</tbody></table>
-						</td>
-						<td align="right" valign="middle">
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td><img src="/layout04/newhf/bot_5.gif" width="13" height="30"></td>
-								<td background="/layout04/newhf/bot_6.gif" align="right" valign="middle" class="font_contact"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link To NG</a><br> <img src="/layout04/newhf/spacer_3.gif" width="3" height="3"></td>
-								<td><img src="/layout04/newhf/bot_7.gif" width="11" height="30"></td>
-							</tr>
-						</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-				</td>
-				<td width="10"><img src="/layout04/newhf/bot_8.gif" width="10" height="30"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="/layout04/newhf/ad_top.gif" width="770" height="10"></td>
-	</tr>
-	<tr>
-		<td align="center">
-		<table border="0" cellpadding="0" cellspacing="0" width="770">
-			<tbody><tr>
-				<td width="13" background="/layout04/newhf/ad_left.gif" align="center"><img src="/layout04/newhf/ad_spacer.gif" width="13" height="5"></td>
-				<td width="100%" background="/layout04/newhf/ad_bg.gif" align="center"><img src="/layout04/newhf/spacer_5.gif" width="5" height="5">
-				<script language="JavaScript">
-				<!--
-
-					var ng_chars = new Array("/iframe_comotion.html", "/iframe_comotion2.html");
-					document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
-
-				//--></script><iframe src="/iframe_comotion.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_comotion2.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript></td>
-				<td width="13" background="/layout04/newhf/ad_right.gif" align="center"><img src="/layout04/newhf/ad_spacer.gif" width="13" height="5"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="center"><img src="/layout04/newhf/bottom.gif" width="770" height="34"></td>
-	</tr>
-</tbody></table>
-<!---------- END GLOBAL FOOTER ---------->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-850825-1";
 urchinTracker();
 </script>
- 
+
+
 
 </body></html>
