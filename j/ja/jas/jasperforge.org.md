@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430163404id_/http%3A//jasperforge.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211075433id_/http%3A//www.jasperforge.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D74) for the most accurate reproduction.*
 
 # JasperForge - Privacy Policy
 
@@ -77,7 +77,7 @@ We revise our Web Site Privacy Policy to keep it up to date with JasperSoft prod
 If you have any questions about this privacy statement, the practices of our software or Websites, contact: 
 
 **JasperSoft**  
-E-Mail: [ ](http://www.jasperforge.org/mailto:%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy22523%20=%20'info'%20+%20'@';%20addy22523%20=%20addy22523%20+%20'jaspersoft'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20':'%20+%20addy22523%20+%20'/'%3E'%20\);%20document.write\(%20addy22523%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cnoscript%3E%20This%20email%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20Javascript%20enabled%20to%20view%20it%3C/noscript%3E)[info@jaspersoft.com](mailto:info@jaspersoft.com)  
+E-Mail: [ ](http://www.jasperforge.org/mailto:%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy45520%20=%20'info'%20+%20'@';%20addy45520%20=%20addy45520%20+%20'jaspersoft'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20':'%20+%20addy45520%20+%20'/'%3E'%20\);%20document.write\(%20addy45520%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cnoscript%3E%20This%20email%20address%20is%20being%20protected%20from%20spam%20bots,%20you%20need%20Javascript%20enabled%20to%20view%20it%3C/noscript%3E)[info@jaspersoft.com](mailto:info@jaspersoft.com)  
 303 Second Street  
 Suite 450 North  
 San Francisco, CA 94107 
