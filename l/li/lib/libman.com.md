@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416152234id_/http%3A//www.libman.com/index.aspx%3Fsrc%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libman.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211214539id_/http%3A//libman.com/index.aspx%3Fsrc%3DPRV) for the most accurate reproduction.*
 
 # 
 
@@ -50,7 +50,7 @@ You can access all your personally identifiable information that we collect onli
 
 Opting Out of Promotional Information 
 
-We intend to offer visitors to our website only opportunities that will interest them, and we believe they will welcome the information they receive as a result of visiting The Libman Company website. We may send you information about our various products and services, or other products and services we feel may be of interest to you. However, we respect the preference of some of our websites visitors to limit their Email, mail and telephone calls. If you would prefer not to receive promotional information as a result of using The Libman Company website, we will do our best to remove your name from our marketing programs. We will act promptly to honor your request. 
+We intend to offer visitors to our website only opportunities that will interest them, and we believe they will welcome the information they receive as a result of visiting The Libman Company website. We may send you information about our various products and services, or other products and services we feel may be of interest to you. However, we respect the preference of some of our website�s visitors to limit their Email, mail and telephone calls. If you would prefer not to receive promotional information as a result of using The Libman Company website, we will do our best to remove your name from our marketing programs. We will act promptly to honor your request. 
 
 How To Contact Us 
 
