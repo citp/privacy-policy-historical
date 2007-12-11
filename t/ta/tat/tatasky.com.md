@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208213322id_/http%3A//www.tatasky.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211141151id_/http%3A//www.tatasky.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Tata Sky Satellite Television – Privacy Policy
+# Tata Sky Satellite Television – PRIVACY POLICY
 
 Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Web site “www.tatasky.com” (“Site”).
 
