@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608050542id_/http%3A//wdrb.dayport.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrb.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211040415id_/http%3A//wdrb.dayport.com/Privacy) for the most accurate reproduction.*
 
-# WDRB Louisville, FOX 41...Your First Choice for News, Sports & Entertainment
+# WDRB Louisville, FOX 41
 
 **Fox 41 Privacy Policy Statement** This is the web site of **Independence Television Company d/b/a Fox41.com**.
 
