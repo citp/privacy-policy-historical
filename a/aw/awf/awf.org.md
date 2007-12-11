@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530001514id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081846id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
 
 # AWF: Privacy Policy
 
@@ -10,7 +10,7 @@ In order to fully understand your rights we encourage you to read this Privacy P
 
 What Information We Collect and How We Use That Information:
 
-Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
+Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. **Members who wish to ensure that their information is not shared should contact AWF using the instructions provided below.**
 
 Internet Protocol Address:
 
@@ -28,7 +28,7 @@ All information provided to the African Wildlife Foundation is transmitted using
 
 Complaints: 
 
-If you wish to file a complaint as to our compliance with our Privacy Policy, please contact us. The African Wildlife Foundation takes your privacy complaints very seriously, so please be clear and detailed as to all facts related to your complaints
+If you wish to file a complaint as to our compliance with our Privacy Policy, [please contact us](mailto:webmaster@awf.org). The African Wildlife Foundation takes your privacy complaints very seriously, so please be clear and detailed as to all facts related to your complaints
 
 Other Websites: 
 
