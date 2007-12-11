@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630175921id_/http%3A//www.cornerstone.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100727id_/http%3A//www.cornerstone.edu/about/privacy) for the most accurate reproduction.*
 
-# Cornerstone University
+# PRIVACY POLICY STATEMENT - Cornerstone University
 
-Cornerstone University is committed to honoring the privacy of visitors to its   
-websites. The following discloses our information gathering and dissemination practices for the Cornerstone University websites: 
+Cornerstone University is committed to honoring the privacy of visitors to its websites. The following discloses our information gathering and dissemination practices for the Cornerstone University websites: 
 
 ## Forms 
 
@@ -24,8 +23,7 @@ We may use your IP address to help diagnose problems with our server and to admi
 
 ## Use of information
 
-Cornerstone University may use the information gathered above   
-to tailor site content to user needs and to generate aggregate statistical reports. 
+Cornerstone University may use the information gathered above to tailor site content to user needs and to generate aggregate statistical reports. 
 
 At no time do we disclose site usage by individual IP addresses. Web server logs are retained on a temporary basis and then deleted from our systems. 
 
