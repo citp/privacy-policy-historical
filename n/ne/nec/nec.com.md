@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072158id_/http%3A//www.nec.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105046id_/http%3A//www.nec.com/global/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy: Terms | NEC
+# Privacy: Terms | NEC | NEC
 
 Last Update: March 1, 2002
 
@@ -20,23 +20,29 @@ We may also collect information that is provided to us by your browser. This may
 
 Information is collected and used in various ways, including those below.
 
-**Browsing**
-    When you visit our site or click on advertisements or promotional areas on the site. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion. 
+### Browsing
 
-**Technical support**
-    When you request technical support for your NEC products. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions.
+When you visit our site or click on advertisements or promotional areas on the site. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion.
 
-**Online surveys and polling**
-    When you volunteer to complete surveys or participate in polls. We use this information to improve our products and services.
+### Technical support
 
-**Promotional activities**
-    When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners' list publicly available in compliance with laws which may apply to such activities.
+When you request technical support for your NEC products. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions.
 
-**Newsletters and promotional e-mails**
-    As a service to our customers, we may e-mail to you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them or if you have the right to opt out from further receiving them.
+### Online surveys and polling
 
-**Contact information**
-    If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
+When you volunteer to complete surveys or participate in polls. We use this information to improve our products and services.
+
+### Promotional activities
+
+When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners' list publicly available in compliance with laws which may apply to such activities.
+
+### Newsletters and promotional e-mails
+
+As a service to our customers, we may e-mail to you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them or if you have the right to opt out from further receiving them.
+
+### Contact information
+
+If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
 
 ## 4.Sharing your Personal Information
 
@@ -78,4 +84,4 @@ NEC will protect your Personal Information in accordance with the laws of Japan.
 
 ## 11.Contact us
 
-Please contact the Webmaster through the "[Contact Us (Others)](https://www.nec.com/cgi-bin/contact/select_qc.cgi)" section if you have any questions or comments about the above.
+Please contact the Webmaster through the "[Contact Us (Others)](https://web.archive.org/cgi-bin/contact/select_qc.cgi)" section if you have any questions or comments about the above.
