@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625062330id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211092107id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MetroJoint.com
 
@@ -122,7 +122,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 ** Top **  
    
 **Tell me about MetroJoint.com's policy on correcting, updating or removing personal information.**  
-MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20070625062330id_/http%3A//www.metrojoint.com/contactus.asp).  
+MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20071211092107id_/http%3A//www.metrojoint.com/contactus.asp).  
 ** Top **  
    
 **Changes in MetroJoint.com's privacy policy.**  
@@ -141,7 +141,7 @@ MetroJoint.com takes every precaution to protect its users' information. When us
 
 All of our users' information is restricted in our offices and data center. Only employees (for example, a customer service representative) who need the information to perform a specific job are granted access to personally identifiable information.
 
-If you have any questions about the security at our website, please [contact us.](https://web.archive.org/web/20070625062330id_/http%3A//www.metrojoint.com/contactus.php)  
+If you have any questions about the security at our website, please [contact us.](https://web.archive.org/contactus.php)  
   
 ** Top **  
    
@@ -156,7 +156,7 @@ Users who no longer wish to receive our newsletter or promotional materials from
 **Tell me how to contact MetroJoint.com.**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [  
-contact us.](https://web.archive.org/web/20070625062330id_/http%3A//www.metrojoint.com/contactus.php)  
+contact us.](https://web.archive.org/contactus.php)  
 **   Top   **  
    
    
