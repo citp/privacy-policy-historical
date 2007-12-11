@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucknuts.com privacy policy that was archived on 2007-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070518125728id_/http%3A//bucknuts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknuts.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211045853id_/http%3A//bucknuts.com/privacypolicy) for the most accurate reproduction.*
 
-# Bucknuts.com - THE Unauthorized Ohio State Sports Site
+# Bucknuts.com - THE Independent Ohio State Sports Site
 
 Thank you for visiting Bucknuts, LLC and Bucknuts.com ("Bucknuts"). Bucknuts wants to demonstrate its commitment to your privacy. As a result, Bucknuts provides the following Privacy Policy that explains how it protects your personally identifiable data. Our goal is to bring you current and up-to-date information about the football and men's basketball programs at The Ohio State University that are tailored to your individual needs and, at the same time, protect your privacy.
 
