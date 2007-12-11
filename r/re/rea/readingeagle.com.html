@@ -1,0 +1,520 @@
+<!--The following is the downloaded HTML source of the readingeagle.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/Article.aspx%3Fid%3D44841) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+		<title>
+			Privacy Policy - Reading Eagle Newspaper</title>
+		<meta id="keywords" name="keywords" content="Privacy Policy">
+		<meta id="description" name="description" content="">
+		<script type="text/javascript" language="javascript" src="lytebox.js"></script>
+		<link rel="stylesheet" href="lytebox.css" type="text/css" media="screen">
+			<link href="styles.css" type="text/css" rel="Stylesheet">
+				<script src="lib/prototype.js" type="text/javascript"></script>
+				<script src="lib/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/lib/builder.js"></script><script type="text/javascript" src="https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/lib/effects.js"></script><script type="text/javascript" src="https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/lib/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/lib/controls.js"></script><script type="text/javascript" src="https://web.archive.org/web/20071211232418id_/http%3A//readingeagle.com/lib/slider.js"></script>
+				<script id="clientEventHandlersJS" language="javascript">
+
+
+function increaseLightness(newValue)
+{
+		document.getElementById('ArticleImage').style.opacity = newValue;
+		document.getElementById('ArticleImage').style.MozOpacity = newValue; //document.getElementById('CoverImage').style.opacity;
+		document.getElementById('ArticleImage').style.filter = 'alpha(opacity='+newValue+')';
+		if (newValue < 100)
+		{
+			setTimeout('increaseLightness(parseInt('+newValue+' + 5));', 75);
+			document.getElementById('StopButton').disabled = 'disabled';
+			document.getElementById('StartButton').disabled = 'disabled';
+			document.getElementById('PreviousButton').disabled = 'disabled';
+			document.getElementById('NextButton').disabled = 'disabled';
+			
+			document.getElementById('StartButton').style.cursor = 'not-allowed';
+			document.getElementById('PreviousButton').style.cursor = 'not-allowed';
+			document.getElementById('NextButton').style.cursor = 'not-allowed';
+			document.getElementById('StopButton').style.cursor = 'not-allowed';
+		}
+		else
+		{
+			if (slideShowRunning == true )
+			{
+				document.getElementById('StartButton').disabled = 'disabled';
+				document.getElementById('PreviousButton').disabled = 'disabled';
+				document.getElementById('NextButton').disabled = 'disabled';
+				document.getElementById('StopButton').disabled = '';
+				
+				document.getElementById('StartButton').style.cursor = 'not-allowed';
+				document.getElementById('PreviousButton').style.cursor = 'not-allowed';
+				document.getElementById('NextButton').style.cursor = 'not-allowed';
+				//document.getElementById('StopButton').style.cursor = 'hand';
+				//document.getElementById('StopButton').style.cursor = 'pointer';
+				document.getElementById('StopButton').style.cssText = 'HandCursor';
+			}
+			else
+			{
+				document.getElementById('StopButton').disabled = 'disabled';
+				document.getElementById('StartButton').disabled = '';
+				document.getElementById('PreviousButton').disabled = '';
+				document.getElementById('NextButton').disabled = '';
+				
+				//document.getElementById('StartButton').style.cursor = 'hand';
+				//document.getElementById('PreviousButton').style.cursor = 'hand';
+				//document.getElementById('NextButton').style.cursor = 'hand';
+				//document.getElementById('StartButton').style.cursor = 'pointer';
+				//document.getElementById('PreviousButton').style.cursor = 'pointer';
+				//document.getElementById('NextButton').style.cursor = 'pointer';
+				
+				document.getElementById('StartButton').style.cssText = 'HandCursor';
+				document.getElementById('PreviousButton').style.cssText = 'HandCursor';
+				document.getElementById('NextButton').style.cssText = 'HandCursor';
+				document.getElementById('StopButton').style.cursor = 'not-allowed';
+			}
+		}
+}
+
+function stopSlideShow()
+{
+	if (slideShowRunning == true)
+	{
+		slideShowRunning = false;
+		document.getElementById('StopButton').disabled = 'disabled';
+		document.getElementById('StartButton').disabled = '';
+		document.getElementById('PreviousButton').disabled = '';
+		document.getElementById('NextButton').disabled = '';
+		
+		//document.getElementById('StartButton').style.cursor = 'hand';
+		//document.getElementById('PreviousButton').style.cursor = 'hand';
+		//document.getElementById('NextButton').style.cursor = 'hand';
+		//document.getElementById('StartButton').style.cursor = 'pointer';
+		//document.getElementById('PreviousButton').style.cursor = 'pointer';
+		//document.getElementById('NextButton').style.cursor = 'pointer';
+		document.getElementById('StartButton').style.cssText = 'HandCursor'; 
+		document.getElementById('PreviousButton').style.cssText = 'HandCursor';
+		document.getElementById('NextButton').style.cssText = 'HandCursor';
+		document.getElementById('StopButton').style.cursor = 'not-allowed';
+		
+		document.getElementById('StartButton').src = 'images/play.gif';
+		
+		document.getElementById('StopButton').src = 'images/pause_black.gif';
+	}
+}
+
+function startSlideShow()
+{
+	if (slideShowRunning == false)
+	{
+		slideShowRunning = true;
+		getStartCursors();
+		callCount++;
+		moveNext(false, 1);
+	}
+}
+
+
+function getStartCursors()
+{
+		if ( document.getElementById('StartButton') != null )
+			document.getElementById('StartButton').disabled = 'disabled';
+		if ( document.getElementById('PreviousButton') != null )
+			document.getElementById('PreviousButton').disabled = 'disabled';
+		if ( document.getElementById('NextButton') != null )
+			document.getElementById('NextButton').disabled = 'disabled';
+		if ( document.getElementById('StopButton') != null )
+			document.getElementById('StopButton').disabled = '';
+		if ( document.getElementById('StartButton') != null )
+			document.getElementById('StartButton').style.cursor = 'not-allowed';
+		if ( document.getElementById('PreviousButton') != null )
+			document.getElementById('PreviousButton').style.cursor = 'not-allowed';
+		if ( document.getElementById('NextButton') != null )
+			document.getElementById('NextButton').style.cursor = 'not-allowed';
+		if ( document.getElementById('StopButton') != null )
+			document.getElementById('StopButton').style.cssText = 'HandCursor';
+		if ( document.getElementById('StartButton') != null )
+			document.getElementById('StartButton').src = 'images/play_black.gif';
+		if ( document.getElementById('StopButton') != null )
+			document.getElementById('StopButton').src = 'images/pause.gif';
+}
+
+function siwtchTopArticlesControls(id1, id2)
+{
+	document.getElementById(id1).style.display = 'none';
+	document.getElementById(id2).style.display = 'block';
+}
+
+function window_onload() 
+{
+	try
+	{
+		var i;
+		
+		if ( document.getElementById('ArticleImageContainer') != null )
+			if ( typeof(document.getElementById('ArticleImageContainer').style.display) != "undefined" )
+				document.getElementById('ArticleImageContainer').style.display = 'block';
+		
+		if ( document.getElementById('ArticleCredit') != null )
+			if ( typeof(document.getElementById('ArticleCredit').style.display) != "undefined" )
+				document.getElementById('ArticleCredit').style.display = 'block';
+		
+		if ( document.getElementById('ArticleCaption') != null )
+			if ( typeof(document.getElementById('ArticleCaption').style.display) != "undefined" )
+				document.getElementById('ArticleCaption').style.display = 'block';
+		
+		if ( document.getElementById('ArticleFloatContainer') != null )
+			if ( typeof(document.getElementById('ArticleFloatContainer').style.width) != "undefined" && typeof(document.getElementById('ArticleImage').style.width)  )	
+			document.getElementById('ArticleFloatContainer').style.width = document.getElementById('ArticleImage').width;
+		
+			
+		
+		var newHeight = 0;
+		var newWidth = 0;
+			
+		for ( i = 0; i <= maxCount; i++)
+		{
+			document.getElementById('ArticleImage').src=eval('pic'+i+'.src');
+			document.getElementById('ArticleCredit').innerText=eval('credit'+i);
+			document.getElementById('ArticleCredit').textContent=eval('credit'+i);
+			document.getElementById('ArticleCaption').innerText=eval('cutline'+i);
+			document.getElementById('ArticleCaption').textContent=eval('cutline'+i);
+			if ( eval('pic'+i+'.width') > newWidth )
+				newWidth = eval('pic'+i+'.width');
+			if ( document.getElementById('ControlButtonContainer') != null )
+				if ( document.getElementById('ControlButtonContainer').clientWidth > newWidth )
+					newWidth = document.getElementById('ControlButtonContainer').clientWidth; 
+		}
+		
+		if ( newWidth < 200 && document.getElementById('SubArticle') != null )
+			newWidth = 200;
+		
+		if ( document.getElementById('ArticleFloatContainer') != null )	
+		{	
+			document.getElementById('ArticleFloatContainer').style.width = newWidth + 10 + 'px';
+		}
+		if ( document.getElementById('ControlButtonContainer') != null )
+			document.getElementById('ControlButtonContainer').style.width = newWidth + 10 + 'px';
+		if ( document.getElementById('ControlBreak') != null )
+			document.getElementById('ControlBreak').style.width = newWidth + 10 + 'px';
+		if ( document.getElementById('ArticleToolsTable') != null )
+			document.getElementById('ArticleToolsTable').style.width = newWidth + 10 + 'px';
+		if ( document.getElementById('TopArticlesContainer') != null )
+			document.getElementById('TopArticlesContainer').style.width = '300px'; //document.getElementById('BodyAd').clientWidth + 'px';
+		if ( document.getElementById('SubArticle') != null )
+			document.getElementById('SubArticle').style.width = newWidth + 10 + 'px';
+		//TopArticlesTable		
+		for ( i = 0; i <= maxCount; i++)
+		{
+			document.getElementById('ArticleImage').src=eval('pic'+i+'.src');
+			document.getElementById('ArticleCredit').innerText=eval('credit'+i);
+			document.getElementById('ArticleCredit').textContent=eval('credit'+i);
+			document.getElementById('ArticleCaption').innerText=eval('cutline'+i);
+			document.getElementById('ArticleCaption').textContent=eval('cutline'+i);
+			if (document.getElementById('ArticleFloatContainer').clientHeight > newHeight )
+				newHeight = document.getElementById('ArticleFloatContainer').clientHeight;	
+		}
+		
+		if ( document.getElementById('ArticleFloatContainer') != null )
+			document.getElementById('ArticleFloatContainer').style.height = newHeight+'px';
+			
+		if ( document.getElementById('ArticleImageControl') != null )
+			document.getElementById('ArticleImageControl').style.visibility = 'visible';
+
+		getStartCursors();
+	}
+	catch(e)
+	{
+	
+	}
+}
+
+
+				</script>
+	</head>
+	<body background="images/bluebackground.gif" ms_positioning="FlowLayout" onload="return window_onload()">
+		<form name="Form1" method="post" action="Article.aspx?id=44841" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMjA2MTI5MjEzNzs7PoTyKRC8yIEU0bpZvEIf3jephvis">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-573354-6";
+urchinTracker();
+</script>
+<div align="center">
+	<table border="0" width="760" id="tableHeader1" cellspacing="0" cellpadding="0" bgcolor="#ffffff" bordercolor="#d6d5d5">
+		<tbody><tr>
+			<td>
+				<table border="0" width="760" id="tableHeader2" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td width="760" colspan="2">
+							<!-- DHTML Menu Builder Loader Code START -->
+							<script language="JavaScript" type="text/javascript">
+									var navVer = navigator.appVersion;
+									if(navVer.substr(0,3) >= 4)
+									if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+										document.write('<' + 'script language="JavaScript" type="text/javascript" src="nsmenu.js"><\/script\>');
+									} else {
+									 // document.write('<' + 'script language="JavaScript" type="text/javascript" src="/ReNet/menu.js"><\/script\>');
+										document.write('<' + 'script language="JavaScript" type="text/javascript" src="iemenu.js"><\/script\>');
+									} 
+							</script><script language="JavaScript" type="text/javascript" src="iemenu.js"></script>
+							<!-- DHTML Menu Builder Loader Code END -->
+							<div align="center">
+								<table border="0" width="800" id="tableHeader3" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td>
+											<a href="http://readingeagle.com/Article.aspx?id=35342"><img border="0" src="images/print_subscriptions.gif" width="117" height="23"></a></td>
+										<td>
+											<a href="http://readingeagle.com/Article.aspx?id=35337"><img border="0" src="images/advertise_with_us.gif" width="108" height="23"></a></td>
+										<td>
+											<a target="_blank" href="http://www.readingeagleonline.com"><img border="0" src="images/e-edition.gif" width="61" height="23"></a></td>
+										<td>
+											<a target="_blank" href="http://www.readingeaglearchives.com"><img border="0" src="images/archives.gif" width="57" height="23"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Departments', 0, 0, false,'agiDMB_Departments|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Departments" src="images/departments.gif" height="23" border="0"></a></td>
+										<td>
+											<map name="FPMap0_I1">
+												<area href="http://readingeagle.com/web" shape="RECT" coords="2,1,100,22">
+												<area href="http://readingeagle.com" shape="RECT" coords="280,1,328,22">
+											</map><img border="0" src="images/sitemap.gif" height="23" usemap="#FPMap0_I1"></td>
+									</tr>
+								</tbody></table>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td width="583" background="images/banner.gif">
+							<a href="http://readingeagle.com"><img border="0" src="images/readingeagle.gif" width="643" height="95" alt="readingeagle.com" title="readingeagle.com"></a></td>
+						<td width="177" background="images/banner.gif">
+							<p align="center">
+								<!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Block60R -->
+								<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=42&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=74&amp;SiteID=1"></script>
+								<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Block60R -->
+							</p>
+						</td>
+					</tr>
+					<tr>
+						<td width="760" colspan="2">
+							<div align="center">
+								<table border="0" width="800" id="tableHeader4" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('News', 0, 0, false,'agiDMB_Group008|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Group008" border="0" src="images/news.gif" width="39" height="26"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Group060', 0, 0, false,'agiDMB_Group010|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Group010" border="0" src="images/business.gif" width="60" height="26"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Sports', 0, 0, false,'agiDMB_Group009|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Group009" border="0" src="images/sports.gif" width="46" height="26"></a></td>
+										<td><a href="section.aspx?id=5"><img border="0" src="images/arts.gif" width="116" height="26"></a></td>
+										<td>
+											<a href="section.aspx?id=6"><img border="0" src="images/lifestyle.gif" width="57" height="26"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Special_Sections', 0, 0, false,'agiDMB_Special_Sections|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Special_Sections" src="images/special_sections.gif" width="102" height="26" border="0"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Community', 0, 0, false,'agiDMB_Community|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Community" src="images/community.gif" width="72" height="26" border="0"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Special_Moments', 0, 0, false,'agiDMB_Special_Moments|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Special_Moments" border="0" src="images/special_moments.gif" width="104" height="26"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Money', 0, 0, false,'agiDMB_Money|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Money" src="images/money.gif" width="47" height="26" border="0"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Classified', 0, 0, false,'agiDMB_Classified|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Classified" src="images/classified.gif" width="65" height="26" border="0"></a></td>
+										<td>
+											<a onmouseover="cFrame.ShowMenu('Exclusives', 0, 0, false,'agiDMB_Exclusives|3',0);" onmouseout="cFrame.tHideAll();" href="#"><img name="agiDMB_Exclusives" src="images/webexclusives.gif" width="92" height="26" border="0"></a></td>
+									</tr>
+								</tbody></table>
+							</div>
+							<span id="_ctl0_BreakingNewsLabel"><table class="BreakingNewsContainer"><tbody><tr><td class="BreakingNewsContainer">
+<table class="BreakingNewsOutline"><tbody><tr><td class="BreakingNewsLabel"><img src="images/breakingnews.gif" alt="Breaking News"></td>
+<td><table><tbody><tr><td align="left"><a class="BreakingNewsHeadline" href="article.aspx?id=71835"><li class="BreakingNewsBullet">Reading jewelry store owner injured in robbery, police say</li></a></td></tr>
+<tr><td align="left"><a class="BreakingNewsHeadline" href="article.aspx?id=71836"><li class="BreakingNewsBullet">Holdup reported at M&amp;T Bank branch in Muhlenberg</li></a></td></tr>
+</tbody></table></td>
+<td align="right" valign="top">
+<a href="register.aspx"><img src="images/breakingblocksu.gif" border="0" alt="Click here to sign up for breaking news alerts." title="Click here to sign up for breaking news alerts."></a>
+</td>
+</tr></tbody></table>
+</td></tr></tbody></table>
+</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="760" colspan="2">
+							<img border="0" src="images/greyline.gif" width="800" height="14"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+			<div align="center">
+				<table id="table20" bordercolor="#d6d5d5" cellspacing="0" cellpadding="0" width="800" bgcolor="#ffffff" border="0">
+					<tbody><tr>
+						<td>
+							<div align="center">
+								<table style="BORDER-RIGHT: #b0b0b0 1px solid; BORDER-TOP: #b0b0b0 1px solid; BORDER-LEFT: #b0b0b0 1px solid; BORDER-BOTTOM: #b0b0b0 1px solid" height="105" cellspacing="0" width="764">
+									<tbody><tr>
+										<td bgcolor="#dbdee7">
+											<p align="center"><span id="TopAd"><!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: ROSLeader -->
+<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=10&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=79&amp;SiteID=1"></script>
+<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: ROSLeader --></span></p>
+										</td>
+									</tr>
+								</tbody></table>
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td><font face="Verdana" size="1">&nbsp;&nbsp; </font>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div align="center">
+								<table id="table21" cellspacing="0" cellpadding="0" width="780" background="images/background_inside_article.gif" border="0">
+									<tbody><tr>
+										<td width="20"><img height="6" src="images/top_spacer_article.gif" width="19" border="0"></td>
+										<td width="676"><img height="6" src="images/bluetop_spacer_article.gif" width="625" border="0"></td>
+										<td width="43"><img height="6" src="images/right_spacer_article.gif" width="139" border="0"></td>
+										<td width="41"><img height="6" src="images/right_space_article2.gif" width="17" border="0"></td>
+									</tr>
+									<tr>
+										<td width="20" height="17"><img height="6" src="images/top_spacer_inside.gif" width="19" border="0"></td>
+										<td align="center" width="676" height="17" valign="top">
+											<table id="table26" cellspacing="0" cellpadding="8" width="100%" border="0">
+												<tbody><tr>
+													<td valign="top" align="left" width="100%">
+														<!-- Page Stuff Goes Here -->
+														<span id="lblArticleData"><div id="RightPanel" class="RightPanel">
+<table><tbody><tr><td align="center" valign="top"></td></tr></tbody></table>
+<table id="ArticleToolsTable" class="ArticleTools" style="width: 10px;">
+<tbody><tr>
+<td nowrap="nowrap" colspan="3" align="center">
+Article Tools
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap"><a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;">Save to del.icio.us</a></td></tr><tr>
+<td nowrap="nowrap"><a href="http://digg.com/submit" onclick="window.open('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'Digg','scrollbars=yes, toolbar=no,width=700,height=400'); return false;">Digg This</a></td></tr><tr>
+<td nowrap="nowrap"><script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script><a href="http://www.facebook.com/share.php?u=http://www.readingeagle.com/article.aspx?id=44841" onclick="return fbs_click()" target="_blank">Share on Facebook</a></td>
+</tr><tr>
+<td nowrap="nowrap"><a href="articleSend.aspx?id=44841">Email Article</a></td></tr><tr>
+<td nowrap="nowrap"><a href="article.aspx" onclick="window.open('articleprint.aspx?id=44841', 'PRINT_THIS_ARTICLE','toolbar=no,scrollbars=yes,width=550,height=550'); return false;">Print Article</a></td>
+</tr>
+</tbody></table>
+
+
+
+</div>
+<div class="ArticleDateIssue">6/13/2007 2:04:00 PM</div><br>
+<div class="ArticleDateIssue">Last Update: 6/13/2007 2:07:00 PM</div><br>
+<h1 class="ArticleHeadline">Privacy Policy</h1>
+<div class="ArticleBody"><font size="2">Reading Eagle Company and readingeagle.com strive to offer visitors to our site a personal Internet experience, and to do this, we may from time to time ask for or use information such as your name, e-mail address, street address, telephone number, or certain demographic information subject to the terms of this privacy policy. This policy applies to information collected online and is not applicable to information collected or used by Reading Eagle Company or readingeagle.com through other means.</font><br><br><font face="Verdana"><b>Requests for information.</b><br><font size="2">The nature of the information we might collect and the way in which we gather and store it depends on the web page that you are visiting or the services or activities you select on those pages. For example, you may be asked to provide appropriate information when you register for access to certain portions of our site, participate in forums, subscribe to the newspaper, request an archive reproduction, or use certain features. No information that identifies you personally will be gathered unless you are afforded the opportunity to refuse to provide such information.<br></font></font><br><font face="Verdana"><b style="mso-bidi-font-weight: normal">Automatic Tracking<br></b><font size="2">While readingeagle.com does log certain tracking information in ways transparent to visitors, this is not information that personally identifies any visitor. Examples are recording a visitor’s Internet service provider or tracking the number of pages visited. We may use cookie technology to recognize someone on a subsequent visit. You can choose not to provide us with such information by setting your browser to refuse cookies, but that may render you unable to access certain portions of the site.<br></font></font><br><font face="Verdana"><b>What we do with information.</b><br><font size="2">We collect information to enhance your visit and may use it to deliver individualized content and/or advertising. We may sometimes permit advertising and/or promotional affiliates to call to your attention certain products, offers and web content. Information gathered on readingeagle.com will not be used to enable direct communications sent by our advertisers or promotional partners unless you are offered the opportunity to elect not to receive such direct communications.<br></font></font><br><font face="Verdana"><b style="mso-bidi-font-weight: normal">Aggregated Information.<br></b><font size="2">Information that does not personally identify you may be used to enhance our site and services. For example, we may combine information about your usage patterns with similar information from other users to determine which pages are visited most or what features are most popular. Such information may be shared with advertisers and business affiliates, but only if it does not include any information to identify you individually.<br></font></font><br><font face="Verdana"><b>Affiliated sites, linked sites and advertisements.</b><br><font size="2">Be aware that third parties, including our advertisers, affiliates and others whose content may be accessible through readingeagle.com may have their own privacy and data collection policies and practices. During your visit to our site you may link to or view certain content that is created or hosted by a third party. You should check the applicable privacy policies of those parties when providing information to them.<br></font></font><br><font face="Verdana"><b style="mso-bidi-font-weight: normal">Non-requested Information<br></b><font size="2">If you voluntarily disclose information on message boards or in chat areas, that information may be viewed publicly and can be collected and used by third parties without our knowledge and outside the control of readingeagle.com or this policy.</font></font><br><font face="Verdana"><b><br>Children.</b><br><font size="2">Reading Eagle Company and readingeagle.com do not knowingly collect personal information from or about <span style="COLOR: black">children under 15 except as permitted by law. If we discover we have received any information from a child under 15 in violation of this policy, we will delete that information. If you believe readingeagle.com has any information from or about anyone under 15, please</span> contact us at the address listed below.</font></font><br><font face="Verdana"><b><br>Contacting us.</b><br><font size="2">We can be reached by contacting:<br>Internet Services<br>Reading Eagle Company<br>P.O. Box 582<br>Reading, PA 19603<br>Email: internetservices@readingeagle.com</font><br><br><b>Implied acceptance and changes to this policy.</b><br><font size="2">Continued use of readingeagle.com constitutes acceptance of this policy and any changes that may from time to time be posted. Reading Eagle Company reserves the right to change this policy at any time, but information collected prior to the posting of any change will be used only according to rules or laws in effect at the time the information was collected.</font></font><br><font face="Verdana"><b><br>Compliance with law.</b><br><font size="2">It is the intent of Reading Eagle Company that this privacy policy and operations of readingeagle.com shall comply with applicable laws of the Commonwealth of Pennsylvania and the United States of America. This statement and policies herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. No other portion of this policy withstanding, we may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to comply with the law; protect our rights and property; protect against misuse or unauthorized use of readineagle.com; or protect the safety or property of our users or the public.</font> </font><br></div><br>
+<div class="ArticleCopyright" align="center"><table class="ArticleCopyright"><tbody><tr><td></td></tr></tbody></table></div>
+<script language="javascript">
+var callCount = 0;
+var slideShowRunning = true;
+var imageNumber = -2;
+var pic;
+var maxCount = -1;
+</script>
+</span>
+														<!-- Page Stuff Ends Here --></td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td valign="top" rowspan="3">
+											<p align="center"><font size="1"><span id="RightAd"></span></font></p><table class="SiteSearchControl" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="SiteSearchControl" align="left" valign="top"><input type="text" value="Search Site Here..." size="15" class="SiteSearchControl" name="SearchTextboxSite" id="SearchTextboxSite" title="Search readingeagle.com" onkeypress="return keyHitSite(event, this);" onfocus="clearOnFirstClickSearch(this);"></td><td class="SiteSearchControl" align="left" valign="top"><img src="images/mag.gif" class="HandCursor" alt="Search" title="Search readingeagle.com" name="SearchButtonSite" id="SearchButtonSite" onclick="searchSite();"></td></tr></tbody></table><font size="1"><a href="http://eagle.stormcenter.info/"><img border="0" src="images/stormcenterupdate.gif"></a><br><a href="bgd.aspx"><img border="0" src="images/gamedaypromomain.gif"></a><!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Towers -->
+<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=78&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=79&amp;SiteID=1"></script>
+<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Towers --><!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Google 120x240 -->
+<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=123&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=79&amp;SiteID=1"></script>
+<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Google 120x240 --><!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Google Link Unit -->
+<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=122&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=79&amp;SiteID=1"></script>
+<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Google Link Unit --></font><p></p>
+										</td>
+										<td width="41" height="17"><img height="6" src="images/right_space_inside2.gif" width="17" border="0"></td>
+									</tr>
+									<tr>
+										<td width="20" rowspan="2">&nbsp;</td>
+										<td width="625">&nbsp;</td>
+										<td width="41">&nbsp;</td>
+									</tr>
+									<tr>
+										<td valign="top" width="676">
+										</td>
+									</tr>
+									<tr>
+										<td colspan="3"><img height="22" src="images/bottom_inside_article.gif" width="783" border="0"></td>
+									</tr>
+								</tbody></table>
+							</div>
+						</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+<div align="center">
+	<table border="0" width="800" id="table16" cellspacing="0" cellpadding="5">
+		<tbody><tr>
+			<td bgcolor="#ffffff" align="center">
+				<!-- Begin Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Leaderboard -->
+				<script language="JAVASCRIPT" src="http://www.readingeagle.com/BanMan/A.aspx?ZoneID=119&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=74&amp;SiteID=1"></script>
+				<!-- End Ban Man Pro Banner Code -  Site: readingeagle.com  Zone: Leaderboard -->
+			</td>
+		</tr>
+		<tr>
+			<td background="images/gradient_back.gif">
+				<p align="center"><font face="Arial" size="1">© 2007 Reading Eagle Company, All Rights 
+						Reserved<br>
+						Serving the Berks County community and surrounding areas for over 130 years!<br>
+						This site contains links to other Internet sites.<br>
+						These links are not endorsements of any products or services in such sites,<br>
+						and no information in such site has been endorsed or approved by this site.<br>
+						<a href="http://readingeagle.com/Article.aspx?id=44841">Privacy Policy</a> </font>
+				</p>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<p align="center">
+	<font face="Verdana" color="#333333" size="1"></font><b><a target="_blank" href="http://www.weeu.com/">
+			<font face="Verdana" color="#333333" size="2">WEEU 830 AM</font></a></b><font face="Verdana"><font size="2" color="#333333">&nbsp; 
+			&nbsp;|&nbsp;&nbsp;</font><font face="Verdana" color="#333333" size="1"></font></font><font size="2" color="#333333">
+	</font><b><a target="_blank" href="http://www.readingeaglepress.com/"><font face="Verdana" color="#333333" size="2">
+				Reading Eagle Press</font></a></b><font size="2" face="Verdana" color="#333333"></font>
+</p>
+<p align="center"><font face="Verdana" color="#333333" size="2">Reading Eagle 
+	Company • 345 Penn Street • Reading • PA • 19603 • 610.371.5000</font></p><font face="Verdana" color="#333333" size="2">
+</font>
+
+		<script language="javascript" type="text/javascript">
+function keyHitSite(e, obj)
+{
+var key;
+if (window.event)
+key = e.keyCode;
+else if (e.which)
+key = e.which;
+if ( key == 13 )
+{
+if ( document.getElementById('SearchButtonSite') != null )
+{
+searchSite();
+}
+return false;
+}
+}
+function searchSite()
+{
+if ( document.getElementById('SearchTextboxSite').value == 'Search Site Here...' )
+{
+document.getElementById('SearchTextboxSite').value = '';
+}
+window.location = 'Search.aspx?is=' + document.getElementById('SearchTextboxSite').value;
+}
+function clearOnFirstClickSearch(obj)
+{
+if ( obj.value == 'Search Site Here...' )
+obj.value = '';
+}
+</script>
+
+
+</form>
+	
+
+<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
