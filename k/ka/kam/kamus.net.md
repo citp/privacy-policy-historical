@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623183025id_/http%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080443id_/http%3A//kamus.net/privacy.php) for the most accurate reproduction.*
 
 # Kamus.net
-
-  
-| 
-
-## Privacy Policy
 
 #### Personal Information
 
@@ -29,7 +24,7 @@ A "cookie" is a piece of information that our web sites send to your browser, wh
 
 To find more information about cookies: 
 
-If you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 If you are using Netscape Navigator® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies 
+If you are using Microsoft Internet Explorer� as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 If you are using Netscape Navigator� as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies 
 
 #### Disclosure by Law and Protection of eProduct
 
@@ -46,5 +41,3 @@ Please be aware that we reserve the right to notify our subscribers of any infor
 #### Changes to this Privacy Statement
 
 If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information, a prominent notice of the nature of the change will be posted on this Privacy Statement and the current subscribers will be notified as soon as possible. 
-
-|  | 
