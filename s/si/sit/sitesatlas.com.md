@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515015229id_/http%3A//www.sitesatlas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesatlas.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100128id_/http%3A//www.sitesatlas.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - World Sites Atlas
 
@@ -14,4 +14,4 @@ World Sites Atlas stores basic data on Premium members, including name and e-mai
 
 If you have any additional questions about World Sites Atlas' dedication to consumer privacy, please contact us at [borop@sitesatlas.com](mailto:borop@sitesatlas.com).
 
-[World Sites Atlas Home](https://web.archive.org/web/20070515015229id_/http%3A//www.sitesatlas.com/index.htm)
+[World Sites Atlas Home](https://web.archive.org/web/20071211100128id_/http%3A//www.sitesatlas.com/index.htm)
