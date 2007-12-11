@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623095921id_/http%3A//www.brilliantearth.com/dispcont.aspx%3Fpageid%3DSECURITY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211115406id_/http%3A//www.brilliantearth.com/dispcont.aspx%3Fpageid%3DSECURITY) for the most accurate reproduction.*
 
 # Brilliant Earth: SECURITY
 
@@ -95,9 +95,9 @@ We reserve the right to cancel products or services to any customer for any reas
 
 We attempt to provide current and accurate information on our web sites, email and telephone communications. We do not, however, warrant that this information is correct, accurate or complete. 
 
-Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. Please review our [Return Policies](https://web.archive.org/web/20070623095921id_/http%3A//www.brilliantearth.com/dispcont.aspx?pageid=SHOP_ONLINE#Returns). 
+Information that we communicate is not a contract, and should not be treated as such. The sole remedy of a customer acting on incorrect information is to request a cancellation of the order placed as a result of this incorrect information. Please review our [Return Policies](https://web.archive.org/web/20071211115406id_/http%3A//www.brilliantearth.com/dispcont.aspx?pageid=SHOP_ONLINE#Returns). 
 
-Please review our [Privacy Policy](https://web.archive.org/web/20070623095921id_/http%3A//www.brilliantearth.com/dispcont.aspx?pageid=SECURITY#privacy), which also governs your visit to this site. All content on our site, including text, icons, graphics, logos, images and software is the property of our company or its affiliates and protected by United States and international copyright laws. 
+Please review our [Privacy Policy](https://web.archive.org/web/20071211115406id_/http%3A//www.brilliantearth.com/dispcont.aspx?pageid=SECURITY#privacy), which also governs your visit to this site. All content on our site, including text, icons, graphics, logos, images and software is the property of our company or its affiliates and protected by United States and international copyright laws. 
 
 While we make commercially accepted best efforts to maintain the security of customer transactions, its liability in cases of third party theft or misuse is limited to the funds which we have already collected in reference to the customer's most recent order. 
 
