@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430082811id_/http%3A//www.housingwire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housingwire.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211080715id_/http%3A//www.housingwire.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Housing Wire » Privacy policy
 
@@ -16,7 +16,7 @@ So, here’s the information you need to know:
 
 
 
-**Personal Information:** All of the personal information we collect is … are you ready? … your email address. Nothing more. In the event HW has outside advertisers, which we certainly believe will happen, your personal information (your email address) will not be made available to them.
+**Personal Information:** All of the personal information we collect is … are you ready? … your email address. Nothing more.
 
 **Cookies:** _HW_ uses a cookie on your computer in order to check whether you are logged in or not. This cookie doesn’t actually do anything, since you don’t have to log in — but if you did, aren’t you glad to know it’s there?
 
