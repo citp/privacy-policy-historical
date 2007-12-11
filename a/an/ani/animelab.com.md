@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625094434id_/http%3A//www.animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211200922id_/http%3A//www.animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.*
 
 # Animelab.com: Privacy Policy
-
-Deunan
-
- **Guests:** 451  
-**Total:** 452  
-**Highest:** 606 
 
 | 
 
@@ -25,6 +19,10 @@ We use google, clickxchange.com and other third-party advertising companies to s
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a diverse cookie on your browser. Such cookies are used to store information about the current advertisments or how many of a particular advertisment you have seen. These cookies contain small information and can not be used to track your internet usage or re-identify you.
 
-[ ](http://www.clickxchange.com/sr.phtml?act=48829.3863) |    
+[Get free cash for college with FastWeb's Scholarship search!](http://www.fastweb.com/ib/aff-1f/4DDUELVXBLH4MYO) |    
   
+[ ](http://www.rightstuf.com/catalog/browse/link/t=toc,c=right-stuf,a=animelabcom)
 
+[ ](http://store.yahoo.com/cgi-bin/clink?animenation+6yHRUG+index.html+)
+
+[ ](http://www.rentanime.com/default.php?ref=100&affiliate_banner_id=2)
