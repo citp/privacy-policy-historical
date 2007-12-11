@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2007-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070406132013id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102024id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
 
-# BikeReg.com - online cycling event registration
+# US Gran Prix of Cyclocross
 
 BikeReg.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BikeReg.com. 
 
@@ -46,8 +46,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Service  
 BikeReg.com  
-5 Strong Avenue, Suite 211  
+5 Strong Avenue, Suite 6  
 Northampton, MA 01060  
 info@BikeReg.com  
-(413) 303-9286 
+(888) 956-9560 
 
