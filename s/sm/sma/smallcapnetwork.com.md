@@ -1,51 +1,16 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622034550id_/http%3A//www.smallcapnetwork.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181857id_/http%3A//www.smallcapnetwork.com/privacy_policy) for the most accurate reproduction.*
 
-# Small Cap Network - Exclusive Coverage of Small Cap, Micro Cap and OTC BB Stocks.
+# Small Cap Network Privacy Policy
 
-| [Dow](https://web.archive.org/ticker_tour.html?ticker=DJI) | 13545.84 | +56.42 | (+0.42%)  
+| [Dow](https://web.archive.org/ticker_tour/quotes/ticker/DJI/) | 13732.56 | +5.53 | (+0.04%)  
 ---|---|---|---  
-[Nasdaq](https://web.archive.org/ticker_tour.html?ticker=COMP) | 2616.96 | +17.00 | (+0.65%)  
-[Russell 2K](https://web.archive.org/ticker_tour.html?ticker=RUT) | 839.81 | +3.63 | (+0.43%)  
-[S&P 500](https://web.archive.org/ticker_tour.html?ticker=SPX) | 1522.19 | +9.35 | (+0.62%)  
-[S&P 100](https://web.archive.org/ticker_tour.html?ticker=OEX) | 700.78 | +4.00 | (+0.57%)  
+[Nasdaq](https://web.archive.org/ticker_tour/quotes/ticker/COMP/) | 2728.34 | +9.39 | (+0.35%)  
+[Russell 2K](https://web.archive.org/ticker_tour/quotes/ticker/RUT/) | 792.25 | +1.05 | (+0.13%)  
+[S&P 500](https://web.archive.org/ticker_tour/quotes/ticker/SPX/) | 1517.52 | +1.56 | (+0.10%)  
+[S&P 100](https://web.archive.org/ticker_tour/quotes/ticker/OEX/) | 708.52 | +2.18 | (+0.31%)  
 Quotes are delayed 20 minutes.  
   
 [**Free Annual Reports**](http://smallcapnetwork.ar.wilink.com/)
-
-[
-
-Having Trouble Getting Our Email Newsletter?
-
-White List Us. Click Here for more info...
-
-](https://web.archive.org/whitelist.html)
-
-Wed, Jun 20, 2007 @ 07:34 pm
-
-In case you’re only a regular reader of the e-newsletter or the blog, you may want to take a look at some of the new - and exclusive - commentary we’ve posted on the homepage. Last week in the ‘Heating Up’ column we studied some interesting international ETF opportunities. On Tuesday, we updated the ‘Trader’s Corner’, complete with [...]  
-
-
-Wed, Jun 20, 2007 @ 12:24 pm
-
-Q: I read the investment data on the Battery Brain and find it to be quite interesting. However, I believe most battery failures are caused by internal shorting of two or more plates, thereby preventing sufficient starting current to flow to the starter motor. How would that situation be remedied by the Batter Brain? Thanks [...]  
-
-
-Wed, Jun 20, 2007 @ 07:29 am
-
-Check out Clearly Canadian’s (OTCBB: CCBEF) recent chart. I saw the beginning of this pattern a few days ago, but it really hasn’t become clear until very recently. Between the May 29th peak at $3.25, the June 7th low of $2.60, and the current price of $3.00, we’re seeing a pretty good ‘V’ shape. Generally speaking, this [...]  
-
-
-Thu, Jun 21, 2007 @ 06:30 am
-
-You may want to take a good look at the Phinder Technologies Inc. (OTCBB: PHDT) logo to the immediate left. Why? It's probably going to be one of the last times you see it. As of this morning, the company has changed its name to Zupintra Corporation Inc. (OTCBB: ZUPC). Note there's a new symbol as well...
-
-Sat, Jun 16, 2007 @ 11:58 am
-
-After reviewing yesterday's news from Titan Global (OTCBB: TTGL), the perfect analogy for this attractive investment opportunity finally struck me, though I was surprised it was a sewing metaphor. I think this company has been weaving together an incredible story for months now, with different threads...
-
-Mon, Jun 11, 2007 @ 02:02 pm
-
-Ever had your car battery go dead at the most inopportune time? Ever had a vehicle stolen even though you had an alarm system? I have, and so have millions of others....and the key term there is "millions of others". The Small Cap Network recently identified a company we believe is poised to tap into...
 
 **Your privacy is very important to us. We want to make your experience with the Small Cap Network as enjoyable and rewarding as possible, and we want you to visit our website with complete confidence.**
 
@@ -122,37 +87,31 @@ Small Cap Network reserves the right to revise, amend, or modify this policy and
 
 | 
 
-[
+[](https://web.archive.org/spicy_pickle/)
 
-Having Trouble Getting Our Email Newsletter?
+Tue, Dec 11, 2007 @ 06:27 am
 
-White List Us. Click Here for more info...
-
-](https://web.archive.org/whitelist.html)
-
-Wed, Jun 20, 2007 @ 07:34 pm
-
-In case you’re only a regular reader of the e-newsletter or the blog, you may want to take a look at some of the new - and exclusive - commentary we’ve posted on the homepage. Last week in the ‘Heating Up’ column we studied some interesting international ETF opportunities. On Tuesday, we updated the ‘Trader’s Corner’, complete with [...]  
+Today’s the big day…or at least another big day. On Tuesday we’ll hear from Ben Bernanke and Co. about the latest Fed Funds rate decision, which most of the market expects to be a 25 basis point reduction. I tend to agree. What I and the rest of the world still can’t seem to decide is [...]  
 
 
-Wed, Jun 20, 2007 @ 12:24 pm
+Tue, Dec 11, 2007 @ 06:15 am
 
-Q: I read the investment data on the Battery Brain and find it to be quite interesting. However, I believe most battery failures are caused by internal shorting of two or more plates, thereby preventing sufficient starting current to flow to the starter motor. How would that situation be remedied by the Batter Brain? Thanks [...]  
-
-
-Wed, Jun 20, 2007 @ 07:29 am
-
-Check out Clearly Canadian’s (OTCBB: CCBEF) recent chart. I saw the beginning of this pattern a few days ago, but it really hasn’t become clear until very recently. Between the May 29th peak at $3.25, the June 7th low of $2.60, and the current price of $3.00, we’re seeing a pretty good ‘V’ shape. Generally speaking, this [...]  
+Smart Energy Solutions has been ‘fishing’ for a little over a year now, and they’ve really started to catch some pretty nice ones too.  For perspective, in 2006, revenues of $1.8 million easily topped 2005’s total of $151K. As nice as those bigger fish were though, I have to say I think the company just [...]  
 
 
-Thu, Jun 21, 2007 @ 06:30 am
+Fri, Dec 7, 2007 @ 01:54 pm
 
-You may want to take a good look at the Phinder Technologies Inc. (OTCBB: PHDT) logo to the immediate left. Why? It's probably going to be one of the last times you see it. As of this morning, the company has changed its name to Zupintra Corporation Inc. (OTCBB: ZUPC). Note there's a new symbol as well...
+Back in October, I used the Small Cap Network site as a platform as something a little more op-ed than I usually write. The subject was the growing reliance on small biotech outfits that large pharmaceutical companies were experiencing. It was an interesting reality if I say so myself (how modest of me), and I think it was accented today by a similar article [...]  
 
-Sat, Jun 16, 2007 @ 11:58 am
 
-After reviewing yesterday's news from Titan Global (OTCBB: TTGL), the perfect analogy for this attractive investment opportunity finally struck me, though I was surprised it was a sewing metaphor. I think this company has been weaving together an incredible story for months now, with different threads...
+Fri, Dec 7, 2007 @ 09:54 am
 
-Mon, Jun 11, 2007 @ 02:02 pm
+It's been less than a month since we picked Tenet Healthcare (NYSE: THC), but we're already up 41% on the trading idea. More importantly, however, it appears as if we've broken above a temporary ceiling. Maybe now we can proceed all the way up to our target gain of 88%. Just to recap, we became interested...
 
-Ever had your car battery go dead at the most inopportune time? Ever had a vehicle stolen even though you had an alarm system? I have, and so have millions of others....and the key term there is "millions of others". The Small Cap Network recently identified a company we believe is poised to tap into...
+Tue, Dec 4, 2007 @ 05:17 am
+
+Good news from Spongetech Delivery Systems Inc. (OTCBB: SPNG) this morning, and perhaps some even better news about a potential short-covering rally for the stock. More on that in a second. First up, Spongetech's trademark has officially been approved by the U.S Patent and Trademark Office. The company...
+
+Fri, Nov 30, 2007 @ 04:21 am
+
+I love the end of the year. It's usually a great time for stocks, and particularly strong for small caps. I think December of 2007 could be even better than usual for small caps, thanks to a healthy pullback in November. If it was also around this time of year I found a company with a market cap about...
