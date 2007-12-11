@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624032632id_/http%3A//www.splenda.com/page.jhtml%3Fid%3Dsplenda/privacy.inc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211093842id_/http%3A//www.splenda.com/page.jhtml%3Fid%3Dsplenda/privacy.inc) for the most accurate reproduction.*
 
 # SPLENDA® Brand Sweetener - Welcome to a World of Sweetness
 
