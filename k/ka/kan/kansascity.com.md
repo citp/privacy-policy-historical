@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612205949id_/http%3A//kansascity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211183851id_/http%3A//www.kansascity.com/privacy) for the most accurate reproduction.*
 
 # www.kansascity.com | Privacy Policy & Terms of Use
 
@@ -45,6 +45,10 @@ Information you provide to Kansas City Star may be stored by us for an indefinit
 ## Remember The Risks Whenever You Use The Internet
 
 You should know that when you voluntarily disclose personal information on the Kansas City Star system (for example, in forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to Kansas City Star and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, our partners and other Internet sites or services that may be accessible through [paper name] have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.
+
+## Submissions
+
+By posting or submitting any content to be used on KansasCity.com, including photos and videos, you are representing that you are the owner of the material, or are making your posting or submission with the express consent of the owner of the material. You also automatically grant Kansas City Star and KansasCity.com a nonexclusive, royalty-free, worldwide, perpetual, sublicensable (through multiple tiers), license to use, modify, copy, distribute, transmit, publicly display, publicly perform, publish, adapt, create derivative works of, distribute, transfer or sell any such content, for any purpose, including commercial purposes, without any payment to you, in any type of media or in any form now known or later developed. In addition, you automatically waive and give up any claim that any use of such content violates any of your rights, including privacy rights, publicity rights, moral rights or any other right, including the right to approve the way KansasCity.com uses such content.
 
 ## Tell Us How We're Doing
 
