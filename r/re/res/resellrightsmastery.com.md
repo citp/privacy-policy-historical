@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501220222id_/http%3A//resellrightsmastery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211082213id_/http%3A//www.resellrightsmastery.com/privacy.php) for the most accurate reproduction.*
 
 # ResellRightsMastery.com | Privacy
 
-| [ **Home**](http://www.resellrightsmastery.com/) | [**Member Login**](http://www.resellrightsmastery.com/members/member.php) | [**Support**](http://www.amloh.com/FAQ_resellrightsmastery.php) |
+| [ **Home**](http://www.resellrightsmastery.com/) | [**Member Login**](http://www.resellrightsmastery.com/members/member.php) | [**Blog**](http://www.resellrightsmastery.com/blog) | [**Support**](http://www.amloh.com/FAQ_resellrightsmastery.php) |
 
 **RESELLRIGHTSMASTERY.COM**
 
