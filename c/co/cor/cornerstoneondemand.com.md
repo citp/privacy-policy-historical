@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612221508id_/http%3A//www.cornerstoneondemand.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneondemand.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211231330id_/http%3A//www.cornerstoneondemand.com/privacy.html) for the most accurate reproduction.*
 
 # Cornerstone OnDemand
 
