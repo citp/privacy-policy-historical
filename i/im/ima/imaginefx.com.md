@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630153020id_/http%3A//www.imaginefx.com/-2287754330933336420/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023055id_/http%3A//www.imaginefx.com/-2287754330933336420/default.html) for the most accurate reproduction.*
 
 # ImagineFX | Privacy Policy
 
