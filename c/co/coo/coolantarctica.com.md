@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629093537id_/http%3A//www.coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232141id_/http%3A//www.coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -13,7 +13,7 @@
 >  PE19 6RF  
 >  UK**
 >>> 
->>> We can be reached via e-mail at [paulward@coolantarctica.com](mailto:paulward@coolantarctica.com)
+>>> We can be reached via e-mail [here](mailto:danthewhaler@gmail.com?subject=from%20privacy%20policy%20page "contact webmaster")
 >>> 
 >>> For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name (usually that of the Internet Service Provider), but not the e-mail address.
 >>> 
