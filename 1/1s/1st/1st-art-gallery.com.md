@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2007-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070103203009id_/http%3A//www.1st-art-gallery.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211141744id_/http%3A//www.1st-art-gallery.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Oil Paintings Reproductions - Superior Quality, Hand Painted on Canvas - FREE SHIPPING
+# Privacy Policy | Oil Paintings Reproductions - Superior Quality, Hand Painted on Canvas
 
 **Order Information**  
 We only gather information that visitors to 1st-art-gallery.com are willing to give. Some of it is required to fulfill orders (like names, shipping addresses, and phone numbers) or to maintain accounts (such as customer accounts and affiliate accounts) and we ask for some information so that we can provide better service (contact information like email addresses and phone numbers, for example).
@@ -17,4 +17,4 @@ We send email to customers only if it concerns a specific order or question, or 
 We do not share our customers' personal information with anyone. Period.
 
 **Non-Identifying Information**  
-We collect all kinds of statistics about visits to our site — where the visitors came from, what they did and viewed during their visit, what kinds of computers and browsers they use, and where they went when they left. However, we do not (and cannot) collect any personally identifying information (names, email addresses and such) this way.
+We collect all kinds of statistics about visits to our site � where the visitors came from, what they did and viewed during their visit, what kinds of computers and browsers they use, and where they went when they left. However, we do not (and cannot) collect any personally identifying information (names, email addresses and such) this way.
