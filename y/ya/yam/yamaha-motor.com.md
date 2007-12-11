@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamaha-motor.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614071901id_/http%3A//www.yamaha-motor.com/gen_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamaha-motor.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211212026id_/http%3A//www.yamaha-motor.com/gen_privacy.aspx) for the most accurate reproduction.*
 
 # America's Most Diverse - Yamaha Motor Corporation, USA, Privacy Policy
 
