@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513193433id_/http%3A//www.ideacellular.com/IDEA.portal%3F_nfpb%3Dtrue%26portlet_MyIdeaController_5_actionOverride%3D%252FIDEA%252Fcontent%252FmyIdea%252FdisplayContent%26_windowLabel%3Dportlet_MyIdeaController_5%26portlet_MyIdeaController_5displayParam%3Dprivacy_policy.html%26_pageLabel%3DIDEA_Page_AboutIdea) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060853id_/http%3A//www.ideacellular.com/IDEA.portal%3F_nfpb%3Dtrue%26portlet_MyIdeaController_5_actionOverride%3D%252FIDEA%252Fcontent%252FmyIdea%252FdisplayContent%26_windowLabel%3Dportlet_MyIdeaController_5%26portlet_MyIdeaController_5displayParam%3Dprivacy_policy.html%26_pageLabel%3DIDEA_Page_AboutIdea) for the most accurate reproduction.*
 
 # !DEA - An !dea can change your life...
 
