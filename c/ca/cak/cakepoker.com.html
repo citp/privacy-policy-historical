@@ -1,18 +1,456 @@
-<!--The following is the downloaded HTML source of the cakepoker.com privacy policy that was archived on 2007-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070430203232id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cakepoker.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211034950id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- /Integrity/Privacy.aspx --><head><title>
 	Cake Poker
 </title>
-    <!-- Generated: 4/30/2007 8:33:17 PM -->
-    <link type="text/css" rel="Stylesheet" href="../Styles/Base.css"><link id="ctl00_ctl00_ctl00_ExternalCSS" type="text/css" rel="Stylesheet" href="../Styles/External.css"><link type="text/css" rel="Stylesheet" href="../Styles/Controls.css">
+    <!-- Generated: 12/11/2007 3:49:50 AM -->
+    <link id="ctl00_ctl00_ctl00_BaseCSS" type="text/css" rel="Stylesheet" href="../Styles/Base.css"><link id="ctl00_ctl00_ctl00_ExternalCSS" type="text/css" rel="Stylesheet" href="../Styles/External.css"><link type="text/css" rel="Stylesheet" href="../Styles/Controls.css">
+    <script language="javascript" type="text/javascript">
+//*************************************************************************
+//    This Foundation Classes version 1.0 is written by Stanley Tso (bug report: cleverstan@gmail.com)
+//    Foundation.js contains the foundation functions and classes:
+//    Classes:
+//      - Stack
+//      - Queue (support iteration)
+//      - Page (support iteration)
+//    
+//*************************************************************************
+
+function Container(Type)
+{
+    if (Type == null)
+    {
+        this.FIFO = true;
+    }
+    else
+    {
+        this.FIFO = Type;
+    }
+    this.Data = new Array();
+    this.Iterator = 0;
+}
+
+Container.prototype.Push = function(value)    /* Define Method */
+{
+    this.Data[this.Data.length] = value;
+}
+
+Container.prototype.Next = function()    /* Define Method */
+{
+    if (this.Iterator == this.Data.length)
+        this.Iterator = 0;
+    var val = this.Data[this.Iterator];
+    this.Iterator++;
+    return val
+}
+
+Container.prototype.HasNext = function()    /* Define Method */
+{
+    return (this.Iterator != this.Data.length)
+}
+
+Container.prototype.Pop = function()    /* Define Method */
+{
+    var value = null;
+    if (this.FIFO)
+    {/* queue */
+        if (this.Data.length > 0)
+        {
+            value = this.Data[0];
+            this.Data[0] = null;
+            for(var i = 0; i < (this.Data.length-1); i++)
+            {
+                this.Data[i] = this.Data[i+1];
+                this.Data[i+1] = null;
+            }
+        }
+    }
+    else
+    {/* stack */
+        if (this.Data.length > 0)
+        {
+            value = this.Data[this.Data.length-1];
+            this.Data[this.Data.length-1] = null;
+        }
+    }
+    
+    if (this.Data.length > 0)
+        this.Data.length = this.Data.length - 1;
+
+    return value;
+}
+
+Container.prototype.Length = function()
+{
+    return this.Data.length;
+}
+
+function Stack()
+{
+    return new Container(false);
+}
+
+function Queue()
+{
+    return new Container();
+}
+
+//Page object for page event managements
+/************************************************
+    //This class will automatically bound to DOM's body.onload & body.unload
+    Class Page
+    {
+        //Methods:
+        void AddOnResize(string script);
+        bool HasOnResize();
+        string GetOnResize();
+        void AddOnload(string script);
+        bool HasOnload();
+        string GetOnload();
+        void AddUnload(string script);
+        bool HasUnload();
+        string GetUnload();
+        int Width();    //current open browser width
+        int Height();
+        bool Status();      //set windows status bar message
+        void SwitchLanguage(language)
+    }
+*************************************************/
+function Page()
+{
+    this.onloadList = new Queue;
+    this.unloadList = new Queue;
+    this.onResizeList = new Queue;
+}
+
+Page.prototype.AddOnResize = function(Script)
+{
+    return this.onResizeList.Push(Script);
+}
+
+Page.prototype.HasOnResize = function()
+{
+    var value = this.onResizeList.Length() != this.onResizeList.Iterator;
+    if (!value)
+        this.onResizeList.Iterator = 0;
+    return value;
+}
+
+Page.prototype.GetOnResize = function()
+{
+    return this.onResizeList.Next();
+}
+
+Page.prototype.AddOnload = function(Script)
+{
+    return this.onloadList.Push(Script);
+}
+
+Page.prototype.HasOnload = function()
+{
+    return this.onloadList.Length() > 0;
+}
+
+Page.prototype.GetOnload = function()
+{
+    return this.onloadList.Pop();
+}
+
+Page.prototype.AddUnload = function(Script)
+{
+    return this.unloadList.Push(Script);
+}
+
+Page.prototype.HasUnload = function()
+{
+    return this.unloadList.Length() > 0;
+}
+
+Page.prototype.GetUnload = function()
+{
+    return this.unloadList.Pop();
+}
+
+Page.prototype.Width = function() {
+    var myWidth = 0;
+    if( typeof( window.innerWidth ) == 'number' ) 
+    {
+        myWidth = window.innerWidth;
+    }
+    else if( document.documentElement && document.documentElement.clientWidth ) 
+    {
+        myWidth = document.documentElement.clientWidth;
+    }
+    else if( document.body && document.body.clientWidth) 
+    {
+        myWidth = document.body.clientWidth;
+    }
+    return myWidth;
+}
+
+Page.prototype.Height = function() {
+    var myHeight = 0;
+    if( typeof( window.innerHeight ) == 'number' )
+    {
+        myHeight = window.innerHeight;
+    }
+    else if( document.documentElement && document.documentElement.clientHeight )
+    {
+        myHeight = document.documentElement.clientHeight;
+    }
+    else if( document.body && document.body.clientHeight )
+    {
+        myHeight = document.body.clientHeight;
+    }
+    return myHeight;
+}
+
+Page.prototype.Status = function (text)
+{
+    try
+    {
+        if (text == null)
+        {
+            text = '';
+        }
+        window.status = text;
+    }
+    catch (e)
+    {
+        return false;
+    }
+    return true;
+}
+
+Page.prototype.SwitchLanguage = function (lang)
+{
+    var url = window.location + '';
+    var re1 = new RegExp("&?lang=[a-z][a-z]", "g");
+    var re2 = new RegExp("&?lang=[a-z][a-z]-[A-Z][A-Z]", "g");
+    url = url.replace(re2, "");
+    url = url.replace(re1, "");
+    window.location = (url.indexOf('?')>0)?url+((url.indexOf('?')==url.length-1)?'':'&')+'lang='+lang:url+'?lang='+lang;
+}
+
+var page = new Page;
+
+function PageInit()
+{
+    while (page.HasOnload())
+    {
+        try
+        {
+            eval(page.GetOnload());
+        } catch(e)
+        {
+            //alert(e); //silence problematic scripts
+        }
+    }
+}
+
+function PageDispose()
+{
+    while (page.HasUnload())
+    {
+        try
+        {
+            eval(page.GetUnload());
+        } catch(e)
+        {
+            //alert(e); //silence problematic scripts
+        }
+    }
+}
+
+function PageResize()
+{
+    while (page.HasOnResize())
+    {
+        try
+        {
+            eval(page.GetOnResize());
+        } catch(e)
+        {
+            //alert(e); //silence problematic scripts
+        }
+    }
+}
+
+window.onload = PageInit;
+window.unload = PageDispose;
+window.onresize = PageResize;
+
+
+var AjaxObjName="AjaxObj";
+var LoadingHTML='<center><img src="/Client/Images/ajax-loader.gif" /></center>';
+
+var AjaxResponseObject; /* singleton variable for Ajax object to make sure no collision*/
+eval('var '+AjaxObjName+' = new Ajax();');
+
+function AContent(pUrl, pTargetDiv, pProcessMethod)
+{
+    this.url = pUrl;
+    this.targetDiv = pTargetDiv;
+    this.processMethod = pProcessMethod;
+}
+
+function Ajax()
+{
+    this.t = null;
+    AjaxResponseObject = null;
+    this.page = new Queue();
+    this.current = null;
+    this.On = false;
+}
+
+Ajax.prototype.Request = function(url, targetDiv, processMethod)    /* Define Method */
+{
+    this.page.Push(new AContent(url, targetDiv, processMethod));
+}
+
+Ajax.prototype.XMLHTTP = function(url, AjaxDiv, processmethod) /*private method */
+{
+    if (processmethod==null)
+    {
+        processmethod = this.StandardProcessMethod;
+    }
+    try
+    {
+        // Firefox, Opera 8.0+, Safari
+        AjaxResponseObject=new XMLHttpRequest();
+    }
+    catch (e)
+    {
+        // Internet Explorer
+        try
+        {
+            AjaxResponseObject=new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        catch (e)
+        {
+            try
+            {
+                AjaxResponseObject=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            catch (e)
+            {
+                alert("Your browser does not support AJAX!");
+                return false;
+            }
+        }
+    }
+    if (AjaxResponseObject)
+    {
+        if (document.getElementById(AjaxDiv))
+        {
+            document.getElementById(AjaxDiv).innerHTML = LoadingHTML;
+        }
+        else
+        {
+            alert("<Div id=\""+AjaxDiv+"\"> Not Found! Request terminated.");
+            return;
+        }
+        AjaxResponseObject.onreadystatechange = processmethod;
+        AjaxResponseObject.open("GET", url, true);
+        AjaxResponseObject.send(null);
+    }
+}
+
+Ajax.prototype.Start = function()
+{
+    this.Stop();
+    this.On = true;
+    if (this.current == null)
+    {
+        this.current = this.page.Pop();
+        if (this.current != null) /* seed a request */
+        {
+            this.XMLHTTP( this.current.url, this.current.targetDiv, this.current.processMethod );
+        }
+        else /* no request found, seed a timeout and look for the next request */
+        {
+            this.t=setTimeout(AjaxObjName+".Start()",50);
+        }
+    }
+}
+
+Ajax.prototype.Stop = function()
+{
+    this.On = false;
+    if (this.t != null)
+    {
+        clearTimeout(this.t);
+    }
+}
+
+Ajax.prototype.StandardProcessMethod = function() /* static method */
+{
+    /* only if AjaxResponseObject shows "complete" */
+    if (AjaxResponseObject.readyState == 4) {
+        /* only if "OK" */
+        if (AjaxResponseObject.status == 200) {
+            /* ...processing statements go here... */
+            if (document.getElementById(eval(AjaxObjName+'.current.targetDiv')))
+            {
+                var content = (AjaxResponseObject.responseText.length>0)?AjaxResponseObject.responseText:"";
+                try
+                {
+                    document.getElementById(eval(AjaxObjName+'.current.targetDiv')).innerHTML = content;
+                }catch (e)
+                {
+                    alert('Error name: ' + e.name + '. \nError message: ' + e.message+'\n Info: \n   Ajax Target:'+eval(AjaxObjName+'.current.targetDiv')+' exists:'+((document.getElementById(eval(AjaxObjName+'.current.targetDiv')))?'true':'false')+'\n   Returned Text:\n'+((content.indexOf("<body>")>0)?content.substring(content.indexOf("<body>")):content));
+                }
+            }
+            else
+            {
+                alert("<Div id=\""+eval(AjaxObjName+'.current.targetDiv')+"\"> Not Found! Returned content dumped:\n"+AjaxResponseObject.responseText);
+            }
+        } else {
+            if (document.getElementById(eval(AjaxObjName+'.current.targetDiv')))
+            {
+                document.getElementById(eval(AjaxObjName+'.current.targetDiv')).innerHTML = "There was a problem retrieving the XML data:" + AjaxResponseObject.statusText;
+            }
+            else
+            {
+                alert("There was a problem retrieving the XML data:\n" + AjaxResponseObject.statusText);
+            }
+        }
+        eval(AjaxObjName+'.current = null;');
+        eval(AjaxObjName+'.Start();');
+    }
+}
+
+function Load(url, div, method)
+{
+    url = url.replace("'", "\\'");
+    if (method==null)
+    {
+        method = 'null';
+    }
+    if (div==null)
+    {
+        div = "AjaxContent";
+    }
+    if (document.getElementById(div))
+    {
+        document.getElementById(div).innerHTML = LoadingHTML;
+    }
+    eval(AjaxObjName+".Request('"+url+"', '"+div+"', "+method+")");
+}
+
+page.AddOnload(AjaxObjName+'.Start();');
+
+
+    </script>
+    
 	
 	<link type="text/css" rel="Stylesheet" href="Styles/Security.css">
 
 </head>
 <body>
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAmYPZBYCZg9kFgQCAQ9kFgICAw8WAh4HVmlzaWJsZWhkAgMPZBYCAgEPZBYEAgMPZBYCAgcPFgIeBWNsYXNzBQlTZWxlY3RlZCBkAgUPZBYCAgEPZBYCAgUPFgIfAQUJU2VsZWN0ZWQgZGQnvtyEZzSie1KMLCO3jwr9CgjQyg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAmYPZBYCZg9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaGQCAQ9kFgICAQ9kFgQCAw9kFgICBw8WAh4FY2xhc3MFCVNlbGVjdGVkIGQCBQ9kFgICAQ9kFgICBQ8WAh8BBQlTZWxlY3RlZCBkZBm0Gb8iky7yoMA5CXOcwFaZ5QCh">
 
 		<div>
 			
@@ -24,7 +462,7 @@
 	
 <div class="Navigation">
 	<ul>
-		<li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_AboutUsTab"><a href="../About">About Us</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_HowToPlayTab"><a href="../HowToPlay">Play Poker</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_PromotionsTab"><a href="../Promotions">Promotions</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_MyAccountTab"><a href="../Account">My Account</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_ShareCakeTab"><a href="../ShareCake">Share Cake</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_AffiliatesTab"><a href="../Affiliates">Affiliates</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_SecurityTab" class="Selected "><a href="../Integrity">Integrity</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_HelpTab"><a href="../Help">Help</a></li>
+		<li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_AboutUsTab"><a href="../About">About Us</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_HowToPlayTab"><a href="../HowToPlay">Play Poker</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_PromotionsTab"><a href="../Promotions">Promotions</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_MyAccountTab"><a href="../Account">My Account</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_ShareCakeTab"><a href="../ShareCake">Share Cake</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_AffiliatesTab"><a href="http://cake.ckpnetwork.com/">Affiliates</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_SecurityTab" class="Selected "><a href="../Integrity">Integrity</a></li><li id="ctl00_ctl00_ctl00_MainContent_MainNavigation_HelpTab"><a href="../Help">Help</a></li>
 	</ul>
 </div>
 	
@@ -151,19 +589,19 @@ a wholly owned subsidiary of Cake Gaming N.V.
 						</div>
 					</td>
 					<td style="text-align: right;">
-						<span id="ctl00_ctl00_ctl00_MainContent_ThawteSeal"><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script></span>
+						<a href="http://www.vengine.com/products/vengine/index.html" target="_blank"><img src="../Images/Logos/vengine_download.gif"></a>
 					</td>
 				</tr>
 			</tbody></table>
 		</div>		
 	</div>
 	
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-84205-4";
 urchinTracker();
-</script>	
+</script>
+	
 
 		</div>
     </form>
