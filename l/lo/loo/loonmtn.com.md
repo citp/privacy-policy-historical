@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623113402id_/http%3A//www.boothcreek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154051id_/http%3A//www.boothcreek.com/privacy.asp) for the most accurate reproduction.*
 
 # Booth Creek Privacy
 
@@ -8,7 +8,7 @@ This statement discloses the privacy practices of Booth Creek Ski Holdings, Inc.
 
 ## Coverage
 
-This policy applies to various web sites operated by Booth Creek and its subsidiary companies, including [www.boothcreek.com](http://www.boothcreek.com/), [www.northstarattahoe.com](http://www.northstarattahoe.com/), [www.sierraattahoe.com](http://www.sierraattahoe.com/), [www.doublewhammypass.com](http://www.doublewhammypass.com/), [www.summit-at-snoqualmie.com](http://www.summit-at-snoqualmie.com/), [www.waterville.com](http://www.waterville.com/), [www.loonmtn.com](http://www.loonmtn.com/) and [www.cranmore.com](http://www.cranmore.com/), [www.threedompass.com](http://www.threedompass.com/), [www.skigroupnh.com](http://www.skigroupnh.com/), [www.usaskiholiday.co.uk](http://www.usaskiholiday.co.uk/), (the "Sites"). [**For Snow Park Technology privacy policy, click here.**](http://www.snowparktech.com/privacy.asp)
+This policy applies to various web sites operated by Booth Creek and its subsidiary companies, including [www.boothcreek.com](http://www.boothcreek.com/), [www.northstarattahoe.com](http://www.northstarattahoe.com/), [www.sierraattahoe.com](http://www.sierraattahoe.com/), [www.doublewhammypass.com](http://www.doublewhammypass.com/), [www.waterville.com](http://www.waterville.com/),and [www.cranmore.com](http://www.cranmore.com/), and [www.threedompass.com](http://www.threedompass.com/) (the "Sites"). [**For Snow Park Technology privacy policy, click here.**](http://www.snowparktech.com/privacy.asp)
 
 Please read the following policy to understand what personal information we may collect from you and how your personal information may be used as you make full use of our options and Sites. By using the Sites, you agree to this policy. If you do not agree to this policy, please do not use the Sites. This policy may be updated and revised occasionally without prior notice to you. Please check back periodically. Your continued use of the Sites following the posting of changes to this policy will signify your acceptance of those changes.
 
