@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alacrastore.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619025215id_/http%3A//www.alacrastore.com/cgi-bin/alacraswitchisapi.dll%3Fapp%3Dpubsite%26msg%3DGethelp%26topic%3Dprivacy%26sk%3Dguest%26_newstoretabset%3D12-00-00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alacrastore.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211030740id_/http%3A//www.alacrastore.com/cgi-bin/alacraswitchisapi.dll%3Fapp%3Dpubsite%26msg%3DGethelp%26topic%3Dprivacy%26sk%3Dguest%26_newstoretabset%3D12-00-00) for the most accurate reproduction.*
 
-# Alacra Store - Privacy Policy
+# AlacraStore.com - Privacy Policy
 
 **The Alacra Store Privacy Policy**
 
@@ -78,5 +78,3 @@ United States
 Attn: Chief Privacy Officer
 
 Effective date of this Privacy Policy: August 1st, 2005
-
-Copyright © 2006 Alacra, Inc. All rights reserved.
