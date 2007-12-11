@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623135505id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211114647id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
 
 # Daily Comedy | Privacy Policy
 
-Attention: Enter the Make Us Laugh contest and you could win a free TOM TOM GPS! [Find out more](https://web.archive.org/makeuslaugh)! 
+| 
 
 ## Daily Comedy Privacy Policy
 
@@ -52,3 +52,5 @@ Access and control over personal information on DailyComedy.com is available thr
 
 **Security**  
 DailyComedy.com takes all commercially reasonable precautions to protect our member/fans' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you NOT send private information to us by email or instant messaging services. If you have any questions about the security of DailyComedy.com, please contact us at [editor@dailycomedy.com](mailto:editor@dailycomedy.com). 
+
+| 
