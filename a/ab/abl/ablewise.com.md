@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ablewise.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623084215id_/http%3A//www.ablewise.com/details/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablewise.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212000342id_/http%3A//www.ablewise.com./details/PrivacyPolicy) for the most accurate reproduction.*
 
-# Ablewise.com Free Classifieds - Privacy Policy
+# Privacy Policy
 
   
 [Terms Of Use](https://web.archive.org/details/TermsOfUse)  |  [User Agreement](https://web.archive.org/details/UserAgreement)  |  [Privacy Policy](https://web.archive.org/details/PrivacyPolicy)  |  [Prohibited and Restricted Items](https://web.archive.org/details/ProhibitedRestrictedItems)  |  [**Ad Posting Tips**](https://web.archive.org/details/AdPostingTips) **  
