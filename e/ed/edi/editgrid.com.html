@@ -1,402 +1,419 @@
-<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2007-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070614220328id_/http%3A//www.editgrid.com/article/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the editgrid.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211110350id_/http%3A//www.editgrid.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Online Spreadsheets - EditGrid</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="verify-v1" content="eOa7bCX+wkPCE+79+fU/2J+uRvFzFbhS1SiQ+oRGnZU=">
-<meta name="EditGrid-Revision" content="8570">
-<meta name="EditGrid-Last-Changed-Date" content="2007-06-14 18:52:05 +0800 (Thu, 14 Jun 2007)">
-<meta name="description" content="A web-based online spreadsheet with real-time collaboration features">
+<meta name="EditGrid-Revision" content="11553">
+<meta name="EditGrid-Last-Changed-Date" content="2007-10-26 20:05:59 +0800 (Fri, 26 Oct 2007)">
+<meta name="description" content="EditGrid is a free web-based online spreadsheet which allows you to create and share spreadsheets documents. You can collaborate with your team, publish your spreadsheets and even power them with external data.">
 <meta name="keywords" content="spreadsheet, online, web-based, real-time, collaboration">
-<link rel="shortcut icon" type="image/ico" href="http://www.editgrid.com/static/favicon.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="http://www.editgrid.com/opensearch/desc" title="EditGrid Finder">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/static/style/default.css?8570">
+<link rel="shortcut icon" type="image/ico" href="http://www.editgrid.com/site/static/img/iconEditGrid.ico">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.editgrid.com/site/rev/11553/static/style/default.css">
 <script type="text/javascript">var std = {}</script>
-<script type="text/javascript" src="http://www.editgrid.com/static/js/std.js?8570"></script>
-<script type="text/javascript" src="http://www.editgrid.com/static/js/ui.js?8570"></script>
-<script type="text/javascript" src="http://www.editgrid.com/locale/en/8570"></script>
-<style>
-	.ArticleNav ul {
-		list-style: none;
-		padding: 0;
-		margin: 0;
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/11553/static/js/std.js"></script>
+<script type="text/javascript" src="http://www.editgrid.com/site/rev/11553/static/js/ui.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	/* -- Rollover images handling -- */
+	function prepareHoverImages(holder_id, normal_image, hover_image) {
+		if (document.getElementById)
+			var x = document.getElementById(holder_id).getElementsByTagName('IMG');
+		else if (document.all)
+			var x = document.all[holder_id].all.tags('IMG');
+		else return;
+		var preloads = new Object();
+		for (var i=0;i<x.length;i++)
+		{
+			preloads['n'+x[i].id] = new Image;
+			preloads['n'+x[i].id].src = normal_image;
+			preloads['o'+x[i].id] = new Image;
+			preloads['o'+x[i].id].src = hover_image;
+			preloads['o'+x[i].id].onerror = function () {this.src=normal_image}
+			x[i].onmouseover = function () {this.src=preloads['o'+this.id].src;}
+			x[i].onmouseout = function () {this.src=preloads['n'+this.id].src;}
+		}
 	}
-	.ArticleNav li {
-		display: block;
-		padding: 0;
-		margin: 0;
-		background: #d6e2e5;
-		border-bottom: 1px solid white;
-	}
-	.ArticleNav li.L1Current {
-		background: #e0edf9;
-		font-weight: bold;
-	}
-	.ArticleNav li a {
-		display: block;
-		color: black;
-	}
-	.ArticleNav li a.L1 {
-		padding: 8px 16px;
-	}
-	.ArticleNav li a.L2 {
-		padding: 5px 10px 5px 40px;
-		font-size: 11px;
-		font-weight: normal;
-	}
-	.ArticleNav li a.L2Current {
-		font-weight: bold;
-	}
-	.ArticleSidebarBottom {
-		padding: 15px;
-		background: #f0f0f0;
-	}
-</style>
 
+	
+	/* -- Navigation login box manipulation -- */
+	function setSaasPersonalLogin() {
+		std.css.bulkset('display', ['block', 'OrganisationLoginTriggerBlock']); 
+		std.css.bulkset('display', ['none', 'OrganisationNameBlock', 'PersonalLoginTriggerBlock']); 
+		document.forms['LoginForm'].action = "https://www.editgrid.com/login/personal";
+		document.forms['LoginForm'].elements['username'].focus();
+	}
+
+	function setSaasOrgLogin() {
+		std.css.bulkset('display', ['block', 'OrganisationNameBlock', 'PersonalLoginTriggerBlock']); 
+		std.css.bulkset('display', ['none', 'OrganisationLoginTriggerBlock']); 
+		document.forms['LoginForm'].action = "https://www.editgrid.com/login/organisation";
+		document.forms['LoginForm'].elements['orgname'].focus();
+	}
+	
+
+	/* -- Bookmark this page -- */
+	function bookmarkLink(txt, url, who) {
+		var ver = navigator.appName;
+		var num = parseInt(navigator.appVersion);
+		if ((ver == "Microsoft Internet Explorer")&&(num >= 4)) {
+			document.write('<a href="#" onClick="window.external.AddFavorite(' + "'" + url + "'" + ',' + "'" + who + "'" + ');" ');
+			document.write('onMouseOver=" window.status=');
+			document.write("'" + txt + "'; return true ");
+			document.write('"onMouseOut=" window.status=');
+			document.write("' '; return true ");
+			document.write('">'+ txt + '</a>');
+		}else{
+			document.write(txt);
+		} 
+	}
+
+	/* -- iPhone Edition -- */
+	function isSafariMobile() {
+		var ua = navigator.userAgent; 
+		return ua.indexOf('AppleWebKit') != -1 && ua.indexOf('Mobile') != -1;
+	}
+
+	function openIPhone(path, title, fallback_path) {
+		if (isSafariMobile()){
+			window.open(path, title, 'width=320,height=417,status=no,statusbar=no,scrollbars=yes');
+		} else {
+			if (fallback_path){
+				if (confirm('You are not currently using iPhone Safari, you will be redirected to a non-iPhone-Edition page, do you want to continue?')){
+					window.location.href = fallback_path;
+				}
+			} else {
+				alert('Please use your iPhone Safari to access this link.');
+			}
+		}
+	}
+
+	
+	/* bind actions to use GGAnalytics to track sign up links */
+	function getSignUpLinks() {
+		var fetch_results = []; var signup_links = []; 
+		fetch_results['personal'] = std.dom.extractAttachmentPoints(document.body)['SignUpPersonal'];
+		fetch_results['organisation'] = std.dom.extractAttachmentPoints(document.body)['SignUpOrg'];
+		fetch_results['licensing'] = std.dom.extractAttachmentPoints(document.body)['SignUpLicensing'];
+		signup_links['personal'] = []; signup_links['organisation'] = []; signup_links['licensing'] = [];
+
+		if (fetch_results['personal'] instanceof Array) {
+			for (var i=0; i<fetch_results['personal'].length; i++) {
+				signup_links['personal'].push(fetch_results['personal'][i]);
+			}
+		} else if (fetch_results['personal']) {
+			signup_links['personal'].push(fetch_results['personal']);
+		}
+		if (fetch_results['organisation'] instanceof Array) {
+			for (var i=0; i<fetch_results['organisation'].length; i++) {
+				signup_links['organisation'].push(fetch_results['organisation'][i]);
+			}
+		} else if (fetch_results['organisation']) {
+			signup_links['organisation'].push(fetch_results['organisation']);
+		}
+		if (fetch_results['licensing'] instanceof Array) {
+			for (var i=0; i<fetch_results['licensing'].length; i++) {
+				signup_links['licensing'].push(fetch_results['licensing'][i]);
+			}
+		} else if (fetch_results['licensing']) {
+			signup_links['licensing'].push(fetch_results['licensing']);
+		}
+		return signup_links;
+	}
+
+	function trackPersonalSignUpClicks(links) {
+		if (! links instanceof Array) { return false; };
+		for (var i=0; i<links.length; i++) {
+			links[i].onclick = function() {
+				urchinTracker('/site/outgoing/signup/personal');
+			}
+		}
+	}
+	function trackOrgSignUpClicks(links) {
+		if (! links instanceof Array) { return false; };
+		for (var i=0; i<links.length; i++) {
+			links[i].onclick = function() {
+				urchinTracker('/site/outgoing/signup/organisation');
+			}
+		}
+	}
+	function trackLicensingSignUpClicks(links) {
+		if (! links instanceof Array) { return false; };
+		for (var i=0; i<links.length; i++) {
+			links[i].onclick = function() {
+				urchinTracker('/site/outgoing/signup/licensing');
+				alert('Test!!!');
+			}
+		}
+	}
+	
+//]]>
+</script>
 
 </head>
 
 
-<body class="SkinDefault" style="background: url(&quot;http://www.editgrid.com/static/style/img/PageBg.gif&quot;) repeat-x white;">
 
-<div id="top" style="position: absolute; top: 0">&nbsp;</div>
 
-<script type="text/javascript">document.body.style.background = "white url(http://www.editgrid.com/static/style/img/PageBg.gif) repeat-x";</script>
-<div class="PageHead"><table class="PageHead"><tbody><tr>
 
-	<td class="PageHeadTitle">
-		<a href="http://www.editgrid.com/home" title="back to home"><img style="vertical-align: bottom" src="http://www.editgrid.com/static/style/img/SiteLogoSkinDefault.gif" alt="Site Logo"></a>
-	</td>
-	
-	<td class="PageHeadUser" style="width: 100%; vertical-align: middle">
-		<div class="PageHeadUser">
+<body class="Site">
+
+<table class="Container"><tbody><tr><td>
+<div class="PageHeader">
+	<div class="LeftHolder">
+		<a href="http://www.editgrid.com/site/"><img src="http://www.editgrid.com/site/static/img/logo.png" alt="EditGrid - More than Spreadsheets"></a>
+	</div>
+
+	<div class="RightHolder">
+		<table class="LinkMenu"><tbody><tr><td>
+			<div id="HeaderLinks_iPhone_SafariMobile" style="display: none; font-weight: bold; font-size: 21px; margin-bottom: 4px">
+				<a href="http://iphone.editgrid.com/" title="Open EditGrid iPhone Edition">» Launch the iPhone Edition <em>beta</em> now!</a>
+			</div>
+
+			<div id="HeaderLinks_Others" style="display: none; font-weight: bold; font-size: 14px; margin-bottom: 4px">
+				<a href="http://www.editgrid.com/site/news/excel_plus_launch" title="Learn more about EditGrid Excel Plus!">» EditGrid Excel Plus</a>
+			</div>
 			
+			
+			<div id="HeaderLinks_Session">
+							
+			</div>
+		</td></tr></tbody></table>
+
+		<script type="text/javascript">
+		//<![CDATA[
+			if (isSafariMobile()){
+				std.css.bulkset('display', ['block', 'HeaderLinks_iPhone_SafariMobile']); 
+				std.css.bulkset('display', ['none', 'HeaderLinks_Session']); 
+				std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
+			} else {
+				std.css.bulkset('display', ['block', 'HeaderLinks_Others']); 
+			}
+		//]]>
+		</script>
+	</div>
+</div>
+
+<div class="CenterAlign">
+
+
+</div>
+
+<div class="PageBody">
+
+
+
+<div class="HeaderSpacer">&nbsp;</div>
+
+<div class="Navigation">
+
+	
+
+	<div class="TopLevelMenu">
+		<div class="Item"><a href="http://www.editgrid.com/site/learn" title="Learn more about EditGrid">Learn EditGrid</a></div>
+		<div class="Item"><a href="http://www.editgrid.com/site/try" title="Try Now!">Try Now!</a></div>
+		<div class="Item"><a href="http://www.editgrid.com/site/purchase" title="Services &amp; Pricing">Services</a></div>
+		<div class="SignUp" id="TopMenuSignUp">
+			<a attachpoint="SignUpPersonal" href="http://www.editgrid.com/site/signup" title="Sign Up for Free"><img src="http://www.editgrid.com/site/static/img/signUp.gif" alt="Sign Up"></a>
 		</div>
-	</td>
-	
-	<td class="PageHeadTab" style="vertical-align: bottom; white-space: nowrap"><table class="PageTab"><tbody><tr>
+	</div>
 
-		
-
-		<td class="PageTabInactive"><table><tbody><tr>
-			<td class="Text"><a href="http://www.editgrid.com/login/personal?return=http://www.editgrid.com/article/privacy">Login</a></td>
-		</tr></tbody></table></td>
-		<td class="PageTabInactive"><table><tbody><tr>
-			<td class="Text"><a href="http://www.editgrid.com/signup">Sign-up</a></td>
-		</tr></tbody></table></td>
-		<td class="PageTabInactive"><table><tbody><tr>
-			<td class="Text"><a href="http://www.editgrid.com/finder">Finder</a></td>
-		</tr></tbody></table></td>
-		
-	</tr></tbody></table></td>
-
-	<td class="PageHeadDropdown" style="vertical-align: bottom">
-		<a class="PageHeadDropdownButton" href="javascript:;" title="more menu" id="PagePopupMenuActivator"></a>
-	</td>
-	
-	<script>
-	var pagePopupMenu = new ui.menu.PopupMenu({
-		items: [			{ display: 'Deutsch', action: 'http://www.editgrid.com/intl/de_de/article/privacy' },			{ display: 'English', action: 'http://www.editgrid.com/intl/en/article/privacy' },			{ display: 'Español', action: 'http://www.editgrid.com/intl/es_es/article/privacy' },			{ display: 'Français', action: 'http://www.editgrid.com/intl/fr_fr/article/privacy' },			{ display: 'Nederlands', action: 'http://www.editgrid.com/intl/nl_nl/article/privacy' },			{ display: 'Português', action: 'http://www.editgrid.com/intl/pt_br/article/privacy' },			{ display: '日本語', action: 'http://www.editgrid.com/intl/ja_jp/article/privacy' },			{ display: '简体中文', action: 'http://www.editgrid.com/intl/zh_cn/article/privacy' },			{ display: '繁體中文', action: 'http://www.editgrid.com/intl/zh_tw/article/privacy' }			, { display: '-' }
-			
-			, { display: 'Disable Live Chat', action: 'http://www.editgrid.com/setpref/session/disable_chat/1' }
-			
-		]
-	}, null);
-
-	var pagePopupMenuActivator = std.dom.element('PagePopupMenuActivator');
-	if (pagePopupMenuActivator) {
-		std.event.observe(pagePopupMenuActivator, 'click', std.event.listener(null, function(e) {
-			std.event.vanish(e);
-			var target = std.event.getEventTarget(e);
-			var bounds = std.dom.getBounds(target);
-			target.blur();
-			pagePopupMenu.show(bounds.right, bounds.bottom + 5, "top right");
-		}));
-	}
+	<script type="text/javascript">
+	//<![CDATA[
+		prepareHoverImages('TopMenuSignUp', 'http://www.editgrid.com/site/static/img/signUp.gif', 'http://www.editgrid.com/site/static/img/signUp_over.gif');
+	//]]>
 	</script>
-
-</tr></tbody></table></div>
-
-
-
-
-
-
-
-<noscript>
-	<div style="width: 100%; text-align: right"><img class="Inline" style="margin: 5px 15px 2px 0px" src="http://www.editgrid.com/static/style/img/JavascriptDisabled.gif" alt="Javascript is not enabled."/></div>
-</noscript>
-
-
-
-<table class="PageBody" style=""><tbody><tr><td class="PageBodyNoPad">
-
-
-
-
-
-
-
-
-
-
-
-<div style="float: left; width: 175px; margin-top: 18px">
-
-	<div class="ArticleNav">
-	
-	
-	
-	
-	<ul>
+	<div class="TestimonialBubble">
 		
-		
-		
-		<li>
+			<div class="Quote">
+				"One of the most promising and enterprising startups in the Office 2.0 space"
+			</div>
 			
-			<a class="L1" href="http://www.editgrid.com/article/services">EditGrid Services</a>
 			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/article/tour/workspace">Feature Tour</a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/article/plan">Future Plan</a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/changelog">Change Log</a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://forum.editgrid.com/" target="_blank">User Forum<img class="Inline" style="vertical-align: baseline; margin-left: 5px" src="http://www.editgrid.com/static/style/img/IconExtLinkGreyCyan.gif"></a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://wiki.editgrid.com/" target="_blank">Wiki<img class="Inline" style="vertical-align: baseline; margin-left: 5px" src="http://www.editgrid.com/static/style/img/IconExtLinkGreyCyan.gif"></a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/article/help">Help</a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/article/jobs">Join Our Team</a>
-			
-		</li>
-		
-		
-		
-		<li>
-			
-			<a class="L1" href="http://www.editgrid.com/article/contacts">Contact Us</a>
-			
-		</li>
-		
-	</ul>
+			<div class="Writer">- Vivek Puri,<br> StartupSquad</div>
+
+		<div class="FootNote"><img src="http://www.editgrid.com/site/static/img/black_arrow.gif" alt=""> <a href="http://www.editgrid.com/site/learn/testimonial" title="Testimonials">More Testimonials</a></div>
 	</div>
 
-	
+	<div class="SupportMenu">
+		<div class="Title">Support</div>
+		<div class="Items">
+			<div class="Item"><a href="http://www.editgrid.com/site/support/general" title="General Help">General Help</a></div>
+			<div class="Item"><a href="http://www.editgrid.com/site/support/faq" title="FAQ">FAQ</a></div>
+			<div class="Item"><a href="http://forum.editgrid.com/" title="EditGrid User Forum" target="_blank">User Forum</a></div>
+			<div class="Item"><a href="http://wiki.editgrid.com/" title="EditGrid Documentation" target="_blank">Documentation</a></div>
+			<div class="Item"><a href="http://www.editgrid.com/site/support/contact" title="Contact Us">Contact Us</a></div>
+		</div>
+	</div>
+</div>
+
+<div class="MainContent">
+	<div class="Breadcrumb">
+		<div class="Links">
+			<a href="http://www.editgrid.com/site/" title="Home">Home</a> &gt;
+		</div>
+		<div class="Title">
+			Privacy Policy
+		</div>
+	</div>
+
+	<div class="Section">
+		<div class="Text">
+			<p>
+				If you are an organisation subscriber of EditGrid, you will have to review and accept to our <a href="http://www.editgrid.com/site/privacy_for_subscribers" title="Privacy Policy for Subscribers, for organisation subscribers">Privacy Policy for Subscribers</a> too. 
+			</p>
+		</div>
+	</div>
+
+	<div class="SectionSpacer" style="border-top: 1px dashed #E5E5E5">&nbsp;</div>
+
+	<div class="Section">
+		<div class="Text">
+			<p>30th April, 2007</p>
+			<p>
+				As the service provider to EditGrid, we at Team and Concepts Limited ("TnC") hold user privacy to a high regard. This policy describes how we protect privacy at EditGrid.
+			</p>
+			<p>
+				In a nutshell:
+				</p><ol>
+					<li>We take prudent and necessary steps to protect your spreadsheet data from unauthorised third-party access.</li>
+					<li>We do not sell or release your personal information to any third party unless and only to such extent we are obliged in law to do so.</li>
+				</ol>
+			<p></p>
+		</div>
+	</div>
+
+	<div class="SectionSpacer">&nbsp;</div>
+
+	<div class="Section">
+		<div class="Title">Spreadsheet data</div>
+		<div class="Text">
+			<p>
+				When you create a spreadsheet on EditGrid, or upload a spreadsheet onto EditGrid, you will be able to share it with other EditGrid users and/or with public (ie any user who may or may not have logged in). You shall specify the sharing mode of a spreadsheet with respect to any user and/or a group thereof by means of express actions or by allowing the system defaults, which you can change in advance, be applied. Only such users may read, write, copy, lock, download or reference to your spreadsheet, embed it onto other media, or otherwise access the spreadsheet or a version thereof in the manner you prescribe for each user and/or a group thereof.
+			</p>
+			<p>
+				You are advised to take caution when you make personal, sensitive or confidential information accessible on a spreadsheet shared with public, which may be the default sharing mode of your spreadsheets.
+			</p>
+			<p>
+				Search engines and web archives routinely crawl websites for indexing and caching purposes. If you share a spreadsheet to public for viewing or exporting, it may be cached by search engines or web archives from time to time and be accessible from search engine caches or web archives even after you have disabled its public sharing on EditGrid. EditGrid exerts no control over search engine caches and web archives once the spreadsheet has been cached.
+			</p>
+		</div>
+	</div>
+
+	<div class="SectionSpacer">&nbsp;</div>
+
+	<div class="Section">
+		<div class="Title">Personal information</div>
+		<div class="Text">
+			<p>
+				We ask you to provide us a username of your choice and a password when you sign up as a personal user. Such information is necessary to protect against unauthorised access. You will submit your username and password to us every time you log on to EditGrid for authentication purpose. You must have an account at EditGrid in order to have your spreadsheets saved and to share and collaborate with other users.
+			</p>
+			<p>
+				Your username will serve as your identity on EditGrid. It forms part of the URL of your public workspace as well as the permalink of your spreadsheets. The permalink of a personal user's spreadsheet takes a form like this:
+			</p>
+			<pre>http://www.editgrid.com/user/<strong>your_username</strong>/<strong>sheet_name</strong></pre>
+			<p>
+				Your username will also be used to identify the owner, co-editor, lock owner, and last editing user of a spreadsheet or a version thereof. Only a user with permission to read a spreadsheet, with or without password protection, will be able to access such information.
+			</p>
+			<p>
+				Currently an anonymous (ie not logged-in) user can edit a public-writable spreadsheet, with or without password protection, and in such case the last editing user will be identified as "anonymous user". This, however, is subject to future changes.
+			</p>
+			<p>
+				Once logged in, you may provide further personal information about yourself to us. This include your name and your email address. Any information so collected will be collected on an opt-in basis and will only be used for the general purposes of products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting. We do not sell or release your personal information to any third party without your consent unless and only to such extent we are obliged in law to do so.
+			</p>
+			<p>
+				When you use EditGrid, whether logged-in or not, your browser send us a lot of information, including time of access, version of browser and OS, and originating IP address. Like most websites, we routinely collect server logs to analyse user activities and to compile statistics.
+			</p>
+			<p>
+				We restrict access to personal information to staff members of TnC and its contractors, all of whom are bound by confidentiality obligations.
+			</p>
+		</div>
+	</div>
+
+	<div class="SectionSpacer">&nbsp;</div>
+
+	<div class="Section">
+		<div class="Title">Future changes</div>
+		<div class="Text">
+			<p>
+				Please note that we may change this policy from time to time. We will post the most up-to-date version of this policy on this page and keep an archive of prior versions of this policy, which are available upon request. For major changes we will also post a prominent notice on the site to notify you of the changes.
+			</p>
+			<p>
+				If you have any enquiries about this policy, or would like to have a copy of a prior version of this policy please contact us at <a href="mailto:compliance@tnc.hk" title="mailto:compliance@tnc.hk">compliance@tnc.hk</a> .
+			</p>
+		</div>
+	</div>
+
+	<div class="SectionSpacer">&nbsp;</div>
+
+	<div class="Section">
+		<div class="Title">Limitations</div>
+		<div class="Text">
+			<p>
+				This policy covers only the online spreadsheet service and any external services directly connected for such purpose. 
+				It does not, without limitation, cover <a href="http://blog.editgrid.com/" title="http://blog.editgrid.com/" target="_blank">EditGrid Blog</a>, <a href="http://forum.editgrid.com/" title="http://forum.editgrid.com/" target="_blank">EditGrid Forum</a>, <a href="http://wiki.editgrid.com/" title="http://wiki.editgrid.com/" target="_blank">EditGrid Wiki</a> and any other subsidiary but separate services.
+			</p>
+			<p>
+				This policy or any part thereof may be overridden by a separate Privacy Policy for Subscribers for subscription service users.
+			</p>
+		</div>
+	</div>
+
+	<div class="Separator">&nbsp;</div>
 
 </div>
 
-<div style="margin-left: 175px">
-<div style="margin: 0 20px">
 
-	
-	<div style="border-bottom: 1px solid #c0c0c0">
-		
-	<h1>Privacy Policy</h1>
-	
-
-	</div>
-	
-
-	<div style="width: 100%">
-
-		
-
-
-
-
-
-<p>30th April, 2007
-</p><p>As the service provider to EditGrid, we at Team and Concepts
-Limited ("TnC") hold user privacy to a high regard. This policy
-describes how we protect privacy at EditGrid.
-</p><p>In a nutshell:
-</p>
-<ol><li> We take prudent and necessary steps to protect your spreadsheet data from unauthorised third-party access.
-</li><li> We do not sell or release your personal information to any
-third party unless and only to such extent we are obliged in law to do
-so.
-</li></ol>
-<a class="" title="Spreadsheet_data" name="Spreadsheet_data"></a><h2> Spreadsheet data </h2>
-<p>When you create a spreadsheet on EditGrid, or upload a spreadsheet
-onto EditGrid, you will be able to share it with other EditGrid users
-and/or with public (ie any user who may or may not have logged in). You
-shall specify the sharing mode of a spreadsheet with respect to any
-user and/or a group thereof by means of express actions or by allowing
-the system defaults, which you can change in advance, be applied. Only
-such users may read, write, copy, lock, download or reference to your
-spreadsheet, embed it onto other media, or otherwise access the
-spreadsheet or a version thereof in the manner you prescribe for each
-user and/or a group thereof.
-</p><p>You are advised to take caution when you make personal,
-sensitive or confidential information accessible on a spreadsheet
-shared with public, which may be the default sharing mode of your
-spreadsheets.
-</p><p>Search engines and web archives routinely crawl websites for
-indexing and caching purposes. If you share a spreadsheet to public for
-viewing or exporting, it may be cached by search engines or web
-archives from time to time and be accessible from search engine caches
-or web archives even after you have disabled its public sharing on
-EditGrid. EditGrid exerts no control over search engine caches and web
-archives once the spreadsheet has been cached.
-</p>
-<a class="" title="Personal_information" name="Personal_information"></a><h2> Personal information </h2>
-<p>We ask you to provide us a username of your choice and a password
-when you sign up as a personal user. Such information is necessary to
-protect against unauthorised access. You will submit your username and
-password to us every time you log on to EditGrid for authentication
-purpose. You must have an account at EditGrid in order to have your
-spreadsheets saved and to share and collaborate with other users.
-</p><p>Your username will serve as your identity on EditGrid. It forms
-part of the URL of your public workspace as well as the permalink of
-your spreadsheets. The permalink of a personal user's spreadsheet takes
-a form like this:
-</p>
-<pre>http://www.editgrid.com/user/<b>your_username</b>/<b>sheet_name</b>
-</pre>
-<p>Your username will also be used to identify the owner, co-editor,
-lock owner, and last editing user of a spreadsheet or a version
-thereof. Only a user with permission to read a spreadsheet, with or
-without password protection, will be able to access such information.
-</p><p>Currently an anonymous (ie not logged-in) user can edit a
-public-writable spreadsheet, with or without password protection, and
-in such case the last editing user will be identified as "anonymous
-user". This, however, is subject to future changes.
-</p><p>Once logged in, you may provide further personal information about
-yourself to us. This include your name and your email address. Any
-information so collected will be collected on an opt-in basis and will <span class="diffchange">only </span>be used for the <span class="diffchange">general </span>purposes <span class="diffchange">of
-products and services provision, identification and authentication,
-services improvement, contact, research, and anonymous reporting</span>.
-We do not sell or release your personal information to any third party
-without your consent unless and only to such extent we are obliged in
-law to do so.
-</p><p>When you use EditGrid, whether logged-in or not, your browser
-send us a lot of information, including time of access, version of
-browser and OS, and originating IP address. Like most websites, we
-routinely collect server logs to analyse user activities and to compile
-statistics.
-</p><p>We restrict access to personal information to staff members of
-TnC and its contractors, all of whom are bound by confidentiality
-obligations.
-</p>
-<a class="" title="Future_changes" name="Future_changes"></a><h2> Future changes </h2>
-<p>Please note that we may change this policy from time to time. We
-will post the most up-to-date version of this policy on this page and
-keep an archive of prior versions of this policy, which are available
-upon request. For major changes we will also post a prominent notice on
-the site to notify you of the changes.
-</p><p>If you have any enquiries about this policy, or would like to
-have a copy of a prior version of this policy please contact us at <a href="mailto:compliance@tnc.hk" class="external text" title="mailto:compliance@tnc.hk" rel="nofollow">compliance@tnc.hk</a>.
-</p>
-<a class="" title="Limitations" name="Limitations"></a><h2> Limitations </h2>
-<p>This policy covers only the online spreadsheet service and any
-external services directly connected for such purpose. It does not,
-without limitation, cover <a href="http://blog.editgrid.com/" class="external text" title="http://blog.editgrid.com/" rel="nofollow">EditGrid Blog</a>, <a href="http://forum.editgrid.com/" class="external text" title="http://forum.editgrid.com/" rel="nofollow">EditGrid Forum</a>, <a href="http://wiki.editgrid.com/" class="external text" title="http://wiki.editgrid.com/" rel="nofollow">EditGrid Wiki</a> and any other subsidiary but separate services.
-</p><p>This policy or any part thereof may be overridden by a separate Privacy Policy for Subscribers for subscription service users.
-</p>
-
-
-
-	</div>
 
 </div>
+
+<div class="PageFooter">
+	<div class="TextMenu">
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/" title="Home">Home</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://blog.editgrid.com/" title="EditGrid Blog" target="_blank">Blog</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/changelog" title="EditGrid Development Change Log">Change Log</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/sitemap" title="Site Map">Site Map</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/terms" title="Terms of Use">Terms</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/privacy" title="Privacy Policy">Privacy</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/credit" title="Credits">Credits</a></span>
+		<span class="Separator">|</span>
+		<span class="LinkItem"><a href="http://www.editgrid.com/site/about_us" title="About Us">About Us</a></span>
+	</div>
+
+	<div class="FootNote">
+		<div class="LeftHolder NoWrap" style="color: #666666">A Web 2.0 Online Spreadsheet.</div>
+		<div class="RightHolder NoWrap" style="color: #666666">Copyright © 2006-2007 Team and Concepts Limited</div>
+	</div>
 </div>
-
-
-	
-
-
 </td></tr></tbody></table>
 
-<table class="PageFoot" style="width: 100%; line-height: 170%"><tbody><tr>
 
-	<td style="text-align: left; vertical-align: top; color: #909090">
-		<a href="http://www.editgrid.com/home">Home</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/changelog" id="SiteNewsLink">News</a>
-		&nbsp;|&nbsp;
-		<a href="http://blog.editgrid.com" target="_blank">Blog</a>
-		&nbsp;|&nbsp;
-		<a href="http://forum.editgrid.com" target="_blank">Forum</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/press">Press</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/terms">Terms</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/privacy">Privacy</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/contacts">Contacts</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/credits">Credits</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/recommend">Invite</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.editgrid.com/article/jobs">Jobs</a>
-	</td>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+	_uacct = "UA-2650108-1";
+	urchinTracker();
 	
-	<td style="text-align: right; font-size: 11px; vertical-align: top">
-		<span style="color: #666666; white-space: nowrap">A Web 2.0 Online Spreadsheet</span> <span style="white-space: nowrap">&nbsp; Brought to you by <a target="_blank" href="http://www.tnc.hk">Team and Concepts</a></span>
-	</td>
-
+	// auto bind tracking codes to sign up links
+	var signup_links = getSignUpLinks();
+	trackPersonalSignUpClicks(signup_links['personal']);
+	trackOrgSignUpClicks(signup_links['organisation']);
+	trackLicensingSignUpClicks(signup_links['licensing']);
 	
-	
-	
-</tr></tbody></table>
+</script>
 
 
 
 
 
-
-<!-- us-ca-1.editgrid.com, 0.055182 secs -->
-
-
-
-
-
+<!-- ca04.editgrid.com, 0.006740 secs -->
 
 </body></html>
