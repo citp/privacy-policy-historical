@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the well.com privacy policy that was archived on 2007-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070608145218id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the well.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211100431id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <title>The WELL - Privacy Policy</title>
@@ -32,38 +32,28 @@ WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">
 <a href="/index.html"><img src="/images/well_logo.gif" height="75" width="389" border="0" alt="The WELL logo"></a>
 </td>
 
-<td width="33%" align="right" valign="bottom" bgcolor="#3685ff">
+<td width="33%" align="right" bgcolor="#3685ff">
 
 
-<script language="javascript" type="text/javascript">
-  <!--
-  function set_focus(curr)
-  {
-      if (curr == 0)
-      {
-          document.Login.Password.focus() ;
-      }
-      else if (curr == 1)
-      {
-          document.Login.Submit.focus() ;
-      }
-      else if (curr == 2)
-      {
-          document.Login.Username.focus() ;
-      }
-  }
-  // -->
-</script>
 
-<form name="login" method="post" action="https://user.well.com/engaged.cgi?a=5&amp;f=f">
-  <table border="0" width="100%" cellpadding="5" cellspacing="0" summary="Login to The WELL">
+
+<form id="LoginForm" name="Login" method="post" action="https://user.well.com/engaged.cgi?a=5&amp;f=f" onsubmit="if (window.submitted) return false ; window.submitted = true ; return true ;">
+  <table border="0" width="100%" cellpadding="1" cellspacing="0" summary="Login to The WELL">
   <tbody><tr>
   <td align="right" valign="middle"><span class="nav">Username</span></td>
-  <td align="left" valign="middle"><input type="text" size="11" maxlength="64" name="Username" onchange="set_focus(0) ;"></td>
+  <td align="left" valign="middle"><input type="text" size="11" maxlength="64" name="Username"></td>
   </tr>
   <tr>
   <td align="right" valign="middle"><span class="nav">Password</span></td>
-  <td align="left" valign="middle"><input type="password" size="11" maxlength="64" name="Password" onchange="set_focus(1) ;">&nbsp;&nbsp;<input type="submit" value="log in" name="Submit" onchange="set_focus(2) ;"></td>
+  <td align="left" valign="middle"><input type="password" size="11" maxlength="64" name="Password">&nbsp;&nbsp;<input type="submit" value="log in" name="Submit"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <input type="checkbox" name="RememberMe" value="RememberMe" onblur="if (! window.submitted) if (this.form.Username.value != '') if (this.form.Password.value != '') { this.form.submit() ; window.submitted = true ; }">
+      <span class="salon">Remember me on this computer
+      <input type="hidden" name="SessionId" value="b53e1ff46bd1937bc7e3fb41b3ab8cf7705d58cb11566dd81ef6f1ed1f397209">
+    </span></td>
   </tr>
   <tr>
   <td>&nbsp;</td>
@@ -71,13 +61,31 @@ WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">
   </tr>
   </tbody></table>
 </form>
+
+<script language="javascript" type="text/javascript">
+  <!--
+  document.forms.Login.Username.focus() ;
+  window.submitted = false ;
+  // -->
+</script>
+
+
+
+   
 </td>
 </tr>
 
 <!-- navigation bar -->
 <tr>
 <td width="100%" colspan="3" height="26" background="/images/bg_bottom.gif">
-&nbsp;&nbsp;<a class="nav" href="/index.html">Home</a> &nbsp; <a class="nav" href="/aboutwell.html">Learn About</a> &nbsp; <a class="nav" href="/conference.html">Conferences</a> &nbsp; <a class="nav" href="/community.html">Member Pages</a> &nbsp; <a class="nav" href="/mail.html">Mail</a> &nbsp; <a class="nav" href="/bookstore/index.html">Store</a> &nbsp; <a class="nav" href="/tools.html">Services &amp; Help</a> &nbsp; <a class="nav" href="/join.html">Join Us</a>
+&nbsp;&nbsp;<a class="nav" href="/index.html">Home</a> &nbsp; 
+<a class="nav" href="/aboutwell.html">Learn About</a> &nbsp; 
+<a class="nav" href="/conference.html">Conferences</a> &nbsp; 
+<a class="nav" href="/community.html">Member Pages</a> &nbsp; 
+<a class="nav" href="/mail.html">Mail</a> &nbsp; 
+<a class="nav" href="/bookstore/index.html">Store</a> &nbsp; 
+<a class="nav" href="/tools.html">Services &amp; Help</a> &nbsp; 
+<a class="nav" href="/join.html">Join Us</a>
 </td>
 </tr>
 
@@ -88,12 +96,13 @@ WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">
   <div class="container">
   <table width="100%" border="0" cellpadding="12" cellspacing="12" summary="content layout table">
     
+
 <!--
 <tr>
   <td width="100%" colspan="3" valign="top">
     <span class="small2">
-      <b><a href="/status.html">System Status Update</a></b>
-      All systems at The WELL are running normally.
+      <b><a href="/status.html">We're working on it: </a></b>
+      Web access to conferences is currently down.
     </span>
   </td>
 </tr>
@@ -219,6 +228,7 @@ WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">
 <td width="33%" valign="top">    <!-- top right column    -->
 
 <p><img src="/images/square_red_bullet.gif" height="8" width="8" alt="*"> <a href="/member_agreement.html">Terms of service</a></p>
+<p><img src="/images/square_red_bullet.gif" height="8" width="8" alt="*"> <a href="http://www.salon.com/about/dmca/">DMCA procedure</a></p>
 
 </td>
 
@@ -269,7 +279,14 @@ WELL</b><sup>®</sup> is a</span> <a class="salon" href="http://www.salon.com/">
 
 <tr>
 <td width="100%" align="center" bgcolor="#b8babc">
-<a class="bottomnav" href="/index.html">Home</a> | <a class="bottomnav" href="/aboutwell.html">Learn About</a> | <a class="bottomnav" href="/conference.html">Conferences</a> | <a class="bottomnav" href="/community.html">Member Pages</a> | <a class="bottomnav" href="/mail.html">Mail</a> | <a class="bottomnav" href="/bookstore/index.html">Store</a> | <a class="bottomnav" href="/tools.html">Services &amp; Help</a> | <a class="bottomnav" href="/join.html">Join Us</a>
+<a class="bottomnav" href="/index.html">Home</a> | 
+<a class="bottomnav" href="/aboutwell.html">Learn About</a> | 
+<a class="bottomnav" href="/conference.html">Conferences</a> | 
+<a class="bottomnav" href="/community.html">Member Pages</a> | 
+<a class="bottomnav" href="/mail.html">Mail</a> | 
+<a class="bottomnav" href="/bookstore/index.html">Store</a> | 
+<a class="bottomnav" href="/tools.html">Services &amp; Help</a> | 
+<a class="bottomnav" href="/join.html">Join Us</a>
 <br>
 
 <p class="footer_text"><b>The WELL</b><sup>®</sup> is registered in the U.S.
