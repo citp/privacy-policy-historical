@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austinkayak.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023214749id_/http%3A//www.austinkayak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinkayak.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211020527id_/http%3A//www.austinkayak.com/privacy.php) for the most accurate reproduction.*
 
 # Austin Kayak - Privacy
 
