@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622175734id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211014732id_/http%3A//www.complianceonline.com/cms/cms/Offline/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
-Privacy policy
-
 At ComplianceOnline, we are committed to protecting your privacy and to gives you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.
 
-Collecting Personal Information
+**Collecting Personal Information**
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are ordering e-mail newsletters, joining a limited-access premium site, or purchasing products or services. Personal information collected by ComplianceOnline often is limited to e-mail address, language, country or location, but may include other information when needed to fulfill your request or order.
 
@@ -18,7 +16,7 @@ When you buy and install the new products, we may ask you to register your purch
 
 When you submit personal information to ComplianceOnline through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which ComplianceOnline maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors and partners of ComplianceOnline. Such vendors and partners are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
-Use of Personal Information
+**Use of Personal Information**
 
 ComplianceOnline collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of ComplianceOnline and selected third parties.
 
@@ -26,12 +24,12 @@ ComplianceOnline will disclose your personal information, without notice, only i
 
 ComplianceOnline may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. ComplianceOnline may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-Security of Personal Information
+**Security of Personal Information**
 
 ComplianceOnline strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
 Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.
 
-Changes to this Statement
+**Changes to this Statement**
 
 ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site.
