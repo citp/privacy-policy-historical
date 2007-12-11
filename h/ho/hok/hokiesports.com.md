@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hokiesports.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620065245id_/http%3A//www.hokiesports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokiesports.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211053201id_/http%3A//www.hokiesports.com/privacy.html) for the most accurate reproduction.*
 
-# hokiesports.com
+# 
 
 How you can correct any inaccuracies in the information. 
 
 If during the use of **hokie** sports **.com** you feel that we are not abiding by the posted privacy policy, you should contact   
-Peg Morse, Director of Internet Services   
-by email at [pmorse@vt.edu](mailto:pmorse@vt.edu)  
-by phone at (540) 231-6329 or  
-by mail to 366 Jamerson Athletic Center (0502)  
+Damian Salas, Director of Internet Services   
+by email at [hokipoki@vt.edu](mailto:hokipoki@vt.edu)  
+by phone at (540) 231-8816 or  
+by mail to 402 Cassell Coliseum (0502)  
 Blacksburg, Virginia 24061  
 
 
