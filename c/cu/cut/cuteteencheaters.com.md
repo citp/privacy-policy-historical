@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteteencheaters.com privacy policy that was archived on 2007-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070517145827id_/http%3A//support.cuteteencheaters.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2720%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteteencheaters.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100611id_/http%3A//support.cuteteencheaters.com/support_privacy.php%3Flang%3Dus%26tour%3D1%26id%3D2720%26country%3Dus) for the most accurate reproduction.*
 
 # Cute Teen Cheaters
 
