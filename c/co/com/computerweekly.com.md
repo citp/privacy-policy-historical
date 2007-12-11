@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628233249id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerweekly.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211113210id_/http%3A//www.computerweekly.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - ComputerWeekly.com
-
-## Privacy Policy
+# Privacy Policy - ComputerWeekly.com -
 
 ComputerWeekly.com is owned and operated by Reed Business Information Ltd (RBI). Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
 
