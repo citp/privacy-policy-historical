@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genmay.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616133501id_/http%3A//www.genmay.com/donatelegal.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genmay.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211144131id_/http%3A//www.genmay.com/donatelegal.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # General [M]ayhem - Legal Information
 
