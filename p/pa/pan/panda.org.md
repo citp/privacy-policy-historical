@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626154643id_/http%3A//www.panda.org/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211120011id_/http%3A//www.panda.org/privacy/index.cfm) for the most accurate reproduction.*
 
 # WWF - WWF Online Privacy Policy
 
@@ -26,7 +26,8 @@ Data Privacy
   4. [Your right to access the information.](http://www.panda.org/privacy_policy.cfm#info_rights)
   5. [External links](http://www.panda.org/privacy_policy.cfm#links)
 
-  
+
+
 **1\. What information do we collect?  
 **  
 a) Personal information...
