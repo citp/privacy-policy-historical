@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621115643id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211061707id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
 
 # Resume-Resource.com Terms of Use
 
@@ -34,7 +34,7 @@ This notice applies to all information collected or submitted on the Resume-Reso
 
 
 
-We also partner with external websites that may provide online services and may choose to collect misformation.  Information collected by other websites promoted on the Resume-Resource.com website is subject to the privacy policyof such websites.
+We also partner with external websites that may provide online services and may choose to collect misformation.  Information collected by other websites promoted on the Resume-Resource.com website is subject to the privacy policy of such websites.
 
 Personal  and contact information provided for the free resume evaluation offer is collected and distributed to Bakos Group and subject to their privacy policy found here: <http://www.bakosgroup.com/privacy.htm>
 
