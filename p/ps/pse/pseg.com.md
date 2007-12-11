@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pseg.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615122317id_/http%3A//pseg.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pseg.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060450id_/http%3A//www.pseg.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # PSEG.com Privacy Policy
 
