@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623012117id_/http%3A//www.harmonicinc.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicinc.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211042243id_/http%3A//www.harmonicinc.com/privacy.cfm) for the most accurate reproduction.*
 
-# Harmonic Inc. | Harmonic's Online Privacy Policy
+# Harmonic Inc. |Harmonic's Online Privacy Policy
 
 Harmonic recognizes your need for appropriate protection and management of any individual identifying information you share with us. We want to make use of the information you provide to serve you better. Individual identifying information is information that enables us to identify you, such as your email address, name, title and address. Harmonic's policy regarding use of your individual identifying information covers these areas: 
 
