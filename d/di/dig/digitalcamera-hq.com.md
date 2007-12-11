@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626164058id_/http%3A//www.digitalcamera-hq.com/digital-cameras/dchq-privacy-policy_guide.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211191424id_/http%3A//www.digitalcamera-hq.com/digital-cameras/dchq-privacy-policy_guide.html) for the most accurate reproduction.*
 
 # DCHQ: Privacy Policy - Unbiased reviews, prices, and advice from DigitalCamera-HQ
 
