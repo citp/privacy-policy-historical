@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619044831id_/http%3A//www.tihson.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211200803id_/http%3A//www.tihson.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# Free Articles - Free Content for Web Sites and Newsletters
+# privacyArticle Directory - Free Content on Tihson
 
-tihsoN.com strives to offer its visitors the many advantages of internet technology and to provide an interactive and personalized experience.   We may use Personally Identifiable Information (e.g. your name and  e-mail address) subject to the terms of this privacy policy.   We will never sell, barter, or rent your email address to any unauthorized third party.
+Privacy Statement  
+  
+TihsoN.com strives to offer its visitors the many advantages of internet technology and to provide an interactive and personalized experience.   We may use Personally Identifiable Information (e.g. your name and  e-mail address) subject to the terms of this privacy policy.   We will never sell, barter, or rent your email address to any unauthorized third party.
 
 **How we gather information from users**
 
@@ -20,15 +22,15 @@ Personally Identifiable Information collected by tihson.com may also be used for
 
 **Affiliated sites, linked sites and advertisements**
 
-tihson.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a [www.tihson.com](http://www.tihson.com/) page, certain content that is actually created or hosted by a third party. Also, through tihson.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Tihson.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+TihsoN.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a [www.tihson.com](http://www.tihson.com/) page, certain content that is actually created or hosted by a third party. Also, through tihson.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. TihsoN.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Articlebeach.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. TihsoN.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Articlebeach.com and this policy. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of TihsoN.com and this policy. 
 
 **Children**
 
-Tihson.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Articlebeach.com has any information from or about anyone under 13, please contact us at the address listed below.
+TihsoN.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe TihsoN.com has any information from or about anyone under 13, please contact us at the address listed below.
 
 **Contacting Us**
 
@@ -36,13 +38,13 @@ We can be contacted by email at [contactus@tihson.com](mailto:contactus@tihson
 
 **Changes to this Policy**
 
-Tihson.com reserves the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our site following the posting of changes to these terms will mean you accept those changes.  Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+TihsoN.com reserves the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our site following the posting of changes to these terms will mean you accept those changes.  Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 **Governing law**
 
-This policy and the use of this Site are governed by Texas law.  If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin.   Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+This policy and the use of this site are governed by law.  If a dispute arises under this policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator.   Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 
