@@ -1,27 +1,8 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624090417id_/http%3A//www.ceridian.com/corp/article/0%2C2868%2C10898-58856%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101646id_/http%3A//www.ceridian.com/corp/article/1%2C2868%2C10898-58856%2C00.html) for the most accurate reproduction.*
 
 # Ceridian Web Site Privacy Statement - Ceridian
 
-|  | | | | | | | |   
----|---|---|---|---|---|---|---  
-| | [Our Businesses](https://web.archive.org/corp/nav/1,2869,10898,00.html)| |   
-| |   
-| | [Investor Relations](https://web.archive.org/corp/nav/1,2869,10901,00.html)| |   
-| |   
-| | [News](https://web.archive.org/corp/nav/1,2869,10902,00.html)| |   
-| |   
-| | [Corporate Governance](https://web.archive.org/corp/nav/1,2869,10903,00.html)| |   
-| |   
-| | [About Us](https://web.archive.org/corp/nav/1,2869,10904,00.html)| |   
-| |   
-| | [Careers](https://web.archive.org/corp/nav/1,2869,10905,00.html)| |   
-| |   
-| | [Contact Us](https://web.archive.org/corp/nav/1,2869,10906,00.html)| |   
-| |   
-| | |   
-|  |  |  |  |  |   
----|---|---|---|---  
-|  **Applicability**   
+**Applicability**   
 Ceridian understands and respects your concerns about privacy. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. This Web site provides information and resources related to the products and services offered by Ceridian. We hope that you will find the Web site useful and we provide you with this notice of our intentions with respect to the information we may collect from you while you are using this site. Supplemental statements may apply to certain countries, products, or services in particular. Links to supplemental statements, if any, can be found at the end of this page. Additionally, certain aspects of use of this site or information collected through this site may be covered by our contracts, if any, with customers. 
 
 **Collection and Use of Information**  
@@ -61,5 +42,4 @@ Use of the Site is governed by Terms and Conditions of Use.
 EFFECTIVE DATE: March 10, 2006
 
   
-|   
-| 
+
