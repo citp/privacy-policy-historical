@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adobetutorialz.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623174612id_/http%3A//www.adobetutorialz.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobetutorialz.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211154233id_/http%3A//www.adobetutorialz.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
