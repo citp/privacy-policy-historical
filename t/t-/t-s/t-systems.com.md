@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506212445id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211085036id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
 
-# t-systems.de: Privacy Policy
+# T-Systems: Privacy Policy
 
 Thank you for visiting this website. T-Systems places great importance on data security and data protection. Protecting personal rights is integral to our corporate culture and built into our services and products. We respect the safety of your personal data. That is why T-Systems continuously works to improve data security measures to protect you and your privacy. 
 
