@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606193148id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211050046id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
 
 # Environment Agency - Privacy policy
 
