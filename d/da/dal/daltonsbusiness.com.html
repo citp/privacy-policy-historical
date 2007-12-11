@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daltonsbusiness.com privacy policy that was archived on 2007-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070407234635id_/http%3A//www.daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daltonsbusiness.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211100801id_/http%3A//www.daltonsbusiness.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>DaltonsBusiness.com  - Businesses for sale throughout the UK</title>
@@ -14,343 +14,307 @@
 <meta name="Revisit-After" content="7 Days">
 
 <link rel="P3Pv1" href="/w3c/p3p.xml">
-<link rel="stylesheet" href="/styles/DaltonsBusiness.css" type="text/css">
+<link rel="stylesheet" href="/styles/searchResults1.css" type="text/css">
+<link rel="stylesheet" href="/styles/DaltonsBusiness1.css" type="text/css">
+<link rel="stylesheet" href="/styles/guidepage1.css" type="text/css">
+
+
+<link rel="stylesheet" href="/styles/styleguide.css" type="text/css">
+
+
 <link rel="SHORTCUT ICON" href="http://www.daltonsbusiness.com/Favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="copyright" content="Copyright - All Rights Reserved © 2005 CMP Information">
 
 
 <script language="JavaScript" type="text/javascript" src="/Library/CommonJS.js"></script>
+
 <script language="JavaScript" type="text/javascript" src="/Library/Banner.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="/Library/jscript.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+	ord = Math.random()*10000000000000000;
+</script>
 <script language="JavaScript" type="text/javascript">
 <!--
-//configuration
-//OAS_url ='http://mediauk.247realmedia.com/';
-OAS_url ='http://mediauk.247realmedia.com/RealMedia/ads/';
-//OAS_listpos = 'Middle,Position1,Right,Top';
-OAS_listpos = 'Right,Position1,Top';
-OAS_query = '?';
-//OAS_sitepage = 'daltonsbusiness/ros';
-OAS_sitepage = 'daltonsbusiness/europeansearches'
-//end of configuration
-OAS_version = 10;
-OAS_rn = '001234567890'; OAS_rns = '1234567890';
-OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-function OAS_NORMAL(pos) { 
-document.write('<a HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=_top>');
-document.write('<img SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" BORDER=0 ALT="Click!"></a>');
-}
+    //This function highlights corresponding Channel's options on mouseover 
+    // and rest will be in Mouse Out position
+    var mainMenu;
+	mainMenu="";
+    function Display(menuname)
+    {
+		MM_swapImgRestore();
+        document.getElementById("buyabusiness").style.display='none';
+        document.getElementById("buyafranchise").style.display='none';
+        document.getElementById("sellbusiness").style.display='none';
+        document.getElementById("businessadvice").style.display='none';
+        document.getElementById("businessnews").style.display='none';
+        document.getElementById("mydaltons").style.display='none';
+        document.getElementById(menuname).style.display='block';
+    }
+    
+	function loadImages()
+	{
+		
+		SetDaltonsNavCookies();
+		MM_preloadImages('/images/menu/buyabusiness_hover.gif','/images/menu/buyafranchies_hover.gif',
+						'/images/menu/sellabusiness_hover.gif','/images/menu/businessadvice_hover.gif',
+						'/images/menu/businessnews_hover.gif','/images/menu/yourdaltons_hover.gif'); 
+		mainMenu=readCookie('mainMenu');		 
+
+		var imageId='Image3';
+		var imageName = 'buyabusiness_hover.gif';
+		
+		switch (mainMenu)
+		{
+			case "buyafranchise":
+				imageId = 'Image4';
+				imageName = 'buyafranchies_hover.gif';
+				break;
+			case "sellbusiness":
+				imageId = 'Image5';
+				imageName = 'sellabusiness_hover.gif';
+				break;
+			case "businessadvice":
+				imageId = 'Image6';
+				imageName = 'businessadvice_hover.gif';
+				break;
+			case "businessnews":
+				imageId = 'Image7';
+				imageName = 'businessnews_hover.gif';
+				break;
+			case "mydaltons":
+				imageId = 'Image8';
+				imageName = 'yourdaltons_hover.gif';
+				break;
+			default:
+				mainMenu = 'buyabusiness';
+				imageId = 'Image3';
+				imageName = 'buyabusiness_hover.gif';
+				break;
+				
+		}
+				
+		MM_swapImage(imageId,'','/images/menu/'+ imageName,1);
+		Display(mainMenu);
+
+	}
+	
+	function createCookie(name, value, days)
+	{
+	  if (days) {
+	    var date = new Date();
+	    date.setTime(date.getTime()+(days*24*60*60*1000));
+	    var expires = "; expires="+date.toGMTString();
+	    }
+	  else var expires = "";
+	  document.cookie = name+"="+value+expires+"; path=/";
+	}
+
+	function readCookie(name)
+	{
+	  var ca = document.cookie.split(';');
+	  var nameEQ = name + "=";
+	  for(var i=0; i < ca.length; i++) {
+	    var c = ca[i];
+	    while (c.charAt(0)==' ') c = c.substring(1, c.length); //delete spaces
+	    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+	    }
+	  return null;
+	}
+
+	function eraseCookie(name)
+	{
+	  createCookie(name, "", -1);
+	}
+
+
+	function DisplayLastSelected()
+	{
+		//loadImages();
+	}
+
+	//Below Function written to update the cookie with the selected menu item.
+	function RedirectPage(mainMenuVal)  //daltonsPageName,
+	{	
+
+		var DaltonsBVisited = readCookie('DaltonsBVisited');
+		if(DaltonsBVisited == 'Y')
+		{
+			createCookie('mainMenu',mainMenuVal,'1');
+		}
+		else
+		{
+				
+		}
+	}
+
+	function SetDaltonsNavCookies()
+	{
+		var DaltonsBVisited = readCookie('DaltonsBVisited');
+		if(DaltonsBVisited == null)
+		{
+			createCookie('DaltonsBVisited','Y','1');
+		}
+		else
+		{
+			var LoadCookieVal = readCookie('mainMenu');
+			if (LoadCookieVal != null)
+			{
+				createCookie('mainMenu',LoadCookieVal,'1');
+			}
+		}
+	}
+		
+	
 //-->
-</script><script language="JavaScript" type="text/javascript">
-<!--
-OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1)
-OAS_version = 10;
-if (OAS_version >= 11)
-document.write('<sc'+'ript language=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/script>');
-//-->
-</script><script language="JavaScript1.1" src="http://mediauk.247realmedia.com/RealMedia/ads/adstream_mjx.ads/daltonsbusiness/europeansearches/1181801200@Right,Position1,Top?"></script><script language="JavaScript" type="text/javascript">
- <!-- 
- document.write('');
-function OAS_AD(pos) {
-if (OAS_version >= 11 && typeof(OAS_RICH!='undefined'))
-  OAS_RICH(pos);
-else
-  OAS_NORMAL(pos);
-}
-//-->
-</script><script language="JavaScript1.2">
-var refr=escape(document.referrer);
-var dom=location.hostname;
-var stURL="http://eu.link.decdna.net/n/23877/24177/www.daltons.co.uk/e5e9a671002503000000000600000000103d488b0000000000000000000000000000000100/i/c?0&1pixgif&referer=" + refr;
-if ( (refr && refr.search(dom) == -1) && (location.href.toUpperCase().indexOf("247SEO=N") == -1) )
-{
-imageTR = new Image();
-imageTR.src = stURL;
-}
-</script></head>
-<!-- OAS SETUP begin -->
+</script>
 
 
 
+</head>
+<body onload="loadImages();SetDaltonsNavCookies();" onmouseover="window.status='Welcome to DaltonsBusiness.com';return true;">
+    <!--TS_1-->
+    <!--<table width="780" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td valign="top">-->
+                <!--TS_11-->
+                <!--/////////////////////////Header Start//////////////////////-->
+                <div id="header_container" align="left">
+                    <div id="header_content" align="left">
+                        <div id="dalton_brand">
+                            <a href="/index.asp">
+                                <img src="/images/daltons_business_s.gif" border="0"></a>
+                                <br>
+								<div id="addText">
+									  25,601 current businesses for sale</div>		
+									
+                                    <div id="header_right">
+									<div id="globalNav">
+									    <a href="/index.asp">Home</a> | <a href="/daltonsWeekly.asp" onclick="javascript:toggle(document.getElementById('About'),document.getElementById('AboutBt'));">
+									        About Us</a> | <a href="/DaltonsFaq.asp">FAQs</a> | <a href="/Contactus.asp">Contact Us</a> | <a href="/Login.asp">Log-in </a>
+									</div>
+									
+                        </div>
 
-<!-- OAS SETUP end -->
-<!-- Start DI Tracking Code for HEAD section-->
-<!-- Added 10/08/2006 12:11 by DL at request of 247RM -->
+                        </div>
+						<div id="banner" align="center">
+							<table width="100%" height="100%" border="0px" cellpadding="0px" cellspacing="0px">
+								<tbody><tr>
+									<td align="center">
+							<!-- begin ad tag (tile=1) -->
+									<script language="JavaScript" type="text/javascript">
 
-<!-- End DI Tracking Code -->
+								document.write('<scr'+'ipt language="JavaScript" src="http://ad.uk.doubleclick.net/adj/daltons.otpmedia/sell_business;pos=above;sub=value;tile=1;dcopt=ist;sz=468x60,728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
 
+									</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/daltons.otpmedia/sell_business;pos=above;sub=value;tile=1;dcopt=ist;sz=468x60,728x90;ord=2048946761679275.5?" type="text/javascript"></script>
+									<noscript><a href="http://ad.uk.doubleclick.net/jump/daltons.otpmedia/sell_business;pos=above;sub=value;tile=1;sz=468x60,728x90;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/daltons.otpmedia/sell_business;pos=above;sub=value;tile=1;sz=468x60,728x90;ord=123456789?"  border="0" alt=""></a></noscript>
 
+							<!-- End ad tag -->
+							<!--	<img src="/images/Banner/WSI070404.gif" > </img>-->
+								</td>
+							</tr>
+						</tbody></table>
+						</div>
+                        <div id="top_menu">
+                            <a href="/find-a-business/" onmouseover="Display('buyabusiness');  MM_swapImage('Image3','','/images/menu/buyabusiness_hover.gif',1);" onclick="RedirectPage('buyabusiness');" onmouseout="DisplayLastSelected();">
 
-<body onmouseover="window.status='Welcome to DaltonsBusiness.com';return true;">
-<!--TS_1-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr><td width="185" valign="top"> 
-		<!--TS_11-->
-		<table width="185" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><td><a href="/"><img src="/images/logos/daltons-bcom185.gif" width="185" height="76" border="0" alt="DaltonsBusiness.com Logo"></a></td></tr>
-			<tr><td>
-				<!--TS_111-->
-				<div id="MainMenuContainer">
-					<table width="185" border="0" cellspacing="0" cellpadding="1" id="tblMenu">
-						<tbody><tr><td>
-							<table width="177" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr><td width="12"><img src="/images/furniture/Home.gif" width="10" height="10" alt="Home"></td>
-							<td width="165" class="MenuItem"><a href="/">Home page</a></td></tr>
-							</tbody></table>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC" class="HeaderLink">
-							<a href="#" onclick="javascript:toggle(document.getElementById('Bizforsale'),document.getElementById('BizforsaleBt'));">
-								<img border="0" height="10" hspace="4" name="BizforsaleBt" id="BizforsaleBt" src="/images/resrc_expand.gif" alt="-" width="10">
-								Businesses for sale</a>
-							</td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="Bizforsale" style="display: none;">
-								<li><a href="/find-a-business/">Browse for a business</a></li>
-								<li><a href="/AdvancedSearch.asp">Search for a business</a></li>
-								<li><a href="/BusinessRequired.asp">Businesses wanted</a></li>
-								<li><a href="/buyGuide.asp">Business buying guide</a></li>
-								<li><a href="/dbGuide1.asp">Tax guide</a></li>
-							</ul>
-						</td></tr>
-             
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('CorpSales'),document.getElementById('CorpSalesBt'));"><img border="0" height="10" hspace="4" name="CorpSalesBt" id="CorpSalesBt" src="/images/resrc_expand.gif" alt="-" width="10">Corporate sales</a></span></td></tr>
-						<tr><td>
-							<ul class="ItemLink" id="CorpSales" style="display: none;">
-								<li><a href="http://www.daltonscorporate.com" target="_blank">Companies for sale</a></li>
-							</ul>
-						</td></tr>
-				 
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('ComProp'),document.getElementById('ComPropBt'));"><img border="0" height="10" hspace="4" name="ComPropBt" id="ComPropBt" src="/images/resrc_expand.gif" alt="-" width="10">Commercial property</a></span></td></tr>
-						<tr><td>
-							<ul class="ItemLink" id="ComProp" style="display: none;">
-								<li><a href="/ComPropertySearch.asp">Search</a></li>
-							</ul>
-						</td></tr>
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('PropForSale'),document.getElementById('PropForSaleBt'));"><img border="0" height="10" hspace="4" name="PropForSaleBt" id="PropForSaleBt" src="/images/resrc_expand.gif" alt="-" width="10">Residential property</a></span></td></tr>
-						<tr><td>
-							<ul class="ItemLink" id="PropForSale" style="display: none;">
-								<li><a href="/propertyforsale.asp">Property for sale</a></li>
-							</ul>
-						</td></tr>
-             
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('Myservices'),document.getElementById('MyservicesBt'));"><img border="0" height="10" hspace="4" name="MyservicesBt" id="MyservicesBt" src="/images/resrc_expand.gif" alt="-" width="10">
-							Login / My services</a></span></td></tr>
-						<tr><td>
-							<ul class="ItemLink" id="Myservices" style="display: none;">
-								<li><a href="/Login.asp">Login/Register</a></li>
-								<li><a href="/Subscription1.asp?opt=1">Subscription</a></li>
-								<li><a href="javascript:viewPortfolio();">My portfolio</a>&nbsp;(<script>document.write(getNoofBiz());</script>0)</li>
-								<li><a href="/showss.asp">My saved search</a></li>
-								<li><a href="/EmailAlert.asp">My email alert</a></li>
-								<li><a href="/UpdateUser.asp">Update my profile</a></li>
-							</ul>
-						</td></tr>  
-						
-						<tr><td bgcolor="#3366CC" height="10"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('Sellingabiz'),document.getElementById('SellingabizBt'));"><img border="0" height="10" hspace="4" name="SellingabizBt" id="SellingabizBt" src="/images/resrc_expand.gif" alt="-" width="10">Selling a business</a></span></td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="Sellingabiz" style="display: none;">
-								<li><a href="/ValuationAgent.asp">Business valuations</a></li>
-								<li><a href="/PostanAd.asp">Place an advert</a></li>
-								<li><a href="/sellGuide.asp">Business selling guide</a></li>
-								<li><a href="/dbGuide1.asp">Tax guide</a></li>
-							</ul>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('Franchises'),document.getElementById('FranchisesBt'));"><img border="0" height="10" hspace="4" name="FranchisesBt" id="FranchisesBt" src="/images/resrc_expand.gif" alt="-" width="10">Franchises</a></span></td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="Franchises" style="display: none;">
-								<li><a href="/franchisesOpportunitiesSearch.asp">Franchise search</a></li>
-								<li><a href="/FranchiseResalesSearch.asp">Franchise re-sales</a></li>
-								<li><a href="/franchiseGuide.asp">Guide to franchising</a></li>
-							</ul>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('Finance'),document.getElementById('FinanceBt'));"><img border="0" height="10" hspace="4" name="FinanceBt" id="FinanceBt" src="/images/resrc_expand.gif" alt="-" width="10">Finance</a></span></td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="Finance" style="display: none;">
-								<li><a href="/BusinessFinance.asp">Business finance</a></li>
-								<!-- Removed 180107 - renamed page as BusinessInsurance.asp.bak
-								<li><a href="/BusinessInsurance.asp">Business insurance</a></li>-->
-							</ul>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('BizOpt'),document.getElementById('BizOptBt'));"><img border="0" height="10" hspace="4" name="BizOptBt" id="BizOptBt" src="/images/resrc_expand.gif" alt="-" width="10">Business opportunities</a></span></td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="BizOpt" style="display: none;">
-								<li><a href="/BusinessOpportunities.asp">Search</a></li>
-							</ul>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('BiztoBiz'),document.getElementById('BiztoBizBt'));"><img border="0" height="10" hspace="4" name="BiztoBizBt" id="BiztoBizBt" src="/images/resrc_expand.gif" alt="-" width="10">Business support</a></span></td></tr>
-						<tr><td> 
-							<!-- &nbsp;<img src="/images/new.gif" alt="New"> -->
-							<ul class="ItemLink" id="BiztoBiz" style="display: none;">
-								<li><a href="/eventsCalendar.asp">Events calendar</a></li>
-								<li><a href="/Articles/">News &amp; Features</a></li>
-								<li><a href="/TrainingSeminars.asp">Training / seminars</a></li>
-								<li><a href="/StartupBusiness.asp">Business start-ups</a></li>
-								<li><a href="/BusinessServices.asp">Business services</a></li>
-								<li><a href="/ProfessionalSearch.asp">Professional directory</a></li>	  
-								<li><a href="/BusinessLinks.asp">Link to us</a></li>
-								<li><a href="/BusinessLinkstous.asp">Useful links</a></li>
-							</ul>
-						</td></tr>
-						
-						<tr><td bgcolor="#3366CC"><span class="HeaderLink"><a href="#" onclick="javascript:toggle(document.getElementById('About'),document.getElementById('AboutBt'));"><img border="0" height="10" hspace="4" name="AboutBt" id="AboutBt" src="/images/resrc_collapse.gif" alt="-" width="10">About Daltons/Help</a></span></td></tr>
-						<tr><td> 
-							<ul class="ItemLink" id="About">
-								<li><a href="/daltonsWeekly.asp">Daltons Weekly</a></li>
-								<li><a href="/DaltonsFaq.asp">Help/FAQ</a></li>
-								<li><a href="/Contactus.asp">Contact us to advertise</a></li>
-							</ul>
-						</td></tr>
-						<!-- New DaltonsBUSINESS button added Author:GCI Date:05/02/2007-->
-						<tr>
-							<td align="center">
-								<a href="http://www.daltons.biz/" target="_blank">
-									<img src="/images/banner/daltons_biz_button-20070205.gif" alt="Daltons.biz" border="0" width="150"></a>
-							</td>
-						</tr>
-						<!--Start : Webvote Code Date: 30/01/2007 Author:GCI -->
-						<tr>
-							<td valign="top">
-								<iframe name="Web Vote" title="Web Vote" id="Web Vote" width="185" height="180" align="left" frameborder="0" scrolling="no" src="/library/votingpage.asp"></iframe>
-							</td>
-						</tr>
-						<!--End : Webvote Code -->
-					</tbody></table>
-				</div>
-				<!--&nbsp;&nbsp;&nbsp;<font color="red" size="1">(New)</font>-->
-				<!--<img src="/images/new.gif" alt="New">-->
-			</td></tr>
-			<tr><td>
-				<div id="ButtonBanner">
-					<!-- Survey banner Added by Suraj-GCI 270207 -->
-					<!-- Survey bannerRemoved by Suraj-GCI 200307 -->
-					<!--<a href="http://www.daltonsbusiness.com/surveys" style="padding-top:0px;" target="_blank"><img src="/images/banner/DB-Win-Button.GIF" alt="User Survey" border="0" width="150" /></a>-->
-					<!-- Subscription banner Removed by Suraj-GCI 270207 -->
-					<!--<a href="http://www.daltonsbusiness.com/Subscription1.asp?opt=1"><img src="/images/banner/daltons_sub_button-20070224.gif" alt="Subscribe Daltons Weekly" border="0" width="150" /></a>-->
-					<!--  New Pub Banner - Sarah 09/01/2007 11:20 -->
-					<a href="http://www.publicanlive.com/daltons" target="_blank"><img src="/images/banner/pub_banner.gif" alt="The Publican Live" border="0" width="150"></a>
-
-					<!--  New Subscription Banner - Phill 010606 -->
-					<!-- Subscription Banner Removed By:Suraj- GCI 24/02/2007 -->
-					<!--<a href="http://www.daltonsbusiness.com/Subscription1.asp?opt=1"><img src="/images/banner/daltons_sub_button-20070109.gif" alt="Subscribe Daltons Weekly" border="0" width="150" /></a>-->
-					<!-- Link Added on 17/01/2007 By:Ruchir-GCI Requested By:Anna Jackson -->
-					<!-- Link Removed on 05/02/2007 By:Suraj-GCI -->
-					<!-- <a href="http://www.daltons.biz/" target="_blank"> <img src="/images/banner/daltons_biz_button-20070117.gif" alt="Daltons.biz" border="0" width="150" /></a> -->
-					<!--  Travel Turtle - Shahrokh -->
-					<!-- Added 03/01/2007 11:19 -->
-					<a href="http://www.travelturtle.com/" target="_blank"><img src="/images/banner/travelTurtle-20070103.gif" alt="Travel Turtle" border="0" width="150" height="63" style="margin-top:7px"></a>
-
-					<!-- Touch Local -->
-					<!-- Added 03/01/2007 -->
-					<!-- Ammended 08/01/2007 -->
+                                <img src="https://web.archive.org/images/menu/buyabusiness.gif" name="Image3" width="109" height="23" border="0" id="Image3" style="position:absolute;left:246px;">
+                            </a>
+                            <a href="/franchisesOpportunitiesSearch.asp" onmouseover="Display('buyafranchise'); MM_swapImage('Image4','','/images/menu/buyafranchies_hover.gif',1);" onclick="RedirectPage('buyafranchise');" onmouseout="DisplayLastSelected();">
+                               <img src="/images/menu/buyafranchies.gif" name="Image4" width="120" height="23" border="0" id="Image4" style="position:absolute;left:355px;">
+                            </a> 
+                            <a href="/PostanAd.asp" onmouseover="Display('sellbusiness');  MM_swapImage('Image5','','/images/menu/sellabusiness_hover.gif',1);" onclick="RedirectPage('sellbusiness');" onmouseout="DisplayLastSelected();">
+                                <img src="/images/menu/sellabusiness.gif" name="Image5" width="115" height="23" border="0" id="Image5" style="position:absolute;left:475px;">
+                            </a>
+                            <a href="/AdviceCenterHome.aspx" onmouseover="Display('businessadvice');MM_swapImage('Image6','','/images/menu/businessadvice_hover.gif',1);" onclick="RedirectPage('businessadvice');" onmouseout="DisplayLastSelected();">
+                            
+                                <img src="/images/menu/businessadvice.gif" name="Image6" width="121" height="23" border="0" id="Image6" style="position:absolute;left:590px;">
+                            </a> 
+                            <a href="/Articles/default.asp" onmouseover="Display('businessnews');  MM_swapImage('Image7','','/images/menu/businessnews_hover.gif',1);" onclick="RedirectPage('businessnews');" onmouseout="DisplayLastSelected();">
+						    <img src="/images/menu/businessnews.gif" name="Image7" width="110" height="23" border="0" id="Image7" style="position:absolute;left:711px;">
+                            </a>
+                            <a href="/Login.asp" onmouseover="Display('mydaltons');MM_swapImage('Image8','','/images/menu/yourdaltons_hover.gif',1);" onclick="RedirectPage('mydaltons');" onmouseout="DisplayLastSelected();"> 
+                            <img src="/images/menu/yourdaltons.gif" name="Image8" width="111" height="23" border="0" id="Image8" style="position:absolute;left:821px;">
+                            </a>
+                        </div>
+                    </div>
 					
+                     <div id="buyabusiness" style="display: block;">
+                        <a href="/find-a-business/" class="tex" onclick="RedirectPage('buyabusiness');">Sector Search</a> | 
+                        <a href="/AdvancedSearch.asp" class="tex" onclick="RedirectPage('buyabusiness');">Advanced Search </a>| 
+                        <a href="http://www.daltonscorporate.com" class="tex" target="_blank">Corporate Business sales </a>| 
+                        <a href="/BusinessOpportunities.asp" class="tex" onclick="RedirectPage('buyabusiness');">Business Opportunities  </a>
+                      | <a href="/BusinessFinance.asp" class="tex" onclick="RedirectPage('buyabusiness');">Finance</a> | 
+                        <a href="/dbGuide1.asp" class="tex" onclick="RedirectPage('buyabusiness');">Tax Guide </a>| 
+                        <a href="/buyGuide.asp" class="tex" onclick="RedirectPage('buyabusiness');">Business Buying Guide </a>|
+						<a href="/ComPropertySearch.asp" class="tex" onclick="RedirectPage('buyabusiness');">Commercial Property </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                    <div id="buyafranchise" class="menuItem" style="display: none;">
+                        <a href="/franchisesOpportunitiesSearch.asp" class="tex" onclick="RedirectPage('buyafranchise');">Franchise Search </a>|
+                        <a href="/FranchiseResalesSearch.asp" class="tex" onclick="RedirectPage('buyafranchise');">Franchise re-sales </a>| 
+                        <a href="/franchiseGuide.asp" class="tex" onclick="RedirectPage('buyafranchise');">Franchise Guide </a>| 
+                        <a href="http://www.thefranchisefair.com" class="tex" target="_blank" onclick="RedirectPage('buyafranchise');">The Franchise Fair </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-					<!--  PubZone -->
-					<a href="http://www.daltonsbusiness.com/trade-zone/pubs/"><img src="/images/banner/PZ-logo.GIF" alt="Pub Zone" border="0" width="150"></a>
+                    <div id="sellbusiness" class="menuItem" style="display: none;">
+                        <a href="/PostanAd.asp" class="tex" onclick="RedirectPage('sellbusiness');">Sell Your Business </a>| 
+                        <a href="/ValuationAgent.asp" class="tex" onclick="RedirectPage('sellbusiness');">Business Valuations </a>| 
+                        <a href="#" class="tex" onclick="RedirectPage('sellbusiness');">Sell Multiple Businesses</a>| 
+                        <a href="/PostanAd.asp" class="tex" onclick="RedirectPage('sellbusiness');">Advertiser Log-in |
+						</a><a href="/sellGuide.asp" class="tex" onclick="RedirectPage('sellbusiness');">Business Selling Guide </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					</div>
+					<!-- /daltonsMagazine.asp -->
+                    <div id="businessadvice" class="menuItem" style="display: none">
+					    <a href="http://www.daltons.biz" class="tex" target="_blank">Daltons Business magazine </a>
+                      | <a href="/AdviceCenterHome.aspx" class="tex" onclick="RedirectPage('businessadvice');">Ask the Expert </a>| 
+                        <a href="/eventsCalendar.asp" class="tex" onclick="RedirectPage('businessadvice');">Events Calendar </a>| 
+                        <a href="/TrainingSeminars.asp" class="tex" onclick="RedirectPage('businessadvice');">Training/Seminars </a>| 
+                        <a href="/StartupBusiness.asp" class="tex" onclick="RedirectPage('businessadvice');">Start-ups </a>| 
+						<span class="tex"><a href="/BusinessServices.asp" class="tex"> Services </a>|
+                       <a href="/ProfessionalSearch.asp" class="tex" onclick="RedirectPage('businessadvice');">Professional Directory </a>| 
+                        <a href="/BusinessLinkstous.asp" class="tex" onclick="RedirectPage('businessadvice');"> Useful Links </a>&nbsp;</span>&nbsp;&nbsp;</div>
 
-					<!-- Interior Design Handbook - S Walker -->
-					<!-- Added 13/12/2006 15:01 -->
-					<a href="http://www.interiordesignhandbook.com/" target="_blank"><img src="/images/banner/interiorDesignHandbook.gif" alt="Interior Design Handbook" border="0" width="120" height="120"></a>
+                   <div id="businessnews" class="menuItem" style="display: none; overflow: auto;">
+                        <a href="/Articles/default.asp" class="tex" onclick="RedirectPage('businessnews');">Today's Headlines </a>| 
+						<a href="/Articles/features.asp" class="tex" onclick="RedirectPage('businessnews');">Comment and Analysis </a>| 
+						<a href="/Trade-Zone/Pubs/" class="tex" onclick="RedirectPage('businessnews');">The Pub Zone </a>|
+                       <!-- <a href="/Articles/default.asp?articleSelected=1" class="tex"  onclick="RedirectPage('businessnews');">Search News
+                        </a>| <a href="/Articles/0001" class="tex"  onclick="RedirectPage('businessnews');">Features </a>| 
+                        <a href="/Articles/features.asp" class="tex"  onclick="RedirectPage('businessnews');">Search Features
+                        </a>| -->
+						<a href="/NewsContact.asp" class="tex" onclick="RedirectPage('businessnews');">Send us your news </a>|
+						<a href="/blogusers.aspx" class="tex" onclick="RedirectPage('businessnews');">Blogs </a>				
+						
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					</div>
 
-					<!-- WSI Banner -->
-					<!-- removed hreeves 01/11/2006 10:03 -->
-					<!--<a href="/SplashPage.asp?pg=11"><img src="/images/banner/WSISide300905.gif" alt="WSI" border="0" width="150" /></a>-->
+                    <div id="mydaltons" class="menuItem" style="display: none;">
+                        <a href="/Login.asp" class="tex" onclick="RedirectPage('mydaltons');">Log-in </a>| 
+                        <a href="/AddUser.asp?tmpUrl=default%2Easp" class="tex" onclick="RedirectPage('mydaltons');">Register </a> |
+                        <a href="/Subscription1.asp?opt=1" class="tex" onclick="RedirectPage('mydaltons');">Subscribe </a>| 
+                        <a href="javascript:viewPortfolio();" class="tex" onclick="RedirectPage('mydaltons');">My portfolio </a>| 
+                        <a href="/showss.asp" class="tex" onclick="RedirectPage('mydaltons');">My saved search </a> |
+                        <a href="/EmailAlert.asp" class="tex" onclick="RedirectPage('mydaltons');">My email alerts </a>| 
+                        <!--<a href="/SetMobileAlerts.aspx" class="tex" onclick="RedirectPage('mydaltons');">My SMS alerts </a>| -->
+                        <a href="/UpdateUser.asp" class="tex" onclick="RedirectPage('mydaltons');">Update my profile </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                </div>
+                <!--/////////////////////////Header End//////////////////////-->
+           <!-- </td>
+        </tr>
+        <tr>
+            <td valign="top" align="left" width="100%"> -->
+   <!--INSERT CONTENT HERE -->
 
-					<!-- Business Advice Added 22/07/2004 - Ange  -->
-					<!-- Url Updated 03/08/2006 - B Brazelle -->
-					<!-- <a href="/SplashPage.asp?pg=48"><img src="/images/banner/businessadvicebureau.gif" border="0" width="150"></a>-->
-					<!-- Link Disabled on 10/01/2007 By:Ruchir-GCI Requested By:Max Day -->
-					<!-- <a href="http://www.businessadvicebureau.com/business-opportunities.php?ref=daltonsbusinesscom"><img src="/images/banner/businessadvicebureau.gif" alt="Business Advice Bureau" border="0" width="150" /></a> -->
-					<!-- rochecommercial Added 05/05/2005 - Amenda/Nzima  Removed 110706 SD-->	
-					<!--
-					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="150" height="58" id="ShockwaveFlash2">
-					<param name="movie" value="/images/Banner/flash/rochecommercial.swf">
-					<param name="quality" value="high">
-					<embed src="/images/Banner/flash/rochecommercial.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="150" height="51"></embed>
-					</object>
-					-->
-					<!-- The Diverse finace Company Added 20/04/2006 - Heather  -->
-					<!-- Removed 29/11/2006 12:22 - M Day -->
-					<!-- <a href="/SplashPage.asp?pg=88"><img src="/images/banner/BtnTheDiverse.gif" alt="the diverse finance company" border="0" width="150" /></a> -->
-					<!-- Verizon Link Disabled on 10/01/2007 By:Amit-GCI Requested By:Max Day -->
-					<!-- Verizon Added 30/05/2006 - Nzima  -->
-					<!-- <a href="/SplashPage.asp?pg=106"><img src="/images/banner/verizon.gif" alt="verizon" border="0" width="150" height="115" /></a> -->
-				</div>
-      		</td></tr>
-		</tbody></table>
-    </td><td valign="top" align="left" width="100%">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#3366CC" height="26"> <!--background=images/logos/snow.gif>-->
-			<tbody><tr><td width="100%"> 
-				<div class="HeaderLink" style="width:520px;text-align:right; ">
-					Welcome!&nbsp;
-					<a href="/">Home</a>&nbsp;|&nbsp;
-					<a href="/DaltonsFaq.asp">Help/FAQ</a>&nbsp;|&nbsp;
-					<a href="/sitemap.asp">Site map</a>&nbsp;|&nbsp;
-					
-						<a href="/Subscription1.asp?opt=1">Subscription</a>&nbsp;|&nbsp;
-						<a href="/Login.asp">Log in</a>
-					
-				</div>
-			</td></tr>
-		</tbody></table>
-		<script language="JavaScript" type="text/javascript">
-			HideMenu(document.getElementById("Bizforsale"),document.getElementById("BizforsaleBt"));
-			HideMenu(document.getElementById("ComProp"),document.getElementById("ComPropBt"));
-			HideMenu(document.getElementById("CorpSales"),document.getElementById("CorpSalesBt"));
-			HideMenu(document.getElementById("PropForSale"),document.getElementById("PropForSaleBt"));
-			HideMenu(document.getElementById("Myservices"),document.getElementById("MyservicesBt"));
-			HideMenu(document.getElementById("Sellingabiz"),document.getElementById("SellingabizBt"));
-			HideMenu(document.getElementById("Franchises"),document.getElementById("FranchisesBt"));
-			HideMenu(document.getElementById("Finance"),document.getElementById("FinanceBt"));
-			HideMenu(document.getElementById("BizOpt"),document.getElementById("BizOptBt"));
-			//HideMenu(document.getElementById("TrnSeminer"),document.getElementById("TrnSeminerBt"));
-			HideMenu(document.getElementById("BiztoBiz"),document.getElementById("BiztoBizBt"));
-			//HideMenu(About,AboutBt);
-		</script>
-		<table border="0" cellspacing="0" cellpadding="4">
-        <tbody><tr><td valign="top" align="left"> 
-            <!--Banner & Border -->
-            <!--TS_131-->
-			<table border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr><td height="64" align="left">
-			  <table width="555" border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr><td height="64" align="center">
-			  <input type="hidden" value="" id="DBCADCode" name="DBCADCode">
-			  <!-- OAS AD 'Top' begin -->
-				<script language="JavaScript" type="text/javascript">
-				<!--
-				 OAS_AD('Top');
-				//-->
-				</script>
-			  <!-- OAS AD 'Top' end -->
-			  </td></tr></tbody></table>
-			  </td></tr>
-             <tr><td width="520">
-				  <!--TS_1311-->
-				  <table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr><td valign="top">
-		  
-				  <table border="0" cellspacing="0" cellpadding="0" width="520">
-				    <tbody><tr><td width="17" height="17" rowspan="2" colspan="2"><img src="/images/furniture/corner-tl.gif" alt="" width="17" height="17"></td>
-                    <td height="2" bgcolor="#3366CC"><img src="/images/furniture/spacer.gif" width="100" alt="" height="2"></td>
-						<td width="17" height="17" rowspan="2" colspan="2"><img src="/images/furniture/corner-tr.gif" alt="" width="17" height="17"></td>          
-				    </tr>
-					 <tr><td><img src="/images/furniture/spacer.gif" alt="" width="100" height="15"></td></tr>
-					 <tr> 
-						<td width="2" bgcolor="#3366CC"><img src="/images/furniture/spacer.gif" alt="" width="2" height="100"></td>
-						<td width="15"><img src="/images/furniture/spacer.gif" alt="" width="15" height="100"></td>
-						<td> 
-						<!--INSERT CONTENT HERE -->
-
+<table width="980px" border="0" align="left">
+	<tbody><tr>
+		<td colspan="2" height="19px">&nbsp;</td></tr>
+	<tr>
+		<td valign="top" align="left">
 <!--CONTENT STARTS HERE-->
-<table width="510" border="0" cellpadding="0" cellspacing="0">
+<table width="840" border="0" cellpadding="0" cellspacing="0">
    <tbody><tr><td background="images/furniture/header_interactive.gif" height="33" colspan="2" class="Header"><img src="images/furniture/spacer.gif" width="35" height="15" align="absmiddle"><span class="SmallLinks"><a href="##PrivacyPolicy">&nbsp;</a></span>Privacy Policy</td></tr>
   <tr><td width="10"><img src="images/furniture/spacer.gif" width="10" height="30"></td>
-      <td valign="top" width="510" class="bodytext">
+      <td valign="top" class="bodytext">
 
 <b><center><h4>CMP Information</h4>Privacy Policy<br>DaltonsBusiness.com</center></b><br><br>
 <p><u><b>Overview</b></u><br>
@@ -360,29 +324,12 @@ What data do we collect?</b><br>
 We will collect personal data as provided to us during the registration process, which you agree to supply to us  accurately. We will also collect personal data from other parts of the DaltonsBusiness.com service, e.g. from competition entrants. We do not monitor your use of the Internet but we do use cookie technology to monitor your use of the DaltonsBusiness.com service. This information is not stored alongside your personal data and will only be used on an anonymous, aggregated basis. We may hold personal data relating to the transactions you enter into with DaltonsBusiness.com or others through DaltonsBusiness.com such as online retailers. We may also ask for other data so that we can obtain a better understanding of our users' requirements. This information will help us to sell appropriate advertising space and provide better personalised services for our users.<br><br>
 You may also supply us with other people’s email addresses, for example, if you use our "email a friend" facility. We do not store or use the email addresses for any other reason.</p>
 <p><b>What do we do with it?</b><br>
-We may use personal information about you to build up a profile of our visitors' interests and preferences and to build a demographic profile of our user base in order to target our own advertising more effectively. When you supply us with your details there will be a box to tick if you wish to receive email newsletters or other information which may be of interest to you. If you tick this box you are giving us your permission to email you from time to time to promote our site and services. We may sell advertising onto these emails and may use our aggregate site profile to aid us in this activity; however, your individual details will not be passed on or disclosed to any third parties.
-</p><p>
-					<b><u>Collection of information by third parties</u></b><br>
-					We employ third party companies to process payments on our behalf. Card payments
-					within the Website are processed through software provided by Verifone and your
-					payment is authorised through a division of Lloyds TSB called Lloyds Cardnet. Both
-					have access to the personal data they require to perform their functions but may
-					not use personal data for any other purposes and they must process personal data
-					in accordance with the Data Protection Act 1998. Verifone will not collect or store
-					your personal data. Lloyds Cardnet will store your personal data and may transfer
-					to, process and hold your personal data in countries within the European Economic
-					Area and outside it in order to perform their duties. Both offer a secure environment
-					for online card payments.<br><br>
-					In addition, only your card details are shared with any third parties as is necessary
-					to process your transaction. Examples of such third parties are financial institutions
-					necessary to authorise and clear your card payment. Your information is not shared
-					with any other third parties. We do not sell, trade or rent your personal information
-					to others. We may choose to do so in the future with trustworthy third parties but
-					will not do so without your consent.</p>
+We may use personal information about you to build up a profile of our visitors' interests and preferences and to build a demographic profile of our user base in order to target our own advertising more effectively. When you supply us with your details there will be a box to tick if you wish to receive email newsletters or other information which may be of interest to you. If you tick this box you are giving us your permission to email you from time to time to promote our site and services. We may sell advertising onto these emails and may use our aggregate site profile to aid us in this activity; however, your individual details will not be passed on or disclosed to any third parties. </p><p><b><u>Collection of information by third parties</u></b><br>
+The information you offer us is passed on to our clients, at your request, in order for them to send you further details on a business or service you have enquired about. Some areas of our site contain links to third party websites. If you enter your details on any of these sites, you should consult their privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.</p>
 <p><b><u>Cookies</u></b><br>
 DaltonsBusiness.com uses "cookies" in order to recognise our users and enhance your experience of the site. Cookies are text files which are placed in your computer's browser to store your preferences. Cookies do not tell us your email address or other private information; however, once registered or subscribed, your details can be linked to the data stored in the cookie. We use cookies in order to understand site usage and improve the content we offer you, and to recognise you when you return to the site. Most browsers are initially set up to accept cookies.  You can reset most browsers to refuse to allow cookies to be sent to your computer, but this is not advisable, because as a result some parts of the site may not function properly.</p>
 <p><b><u>Our commitment to security</u></b><br>
-We have taken all appropriate action to safeguard and prevent unauthorised access to personal data, to maintain data security and to ensure that the information we collect online is used only in accordance with legislation. When using credit cards online, our payment solutions provider <span class="SmallLinks"><a href="http://www.netbanx.com" target="_blank">Netbanx</a></span>, is a secure and trusted system</p>
+We have taken all appropriate action to safeguard and prevent unauthorised access to personal data, to maintain data security and to ensure that the information we collect online is used only in accordance with the Data Protection Act 1998 and for the purpose(s) outlined above. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.</p>
 <p><b><u>Changing your contact details</u></b><br>
 You can update or amend your contact details at any time by logging on the website and clicking 'update my profile'.</p>
 <p><b><u>Changes to the Policy</u></b><br>
@@ -401,58 +348,139 @@ For further information please contact: <span class="SmallLinksUdl"><a href="mai
 <br>
 <center><input type="button" onclick="javascript:history.back()" name="goback" value="Go Back" class="button"></center>
 <!--CONTENT ENDS HERE-->
-							</td>
-							<td width="15"><img src="/images/furniture/spacer.gif" alt="" width="15" height="100"></td>
-							<td width="2" height="17" bgcolor="#3366CC"><img src="/images/furniture/spacer.gif" alt="" width="2" height="100"></td>
-					    </tr>
-						 <tr><td width="17" height="17" rowspan="2" colspan="2"><img src="/images/furniture/corner-bl.gif" alt="" width="17" height="17"></td>
-							<td width="17" height="8"><img src="/images/furniture/spacer.gif" alt="" width="100" height="15"></td>
-							<td width="17" height="17" rowspan="2" colspan="2"><img src="/images/furniture/corner-br.gif" alt="" width="17" height="17"></td></tr>
-						 <tr><td height="2" bgcolor="#3366CC"><img src="/images/furniture/spacer.gif" alt="" width="100" height="2"></td></tr>
-					
-						<tr><td colspan="3" class="bodytext"><center>
-							<span class="SmallLinksUdl"> <a href="/daltonsWeekly.asp">About us</a></span> - 
-							<span class="SmallLinksUdl"> © 2005&nbsp;<a href="/cmpi.asp">CMP Information</a></span> - 
-							<span class="SmallLinksUdl"><a href="/Disclaimer.asp">Disclaimer</a></span> - 
-							<span class="SmallLinksUdl"><a href="/PrivacyPolicy.asp">Privacy Policy</a></span> - 
-							<span class="SmallLinksUdl"><a href="/TermsConditions.asp">Terms and Conditions</a></span> - 
-							<span class="SmallLinksUdl"><a href="/Cookie.asp">Cookie info</a></span><br>
-							<!-- <font size="1" color="white"></font>-->
-							</center></td>
-						</tr>
-					 </tbody></table>
-					 <!--TE_1311-->
-					 <!-- OAS AD 'Right' begin -->
-					 </td><td valign="top">
-						<script language="JavaScript" type="text/javascript">
-						<!--
-						//REM by AHB because of 24/7 Problem
-						OAS_AD('Right');
-						//-->
-						</script>
-					 </td></tr></tbody></table>
-					 <!-- oas ad 'right' end -->
+		</td>
 
-               </td></tr>
-				</tbody></table>
-				<!--te_131-->
-		    </td></tr>
+		<td width="135px" align="center" valign="top">
 
-		</tbody></table>
-      <!--te_13-->
-    </td></tr>
- </tbody></table>
-<!--TE_1-->
-	<script language="JavaScript" type="text/javascript">
-		<!--
-		//REM by AHB because of 24/7 Problem
-		OAS_AD('Position1');
-		//-->
-	</script>
+			<!-- franchise Fair Registration -->
+			<!--<a href="http://www.thefranchisefair.com/Franchises/register_live_day.htm" target="_blank"><img src="/images/banner/FF-button120-60.GIF" alt=" The Franchise fair"   border="0" width="120" height="50" /></a>
+			<br> <br>-->
+
+			<div style="position:relative;font-size:12px;background:#B7e141;height:80px;padding-top:4px;width:120px;">
+				<form action="/results.asp" method="post" name="miva1" id="miva1" onsubmit="return submitMivaForm1();">
+				&nbsp;Search the entire web:<br>
+				  <label>
+				  &nbsp;<input name="keyword" type="text" id="keyword" class="enterprice">
+				  </label>
+				  <label>
+				  <input type="submit" name="Search" value="Search">
+				  </label>
+				</form>
+			</div>
+
+			<br>
+			<div style="position: relative;">
+
+				<!-- Third party Add code Start -->
+				<!-- begin ad tag (tile=2) -->
+				<script language="JavaScript" type="text/javascript">
+					document.write('<scr' + 'ipt language="JavaScript" src="http://ad.uk.doubleclick.net/adj/daltons.otpmedia/other_pages;pos=above;sub=;trade=;sect=;prop=;loc=;tile=2;sz=120x600,160x600;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+				</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/daltons.otpmedia/other_pages;pos=above;sub=;trade=;sect=;prop=;loc=;tile=2;sz=120x600,160x600;ord=2048946761679275.5?" type="text/javascript"></script>
+				<noscript><a href="http://ad.uk.doubleclick.net/jump/daltons.otpmedia/other_pages;pos=above;sub=;trade=;sect=;prop=;loc=;tile=2;sz=120x600,160x600;ord=123456789?" target="_blank">
+				<img src="http://ad.uk.doubleclick.net/ad/daltons.otpmedia/other_pages;pos=above;sub=;trade=;sect=;prop=;loc=;tile=2;sz=120x600,160x600;ord=123456789?" border="0" alt=""></a></noscript>
+				<br><br>
+
+				<a href="http://www.coredata.com.au/phpsurveyor2/index.php?sid=283&amp;newtest=Y" target="_blank"><img src="/images/banner/120x120.gif" alt="" border="0"></a>
+			    <br><br>
+		
+				<iframe src="http://view.atdmt.com/MBU/iview/tpmdxmbu0010000503mbu/direct;wi.120;hi.60/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="120" height="60">
+					<script language="JavaScript" type="text/javascript">
+						document.write('<a href="http://clk.atdmt.com/MBU/go/tpmdxmbu0010000503mbu/direct;wi.120;hi.60/01/" target="_blank"><img src="http://view.atdmt.com/MBU/view/tpmdxmbu0010000503mbu/direct;wi.120;hi.60/01/"/></a>');
+					</script>
+					<noscript>
+						<a href="http://clk.atdmt.com/MBU/go/tpmdxmbu0010000503mbu/direct;wi.120;hi.60/01/" target="_blank"><img border="0" src="http://view.atdmt.com/MBU/view/tpmdxmbu0010000503mbu/direct;wi.120;hi.60/01/" /></a>
+					</noscript>
+				</iframe>
+
+				<!-- End ad tag -->
+				<!-- Third party Add code End -->
+			</div>
+			<br>
+
+			<!--Start : Webvote Code -->
+			<!--<iframe style="position:relative;" name="Web Vote" title="Web Vote" id="Web Vote" width="120" height="180" align="center"
+			    frameborder="0" scrolling="no" src="/library/votingpage.asp"></iframe>
+			<br/><br/>-->
+			<!--End : Webvote Code -->
+
+			<!--Start of Franchise Fair-->
+			<!--<a href="http://www.thefranchisefair.com" target="_blank"><img src="/images/banner/FranchiseFair.GIF" alt=""   border="0" /></a>-->
+			<!--End of Franchise Fair-->
+
+			<!--  New Pub Banner - Sarah 09/01/2007 11:20 -->
+			<a href="JavaScript:IncOmniValues();">
+
+			<!-- Script To generate random images -->
+			
+			<img src="/images/banner/DzSubs11.gif" border="0">
+			</a>
+
+			<br><br>
+			<a href="http://www.daltons.biz/" target="_blank"><img src="/images/banner/120x50_green.gif" alt="" border="0" width="120" height="50"></a>
+			
+			
+			
+			
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		        <div id="newfooter">
+				<p align="center" style="font-size: 10px;">CMP Information Ltd. Place of registration: England and Wales. Registered number: Company number 370721.<br> Registered address: Ludgate House 245 Blackfriars Road London SE1 9UY.</p>
+	            <span class="newcopyright">
+	                <label>
+	                    © 2007 <a href="/cmpi.asp">CMP Information</a></label>| <a href="/Disclaimer.asp">Disclaimer</a>
+	                | <a href="/PrivacyPolicy.asp">Privacy Policy</a>
+	                | <a href="/TermsConditions.asp">Terms and Conditions</a>| <a href="/sitemap.asp">Site map</a></span>
+					<span class="otherinfo">
+	                    <label class="highlight">
+	                        View Other Daltons sites:</label>
+	                    <a href="http://www.daltonsholidays.com" target="_blank">DaltonsHolidays.com</a>
+	                    | <a href="http://www.DaltonsProperty.com" target="_blank">DaltonsProperty.com</a>
+						| <a href="http://www.thefranchisefair.com" target="_blank">FranchiseFair.com</a></span>
+	        </div>
+		</td>
+	</tr>
+</tbody></table>
+
+<script language="javascript" type="text/javascript" src="/Library/s_code.js"></script><img name="s_i_cmpidaltonsbuscom" height="1" width="1" border="0" alt="" src="https://cmpi.122.2O7.net/b/ss/cmpidaltonsbuscom,cmpiuaprollup/1/H.3-pdv-2/s14442604292779?[AQB]&amp;ndh=1&amp;t=24/1/2020%209%3A27%3A29%201%200&amp;ns=cmpi&amp;g=https%3A//web.archive.org/web/20071211100801id_/http%253A//www.daltonsbusiness.com/PrivacyPolicy.asp&amp;events=event1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" type="text/javascript">
+function IncOmniValues(){
+<!-- Start of Omniture SiteCatalyst Code Variables-->
+
+s.eVar6 = "Subscriptions through Banner"; 
+s.events = "event7"; /* Banner Clicks. This must be added to the already existing events, if any  */
+var s_code=s.t();if(s_code)document.write(s_code)
+
+/* The above code will be called on the onClick event of the Subscription banner. */
+
+<!-- End of Omniture SiteCatalyst Code Variables-->
+
+window.location= "Subscription1.asp?cid=25000&opt=1";
+
+}
+function submitMivaForm1(){
+	if ( !validateMivaForm1() ) {
+		return false;
+	}
+	return true;
+}
+
+function validateMivaForm1() {
+if (document.miva1.keyword.value == ""){
+	alert("Please enter the value");
+	document.miva1.keyword.focus();
+	return (false);
+	} 
+	else {
+		return true;
+	}
+}
 
 
+</script>
 
-<script language="javascript" type="text/javascript" src="/Library/s_code.js"></script><img name="s_i_cmpidaltonsbuscom" height="1" width="1" border="0" alt="" src="https://cmpi.122.2O7.net/b/ss/cmpidaltonsbuscom,cmpiuaprollup/1/H.3-pdv-2/s1978691287671?[AQB]&amp;ndh=1&amp;t=24/1/2020%209%3A27%3A11%201%200&amp;ns=cmpi&amp;g=https%3A//web.archive.org/web/20070407234635id_/http%253A//www.daltonsbusiness.com/PrivacyPolicy.asp&amp;events=event1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="javascript" type="text/javascript" src="/Library/s_code.js"></script>
 <script language="javascript" type="text/javascript">
 <!--
 s.pageURL	= this.location.href;
@@ -466,10 +494,12 @@ if(s.events){
 }
 
 var s_code=s.t();if(s_code)document.write(s_code)
+
+/*alert(s.products)
+alert(s.events)
+alert(s.eVar5)
+alert(document.getElementById('Omvalues').value);*/
 //--></script>
-
-
-
 
 
 </body></html>
