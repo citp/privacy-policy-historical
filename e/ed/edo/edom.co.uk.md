@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219171627id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edom.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211122713id_/http%3A//www.edom.co.uk/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # eDOM.co.uk ebook shop :: Help zone
 
