@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622163002id_/http%3A//www.xooarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211093628id_/http%3A//www.xooarticles.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement :: xooArticles Articles Software
+# Privacy Policy Statement :: xooArticles Article Script
 
-## This is the web site of Intelliants Ltd.
+## This is the web site of Intelliants LLC
 
 Our postal address is   
-**5416 Garnier Place  
-Westerville, OH 43081, USA**
+**1903 60th Place E.  
+Bradenton, FL 34203  
+USA**
 
-We can be reached via e-mail at [info@xoobox.com](mailto:info@xoobox.com)
+We can be reached via e-mail at [info@intelliants.com](mailto:info@intelliants.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
