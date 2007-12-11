@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeymag.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626175735id_/http%3A//www.honeymag.com/legal/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeymag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211052312id_/http%3A//www.honeymag.com/legal/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Honeymag.com - Urban. Smart. Stylish. Sexy.
 
@@ -112,10 +112,4 @@ Sole Statement: This document is the sole statement of Honeymag.com's Privacy Po
 
 This Privacy Policy was last modified on Sept 27, 2006 and is effective immediately.
 
-Copyright © Sahara Media, Inc. Honey Magazine is a registered trademark of Sahara Media, Inc.  
-  
-[](http://www.cafepress.com/honeymagazine)  
-[](http://click.linksynergy.com/fs-bin/click?id=KiPg845lG/g&offerid=122807.10000108&subid=0&type=4)
-
-  
-
+Copyright © Sahara Media, Inc. Honey Magazine is a registered trademark of Sahara Media, Inc.
