@@ -1,162 +1,255 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204094800id_/http%3A//www.gap.com/asp/cs_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211123126id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2330) for the most accurate reproduction.*
 
-# Help - Security and Privacy
+# Privacy, Security and Web Info | Gap
 
-Security & Privacy  
+Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Stores, and Piperlime (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
+
+This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+
+If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.
+
+  * What kind of information does Gap Inc. collect?
+  * How does Gap Inc. use my information?
+  * Does Gap Inc. share my information?
+  * How do I access or change my information?
+  * How do I make choices about receiving promotional communications?
+  * How does Gap Inc. protect kids' privacy?
+  * How does Gap Inc. use cookies?
+  * How does Gap Inc. use pixel tags?
+  * How do I know my personal information is secure?
+  * What is "phishing"?
+  * What about links to other websites?
+  * How do I contact you?
+  * Your California Privacy Rights
 
 
-  * Privacy Policy: the information we collect, its use, how we protect children's privacy, and some frequently asked questions 
-  * Credit Card Safeguard: how we protect your orders 
-  * Cookies: what cookies are and how to enable them 
 
-Privacy Policy  
-Our Commitment to Privacy  
-Effective [05/19/00]
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
 
-Gap Online values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. Gap Online recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances. For more information, click here.
+back to top
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, , call us at 1-800-GAP-STYLE (1-800-427-7895) or write us at Gap Online Customer Services, 100 Gap Online Drive, Grove City, OH 43123-8605.
+We may use your personal information in the following ways:
 
-If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
+  * To process and fulfill your order, including to send you emails to confirm your order status and shipment
+  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
+  * To administer and fulfill our contests and other promotions
+  * To help us learn more about your shopping preferences
+  * To help us address problems with and improve our site design, products and services
+  * To enhance your shopping experience
+  * To analyze trends and statistics
+  * To protect the security or integrity of our websites and our business
+  * To contact you if necessary
 
-Frequently Asked Questions:
 
-  * What kind of information does Gap Online collect?
-  * How does Gap Online use my information?
-  * Does Gap Online share my information with third parties?
-  * How do I access my information? How do I update or delete my information?
-  * How do I remove my information from email, phone and postal mailing lists?
-  * How does Gap Online protect children's privacy?
-  * What are cookies? How does Gap Online use cookies on its site?
-  * How does Gap Online make sure my credit card information is secure?
-  * What about links to other Web sites and services?
 
-What kind of information does Gap Online collect?
+You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, "How do I make choices about receiving promotional communications?", below.
 
-We collect information (such as your name, email address, mailing address, and phone and credit card numbers) that you provide when you place an order, register with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online and in our stores. We may acquire from third parties customer names and mailing addresses for select postal mailings.
+back to top
 
-How does Gap Online use my information?
+We may share your personal information in the following ways:
 
-When you make a purchase from Gap Online, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. When you register with Gap Online or participate in a contest or promotion (online, over the phone, or at one of our retail stores) you may choose to receive emails from us regarding our products, services, contests, and promotions. From time to time, we may also send you emails to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notices about our products, services, contests and promotions through postal mail.
+  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, or Piperlime), we may share that information with our other Gap Inc. brands.
+  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
+  * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
 
-To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you.
 
-Does Gap Online share my information with third parties?
 
-We contract with third parties to assist us in maintaining and managing our customer information to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information.
+In addition, if you choose to participate in any scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
 
-In addition, when we team up with another company to offer or provide products, services, contests or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations.
+In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.
 
-When we offer contests and promotions, or join with other companies to do so, customers who choose to participate in those contests and promotions may be asked to provide personal information to participate. That information may then be used by us and any company offering the contest or promotion to notify winners or to fulfill promotional obligations.
+back to top
 
-If, prior to participating in a contest or promotion, you opted not to receive information from us, you may still receive information from or about Gap Online in connection with the contest or promotion if you choose to participate in it. You may opt not to participate in these contests or promotions if you do not want to receive information about Gap Online or share your information with us and the other companies sponsoring those contests or promotions.
+You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Gap Inc. website, simply sign in to your account using your email address and password, and you will be able to edit your personal information in your account profile.
 
-We may occasionally participate in scrip, loyalty and other similar programs. Scrip programs allow you to instruct Gap and Gap.com to divert a percentage of the amount you spend at Gap and Gap.com to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap and Gap.com, which you may then use toward certain rewards offered by the loyalty programs in which you participate. If you choose to participate in any scrip, loyalty or other similar program in which Gap is a participating vendor, the company administering the scrip, loyalty or other similar program (collectively, the "scrip company") will or should ask for your consent to have Gap and Gap.com or our credit card processor(s) share with the scrip company information regarding your Gap and Gap.com purchases. This information will include your credit card number and the date and amount of your purchase, and may include your name. We will provide this information to the scrip company only as you have authorized us to do so. The scrip company may also share this information with the organizations you have chosen to receive a percentage of or information regarding your Gap and Gap.com purchases. Many scrip companies have their own privacy policies that may differ from ours. You should review these policies carefully, as we have no control over them.
+You can also ask us to update your personal information by contacting us as described in the section entitled, "How do I contact you?", below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.
 
-We also may share aggregate, non-personally identifiable information about you, (such as age, gender, and types of products purchased) with our business partners to fulfill our contractual obligations. Except as described above, we do not share, rent or sell any information we collect online to any unaffiliated third party.
+back to top
 
-How do I access my information? How do I change or delete my information?
+Gap Inc. and our brands, Gap, Banana Republic, Old Navy, and Piperlime, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
 
-To access your information online, simply click "sign in" at the top of any page, sign in, then choose the appropriate section in "Info Summary" to review, edit, or delete your personal information. If at any time you would like us to update your personal information or remove you from our email or postal mailing lists, feel free to contact us by calling 1-800-GAP-STYLE (1-800-427-7895) or by contacting . Please be sure to include your email address, full name and password.
+Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
-How do I remove my information from email, phone, and postal mailing lists?
+If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by sending us an email or calling us at 1-800-GAP-STYLE (1-800-427-7895).
+Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
 
-Please note that such requests may take up to 6-8 weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order.
+back to top
 
-How does Gap Online protect kids' privacy?
+Gap Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children.
 
-Like you, we at Gap Online are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
+back to top
 
-If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. Please note: we may nevertheless maintain a record of that person's name and address in a "do not register" file to avoid subsequent registration by a child under the age of 13.
+Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
-What are cookies? How does Gap Online use cookies on its site?
+For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
 
-A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
+You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-We use cookies in order to improve your shopping experience. When you visit Gap Online, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.
+back to top
 
-We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.
+We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a registered user to allow you access to your account information.
+Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
 
-What about links to other Web sites and services?
+Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-Gap Online may contain links to other sites that are not under our control. These Web sites have their own policies regarding privacy, which you should review before visiting them. We have no responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors.
+We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-If you have any questions about our privacy policy, you can contact , call us at 1-800-GAP-STYLE (1-800-427-7895) or write us at Gap Online Customer Services, 100 Gap Online Drive, Grove City, OH 43123-8605.
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-**Our Security Safeguard**  
-At gap.com we don't just stand behind our merchandise. We also do our best to provide a safe and convenient online shopping experience. 
+back to top
 
-That means we safeguard the integrity of our customers' credit card information. If your credit card or debit card ("credit card") is used in an unauthorized manner on our site (as determined by your credit card company), we will cover whatever amount your credit card company doesn't – up to $50. 
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
 
-If you're not quite comfortable shopping online, or would prefer to make your purchase via telephone, just give us a call at 1-800-GAP-STYLE, option 1. Our Customer Service representatives are standing by 24 hours a day, seven days a week. They'll be happy to take your gap.com order right over the phone. 
+When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
 
-**Credit Card Safety**  
-Protecting the safety of your credit card information is important to us. 
+If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
 
-We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. 
+back to top
 
-SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it's a highly sophisticated method of scrambling data as it travels from your computer to our website's servers. 
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
 
-If someone steals your credit card information or uses your credit card in an unauthorized manner on our site (as determined by your credit card company) – through no fault of your own – we'll cover up to $50 of the charges your credit card company doesn't. What's more, we'll do what we can to make the whole process as hassle-free as can be. 
+back to top
 
-**What about my bank or credit card company?**  
-Under the Fair Credit Billing Act, your bank or credit card company cannot hold you liable for more than $50 of unauthorized or fraudulent charges on a credit card. Your liability for unauthorized use of a debit card may be higher, but most debit card issuers voluntarily apply the $50 limit to their cards, as well. If your bank does hold you liable for any amount up to $50, gap.com will cover the liability imposed on you, up to $50. Gap.com will cover this amount **only** if the unauthorized use of your credit card occurred at gap.com and through no fault of your own. 
+For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.
 
-Remember: If unauthorized use of your credit or debit card does occur, you must notify your card provider, in accordance with the agreement you have with the company. 
+back to top
 
-**How do I know my credit card information is secure?**  
-To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to " **https**." 
-
-Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at gap.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone at 1-800-GAP-STYLE, option 1. Our Customer Service representatives will be happy to assist you. 
+For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:
 
   
-A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
+5930 Gap Online Drive  
+Groveport, OH 43195-0002  
+1-800-GAPSTYLE (1-800-427-7895)  
+1-888-906-1104 (TDD hearing impaired)  
+[custserv@gap.com](mailto:custserv@gap.com)
 
-We use cookies in order to improve your shopping experience. When you visit Gap Online, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.
+  
+5900 North Meadows Drive  
+Grove City, OH 43123-8476  
+1-888-BR STYLE (1-888-277-8953)   
+1-888-906-1345 (TDD hearing impaired)  
+[custserv@bananarepublic.com](mailto:custserv@bananarepublic.com)
 
-We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.
+  
+200 Old Navy Lane  
+Grove City, OH 43123-8605  
+1-800-OLD-NAVY (1-800-653-6289)  
+1-800-449-4253 (TDD hearing impaired)  
+[custserv@oldnavy.com](mailto:custserv@oldnavy.com)
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a registered user to allow you access to your account information.
+  
+5900 Piperlime Lane  
+Grove City, OH 43123  
+1-877-PIPERLIME (1-877-747-3754)  
+1-888-906-1345 (TDD hearing impaired)  
+[customercare@piperlime.com](mailto:custserv@piperlime.com)
 
-To enable cookies on your browser:
+back to top
 
-  * AOL
-  * Netscape Navigator / Communicator
-  * Internet Explorer 5.0 for PC
-  * Internet Explorer 5.0 for Mac
+California Civil Code Section 1798.83 permits customers of Gap Inc. who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
+Gap Inc. - California Privacy Rights  
+Legal Department  
+2 Folsom Street  
+San Francisco, CA 94105
 
-  * AOL 5.0:  
+back to top
+
+  * _AOL 5.0:_  
 Select "Preferences"  
 Click on "WWW"  
 Select the "Security" tab  
 Click on "Custom Level"  
 Scroll down to "Cookies"  
-Select "Enable"  
-
-  * Netscape Navigator / Communicator:  
+Select "Enable"
+  * _Netscape Navigator / Communicator:_  
 Select "Preferences" from the "Edit" menu  
 Select "Advanced" from the left-hand menu   
 Select "Accept All Cookies"  
-Click "OK"  
-
-  * Internet Explorer 5.0 for PC:  
+Click "OK"
+  * _Internet Explorer 5.0 for PC:_  
 Select "Internet Options" from the "Tools" menu  
 Click the "Security" tab  
 Click "Custom Level" at the bottom of the window  
 Scroll down to "Cookies"  
 Select "Always accept cookies"  
-Click "OK"  
-
-  * Internet Explorer 5.0 for Mac:  
+Click "OK"
+  * _Internet Explorer 5.0 for Mac:_  
 Select "Preferences" from the "Edit" menu  
 Select "Receiving Files"  
 Select the option "Never ask" under "When receiving cookies"  
-Click "OK"  
+Click "OK"
+  * _Internet Explorer 6.0 for PC:_  
+To change your privacy settings to "Medium":  
+Select "Internet Options" from the "Tools" Menu.  
+Click the "Privacy" Tab.  
+Set the Privacy Slider to "Medium."  
+Click "OK."
 
 
 
+If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify. To do this, select "Internet Options" from the "Tools" menu, and click on the "Edit" button in the "Override cookie handling for individual websites" section. This will open the "Per Site Privacy Actions" dialogue box.
+
+Type "www.gap.com" in the "Address of Website" box. Click the "Allow" button. Click the "OK" button, then close the "Per Site Privacy Actions" dialogue box. Click the "OK" button to close the "Internet Options" dialogue box and apply your changes.
+
+As always, you can also place your order by phone at 1.800.GAPSTYLE.
+
+Gap Online is best viewed with AOL version 5.0 or higher, Netscape Navigator version 4.7 or higher, or Microsoft Internet Explorer version 5.0 or higher. You can upgrade your browser at AOL, at Netscape, or at Microsoft for free.
+
+Macintosh users running AOL 3.0 will not be able to place orders with Gap Online, as this browser version does not support SSL technology. Either upgrade your AOL browser or print our order form and place your order by phone at 1.800.GAPSTYLE, available 24 hours a day.
+
+WebTV users can browse our site but they are also unable to place orders at Gap Online. WebTV users should print our order form and place their order by phone at 1.800.GAPSTYLE.
+
+We're sorry, but you'll need to enable JavaScript in your browser to shop our site. See below for easy-to-follow instructions.
+
+Yes, you cannot shop the gap.com site unless your Web browser supports JavaScript. If your firewall does not allow JavaScript from the Web in general, you will need to ask your network administrator to enable JavaScript for the gap.com site.
+
+If you are using Internet Explorer 6.x, 5.x or 4.x (Windows):
+
+  1. Click the Tools menu
+  2. Click Internet Options ..., to open the Internet Options dialog box
+  3. Click the Security tab
+  4. Click the Internet symbol (a globe)
+  5. Click the Custom Level ... button, to open the Security Settings dialog box
+  6. In the Settings list, scroll down to Scripting
+  7. Under Active Scripting, click Enable, so that a dot appears next to it
+  8. (If you are unsure about the other Security Settings, please check with your Network Administrator)
+  9. Click OK to close the Security Settings dialog box
+  10. Click Yes in the Warning! message box
+  11. Click OK to close the Internet Options dialog box
+
+
+
+If you are using Netscape 6.x:
+
+  1. Click Edit, then click Preferences
+  2. Click on Advanced.
+  3. Check Enable JavaScript for Navigator.
+  4. Click the OK button.
+
+
+
+If you are using Netscape 4.x:
+
+  1. Click Edit, then click Preferences
+  2. Click on Advanced.
+  3. Check Enable JavaScript.
+  4. Click the OK button.
+
+
+
+A few plug-ins will enhance your shopping experience at Gap Online. To view our television advertisements, experience multimedia effects, view downloaded order forms, and take advantage of other features, you need to download and install the following plug-ins.
+
+_[QuickTime](http://apple.com/quicktime):_ to play movies.
+
+_[Flash](http://macromedia.com/):_ to view the homepage animation and many of our seasonal shops and features.
+
+_[Adobe Acrobat Reader](http://www.adobe.com/):_ to download certain forms.
+
+Once the software has downloaded completely, locate it on your hard drive, and follow the included installation instructions.
+
+Please be assured that we are working hard to make our site more accessible to customers with screen readers and talking Web browsers.
+
+In the meantime, if you have any questions about our site or our merchandise, or you would like to make a purchase, please feel free to call 1.800.GAPSTYLE. Our customer service representatives are standing by to talk to you 24 hours a day, seven days a week.
