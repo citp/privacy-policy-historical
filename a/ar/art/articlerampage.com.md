@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlerampage.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608060944id_/http%3A//www.articlerampage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerampage.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211100559id_/http%3A//www.articlerampage.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleRampage.com - Free Article Directory, Free Articles, Free Content & Free Article Submissions!
+# Article Rampage.com - Free Articles For Reprint! Free Content For Your Site! Free Article Submission And Syndication!
 
 **ArticleRampage.com  
 Privacy Policy**
