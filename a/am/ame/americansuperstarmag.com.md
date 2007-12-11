@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624095404id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211114849id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | American Superstar Magazine™ | Celebrity News, Gossip, Interviews, Up-and-Coming Talent
 
-[Sign up](http://www.americansuperstarmag.com/reg.php) for the _ASM_ Newsletter and get the latest celebrity news and gossip. You'll also be the first to know about the hottest up-and-coming actors, fashion designers, models, musicians and more. Plus, you'll receive special invites to our VIP events!
+ASM Newsletter
 
-Do you have the talent to appear on American Superstar TV? Not everyone's video will make it past the judges since  
-we only show the very best. 
-
-[Submit](http://www.americansuperstar.tv/upload_videos.php) your video now and you could be starring soon!
-
-Want to write about up-and-coming talent? Do you have a spin on celebrity life that you want to get off your chest?
-
-We think everyone is capable of being a reporter at a cool entertainment pub. Email our publisher and include a writing sample if you have one.
-
-[Email us](mailto:publisher@americansuperstarmag.com)
-
-**_Frank Sinatra_**
-
-Frank Sinatra is an icon of American musical cool. His official career was singing: he began as a rail-thin crooner during World War II, and matured into the most respected pop singer of his generation. He also took up acting, winning an Academy Award in 1953 for his performance in _From Here To Eternity_. Along the way Sinatra developed a reputation as a well-dressed, fast-living, fist-fighting swinger, with a top-dog swagger that earned him the nickname "The Chairman of the Board." He was the acknowledged leader of the Hollywood 'Rat Pack' of the early 1960s, which included Dean Martin, Sammy Davis Jr. and others. Musically he was beloved as a stylish, heartfelt singer of old-school standards like _Come Fly With Me_ , _New York, New York_ , _All the Way_ and _Strangers in the Night_. He ranks with Bing Crosby, Elvis Presley and The Beatles as among the most influential pop musicians of the 20th century. 
+[Sign up](http://www.americansuperstarmag.com/reg.php) for the ASM Newsletter and get the latest celebrity news and gossip. You'll also be the first to know about the hottest up-and-coming actors, fashion designers, models, musicians and more. Plus, you'll receive special invites to our VIP events!
 
 | 
 
@@ -173,5 +160,13 @@ We may automatically track and collect your IP address, domain server, the type 
 
 
 Effective Date: August 1, 2005 
+
+|    
+  
+---|---|---  
+[Home](http://www.americansuperstarmag.com/index.php) | [About Us](http://www.americansuperstarmag.com/about.php) | [Contact Us](http://www.americansuperstarmag.com/contact.php) | [Advertise With Us](http://www.americansuperstarmag.com/mediasales.php) | [Street Team](http://www.americansuperstarmag.com/street_team.php) | [American Superstar TV](http://www.americansuperstar.tv/) | [American Superstar Store](http://www.americansuperstarclothing.com/)
+
+Use of this site signifies your acceptance of the [Privacy Policy](http://www.americansuperstarmag.com/privacy.php) and [Terms of Use.](http://www.americansuperstarmag.com/terms.php)   
+Copyright © 2006-2007 American Superstar, Inc. All rights reserved.
 
 | 
