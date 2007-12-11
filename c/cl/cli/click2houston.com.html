@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617021859id_/http%3A//www.click2houston.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211075521id_/http%3A//www.click2houston.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Click2Houston.com -
-Privacy</title>
+<title>Click2Houston.com - Privacy</title>
 <script src="/sh/flash/js/AC_OETags.js" language="javascript" id="AC_OETags.js"></script><meta name="keywords" content="">
 <meta name="categories" content="Station, Privacy">
 <meta name="WT.cg_s" content="Privacy">
@@ -27,35 +26,105 @@ if (typeof rsinetsegs != "undefined") {
 </script>
 <!-- end Rev Sci code -->
 
-			<!-- set ad zone  -->
-			<script type="text/javascript" src="http://www.click2houston.com/js/6807715/script.js"></script>
-		
-	
-		<script type="text/javascript">
-			addEvent(window, "load", setHeaderLgog);
-			
-			function setHeaderLgog(){
-				var td = document.getElementById('brandingbartd1');
-				if(td == null)
-					return;
-				var c = td.childNodes;
-				// check to see if a cookie has been set for headerview
-				var cook = getCookie("logo");
-				if (cook != 1){
-					// remove the image
-					for (var i=0;i<c.length;i++){
-						td.removeChild(c[i]);
-					}
-					// add the swf - this should be DOM
-					td.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="260" height="100" id="site_header" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="http://www.'+ siteinfo.sitename.lc +'.'+ siteinfo.tld +'/images/structures/headers/site_header_logo.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#0066cc" /><embed src="http://www.'+ siteinfo.sitename.lc +'.'+ siteinfo.tld +'/images/structures/headers/site_header_logo.swf" quality="high" bgcolor="#0066cc" width="260" height="100" name="site_header_logo" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>';
-					// set the cookie
-					setCookie("logo",1,"/", .5);
-				} 
-			}
+<!-- set ad zone  -->
+<script type="text/javascript" src="/js/6807715/script.js"></script>
+<!--
+<script type="text/javascript">
+if (document.domain != 'internal.ibsys.com') {
+	try {
+		document.write("<scr"+"ipt type='text/javascript' src='http://"+document.domain+"/js/6807715/script.js'></scr"+"ipt>");
+	} catch(e) {}
+}
+</script>
+-->
 
-		</script>	
-	
+<script type="text/javascript">
 
+/* *********************************************************************
+  Copyright 2007, Internet Broadcasting Systems. All Rights Reserved.
+  $Id: embedHeaderLogo.js,v 1.2 2007/08/03 23:34:08 mwakefield Exp $
+  $Source: /u01/cvsroot/jslib/natl/swfobject/embedHeaderLogo.js,v $
+  Phaedra Content ID: 9485193
+  Example URL: http://preview.clickondetroit.com
+********************************************************************* */
+
+// Put all this into script tags
+
+// Load SWFObject Framework
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"/sh/swfobject.js\"></scr"+"ipt>");
+
+// Close script tag so that the framework may be used
+//</script><script type="text/javascript" src="/sh/swfobject.js"></script><script type="text/javascript">
+
+// Create a function to handle logo placement
+function setHeaderLogo(){
+	// Find where the logo should go
+	var logoHolder = document.getElementById('brandingbartd1');
+	var logoChildren = logoHolder.childNodes;
+	var logoHolderDIV = document.createElement("div");
+	logoHolderDIV.id = "logoHolderDIV";
+	if(logoHolder == null) {
+		// If there is no where to put it - do nothing
+		return;
+	}
+	// Get Cookie
+	var logoCookie = getCookie("logo");
+	// If the cookie is undefined
+	if (logoCookie != 1){
+		// remove the image logo
+		for (var i=0;i<logoChildren.length;i++){
+			logoHolder.removeChild(logoChildren[i]);
+		}
+		logoHolder.appendChild(logoHolderDIV);
+		// Set the SWF location
+		var swf = "/images/structures/headers/site_header_logo.swf";
+		// Create an instance of SWFObject to write to the page
+		var so = new SWFObject(swf, "embedSWF", "260", "100", "8", "#0066cc", "high");
+		// write the swf
+		so.write("logoHolderDIV");
+		// set the cookie
+		setCookie("logo",1,"/", .5);	
+	} 
+}
+
+// Execute logic when window has completed loading
+addEvent(window, "load", setHeaderLogo);
+
+/* Old Method (Aron B)
+
+addEvent(window, "load", setHeaderLgog);
+
+function setHeaderLgog(){
+	var td = document.getElementById('brandingbartd1');
+	if(td == null)
+		return;
+	var c = td.childNodes;
+	// check to see if a cookie has been set for headerview
+	var cook = getCookie("logo");
+	if (cook != 1){
+		// remove the image
+		for (var i=0;i<c.length;i++){
+			td.removeChild(c[i]);
+		}
+		// add the swf - this should be DOM
+		td.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" '+
+			'codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/'+
+			'swflash.cab#version=6,0,0,0" width="260" height="100" id="site_header_detroit"'+
+			' align="middle"><param name="allowScriptAccess" value="sameDomain" />'+
+			'<param name="movie" value="http://www.clickondetroit.com/images/structures'+
+			'/headers/site_header_logo.swf" /><param name="quality" value="high" />'+
+			'<param name="bgcolor" value="#0066cc" /><embed src="'+
+			'http://www.clickondetroit.com/images/structures/headers/site_header_logo.swf"'+
+			' quality="high" bgcolor="#0066cc" width="260" height="100" name="site_header_logo"+
+			' align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"'+
+			' pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>';
+		// set the cookie
+		setCookie("logo",1,"/", .5);
+	} 
+}
+
+*/
+</script>
 	
 <script language="JavaScript">
 // Trilogy CBC Pixel
@@ -89,77 +158,41 @@ function downloadCBCPixel() {
   setTimeout('downloadCBCPixel()', 1);
 </script>
 
+
+	
+	
 <script type="text/javascript">
 var rnd = new Date();
 rnd = rnd.getTime();
 </script><script type="text/javascript">
 var pageProps= {
-time: {hr:"9",hr_p:"09",hr24:"21",hr24_p:"21",min:"18",sec:"58",mer:"pm",tz:"CDT",mon:"6",mon_p:"06",date:"16",date_p:"16",yr:"2007",day:"7"},
+time: {hr:"1",hr_p:"01",hr24:"1",hr24_p:"01",min:"55",sec:"19",mer:"am",tz:"CST",mon:"12",mon_p:"12",date:"11",date_p:"11",yr:"2007",day:"3"},
 envhost:"www.click2houston.com",sectionname:"Privacy",sectiontag:"station",sectionpath:"/privacy/"
 };
 
-var adZone = 'local';
-</script><script type="text/javascript" src="/js/9476578/script.js"></script>
+var adZone = 'national';
+</script><script type="text/javascript" src="/js/9476578/script.js"></script><script src="/ec/site/json/getSiteConfig?varname=configObject"></script><script src="/_public/js/ibcore-min.js"></script>
 <script src="/js/9300634/script.js" language="JavaScript"></script></head>
 <!--stopindex--><body>
 <div id="vtmp10" class="vtmp10"><table cellpadding="0" cellspacing="0" border="0" width="1000" class="vtmp10page pageContent"><tbody><tr><td valign="top" class="pageheader" colspan="2"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="brandingbar"><tbody><tr><td valign="top" id="brandingbartd1"><a href="/"><img src="/images/structures/headers/site_header_logo.jpg" width="260" height="100" alt="Click2Houston.com" border="0"></a></td><td valign="top" id="brandingbartd2"> &nbsp; </td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" width="133" align="left"><tbody><tr><td valign="top" width="130" class="col1"><div id="topleft" class="pageContainer">
-		 
 		
 
-<style type="text/css">
-/*@import url('http://www.ksat.com/css/11216103/style.css');*/
-#poweredbygoogle {width:100px;height:20px;display:none;}
-span.searchoption {display: inline;}
-#googlesearchgo {margin-bottom: -6px;}
-#googletextsearch {margin-top: 6px;}
-#yplink {color:#fff;text-decoration:none;}
-#googlesearchbox label small {color:#fff;font-weight:bold;}
-</style>
-<div class="searchform">
-<div class="searchheader">Power Search</div>
-<form name="testIBSSearchForm" class="compactSearchForm" action="http://search.click2houston.com/query.html" onsubmit="return(searchAction());">
-	<input type="hidden" name="la" value="en">
-	<div class="small"></div>
-	<input type="hidden" name="client" value="pub-1569153127812452">
-	<input type="hidden" name="forid" value="1">
-	<input type="hidden" name="channel" value="0499786757">
-	<input type="hidden" name="ie" value="ISO-8859-1">
-	<input type="hidden" name="oe" value="ISO-8859-1">
-	<input type="hidden" name="hl" value="en">
-	<input type="hidden" name="cof" value="GALT:#000000;GL:1;DIV:#336699;VLC:000000;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:000000;GIMP:000000;FORID:11">
-	<script type="text/javascript" src="http://www.click2houston.com/js/11216069/script.js"></script>
-	<div id="googlesearchbox">
-		<div id="sitesponsor"></div>
-		<span class="searchoption">
-			<input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="click2houston.com" checked="" id="localsearch">
-			<label for="localsearch"><small>Site</small></label>
-		</span>
-		<span class="searchoption">
-			<input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="websearch">
-			<label for="websearch"><small>Web</small></label>
-		</span>
-		<div class="searchoption">
-			<input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="kwsearch">
-			<label for="kwsearch"><small>Keyword</small></label>
-		</div>
-		<div class="searchoption">
-			<input type="hidden" name="mkt" value="">
-			<input type="hidden" name="heading" value="">
-			<input type="radio" onclick="toggleSearchType(this);" name="sitesearch" value="" id="yellowpagessearch">
-			<label for="yellowpagessearch"><small style="color: black;"><a id="yplink" href="http://yellowpages.click2houston.com/">Yellow Pages</a></small></label>
-		</div>
-		<div id="googletextsearch">
-			<input type="text" name="qt" value="" size="15" class="small">
-			&nbsp;<input id="googlesearchgo" type="image" src="http://click2houston.com/sh/images/sponsors/google/post_go.gif" alt="GO">
-		</div>
-		<div id="poweredbygoogle"></div>
+	
+		<!-- -->
+
+	<script type="text/javascript" src="/sh/swfobject.js"></script>
+	<div id="hotButton">
+		<a href="/seenon2/"><img src="http://images.ibsys.com/hou-structure/images/structures/buttons/hotbutton_134x95.jpg" width="134" height="95" border="0"></a><br>
 	</div>
-</form>
-</div>
+	<script type="text/javascript">
+   var so = new SWFObject("http://images.ibsys.com/hou-structure/images/structures/buttons/hotbutton_134x95.swf", "mymovie", "134", "95", "8", "#1F3C74");
+   so.write("hotButton");
+</script>
+	
  
 		 
 	</div><!--Start Nav--><div class="navbars" id="nav"><div class="navBtn" id="hpNavButton"><a href="/">
-Home</a></div><div class="subnav"><div class="subnavHdr"><a href="/station/2151604/detail.html" class="subnavHdrtxt"><span>Community Events</span></a></div><div class="navSubSections"></div></div><div class="navbar"><div class="navMainSections MainNavBtns"><div class="navBtn"><span class="expandsubnav" id="news">+</span><a href="/news/">News</a></div><div class="hiddennav" id="news_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/news/">Local News</a></div><div class="subsection"><a href="/nationalnews/">National News</a></div><div class="subsection"><a href="/irresistible/">Irresistible News</a></div><div class="subsection"><a href="/wheelofjustice/">Wheel Of Justice</a></div><div class="subsection"><a href="/eyesoftexas/">Eyes of Texas</a></div><div class="subsection"><a href="/seenon2/">Seen On 2 Links</a></div><div class="subsection"><a href="/mostpopular/">Most Popular</a></div><div class="subsection"><a href="/slideshows/">Slideshows</a></div><div class="subsection"><a href="http://forums.ibsys.com/index.cfm?sitekey=hou">Discussions</a></div><div class="subsection"><a href="/newsarchive/">Local News Archive</a></div><div class="subsection"><a href="http://www.txlottery.org/">Texas Lottery</a></div><div class="subsection"><a href="/rss/">Get RSS</a></div><div class="subsection"><a href="/videoarchive/">Video Archive</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="weather">+</span><a href="/weather/">Weather</a></div><div class="hiddennav" id="weather_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/mapsandradar/">Maps And Radars</a></div><div class="subsection"><a href="/forecast/">Forecast</a></div><div class="subsection"><a href="/severeweather/">Severe Weather</a></div><div class="subsection"><a href="/hurricanes/">Hurricanes</a></div><div class="subsection"><a href="/texas/">Texas Weather</a></div><div class="subsection"><a href="/travelweather/">Travel Weather</a></div><div class="subsection"><a href="/beachandmarine/">Marine Forecast</a></div><div class="subsection"><a href="/pollen/">Pollen</a></div><div class="subsection"><a href="/almanac/">Almanac</a></div><div class="subsection"><a href="/weather/2126644/detail.html">Desktop Alert</a></div><div class="subsection"><a href="http://click2houston.premiumweather.com/info/?c=IBS_subnav">Premium Weather</a></div></div></div><div class="navBtn"><a href="http://www.click2houston.com/hurricanes/index.html">Hurricanes</a></div><div class="navBtn"><a href="/investigates/">Local 2 Investigates</a></div><div class="navBtn"><a href="/traffic/">Traffic</a></div><div class="navBtn"><span class="expandsubnav" id="sports">+</span><a href="/sports/">Sports</a></div><div class="hiddennav" id="sports_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/randysblog/">Randy's Rants</a></div><div class="subsection"><a href="/houston_texans/">Texans</a></div><div class="subsection"><a href="/mlb004/">Astros</a></div><div class="subsection"><a href="/nba099/">Rockets</a></div><div class="subsection"><a href="http://www.aeros.com/">Aeros</a></div><div class="subsection"><a href="http://www.wnba.com/comets/">Comets</a></div><div class="subsection"><a href="http://www.mlsnet.com/MLS/hou/">Dynamo</a></div><div class="subsection"><a href="/cfoot509/">Houston FB</a></div><div class="subsection"><a href="/cbaskb15/">Houston MBB</a></div><div class="subsection"><a href="/cfoot586/">Rice FB</a></div><div class="subsection"><a href="/cbaskc33/">Rice MBB</a></div><div class="subsection"><a href="/cfoot609/">Texas FB</a></div><div class="subsection"><a href="/cbaskc82/">Texas MBB</a></div><div class="subsection"><a href="/cfoot610/">Texas A&amp;M FB</a></div><div class="subsection"><a href="/cbaskc83/">Texas A&amp;M MBB</a></div><div class="subsection"><a href="/cfoot614/">Texas Southern FB</a></div><div class="subsection"><a href="/cbaskc85/">Texas Southern MBB</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067592;8704162;l?http://www.click2houston.com/tickets/">Tickets</a></div></div></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><span class="expandsubnav" id="entertainment">+</span><a href="/entertainment/">Entertainment</a></div><div class="hiddennav" id="entertainment_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/atthemovies/">@ The Movies</a></div><div class="subsection"><a href="/columnists/">Columnists</a></div><div class="subsection"><a href="/contests/">Contests</a></div><div class="subsection"><a href="/quizzes/">Quizzes</a></div><div class="subsection"><a href="/top10videos/">Top 10 Videos</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;51497804;8704162;n?http://www.click2houston.com/books/">Books</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;22397080;8704162;g?http://www.americangreetings.com/ecards.pd?source=kprc">E-Cards</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18524641;8704162;g?http://ibsys.oberon-media.com/index.htm?RefId=hou">Games</a></div><div class="subsection"><a href="/horoscopes/">Horoscopes</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;7412864;8704162;l?http://ibs.theatermania.com/">Live Theater</a></div><div class="subsection"><a href="/music/">Music</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067574;8704162;l??http://www.click2houston.com/tickets/">Tickets</a></div><div class="subsection"><a href="http://kprc.newplaymedia.com/affiliates">Soap Games</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="health">+</span><a href="/health/">Healthbeat</a></div><div class="hiddennav" id="health_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/dietandfitness/">Diet And Fitness</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540730;8704162;d?http://kprc_ibsys.healthology.com/nip_v2.asp?f=nip_default&amp;c=general">Health Features</a></div><div class="subsection"><a href="/encyclopedia/">Health Centers</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="technology">+</span><a href="/technology/">Technology</a></div><div class="hiddennav" id="technology_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18524641;8704162;g?http://ibsys.oberon-media.com/index.htm?RefId=hou">Games</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;11954161;8704162;d?http://technology.monster.com/articles/itupdate04/?WT.mc_n=ibsid;hou;res02">IT&nbsp;Hiring</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="money">+</span><a href="/money/">Money</a></div><div class="hiddennav" id="money_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;27790834;8704162;p?http://click2houston.com/autofinance/">Auto Finance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Bank&nbsp;Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit Reports</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540423;8704162;c?http://www.homestore.com/HomeFinance/findlender/findlender.asp">Find&nbsp;A&nbsp;Lender</a></div><div class="subsection"><a href="/insurancecenter/">Insurance</a></div><div class="subsection"><a href="/investing101/">Investing&nbsp;101</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;34546113;8704162;c?http://www.lendingtree.com/borrower/alliance/from.asp?whereto=promopage&amp;promo=00001&amp;loan_type=2&amp;source=444880&amp;esourceid=444880">Mortgage&nbsp;Quotes</a></div><div class="subsection"><a href="/personalfinance/">Personal&nbsp;Finance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://postajob.monster.com?WT.mc_n=ibsid;hou;post02">Post&nbsp;A&nbsp;Job</a></div><div class="subsection"><a href="/smallbusiness/">Small&nbsp;Business</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;65720624;8704162;h?http://www.click2houston.com/sponsors/11198888/detail.html">Credit&nbsp;Information</a></div><div class="subsection"><a href="/mortgagefinancing/">Loan Center</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="education">+</span><a href="/education/">Your Education Station</a></div><div class="hiddennav" id="education_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/">Distance Education</a></div></div></div><div class="navBtn"><a href="/video/">Video</a></div></div></div><div class="navbar"><div class="navMainSections MainNav2Btns"><div class="navBtn"><a href="/jeffersonawards/">Jefferson Awards</a></div><div class="navBtn"><a href="/station/2151604/detail.html">Community Events</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr">Marketplace</div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="/thebuzz/">The Buzz</a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;102172399;8704162;f?http://www.click2houston.com/newyou/index.html">New You</a></div><div class="navBtn"><a href="/hearthealth/">Heart Healthy</a></div><div class="navBtn"><a href="/localexperts/" class="expertNavBlue">Local 2 Experts!</a></div><div class="navBtn"><span class="expandsubnav" id="automotive">+</span><a href="/automotive/">Automotive</a></div><div class="hiddennav" id="automotive_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://autotrader.com/fyc/index.jsp?LNX=IBSCOBRNDSITE030">Find&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://www.autotrader.com/hornav/trader/index.jsp?LNX=IBSCOBRNDSYC0030">Sell&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="javascript:popUp('http://ad.doubleclick.net/clk;102782970;8704162;h?http://www.intelliprice.com/intellipricedealer/start.htm?dealerid=941001&amp;BID=hou-subnav',%20'width=620,height=600');">Trade&nbsp;In&nbsp;Appraisal</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;27790835;8704162;q?http://click2houston.com/autofinance/">Auto&nbsp;Finance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit&nbsp;Reports</a></div><div class="subsection"><a href="/insurancecenter/index.html">Insurance</a></div></div></div><div class="navBtn"><a href="/dating/">Dating</a></div><div class="navBtn"><a href="/travelgetaways/">Travel</a></div><div class="navBtn"><span class="expandsubnav" id="employment">+</span><a href="/employment/">Career</a></div><div class="hiddennav" id="employment_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/">Distance Education</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://jobsearch.ibs.monster.com/?WT.mc_n=ibsid;hou;nav01">Find A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://postajob.monster.com?WT.mc_n=ibsid;hou;post01">Post A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://ibs.monster.com/resume.asp?WT.mc_n=ibsid;hou;res01">Post A Resume</a></div></div></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?http://partners.findlaw.com/ibs/kprc.html" target="__blank">Legal Center</a></div><div class="navBtn"><span class="expandsubnav" id="shopping">+</span><a href="/shopping/">Deals</a></div><div class="hiddennav" id="shopping_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540427;8704162;g?http://www.nextag.com/goto.jsp?p=2641">Comparison Shop</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;17450441;8704162;b?http://microsite.coupons.com/gmsa/sighub.asp?PID=10977&amp;ZID=oc00&amp;NID=11">Coupons</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18524641;8704162;g?http://ibsys.oberon-media.com/index.htm?RefId=hou">Games</a></div><div class="subsection"><a href="/music/">Music</a></div></div></div><div class="navBtn"><a href="http://www.weddingsolutions.com/" target="__blank">Weddings</a></div></div></div><div class="navbar"><div class="navHdr featuresNavHdr">Extras</div><div class="navMainSections featuresNavBtns"><div class="navBtn"><a href="/contests/">Click2Win</a></div><div class="navBtn"><a href="/pets/">Pets</a></div><div class="navBtn"><span class="expandsubnav" id="houseandhome">+</span><a href="/houseandhome/">2 At Home</a></div><div class="hiddennav" id="houseandhome_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/homedecor/">Decorating</a></div><div class="subsection"><a href="/homeimprovement/">Home Improvement</a></div><div class="subsection"><a href="/landscaping/">Landscaping</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Banking Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;22179012;8704162;z?http://www.servicemagic.com/servlet/RedirectServlet?m=click2houston&amp;entry_point_id=725616">Find A Contractor</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit Report</a></div><div class="subsection"><a href="/insurancecenter/">Insurance Center</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="/mortgagefinancing/">Loan Center</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;34546113;8704162;c?http://www.lendingtree.com/borrower/alliance/from.asp?whereto=promopage&amp;promo=00001&amp;loan_type=2&amp;source=444880&amp;esourceid=444880">Mortgage Quotes</a></div><div class="subsection"><a href="/movingcenter/">Moving Center</a></div><div class="subsection"><a href="/realestate/">Real Estate</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="realestate">+</span><a href="/realestate/">Real Estate &amp; Mortgage</a></div><div class="hiddennav" id="realestate_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/homedecor/">Decorating</a></div><div class="subsection"><a href="/homeimprovement/">Home Improvement</a></div><div class="subsection"><a href="/landscaping/">Landscaping</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Banking Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;22179012;8704162;z?http://www.servicemagic.com/servlet/RedirectServlet?m=click2houston&amp;entry_point_id=725616">Find A Contractor</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit Report</a></div><div class="subsection"><a href="/insurancecenter/">Insurance Center</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="/mortgagefinancing/">Loan Center</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;34546113;8704162;c?http://www.lendingtree.com/borrower/alliance/from.asp?whereto=promopage&amp;promo=00001&amp;loan_type=2&amp;source=444880&amp;esourceid=444880">Mortgage Quotes</a></div><div class="subsection"><a href="/movingcenter/">Moving Center</a></div><div class="subsection"><a href="/realestate/">Real Estate</a></div></div></div><div class="navBtn"><a href="/food/">Food</a></div><div class="navBtn"><span class="expandsubnav" id="family">+</span><a href="/family/">Family</a></div><div class="hiddennav" id="family_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/petexperts/">Pet Experts</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Bank Rates</a></div><div class="subsection"><a href="/insurancecenter/">Insurance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="/movingcenter/">Moving Center</a></div></div></div></div></div><div class="navbar"><div class="navHdr siteToolsNavHdr">Site Tools</div><div class="navMainSections siteToolsNavBtns"><div class="navBtn"><a href="javascript:if(document.all){document.body.style.behavior='url(#default#homepage)';document.body.setHomePage('http://www.click2houston.com');}else{document.location.href%20='http://www.click2houston.com/news/1032852/detail.html'}">Set Homepage</a></div><div class="navBtn"><a href="/wirelessnews/">KPRC 2 Mobile</a></div><div class="navBtn"><a href="/emailnewsletters/">E-Mail Newsletters</a></div><div class="navBtn"><a href="/rss/">Get RSS</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts</a></div><div class="navBtn"><a href="http://click2houston.premiumweather.com/info/?c=IBS_Widget_Jetstream_5.12.05" target="__blank">Premium Weather</a></div><div class="navBtn"><a href="http://yellowpages.click2houston.com">Yellow Pages</a></div></div></div><div class="navbar"><div class="navHdr stationNavHdr">KPRC Local 2</div><div class="navMainSections stationNavBtns"><div class="navBtn"><a href="/station/">Inside KPRC</a></div><div class="navBtn"><a href="/contact/">Contact Us</a></div><div class="navBtn"><a href="/newsteam/">KPRC News Team</a></div><div class="navBtn"><a href="/editorials/">KPRC Editorials</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div><div class="navBtn"><a href="http://www.nbc.com" target="__blank">NBC</a></div><div class="navBtn"><a href="http://www.drphil.com" target="__blank">Dr. Phil</a></div><div class="navBtn"><a href="http://ellen.warnerbros.com/" target="__blank">Ellen</a></div><div class="navBtn"><a href="http://www.rachaelrayshow.com/" target="__blank">Rachael Ray</a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div><div class="navBtn"><a href="/station/9666631/detail.html">Media Partners</a></div></div></div></div><script>ibsys.navSetup();</script><!--End Nav--><div id="topleft" class="pageContainer">
+Home</a></div><div class="subnav"><div class="subnavHdr"><a href="/station/2151604/detail.html" class="subnavHdrtxt"><span>Community Events</span></a></div><div class="navSubSections"></div></div><div class="navbar"><div class="navMainSections MainNavBtns"><div class="navBtn"><span class="expandsubnav" id="news">+</span><a href="/news/">News</a></div><div class="hiddennav" id="news_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/news/">Local News</a></div><div class="subsection"><a href="/nationalnews/">National News</a></div><div class="subsection"><a href="/irresistible/">Irresistible News</a></div><div class="subsection"><a href="/wheelofjustice/">Wheel Of Justice</a></div><div class="subsection"><a href="/eyesoftexas/">Eyes of Texas</a></div><div class="subsection"><a href="/seenon2/">Seen On 2 Links</a></div><div class="subsection"><a href="/mostpopular/">Most Popular</a></div><div class="subsection"><a href="/slideshows/">Slideshows</a></div><div class="subsection"><a href="http://forums.ibsys.com/index.cfm?sitekey=hou">Discussions</a></div><div class="subsection"><a href="/newsarchive/">Local News Archive</a></div><div class="subsection"><a href="http://www.txlottery.org/">Texas Lottery</a></div><div class="subsection"><a href="/rss/">Get RSS</a></div><div class="subsection"><a href="/podcasts/">KPRC Podcasts</a></div><div class="subsection"><a href="/videoarchive/">Video Archive</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="weather">+</span><a href="/weather/">Weather</a></div><div class="hiddennav" id="weather_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/mapsandradar/">Maps And Radars</a></div><div class="subsection"><a href="/forecast/">Forecast</a></div><div class="subsection"><a href="/severeweather/">Severe Weather</a></div><div class="subsection"><a href="/hurricanes/">Hurricanes</a></div><div class="subsection"><a href="/texas/">Texas Weather</a></div><div class="subsection"><a href="/travelweather/">Travel Weather</a></div><div class="subsection"><a href="/beachandmarine/">Marine Forecast</a></div><div class="subsection"><a href="/pollen/">Pollen</a></div><div class="subsection"><a href="/almanac/">Almanac</a></div><div class="subsection"><a href="/weather/2126644/detail.html">Desktop Alert</a></div><div class="subsection"><a href="http://click2houston.premiumweather.com/info/?c=IBS_subnav">Premium Weather</a></div></div></div><div class="navBtn"><a href="http://www.click2houston.com/hurricanes/index.html">Hurricanes</a></div><div class="navBtn"><a href="/investigates/">Local 2 Investigates</a></div><div class="navBtn"><a href="/traffic/">Traffic</a></div><div class="navBtn"><span class="expandsubnav" id="sports">+</span><a href="/sports/">Sports</a></div><div class="hiddennav" id="sports_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://www.click2houston.com/friday-football-frenzy/index.html">Friday Football Frenzy</a></div><div class="subsection"><a href="/randysblog/">Randy's Rants</a></div><div class="subsection"><a href="/nfl151/">Texans</a></div><div class="subsection"><a href="/mlb004/">Astros</a></div><div class="subsection"><a href="/nba099/">Rockets</a></div><div class="subsection"><a href="http://www.aeros.com/">Aeros</a></div><div class="subsection"><a href="http://www.wnba.com/comets/">Comets</a></div><div class="subsection"><a href="http://www.mlsnet.com/MLS/hou/">Dynamo</a></div><div class="subsection"><a href="/cfoot509/">Houston FB</a></div><div class="subsection"><a href="/cbaskb15/">Houston MBB</a></div><div class="subsection"><a href="/cfoot586/">Rice FB</a></div><div class="subsection"><a href="/cbaskc33/">Rice MBB</a></div><div class="subsection"><a href="/cfoot609/">Texas FB</a></div><div class="subsection"><a href="/cbaskc82/">Texas MBB</a></div><div class="subsection"><a href="/cfoot610/">Texas A&amp;M FB</a></div><div class="subsection"><a href="/cbaskc83/">Texas A&amp;M MBB</a></div><div class="subsection"><a href="/cfoot614/">Texas Southern FB</a></div><div class="subsection"><a href="/cbaskc85/">Texas Southern MBB</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067592;8704162;l?http://www.click2houston.com/tickets/">Tickets</a></div></div></div><div class="navBtn"><a href="/friday-football-frenzy/">Friday Football Frenzy</a></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><span class="expandsubnav" id="entertainment">+</span><a href="/entertainment/">Entertainment</a></div><div class="hiddennav" id="entertainment_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/atthemovies/">@ The Movies</a></div><div class="subsection"><a href="/columnists/">Columnists</a></div><div class="subsection"><a href="/contests/">Contests</a></div><div class="subsection"><a href="/quizzes/">Quizzes</a></div><div class="subsection"><a href="/top10videos/">Top 10 Videos</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;51497804;8704162;n?http://www.click2houston.com/books/">Books</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18524641;8704162;g?http://ibsys.oberon-media.com/index.htm?RefId=hou">Games</a></div><div class="subsection"><a href="/horoscopes/">Horoscopes</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;7412864;8704162;l?http://www.theatermania.com/">Live Theater</a></div><div class="subsection"><a href="/music/">Music</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067574;8704162;l??http://www.click2houston.com/tickets/">Tickets</a></div><div class="subsection"><a href="/sponsors/14366158/detail.html">Jersey Boys</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="health">+</span><a href="/health/">Healthbeat</a></div><div class="hiddennav" id="health_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/dietandfitness/">Diet And Fitness</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;127207024;8704162;w?http://www.sparkpeople.com/myspark/landingsplit.asp?from=ibsys_hou">Dieting Resources</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;144157134;8704162;b?http://www.click2houston.com/sponsors/14249752/detail.html">Houston's Biggest Loser</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="money">+</span><a href="/money/">Money</a></div><div class="hiddennav" id="money_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Compare&nbsp;Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540423;8704162;c?http://www.homestore.com/HomeFinance/findlender/findlender.asp?gate=ibs_hou&amp;source=a14277">Find&nbsp;A&nbsp;Lender</a></div><div class="subsection"><a href="/investing101/">Investing&nbsp;101</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;34546113;8704162;c?http://www.lendingtree.com/borrower/alliance/from.asp?whereto=promopage&amp;promo=00001&amp;loan_type=2&amp;source=444880&amp;esourceid=444880">Mortgage&nbsp;Quotes</a></div><div class="subsection"><a href="/personalfinance/">Personal&nbsp;Finance</a></div><div class="subsection"><a href="/smallbusiness/">Small&nbsp;Business</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="education">+</span><a href="/education/">Your Education Station</a></div><div class="hiddennav" id="education_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/?rid=kprc">Search For Classes</a></div></div></div></div></div><div class="navbar"><div class="navMainSections MainNav2Btns"><div class="navBtn"><span class="expandsubnav" id="holidays">+</span><a href="/holidays/">Holidays</a></div><div class="hiddennav" id="holidays_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/kroger/">Holiday For The Troops</a></div></div></div><div class="navBtn"><a href="/sponsors/14810224/detail.html" class="expertNavBlue">Season 2 Give</a></div><div class="navBtn"><span class="expandsubnav" id="family">+</span><a href="/family/">Family</a></div><div class="hiddennav" id="family_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/petexperts/">Pet Experts</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;144169238;8704162;j?http://www.click2houston.com/mca/index.html">Memorial Clinical Associates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/life/default.aspx?ProductCategory=Life&amp;nqid=13353&amp;status=hou_BDWidget_life">Life Insurance</a></div><div class="subsection"><a href="/yourfamily/">Your Family</a></div></div></div><div class="navBtn"><a href="/technology/">Technology</a></div><div class="navBtn"><a href="/video/">Video</a></div><div class="navBtn"><a href="http://www.click2houston.com/eyesoftexas/index.html">Eyes of Texas</a></div><div class="navBtn"><a href="/jeffersonawards/">Jefferson Awards</a></div><div class="navBtn"><a href="/station/2151604/detail.html">Community Events</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr">Marketplace</div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="/thebuzz/">The Buzz</a></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;102172399;8704162;f?http://www.click2houston.com/newyou/index.html">New You</a></div><div class="navBtn"><a href="/hearthealth/">Heart Healthy</a></div><div class="navBtn"><a href="/localexperts/" class="expertNavBlue">Local 2 Experts!</a></div><div class="navBtn"><span class="expandsubnav" id="automotive">+</span><a href="/automotive/">Automotive</a></div><div class="hiddennav" id="automotive_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://autotrader.com/fyc/index.jsp?LNX=IBSCOBRNDSITE030">Find&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://www.autotrader.com/hornav/trader/index.jsp?LNX=IBSCOBRNDSYC0030">Sell&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="javascript:popUp('http://ad.doubleclick.net/clk;102782970;8704162;h?http://www.intelliprice.com/intellipricedealer/start.htm?dealerid=941001&amp;BID=hou-subnav',%20'width=620,height=600');">Trade&nbsp;In&nbsp;Appraisal</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;156849913;8704162;r?http://www.eauto.com/Rotation.asp?RefId=144011&amp;affdata=post.hou">Auto&nbsp;Finance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit&nbsp;Reports</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/common/default.aspx?ProductCategory=Auto&amp;nqid=13353&amp;status=hou_%20BDwidget_auto">Auto Insurance</a></div></div></div><div class="navBtn"><a href="/dating/">Dating</a></div><div class="navBtn"><span class="expandsubnav" id="travelgetaways">+</span><a href="/travelgetaways/">Travel</a></div><div class="hiddennav" id="travelgetaways_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;113799338;8704162;p?http://www.click2houston.com/traveldeals/index.html">Hot Travel Deals</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="Houston Jobs">+</span><a href="/jobs/">Houston Jobs</a></div><div class="hiddennav" id="Houston Jobs_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/?rid=kprc">Search For Classes</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://jobsearch.ibs.monster.com/?WT.mc_n=ibsid;hou;nav01">Find A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://postajob.monster.com?WT.mc_n=ibsid;hou;post01">Post A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://ibs.monster.com/resume.asp?WT.mc_n=ibsid;hou;res01">Post A Resume</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;120044193;8704162;v?http://www.click2houston.com/franchise/index.html">Franchise Opportunities</a></div></div></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?http://partners.findlaw.com/ibs/kprc.html" target="__blank">Legal Center</a></div><div class="navBtn"><span class="expandsubnav" id="shopping">+</span><a href="/shopping/">Deals</a></div><div class="hiddennav" id="shopping_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18524641;8704162;g?http://ibsys.oberon-media.com/index.htm?RefId=hou">Games</a></div><div class="subsection"><a href="/music/">Music</a></div></div></div><div class="navBtn"><a href="http://www.weddingsolutions.com/" target="__blank">Weddings</a></div></div></div><div class="navbar"><div class="navHdr featuresNavHdr">Extras</div><div class="navMainSections featuresNavBtns"><div class="navBtn"><a href="/contests/">Click2Win</a></div><div class="navBtn"><a href="/pets/">Pets</a></div><div class="navBtn"><span class="expandsubnav" id="houseandhome">+</span><a href="/houseandhome/">2 At Home</a></div><div class="hiddennav" id="houseandhome_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Compare Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit Report</a></div><div class="subsection"><a href="/homedecor/">Decorating</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/common/default.aspx?ProductCategory=Home&amp;nqid=13353&amp;status=hou_BDWidget_home">Home Insurance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;30713287;8704162;g?http://www.realtytrac.com/gateway_co.asp?accnt=152454">Foreclosure Resource Center</a></div><div class="subsection"><a href="/homeimprovement/">Home Improvement</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;149859638;8704162;y?http://www.guidetohomeimprovement.com/section/main/index.jsp?aff=Main&amp;qlink=n=203;c=319599;s=6104;x=7936;f=200709211647060;u=j;z=TIMESTAMP;&amp;useCustomConfig=y">Home Services</a></div><div class="subsection"><a href="/landscaping/">Landscaping</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;34546113;8704162;c?http://www.lendingtree.com/borrower/alliance/from.asp?whereto=promopage&amp;promo=00001&amp;loan_type=2&amp;source=444880&amp;esourceid=444880">Mortgage Quotes</a></div><div class="subsection"><a href="/movingcenter/">Moving Center</a></div><div class="subsection"><a href="/yourhome/">Your Home</a></div></div></div><div class="navBtn"><a href="/realestate/">Real Estate &amp; Mortgage</a></div><div class="navBtn"><span class="expandsubnav" id="food">+</span><a href="/food/">Food</a></div><div class="hiddennav" id="food_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;149504727;8704162;k?http://recipes.sparkpeople.com/?affiliate_code=hou">Healthy Recipes</a></div></div></div></div></div><div class="navbar"><div class="navHdr siteToolsNavHdr">Site Tools</div><div class="navMainSections siteToolsNavBtns"><div class="navBtn"><a href="javascript:if(document.all){document.body.style.behavior='url(#default#homepage)';document.body.setHomePage('http://www.click2houston.com');}else{document.location.href%20='http://www.click2houston.com/news/1032852/detail.html'}">Set Homepage</a></div><div class="navBtn"><a href="/wirelessnews/">KPRC 2 Mobile</a></div><div class="navBtn"><a href="/emailnewsletters/">E-Mail Newsletters</a></div><div class="navBtn"><a href="/podcasts/">Podcasts</a></div><div class="navBtn"><a href="/rss/">Get RSS</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts</a></div><div class="navBtn"><a href="http://click2houston.premiumweather.com/info/?c=IBS_Widget_Jetstream_5.12.05" target="__blank">Premium Weather</a></div><div class="navBtn"><a href="http://yellowpages.click2houston.com">Yellow Pages</a></div></div></div><div class="navbar"><div class="navHdr stationNavHdr">KPRC Local 2</div><div class="navMainSections stationNavBtns"><div class="navBtn"><a href="/station/">Inside KPRC</a></div><div class="navBtn"><a href="/contact/">Contact Us</a></div><div class="navBtn"><a href="/newsteam/">KPRC News Team</a></div><div class="navBtn"><a href="/blogs/">Blogs</a></div><div class="navBtn"><a href="/editorials/">KPRC Editorials</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div><div class="navBtn"><a href="http://www.nbc.com" target="__blank">NBC</a></div><div class="navBtn"><a href="http://www.click2houston.com/sponsors/13534325/detail.html" target="__blank">LATV</a></div><div class="navBtn"><a href="http://www.drphil.com" target="__blank">Dr. Phil</a></div><div class="navBtn"><a href="http://ellen.warnerbros.com/" target="__blank">Ellen</a></div><div class="navBtn"><a href="http://extratv.warnerbros.com/" target="__blank">Extra</a></div><div class="navBtn"><a href="http://www.rachaelrayshow.com/" target="__blank">Rachael Ray</a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div><div class="navBtn"><a href="/station/9666631/detail.html">Media Partners</a></div></div></div></div><script>ibsys.navSetup();</script><!--End Nav--><div id="topleft" class="pageContainer">
 		
 
 	 
@@ -272,8 +305,7 @@ in-formation), is used to serve ads to you. For more information about
 DoubleClick, cookies, and how to "opt-out", please <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/">click here.</a>
 </p>
 <p><b>Third Party Cookies</b><br>
-In the course of serving advertisements to this site, our third-party advertiser
-may place or recognize a unique cookie on your browser.</p>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://networkadvertising.org/consumer/opt_out.asp">click here</a>. </p>
 <p><b>Linking and Framing</b><br>
 This site contains links to other sites. This site is not responsible for the
 privacy practices or the content of such websites. Occasionally when linking to
@@ -346,10 +378,16 @@ will notify our users via email or by posting a notice on the site for 30 days.
 Last Revised 11/03</div>
 </div>
 
-</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"><div class="container2div"></div></td></tr></tbody></table><!-- begin footer --><div class="copyright" align="center"><br clear="all"><div id="ibsysBug"><a href="http://www.ibsys.com/"><img src="/sh/images/partners/ibs_bug_color.gif" border="0"></a></div><div align="center">
+</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"><div class="container2div"></div></td></tr></tbody></table><!-- begin footer --><div class="copyright" align="center"><div id="footer" class="pageContainer">
+  
+  
+
+
+</div><br clear="all"><div id="ibsysBug"><a href="http://www.ibsys.com/"><img src="/sh/images/partners/ibs_bug_color.gif" border="0"></a></div><div align="center">
 © 2007,
 <a href="http://www.ibsys.com/">Internet Broadcasting Systems, Inc</a>. <br><a href="/privacy/">Click here for the privacy policy</a>, <a href="/station/1012483/detail.html">terms of use</a>.<br><a href="/advertise/">Click here for advertising information.</a><br></div><br><a class="sitemap" href="/sitemap/">Site Map</a><br><script language="JavaScript">var tcdacmd="dt";</script><script src="http://an.tacoda.net/an/13724/slf.js" language="JavaScript"></script><br></div></div><!-- begin Rev Sci code (dm_client) -->
-<script type="text/javascript" src="http://www.click2houston.com/js/4230798/script.js"></script>
+<!--<script type="text/javascript" src="http://www.[ibs_variable type=localdomain /]/js/4230798/script.js"></script>-->
+<script type="text/javascript" src="/js/4230798/script.js"></script>
 
 
 <script type="text/javascript">
@@ -369,8 +407,12 @@ if (typeof DM_tag !='undefined') DM_tag();
 
 
 <!-- Added Back the fullpathed domain for search bug pts 43483 -->
-<script type="text/javascript" src="http://www.click2houston.com/js/5271885/script.js"></script>
-<script type="text/javascript" src="http://www.click2houston.com/js/5097349/script.js"></script>
+<!-- Removed fullpath 11/9/07.  search.* is defunct
+<script type="text/javascript" src="http://www.[ibs_variable type=localdomain style=lc /]/js/5271885/script.js"></script>
+<script type="text/javascript" src="http://www.[ibs_variable type=localdomain style=lc /]/js/5097349/script.js"></script>
+-->
+<script type="text/javascript" src="/js/5271885/script.js"></script>
+<script type="text/javascript" src="/js/5097349/script.js"></script>
 
 
 <script language="Javascript"><!--
@@ -441,9 +483,9 @@ if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"="
 
 <!-- call DCS functions -->
 <script type="text/javascript">
-using('ibsys.WebTrends');
+using('IBSYS.WebTrends');
 if (typeof ib_WTCustomTags == "function") ib_WTCustomTags();
-if (typeof ibsys.WebTrends.collectUserData == 'function') ibsys.WebTrends.collectUserData();
+if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData();
 if (typeof dcsVar == "function") dcsVar();
 if (typeof dcsMeta == "function")  dcsMeta();
 if (typeof dcsFunc == "function") dcsFunc("dcsAdv");
@@ -456,11 +498,11 @@ if (typeof dcsTag == "function") dcsTag();
 </noscript>
 
 <!--
-Time: 21:18:58 CDT
-Date: 6/16/2007
+Time: 1:55:19 CST
+Date: 12/11/2007
 XSL File: index.xsl
 Browser Type: 
 Page Type: index
 Section Site: natl
 -->
-</body></html>
+<span xmlns:esi="http://www.edge-delivery.org/esi/1.0"></span><script src="/_public/js/ibLast.js"></script></body></html>
