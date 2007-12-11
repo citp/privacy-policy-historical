@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629053315id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoolbox.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211021115id_/http%3A//www.fftoolbox.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Fantasy Football Toolbox: Privacy Policy
 
@@ -14,6 +14,6 @@ Fantasy Football Toolbox LLC does not sell, rent, loan, trade, or lease any pers
 **Use of cookies:**  
 Our advertising providers (valueclick.com, tribalfusion.com, casale.com, google.com) use cookies to track usage. In order to use the free customized cheatsheets cookies must be enabled, but we make no attempt to link the cookies with the individuals that actually browse the site.
 
-**Privacy of our email lists:** Fantasy Football Toolbox maintains several email lists to keep members informed about updates to our site. Individuals must affirmatively ask to join our mailing lists. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, our email list provider (groups.yahoo.com) is configured to refuse to divulge the email addresses of our subscribers to anyone but our administrative staff.
+**Privacy of our email lists:** Fantasy Football Toolbox maintains several email lists to keep members informed about updates to our site. Individuals must affirmatively ask to join our mailing lists. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, our email list provider (netatlantic.com) is configured to refuse to divulge the email addresses of our subscribers to anyone but our administrative staff.
 
 **To unsubscribe from our weekly newsletter, please enter your email address in the form below.**
