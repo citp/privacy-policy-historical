@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506094911id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043024id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - NETCIPIA
+# Netcipia - Privacy Policy
 
 ## Netcipia Privacy Policy
 
- **Effective as of August 15, 2006**
+**Effective as of August 15, 2006**
 
 This Privacy Policy applies to all of the services offered on the sites www.netcipia.com and www.netcipia.net ("Site").
 
@@ -16,15 +16,15 @@ If you have any questions or complaints about this Policy, please [click here](h
 
 Personal information is information that personally identifies you, such as your name, email address or billing information, or other data that can be reasonably linked to such information. Access to most areas of this Site does not require you to register for an account or provide any personal information to us.
 
- ** _Minors_** \- Minors (under the age of 18, or as determined by the laws of their country of residence) are not eligible to use our service, except under limited circumstances. Minors are permitted to use a Netcipia Place only if they have been invited to join in by the [Manager](https://web.archive.org/xwiki/bin/view/Legal/AcceptableUse#Manager) of that Netcipia Place. In this case, they will provide contact or other information, and will use the Netcipia Place, under the supervision and control of the Moderator, and within the requirements of the applicable laws. For any other circumstance, we ask that minors do not submit any personal information to us or use the service.
+_Minors_ \- Minors (under the age of 18, or as determined by the laws of their country of residence) are not eligible to use our service, except under limited circumstances. Minors are permitted to use a Netcipia Place only if they have been invited to join in by the [Manager](https://web.archive.org/xwiki/bin/view/Legal/AcceptableUse#Manager) of that Netcipia Place. In this case, they will provide contact or other information, and will use the Netcipia Place, under the supervision and control of the Moderator, and within the requirements of the applicable laws. For any other circumstance, we ask that minors do not submit any personal information to us or use the service.
 
- ** _Cookies_** \- When you visit our Site, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. Cookies may store user preferences and other information. When you visit the Site again, the cookie allows the Site to recognize your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of the features of our Site may not function properly if your cookies are disabled.
+_Cookies_ \- When you visit our Site, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. Cookies may store user preferences and other information. When you visit the Site again, the cookie allows the Site to recognize your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of the features of our Site may not function properly if your cookies are disabled.
 
- ** _Log information_** \- Due to the communications standards on the Internet, Netcipia's servers automatically receive information when you visit our Site, including the URL of the site from which you came and the site to which you are going when you leave our Site, the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP.
+_Log information_ \- Due to the communications standards on the Internet, Netcipia's servers automatically receive information when you visit our Site, including the URL of the site from which you came and the site to which you are going when you leave our Site, the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP.
 
- ** _Links_** \- Netcipia may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customized content and advertising.
+_Links_ \- Netcipia may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our customized content and advertising.
 
- ** _Netcipia Places_** \- Access to a Netcipia Place requires registration. When you sign up for a Netcipia account, we ask personal information, such as your name, email address and an account password, which is used to protect your account from unauthorized access. A Netcipia Member ID and password allow you to access many of our services that require registration.
+_Netcipia Places_ \- Access to a Netcipia Place requires registration. When you sign up for a Netcipia account, we ask personal information, such as your name, email address and an account password, which is used to protect your account from unauthorized access. A Netcipia Member ID and password allow you to access many of our services that require registration.
 
 When you use a Netcipia Place, we store, process and maintain your messages, and the content and other data related to your account or your Netcipia Place in order to provide the Netcipia Service to you. Our servers automatically record certain information about your use of the service. We record information such as account activity (including storage usage, number of log-ins); data displayed or clicked on (including UI elements, links); and other log information (including browser type, IP-address, date and time of access, cookie ID, and referrer URL). 
 
@@ -38,15 +38,15 @@ We use the information we collect from or about our users to:
 
 
 
-**_Log Information_** \- Log information is used to analyze overall trends to help us improve the Netcipia service. The linkage between your IP address and your personally identifiable information is never shared with third parties without your permission or when required by law.
+_Log Information_ \- Log information is used to analyze overall trends to help us improve the Netcipia service. The linkage between your IP address and your personally identifiable information is never shared with third parties without your permission or when required by law.
 
- ** _Session Cookies_** \- Session cookies are used to identify a particular visit to the Netcipia Site. Session cookies expire after a short time or when you close your web browser.
+_Session Cookies_ \- Session cookies are used to identify a particular visit to the Netcipia Site. Session cookies expire after a short time or when you close your web browser.
 
- ** _User communications_** \- When you send email or other communication to Netcipia, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+_User communications_ \- When you send email or other communication to Netcipia, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
- ** _Netcipia Places_** \- Netcipia stores, processes and maintains the content you store in your Netcipia Place in order to provide the service to you. We may use cookie and tracking technologies to identify the most relevant advertising to display, or customize the content you see, based on IP address, the page being visited, content of materials and other information stored or displayed in your Netcipia Place, or related to your use of your Netcipia Places. In addition, we reserve the right to access any information or content stored on a Netcipia Place or distributed through a Netcipia Place when necessary to comply with an applicable law or regulation, or to respond to a subpoena, search warrant, or enforceable governmental request; to prevent imminent harm to our network and services, our users or the public; to address fraud, security or technical issues; to enforce our [Terms of Use](https://web.archive.org/xwiki/bin/view/Legal/TermsOfUse), including investigation of potential violations of these terms.
+_Netcipia Places_ \- Netcipia stores, processes and maintains the content you store in your Netcipia Place in order to provide the service to you. We may use cookie and tracking technologies to identify the most relevant advertising to display, or customize the content you see, based on IP address, the page being visited, content of materials and other information stored or displayed in your Netcipia Place, or related to your use of your Netcipia Places. In addition, we reserve the right to access any information or content stored on a Netcipia Place or distributed through a Netcipia Place when necessary to comply with an applicable law or regulation, or to respond to a subpoena, search warrant, or enforceable governmental request; to prevent imminent harm to our network and services, our users or the public; to address fraud, security or technical issues; to enforce our [Terms of Use](https://web.archive.org/xwiki/bin/view/Legal/TermsOfUse), including investigation of potential violations of these terms.
 
- ** _Persistent Cookies_** \- We provide Members with the option to retain their Member ID on their computer, so that they can quickly access their Netcipia Place. If you elect to use this option, we will send a persistent cookie to your computer. The next time you visit our Site, the persistent cookie will allow us to recognize you as an existing registered Member so you will only need to enter your password to log in before using the service. If you delete your cookies, this persistent cookie will be deleted, and you will need to re-enter your Member ID and password next time you wish to use a Netcipia Place. 
+_Persistent Cookies_ \- We provide Members with the option to retain their Member ID on their computer, so that they can quickly access their Netcipia Place. If you elect to use this option, we will send a persistent cookie to your computer. The next time you visit our Site, the persistent cookie will allow us to recognize you as an existing registered Member so you will only need to enter your password to log in before using the service. If you delete your cookies, this persistent cookie will be deleted, and you will need to re-enter your Member ID and password next time you wish to use a Netcipia Place. 
 
 ## Your Choices
 
@@ -54,7 +54,7 @@ We offer you choices when we ask for personal information, whenever reasonably p
 
 If we propose to use personal information for any purposes other than those described in this Policy, we will provide you with the ability to opt out of the use of personal information for those other purposes.
 
- ** _Netcipia Places_** \- You may terminate your use of a free Netcipia Place at any time as provide in our [FAQs](https://web.archive.org/xwiki/bin/view/Support/FAQ). Please note that terminating your use alone does not delete the content of your Netcipia Place
+_Netcipia Places_ \- You may terminate your use of a free Netcipia Place at any time as provide in our [FAQs](https://web.archive.org/xwiki/bin/view/Support/FAQ). Please note that terminating your use alone does not delete the content of your Netcipia Place
 
 You may delete content from your Netcipia Place at any time, and the content will be deleted from our servers according to our document retention policies and applicable laws. For more information on how to delete your Netcipia Place, [click here](https://web.archive.org/xwiki/bin/view/Support/FAQ#Delete). 
 
@@ -79,7 +79,7 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 If Netcipia becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, in which some of our user’s personal information is transferred to a third party, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
- ** _Netcipia Places_** \- Content you publish in a public Netcipia Place may be read, copied, used and re-distributed by people you do not know. We have no control over who will access content posted in a public Netcipia Place. Content you publish in a non-public Netcipia Place may be read, copied, used and re-distributed by other Members of that Netcipia Place, whom you do or do not know. In all cases, use care when posting personal information and do not include sensitive information, such as financial information or home addresses or phone numbers. 
+_Netcipia Places_ \- Content you publish in a public Netcipia Place may be read, copied, used and re-distributed by people you do not know. We have no control over who will access content posted in a public Netcipia Place. Content you publish in a non-public Netcipia Place may be read, copied, used and re-distributed by other Members of that Netcipia Place, whom you do or do not know. In all cases, use care when posting personal information and do not include sensitive information, such as financial information or home addresses or phone numbers. 
 
 ## Advertisement
 
