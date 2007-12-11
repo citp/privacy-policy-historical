@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821141935id_/http%3A//www.gobananas.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211113551id_/http%3A//www.gobananas.co.uk/privacy) for the most accurate reproduction.*
 
 # GoBananas Privacy Policy
 
@@ -42,7 +42,7 @@ This site gives users the following options for removing their information from 
 
 _Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
 
-4\. You can call the following telephone number: 08700 112201 
+4\. You can call the following telephone number: 0871 789 6200 
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
@@ -51,7 +51,7 @@ This site gives users the following options for changing and modifying informati
 
 _Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
 
-3\. You can call the following telephone number: 08700 112201 
+3\. You can call the following telephone number: 0871 789 6200 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
