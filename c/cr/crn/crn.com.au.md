@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625052652id_/http%3A//www.crn.com.au/ciainfo.aspx%3FCIaInfoID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211050135id_/http%3A//www.crn.com.au/AboutUs/SiteInfo.aspx%3FInfoID%3D8) for the most accurate reproduction.*
 
-# CRN Australia - The website for channel business leaders
-
-PRIVACY POLICY STATEMENT
+# PRIVACY POLICY STATEMENT - www.crn.com.au
 
 PRIVACY POLICY STATEMENT
 
