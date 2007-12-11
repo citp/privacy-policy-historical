@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wibw.com privacy policy that was archived on 2007-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070506230457id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wibw.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211075645id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -10,13 +10,23 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=647";_qc+="&7=24861";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=647&7=24861&18=0.7594360232543687">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=647&7=24861&18=0.019752307915479994">
 </noscript>
 
                
 <title>WIBW - HomePage </title>
+<style>
+#cont {text-align:left; position:relative;width:98%;height:175px; overflow:hidden; padding:3px}
+.news {position:absolute;top:0px;left:0px;width:94%;height:175px;visibility:hidden;text-align:left}
+.storyOn {width:15px; border:thin solid black 1px;padding:0px; text-align:center;background-color:red;color:white;}
+.storyOff {width:15px; border:thin solid black 1px;padding:0px; text-align:center;background-color:white;color:red;}
+.storyLinkOn {text-decoration:none; font-family:arial;font-weight:bold;font-size:10pt;color:#ffffff}
+.storyLinkOff {text-decoration:none; font-family:arial;font-weight:bold;font-size:10pt;color:#000000}
+</style>
+
  <link rel="stylesheet" href="http://www.wibw.com/includes/wibw" type="text/css"> 
 
+     <link rel="shortcut icon" href="http://media.graytvinc.com/designimages/favoritesicon.jpg"> 
 <script type="text/javascript"><!--
 var active ='init'; 
 function ShowLayer(id) { 
@@ -45,6 +55,9 @@ return false;
 }
 //-->
 </script>
+
+
+
 <script language="JavaScript">
 function apvDwd(pid,title,pl,t) {
 if(!pl) {pl='';}
@@ -62,9 +75,68 @@ var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+t
                <script src="http://content.worldnow.com/global/tools/video/VideoFunctions.js?ver=3" type="text/javascript" language="javascript1.3"></script>
 
 
+<script type="text/javascript">
+<!--
+
+function playClip(videoPlayeId, clipId) {
+  playerObj = document.getElementById(videoPlayeId);
+	if (playerObj && clipId != '') {
+    var playerObjSrc = String(playerObj.src);
+    // set the clip id
+    if(playerObjSrc.indexOf('clipId') == -1) {
+//alert('no clipId');
+      playerObj.src += '&clipId=' + clipId;
+    } else {
+//alert('has clipId');
+      playerObj.src = playerObj.src.replace(/clipId=\d+/, 'clipId=' + clipId);       
+    }  
+    // set audo play
+    if(playerObjSrc.indexOf('autoStart') == -1) {
+      playerObj.src += '&autoStart=true';
+    } else {
+      playerObj.src = playerObj.src.replace(/autoStart=false/, 'autoStart=true');       
+    }      
+  } else {
+	  // nothing will happen if the browser cannot create the video player iframe object
+//    alert('no video player available');
+  }
+}
+
+// -->
+</script>
+<script type="text/javascript">
+<!--
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=670,height=640,scrollbars=yes');
+return false;
+}
+//-->
+</script>
+<script type="text/javascript"><!--
+var active ='init'; 
+function ShowLayer(id) { 
+if (document.all) { document.all[active].style.visibility = "hidden"; } 
+if(document.layers){ document.layers[active].visibility = "hide";} 
+if(document.getElementById) {document.getElementById(active).style.visibility='hidden';} 
+active = id; 
+if (document.all) { document.all[active].style.visibility = "visible";} 
+if(document.layers) { document.layers[active].visibility = "show" ;} 
+if(document.getElementById) {document.getElementById(active).style.visibility='visible';} 
+}
+//-->
+</script>
 
 
-          <script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=6500&m=67&d=24861&p=911&p=422&p=97&p=11&p=6&p=1316&p=1311"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.3560853559857269&amp;c=6500&amp;m=67&amp;d=24861&amp;p=911&amp;p=422&amp;p=97&amp;p=11&amp;p=6&amp;p=1316&amp;p=1311"></script>
+
+
+          <script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=6500&m=67&d=24861&p=911&p=422&p=97&p=11&p=6&p=1316&p=1311"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.4046880375406834&amp;c=6500&amp;m=67&amp;d=24861&amp;p=911&amp;p=422&amp;p=97&amp;p=11&amp;p=6&amp;p=1316&amp;p=1311"></script>
                               
                
                <script language="Javascript" type="text/javascript">
@@ -233,22 +305,21 @@ menu1[5]='<a target=_parent href="/13newsat5">13 News at 5</a>'
 menu1[6]='<a target=_parent href="/13newsat6">13 News at 6</a>'
 menu1[7]='<a target=_parent href="/13newsat10">13 News at 10</a>'
 menu1[8]='<a target=_parent href="/13newsweekend">13 News Weekend</a>'
+menu1[9]='<a target=_parent href="/political">13 Political</a>'
+menu1[10]='<a target=_parent href="http://www.wibw.com/kansasvoices">Kansas Voices</a>'
 var menu2=new Array()
-menu2[2]='<a target=_parent href="/station/misc/6384992.html">Contact Information</a>'
-menu2[3]='<a target=_parent href="/weather">13 Weather</a>'
-menu2[4]='<a target=_parent href="/news">13 News</a>'
-menu2[5]='<a target=_parent href="/sports">13 Sports</a>'
-menu2[6]='<a target=_parent href="/wibwsales">13 Sales</a>'
-menu2[7]='<a target=_parent href="/unclassified/4315522.html">13 Ad Production</a>'
+menu2[2]='<a target=_parent href="/contactus">Contact Information</a>'
+menu2[3]='<a target=_parent href="/station">Contact The Team</a>'
+menu2[4]='<a target=_parent href="/wibwsales">13 Sales</a>'
+menu2[5]='<a target=_parent href="/unclassified/4315522.html">13 Ad Production</a>'
 var menu3=new Array()
 menu3[2]='<a target=_parent href="/petpics/gallery">Pet Pics</a>'
 menu3[3]='<a target=_parent href="/weatherpictures/gallery">Weather Pics</a>'
-menu3[4]='<a target=_blank href="http://www.myhomeimprovement.com/?m=29">Home Improvement</a>'
-menu3[5]='<a target=_parent href="/personals">Personals</a>'
-menu3[6]='<a target=_parent href="/wibwsales">Sales Team</a>'
-menu3[7]='<a target=_parent href="/leaders">Advertisers</a>'
-menu3[8]='<a target=_parent href="/entertainment">Entertainment</a>'
-menu3[9]='<a target=_blank href="http://www.cbs.com">CBS.com</a>'
+menu3[4]='<a target=_parent href="/personals">Personals</a>'
+menu3[5]='<a target=_parent href="/wibwsales">Sales Team</a>'
+menu3[6]='<a target=_parent href="/leaders">Advertisers</a>'
+menu3[7]='<a target=_parent href="/entertainment">Entertainment</a>'
+menu3[8]='<a target=_blank href="http://www.cbs.com">CBS.com</a>'
 var menuwidth='165px' //default menu width
 var menubgcolor='lightyellow'  //menu bgcolor
 var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -374,7 +445,11 @@ clearTimeout(delayhide)
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
 
-</script></head><body onload="  drawGoogleMap(); "><div id="dropmenudiv" style="visibility:hidden;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+
+
+
 
 
 
@@ -382,16 +457,37 @@ document.onclick=hidemenu
 
 
 <div id="pageContainer">
-<div style="text-align:center; width:986px; padding-bottom:2px;"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top of Page Banner']){ document.write(plpm['Top of Page Banner']);} else {  if(self['plurp'] && plurp['1516']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1516&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.11918541728701704&amp;p=1516&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
+<div style="text-align:center; width:986px; padding-bottom:2px;"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top of Page Banner']){ document.write(plpm['Top of Page Banner']);} else {  if(self['plurp'] && plurp['1516']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1516&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.19183108561237217&amp;p=1516&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
 
 <table width="986" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
 <div id="headerContainer">
-<div id="primeLeft"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileLeft']){ document.write(plpm['primetileLeft']);} else {  if(self['plurp'] && plurp['1316']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1316&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.5966870665804764&amp;p=1316&amp;c=6500&amp;m=67&amp;d=24861"></script>
-<div id="mainheader"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Header (980 Wide)']){ document.write(plpm['Header (980 Wide)']);} else {  if(self['plurp'] && plurp['911']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=911&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.18562979146159053&amp;p=911&amp;c=6500&amp;m=67&amp;d=24861"></script>
-<div id="primeRight"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileRight']){ document.write(plpm['primetileRight']);} else {  if(self['plurp'] && plurp['1311']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1311&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.3281279502718355&amp;p=1311&amp;c=6500&amp;m=67&amp;d=24861"></script>
-</div></div></div></div>
+<div id="primeLeft"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileLeft']){ document.write(plpm['primetileLeft']);} else {  if(self['plurp'] && plurp['1316']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1316&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7349749725758199&amp;p=1316&amp;c=6500&amp;m=67&amp;d=24861"></script>
+<div id="mainheader"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Header (980 Wide)']){ document.write(plpm['Header (980 Wide)']);} else {  if(self['plurp'] && plurp['911']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=911&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.795002130813335&amp;p=911&amp;c=6500&amp;m=67&amp;d=24861"></script>
+<div id="primeRight"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['primetileRight']){ document.write(plpm['primetileRight']);} else {  if(self['plurp'] && plurp['1311']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1311&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7974663766405479&amp;p=1311&amp;c=6500&amp;m=67&amp;d=24861"></script>
+<div id="weatherHeader">
+<table cellpadding="0" cellspacing="0" width="100%">
+		  	<tbody><tr>
+	  		<td width="100%"> 									<div style="margin-bottom:3px">
+							<table width="$width" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+                    																					<td class="headlines">
+																											<table border="0" width="295" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="115">
+      <a class="title" href="http://gray.ftp.clickability.com/wibwwebftp/wx2_lg.jpg?title=KOLNKGIN_Skyview&amp;height=480&amp;width=640" target="_blank"><img height="80" src="http://gray.ftp.clickability.com/wibwwebftp/wx2_lg.jpg" width="115" border="0"></a></td>
+    <td width="180"><iframe src="http://www.wibw.com/weather/currents" width="180" height="80" border="0" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe></td>
+  </tr>
+</tbody></table>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			</td>
+	  	</tr>
+	</tbody></table>
+</div></div></div></div></div>
 
 </td>
 </tr>
@@ -401,90 +497,37 @@ document.onclick=hidemenu
 <table border="0" cellpadding="0" width="980" cellspacing="0">
   <tbody><tr> 
 	<td class="searchBar" width="395" height="25">
-<script language="javascript" type="text/javascript">
-<!--
-    function IsBlankField(field){
-	var j = 0;
-	var chr;
-	for(j; j < field.length; j++){
-	    chr = field.charAt(j);
-	    if(chr != "" && chr != " " && chr != "n" && chr != "t"){
-		return false;
-	    }
-	}
-	return true;
-    }
-    function SendTo(id){
-        //shortening form elements
-        var myForm      = document.getElementById('myForm');
-        var txtSearch   = document.getElementById('wrdSearch');
-	var srchURL;    // this variable will hold the URL of the search engine to be used
-        var srchVar;    // this variable will hold the value of the text field 'name' which will hold the string to be searched 
-        if(IsBlankField(txtSearch.value)){
-            //if the form doesn't validate, send this alert
-            alert("there's nothing to search for!");
-        } else{
-            if(id == "google"){
-		srchURL = "http://www.google.com/search";
-		srchVar = "q";
-            } else if(id == "WIBW"){
-		srchURL = "/searchresults";
-		srchVar = "searchKeywords";
-            } else{
-		srchURL = "http://search.yahoo.com/search";
-		srchVar = "p";
-            }
-            //adding the attribute name and values to the form and text field elements
-	    myForm.setAttribute("action", srchURL);
-	    txtSearch.setAttribute("name", srchVar);
-	    myForm.setAttribute("target", "_parent"); //this, of course, will open a new browser window
-	    myForm.setAttribute("method", "get");
+<form name="myForm" id="myForm" class="frm" action="/searchresults?dateRange=60" method="get">
+    <input class="btn" type="text" name="searchKeywords" size="25">
+    <input type="hidden" name="dateRange" value="60">
+    <input class="btn" type="submit" value="Search">
 
-            myForm.submit();           
+&nbsp;&nbsp;<span class="timestamp">Dec 10, 2007</span>&nbsp;&nbsp;
+<span class="timestamp"><a href="/rss"><img align="bottom" border="0" src="http://media.graytvinc.com/images/rss.gif" hspace="3"></a></span><a href="/rss">
 
-        }
-    }
-//-->
-</script>
-
-<form name="myForm" id="myForm" class="frm">
-   <input class="btn" type="text" id="wrdSearch" value="Search" size="20">
-    <input class="btn" type="button" name="WIBW" id="WIBW" value="WIBW" onclick="SendTo(this.id)">
-    <input class="btn" type="button" name="google" id="google" value="Google" onclick="SendTo(this.id)">
-    <a class="timestamp">May 06, 2007</a>
-	<a href="/rss"><img border="0" align="center" src="http://media.graytvinc.com/images/rss.gif" hspace="3"></a>
-    <span style="cursor:hand; color:blue; text-decoration:underline" onclick="this.style.behavior='url(#default#homepage)';
-this.setHomePage('www.wibw.com');">
-<img align="center" src="http://media.graytvinc.com/designimages/saveHome.gif" hspace="2" alt="Make WIBW your Homepage">
-</span> 
-
-</form>
-	</td>
-																						<td width="590" class="topNav" align="left" style="text-align:right; padding-right:3px">
-										<a target="_parent" class="topNav" href="http://www.wibw.com">Home</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/station">Meet the Team</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/blogs">Blogs</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/news">News</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weather">Weather</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/sports">Sports</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/enews">E-News</a>&nbsp;·&nbsp;										<a target="_blank" class="topNav" href="http://titantvguide.titantv.com/apg/ttv.aspx?siteid=50164">Programming</a>&nbsp;·&nbsp;										<a target="_blank" class="topNav" href="http://www.13onyourcell.com/wireless/signup.cfm?sid=111">13 On Your Cell</a>			</td>
+</a></form></td>
+																						<td width="596" class="topNav" align="left" style="text-align:right; padding-right:3px">
+										<a target="_parent" class="topNav" href="http://www.wibw.com">Home</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/station">Meet the Team</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/blogs">Blogs</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/news">News</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/weather">Weather</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/sports">Sports</a>&nbsp;·&nbsp;										<a target="_parent" class="topNav" href="/crime">Crime</a>&nbsp;·&nbsp;										<a target="_blank" class="topNav" href="http://titantvguide.titantv.com/apg/ttv.aspx?siteid=50164">Programming</a>&nbsp;·&nbsp;										<a target="_blank" class="topNav" href="http://www.13onyourcell.com/wireless/signup.cfm?sid=111">13 On Your Cell</a>			</td>
  </tr>
 </tbody></table>
 <table border="0" cellpadding="0" width="980" cellspacing="0">
   <tbody><tr> 
 	<td class="pullDown" width="325" height="25">
 
-<a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">WIBW-TV EZ Tab</a>&nbsp;·&nbsp;
-
-<a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">Contact Us</a>&nbsp;·&nbsp;
-
+<a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()">WIBW-TV EZ Tab</a> &nbsp;·&nbsp; 
+<a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()">Contact Us</a> &nbsp;·&nbsp; 
 <a class="pullDown" href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">Online Features</a>
-
 	</td>
 
-																											<td width="655" class="bottomNav" style="text-align:right; padding-right:3px">
+																											<td width="655" style="text-align:right; padding-right:3px;" class="bottomNav">
 				
-			<a target="_parent" class="bottomNav" href="/money">Money/Stocks</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/home/misc/6310432.html">Coupons</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/unclassified/646901.html">Desktop Alert</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/holidayplaza/misc/6542912.html">Shopping Plaza</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/recipes">Recipes</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/community">Community</a><a>&nbsp;·&nbsp;				
-			</a><a target="_parent" class="bottomNav" href="/station">Jobs@WIBW-TV</a><a>			</a></td>
+			<a target="_parent" class="bottomNav" href="/money">Money/Stocks</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/coupons">Coupons</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/ksprepzone">KS Prep Zone</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/holidayplaza">Shopping Plaza</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/recipes">Mr. Food's Recipes</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/community">Calendar</a>&nbsp;·&nbsp;				
+			<a target="_parent" class="bottomNav" href="/station">Jobs@WIBW-TV</a>			</td>
 	</tr>
 </tbody></table>
 </div>
@@ -500,228 +543,84 @@ this.setHomePage('www.wibw.com');">
 
 
 <div>
-
+<span id="nointelliTXT">
                 
      	<table width="983" cellpadding="2" cellspacing="2" border="0">
      	<tbody><tr>
-     	    <td class="marquee" style="padding: 2px"><marquee scrollamount="5" scrolldelay="90">Governor Kathleen Sebelius will head to Greensburg, Kansas and surrounding areas tomorrow to visit with familes who survived the deadly tornado and will also visit with local first responders.  Sunday on 13 News we will follow her journey.  Also, Northeast Kansas has severe weather of its own.  Chief Meteorologist Jeremy Goodwin and our entire SkyWatch 13 Weather Team will stream live until the threats pass.</marquee></td>
+     	    <td class="marquee" style="padding: 2px"><marquee scrollamount="5" scrolldelay="90">Continuous Ice Storm coverage continues on wibw.com and WIBW-TV this morning. The 13 News Team has live coverage in the morning from locations across the effected area. Stay logged onto wibw.com for live streaming web coverage of the storm from the 13 Weather Center.</marquee></td>
      	</tr>
 	</tbody></table>
-	
+	</span>
 <!-- content ID: 647   false -->
 
-<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Full Wide Banner']) document.write('<div align=center><table><tr><td>');if (self['plpm'] && plpm['Full Wide Banner']){ document.write(plpm['Full Wide Banner']);} else {  if(self['plurp'] && plurp['1376']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1376&c=6500&m=67&d=24861&pre=%3Cdiv+align%3Dcenter%3E%3Ctable%3E%3Ctr%3E%3Ctd%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3C%2Fdiv%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Full Wide Banner']) document.write('</td></tr></table></div>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7784029227004556&amp;p=1376&amp;c=6500&amp;m=67&amp;d=24861&amp;pre=%3Cdiv+align%3Dcenter%3E%3Ctable%3E%3Ctr%3E%3Ctd%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3C%2Fdiv%3E"></script>
+<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Full Wide Banner']) document.write('<table width=986><tr><td width=100% style=\'text-align:center\'>');if (self['plpm'] && plpm['Full Wide Banner']){ document.write(plpm['Full Wide Banner']);} else {  if(self['plurp'] && plurp['1376']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1376&c=6500&m=67&d=24861&pre=%3Ctable+width%3D986%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Full Wide Banner']) document.write('</td></tr></table>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.2776048495741119&amp;p=1376&amp;c=6500&amp;m=67&amp;d=24861&amp;pre=%3Ctable+width%3D986%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></script>
 
-<table width="980" cellpadding="0" cellspacing="0" border="0">
+
+    
+<table width="986" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<!-- Start Left Column: 208  -->
 		<td width="208" valign="top" style="padding-right:2px">
-								 					 	
+													
+			 						 		
 
+	
 
-
-			<div ondblclick="window.status=6099946" style="border: 1px solid ffffff; margin-bottom:3px">
-		<table cellspacing="0" cellpadding="0" width="208">
-   <tbody><tr>
-    <td class="header">WIBW Online Poll</td>
-</tr>
+			<div ondblclick="window.status=11080296" style="border: 1px solid #ffffff; margin-bottom:3px;">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="text-align:center; padding:3px; background-color:yellow">
+<img src="http://media.graytvinc.com/designimages/searchbox_logo.gif"> 
+<form style="margin:0; padding:0" action="http://localsearchpartners.com/locallookup/search.php" method="post" target="_blank">
+            <input type="hidden" name="action" value="yahoo_local">
+            <input type="hidden" name="username" value="">
+<input type="hidden" name="distance" value="50 Miles">
+            <input style="font-size:11pt" name="keywords" id="keywords" value="Business Type or Name">
+		</form></td>
+	</tr>
+	<tr>
+    	<td valign="top" style="text-align:center; padding:3px; background-color:yellow">
+		<select name="location" class="style1" id="location">
+        		<option value="Topeka, KS ">Topeka, KS </option>
+        		<option value=" Manhattan/Juncation City, KS "> Manhattan/Juncation City, KS </option>
+        		<option value=" Lawrence, KS "> Lawrence, KS </option>
+        		<option value=" Emporia, KS "> Emporia, KS </option>
+        		<option value=" Salina, KS"> Salina, KS</option>
+        		</select>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="text-align:center; padding:3px;background-color:yellow"><input id="search" type="submit" name="search" value="Search"></td>
+	</tr>
 </tbody></table>
-
-    			  			  			  			  			  			  			  			  	<table cellspacing="0" cellpadding="0" width="208" bgcolor="#ffffff">
-  <tbody><tr valign="top">
-    <td width="90%" class="title">
-      <form action="http://polls.clickability.com/polls" target="_self">
-	  <input type="hidden" name="pid" value="7358971">
-	  <input type="hidden" name="mr" value="1">
-      <input type="hidden" name="cid" value="6500">
-      	    <input type="hidden" name="rurl" value="http://www.wibw.com/polls?pollID=7358971">
-            <div class="title" style="padding:3px">With severe weather threatening NE Kansas Friday, Saturday and Sunday, where did you get the majority of your weather information?</div><br>
-      
-      <br>
-      <table border="0" cellspacing="0" cellpadding="0" width="90%">
-                      <tbody><tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="1">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            1. Weather Channel
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="2">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            2.  KSNT
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="3">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            3.  KTKA
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="4">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            4.WIBW TV
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="5">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            5.  Local radio station
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="6">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            6.  WIBW TV Web Site
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="7">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            7.  Another TV station web site
-          </td>
-        </tr>
-                <tr valign="top">
-          <td valign="top" style="padding: 2px" align="right" class="title">
-                                                  	<input type="radio" name="oid" value="8">
-                                    </td>
-          <td valign="top" style="padding: 2px" align="left" class="title">
-            8.  Weather Radio
-          </td>
-        </tr>
-                        <tr valign="top">
-          <td colspan="2"></td>
-        </tr>
-        
-        <tr valign="top">
-          <td colspan="2" style="padding: 5px" align="center"> 
-            <input type="submit" value="submit" name="submit"><br><br><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Poll']){ document.write(plpm['Poll']);} else {  if(self['plurp'] && plurp['1076']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1076&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.9142959949217115&amp;p=1076&amp;c=6500&amp;m=67&amp;d=24861"></script>
-		</td></tr>
-          
-        
-                	         </tbody></table>
-      </form>
-    </td>
-  </tr>
- 
-</tbody></table>
-
 
 
 		</div>
 	
-			 					 	
 
+			 						 		
 
+	
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279447">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fyourhealth&amp;41=medmonrighttout.jpg&amp;18=0.7490694372574819" target="_blank"><img src="http://media.graytvinc.com/images/medmonrighttout.jpg" width="208" height="134" alt="" title="" border="0"></a>
-                                  							</div>
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6278212">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fkansasvoices&amp;41=kansasvoiceslefttout.jpg&amp;18=0.405255062217855"><img src="http://media.graytvinc.com/images/kansasvoiceslefttout.jpg" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
 			
-			 					 	
+
+			 						 		
+
+	
+
+			<div ondblclick="window.status=6099926" style="border: 1px solid #ffffff; margin-bottom:3px;">
+		
 
 
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279802">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.theporchswing.us%2F&amp;41=porchswingannimated.gif&amp;18=0.9981090700922828"><img src="http://media.graytvinc.com/images/porchswingannimated.gif" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6493791">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.midwesthomesinc.net%2F&amp;41=midwesthomesleftcolumn.jpg&amp;18=0.6709591127974927"><img src="http://media.graytvinc.com/images/midwesthomesleftcolumn.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6797327">
-								<a href="http://media.graytvinc.com/images/jandcosplash.jpg" target="_blank" <="" a=""><img border="0" src="http://media.graytvinc.com/images/jandcolefttout.jpg"></a>
-							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279637">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.mthopecemetery.org%2F&amp;41=Mount-Hope.jpg&amp;18=0.12648455829905114"><img src="http://media.graytvinc.com/images/Mount-Hope.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6976157">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.att.com%2F&amp;41=cingulartout.jpg&amp;18=0.5340244102849503"><img src="http://media.graytvinc.com/images/cingulartout.jpg" width="208" height="104" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6466452">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.stormontvail.org%2Fcancer_ctr%2Findex.html&amp;41=stormontldfttout.jpg&amp;18=0.6130255149384165"><img src="http://media.graytvinc.com/images/stormontldfttout.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7012537">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fimages%2Fholidayvacationfs.jpg&amp;41=holidayvacationsleftytout.jpg&amp;18=0.36211191958148325" target="_blank"><img src="http://media.graytvinc.com/images/holidayvacationsleftytout.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6276432">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fstation%2Fmisc%2F7256401.html&amp;41=dqbdayclubtout.jpg&amp;18=0.139350786254409" target="_blank"><img src="http://media.graytvinc.com/images/dqbdayclubtout.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6312222">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.myhomeimprovement.com%2F%3Fm%3D29&amp;41=MHI2.gif&amp;18=0.49485199288855486"><img src="http://media.graytvinc.com/images/MHI2.gif" width="208" height="139" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6271627">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Funclassified%2F437086.html&amp;41=13newsradiotoutleft.jpg&amp;18=0.18962982791139893"><img src="http://media.graytvinc.com/images/13newsradiotoutleft.jpg" width="208" height="60" alt="" title="" border="0"></a>
-                                  							</div>
-			
-			 					 	
-
-
-
-			<div ondblclick="window.status=6099926" style="border: 1px solid ffffff; margin-bottom:3px">
-		<table cellspacing="0" cellpadding="0" width="208" style="background-color: #ffffff">
+<table cellspacing="0" cellpadding="0" width="100%" style="background-color: #ffffff">
 	<tbody><tr>
-		<td colspan="2" class="header">WIBW.com Most Popular</td>
+		<td colspan="2" class="header">WIBW.com Most Viewed</td>
 </tr>          
 	
+	       		
 	       		
 	       		
 	       		
@@ -738,31 +637,274 @@ this.setHomePage('www.wibw.com');">
 
 		</div>
 	
-			 					 	
 
+			 						 		
 
+	
 
-	      	
-			 						</td>
-<!-- END LEFT COLUMN  -->
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Left Tout 3']){ document.write(plpm['Left Tout 3']);} else {  if(self['plurp'] && plurp['46']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=46&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.36681373439047205&amp;p=46&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
+ 	
 
-		<!-- Start Middle Column: 470  -->
-		<td width="470" valign="top" style="padding-right:2px">
-									<div style="border: 1px solid ffffff; margin-bottom:3px">
-							
+			 						 		
+
+	
+
+			<div ondblclick="window.status=9153211" style="border: 1px solid #ffffff; margin-bottom:3px;">
 		
-							       
-	 <!-- startclickprintinclude -->
-<table border="0" cellspacing="0" cellpadding="0" width="470" style="background-color: #ffffff">
-		 		<tbody><tr valign="top">   
-			<td width="95%" valign="top" style="padding:3px">
-														<div align="center"><script language="javascript1.2">var cid=647;var partnerID=24861;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button.js"></script><script language="javascript1.2">var _hb=1;	initBtn(1,1,1,1,0,1,'cc0000','cc0000');initSponsor(0,'right',' ','000000',' ',' ',' ');initAlt(1,1,1,1);eval(sponFunc);drawBtn('H',1);</script></div>
-																															<div class="topstory">GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS</div>
-																																																															
-																														                                        				
-						                          										
-					
-													<a class="headlines"> <table border="0" cellspacing="0" cellpadding="0" width="430" style="width:322.5pt;
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+<tbody><tr>
+<td class="header">Stories With Most Comments</td>
+</tr>
+<tr>
+<td class="title" style="padding:2px" ;=""><a class="title" href="http://www.wibw.com/home/headlines/7368816.html">Closings &amp; Cancellations</a><span class="headlines"><br>114 Comments</span></td>
+</tr>
+<tr>
+<td class="title" style="padding:2px" ;=""><a class="title" href="http://www.wibw.com/home/headlines/12310136.html">Affair Leaves Morrison's Future in Doubt</a><span class="headlines"><br>7 Comments</span></td>
+</tr>
+<tr>
+<td class="title" style="padding:2px" ;=""><a class="title" href="http://www.wibw.com/home/headlines/12307086.html">Emergency Weather Contact Information</a><span class="headlines"><br>5 Comments</span></td>
+</tr>
+<tr>
+<td class="title" style="padding:2px" ;=""><a class="title" href="http://www.wibw.com/home/headlines/12304461.html">Michael Vick Sentenced to 23 Months</a><span class="headlines"><br>2 Comments</span></td>
+</tr>
+</tbody></table>
+
+
+		</div>
+	
+
+			 						 		
+
+	
+
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<script language="JavaScript" src="http://wibw.mycapture.com/datafeeds/2748.js"></script>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+			 						 		
+
+	
+
+			<div ondblclick="window.status=6099946" style="border: 1px solid #ffffff; margin-bottom:3px;">
+		<table cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	   	<td class="header">Online Poll</td>
+	</tr>
+</tbody></table>
+	  							  							  							  							  							<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+ 	 		<tbody><tr valign="top">
+    			<td width="90%" class="title">
+      				<form action="http://polls.clickability.com/polls" target="_self">
+	  				<input type="hidden" name="pid" value="12339631">
+	  				<input type="hidden" name="mr" value="1">
+      				<input type="hidden" name="cid" value="6500">
+      					  	  				<input type="hidden" name="rurl" value="http://www.wibw.com/polls?pollID=12339631">
+      				      				<div class="title" style="padding:3px">Where do you have to go today?</div>
+      				<br>
+      				<table border="0" cellspacing="0" cellpadding="0" width="90%">
+      				        			        				<tbody><tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="1">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">I have to go to work today, even with the ice.
+          					</td>
+						</tr>
+       		 		        				<tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="2">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">I'm staying home with my children, since there's no school today.
+          					</td>
+						</tr>
+       		 		        				<tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="3">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">The lines were long, so I have to get out to the store.
+          					</td>
+						</tr>
+       		 		        				<tr valign="top">
+							<td valign="top" style="padding: 2px" align="right" class="title">
+				                        				              					            						<input type="radio" name="oid" value="4">
+              					            				          					</td>
+          					<td valign="top" style="padding: 2px" align="left" class="title">I am not going anywhere in this weather.
+          					</td>
+						</tr>
+       		 		        			        				<tr valign="top">
+          					<td colspan="2"></td>
+        				</tr>
+           				<tr valign="top">
+         	 				<td colspan="2" style="padding-top: 5px;text-align:center"> 
+            					<input type="submit" value="submit" name="submit"><br><br><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Poll']){ document.write(plpm['Poll']);} else {  if(self['plurp'] && plurp['1076']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=1076&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6021793475129964&amp;p=1076&amp;c=6500&amp;m=67&amp;d=24861"></script>
+            				</td>
+						</tr>
+        			        				   				      				</tbody></table>
+      				</form>
+				</td>
+ 	 		</tr>
+	</tbody></table>
+
+		</div>
+	
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279447">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fyourhealth&amp;41=medmonrighttout.jpg&amp;18=0.577258145951106" target="_blank"><img src="http://media.graytvinc.com/images/medmonrighttout.jpg" width="208" height="134" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279802">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.theporchswing.us%2F&amp;41=porchswingannimated.gif&amp;18=0.7349480104563041"><img src="http://media.graytvinc.com/images/porchswingannimated.gif" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6493791">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.midwesthomesinc.net%2F&amp;41=midwesthomesleftcolumn.jpg&amp;18=0.42238948269732757"><img src="http://media.graytvinc.com/images/midwesthomesleftcolumn.jpg" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6279637">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.mthopecemetery.org%2F&amp;41=Mount-Hope.jpg&amp;18=0.7153974509718637"><img src="http://media.graytvinc.com/images/Mount-Hope.jpg" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6976157">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.att.com%2F&amp;41=cingulartout.jpg&amp;18=0.9098168398848295"><img src="http://media.graytvinc.com/images/cingulartout.jpg" width="208" height="104" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6466452">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.stormontvail.org%2Fcancer_ctr%2Findex.html&amp;41=stormontldfttout.jpg&amp;18=0.2805737450780835"><img src="http://media.graytvinc.com/images/stormontldfttout.jpg" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 						 		
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6276432">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fstation%2Fmisc%2F7256401.html&amp;41=dqbdayclubtout.jpg&amp;18=0.07266503233288457" target="_blank"><img src="http://media.graytvinc.com/images/dqbdayclubtout.jpg" width="208" height="60" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+			 											</td>
+	<!-- END LEFT COLUMN  -->
+
+	<!-- Start Middle Column: 470  -->
+
+		<td width="470" valign="top" style="padding-right:2px">
+									<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Top Banner']) document.write('<table width=100%><tr><td width=100% style=\'text-align:center\'>');if (self['plpm'] && plpm['Top Banner']){ document.write(plpm['Top Banner']);} else {  if(self['plurp'] && plurp['6']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=6&c=6500&m=67&d=24861&pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></scr'+'ipt>'); } }if (self['plpm'] && plpm['Top Banner']) document.write('</td></tr></table>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.16272152112345384&amp;p=6&amp;c=6500&amp;m=67&amp;d=24861&amp;pre=%3Ctable+width%3D100%25%3E%3Ctr%3E%3Ctd+width%3D100%25+style%3D%27text-align%3Acenter%27%3E&amp;post=%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E"></script>
+				<div style="border: 1px solid #ffffff; margin-bottom:3px;"><script type="text/javascript">
+function ChangeSize(Size)
+{
+  document.getElementById("storyText").style.fontSize = Size;
+}
+function ChangeWeight(Weight)
+{
+  document.getElementById("storyText").style.fontWeight = Weight;
+}
+</script>
+
+
+
+
+
+
+
+<!-- $story.vidPosition -->
+
+
+<script language="javascript1.2">var partnerID=24861; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
+
+
+
+
+
+
+                    
+	
+<!-- startclickprintinclude -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="background-color: #ffffff">
+	<tbody><tr>
+		<td width="100%">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td class="topstory" style="text-align:left; padding:2px">GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS</td>
+					<td valign="top" width="220" style="text-align:right; padding:4px;" nowrap="">
+<!-- startclickprintexclude -->
+											<a class="title" style="font-weight:normal" href="#" onclick="return(ST());" onmouseover="return(STMouseOver());" onmouseout="return(STMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/saveThis.jpg">Save</a>
+						<a class="title" style="font-weight:normal" href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/emailThis.jpg">Email</a>
+						<a class="title" style="font-weight:normal" href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());"><img align="middle" border="0" src="http://media.graytvinc.com/designimages/printThis.jpg">Print</a> 
+					<!-- endclickprintexclude -->
+
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" style="text-align:left">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td style="text-align:left; padding:3px">
+																		   <span class="title" style="padding:2px">Posted: 8:13 PM May 22, 2002<br></span>
+												   <span class="title" style="padding:2px">Last Updated: 3:11 PM Dec 5, 2007<br></span>				   
+																								<!-- startclickprintexclude -->
+						<div class="title" style="font-weight:normal;padding:2px;">
+																														</div>
+<!-- endclickprintexclude -->
+																														</td>
+					<td style="text-align:center;padding:2px;" valign="middle">
+								                    	      									</td>
+				</tr>		
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<hr>
+			</td>
+	</tr>
+
+	<tr>
+		<td style="text-align:left">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td style="padding:3px">
+												<span class="headlines"><table border="0" cellspacing="0" cellpadding="0" width="430" style="width:322.5pt;
  mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt">
   <tbody><tr>
     <td width="430" style="width:322.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
@@ -1212,81 +1354,99 @@ this.setHomePage('www.wibw.com');">
       Copyright © 2007 Gray Television Group, Inc. All rights reserved.</font></p>
     </td>
   </tr>
-</tbody></table></a>
-																				
-				
+</tbody></table></span>
+																	</td>
+				</tr> 
+			</tbody></table>
 		</td>
-			</tr>
-			
-<tr><td style="text-align:center">
-
-</td>
-</tr>
-
-<!-- startclickprintexclude -->
-			<tr valign="top">   
-			<td width="95%" valign="top" style="padding: 5px; text-align:left">
-
-						
-			<table width="95%">
-				<tbody><tr><td colspan="2" height="1" width="95%" style="background-color: #666666"></td></tr>
-				<tr>
-					<td colspan="2" style="padding-top: 5px" class="title">More Stories</td>
-				</tr>
-																																		<tr>
-																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/4681591.html">Happy Holidays!</a></td>
-																																																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/4678396.html">Chanukah</a></td>
-																																															</tr><tr>
-																														<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/4678371.html">Holiday Shopping Safety</a></td>
-																																																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/4678336.html">History and the Thoughts Behind Kwanzaa</a></td>
-																																															</tr><tr>
-																														<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/4678141.html">Holiday Travel Safety</a></td>
-																																																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/1731546.html">Christopher Columbus</a></td>
-																																															</tr><tr>
-																														<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/1731461.html"><center>About Columbus Day</center></a></td>
-																																																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/1745796.html"><center>Columbus Day</center></a></td>
-																																															</tr><tr>
-																														<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/3741411.html"><center><img src="http://media.graytvinc.com/images/pentagon+memorial+4.jpg "></center></a></td>
-																																																						<td width="50%" style="padding: 5px;vertical-align: top"><a class="title" href="http://www.wibw.com/unclassified/3739021.html"><font color="white">WTC Memorial</font></a></td>
-																														
-							</tr></tbody></table>
-		</td>  
 	</tr>
-	  <!-- endclickprintexclude --> 
-</tbody></table>
+<!-- startclickprintexclude -->
+	<tr>
+		<td class="title" style="text-align:center;padding:3px;font-weight:normal">
+				
+			<a class="title" style="font-weight:normal" href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img align="top" border="0" src="http://media.graytvinc.com/designimages/emailThis.jpg">Email</a>
+		<script type="text/javascript" src="http://www.fark.com/farkit.js"></script>
+ <script type="text/javascript">
+farkItButton("GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS", "http://www.wibw.com/unclassified/647.html");
+</script>
+		
+			<a class="title" style="font-weight:normal" href="http://del.icio.us/post?url=http://www.wibw.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://media.graytvinc.com/designimages/delicious.png" align="top">&nbsp;del.icio.us&nbsp;</a>
+			<a class="title" style="font-weight:normal" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.wibw.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://media.graytvinc.com/designimages/google.png" align="top">&nbsp;Google&nbsp;
+			</a><a class="title" style="font-weight:normal" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS&amp;u=http://www.wibw.com/unclassified/647.html"><img border="0" src="http://media.graytvinc.com/designimages/yahoo.png" align="top">&nbsp;Yahoo&nbsp;</a>
+			<a class="title" style="font-weight:normal" href="http://digg.com/submit?phase=2&amp;url=http://www.wibw.com/unclassified/647.html&amp;title=GRAY TELEVISION GROUP, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS"><img border="0" src="http://digg.com/img/digg-it-tiny.gif" align="top"> digg</a>
+				</td>
+	</tr>
+			<tr>
+		<td width="100%" style="padding-top:4px; style=" text-align:center"="" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+											</table>
+		</td>
+	</tr>
+		<tr>
+		<td style="text-align:center">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+															<td width="50%" style="padding:5px" class="title" valign="top">
+						<u>More Stories</u><br>
+													<a class="title" href="http://www.wibw.com/unclassified/4384226.html">Coupons</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/9561177.html">WIBW Weather in Header</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/4678396.html">Chanukah</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/4678371.html">Holiday Shopping Safety</a><br><br>
+											</td>
+										<td style="padding:15px" class="title" valign="top">
+													<a class="title" href="http://www.wibw.com/unclassified/4678336.html">History and the Thoughts Behind Kwanzaa</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/4678141.html">Holiday Travel Safety</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/1731546.html">Christopher Columbus</a><br><br>
+													<a class="title" href="http://www.wibw.com/unclassified/1745796.html"><center>Columbus Day</center></a><br><br>
+											</td>
+										
+									</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+<!-- endclickprintexclude -->
+
 <!-- endclickprintinclude -->
+</div>
+									</td>
+	<!-- END MIDDLE COLUMN  -->
 
-
-
-				</div>
-										</td>
-<!-- END MIDDLE COLUMN  -->
-	
 	<!-- Start Right Column: 300  -->
 		<td width="300" valign="top" style="padding-right:2px">
-				
-					 				
+																									
 
+	
 
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7277026">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.kansascash.com%2Fprodweb%2Fup%2Fdisclaimer_page.php&amp;41=Kansascashconnectrighttout.jpg&amp;18=0.06460190077280392" target="_blank"><img src="http://media.graytvinc.com/images/Kansascashconnectrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6280087">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fgray.ftp.clickability.com%2Fwibwwebftp%2FWEBClose.htm&amp;41=schoolclosing.gif&amp;18=0.13677656594170284" target="_blank"><img src="http://media.graytvinc.com/images/schoolclosing.gif" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7012977">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fhome%2Fmisc%2F7368816.html&amp;41=cancellationsrighttout.jpg&amp;18=0.7751704348771472"><img src="http://media.graytvinc.com/images/cancellationsrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+	
 
  						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6407827">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Flinks&amp;41=newslinkstoutright.jpg&amp;18=0.8282926135946305" target="_blank"><img src="http://media.graytvinc.com/images/newslinkstoutright.jpg" width="288" height="60" alt="" title="" border="0"></a>
-                                  							</div>
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Flinks&amp;41=newslinkstoutright.jpg&amp;18=0.5691503330908461" target="_blank"><img src="http://media.graytvinc.com/images/newslinkstoutright.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
+	
 
- 									<div style="border: 1px solid ffffff; margin-bottom:3px">
-							<table width="300" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
 										<tbody><tr>
                     																					<td class="headlines" style="padding:2px">
 																											<iframe id="flashvideoplayer" width="300" height="365" topmargin="0" leftmargin="0" marginwidth="0" border="0" frameborder="0" scrolling="no" allowtransparency="true" src="http://ww2.WIBW.com/global/video/flash/flashvideoplayer.asp?playerName=miniplayer.swf&amp;topVideoCatNo=52919&amp;autoStart=false&amp;mute=false&amp;pointerColor=99FF66&amp;playerSliderBarColor=99FF66&amp;loadBarColor=99FF66&amp;progressBarColor=99FF66&amp;thumbBorderHoverColor=99FF66&amp;thumbBgHoverColor=99FF66&amp;thumbSelectedBorderColor=99FF66&amp;thumbSelectedBgColor=99FF66"></iframe>
@@ -1295,15 +1455,47 @@ this.setHomePage('www.wibw.com');">
 				</tbody></table>
 			</div>
 			
-							
 
+													
 
+	
 
-			<div ondblclick="window.status=6099931" style="border: 1px solid ffffff; margin-bottom:3px">
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=12254526">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fdocuments%2F13days_HOFA.htm&amp;41=13DAYSTOUT.jpg&amp;18=0.4105745952633255"><img src="http://media.graytvinc.com/images/13DAYSTOUT.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+	
+
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Right Tout 3']){ document.write(plpm['Right Tout 3']);} else {  if(self['plurp'] && plurp['71']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=71&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.01888578858395551&amp;p=71&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
+ 	
+
+													
+
+	
+
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<iframe id="flashvideoplayer" width="300" height="365" topmargin="0" leftmargin="0" marginwidth="0" border="0" frameborder="0" scrolling="no" allowtransparency="true" src="http://ww2.WIBW.com/global/video/flash/flashvideoplayer.asp?playerName=miniplayer.swf&amp;topVideoCatNo=117765&amp;autoStart=false&amp;mute=false&amp;pointerColor=CC0000&amp;playerSliderBarColor=CC0000&amp;loadBarColor=CC0000&amp;progressBarColor=CC0000"></iframe>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+													
+
+	
+
+			<div ondblclick="window.status=6099931" style="border: 1px solid #ffffff; margin-bottom:3px;">
 		
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
 <tbody><tr>
-   <td class="header">National AP Video</td>
+   <td class="header">National / Regional News</td>
 </tr>
 <tr>
    <td width="100%" style="text-align:center; padding:5px;">
@@ -1327,105 +1519,136 @@ this.setHomePage('www.wibw.com');">
 
 		</div>
 	
-							
 
+													
 
+	
+
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Right Tout 5']){ document.write(plpm['Right Tout 5']);} else {  if(self['plurp'] && plurp['81']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=81&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.10584679196170788&amp;p=81&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
+ 	
+
+													
+
+	
+
+ 		<div style="margin-bottom:3px"><script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Right Tout 4']){ document.write(plpm['Right Tout 4']);} else {  if(self['plurp'] && plurp['76']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=76&c=6500&m=67&d=24861"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.598685204490836&amp;p=76&amp;c=6500&amp;m=67&amp;d=24861"></script></div>
+ 	
+
+													
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9853291">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwibw.4wmt.com%2Fpackages%2Ftemplates%2Fanonymous%2Fsimple.aspx%3Fpageid%3Dae7fff39-c70c-41d5-90bf-aa48a044547f&amp;41=annimatedsurvivortout.gif&amp;18=0.39622461800366804" target="_blank"><img src="http://media.graytvinc.com/images/annimatedsurvivortout.gif" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+	
+
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+						<td width="100%" class="header" ondblclick="window.status=7829582">Featured Headlines</td>
+					</tr>
+										<tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<script language="JavaScript" src="http://www.adfusion.com/adfusion.partnersite/7df71f2c-f90a-4973-8d56-5d9348bbe9be.aspx"></script>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+													
+
+	
+
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<script language="javascript" src="http://tmz.warnerbros.com/vpi/video_player/?IDX=create.js&amp;Mod=Small&amp;Size=300x330&amp;AffiliateID=104&amp;AffiliateNumber=63&quot;"></script>
+
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+													
+
+	
 
  						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6311387">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fweather&amp;41=skywatchrighttout.jpg&amp;18=0.6773791727005406" target="_blank"><img src="http://media.graytvinc.com/images/skywatchrighttout.jpg" width="300" height="127" alt="" title="" border="0"></a>
-                                  							</div>
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fweather&amp;41=skywatchrighttout.jpg&amp;18=0.9285748604387056" target="_blank"><img src="http://media.graytvinc.com/images/skywatchrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
+	
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7120406">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fhome%2Fmisc%2F7120381.html&amp;41=littlepony_tile.jpg&amp;18=0.20610360585418785" target="_self"><img src="http://media.graytvinc.com/images/littlepony_tile.jpg" width="300" height="111" alt="" title="" border="0"></a>
-                                  							</div>
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=9918276">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.dtvspeak.com&amp;41=dtvswitchtout.jpg&amp;18=0.7881296428292526" target="_blank"><img src="http://media.graytvinc.com/images/dtvswitchtout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
+	
 
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6908452">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fdocuments%2Fluckyteachergiveaway.htm&amp;41=toyotateacherrighttout.jpg&amp;18=0.027937932380319164" target="_blank"><img src="http://media.graytvinc.com/images/toyotateacherrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6280932">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fweatherpictures&amp;41=wxpicsrighttout.jpg&amp;18=0.9017059960101172"><img src="http://media.graytvinc.com/images/wxpicsrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7209556">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.tscpl.org%3A80%2F451%2F&amp;41=bigreadrighttout.jpg&amp;18=0.1506621260406673" target="_blank"><img src="http://media.graytvinc.com/images/bigreadrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7012192">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.midlandhospice.org%2FNetCommunity%2FPage.aspx%3F%26pid%3D207%26srcid%3D183&amp;41=midlandhospicerighttout.jpg&amp;18=0.8546814479498883" target="_blank"><img src="http://media.graytvinc.com/images/midlandhospicerighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7314111">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fdocuments%2F07%2BDream%2BNight%2Binvitation_logo.pdf&amp;41=dreamnightrighttout.jpg&amp;18=0.5139539296977221" target="_blank"><img src="http://media.graytvinc.com/images/dreamnightrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7223476">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fdocuments%2FJUNETEENTH%2BYOUTH%2BESSAY%2B07.doc&amp;41=JUNETENTHESSAY.jpg&amp;18=0.2795730796758872" target="_blank"><img src="http://media.graytvinc.com/images/JUNETENTHESSAY.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7046397">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.hawkinsjazzfest.com%2Findex.html&amp;41=jazz+tout+copy.jpg&amp;18=0.13485453094039668" target="_blank"><img src="http://media.graytvinc.com/images/jazz+tout+copy.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=7311906">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fmedia.graytvinc.com%2Fdocuments%2F2007%2BFlyer%2Bcontest.pdf&amp;41=powwowtout.jpg&amp;18=0.33883223809051244" target="_blank"><img src="http://media.graytvinc.com/images/powwowtout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
-
- 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6276067">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Funclassified%2F4384226.html&amp;41=couponrighttout.jpg&amp;18=0.33726402597186955"><img src="http://media.graytvinc.com/images/couponrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
-			
-							
-
-
+	
 
  						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6272487">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.13onyourcell.com%2Fwireless%2Fsignup.cfm%3Fsid%3D111&amp;41=13onyourcellrighttout.jpg&amp;18=0.8148320339637929"><img src="http://media.graytvinc.com/images/13onyourcellrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.13onyourcell.com%2Fwireless%2Fsignup.cfm%3Fsid%3D111&amp;41=13onyourcellrighttout.jpg&amp;18=0.9294315964472745"><img src="http://media.graytvinc.com/images/13onyourcellrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							
 
+													
 
+	
 
  						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6280442">
-				                                                                <a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Ftitantvguide.titantv.com%2Fapg%2Fttv.aspx%3Fsiteid%3D50164&amp;41=tvlistingsrighttout.jpg&amp;18=0.7242474984757666"><img src="http://media.graytvinc.com/images/tvlistingsrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
-                                  							</div>
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Ftitantvguide.titantv.com%2Fapg%2Fttv.aspx%3Fsiteid%3D50164&amp;41=tvlistingsrighttout.jpg&amp;18=0.34619476958535766"><img src="http://media.graytvinc.com/images/tvlistingsrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
 			
-							</td>
-<!-- END RIGHT COLUMN  -->
-		</tr>
+
+													
+
+	
+
+ 						<div align="center" style="padding-bottom:3px" ondblclick="window.status=6276067">
+									                    	<a href="/r?19=950&amp;32=67&amp;7=24861&amp;40=http%3A%2F%2Fwww.wibw.com%2Fhome%2Fmisc%2F6310432.html&amp;41=couponrighttout.jpg&amp;18=0.9462249294889628" target="_blank"><img src="http://media.graytvinc.com/images/couponrighttout.jpg" width="300" height="90" alt="" title="" border="0"></a>
+                    							</div>
+			
+
+													
+
+	
+
+ 										<div style="border: 1px solid #ffffff; margin-bottom:3px">
+							<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+										<tbody><tr>
+                    																					<td class="headlines" style="padding:2px">
+																											<div align="center"><script src="http://seal.ranking.com/seal.aspx?urlid=13535"></script><br><a href="http://www.ranking.com" style="color:blue;font-family:Arial;font-size:10px;" target="_blank">Website Ranking</a></div>
+																			</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+
+																	</td>
+	<!-- END RIGHT COLUMN  -->
+	</tr>
 </tbody></table>
 <!-- Start Bottom Column -->
 <table width="986" cellpadding="0" cellspacing="0" border="0">
@@ -1437,30 +1660,30 @@ this.setHomePage('www.wibw.com');">
 <td width="986" class="header">&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align:center" class="footer">- 
+<td style="text-align:center" class="footer">
 <a class="footer" href="http://www.wibw.com"><b>Home</b></a> - 
 <a class="footer" href="/station"><b>Meet the Team</b></a> - 
 <a class="footer" href="/blogs"><b>Blogs</b></a> - 
 <a class="footer" href="/news"><b>News</b></a> - 
 <a class="footer" href="/weather"><b>Weather</b></a> - 
 <a class="footer" href="/sports"><b>Sports</b></a> - 
-<a class="footer" href="/enews"><b>E-News</b></a> - 
+<a class="footer" href="/crime"><b>Crime</b></a> - 
 <a class="footer" href="http://titantvguide.titantv.com/apg/ttv.aspx?siteid=50164"><b>Programming</b></a> - 
 <a class="footer" href="http://www.13onyourcell.com/wireless/signup.cfm?sid=111"><b>13 On Your Cell</b></a> - 
 </td>
 </tr>
 <tr>
-<td style="text-align:center" class="footer">- 
+<td style="text-align:center" class="footer">
 <a class="footer" href="/money">Money/Stocks</a> -
-<a class="footer" href="/home/misc/6310432.html">Coupons</a> -
-<a class="footer" href="/unclassified/646901.html">Desktop Alert</a> -
-<a class="footer" href="/holidayplaza/misc/6542912.html">Shopping Plaza</a> -
-<a class="footer" href="/recipes">Recipes</a> -
-<a class="footer" href="/community">Community</a> -
+<a class="footer" href="/coupons">Coupons</a> -
+<a class="footer" href="/ksprepzone">KS Prep Zone</a> -
+<a class="footer" href="/holidayplaza">Shopping Plaza</a> -
+<a class="footer" href="/recipes">Mr. Food's Recipes</a> -
+<a class="footer" href="/community">Calendar</a> -
 <a class="footer" href="/station">Jobs@WIBW-TV</a> -
 </td>
 </tr>
-<tr><td class="footer" style="text-align:center">
+<tr><td class="footer" style="text-align:center"><img src="http://media.graytvinc.com/designimages/gray_logo.jpg" align="left" hspace="5">
 <a class="footer" href="/unclassified/666.html">Terms of Use</a> - 
 <a class="footer" href="/unclassified/647.html">Privacy Policy</a> - 
 <a class="footer" target="_blank" href="http://media.graytvinc.com/documents/2006+EEO+report.DOC">EEO Statement</a><br>
@@ -1469,7 +1692,19 @@ this.setHomePage('www.wibw.com');">
 </td>
 </tr>
 </tbody></table>
-<div>
+</div>
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1699624-11";
+urchinTracker();
+</script>
+
+
+            
 
 
 
@@ -1477,4 +1712,39 @@ this.setHomePage('www.wibw.com');">
 
 
 
-</div></div></div></body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
