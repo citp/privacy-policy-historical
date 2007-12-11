@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the aam-us.org privacy policy that was archived on 2007-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070610202905id_/http%3A//www.aam-us.org/site/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aam-us.org privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211073631id_/http%3A//www.aam-us.org/site/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Association of Museums --><!-- Page generated 2007-06-04 19:56:00 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="AAM's privacy policy concerning: data collection, our contact with you, your access to our information and security.">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Association of Museums --><!-- Page generated 2007-12-10 19:08:02 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="AAM's privacy policy concerning: data collection, our contact with you, your access to our information and security.">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="American Association of Museums, ">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server CommonSpot v4.6.2.50">
 <link rel="stylesheet" href="/style/stylesheet.css" type="text/css"><style type="text/css">
@@ -33,6 +33,52 @@
 		var intLeft=200;
 		var intHeight=290;
 		var intWidth=480;
+			var cookieStr = document.cookie;
+			var cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
+			var rxVal = /\d+/;
+			try
+			{
+				if (cookieStr && cookieStr.match(cookieWinRegEx))
+				{
+					var strVal=cookieStr.match(cookieWinRegEx);
+					if (strVal)
+						blnPopUpsOffScreen=strVal.toString().match(rxVal);
+					else
+						blnPopUpsOffScreen = 0;
+				}
+				else
+					blnPopUpsOffScreen=0;
+			}
+			catch (oErr)
+			{
+				blnPopUpsOffScreen=0;
+			}
+			if(blnPopUpsOffScreen==1)
+			{
+				intTop=window.screen.height - 9;
+				intLeft=window.screen.width - 9;
+				intHeight=1;
+				intWidth=1;
+			}
+			else
+			{
+				intTop=(window.screen.height / 2) - 109;
+				intLeft=(window.screen.width / 2) - 210;
+				intHeight=218;
+				intWidth=421;
+			}
+			if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
+			{
+				try
+				{
+					if( url.indexOf ('?') == -1 )
+						url = url + '?kurrentPageID=' + kurrentPageID;
+					else
+						url = url + '&kurrentPageID=' + kurrentPageID;
+				}
+				catch (oErr)
+				{ /* Do Nothing */ }
+			}
 		var re = new RegExp();
 		re = /&amp;/gi;
 		url = url.replace(re,"&");
@@ -72,7 +118,7 @@
 			var strWinOptions = strOptions;
 		}
 		strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
-			var winWindow=window.open(url,name);
+			var winWindow=window.open(url,name,strWinOptions);
 		if (!winWindow)
 			alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
 		if(arguments.length==4 && arguments[3]==1 && winWindow)
@@ -82,6 +128,14 @@
 </script>
 <!-- --> 
 <link rel="stylesheet" type="text/css" href="/new.aam-us.org/style/stylesheet.css">
+	<style type="text/css">
+	<!--
+	body {
+	   background-color: #6699cc;
+	   margin-top: 7px;
+	}
+	-->
+	</style>
 <script language="JavaScript" type="text/javascript">
 if (document.images) {
   image1on = new Image();
@@ -144,28 +198,203 @@ function turnOff(imageName) {
   }
 }
 function popupWindow(theURL, theWidth, theHeight) { 
-	popupwindow=window.open(theURL,'popupwindow','toolbar=yes,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=yes,width=' + theWidth + ',height=' + theHeight);
+	popupwindow=window.open(theURL,'popupwindow','toolbar=no,location=yes,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=yes,width=' + theWidth + ',height=' + theHeight);
 	popupwindow.focus();
 }
 </script>
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
-
-<script type="text/javascript">
-<!--
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-// -->
-</script>
-<!-- --> </head><body onload="onLoadFinished();" lang="en" class="CS_Document"><script type="text/javascript">
+<script language="javascript" src="/ui/scripts/mm.js"></script>
+<script src="/ui/scripts/ypslideoutmenus.js" language="JavaScript"></script>
+<script language="Javascript">
+	new ypSlideOutMenu("menu1", "down", 0, 0, 190, 170);
+ 	new ypSlideOutMenu("menu2", "down", 181, 156, 190, 160);
+ 	new ypSlideOutMenu("menu3", "down", 181, 188, 215, 150);
+	
+ 		new ypSlideOutMenu("menu4", "down", 181, 221, 130, 95);
+	
+ 	new ypSlideOutMenu("menu5", "down", 181, 254, 215, 150);
+ 	new ypSlideOutMenu("menu6", "down", 188, 121, 195, 147);
+ 	new ypSlideOutMenu("menu7", "down", 302, 121, 170, 90);
+</script><style type="text/css">#menu1Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:190px; height:170px; clip:rect(0 190 170 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:181px; top:156px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:190px; height:160px; clip:rect(0 190 160 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:181px; top:188px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:215px; height:150px; clip:rect(0 215 150 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:181px; top:221px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:130px; height:95px; clip:rect(0 130 95 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:181px; top:254px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:215px; height:150px; clip:rect(0 215 150 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:188px; top:121px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:195px; height:147px; clip:rect(0 195 147 0); }</style><style type="text/css">#menu7Container { visibility:hidden; left:302px; top:121px; overflow:hidden; z-index:10000; }#menu7Container, #menu7Content { position:absolute; width:170px; height:90px; clip:rect(0 170 90 0); }</style>
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body onload="
+document.getElementById('menulayers').style.display='';
+" lang="en" class="CS_Document"><script type="text/javascript">
 <!--
 document.CS_StaticURL = "http://www.aam-us.org/";
 document.CS_DynamicURL = "http://www.aam-us.org/";
 // -->
-</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
+</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+					
+				if (httpPos != -1)
+				{
+					targetLink = link.substr(httpPos);
+					commaPos = targetLink.indexOf(",");
+					if (commaPos != -1)
+						targetLink = targetLink.substr(0, commaPos);
+				}
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				//commaPos = link.indexOf(",");
+				//if (commaPos != -1)
+				//	link = link.substr(0, commaPos);
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	if (params != '')
+		window.open (href, name, params);
+	else
+		window.open (href, name);	
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+// -->
+		</script>
 <script type="text/javascript">
 <!--
 	function glblLinkHandler(lobj, attr, val)
@@ -178,6 +407,7 @@ document.CS_DynamicURL = "http://www.aam-us.org/";
 	{
 		onLoadComplete();
 	
+document.getElementById('menulayers').style.display='';
 	}
 	var js_gvPageID = 831;
 	function gotoDiffLang(url)
@@ -185,12 +415,102 @@ document.CS_DynamicURL = "http://www.aam-us.org/";
 		window.location = url + '&amp;pageid=831';
 	}
 // -->
-	</script>
+	</script><!-- showPageModeUI not set -->
+<script type="text/javascript">
+<!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+
+// -->
+</script><!-- -->
+<div id="menulayers" style="">
+<div id="menu1Container" class="dropcontainer" onmouseover="MM_swapImgRestore();MM_swapImage('menu1','','/ui/headerlinks/topnav_aboutaama.gif',1)" onmouseout="MM_swapImgRestore();" style="visibility: hidden;"> 
+  <div id="menu1Content" class="navdrop" style="top: -170px;">
+      <a href="#">About AAM</a> 
+      <a href="#">Governance</a>
+	<a href="#">Strategic Framework</a> 
+    	<a href="#"><hr></a>
+	<a href="#">Advertise with AAM</a> 
+    	<a href="#">Employment at AAM</a>
+	<a href="#">Give to AAM</a>
+   </div>
+</div>
+<div id="menu2Container" class="dropcontainer" onmouseover="MM_swapImgRestore();MM_swapImage('menu2','','/ui/headerlinks/topnav_aboutaama.gif',1)" onmouseout="MM_swapImgRestore();" style="visibility: hidden;"> 
+  <div id="menu2Content" class="navdrop" style="top: -160px;">
+    <a href="/aboutaam/index.cfm">About AAM</a> 
+    <a href="/aboutaam/councils/index.cfm">Committees</a>
+    <a href="/aboutaam/governance/index.cfm">Governance</a>
+    <a href="/aboutaam/strategic.cfm">Strategic Framework</a>
+    <a href="/aboutaam/advertise/index.cfm">Advertise with AAM</a>
+    <a href="/aboutaam/employment/index.cfm">Employment at AAM</a>
+    <a href="/aboutaam/give/index.cfm">Contribute to AAM</a>
+  </div>
+</div>
+<div id="menu3Container" class="dropcontainer" onmouseover="MM_swapImgRestore();MM_swapImage('menu3','','/ui/headerlinks/topnav_aboutmuseumsa.gif',1)" onmouseout="MM_swapImgRestore();" style="visibility: hidden;"> 
+  <div id="menu3Content" class="navdrop" style="top: -150px;">
+    <a href="/aboutmuseums/whatis.cfm">What is a Museum?</a> 
+    <a href="/aboutmuseums/abc.cfm">Museum FAQ</a>
+    <a href="/aboutmuseums/directory.cfm">Find a Museum</a>
+    <a href="/museumresources/accred/list.cfm">Accredited Museums</a>
+    <a href="/museumresources/ethics/index.cfm">Museum Ethics</a>
+    <a href="/aboutmuseums/standards/index.cfm">Museum Standards and Best Practices</a>
+   </div>
+</div>
+<div id="menu4Container" class="dropcontainer" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImgRestore();MM_swapImage('menu4','','/ui/headerlinks/topnav_publicationsa.gif',1)" style="visibility: hidden;"> 
+  <div id="menu4Content" class="navdrop" style="top: -95px;">
+    <a href="/pubs/aviso/">Aviso</a> 
+    <a href="/pubs/mn.cfm">Museum News</a>
+   </div>
+</div>
+<div id="menu5Container" class="dropcontainer" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImgRestore();MM_swapImage('menu5','','/ui/headerlinks/topnav_museumresourcesa.gif',1)" style="visibility: hidden;"> 
+  <div id="menu5Content" class="navdrop" style="top: -150px;">
+    <a href="/museumresources/accred/index.cfm">Accreditation</a>
+    <a href="/museumresources/cec/index.cfm">Collections Exchange</a>
+    <a href="/museumresources/icom/index.cfm">ICOM-US</a>
+    <a href="/museumresources/ic/index.cfm">Information Center</a>
+    <a href="/museumresources/map/index.cfm">Museum Assessment Program</a>
+    <a href="/sp/index.cfm">Special Projects and Initiatives</a>
+  </div>
+</div>
+<div id="menu6Container" class="dropcontainer" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImgRestore();MM_swapImage('menu6','','/ui/headerlinks/topnav_getinvolveda.gif',1)" style="visibility: hidden;"> 
+  <div id="menu6Content" class="navdrop" style="top: -147px;">
+  	<a href="/getinvolved/advocate/index.cfm">Advocate for Museums</a>
+  	<a href="/getinvolved/nominate/awards.cfm">Awards and Competitions</a>
+  	<a href="/getinvolved/emp/index.cfm">Emerging Professionals</a>
+  	<a href="/mcca/index.cfm">MCCA</a>
+  	<a href="/getinvolved/pr/index.cfm">Peer Review</a>
+  	<a href="/getinvolved/learn/index.cfm">Professional Education</a>
+  </div>
+</div>
+<div id="menu7Container" class="dropcontainer" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImgRestore();MM_swapImage('menu7','','/ui/headerlinks/topnav_joinusa.gif',1)" style="visibility: hidden;"> 
+  <div id="menu7Content" class="navdrop" style="top: -90px;">
+	<a href="/joinus/index.cfm">Join</a>
+	<a href="/joinus/benefits/index.cfm">Benefits</a>
+	<a href="/joinus/renew.cfm">Renew</a>
+  </div>
+</div>
+</div>
 <script type="text/javascript">
 function Go(){return}
 </script>
-<script type="text/javascript" src="/aammenu_var.js"></script>
-<script type="text/javascript" src="/menu_com.js"></script>
 <table width="770" border="0" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
 <td width="1" valign="top" bgcolor="#C7D8F1"><img src="/ui/misc/spacer.gif" border="0" width="1" height="1" alt=""></td>
@@ -198,25 +518,6 @@ function Go(){return}
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <!-- begin Header -->
 	<tbody><tr>
-	<td width="768" valign="top">
-<!-- begin Quick Links Nav -->
-		<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#031588">
-		<tbody><tr>
-		<td><img src="/ui/header/header_quicklinks.gif" border="0" width="140" height="21" alt="Quick Links"></td>
-		<td><a href="/bookstore/index.cfm" onmouseover="turnOn('image5')" onmouseout="turnOff('image5')"><img src="/ui/header/headernav_qlink01.gif" border="0" width="93" height="21" name="image5" alt="Bookstore"></a></td>
-		<td><a href="javascript:popupWindow('http://www.museummarketplace.com',800,600)" onmouseover="turnOn('image6')" onmouseout="turnOff('image6')"><img src="/ui/header/headernav_qlink02.gif" border="0" width="141" height="21" name="image6" alt="Museum Marketplace"></a></td>
-		<td><a href="/pubs/index.cfm" onmouseover="turnOn('image7')" onmouseout="turnOff('image7')"><img src="/ui/header/headernav_qlink03.gif" border="0" width="102" height="21" name="image7" alt="Publications"></a></td>
-		<td><a href="/aboutaam/advertise/index.cfm" onmouseover="turnOn('image8')" onmouseout="turnOff('image8')"><img src="/ui/header/headernav_qlink04.gif" border="0" width="88" height="21" name="image8" alt="Advertise"></a></td>
-		<td><a href="/aviso/index.cfm" onmouseover="turnOn('image9')" onmouseout="turnOff('image9')"><img src="/ui/header/headernav_qlink05.gif" border="0" width="96" height="21" name="image9" alt="Classifieds"></a></td>
-		<td><a href="/site/contactus.cfm" onmouseover="turnOn('image10')" onmouseout="turnOff('image10')"><img src="/ui/header/headernav_qlink06.gif" border="0" width="108" height="21" name="image10" alt="Contact Us"></a></td>
-		</tr>
-		<tr>
-		<td bgcolor="#FFFFFF" colspan="7"><img src="/ui/misc/spacer.gif" border="0" width="1" height="1" alt=""></td>
-		</tr>
-		</tbody></table>
-<!-- end Quick Links Nav --></td>
-	</tr>
-	<tr>
 	<td width="768" valign="top" bgcolor="#031588">
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <!-- begin Blue Header/Search Area -->
@@ -241,7 +542,7 @@ function Go(){return}
 				<td width="99" valign="top"><a href="/site/memcenter.cfm" onmouseover="turnOn('image1')" onmouseout="turnOff('image1')"><img src="/ui/header/headernav_memhome.gif" border="0" width="99" height="15" name="image1" alt="Member Home"></a></td>
 				</tr>
 				<tr>
-				<td width="99" valign="top"><a href="/site/help.cfm" onmouseover="turnOn('image3')" onmouseout="turnOff('image3')"><img src="/ui/header/headernav_help.gif" border="0" width="99" height="15" name="image3" alt="Help"></a></td>
+				<td width="99" valign="top"><a href="/site/accounthelp.cfm" onmouseover="turnOn('image3')" onmouseout="turnOff('image3')"><img src="/ui/header/headernav_help.gif" border="0" width="99" height="15" name="image3" alt="Help"></a></td>
 				</tr>
 				</tbody></table></td>
 <!-- end Header Member Center Nav -->
@@ -251,10 +552,10 @@ function Go(){return}
 				<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				<td width="25" valign="top" rowspan="3"><img src="/ui/misc/spacer.gif" border="0" width="26" height="1" alt=""></td>
-				<td width="140" valign="top" colspan="2"><img src="/ui/misc/spacer.gif" border="0" width="1" height="22" alt=""></td>
+				<td width="140" valign="top" colspan="3"><img src="/ui/misc/spacer.gif" border="0" width="1" height="22" alt=""></td>
 				</tr>
 				<tr>
-				<td width="140" valign="top" colspan="2"><img src="/ui/header/header_searchtitle.gif" border="0" width="72" height="15" alt=""></td>
+				<td width="140" valign="top" colspan="3"><img src="/ui/header/header_searchtitle.gif" border="0" width="72" height="15" alt=""></td>
 				</tr>
 				<tr>
 				<form method="post" action="/site/searchresults.cfm"></form>
@@ -267,7 +568,8 @@ function Go(){return}
 				<td width="91" valign="middle"><input type="text" name="srchString" class="SearchField" size="10"></td>
 				<td width="48" valign="middle"><input type="image" src="/ui/header/header_searchbutton.gif" width="23" height="16" border="0" alt="GO!"></td>
 				</tr>
-				</tbody></table></td>
+				</tbody></table>
+			</td>
 <!-- end Header Search -->
 			</tr>
 			</tbody></table></td>
@@ -275,7 +577,7 @@ function Go(){return}
 <!-- end Blue Header/Search Area -->
 <!-- begin Header Photo Area -->
 		<tr>
-		<td width="768" valign="top" background="">
+		<td width="768" valign="top">
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 			<td width="768" valign="top" bgcolor="#020C4B"><img src="/ui/misc/spacer.gif" border="0" width="1" height="2" alt=""></td>
@@ -294,11 +596,7 @@ function Go(){return}
 		</tr>
 <!-- end Header Photo Area -->
 <!-- begin Header TopNav -->
-		<tr>
-			<td width="768" valign="top" background="">
-				<div id="menulocation" style="position:relative;width:768;height:23" align="left"> <img src="/ui/misc/spacer.gif" border="0" width="768" height="23" alt=""></div>
-			</td>
-		</tr>
+		<tr><td width="768" valign="top"><div id="menulocation" style="position:relative;width:768;height:23;margin-bottom:0px;padding-bottom:0px;" align="left"><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('menu1','','/ui/headerlinks/topnav_homea.gif',1)"><img src="/ui/headerlinks/topnav_home.gif" alt="AAM Home" name="menu1" border="0"></a><a href="/aboutaam/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu2')" onmouseover="MM_swapImage('menu2','','/ui/headerlinks/topnav_aboutaama.gif',1);ypSlideOutMenu.showMenu('menu2')"><img src="/ui/headerlinks/topnav_aboutaam.gif" alt="About AAM" name="menu2" border="0"></a><a href="/aboutmuseums/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu3')" onmouseover="MM_swapImage('menu3','','/ui/headerlinks/topnav_aboutmuseumsa.gif',1);ypSlideOutMenu.showMenu('menu3')"><img src="/ui/headerlinks/topnav_aboutmuseums.gif" alt="About Museums" name="menu3" border="0"></a><a href="/museumresources/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu5')" onmouseover="MM_swapImage('menu5','','/ui/headerlinks/topnav_museumresourcesa.gif',1);ypSlideOutMenu.showMenu('menu5')"><img src="/ui/headerlinks/topnav_museumresources.gif" alt="Resources" name="menu5" border="0"></a><a href="/getinvolved/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu6')" onmouseover="MM_swapImage('menu6','','/ui/headerlinks/topnav_getinvolveda.gif',1);ypSlideOutMenu.showMenu('menu6')"><img src="/ui/headerlinks/topnav_getinvolved.gif" alt="Your Voice" name="menu6" border="0"></a><a href="/pubs/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu4')" onmouseover="MM_swapImage('menu4','','/ui/headerlinks/topnav_publicationsa.gif',1);ypSlideOutMenu.showMenu('menu4')"><img src="/ui/headerlinks/topnav_publications.gif" alt="Publications" name="menu4" border="0"></a><a href="/joinus/" onmouseout="MM_swapImgRestore();ypSlideOutMenu.hideMenu('menu7')" onmouseover="MM_swapImage('menu7','','/ui/headerlinks/topnav_joinusa.gif',1);ypSlideOutMenu.showMenu('menu7')"><img src="/ui/headerlinks/topnav_joinus.gif" alt="Join" name="menu7" border="0"></a><a href="/site/contactus.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('menu8','','/ui/headerlinks/topnav_contacta.gif',1)"><img src="/ui/headerlinks/topnav_contact.gif" alt="AAM Contact" name="menu8" border="0"></a></div></td></tr>
 <!-- end Header TopNav -->
 		</tbody></table></td>
 	</tr>
@@ -325,10 +623,8 @@ function Go(){return}
 			</td></tr>
 			<tr><td valign="top"><img src="/ui/spacer.gif" border="0" width="1" height="9" alt=""></td></tr>
 			<tr><td valign="top" bgcolor="#031588"><img src="/ui/spacer.gif" border="0" width="1" height="3" alt=""></td></tr>
-			</tbody></table><img src="/ui/misc/spacer.gif" border="0" width="1" height="20" alt="">
-<!-- end Topics -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><div class="CS_Element_Layout"><table id="idLayout548" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell548x1x1" class="CS_Layout_TD"><div class="CS_Element_Image"><a href="/aviso/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/aviso/index.cfm'); return true;"><img src="/images/leftfeature_jobbutton.gif" border="0" class="CS_Image_IMG" width="163" height="38" alt="New to Website Button" title="New to Website Button"></a></div><div class="CS_Layout_SpacingHeight" style="line-height:1;">&nbsp;</div><div class="CS_Element_Image"><a href="/pressroom.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/pressroom.cfm'); return true;"><img src="/images/leftfeature_pressbutton.gif" border="0" class="CS_Image_IMG" width="163" height="33" alt="Pressroom" title="Pressroom"></a></div></td></tr>
+			</tbody></table><img src="/ui/misc/spacer.gif" border="0" width="1" height="20" alt=""><table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><div class="CS_Element_Layout"><table id="idLayout548" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell548x1x1" class="CS_Layout_TD"><div class="CS_Element_Textblock"><div class="CS_Textblock_Text"><table class="" summary="left nav" border="0" cellpadding="1" cellspacing="0" width="100%"> <tbody> <tr> <td><img src="/images/gold_bar2.gif" alt="contents" border="0" height="22" hspace="0" vspace="0" width="163"><br> </td> </tr> <tr> <td><a onmouseover="return window.status='/jobHQ/index.cfm'" href="../../jobHQ/index.cfm" class="CP___PAGEID_16116"><img src="../../images/jobHQ.jpg" class="CP___PAGEID_16116" alt="jobHQ" border="0" height="38" hspace="0" vspace="0" width="163"></a><br> </td> </tr> <tr> <td><a onmouseover="return window.status='http://iweb.aam-us.org/Purchase/SearchCatalog.aspx'" href="http://iweb.aam-us.org/Purchase/SearchCatalog.aspx" id="http://iweb.aam-us.org/Purchase/SearchCatalog.aspx"><img src="/images/bookstorebutton.jpg" alt="bookstore" border="0" height="38" hspace="0" vspace="0" width="163"><br> </a> </td> </tr> <tr> <td><a onmouseover="return window.status='/museumresources/ic/index.cfm'" href="/museumresources/ic/index.cfm" class="CP___PAGEID_1048"><img src="/images/infobutton_1.jpg" class="CP___PAGEID_1048" alt="information center" border="0" height="38" hspace="0" vspace="0" width="163"><br> </a> </td> </tr> <tr> <td><a onmouseover="return window.status='/aboutaam/give/index.cfm'" href="/aboutaam/give/index.cfm" class="CP___PAGEID_11042"><img src="../../images/contribute.jpg" class="CP___PAGEID_11042" alt="contribute to AAM" border="0" height="38" hspace="0" vspace="0" width="163"><br> </a> </td> </tr> <tr> <td><a class="CP___PAGEID_963" href="/getinvolved/learn/index.cfm"><img class="CP___PAGEID_2980" alt="seminars and workshops button" src="../../images/seminarswkshps.jpg" border="0" height="38" hspace="0" width="163"><br> </a> </td> </tr> <tr> <td><a id="http://www.museummarketplace.com/" onmouseover="return self.status='http://www.museummarketplace.com/'" href="http://www.museummarketplace.com/"><img alt="museum marketplace button" src="../../images/musmarketplace.jpg" border="0" height="38" hspace="0" width="163"><br> </a> </td> </tr> <tr> <td><a class="CP___PAGEID_3762" onmouseover="return self.status='/pressroom.cfm'" href="../../pressroom.cfm"><img class="CP___PAGEID_3762" alt="press room button" src="../../images/press.jpg" border="0" height="38" hspace="0" width="163"></a></td> </tr> </tbody> </table></div></div></td></tr>
 	</tbody></table>	</div>
 			</td></tr>
 			</tbody></table><img src="/ui/misc/spacer.gif" border="0" width="1" height="20" alt="">
@@ -337,7 +633,7 @@ function Go(){return}
 		
 			<tbody><tr><td valign="top"><img src="/ui/home/annualheader.gif" border="0" alt=""></td></tr> 
 			
-					<tr><td valign="top"><a href="/am07/"><img src="/ui/annual/table_title.gif" border="0" alt=""></a></td></tr>
+					<tr><td valign="top"><a href="/am08/index.cfm"><img src="/ui/annual/table_title.gif" border="0" alt=""></a></td></tr>
 				
 		
 			<tr><td valign="top"><div class="CS_Element_Textblock"></div>
@@ -376,7 +672,8 @@ function Go(){return}
 					<tr><td colspan="2"><div class="MainBody">
 <div id="CS_CCF_831_8814"> 
 		<span class="MainBodySmall"><a href="/login.cfm">Login</a> or <a href="javascript:popupWindow('http://iweb.aam-us.org//Profile/CreateNewUser.aspx',600,500)">Sign Up</a>.</span>
-	</div><!-- --></div> <div class="CS_Element_Layout">&nbsp;</div><div class="CS_Element_Layout"><table id="idLayout2" cellpadding="5" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell2x1x1" class="CS_Layout_TD"><div class="CS_Element_Textblock"><div class="Title">Privacy Policy Statement</div><div class="CS_Textblock_Text"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial"><span class="MainBody"><p><br>This is the website of the American Association of Museums.<br>&nbsp;<br>Our postal address is: <br>1575 Eye Street, NW, Suite 400<br>Washington, DC 20005<br>We can be reached via e-mail at <a href="mailto:privacy@aam-us.org">privacy@aam-us.org</a><br>or you can reach us by telephone at 202/218-7718.<br>&nbsp;<br><strong>Data Collection</strong></p><p>We do not collect domain or e-mail address information from visitors to our web pages.<br>&nbsp;<br>However, we do collect aggregate information on which pages customers access/visit as well as information volunteered by the consumer, such as survey information and/or site registrations.</p><p>The site utilizes “cookies” to record session information, such as items that consumers add to their shopping cart.<br>&nbsp;<br>The information we collect online is used to improve the content of our website, and will not be shared with other organizations for commercial purposes.<br>&nbsp;<br><strong>Contact With You</strong></p><p>If you do not want to receive e-mail from us in the future, please let us know by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events.&nbsp;&nbsp; If you do not wish to receive such mailings, please let us know by contacting us through e-mail, telephone or written correspondence (see contact information above). You may also receive mailings from other reputable companies. You can have your name put on our do-not-share list by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.&nbsp;</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.&nbsp; If our information practices change at some time in the future, we will post the policy changes to our website to notify you and provide you with the ability to opt out of these new uses.&nbsp; If you are concerned about how your information is used, you should check this page periodically. <br>&nbsp;<br>Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br><strong>Your Access to Our Information</strong></p><p>Upon request, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>Upon request, we offer visitors the ability to have inaccuracies corrected regarding their contact information, financial information, unique identifiers and communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by contacting us through e-mail, telephone or written correspondence (see contact information above).</p><p><strong>Security<br></strong>&nbsp;<br>We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When transferring and receiving certain types of sensitive information (such as financial information), we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. AAM has appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br>&nbsp;<br>If you feel that this site is not following its stated information policy, you may contact us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;</p></span></span></div></div></td></tr>
+	</div><!-- --></div> <div class="CS_Element_Layout"><table id="idLayout551" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell551x1x1" class="CS_Layout_TD"><img src="/commonspot/images/clear.gif" width="1" height="1" alt=""></td></tr>
+	</tbody></table>	</div><div class="CS_Element_Layout"><table id="idLayout2" cellpadding="5" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell2x1x1" class="CS_Layout_TD"><div class="CS_Element_Textblock"><div class="Title">Privacy Policy Statement</div><div class="CS_Textblock_Text"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial"><span class="MainBody"><p><br>This is the website of the American Association of Museums.<br>&nbsp;<br>Our postal address is: <br>1575 Eye Street, NW, Suite 400<br>Washington, DC 20005<br>We can be reached via e-mail at <a href="mailto:privacy@aam-us.org">privacy@aam-us.org</a><br>or you can reach us by telephone at 202/218-7718.<br>&nbsp;<br><strong>Data Collection</strong></p><p>We do not collect domain or e-mail address information from visitors to our web pages.<br>&nbsp;<br>However, we do collect aggregate information on which pages customers access/visit as well as information volunteered by the consumer, such as survey information and/or site registrations.</p><p>The site utilizes “cookies” to record session information, such as items that consumers add to their shopping cart.<br>&nbsp;<br>The information we collect online is used to improve the content of our website, and will not be shared with other organizations for commercial purposes.<br>&nbsp;<br><strong>Contact With You</strong></p><p>If you do not want to receive e-mail from us in the future, please let us know by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events.&nbsp;&nbsp; If you do not wish to receive such mailings, please let us know by contacting us through e-mail, telephone or written correspondence (see contact information above). You may also receive mailings from other reputable companies. You can have your name put on our do-not-share list by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.&nbsp;</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.&nbsp; If our information practices change at some time in the future, we will post the policy changes to our website to notify you and provide you with the ability to opt out of these new uses.&nbsp; If you are concerned about how your information is used, you should check this page periodically. <br>&nbsp;<br>Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br><strong>Your Access to Our Information</strong></p><p>Upon request, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by contacting us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;<br>Upon request, we offer visitors the ability to have inaccuracies corrected regarding their contact information, financial information, unique identifiers and communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by contacting us through e-mail, telephone or written correspondence (see contact information above).</p><p><strong>Security<br></strong>&nbsp;<br>We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When transferring and receiving certain types of sensitive information (such as financial information), we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. AAM has appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br>&nbsp;<br>If you feel that this site is not following its stated information policy, you may contact us through e-mail, telephone or written correspondence (see contact information above).<br>&nbsp;</p></span></span></div></div></td></tr>
 	</tbody></table>	</div>
 					</td></tr>
 					
@@ -390,51 +687,7 @@ function Go(){return}
 <!-- end Main Content -->
 <!-- begin Right Column -->
 		<td width="165" valign="top" background="/ui/home/header_photoa.jpg" style="background-repeat:repeat-x;" bgcolor="#FFFFFF">
-		<img src="/ui/misc/spacer.gif" border="0" width="1" height="60" alt=""><br>
-<!-- begin RIGHT COLUMN TABLE 1 -->
-			<table width="145" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-			<tbody><tr>
-		   <td width="1" valign="top" bgcolor="#C7D8F1"><img src="/ui/misc/spacer.gif" border="0" width="1" height="1" alt=""></td>
-			<td width="143" valign="top">
-				<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-			<tbody><tr><td valign="top"><img src="/ui/home/latestheader.gif" border="0" alt=""></td></tr>
-				<tr><td valign="top"><img src="/ui/latest/table_title.gif" border="0" alt=""></td></tr>
-		
-				<tr><td valign="top">
-				<div class="CS_Element_Textblock"></div>
-				</td></tr><tr><td valign="top" bgcolor="#031588"><img src="/ui/spacer.gif" border="0" width="1" height="3" alt=""></td></tr> 
-				
-				</tbody></table></td>
-			
-			</tr>	
-			</tbody></table><img src="/ui/misc/spacer.gif" border="0" width="1" height="20" alt="">
-<!-- end RIGHT COLUMN TABLE 1 --> 
-<!-- begin RIGHT COLUMN TABLE 2 -->
-			<table width="145" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-			<tbody><tr>
-			<td width="1" valign="top" bgcolor="#C7D8F1"><img src="/ui/misc/spacer.gif" border="0" width="1" height="1" alt=""></td>
-			<td width="143" valign="top">
-				<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-			
-				<tbody><tr><td valign="top"><img src="/ui/home/booksheader.gif" border="0" alt=""></td></tr>
-				<tr><td valign="top"><img src="/ui/relatedbooks/table_title.gif" border="0" alt=""></td></tr>
-		
-				<tr><td valign="top">
-				<div class="CS_Element_Textblock"></div>
-				</td></tr>
-			
-				<tr><td valign="top" bgcolor="#031588"><img src="/ui/spacer.gif" border="0" width="1" height="3" alt=""></td></tr> 
-			
-				</tbody></table></td>
-			
-			</tr>	
-			
-			</tbody></table><img src="/ui/misc/spacer.gif" border="0" width="1" height="20" alt="">
-			
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr><td><div class="CS_Element_Layout">&nbsp;</div>
-			</td></tr></tbody></table>
-<!-- end RIGHT COLUMN TABLE 2 --></td>
+</td>
 <!-- end Right Column -->
 		</tr>
 		</tbody></table></td>
@@ -449,29 +702,4 @@ function Go(){return}
 <td width="1" valign="top" bgcolor="#C7D8F1"><img src="/ui/misc/spacer.gif" border="0" width="1" height="1" alt=""></td>
 </tr>
 </tbody></table>
-<!-- showPageModeUI not set -->
-<script type="text/javascript">
-<!--
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-
-var bCanRollover=0
-if (bName == "Netscape")
-{
-	if(bVer >= 3)
-		bCanRollover=1;
-}
-else if (bName == "Microsoft Internet Explorer")
-{
-	if(bVer >= 4)
-		bCanRollover=1;
-}
-
-function ImageSet(imgID,newTarget)
-{
-	if (bCanRollover)
-		document[imgID].src=newTarget;
-}
-
-// -->
-</script><!-- --><!-- --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
