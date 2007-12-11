@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211220003id_/http%3A//www.allwords.com/privacy.php) for the most accurate reproduction.*
 
 # AllWords.com - Dictionary, Guide, Community and More
 
-| [Home                   ]()  
+|   
 ---  
-[Word of the Week](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/wow.php)  
-[Links for Word Lovers](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/wlinks.php)  
-[Crossword Solver](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/solver.php)  
+[Home                   ](http://www.allwords.com/)  
+[Word of the Week](http://www.allwords.com/wow.php)  
+[Links for Word Lovers](http://www.allwords.com/wlinks.php)  
+[Crossword Solver](http://www.allwords.com/solver.php)  
+[AllWords Forums   ](http://www.allguides.com/)  
 [AllWords Blog     ](http://blog.allwords.com/)  
-[Help                      ](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/genpage.php?page=text/queryhelp.txt)  
+[Help                      ](http://www.allwords.com/genpage.php?page=text/queryhelp.txt)  
 [Bookstore            ](http://www.mystery-book-store.com/)  
-[Advertise             ](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/genpage.php?page=text/contact.php)  
-[Copyrights           ](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/copyright.php)  
-[Privacy                 ](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/privacy.php)  
-[Contact Us           ](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/13gtfagt.php)  
+[Advertise             ](http://www.allwords.com/genpage.php?page=text/contact.php)  
+[Copyrights           ](http://www.allwords.com/copyright.php)  
+[Privacy                 ](http://www.allwords.com/privacy.php)  
+[AllWords Search Box](http://www.allwords.com/allwords-search-box.php)  
+[Contact Us           ](https://web.archive.org/web/20071211220003id_/http%3A//www.allwords.com/13gtfagt.php)  
   
   | 
 
-_[](http://www.allwords.com/) _ _   
-Find It! First, Fast and Free! _   
+_[](http://www.allwords.com/) _   
 English Dictionary - With Multi-Lingual Search 
 
 Privacy on the internet has been a front page story in the USA for the last few months and we think it's an important issue. Here at AllWords.com and other sites created by AllSites LLC, we take your privacy very seriously. We offer you the details of our policy: 
@@ -33,6 +35,7 @@ So, feel free to sign our guest book, or register for our products, we value you
 
 Please note that many advertiser networks use cookies to help track the effectiveness of advertisements and to better match ads with visitors to our site. These cookies will not contain personal information, unless you have provided that information. If you are concerned, you can set your browser to refuse cookies, or to give you the option to refuse a cookie that is being sent to you. 
 
-If you have any questions or comments, [contact us](https://web.archive.org/web/20070616003506id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
+If you have any questions or comments, [contact us](https://web.archive.org/web/20071211220003id_/http%3A//www.allwords.com/%3C?$linkDomain%3E13gtfagt.php). 
 
-|   
+|      
+  [](http://x.azjmp.com/0qYZH?sub=aw125)
