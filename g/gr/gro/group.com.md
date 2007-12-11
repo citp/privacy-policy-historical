@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623104939id_/http%3A//www.group.com/tou/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211044113id_/http%3A//www.group.com/tou/privacy.asp) for the most accurate reproduction.*
 
 # Group - Incredible Things Will Happen
 
