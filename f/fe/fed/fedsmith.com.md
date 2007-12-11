@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618235010id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211181031id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,6 @@ No. FedSmith Inc. does not disclose the personal information of our readers to a
 
 Some parts of the FedSmith Inc. Web site are interactive, meaning our users can submit comments and information to share with other site visitors. The comments sections on our articles and our surveys offer users this capability. All comments posted to our web site are done so anonymously. Users are only required to submit a job title and agency name when posting a comment. Any additional personal information a user chooses to submit when posting comments is done so at his/her own discretion.
 
-FedSmith Inc. collects information about our site visitors whenever they view our site, such as IP addresses, browsers and operating systems used, the full uniform resource locator (URL) to, through, and from our site, and cookies. This information is used by FedSmith Inc. for statistical/tracking purposes only. Cookies are used to remember our visitors for offering custom features such as My FedSmith.com. FedSmith Inc. only stores insensitive information in cookies to ensure security. 
+FedSmith Inc. collects information about our site visitors whenever they view our site, such as IP addresses, browsers and operating systems used, the full uniform resource locator (URL) to, through, and from our site, and cookies. This information is used by FedSmith Inc. for statistical/tracking purposes only. Cookies are used to remember our visitors for offering custom features such as remembering a user's title and agency on the article comments submission forms. FedSmith Inc. only stores insensitive information in cookies to ensure security. 
 
 Additional information about features on the FedSmith Inc. Web site is located in our [FAQ section](https://web.archive.org/faq).
