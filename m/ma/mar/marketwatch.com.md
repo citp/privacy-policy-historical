@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619032436id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211215851id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.marketwatch.com&sealid=101)
 
-**Please note:**
-
-_The MarketWatch Privacy Policy is being updated. The revised policy will be effective 6/26/07. The privacy policy has been updated to ensure our practices are consistent with the way our site and services are evolving to better meet the needs of our users. If you accept the new Privacy Policy, you don't need to take any action and your membership and any paid subscription(s) you may have will remain active. However, if you do not wish to accept the new Privacy Policy, you may submit your request to close your member account by clicking on the following link:<http://www.marketwatch.com/support/feedback.asp>. Please note: If you are a MarketWatch Newsletter Subscriber, closing your member account will also cancel your paid subscription(s). If you have any questions, please click here <http://www.marketwatch.com/support/feedback.asp> _
-
-Update Privacy Policy (Effective 6/26/2007) Sites Subject to this Privacy Policy
+Privacy Policy (Update 6/26/2007) Sites Subject to this Privacy Policy
 
 This privacy policy describes how Dow Jones & Company, Inc. and its affiliates (“Dow Jones”) will treat the personal information received about you when you visit MarketWatch (home page at MarketWatch.com), and BigCharts (home page at Big Charts.com) (hereafter referred to collectively as the "Services").
 
@@ -47,7 +43,7 @@ Your Ability to Choose
 
 We offer you the opportunity to choose whether to receive certain communications – both when you give us your personally identifiable information and as set out below. Please note that if you have registered more than one email address with us, you must update your preferences for each email address separately.
 
-**MarketWatch Members:** If you are a MarketWatch member, you may update your preferences by visiting the “My Account” section of the MarketWatch.com web site. You are always able to update your preferences by contacting customer service at mwfeedback@marketwatch.com. 
+**MarketWatch Members:** If you are a MarketWatch member, you may update your preferences by visiting the “My Account” section of the MarketWatch.com web site. You are always able to update your preferences by contacting customer service at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com)
 
 **_Hulbert Financial Digest Subscriptions:_** If you subscribe to Hulbert Financial Digest or Hulbert Financial Digest’s related products Long Term Performance Ranking, Newsletter Honor Roll and Newsletter Profile (the “Hulbert Products”), you may update your postal communication preferences by directly contacting Hulbert Financial Digest. See below [LINK] for contact information for Hulbert Financial Digest and more information on Hulbert’s practices regarding sharing your information with third parties.
 
@@ -55,7 +51,7 @@ While we strive to process your requests as quickly as possible, please allow fo
 
 Review and Correction
 
-You may review and update the personally identifiable information that you have provided to us by contacting Customer Service at mwfeedback@marketwatch.com. MarketWatch members also may update their information by signing on to their accounts and visiting “My Account.” (Please note that if you have registered more than one email address with us, each email address constitutes a distinct account, and you must update your information in each account separately.)
+You may review and update the personally identifiable information that you have provided to us by contacting Customer Service at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com). MarketWatch members also may update their information by signing on to their accounts and visiting “My Account.” (Please note that if you have registered more than one email address with us, each email address constitutes a distinct account, and you must update your information in each account separately.)
 
 While we strive to process your requests as quickly as possible, please allow for reasonable time for us to process your updates.
 
@@ -120,7 +116,7 @@ and include your name and the address to which you would like us to respond.
 
 Questions, Comments and Concerns
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at mwfeedback@marketwatch.com. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed within 14 days, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/watchdog.html](mailto:http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Services to resolve users’ concerns.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [mwsupportcs@marketwatch.com](mailto:mwsupportcs@marketwatch.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed within 14 days, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/watchdog.html](mailto:http://www.truste.org/watchdog.html)). TRUSTe will serve as a liaison with the Services to resolve users’ concerns.
 
   
 
