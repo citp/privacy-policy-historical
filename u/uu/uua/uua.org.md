@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630033728id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211192643id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: Privacy Policy
 
-This Website is owned and operated by the Unitarian Universalist Association. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions please write to us at [web@uua.org](mailto:web@uua.org "Click to open your email program.").
+This Website is owned and operated by the Unitarian Universalist Association. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. If you have any questions please write to us at [web @ uua.org](mailto:web@uua.org).
 
 _The first principle of the member societies of the Unitarian Universalist Association (UUA) is that we will covenant to affirm and promote the inherent worth and dignity of every person. We believe that this principle impels us to protect the privacy of visitors to the UUA website._
 
@@ -24,7 +24,7 @@ Information is also provided on for those who wish to make contributions or purc
 
 **We Care About Doing It Right**
 
-In addition to maintaining privacy and security controls over information you share with us, the UUA works to accurately process your information. However, if inaccuracies occur, the UUA will make every effort to correct them in a timely manner. To report any web site inaccuracies or for questions about UUA's Internet Privacy Policy please email us at [web@uua.org](mailto:web@uua.org "Click to open your email program.") . 
+In addition to maintaining privacy and security controls over information you share with us, the UUA works to accurately process your information. However, if inaccuracies occur, the UUA will make every effort to correct them in a timely manner. To report any web site inaccuracies or for questions about UUA's Internet Privacy Policy please email us at [web @ uua.org](mailto:web@uua.org) . 
 
 Last updated on Friday, May 12, 2006. 
 
