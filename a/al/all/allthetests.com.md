@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623050028id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101728id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # None
 
@@ -22,7 +22,11 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-[E-mail this page to your friends!](http://www.allthetests.com/recommender.php3?url=/privacy.php3) **AllTheTests.com**  
+[E-mail this page to your friends!](http://www.allthetests.com/recommender.php3?url=/privacy.php3)
+
+[**Make your own quiz or test**](http://www.allthetests.com/quiz23/quizbedingung.php)
+
+**AllTheTests.com**  
 a project of [testedich.de](http://www.testedich.de/)   
 Email:[allthetests@testedich.de](mailto:allthetests@testedich.de)  
 Your Searchengine and your link to the collection of all iq tests, EQ tests, earning power, health profile and many others.  
