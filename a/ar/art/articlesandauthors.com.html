@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the articlesandauthors.com privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607121002id_/http%3A//www.articlesandauthors.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the articlesandauthors.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -241,48 +241,46 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <div align="center"> <div class="maincontentcell-bottom"><br><table cellpadding="4">
   <tbody><tr>
     <td>
-      <a href="/transgold/english.php" id="tgen"><img src="/transgold/flag_usa.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/english.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgen"><img src="/transgold/flag_en.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/german.php" id="tgde"><img src="/transgold/flag_de.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/german.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgde"><img src="/transgold/flag_de.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/spanish.php" id="tges"><img src="/transgold/flag_es.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/spanish.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tges"><img src="/transgold/flag_es.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/french.php" id="tgfr"><img src="/transgold/flag_fr.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/french.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgfr"><img src="/transgold/flag_fr.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/italian.php" id="tgit"><img src="/transgold/flag_it.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/italian.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgit"><img src="/transgold/flag_it.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/portuguese.php" id="tgpt"><img src="/transgold/flag_pt.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/portuguese.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgpt"><img src="/transgold/flag_pt.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/japanese.php" id="tgja"><img src="/transgold/flag_ja.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/japanese.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgja"><img src="/transgold/flag_ja.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/korean.php" id="tgko"><img src="/transgold/flag_ko.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/korean.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgko"><img src="/transgold/flag_ko.gif" border="0"></a>
     </td>
     <td>
-      <a href="/transgold/chinese.php" id="tgzh"><img src="/transgold/flag_zh-CN.gif" border="0"></a>
-    </td>
-	<td>
-      <a href="/transgold/arabic.php" id="tgar"><img src="/transgold/flag_ar.gif" border="0"></a>
+      <a href="https://web.archive.org/transgold/chinese.php?u=https://web.archive.org/web/20071211033450id_/http%3A//www.articlesandauthors.com/privacy.php" id="tgzh"><img src="/transgold/flag_zh-CN.gif" border="0"></a>
     </td>
   </tr>
 </tbody></table>
 <script language="javascript">
-  tgiu = document.location.href.indexOf('?u=');
-  tglangs = ['en', 'de', 'es', 'fr', 'it', 'pt', 'ja', 'ko', 'zh', 'ar'];
-  if(tgiu>-1){
-    for(tgl=0;tgl<tglangs.length;tgl++){
-      tglang = tglangs[tgl];
-      tgobj = document.getElementById('tg' + tglang);
-      tgurl = '';
-      tgurl = document.location.href.substr(tgiu+3);
-      tglurl = '';
-      tglurl = tgobj.href.substr(tgiu+3);
+  tgurl = document.location.href.substr(document.location.href.indexOf('?u=')+3);
+  tglangs = ['en', 'de', 'es', 'fr', 'it', 'pt', 'ja', 'ko', 'zh'];
+  for(tgl=0;tgl<tglangs.length;tgl++){
+    tglang = tglangs[tgl];
+    tgobj = document.getElementById('tg' + tglang);
+    tgurl = document.location.href.substr(document.location.href.indexOf('?u=')+3);
+    tglurl = tgobj.href.substr(tgobj.href.indexOf('?u=')+3);
+    if(tglurl.substr(0,1)=='t'){
+      tgobj.href = 'ht' + tglurl + '?u=' + 'ht' + tgurl;
+    }
+    else{
       tgobj.href = tglurl + '?u=' + tgurl;
     }
   }
@@ -303,7 +301,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     <font face="Verdana, Arial, Helvetica, sans-serif">Site design by Ultimate Results, Inc. | Andre Best - <a href="http://www.andrebest.com" target="_blank">andrebest.com</a></font><br>
 </div>
 </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <u style="display:none"><a href="http://allporn.tv"></a><a href="http://www.animaltour.net"></a></u>
+
 <br>
 <br>
 <br>
