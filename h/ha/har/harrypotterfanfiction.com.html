@@ -1,55 +1,97 @@
-<!--The following is the downloaded HTML source of the harrypotterfanfiction.com privacy policy that was archived on 2007-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070626122216id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harrypotterfanfiction.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211194735id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <html><head>
-<title>harrypotterfanfiction.com :: Over 42,000 Harry Potter stories. </title>
+<title>harrypotterfanfiction.com :: Over 45,000 Harry Potter stories plus podcasts </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" type="text/css" href="skins/castle/style.css">
 <script src="http://www.thefreedictionary.com/dict.js"></script>
+<script type="text/javascript" src="jquery/jquery.js"></script>
 <script language="JavaScript">
 <!--
 	function n_window(theurl)
 	{
-	 // set the width and height
-	 var the_width=400;
-	 var the_height=200;
-	 
-	 // set window position
-	 var from_top=20;
-	 var from_left=20;
-	 
-	 // set other attributes
-	 var has_toolbar='no';
-	 var has_location='no';
-	 var has_directories='no';
-	 var has_status='no';
-	 var has_menubar='no';
-	 var has_scrollbars='yes';
-	 var is_resizable='yes';
-	 
-	 // attributes put together
-	 var the_atts='width='+the_width+',height='+the_height+',top='+from_top+',screenY='+from_top+',left='+from_left+',screenX='+from_left;
-	 the_atts+=',toolbar='+has_toolbar+',location='+has_location+',directories='+has_directories+',status='+has_status;
-	 the_atts+=',menubar='+has_menubar+',scrollbars='+has_scrollbars+',resizable='+is_resizable;
-	 
-	 // open window
-	 window.open(theurl,'',the_atts);
+		// set the width and height
+		var the_width=400;
+		var the_height=200;
+		
+		// set window position
+		var from_top=20;
+		var from_left=20;
+		
+		// set other attributes
+		var has_toolbar='no';
+		var has_location='no';
+		var has_directories='no';
+		var has_status='no';
+		var has_menubar='no';
+		var has_scrollbars='yes';
+		var is_resizable='yes';
+		
+		// attributes put together
+		var the_atts='width='+the_width+',height='+the_height+',top='+from_top+',screenY='+from_top+',left='+from_left+',screenX='+from_left;
+		the_atts+=',toolbar='+has_toolbar+',location='+has_location+',directories='+has_directories+',status='+has_status;
+		the_atts+=',menubar='+has_menubar+',scrollbars='+has_scrollbars+',resizable='+is_resizable;
+		
+		// open window
+		window.open(theurl,'',the_atts);
 	}
 
 	function getItem(id)
 	{
-	  var itm = false;
-	  if(document.getElementById)
-	    itm = document.getElementById(id);
-	  else if(document.all)
-	    itm = document.all[id];
-	  else if(document.layers)
-	    itm = document.layers[id];
-
-	  return itm;
+		var itm = false;
+		if(document.getElementById)
+			itm = document.getElementById(id);
+		else if(document.all)
+			itm = document.all[id];
+		else if(document.layers)
+			itm = document.layers[id];
+		
+		return itm;
+	}
+	
+	function toggleDisplay(id, vstate)
+	{
+		var obj = getItem(id);
+		
+		if(!obj)
+			return;
+			
+		if(obj.style.display == vstate)
+			obj.style.display = 'none';
+		else
+			obj.style.display = vstate;
 	}
 
+	function NewRequestObject()
+	{
+		try
+		{
+			//Firefox, Opera8.0+, Safari
+			return new XMLHttpRequest();
+		}
+		catch(e)
+		{
+			//Internet Explorer
+			try
+			{
+				return new ActiveXObject("Msxml2.XMLHTTP");
+			}
+			catch(e)
+			{
+				try
+				{
+					return new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				catch(e)
+				{
+					return false;
+				}
+			}
+		}
+	}
+	
 	function submit1()
 	{
 	    document.passwordform.email.value;
@@ -72,6 +114,7 @@
 			menu.form.submit.disabled = false;
 		}
 	}
+	
 //-->
 </script>
 </head>
@@ -120,7 +163,7 @@
   </p>
   <p align="left">&nbsp;</p>
   <p align="left">If you have any problem with privacy on this site, please use 
-    the <a href="http://www.harrypotterfanfiction.com/docs/contact.html">contact 
+    the <a href="http://www.harrypotterfanfiction.com/getinfo.php?page=staffcontact">contact 
     section</a> to mail a staff member.</p>
 </div>
 	<hr>
@@ -137,7 +180,7 @@
       at these sites. You acknowledge that you link to these other websites at 
       your own risk. <strong>All original administrative content is copyright 
       of the site owner and must not be copied in any form (electronic or otherwise) 
-      without the prior consent of the owner.</strong> ©2000-2006 Fanfictionworld.net<br>
+      without the prior consent of the owner.</strong> ©2000-2007 Fanfictionworld.net<br>
       <br>
 [<a href="http://www.harrypotterfanfiction.com/getinfo.php?page=tos">terms of service</a>] [<a href="http://www.fictioncentral.net/support/index.php?_m=tickets&amp;_a=submit">report abuse</a>] [<a href="http://www.harrypotterfanfiction.com/getinfo.php?page=privacypolicy">privacy policy</a>] [<a href="http://www.harrypotterfanfiction.com/getinfo.php?page=sitecredits">site credits</a>] </span></td>  </tr>
   <tr>
