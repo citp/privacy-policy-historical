@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624024046id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211110608id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Football-Wallpapers.com
-
-## [Privacy Policy](http://www.football-wallpapers.com/privacy-policy/ "Privacy Policy") (1,211 Hits)
+# Privacy Policy | Football Wallpapers & Myspace Layouts
 
 Football-Wallpapers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 Third Party Advertising  
-We use Google AdSense ( ), ValueClick a.k.a. FastClick ( 
+We use Google AdSense ( ), ValueClick a.k.a. FastClick (
 
 [Sign up for ValueClick Media Online Advertising Network](http://admin.valueclickmedia.com/re.f?35136)
 
-) and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+), WidgetBucks (
+
+[Earn $$ with WidgetBucks](http://www.widgetbucks.com/home.page?referrer=1537001)
+
+), Text Link Ads ( [Monetize Your Site](http://www.text-link-ads.com/?ref=129375) ) and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
@@ -24,8 +26,3 @@ This site contains links to other sites. Football-Wallpapers.com is not responsi
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.football-wallpapers.com/contact-us/).
-
-Posted: January 18, 2007
-
-No related posts  
-
