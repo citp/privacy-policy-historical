@@ -1,7 +1,80 @@
-<!--The following is the downloaded HTML source of the epanorama.net privacy policy that was archived on 2007-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070625091811id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epanorama.net privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211035352id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
+<script type="text/javascript">
+function toggleDivOL( increaseFont )
+{
+	var mcontent;
+
+	if (increaseFont == true)
+	{
+		mcontent = document.getElementsByTagName("a");
+	        for(i=0;i<mcontent.length;i++) 
+	        {
+                   mcontent[i].style.fontSize = "18px";
+	        }
+	}
+	else
+	{
+	        mcontent = document.getElementsByTagName("a");
+	        for(i=0;i<mcontent.length;i++) 
+	        {
+                   mcontent[i].style.fontSize = "11px"
+	        }
+	}
+}
+
+function Resizepg( elemid, resizeIt )
+{
+	var elem = document.getElementById( elemid );
+	var navtext = document.getElementById( "nav2" );
+	if (resizeIt == true)
+	{
+		elem.style.width = "100%";
+		//navtext.style.width="150%";
+	}
+	else
+	{
+		elem.style.width = "800px";
+		//navtext.style.width="98%";
+	}
+}
+
+
+
+
+
+
+
+function reDrawPage() {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth ;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode' 
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  if (myWidth < 1024) 
+  { 
+     toggleDivOL(false);
+     Resizepg("wrapper",false);
+  }
+  else
+  {
+     toggleDivOL(true);
+     Resizepg("wrapper",true);
+  }
+
+}
+</script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>ePanorama.net</title>
 <link href="/css/style.css" rel="stylesheet" type="text/css">
@@ -58,13 +131,41 @@ if (document.images) {
 }
 // -->
 </script>
-<!-- FASTCLICK.COM POP-UNDER CODE v1.7 for epanorama.net -->
-<!-- FASTCLICK.COM INTERSTITIAL HEAD CODE v1.0 for epanorama.net -->
-<!-- FASTCLICK.COM INTERSTITIAL HEAD CODE v1.0 for epanorama.net -->
+<!-- ValueClick Media POP-UNDER CODE v1.8 for epanorama.net (12 hour) -->
+<script language="javascript"><!--
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf ('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net' );
+dc.write('/w/pop.cgi?sid=6044&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script>
+<!-- ValueClick Media POP-UNDER CODE v1.8 for epanorama.net -->
 
+<!-- FASTCLICK.COM INTERSTITIAL HEAD CODE v1.0 for epanorama.net -->
+<script language="javascript"><!--
+function FCx(x){
+  var min=15; // minimum minutes between interstitials (needs to be >15)
+  if(x.indexOf('get.media')>0){
+    x=unescape(x.substring(x.indexOf('&url=')+5,x.length));
+  }else{
+    if(document.cookie.indexOf('CxIC=1')<=0){
+      x='http://media.fastclick.net/w/get.media?sid=6044&m=5&url='+escape(x);
+      var date_ob=new Date();
+      date_ob.setTime(date_ob.getTime()+min*1000*60);
+      document.cookie='FCxIC=1; path=/; expires='+date_ob.toGMTString();
+    }
+  }
+  return x
+}
+// -->
+</script>
+<!-- FASTCLICK.COM INTERSTITIAL HEAD CODE v1.0 for epanorama.net -->
 </head>
-<body bgcolor="#FFFFFF"> 
-<div class="fullpage region1" id="wrapper">
+<body onload="reDrawPage();" onresize="reDrawPage();" bgcolor="#FFFFFF"> 
+
+<div class="fullpage region1" id="wrapper" style="width: 100%;">
 	<div class="googlebanner">
 		 <script type="text/javascript"><!--
 google_ad_client = "pub-3257650267345122";
@@ -79,30 +180,32 @@ google_color_border = "336699";
 </script>
 	</div>
 	
-	<div class="coname"><a href="/index.php"><img border="0px" src="/images/logo.jpg" name="logo"></a></div>
+	<div class="coname"><a href="/index.php" style="font-size: 18px;"><img border="0px" src="/images/logo.jpg" name="logo"></a></div>
 	
 	<div class="hline"> <hr> </div>
 	
 	  <div class="navbtns" id="navbuttons"> 
-<a href="/index.php?index=link" onmouseover="changeImages('links_btn', 'links_btn_over')" onmouseout="changeImages('links_btn', 'links_btn')"><img class="imgplain" id="links_btn" src="/images/links-btn.jpg" alt="Links" title="Links"></a> 
-<a href="/index.php?index=circuit" onmouseover="changeImages('circuits_btn', 'circuits_btn_over')" onmouseout="changeImages('circuits_btn', 'circuits_btn')"> <img class="imgplain" id="circuits_btn" src="/images/circuits-btn.jpg" alt="Circuits" title="Circuits"></a>
-<a href="/index.php?index=document" onmouseover="changeImages('documents_btn', 'documents_btn_over')" onmouseout="changeImages('documents_btn', 'documents_btn')"> <img class="imgplain" id="documents_btn" src="/images/documents-btn.jpg" alt="Documents" title="Documents"></a> 
-<a href="/index.php?index=discussion" onmouseover="changeImages('forum_btn', 'forum_btn_over')" onmouseout="changeImages('forum_btn', 'forum_btn')"> <img class="imgplain" id="forum_btn" src="/images/forum-btn.jpg" alt="Forum" title="Forum"></a> 
-<a href="/software-list.php" onmouseover="changeImages('software_btn', 'software_btn_over')" onmouseout="changeImages('software_btn', 'software_btn')"> <img class="imgplain" id="software_btn" src="/images/software-btn.jpg" alt="Software" title="Software"></a> 
-<a href="/RFC/rfc_index.html" onmouseover="changeImages('rfc_btn', 'rfc_btn_over')" onmouseout="changeImages('rfc_btn', 'rfc_btn')"> <img class="imgplain" id="rfc_btn" src="/images/rfc-btn.jpg" alt="RFC" title="RFC"></a> 
-<a href="/index.php?index=calculator" onmouseover="changeImages('toolbox_btn', 'toolbox_btn_over');" onmouseout="changeImages('toolbox_btn', 'toolbox_btn');"> <img class="imgplain" id="toolbox_btn" src="/images/toolbox-btn.jpg" alt="ToolBox" title="ToolBox"></a>
-<a href="/multi.php" onmouseover="changeImages('search_btn', 'search_btn_over')" onmouseout="changeImages('search_btn', 'search_btn')"> <img class="imgplain" id="search_btn" src="/images/search-btn.jpg" alt="Search" title="Search"></a> </div>
+<a href="/index.php?index=link" onmouseover="changeImages('links_btn', 'links_btn_over')" onmouseout="changeImages('links_btn', 'links_btn')" style="font-size: 18px;"><img class="imgplain" id="links_btn" src="/images/links-btn.jpg" alt="Links" title="Links"></a> 
+<a href="/index.php?index=circuit" onmouseover="changeImages('circuits_btn', 'circuits_btn_over')" onmouseout="changeImages('circuits_btn', 'circuits_btn')" style="font-size: 18px;"> <img class="imgplain" id="circuits_btn" src="/images/circuits-btn.jpg" alt="Circuits" title="Circuits"></a>
+<a href="/index.php?index=document" onmouseover="changeImages('documents_btn', 'documents_btn_over')" onmouseout="changeImages('documents_btn', 'documents_btn')" style="font-size: 18px;"> <img class="imgplain" id="documents_btn" src="/images/documents-btn.jpg" alt="Documents" title="Documents"></a> 
+<a href="/index.php?index=discussion" onmouseover="changeImages('forum_btn', 'forum_btn_over')" onmouseout="changeImages('forum_btn', 'forum_btn')" style="font-size: 18px;"> <img class="imgplain" id="forum_btn" src="/images/forum-btn.jpg" alt="Forum" title="Forum"></a> 
+<a href="/software-list.php" onmouseover="changeImages('software_btn', 'software_btn_over')" onmouseout="changeImages('software_btn', 'software_btn')" style="font-size: 18px;"> <img class="imgplain" id="software_btn" src="/images/software-btn.jpg" alt="Software" title="Software"></a> 
+<a href="/RFC/rfc_index.html" onmouseover="changeImages('rfc_btn', 'rfc_btn_over')" onmouseout="changeImages('rfc_btn', 'rfc_btn')" style="font-size: 18px;"> <img class="imgplain" id="rfc_btn" src="/images/rfc-btn.jpg" alt="RFC" title="RFC"></a> 
+<a href="/index.php?index=calculator" onmouseover="changeImages('toolbox_btn', 'toolbox_btn_over');" onmouseout="changeImages('toolbox_btn', 'toolbox_btn');" style="font-size: 18px;"> <img class="imgplain" id="toolbox_btn" src="/images/toolbox-btn.jpg" alt="ToolBox" title="ToolBox"></a>
+<a href="/multi.php" onmouseover="changeImages('search_btn', 'search_btn_over')" onmouseout="changeImages('search_btn', 'search_btn')" style="font-size: 18px;"> <img class="imgplain" id="search_btn" src="/images/search-btn.jpg" alt="Search" title="Search"></a> </div>
   
 <div class="navtext" id="nav2">|
- <a href="/index.php" class="btext">Index</a> | 
- <a href="/schematicsforfree/index.php" class="btext">Schematics</a> | 
- <a href="/acronym.html" class="btext">Acronyms</a> | 
- <a href="/wwwboard/wwwboard.html" class="btext">Discussion</a> | 
- <a href="/m2f/friendmail.php" class="btext">Mail to a friend</a> | 
- <a href="/pagediscuss.php" class="btext">Post a message</a> |
+ <a href="/index.php" class="btext" style="font-size: 18px;">Index</a> | 
+ <a href="/schematicsforfree/index.php" class="btext" style="font-size: 18px;">Schematics</a> | 
+ <a href="/acronym.html" class="btext" style="font-size: 18px;">Acronyms</a> | 
+ <a href="/wwwboard/wwwboard.html" class="btext" style="font-size: 18px;">Discussion</a> | 
+ <a href="/m2f/friendmail.php" class="btext" style="font-size: 18px;">Mail to a friend</a> | 
+ <a href="/pagediscuss.php" class="btext" style="font-size: 18px;">Post a message</a> |
  </div>
 
- <div class="midPage">
+
+ <div class="midPage" id="mainArea">
+ <div id="toHide">
   <div class="leftnavigation">
   
 <!-- News section window begins -->
@@ -111,31 +214,35 @@ google_color_border = "336699";
       <center>
 	   <!-- News content here -->
         <div class="div2" style="height: 350px;">
-		<span class="bluelink">April 18:
-<a href="/index.php">New outlook</a>
+		<span class="bluelink">August 16:
+Links update 
+- webmaster@epanorama.net
+<br><br>
+<span class="bluelink">April 18:
+<a href="/index.php" style="font-size: 18px;">New outlook</a>
 </span>is released! All comments are welcome.
 - webmaster@epanorama.net
 <br><br>
 <span class="bluelink">February 16:
-<a href="dmx512pp/index.html">DMX 512 Printerport Interface</a>
+<a href="dmx512pp/index.html" style="font-size: 18px;">DMX 512 Printerport Interface</a>
 </span>Build your own 64 channel DMX 512 printer port interface.
 <br><br>
 <span class="bluelink">
-<a href="digipack/DMX_Pro/index.html">DMX PC Keyboard Interface</a>
+<a href="digipack/DMX_Pro/index.html" style="font-size: 18px;">DMX PC Keyboard Interface</a>
 </span>This is the Design for a DMX512 to computer keyboard interface.
 <br><br>
 <span class="bluelink">February 15:
-<a href="digipack/DMX_Desk/index.html">PC Based DMX512 Lighting Desk</a>
+<a href="digipack/DMX_Desk/index.html" style="font-size: 18px;">PC Based DMX512 Lighting Desk</a>
 </span>DMX Desk Computer Based Lighting Control.
 <br><br>
 <span class="bluelink">February 14:
-<a href="discolight_effect/index.html">PIC16F84A</a>
+<a href="discolight_effect/index.html" style="font-size: 18px;">PIC16F84A</a>
 </span>Discolight Effect with bass beat control.
 <br><br>
 <span class="bluelink">February 12:
-<a href="digipack/index.html">Digi Pack.</a>
+<a href="digipack/index.html" style="font-size: 18px;">Digi Pack.</a>
 </span>Design for a digital lighting controler.
-        </div>
+        </span></div>
 		<!-- News content ends here -->
       </center>
     </div>
@@ -147,7 +254,7 @@ google_color_border = "336699";
     <div class="leftTitles"> &nbsp;<img src="images/search.jpg" border="0px"> 
 	  <form action="multi.php" method="post" name="searchfrm" style="display:inline">
 		<br> &nbsp;<input name="keyword" size="25" type="text"> &nbsp;
-		<a href="javascript:document.searchfrm.submit();"><img src="images/ok_btn.gif" alt="" border="0" height="18" width="26"></a>
+		<a href="javascript:document.searchfrm.submit();" style="font-size: 18px;"><img src="images/ok_btn.gif" alt="" border="0" height="18" width="26"></a>
 		<input name="search" value="search" type="hidden">
 		</form>	
     <div><img class="newsimg" src="images/bottomside.jpg" alt=""></div>	  
@@ -174,7 +281,7 @@ google_color_border = "336699";
         <div class="div2">
         <!-- Hotlinks content here-->
 		<p><span class="bluelink">
-			</span></p><li><a href="http://www.epanorama.net/schematics.php?url=http://www.epanorama.rackhost.net/schematicsforfree/Power%20Electronics/Batteries_and_Battery_Chargers/Battery%20Tester.pdf">Battery Tester</a>
+			</span></p><li><a href="http://www.epanorama.net/schematics.php?url=http://www.epanorama.rackhost.net/schematicsforfree/Test_equipment/Generators/Pulse_Burst_Generator.gif" style="font-size: 18px;">Pulse Burst Generator</a>
 		<p></p>
         </li></div>
       </center>
@@ -186,6 +293,7 @@ google_color_border = "336699";
 
 	<!-- Google Ad. section begins -->
   </div>
+ </div>
   <div id="mainContent">
 	<span class="btext">
 <h4>ePanorama.net - - Privacy Policy
@@ -213,16 +321,16 @@ For each visitor to www.epanorama.net, our Web server automatically recognizes y
 <br><br>
 <h2>Information Collected by Advertisement System</h2>
 The web advertisements in www.epanorama.net are operated by 
-<a href="http://www.fastclick.com/">Fastclick.com</a>.
+<a href="http://www.fastclick.com/" style="font-size: 18px;">Fastclick.com</a>.
 You can read
-their <a href="http://www.fastclick.com/about/privacy2.html">Privacy Statement</a> for information what information they collect and how it is handled.
+their <a href="http://www.fastclick.com/about/privacy2.html" style="font-size: 18px;">Privacy Statement</a> for information what information they collect and how it is handled.
 Fastclick does not engage in the collection, distribution, sale or use of personally identifiable information about Web Users, such as email address, name, phone number and street address. 
 All web user data collected by Fastclick as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. 
 <br><br>
 <h2>Who to Contact</h2>
 Please e-mail questions or requests for more information about ePanorama.net's privacy policies and initiatives to:
 <br>
-<a href="mailto:webmaster@epanorama.net">webmaster@epanorama.net</a>
+<a href="mailto:webmaster@epanorama.net" style="font-size: 18px;">webmaster@epanorama.net</a>
 <br><br>
 <!-- END -->
   </div>
@@ -249,7 +357,7 @@ google_color_border = "336699";
   </div>
   <center>
 
-    <div style="padding-left:25px; width:730px;">| <a href="submitSite.php" class="btext">Submit site</a> | <a href="/index.php?index=info" class="btext">Info</a> | <a href="/index.php?index=advertising" class="btext">Advertise</a> | <a href="mailto:webmaster@epanorama.net?subject=Feedback" class="btext">Feedback</a> | <a href="/index.php?index=disclaimer" class="btext">Disclaimer</a> | <a href="/index.php?index=privacy" class="btext">Privacy</a> | <a href="/index.php?index=ad_faq" class="btext">Ad. FAQ</a> | <a href="/index.php?index=terms" class="btext">Legal Notice</a> |</div>
+    <div style="padding-left:25px; width:730px;">| <a href="submitSite.php" class="btext" style="font-size: 18px;">Submit site</a> | <a href="/index.php?index=info" class="btext" style="font-size: 18px;">Info</a> | <a href="/index.php?index=advertising" class="btext" style="font-size: 18px;">Advertise</a> | <a href="mailto:webmaster@epanorama.net?subject=Feedback" class="btext" style="font-size: 18px;">Feedback</a> | <a href="/index.php?index=disclaimer" class="btext" style="font-size: 18px;">Disclaimer</a> | <a href="/index.php?index=privacy" class="btext" style="font-size: 18px;">Privacy</a> | <a href="/index.php?index=ad_faq" class="btext" style="font-size: 18px;">Ad. FAQ</a> | <a href="/index.php?index=terms" class="btext" style="font-size: 18px;">Legal Notice</a> |</div>
     <div style="padding-left:25px; width:730px;" class="btext">Copyright © 1994-2007</div> <!-- Copyright Section -->
   </center>
 </div>
