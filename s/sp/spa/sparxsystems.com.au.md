@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the sparxsystems.com.au privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626231311id_/http%3A//www.sparxsystems.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxsystems.com.au privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211081340id_/http%3A//www.sparxsystems.com.au/privacy.html) for the most accurate reproduction.*
 
 # Sparx Systems - Privacy Statement
+
+| 
+
+  * [](https://web.archive.org/index.html)
+  * Privacy Statement
+
+
 
 Your privacy is important to Sparx Systems (“Sparx”). This statement discloses the information practices for Sparx’s Web Sites (“Sites”), including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
@@ -38,4 +45,6 @@ Sparx’s Sites may contain links to other Sites. Sparx is not responsible for t
 
 Contacting Us
 
-Sparx welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us on [support@sparxsystems.com.au](mailto:support@sparxsystems.com.au)
+Sparx welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us on [support@sparxsystems.com](mailto:support@sparxsystems.com)  
+  
+---|---
