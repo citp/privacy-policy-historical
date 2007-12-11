@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616174501id_/http%3A//www.suzukicycles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211162057id_/http%3A//www.suzukicycles.com/Privacy) for the most accurate reproduction.*
 
 # The Official Site of Suzuki® Motorcycles, Quadrunner ATVs and Scooters
 
