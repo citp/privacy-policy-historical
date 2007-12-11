@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624100436id_/http%3A//www.fhmonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211164305id_/http%3A//www.fhmonline.com/privacy.asp) for the most accurate reproduction.*
 
-# FHM Online - The Premier Online Mens Magazine in the US.
+# FHM Online - The Premiere Online Mens Magazine in the U.S.
 
 FHM and FHMus.com are committed to protecting the privacy of personally identifiable information collected about you. We have established this Privacy Policy to help you understand how we intend to treat the information you provide to FHMus.com 
 
