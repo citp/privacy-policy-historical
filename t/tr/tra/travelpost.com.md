@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502084128id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211220212id_/http%3A//travelpost.com/privacy.aspx) for the most accurate reproduction.*
 
 # TravelPost.com Privacy Policy
 
