@@ -1,9 +1,361 @@
-<!--The following is the downloaded HTML source of the concept2.com privacy policy that was archived on 2007-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070429123820id_/http%3A//www.conceptii.com/us/company/contact/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concept2.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211033339id_/http%3A//www.conceptii.com/us/company/contact/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
+<!--us/common.inc-->
 
+
+
+
+
+
+
+<style type="text/css">
+
+<!--
+
+
+
+.tooltiptitle{COLOR: #000000; TEXT-DECORATION: none; CURSOR: Default; font-family: verdana; font-weight: bold; font-size: 8pt}
+
+.tooltipcontent{COLOR: #000000; TEXT-DECORATION: none; CURSOR: Default; font-family: verdana; font-size: 8pt}
+
+
+
+#ToolTip{position:absolute; width: 50px; top: 0px; left: 0px; z-index:4; visibility:hidden;}
+
+
+
+.NArial   {font-family: arial; font-size: 10pt}
+
+.NArialL  {font-family: arial; font-size: 12pt}
+
+.NArialS  {font-family: arial; font-size: 8pt}
+
+.NArialW  {COLOR: #FFFFFF; font-family: arial; font-size: 10pt}
+
+
+
+
+
+
+
+-->
+
+</style>
+
+<script language="javascript">
+
+<!--
+
+
+
+
+
+
+
+
+
+var topColor, subColor, ContentInfo;
+
+
+
+
+
+ContentInfo = "";
+
+
+
+
+
+
+
+topColor = "#AFC61C"
+
+subColor = "#F7FCDC"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var mouse_X;
+
+var mouse_Y;
+
+
+
+var tip_active = 0;
+
+
+
+
+
+
+
+function update_tip_pos(){
+
+
+
+		document.getElementById('ToolTip').style.left = mouse_X + 10;
+
+		document.getElementById('ToolTip').style.top  = mouse_Y;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+var ie = document.all?true:false;
+
+if (!ie) document.captureEvents(Event.MOUSEMOVE)
+
+document.onmousemove = getMouseXY;
+
+
+
+function getMouseXY(e) {
+
+if (ie) { // grab the x-y pos.s if browser is IE
+
+mouse_X = event.clientX + document.body.scrollLeft;
+
+mouse_Y = event.clientY + document.body.scrollTop;
+
+}
+
+else { // grab the x-y pos.s if browser is NS
+
+mouse_X = e.pageX;
+
+mouse_Y = e.pageY;
+
+}
+
+if (mouse_X < 0){mouse_X = 0;}
+
+if (mouse_Y < 0){mouse_Y = 0;}
+
+
+
+if(tip_active){update_tip_pos();}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function EnterContent(TTitle, TContent){
+
+
+
+ContentInfo = '<table border="0" width="260" cellspacing="0" cellpadding="2">'+
+
+'<tr><td width="100%" bgcolor="#000000">'+
+
+
+
+'<table border="0" width="100%" cellspacing="1" cellpadding="2">'+
+
+'<tr><td width="100%" bgcolor='+topColor+'>'+
+
+
+
+'<table border="0" width="90%" cellspacing="0" cellpadding="2" align="center">'+
+
+'<tr><td width="100%">'+
+
+
+
+'<font class="tooltiptitle">&nbsp;'+TTitle+'</font>'+
+
+
+
+'</td></tr>'+
+
+'</table>'+
+
+
+
+'</td></tr>'+
+
+
+
+'<tr><td width="100%" bgcolor='+subColor+'>'+
+
+
+
+'<table border="0" width="90%" cellpadding="2" cellspacing="1" align="center">'+
+
+
+
+'<tr><td width="100%">'+
+
+
+
+'<font class="tooltipcontent">'+TContent+'</font>'+
+
+
+
+'</td></tr>'+
+
+'</table>'+
+
+
+
+'</td></tr>'+
+
+'</table>'+
+
+
+
+'</td></tr>'+
+
+'</table>';
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function tip_it(which, TTitle, TContent){
+
+
+
+	
+
+	if(which){
+
+	
+
+		update_tip_pos();
+
+	
+
+		tip_active = 1;
+
+		
+
+		document.getElementById('ToolTip').style.visibility = "visible";
+
+		
+
+		EnterContent(TTitle, TContent);
+
+		
+
+		document.getElementById('ToolTip').innerHTML = ContentInfo;
+
+	
+
+	}else{
+
+	
+
+		tip_active = 0;
+
+	
+
+		document.getElementById('ToolTip').style.visibility = "hidden";
+
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//-->
+
+</script>
+
+
+
+
+
+<!--us/common.inc-->
 
 
 
@@ -22,6 +374,8 @@
 <body>
 
 <div id="wrap">
+
+<div id="ToolTip"></div>
 
 <div id="header">
 
@@ -43,17 +397,21 @@
 
 <input type="hidden" name="sp-t" value="us">
 
-<!--<input type="text" name="sp-q" size="11" id="textsearch" value="" />-->
+<input type="text" name="sp-q" size="11" id="textsearch" value="">
 
 </form></td>
 
-<td id="searchlink" valign="top"><a href="javascript:SearchSubmit()">Site Search</a></td>
+<td id="searchlink" valign="top"><a href="javascript:SearchSubmit()">Search</a></td>
 
-<td id="smworld" valign="top"><a href="/us/company/contact/international_contacts.asp"><img src="/us/images/sm_world.gif" width="51" height="26" alt="world map"></a></td>
+<td id="smworld" valign="top"><a href="/us/company/contact/international_contacts.asp"><img src="/us/images/sm_world.gif" width="51" height="26" alt="world map"></a>
 
-</tr>
+</td></tr></tbody></table></div>
 
-</tbody></table></div>
+<table align="right"><tbody><tr><td valign="top" id="buyonlinehomepage"><br><br><a href="/us/includes/shoppers.asp">BUY ONLINE</a> OR CALL<br><font size="+1">800.245.5676</font></td>
+
+<td width="20">&nbsp;</td></tr></tbody></table>
+
+
 
 <div id="logo"><a href="/us/default.asp"><img src="/us/images/logo48.jpg" alt="Concept2 Rowing logo"></a></div>
 
@@ -82,19 +440,23 @@
 
 
 
-<td onmouseover="chgBg(m1,'m1tlm1',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm1',0,1)" id="m1tlm1" style="background-color:#ABBD26;" class="m1mit"><a href="/us/shop/addprod.asp">Cart Empty</a></td>
+<td onmouseover="chgBg(m1,'m1tlm1',3);exM(m1,'m1mn2','m1tlm1',event)" onmouseout="chgBg(m1,'m1tlm1',0);coM(m1,'m1mn2')" id="m1tlm1" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm1a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//onthewater" hbxrootmenuorientation="down">On-Water<br>Rowing<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
 
 
 
-<td onmouseover="chgBg(m1,'m1tlm2',3);exM(m1,'m1mn2','m1tlm2',event)" onmouseout="chgBg(m1,'m1tlm2',0);coM(m1,'m1mn2')" id="m1tlm2" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm2a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Commercial" hbxrootmenuorientation="down">Commercial Solutions<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
 
-<td onmouseover="chgBg(m1,'m1tlm3',3);exM(m1,'m1mn3','m1tlm3',event)" onmouseout="chgBg(m1,'m1tlm3',0);coM(m1,'m1mn3')" id="m1tlm3" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm3a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Motivation" hbxrootmenuorientation="down">Motivation &amp; Community<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
 
-<td onmouseover="chgBg(m1,'m1tlm4',3);exM(m1,'m1mn4','m1tlm4',event)" onmouseout="chgBg(m1,'m1tlm4',0);coM(m1,'m1mn4')" id="m1tlm4" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm4a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Training" hbxrootmenuorientation="down">Training &amp; Competition<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+<td onmouseover="chgBg(m1,'m1tlm2',3);exM(m1,'none','',event)" onmouseout="chgBg(m1,'m1tlm1',0,1)" id="m1tlm1" style="background-color:#ABBD26;" class="m1mit"><a href="/us/includes/shoppers.asp">Shop Online</a></td>
 
-<td onmouseover="chgBg(m1,'m1tlm5',3);exM(m1,'m1mn5','m1tlm5',event)" onmouseout="chgBg(m1,'m1tlm5',0);coM(m1,'m1mn5')" id="m1tlm5" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm5a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Support" hbxrootmenuorientation="down">Service &amp; Support<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+<td onmouseover="chgBg(m1,'m1tlm3',3);exM(m1,'m1mn3','m1tlm3',event)" onmouseout="chgBg(m1,'m1tlm3',0);coM(m1,'m1mn3')" id="m1tlm3" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm3a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Commercial" hbxrootmenuorientation="down">Commercial Solutions<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
 
-<td onmouseover="chgBg(m1,'m1tlm6',3);exM(m1,'m1mn6','m1tlm6',event)" onmouseout="chgBg(m1,'m1tlm6',0);coM(m1,'m1mn6')" id="m1tlm6" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm6a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Company" hbxrootmenuorientation="down">Company<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+<td onmouseover="chgBg(m1,'m1tlm4',3);exM(m1,'m1mn4','m1tlm4',event)" onmouseout="chgBg(m1,'m1tlm4',0);coM(m1,'m1mn4')" id="m1tlm4" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm4a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Motivation" hbxrootmenuorientation="down">Motivation &amp; Community<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+
+<td onmouseover="chgBg(m1,'m1tlm5',3);exM(m1,'m1mn5','m1tlm5',event)" onmouseout="chgBg(m1,'m1tlm5',0);coM(m1,'m1mn5')" id="m1tlm5" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm5a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Training" hbxrootmenuorientation="down">Training &amp; Competition<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+
+<td onmouseover="chgBg(m1,'m1tlm6',3);exM(m1,'m1mn6','m1tlm6',event)" onmouseout="chgBg(m1,'m1tlm6',0);coM(m1,'m1mn6')" id="m1tlm6" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm6a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Support" hbxrootmenuorientation="down">Service &amp; Support<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
+
+<td onmouseover="chgBg(m1,'m1tlm7',3);exM(m1,'m1mn7','m1tlm7',event)" onmouseout="chgBg(m1,'m1tlm7',0);coM(m1,'m1mn7')" id="m1tlm7" style="background-color:#ABBD26;" class="m1mit"><a id="m1tlm7a" class="m1CL0" href="javascript:void(0);" hbxrootmenuid="//Company" hbxrootmenuorientation="down">Company<img width="8" height="8" src="/us/js/menu_two_m1iad.gif" style="vertical-align:middle;border-style:none" alt=""></a></td>
 
 
 
@@ -260,73 +622,150 @@ Company &gt; <a href="/us/company/contact/default.asp">Contact Us</a> &gt; Priva
 
 <no-index>
 
-<div id="footerlinks">2006 CONCEPT2 INC.<br>VERMONT, USA 800.245.5676 or 802.888.7971<br>CUSTOMER SERVICE: <a href="mailto:rowing@concept2.com">rowing@concept2.com</a>&nbsp;&nbsp;&nbsp;WEBMASTER: <a href="mailto:website_comments@concept2.com">website_comments@concept2.com</a>&nbsp;&nbsp;&nbsp;<a href="http://www.conceptii.com/us/company/contact/privacy.asp">PRIVACY POLICY</a><br><a href="http://www.concept2.com/us/us_sitemap_2_9_07.asp">Site Map for search engines</a></div></no-index></div>
+<div id="footerlinks">2006 CONCEPT2 INC.<br>VERMONT, USA 800.245.5676 or 802.888.7971<br>CUSTOMER SERVICE: <a href="mailto:rowing@concept2.com">rowing@concept2.com</a>&nbsp;&nbsp;&nbsp;WEBMASTER: <a href="mailto:website_comments@concept2.com">website_comments@concept2.com</a>&nbsp;&nbsp;&nbsp;<a href="http://www.concept2.com/us/company/contact/privacy.asp">PRIVACY POLICY</a><br><a href="http://www.concept2.com/us/us_sitemap_2_9_07.asp">Site Map for search engines</a></div></no-index></div>
 
 
 
  
 
 <!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+
 <!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
 <script language="javascript">
+
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+
 var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-concept2.hitbox.com";
 
+
+
 //BEGIN EDITABLE SECTION
+
 //CONFIGURATION VARIABLES
+
 hbx.acct="DM520421ONNA58EN3";//ACCOUNT NUMBER(S)
+
 hbx.pn="";//PAGE NAME(S)
+
 hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+
 hbx.pndef="title";//DEFAULT PAGE NAME
+
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 
+
+
 //OPTIONAL PAGE VARIABLES
+
 //ACTION SETTINGS
+
 hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+
 hbx.lt="auto";//LINK TRACKING
+
 hbx.dlf="n";//DOWNLOAD FILTER
+
 hbx.dft="n";//DOWNLOAD FILE NAMING
+
 hbx.elf="n";//EXIT LINK FILTER
 
+
+
 //SEGMENTS AND FUNNELS
+
 hbx.seg="";//VISITOR SEGMENTATION
+
 hbx.fnl="";//FUNNELS
 
+
+
 //CAMPAIGNS
+
 hbx.cmp="";//CAMPAIGN ID
+
 hbx.cmpn="";//CAMPAIGN ID IN QUERY
+
 hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+
 hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+
 hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+
 hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+
 hbx.hra="";//RESPONSE ATTRIBUTE
+
 hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+
 hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+
 hbx.hlt="";//LEAD TRACKING
+
 hbx.hla="";//LEAD ATTRIBUTE
+
 hbx.gp="";//CAMPAIGN GOAL
+
 hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+
 hbx.hcn="";//CONVERSION ATTRIBUTE
+
 hbx.hcv="";//CONVERSION VALUE
+
 hbx.cp="null";//LEGACY CAMPAIGN
+
 hbx.cpd="";//CAMPAIGN DOMAIN
 
+
+
 //CUSTOM VARIABLES
+
 hbx.ci="";//CUSTOMER ID
+
 hbx.hc1="";//CUSTOM 1
+
 hbx.hc2="";//CUSTOM 2
+
 hbx.hc3="";//CUSTOM 3
+
 hbx.hc4="";//CUSTOM 4
+
 hbx.hrf="";//CUSTOM REFERRER
+
 hbx.pec="";//ERROR CODES
+
+
 
 //INSERT CUSTOM EVENTS
 
+
+
 //END EDITABLE SECTION
 
+
+
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+
 </script><script language="javascript1.1" defer="" src="http://www.concept2.com/us/js/hbx.js"></script>
+
 <!--END WEBSIDESTORY CODE-->
+
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+
+_uacct = "UA-383575-1";
+
+urchinTracker();
+
+</script>
+
+
+
 
 
 </div>
