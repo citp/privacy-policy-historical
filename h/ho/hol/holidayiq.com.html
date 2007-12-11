@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the holidayiq.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623033001id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holidayiq.com privacy policy that was archived on 2007-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211060514id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 	<title>HolidayIQ | Home</title>
@@ -14,40 +14,207 @@
 
 </head>
 <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<!-- Annie :: DHTML POPUP-->
+<style type="text/css">
+#fadeinbox{
+position:absolute;
+border: 2px solid #32A604 ;
+background-color: #32A604 ;
+z-index: 100;
+visibility:hidden;
+}
+</style>
+<script type="text/javascript">
+
+/***********************************************
+* Sticky Note script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit DynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+* Go to http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Specify display mode. 3 possible values are:
+//1) "always"- This makes the fade-in box load each time the page is displayed
+//2) "oncepersession"- This uses cookies to display the fade-in box only once per browser session
+//3) integer (ie: 5)- Finally, you can specify an integer to display the box randomly via a frequency of 1/integer...
+// For example, 2 would display the box about (1/2) 50% of the time the page loads.
+
+var displaymode1="oncepersession"
+
+var enablefade="no" //("yes" to enable fade in effect, "no" to disable)
+var autohidebox="no"
+//var autohidebox=["yes", 10] //Automatically hide box after x seconds? [yes/no, if_yes_hide_after_seconds]
+var showonscroll1="no" //Should box remain visible even when user scrolls page? ("yes"/"no)
+var IEfadelength=1 //fade in duration for IE, in seconds
+var Mozfadedegree=0.05 //fade in degree for NS6+ (number between 0 and 1. Recommended max: 0.2)
+
+////////No need to edit beyond here///////////
+
+if (parseInt(displaymode1)!=NaN)
+var random_num=Math.floor(Math.random()*displaymode1)
+
+
+
+function mozfadefx(){
+if (parseFloat(objref1.style.MozOpacity)<1)
+objref1.style.MozOpacity=parseFloat(objref1.style.MozOpacity)+Mozfadedegree
+else{
+clearInterval(mozfadevar)
+controlledhidebox()
+}
+}
+
+function staticfadebox(){
+var ie=document.all && !window.opera
+var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
+objref1.style.top=scroll_top+docheight/2-objheight/2+"px"
+}
+
+function hidefadebox(){
+objref1.style.visibility="hidden"
+if (typeof showonscrollvar1!="undefined")
+clearInterval(showonscrollvar1)
+}
+
+function controlledhidebox(){
+if (autohidebox[0]=="yes"){
+var delayvar=(enablefade=="yes" && objref1.filters)? (autohidebox[1]+objref1.filters[0].duration)*1000 : autohidebox[1]*1000
+setTimeout("hidefadebox()", delayvar)
+}
+}
+
+function initfunction(){
+setTimeout("displayfadeinbox()", 100)
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+if (displaymode1=="oncepersession" && get_cookie("fadedin")=="" || displaymode1=="always" || parseInt(displaymode1)!=NaN && random_num==0){
+if (window.addEventListener)
+window.addEventListener("load", initfunction, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initfunction)
+else if (document.getElementById)
+window.onload=initfunction
+//document.cookie="fadedin=yes"
+document.cookie="fadedin=yes;path=/"
+}
+
+//once the message window is closed, it should not be displayed again --add the foll code, hide the above, displaymode1="always" 
+/*
+if (get_cookie("fadedin")=="" && displaymode1=="always" || parseInt(displaymode1)!=NaN && random_num==0){
+alert("This is first");
+if (window.addEventListener)
+window.addEventListener("load", initfunction, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initfunction)
+else if (document.getElementById)
+window.onload=initfunction
+document.cookie="fadedin=yes"
+}
+*/
+
+
+
+</script>
+
+<!-- Annie::End DHTML POPUP-->
+
 <script language="javascript" src="scripts/login_validate.js"></script>
+
+<script>
+	function gotoresourcefolderpage(gotoFile, uri)
+	{
+		//alert("Hi");
+		var gotoloc = "";
+		var isTrue = false;
+		//alert(gotoFile);
+
+		if((uri.indexOf("states") != -1) || (uri.indexOf("destinations") != -1))
+		{
+			gotoloc = "../"+gotoFile;	
+			isTrue = true;
+		}
+
+		if((uri.indexOf("experiences") != -1) || (uri.indexOf("itineraries") != -1) || (uri.indexOf("photos") != -1) || (uri.indexOf("reviews") != -1))
+		{
+			gotoloc ="../../"+gotoFile;
+			isTrue = true;
+		}
+
+		if( !isTrue )
+		{
+			gotoloc = gotoFile;
+		}
+
+		//alert(gotoloc);
+		window.location.href=gotoloc;
+	}
+</script>
 
 
 
 <script language="JavaScript" src="javascript/new_nav.js"></script>
 
+<script language="JavaScript" src="http://www.holidayiq.com/javascript/others_popup.js"></script>
+<!-- Annie :: POPUP -->
+<div id="fadeinbox" style="filter:progid:DXImageTransform.Microsoft.RandomDissolve(duration=1) progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135) ; -moz-opacity:0">
+
+<table cellpadding="0" cellspacing="0">
+<tbody><tr><td class="copy" align="right" style="color: white;font-family: verdana;font-size: 10px"><a href="#" onclick="hidefadebox();return false" style="color: white;font-family: verdana;font-size: 10px"><b>Close X<b></b></b></a></td></tr>
+
+<tr><td colspan="2" style="color: white;font-family: verdana;font-size: 10px">
+<a href="http://www.holidayiq.com/xchangelanding.php?cp=contestlandingpage&amp;sl=popup"><img src="http://www.holidayiq.com/images/home_ad_logo.jpg" border="0"></a></td></tr>
+</tbody></table>
+</div>
+<!-- Annie :: End POPUP -->
 
 <map name="Map">
-	<area shape="rect" coords="1,-3,70,11" href="forgotpass.php" alt="Forgot password?" title="Forgot password?">
-	<area shape="rect" coords="1,11,71,23" href="registration.php" alt="New User Register Free" title="New User Register Free">
+	<area shape="rect" coords="1,-3,70,11" onclick="gotoresourcefolderpage('forgotpass.php', '/privacypolicy.php')" alt="Forgot password?" title="Forgot password?">
+	<area shape="rect" coords="1,11,71,23" onclick="gotoresourcefolderpage('registration.php', '/privacypolicy.php')" alt="New User Register Free" title="New User Register Free">
   </map><table width="960" border="0" cellspacing="0" cellpadding="0">
 
- <tbody><tr align="right">
-  <td colspan="3" height="1"><img src="images/spacer.gif" width="1" height="1"></td>
- </tr>
-
-  
-  <tr align="right">
-	<td colspan="3" height="15"><img src="images/spacer.gif" width="1" height="15"></td>
-  </tr>
-  <tr>
-	<form name="login" method="post" action="logincheck.php" onsubmit="return validatelogin(this)"></form>
-	<td><img src="images/logo-iq-holiday.gif" alt="HolidayIQ – India’s largest travel community" width="165" height="47"></td>
-	<td>&nbsp;&nbsp;&nbsp;<a href="wildlifepdflandings.php?cp=wildlifeguide&amp;sl=banner&amp;page=/privacypolicy.php"><img src="images/wildlifebanner_3_updated.jpg" alt="HolidayIQ - Free Guide to Wildlife Sanctuaries" width="470" height="70" border="0"></a></td>
     
+  <tbody><tr valign="top">
+	<form name="login" method="post" action="logincheck.php" onsubmit="return validatelogin(this)"></form>
+	<td><a href="http://www.holidayiq.com/home.php"><img src="images/logo-iq-holiday.gif" alt="HolidayIQ - Formerly India Resorts Survey" width="165" height="47" border="0"></a></td>
+	<td valign="top">
+	<table width="100%" align="center" border="0" valign="top">
+	  <tbody><tr valign="top"><td><img src="images/spacer.gif" width="15"> </td>
+	      <td>
+			<!-- begin ZEDO for channel: Header Banner , publisher: default , Ad Dimension: Full Banner - 468 x 60 -->
+				<script language="JavaScript">
+				var zflag_nid="733"; var zflag_cid="72"; var zflag_sid="0"; var zflag_width="468"; var zflag_height="60"; var zflag_sz="0"; 
+				</script>
+				<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+			<!-- end ZEDO for channel: Header Banner , publisher: default , Ad Dimension: Full Banner - 468 x 60 -->
+		 </td>
+     </tr>
+	</tbody></table>
+	</td>
 	<td align="right" valign="top" class="small">
-	<table cellspacing="0" cellpadding="0" width="320" border="0">
+	<table cellspacing="0" cellpadding="0" width="290" border="0">
 	<tbody>
 	  <tr>
-		<td class="smallcopy" valign="center" width="72"></td>
-		<td class="smallcopy" valign="center" align="left" width="74">
+		
+		<td class="smallcopy" valign="center" align="left" width="60">
 		<input name="email_id" type="text" class="login" value="Email ID" size="10" onfocus="if (this.value='Email ID'){this.value='';} ">
 		</td>
-		<td class="smallcopy" valign="center" align="left" width="74">
+		<td class="smallcopy" valign="center" align="left" width="60">
 		<input name="password" type="password" class="login" value="password" size="10" onfocus="if (this.value='password'){this.value='';} ">
 		</td>
 		<td valign="center" align="left" width="23">
@@ -55,30 +222,17 @@
 		<input id="ref_page22" type="hidden" value="/privacypolicy.php" name="ref_page">
 		</td>
 		<td valign="center" align="right" width="82">
-		<img height="22" src="images/imagemap.gif" width="70" usemap="#Map" border="0">
+		<img style="cursor:pointer" height="22" src="images/imagemap.gif" width="70" usemap="#Map" border="0">
 		</td>
 	  </tr>
-	  <tr><td>&nbsp;</td></tr>
-	<tr><td colspan="5" align="right"><!--<A style="cursor:hand" onclick="javascript:window.location.href='mailers/hiqpreview.html';"><font color="red" face="Arial, Helvetica, sans-serif" size="2"><b>CEO's Message</b></font></A>--></td></tr>
+	  <!-- <tr><td>&nbsp;</td></tr> -->
+	<!-- <tr><td colspan="5" align="right"> --><!--<A style="cursor:hand" onclick="javascript:window.location.href='mailers/hiqpreview.html';"><font color="red" face="Arial, Helvetica, sans-serif" size="2"><b>CEO's Message</b></font></A>--><!-- </td></tr> -->
 	</tbody>
 	</table>
 	</td>
 	
-	<!-- <td colspan="2" align="right" class="smallcopy">
-	<input name="email_id" type="text" class="login" value="Email ID" size="10" onFocus="if (this.value='Email ID'){this.value='';} ">
-	</td>
-	
-	<td colspan="2" align="right" class="smallcopy">
-	<input name="password" type="password" class="login" value="password" size="10" onFocus="if (this.value='password'){this.value='';} ">
-	&nbsp; </td>
-	<td width="23" align="left" valign="middle">
-	<input name="image22" type="image" value="submit" src="img/MnGobutton.gif" align="middle" width="20" height="13" border="none">
-	<input name="ref_page" type="hidden" id="ref_page22" value="/privacypolicy.php"></td>
-	<td width="82" align="right" valign="middle"><img src="img/topbar/imagemap.gif" width="70" height="22" border="0" usemap="#Map">
-	</td>-->
-	
   </tr>
-  
+    
   
 			
   
@@ -90,19 +244,19 @@
 
 <tr>
 
-
-
 <td colspan="3">
 	<!-- main links start -->
 	<table width="960" border="0" cellpadding="0" cellspacing="0">
 	  <tbody><tr>
 
 
-<td width="89"><a href="home.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('homer1','','images/btn_home_on.gif',1)"><img src="images/btn_home_off.gif" alt="Home" width="89" height="20" border="0" name="homer1"></a></td>
+<td width="89"><a onclick="gotoresourcefolderpage('home.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('homer1','','images/btn_home_on.gif',1)"><img src="images/btn_home_off.gif" alt="Home" width="89" height="20" border="0" name="homer1"></a></td>
 
 
 
-<td width="89"><a href="findresort.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('find2','','images/hotels_on.gif',1)"><img src="images/hotels.gif" alt="Find a Hotel" width="89" height="20" border="0" name="find2" id="find"></a></td>
+
+<td width="89"><a onclick="gotoresourcefolderpage('findadestinationnew.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('use2','','images/btn_destinations_on.gif',1)"><img src="images/btn_destinations_off.gif" alt="Destinations" width="89" height="20" border="0" name="use2" id="use"></a></td>
+
 
 
 <!-- 
@@ -111,34 +265,34 @@
  -->
 
 
-<td width="89"><a href="findadestinationnew.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('use2','','images/btn_destinations_on.gif',1)"><img src="images/btn_destinations_off.gif" alt="Destinations" width="89" height="20" border="0" name="use2" id="use"></a></td>
+<td width="89"><a onclick="gotoresourcefolderpage('India-Hotels-Resorts-Vacations.html', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('find2','','images/hotels_on.gif',1)"><img src="images/hotels.gif" alt="Find a Hotel" width="89" height="20" border="0" name="find2" id="find"></a></td>
 
 
 
-<td width="89"><a href="destination_photographs.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('howrate2','','images/btn_photographs_on.gif',1)"><img src="images/btn_photographs_off.gif" alt="Photographs" width="89" height="20" border="0" name="howrate2" id="howrate"></a></td>
+
+<td width="89"><a onclick="gotoresourcefolderpage('destination_photographs.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('howrate2','','images/btn_photographs_on.gif',1)"><img src="images/btn_photographs_off.gif" alt="Photographs" width="89" height="20" border="0" name="howrate2" id="howrate"></a></td>
 
 
-<td width="89"><a href="connectiq.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('community2','','images/community_on.gif',1)"><img src="images/community.gif" alt="Community" width="89" height="20" border="0" name="community2" id="community"></a></td>
+<td width="89"><a onclick="gotoresourcefolderpage('connectiq.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('community2','','images/community_on.gif',1)"><img src="images/community.gif" alt="Community" width="89" height="20" border="0" name="community2" id="community"></a></td>
 
  
 
-<td width="89"><a href="activeholidays_index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('MnNavi8','','images/btn_adventures_on.gif',1)"><img src="images/btn_adventures_off.gif" alt="Adventure" width="89" height="20" border="0" name="MnNavi8"></a></td>
+<td width="89"><a onclick="gotoresourcefolderpage('activeholidays_index.php', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('MnNavi8','','images/btn_adventures_on.gif',1)"><img src="images/btn_adventures_off.gif" alt="Adventure" width="89" height="20" border="0" name="MnNavi8"></a></td>
 
-<td width="427" height="10" style="background-image:url(images/color_band.gif); background-repeat:y;">&nbsp;</td>
+
+
+	<td width="117"><a onclick="gotoresourcefolderpage('forumindex.php', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('MnNavi9','','images/btn_xchange_on.gif',1)"><img src="images/btn_xchange_off.gif" alt="XChange" width="117" height="20" border="" name="MnNavi9" id="MnNavi"></a></td>
+					
+
+<!--<td width="427" height="10" style="background-image:url(images/color_band.gif); background-repeat:y;">&nbsp;</td>-->
+<td width="310"><img src="images/color_band.gif" alt="Forum" width="310" height="20" border="" name="colorband"></td>
 
 	</tr>
   </tbody></table>						
 	<!-- main links ends -->
 </td>
 </tr>
-
-</tbody></table>
-
-
-
-
-
-<form name="irs">
+</tbody></table><form name="irs">
 <!--Main contents starts here-->
 <table width="1000" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -231,19 +385,36 @@
  </tr>
 </tbody></table>
 </form>
-<table width="790" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr><td colspan="2"><img src="./img/b3b3b3.gif" border="0" height="40" width="1"></td></tr>
+<table width="855" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+      <td width="18" rowspan="5">&nbsp;</td>
+      <td><img src="/img/b3b3b3.gif" border="0" height="15" width="1"></td>
+    </tr>
 	<tr>
-		<td rowspan="4"><img src="./img/b3b3b3.gif" width="140" height="1"></td>
-		<td class="link" height="18" valign="middle" align="left" width="650"><a href="joinus.php" class="link">Join Us</a> | <a href="forpropertiesdec.php" class="link">For Properties</a> | <a href="BusinessEnquiry.php" class="link">Business Enquiry</a> | <a href="feedback.php" class="link">Feedback</a> | <a href="forthepress.php">For Press</a> | <a href="addresort.php">Add a Hotel</a> | <a href="cpc_ads_why_ires.php">Advertise with Us</a> | <a href="usefullinks.php" class="link">Useful Links</a> </td>
+	  <td class="link" height="18" valign="middle" align="left">
+		<a onclick="gotoresourcefolderpage('forpropertiesdec.php', '/privacypolicy.php')" style="cursor:pointer" class="link">For Properties</a> | 
+		<a onclick="gotoresourcefolderpage('BusinessEnquiry.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Business Enquiry</a> | 
+		<a onclick="gotoresourcefolderpage('feedback.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Feedback</a> | 
+		<a onclick="gotoresourcefolderpage('forthepress.php', '/privacypolicy.php')" style="cursor:pointer">For Press</a> | 
+		<a onclick="gotoresourcefolderpage('addresort.php', '/privacypolicy.php')" style="cursor:pointer">Add a Hotel</a> | 
+		<a onclick="gotoresourcefolderpage('cpc_ads_why_ires.php', '/privacypolicy.php')" style="cursor:pointer">Advertise with Us</a> | <a onclick="gotoresourcefolderpage('usefullinks.php', '/privacypolicy.php')" style="cursor:pointer">Useful Links</a> | <a onclick="gotoresourcefolderpage('explain.php#symbol', '/privacypolicy.php')" style="cursor:pointer">Rating Explained</a> | 
+		<a onclick="gotoresourcefolderpage('whatsnew.php', '/privacypolicy.php')" style="cursor:pointer" class="link">What's New</a>
+	  </td>
 	</tr>
 	<tr>
-		<td bgcolor="#E5E5E5"><img src="./img/b3b3b3.gif" width="1" height="1"></td>
+	  <td bgcolor="#E5E5E5"><img src="/img/b3b3b3.gif" width="1" height="1"></td>
 	</tr>
-	<tr><td><img src="./img/b3b3b3.gif" width="1" height="3"></td></tr>
 	<tr>
-		<td valign="top" class="copy">© Copyright 2005-06. Leisure &amp; Lifestyle Information Services Pvt. Ltd. All rights reserved.<br>
-          <a href="aboutus.php" class="link">About Us</a> | <a href="contactus.php" class="link">Contact Us</a> | <a href="terms.php" class="link">Terms of Use</a> <font class="link">|</font> <a href="privacypolicy.php" class="link">Privacy Policy</a> <font class="link">|</font> <a href="Disclaimer.php" class="link">Disclaimer</a><br>
+	  <td><img src="/img/b3b3b3.gif" width="1" height="3"></td>
+	</tr>
+	<tr>
+	  <td valign="top" class="copy">© Copyright 2005-06. Leisure &amp; Lifestyle Information Services Pvt. Ltd. All rights reserved.<br>
+        <a onclick="gotoresourcefolderpage('aboutus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">About Us</a> | 
+		<a onclick="gotoresourcefolderpage('joinus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Join Us</a> | 
+		<a onclick="gotoresourcefolderpage('contactus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Contact Us</a> | 
+	    <a onclick="gotoresourcefolderpage('terms.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Terms of Use</a> <font class="link">|</font> 
+	    <a onclick="gotoresourcefolderpage('privacypolicy.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Privacy Policy</a> <font class="link">|</font> 
+	    <a onclick="gotoresourcefolderpage('Disclaimer.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Disclaimer</a><br>
 	  <br></td>
 	</tr>
 </tbody></table>
