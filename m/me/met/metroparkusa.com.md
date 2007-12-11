@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608163258id_/http%3A//www.metroparkusa.com/store/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211025636id_/http%3A//www.metroparkusa.com/store/privacy_policy) for the most accurate reproduction.*
 
 # Metropark - Privacy Policy
 
+Your email has successfully been removed from the mailing list.
+
 ### INTRODUCTION
 
-Metropark and Clique, Inc. ("Clique") recognize that your privacy and the protection of your personal information are important to you. This statement discloses how Metropark and Clique help protect your personal information while using the Metropark online store Web site and Clique Services. By using the Metropark online store Web site and Clique Services, you consent to the data practices described in this statement.
+Metropark and Clique ("Clique"), a business unit of Sparkart LLC, recognize that your privacy and the protection of your personal information are important to you. This statement discloses how Metropark and Clique help protect your personal information while using the Metropark online store Web site and Clique Services. By using the Metropark online store Web site and Clique Services, you consent to the data practices described in this statement.
 
 ### COLLECTION OF PERSONAL INFORMATION
 
@@ -56,8 +58,8 @@ Clique may occasionally update this Privacy Policy. When we do, we will also rev
 
 If you have questions regarding this Privacy Policy, please submit your question to customer support online at <http://support.metroparkusa.sparkart.com/>. You can also contact Clique at:
 
-Clique, Inc.  
+Clique  
 PO Box 8639  
 Emeryville, CA 94662
 
-_Last Updated: March 12, 2007_
+_Last Updated: September 26, 2007_
