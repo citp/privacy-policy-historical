@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606005927id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211150346id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -79,6 +79,10 @@ If you want to change your email address for delivery of your email subscription
 ## Other Data Processors
 
 Many of our advertisers or partners, such as brokerages and merchants, link from our site to areas on their own sites where they sell their own goods and services. If you follow these links from our site to theirs, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
+
+## Users 16 and under
+
+If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to The Motley Fool's website. Users without this consent are not allowed to provide us with personal information.
 
 ## Changes to this Privacy and Cookie Statement
 
