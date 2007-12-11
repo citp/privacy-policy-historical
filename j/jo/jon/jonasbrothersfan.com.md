@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624224302id_/http%3A//jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211105851id_/http%3A//www.jonasbrothersfan.com/Home/tabid/241/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Jonas Brothers Fan
+# Jonas Brothers Fan - The #1 Jonas Brothers Fansite
 
 Jonas Brothers Fan is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Jonas Brothers Fan Web site and governs data collection and usage. By using the Jonas Brothers Fan website, you consent to the data practices described in this statement.
 
