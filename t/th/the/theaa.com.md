@@ -1,120 +1,228 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630224512id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232355id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Common : privacy policy - The AA
 
-Protecting your personal details on theAA.com
+Saga and AA Group data protection privacy policy
 
-Last updated: January 2007
+Last updated: September 2007
 
-www.theAA.com is brought to you by the AA. The AA believes it is important to protect your privacy and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect information about you and then use it to meet your needs. It also explains some of the security measures we take to protect your privacy. You should read this policy in conjunction with the product and [Website Terms and Conditions](https://web.archive.org/termsandconditions/termcondition.html).
+## Introduction
 
-When we first obtain personal information from you, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products (as applicable). You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below.
+'Saga' means the Saga Group of companies and all companies within the Saga Group resident anywhere in the world.
 
-Some of the personal information we hold about you may be 'sensitive personal data' within the meaning of the Data Protection Act 1998 – for example, information about your health or ethnic origin.
+'AA' means the AA Group of companies and Automobile Association Personal Finance Limited (a joint venture company with Halifax Bank of Scotland). A list of the companies within the AA Group can be obtained from the AA address below.
 
-## 1\. Collecting information
+Saga and AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
-We may collect personal information about you from a number of sources, including the following:
+## How we use information you provide us
 
-  * from you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details
-  * from you when you contact us with an enquiry or in response to a communication from us, in which case this may tell us something about how you use our services
-  * from documents that are available to the public, such as the electoral register
+We use the information we receive from you to provide goods and/or services that you request, to communicate with you, and to personalise our information sent to you. We do not sell, trade, or rent your personal information to others.
 
+We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
 
+Examples of how we may personalise information might include preparing an insurance quote for you, working out which departure airports are near to you or when we will be delivering certain products in your area.
 
-## 2 Using your personal information
+Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
-**2.1** The AA group of companies* (including AA Limited, Automobile Association Insurance Services Limited and Automobile Association Personal Finance Limited) ('we') will use your personal information for the following purposes:
+If you apply for the Saga Visa Card or the AA Master Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
-  1. to identify you when you contact us;
-  2. o help identify accounts, services and/or products which you could have from us or selected partners from time to time. We may do this by automatic means using a scoring system, which uses the information you have provided, any information we hold about you and information from third party agencies (including credit reference agencies);
-  3. to help administer, and contact you about improved administration of, any accounts, services and products we have provided before, or provide now or in the future;
-  4. to carry out marketing analysis and customer profiling (including with transactional information), conduct research, including creating statistical and testing information;
-  5. to help to prevent and detect fraud or loss;
-  6. to contact you in any way (including mail, email, telephone, text or multimedia messages) about products and services offered by us and/or selected partners unless you have previously asked us not to do so;
-  7. to keep you up to date with our AA member benefit scheme under which, as part of your membership benefits, we will give you membership information and details of discounts and offers we negotiate from time to time on behalf of our members. If you do not wish to receive this benefit please write to our Data Protection Compliance Manager at the address given below;
-  8. where we are contacted for breakdown assistance service using a mobile telephone we or our agents may provide details of the relevant telephone number to the mobile telephone network providers, through our agent, to enable us to record the geographical location of the handset as part of the breakdown information in order to assist us in locating the caller.
+We ask for your home, mobile telephone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another genuine reason for doing so. If you provide us with credit or debit card details in order to pay for a service or product, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
 
+In respect of Saga Zone, (Saga's free web-based service for meeting past, present and future friends) certain details and information provided by you will be monitored from time to time and certain data such as messages sent by you will be retained by us for up to 12 months in accordance with the Anti-Terrorism Crime and Security Act 2001. Such details may be disclosed to the police and law enforcement agencies for the purpose of fraud detection, crime prevention and national security. We also reserve the right to move or edit messages or materials that we, in our sole discretion, deem to violate Saga Zone's Code of Conduct as set out in its terms and conditions or any applicable content guidelines, or which in any way is otherwise unacceptable.
 
+When participating in Saga Zone's activities such as discussions or reunion requests, your contributions will often be identifiable. You will be able to see whether this is the case in the appropriate area of the website.
 
-*A list of companies forming the AA group of companies is available from the Data Protection Compliance Manager at the address given below.
+When you enter a contest or other promotional feature, we may ask for your name, address, telephone numbers and email address so we can administer the contest and notify winners.
 
-**2.2** We may allow other people and organisations to use information we hold about you for the purpose of providing services you have asked for, as part of the process of selling one or more of our businesses, or if we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceedings or prospective legal proceedings. From time to time, these service providers and organisations may be outside the European Economic Area in countries that do not have the same standards of protection for personal data as the UK. We will, however, always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
+Occasionally, we may also use the information we collect to notify you by post, telephone, mobile telephone, email and SMS about new or existing Saga and AA services, products and special offers we think you'll find valuable.
 
-**2.3** We may monitor and record communications with you (including phone conversations and emails) for quality assurance and compliance reasons.
+Generally by providing the requested data you consent to Saga and AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, telephone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-**2.4** We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. We and other organisations may use and search these records to:
+Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. If you wish to exercise the opt-out, for Saga products please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
-  1. help make decisions about credit and credit related services for you and members of your household;
-  2. help make decisions on motor, household, credit, life and other insurance proposals and insurance claims for you and other members of your household;
-  3. trace debtors, recover debt, prevent fraud and to manage your accounts or insurance policies; and
-  4. check your identity to prevent money laundering unless you give us other satisfactory proof of identity.
+As required by the Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information you have given to us.
 
+If we provide information to a third party (either a provider of a product or service, or an external data processing agency such as a mailing house) we will exercise the strictest control over the third party contractually, requiring it and any of its agents and/or suppliers to:
 
-
-**2.5** Where you give us information on behalf of someone else, you confirm that you have provided them with the information set out in these provisions and that they have not objected to such use of their personal information. Where you give us sensitive data about yourself or another person (such as health details or details of any criminal convictions) you agree (and confirm that the other person has agreed) to our processing such information in the manner set out in these provisions.
-
-**2.6** In connection with this contract we, and other companies in our group, may carry out credit and fraud prevention checks with one or more licensed credit reference and fraud prevention agencies. We and they may keep a record of the search. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. These records will also be taken into account in credit and fraud prevention checks. Information from your application and payment details of your account will be recorded with one or more of these agencies and may be shared with other organisations to help make credit and insurance decisions about you and members of your household with whom you are financially linked and for debt collection and fraud prevention. This includes those who have moved house and who have missed payments.
-
-If you provide false or inaccurate information to us and we suspect fraud, we will record this and may share it with other people and organisations. We, and other credit and insurance organisations, may also use technology to detect and prevent fraud.
-
-**2.7** If you need details of those credit agencies and fraud prevention agencies from which we may obtain and with which we may record information about you or the List of Companies forming the AA Group, please write to our Data Protection Compliance Manager at The Automobile Association, Fanum House, Basing View, Basingstoke, RG21 4EA. 
-
-## 3\. Protecting information
-
-We have strict security measures to protect personal information. This includes following certain procedures (for example, checking your identity when you phone us) and encrypting (encoding) data on our websites.  
-
-## 4\. The internet
-
-**4.1** If you communicate with us using the Internet, we may occasionally email you about our services and products. When you first give us personal information through our website, we will normally give you the opportunity to say whether you would prefer us not to keep you informed of other products and services by email. However, you can always send us an email (at the address set out below) at any time if you change your mind.
-
-**4.2** Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered – this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
-
-**4.3** We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. We collect non-personal information regarding customer usage of our site in association with Touch Clarity. For more information about how Touch Clarity collects the web journey traffic and behavioural statistical information, please read the [Touch Clarity Privacy Policy](http://www.touchclarity.com/privacy/client-policy.php). 
-
-A cookie is a piece of information that is stored on your computer's hard drive, which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
-
-**4.4** If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
-
-## 5\. Turning off cookies in different browsers
-
-### 5.1 Internet Explorer 6.0 and 7.0
-
-  1. From your browser menu select **Tools** , and then **Internet Options**. This will bring up the **Internet Options** dialogue box. 
-  2. On the top of the dialogue box, select the **Privacy** tab.
-  3. On the Privacy tab, move the slider up for a higher level of privacy or down for a lower level of privacy. 
-  4. Move the slider to the top to block cookies from all websites. 
+  * maintain the security and confidentiality of the information and restrict access to those of its own employees;
+  * use the data for the agreed purpose only and prevent it being used for any other purpose by any other party;
+  * refrain from communicating with you other than concerning the product in question;
+  * return the data to us at the conclusion of any contract term and destroy or delete any copies made of all or any part of the information unless copies are needed to be kept to comply with regulations.
 
 
 
-You can reconfigure your computer to accept cookies again by returning to the **Privacy** tab and selecting the **Default** button, followed by the **OK** button. 
+In addition, we will restrict the information disclosed to the absolute minimum necessary, for example, to provide the product or service.
 
-### 5.3 Firefox 1.5
+Our own security procedures mean that we may occasionally have to request proof of Identity or check your presence on the electoral roll.
 
-  1. From your browser menu select **Tools** , and then **Options**. This will bring up the **Options** dialogue box. 
-  2. Select **Privacy** followed by the **Cookies** tab. To block all cookies deselect **Allow sites to set cookies** and then click **OK**. 
+In the event of telephone calls from you, we also reserve the right to ask security questions (which we in our sole discretion deem appropriate), in order to satisfy ourselves that you are who you say you are.
+
+## Your consent
+
+Before you provide any data to us, we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples might be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by Saga and AA to provide and send you information about their services.
+
+A customer may properly give his or her spouse or partner's consent over the telephone or via the website provided he confirms that he has permission to do so. If the consent is written, the spouse must independently endorse such consent.
+
+Please note that we provide products and services including Saga holidays outside the European Economic Area (EAA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the European Economic Area. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance. It is worth noting however that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details, you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
+
+Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
+
+If you use Saga Zone you agree for us to put you on the site, and to display the notes you write about yourself and the message boards you join. We will not publish any direct contact details, except where you specifically confirm that you wish such information to be published.
+
+If you are entitled to breakdown service under AA Membership you consent to the AA keeping you up to date with the AA member club benefit discount scheme available from time to time under which, as part of the benefit of being a member, the AA will, through the AA member's magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members.
+
+## How we use cookies
+
+Cookies are text files, which identify your computer to our server. Saga will automatically issue your computer with a cookie whenever you register on our website, (or possibly when you browse), in order to track traffic flows and to additionally make our website easier for you to use.
+
+Cookies themselves only record which areas of the site have been visited by the computer in question, and for how long.
+
+You have the opportunity to set your computers to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.
+
+Selecting not to receive cookies can mean that certain services, such as Saga Zone or previous registration identification cannot then be provided.
+
+It is worth noting that some of the third parties present on our Website may also issue cookies.
+
+### How to accept cookies 
+
+#### Netscape Communicator 8.0 
+
+On your task bar, click:
+
+  1. from the **Tools** menu, select **Options** , and then open the **Site Controls** panel
+  2. on the **Sites List** tab, select the **Master Setting** (trust level) want to change
+  3. in the **Web Features** section, the default setting is **Allow cookies** , but you can change this.
 
 
 
-### 5.4 Firefox 2.0
+#### Internet Explorer 6.0
 
-  1. From your browser menu select **Tools** , and then **Options**. This will bring up the **Options** dialogue box.
-  2. Select the **Privacy** option to view settings for **Cookies**. To block all cookies deselect **Accept cookies from sites** and then click **OK**.
+  1. Choose **Tools**.
+  2. Then **Internet Options**.
+  3. Click the **Privacy** tab.
+  4. Move the slider to select the level of privacy you prefer, or dick on **Advanced** for customised settings.
 
 
 
-You can reconfigure your computer to accept cookies again in Firefox by returning to **Cookies** and selecting **Accept cookies from sites** and then clicking **OK**. 
+#### Internet Explorer 7.0
 
-Find out about [disabling cookies in other browsers](http://www.aboutcookies.org/ "Link will open in a new window") (link opens a new window). 
+  1. Choose **Tools**.
+  2. Then **Internet Options**.
+  3. Click the **Privacy** tab.
+  4. Then **Cookies**.
+  5. Move the slider to select the level of privacy you prefer, or click on **Advanced** for customised settings.
 
-## 6\. Links
 
-This website may contain links to other sites or recommended suppliers. Please remember that we are not responsible for the privacy practices of these other sites. This privacy policy applies only to information collected on this website.
 
-## 7\. Further information
+#### FireFox 1.0 and 2.0
 
-If you would like any more information or you have any comments about our privacy policy, please either write to us at Data Protection Compliance Manager, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA. Or email us at [aadataprotection@theaa.com](mailto:aadataprotection@theaa.com). 
+  1. Choose **Tools**.
+  2. Then **Options**.
+  3. Click the **Privacy** icon.
+  4. Within the **Cookies** section of the tab, tick the check box which states **Accept cookies from sites**.
 
-We may amend this policy from time to time, in which case we will publish the amended version on our website, and you can ask us for a copy by writing to the above address or by emailing at [aadataprotection@theaa.com](mailto:aadataprotection@theaa.com).
 
-**This policy applies to personal information we hold about individuals. It does not apply to information we hold about companies and other organisations.**
+
+#### Safari 2.0 (Apple Macintosh)
+
+  1. Click on the **Safari** menu.
+  2. Click on **Preferences**.
+  3. Select the **Security** tab.
+  4. There is a cookie section that allows you to block or accept cookies.
+
+
+
+### How to delete cookies
+
+**Important** : to remove cookies, follow the steps in this section. Do not try to edit the cookies file on your computer.
+
+#### Netscape Communicator 8.0 
+
+On your task bar:
+
+  1. from the **Tools** menu, select **Options** , and then open the **Privacy** panel,
+  2. in the **Privacy** panel, display the **Cookies** category (double-click on it if it's not already open)
+  3. click the **View Cookies** button. The **Stored Cookies** window opens with a list of all the cookies stored on your computer
+  4. select one or more cookies and click **Remove Cookie** , or click **Remove All Cookies**
+
+
+
+#### Internet Explorer 6.0
+
+  1. In **Internet Explorer** , on the **Tools** menu, click **Internet Options**.
+  2. On the **General** tab, click **Settings** , and then click **View Files**.
+  3. Select the cookie you want to delete, and then, on the **File** menu, click **Delete**.
+
+
+
+#### Internet Explorer 7.0
+
+  1. In **Internet Explorer** , click the **Tools** button, and then click **Internet Options**.
+  2. On the **General** tab, under **Browsing History** , click **Settings**.
+  3. Click the **View Files** button.
+  4. Click the **Name** column heading to sort all the files alphabetically and then scroll down until you see files that begin with the prefix **Cookie:**. All cookies will have that prefix, and they usually contain the name of the website that created the cookie.
+  5. Right-click the cookie you want to delete, click **Delete** , and then click **Yes**.
+  6. Close the window that contains the list of files, and then click **OK** twice to return to **Internet Explorer**.
+
+
+
+#### FireFox 1.0 and 2.0
+
+  1. In Firefox, click the **Tools** button, and then click on **Options**.
+  2. Now click on the **Privacy** tab and click on **Show Cookies** button.
+  3. To remove a cookie from the list, select it and click **Remove Cookie**.
+  4. To remove a site's cookies, select the site and click **Remove Cookie(s)**.
+  5. To remove all cookies, click **Remove All Cookies**.
+
+
+
+#### Safari 2.0 (Apple Macintosh)
+
+  1. Click on the **Safari** menu.
+  2. Click on **Preferences**.
+  3. Select the **Security Tab**.
+  4. Click the **Show Cookies** button.
+  5. Select an individual cookie from the list and click the **Remove** button.
+  6. Or to delete all cookies, click **Remove All**.
+
+
+
+If you are not using any of the above browsers, then you should select 'cookies' in the 'Help' function for information on where to find your cookie folder.
+
+If you have any doubts or do not use any of the above systems please refer to [www.allaboutcookies.org](http://www.allaboutcookies.org/), which explains in detail how cookies work and how they can be managed.
+
+## Disclosure of information to third parties
+
+As previously mentioned Saga and AA do not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you go on a Saga holiday, the hotel needs to know whom you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
+
+We may of course be obliged at law to pass on your information to the Police or any other statutory authority.
+
+## Employees and employees' spouses or partners
+
+Personal and/or sensitive personal data of a Saga employee and his or her spouse or partner who takes out a product and/or service with Saga may be shared to any group company of Saga for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provides the necessary consent for this transfer of data.
+
+## DPA mailing list consent
+
+This document sets out the procedure adopted by the Saga Group in relation to gaining your consent to be placed on our mailing list.
+
+When you first make an enquiry of or buy a product from Saga, your details are placed on our mailing list and we will send you a 'qualification' questionnaire. This gives a list of all our products and gives you the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any mail from us. Once you have chosen what you would like to receive we ask you to return the completed form back to Saga who then administers the mailings where applicable.
+
+## Amendment and retention of information
+
+Please advise us in writing as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required. We are however obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years but can be longer if the statute or regulation requires.
+
+## Subject access requests
+
+You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE, United Kingdom for requests relating to information held by Saga Group companies or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA for requests relating to information held by AA Group companies. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or AA Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+
+## Your choice of information
+
+You may change the type of material sent to you at any time. Saga allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 BSE.
+
+## Changes to our Privacy Policy
+
+If we decide to change our Privacy Policy, we will update all relevant documentation and post any changes onto our websites so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+
+## Tell us what you think
+
+Saga and AA welcome your questions and comments about privacy. Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE, United Kingdom or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
