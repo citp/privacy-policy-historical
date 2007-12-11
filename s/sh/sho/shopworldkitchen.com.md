@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625055618id_/http%3A//www.worldkitchen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopworldkitchen.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211095440id_/http%3A//www.worldkitchen.com/privacy.asp) for the most accurate reproduction.*
 
 # Wold Kitchen Privacy Policy
 
