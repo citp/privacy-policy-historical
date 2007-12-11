@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609060425id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211035338id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,3 +79,7 @@ USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE E
 
 |  |    
 
+
+[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=442__zoneid=10__cb=a562a5c228__maxdest=http://www.roomandboard.com/rnb/?&camp=nov07ch&attr=metro)
+
+[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=258__zoneid=11__cb=bb83ffdd6d__maxdest=http://www.metropolismag.com/subscribe)
