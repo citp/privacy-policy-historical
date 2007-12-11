@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623135337id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211132308id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ArchitecturalDepot.com
 
@@ -43,6 +43,3 @@ By using our web site, you acknowledge your consent to the collection and use of
 Thank you for your consideration in these matters.
 
 ArchitecturalDepot.com
-
-  
-
