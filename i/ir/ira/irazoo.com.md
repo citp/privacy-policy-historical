@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601182323id_/http%3A//irazoo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211032950id_/http%3A//www.irazoo.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Search Engine, Meta search engine, Best search engine
 
 | 
 
@@ -17,11 +17,6 @@ By using iRazoo, you agree to the above uses of your personal information. If at
 
 **Opting out of emails**  
 You have the choice of whether or not to disclose personally identifiable information. However, you must provide some personally identifiable information in order to become a registered iRazoo User. You can choose at anytime to opt out of receiving emails from iRazoo or from having your personally identifiable information shared with certain companies. If you elect to "opt out" we will not share your personal information with third parties or send you emails. However, iRazoo may continue to use your personal information for internal purposes, promotions, to enhance your User experience or as necessary to administer the site or comply with applicable law.
-
-**Use of Cookies**  
-iRazoo uses cookies for the purposes of better serving our Users. iRazoo assigns a random number to each User which anonymously tracks content preferences and traffic patterns. Cookies also allow iRazoo to keep track of how often Users are using specific areas of our site.
-
-IT SHOULD BE NOTED THAT iRAZOO DOES NOT REQUIRE USERS TO ACCEPT COOKIES IN ORDER TO ENJOY THE SITE. YOU CAN SET YOUR BROWSER TO REJECT COOKIES, OR TO NOTIFY YOU WHEN iRAZOO OR ANOTHER COMPANY SENDS YOU A COOKIE. HOWEVER, IF YOU REJECT COOKIES, WE MAY NOT BE ABLE TO TRACK YOUR USAGE AND/OR TRAFFIC PATTERNS.
 
 **Special Promotions**  
 iRazoo may disclose your personal information to Merchant Partners or sponsors of promotions available through iRazoo. Special sponsor promotions may often involve a request for additional information. By submitting this additional information, you give iRazoo permission to transfer this information to the sponsor so they may fulfill your request or administer the promotion.
