@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2007-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070115200352id_/http%3A//www.classiccars.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classiccars.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211043448id_/http%3A//www.classiccars.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | Privacy Policy| |   
----|---|---  
-  
+| 
+
+Privacy Policy 
+
 **Our Commitment to Your Privacy**  
 Your privacy is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your information is collected and used. We believe that a full disclosure of our privacy policy is essential to our success and to your ongoing patronage. To make this Privacy Policy easy to find, we make it available on our home page and at every point where personally identifiable information may be voluntarily supplied or requested. 
 
