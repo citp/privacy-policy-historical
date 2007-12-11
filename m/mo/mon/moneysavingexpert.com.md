@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202204018id_/http%3A//www.moneysavingexpert.com/cgi-bin/viewnews.cgi%3Fnewsid1101222301%2C49659%2C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211214015id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
 
-# MoneySavingExpert Privacy Policy | MoneySavingExpert: Consumer Revenge, Credit Cards, Shopping, Bank Charges, Cheap Flights and more
+# MoneySavingExpert Privacy Policy...
 
 **Money Saving Expert**
 
@@ -16,9 +16,9 @@ If you have any queries about this site or our privacy policy, please contact us
 
 Except in the limited circumstances mentioned below, we do not collect your personal information when you enter or use our site. 
 
-**_Martin’s Money Tips_**
+**_Martin's Money Tips_**
 
-We do collect your e-mail address when you register to receive Martin’s Money Tips email.  If you wish to stop receiving Martin’s Money Tips, you can do so at any time by clicking the ‘stop receiving Tips’ button on this page: [www.moneysavingexpert.com/tips](http://www.moneysavingexpert.com/tips).
+We do collect your e-mail address when you register to receive Martin's Money Tips email.  If you wish to stop receiving Martin's Money Tips, you can do so at any time by clicking the ‘stop receiving Tips' button on this page: [www.moneysavingexpert.com/tips](http://www.moneysavingexpert.com/tips).
 
  ** _Chat forums_**
 
@@ -30,7 +30,7 @@ We do not monitor our chat forums or any of the communications between our users
 
  ** _IP addresses and Cookies_**
 
-When you use our chat forums, we log the IP addresses of users’ computers which we use solely for administration and trouble shooting purposes. 
+When you use our chat forums, we log the IP addresses of users' computers which we use solely for administration and trouble shooting purposes. 
 
 We use cookies (files which are sent by us to your computer or other access device):
 
@@ -40,7 +40,7 @@ We use cookies (files which are sent by us to your computer or other access devi
 
 If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies will have the file names [yourname@forum.moneysavingexpert.txt](mailto:yourname@forum.moneysavingexpert.txt) or [yourname@moneysavingexpert.txt](mailto:yourname@moneysavingexpert.txt).
 
-If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu.  Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
+If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions by clicking “Help” in your browser menu.  Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
 
  Please note that by deleting our cookies or disabling future cookies you may not be able to post messages in our chat forums. 
 
