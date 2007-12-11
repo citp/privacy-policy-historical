@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625031546id_/http%3A//www.juno.com/legal/privacy.html%3Fcf%3Dwwwjn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211232024id_/http%3A//www.juno.com/legal/privacy.html%3Fcf%3Dwwwjn) for the most accurate reproduction.*
 
 # Juno - Privacy and Security- Value-priced Internet Service Provider - ISP - Free, low-cost and fast Internet Access
 
@@ -132,6 +132,8 @@ We use the information our subscribers provide to personalize their Internet exp
 We may disclose to advertisers or other third parties statistical information derived through the aggregation of information you provide or relating to your use of the Service with information associated with all or some subset of the other subscribers to the Service -- for example, we might inform an advertiser interested in marketing a product on the West Coast of the number of Juno subscribers who live in California -- but we will not share the names or addresses (or other Identifier Information) of any of those subscribers with advertisers without their consent.
 
 We will not intentionally monitor or disclose any private email message or online communication, although we reserve the right to monitor accounts that are believed to be acting in violation of the Service Agreement, Guidelines for Acceptable Use, or any applicable law or regulation; to protect the integrity of our Service or the Internet community as a whole; or pursuant to request of governmental or legal authority.
+
+You may agree to receive e-mail, advertisements and promotions from us, third-party advertisers, and trusted partners regarding products or services we believe you may be interested in, new features or products we are introducing, tips on product use, and promotions. If you later decide that you wish to cease receiving such e-mail or direct mail marketing, you may do so at any time by opting-out of participation in these marketing activities. Please refer to the Terms of Service for further information about opting out from these marketing activities.
 
 Back to list
 
