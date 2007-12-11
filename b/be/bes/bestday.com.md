@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2007-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070409110138id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211214438id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.bestday.com
+# Privacy Policy
 
 Viajes Beda S.A. de C.V. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Bestday.com.
 
