@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618115547id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211121301id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # ** We Got Tickets Online Box Office. Buy tickets for events around the UK. **
 
