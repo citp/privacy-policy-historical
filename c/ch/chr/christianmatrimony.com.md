@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianmatrimony.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623215147id_/http%3A//www.christianmatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianmatrimony.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211183942id_/http%3A//www.christianmatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Christian Matrimony- Marriage Web Site
 
@@ -14,7 +14,7 @@ ChristianMatrimony.com collects information from our clients primarily to ensure
 
 The information collected from any of our clients is not shared with any individual or organization without the former's approval.
 
-ChristianMatrimony.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
+ChristianMatrimony.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
  **Payment in our site**
 
