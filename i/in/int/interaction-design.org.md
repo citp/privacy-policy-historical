@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428171705id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211101101id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..
 
@@ -13,6 +13,12 @@ Aggregate (and thus completely non-identifying) statistics generated from these 
 You should be aware that when you voluntarily disclose personally identifiable information (e.g. name, email address) on the comment section of a page on Interaction-Design.org, that information, along with any substantive information disclosed in the your communication, can be collected by third parties (which may result in unsolicited messages from other posters or third parties). Such activities are beyond the control of Interaction-Design.org, but to protect your email address from being collected by spam bots, it is disguised as mads(at)interaction-design(dot)org 
 
 If you have any questions regarding privacy, please [contact me](https://web.archive.org/contact.html).
+
+### Changes to this page
+
+07 Sep 2004: Included the last section.  
+28 Apr 2003:   
+
 
  
 
