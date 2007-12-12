@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625072253id_/http%3A//www.gowholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212124713id_/http%3A//www.gowholesale.com/privacy.html) for the most accurate reproduction.*
 
-# goWholesale: Privacy Policy
-
-##### Privacy Policy
+# Privacy Policy - goWholesale
 
 This privacy policy may be changed from time to time, so please check it on a regular basis.
 
@@ -78,4 +76,4 @@ Contact Information
 
 If you have any questions about this privacy policy, or about goWholesale's information collection practices, please feel free to contact us at [feedback@gowholesale.com](mailto:feedback@gowholesale.com)
 
-This Agreement was last revised on October 10th, 2005.
+This agreement was last revised on October 10, 2005.
