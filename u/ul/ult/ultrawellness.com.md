@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrawellness.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622073156id_/http%3A//www.ultrawellness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawellness.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212222022id_/http%3A//www.ultrawellness.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | UltraWellness - Your Key to Lifelong Health and Vitality
 
