@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624230604id_/http%3A//dollardays.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072421id_/http%3A//www.dollardays.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - DollarDays
 
@@ -18,7 +18,10 @@ DollarDays International, LLC Network's Privacy Policy
 
 Privacy Policy
 
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. 
+*Notification of change to Privacy Policy
+
+Effective July 1st, 2007  
+Please note that Dollardays International has modified its Terms and Conditions - specifically, Privacy Policy section #4 – "Our Disclosure of Your Information". Please review these changes.
 
   
 Overview
@@ -26,7 +29,7 @@ Overview
 The privacy practices of this statement apply to our services available under the domain and subdomains of [www.dollardays.com](http://www.dollardays.com/) (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site.   
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about DollarDays practices so that you can make informed decisions. 
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the DollarDays User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on June 6, 2005 for all users. 
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the DollarDays User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on July 1st, 2007 for all users. 
 
 1\. A Special Note About Children.  
 Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians. 
@@ -50,7 +53,7 @@ You agree that we may use personal information about you to improve our marketin
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the notification (link to email preferences). You may make changes to your notification preferences at any time. 
 
 4\. Our Disclosure of Your Information.  
-As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services. 
+As a matter of general policy, we do not sell or rent any of your personal information to third parties for their marketing purposes. We may send you offers from third parties in cases where we, at our sole discretion, believe the offer is both relevant and of substantive value to you. We do not provide access to your personal information at any time, to any third party. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
 
 Advertisers. We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number, are not disclosed to these third parties in a personally identifiable manner without your explicit consent. 
 
