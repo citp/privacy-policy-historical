@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627111109id_/http%3A//www.unilever.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212063958id_/http%3A//www.unilever.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
 The information which we collect and store during normal use of the site is used to monitor use of the site and to help its further development. Such use does not result in any personally identifiable data being collected or stored.
 
-## Privacy notice: Collection & use of personal information
+## Privacy notice: collection & use of personal information
 
 A number of pages in this website give you the option to submit personal information to Unilever and its affiliates. All such communications are not confidential. These pages contain explanations of how the information you submit to us using this website will be used. Any application, request or enquiry you make, may be passed or made available to Unilever Group affiliates some of which will be based in countries that do not have data protection laws. All Unilever Group affiliates are required to comply with an internal Privacy Policy which requires that steps are taken to protect your personal information and for it only to be used for the purpose(s) for which it was submitted. 
 
