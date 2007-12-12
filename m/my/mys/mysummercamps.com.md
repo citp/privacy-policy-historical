@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608044912id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212175406id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Summer Camps 2007 - MySummerCamps.com
 
