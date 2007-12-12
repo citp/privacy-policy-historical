@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptsbank.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623140334id_/http%3A//www.scriptsbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptsbank.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212214504id_/http%3A//www.scriptsbank.com/privacy.html) for the most accurate reproduction.*
 
 # Web Scripts: Privacy Policy
 
