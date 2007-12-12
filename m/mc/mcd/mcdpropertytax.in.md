@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdpropertytax.in privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627154920id_/http%3A//www.mcdpropertytax.in/online/Property/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdpropertytax.in privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212194324id_/http%3A//www.mcdpropertytax.in/online/Property/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Online Property Tax Form Help
 
