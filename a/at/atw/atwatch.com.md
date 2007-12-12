@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atwatch.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628131640id_/http%3A//www.atwatch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atwatch.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212024647id_/http%3A//www.atwatch.com/privacypolicy.html) for the most accurate reproduction.*
 
 # @watch - privacy policy
 
