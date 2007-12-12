@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625070218id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212091052id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
-|  |  |  | Protecting Your Privacy  
+|  |  |  |   
 ---  
 | 
 
@@ -10,7 +10,9 @@ Through our subsidiary bank and financial service companies, TD Banknorth Inc. (
   
 ---  
    
-Information We Collect  
+  
+###  Information We Collect  
+  
 |  The type of information we collect depends on the type of product or service you obtain from us. We may collect "nonpublic personal information" about you. "Nonpublic personal information" is information about you, which is not available from public sources, obtained in connection with providing you with a financial product or service. For example, nonpublic personal information includes information regarding your account balance, payment history and deposit account activity. We may collect this personal information from the following sources: 
 
   * Information we receive from you on applications or other forms you may complete and provide to us, such as your name, address, social security number, assets, income and, in the case of applications for insurance, health and medical information; 
@@ -22,7 +24,9 @@ Information We Collect
 In some cases, we may obtain "protected health information" about you. "Protected health information" is information provided by a third party such as an insurer, health plan, employer or health care provider that identifies you and relates to your health or health care, including payment for that care. Among other things, TD Banknorth's insurance subsidiaries may obtain information regarding your medical condition if you apply for insurance coverage, and TD Banknorth may obtain information regarding medical treatment that you have received in the course of processing payments for that treatment.   
   
    
-Information We Disclose  
+  
+###  Information We Disclose  
+  
 |  We share information with our affiliates2 about our experiences or transactions with you or your account in order to help you complete financial transactions or make you aware of services and products from which you may benefit. The personal information we collect and share with affiliates may include your name, address, social security number, policy number, account number, telephone number, account balance, payment history and deposit account activity. Except as permitted by law, we do not disclose nonpublic personal information that we have obtained from other sources to any of our affiliates. 
 
 Under certain circumstances, we disclose personal information about you to "nonaffiliated third parties" (i.e., third parties that are not affiliates of TD Banknorth). For example, we disclose personal information about you to third parties to assist us in servicing your TD Banknorth account, to government entities as required by law, or to anyone in response to subpoenas, and to credit bureaus. We will not disclose any nonpublic personal information about you to any other third parties, except as permitted by law. 
@@ -34,7 +38,9 @@ We will also provide nonpublic personal information to affiliates and other part
 If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.   
   
    
-Medical Information  
+  
+###  Medical Information  
+  
 |  _This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully._
 
 TD Banknorth does not frequently hold protected health information, but, for example, it may receive protected health information from a health care provider to assist in processing payments to that provider. Or, TD Banknorth's insurance subsidiaries may collect protected health information and provide it to an insurer to assist in processing an insurance claim, or if you enroll to be a participant in a health plan. We are required to maintain the privacy of protected health information in accordance with the law and this notice, and to provide you with notice (including a paper notice upon request) of our legal duties and practices with respect to such information. We do not share protected health information among our affiliates or with third parties except to process transactions or to provide services you have requested or initiated. We may use or disclose protected health information, in connection with the payment or collection of health care costs or insurance premiums, or for purposes of insurance claim processing, enrollment or underwriting. We will not use or disclose your protected health information for any other purpose without your written authorization, which you may revoke, or as otherwise required or permitted by law. 
@@ -44,13 +50,19 @@ You have the right to request restrictions on our use or disclosure of your prot
 You may make any complaint about our use or disclosure of protected health information directly to us, or to the Secretary of Health and Human Services, and you will not be retaliated against for filing a complaint. If you wish to complain to us, or if you have any questions, please contact us as follows: TD Banknorth Inc., P.O. Box 9540, Portland, ME 04112-9540, Attention: Privacy Officer/Risk Contingency Management, Telephone No. 800-211-1979, ext 126.   
   
    
-Our Security Procedures  
+  
+###  Our Security Procedures  
+  
 |  Access to your personal and account information is restricted to those employees who need to know that information as part of their job, to service your account or to provide products and services to you. We maintain physical, electronic and procedural safeguards that are reasonably designed to guard your nonpublic personal information.   
    
-Accuracy of Customer Information  
+  
+###  Accuracy of Customer Information  
+  
 |  We recognize that the accuracy of your personal and account information is critical to you and, to that end, we follow procedures to reasonably ensure the accuracy of your information. If you find that any information we have on file or have reported to another party does not appear to be accurate, please write to us at: **TD Banknorth, ATTN: Loan and Account Research, 32 Chestnut St., Lewiston, ME 04240**. Please include your account or policy number.   
    
-Internet Banking Privacy  
+  
+###  Internet Banking Privacy  
+  
 |  Safeguarding your personal information when interacting with us via the Internet is also extremely important. We apply the standards discussed above in caring for your personal information. When browsing our website, personal information, such as your e-mail address, is not collected. Some areas of our website require information, such as your e-mail address or your account number, to enable you to perform certain tasks (e.g., to review your accounts or correspond with us). In these cases, we collect the information necessary to interact with you. 
 
 If you visit us on the Internet, we may place a "cookie" on your browser that records the number of visits made to our various web pages; however, personal information is not collected. If you use our Online Banking or eBillPay programs, you may receive additional cookies which contain your unique identifier, allowing you to view and manage your accounts. These cookies may be linked to personally identifiable information. 
@@ -60,10 +72,14 @@ E-mail sent within our online banking system is secure. The secure online transm
 We preserve the content of your e-mail, your e-mail address and our response, so that we can more efficiently respond to any follow-up questions from you. We also retain this information to meet legal and regulatory requirements.   
   
    
-Regular Internet E-mail is Not Secure  
+  
+###  Regular Internet E-mail is Not Secure  
+  
 |  Please do not send confidential information such as social security or account numbers to us via regular e-mail. In instances where e-mail addresses are provided, they are provided for information inquiries of a non-sensitive and non-confidential nature. Since an Internet e-mail response back to you would not be secure, we will not include confidential information in an e-mail response.   
    
-Protecting Children Online  
+  
+###  Protecting Children Online  
+  
 |  We will not knowingly collect, store, use or disclose information from children. We define children as persons under the age of 13. 
 
 We do not direct any portion of the website to children, accept applications directly from children, knowingly collect, nor share personal information about them; unless the information has been provided by an adult in connection with opening a deposit account for or with the child. We won't send any unsolicited promotions to users who indicate they are less than 13 years of age unless the solicitation is in connection with an account opened by an adult. 
@@ -71,10 +87,14 @@ We do not direct any portion of the website to children, accept applications dir
 This does not prevent parents from opening deposit accounts on behalf of their children. We will obtain parental consent prior to the creation of an account on behalf of a child.   
   
    
-The Problem of Identity Theft  
+  
+###  The Problem of Identity Theft  
+  
 |  Identity theft is a growing crime in our country. Each day, thousands of people become victims of identity theft. Identity theft occurs when someone steals your personal information and uses it to establish credit, charge items, or borrow money using your name.   
    
-Protect Your Identity  
+  
+###  Protect Your Identity  
+  
 | 
 
   * Tear up unused credit offers and other documents containing personal information before discarding them. 
@@ -85,7 +105,9 @@ Protect Your Identity
 
   
    
-If You Become a Victim  
+  
+###  If You Become a Victim  
+  
 | 
 
   * Contact your bank and all others with whom you have a financial relationship. 
@@ -102,7 +124,9 @@ Trans Union 800-680-7289
 For additional help, call the Federal Trade Commission at 877-ID-THEFT or visit their website at: **http://www.consumer.gov/idtheft/**.   
   
    
-Questions  
+  
+###  Questions  
+  
 |  We're strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions or comments, please call us at the appropriate number listed at the end of this document. 
 
 [Send us an e-mail](http://customerservice.tdbanknorth.com/cgi-bin/tdbanknorth.cfg/php/enduser/ask.php).
@@ -114,7 +138,11 @@ This privacy statement applies to individuals and not to business entities or bu
 
 
 **TD Banknorth Inc.**  
-This privacy statement covers the following divisions and subsidiaries of TD Banknorth, N.A. 
+This privacy statement applies to the following companies within TD Banknorth Inc., including the divisions and subsiduiaries of TD Banknorth, N.A. and TD Bank USA, N.A.   
+ 
+
+**TD Bank USA, N.A.**  
+800 462-3666, ext. 6107 or 7894 
 
 **TD Banknorth, N.A. Divisions:**
 
@@ -171,7 +199,7 @@ Flatiron Credit Company, Inc.
    California Flatiron Corp. 
 
 TD Banknorth Leasing Corporation  
-800-462-3666 
+800 577-7144, ext. 127 
 
 TD Banknorth Insurance Agency, Inc.:   
    (CT) 800-443-6252  
