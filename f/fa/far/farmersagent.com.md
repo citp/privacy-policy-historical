@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersagent.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623222933id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersagent.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072800id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/privacy_policy.html) for the most accurate reproduction.*
 
 # Farmers.com - Privacy Policy
 
@@ -57,7 +57,7 @@ If it is your decision not to opt out and to allow sharing of your information, 
 
 **Modifications to our Privacy Policy** We reserve the right to change our privacy practices in the future, which may include sharing nonpublic personal information about you with nonaffiliated third parties. Before we do that, we will provide you with a revised privacy notice and give you the opportunity to opt out of that type of information sharing.
 
-**Web site** Our web site [privacy notices](https://web.archive.org/web/20070623222933id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/privacy_policy.html), such as the one located at farmers.com, contain additional information particular to web site use. Please pay careful attention to those notices if you transmit personal information to Farmers over the Internet.
+**Web site** Our web site [privacy notices](https://web.archive.org/web/20071212072800id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/privacy_policy.html), such as the one located at farmers.com, contain additional information particular to web site use. Please pay careful attention to those notices if you transmit personal information to Farmers over the Internet.
 
 **Recipients of this Notice** We are providing this notice to the named policyholder residing at the mailing address to which we send your policy information. If there is more than one policyholder on a policy, only the named policyholder on that policy will receive this notice, though any policyholder may request a copy of this notice. You may receive more than one copy of this notice if you have more than one policy with Farmers. You also may receive notices from affiliates, other than those listed below. Please read those notices carefully to determine your rights with respect to those affiliates' privacy practices.
 
@@ -71,7 +71,7 @@ If it is your decision not to opt out and to allow sharing of your information, 
   * [www.ftc.gov/os/statutes/fcrajump.htm](http://www.ftc.gov/os/statutes/fcrajump.htm) (the FCRA web page). 
 
 
-  * Additional information is also contained in the [Supplemental Information](https://web.archive.org/web/20070623222933id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/fair_credit_reporting.html) section that follows this notice.
+  * Additional information is also contained in the [Supplemental Information](https://web.archive.org/web/20071212072800id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/fair_credit_reporting.html) section that follows this notice.
 
 Signed: Farmers Insurance Exchange, Fire Insurance Exchange, Truck Insurance Exchange, Mid-Century Insurance Company, Farmers Insurance Company, Inc. (A Kansas Corp.), Farmers Insurance Company of Arizona, Farmers Insurance Company of Idaho, Farmers Insurance Company of Oregon, Farmers Insurance Company of Washington, Farmers Insurance of Columbus, Inc., Farmers New Century Insurance Company, Farmers Group, Inc., Farmers Reinsurance Company, Farmers Services Insurance Agency, Farmers Services Corporation, Farmers Texas County Mutual Insurance Company, Farmers Underwriters Association, Farmers Value Added, Inc., Farmers Financial Solutions, LLC, FFS Holding, LLC, F.I.G. Holding Company, FIG Leasing Co., Inc., FIG Travel, Inc., Fire Underwriters Association, Illinois Farmers Insurance Company, Mid-Century Insurance Company of Texas, Prematic Service Corporation (California), Prematic Service Corporation (Nevada), Texas Farmers Insurance Company, Farmers New World Life Insurance Company, Farmers Annuity Separate Account A, Farmers Variable Life Separate Account A and Truck Underwriters Association, _Civic Property and Casualty Company, Exact Property and Casualty Company, Neighborhood Spirit Property and Casualty Company._ The above is a list of the affiliates on whose behalf this privacy notice is being provided. It is not a comprehensive list of all affiliates of the Farmers Insurance Group of Companies.
 
@@ -79,7 +79,7 @@ Questions?
 
 1-866-813-7551
 
-[Supplemental Information Regarding Financial Services Modernization Act (also known as the Gramm-Leach-Bliley Act) and the Fair Credit Reporting Act.](https://web.archive.org/web/20070623222933id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/fair_credit_reporting.html)6-26-01
+[Supplemental Information Regarding Financial Services Modernization Act (also known as the Gramm-Leach-Bliley Act) and the Fair Credit Reporting Act.](https://web.archive.org/web/20071212072800id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/fair_credit_reporting.html)6-26-01
 
 **Web site Privacy Policy Statement**
 
@@ -115,6 +115,6 @@ We reserve the right, at any time, to change or modify our policies on the use o
 
 **Legal Terms**
 
-We also recommend you read the section called Legal Terms. The [Legal Terms](https://web.archive.org/web/20070623222933id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/legal_disclaimer.html) section describes the terms and conditions for use of our web site, discusses the content in this site, and information about your responsibilities when using this site.
+We also recommend you read the section called Legal Terms. The [Legal Terms](https://web.archive.org/web/20071212072800id_/http%3A//www.farmers.com/FarmComm/WebSite/html/common/legal_disclaimer.html) section describes the terms and conditions for use of our web site, discusses the content in this site, and information about your responsibilities when using this site.
 
 |  | 
