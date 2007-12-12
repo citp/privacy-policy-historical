@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629205025id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212172536id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
 
 # Receive Up-To 5 Free quotes for telemarketing services, fulfillment services and much more
+
+Last Updated 9/1/07
 
 If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to VendorSeek.com, 520 Fellowship Rd, Suite 102, Mt. Laurel, NJ 08054 or via email to [custserv@VendorSeek.com](mailto:custserv@VendorSeek.com).
 
