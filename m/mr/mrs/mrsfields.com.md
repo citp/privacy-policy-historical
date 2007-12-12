@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527103318id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212023540id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy - MrsFields.com
 
@@ -43,8 +43,8 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Mrs. Fields Gifts Inc.  
-1717 South 4800 West  
-Salt Lake City, Utah 84104  
+Mrs. Fields Gifts Inc.   
+1717 South 4800 West   
+Salt Lake City, Utah 84104   
 Phone: 1-800-COOKIES  
 webmaster@mrsfields.com
