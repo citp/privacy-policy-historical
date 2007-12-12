@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204152921id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8%26lid%3D95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072043id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8) for the most accurate reproduction.*
 
 # privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk
 
@@ -22,7 +22,7 @@ By providing any personal information to us, you fully understand and clearly co
 
 We will use information collected from you in the following ways: 
 
-**Marketing purposes**. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to choose whether or not to receive such communications when you first provide personal information to us. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. 
+**Marketing purposes**. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to opt out of these communications. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. 
 
 **Transactional purposes**. We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. 
 
