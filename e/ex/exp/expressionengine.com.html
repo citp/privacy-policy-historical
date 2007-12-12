@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the expressionengine.com privacy policy that was archived on 2007-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070620083033id_/http%3A//expressionengine.com/contact/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expressionengine.com privacy policy that was archived on 2007-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212044800id_/http%3A//expressionengine.com/contact/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | ExpressionEngine</title>
 	<link rel="shortcut icon" href="/images/design/favicon.ico" type="image/x-icon">
 	<link rel="home" href="http://expressionengine.com/" title="Home">
 
-	<link rel="stylesheet" href="http://expressionengine.com/index.php?css=global/global.css" type="text/css" media="screen, projection" charset="utf-8">
+	<link rel="stylesheet" href="http://expressionengine.com/css/global/global.css" type="text/css" media="screen, projection" charset="utf-8">
 
 	<!--[if IE 7]>
-	<link rel="stylesheet" href="http://expressionengine.com/index.php?css=global/ie7.css" type="text/css" media="screen, projection" charset="utf-8" />
+	<link rel="stylesheet" href="http://expressionengine.com/css/global/ie7.css" type="text/css" media="screen, projection" charset="utf-8" />
 	<![endif]-->
 
 	<!--[if IE 6]>
-	<link rel="stylesheet" href="http://expressionengine.com/index.php?css=global/ie6.css" type="text/css" media="screen, projection" charset="utf-8" />
+	<link rel="stylesheet" href="http://expressionengine.com/css/global/ie6.css" type="text/css" media="screen, projection" charset="utf-8" />
 	<![endif]-->
 	<script src="/js/jquery.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
@@ -28,7 +28,22 @@
 		 
 		});
 
-</script>
+		$(document).ready(function() {
+		  $('a#loginLink').click(function() {
+			if (document.getElementById('loginFormMiniMain').style.display == 'block')
+			{
+				$('#loginFormMiniMain').fadeOut('fast');
+			}
+			else
+			{
+				$('#loginFormMiniMain').fadeIn('fast');
+				document.getElementById('username').focus();
+			}
+		    return false;
+		  });
+		});
+
+	</script>
 	
 <!--[if lt IE 7]>
     <script defer type="text/javascript" src="/js/pngfix_map.js"></script>
@@ -62,13 +77,50 @@
 <div id="header">
 	<div id="login">
 						<strong class="greeting">Hello, Guest</strong>
-		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://expressionengine.com/forums/member/login/">Login</a>
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a id="loginLink" href="http://expressionengine.com/forums/member/login/">Login</a>
 		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://expressionengine.com/forums/member/register/">Register</a>
 				
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img src="/images/design/email_icon.gif" width="16" height="16" alt="Contact Us"><a href="http://expressionengine.com/contact/">Contact Us</a>
 		&nbsp;&nbsp;&nbsp;&nbsp;
 		<img src="/images/design/site_map_icon.gif" width="16" height="16" alt="Site Map"><a id="sm_toggle" href="/sitemap/">Site Map</a>
+
+		<div id="loginFormMiniMain">
+		<form method="post" action="http://expressionengine.com/">
+<div class="hiddenFields">
+<input type="hidden" name="XID" value="9022ecd9da30b83352b746d487ce8d2d56f6c436">
+<input type="hidden" name="ACT" value="9">
+<input type="hidden" name="RET" value="-2">
+<input type="hidden" name="site_id" value="2">
+</div>
+
+
+			<div style="margin-top:-4px;">
+				<a href="javascript:void(0);" onclick="$('#loginFormMiniMain').fadeOut('fast');">X</a>
+				<input type="hidden" name="RET" value="-1">
+			</div>
+			
+			<table cellpadding="0" cellspacing="6" border="0" align="center">
+			<tbody><tr>
+			<td align="right">Username</td>
+			<td><input type="text" class="input" id="username" name="username" size="15" value="">
+			<input type="hidden" name="auto_login" value="1"></td>
+			</tr>
+			
+			<tr>
+			<td align="right">Password</td>
+			<td><input type="password" class="input" name="password" size="15"></td>
+			</tr>
+			
+			<tr>
+				<td colspan="2" align="right">
+					<a href="http://expressionengine.com/forums/member/forgot_password/">Forgot your password?</a>&nbsp;
+					<input type="submit" class="submit" value="Login">
+				</td>
+			</tr>
+			</tbody></table>
+		</form>
+		</div>
 	</div><!-- end #login -->
 	<h1><a href="http://expressionengine.com/" title="ExpressionEngine"><img src="/images/design/ee_logo.gif" width="227" height="88" alt="ExpressionEngine Logo"></a></h1>
 </div><!-- end #header -->
@@ -97,6 +149,7 @@
 				<li><a href="https://secure.expressionengine.com/download.php">My Downloads</a></li>
 				<li><a href="/downloads/addons/">Add-on Library</a>
 					<ul>
+						<li><a href="http://expressionengine.com/downloads/addons/category/expansions/">Expansions</a></li>
 						<li><a href="http://expressionengine.com/downloads/addons/category/modules/">Modules</a></li>
 						<li><a href="http://expressionengine.com/downloads/addons/category/plugins/">Plugins</a></li>
 						<li><a href="http://expressionengine.com/downloads/addons/category/extensions/">Extensions</a></li>
@@ -182,24 +235,25 @@
 </div>
 <div id="searchBox">
 <form method="post" action="http://expressionengine.com/">
-<div>
+<div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="2bd5e4274f315ba0cdbbf0ec167c40ac1b62b5b3">
-<input type="hidden" name="RP" value="search/index">
+<input type="hidden" name="XID" value="9a73f4ef2ac1083c423d510c8ec29be1eaed7e7a">
+<input type="hidden" name="RP" value="search&amp;#47;index">
 <input type="hidden" name="NRP" value="">
 <input type="hidden" name="RES" value="">
 <input type="hidden" name="status" value="">
-<input type="hidden" name="weblog" value="not add_ons|tnbt|extension_hooks|template_source|features_categories|features_entries|themes|testimonials|ee_showcase_websites">
+<input type="hidden" name="weblog" value="not add_ons|tnbt|extension_hooks|template_source|features_categories|features_entries|themes|testimonials|ee_showcase_websites|ee_docs">
 <input type="hidden" name="search_in" value="everywhere">
 <input type="hidden" name="where" value="all">
 <input type="hidden" name="site_id" value="2">
 </div>
 
 
-
-		<input type="search" class="textfield" name="keywords" results="16" autosave="ee_site_search" placeholder="Search Site" title="Type your search keyword here please" value="" maxlength="80">
-		<input type="image" src="/images/design/icon_search.png" class="search_button">
+		<input type="text" id="keywords" class="textfield" name="keywords" title="Type your search keyword here please" value="" maxlength="80">		<input type="image" src="/images/design/icon_search.png" class="search_button">
 </form>
+
+<script src="http://expressionengine.com/global/search.js" type="text/javascript" charset="utf-8"></script>
+
 </div>
 <div id="siteNav">
 	<ul>
@@ -219,8 +273,9 @@
 				<li><a href="https://secure.expressionengine.com/download.php">My Downloads</a></li>
 				<li><a href="http://expressionengine.com/downloads/addons/">Add-On Library</a>
 					<ul>
-						<li><a href="http://expressionengine.com/downloads/addons/category/plugins/">Plugins</a></li>
+						<li><a href="http://expressionengine.com/downloads/addons/category/expansions/">Expansions</a></li>
 						<li><a href="http://expressionengine.com/downloads/addons/category/modules/">Modules</a></li>
+						<li><a href="http://expressionengine.com/downloads/addons/category/plugins/">Plugins</a></li>
 						<li><a href="http://expressionengine.com/downloads/addons/category/extensions/">Extensions</a></li>
 					</ul>
 				</li>
@@ -381,4 +436,4 @@ else document.write(unescape(l[i]));
 
 
 
-<div id="WSBubble" class="small"></div></body></html>
+</body></html>
