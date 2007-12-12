@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611162303id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212030655id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
 
-# Thomson Prometric
+# Prometric
 
 Privacy Policy 
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.prometric.com (this "Web Site"), and its affiliate Web sites. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
-Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [DataProtectionManager@thomson.com](mailto:DataProtectionManager@thomson.com).
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [DataProtectionManager@prometric.com](mailto:DataProtectionManager@prometric.com).
 
  **WHAT INFORMATION ABOUT YOU DO WE COLLECT?**  
 When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
@@ -43,4 +43,4 @@ We take reasonable steps to maintain the security of the personally identifiable
 ** This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
  **LINKS**  
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
+This Web Site contains links to third party sites as well as to other sites owned and/or operated by Prometric. Please be aware that Prometric is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Prometric sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
