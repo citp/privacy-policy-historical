@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611213209id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185024id_/http%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
 
 # Network security - vulnerability assessment, PCI compliance
 
