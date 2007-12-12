@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the clarosoftware.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607175614id_/http%3A//www.clarosoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarosoftware.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212143214id_/http%3A//www.clarosoftware.com/privacy.php) for the most accurate reproduction.*
 
-# Claro Software - WordRead | ScreenRuler | ClaroRead | MindFull | SpeakOut
-
-**  
-Privacy Policy**
+# Privacy | Claro Software - WordRead | ScreenRuler | ClaroRead | MindFull | SpeakOut
 
 We intend to protecting your privacy. We use the information we collect about you to process enquiries, orders, shipments and to provide an efficient service to you. We may also use it to tell you about changes in our product range or about special offers we think you'll find of interest. We do not intend to sell, trade or rent your personal information to others. We may choose to do so in the future, but you can tell us not to by opting out during the registration process. Your personal information may also be used by us and our affiliates to occasionally notify you about important changes or updates to our web site, new Claro Software products and special offers we think you'll find valuable. Again, you can request not to receive such information by opting out during the registration process. 
 
