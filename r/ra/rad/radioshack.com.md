@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2007-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070615221652id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212131419id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # RadioShack.com Helpdesk
 
