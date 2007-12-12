@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527164541id_/http%3A//vovici.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212094836id_/http%3A//www.vovici.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Vovici: Leading web surveyor provider contact information and privacy policy
 
-Last Revised: 11/21/2006
+Last Revised: 8/28/2007
 
 This policy demonstrates our firm commitment to online privacy. Information obtained from visitors and customers will only be used for internal purposes. At no time will we sell, rent, or otherwise distribute your personal information or survey data to a third party.
 
@@ -59,13 +59,9 @@ We do not link this automatically-collected data to personally identifiable info
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. More information about cookie technology can be found on the Microsoft® website at: <http://www.microsoft.com/info/cookies.mspx>.
-
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We use both temporary and persistent cookies to maintain your session with our website and provide website usage statics. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. More information about cookie technology can be found on the Microsoft® website at: <http://www.microsoft.com/info/cookies.mspx>.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. As some of our promotions or surveys may be targeted towards responses to a particular marketing program, if the persistent cookie for that program is not present due to visitor deletion, you may not be invited to participate in the corresponding survey or promotion.
-
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Vovici (this site) only and does not cover the use of cookies by any advertisers. 
 
 ### Security Measures
 
