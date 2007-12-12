@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php%3Flid%3Dfooter_privacy%26article%3D399%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - VoIP Internet Phone Support: Vonage – A Better Way to Phone for Less
 
 Privacy Policy
 
@@ -26,7 +26,7 @@ Vonage believes that Spyware is a threat to consumer privacy and a consumer's ex
 
 Vonage will use PII (1) to market products and services to Customers and Visitors that Vonage believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist Vonage in the marketing and provision of such services and products to Vonage, Customers or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from Vonage. Vonage only works with partners whom we believe maintain high standards with respect to privacy and consumer rights.
 
-Vonage may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [Terms of Service](https://web.archive.org/features_terms_service.php?lid=footer_terms), as required by courts or administrative agencies or in connection with a sale, merger or reorganization of Vonage's business.
+Vonage may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [Terms of Service](https://web.archive.org/features_terms_service.php?lid=footer_terms&refer_id=WEBPV0706010001W1), as required by courts or administrative agencies or in connection with a sale, merger or reorganization of Vonage's business.
 
 Non-PII may be shared with any number of third parties by Vonage.
 
@@ -50,7 +50,7 @@ Subject to certain security requirements, Vonage will do its best to honor reque
 
 ### Children's Privacy Policy
 
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php?article=1217).
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1).
 
 ### Vonage Spam Policy
 
@@ -82,11 +82,17 @@ Our service is maintained in the United States of America. By using our services
 
 ### Questions
 
-For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20070624074628id_/http%3A//www.vonage.com/help.php?article=1217)
+For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20071212192407id_/http%3A//vonage.com/help.php?article=1217&refer_id=WEBPV0706010001W1)
 
 ### Effective Date
 
 This Privacy Policy was last updated on November 8, 2006.
 
   
-< Back 
+
+
+* * *
+
+  *      Did this article answer your question today?Yes No
+
+
