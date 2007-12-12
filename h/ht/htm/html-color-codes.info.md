@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629142256id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212124340id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Html Color Codes Privacy Policy
 
@@ -14,9 +14,6 @@ With respect to cookies: We use cookies to record session information, such as i
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-\- [Google.com](http://www.google.com/privacypolicy.html)  
-\- [Godaddy.com](http://www.godaddy.com/gdshop/legal_agreements/show_doc.asp?se=%2B&pageid=PRIVACY)   
-\- [Cj.com](http://cj.com/privacy.html)
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
