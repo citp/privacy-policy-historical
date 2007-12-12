@@ -1,57 +1,54 @@
-> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224120id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212091023id_/http%3A//www.flasharcade.com/htmlpages/privacy.html) for the most accurate reproduction.*
 
-# CleverMedia
+# Privacy - Flash Arcade Games
 
-CleverMedia, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. We do not collect information for any marketing purposes at all. No membership or sign-up is required for playing any of the games on our sites.
+|  |  |  |  |   
+---|---|---|---  
+|   |  |   
+|   
+|   
+|  |  |  |  |   
+---|---|---|---  
+| Privacy |  |   
+  
+Flasharcade.com is very cautious about how your information is collected when you surf our website and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. We receive and store any information you enter on our website or give us in any other way for responding to your requests, improving our website, customizing future services for you, and to communicate with you for special offers, bonus points and related marketing information and activities. Information about our customers is an important part of our business, and we do not sell it to others. We share customer information only with the subsidiaries of Flasharcade.com, business partners or affiliated companies. As we continue to develop our business, we might sell or buy other companies or entities. In such transactions, customer information generally is one of the transferred business assets. In the unlikely event that any of our assets are acquired, customer information might be one of the transferred assets. We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements, or protect the rights, property, or safety of Flasharcade.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We work to protect the security of your information during any data transmission. This Privacy Statement may be subject to change without notice. This notice will still govern your use of our services and it is your responsibility to review them for any occurring changes. Flasharcade.com does not sell products on its own. If you are under 18, you may use the services and offers only with involvement and approval of a parent. If you choose to visit our website and use our services in any way, your visit and any dispute over privacy is subject to this Privacy Statement and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state. Our business changes constantly. This Privacy Statement and the Conditions of use will change too and use of information that we gather now is subject to the Privacy Statement in effect at the time of use. You should check our website frequently to see any new changes.
 
-High Score Board Names: Under our new system, you can submit your score as a guest using any name or alias. No other information is recorded. If you wish, you can sign up for a reserved name, which can be an alias. This means that no one else can use your name or alias on the high score boards from that point on. To do this, you must provide an email address. This is used to email a password to you. it is also used to verify that you have not signed up for a reserved name before -- we want there to be only one reserved name per person. We do not use this email address for any other purpose. We do not resell this email address or use it to send any announcements, newsletters or advertisements. Optionally, you can provide your location from a list of counties and states. This is to allow us to show high score boards sorted by location. It is not used in conjunction with your email address for any other purpose.
+|   
+|   
+   
+|  |  |  |   
+---|---|---|---  
+| More Games |  |   
+  
+[  
+Electric Man 2 Game](http://www.flasharcade.com/action-games/electric-man-2-game.html)
 
-Multiplayer Game Names: Users are asked for an alias when they enter a multiplayer game area. This alias is used to identifiy the players in the game. No other information is collected. These aliases are not used for any other purpose.
+[  
+Soccer Thugs Game](http://www.flasharcade.com/action-games/soccer-thugs-game.html)
 
-Recommend to a Friend: When you use the "Recommend this game to a friend" feature on one of our sites, your email address is required so that it can be attached to the email, just like it would be if you were sending an email using client software. We do not use this email address for any other purpose.
+[  
+Spin Sprint Game](http://www.flasharcade.com/action-games/spin-sprint-game.html)
 
-Advertisements: CleverMedia uses a variety of Web advertising companies. These companies place banner ads and pop-up windows on our site automatically. They each have a privacy policy. You can find the individual ad company policies in links organized by site further down in this document.
+[  
+vitisus range Game](http://www.flasharcade.com/action-games/vitisus-range-game.html)
 
-CleverMedia does not collect email addresses or any other information about our visitors except where specified above.
+[  
+Zombie Survival SM Game](http://www.flasharcade.com/action-games/zombie-survival-sm-game.html)
 
-**COPPA Compliance** :
+[  
+BRs Climate Chaos Game](http://www.flasharcade.com/adventure-games/brs-climate-chaos-game.html)
 
-CleverMedia is required by law to provide you with the following information:  
+[  
+Escape Game](http://www.flasharcade.com/adventure-games/escape-game.html)
 
+[  
+Im With Stupid Game](http://www.flasharcade.com/adventure-games/im-with-stupid-game.html)
 
-* There is a link to the site's privacy policy (this page) on the home page of each of CleverMedia sites. 
-* There is a a link to the site's privacy policy on each page where personal information is collected. However, no personal information collected on any of our pages.
-* Here is a disclosure of the types of personal information we collect from children and how our site uses that information: We don't collect ANY information from children.
-* Here is a disclosure in about whether the personal information we collect from children is shared with third parties, and, if so, how the third parties use the information: We don't collect ANY information from children or anyone else, so we don't have any information to share.
-* Here is a disclosure in that parents have the right to review and delete any personal information your site previously collected from their child: We don't collect ANY information from children or anyone else, so we don't have any information that parents can review or delete.
-* Here is the contact information for our website operator: [email us](http://clevermedia.com/email-feedback.html). See the bottom of this page for complete contact information.
+[  
+Little Loki Game](http://www.flasharcade.com/adventure-games/little-loki-game.html)
 
-**Privacy at the CleverMedia Shockwave Arcade:**
+[  
+Mindscape Game](http://www.flasharcade.com/adventure-games/mindscape-game.html)
 
-CleverMedia.com uses third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here.](http://www.sonar.com/content/privacy.htm)
-
-Some ads at our sites are served by Tribal Fusion. Read their privacy statement at <http://www.tribalfusion.com/www/about/privacy.html>.
-
-Some ads at our sites are served by ValueClick. Read their privacy statement at <http://www.valueclick.com/privacy.html>.
-
-Some ads at our sites are served by Commission Junction. Read their privacy statement at <http://www.cj.com/privacy.asp>.
-
-Some ads at our sites are served by 24/7 Media. Read their privacy policy at <http://www.247media.com/privacy.html>.
-
-Some ads at our sites are served by MaxOnline. Read their privacy policy at <http://www.maxonline.com/privacy_policy/index.php>.
-
-**Privacy at Flash Arcade:**
-
-FlashArcade.com ads are served by BurstMedia. Read their privacy statement at <http://www.burstmedia.com/release/privacy.asp>.
-
-* * *
-
-**CONTACT INFORMATION**
-
-If you have any further questions, please [contact us](http://clevermedia.com/email.html).
-
-According to law, we must provide complete contact information in our privacy policay. This information is provided for privacy policy issues ONLY. If you use this to SPAM us or send us unsolicited mail or make unsolicited phone calls, we will take appropriate action.
-
-Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/email-feedback.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
-
-Mailing address: CleverMedia, 1022 N. Speer Blvd., Denver, CO 80204. Do not send us junk mail.
+|   
+| 
