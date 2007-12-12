@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629163939id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003200id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # TheStreet.com Privacy Policy
 
@@ -8,13 +8,20 @@
 Market Overview
 
   
+
+
+[  
+](http://ad.doubleclick.net/clk;141005057;4639705;a?http://clk.atdmt.com/OY6/go/thstrtd80010000180oy6/direct;at.Q108_TDAStreetFIN_FIN_Market_Data_Box_B4td_bra_bra_x21_q108_120x30_0gifthstrtd80010000180oy6/01/)
+
   
   
+[](http://www.thestreet.com/mobile/index.html?puc=mblelftnav)
+
 [](http://www.thestreet.com/_tscleftnav/newsanalysis/topten/index.html)
 
 [](http://www.thestreet.com/_tscleftnav/tsc/landingpages/goodlife/index.html)
 
-[RSS FEED](http://www.thestreet.com/_tscleftnav/tsc/rss/)
+[RSS FEEDS](http://www.thestreet.com/_tscleftnav/tsc/rss)
 
   
 |  |  **TheStreet.com, Inc. Privacy Policy**  
@@ -59,7 +66,7 @@ You can control your browser's settings regarding cookies by selecting "Internet
 
 **Revenue Science**
 
-In addition to our own internal tracking, we utilize the services of [Revenue Science](http://www.revenuescience.com/privacyStatement.asp), a company that provides data analyses and audience segmentation services, in order to better target advertising to our visitors based on their activity on our sites. To view Revenue Science's privacy policy, [click here](http://www.revenuescience.com/privacyStatement.asp). Revenue Science does not collect personally identifiable information, but instead performs real-time targeting of advertising based on anonymously tracked user activity. This enables us to serve advertisements that are more likely to be interesting to users based on their activity on our sites. If you would like to opt out of Revenue Science's association of tracking information with your browser, please [click here](http://www.networkadvertising.org/optout_nonppii.asp) and follow the instructions on the page.
+In addition to our own internal tracking, we utilize the services of [Revenue Science](http://www.revenuescience.com/site/privacy.asp), a company that provides data analyses and audience segmentation services, in order to better target advertising to our visitors based on their activity on our sites. To view Revenue Science's privacy policy, [click here](http://www.revenuescience.com/site/privacy.asp). Revenue Science does not collect personally identifiable information, but instead performs real-time targeting of advertising based on anonymously tracked user activity. This enables us to serve advertisements that are more likely to be interesting to users based on their activity on our sites. If you would like to opt out of Revenue Science's association of tracking information with your browser, please [click here](http://www.networkadvertising.org/optout_nonppii.asp) and follow the instructions on the page.
 
 **Atlas**
 
