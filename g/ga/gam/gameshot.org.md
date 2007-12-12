@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the gameshot.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212195501id_/http%3A//www.gameshot.org/policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Privacy Statement for gameshot.org 
+
+We can be reached via e-mail at email@gameshot.org 
+
+Gameshot.org uses session cookies to allow users to have access to the members area using the login form. We don't give any information about our members (nickname, password, email-address) to third parties. Furthermore, we do not collect any informations about our visitors. 
+
+Ad companies' advertisements may contain cookies. We only choose trustable ad servers but we do not have access to the collected information. 
+
+The information we collect from user submissions is used for internal review and is then discarded. 
+
+Gameshot.org contains links to other sites. Gameshot.org is not responsible for the privacy practices or the content of such Web sites. 
