@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgestorm.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627151958id_/http%3A//www.knowledgestorm.com/MainServlet%3FksAction%3Daboutus%26pageName%3D/resources/content/c_privacy.jsp%26header%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgestorm.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212180100id_/http%3A//www.knowledgestorm.com/MainServlet%3FksAction%3Daboutus%26pageName%3D/resources/content/c_privacy.jsp%26header%3D1) for the most accurate reproduction.*
 
 # KnowledgeStorm - About Us - Privacy Statement
 
@@ -46,6 +46,9 @@ If you have accessed the Web Site from the web site of one of our partners or sp
 
   
 We do not provide copies of our email subscriber database information to third parties. As a Registered User and based on the preferences you share at registration, you will occasionally receive information on products, services, special deals and newsletters. Out of respect for your privacy we present the option to not receive these types of communications. As part of our services, we may contact you with offers, promotions and information on interactive sessions sponsored by identified third parties. All the content related to such correspondence is provided by our sponsors, and KnowledgeStorm disclaims any liability for such content. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the promotion. KnowledgeStorm will notify the third parties of the Privacy Policy that governs your information, however, KnowledgeStorm has no control over the third-party sponsors' use of this information. KnowledgeStorm will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
+
+  
+Third party research companies may set cookies regarding exposure to certain banner advertising placements and these cookies may be used later for research purposes if users opt in to take a survey. 
 
   
 You may elect to receive one or more of the KnowledgeReports weekly e-mails provided as a service to KnowledgeStorm users by IT Business Edge. If you become a KnowledgeReports subscriber, your contact information, weekly report selections and other personal information will be shared with IT Business Edge so it can deliver the weekly KnowledgeReports you choose, periodic special reports related to your topical selections, and information on related products and services from KnowledgeStorm, IT Business Edge and third parties. You will receive information on related products and services only if you indicate a desire to receive Special Offers as a registered user of KnowledgeStorm. Emails containing this information will be sent by IT Business Edge, which will never share your personal information with third parties without your permission. 
