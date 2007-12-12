@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626184911id_/http%3A//www.discountmugs.com/usa/support-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212213743id_/http%3A//www.discountmugs.com/usa/support-privacy.htm) for the most accurate reproduction.*
 
 # Discountmugs - Coffee Mugs, Travel Mugs, Water Bottles, Pens, Glassware, Commemorative Plates, Tiles & Promotional Items
 
