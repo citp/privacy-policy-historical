@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2007-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070117124200id_/http%3A//www.beyondhollywood.com/%3Fpage_id%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212074655id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BeyondHollywood.com | Asian, Foreign, Horror, and Genre Movie Reviews and News
-
-Written by Nix on 09.24.06 
 
 BeyondHollywood.com takes your privacy very seriously. Below, find our privacy policy, which is updated as of October 8, 2004:
 
@@ -16,7 +14,7 @@ We use third-party advertising companies to serve ads . These companies may use 
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Please take note that by the time you found our site, you had received third-party cookies from all those other sites you visited as well, so they are not unique to us. In fact, this is the norm when browsing the Internet.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Please take note that by the time you found our site, you had received third-party cookies from all those other sites you visited as well, so they are not unique to us. In fact, this is the norm when browsing the Internet.
 
 **Personal Information**
 
@@ -28,12 +26,8 @@ The only email addresses that are collected by us are those volunteered by our v
 
 **External Links**
 
-BeyondHollywood.com contains links to other sites that we think are interesting and that you may also find interesting. Nixflix.com is not responsible for the privacy practices or the content of any sites outside of our own. Please surf our external links at your own choice.
+BeyondHollywood.com contains links to other sites that we think are interesting and that you may also find interesting. BeyondHollywood.com is not responsible for the privacy practices or the content of any sites outside of our own. Please surf our external links at your own choice.
 
 **Contacting Us  
 **  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster at nix(at)beyondhollywood.com
-
-### Leave a Reply
-
-You must be [logged in](http://www.beyondhollywood.com/wp-login.php?redirect_to=http://www.beyondhollywood.com/?page_id=15) to post a comment.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster using the contact form below:
