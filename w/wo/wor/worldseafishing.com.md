@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430020758id_/http%3A//www.worldseafishing.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163910id_/http%3A//www.worldseafishing.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# About World Sea Fishing
+# WSF Terms and Conditions
 
-[Back to about us](https://web.archive.org/aboutus/)
-
-### Privacy Policy 
+Privacy Policy
 
 This privacy policy is applicable to any personal information which is given by You to World Sea Fishing ("User Information") via the web site located at www.worldseafishing.com and all its related domains, the World Sea Fishing web site.
 
 "You" shall mean you, the user of the site, "World Sea Fishing" shall mean World Sea Fishing and its associated members and the "World Sea Fishing Site" shall have the meaning as set out above.
+
+World Sea Fishing Ltd is registered under the Data Protection Act 1998.
 
 When using the World Sea Fishing Site You will encounter areas such as competitions or chat forums where You may be asked to enter User Information. Such User Information will only be used for the purposes stated at the collection point or in accordance with this Privacy Policy.
 
@@ -24,6 +24,9 @@ World Sea Fishing reserves the right, at any time, to modify, alter, or update t
 
 Our web site uses third party advert servers (such as DoubleClick, ValueClick, Google) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you.
 
-| 
+|  |   
+---  
+  
+WSF FAQ & Help
 
-* * *
+Coming Soon!
