@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204051318id_/http%3A//www.exchange3d.com/cubecart/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212094728id_/http%3A//www.exchange3d.com/cubecart/privacy-policy/info_4.html) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Models and 3D Graphics in Exchange3D Media Store
 
