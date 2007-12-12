@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519002135id_/http%3A//www.limabeads.com/store/content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212040404id_/http%3A//www.limabeads.com/store/content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Lima Beads
 
 [](https://web.archive.org/store/content/ShippingPolicy)
-
-## We value your privacy
 
 Your privacy is very important to us. In fact, we treat it like it is our own. We handle your information privately, and with care, to ensure that your experience with us is positive in every way.
 
