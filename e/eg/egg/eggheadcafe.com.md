@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
 
 # EggHeadCafe.com Privacy Policy
 
@@ -8,24 +8,24 @@ Search
   
   
 | Member Details  
-| | [Login](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/login.aspx)  
-| | [Submit Article](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/managearticle.aspx?id=5e333c39-cc58-48c1-a688-006c2e9b94f9)  
-| | [My Articles](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/articlelist.aspx?myarticles=true&userid=00000000-0000-0000-0000-000000000000)  
-| | [My Posts](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forummyposts.aspx?userid=00000000-0000-0000-0000-000000000000)  
+| | [Login](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/login.aspx)  
+| | [Submit Article](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/managearticle.aspx?id=f53945d4-7b83-4430-be02-2e946db6733d)  
+| | [My Articles](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/articlelist.aspx?myarticles=true&userid=00000000-0000-0000-0000-000000000000)  
+| | [My Posts](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forummyposts.aspx?userid=00000000-0000-0000-0000-000000000000)  
 | Messageboard  
-| | [New Posts](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumrecent.aspx)  
-| | [Dr. Dotnetsky](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=12)  
-| | [C#](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=2)  
-| | [VB.NET](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=14)  
-| | [VS.NET](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=7)  
-| | [ASP.NET 1.1](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=6)  
-| | [ASP.NET 2.0](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=17)  
-| | [JavaScript](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=3)  
-| | [SQL 2000](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=9)  
-| | [SQL 2005](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=13)  
-| | [VB 6.0](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=8)  
+| | [New Posts](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumrecent.aspx)  
+| | [Dr. Dotnetsky](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=12)  
+| | [C#](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=2)  
+| | [VB.NET](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=14)  
+| | [VS.NET](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=7)  
+| | [ASP.NET 1.1](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=6)  
+| | [ASP.NET 2.0](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=17)  
+| | [JavaScript](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=3)  
+| | [SQL 2000](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=9)  
+| | [SQL 2005](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=13)  
+| | [VB 6.0](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/forumtree.aspx?topicid=8)  
 | Community  
-| | [All Categories](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/conversationgroupsummary.aspx)  
+| | [All Categories](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/conversationgroupsummary.aspx)  
 | | [.NET](https://web.archive.org/conversationlist.aspx?groupid=454)  
 | | [BizTalk](https://web.archive.org/conversationlist.aspx?groupid=103)  
 | | [Exchange](https://web.archive.org/conversationlist.aspx?groupid=602)  
@@ -50,20 +50,19 @@ Search
 | | [Pete's Blog](http://petesbloggerama.blogspot.com/ "Peter Bromberg's UnBlog")  
 | | [Pete's Resume](http://www.eggheadcafe.com/articles/pbrombergresume.asp "Peter's Online Resume")  
 | | [Robbe's Blog](http://robbemorris.blogspot.com/ "Robbe's Blog")  
-| | [Robbe's Resume](https://web.archive.org/robbemorris.htm "Robbe's Online Resume")  
-| | [Crystal Reports](http://www.crystalreportsbook.com/ "Crystal Reports Book")  
+| | [Robbe's Resume](https://web.archive.org/robbemorris.htm "Robbe's Resume")  
 | | [XmlPitStop](http://www.xmlpitstop.com/ "XmlPitStop.com")  
 | | [DotNetSlackers](http://www.dotnetslackers.com/ "DotNetSlackers.com")  
 | | [Archive #1](https://web.archive.org/ng "Archived .NET Comments")  
 | | [Archive #2](https://web.archive.org/aspnet_answers "Archived .NET Comments")  
 | | [Archive #3](https://web.archive.org/forumarchives "Archived .NET Comments")  
-| | [Miscellaneous](https://web.archive.org/web/20070630181654id_/http%3A//www.eggheadcafe.com/default.aspx)  
+| | [Miscellaneous](https://web.archive.org/web/20071212084808id_/http%3A//www.eggheadcafe.com/default.aspx)  
 | | [Recent](https://web.archive.org/forumrecentthreads.aspx ".NET Answers")  
 | | [MS Resources](https://web.archive.org/conversationlatest.aspx "MS Resources")  
+| | [ASP.NET Tips](https://web.archive.org/asp-net-how-to.aspx "ASP.NET Resources")  
 | | [AWomanToldMe](http://www.awomantoldme.com/tutorials/aspnet/76b02376-9cd6-434c-99d7-6f8d673d8510/job-interview-reality-che.aspx "Women's Issues")  
   
   
-| [](https://web.archive.org/rss.xml "Subscribe to my feed")  
 |   
 |   
   
