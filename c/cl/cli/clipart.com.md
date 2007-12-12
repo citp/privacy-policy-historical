@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623193841id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212063211id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
 
 # Clipart - Download Royalty-Free Clipart, Images, Fonts, Web Art and Graphics
 
@@ -47,13 +47,13 @@ Wherever JUPM collects personal information we make an effort to include a link 
 **Will you disclose the information you collect to outside third parties?**
 
 JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-    1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
+1) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
 
-    2)   Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
+2) Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
 
-    3)   Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
+3) Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
 
-    4)   Fulfill a user's order or request. 
+4) Fulfill a user's order or request. 
 
 JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
 _See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
