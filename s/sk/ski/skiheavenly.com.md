@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426164056id_/http%3A//www.skiheavenly.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212222319id_/http%3A//www.skiheavenly.com/privacy_policy) for the most accurate reproduction.*
 
-# Heavenly Mountain Resort - Skiing & Snowboarding, Lake Tahoe - Privacy Policy
+# Heavenly Mountain Resort - Privacy Policy
 
 The Vail Corporation and its subsidiary companies ("VRMC") are committed to protecting the personal privacy of visitors and guests using its Internet sites. 
 
