@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629162517id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213002434id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
 
 # J!NX : Privacy Policy
 
