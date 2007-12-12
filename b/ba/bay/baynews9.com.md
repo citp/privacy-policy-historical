@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403233851id_/http%3A//www.baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212124904id_/http%3A//baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# baynews9.com - Privacy Policy
+# Station Information - Privacy Policy - Bay News 9
 
 ## Privacy Policy 
 
@@ -35,12 +35,15 @@ Some of our advertisers occasionally serve you cookies as well. We do not have c
 
 If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of **BayNews9.com** may not function properly.
 
-While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. **IP Address:**
+While your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our web site. **Kids and Parents:**  
+**IP Address:**
 
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our web site.
 
-**BayNews9.com** is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+ **Kids and Parents:**
+
+ **BayNews9.com** is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.  
 If you're worried about your children's activities or their privacy on our site, we encourage you to please click here to contact our web master.
