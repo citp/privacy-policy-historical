@@ -1,107 +1,256 @@
-> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603015134id_/http%3A//www.workopolis.com/servlet/News/help/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003726id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
 
-# Help @ workopolis.com
+# workopolis.com - Privacy Policy - Canada's Biggest Job Site
+
+| 
 
 ### WORKOPOLIS PARTNERSHIP PRIVACY POLICY
 
-_Last updated April 11, 2001_
+_Last Updated on May 18, 2006_
 
-At Workopolis Partnership ("Workopolis"), protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect, and in accordance with this Privacy Policy. This Privacy Policy explains how personal information about you may be collected, used, or disclosed as a consequence of your activities on this Site. We urge you to read it carefully.
+p align="justify">At the Workopolis partnership ("Workopolis"), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. 
 
-**By accessing, using and/or downloading materials from or sending or posting materials to, this Site, you agree on your own behalf and on behalf of each entity on whose behalf you act, to the terms of this Privacy Policy and to the practices for the collection, use or disclosure of your personal information as described here.**
+This Privacy Policy explains how personal information about you may be collected, used, or disclosed as a consequence of your activities on the Workopolis Web site. We urge you to read it carefully.
 
-Please note that this Site is also governed by the [Terms and Conditions](https://web.archive.org/servlet/News/help/privacy/terms) of Use. We urge you to review the Terms and Conditions of Use before proceeding further on this Site.
+By registering on this site, by submitting your resume or any information through the use of this site, or by otherwise accessing this site, you agree to the terms of this Privacy Policy and consent to the policies and practices described for the collection, use or disclosure of personal information.
 
-  * What information do we collect?
-  * Personal information collection, use and distribution to third parties
-  * How do you access and update your information?
-  * How is your information secured and protected?
-  * What if we change our Privacy Policy?
-  * Co-hosted websites
-  * Website links
-  * Additional Privacy Procedures
-  * Privacy Policy with respect to use of Resumés.
-  * We want your feedback
-
-
-
-###   
-WHAT INFORMATION DO WE COLLECT? 
-
-**Anonymous browsing**  
-You can visit this Site without telling us who you are or revealing any information about yourself, including your email address. In this case, our Web server may collect the name, address, the IP address and domain you used to access this Site, the type and version of browser and operating system you are using, and the web site you came from and visit next. This information is used by us and our business partners to measure the number of visits, average time spent, page views, and other statistics about visitors to this Site in general. We may also use this data to monitor site performance for systems administration purposes, to make this Site easier and more convenient to use and to report information in aggregate form to our advisers (e.g. how many visitors log in to this Site).   
+  * Protection of Personal Information
+  * What Information Do We Collect
+  * Use of Information by Workopolis
+  * Retention of Information
+  * Your Consent
+  * Disclosure of Information
+  * Access and Accuracy and Update of Personal Information
+  * Safeguards
+  * Changes To Our Privacy Policy
+  * Co-Branded and Other Associated sites
+  * Contact Us
 
 
-**Cookies**   
-Cookies are small pieces of data stored by your Internet browser on your computer's hard drive, which permits us to recognize you when you access this Site. If you are browsing, a cookie is used to help us measure the number of visits, average time spent, page views, and other statistics relating to your use of this Site. If you are searching, a cookie is used to carry the search request data from the request page to the results page. This cookie, by itself, doesn't tell us your email address or who you are. If you decide to register on-line with us, we may collect additional information to provide tailored job opportunities or other information to you (see Personal Information Collection below). In this case, we use cookies to recognize you on subsequent visits and make your on-line experience more convenient, unless prohibited by law. 
 
-Please note portions of this Site will not function if you do not accept cookies. 
+**1\. Protection of Personal Information**
 
-Tracking user preferences also helps us serve you targeted advertising. Targeted advertisements are probably more interesting for you and are more productive for our advertisers. 
+  1. Canadian law governs the collection, use and disclosure of personal information in a manner that recognizes individuals’ right of privacy with respect to their personal information.
 
-**For more information on cookies and how we use them,[click here](https://web.archive.org/servlet/News/help/privacy/cookies)**  
+  2. The federal _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”) sets out rules and principles for the management of personal information by commercial organizations. Workopolis services are made available to employers and job seekers across Canada. PIPEDA applies to Workopolis because Workopolis has its headquarters, servers and databases in Ontario, Canada. This Privacy Policy adopts the standards required by PIPEDA and applies to all personal information submitted to or collected by Workopolis.
 
+  3. The type of personal information that is protected includes almost any information about an identifiable individual, such as your name, address, telephone number, age, sex, marital status and nationality. Personal information may not, however, include certain types of business or employment related information. It does not, for example, include the name, title, business address or telephone number of an employee of an organization. Information contained in Resumés that you elect to post to this site may constitute personal information and would be subject to this Privacy Policy.
 
-### PERSONAL INFORMATION COLLECTION, USE AND DISTRIBUTION TO THIRD PARTIES
+  4. PIPEDA provides certain fundamental principles which apply to the collection, use and disclosure of your personal information. One of the most significant, is that your personal information generally cannot be collected, used or disclosed without your consent. It also allows you to find out why your personal information is being collected, how it is being used, where it’s being stored and to whom it’s disclosed. It requires the use of appropriate safeguards to secure your personal information. It also grants you access to your personal information and provides mechanisms for ensuring compliance.
 
-**Generally**  
-There are times when we may ask you for or you may choose to provide information about yourself or your business to assist us in meeting your various needs. This information may be used for the following purposes: answering your questions, providing you with services you have requested, giving producers and developers of the Site information that is useful in determining appropriate new features, content and services, to provide advertisers with aggregate, not individual, information about our customers, or informing you of additional services or job opportunities provided by Workopolis or by our business partners, that may interest you. 
-
-To provide these services, we may need to ask you directly to provide, among other things, your name, mailing address, postal code, email address and phone number ("Registration Information"). Workopolis is a partnership of The Globe and Mail and The Toronto Star. As such, Workopolis is part of the [Globe Interactive](http://www.globeinteractive.com/) or [globeandmail.com](http://www.globeandmail.com/) family of web sites and services. Once you register with Workopolis you are automatically registered for all other Globe Interactive services. Your Registration Information may be shared, _for internal purposes only_ , so that you do not need to re-register with any services that require registration on Globe Interactive sites. The Globe Interactive sites currently are as follows: [globefund.com](http://www.globefund.com/), [globeinvestor.com](http://www.globeinvestor.com/), [globebooks.com](http://www.globebooks.com/), [globeandmail.com](http://www.globeandmail.com/), [globemegawheels.com](http://www.globemegawheels.com/), [robtv.com](http://www.robtv.com/), [robmagazine.com](http://www.robmagazine.com/) and [globetechnology.com](http://www.globetechnology.com/) (collectively the "Globe Interactive Sites"). Each of the Globe Interactive Sites has its own privacy policy, which may vary from that of Workopolis. We encourage you to review the other Globe Interactive Sites' privacy policies to understand their procedures for collecting, using and disclosing information. By registering with Workopolis, you agree that your Registration Information may be shared with the Globe Interactive Sites and used in accordance with their privacy policies. If you do not wish your Registration Information to be shared with the other Globe Interactive Sites, you should not register with Workopolis. What information is shared? Your user name, password and postal code -- **not any of the personal information** you supply when you add a resumé to "My workopolis". (please refer to our further Privacy Policy with respect to Resumés for more information)
-
-You may also elect to apply on-line to a job posting or to purchase one of our services, which may require us to gather additional information for third parties (including credit information) to determine your eligibility. At times, we also conduct on-line surveys to better understand the needs, profiles, and experience of our visitors. You will be given the option to participate in such surveys. Unless you request to receive the results of the survey via email, no personal information is requested during such surveys and all information is used on an aggregated basis only. If, during the registration process, you indicated you would like us to keep you updated on new site developments, and information about our services or about offerings from Workopolis and/or globeandmail.com or Torstar Media group, we will send you these updates by email. If you contact Workopolis we may keep a record of that correspondence. We do not collect any email addresses of those who communicate with Workopolis via email. We use the information provided only so that we may respond to the email. 
-
-We do not knowingly solicit information from children and we do not knowingly market our services to children. 
-
-When you provide information to us, we may communicate and disclose your information to third parties for the purpose of fulfilling, servicing and completing your requests and the transactions related to it. These third parties may be in Canada or in other parts of the world. 
-
-We may also aggregate statistics that we gather about the visitors to the Site, sales, traffic patterns, and services and provide these statistics to third parties; however, when we do, these statistics will not include any personal information that identifies individuals. 
-
-We may also use, disclose and communicate your personal information if required to do so by law including by an order of any court.
-
-Although we use all reasonable means to ensure that the information you provide to us is not used by third parties for purposes other than those described in this Privacy Policy, Workopolis is not responsible for any improper use of your personal information that is beyond our reasonable control.   
+  5. Workopolis does not collect, use or disclose your personal information without your consent except where required or allowed by law.
 
 
-**Resume Collection**  
-As part of the services we provide, you may choose to provide us with your resume, to be viewed by various organizations who access this Website. In addition to the provisions of this Privacy Policy, the collection, use and distribution of your resume is governed by the terms set out at http://www.workopolis.com/content/home/terms.html 
-
-### HOW DO YOU ACCESS AND UPDATE YOUR INFORMATION?
-
-Workopolis provides you with the means to access, update, edit or delete the Registration Information you have provided to us at any time on your own by going to [http://www.workopolis.com](http://www.workopolis.com/) and changing or deleting the Registration Information contained in My Workopolis as desired. If you decide at any time that you do not want to receive any updates you have subscribed for just send an email message to comments@workopolis.com, indicating your preference not to receive updates. If you are unsure whether we have a record containing your personal information and would like to confirm whether or not we do, please send an email at comments@workopolis.com, indicating all email addresses which you may have given us.   
 
 
-### HOW IS YOUR INFORMATION SECURED AND PROTECTED?
+**2\. What Information Do We Collect**
 
-Where Workopolis considers it appropriate, Workopolis uses encryption and/or authentication tools among other methods to protect certain web-based personal information. E-mails you send us are not necessarily secure when they are transmitted to us. If your communication is sensitive or includes confidential information such as a credit card number, you may want to provide it by post or via the telephone instead. 
+  1. Workopolis limits the collection of your personal information to that which is required or permitted by law. Workopolis collects such personal information as is required for the purposes identified by us in this Privacy Policy or identified by us at the time that we collect the information from you.
 
-We work to protect the security of your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal any of your credit card number when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  2. Workopolis requests certain information from you if you elect to register as a user of this site (“ **Registration Information** ”). Registration Information includes your full name, email address and postal code.
 
-We instruct our employees with access to your information that it is to be used only in adherence with the principles set forth in this Privacy Policy and the laws applicable to each specific business. Employees who misuse customer information may be subject to disciplinary action.
+  3. If you are a registered user of the site you may elect to post one or more resumés (“ **Resumés** ”) to the site. The extent of the information that is collected when you post a Resumé depends on what you choose to place in your Resumé. At a minimum, if you post a Resumé, Workopolis will require that you provide your full name, postal code, phone number and email address. Your Resumé may contain additional information such as your experience, education, skills or any other information about yourself that you decide to provide.
 
-### WHAT IF WE CHANGE OUR PRIVACY POLICY?
+  4. At times, we may ask you to provide us with general information (“ **User Information** ”) about you to assist us in meeting your various needs or to better understand the requirements, profiles and experience of our site visitors. This information includes information that is collected if you choose to participate in a survey, if you ask to be kept updated about new developments or services offered by Workopolis or its affiliates, or if you contact Workopolis.
 
-Workopolis reserves the right to modify or supplement this Privacy Policy statement at any time. If we make any material change to this Privacy Policy, we will update this Site to include such changes and post a notice on our home page, for a period of 30 days, with a link to the updated Privacy Policy. Please read any such notice and the new policy statement. If you return to this Site after a period of more than 30 days, please check this Privacy Policy to confirm that you are aware of the details of the most recent update. Please look at the top of this Privacy Policy to check the date that it was updated and to confirm that you are familiar with the terms of the most recent update. Your continued use of this Site after we post such notice will constitute your acceptance of the new terms and their application to your use of this Site and the information disclosed for such use, including information previously furnished us, as if they were the initial terms, and your consent to the use of your personal information as described in this privacy policy and elsewhere at our Website. However, we will seek your consent if we want to use your personal information for purposes other than those you have agreed to previously.
+  5. You can visit this site without telling us who you are and without providing Workopolis with any information about yourself. However, certain anonymous information (“ **Anonymous Information** ”) may be collected by us automatically. Our Web server may collect the IP address and the name of the Internet service provider (“ISP”) associated with the computer from which you accessed this site, the type and version of Web browser and operating system that you are using, and the address of the Web site that you visited prior to this site. If your Web browser is configured to accept cookies, we may place either temporary cookies (only until you exit your current browser window) or permanent cookies (until you manually disable or delete the cookie using your browser software) on your computer. A "cookie" is a small piece of information that our Web server automatically sends to your browser for storage on your computer, which then permits our Web server to recall information about your preferences as a part of the Anonymous Information. Please note that portions of this site will not function if you do not accept cookies.
 
-###  CO-HOSTED WEBSITES
+  6. With the exception of the Anonymous Information described above, you will always know when we are collecting information from you and therefore have the opportunity not to provide the information.
 
-Workopolis has partnered with reputable third parties to offer our customers a variety of services. Many of these services also require registration to make them function properly. You can recognize most of these sites if you see both organizations' names on the Web page. For example, if you see a logo on the page that says "Powered by ", you are on a co-hosted site. We also have other third-party relationships, where the third party provides the technology or service under the Workopolis name and Website. In either of these cases, unless otherwise indicated at the registration page, Workopolis does not provide your Registration Information to its third party partners. Although we only work with reputable third parties, our third party partners may have different privacy policies and practices than Workopolis. We encourage you to review our business partners' privacy policies further to understand their procedures for collecting, using and disclosing information.
+  7. The purposes for which we collect any information will always be as set out in this Privacy Policy or as otherwise expressly communicated to you before we collect the information.
 
-###  WEBSITE LINKS
+  8. We do not knowingly solicit information from children and we do not knowingly market our services to minor.
 
-This Site may contain links to other sites, including those of our business partners, vendors and advertisers. While we try to link only to sites that share our high standards and respect for privacy, please understand that we are not responsible for the content of, or the privacy practices employed by, other sites.
 
-###  ADDITIONAL PRIVACY PROCEDURES
 
-Privacy procedures specific to certain services from Workopolis can be found on our Site at the location of the particular services. Those procedures are an addendum to this policy, and are provided to you at the place where they will be of most use to you. 
 
-### PRIVACY POLICY WITH RESPECT TO USE OF RESUMES
+**3\. Use of Information by Workopolis**
 
-This policy applies in addition to Workopolis' general Privacy Policy and applies to the use of your resume by Workopolis. As part of the services Workopolis provides, you are able to post your resume on our Website. Resumes are accessed by employers ("Employers") who use your resume for internal job postings and by recruiters ("Recruiters") who seek to find you employment with third parties ("Third Parties"). You will be provided with the choice of either allowing all organizations who search workopolis.com's resume service to access your resume and to contact you, or of limiting access to those organizations to whom you chose to apply for a job. Workopolis restricts Employers from using your resume other than for internal recruiting purposes, and restricts Recruiters from disclosing your resume to Third Parties other than for a specific job posting. Employers and Recruiters are not permitted to disclose information outside their organization or beyond the Third Party, as applicable. Recruiters are also required to have entered into an agreement with Third Parties which requires such Third Parties to use your resume solely for the purpose of filling a job within the Third Party for which the information was provided and not disclosing your Resume outside the organization. However, although Workopolis deals only with reputable organizations, we cannot guarantee that all Employers, Recruiters and Third Parties will adhere to the limitations we impose on them. If at any time you would like your resume removed from our Website, this can be done by using the "delete my resume" function located at www.workopolis\myworkopolis.com. However, Employers and Recruiters who have paid to access the resume database or for whose job posting you may have applied to may have already retained a copy of your resume in their own files and databases. 
+**Registration Information**
 
-Some job postings which are posted on the Workopolis Site allow you to follow links to where you can apply, and provide your resume, for a specific job posting. In some cases, such applications are still within the Workopolis Site and its control, however, if you are not asked to login using your workopolis.com Registration User ID and password, then such application process, and your resume are outside the Workopolis Site and Workopolis' control. In such cases you will be providing your resume directly to the Employer or Recruiter and your resume will be subject to their privacy policy. Workopolis is not responsible for the privacy practices of such Employer or Recruiter. In such cases, we encourage you to review the Employer or Recruiter's privacy policy.
+  1. Registration Information is collected primarily for the purpose of identifying you as a user of this site.
 
-Although we use all reasonable means to protect your personal information, Workopolis is not responsible for any improper use of your personal information that is beyond our reasonable control.
 
-### WE WANT YOUR FEEDBACK
 
-In order to continually monitor and strengthen our privacy procedure, we have on staff Laird Farquharson, a Privacy Manager who can be contacted at [privacy@workopolis.com](mailto:privacy@workopolis.com). Please contact the Privacy Manager if you have questions about privacy and usage that were not answered here. We welcome any suggestions about our Privacy Policy. 
+
+**User Information**
+
+  2. User Information, which generally includes the Registration Information, is used primarily to update you on the site and by email regarding new site developments and information about our services or those of our affiliates, to answer your questions and to provide you with services that you have requested.
+
+  3. User Information may also be used to determine appropriate new features, content or services for this site, to provide advertisers and business partners with aggregate but not personally identifiable information about our customers and their preferences, including statistical information about the source of visitors, sales, traffic patterns and use of services.
+
+  4. If you are a registered user of this site and have provided us with Registration Information, we may use your Registration Information and User Information to provide tailored job opportunities or other information to you.
+
+
+
+
+**Anonymous Information**
+
+  5. Anonymous Information is used primarily by us and our business partners to measure the number of visits, average time spent, page views, and other statistics about visitors to this site. We may also use this data to monitor site performance for systems administration purposes, to make this site easier and more convenient to use, for law enforcement purposes, and to report information in aggregate but not personally identifiable form to our advertisers (e.g. how many visitors log in to this site).
+
+  6. If cookies are enabled for your Internet browser, then they are used to help us measure the number of visits, average time spent, page views, and other statistics relating to your use of this site. If you are performing a search on our site, then a cookie is used to carry the search request data from the request page to the results page. This cookie, by itself, does not tell us your email address or who you are.
+
+  7. If we use your Registration Information and User Information to provide tailored job opportunities or other information to you, we use cookies to recognize you on subsequent visits to our site and to make your on-line experience more convenient.
+
+  8. Anonymous Information may be used to serve you with targeted advertising on this site. Targeted advertisements are probably more interesting for you and are more productive for our advertisers.
+
+
+
+
+**Resumés**
+
+  9. Resumés are accessed by employers, recruiters, human resource professionals and other registered users of the Workopolis Resumé database. You will be provided with the choice of either allowing all parties who use our Resumé database service to access your Resumé and to contact you, or of limiting access to those organizations to whom you choose to apply for a job.
+
+  10. Workopolis makes every effort through contractual means and through the use of user IDs and passwords to restrict those who have access to our Resumé database from using Resumés other than for the purpose of fulfilling a job posting. However, Workopolis cannot guarantee that all employers, recruiters and other persons with access will adhere to the limitations that we impose on them, or that unauthorized persons will not gain access to the database. If at any time you would like your Resumé removed from our site, you may do so by using the “delete resumé” function located on the site. However, employers, recruiters and others who have subscribed for access to the Resumé database, or for whose job posting you may have applied, may already have retained a copy of your Resumé in their own systems and databases.
+
+  11. Some job postings which are posted on this site allow you to follow links to other sites where you can apply for specific job postings or submit your Resumé. In many cases these sites are co-branded with the sites of our employer or human resources customers or with the sites of our business partners. In some cases, such sites are still within the control of the Workopolis Web server. Any Resumé or other information of any kind that you provide, including as a part of a job application process, is outside the control of Workopolis and its Web servers. In such cases, you will be providing your Resumé directly to the employer, recruiter, human resources professional or other person, and your Resumé will be subject to their practices and their privacy policies or practices. Workopolis is not responsible for the privacy policies or practices of such third parties. In such cases, we encourage you to review the third party’s privacy policy.
+
+  12. In addition to the provisions of this Privacy Policy, the collection, use and disclosure of your Resumé is governed by the terms and conditions of use of this site, a copy of which can be obtained from the home page of this site.
+
+
+
+
+**Surveys**
+
+  13. When information is collected from you by Workopolis as a part of an online or email survey, unless you request to receive the results of the survey, no personally identifiable information is requested during such surveys and all collected information is used on an aggregated basis only.
+
+
+
+
+**Communication with Workopolis**
+
+  14. If you contact us, we may keep a record of the correspondence but we do not make any use of the email address or other contact information, other than to respond to the communication.
+
+
+
+
+**Improper Use of Personal Information**
+
+  15. Although we use all reasonable means to ensure that the information you provide to us is not used by third parties for purposes other than those described in this Privacy Policy, Workopolis is not responsible for any improper use of your personal information that is beyond our reasonable control
+
+
+
+
+**4\. Retention of Information**
+
+  1. You may choose to delete your Resumé from our records at any time. Certain Registration Information regarding your account with us will normally be retained such as your name, email address and postal code should you wish to post a Resumé or access our services subsequently.
+
+  2. We maintain record retention practices and policies which apply to personal information that is no longer necessary or relevant for the identified purposes, or that is no longer required or permitted by law to be retained.
+
+  3. As a part of our record retention practices and policies, if you email us at [privacy@workopolis.com](mailto:privacy@workopolis.com), we will erase all of your personal information upon request, including your Registration Information and account. If personal information is ever to be used to make a decision about you it will be retained long enough to allow you access to the information after the decision has been made.
+
+  4. All personal information destroyed or erased from our records is done so securely with due regard to the sensitivity of the information.
+
+
+
+
+**5\. Your Consent**
+
+  1. We do not collect, use or disclose your personal information without your consent except where required or permitted by law.
+
+  2. We may, for example, collect, use or disclose personal information without your knowledge or consent in the case of an emergency where the life, health or security of an individual is threatened.
+
+  3. We may also disclose personal information without knowledge or consent to a lawyer or other advisor representing Workopolis, to collect a debt, to comply with a subpoena, warrant or other court order or rules, is required for the investigation or enforcement of laws, or as may otherwise be required or authorized by law. Where a request for personal information is made by an organization claiming lawful authority for the request, Workopolis will take reasonable steps to ensure that the requesting party properly identifies its legal authority.
+
+  4. We will generally obtain your consent electronically on our site. However, it may also be obtained in writing or verbally. In determining the appropriate form of consent, we will consider the sensitivity of and reasonable expectations regarding the personal information.
+
+  5. We will not require you to consent to the collection, use or disclosure of personal information as a condition to the supply of any products or services, except to the extent reasonably required to fulfill the purposes identified in this Privacy Policy or otherwise identified at the time that we collect your personal information.
+
+  6. You may withdraw your consent to the continued collection, use or disclosure of your personal information by Workopolis at any time by sending an email to [privacy@workopolis.com](mailto:privacy@workopolis.com) or by calling 1-888-641-4047, but such a request would be subject to legal or contractual restrictions. We would also require reasonable advance notice to effect any requested changes. A request that we no longer collect or use your Registration Information or certain User Information or Anonymous Information, may mean that we will no longer have practical means to provide you with our services or products. You may no longer be able to log in to our site or may lose certain functionality when visiting the site, including functionality that depends on Anonymous Information such as the placement of cookies.
+
+  7. If you withdraw your consent to the disclosure of personal information that you have previously authorized us to share with others, such as your Resumé, you should know that employers, recruiters and others who have subscribed to the Resumé database or for whose job posting you may have applied, may already have retained a copy of your Resumé or such personal information in their own systems and databases.
+
+
+
+
+**6\. Disclosure of Information**
+
+  1. We will not sell, trade, rent or license personal information that you provide to us.
+
+  2. Workopolis uses a third party service company to process credit card transactions if employers, recruiters and others who have subscribed for access to the Resumé database or other paid services. This will not affect job seekers using our site. The third party service provider is required to comply with privacy laws and principles comparable to ours. All credit card transactions are completed using secure electronic encryption. However, because the company is located in the United States, if personal information is transmitted to the company for the purpose of processing credit card payments, such information is subject to United States laws regarding disclosure.
+
+  3. With the exception of credit card transactions, Workopolis never transfers any personal information to third parties for processing or storage.
+
+  4. However, we may disclose your personal information to third parties who acquire all or a substantial part of the Workopolis business, including by merger, amalgamation, a sale of our assets or in the unlikely event of bankruptcy. Subject to a court order, at the time of such merger, amalgamation, sale or bankruptcy, Workopolis would contractually require any resulting entity that obtains your personal information to comply with its obligations under PIPEDA regarding your personal information, including the applicable terms and conditions of this Privacy Policy.
+
+
+
+
+**7\. Access and Accuracy and Update of Personal Information**
+
+  1. Your personal information is located on a server situated in Toronto, Ontario, Canada.
+
+  2. We will take reasonable steps to ensure that your personal information is as accurate, complete and up-to-date as is appropriate for its purposes and to minimize the possibility that inappropriate information may be used to make a decision about you
+
+  3. Workopolis provides you with the means to access, update, edit or delete the Registration Information and certain other personal information you have provided to us at any time on your own by going to My workopolis on the site and changing or deleting your Registration Information and other personal information as desired. We ask that you regularly log in to the site and update your personal information and in particular your contact information to ensure its accuracy.
+
+  4. You can update or delete your Resumé at any time by logging on to the site and making the required changes. However, employers, recruiters and others who subscribe to the Resumé database or for whose job posting you may have applied, may already have retained a copy of your Resumé in their own systems and databases.
+
+  5. You may similarly contact us to address errors or omissions relating to your personal information by emailing [privacy@workopolis.com](mailto:privacy@workopolis.com) or by telephoning 1-888-641-4047. Workopolis does not share your identifiable personal information with any third party.
+
+  6. If you decide at any time that you do not want to receive any updates to which you have subscribed, you can log in to the site and change your personal preferences or email a request to [comments@support.workopolis.com](mailto:comments@support.workopolis.com) indicating your preference not to receive updates.
+
+  7. Upon request made in writing, Workopolis will inform you of the existence, use and disclosure of your personal information, at minimal or no cost to you, in accordance with processes and procedures that we have put in place for such requests. If you are unsure whether we have a record containing your personal information and would like to confirm what personal information we have, please send an email to [privacy@workopolis.com](mailto:privacy@workopolis.com) with your request, identifying all email addresses which you may have given us. If there is a cost involved at all, we will inform you at that time.
+
+  8. We may require additional information from you in order to verify your identity following an access request. Such personal information will only be used for the purpose of identity verification and will itself be subject to protection under the terms of this Privacy Policy.
+
+  9. Workopolis will respond to all requests for access within 30 days or as otherwise required or permitted by law.
+
+  10. In some circumstances, we may not be able to provide access to all of the personal information that we hold about you. We may not provide access to information if doing so would likely reveal personal information about a third party, could be expected to threaten the life or security of an individual, reveal confidential commercial information, if the information is protected by a legally recognized privilege, if it was created as part of a settlement or dispute resolution process, or if it was collected in relation to the investigation of a breach of an agreement or a contravention of law. Workopolis will provide reasons to you if it refuses an access request.
+
+  11. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+
+
+
+
+**8\. Safeguards**
+
+  1. Where Workopolis considers it appropriate, having due regard to the sensitivity of the particular information that we collect, use or disclose, Workopolis uses encryption or authentication tools, among other methods, practices and procedures, to protect certain your personal information irrespective of which format it is stored in. Our practices and procedures for safeguarding your information are regularly reviewed.
+
+  2. E-mails you send to us are not necessarily secure when they are transmitted to us. If your communication is sensitive or includes confidential information, such as a credit card number, you may want to provide it by post or via the telephone instead.
+
+  3. It is important that you keep your User ID and password information secure and that you not share it with anyone, in order to safeguard your personal information on our Site.
+
+  4. There are occasionally fraudulent “phishing” emails targeting individuals who the perpetrators believe might be registered users of this site. We never send an email which requests users to visit a Web page or place a call and provide their user ID, password or any personal information. We will never ask you to confirm your user ID or password via email. If you ever receive such an email, do not log in from any referred link and do not provide any personal information. You should contact our Business Support Group at 1-888-641-4047 immediately and inform us of the email.
+
+  5. We work to protect the security of credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal credit card numbers when confirming an order.
+
+  6. Our employees receive regular privacy training. Employees are instructed to only use personal information in adherence with the principles set forth in this Privacy Policy and the laws applicable to each specific business. The only employees who have access to your personal information are administrative personnel. Employees who misuse customer personal information may be subject to disciplinary action.
+
+
+
+
+**9\. Changes To Our Privacy Policy**
+
+  1. Workopolis reserves the right to modify or supplement this Privacy Policy statement at any time. If we make any material change to this Privacy Policy, we will update this site to include such changes and post a notice on our home page, for a period of 30 days, with a link to the updated Privacy Policy. Please read any such notice and the new policy statement. If you return to this site after a period of more than 30 days, please check this Privacy Policy to confirm that you are aware of the details of the most recent update. Please look at the top of this Privacy Policy to check the date that it was updated and to confirm that you are familiar with the terms of the most recent update. Your continued use of this site after we post such notice will constitute your acceptance of the new terms and their application to your use of this site and the personal information disclosed for such use, including personal information previously furnished us, as if they were the initial terms, and your consent to the use of your personal information as described in this privacy policy and elsewhere at our Website.
+
+  2. We will always seek your consent if we want to use your personal information for purposes other than for those set out in this Privacy Policy or to which you have previously agreed.
+
+
+
+
+**10\. Co-Branded and Other Associated sites**
+
+  1. Workopolis has partnered with reputable third parties to offer our customers a variety of services. Many of these services also require registration to make them function properly. You can recognize most of these sites if you see both organizations' names on the Web page. For example, if you see a logo on the page that says "Powered by ", you are on a co-hosted site. We also have other third-party relationships, where the third party provides the technology or service under the Workopolis name and Website. In either of these cases, unless otherwise indicated at the registration page, Workopolis does not provide your Registration Information to its third party partners. Although we only work with reputable third parties, our third party partners may have different privacy policies and practices than Workopolis. We encourage you to review our business partners' privacy policies further to understand their procedures for collecting, using and disclosing personal information.
+
+  2. This site may contain links to other sites, including those of our business partners, vendors and advertisers. While we try to link only to sites that share our high standards and respect for privacy, please understand that we are not responsible for the content of, or the privacy practices employed by, other sites.
+
+
+
+
+**11\. Contact Us**
+
+  1. Workopolis will make information about its policies and practices relating to management of personal information readily available. Please direct any questions about our privacy policies and procedures, any requests for access to our records of your personal information and any other privacy related concerns or complaints to our Chief Privacy Officer, Mr. Gabe Mazzarolo. All privacy related complaints will be acknowledged, recorded, investigated and responded to in accordance with applicable law.
+
+  2. You can contact Mr. Mazzarolo by e-mail at [privacy@workopolis.com](mailto:privacy@workopolis.com), through our toll-free line at 1-888-641-4047 or by postal mail at:
+
+  720 King Street West  
+10th Floor  
+Toronto ON M5V 2T3
+
+  3. If you contact us by telephone, please note that telephone calls may be recorded for training or quality assurance purposes.
+
+  4. We welcome any suggestions or comments about our Privacy Policy.
+
+
+| 
