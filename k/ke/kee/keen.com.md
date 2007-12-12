@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629181242id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212052250id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
