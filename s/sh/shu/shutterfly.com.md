@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608012424id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212201657id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
 
-# Shutterfly | Privacy policy
+# Shutterfly | Privacy Policy
 
 **Dedicated to your privacy**
 
-Shutterfly is dedicated to maintaining and protecting your privacy. This includes the privacy of both your information and your pictures. By using our service, you agree to the terms of this Privacy Policy. This Policy explains what personally identifiable information ("Personal Information") we collect and how we use the information so we can continue to provide outstanding service to you.
+Shutterfly is dedicated to maintaining and protecting your privacy. This includes the privacy of both your information and your pictures. By using our service, you agree to the terms of this Privacy Policy. This Policy explains what personally identifiable information (“Personal Information”) we collect and how we use the information so we can continue to provide outstanding service to you.
 
 [](http://www.truste.org/ivalidate.php?url=www.shutterfly.com&sealid=101)
 
@@ -12,7 +12,7 @@ Shutterfly is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent
 
 If you feel that Shutterfly is not abiding by this privacy policy, you should first contact us. Shutterfly's offices are located at 2800 Bridge Parkway, Redwood City, California, 94065. We will do our best to resolve your inquiry. If you feel that your inquiry has not been satisfactorily addressed, you can contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison between you and Shutterfly to resolve your concerns.
 
-This policy was last updated: May 8, 2007
+This policy was last updated: September 4, 2007
 
   
 
@@ -26,7 +26,8 @@ This policy was last updated: May 8, 2007
   * Keeping You Informed Through Email & Mail
   * Improving Your Site Experience with Technology such as Cookies
   * Providing Services through Third Parties
-  * Partnering with Amazon.com
+  * Opt-Out
+  * Partnering with Amazon.com and Sony Electronics, Inc.
   * Your California Privacy Rights
   * Abiding by the Law
   * Changes and Notification
@@ -76,7 +77,7 @@ Our Web site is not intended for use by children under the age of 13. We do not 
 
 ##### Keeping You Informed Through Email & Mail
 
-As a Shutterfly member, we will notify you via email or through the mail about new features, products and promotions. We may also send you information on carefully screened third parties whose products or services may be of interest to you. You may unsubscribe to these notification services through your account profile on the Shutterfly Web site. Simply go to the My Shutterfly page and click on ‘Personal info/settings,’ then on ‘Email preferences’ or contact our Customer Service team.
+As a Shutterfly member, we will notify you via email or through the mail about new features, products and promotions. We may also send you information on carefully screened third parties whose products or services may be of interest to you. You may unsubscribe to our notification services through your account profile on the Shutterfly Web site. Simply go to the My Shutterfly page and click on ‘Personal info/settings,’ then on ‘Email preferences’ or contact our Customer Service team.
 
 From time to time, we may send you service announcement updates with important information about Shutterfly. Service announcements may contain information vital to your account, so members may not unsubscribe from service announcements.
 
@@ -92,9 +93,9 @@ Our third-party service providers may also use cookies or other technologies to 
 
 ##### Providing Services through Third Parties
 
-Shutterfly shares Personal Information with carefully screened third-party service providers for the sole purpose of providing you with the products, services and information you have requested. Examples of such third-party service providers are credit card authorization companies, merchandise distributors and shippers. They do not store, retain or access your Personal Information except to provide our services to you.
+Shutterfly shares Personal Information with carefully screened third-party service providers for the sole purpose of providing you with the products, services and information you have requested. Examples of such third-party service providers are credit card authorization companies, merchandise distributors and shippers. Shutterfly has instructed these service providers not to store, retain or access your Personal Information except to provide our services to you.
 
-In addition, but only upon your consent, Shutterfly may transfer Personal Information to third parties for direct marketing purposes and to allow such third parties to provide you with the products, services and information that you have requested from them. This could include, but is not limited to packages of discounts, rebates, and promotional offers, that are not Shutterfly products, services or information. You can choose whether or not to provide your information to third party marketers by going to the My Shutterfly page and selecting the ‘Personal info/settings’ link and then clicking on ‘Email preferences.’ Such third parties from whom you have requested products, services and information will handle, store, retain and access Personal Information in accordance with the terms and conditions of their agreement(s) with you, as well as their own privacy policies. It is your responsibility to carefully review such terms and conditions and privacy policies, and Shutterfly disclaims any and all liability relating thereto.
+Shutterfly also may transfer Personal Information to third parties for direct marketing purposes and to allow such third parties to provide you with the products, services and information that you have requested. This could include, but is not limited to packages of discounts, rebates, and promotional offers, that are not Shutterfly products, services or information. Such third parties from whom you have requested products, services and information will handle, store, retain and access Personal Information in accordance with the terms and conditions of their agreement(s) with you, as well as their own privacy policies. It is your responsibility to carefully review such terms and conditions and privacy policies, and Shutterfly disclaims any and all liability relating thereto.
 
 In order to provide certain services to you, we may on occasion supplement the Personal Information you submitted to us with information from third party sources.
 
@@ -102,17 +103,23 @@ For example, we use the US Postal Service's national change of address database 
 
 Finally, Shutterfly may share very general information, which is not personally identifiable, about our customers as a group with business partners, sponsors and other third parties. For example, we might say that a certain percentage of our customers live in California, while a different percentage live in New Jersey.
 
-##### Partnering with Amazon.com
+##### Opt-Out
+
+From time to time Shutterfly may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with third parties for direct marketing purposes, you may submit an opt-out request by going to the My Shutterfly page and selecting the ‘Personal info/settings’ link and then clicking on ‘Email preferences.’ We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
+
+##### Partnering with Amazon.com and Sony Electronics, Inc.
 
 Shutterfly is Amazon.com's exclusive photo services provider. When you register with us through Amazon.com, Amazon.com will receive most of your Personal Information. We will never provide credit card information to Amazon.com. Amazon.com will use such information in accordance with its own privacy policy located at [http://www.amazon.com](http://www.amazon.com./)
 
+Sony Electronics, Inc. (“Sony”) has selected Shutterfly as a recommended online photo service for its customers. If you were referred to Shutterfly through a Sony website, we may disclose your email address to Sony for direct marketing purposes. If you do not wish to have your email address shared with Sony for direct marketing purposes, you may submit an opt-out request as described in the “Opt-Out” section above.
+
 ##### Your California Privacy Rights
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Shutterfly who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. Shutterfly does not share Personal Information with any third parties except as disclosed above. To make such a request, please contact our Customer Service team.
+California Civil Code Section 1798.83 permits customers of Shutterfly who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please contact our Customer Service team.
 
 ##### Abiding by the Law
 
-Shutterfly may be required by law to disclose Personal Information to law enforcement and regulartory authorities, even though you might have requested that we don’t share your information.
+Shutterfly may be required by law to disclose Personal Information to law enforcement and regulatory authorities, even though you might have requested that we don’t share your information.
 
 ##### Changes and Notification
 
@@ -124,7 +131,7 @@ We will notify you via email and/or prominent notice on our Web site for 30 days
 
 Shutterfly will do its utmost to keep all your information up to date when you provide it to us, and to guard your privacy by continuously evaluating the enforcement and nature of our policies.
 
-  * If any of your Personal Information changes, or you identify a mistake in our records, please use the account profile page on the Shutterfly website, or contact us and we will update your data right away.
+  * If any of your Personal Information changes, or you identify a mistake in our records, please use the account profile page on the Shutterfly website, or contact us and we will update your data.
   * Please contact us to communicate any questions or concerns.
 
 
