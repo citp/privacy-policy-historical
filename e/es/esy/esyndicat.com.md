@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627125051id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212135829id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software
 
@@ -25,3 +25,11 @@ Please contact those vendors and others directly if you have any questions about
 Please send an email to **sgooffin@esyndicat.com** if you suspect a site is not using a valid license of eSyndiCat or if they are breaking the [license agreement](http://www.esyndicat.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
 
 Alternatively you can report piracy using our [contact form](http://www.esyndicat.com/contact-us.html?piracy=true).
+
+### Newsletter
+
+Subscribe to our newsletter to receive more information about eSyndiCat Directory Script.
+
+### Articles
+
+Some people wonder why webmasters do create directories at all. One would say that they are born thousands everyday and they die out thousands the next month. What is the reason to create them? Money, SEO, some indirect benefits? People do not kno...
