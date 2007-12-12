@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610015748id_/http%3A//commissionsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212030909id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Affiliate Marketing Network - CommissionSoup.com
-
-## CommissionSoup Privacy Policy
 
 CommissionSoup is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our system. 
 
@@ -55,6 +53,6 @@ CommissionSoup.com
 PO Box 463  
 114 N Egan Avenue  
 Madison, SD 57042  
-or [Contact Us Online](https://web.archive.org/contact/)
+or [ Contact Us Online](https://web.archive.org/contact/ "Contact Us")
 
 Effective as of February 6, 2001
