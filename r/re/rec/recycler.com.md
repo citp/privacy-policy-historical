@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2007-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070204081107id_/http%3A//www.recycler.com/la/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycler.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164054id_/http%3A//www.recycler.com/la/privacy) for the most accurate reproduction.*
 
-# Recycler.com - Garage Sales Announcements
+# Free Los Angeles and Orange County Classifieds - Recycler
 
 Recycler.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Recycler.com online and does not impact information collected or used by Recycler.com or its affiliates through other means. 
 
@@ -45,7 +45,7 @@ We can be reached by contacting:
 Recycler.com  
 202 W. First Street  
 Los Angeles, CA 90012  
-Email: [sales@recycler.com](https://web.archive.org/web/20070204081107id_/http://www.recycler.com/la/sales@recycler.commailto:sales@recycler.com)
+Email: [sales@recycler.com](https://web.archive.org/web/20071212164054id_/http://www.recycler.com/la/sales@recycler.commailto:sales@recycler.com)
 
 **Changes to this policy.**
 
