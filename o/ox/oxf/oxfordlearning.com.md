@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621120706id_/http%3A//www.oxfordlearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212122802id_/http%3A//www.oxfordlearning.com/privacy) for the most accurate reproduction.*
 
-# Oxford Learning Privacy & Terms | Tutoring | Reading | Writing | Math | Education Franchise
+# Oxford Learning Privacy & Terms
 
 Oxford guarantees to protect the privacy of any and all personal information, as defined by the Personal Information Protection and Electronic documents Act, (PIPEDA), that it gathers in the course of doing business. We collect only the essential information needed to perform the functions required by Oxford’s Business.
 
