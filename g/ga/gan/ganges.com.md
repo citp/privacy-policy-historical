@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614124543id_/http%3A//ganges.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212140257id_/http%3A//ganges.com/help/privacy) for the most accurate reproduction.*
 
-# Ganges.com - free video clips and sharing photo with friends
+# Privacy Policy
 
 Privacy Policy Ganges Ltd is committed to protecting your privacy when you use Ganges Service, which is comprised of (i) Ganges website, currently located at www.Ganges.com (and/or any successor or additional website(s) owned or operated by or for Ganges); (ii) Ganges syndication network (which includes third party websites); (iii) Ganges client, a downloadable application to upload, download and view content (the "Ganges Client"); (iv) the servers operated by or on behalf of Ganges; and/or (v) any other technology and/or services that Ganges provides its users. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information.
 
