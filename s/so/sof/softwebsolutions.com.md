@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629051614id_/http%3A//www.softwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212105516id_/http%3A//www.softwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Custom Software Development Chicago Application Development Services Software Development Services Chicago - Soft web Solutions
 
-[Home](https://web.archive.org/web/20070629051614id_/http%3A//www.softwebsolutions.com/index.html) > Privacy Policy
+[Home](https://web.archive.org/web/20071212105516id_/http%3A//www.softwebsolutions.com/index.html) > Privacy Policy
 
 This online privacy policy discloses SoftWeb Solutions's online information gathering practices and describes the usage of the information gathered on this Web site. Personal Information Collection and Use
 
