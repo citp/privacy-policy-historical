@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mybittorrent.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626113455id_/http%3A//www.mybittorrent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybittorrent.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212015347id_/http%3A//www.mybittorrent.com/privacy) for the most accurate reproduction.*
 
-# myBittorrent.com - Privacy
+# my Bittorrent - Privacy
 
-myBittorrent.com does **not** record personal information, except for the IP addresses and the pages visited by those IP's. This information is deleted from our servers, within 24 hours after the IP requested a page from this website.
+myBittorrent.com does **not** record personal information.
 
 Where identification is required for purposes of administration and/or user login, we use an encrypted string based on your username and password which are then encoded using our own secret algorithm. Such string is used solely by myBittorrent.com and cannot be decoded.
 
@@ -10,8 +10,6 @@ We use third-party advertising companies to serve advertisements on myBittorrent
 
 In the course of serving advertisements, our third-party advertisers may place an unique "cookie" on your browser. Such cookie is encrypted and also contains no personal information.
 
-This policy is in effect since _11 May 2007_.
+This policy is in effect since _26 July 2007_.
 
-NOTE: We noticed that other sites, such as TorrentSpy.com, copied our privacy policy. We don't mind, because we know that we are a leading Torrent Website and others are not creative enough to make a policy themselves.
-
-No SQL Queries - 0.0364 Seconds 
+NOTE: We noticed that other sites, such as TorrentSpy.com, copied our privacy policy. We don't mind, because we know that we are a leading Torrent Website and others are not creative enough to make a policy themselves. Also note that we are one of the few websites who does NOT secretly record personal information.
