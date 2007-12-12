@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630202246id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212055151id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # National Conference of Bar Examiners: Privacy Policy
 
