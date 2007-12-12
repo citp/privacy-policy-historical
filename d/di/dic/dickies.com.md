@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2007-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070603021603id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072932id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
@@ -98,31 +98,27 @@ All individuals submitting unsolicited ideas agree to the following:**
 PRIVACY SUPPORT   
 If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
 
-Return  |   What's New in June  
+Return  |   What's New in December  
 ---  
 | 
 
-2007 Race  
-for the Riches
+2007 American  
+Worker of the  
+Year
 
-Enter today for a chance to win a Grand Prize of $500,000!!  
+Congratulations to Dean Deleersnyder...  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#awoty) ]
+
+NEWS STAND
+
+Dickies on the pages of _Maxim_...  
+[ [read more](https://web.archive.org/web/news/magazines.asp) ]
+
+Race for the  
+Riches
+
+Congratulations Nikki Kelly from San Antonio, TX...  
 [ [read more](https://web.archive.org/web/news/top_stories.asp#race) ]
-
-DICKIES  
-MOBILE TOUR
-
-Visit the Tour near you!  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#Tour) ]
-
-NEWS STAND
-
-The latest technology in Dickies outerwear in _Fashion Mannuscript_...  
-[ [read more](https://web.archive.org/web/news/magazines.asp#heartland) ]
-
-NEWS STAND
-
-The history of Dickies in _Garage_ magazine...  
-[ [read more](https://web.archive.org/web/news/magazines.asp#handy) ]
 
 PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
 
