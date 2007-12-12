@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brevilleusa.com privacy policy that was archived on 2007-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070526184058id_/http%3A//www.brevilleusa.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brevilleusa.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212161912id_/http%3A//www.brevilleusa.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Breville USA | Privacy Policy
 
@@ -48,8 +48,8 @@ Please be aware that our site may contains links to other sites that may have di
 **6.YOUR REPRESENTATIONS AND WARRANTIES**  
 If you have any queries in relation to this policy or its administration, or if you would like more details of the type of personal information Breville holds, for what purposes, and how we collect, hold, use and disclose that information, please contact us at: 
 
-  * Metro Thebe Inc, dba Breville Customer Service
-  * PO Box 47170 Gardena, CA 90247
+  * 19400 South Western Ave
+  * Torrance, CA 90501
   * Phone: 1-866-BREVILLE
 
 
