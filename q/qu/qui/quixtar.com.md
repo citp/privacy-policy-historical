@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626060703id_/http%3A//www.quixtar.com/Quixtar/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212040707id_/http%3A//www.quixtar.com/Quixtar/PrivacyStatement) for the most accurate reproduction.*
 
 # Quixtar - Privacy Statement
 
-  
 Thank you for visiting www.quixtar.com or the personalized QHealthZone.com, QBeautyZone.com, or OrderMyGift.com Web site of your authorized Quixtar® Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Quixtar Inc. and made available by Quixtar as a service to your IBO. As used in this Privacy Statement, the terms “our,” “we” and “us” refer to both Quixtar and your IBO unless the context clearly provides otherwise.
 
 We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
@@ -17,13 +16,13 @@ This refers to information that lets us know who you are or things specifically 
 You can browse our Site using the Visitor function without revealing any Personally Identifiable Information. If you want to register or place an order and do not have a sponsoring IBO, you may voluntarily provide Personally Identifiable Information (such as name, address, e-mail address, and telephone number) to be shared with an authorized IBO near you for the purpose of contacting you, including via e-mail, to assist with registration and ordering. In such event, we might maintain a record of your contact, including such Personally Identifiable Information, in a file specific to you. We use this information to provide better service in the event that you contact us again.
 
 **B. Registration**  
-When you register to become an authorized IBO and start your own I-commerce business powered by Quixtar, or when you register to shop online as a Member or Client, enjoying full access to the many products and services available on our Site, we will collect Personally Identifiable Information (such as name, address, e-mail address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed under Contact Information. You are assigned an identification number and select your own password-both are needed to enter the Site and to access your Contact Information.
+When you register to become an authorized IBO and start your own I-commerce business powered by Quixtar, or when you register to shop online as a Customer, enjoying full access to the many products and services available on our Site, we will collect Personally Identifiable Information (such as name, address, e-mail address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed under Contact Information. You are assigned an identification number and select your own password-both are needed to enter the Site and to access your Contact Information.
 
 **C. Ordering**  
 When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order.
 
 **D. Credit Card Storage**  
-Credit card information collected at registration or for shopping cart orders is used only to process payment for the transaction and, generally, is not retained on our Site. You may, however, voluntarily elect to securely store up to four personal credit cards to be used for shopping cart orders, Auto Renew, Ditto™ Scheduled Order, and Standing Order features. You may add, edit, and delete your stored card information by accessing the Credit Card Storage function within your Contact Information.
+Credit card information collected at registration or for shopping cart orders is used only to process payment for the transaction and, generally, is not retained on our Site. You may, however, voluntarily elect to securely store up to four personal credit cards to be used for shopping cart orders, Auto Renew, Ditto™ Scheduled Order, and Standing Order features. You may add, edit, and delete your stored card information.
 
 **E. Surveys and Promotions**  
 From time to time you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
@@ -42,7 +41,7 @@ Except as disclosed in this Privacy Statement, we do not sell, trade, rent, or o
 **1\. IBOs**  
 With a business powered by Quixtar, you'll receive advice and information from your own personal business advisory team-a support network consisting of your sponsoring IBO and upline organization. To allow such communication, we may share your contact information with your sponsoring IBO and upline organization. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Statement. In the ordinary course of supporting your business, information about you and your orders must be shared with your sponsoring IBO and immediate upline Platinum IBO. You have the opportunity to let us know, however, if you do not want any Personally Identifiable Information shared beyond your immediate upline Platinum IBO.
 
-**2\. Members and Clients**  
+**2\. Customers**  
 To assure the highest level of personal service, we may share Personally Identifiable Information about you (excluding credit card information and order details) with your servicing IBOs, who are committed to making sure you're pleased with the products you purchase and that you receive a favorable experience. Your servicing IBOs have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Statement. You may elect to share order details with your servicing IBOs, or let us know if you do not want any Personally Identifiable Information shared with your servicing IBOs, by editing your preferences online in Manage My Account after completing registration, or contact us as described in the "Contact Us" section, below, and we will assist you.
 
 **3\. General**  
@@ -55,7 +54,7 @@ Should Quixtar or its related entities merge with or be acquired by another busi
 **Your Choices**  
 Your permission is always secured first. We will not use or share the Personally Identifiable Information collected on our Site in ways unrelated to the purpose for which you provided the information, including those described above, without providing you a choice whether to permit any such unrelated uses.
 
-**Accessing and Correcting Your Information**   
+**Accessing and Correcting Your Information**  
 We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information you have provided to us, you may edit your information online after completing registration, or contact us as described in the "Contact Us" section, below, and we will assist you.
 
 **Protecting Your Information**  
@@ -66,11 +65,11 @@ It is your responsibility to safeguard the password you use to access our Site, 
 **Use of Cookies On This Site**  
 A "cookie" is a small data file transferred to your computer's hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable an Internet retailer like Quixtar to keep track of a consumer's electronic "shopping cart" before completing a purchase. Overall, cookies are safe, as they only identify your computer to customize your Web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
 
-Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely. If you turn off cookies completely, there may be some Web site features that will not be available to you, and some Web pages may not display properly.
+Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer, Firefox or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely. If you turn off cookies completely, there may be some Web site features that will not be available to you, and some Web pages may not display properly.
 
 To support the personalized features of our Site (such as your country and language codes, electronic shopping cart, and other ordering and browsing functions) we must send a cookie to your computer's hard drive and/or use cookie-based authentication to identify you as a registered Site user.  We do not, however, use so-called "surveillance" cookies that track your activity elsewhere on the Web.
 
-**Use of Active-X and JAVA Applets On This Site**   
+**Use of Active-X and JAVA Applets On This Site**  
 Active-X programs and JAVA applets are executable programs that can be transferred to your computer's hard drive to cause your computer to perform functions in connection with your visit to a Web site. Our Site does not transfer any Active-X programs or Java Applets to your computer's hard drive.
 
 **Use of Third-Party Media and Research Companies**  
