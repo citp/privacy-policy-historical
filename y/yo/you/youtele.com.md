@@ -1,20 +1,30 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212358id_/http%3A//www.youtele.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/policy.php) for the most accurate reproduction.*
 
-# ... YOU ... -> Offers high speed broadband to Corporates, Home user & SME clients.
+# Broadband from YOU Telecom: Leading Hi Speed Broadband Internet Service provider in India.Super Fast Connection.
+
+|   |  |  | [Home](http://www.youtele.com/) |  | Privacy Policy |    
+---|---|---|---|---  
+  |  | Homeuser  
+---  
+[Tariff Plans](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/homeuser_plans.php)  
+[My Account](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/myaccount.php)  
+[Find a Dealer ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/find_dealer.php)  
+[New Connection Via SMS](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/newsms.php)  
+[Apply For New Connection](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/form.php)  
+[Locate Your Drop Box](http://www.skyfin.com/Boxloc.aspx)  
+[YOU Call ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/youcallplans.php)  
+[Fair Access Policy](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/benchmark.php)  
+[ Check Availiablity ](https://web.archive.org/web/20071212232757id_/http%3A//www.youtele.com/new_html1/html/homeuser/feasiblity1.php)  
+[Explanation of Bill](http://www.youtele.com/webhelp/explan_bill.htm)  
+   
+   
+  | 
 
 |   
 ---  
-|  |  |  |  Privacy policy   
----  
-   
-| Privacy  
-|    
----|---  
-**
-
-What This Privacy Policy Covers 
-
-**
+Privacy  
+  
+**What This Privacy Policy Covers**
 
   * This policy covers how YOU Telecom India Pvt Ltd ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
@@ -44,15 +54,6 @@ What This Privacy Policy Covers
 
 
 **Changes to this Privacy Policy**  
-The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
-
+The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.  
   
-  
-   
-| 
-
-You can do a lot more with YOU,  
-  
----  
-BROADBAND MULTIPLIED  
-| 
+  |  
