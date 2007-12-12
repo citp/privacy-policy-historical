@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504112209id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212130224id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.*
 
-# Malaysia Webhosting, Domain & Website Design
+# Malaysia Webhosting, Dedicated Server, Domain Registration & Website Design
 
 Because protecting your privacy is very important to INTERNET WEBHOSTING, we operate our web site under the following guidelines to safeguard your personally identifiable information:
 
