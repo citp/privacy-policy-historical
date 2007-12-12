@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629234316id_/http%3A//www.uow.edu.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163807id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About the University @ UOW
 
@@ -13,11 +13,11 @@ For the purposes of this policy UOW means and includes all its associated and co
 
 The University is committed to ensure that your privacy is protected. UOW and its controlled entities take all reasonable steps so that the collection, use, disclosure and handling of your information by UOW complies with the law.
 
-This page provides a summary of UOW's 
+This page provides a summary of the 
 
-[Privacy Policy](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022142.pdf) and is not intended to be a detailed description of the Policy. You may also like to view UOW's 
+[UOW Privacy Policy ](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow038289.pdf)is not intended to be a detailed description of the Policy. You may also like to view the 
 
-[Privacy Management Plan](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022143.pdf) for further information.
+[UOW Privacy Management Plan ](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow038290.pdf)for further information.
 
 A full explanation of the National Privacy Principles to which the University adheres can be found at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
 
@@ -60,7 +60,7 @@ For additional or further information or other queries, questions or [complaints
 
 **[The Privacy Officer](mailto:angelata@uow.edu.au)  
 Administration Building (36)  
-Legal & Commercial Unit  
+Legal Services Unit  
 University of Wollongong  
 Wollongong NSW 2522**
 
@@ -72,8 +72,11 @@ If you are staff collecting personal information the following consents and disc
 
   * [General Consent and Disclosure](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022145.pdf) [pdf - 40 kb] to be used if this is the first time UOW collects personal information from an individual.
   * [Competition Consent and Disclosure](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow022146.pdf) [pdf - 22 kb] for use when running a competition where a) contact details used only for purposes of contacting the winner(s) or b) contact details used for contacting winner AND follow up marketing.
-  * Marketing Consent and Disclosure or Other Subsequent Collections. In order to provide a specific consent and disclosure appropriate to your marketing campaign, or collection needs please contact: **[  
-The Privacy Officer](mailto:angelata@uow.edu.au)  
+  * Marketing Consent and Disclosure or Other Subsequent Collections. In order to provide a specific consent and disclosure appropriate to your marketing campaign, or collection needs please contact: **
+
+[The Privacy Officer
+
+](mailto:angelata@uow.edu.au)  
 Administration Building (36)  
 Legal & Commercial Unit  
 University of Wollongong  
@@ -82,7 +85,7 @@ Wollongong NSW 2522**
 |    
   |    
   
-Last reviewed: 20 June, 2007 
+Last reviewed: 11 October, 2007 
 
 |    
   |  
