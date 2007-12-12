@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609225226id_/http%3A//www.ethicalconsumer.org/ecprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212054315id_/http%3A//www.ethicalconsumer.org/ecprivacypolicy.htm) for the most accurate reproduction.*
 
-# ECRA privacy policy
+# Ethical Consumer privacy policy
 
 This statement sets out our Privacy Policy and explains what we do with the personal information that we collect from our users. If you have any questions or concerns regarding this statement, you should contact us using the details given at the end of this statement.
 
