@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501113205id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212015743id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
 
 # TradeMe - New Zealand Online Auctions and Classifieds
 
@@ -35,9 +35,11 @@ You are responsible for all actions taken with your user name, email address and
 **Credit Card Security**  
 We work diligently to protect the security of your personal information, including credit card information. 
 
-We protect your credit card information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. When paying by credit card, you can choose to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by Direct Payment Solutions (DPS). [ Review their Privacy Policy](https://web.archive.org/Partners/DPS/dps_privacy_policy.pdf) (PDF document). Your credit card details are not held by Trade Me and can not be accessed by Trade Me staff. 
+We protect your credit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the Internet. Your credit card details are not held by Trade Me and cannot be accessed by Trade Me staff. However they may be held by either Direct Payment Solutions (DPS) ([review their Privacy Policy](https://web.archive.org/Partners/DPS/dps_privacy_policy.pdf)) or Paystation ([ review their Privacy Policy](http://www.paystation.co.nz/cms_display.php?sn=17&st=1)) depending on which provider processes the transaction. 
 
-It is important for you to protect against unauthorized access to your password and to your computer by ensuring you logoff when you have finished visiting Trade Me using a shared computer. 
+When topping up your Trade Me account by credit card, you may have the option to "save this card for next time". If you choose this option, your credit card details are encrypted and securely stored by DPS. 
+
+It is important for you to protect against unauthorized access to your password and to your computer. Ensure you logout when you have finished visiting Trade Me, especially if you access Trade Me from a shared computer. 
 
 **Job applications**  
 The "Apply Online" feature enables you to send a job application to organisations advertising on Trade Me Jobs. We forward these applications directly to the organisation listing the job and they are stored on our servers for a short time. We do not read these applications. 
