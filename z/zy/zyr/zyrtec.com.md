@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514051619id_/http%3A//www.zyrtec.com/%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212215048id_/http%3A//www.zyrtec.com/%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # ZYRTEC® (cetirizine HCl) - Privacy Statement
 
@@ -28,4 +28,4 @@ We do not specifically collect information about children. We do ask parents if 
 
 Any changes to this privacy policy will be communicated promptly on this page.
 
-*IMS Health data for new prescriptions among US allergists and pediatricians—12 months through September 2006.
+*IMS Health data for new prescriptions among US allergists and pediatricians—12 months through April 2007.
