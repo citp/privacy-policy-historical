@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vastal.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629002757id_/http%3A//www.vastal.com/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vastal.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212060727id_/http%3A//www.vastal.com/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Vastal I-Tech & Co. :: Privacy Policy
 
