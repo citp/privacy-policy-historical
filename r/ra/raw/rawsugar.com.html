@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rawsugar.com privacy policy that was archived on 2007-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070619072922id_/http%3A//www.rawsugar.com/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rawsugar.com privacy policy that was archived on 2007-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212131033id_/http%3A//www.rawsugar.com/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>RawSugar - Privacy Policy</title>
 	
@@ -14,16 +14,16 @@
 			<meta name="Copyright" content="© Suggestica Inc.">
 			<meta name="Distribution" content="Global">
 			<meta name="Robots" content="All">
-			<script src="/javascripts/prototype.js?1178270532" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1178270532" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1178270532" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1178270532" type="text/javascript"></script>
-<script src="/javascripts/application.js?1178270532" type="text/javascript"></script>
-			<script src="/javascripts/pagination.js?1178270532" type="text/javascript"></script>
-			<script src="/javascripts/home.js?1178270532" type="text/javascript"></script>
-			<link href="/stylesheets/class.css?1178270510" media="screen" rel="Stylesheet" type="text/css">	
-			<link href="/stylesheets/structure.css?1178272346" media="screen" rel="Stylesheet" type="text/css">		
-			
+			<script src="/javascripts/prototype.js?1193287641" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1193287641" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1193287641" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1193287641" type="text/javascript"></script>
+<script src="/javascripts/application.js?1193287641" type="text/javascript"></script>
+			<script src="/javascripts/pagination.js?1193287641" type="text/javascript"></script>
+			<script src="/javascripts/home.js?1193287641" type="text/javascript"></script>
+			<link href="/stylesheets/class.css?1193287706" media="screen" rel="Stylesheet" type="text/css">	
+			<link href="/stylesheets/structure.css?1193320643" media="screen" rel="Stylesheet" type="text/css">		
+			<script src="/javascripts/AC_RunActiveContent.js?1193320584" type="text/javascript"></script>
 			
 <script src=" http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -59,6 +59,28 @@ urchinTracker();
 			}
 <!--// This javascript function handles ajax call such that search parameter to the relevant action			-->
 
+
+
+function blog_submitted(request) {
+
+			
+            
+				var instruction       = request.getResponseHeader('X-Instruction')
+				if(instruction == "OK") {
+		     
+					
+						var action_url="/admin";
+						
+                    
+                  	window.location.href = "http://www.rawsugar.com" + action_url;
+					window.load();
+
+				}
+				
+				
+			}
+			
+
 </script>	
 	</head>
 	
@@ -69,7 +91,7 @@ urchinTracker();
 		<div style="float:right;">
 				
 				<div id="loginbox" style="display:none" onclick="getId(this.id);">
-					<form action="/login/validate_user?name=login" id="login_form" method="post" onsubmit="new Ajax.Updater('results', '/login/validate_user?name=login', {asynchronous:true, evalScripts:true, onComplete:function(request){login_redirect(request)}, parameters:Form.serialize(this)}); return false;">	
+					<form action="/login/validate_user?name=login" id="login_form" method="post" onsubmit="new Ajax.Updater('results', '/login/validate_user?name=login', {asynchronous:true, evalScripts:true, onLoading:function(request){ShowBusy();},onComplete:function(request){login_redirect(request),HideBusy();}, parameters:Form.serialize(this)}); return false;">	
 								
 					<table cellpadding="0" cellspacing="0" border="0" width="100%">
                         <tbody><tr>
@@ -101,8 +123,10 @@ urchinTracker();
         						</tr>
         						
         						<tr>
-        							<td>&nbsp;</td>
-        							<td><input type="image" name="Login" src="/images/button_login_01.gif" title="Login">&nbsp;<img src="/images/button_cancel_01.gif" title="Cancel" onclick="Effect.Fade('loginbox',{duration:0.0});"></td>
+        							<td>
+			                            <div id="busy" style="display:none;float:right;padding-right:10px;"><img src="/images/graybg-loader.gif"></div>
+        							</td>
+        							<td><input type="image" name="Login" src="/images/button_login_01.gif">&nbsp;<img src="/images/button_cancel_01.gif" onclick="Effect.Fade('loginbox',{duration:0.0});"></td>
         						</tr>
                               </tbody></table>
                             </td>                      
@@ -140,9 +164,11 @@ urchinTracker();
 
 			
 					<div id="preloginbox">
-					<a href="#" title="login" onclick="getId('loginbox');user_login();return false;"><img src="/images/button_login.gif" alt="Login" width="84" height="25" border="0"></a>
-					<a href="/register" title="Register"><img src="/images/button_register.gif" alt="Register" width="84" height="25" border="0"></a>
-				
+										
+					<a href="/demo" title="View Demo"><img src="images/button_demo.gif" alt="Demo" width="102" height="25" border="0"></a>	
+					
+					<a href="#" onclick="getId('loginbox');user_login();return false;"><img src="/images/button_login.gif" alt="Login" width="84" height="25" border="0"></a>
+					<a href="/register"><img src="/images/button_register.gif" alt="Register" width="84" height="25" border="0"></a>				    
 					</div>
 				
 
@@ -150,7 +176,7 @@ urchinTracker();
 
 		  <div id="navigation">
 					
-                            <a href="/search" class="tableft"><img src="/images/nav_tab_web2o_ck.gif" alt="Channel: Web 2.O" border="0"></a>
+                            <a href="/" class="tableft"><img src="/images/nav_tab_web2o_ck.gif" alt="Channel: Web 2.O" border="0"></a>
 
                         
 							
@@ -171,7 +197,7 @@ urchinTracker();
         						
                                
                         
-        						<input type="image" name="submit" src="/images/button_search.gif" title="Search" class="searchbutton" style="padding-bottom:0px;" valign="absbottom">		
+        						<input type="image" name="submit" src="/images/button_search.gif" class="searchbutton" style="padding-bottom:0px;" valign="absbottom">		
                            </td>
                         </tr>
                         <!-- The following div displays the suggested words for the entered search terms -->
