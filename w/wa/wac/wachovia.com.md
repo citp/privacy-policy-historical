@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531231703id_/http%3A//www.wachovia.com/privacy/1%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164944id_/http%3A//wachovia.com/privacy/1%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -28,7 +28,7 @@ Wachovia1 is dedicated to protecting your privacy and providing you with the hig
 
   * Visit a Wachovia Financial Center.
   * Call us at (866) 203-5722 to speak to a representative (Command Asset Program, IRA, Brokerage and Insurance customers should call (877) 358-1114).
-  * Complete our online [Consumer Privacy Preference form](http://www.wachovia.com/personal/forms/privacy_optout).
+  * Complete our online [Consumer Privacy Preference form](https://www.wachovia.com/personal/forms/privacy_optout).
 
 
 
@@ -115,7 +115,7 @@ Please note that we are committed to providing you with superior service. We may
 
 ### Fraud and Identity Theft Assistance
 
-At Wachovia, we're committed to customer protection, which includes protecting personal information about you as well as providing you with ways to protect yourself. For additional information, please visit [wachovia.com/customerprotection](http://www.wachovia.com/customerprotection).
+At Wachovia, we're committed to customer protection, which includes protecting personal information about you as well as providing you with ways to protect yourself. For additional information, please visit [wachovia.com/securityplus](http://wachovia.com/securityplus).
 
 If you believe you may be a victim of identity theft: 
 
