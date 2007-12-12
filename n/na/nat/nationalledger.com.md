@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630180519id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212231941id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # The National Ledger - Privacy Policy
 
@@ -32,11 +32,11 @@ TNL reserves the right to change this policy at any time. Please check this page
 
 **Acceptance of Privacy Policy:**
 
-By using TNL sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of TNL sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of TNL sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20070630180519id_/http%3A//www.nationalledger.com/about/contact.shtml).
+By using TNL sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of TNL sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of TNL sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20071212231941id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 **Contact:**
 
-Direct any questions to us [via e-mail](https://web.archive.org/web/20070630180519id_/http%3A//www.nationalledger.com/about/contact.shtml).
+Direct any questions to us [via e-mail](https://web.archive.org/web/20071212231941id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 _Or mail us at:_
 
