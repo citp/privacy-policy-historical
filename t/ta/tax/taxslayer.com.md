@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626005108id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212021127id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer.com Privacy Statement
+# TaxSlayer.com - Privacy Statement
 
-**Privacy Statement:**
+  
 
-**YOUR PRIVACY IS A PRIORITY TO US**
+
+## YOUR PRIVACY IS A PRIORITY TO US 
 
 At TaxSlayer.com, we are committed to safeguarding customer information. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy.
 
-By participating in the council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnline.  Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+By participating in the council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnline.  Further information about this program is available at [ http://www.bbbonline.org](http://www.bbbonline.org/). 
 
 **PRIVACY POLICY**
 
@@ -73,7 +74,7 @@ We strive to keep our customer information as accurate and complete as we can. I
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 15th 2006. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 15th 2008. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
 
 **Other Information**
 
@@ -81,4 +82,5 @@ The Privacy Policy applies to products and services of TaxSlayer.com, online. P
 
 **Approved and Effective 1/1/2000**
 
-**[Back to TaxSlayer Home](https://web.archive.org/web/20070626005108id_/http%3A//www.taxslayer.com/default.aspx)**
+  
+
