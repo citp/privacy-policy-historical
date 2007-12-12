@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2007-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070619033644id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212023715id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
