@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623035204id_/http%3A//www.urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212055310id_/http%3A//urologychannel.com/common/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Healthcommunities.com
 
@@ -22,6 +22,7 @@ The information below discloses the privacy practices of Healthcommunities.com, 
   * [**nephrology** channel](http://www.nephrologychannel.com/)
   * [**neurology** channel](http://www.neurologychannel.com/)
   * [**oncology** channel](http://www.oncologychannel.com/)
+  * [**pain** channel](http://www.painchannel.com/)
   * [**podiatry** channel](http://www.podiatrychannel.com/)
   * [**pulmonology** channel](http://www.pulmonologychannel.com/)
   * [**radiology** channel](http://www.radiologychannel.net/)
@@ -91,4 +92,4 @@ Suite 201
 Northampton, MA 01060  
 [Contact Us](http://www.healthcommunities.com/corporate/contactus.shtml)
 
-This page last modified: June 15, 2006 
+This page last modified: July 24, 2007 
