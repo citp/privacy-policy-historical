@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621042626id_/http%3A//www.courseadvisor.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212040551id_/http%3A//www.courseadvisor.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - online degree and online class options at CourseAdvisor.com
-
-| 
 
 ## Privacy Policy
 
@@ -32,6 +30,8 @@ We may place a small file known as a “cookie” on your computer’s hard driv
 
 **Clear Gifs**  
 We also employ a software technology called “clear gifs,” which helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web sites and are about the size of the period at the end of this sentence. We do not tie the Information gathered by clear gifs to Users’ personally identifiable Information.
+
+In addition to the Information that you provide to Us or that We obtain about you from your use of our Site, We may also augment the data We have collected with other aggregate information from other online or offline sources.
 
 If you visit this Site by “clicking through” from another web site, and you have registered with that other web site, then certain information about you that you provided to that other website, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it. You should review the privacy policy of any web site from which you reached the Site in order to determine what information was collected by that web site and for what purpose(s) you agreed that web site could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with this Policy.
 
@@ -93,7 +93,7 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to [privacy@courseadvisor.com](mailto:privacy@courseadvisor.com).
 
 **Phone**  
-781.224.7828
+781.683.3300
 
 **Mailing address**  
 CourseAdvisor Inc.  
@@ -102,5 +102,3 @@ Suite 102
 Wakefield, MA 01880
 
 If you do not receive acknowledgment of your inquiry from us, or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-  | 
