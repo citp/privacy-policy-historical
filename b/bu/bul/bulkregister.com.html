@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the bulkregister.com privacy policy that was archived on 2007-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070301102711id_/http%3A//bulkregister.com/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bulkregister.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213002509id_/http%3A//bulk.enom.com/terms/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <!-- This registration system was developed and is hosted by eNom, Inc.
 Registration System Software Powered by eNom
 Copyright © 1999-2002 eNom, Inc.  All rights reserved. -->
 <!-- WEB02 -->
-<meta name="description" content="BulkRegister, the 2nd largest registrar, ICANN accredited - Domain name registration, Web Site Hosting, Email Services, Club Drop and Web Site Monitor.">
+<meta name="description" content="BulkRegister, the 2nd largest registrar, ICANN accredited - Domain name registration, Web Site Hosting, Email Services, NameJet and Web Site Monitor.">
 <meta name="keywords" content="domain name, web hosting, email, web site hosting, domain name registration">
 
 <link rel="shortcut icon" href="/bulkfavicon.ico" type="image/x-icon">
@@ -26,10 +26,20 @@ Copyright © 1999-2002 eNom, Inc.  All rights reserved. -->
 		<link rel="STYLESHEET" type="text/css" href="/css/e3style-ext.css">
 	
 
-
-
+<!-- print stylesheet -->
 <link rel="STYLESHEET" type="text/css" href="/css/print.css" media="print">
 
+<!-- different styles needed to align nav in different browsers -->
+<style type="text/css">
+
+	#navmenus {margin-left: 1px;}
+
+</style>
+
+
+<!--[if gte IE 5]>
+		<link rel="stylesheet" type="text/css" href="/css/bulk-style-ie.css" media="screen" />
+<![endif]-->
 
 <!-- 3 scripts for nav menus -->
 
@@ -55,11 +65,27 @@ Copyright © 1999-2002 eNom, Inc.  All rights reserved. -->
 
 <script language="JavaScript">
 	function popHelp () {
-		// attenza has been retired, go to help page to log into RNT
+		// attenza retired, all support center should go through help page now
 		window.location = "/help/default.asp"
 	}
 
 </script>
+
+<!-- javascript to support dropdown in older browsers (IE6 and others -->
+<!--[if lt IE 7]><script type="text/javascript" src="/js/iehover-fix.js"></script><![endif]-->
+<script language="javascript">
+	sfHover = function() {
+		if (document.getElementById("newnav")) {
+			var sfEls = document.getElementById("newnav").getElementsByTagName("LI");
+			for (var i = 0; i < sfEls.length; i++) {
+				sfEls[i].onmouseover = function() { this.className+=" sfhover"; }
+				sfEls[i].onmouseout = function() { this.className=this.className.replace(new RegExp(" sfhover\\b"), ""); }
+			}
+		}
+	}
+	if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -68,6 +94,7 @@ Copyright © 1999-2002 eNom, Inc.  All rights reserved. -->
 _uacct = "UA-709906-1";
 urchinTracker();
 </script>
+
 
 <title>BulkRegister - domain name, web site hosting, email, registration - PRIVACY POLICY</title>
 <script language="javascript" src="/js/openWin.js"></script>
@@ -96,7 +123,7 @@ urchinTracker();
             <td><img src="/images/bulk/bulk_logo_right.jpg" width="42" height="79"></td>
             <td align="center" valign="top"><img src="/images/blank.gif" width="102" height="8" border="0">
               <div class="white"><a href="/domains/whois.asp" class="e3white">whois</a>&nbsp;|&nbsp;<a href="/help/" class="e3white">help</a></div><br>
-			<div><a href="http://www.enom.com"><img src="/images/bulk/bulk_pwrenom.gif" width="81" height="34" border="0"></a></div></td>
+			<div><img src="/images/bulk/bulk_pwrenom.gif" width="81" height="34" border="0"></div></td>
           </tr>
 		</tbody></table>
 	</td>
@@ -113,20 +140,21 @@ urchinTracker();
 			<tbody><tr>
 				<td class="bg_nav" width="760">
 				<div class="navmenus" id="navmenus">
-				<ul id="udm" class="udm" style="width: 100%;">
-<li><a href="/" onmouseover="switchOn('home');" onmouseout="switchOff('home');"><img name="home" src="/images/bulk/e3_menuicon_home_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;HOME&nbsp;</a><ul onmouseover="switchOn('home');" onmouseout="switchOff('home');"><li class="firstMenuItem"><a href="/default.asp">welcome to bulkregister</a></li><li><a href="/services.asp">services overview</a></li><li><a href="/pricing.asp">pricing</a></li><li><a href="/news.asp">news</a></li><li><a href="/registrynews.asp">maintenance alerts</a></li><li><a href="/inthenews.asp">press releases</a></li><li><a href="/aboutus.asp">about/contact us</a></li><li><a href="/statistics.asp">statistics and awards</a></li><li><a href="/careers.asp">careers</a></li><li><a href="/sitemap.asp">sitemap</a></li></ul></li>
-<li><a href="/domains/default.asp" onmouseover="switchOn('domain');" onmouseout="switchOff('domain');"><img name="domain" src="/images/bulk/e3_menuicon_domain_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;DOMAINS&nbsp;</a><ul onmouseover="switchOn('domain');" onmouseout="switchOff('domain');"><li class="firstMenuItem"><a href="/domains/default.asp">register a domain</a></li><li class="navlocked"><a href="/domains/Domain-Manager.aspx" title="log-in required" class="locked">my domains</a></li><li><a href="/domains/ListWizard.asp" title="log-in required" class="locked">bulk wizard</a></li><li><a href="/domains/globaledit.asp" title="log-in required" class="locked">global edit</a></li><li><a href="/domains/Transfers.asp" title="log-in required" class="locked">transfer a domain name</a></li><li><a href="/domains/transferstatus.asp" title="log-in required" class="locked">my transfers</a></li><li><a href="/help/faq_tlds.asp">extension (TLD) info</a></li><li><a href="/domains/idn.asp">international domains (IDNs)</a></li><li class="arrow"><a href="#">advanced tools</a><ul><li class="arrow"><a href="/domains/RegNameServer.asp" title="log-in required" class="locked">register a name server</a></li><li class="arrow"><a href="/domains/Push.asp" title="log-in required" class="locked">push a name</a></li><li class="arrow"><a href="/domains/hostDNS.asp" title="log-in required" class="locked">DNS hosting</a></li></ul></li>
+					<ul id="newnav" class="nav">
+<li style="width: 61px;"><nobr><a href="http://bulk.enom.com/"><img name="home" src="/images/bulk/e3_menuicon_home_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;HOME&nbsp;</a></nobr><ul><li class="arrow"><a href="http://bulk.enom.com/default.asp">welcome to bulkregister</a><ul><li><nobr><a href="http://bulk.enom.com/bulk/domaininvestors.asp">domain investors</a></nobr></li><li><nobr><a href="http://bulk.enom.com/bulk/brandmanagement.asp">brand management</a></nobr></li><li><nobr><a href="http://bulk.enom.com/bulk/marketing.asp">marketing agencies</a></nobr></li><li><nobr><a href="http://bulk.enom.com/bulk/corporate.asp">corporate marketing</a></nobr></li></ul></li>
+<li><nobr><a href="http://bulk.enom.com/services.asp">services overview</a></nobr></li><li><nobr><a href="http://bulk.enom.com/pricing.asp">pricing</a></nobr></li><li><nobr><a href="http://bulk.enom.com/news.asp">news</a></nobr></li><li><nobr><a href="http://bulk.enom.com/registrynews.asp">maintenance alerts</a></nobr></li><li><nobr><a href="http://bulk.enom.com/inthenews.asp">press releases / media</a></nobr></li><li><nobr><a href="http://bulk.enom.com/aboutus.asp">about/contact us</a></nobr></li><li><nobr><a href="http://bulk.enom.com/statistics.asp">statistics and awards</a></nobr></li><li><nobr><a href="http://bulk.enom.com/careers.asp">careers</a></nobr></li><li><nobr><a href="http://bulk.enom.com/sitemap.asp">sitemap</a></nobr></li></ul></li>
+<li style="width: 85px;"><nobr><a href="http://bulk.enom.com/domains/default.asp"><img name="domain" src="/images/bulk/e3_menuicon_domain_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;DOMAINS&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/domains/default.asp">register a domain</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">my domains</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/Transfers.asp" class="locked" title="log-in required">transfer a domain</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/transferstatus.asp" class="locked" title="log-in required">my transfers</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/faq_tlds.asp">extension (TLD) info</a></nobr></li><li><nobr><a href="http://bulk.enom.com/tlds/default.asp">new TLDs .ASIA</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/push.asp" class="locked" title="log-in required">push a domain</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/hostdns.asp">DNS service</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/idn.asp">international domains (IDNs)</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/RegNameServer.asp" class="locked" title="log-in required">register a name server</a></nobr></li><li class="arrow"><a href="http://bulk.enom.com#">bulk tools</a><ul><li><nobr><a href="http://bulk.enom.com/domains/globaledit.asp" class="locked" title="log-in required">global edit</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/listcheck.asp" class="locked" title="log-in required">check a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/listregister.asp" class="locked" title="log-in required">register a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/listrenew.asp" class="locked" title="log-in required">renew a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/transfers.asp" class="locked" title="log-in required">transfer a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/pushlist.asp" class="locked" title="log-in required">push a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/listidprotect.asp" class="locked" title="log-in required">add ID Protect to a list</a></nobr></li><li><nobr><a href="http://bulk.enom.com/domains/listdnsservice.asp" class="locked" title="log-in required">add DNS Service to a list</a></nobr></li></ul></li>
 </ul></li>
-<li><a href="/websitecreator/websitecreator.asp" onmouseover="switchOn('wsc');" onmouseout="switchOff('wsc');"><img name="wsc" src="/images/bulk/e3_menuicon_wsc_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;SITE CREATOR&nbsp;</a><ul onmouseover="switchOn('wsc');" onmouseout="switchOff('wsc');"><li class="firstMenuItem"><a href="/websitecreator/websitecreator.asp">about Web Site Creator</a></li><li><a href="/websitecreator/websitecreator_manage.asp" title="log-in required" class="locked">easy web site manager</a></li><li><a href="/websitecreator/faq_websitecreator.asp">help</a></li></ul></li>
-<li><a href="/wsg/default.asp" onmouseover="switchOn('hosting');" onmouseout="switchOff('hosting');"><img name="hosting" src="/images/bulk/e3_menuicon_hosting_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;HOSTING&nbsp;</a><ul onmouseover="switchOn('hosting');" onmouseout="switchOff('hosting');"><li class="firstMenuItem"><a href="/wsg/default.asp">about our web hosting</a></li><li><a href="/wsg/packagemanager.asp" title="log-in required" class="locked">manage hosting accounts</a></li><li><a href="/wsg/hostinghelp.asp?hosthelp=1">hosting help</a></li></ul></li>
-<li><a href="/pop-email/default.asp" onmouseover="switchOn('email');" onmouseout="switchOff('email');"><img name="email" src="/images/bulk/e3_menuicon_epk_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;EMAIL&nbsp;</a><ul onmouseover="switchOn('email');" onmouseout="switchOff('email');"><li class="firstMenuItem"><a href="/pop-email/default.asp">about our pop email solution</a></li><li><a href="/pop-email/hosted_exchange/default.asp">about hosted exchange</a></li><li><a href="/pop-email/manage-email.asp" title="log-in required" class="locked">manage pop email</a></li><li><a href="/pop-email/hosted_exchange/manage.asp" title="log-in required" class="locked">manage hosted exchange</a></li><li><a href="/help/faq_email.asp?help=3">help</a></li></ul></li>
-<li><a href="/auctions/default.asp" onmouseover="switchOn('auction');" onmouseout="switchOff('auction');"><img name="auction" src="/images/bulk/e3_menuicon_auction_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;AUCTIONS&nbsp;</a><ul onmouseover="switchOn('auction');" onmouseout="switchOff('auction');"><li class="firstMenuItem"><a href="/auctions/default.asp">about domain auctions</a></li><li><a href="/auctions/search.asp">search all auctions</a></li><li><a href="/auctions/Auctions.asp">browse auctions</a></li><li><a href="/auctions/auctions.asp?page=premium&amp;type=premium">premium names</a></li><li><a href="/auctions/clubdrop.asp" title="log-in required" class="locked">Club Drop (expiring names)</a></li><li><a href="/auctions/auctions.asp?page=myauctions&amp;type=user">my auctions</a></li><li><a href="/auctions/faq_clubdrop.asp">help</a></li></ul></li>
-<li><a href="/web-tools/monitor-analyze-protect.asp" onmouseover="switchOn('toolbox');" onmouseout="switchOff('toolbox');"><img name="toolbox" src="/images/bulk/e3_menuicon_toolbox_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;WEB TOOLS&nbsp;</a><ul onmouseover="switchOn('toolbox');" onmouseout="switchOff('toolbox');"><li class="firstMenuItem"><a href="/traffic/default.asp">traffic vista</a><ul><li class="firstMenuItem"><a href="/traffic/default.asp">analyze your traffic</a></li><li class="firstMenuItem"><a href="/traffic/trafficmanager.asp" title="log-in required" class="locked">manage</a></li><li class="firstMenuItem"><a href="/help/trafficvista_help.asp?trafficvista=1">help</a></li></ul></li>
-<li><a href="/secure/default.asp">ssl certificates</a><ul><li class="firstMenuItem"><a href="/secure/default.asp">secure your site</a></li><li><a href="/secure/MyCerts.asp" title="log-in required" class="locked">my SSL certs</a></li></ul></li>
-<li><a href="/monitor/default.asp">web monitor</a><ul><li><a href="/monitor/default.asp">monitor your sites</a></li><li><a href="/monitor/groupmanager.asp" title="log-in required" class="locked">manage</a></li><li><a href="/help/monitor_help.asp?monitor=1">help</a></li></ul></li>
-<li><a href="/privacy-protection/domain-name-whois-privacy.asp">id protect</a><ul><li><a href="/privacy-protection/domain-name-whois-privacy.asp">shield your identity</a></li><li><a href="/privacy-protection/faq_idprotect.asp">help</a></li></ul></li>
+<li style="width: 115px;"><nobr><a href="http://bulk.enom.com/websitecreator/websitecreator.asp"><img name="wsc" src="/images/bulk/e3_menuicon_wsc_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;SITE CREATOR&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/websitecreator/websitecreator.asp">about Web Site Creator</a></nobr></li><li><nobr><a href="http://bulk.enom.com/websitecreator/websitecreator_manage.asp" class="locked" title="log-in required">easy web site manager</a></nobr></li><li><nobr><a href="http://bulk.enom.com/websitecreator/faq_websitecreator.asp">help</a></nobr></li></ul></li>
+<li style="width: 85px;"><nobr><a href="http://bulk.enom.com/wsg/default.asp"><img name="hosting" src="/images/bulk/e3_menuicon_hosting_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;HOSTING&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/wsg/default.asp">about our web hosting</a></nobr></li><li><nobr><a href="http://bulk.enom.com/wsg/packagemanager.asp" class="locked" title="log-in required">manage hosting accounts</a></nobr></li><li><nobr><a href="http://bulk.enom.com/wsg/hostinghelp.asp?hosthelp=1">hosting help</a></nobr></li></ul></li>
+<li style="width: 65px;"><nobr><a href="http://bulk.enom.com/pop-email/default.asp"><img name="email" src="/images/bulk/e3_menuicon_epk_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;EMAIL&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/pop-email/default.asp">about our pop email solution</a></nobr></li><li><nobr><a href="http://bulk.enom.com/HostedExchange/default.asp">about hosted exchange</a></nobr></li><li><nobr><a href="http://bulk.enom.com/pop-email/manage-email.asp" class="locked" title="log-in required">manage pop email</a></nobr></li><li><nobr><a href="http://bulk.enom.com/HostedExchange/manage.asp" class="locked" title="log-in required">manage hosted exchange</a></nobr></li><li><nobr><a href="http://bulk.enom.com/pop-email/faq_email.asp?help=3">help</a></nobr></li></ul></li>
+<li style="width: 90px;"><nobr><a href="http://bulk.enom.com/auctions/default.asp"><img name="auction" src="/images/bulk/e3_menuicon_auction_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;AUCTIONS&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/auctions/default.asp">about domain auctions</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/search.asp">search all auctions</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/Auctions.asp">browse auctions</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/auctions.asp?page=premium&amp;type=premium">premium names</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/clubdrop.asp" class="locked" title="log-in required">NameJet (expiring names)</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/auctions.asp?page=myauctions&amp;type=user">my auctions</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/tv_names_about.asp">.TV names</a></nobr></li><li><nobr><a href="http://bulk.enom.com/auctions/faq_clubdrop.asp">help</a></nobr></li></ul></li>
+<li style="width: 100px;"><nobr><a href="http://bulk.enom.com/web-tools/monitor-analyze-protect.asp"><img name="toolbox" src="/images/bulk/e3_menuicon_toolbox_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;WEB TOOLS&nbsp;</a></nobr><ul><li class="arrow"><a href="http://bulk.enom.com/traffic/default.asp">traffic vista</a><ul><li><nobr><a href="http://bulk.enom.com/traffic/default.asp" class="locked" title="log-in required">manage</a></nobr></li><li><nobr><a href="http://bulk.enom.com/traffic/default.asp">help</a></nobr></li></ul></li>
+<li class="arrow"><a href="http://bulk.enom.com/secure/default.asp">ssl certificates</a><ul><li><nobr><a href="http://bulk.enom.com/secure/default.asp">secure your site</a></nobr></li><li><nobr><a href="http://bulk.enom.com/secure/MyCerts.asp" class="locked" title="log-in required">my SSL certs</a></nobr></li></ul></li>
+<li class="arrow"><a href="http://bulk.enom.com/monitor/default.asp">web monitor</a><ul><li><nobr><a href="http://bulk.enom.com/monitor/default.asp" class="locked" title="log-in required">manage</a></nobr></li><li><nobr><a href="http://bulk.enom.com/monitor/default.asp">help</a></nobr></li></ul></li>
+<li class="arrow"><a href="http://bulk.enom.com/privacy-protection/domain-name-whois-privacy.asp">id protect</a><ul><li><nobr><a href="http://bulk.enom.com/privacy-protection/domain-name-whois-privacy.asp">shield your identity</a></nobr></li><li><nobr><a href="http://bulk.enom.com/privacy-protection/faq_idprotect.asp">help</a></nobr></li></ul></li>
 </ul></li>
-<li><a href="http://www.enom.com/resellers/default.asp" onmouseover="switchOn('reseller');" onmouseout="switchOff('reseller');"><img name="reseller" src="/images/bulk/e3_menuicon_reseller_off.gif" align="absmiddle" hspace="0" width="19 height=" 19"="" border="0">&nbsp;RESELLERS&nbsp;</a><ul onmouseover="switchOn('reseller');" onmouseout="switchOff('reseller');"><li><a href="http://www.enom.com/resellers/default.asp">sell domain names</a></li></ul></li>
+<li style="width: px;"><nobr><a href="http://bulk.enom.com/resellers/default.asp"><img name="reseller" src="/images/bulk/e3_menuicon_reseller_off.gif" align="absmiddle" hspace="0" width="19" height="19" border="0" style="margin-top: -4; ">&nbsp;RESELLERS&nbsp;</a></nobr><ul><li><nobr><a href="http://bulk.enom.com/resellers/default.asp">sell domain names</a></nobr></li></ul></li>
 
 				</ul>
 				</div>
@@ -227,7 +255,7 @@ urchinTracker();
 		</td>
 	</tr>
 	<!-- End Page content -->
-	
+
 	<!-- Start footer -->
 	<tr>
 		<td><div id="footermenu"><a href="/">welcome to Bulk</a> | <a href="/services.asp">services</a> | <a href="/news.asp">news</a> | <a href="/pricing.asp">pricing</a> | <a href="/statistics.asp">statistics</a> | <a href="/registrynews.asp">maintenance</a> | <a href="/aboutus.asp">about us</a> | <a href="/careers.asp">careers</a> | <a href="/inthenews.asp">press releases</a> | <a href="/domains/whois.asp">whois</a> | <a href="/sitemap.asp">sitemap</a> | <a href="/terms/privacy.asp">privacy</a></div></td>
@@ -236,8 +264,10 @@ urchinTracker();
 		<td colspan="3" align="right" valign="top">
 			<table border="0" width="100%" cellspacing="0" cellpadding="4">
 				<tbody><tr>
-					<td valign="top" align="left" class="footertext">© eNom inc. 1998-2006 - <a href="/terms/default.asp" class="footertext">Terms and Conditions</a><br>
-					Partners: <a href="http://www.nuseek.com/" target="_blank">search the web</a></td>
+					<td valign="top" align="left" class="footertext">© eNom inc. 1998-2007
+						<a href="/terms/default.asp" class="footertext">Terms and Conditions</a><br>
+						Partners: <a href="http://www.nuseek.com/" target="_blank">search the web</a>
+					</td>
 					<td align="right">
 						<table border="0" cellspacing="0" cellpadding="2" align="right">
 							<tbody><tr>
@@ -248,16 +278,17 @@ urchinTracker();
 								</td>
 								<td>
 									
-									<a href="http://www.bbbonline.org/cks.asp?id=1060228145852"><img src="/images/bulk/bulk_seal_bbbonline2.gif" alt="BBBOnline Reliability Program" width="96" height="41" border="0"></a>
+									<a href="http://www.bbbonline.org/cks.asp?id=107091392638650"><img src="/images/bulk/BBBReliabilitySeal.gif" alt="BBBReliabilitySeal-1.gif" width="90" height="32" border="0"></a>
 									
 								</td>
 								<td>&nbsp;</td>
-								<td><img src="/images/banners/dotcom_logo.gif" width="58" height="17" border="0" alt=".com"></td>
-								<td><img src="/images/banners/dotnet_logo.gif" width="49" height="19" border="0" alt=".net"></td>
+								<td><a href="/help/faq_tlds.asp" title="TLD Overview"><img src="/images/banners/cnnic_logo_sm.gif" width="69" height="16" border="0" alt=".cn"></a></td>
+								<td><a href="/help/faq_tlds.asp" title="TLD Overview"><img src="/images/banners/dotcom_logo.gif" width="58" height="17" border="0" alt=".com"></a></td>
+								<td><a href="/help/faq_tlds.asp" title="TLD Overview"><img src="/images/banners/dotnet_logo.gif" width="49" height="19" border="0" alt=".net"></a></td>
+
 								
-								
-										<td><img src="/images/banners/dotcc_logo.gif" alt=".cc" width="38" height="20" border="0"></td>
-								 
+										<td><a href="/help/faq_tlds.asp" title="TLD Overview"><img src="/images/banners/dotorg_logo.gif" alt=".org" width="42" height="20" border="0"></a></td>
+									
 
 								<td>&nbsp;</td>
 								<td><img src="/images/e3/e3_logo_footer_icann_logo.gif" alt="ICANN Accredited" width="30" height="30" align="ICANN Accredited Registrar" border="0"></td>
@@ -266,8 +297,9 @@ urchinTracker();
 					</td>
 				</tr>
 			</tbody></table>
+			<div align="center"><img src="/images/banners/dm_mediaservices.gif" alt="Demand Media Services" height="24" width="135"></div>
 		</td>
-	</tr>	
+	</tr>
 </tbody></table>
 
 
