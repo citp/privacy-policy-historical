@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623064542id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164903id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # VEGAS.com: About VEGAS.com: Privacy & Security
 
-_Updated Dec. 28, 2006_
+_Updated Aug. 28, 2007_
 
 * * *
 
@@ -197,7 +197,11 @@ Travel services sold on VEGAS.com are provided by parties other than VEGAS.com. 
 
 **Special note:** _The practices and privacy policies of these other parties may differ from VEGAS.com policies. VEGAS.com suggests and encourages you to review their privacy policies to gain further understanding of their procedures for collecting, using, and disclosing your information._
 
-VEGAS.com may also share personally identifiable information to third parties who provide or offer other services on our behalf. In some cases, a VEGAS.com travel service provider may contact you directly if additional information is necessary to fulfill your request. VEGAS.com may also share aggregate information to service providers, business partners and advertisers. In these cases, VEGAS.com does not provide personally identifiable information. In addition, VEGAS.com may contract with third-party vendors for survey distribution, promotions or to facilitate sweepstakes or contests. 
+VEGAS.com may also share personally identifiable information to third parties who provide or offer other services on our behalf. We may also share your personally identifiable information with business partners with whom we jointly market products or services. If you choose to access such third party services and provide authorization, we may share information about you, including your personal information, with those business partners. Please note that we do not control the privacy practices of third party business partners and recommend you evaluate their practices before deciding to provide your personal information.
+
+In some cases, a VEGAS.com travel service provider may contact you directly if additional information is necessary to fulfill your request.
+
+VEGAS.com may also share aggregate information to service providers, business partners and advertisers. In these cases, VEGAS.com does not provide personally identifiable information. In addition, VEGAS.com may contract with third-party vendors for survey distribution, promotions or to facilitate sweepstakes or contests. 
 
 back to top
 
