@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430152139id_/http%3A//www.66mobile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212094338id_/http%3A//www.66mobile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
