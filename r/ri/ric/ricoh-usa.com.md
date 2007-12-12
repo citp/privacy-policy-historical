@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622114030id_/http%3A//ricoh-usa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213003153id_/http%3A//www.ricoh-usa.com/privacy.asp) for the most accurate reproduction.*
 
 # Ricoh-USA - Privacy Policy
 
