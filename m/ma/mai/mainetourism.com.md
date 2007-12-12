@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2007-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070329173044id_/http%3A//www.mainetourism.com/redir.php%3Furl%3Dhttp%3A//www.mainetourism.com/%3Fcat_id%3D278) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212195650id_/http%3A//www.mainetourism.com/redir.php%3Furl%3Dhttp%3A//www.mainetourism.com/%3Fcat_id%3D278) for the most accurate reproduction.*
 
 # Maine Tourism Association - Maine vacation travel and tourism, lodging, attractions
 
