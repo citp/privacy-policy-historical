@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2007-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070528195233id_/http%3A//www.raring2go.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212200048id_/http%3A//www.raring2go.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # About Us - Raring2go!
 
@@ -28,21 +28,21 @@ N5 Ltd will never offer a third party access to this information for any purpose
 
 The personal information you submit when placing your order with Raring2go! is held with the highest commitment to your privacy. We believe that your privacy is important and have security in place to protect it so as is reasonably possible. 
 
-### Using Personal Information 
+### Using Personal Information
 
 N5 Limited may use an advertiser’s personal information to communicate with advertisers via email newsletters or other avenues to offer marketing information and other communications to assist in business related activities. If an advertiser Raring2go! wishes not to have their information used for these purposes, they may elect to opt-out from future communications by any of the flowing: - Notifying N5 Limited in writing to the registered address: Unit 5 Olton Bridge, 245 Warwick Road, Solihull B92 7AH. - Using the unsubscribe link in any e mail communication 
 
-### Public Information 
+### Public Information
 
 Listings information submitted for display on the Raring2go! website is information for the public domain and therefore cannot be classed as private. If we request any information which could be classed as private, N5 will make you aware of this at the time of submission. 
 
 By submitting your listings information to Raring2go! you give N5 Ltd unconditional permission to use this information regardless of any moral rights, copyright, service mark, trademark or patent laws. Further you allow N5 Ltd to publish, modify, edit, translate, distribute and otherwise reproduce the information in whatever format we choose. 
 
-### Third party links 
+### Third party links
 
 Raring2go! contains links to other sites but we cannot assume responsibility for any other site's content or information handling practices. We urge you to review each site's privacy policy before entering into transactions with them. 
 
-### Your Consent 
+### Your Consent
 
 By advertising with Raring2go! you agree that you are happy for your information to be gathered and used in the ways described in this policy. 
 
