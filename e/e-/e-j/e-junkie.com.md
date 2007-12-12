@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630061732id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213001200id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
 
 # E-junkie - Privacy Policy
 
@@ -19,7 +19,7 @@ Optional Voluntary Information
 We offer the following services, which require some type of voluntary submission of personal information by users:
 
 1\. E-mail notifications  
-We will send out notifications about payments and other activity related to your account. You might also receive periodic notifications about the changes in features for as long as you a registered member of E-junkie.com. You may cancel your account by contacting us from <http://www.e-junkie.com/ej/contact.php>
+We will send out notifications about payments and other activity related to your account. You might also receive periodic notifications about the changes in features for as long as you a registered member of E-junkie.com. You may cancel your account anytime from <http://www.e-junkie.com/ej/admin.php>
 
 2\. Electronic newsletters (Dispatches)  
 We will offer a electronic newsletter to users. E-junkie.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
