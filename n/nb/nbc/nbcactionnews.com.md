@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcactionnews.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506052426id_/http%3A//www.nbcactionnews.com/legal/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcactionnews.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213004324id_/http%3A//www.nbcactionnews.com/legal/default.aspx) for the most accurate reproduction.*
 
 # Terms & Conditions - NBC Action News KSHB-TV 41
 
