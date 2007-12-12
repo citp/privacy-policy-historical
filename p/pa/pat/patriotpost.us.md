@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2007-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070503070738id_/http%3A//patriotpost.us/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212105542id_/http%3A//patriotpost.us/main/privacy.asp) for the most accurate reproduction.*
 
 # The Patriot Post
 
