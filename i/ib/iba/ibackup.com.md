@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613035024id_/http%3A//ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212092158id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy – Secure online storage and backup
-
-  |    
-**Privacy Policy**
-
-  PLEASE READ OUR PRIVACY POLICY BEFORE REGISTERING AND USING IBACKUP SERVICE:
-
-Pro Softnet Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.ibackup.com.
-
-|   |   
-  
-| 
 
 1\. What is IBackup and why is my information needed? 
 
@@ -58,5 +47,3 @@ PRO SOFTNET CORP.
 Suite 690  
 Woodland Hills, CA 91367   
 [privacy@ibackup.com](mailto:privacy@ibackup.com)
-
-|   | 
