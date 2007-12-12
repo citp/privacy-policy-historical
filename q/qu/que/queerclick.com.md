@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629195106id_/http%3A//queerclick.com/archive/2004/10/our_privacy_pol.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerclick.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212164543id_/http%3A//www.queerclick.com/archive/2004/10/our_privacy_pol.php) for the most accurate reproduction.*
 
 # QueerClick — Our Privacy Policy
 
