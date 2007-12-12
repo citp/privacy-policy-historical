@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juliensauctions.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624153013id_/http%3A//juliensauctions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juliensauctions.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212100050id_/http%3A//www.juliensauctions.com/privacy.html) for the most accurate reproduction.*
 
 # Julien's Auctions Privacy Policy
 
@@ -33,11 +33,11 @@ None of the above personally-identifying information is stored on our website, a
 
 
 > **MyAccount:** when you make a purchase, our shopping cart allows you to set up an account that contains your contact information (name, address, email), any saved shopping cart contents, wish list, download links, and purchase history. No credit card information is retained in MyAccount. You may change your account information at any time by [logging in to MyAccount](http://www.juliensauctions.com/shop/index.php?action=account) with the username and password you specified when setting up your account.
-
-**Cookies:** cookies are little bits of information in a file stored on your computer. This website uses cookies in its shopping cart to enable customers to complete purchases, and to remember MyAccount login information if they opted to use the MyAccount feature. We have opted to use cookies as a safer way to pass this information. If you've already made your purchase, you can safely delete any screaminkids.com cookies from your computer. 
+> 
+> **Cookies:** cookies are little bits of information in a file stored on your computer. This website uses cookies in its shopping cart to enable customers to complete purchases, and to remember MyAccount login information if they opted to use the MyAccount feature. We have opted to use cookies as a safer way to pass this information. If you've already made your purchase, you can safely delete any screaminkids.com cookies from your computer. 
 
 **(4)** **Web Hosting**. As with most web hosting companies, ours records and stores only the following information about our website visitors: the numerical IP address or domain name from which they access the Internet; the date and time our website is accessed; the pages you visited and whether they successfully downloaded to your browser; and sometimes the Internet address of the website from which you may have accessed our website (such as Google.com). We use this information only to understand how many visitors we get and how visitors use our website so that we can improve it. We do not sell this information to anyone for any reason. Simply surfing our website will not impart other personally-identifying information to us.
 
 **Notification of Changes to Privacy Policy**. In the event that we make changes to or update this Privacy Policy; in that event, we will post them to this page of our website with the corresponding Effective Date.
 
-If you have any privacy concerns, [please contact us](https://web.archive.org/web/20070624153013id_/http%3A//juliensauctions.com/contact.html).
+If you have any privacy concerns, [please contact us](https://web.archive.org/web/20071212100050id_/http%3A//www.juliensauctions.com/contact.html).
