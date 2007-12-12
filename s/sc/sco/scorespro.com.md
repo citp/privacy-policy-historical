@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2007-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070601014449id_/http%3A//www.scorespro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212163151id_/http%3A//www.scorespro.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Score service (powered by ScoresPro.com) - Privacy Policy
 
