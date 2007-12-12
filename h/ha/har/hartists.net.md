@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hartists.net privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624143157id_/http%3A//hartists.net/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartists.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185128id_/http%3A//hartists.net/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hArtists
 
-We strongly believe in your right to privacy. This document outlines the types of personal information we receive and collect when you use our website, as well as some of the steps we take to make sure this information is not abused by third parties. We hope this document will aid you in making an informed decision about sharing your personal information with us.
-
+We strongly believe in your right to privacy. This document outlines the types of personal information we receive and collect when you use our website, as well as some of the steps we take to make sure this information is not abused by third parties. We hope this document will aid you in making an informed decision about sharing your personal information with us.  
+  
 ## What we Collect
 
   * When your web browser makes a request for a page on our website, we record the following information, which we may use for research and improving our website: 
@@ -35,4 +35,10 @@ We may use personal information to provide you with services you signed up for, 
 
 Sometimes we may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
 
-Personal information is processed on our servers in the Federal Republic of Germany. In some cases, this may mean that we process personal information on a server outside your own country.
+Personal information is processed on our servers in the Federal Republic of Germany. In some cases, this may mean that we process personal information on a server outside your own country.  
+  
+Copyright © 2003 - 2007 hArtists
+
+_Deadlines... what deadlines?_
+
+[About Us](https://web.archive.org/about/) | [Privacy Policy](https://web.archive.org/policy/privacy/) | [Terms of Service](https://web.archive.org/policy/tos/) | [Report Abuse](https://web.archive.org/contact/?abuse)
