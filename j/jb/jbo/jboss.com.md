@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jboss.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629133920id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jboss.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213001321id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
 
 # JBoss.com - Privacy Statement for Red Hat, Inc.
 
 |    
 ---  
-  **Online:** 18836 guests, [98 members](http://www.jboss.com/index.html?module=user&op=whosonline)  
+  **Online:** 37922 guests, [21 members](http://www.jboss.com/index.html?module=user&op=whosonline)  
    
   **Monthly JBoss newsletter:**  
    
