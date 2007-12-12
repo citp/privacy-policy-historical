@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630162330id_/http%3A//www.cdw.com/webcontent/inside/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212071739id_/http%3A//www.cdw.com/webcontent/inside/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Pledge
 
@@ -57,7 +57,7 @@ When you enter contests, participate in surveys, or register for other activitie
 Is my personal or account information used for any other purpose?  
 We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
 
-We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication or contacting your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/shop/tools/composeemail/sendcorporate.asp?mailboxID=0). 
+We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by following the instructions in the e-mail communication or contacting your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/shop/tools/composeemail/sendcorporate.asp?mailboxID=0&printable=1). 
 
 We may also analyze and act upon your personal and account information as part of our standard business practices. We occasionally purchase from third parties commercial information such as company size, number of employees and annual sales of other companies. We may use this commercial information along with your personal and account information to customize our offerings to you, as well as for our internal use.
 
@@ -77,6 +77,6 @@ How can I give you feedback or contact you?
 Simply [click here](https://web.archive.org/webcontent/inside/service/default.asp). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
 How can I correct inaccurate information?  
-You may correct some personal and account information maintained in your E-Account through your E-Account. To correct any other information, please contact your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/shop/tools/composeemail/sendcorporate.asp?mailboxID=0) or call 866.782.4239. 
+You may correct some personal and account information maintained in your E-Account through your E-Account. To correct any other information, please contact your account manager. If you do not know your account manager, simply [click here](https://web.archive.org/shop/tools/composeemail/sendcorporate.asp?mailboxID=0&printable=1) or call 866.782.4239. 
 
 Last revision: 10/10/06 
