@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aut.ac.nz privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418091153id_/http%3A//www.aut.ac.nz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aut.ac.nz privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212184450id_/http%3A//www.aut.ac.nz/privacy.htm) for the most accurate reproduction.*
 
 # AUT - Web Privacy and Security Statement
 
