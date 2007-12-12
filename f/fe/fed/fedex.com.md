@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612204516id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212211822id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FedEx Web Site
 
