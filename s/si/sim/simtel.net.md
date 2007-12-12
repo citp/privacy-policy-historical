@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2007-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070425191601id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212234803id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
@@ -6,20 +6,20 @@ Hot Spots
 
 Top Searches
 
-Server   
-Personal Firewall   
-on demand   
+Windows XP   
+web camera   
+Universal   
 Microsoft Access   
-Inventory   
-Quickbooks   
-invoice   
-payroll   
-Credit Card   
-deduction   
-tax   
+USB flash drive   
+real video   
+Norton SystemWorks   
+cable modems   
+operating system   
+user interface   
+video card   
 HP Photosmart   
-stock   
-Security 
+hard drive   
+software package 
 
 ADVERTISEMENT
 
