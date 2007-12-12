@@ -1,108 +1,64 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630154742id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212074900id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-The information you provide to us will be held on our computers, which are based in the UK. This privacy policy only relates to this Site and does not extend to your use of the internet outside of the Site (“ **Privacy Policy** ”). 
+This policy is written in accordance with the Data Protection Act 1998. If you have any questions about it please contact our Data Protection Compliance Officer at Macmillan Cancer Support, 89 Albert Embankment, London SE1 7UQ, email [webmanager@macmillan.org.uk](mailto:webmanager@macmillan.org.uk), or telephone 020 7840 7840. 
 
-This Privacy Policy as amended from time to time describes the type of Personal Information collected and ways in which your Personal Information may be used. By visiting this Site, you accept the terms of this Privacy Policy and you consent to the use of your Personal Information in accordance with this Privacy Policy. All your Personal Information shall be used in accordance with the Data Protection Act 1998 (the “ **Act** ”). If you want to know what Personal Information we collect and hold about you, please write to us at:- 
+###  What personal information do we collect? 
 
-Data Protection Compliance Officer 
+Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, fax number and credit/debit card details. 
 
-Macmillan Cancer Support 
+We collect personal information when you ask about our activities, register with us (for example, registering on a discussion board), order products and services (such as publications and email newsletters), make a donation to us, or otherwise give us personal information. 
 
-89 Albert Embankment 
+###  How do we use your information? 
 
-London SE1 7UQ 
+We use your personal information to give you the information, services, or products you ask for. We can also use your information for administrative purposes, to let you know about changes and, if you agree, as part of our fundraising activities.  We sometimes also share your information with our service providers, trading companies, and associated organisations (who work with us to get the information you ask for). 
 
-Macmillan Cancer Support is the data controller of your Personal Information for the purposes of the Act. 
+Macmillan Cancer Support is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
 
-**What** **Personal Information do we collect?**
+Where indicated - usually by a tick box asking for your permission (for example, the 'About you' sections of our online forms) - we use your personal information to create a profile of your interests and preferences. This information is not shared with other organisations. 
 
-We will collect the Personal Information which you are required to provide to us during the registration process. You agree to supply us with accurate Personal Information. We may then use your Personal Information by publishing it on the Site to introduce sellers, suppliers and other users to you for the purpose of you getting what you want. 
+We reserve the right to share your personal information if we are legally obliged to and to enable us to apply our terms and conditions and other agreements. This includes exchanging information with other organisations for fraud and credit risk reduction. 
 
-By submitting Personal Information in an on-line document, email or otherwise, you consent to our use of the Personal Information for the purpose(s) for which it was provided (for example, to respond to your enquiry) and/or otherwise in accordance with the Privacy Policy in effect at the time submission, and for any additional purposes that are notified to you before, or at the time of, submitting Personal Information. We may also use your Personal Information including, without limit:- 
+Unfortunately, no data transmission over the Internet is 100% secure. As a result, while we try to protect your personal information, Macmillan Cancer Support cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access. 
 
-Information that you provide by filling in forms on this Site; 
+###  How we use "cookies" 
 
-Information about your computer including where available your IP address, operating system and browser type; 
+Macmillan Cancer Support uses "cookies" to give you a more personalised web service. 
 
-Details of your visits to this Site and the pages and resources that you access; 
+A cookie is a small text file we pass to your computer's hard disk through your web browser so the website remembers who you are when you return. 
 
-in the following ways:- 
+We use a type of cookie called a "persistent" cookie. These cookies store information between visits. For example, if you tick the 'Remember me' box your email address and password is saved in a cookie on your computer. This means next time you log on to the site you will not need to re enter those details.  We suggest you do not select the 'Remember me' box if you use a shared computer (for example, if you access the Internet at an Internet Café, or at a university). 
 
-To ensure that content from this Site is presented in the most effective manner for you and your computer; 
+###  Website analysis 
 
-To provide you with information, products or services that you request from us; 
+Macmillan Cancer Support works with Nedstats to track use of our websites. Nedstats use cookies to gather statistics about our visitors, such as where you come from before entering our websites and which websites you go to afterwards. Information collected in this way is anonymous and individuals cannot be traced. This information allows us to improve our websites, for example, to assess the impact of and develop campaigns and services. 
 
-To notify you about changes to our services and to update your Personal Information; 
+For more information about Nedstats, please see their privacy policy at [http://www.nedstat.co.uk/web/nedstatuk.nsf/pages/EINN_6FDBAJ?open&print](http://www.nedstat.co.uk/web/nedstatuk.nsf/pages/EINN_6FDBAJ?open&print)
 
-You may refuse to provide certain Personal Information; however the failure to provide requested Personal Information may result in your inability to use certain features of this Site. 
+If you do not wish to have cookies stored on your computer you can easily change your web browser to refuse cookies, or let you know when you get a new cookie. You need to refer to your Internet browser's instructions by clicking on the 'Help' menu. Refusing cookies, however, can restrict your use of our websites.  To enjoy Macmillan's websites to the full we recommend you leave cookies switched on. 
 
-Unfortunately, the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your Personal Information, we cannot ensure the security of the Personal Information which you transmit to the Site. **Any transmission is at your own risk. Once we have received your Personal Information we will use strict procedures and security features to prevent unauthorised access, but we cannot absolutely guarantee it will always kept completely secure because of the nature of the internet**. 
+For more information about cookies, please see <http://www.cookiecentral.com/>
 
-**Cookies**
+###  Privacy and our discussion boards 
 
-We use alphanumeric identifiers (“ **cookies** ”) which are transferred to your computer’s hard drive through your web browser to enable our system to recognise your browser when you return to this Site and to monitor traffic patterns. You may modify your web browser to prevent it from accepting new cookies, to notify you when a cookie is received or to disable cookies entirely. Doing so, however, may prevent you from enjoying certain features of this Site. Find out more about Cookies by visiting [www.cookiecentral.com](http://www.cookiecentral.com/). 
+Our discussion boards are moderated and we do not display the full names of individuals nor addresses. The posting of personal information in a discussion board means your information is publicly accessible. Such information can be viewed online and collected by third parties. We are not responsible for the use of information by such third parties. We strongly recommend all registered users to keep their postings anonymous. We also recommend you avoid sharing any personal information that can be used to identify you (such as your name, age, address, name of employer). 
 
-We use a type of cookie known as a "persistent" cookie. If you tick the 'Remember Me' box your email address and password will be saved in a cookie on this computer. This means that the next time you log on you will not need to re-enter these details. This cookie allows us to: 
+For more information about how to use our discussion boards please see the 'House rules' page <http://share.macmillan.org.uk/Share/Forums/HouseRules.aspx>
 
-  * welcome you as an individual when you log on to our website; 
+###  Children's privacy 
 
+Child safety is important to us. We do not collect personal information from people under the age of 18 except for our education site 'Why Bother' aimed at people between ages 13 and 18. If personal information given via our websites shows a visitor is a child, we will not allow the child to continue to give personal information and any personal information given will be deleted from our records. 
 
+Our Why Bother website includes a discussion board. We moderate the board and do not show the full name of individuals nor addresses. Children should always ask a parent before sending personal information to anyone online. 
 
-In the future this cookie may: 
+###  Accessing and updating your personal information held by Macmillan 
 
-  * track where you have come from if you have come to our website from another website; and 
+You can ask us what information we hold about you by contacting us at the above address.  Please keep your information up to date by letting us know at the above address. 
 
+###  Changes to this policy 
 
+We may change our privacy policy from time to time so please check back periodically. 
 
-track how many times you visit a page. 
-
-  * If you delete the cookie or your browser is set to not accept cookies this function will not work. For removing the 'Remember Me' cookie, just untick the 'Remember Me' box when you sign in. 
-
-
-
-**Warning: we suggest you do not select the "Remember Me" function if you are using a shared computer or non-secure access.**
-
-**What do we do with your Personal Information?**
-
-We will use Personal Information to build up a profile of your interests and preferences.  When you supply us with your Personal Information tick the applicable box to give us permission to use your Personal Information for the purposes described next to the applicable box (e.g. if you would like to receive email newsletters or other information which may be of interest to you). We won’t give out your Personal Information unless you give us permission to do so by using the Site and ticking the relevant box for the specific purpose that you consent to when you submit your Personal Information or contemplate when using the Site. 
-
-Apart from this, your Personal Information will not be disclosed to other third parties or used in any other way (other than as described in this Privacy Policy), unless we obtain your prior consent to use it in this way or we are required to do so by law. 
-
-This Site does not target any person under 18 (referred to as “ **children** ” or “ **child** ”) and our requests for Personal Information are not directed at children. We do not intentionally collect Personal Information from children. If registration or other Personal Information provided through this Site reveals that the visitor is a child, we will not allow that child to continue to provide Personal Information and any Personal Information provided to that point will be deleted from our records. 
-
-**Disclosing your Personal Information to third parties**
-
-We may disclose your Personal Information to third parties: 
-
-If you inadvertently or otherwise disclose any personally identifiable information in a posting or upload or submit any content which may be offensive or in breach of this Agreement and/or any Content Standards to contact you and discuss with or notify you its removal or amendment (we reserve the right however to remove and/or suspend any material which you post without notice and any reason at our discretion). 
-
-In the event that we sell or buy any business or assets we may disclose your Personal Information to the buyer or seller of such business or assets; 
-
-To pass your Personal Information to our affiliates or certain suppliers/sub-contractors to supply goods, services or information requested by you; 
-
-If we are under a duty to disclose or share your Personal Information to comply with any legal obligation or to enforce or apply our terms and conditions and other agreements or protect our rights or property, our customers, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction; 
-
-Such as advertisers (for the purpose of serving advertisements), suppliers, potential suppliers and our potential customers and those of our affiliated companies with details about our services, but we will not provide them with any information which can be used to identify you. 
-
-  * You have the right to request us not to use your Personal Information in this way by indicating before submitting your Personal Information whether you mind your Personal Information being used in this way. Alternatively, you can exercise your right to do so by contacting [webmanager@macmillan.org.uk](mailto:webmanager@macmillan.org.uk) or by writing to us at the address at the beginning of this Privacy Policy. 
-  * Please note: by posting any Personal Information on a listing or otherwise in any publicly accessible area of the Site, such information may be collected by third parties over which we have no control. **We strongly recommend all Registered User Areas are intended to keep postings anonymous** (other than where you have granted limited access to an Online Diary and you have taken a positive decision to make Personal Information available to those people to whom you have given access to your Online Diary).   We are not responsible for the use of such information by such third parties.
-
-
-
-**Please therefore exercise all due care and consideration before disclosing any Personal Information that will be disclosed on public areas or in your Online Diary. You should also avoid disclosing any Personal Information that may be used to identify you (such as you name, age, home or work address or name of your employer) especially if you disclose any sensitive Personal Information such as:**
-
-  * racial or ethnic origin; 
-  * political beliefs; 
-  * philosophical or religious beliefs; 
-  * membership of a trade union or political party; 
-  * physical or mental health; 
-  * sexual life; or 
-  * the commission of criminal offences or proceedings. 
-
-
-
-**Contact Us**
-
-You may contact us via email at [webmanager@macmillan.org.uk](mailto:webmanager@macmillan.org.uk)or phone at 020 7840 7840 if you do not want your Personal Information to be used in a certain way, if you wish to review Personal Information on our records, if you need to correct your Personal Information, or if you have any questions regarding this Privacy Policy. 
+  
+This policy was last updated August, 2007. 
