@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625051811id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212011403id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FirstShowing.net
 
@@ -20,3 +20,5 @@ With respect to ad servers: To try and bring you offers that are of interest to 
 <http://www.google.com/adsense/>
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by e-mail us at the above address. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+
+**Discover More:** [Movie News](http://www.firstshowing.net/category/movie-news/ "View all posts in Movie News")
