@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630213026id_/http%3A//doteasy.com/Terms/index.cfm%3FT%3DPP%26bodyClass%3DpageCenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212094701id_/http%3A//www.doteasy.com/Terms/index.cfm%3FT%3DPP) for the most accurate reproduction.*
 
-# Doteasy - 100MB Free Web Hosting, Free Email, Domain Names for Business and Individuals
-
-Legal Information
+# Free Web Hosting and Domain Name Registration Services by Doteasy.com
 
 | [](https://web.archive.org/)  
 ---|---  
