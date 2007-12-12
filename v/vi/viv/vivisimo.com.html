@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the vivisimo.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630103102id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivisimo.com privacy policy that was archived on 2007-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212190152id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="author" content="Vivísimo, Inc."><meta name="keywords" content="enterprise search, enterprise search solution, government search, consumer search, search solution, search engine, Velocity, Clusty, security, clustering"><meta name="description" content="Vivísimo is a leading provider of search solutions, offering the award-winning Velocity Search Platform for enterprises and governmental organizations and Clusty.com for consumers seeking a better search engine."><meta name="robots" content="all"><link rel="Shortcut Icon" type="image/x-icon" href="http://vivisimo.com/favicon.ico"><link rel="alternate" type="application/rss+xml" title="RSS" href="http://vivisimo.com/rss"><title>Vivísimo, Inc. Web Search Services Privacy Policy - Vivísimo, Inc.</title><style type="text/css" title="currentStyle" media="screen">
-		@import "/css-764//website.css";
+		@import "/css-854//website.css";
 	</style><script type="text/javascript"><!--
 
 var frms = 0;
 var rform = 'simple';
-var vfile='viv_764@24:Z1SuHr';
+var vfile='viv_854@21:pySJBY';
 var imgBaseUrl='http://vivisimo.com/images/';
 var srcp='v:sources';
 var active='';
@@ -485,63 +485,84 @@ function oc(link, type, exp, id, path) {
   }
 }
 
-function validate(correctForm) {
-  if (typeof correctForm == "undefined") {
-    correctForm = true;
-  } // if (typeof correctForm == "undefined")
-  if (document.contactForm.first_name.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us your first name.");
-      document.contactForm.first_name.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.last_name.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us your last name.");
-      document.contactForm.last_name.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.email.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us your email address.");
-      document.contactForm.email.focus();
-    } // if (correctForm)
-    return false;
-  } else if (!isValidEmail(document.contactForm.email.value)) {
-    if (correctForm) {
-      alert("Please provide a valid email address.");
-      document.contactForm.email.value = '';
-      document.contactForm.email.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.company.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us what organization you are from.");
-      document.contactForm.company.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.title.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us your position at "+document.contactForm.company.value);
-      document.contactForm.title.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.country.value.length <= 0) {
-    if (correctForm) {
-      alert("Please tell us what country you are from.");
-      document.contactForm.country.focus();
-    } // if (correctForm)
-    return false;
-  } else if (document.contactForm.description.value.indexOf("<a ") > 0) {
-    if (correctForm) {
-      alert("Please do not use HTML links in your message.  If you need to provide us with a URL, simply typing it will suffice.");
-      document.contactForm.description.focus();
-    } // if (correctForm)
-    return false;
-  } else {
+
+
+function validate (correctForm) {
+    var form = document.contactForm;
+    correctForm = typeof(correctForm) === "undefined" ? true : correctForm;
+
+    /* Returns false if a field is empty. */
+    var answered = function (name, message) {
+        var el = form && form[name];
+        var has_content = !el || el.value.length > 0;
+        if (!has_content) {
+            if (correctForm) {
+                alert(message);
+                el.focus();
+            }
+        }
+        return has_content;
+    }
+
+    if (!answered('first_name', "Please tell us your first name.") ||
+        !answered('last_name', "Please tell us your last name.") ||
+        !answered('email', "Please tell us your email address.") ||
+        !answered('phone', "Please tell us your phone number.") ||
+        !answered('company', "Please tell us what organization you are from.") ||
+        !answered('title', "Please tell us your title.") ||
+        !answered('city', "Please tell us what city you are from.") ||
+        !answered('state', "Please tell us what state or provence you are from.") ||
+        !answered('country', "Please tell us what country you are from.") ||
+        false /* This is here to make adding new lines easier. */
+        ) {
+        return false;
+    }
+
+    if (form.email && !isValidEmail(form.email.value)) {
+        if (correctForm) {
+            alert("Please provide a valid email address.");
+            form.email.value = '';
+            form.email.focus();
+        } // if (correctForm)
+        return false;
+    }
+
+    if (hasNoCheckedRadio('seminar_radiobuttons', 'lead_source')) {
+        if (correctForm) {
+            alert("Please select which seminar you want to register for.");
+        } // if (correctForm)
+        return false;
+    }
+    if (form.description && form.description.value.indexOf("<a ") > 0) {
+        if (correctForm) {
+            alert("Please do not use HTML links in your message.  If you need to provide us with a URL, simply typing it will suffice.");
+            form.description.focus();
+        } // if (correctForm)
+        return false;
+    }
+
     return true;
-  } // if
-} // function validate()
+}
+
+function hasNoCheckedRadio(parent, name) {
+    if (typeof(parent) === 'string') {
+        parent = document.getElementById(parent);
+    }
+    if (!parent) {
+        return false;
+    }
+    var list = parent.getElementsByTagName('input');
+    var len = list.length;
+    var i, input, is_checked = false;
+    for (i = 0; i < len; i++) {
+        input = list[i];
+        if (input.type === 'radio' && input.checked) {
+            is_checked = true;
+            break;
+        }
+    }
+    return !is_checked;
+}
 
 function validateDownload(correctForm) {
   if (typeof correctForm == "undefined") {
@@ -640,21 +661,6 @@ function clearSearchQuery() {
 } // function clearSearchQuery()
 
 
-function loadFrontpage() {
-  document.searchForm.query.focus();
-  if (!readCookie('flashplayed')) {
-    createCookie('flashplayed', 'true', 30);
-    drawFrontpageFlash();
-  } // if (!readCookie('flashplayed'))
-} // function loadFrontpage
-
-function drawFrontpageFlash() {
-  var flashpath = 'http://vivisimo.com/images/frontpage/flash0001/flash.swf';
-  var element = document.getElementById('flash');
-  element.innerHTML = '<object width="530" height="238"><param name="movie" value="'+flashpath+'" /><embed type="application/x-shockwave-flash" width="530" height="238" src="'+flashpath+'" /></object>';
-} // function drawFrontpageFlash()
-
-
 // Cookie handling functions from quirksmode.org/js/cookies.html
 function createCookie(name,value,days) {
 	if (days) {
@@ -676,7 +682,8 @@ function readCookie(name) {
 	}
 	return null;
 }
---></script></head><body><table id="container" cellpadding="0" cellspacing="0"><tbody><tr><td class="lbg"></td><td class="main"><div id="page"><div id="header"><a href="http://vivisimo.com"><img alt="Vivisimo" src="http://vivisimo.com/images/design/id.gif"></a><ul id="buckets"><li id="careers-bucket"><a href="/html/careers">Careers</a></li><li id="contact-bucket"><a href="/html/contact">Contact Us</a></li></ul><form id="search" action="/search" name="siteSearch"><input type="hidden" name="v:project" value="vivisimo-search"><input type="text" value="search our site" id="search-query" name="query" onfocus="clearSearchQuery();"><input type="image" src="http://vivisimo.com/images/design/go.gif"></form></div><ul id="mainmenu"><li id="mainmenu-about"><a href="/html/about">About Us</a></li><li id="mainmenu-products"><a href="/html/velocity">Products</a></li><li id="mainmenu-solutions"><a href="/html/solutions">Solutions</a></li><li id="mainmenu-press"><a href="/html/press">News and Events</a></li><li id="mainmenu-partners"><a href="/html/partners">Partners</a></li><li id="mainmenu-customers"><a href="/html/customers">Customers</a></li><li id="mainmenu-support"><a href="/html/support">Support</a></li><li id="mainmenu-blog"><a href="http://searchdoneright.com">Blog</a></li></ul><div id="content"><table><tbody><tr><td id="content-main" valign="top" width="*"><h1 class="titleimg"><a href="/html/privacy"><img src="http://vivisimo.com/images/design/titles/privacy.gif" alt="Vivísimo, Inc. Web Search Services Privacy Policy"></a></h1><div class="text"><p>At Vivísimo, Inc. ("<strong>Vivísimo</strong>"), we recognize that privacy is important.  The Vivísimo Privacy Policy ("<strong>Policy</strong>") document outlines information collection and use practices for Vivisimo's web search services offered on Clusty.com and Vivisimo.com which are owned and operated by Vivísimo ("<strong>Vivísimo Web Search Services</strong>").</p><p>By using Vivísimo Web Search Services, you consent to the collection and use of your information as described in this Policy, and Vivísimo's Terms of Use. Certain portions of the Vivísimo Web Search Services may be made available by third parties. The collection and use of your information in connection with such services and content may be governed by the privacy policies, terms of use, or other terms and conditions of such third parties.</p><h3>Data Collection (Absence of Personally Identifiable Information)</h3><p>Vivísimo Web Search Services do not require account registration or provision of any personal information to Vivísimo. In order to provide a full range of services, we may collect the following types of information:</p><ul><li><strong>Cookies</strong> - We may use cookies to store a user's search preferences. A cookie can be a small amount of data that is sent to a user's browser from a web server and is eventually stored on a user's computer hard drive. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some Vivísimo features and services may not function properly if your cookies are disabled.
+
+--></script></head><body><table id="container" cellpadding="0" cellspacing="0"><tbody><tr><td class="lbg"></td><td class="main"><div id="page"><div id="header"><a href="http://vivisimo.com"><img alt="Vivisimo" src="http://vivisimo.com/images/design/id.gif"></a><ul id="buckets"><li id="careers-bucket"><a href="/html/careers">Careers</a></li><li id="contact-bucket"><a href="/html/contact">Contact Us</a></li></ul><form id="search" action="/search" name="siteSearch"><input type="hidden" name="v:project" value="vivisimo-search"><input type="text" value="search our site" id="search-query" name="query" onfocus="clearSearchQuery();"><input type="image" src="http://vivisimo.com/images/design/go.gif"></form></div><ul id="mainmenu"><li id="mainmenu-about"><a href="/html/about">About Us</a></li><li id="mainmenu-products"><a href="/html/products">Products</a></li><li id="mainmenu-solutions"><a href="/html/solutions">Solutions</a></li><li id="mainmenu-press"><a href="/html/press">News and Events</a></li><li id="mainmenu-partners"><a href="/html/partners">Partners</a></li><li id="mainmenu-customers"><a href="/html/customers">Customers</a></li><li id="mainmenu-support"><a href="/html/support">Support</a></li><li id="mainmenu-blog"><a href="http://searchdoneright.com">Blog</a></li></ul><div id="content"><table><tbody><tr><td id="content-main" valign="top" width="*"><h1 class="titleimg"><a href="/html/privacy"><img src="http://vivisimo.com/images/design/titles/privacy.gif" alt="Vivísimo, Inc. Web Search Services Privacy Policy"></a></h1><div class="text"><p>At Vivísimo, Inc. ("<strong>Vivísimo</strong>"), we recognize that privacy is important.  The Vivísimo Privacy Policy ("<strong>Policy</strong>") document outlines information collection and use practices for Vivisimo's web search services offered on Clusty.com and Vivisimo.com which are owned and operated by Vivísimo ("<strong>Vivísimo Web Search Services</strong>").</p><p>By using Vivísimo Web Search Services, you consent to the collection and use of your information as described in this Policy, and Vivísimo's Terms of Use. Certain portions of the Vivísimo Web Search Services may be made available by third parties. The collection and use of your information in connection with such services and content may be governed by the privacy policies, terms of use, or other terms and conditions of such third parties.</p><h3>Data Collection (Absence of Personally Identifiable Information)</h3><p>Vivísimo Web Search Services do not require account registration or provision of any personal information to Vivísimo. In order to provide a full range of services, we may collect the following types of information:</p><ul><li><strong>Cookies</strong> - We may use cookies to store a user's search preferences. A cookie can be a small amount of data that is sent to a user's browser from a web server and is eventually stored on a user's computer hard drive. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some Vivísimo features and services may not function properly if your cookies are disabled.
         </li><li><strong>Tell a Friend</strong> - Some Vivísimo Web Search Services, such as the "Tell-a-friend" option featured on Vivísimo's www.clusty.com, gives you an easy way to tell friends about such Vivísimo Service by providing your friend's email address to us. Such information will be used for the Vivísimo referral message only. 
         </li><li><strong>Log information</strong> - When you use Vivísimo Web Search Services, our server logs may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and cookies. We use such information to process your inquiries, respond to your requests, and improve the Vivísimo Web Search Services. We may also share the non-personally identifiable information with our business partners or clients so that they may improve their services, which may be made available to you through Vivísimo Web Search Services.  <strong>Specifically, when you click on an "organic" (i.e., non-advertising or non-revenue-generating) search result, Vivísimo Web Search Services are not contacted and do not record any information whatsoever.</strong></li><li><strong>Affiliated Sites/Links</strong> - We offer some of our services in connection with other web sites. Affiliated sites may have different privacy practices, and we encourage you to read their privacy policies. Vivísimo may present links to sponsored listings, paid inclusion, and other forms of advertising in a format that lets Vivísimo and affiliated sites and suppliers to track usage in order to prevent fraud and to customize advertising or other forms of content.
         </li><li><strong>Other Sites</strong> - This Policy applies to web sites and services that are owned and operated by Vivísimo. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
