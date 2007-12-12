@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624053713id_/http%3A//www.lime.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lime.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212201935id_/http%3A//www.lime.com/privacy_policy) for the most accurate reproduction.*
 
-# Healthy Living With a Twist - LIME
+# Privacy Policy - LIME
 
 LIME, Life Balance Media, LLC, its parent, and subsidiaries (the 'Company') is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through Company Web sites, which includes all of the Company sites and governs online data collection and usage by the Company. Please read the complete the Company Online Privacy Policy below and contact us if you have any questions.
 
@@ -62,5 +62,5 @@ Life Balance Media LLC
 10 East 40th Street, 26th Floor  
 New York, NY 10016 
 
- Updated November 2005   
+Updated November 2005   
 
