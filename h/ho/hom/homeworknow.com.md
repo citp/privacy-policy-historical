@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeworknow.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625083855id_/http%3A//www.homeworknow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeworknow.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212020256id_/http%3A//www.homeworknow.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
