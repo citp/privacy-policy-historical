@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625050047id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213002848id_/http%3A//www.gapbuster.com/en-us/privacy.asp) for the most accurate reproduction.*
 
 # Mystery Shopping Company - Part Time Jobs as Secret Shoppers conducting Mystery Shopping | GAPbuster Worldwide
 
