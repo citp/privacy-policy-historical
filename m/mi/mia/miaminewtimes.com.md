@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607055701id_/http%3A//www.miaminewtimes.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212014309id_/http%3A//miaminewtimes.com/about/policy.php) for the most accurate reproduction.*
 
-# Miami - - miaminewtimes.com
+# Miami -
 
 Parent of _Miami New Times_ and miaminewtimes.com 
 
@@ -39,22 +39,3 @@ Our Site is published in the United States. U.S. law shall govern in any and all
 In the event of a sale of Miami New Times or a sale of substantially all Miami New Times's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@miaminewtimes.com](mailto:web@miaminewtimes.com). 
-
-| 
-
-[ ](https://web.archive.org/community/registration/login.php)
-
-[ ](http://miami.backpage.com/)  
-
-
-[**community (1,111)**](http://miami.backpage.com/community/classifieds/Results?adLanguage=All&section=4382)  
-[**automotive (980)**](http://miami.backpage.com/automotive/classifieds/Results?adLanguage=All&section=191221)  
-[**buy, sell, trade (3,213)**](http://miami.backpage.com/buyselltrade/classifieds/Results?adLanguage=All&section=4378)  
-[**musician (1,334)**](http://miami.backpage.com/musician/classifieds/Results?adLanguage=All&section=4380)  
-[**rentals (7,664)**](http://miami.backpage.com/rentals/classifieds/Results?adLanguage=All&section=4376)  
-[**real estate for sale (8,053)**](http://miami.backpage.com/realestate/classifieds/Results?adLanguage=All&section=4375)  
-[**jobs (4,654)**](http://miami.backpage.com/employment/classifieds/Results?adLanguage=All&section=4373)  
-[**personals (712)**](http://miami.backpage.com/personals/classifieds/Disclaimer?adLanguage=All&section=4383)  
-[**adult entertainment (3,750)**](http://miami.backpage.com/adult/classifieds/Disclaimer?adLanguage=All&section=4381)  
-[**services (4,981)**](http://miami.backpage.com/services/classifieds/Results?adLanguage=All&section=4374)  
-
