@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205032347id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvgazettemail.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213001426id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
 
 # Charleson Newspaper Privacy Policy
 
