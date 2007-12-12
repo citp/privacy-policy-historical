@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinaabuse.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208101324id_/http%3A//www.latinaabuse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinaabuse.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213000049id_/http%3A//www.latinaabuse.com/privacy.htm) for the most accurate reproduction.*
 
 # Latina Abuse
 
