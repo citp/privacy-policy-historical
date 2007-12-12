@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contextualpsychology.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613105647id_/http%3A//www.contextualpsychology.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contextualpsychology.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212212304id_/http%3A//www.contextualpsychology.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | ContextualPsychology.org
+# Privacy Policy | Association for Contextual Behavioral Science
 
 Protecting your privacy is important to us. Because we gather certain types of information from visitors and registered users of our site, we feel you should be fully aware of the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -18,6 +18,3 @@ Your username and any additional information you voluntarily provide about yours
 
 **Access to your personal information**  
 You always have access to the information we have about you. To review and update your personal contact information at any time, simply click on the "my account" link on the left side of the screen.
-
-  
-
