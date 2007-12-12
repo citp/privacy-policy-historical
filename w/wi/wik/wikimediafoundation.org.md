@@ -1,9 +1,29 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629040944id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212211546id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
 ### From the Wikimedia Foundation
 
+The content of this page is an official policy approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). This policy may _not_ be circumvented, eroded, or ignored on local Wikimedia projects.
+
+Wikimedia policies  
+---  
+  
+  * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
+  * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
+  * **Privacy** & [donor privacy](https://web.archive.org/wiki/Donor_Privacy_Policy "Donor Privacy Policy")
+
+
+  * Board and staff 
+    * [Code of Conduct](https://web.archive.org/wiki/Code_of_Conduct_Policy "Code of Conduct Policy")
+    * [Conflicts of interest](https://web.archive.org/wiki/Conflict_of_interest_policy "Conflict of interest policy")
+    * [Discrimination](https://web.archive.org/wiki/Non_discrimination_policy "Non discrimination policy")
+    * [Gifts](https://web.archive.org/wiki/Gift_Policies "Gift Policies")
+    * [Travel approval](https://web.archive.org/wiki/Travel_Approval_Policy "Travel Approval Policy") & [Travel](https://web.archive.org/wiki/Travel_Policy "Travel Policy")
+    * [Whistleblowing](https://web.archive.org/wiki/Whistleblower_Policy "Whistleblower Policy")
+
+  
+  
     _This version of the[Privacy policy](http://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy_policy") was approved in June 2006 by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](http://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy_policy")._
 
     _It is requested that this notice is translated and linked from the footer (MediaWiki:Copyright) of every page._
