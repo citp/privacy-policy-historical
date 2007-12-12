@@ -1,20 +1,7 @@
-> *The following text is extracted and transformed from the astrogemini.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624072549id_/http%3A//www.astrogemini.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogemini.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212071340id_/http%3A//www.astrogemini.com/policy.html) for the most accurate reproduction.*
 
 # Astro Gemini Software - Privacy Policy for Astro Gemini Software
 
-[](https://web.archive.org/screensavers/nature/) [](https://web.archive.org/screensavers/space/) [](https://web.archive.org/screensavers/holidays/) [](https://web.archive.org/screensavers/fantasy/) [](https://web.archive.org/screensavers/specialty/)
-
-Sign up for screensaver  
-updates and special  
-offers from Astro Gemini.
-
-| 
-
-Your contact information is secure. See our [privacy policy](https://web.archive.org/policy.html) for details. 
-
-|   
----|---  
-  
 Last modified: January 10, 2007 
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.
@@ -47,7 +34,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 ## Are you concerned about our use of your personal information?
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information altogether, or you wish to file a complaint, please e-mail us using our [Contact webpage](https://web.archive.org/web/20070624072549id_/http%3A//www.astrogemini.com/support/customer-service.html).
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information altogether, or you wish to file a complaint, please e-mail us using our [Contact webpage](https://web.archive.org/web/20071212071340id_/http%3A//www.astrogemini.com/support/customer-service.html).
 
 ## Agreement in Principle with Astro Gemini Software Policies
 
