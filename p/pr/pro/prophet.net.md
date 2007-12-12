@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506210041id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212101932id_/http%3A//www.prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
-| 
-
-|  | Privacy Policy |  [ ](https://web.archive.org/forms/privacy.jsp?showModules=false&null)  
----|---  
-|   
-  
 |  |  | 
 
  Privacy Statement of Prophet Financial Systems 
@@ -57,8 +51,4 @@ Prophet Financial Systems
 658 High Street  
 Palo Alto, CA 94301 
 
-[contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)  
-  
-| 
-
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=435&AdvertiserID=76&BannerID=985&SiteID=0&RandomNumber=5697) [](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=435&AdvertiserID=76&BannerID=985&SiteID=0&RandomNumber=5697) |  
+[contact our support team](https://web.archive.org/help/contact.jsp?subject=TECHSUPPORT)
