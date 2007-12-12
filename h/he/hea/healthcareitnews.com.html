@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the healthcareitnews.com privacy policy that was archived on 2007-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070630191014id_/http%3A//www.healthcareitnews.com/page.cms%3FpageId%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthcareitnews.com privacy policy that was archived on 2007-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212121025id_/http%3A//www.healthcareitnews.com/page.cms%3FpageId%3D1) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<meta content="no-cache" http-equiv="Pragma">
+<meta content="NOODP" name="ROBOTS">
 <title>MedTech Publishing Privacy Policy</title>
 <style type="text/css">
 		@import url("/css/default.css");
@@ -47,30 +49,75 @@
 	</style><![endif]--><script language="Javascript">
 	var axel = Math.random() + "";
 	var ord = axel * 1000000000000000000;
-	</script><script src="/javascripts/story.js" language="javascript">
 	</script><script language="javascript">
 	
 		function CustomInit () {
+			
 			SetStoryToolBar ();
+			
 		}
+		
 	
+	function getPager(page,articleId,pos) {
+			getParam(page,pos);
+			
+			var prev = param - 1;
+			if ((!param) || (param == '')) {
+				var page = '1';
+			} else {
+			var page = parseInt(param);
+			}
+			var next = parseInt(page) + 1;
+			var count = 0;
+			if (count <= '1') {document.write('<div id="StoryPager-'+pos+'"></div>') }
+			else if ((pos == 'top') && ((!page) || (page == '1'))) {document.write('<div id="StoryPager-'+pos+'"></div>')} 
+			else if ((pos == 'top') && (page >= '2')) {
+				document.write('<div id="StoryPager-'+pos+'">(<strong>Continued from <a href="#" onclick="changePage('+prev+',\'\')">Page ' +prev+'</a></strong>)</div>' );
+			} 
+			else {
+			document.write('<div id="StoryPager-'+pos+'"><ul>');
+			if (prev > 0) {
+				document.write('<li class="Last"><a href="#" onclick="changePage('+prev+',\'\')">Prev</a></li>');
+			}
+			
+			if (next <= count) {
+				document.write('<li class="Last"><a href="#" onclick="changePage('+next+',\'\')">Next</a></li>');
+			}
+			document.write('</ul></div>');
+			}
+			if (pos == 'top') {
+				callStory(param);
+			}
+			
+		}
+function changePage(page, id) {
+   
+   location.href = '/story.cms?id='+id+'&page='+page;
+      
+   window.status=('Continuing story on page '+page+'....')
+}
+
+	</script><script src="/javascripts/story.js" language="javascript">
 	</script><script language="javascript" type="text/javascript">
 		
 			function init () {
 				CustomInit ();
 			}
 			window.onload = init;
+
+
 		
 	</script>
 </head>
 <body>
+<a name="top"></a>
 <div id="TopAd">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td id="TopAd1"><script language="JavaScript">
 							document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=1;sz=242x90;ord=' + ord + '?" ><\/SCRIPT>');
-						</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=1;sz=242x90;ord=996626660400531600?"></script><script>
+						</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=1;sz=242x90;ord=904021220894615400?"></script><script>
 						if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 							document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;tile=1;sz=242x90;ord=' + ord + '?" TARGET="_blank">');
 							document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;tile=1;sz=242x90;ord=' + ord + '?" WIDTH="242" HEIGHT="90" BORDER="0" ALT=""></A>');
@@ -81,7 +128,7 @@
 </noscript>
 </td><td id="TopAd2"><script language="JavaScript">
 						document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=2;dcopt=ist;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
-						</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=2;dcopt=ist;sz=728x90;ord=996626660400531600?"></script><script>
+						</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=2;dcopt=ist;sz=728x90;ord=904021220894615400?"></script><script>
 						if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 						document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;tile=2;sz=728x90;ord=' + ord + '?" TARGET="_blank">');
 						document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;tile=2;sz=728x90;ord=' + ord + '?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
@@ -105,11 +152,17 @@
 <a target="himss" href="http://www.HIMSS.org"><img border="0" height="30" width="164" alt="Published in Partnership with Himss" src="/images/masthead/himss.gif"></a>
 </div>
 <div id="MiniSearch">
-<form action="/searchResults.cms">
+<form method="post" action="#" onsubmit="return quick_search_submit(this.id, '/searchResults.cms')" id="quickSearch">
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr valign="middle">
 <td><img height="29" width="86" alt="eConnect Search" src="/images/masthead/eConnect.logo.gif"></td><td><input class="Text" name="keywords" value="" type="text"></td><td><input border="0" height="10" width="30" alt="Find" src="/images/masthead/eConnect.find.gif" type="image"></td>
+</tr>
+<tr valign="middle">
+<td align="right" colspan="3"><input checked="" value="local" name="type" id="local" type="radio"> Search Healthcare IT News
+								<input value="web" name="type" id="web" type="radio"> Search the web
+							
+							</td>
 </tr>
 </tbody>
 </table>
@@ -147,8 +200,8 @@
 <td id="LeftColumn">
 <div class="Box" id="LeftTop">
 <h4>
-<a href="http://www.e-circ.net/hin/hinsub.asp?key=MEDWS" rel="nofollow" target="NewWindow"><img src="/images/random/newsWeek.gif" width="152" height="23" border="0" alt="Healthcare IT News Week"></a>
-</h4>Stay up-to-date! Get <i>Healthcare IT NewsWeek</i>, the industry's leading e-newsletter, in your inbox every Monday.</div>
+<a href="http://www.healthcareitnews.com/page.cms?pageId=9" rel="nofollow" target="NewWindow"><img src="/images/leftnav/newsDay.gif" width="152" height="23" border="0" alt="Healthcare IT News Day"></a>
+</h4>Get the industry's news delivered to you daily by email or RSS. Subscribe now.</div>
 <div class="Box" id="Categories">
 <h4>Topics</h4>
 <ul>
@@ -164,62 +217,46 @@
 <li>
 <a href="/topic.cms?id=5" target="_self">Payers</a>
 </li>
-<li>
+<li class="Last">
 <a href="/topic.cms?id=6" target="_self">Vendors</a>
 </li>
+</ul>
+<div id="QuickLinks">
+<h4>Quick Links</h4>
+<ul>
 <li>
-<a href="/topic.cms?id=9" target="_self">New Products</a>
+<a href="http://www.healthcareitnews.com/page.cms?pageId=49" rel="nofollow" target="NewWindow">HIMSS Virtual Conference Daily</a>
 </li>
 <li>
-<a href="/topic.cms?id=8" target="_self">Management Solutions</a>
+<a href="http://www.healthcareitnews.com/page.cms?pageId=37" rel="nofollow" target="NewWindow">Healthcare IT Blog</a>
 </li>
 <li>
-<a href="http://www.himss.org/ASP/publications_insider.asp" rel="nofollow" target="NewWindow">HIMSS Insider</a>
+<a href="http://www.healthcareitnews.com/page.cms?pageId=12" rel="nofollow" target="NewWindow">Healthcare IT News Archives</a>
 </li>
 <li>
-<a href="/topic.cms?id=7" target="_self">Clinical Toolkit</a>
-</li>
-<li>
-<a href="/topic.cms?id=13" target="_self">Policy</a>
-</li>
-<li>
-<a href="/topic.cms?id=14" target="_self">Electronic Health Records</a>
-</li>
-<li>
-<a href="/topic.cms?id=15" target="_self">IT Security</a>
-</li>
-<li>
-<a href="/topic.cms?id=18" target="_self">Mobile Computing / Wireless</a>
-</li>
-<li>
-<a href="http://www.healthcareitnews.com/page.cms?pageId=25" rel="nofollow" target="NewWindow">HIMSS Virtual Conference</a>
-</li>
-<li>
-<a href="http://www.healthcareitnews.com/page.cms?pageId=12" rel="nofollow" target="_self">&gt;&gt; Archives</a>
+<a href="http://www.healthcarefinancenews.com" rel="nofollow" target="NewWindow">Healthcare Finance News</a>
 </li>
 <li class="Last">
-<a href="http://www.healthcarefinancenews.com" rel="nofollow" target="NewWindow">&gt;&gt; Healthcare Finance News</a>
+<a href="http://www.nhinwatch.com" rel="nofollow" target="NewWindow">NHINWatch.com</a>
 </li>
 </ul>
+</div>
 <div id="LeftButtons">
-<div class="Last">
-<a href="/registration.cms" target="_self">Sign up for alerts by topic</a>
-</div>
-</div>
-</div>
-<div id="QuickLinks">
-<div class="QuickLink">
 <div>
-<a href="http://nhinwatch.com" rel="nofollow" target="NewWindow"><img alt="NHIN Watch" src="/images/random/nhinwatch.jpg" border="0"></a>
+Subscribe to
+   <a href="http://www.e-circ.net/hin/hinsub.asp?key=MEDWS" rel="nofollow" target="NewWindow"><img alt="" src="/images/leftnav/newsWeek.gif" border="0"></a>
 </div>
-<div class="Description">Brought to you by the editors of Healthcare IT News, <a href="http://nhinwatch.com">NHINWatch.com</a><a> is the most comprehensive Web site covering the creation of a Nationwide Health Information Network in the United States.</a></div><a>
-</a></div><a>
-</a></div><a>
+<div>
+      See the latest posts
+   <a href="http://www.healthcareitblog.com/" rel="nofollow" target="NewWindow"><img alt="" src="/images/leftnav/newsBlog.gif" border="0"></a>
+</div>
+</div>
+</div>
 <div id="LeftAd">
 <p>
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=1;tile=3;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=1;tile=3;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=1;tile=3;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=1;tile=3;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=1;tile=3;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -232,7 +269,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <p>
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=2;tile=4;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=2;tile=4;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=2;tile=4;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=2;tile=4;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=2;tile=4;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -245,7 +282,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <p>
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=3;tile=5;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=3;tile=5;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=3;tile=5;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=3;tile=5;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=3;tile=5;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -258,7 +295,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <p>
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=4;tile=6;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=4;tile=6;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=4;tile=6;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=4;tile=6;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=4;tile=6;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -269,7 +306,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 </noscript>
 </p>
 </div>
-</a></td><td id="MidColumn">
+</td><td id="MidColumn">
 <div id="MidColumnCore">
 <div class="Story">
 <div id="BodyRightColumn">
@@ -278,6 +315,17 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="CalloutCore">
 <div class="eConnectLogo">
 <img alt="eConnect" src="/images/story/eConnect.gif"></div>
+<div id="StoryToolBarContainer">
+<ul id="social-bookmarks">
+<li>
+<a href="http://www.healthcareitnews.com/page.cms?pageId=40"><nobr>Share this story</nobr></a>
+<div class="sites">
+<a onclick="window.open('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title=MedTech Publishing Privacy Policy', 'delicious','scrollbars=yes,toolbar=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/digg.gif"></a><a onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="http://del.icio.us/post"><img border="0" height="13" width="80" src="/images/icons/delicious.small.gif"></a><a onclick="window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/reddit.gif"></a><a onclick="window.open('http://myweb2.search.yahoo.com/myresults/bookmarklet?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/yahoo.gif"></a><a onclick="window.open('http://www.google.com/bookmarks/mark?op=add&amp;title='+encodeURIComponent(document.title)+'&amp;labels=&amp;bkmk='+encodeURIComponent(location.href), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/google.gif"></a><a onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&amp;u='+encodeURIComponent(location.href)+'&amp;h='+encodeURIComponent(document.title), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/newsvine.gif"></a><a onclick="window.open('http://slashdot.org/bookmark.pl?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=yes,scrollbars=yes,width=796,height=500'); return false;" href="#"><img border="0" height="13" width="80" src="/images/icons/slashdot.gif"></a>
+</div>
+<a class="small" href="http://www.healthcareitnews.com/page.cms?pageId=40">What's this?</a>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </div>
@@ -373,7 +421,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div style="background-image: url(/images/index/hitn_month_cvr.gif);" id="ThisIssue">
 <div align="right">
 <img alt="Read this Month" border="0" height="23" width="160" src="/images/index/Read-This-Month-tab.gif"></div>
-<p id="ThisIssueOverlay">June 2007<br>
+<p id="ThisIssueOverlay">December 2007<br>
 <span><img border="0" height="5" width="3" src="/images/index/bullet.gif"><a href="/toc.cms">Online Edition</a>
 <br>
 <img border="0" height="5" width="3" src="/images/index/bullet.gif"><a href="http://www.nxtbook.com/rss/nxtbooks/medtech_hitn.php">Digital Edition</a></span>
@@ -385,7 +433,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 			document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=8;sz=160x600;ord=' + ord + '?" ><\/SCRIPT>');
-			</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=8;sz=160x600;ord=996626660400531600?"></script><script>
+			</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;tile=8;sz=160x600;ord=904021220894615400?"></script><script>
 			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 			document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;tile=8;sz=160x600;ord=' + ord + '?" TARGET="_blank">');
 			document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;tile=8;sz=160x600;ord=' + ord + '?" WIDTH="160" HEIGHT="600" BORDER="0" ALT=""></A>');
@@ -398,7 +446,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=5;tile=9;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=5;tile=9;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=5;tile=9;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=5;tile=9;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=5;tile=9;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -411,7 +459,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=6;tile=10;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=6;tile=10;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=6;tile=10;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=6;tile=10;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=6;tile=10;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -424,7 +472,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=7;tile=11;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=7;tile=11;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=7;tile=11;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=7;tile=11;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=7;tile=11;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -437,7 +485,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=8;tile=12;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=8;tile=12;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=8;tile=12;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=8;tile=12;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=8;tile=12;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -450,7 +498,7 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <div class="RightAd">
 <script language="JavaScript">
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=9;tile=13;sz=125x125;ord=' + ord + '?" ><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=9;tile=13;sz=125x125;ord=996626660400531600?"></script><script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/site188.tmus/hcitnews/other;pos=9;tile=13;sz=125x125;ord=904021220894615400?"></script><script>
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
 document.write('<A HREF="http://ad.doubleclick.net/jump/site188.tmus/hcitnews/other;pos=9;tile=13;sz=125x125;ord=' + ord + '?" TARGET="_blank">');
 document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/other;pos=9;tile=13;sz=125x125;ord=' + ord + '?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>');
@@ -492,14 +540,17 @@ document.write('<IMG SRC="http://ad.doubleclick.net/ad/site188.tmus/hcitnews/oth
 <li>
 <a href="/page.cms?pageId=7" target="_self">Sitemap</a>
 </li>
+<li>
+<a href="/page.cms?pageId=35" target="_self">RSS</a>
+</li>
 <li class="Last">
-<a href="/RSSLandingPage.cms" target="_self">RSS</a>
+<a href="mailto:chip.means@medtechpublishing.com" target="_self">Contact Webmaster</a>
 </li>
 </ul>
 </div>
 <div id="Copyright">
 <div>
-<a href="http://www.medtechpublishing.com" target="NewWindow"><img height="59" width="175" border="0" alt="© 2007 MedTech Publishing Company" src="/images/bottom/medtech.gif">&nbsp;&nbsp;
+<a href="http://www.medtechpublishing.com" target="NewWindow"><img height="59" width="175" border="0" alt="© 2007 MedTech Publishing Company" src="/images/bottom/medtech.gif">&nbsp;
          </a>
 </div>
 <div>
