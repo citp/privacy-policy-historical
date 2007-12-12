@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihelpyou.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625175730id_/http%3A//www.ihelpyou.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihelpyou.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213001629id_/http%3A//www.ihelpyou.com/privacy.htm) for the most accurate reproduction.*
 
-# IHelpYou
+# Privacy Policy - ihelpyou, Inc.
 
 ihelpyou, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: ihelpyou, Inc.
 
@@ -44,7 +44,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Doug Heil  
 ihelpyou, Inc.  
-1182 Rosemead Road  
-Mount Pleasant, South Carolina 29464   
-doug at ihelpyou.com  
-(843) 200-5705
+legal at ihelpyou.com  
+(888) 795-3154  
+(740) 244-9313
