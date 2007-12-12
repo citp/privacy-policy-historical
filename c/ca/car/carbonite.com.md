@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624220753id_/http%3A//www.carbonite.com/privacy.aspx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212084942id_/http%3A//www.carbonite.com/privacy.aspx%3F) for the most accurate reproduction.*
 
 # Full Data Backup Services: Desktop, Email Backup
 
@@ -25,13 +25,13 @@ Updated 11/1/06
 
 **Safe Harbor Privacy Policy**
 
-Carbonite adheres to Safe Harbor principles. For the complete details of our Safe Harbor privacy policy, see [ http://www.carbonite.com/safeharbor.aspx](https://web.archive.org/web/20070624220753id_/http%3A//www.carbonite.com/safeharbor.aspx?flag=)
+Carbonite adheres to Safe Harbor principles. For the complete details of our Safe Harbor privacy policy, see [ http://www.carbonite.com/safeharbor.aspx](https://web.archive.org/web/20071212084942id_/http%3A//www.carbonite.com/safeharbor.aspx?flag=)
 
 **Better Business Bureau OnLine Privacy Program**
 
 Your privacy is important to us. By participating in the Council of Better Business Bureau’s BBBOnLine Privacy Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at www.bbbonline.org. All BBBOnLine Privacy Program participants are required to work with the program's dispute resolution process. The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator. For more information about the Privacy Program dispute resolution process visit [www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp) . 
 
-Carbonite, Inc.'s privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather when you visit our Website, purchase Carbonite products, or when you contact our customer support department. At Carbonite, we are committed to protecting your privacy to the greatest extent possible. This policy describes our data privacy practices, including what type of information is gathered, how Carbonite uses the information, and how we safeguard your Personal Information. You expressly consent to the processing of your Personal Information according to this Privacy Policy. This policy does not cover our products and services: please see our [Terms of Use.](https://web.archive.org/web/20070624220753id_/http%3A//www.carbonite.com/TermsOfUse.aspx?)
+Carbonite, Inc.'s privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather when you visit our Website, purchase Carbonite products, or when you contact our customer support department. At Carbonite, we are committed to protecting your privacy to the greatest extent possible. This policy describes our data privacy practices, including what type of information is gathered, how Carbonite uses the information, and how we safeguard your Personal Information. You expressly consent to the processing of your Personal Information according to this Privacy Policy. This policy does not cover our products and services: please see our [Terms of Use.](https://web.archive.org/web/20071212084942id_/http%3A//www.carbonite.com/TermsOfUse.aspx?)
 
 **Why Carbonite Collects Personal Information**
 
@@ -67,7 +67,7 @@ By using the Website or any services provided through the Website, you expressly
 
 **Privacy Policy Revisions**
 
-Carbonite reserves the right to amend, revise or modify this policy and our other policies and agreements at any time and in any manner. In the event of material changes to this Privacy Policy, Carbonite's customers will be notified via email at least 30 days prior to the date on which those changes take effect. Any and all revisions, amendments or modifications will be posted on [ www.carbonite.com/privacy.](https://web.archive.org/web/20070624220753id_/http%3A//www.carbonite.com/privacy.aspx?flag=&)
+Carbonite reserves the right to amend, revise or modify this policy and our other policies and agreements at any time and in any manner. In the event of material changes to this Privacy Policy, Carbonite's customers will be notified via email at least 30 days prior to the date on which those changes take effect. Any and all revisions, amendments or modifications will be posted on [ www.carbonite.com/privacy.](https://web.archive.org/web/20071212084942id_/http%3A//www.carbonite.com/privacy.aspx?flag=&)
 
 **How You Can Access Or Correct Your Information**
 
