@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629182930id_/http%3A//www.vaisala.com/content/vaisala%2520-%2520internet%2520dg5%2520c/frontpage/privacy%2520policy.html%3FSectionUri%3D/%26Template%3Dcontentplain.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212141417id_/http%3A//www.vaisala.com/content/vaisala%2520-%2520internet%2520dg5%2520c/frontpage/privacy%2520policy.html%3FSectionUri%3D/%26Template%3Dcontentplain.aspx) for the most accurate reproduction.*
 
-# Vaisala - Weather monitoring systems and instruments for industrial measurements - Vaisala
+# Privacy policy - Vaisala
 
 (Version 2006-1; posted and effective as of January 19, 2006)
 
