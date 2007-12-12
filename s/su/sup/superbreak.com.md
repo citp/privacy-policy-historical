@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625014328id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212162709id_/http%3A//www.superbreak.com/info/privacyinfo.htm) for the most accurate reproduction.*
 
 # Superbreak > Hotel Bookings, Reservations & Short Break Holidays
 
@@ -13,24 +13,6 @@ Fax: 01904 652592
 Email: [internet@superbreak.com](mailto:internet@superbreak.com)
 
 If you have a complaint to make, please contact our Customer Relations Manager at the above address. You can email your comments to [cr@superbreak.com](mailto:cr@superbreak.com)
-
-#### Cancellations and Conditions
-
-Full details of Superbreaks terms and conditions can be found [here](https://www.superbreak.com/info/termspopup.htm?w=500&h=350&sbar=yes)
-
-Superbreak's standard cancellation policy is as follows;
-
-CANCELLATIONS and AMENDMENTS - Accommodation only bookings 
-
-If you want to change or cancel your holiday, you can do so in writing, over the telephone or by emailing [admin@superbreak.com](mailto:admin@superbreak.com). Cancellations made directly with hotels will not be effective. If you wish to make any alteration to your booking, we will try to accommodate your requirements, subject to availability and payment by you of an alteration fee. The alteration fee is £15 per booking, unless it is to increase the value of the booking. Alterations made on the day of travel will be treated as a cancellation. If you cancel your booking the following charges of the total booking cost apply. Outside 28 days -10% \- 1-28 days before arrival - 20% - arrival day or later - No refund will be made. 
-
-CANCELLATIONS and AMENDMENTS - Theatre, Concert and Event Breaks 
-
-a) Cancellation/Amendment 
-
-i) No refunds are made after the booking is confirmed. 
-
-ii) We cannot be held liable for the cancellation of a show/event or the non-appearance of any particular cast member in a theatrical performance. If a show/event is cancelled, only the proportion of the holiday cost relating to the ticket charge will be refunded. 
 
 #### Your Information
 
