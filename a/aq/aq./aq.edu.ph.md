@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aq.edu.ph privacy policy that was archived on 2007-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070507075718id_/http%3A//www.aq.edu.ph/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aq.edu.ph privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212073226id_/http%3A//www1.aq.edu.ph/info/privacy.html) for the most accurate reproduction.*
 
 # Aquinas University Website
 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Use of personal information
 
-We process personal information collected via Aquinas-University.edu for the purposes of:
+We process personal information collected via www.aq..edu.ph for the purposes of:
 
   * providing a personalised service  
 
@@ -26,7 +26,7 @@ We process personal information collected via Aquinas-University.edu for the pur
 
 Use of cookies
 
-We use "cookies" to identify you when you visit Aquinas-University.edu, and to build up a demographic profile. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. If you are uncomfortable with cookie technology, you have the option of setting your browser to reject cookies.
+We use "cookies" to identify you when you visit www.aq.edu.ph, and to build up a demographic profile. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. If you are uncomfortable with cookie technology, you have the option of setting your browser to reject cookies.
 
 Choice/opt-out
 
@@ -34,7 +34,7 @@ You may receive periodic e-mail newsletters from us. These newsletters contain i
 
 Internet-based transfers
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the Aquinas-University.edu site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the www.aq.edu.ph site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
 
 The Privacy Policy Statement does not apply to Third Party Sites.
 
