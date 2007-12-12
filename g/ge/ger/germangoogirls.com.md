@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212080709id_/http%3A//docs.eurorevenue.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germangoogirls.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212020754id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Privacy Policy Statement
 
-This website (the "Site") is licensed to BukkakeCash.Com. 
+This website (the "Site") is licensed to EuroRevenue.Com. 
 
 We can be reached via e-mail at [support@bukkakecash.com](mailto:support@bukkakecash.com)
 
@@ -64,7 +64,7 @@ The Site also offers all subscribers a procedure for "Opting-Out" if the subscri
 
 **_Review of Personal Information by Subscriber/Means of Challenging Data._**
 
-A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at [support@bukkakecash.com](mailto:support@bukkakecash.com) , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
+A subscriber to this Site can review any personal information collected by the Site relating to that subscriber by sending an e-mail to the Site's DATA CONTROLLER at <http://support.eurorevenue.com/> , clearly stating that the subscriber wishes to review the subscriber's personal information which has been collected by the Site. 
 
 The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
 
