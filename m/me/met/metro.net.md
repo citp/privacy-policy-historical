@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630152245id_/http%3A//metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212171030id_/http%3A//metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # metro.net | Metro Privacy Policy and Copyright Information Privacy Policy
 
@@ -33,4 +33,4 @@ Metro’s web servers track activity and site function on its web site in the fo
 
 Metro provides links to other government transit related websites as a service to our customers and does not share any personal information with these entities. Note that Metro does not endorse or take responsibility for information contained on those sites.
 
-[Copyright © 2007](https://web.archive.org/web/20070630152245id_/http%3A//about_us/copyright.htm), LACMTA | [Privacy Policy](https://web.archive.org/web/20070630152245id_/http%3A//about_us/privacy_policy.htm)
+[Copyright © 2007](https://web.archive.org/web/20071212171030id_/http%3A//about_us/copyright.htm), LACMTA | [Privacy Policy](https://web.archive.org/web/20071212171030id_/http%3A//about_us/privacy_policy.htm)
