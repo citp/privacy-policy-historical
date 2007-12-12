@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sydney.edu.au privacy policy that was archived on 2007-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070302201015id_/http%3A//www.sydney.edu.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydney.edu.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213005952id_/http%3A//www.sydney.edu.au/privacy.shtml) for the most accurate reproduction.*
 
 # University Web Sites Privacy Statement - The University of Sydney
 
-| 
+## 1\. Collection of Information
 
-| **Information Automatically Logged**  
+**Information Automatically Logged**  
 ---  
       | The University may make a record of your visit and logs any of the following information for statistical and business purposes - the user's server address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. 
 
@@ -43,6 +43,10 @@ For certain applications, our site's registration forms require users to give co
 **External Links**  
   | Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such Web sites.  
   
+
+
+## 2\. Use of personal information
+
 | Personal information you supply on-line will be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates. The University may also use your IP address to help diagnose problems with a server and to administer a Web site. It is sometimes used to set up individual sessions to provide secure logins. 
 
 Contact information from registration forms is used to get in touch with the visitor to a website when necessary, for example when the visitor is requesting the publication of notice of an event or seeking information about a course offered by the University. For certain applications, for example the online calendar of events, a user's details will be published when they are indicated to be the contact person for a particular event.
@@ -51,17 +55,25 @@ Survey data will be used only for stated purposes, as approved by the University
   
 ---|---  
   
-| The University will not disclose personal information concerning you, including your email address, to parties outside the University except in accordance with its [Privacy Policy](http://www.usyd.edu.au/arms/privacy/policy.htm) which conforms to the requirements of the [NSW Privacy and Personal Information Protection Act](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/index.html) . Details regarding disclosure of personal information by the University may be found in the Privacy Management Plan . 
 
-Student users may opt-in to having their name and email addresses published as part of the on-line directory of students. The University supplies Email facilities so that it can keep in contact with its students and staff in a timely and cost effective manner  
+
+## 3\. Disclosure of personal information
+
+       |  The University will not disclose personal information concerning you, including your email address, to parties outside the University except in accordance with its [Privacy Policy](http://www.usyd.edu.au/senate/policies/Privacy.pdf) (pdf) which conforms to the requirements of the [NSW Privacy and Personal Information Protection Act](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/index.html) . Details regarding disclosure of personal information by the University may be found in the Privacy Management Plan . 
+
+Student users may opt-in to having their name and email addresses published as part of the on-line directory of students. The University supplies Email facilities so that it can keep in contact with its students and staff in a timely and cost effective manner   
   
 ---|---  
 **Public Forums**  
-| Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
+  |  Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
   
-      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Personnel Services](http://www.usyd.edu.au/personnel/) as appropriate. 
 
-Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/pdf/pmp.pdf).   
+
+## 4\. Data Quality/Access
+
+      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Sydney People](http://www.usyd.edu.au/sydneypeople/) as appropriate. 
+
+Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/privacy/privacy_mgmt_plan.shtml).   
   
 ---|---  
   
