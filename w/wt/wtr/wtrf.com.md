@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428115727id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212043210id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia
 
-|   
----  
-[ ](https://web.archive.org/web/20070428115727id_/http%3A//www.wboy.com/click.cfm?adid=248)  
-  
-[](https://web.archive.org/page.cfm?pageid=613)
+|  | 
 
-[Home](https://web.archive.org/web/20070428115727id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
+[Home](https://web.archive.org/web/20071212043210id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
@@ -53,4 +49,6 @@ However, once you choose to furnish the site with personally identifiable inform
 If you have any questions or concerns about this Privacy Policy you may contact us at [privacy@wvmh.com](mailto:privacy@wvmh.com) .
 
  **Updates**  
-We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.   
+  
+---|---|---
