@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2007-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070310182720id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212213155id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
 
 # Solestruck Customer Assistance - Free Shipping on Qualified Orders and Free Returns.
 
