@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519174751id_/http%3A//www.australianmuseum.net.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212215504id_/http%3A//www.australianmuseum.net.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Australian Museum Privacy Statement
 
-[Home](https://web.archive.org/index.cfm)[About the Museum](https://web.archive.org/web/20070519174751id_/http%3A//www.australianmuseum.net.au/about/index.cfm)Privacy Statement
-
-##  Australian Museum Web Privacy Statement 
-
-Contents 
+###  Australian Museum Web Privacy Statement 
 
   * Collection of information
   * Cookies
   * Disclosure
   * External links
   * Interacting with amonline
-  * Access and Correction
+  * Access and correction
   * E-commerce
   * Security
   * Privacy concerns
@@ -24,13 +20,13 @@ The Australian Museum is strongly committed to protecting your privacy while int
 
 The Australian Museum is subject to the NSW Privacy and Personal Information Protection Act (1998). The Museum's Privacy Policy and Management Plan outline how the Museum complies with the Act and the standards outlined in the Act's Information Protection Principles. 
 
-[The Policy and Plan](https://web.archive.org/web/20070519174751id_/http%3A//www.australianmuseum.net.au/about/privacy_management.htm)
+[The Policy and Plan](https://web.archive.org/web/20071212215504id_/http%3A//www.australianmuseum.net.au/about/privacy_management.htm)
 
 The following Web Privacy Statement sets out how the Australian Museum will deal with personal information related to the content and use of its websites. 
 
-Collection of information 
+####  Collection of information 
 
-**1) Automatic logging of information [site visit data]**
+#####  1) Automatic logging of information 
 
 IP addresses are used to administer the website and to diagnose problems. An IP (Internet Protocol address) is the address of a computer. We use it to track your session, with the information used for statistical purposes eg. numbers and frequency of visitors to the website. 
 
@@ -40,7 +36,7 @@ This site visit data is anonymous information, aggregated for analysis, with ide
 
 For security reasons, we use software programs to monitor network traffic and identify unauthorised attempts to upload or change information, or otherwise cause damage. It is a criminal offence to interfere with computers or data. 
 
-**2) Collection of personal information**
+#####  2) Collection of personal information 
 
 The Australian Museum collects personal information (name, email address or postal address) when you provide it to receive specific Museum services. This information is stored in secure Museum databases. The information will be used only for its intended purpose, or directly related purpose, as stated on the pages or forms where you submit it, and will not be added to a mailing list, unless this is the purpose for which you have provided the information. The information you provide will not be used for any other purpose without your consent. 
 
@@ -48,7 +44,7 @@ Certain personal information may be required eg name, email address, billing add
 
 If you tag 'please add my name' to say you would like to receive information on the Museum or ones of its programs or activities, your personal information will be added to the appropriate mailing list. 
 
-Cookies 
+####  Cookies 
 
 Cookies are small files that a website can store on a user's computer and are used for keeping the "state of a user session" i.e. remembering who you are from a page requesting information to supplying it. The cookies that are used by the Australian Museum websites do not collect any personal information and we do not combine information collected through cookies with other personal information to tell us who you are. 
 
@@ -56,7 +52,7 @@ We use cookies to measure certain visitor patterns, including areas of the websi
 
 If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. Refusal will make some parts of our websites inaccessible, unusable, or behave strangely. 
 
-Disclosure 
+####  Disclosure 
 
 The Museum may be required on occasion to disclose your personal information to third parties eg if required by law or to provide the service you requested. For example, in purchasing products online, the Museum will need to disclose personal information to third parties in order to bill and deliver your products. Other than these occasions, we will not disclose your personal information for any other purpose unless you have authorised us to do so. 
 
@@ -64,11 +60,11 @@ Under no circumstances will the Australian Museum sell or receive payment for li
 
 Names and email addresses of Museum staff appearing on this website are provided with their knowledge and assent. 
 
-External links 
+####  External links 
 
 This site contains links to other sites. The Australian Museum is not responsible for the privacy practices or the content of such web sites. 
 
-Interacting with amonline - Public Forums, Listservs etc 
+####  Interacting with amonline - Public Forums, Listservs etc 
 
 There are interactive features on some of the Museum's websites eg forums, mailing lists, emails. Online forms and forums record information on clearly labelled fields. The information you provide will be solely used for the purposes stated on the page/form. 
 
@@ -76,7 +72,7 @@ This information becomes available to anyone with access to the Internet. Any in
 
 The Australian Museum monitors content regularly but if you encounter any message which you consider offensive or in breach of our conditions, please alert us immediately. 
 
-Access and correction 
+####  Access and correction 
 
 The personal information you provide is accessed only by authorised persons. 
 
@@ -84,7 +80,7 @@ The Australian Museum will take reasonable steps to ensure your personal informa
 
 If you wish to opt out of receiving any communications or be removed from any databases, please contact the contact person identified on the relevant feature page, or the Privacy Contact Officer. 
 
-E-commerce 
+####  E-commerce 
 
 The Australian Museum uses 128 bit encryption in areas where payment is required (e.g. purchasing from the Australian Museum Shop, Scientific Publications and The Australian Museum Society). 
 
@@ -92,7 +88,7 @@ If you do not wish to place your order on the Internet, the option of faxing or 
 
 Your details and order information will only be used to fulfil your order and to advise on the status of your order. 
 
-Security 
+####  Security 
 
 [](https://digitalid.verisign.com/as2/dbb4f9f77cea1d8e6a62e615b38d4d20) This site has security measures in place to protect against loss, misuse and alteration of information under our control. However no data or email transmission over the Internet is 100% secure. We do our best to ensure the security of our site. 
 
@@ -100,12 +96,6 @@ Credit card information is among the most sensitive data collected. The Museum u
 
 If you do not wish to use the Internet, the Australian Museum can be contacted by telephone, fax or mail - 6 College Street, SYDNEY NSW 2010 - tel: 02- 9320 6000 fax: 02 - 9320 6050 
 
-Privacy concerns 
+####  Privacy concerns 
 
-If you have any questions about this privacy statement, please contact the Web Manager: or the Museum's [Privacy Officer](https://web.archive.org/contact/email.cfm?uid=6F681B1E-D170-438E-54C55ACFA0CDEA11) or tel: 02 9320 6148. Further information on NSW privacy law can be found at [Privacy NSW's website](http://www.lawlink.nsw.gov.au/pc.nsf/pages/index) at www.lawlink.nsw.gov.au/pc 
-
-This Statement is regularly reviewed and updated. 
-
-Date last revision: November 2002. 
-
-Top
+If you have any questions about this privacy statement, please contact the Web Manager: or the Museum's [Privacy Officer](https://web.archive.org/contact/email.cfm?uid=6F681B1E-D170-438E-54C55ACFA0CDEA11) or tel: 02 9320 6185. Further information on NSW privacy law can be found at [Privacy NSW's website](http://www.lawlink.nsw.gov.au/pc.nsf/pages/index) at www.lawlink.nsw.gov.au/pc 
