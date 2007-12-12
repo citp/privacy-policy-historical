@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506050842id_/http%3A//www.payu.co.za/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212174233id_/http%3A//www.payu.co.za/Privacy.htm) for the most accurate reproduction.*
 
 # PAYU Privacy Policy *
 
