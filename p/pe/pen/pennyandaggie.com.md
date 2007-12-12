@@ -1,28 +1,19 @@
-> *The following text is extracted and transformed from the pennyandaggie.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205013330id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyandaggie.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212041038id_/http%3A//www.pennyandaggie.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Keenspot.com: Privacy Policy
+# Penny and Aggie
 
-PRIVACY POLICY  
-Keenspot does not collect information from its visitors without their knowledge. Keenspot may request demographic and poll information from its visitors, but participation is completely optional. Whatever the case, the personal information you supply, if you choose to do so, will not be given out or sold under any circumstances.
+******Privacy Policy**
 
-Occasionally we will ask you for personal information, such as your name, email address, address, etc. when you sign up for various services such as 
+Gisele and T respect each individual's right to personal privacy. We collect and use information through our site only in the ways disclosed in this statement. 
 
-[Keenspot PREMIUM](https://premium/), or an account on our [Forums](http://forums.keenspot.com/) or when you buy items from our Store. This information is only used for your security to identify you and protect your account access and information. It is never shared or sold to any other company.Keenspot works with a number of third party companies that serve ads to our network of sites. To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please go to:  
-[Burst Media's Privacy Policy](http://www.burstmedia.com/release/privacy.asp)  
-[L90's Privacy Policy](http://www.l90.com/corporate/privacy_policy/index.html)  
-[Doubleclick's Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)  
-[Adtegrity's Privacy Policy](http://www.adtegrity.com/privacy.asp)
+We collect no personal information about primary visitors. We do collect e-mail addresses and other voluntarily divulged information from forum users and donors. We do not release this information to anyone, keep it in password-protected databases and use it only to offer donors free giveaways and to contact forum users about the site or forum. 
 
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers, and we do not have access to this information. These companies may use the information (which does not include your name, address, email, or telephone number) collected in these cookies to provide you advertisements for goods and services which most appropriately suit your interests. You may choose not to have your information shared through these cookies to third party advertisers through their various opt-out programs. For information on opting out of the Doubleclick program, go to their [Opt Out](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&) webpage.
+We do not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. 
 
-This site contains links to other sites. 
+We collect general, non-personal data via Google Analytics, eXtreme Tracker, Project Wonderful and other sources about visitor numbers, pageviews, referring sites, IP locations, and bounce rates to track our progress, sell advertising more effectively and better understand our audience. The information we collect is not used for any other purpose and is not shared with third parties. 
 
-Keenspot is not responsible for the privacy practices or the content of such Web sites. Contacting the Web Site - If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [keenspot @keenspot.com](mailto:keenspot@keenspot.com "email us.")
+We employ cookies only on our forums. A cookie is a small text file that our Web server places on a user's computer hard drive to be a unique identifier. Our cookies collect IP addresses we can use to identify and, if necessary, ban forum members. Please be advised that information posted on forums becomes public knowledge. 
 
-**3/19/2002 ADDENDUM:** In the interests of meeting Doubleclick's and/or MaxWorldWide's privacy policy policies more expediently, we have inserted the following required verbiage, which may be highly redundant with the information above: 
+We offer links to other Web sites. When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours. 
 
-**Third Party Advertising:** We use MaxWorldWide, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [Here.](http://www.networkadvertising.org/optout_nonppii.asp)
-
-**Third Party Cookies:** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-Keenspot.com welcomes your questions and comments about privacy. Please send e-mail to [privacy @keenspot.com](mailto:privacy@keenspot.com "email us.")
+If our policy on information collection or uses changes, we will advise you by e-mail where possible. 
