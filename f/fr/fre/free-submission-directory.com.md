@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-submission-directory.com privacy policy that was archived on 2007-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070522013825id_/http%3A//www.free-submission-directory.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-submission-directory.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212041443id_/http%3A//www.free-submission-directory.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Free Submission Directory respects and protects your privacy, when you are using
 
 Information Free Submission Directory DO collect
 
-Free Submission Directory does not secretly collect information about you except when you knowingly provide information during the website submission process. This information is used to contact you if there is a need for a revision to your site reviews. Free Submission Directory saves information such as date and IP address with each click on external link. This information is used to rate websites in our directory and to provide more relevant results to users.
+Free Submission Directory does not secretly collect information about you except when you knowingly provide information during the website or banner submission process. This information is used to contact you if there is a need for a revision to your site reviews. Free Submission Directory saves information such as date and IP address with each click on external link. This information is used to rate websites in our directory and to provide more relevant results to users.
 
 Links to Other (external) websites
 
