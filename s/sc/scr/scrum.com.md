@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrum.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513213617id_/http%3A//www.scrum.com/3_234.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrum.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212022940id_/http%3A//www.scrum.com/3_234.php) for the most accurate reproduction.*
 
 # Scrum.com - Rugby News, Results, and Action, including the Rugby World Cup, from Scrum, the best Rugby Football site in the World : Privacy Policy
 
@@ -12,7 +12,7 @@ Scrum.com respects your privacy, so we will never send you unsolicited emails. W
 
 In each case, to the extent practicable, your personal details will remain subject to the terms of the privacy policy which is current at that time for this site, except to the extent that you agree otherwise.
 
-You will only receive news from Scrum.com if you sign-up to receive our newsletter or otherwise agree to receive rugby related information from us elsewhere on this site. To subscribe, [**please click here**](http://devb.sotic.net/1552_58.php). You can unsubscribe at anytime by [**clicking here**](http://devb.sotic.net/1552_58.php).
+You will only receive news from Scrum.com if you sign-up to receive our newsletter or otherwise agree to receive rugby related information from us elsewhere on this site. To subscribe, [**please click here**](http://www.scrum.com/1552_58.php). You can unsubscribe at anytime by [**clicking here**](http://www.scrum.com/1552_58.php).
 
 A harmless item called a "cookie" and website statistics are used by Scrum.com, allowing us to record visitor numbers, number of pages viewed and referral source. These items do not record any personal data. This data simply helps us to administer and enhance the site and service.
 
