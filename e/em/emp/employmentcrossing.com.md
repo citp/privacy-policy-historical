@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629065533id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213001726id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
-# Privacy Policy � MBA And Retail Jobs, Television, Tourism And Sales Employment
+# Banking Jobs, Accounting Jobs, Accounting/Banking Employment – EmploymentCrossing
 
+  
+Privacy Policy   
 Effective on: (4/1/06) 
+
+This Privacy Policy will explain the strict privacy practices of EmploymentCrossing with regard to all of its affiliated websites, including 
+
+[AccountingCrossing](http://www.accountingcrossing.com/), [AdminCrossing](http://www.admincrossing.com/), [AdvertisingCrossing](http://www.advertisingcrossing.com/), [ArchitectureCrossing](http://www.architecturecrossing.com/), [BlueCollarCrossing](http://www.bluecollarcrossing.com/), [BiotechCrossing](http://www.biotechcrossing.com/), [BusinessDevelopmentCrossing](http://www.businessdevelopmentcrossing.com/), [ComplianceCrossing](http://www.compliancecrossing.com/), [ConstructionCrossing](http://www.constructioncrossing.com/), [ConsultingCrossing](http://www.consultingcrossing.com/), [CustomerServiceCrossing](http://www.customerservicecrossing.com/), [DesigningCrossing](http://www.designingcrossing.com/), [EducationCrossing](http://www.educationcrossing.com/), [EngineeringCrossing](http://www.engineeringcrossing.com/), [HealthcareCrossing](http://www.healthcarecrossing.com/), [HospitalityCrossing](http://www.hospitalitycrossing.com/), [HRCrossing](http://www.hrcrossing.com/), [ManagerCrossing](http://www.managercrossing.com/), [ManufacturingCrossing](http://www.manufacturingcrossing.com/), [MarketingCrossing](http://www.marketingcrossing.com/), [MoneyCrossing](http://www.moneycrossing.com/), [OperationsCrossing](http://www.operationscrossing.com/), [PharmaceuticalCrossing](http://www.pharmaceuticalcrossing.com/), [PRCrossing](http://www.prcrossing.com/), [ProjectManagementCrossing](http://www.projectmanagementcrossing.com/), [RetailCrossing](http://www.retailcrossing.com/), [SellingCrossing](http://www.sellingcrossing.com/), [TechieCrossing](http://www.techiecrossing.com/), and [TransportationCrossing](http://www.transportationcrossing.com/).
 
 **Why is your privacy so important to us?**  
 EmploymentCrossing is committed to protecting the privacy of our users, and we are firmly devoted to maintaining your trust in us. We work extremely hard at safeguarding our customers' important information and keeping it secure. Our privacy policy is designed to help you understand our genuine dedication to preserving your privacy. 
@@ -12,7 +18,7 @@ Confidentiality and discretion are the cornerstones of every job search. We cons
 **What personally identifiable information is collected on this site?**  
 In order to register as an EmploymentCrossing member, users are required to provide pertinent contact information such as their name, an email address, and a mailing address. To complete the sign-up process and subscribe to the service, users are also required to provide financial information, in the form of a valid credit card number and billing address. After subscribing, members may also provide personally identifiable information for other purposes in their use of the site. This includes, but is not limited to, submitting a resume or cover letter. However, any submitted resume or cover letter is viewable only by the person who uploaded or pasted it into the account. Any transmission of these materials can only be achieved through the initiative of the user. EmploymentCrossing does not collect personal information from its subscribers unless they voluntarily and knowingly provide it to us. This means that a user can visit our site without telling us who they are and without revealing any personally identifiable information. The site visitor is never required to provide any personally identifiable information, unless he or she would like to subscribe to the service. 
 
-**Tell-A-Friend**  
+**Tell a Friend**  
 If you choose to use our referral service to tell a friend about our site, you are asked to provide a friend's name and email address. EmploymentCrossing will automatically send your friend a one-time email inviting him or her to visit the site. EmploymentCrossing does not store this information. 
 
 **How is the information used?**  
@@ -22,7 +28,7 @@ EmploymentCrossing will never sell any personal information about any of our cus
 
 EmploymentCrossing will absolutely never share any information relating to your employment situation with any third parties. We will absolutely never share any information from your resume with any third parties. Any such information which you provide to us will remain completely confidential. Each employee of EmploymentCrossing signs a strict confidentiality and nondisclosure agreement to ensure your privacy. 
 
-EmploymentCrossing is a dba of LawCrossing, one of the Juriscape companies, which include Attorney Resume, BCG Attorney Search, EdFed, General Counsel Consulting, JD2B, LawCrossing, Law School Loans, Law Firm Staff, Legal Authority, Law School Loan Report, and SouthLake Properties LLP. Each company is a distinct and separately incorporated entity, and each company's databases and servers are maintained independently. The fact that you contacted EmploymentCrossing will never be shared with any other Juriscape company or its employees. Each employee of each company signs a strict confidentiality and nondisclosure agreement, ensuring that they do not disclose your private information to any other person or company. 
+EmploymentCrossing is one of the Juriscape companies, which include Attorney Research Group, BCG Attorney Search, CLE Authority, EdFed, EmploymentCrossing, General Counsel Consulting, Hound.com, JD Journal, JD2B, Judged, Law Firm Staff, Professional Authority, Resume Apple, and Southlake Properties LLC. Each company is a distinct and separately incorporated entity, and each company's databases and servers are maintained independently. The fact that you contacted EmploymentCrossing will never be shared with any other Juriscape company or its employees. Each employee of each company signs a strict confidentiality and nondisclosure agreement, ensuring that they do not disclose your private information to any other person or company. 
 
 After contacting EmploymentCrossing, you may be notified of the potentially complementary services of another Juriscape company. However, no information regarding your employment status, or information from your resume, will ever be shared with any other Juriscape company. Furthermore, the fact that the offer is coming from another Juriscape company will be fully disclosed in the mailing, and you may opt out of such offers at any time as described below. No information will be used for purposes of such offers except your name, contact address, and year of graduation if applicable, and access to such information will be restricted to the sole purpose of communicating with you. Moreover, all other personal information, such as employment status or information from your resume, will absolutely never be shared with any other Juriscape company. 
 
@@ -34,7 +40,7 @@ Personally identifiable information is stored on our database and is not publicl
 **Opt-out**  
 If you have registered to receive our newsletter, job updates and/or any other automatically distributed information, you may change this registration status at any time. Simply contact us to have your name removed from the particular distribution list you wish to be removed from. This can be achieved in several ways: 
 
-  * Send an email to: [**opt-out@EmploymentCrossing.com**](mailto:opt-out@EmploymentCrossing.com)
+  * Send an email to: [**opt-out@employmentcrossing.com**](mailto:opt-out@employmentcrossing.com)
   * Send correspondence to the following address:
 
 Consumer Privacy Department  
@@ -44,8 +50,7 @@ Suite 200
 Pasadena, CA 91101 
 
 
-
-
+  
 Furthermore, you may opt-out of receiving emails from other Juriscape companies at any time by emailing [**opt-out@juriscape.com**](mailto:opt-out@juriscape.com). 
 
 **Correct/Update**  
@@ -67,9 +72,7 @@ This site may contain links to other websites. Please note that when you click o
 **Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on EmploymentCrossing. 
 
-_We Share Personally Identifiable Information with Third Parties in the following ways_
-
-: 
+_We Share Personally Identifiable Information with Third Parties in the following ways_ : 
 
 **Agents**  
 We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
@@ -83,4 +86,4 @@ Live Chat help is provided in real-time format on EmploymentCrossing. The user i
 Any testimonials that are provided through the site are published only with a customer's first name and last initial. Testimonials can also be published anonymously, or with only the person's sales field listed. 
 
 **For more information**  
-If you have any questions, concerns or comments regarding this statement, please email [**privacy@EmploymentCrossing.com**](mailto:privacy@EmploymentCrossing.com). 
+If you have any questions, concerns or comments regarding this statement, please email [**privacy@employmentcrossing.com**](mailto:privacy@employmentcrossing.com). 
