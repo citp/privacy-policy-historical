@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605043752id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212073802id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
 
 # Privacy Policy : World Casino Directory
 
@@ -22,4 +22,4 @@ THIS PRIVACY POLICY DESCRIBES WORLD CASINO DIRECTORY'S USE OF, AND ATTITUDE TO, 
   8. If we decide to pursue any legal matter involving a user. 
 
   
- We need to be able to have a measure of certainty that users are who they purport to be, in order to keep all Users as free as possible from the risk of fraud and harm.  For this reason, your application for membership may be vetted, or in some cases denied, in order to keep members safe from unlawful or unethical use of their information. \- Thank you for visiting the World Casino Directory 
+ We need to be able to have a measure of certainty that users are who they purport to be, in order to keep all Users as free as possible from the risk of fraud and harm.  For this reason, your application for membership may be vetted, or in some cases denied, in order to keep members safe from unlawful or unethical use of their information. 
