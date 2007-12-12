@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instyle.com privacy policy that was archived on 2007-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070505223607id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/instyle%3Fd_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instyle.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212180707id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/instyle%3Fd_source%3DE) for the most accurate reproduction.*
 
-# InStyle and InStyle Weddings Privacy Policy
+# InStyle, InStyle Weddings, InStyle Makeover, or InStyle Home Privacy Policy
 
   |  |  |   |    
 **PRIVACY NOTICE** |    
@@ -23,7 +23,7 @@
   
 This is the Privacy Policy for the United States of America. 
 
-Thank you for visiting InStyle and InStyle Weddings, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting InStyle, InStyle Weddings, InStyle Makeover, or InStyle Home, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
 
 |    
   
