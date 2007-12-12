@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621183156id_/http%3A//www.pcusa.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212113559id_/http%3A//www.pcusa.org/privacy.htm) for the most accurate reproduction.*
 
-# PC(USA) - Privacy Policy
+# Presbyterian Church (U.S.A.) - Privacy Policy
+
+## The Presbyterian Church (U.S.A.)  
+Web Site Privacy Policy
 
 Respecting user privacy over the Internet is of utmost importance to us. This privacy policy describes the current policies and practices with regard to personal data collected by the General Assembly Council ("GAC") and the Office of the General Assembly ("OGA") (collectively "we," "us," "our") through our Web site. The term "personal data" refers to personally identifiable information that being your name, birth date, email address, mailing address, social security number, and the last four digits of your credit card number. To see the privacy policy for the Presbyterian Church (U.S.A.) Investment and Loan Program, Inc., please go to [www.pcusa.org/pilp](https://web.archive.org/pilp/index.htm). 
 
@@ -8,11 +11,14 @@ In general, you can visit our Web site without telling us who you are or providi
 
 This privacy policy applies to information submitted by you and/or collected online by us except through PROMPT, the Church Leadership Connection, and student financial aid programs.
 
-**Your Consent.** By using this Web site, you consent to our use of your personal data as described in this privacy policy.
+**  
+** By using this Web site, you consent to our use of your personal data as described in this privacy policy.
 
-**Notification Of Changes To This Policy.** We are continually improving and adding new functionality and features to this Web site. Because of these ongoing changes, changes in the law, and the changing nature of technology, we may revise this privacy policy from time to time. If and when the policy changes, we will post a dated notice on our home page informing you that a change has been made.
+**  
+** We are continually improving and adding new functionality and features to this Web site. Because of these ongoing changes, changes in the law, and the changing nature of technology, we may revise this privacy policy from time to time. If and when the policy changes, we will post a dated notice on our home page informing you that a change has been made.
 
-**Use of Personal Data Collected Through This Web Site.** Information, including but not limited to personal data, that we collect will not be sold, rented, lent, exhanged or used by an individual or entity other than the Presbyterian Church (U.S.A.) ("PCUSA") entities and governing bodies of the PCUSA unless otherwise indicated. This includes, for example, the information you provide when you register for an event or conference, order resource materials, request other services, or when you send us your comments or requests for information.
+**  
+** Information, including but not limited to personal data, that we collect will not be sold, rented, lent, exhanged or used by an individual or entity other than the Presbyterian Church (U.S.A.) ("PCUSA") entities and governing bodies of the PCUSA unless otherwise indicated. This includes, for example, the information you provide when you register for an event or conference, order resource materials, request other services, or when you send us your comments or requests for information.
 
 We use the information you provide for the purposes for which it was originally collected, for example, to respond to your email or to provide the programs or services you requested. We may also use this information to help us improve the content and functionality of our Web site, to better understand the needs and interests of the people and organizations that use our Web site, and to improve our programs and services. This information may be used to contact you in the future to tell you about organizations within the PCUSA, programs and services.
 
@@ -20,18 +26,24 @@ Unless we have your permission or are otherwise required by law to release, the 
 
 We, and others with whom we share your personal data, may retain your personal data on file to better serve you. Any destruction of personal data will be done in a manner consistent with the intent of this policy.
 
-**Anonymous Data Collected Through PC(USA) Web Site.** In addition to the information you provide when you use this Web site, we use technology to collect anonymous information about the use of the Web site. For example, we use technology to track how many visitors access the Web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which Web browsers our visitors use and the address from which they accessed the site.
+**  
+** In addition to the information you provide when you use this Web site, we use technology to collect anonymous information about the use of the Web site. For example, we use technology to track how many visitors access the Web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which Web browsers our visitors use and the address from which they accessed the site.
 
 This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our Web site. We use this anonymous data and may share it with third parties for various reasons; for example, to improve the content and functionality of the Web site, to better understand the needs and interests of our visitors, to improve our programs and services.
 
-**Cookies.** In order to collect the anonymous data described in the preceding paragraph, we may use temporary "cookies" that collect the first level domain name of the user. For example, if your email address is "name@xyz.com," the cookie collects the "xyz.com" portion of your email address and the date and time you accessed this Web site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. Our Web site only uses temporary or "session" cookies. These "session" cookies expire when your browser window is closed.
+**  
+** In order to collect the anonymous data described in the preceding paragraph, we may use temporary "cookies" that collect the first level domain name of the user. For example, if your email address is "name@xyz.com," the cookie collects the "xyz.com" portion of your email address and the date and time you accessed this Web site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. Our Web site only uses temporary or "session" cookies. These "session" cookies expire when your browser window is closed.
 
 In order for certain applications on the pcusa.org Web site to function properly, if at all, it is necessary for your computer to accept cookies.
 
-**Children**. We do not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data on this Web site, please contact us at [webmaster@ctr.pcusa.org](http://www.pcusa.org/form2mail/form2mail.jsp?f2name=Webmaster&subject=Privacy+Policy) and we will endeavor to delete that information. If you are a child under the age of thirteen and using this Web site, please do not give any information about yourself, such as your name, address, birthdate, phone number, school or email address. As we develop online programs for children, we will adopt appropriate policies and practices to protect the privacy of children.
+  
+We do not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data on this Web site, please contact us at [webmaster@ctr.pcusa.org](http://www.pcusa.org/form2mail/form2mail.jsp?f2name=Webmaster&subject=Privacy+Policy) and we will endeavor to delete that information. If you are a child under the age of thirteen and using this Web site, please do not give any information about yourself, such as your name, address, birthdate, phone number, school or email address. As we develop online programs for children, we will adopt appropriate policies and practices to protect the privacy of children.
 
-**Links to Other Sites.** This privacy policy applies only to this Web site which is owned and administered by Presbyterian Church (U.S.A.) A Corporation. This site contains many hyperlinks to Web sites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party Web sites or any association with their operators. We do not control these Web sites and are not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or before providing any personal data about yourself.
+**  
+** This privacy policy applies only to this Web site which is owned and administered by Presbyterian Church (U.S.A.) A Corporation. This site contains many hyperlinks to Web sites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party Web sites or any association with their operators. We do not control these Web sites and are not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or before providing any personal data about yourself.
 
-**Governing Law.** This privacy policy forms part of our Web site Terms of Use Agreement, which shall be governed by and construed in accordance with the laws of the Commonwealth of Kentucky.
+**  
+** This privacy policy forms part of our Web site Terms of Use Agreement, which shall be governed by and construed in accordance with the laws of the Commonwealth of Kentucky.
 
-**Questions About Our Privacy Policy.** If you have any questions about this privacy policy or concerns about the way we use personal data, please contact [webmaster@ctr.pcusa.org](http://www.pcusa.org/form2mail/form2mail.jsp?f2name=Webmaster&subject=Privacy+Policy).
+**  
+** If you have any questions about this privacy policy or concerns about the way we use personal data, please contact [webmaster@ctr.pcusa.org](http://www.pcusa.org/form2mail/form2mail.jsp?f2name=Webmaster&subject=Privacy+Policy).
