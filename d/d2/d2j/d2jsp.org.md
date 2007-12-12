@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2007-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070617062625id_/http%3A//www.d2jsp.org/index.php%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2jsp.org privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212233546id_/http%3A//d2jsp.org/%3Fa%3Dwiki%26s%3D3%26p%3Dprivacypolicy) for the most accurate reproduction.*
 
-# d2jsp - Diablo 2 JavaScript Parser - by Paul Taulborg
+# d2jsp Forums
 
 ## Privacy Policy
 
@@ -10,19 +10,6 @@ We want our users to always be aware of any information we collect, how we use i
 
 **WEBSITE ADMINISTRATION**
 
-| Organization name:| Diablo II JavaScript Parser  
----|---  
-Address:| RR 1 Box 66  
-City:| Elkins  
-State:| West Virginia  
-ZIP:| 26241  
-Country:| USA  
-Website URLs:|  [http://www.d2jsp.org](http://www.d2jsp.org/)  
-[http://forums.d2jsp.org](http://forums.d2jsp.org/)  
-[http://scripts.d2jsp.org](http://scripts.d2jsp.org/)  
-  
-Website e-mail:| [njaguar@d2jsp.org](mailto:njaguar@d2jsp.org?subject=Privacy%20Policy)  
-  
 **INFORMATION COLLECTION AND USE**
 
 We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. 
@@ -31,13 +18,16 @@ For each visitor to our website, our web server automatically recognizes no info
 
 The information we collect is:
 
-  * used to improve the content of our Web page. 
-  * used to notify visitors about updates to our Web site. 
-  * never shared with other organizations for commercial purposes. 
+  
+
+  * used to improve the content of our Web page.   
+
+  * used to notify visitors about updates to our Web site.   
+
+  * never shared with other organizations for commercial purposes.   
 
 
 
-This site collects cookies. ([Definition of Cookies](http://www.netlingo.com/right.cfm?term=cookies)) 
 
 In order to view this website, visitors and/or members are not required to complete our registration form. In order to post or contribute to this website, visitors and/or members are required to complete our registration form.
 
@@ -59,8 +49,4 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
 
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Email [njaguar@d2jsp.org](mailto:njaguar@d2jsp.org?subject=Privacy%20Policy)  
-Website URL: [http://www.d2jsp.org](http://www.d2jsp.org/)
-
-  
 document version 1.3
