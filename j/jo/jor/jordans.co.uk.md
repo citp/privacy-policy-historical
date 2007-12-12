@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429064358id_/http%3A//www.jordans.co.uk/jordans3.nsf/main/Privacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212153236id_/http%3A//www.jordans.co.uk/jordans3.nsf/main/Privacy%252BPolicy) for the most accurate reproduction.*
 
 # Jordans privacy policy
 
@@ -30,7 +30,7 @@ In addition to providing our services and products to you as set out above, we w
 
 **How we share your personal information**
 
-We may share your personal information with other companies in our group, including, Jordans Publishing Limited, Jordans (Scotland) Limited and our overseas offices (full details of which are available on our [website](http://www.jordans.co.uk/jordans3.nsf/Main/International+home)[](http://www.jordans-international.co.uk/)), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event). In order to provide services to you we may be required to pass your personal information to parties located outside of the European Economic Area in countries which do not have data protection laws equivalent to those in the UK. Where this is the case we will take reasonable steps to ensure the privacy of your information.Except in the situations listed above or as required by law or other regulation, we will not pass, disclose, rent or sell your personal information (other than any personal information which is already publicly available and which is incorporated into our search products) to any third party without your prior written consent.
+We may share your personal information with other companies in our group, including, Jordans International Limited, Jordans Publishing Limited, Jordans (Scotland) Limited and our overseas offices (full details of which are available on our [website](https://www.jordans.co.uk/jordans3.nsf/Main/International+home)[](http://www.jordans-international.co.uk/)), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event). In order to provide services to you we may be required to pass your personal information to parties located outside of the European Economic Area in countries which do not have data protection laws equivalent to those in the UK. Where this is the case we will take reasonable steps to ensure the privacy of your information.Except in the situations listed above or as required by law or other regulation, we will not pass, disclose, rent or sell your personal information (other than any personal information which is already publicly available and which is incorporated into our search products) to any third party without your prior written consent.
 
 **Protecting your information**
 
@@ -64,13 +64,13 @@ Jordans Limited
 Tel: 0117 923 0600  
 Fax: 0117 923 0063  
 DX 78161 Bristol  
-[Email](mailto:customerservices@jordans.co.uk) [Location Map](http://www.jordans.co.uk/jordans3.nsf/Attachments/LocationBristolMap/$FILE/BRISTOL+MAP.pdf!OpenElement)
+[Email](mailto:customerservices@jordans.co.uk) [Location Map](https://www.jordans.co.uk/jordans3.nsf/Attachments/LocationBristolMap/$FILE/BRISTOL+MAP.pdf!OpenElement)
 
 20-22 Bedford Row, London WC1R 4JS  
 Tel: 020 7400 3333  
 Fax: 020 7400 3366  
 DX 1016 Lon/Ch'ry Ln  
-[Location Map](http://www.jordans.co.uk/jordans3.nsf/Attachments/LocationLondonMap/$FILE/LONDON+MAP.pdf?OpenElement)
+[Location Map](https://www.jordans.co.uk/jordans3.nsf/Attachments/LocationLondonMap/$FILE/LONDON+MAP.pdf?OpenElement)
 
 |   
 |  |  |  |   
@@ -83,13 +83,13 @@ Legal notices
 ---|---|---  
 | 
 
-[Terms of business](http://www.jordans.co.uk/jordans3.nsf/main/Standard+Conditions+Of+Business)
+[Terms of business](https://www.jordans.co.uk/jordans3.nsf/main/Standard+Conditions+Of+Business)
 
-[Privacy policy](http://www.jordans.co.uk/jordans3.nsf/main/Privacy+Policy)
+[Privacy policy](https://www.jordans.co.uk/jordans3.nsf/main/Privacy+Policy)
 
-[Disclaimer](http://www.jordans.co.uk/jordans3.nsf/main/Disclaimer)
+[Disclaimer](https://www.jordans.co.uk/jordans3.nsf/main/Disclaimer)
 
-[Legal notices](http://www.jordans.co.uk/jordans3.nsf/Main/Legal+notices)
+[Legal notices](https://www.jordans.co.uk/jordans3.nsf/Main/Legal+notices)
 
 |   
 |  |  |  | 
