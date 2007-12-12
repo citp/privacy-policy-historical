@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625034726id_/http%3A//www.ljhooker.com.au/content/content_one.php%3Fsect_id%3D7%26cat_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212235857id_/http%3A//www.ljhooker.com.au/page/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# Real Estate - Real Estate Australia - Property and Homes for Sale, Rental Property - - Australia - L.J. Hooker - ljhooker.com.au
+# Privacy Policy - L.J. Hooker
 
 **L.J. HOOKER PRIVACY POLICY**
 
@@ -16,7 +16,8 @@ Unless stated by you to the contrary, you acknowledge and consent to the use or 
 
 COLLECTION OF INFORMATION
 
-We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information when you visit our Website and register your needs, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator. 
+We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information such as when you visit our Website and register your needs, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator.   
+
 
 USE OF YOUR INFORMATION
 
@@ -47,9 +48,9 @@ OVERSEAS DISCLOSURE
 
 L.J. Hooker conducts its business overseas and has overseas offices.  In making disclosure of personal information to third parties outside Australia, L.J. Hooker will at all times comply with the Privacy Act 1988 and the National Privacy Principles and L.J. Hooker will ensure that: 
 
-  * the third party is subject to a scheme, law or contract that upholds principles of fair dealing of the information; or
-  * you consent to the disclosure of your personal information or disclosure is requried by a contract in which you are involved; or
-  * the disclosure is for your benefit and we believe that you would have consented to the disclosure, but it is impractical to get your permission; or
+  * the third party is subject to a scheme, law or contract that upholds principles of fair dealing of the information; or 
+  * you consent to the disclosure of your personal information or disclosure is requried by a contract in which you are involved; or 
+  * the disclosure is for your benefit and we believe that you would have consented to the disclosure, but it is impractical to get your permission; or 
   * the information that is being disclosed will be held and used in accordance with the National Privacy Principles.
 
 
@@ -86,7 +87,8 @@ Please contact us if you wish to discuss any privacy issues, or if you do not wi
 
 ADDRESS:   
 
-Neil Williams
+Alan Lambert  
+
 
 L.J. Hooker Limited
 
