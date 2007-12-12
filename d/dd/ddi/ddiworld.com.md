@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 ##  _Development Dimensions International's Privacy Statement_
 
 This Privacy Statement is effective as of September 25, 2004.  
-([Click here to download a PDF version of this policy](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/pdf/privacystatement_ddiworld_09_21.pdf "DDIWorld Privacy Statement").  (PDF) )  
+([Click here to download a PDF version of this policy](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/pdf/privacystatement_ddiworld_09_21.pdf "DDIWorld Privacy Statement").  (PDF) )  
 
 
 Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function. Development Dimensions International (DDI) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites (www.ddiworld.com and www.ddi.com). 
@@ -18,16 +18,16 @@ DDI's sites (www.ddiworld.com and www.ddi.com) comply with EU Safe Harbor framew
 
 This Privacy Statement covers DDI's Internet site www.ddiworld.com and www.ddi.com. Because DDI wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices periodically reviewed for compliance. This Privacy Statement addresses the following privacy issues:
 
-  * _[See Information Collection and Use.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#26468)_
-  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#10985)
-  * _[See Communications from the Site.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#93036)_
-  * _[See Sharing.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#69124)_
-  * _[See Security.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#61799)_
-  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#43478)
-  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#92283)_
-  * _[See Protection of Children's Information.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#52359)_
-  * [See Complaints Resolution.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#42449)
-  * [See Contact Information.](https://web.archive.org/web/20070630144758id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#72227)
+  * _[See Information Collection and Use.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#26468)_
+  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#10985)
+  * _[See Communications from the Site.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#93036)_
+  * _[See Sharing.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#69124)_
+  * _[See Security.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#61799)_
+  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#43478)
+  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#92283)_
+  * _[See Protection of Children's Information.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#52359)_
+  * [See Complaints Resolution.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#42449)
+  * [See Contact Information.](https://web.archive.org/web/20071212044446id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#72227)
 
 
 
