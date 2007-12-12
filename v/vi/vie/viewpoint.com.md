@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527232927id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212182515id_/http%3A//www.viewpoint.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Viewpoint - Privacy Policy
 
@@ -47,7 +47,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can send email us at [supportu@viewpoint.com](mailto:supportu@viewpoint.com)
+If you have any questions about security on our Web site, you can send email us at [support@viewpoint.com](mailto:support@viewpoint.com)
 
 **Cookies**
 
@@ -66,7 +66,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 **Special Offers, Updates and Newsletters**
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe simply by sending a reply message with the words “unsubscribe” in the subject line, or e-mailing technical support at [supportu@viewpoint.com.](mailto:supportu@viewpoint.com)
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe simply by sending a reply message with the words “unsubscribe” in the subject line, or e-mailing technical support at [support@viewpoint.com.](mailto:support@viewpoint.com)
 
 **Service-related Announcements**
 
@@ -76,7 +76,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 **Access to Personally Identifiable Information**
 
-If the personally identifiable information you have entered on the Developer site changes, or if you no longer desire our service, you may update it by making the change on our [developer.viewpoint.com](http://developer.viewpoint.com/) member information page or by emailing our Customer Support at [supportu@viewpoint.com](mailto:supportu@viewpoint.com)
+If the personally identifiable information you have entered on the Developer site changes, or if you no longer desire our service, you may update it by making the change on our [developer.viewpoint.com](http://developer.viewpoint.com/) member information page or by emailing our Customer Support at [support@viewpoint.com](mailto:support@viewpoint.com)
 
 **Links**
 
@@ -108,7 +108,7 @@ Privacy Policy Group
 Viewpoint Corporation  
 498 7th Ave. Suite 1810  
 New York, NY 10018  
-[supportu@viewpoint.com](mailto:supportu@viewpoint.com)
+[support@viewpoint.com](mailto:support@viewpoint.com)
 
 For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, use this guide.
 
