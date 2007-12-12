@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622071454id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212232142id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft: Privacy Statement
 
@@ -63,5 +63,3 @@ If you have any questions about this privacy statement, contact [webmaster@netcr
 
 
 
-
-Posted by at 09:44 AM UTC on Jan 1, 2003 in [About Netcraft](http://news.netcraft.com/archives/about_netcraft.html) | [Link to this article](http://news.netcraft.com/archives/2003/01/01/privacy_statement.html) | [Subscribe](http://www.netcraft.com/cgi-bin/Survey/subscription)
