@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626075917id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212210457id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
-# IT, Telecoms and Engineering job search site - PlanetRecruit
+# IT jobs, Telecom jobs and Engineering jobs in London & the UK - PlanetRecruit
 
 **At PlanetRecruit we are committed to protecting your privacy**  
 PlanetRecruit endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.
