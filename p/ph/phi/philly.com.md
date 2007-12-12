@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625050606id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212235044id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - philly.com
 
@@ -6,7 +6,7 @@ Go to Terms of Use
 
 **Privacy Policy**
 
-Effective March 17, 2007
+Effective October 2, 2007
 
 This Philadelphia Media Holdings, LLC site, Philly.com, is covered by the policies herein. This privacy statement covers Philly.com.
 
@@ -66,7 +66,10 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
 
-This privacy statement applies only to information collected by this Web site. 
+This privacy statement applies only to information collected by this Web site.
+
+Third-party advertising companies may be used to serve ads when you visit philly.com.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://networkadvertising.org/consumer/opt_out.asp).  
+
 
 **PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Philadelphia Media Holdings, LLC sites to persons under the age of thirteen (13). If Philadelphia Media Holdings, LLC later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Philadelphia Media Holdings, LLC sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
 
