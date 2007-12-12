@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528001720id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212132822id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
 
 # General Privacy Policy
 
@@ -27,6 +27,3 @@ We use industry-standard efforts to safeguard the confidentiality of your person
 You acknowledge that acceptance of this privacy policy, as updated from time to time at this location, is a condition to your use of our website and you agree to be bound by all of its terms and conditions.
 
 If you have any questions regarding our policies please e-mail Autonomy's webmaster at [webmaster@autonomy.com](mailto:webmaster@autonomy.com)
-
-  
-
