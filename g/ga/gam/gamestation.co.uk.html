@@ -1,722 +1,416 @@
-<!--The following is the downloaded HTML source of the gamestation.co.uk privacy policy that was archived on 2007-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070607045455id_/http%3A//www.gamestation.co.uk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamestation.co.uk privacy policy that was archived on 2007-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212204945id_/http%3A//www.gamestation.co.uk/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Gamestation :: Privacy Statement</title>
-<meta name="title" content="Gamestation :: Playstation 2 Games ">
+<meta name="title" content="Gamestation :: Privacy Statement ">
 <meta name="description" content="Welcome to Gamestation - the UK's largest independent retailer of games.">
-<meta name="author" content="HomePage Media Ltd : www.homepage.co.uk">
-<link rel="stylesheet" href="/stylesheet.css" type="text/css">
+<meta name="author" content="Unipro Ltd : www.upwww.com">
+<!-- Server ID: 75 -->
+
+<link rel="stylesheet" href="/styles/main2.css" type="text/css">
+<link rel="stylesheet" href="/styles/ProductInfo.css" type="text/css">
+<link rel="stylesheet" href="/styles/Pages.css" type="text/css">
+<link rel="stylesheet" href="/styles/Search.css" type="text/css">
+<link rel="stylesheet" href="/styles/Basket.css" type="text/css">
+<link rel="stylesheet" href="/styles/StoreLocator.css" type="text/css">
+<link rel="stylesheet" href="/images/styles/Content.css" type="text/css">
+
+<!--[if IE]>
+    <link rel="stylesheet" href="/styles/IE.css" type="text/css" />
+<![endif]-->
+
+
 <script language="JavaScript" type="text/javascript" src="/inc/lib.js"></script>
-<script language="JavaScript">
-<!--
-var new_fieldname = ""
-
-function formCheck(form,x)
-{
-	//Check the form if the postcode has not been appended
-	var buttonClicked = "register";
-	
-	action =  "Checks Required, Integer and Date"
-	var message = ""
-	var more_message = ""
-	var showmsg = "no"
-	x = x-1
-	
-	//alert ( buttonClicked );
-	
-	if ( buttonClicked == "register" ) {
-		//alert ( "validate for register" );
-		for (var i = 0; i <= x; i++)
-		{
-			var messenger = form.elements[i].name
-			messenger = messenger.substring(0, 2)
-			var fieldname = form.elements[i].name
-			fieldname = fieldname.substring(2)
-			
-			if (messenger == "r_")
-			{
-				more_message = r_check(form,x,fieldname,i)
-			}
-			else if (messenger == "i_")
-			{
-				more_message = i_check(form,x,fieldname,i)
-			}
-			else if (messenger == "e_")
-			{
-				more_message = e_check(form,x,fieldname,i)
-			}
-			else if (messenger == "e_")
-			{
-				more_message = e_check(form,x,fieldname,i)
-			}		
-			else if (messenger == "co_")
-			{
-				more_message = co_check()
-			}
-			if (more_message != "")
-			
-			{
-				if (message == "")
-				{
-					message = more_message
-					more_message=""
-				}
-				else
-				{
-					message = message + "\n" + more_message
-					more_message=""
-				}
-			}
-			if (message > "")
-			{
-				showmsg = "yes"
-			}
-		}
-	} else if ( buttonClicked == "lookupaddress" ) {
-	
-		//alert ( "validate for postcode lookup" );
-	
-		//Search for the address, but check there is a postcode first.
-		if ( form.postcodeSearch.value == "" ) {
-			message = "Enter a postcode.";
-			showmsg = "yes";
-		} else if ( form.postcodeSearch.value.length < 5 ) {
-			message = "Postcode must be at least 5 characters long.";
-			showmsg = "yes";
-		}
-	} else if ( buttonClicked == "continue" ) {
-		//alert ( "validate for selected address" );
-		
-		var l = form.elements['Address_List'].selectedIndex;
-		
-
-		if ( form.elements['Address_List'].options[l].value == "" ) {
-			message = "Select an address from the list, then click 'Continue' again.";
-			showmsg = "yes";
-		}
-		
-	}
-
-	//Prevent submission if data is incorrect
-	if (showmsg == "yes")
-	{
-		alert("One or more form field(s) were incomplete or incorrect.\n\n" + message)
-		return false
-	}
-	else
-	{
-		return true
-	}
-}
-
-function r_check(form,x,fieldname,i)
-{
-	var msg_addition = ""
-	new_fieldname = fieldname
-	for (var y = 0; y <= x; y++)
-	{
-		if ((form.elements[y].type == "radio" || form.elements[y].type == "checkbox") && form.elements[y].name == new_fieldname && form.elements[y].checked == true)
-		{
-			msg_addition = ""
-			break
-		}
-		else if ((form.elements[y].type == "radio" || form.elements[y].type == "checkbox") && form.elements[y].name == new_fieldname && form.elements[y].checked == false)
-		{
-			msg_addition = form.elements[i].value
-		}
-		else if (form.elements[y].type == "select-one")
-		{
-			var l = form.elements[y].selectedIndex
-			if (form.elements[y].name == fieldname && form.elements[y].options[l].value != "")
-			{
-				msg_addition = ""
-				break
-			}
-			else if (form.elements[y].name == fieldname && form.elements[y].options[l].value == "")
-			{
-				msg_addition = form.elements[i].value
-			}
-		}
-		else if (form.elements[y].name == fieldname && form.elements[y].value == "" && form.elements[y].type != "radio" && form.elements[y].type != "checkbox" && form.elements[y].type != "select-one")
-		{
-			msg_addition = form.elements[i].value
-			break
-		}
-		else if (form.elements[y].name == fieldname && form.elements[y].value != "" && form.elements[y].type != "radio" && form.elements[y].type != "checkbox" && form.elements[y].type != "select-one")
-		{
-			msg_addition = ""
-		}
-	}
-	return(msg_addition)
-}
-
-function i_check(form,x,fieldname,i)
-{
-	for (var y = 0; y <= x; y++)
-	{
-		if (form.elements[y].name == fieldname)
-			break
-	}
-	var msg_addition = ""
-	var decimal = ""
-	inputStr = form.elements[y].value.toString()
-	if (inputStr == "")
-	{
-		//msg_addition = form.elements[i].value
-	}
-	else
-	{
-		for (var c = 0; c < inputStr.length; c++)
-		{
-			var oneChar = inputStr.charAt(c)
-			if (c == 0 && oneChar == "-" || oneChar == "."  && decimal == "")
-			{
-				if (oneChar == ".")
-				{
-					decimal = "yes"
-				}
-				continue
-			}
-			if (oneChar < "0" || oneChar > "9")
-			{
-					msg_addition = form.elements[i].value
-			}
-		}
-	}
-	return(msg_addition)
-}
-
-function e_check(form,x,fieldname,i)
-{
-	for (var y = 0; y <= x; y++)
-	{
-		if (form.elements[y].name == fieldname)
-			break
-	}
-	var msg_addition = ""
-	var Temp = form.elements[y]
-	var AtSym = Temp.value.indexOf('@')
-	var Period = Temp.value.lastIndexOf('.')
-	var Space = Temp.value.indexOf(' ')
-	var Length = Temp.value.length - 1
-	if ((AtSym < 1) || (Period <= AtSym+1) || (Period == Length ) || (Space  != -1))
-	{
-		msg_addition = form.elements[i].value
-	}
-	else
-	{
-		msg_addition = ""
-	}
-	return(msg_addition)
-}
-
-function isInteger(sDate)
-{
-	var new_msg = "true"
-	inputStr = sDate.toString()
-	for (var i = 0; i < inputStr.length; i++)
-	{
-		var oneChar = inputStr.charAt(i)
-		if ((oneChar < "0" || oneChar > "9") && oneChar != "/")
-		{
-			new_msg = "false"
-		}
-	}
-	return (new_msg)
-}
-
-function c_check(form,x,fieldname,i) {																	
-	//																						
-	// LuhnCheck 																			
-	// Copyright 1998 DataCash Ltd (http://www.datacash.com)								
-	// Calculates the Luhn check didigit of the input.										
-	//
-	
-	var msg_addition = ""
-	
-	//for (var y = 0; y <= x; y++)	
-		
-	//alert('card=' + form.paynumber.value);
-	var cardnumber = form.paynumber.value;																
-	var re = /[^0-9]/g;																		
-	cardnumber = cardnumber.replace(re, '');												
-	if (cardnumber.length == 0) msg_addition = form.elements[i].value
-	var store_card = cardnumber;															
-	var total = 0;																			
-	var d = 0;																				
-	while (cardnumber.length != 0) {														
-		total += parseInt(cardnumber.substring(cardnumber.length - 1, cardnumber.length));  
-		cardnumber = cardnumber.substr(0, cardnumber.length - 1);							
-		d = parseInt(cardnumber.substring(cardnumber.length - 1, cardnumber.length));  		
-		cardnumber = cardnumber.substr(0, cardnumber.length - 1);							
-		d = isNaN(d) ? 0 : d;																
-		if (d < 9)																			
-			total += ((d * 2) % 9);															
-		else 																				
-			total += 9; 																	
-	}																						
-	if (total % 10 == 0) {																	
-		msg_addition = form.elements[i].value																	
-	} else {																				
-		msg_addition = ""
-	}
-	return (msg_addition)																						
-}
 
 
-function co_check() {
-var credctype = document.join.business;
-
-	if (credctype.options[credctype.selectedIndex].value==""
-		    &&(isNaN(document.join.newbusiness.value)
-		    || document.join.newbusiness.value=="")) {
-				return("Please Enter your Business Name");
-				document.join.newbusiness.focus();
-	}
-}
-
-//-->
-</script>
+<!-- Rocket --><!-- End Rocket -->
 
 </head>
 
 
-<body bgcolor="#BEBEBE" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body>
 
-<table width="1004" border="0" cellspacing="0" cellpadding="0" height="60" bgcolor="#BEBEBE">
-  <tbody><tr>
-    <td width="253" valign="top"><a href="http://www.gamestation.co.uk/"><img src="/images/main-page/new2/gslogo.jpg" width="253" height="59" border="0" alt="Gamestation :: UK's widest range of new and used video games at the lowest prices!"></a></td>
-	<td valign="top" align="right">
-		<img src="/images/main-page/new2/Online.gif" alt="Order Online, Via Our Hotline or Instore">
-		<img src="/images/main-page/new2/Hotline.gif" alt="Order Online, Via Our Hotline or Instore">
-		<a href="/store_locator/"><img src="/images/main-page/new2/InStore.gif" alt="Order Online, Via Our Hotline or Instore" border="0"></a>
-	</td>
-  </tr>
-</tbody></table>
-<table width="1004" border="0" cellspacing="0" cellpadding="0" background="/images/main-page/new/bg.jpg">
-  <tbody><tr valign="top"> 
-    <td width="130" background="/images/main-page/new2/leftbar.jpg" style="background-repeat:no-repeat"> 
-          
-<br>
-		<table summary="platform navigation menu inside left table" class="rightmenu" border="0" cellspacing="0" cellpadding="0" width="130">
+
+
+<div class="center" style="background:url(/images/bg/xmas07-background.gif); background-repeat: repeat-y; background-position: top center; width: 100%;">
+    <div class="center2">
+
+        <div class="top">
+	        <div class="topleft">
+		        <div class="toplefttoprow">
+			        <a href="http://www.gamestation.co.uk"><img src="/images/skin/logo.gif" alt="Gamestation"></a>
+		        </div>
+		        <div class="topleftbottomrow">
+					<span><a class="prefrenceTab" href="https://www.gamestation.co.uk/preferences.asp"></a></span>
+			        <span><a class="ordersTab" href="http://www.gamestation.co.uk/orders.asp"></a></span>
+			        <span><a class="contactTab" href="http://www.gamestation.co.uk/contact.asp"></a></span>
+		        </div>
+	        </div>
+	        <div class="topmiddle">
+	            <div class="topmiddleBanner" style="padding-left: 100px; padding-top: 11px;">
+	                <!--------------------->
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="343" height="60">
+                      <param name="movie" value="/images/flash/countdownFlip_txt.swf">
+                      <param name="LOOP" value="false">
+                      <param name="QUALITY" value="high">
+                      <param name="BGCOLOR" value="#FFFFFF">
+                      <!--------------------->
+                      <embed src="/images/flash/countdownFlip_txt.swf" width="343" height="60" loop="false" quality="high" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" bgcolor="#FFFFFF"> 
+                      </object>
+                    <!--------------------->
+	            </div>
+	            
+	            <div class="topmiddleText">
+	            
+		            <span class="login"><a href="https://www.gamestation.co.uk/login.asp">Log-in / Register</a></span>
+		        
+		        </div>
+	        </div>
+	        <div class="topright1">
+		        <div class="toprightrow1">
+			        Basket Items
+		        </div>
+		        <div class="toprightrow2">
+			        Basket Total
+		        </div>
+		        <div class="toprightrow3">
+			        <a class="trbasketlink" href="http://www.gamestation.co.uk/basket.asp">My Basket</a>
+		        </div>
+	        </div>
+	        <div class="topright2">
+		        <div class="toprightrow1">
+			        23
+		        </div>
+		        <div class="toprightrow2">
+			        £322.77
+		        </div>
+		        <div class="toprightrow3">
+			        <a class="trbasketlink" href="https://www.gamestation.co.uk/checkout.asp">Checkout</a>
+		        </div>
+	        </div>
+        </div>
+
+        <div class="searchbar">
+            <div class="searchbarleft">
+            
+                <form name="form1" action="/advsearch.asp" method="POST" onsubmit="return validateSearchString(this, 'Search for')" id="Form2">
+		            <input type="hidden" name="clear" value="1">
+		            <input type="hidden" name="maxprice" value="">
+		            <input type="hidden" name="minprice" value="">		
+		            <input type="hidden" name="fb" value="1">	
+            
+                    <div class="searchbarleftl">
+                        <span class="searchbarleftLabel1">Search for</span>
+                        <input class="searchinput" type="text" name="keywords" size="12" id="keywords" value="">
+                        <span class="searchbarleftLabel2">in</span>
+                        <select class="searchinput" name="cat">
+                            <option value="" selected="">All Categories</option>
+                            <option value="">...........</option>
+                            <option value="PS3">Playstation 3</option>
+                            <option value="Wii">Wii</option>
+                            <option value="ps2">Playstation 2</option>
+                            <option value="xbox">Xbox</option>
+                            <option value="xbox 360">Xbox 360</option>
+                            <option value="gamecube">Gamecube</option>
+                            <option value="pc">PC</option>
+                            <option value="PSP">PSP</option>							
+                            <option value="DS">DS</option>							
+                            <option value="game boy All">Gameboy(All)</option>
+                            <option value="playstation">Playstation</option>
+                            <option value="n64">Nintendo 64</option>
+                            <option value="dreamcast">Dreamcast</option>
+                            <option value="SNES">SNES</option>
+                            <option value="Sega Megadrive">Mega Drive</option>
+                            <option value="NES">NES</option>
+                            <option value="Sega Master System">Master System</option>
+                            <option value="saturn">Saturn</option>
+                            <option value="dvd">DVD</option>
+                            <option value="umd">UMD Movies</option>
+                            <option value="">...........</option>
+                            <option value="hardware">Hardware</option>
+                            <option value="">...........</option>
+                            <option value="ps3 accessories">PS3 Acc.</option>
+                            <option value="wii accessories">Wii Acc.</option>
+                            <option value="ps2 accessories">PS2 Acc.</option>
+                            <option value="Xbox accessories">Xbox Acc.</option>
+                            <option value="Xbox 360 accessories">Xbox 360 Acc.</option>
+                            <option value="DS accessories">DS Acc.</option>
+                            <option value="pc accessories">PC Acc.</option>
+                            <option value="gamecube accessories">Cube Acc.</option>
+                            <option value="GB Advance accessories">GBA Acc.</option>
+                            <option value="">...........</option>
+                            <option value="clothing">Clothing</option>
+                            <option value="Guides Books">Guides &amp; Books</option>
+                            <option value="figures">Figures</option>
+                            <option value="Card Games">Card Games</option>
+                            <option value="Other Stuff">Other Stuff</option>
+                        </select>
+                    </div>
+                    <div class="searchbarleftr">
+                        <input class="searchbarleftgo" type="image" name="search" value="search" src="/images/skin/go.gif" alt="go">
+                    </div>
+                </form>
+            </div>
+            <div class="searchbarright">
+                <p>Rather buy by phone? Call 0845 345 0335</p>
+                <p><a href="http://www.gamestation.co.uk/store_locator">Looking for a store?</a></p>
+            </div>
+        </div>
+
+        <div class="mainbody">
+
+            <div class="mainbodyleft">
+        	
+	            <div class="menu1">
+	                <h1 class="leftnavh">Format Type</h1>
+	                <ul class="leftnavi">
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=xbox360&amp;t=platforms">Xbox 360</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=playstation3&amp;t=platforms">Playstation 3</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=wii&amp;t=platforms">Wii</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=playstation2&amp;t=platforms">Playstation 2</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=xbox&amp;t=platforms">Xbox</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=gamecube&amp;t=platforms">Gamecube</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=pc&amp;t=platforms">PC</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=blurayhddvd&amp;t=platforms">Blu Ray &amp; HD DVD</a></li>
+				        
+	                </ul>
+	            </div>
+	            <div class="menu2">
+	                <h1 class="leftnavh">Hand Helds</h1>
+	                <ul class="leftnavi">
+	                    <li><a href="http://www.gamestation.co.uk/cat.asp?cat=psp&amp;t=platforms">PSP &amp; UMD</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=ds&amp;t=platforms">DS</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=gameboy&amp;t=platforms">GameBoy</a></li>
+				        
+	                </ul>
+	            </div>
+	            <div class="menu3">
+	                <h1 class="leftnavh">Retro</h1>
+	                <ul class="leftnavi">
+	                    <li><a href="http://www.gamestation.co.uk/cat.asp?cat=playstation&amp;t=platforms">Playstation</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=n64&amp;t=platforms">N64</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=dreamcast&amp;t=platforms">Dreamcast</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=otherretro&amp;t=platforms">Other</a></li>
+				        
+	                </ul>
+	            </div>
+	            <div class="menu4">
+	                <h1 class="leftnavh">Stuff</h1>
+	                <ul class="leftnavi">
+	                    <li><a href="http://www.gamestation.co.uk/cat.asp?cat=ipods&amp;t=bestsellers">iPods</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=clothing&amp;t=bestsellers">Clothing</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=guidesbooks&amp;t=bestsellers">Guides &amp; Books</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=figures&amp;t=bestsellers">Figures</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=cardgames&amp;t=bestsellers">Card Games</a></li>
+				        <li><a href="http://www.gamestation.co.uk/cat.asp?cat=otherstuff&amp;t=bestsellers">Other Stuff</a></li>
+				        
+	                </ul>
+	            </div>
+	            <div class="menu5">
+	                <h1 class="leftnavh">About Us</h1>
+	                <ul class="leftnavi">
+	                    <li><a href="http://www.gamestation.co.uk/about.asp">About Us</a></li>
+	                    <li><a href="http://www.gamestation.co.uk/store_locator">Store Locator</a></li>
+	                    <li><a href="http://www.gamestation.co.uk/jobs.asp">Jobs</a></li>
+	                    <li><a href="http://www.gamestation.co.uk/contact.asp">Contact Us</a></li>
+	                </ul>
+	            </div>        	
+            </div>
+	
+
 			
-<tbody><tr> 
-				
-<td class="sectionlinks" height="7"><img src="/images/template/spacer.gif" width="5" height="16"></td>
-			
-</tr>
-<tr>
-	<td>
-	
-			<form name="form1" action="/advsearch.asp" method="POST" onsubmit="return validateSearchString(this, 'Search for')" id="Form1">
-		<input type="hidden" name="clear" value="1" id="Hidden1">
-		<input type="hidden" name="maxprice" value="" id="Hidden2">
-		<input type="hidden" name="minprice" value="" id="Hidden3">		
-		<input type="hidden" name="fb" value="1" id="Hidden4">	
 
-			<table width="100%" cellspacing="0" cellpadding="0">
 
-				<tbody><tr> 
-				
-					<td><img src="/images/template/spacer.gif" width="10" height="1"></td>
-					<td class="searchbar" valign="top">
-						<div style="maring-top:4px">Search for</div>
-						<div><input type="text" name="keywords" size="12" id="keywords"></div>
 
-						<div>in</div>
-						<div>
-							<select name="cat" class="searchbar" id="Select1">
+            <div class="mainbodymiddle">
 
-							<option value="" selected="">All Categories</option>
-
-							<option value="">...........</option>
-							
-							<option value="PS3">Playstation 3</option>
-							
-							<option value="Wii">Nintendo Wii</option>
-							
-							<option value="ps2">Playstation 2</option>
-
-							<option value="xbox">Xbox</option>
-							
-							<option value="xbox 360">Xbox 360</option>
-
-							<option value="gamecube">Gamecube</option>
-
-							<option value="pc">PC</option>
-
-							<option value="PSP">PSP</option>							
-							
-							<option value="DS">Nintendo DS</option>							
-
-							<option value="game boy All">Gameboy(All)</option>
-
-							<!--<option value="n-gage" >N-Gage</option>-->
-
-							<option value="playstation">Playstation</option>
-							
-							<option value="n64">Nintendo 64</option>
-
-							<option value="dreamcast">Dreamcast</option>
-
-							<option value="SNES">SNES</option>
-							
-							<option value="Sega Megadrive">Mega Drive</option>
-							
-							<option value="NES">NES</option>
-							
-							<option value="Sega Master System">Master System</option>
-							
-							<option value="saturn">Saturn</option>
-
-							<option value="dvd">DVD</option>
-							
-							<option value="umd">UMD Movies</option>
-
-							<option value="">...........</option>
-
-							<option value="hardware">Hardware</option>
-
-							<option value="">...........</option>
-							
-							<option value="ps3 accessories">PS3 Acc.</option>
-							
-							<option value="wii accessories">Wii Acc.</option>
-							
-							<option value="ps2 accessories">PS2 Acc.</option>
-
-							<option value="Xbox accessories">Xbox Acc.</option>
-							
-							<option value="Xbox 360 accessories">Xbox 360 Acc.</option>
-							
-							<option value="DS accessories">DS Acc.</option>
-							
-							<option value="pc accessories">PC Acc.</option>
-
-							<option value="gamecube accessories">Cube Acc.</option>
-
-							<option value="GB Advance accessories">GBA Acc.</option>
-							
-							<option value="">...........</option>
-							
-							<option value="clothing">Clothing</option>
-							
-							<option value="Guides Books">Guides &amp; Books</option>
-							
-							<option value="figures">Figures</option>
-							
-							<option value="Card Games">Card Games</option>
-							
-							<option value="Other Stuff">Other Stuff</option>
-						
-							</select>
-						</div>
-						<div style="margin:2px;width:90px" align="center">
-							<input type="image" name="search" value="search" src="/images/main-page/new2/SearchButton.gif" style="border:0px none;">
-						</div>
-						<div style="margin:2px;width:90px" align="center" class="searchbar">
-							<a href="http://www.gamestation.co.uk/advsearch.asp?clear=1">Advanced Search</a>
-						</div>
-					</td>
-
-				</tr>
-
-			</tbody></table></form>
-		
-		<br><br>
-
-	</td>
-</tr>
-				
-	<tr>
-		<td>
-			<ul class="frameLink" style="margin-top: 3px">
-			
-				
-				<li><a id="catlink0" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=playstation3&amp;t=platforms">Playstation 3</a></li>
-				
-				<li><a id="catlink1" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=xbox360&amp;t=platforms">Xbox 360</a></li>
-				
-				<li><a id="catlink2" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=wii&amp;t=platforms">Nintendo Wii</a></li>
-				
-				<li><a id="catlink3" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=playstation2&amp;t=platforms">Playstation 2</a></li>
-				
-				<li><a id="catlink4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=xbox&amp;t=platforms">Xbox</a></li>
-				
-				<li><a id="catlink5" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=gamecube&amp;t=platforms">Gamecube</a></li>
-				
-				<li><a id="catlink6" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=pc&amp;t=platforms">PC</a></li>
-				
-			</ul>
-		</td>
-	</tr>
-	<tr><td><br><img src="/images/template/spacer.gif" width="5"><img src="/images/main-page/new2/handhelds.gif" alt="Handhelds" width="97" height="13"></td></tr>
-	<tr>
-		<td>
-			<ul class="frameLink">
-				
-					<li><a class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=psp&amp;t=platforms">PSP &amp; UMD</a></li>
-				
-					<li><a class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=ds&amp;t=platforms">Nintendo DS</a></li>
-				
-					<li><a class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=gameboy&amp;t=platforms">GameBoy</a></li>
-							
-			</ul>
-		</td>
-	</tr>
-	
-	<tr><td><br><img src="/images/template/spacer.gif" width="5"><img src="/images/main-page/new2/retro.gif" alt="Retro" width="97" height="13"></td></tr>
-	<tr>
-		<td>
-			<ul class="frameLink">
-				
-				
-							<li><a id="A2" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=playstation&amp;t=platforms">Playstation</a></li>
-						
-							<li><a id="A2" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=n64&amp;t=platforms">N64</a></li>
-						
-							<li><a id="A2" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=dreamcast&amp;t=platforms">Dreamcast</a></li>
-						
-							<li><a id="A2" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=otherretro&amp;t=platforms">Other</a></li>
-						
-			</ul>
-		</td>
-	</tr>
-	<tr><td><br><img src="/images/template/spacer.gif" width="5"><img src="/images/main-page/new2/stuff.gif" alt="Stuff" width="97" height="13"></td></tr>
-	<tr>
-		<td>
-			<ul class="frameLink">
-				
-				
-							<li><a id="A4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=clothing&amp;t=bestsellers">Clothing</a></li>
-						
-							<li><a id="A4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=guidesbooks&amp;t=bestsellers">Guides &amp; Books</a></li>
-						
-							<li><a id="A4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=figures&amp;t=bestsellers">Figures</a></li>
-						
-							<li><a id="A4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=cardgames&amp;t=bestsellers">Card Games</a></li>
-						
-							<li><a id="A4" class="frameLink" href="http://www.gamestation.co.uk/cat.asp?cat=otherstuff&amp;t=bestsellers">Other Stuff</a></li>
-						
-			</ul>
-		</td>
-	</tr>
-	
-	
-				
-
-</tbody></table>
-  
-
-<table class="rightmenu" border="0" cellspacing="0" cellpadding="0" width="130" align="center">
-        
-<tbody><tr><td>
-	<br><br><br><br>
-	<ul class="frameLink">
-		<li><a id="aboutlink" class="sectionlinks" href="http://www.gamestation.co.uk/about.asp">About Us</a></li>
-		<li><a id="storelink" class="sectionlinks" href="http://www.gamestation.co.uk/store_locator/">Store Locator</a></li>
-		<li><a id="joblink" class="sectionlinks" href="http://www.gamestation.co.uk/jobs.asp">Jobs</a></li>
-		<li><a id="conlink" class="sectionlinks" href="https://www.gamestation.co.uk/contact.asp">Contact Us</a></li>
-
-	</ul>
-</td></tr>
-</tbody></table>      
-
-<p>&nbsp;</p>
-    </td>
-	
-		<td width="874" bgcolor="white">
-			<table width="874" height="52" border="0" cellspacing="0" cellpadding="0" bgcolor="#BEBEBE" background="/images/main-page/new2/customerbar.jpg">
-				<tbody><tr>
-					<td width="650">
+                <div class="roundboxtitle">
+                    <div class="roundboxtlwhite"></div>
+					<div class="roundboxtmmwhite">
+						<h1>Privacy Statement</h1>  
 					
 						
-					
-						<table width="650" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td colspan="8"><img src="/images/template/spacer.gif" width="1" height="13" alt=""></td>
-							</tr>
-							<tr>
-								<td><img src="/images/template/spacer.gif" width="9" height="1" alt=""></td>
-								
-								
-									<td width="185" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="https://www.gamestation.co.uk/register.asp">Login/Register</a></td>
-									
-								
-								
-								
-								<td align="right" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="https://www.gamestation.co.uk/preferences.asp?redir=/privacy.asp">My Account</a></td>
-								<td><img src="/images/template/spacer.gif" width="12" height="1" alt=""></td>
-								<td width="120" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="https://www.gamestation.co.uk/orders.asp?redir=/privacy.asp">Recent Orders</a></td>
-								<td width="110" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="https://www.gamestation.co.uk/contact.asp">Enquiries</a></td>
-								<td class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px;visibility:hidden"><a href="http://www.gamestation.co.uk/help.asp" style="visibility:hidden">Help</a></td>
+						
+					</div>                    
+                    <div class="roundboxtrwhite"></div>
+                </div>
+                    
+                <div class="roundboxcontent">
+                
+					<div class="roundboxcontentinside">	
 
-							</tr>
-							<tr>
-								<td colspan="8"><img src="/images/template/spacer.gif" width="1" height="3" alt=""></td>
-							</tr>
-							<tr>
-								<td><img src="/images/template/spacer.gif" width="9" height="1" alt=""></td>
-								<td width="185" class="basketsummary"><img src="/images/main-page/new2/squarebullet.jpg" width="5" height="5" alt="" style="margin-right:2px">Basket Summary: Items 0</td>
-								<td width="100" align="right" class="basketsummary">Total £0.00</td>
-								<td><img src="/images/template/spacer.gif" width="12" height="1" alt=""></td>
-								<td width="120" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="http://www.gamestation.co.uk/basket.asp">My Basket</a></td>
-								<td width="110" class="frameLink"><img src="/images/main-page/new2/arrowbullet.gif" width="5" height="6" alt="" style="margin-right:2px"><a href="https://www.gamestation.co.uk/checkout.asp">Checkout</a></td>
-								<td></td>
 
-							</tr>
-							<tr>
-								<td colspan="8">&nbsp;</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>			
-			</tbody></table>
 			
 			
-			<table width="874" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-				<td width="6" bgcolor="#ffffff">&nbsp;</td>
-  		<td bgcolor="#FFFFFF" valign="top"> 
-		<p>&nbsp;
-			
 
-</p><p><img src="/images/main/headers/privacy-statement.gif" width="615" height="35"></p>
+<div class="section">
+<h1>Privacy Statement</h1>
 
 <p>We are committed to protecting your privacy.</p>
-<p><br>
-  <b>The type of information we will collect about you </b><br>
-  your name<br>
-  address<br>
-  phone number<br>
-  email address<br>
-  credit/debit card details<br>
-  We do require a contact telephone number so that we may contact you in the event 
-  of a problem occurring with your order.<br>
-  Your credit card details are held on a secure server until your order has been 
-  processed. These credit card details are then permanently deleted from our system.<br>
-  *Please note: We would only obtain sensitive information about you once we have 
-  received your consent first.</p>
-<p><b>Use of the Information supplied by you</b><br>
-  The information you supply to make an order is only required for 2 reasons:<br>
-  1. to allow us to process your order and for online administration;<br>
-  2. to make sure we can provide you with the best products, benefits and service 
-  possible. </p>
-<p>We may also use email addresses or other personally identifiable information 
-  when We are so authorised by you to contact you directly. For example, to notify 
-  you that you have won a competition, or to provide a requested newsletter.</p>
-<p>In assessing your request for goods, We may use your information for the purposes 
-  of the prevention and detection of fraud. One of the purposes for which we may 
-  disclose your address and postcode details is to check against the IMRG Security 
-  Alert or any other Fraud Prevention Scheme. At all times where we disclose your 
-  information it will remain secure. </p>
-<p><b>Unsubscribe</b><br>
-  If you do not wish to receive any email correspondence from us please email 
-  us at <a href="mailto:enquiries@gamestation.co.uk">enquiries@gamestation.co.uk</a> 
-  with the words "Unsubscribe" on the subject line of the email.</p>
-<p><b>Disclosure of your information</b><br>
-  At Gamestation, We may keep our online customers up to date with details of 
-  the latest games and offers available with regular emails. If you would prefer 
-  not to receive this information, please de-select the "I would like to 
-  receive news about Gamestation checkbox<br>
-  Your personal information may be circulated within the Gamestation Group in 
-  both the UK and the USA, and disclosed only to our sub-contractors and persons 
-  acting as our agents who have agreed to keep your personal information strictly 
-  confidential.</p>
-<p>Data Protection Act 1998 (the "Act")</p>
-<p>Gamestation supports the requirements and intent of the Act and will require 
-  employee and business partner compliance with the Act. </p>
-<p><b>Updating your details</b></p>
-<p>Please help Gamestation keep your records updated by notifying us of any changes 
-  to your personal information - either by sending an email to enquiries@gamestation.co.uk 
-  or by going to the 'change your details' section on the 'checkout' screen and 
-  inputting the amended information. If you email us, we will update our records 
-  as soon as reasonably practicable.</p>
-<p>You can check the information that we hold about you by checking your Account 
-  details. If you find any inaccuracies you can delete or correct it. If you want 
-  it removed, please email us at <a href="mailto:enquiries@gamestation.co.uk">enquiries@gamestation.co.uk.</a></p>
-<p>If you have any questions/comments about privacy, please email us.<br>
+
+<p><b>The type of information we will collect about you</b><br>
+<br>
+your name<br>
+address<br>
+phone number<br>
+email address<br>
+credit/debit card details<br>
+We do require a contact telephone number so that we may contact you in the event of a problem occurring with your order.<br>
+Payment is taken at the point of you submitting an order. In the event of a Pre-order Your card will be preliminarily checked for security purposes. You will be charged for the full amount of your order up to 7 working days prior to the release date as confirmed by the publisher. <br>
+*Please note: We would only obtain sensitive information about you once we have received your consent first.<br>
 </p>
-      <br>
-      <br>
 
-	
-    </td><td width="238" valign="top">
-		<br>
+<p><b>
+Use of the Information supplied by you</b><br>
+<br>
+The information you supply to make an order is only required for the below reasons:<br>
+1. to allow us to process your order and for online administration;<br>
+2. to make sure we can provide you with the best products, benefits and service possible. <br><br>
+We may also use email addresses or other personally identifiable information when We are so authorised by you to contact you directly. For example, to notify you that you have won a competition, or to provide a requested newsletter.<br><br>
+In assessing your request for goods, We may use your information for the purposes of the prevention and detection of fraud. One of the purposes for which we may disclose your address and postcode details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. At all times where we disclose your information it will remain secure. <br>
+</p>
+
+<p><b>
+Unsubscribe</b><br>
+<br>
+If you do not wish to receive any email correspondence from us please email us at <a href="mailto:enquiries@gamestation.co.uk">enquiries@gamestation.co.uk.</a> with the words "Unsubscribe" on the subject line of the email.<br>
+</p>
+
+<p><b>
+Disclosure of your information</b><br>
+<br>
+
+At Gamestation, We may keep our online customers up to date with details of the latest games and offers available with regular emails. If you would prefer not to receive this information, please de-select the "I would like to receive news about Gamestation” checkbox.<br>
+Your personal information may be circulated within the Gamestation Group in both the UK, and disclosed only to our sub-contractors and persons acting as our agents who have agreed to keep your personal information strictly confidential. In addition, to ensure we can quickly deliver goods via our chosen couriers, we may disclose your name, contact e-mail address and phone number in addition to your chosen delivery address. In such cases this information is only used for the purpose of completing your delivery<br>
+</p>
+
+<p><b>
+Data Protection Act 1998 (the "Act")</b><br>
+<br>
+Gamestation supports the requirements and intent of the Act and will require employee and business partner compliance with the Act. <br>
+</p>
+
+<p><b>
+Updating your details</b><br>
+<br>
+Please help Gamestation keep your records updated by notifying us of any changes to your personal information - either by sending an email to <a href="mailto:enquiries@gamestation.co.uk">enquiries@gamestation.co.uk.</a> or by going to the 'change your details' section on the 'checkout' screen and inputting the amended information. If you email us, we will update our records as soon as reasonably practicable.<br><br>
+You can check the information that we hold about you by checking your Account details. If you find any inaccuracies, you can delete or correct them. If you want your details removed or If you have any questions/comments about privacy, please email us at <a href="mailto:enquiries@gamestation.co.uk">enquiries@gamestation.co.uk.</a>.<br>
+</p>
+
+</div>    
 
 
-      
-      <!--The right hand column
-      <p><a href="/trade.asp"><img src="/images/main/trade/Trade_Save_anim.gif" width="120" height="67" border=0></a></p>
-      -->
-	  <p>
-	   
-<table width="235" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td> 
-      <div align="center"> 
-        <p><a href="/cat.asp?cat=wii&amp;t=offers"><img src="/images/main/side-banners/Wii-back-in.gif" width="230" height="160" border="0"></a></p>
-        <p><a href="http://www.gamestation.co.uk/#whathot"><img src="/images/main/side-banners/what-hot.jpg" width="230" height="160" border="0"></a><a href="http://www.gamestation.co.uk/images/category/hd-dvd-combo.asp"><br>
-          </a></p>
-        <p><a href="http://www.gamestation.co.uk/images/category/hd-dvd-combo.asp"><img src="/images/main/side-banners/HD-DVD-combo-99.99.gif" width="230" height="160" border="0"></a> 
-        </p>
-        <p><a href="/discountsearch.asp?discountid=175"><img src="/images/main/side-banners/sckools-out-07.jpg" width="230" height="160" border="0"></a> 
-        </p>
-        <p><a href="/discountsearch.asp?discountID=86"><img src="/images/main/side-banners/2for40_2.jpg" width="230" height="160" border="0"></a></p>
-        <p><img src="/images/main/side-banners/2-4and4-42and4-10.gif" width="230" height="160" border="0" usemap="#Map2444"> 
-          <map name="Map2444"> 
-            <area shape="rect" coords="13,57,218,101" href="/images/category/pre-owned-2for20.asp">
-            <area shape="rect" coords="13,15,221,55" href="/images/category/pre-owned-4for10.asp">
-            <area shape="rect" coords="12,103,221,142" href="/images/category/pre-owned-4for20.asp">
-          </map>
-        </p>
-        <p><a href="/discountsearch.asp?discountID=117"><img src="/images/main/side-banners/2-4-30.gif" width="230" height="160" border="0"></a> 
-        </p>
-        <p><a href="/images/category/Affiliate.asp"><img src="/images/main/side-banners/Affiliate01.gif" width="230" height="160" border="0"></a> 
-        </p>
+					</div>
+                </div>
+                                
+                <div class="roundboxtitle">
+                    <div class="roundboxbl"></div>
+                    <div class="roundboxbmm"></div>
+                    <div class="roundboxbr"></div>
+                </div>
+	        </div>
+        		
+	        <div class="mainbodyright">
+                
+                <div class="roundboxtitle">
+                    <div class="roundboxtlwhite"></div>
+					<div class="roundboxtmrwhite">
+						<h1>What's Hot?</h1>  
+					</div>                    
+                    <div class="roundboxtrwhite"></div>
+                </div>
+                
+                
+                
+                <div class="roundboxcontent">
+					<div class="roundboxcontentinside">
+
+						
+<link href="/images/Styles/Content.css" rel="stylesheet" type="text/css">
+ 
+<div class="mainSideBanner" style="height: 1350px">
+    
+  <div class="colItemSideBanner"><a href="http://www.activepoint.com/GamestationXmas07/book.html" target="_blank"><img src="/images/main/side-banners/xmas-cat-07.gif" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+  <div class="colItemSideBanner"><a href="http://www.gamestation.co.uk/#whathot"><img src="/images/main/side-banners/hot-stuff.jpg" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><a href="/images/category/pre-owned.asp"><img src="/images/main/side-banners/Pre-owned.jpg" width="181" height="121" border="0"></a></div> 
+    <div class="colItemNoBarPadSideBanner"></div>
+      <div class="colItemSideBanner"><a href="/cat.asp?cat=wii&amp;t=offers"><img src="/images/main/side-banners/Wii-combo.gif" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+  <div class="colItemSideBanner"><a href="/cat.asp?cat=playstation3&amp;t=offers"><img src="/images/main/side-banners/ps3-mega-deals.gif" width="181" height="121" border="0"></a></div>
+   <div class="colItemNoBarPadSideBanner"></div>
+ 
+   <div class="colItemSideBanner"><a href="/cat.asp?cat=xbox360&amp;t=offers"><img src="/Images/main/side-banners/xbox360-combo.gif" alt="" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><a href="/cat.asp?cat=psp&amp;t=offers"><img src="/Images/main/side-banners/psp-combo.gif" width="181" height="121" border="0"></a></div>
+    <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><a href="/cat.asp?cat=ds&amp;t=offers"><img src="/images/main/side-banners/DS-combo.gif" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><img src="/images/main/side-banners/great-game9-99.gif" width="181" height="121" border="0" usemap="#Map">
+      <map name="Map" id="Map">
+        <area shape="rect" coords="107,66,175,118" href="/discountsearch.asp?discountID=329">
+  <area shape="rect" coords="8,72,68,118" href="/discountsearch.asp?discountID=328">
+      </map>
+  </div>
+  <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><a href="/images/category/accessories.asp"><img src="/images/main/side-banners/accessories.gif" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+      <div class="colItemSideBanner"><a href="http://www.gamestation-fatchris.co.uk/" target="_blank"><img src="/images/main/side-banners/Fat-Chris-grotto.gif" width="181" height="121" border="0"></a></div>
+  <div class="colItemNoBarPadSideBanner"></div>
+    <div class="colItemSideBanner"><a href="/images/category/Affiliate.asp"><img src="/images/main/side-banners/Affiliate01.gif" width="181" height="121" border="0"></a></div>
+    <div class="colItemNoBarPadSideBanner"></div>
+</div>
+
+
+
+
+
+					</div>
+                </div>
+
+                <div class="roundboxtitle">
+                    <div class="roundboxbl"></div>
+                    <div class="roundboxbmr"></div>
+                    <div class="roundboxbr"></div>
+                </div>
+
+	        </div>
         </div>
-    </td>
-  </tr>
-</tbody></table>
-<map name="week1"> 
-    <area shape="rect" coords="121,533,195,549" href="/product.asp?id=101268507162156">
-    <area shape="rect" coords="3,4,218,632" href="/product.asp?id=101268506662155">
-  </map>
-
-	  </p>
-	  
-      <p>&nbsp;</p>
-      </td>
-      
-		
-		<td width="6" bgcolor="#ffffff">&nbsp;</td>				
-		
-  </tr>
-</tbody></table>
-<table width="770" border="0" cellspacing="0" cellpadding="0" height="25">
-  <tbody><tr> 
-		
-    <td valign="middle" align="center" height="25" class="footer"> 
-	<a class="footer" href="http://www.gamestation.co.uk/terms.asp">Conditions of Use</a> | <a class="footer" href="http://www.gamestation.co.uk/privacy.asp">Privacy Notice</a> | <a class="footer" href="http://www.gamestation.co.uk/GEDIT">GEDIT</a> | © 2005 Gamestation 
-	</td>
-	</tr>
-</tbody></table>
-
-  
-    
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-        </script>
-        <script type="text/javascript">
-        _uacct = "UA-1419213-1";
-        urchinTracker();
-        </script>
         
-  
-    
+        <div class="footer">
+        
+            © GAMESTATION | 
+            <a href="http://www.gamestation.co.uk/privacy.asp">PRIVACY POLICY</a> |
+            <a href="http://www.gamestation.co.uk/terms.asp">TERMS &amp; CONDITIONS</a> |
+            <a href="http://www.gamestation.co.uk/gedit">GEDIT</a> |
+            <a href="http://www.gamestation.co.uk/images/category/student-discount.asp">STUDENT DISCOUNT</a> |
+            <a href="http://www.gamestation.co.uk/images/category/trade-in.asp">TRADE-IN</a> |
+            <a href="http://www.gamestation.co.uk/PreOwned">PRE-OWNED</a> |
+            <a href="http://www.gamestation.co.uk/about.asp">ABOUT GAMESTATION</a> |
+			WEBSITE VERSION 5.0.18
+        </div>
+    </div>
+</div>
+
+
+
+
+       
+		<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+	
+        
+    <script type="text/javascript">
+       _uacct = "UA-1419213-1";
+       urchinTracker();
+    </script>
+        
 
 
 
 
 
-</td></tr></tbody></table></body></html>
+
+</body></html>
