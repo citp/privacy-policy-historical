@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isthmus.com privacy policy that was archived on 2007-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070301043229id_/http%3A//www.isthmus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isthmus.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212072007id_/http%3A//www.isthmus.com/privacy) for the most accurate reproduction.*
 
 # Isthmus | The Daily Page -- Privacy Policy
 
