@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513000829id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212165109id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
@@ -28,7 +28,7 @@ viagogo may share your personal information (excluding credit or bank card detai
 
 If you opt in, these partners may use your personal information to contact you regarding related sites which they think may be of interest to you as a viagogo customer. 
 
-These partners will be based worldwide and by agreeing to this privacy policy, you are consenting to the transfer of your personal data to these selected partners regardsless of where they are based. 
+These partners will be based worldwide and by agreeing to this privacy policy, you are consenting to the transfer of your personal data to these selected partners regardless of where they are based. 
 
 ## Automatic Logging of Session Data
 
