@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514193109id_/http%3A//jobsearch.gov.au/hlp.aspx%3FHelpSrc%3Dprivacy.htm%26WHCode%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212223705id_/http%3A//jobsearch.gov.au/hlp.aspx%3FHelpSrc%3Dprivacy.htm%26WHCode%3D0) for the most accurate reproduction.*
 
 # Australian Job Search - Help
 
