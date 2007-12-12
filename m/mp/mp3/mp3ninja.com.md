@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618084548id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212043959id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
 
-# Download Mp3 You Have Dreamed Of. Nice mp3 download collection. Legal, secure mp3 service. Ordered mp3 content with search.
+# Download MP3 Hits, Download Free MP3s and Legal MP3 Music, Full MP3 Albums Downloads - mp3ninja.com
 
 **We take your privacy seriously.**
 
@@ -19,8 +19,4 @@ In order to pay for Site Services, user provides information on the method of pa
 
 All details of your methods of payments are UNAVAILABLE to the Site Administration.
 
-All online credit card payments to our site are made through credit card transaction processing system [ASSIST](http://www.assist.ru/eng/index.html "ASSIST.RU") that are well-known and secure. You will be offered to learn more about those systems before you make a payment. 
-
-To make sure that you are safely secured please visit our patment system web site:   
-<http://www.assist.ru/eng/about/security.htm>  
-
+All products and services, displayed in the Internet-shop www.mp3ninja.com, are accepted for payment via VISA and Mastercard credit cards by "ITC" and "ASSIST". For security purposes, the card numbers are not kept by the company. 
