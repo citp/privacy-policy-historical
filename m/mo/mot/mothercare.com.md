@@ -1,28 +1,29 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616123754id_/http%3A//www.mothercare.com/gp/node/n/49726031%3Fie%3DUTF8%26mcb%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213173442id_/http%3A//www.mothercare.com%3A80/gp/node/n/49726031%3Fie%3DUTF8%26mcb%3Dcore) for the most accurate reproduction.*
 
 # privacy policy - other pages : mothercare
 
 **General**  
-This privacy statement sets out how mothercare.com will store and use information relating to you. This applies to the entire web site. Any changes to these policies will be posted on Terms and conditions.mothercare.com is the trading name of mothercare.com is a division of Mothercare UK Limited.
+This privacy statement sets out how mothercare.com will store and use information relating to you. This applies to the entire web site. Any changes to these policies will be posted on Terms and conditions. Mothercare.com is a trading name of Mothercare UK Limited.
 
-mothercare.com is committed to respecting your privacy. We have structured our web site so that, in general, you can visit the website without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this Privacy Statement.
+Mothercare.com is committed to respecting your privacy. We have structured our web site so that, in general, you can visit the website without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this Privacy Statement.
 
 For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
 
-**Security**
+**  
+Security  
+** ****
 
-****  
-**Security Information**
-
-mothercare.com is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
+**Security Information  
+** Mothercare.com is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
 
 When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection laws, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent, unauthorised access. Our security procedures mean that we may occasionally require proof of identity before we are able to disclose sensitive information to you. 
 
-If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. The **Customer Service Centre is open from 8 a.m to 8 p.m. Monday to Saturday and from 10 a.m. to 4 p.m. on Sunday.**
+If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. The **Customer Service Centre is open from 8am to 8pm Monday to Saturday and from 10am to 4pm on Sunday.**
 
-Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at mothercare.com, call our Customer Service Centre on 08453 304030 (International +44 (0)1923 210 210) to place an order.
+Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at Mothercare.com, call our Customer Service Centre on 08453 304030 (International +44 (0)1923 210 210) to place an order.
 
-**What we collect**  
+**  
+What we collect**  
 We collect the following information: 
 
   * Where you order products, we will collect your name, contact and billing information, transaction and credit card information. 
@@ -31,7 +32,8 @@ We collect the following information:
 
 
 
-**What do we do with the information we gather?  
+**  
+What do we do with the information we gather?  
 ** We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
   * Internal record keeping 
@@ -43,7 +45,8 @@ We collect the following information:
 
 
 
-**Who we share the information with and your choices**  
+**  
+Who we share the information with and your choices**  
 When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement.
 
 We will not sell, distribute or lease your personal information to third parties other than our subsidiaries and parent company or our successor in business unless we have your permission or are required by law. We may release your personal information to our authorised direct marketing agents unless you tell us that you do not wish this to happen.
@@ -58,25 +61,29 @@ Cherry Tree Road
 Watford  
 Herts.  
 WD24 6SH  
-Email: privacy.matters@mothercare.co.uk
+Email: [privacy.matters@mothercare.co.uk](mailto:privacy.matters@mothercare.co.uk)
 
-**What if you think we have incorrect information or you would like a copy of the information we hold about you?**  
+**  
+What if you think we have incorrect information or you would like a copy of the information we hold about you?**  
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10. If you would like a copy of the information held on you, please write to:
 
-**The Data Protection Compliance Officer  
+**  
+The Data Protection Compliance Officer  
 ** Mothercare Direct  
 Cherry Tree Road  
 Watford  
 Herts.  
 WD24 6SH  
-privacy.matters@mothercare.co.uk
+[privacy.matters@mothercare.co.uk](mailto:privacy.matters@mothercare.co.uk)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
 
-**Other web sites**  
+**  
+Other web sites**  
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.
 
-**How we use cookies**  
+**  
+How we use cookies**  
 A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by remembering your details and telling them to the website so that you do not have to enter them each time.
 
 We use cookies to simplify the shopping processes and we also use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our web site in order to tailor it to customer needs. Refusal of a cookie will prevent you from using the mothercare.com site. To use mothercare.com, cookies need to be enabled. You can change your Internet Settings to 'enable cookies'.
