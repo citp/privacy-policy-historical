@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630060635id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213042646id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Science Buddies: Privacy Policy
 
-  |  [ ](https://web.archive.org/mentoring/project_ideas.shtml) |  [ ](https://web.archive.org/mentoring/project_guide_index.shtml) |  [ ](https://web.archive.org/mentoring/ask_an_expert_intro.shtml) |  [ ](https://web.archive.org/mentoring/teacher_resources.shtml) |  [ ](https://web.archive.org/mentoring/competitions_index.shtml) |  [ ](https://web.archive.org/mentoring/aboutus.shtml) |          
+  |  [ ](https://web.archive.org/) |  [ ](https://web.archive.org/mentoring/project_ideas.shtml) |  [ ](https://web.archive.org/mentoring/project_guide_index.shtml) |  [ ](https://web.archive.org/mentoring/ask_an_expert_intro.shtml) |  [ ](https://web.archive.org/mentoring/teacher_resources.shtml) |  [ ](https://web.archive.org/mentoring/competitions_index.shtml) |          
 ---|---|---|---|---|---|---|---  
   
   1. Our Commitment to Privacy 
