@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624143134id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213134747id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
 
 # Lee Kum Kee International Limited
 
