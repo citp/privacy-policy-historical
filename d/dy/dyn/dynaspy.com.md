@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619150513id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3De8dd999f7804e7dbba035a52ddd3cd74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213043715id_/http%3A//www.dynaspy.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to DynaSpy. We offer spy camera, nanny cam, covert cameras, hidden camera, and more at DynaSpy.com
 
@@ -17,7 +17,7 @@ This site contains links to other sites. DynaSpy.com© is not responsible for th
 Any information you provide to DynaSpy.com© is not shared with any of our web partners unless voluntarily accessing them through one of our approved links or Affiliate Programs.
 
  **E-mail Addresses**  
-On occasion, we request your e-mail address for purposes of correspondence, confirmation or for subscribing to e-mail promotions and site update notifications. In order to receive any e-mail notices from us you must explicitly subscribe to these services (opt-in). If you wish to add your name to, or remove your name from one of the email lists, [**click here**](https://www.dynaspy.com/%22mailto:support@dynaspy.com?subject=Remove\\%22).
+On occasion, we request your e-mail address for purposes of correspondence, confirmation or for subscribing to e-mail promotions and site update notifications. In order to receive any e-mail notices from us you must explicitly subscribe to these services (opt-in). If you wish to add your name to, or remove your name from one of the email lists, [**click here**](http://www.dynaspy.com/%22mailto:support@dynaspy.com?subject=Remove\\%22).
 
 We collect visitor's contact information (like their email address). The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. See the Choice/Opt-Out section below.
 
@@ -30,12 +30,12 @@ This site supplements the information that you provide with information that is 
  **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to us by clicking below. Unsubscribe from our mailing list is very simple. Send us an email at [**support@dynaspy.com**](https://www.dynaspy.com/%22mailto:support@dynaspy.com/%22) and on the subject line type UNSUBSCRIBE ME! The provided email address will be deleted from our database promptly.
+You can send email to us by clicking below. Unsubscribe from our mailing list is very simple. Send us an email at [**support@dynaspy.com**](http://www.dynaspy.com/%22mailto:support@dynaspy.com/%22) and on the subject line type UNSUBSCRIBE ME! The provided email address will be deleted from our database promptly.
 
  **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.
 
-You can send email to [**support@dynaspy.com**](https://www.dynaspy.com/%22mailto:support@dynaspy.com/%22)
+You can send email to [**support@dynaspy.com**](http://www.dynaspy.com/%22mailto:support@dynaspy.com/%22)
 
 **The Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [**support@dynaspy.com**](https://www.dynaspy.com/%22mailto:support@dynaspy.com/%22)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [**support@dynaspy.com**](http://www.dynaspy.com/%22mailto:support@dynaspy.com/%22)
