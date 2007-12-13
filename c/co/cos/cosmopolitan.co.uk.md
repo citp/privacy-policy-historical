@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624071752id_/http%3A//www.cosmopolitan.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213123731id_/http%3A//www.cosmopolitan.co.uk/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
 # Cosmopolitan :: Privacy Statement
 
