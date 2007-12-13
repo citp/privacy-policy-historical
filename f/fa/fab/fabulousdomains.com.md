@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626043524id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D714) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213143317id_/http%3A//www.fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D714) for the most accurate reproduction.*
 
 # Fabulous
 
@@ -20,15 +20,13 @@ Some of the information we collect, including that obtained from our online enqu
 
 #### WHAT WE DO WITH YOUR PERSONAL INFORMATION
 
-Customer’s email addresses and other personal information provided by customers may be used to enable us to send promotional material (on other products and services that we consider may be of interest to Customers. However, Customers may at any time, notify us that they do not wish to receive this material via an “opt-out” facility contained on our websites.
+Customer’s email addresses and other personal information provided by customers may be used to enable us to send promotional material (on other products and services) that we consider may be of interest to customers. However, customers may at any time, notify us that they do not wish to receive this material via an “opt-out” facility contained on our websites.
 
-If a Customer no longer wants us to keep a record of their personal information or they need to update some of the particulars (for example, address), the Customer may contact us by emailing our Customer Support Group at support@fabulous.com , so we can update or remove the information as required.
+Personal information that Customers provide to Fabulous.com may also be shared among our subsidiaries. All subsidiaries are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
 
-Personal information that Customers provide to FabulousDomains.com may also shared among our subsidiaries and the operators of our affiliated websites. All subsidiaries and affiliates are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Fabulous.com also shares information about our Customers (on an anonymous basis) with our advertisers, business partners, sponsors and other third parties. For example, we may disclose the fact that membership to one of our websites is “X” percent male and “Y” percent female.
 
-FabulousDomains.com also shares information about our Customers (on an anonymous basis) with our advertisers, business partners, sponsors and other third parties. For example, we may disclose the fact that membership to one of our websites is “X” percent male and “Y” percent female.
-
-This information is used to gain a better understanding of our customer base, thus enabling us to tailor our website content specifically to our Customer’s wants and needs.
+This information is used to gain a better understanding of our customer base, thus enabling us to tailor our website content specifically to our Customer’s wants and needs. 
 
 #### HOW WE COLLECT INFORMATION
 
