@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quazen.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403033907id_/http%3A//www.quazen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quazen.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222258id_/http%3A//www.quazen.com/privacy) for the most accurate reproduction.*
 
-# Quazen :: Privacy Policy
+# Quazen :: Privacy
 
 1.  **General**. 
 
@@ -16,7 +16,7 @@ e.  This Privacy Policy applies to the practices of Quazen and its affiliates o
 
 2.  **Information Collected**. 
 
-a.  Quazen collects personal information when you register with Quazen for the purpose of receiving Quazen's newsletters.. Quazen may also collect personal information when you use other products or services provided by Quazen, when you visit pages of certain partners of Quazen, and when you enter certain links or other promotional features on the Site. 
+a.  Quazen collects personal information when you register with Quazen for the purpose of receiving Quazen's newsletters.. Quazen may also collect personal information and/or install a "cookie" on your personal computer when you use, access or logon other products or services provided by Quazen, when you visit pages of certain partners of Quazen, and when you enter certain links or other promotional features on the Site. 
 
 b.  Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Quazen may request. 
 
