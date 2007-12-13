@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630065041id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213100714id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
 
-# Wrong Planet - Asperger and Autism Community
+# Wrong Planet - Privacy
 
 Privacy Statement for WrongPlanet.net
 
