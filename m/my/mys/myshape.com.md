@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshape.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427055632id_/http%3A//www.myshape.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshape.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213095921id_/http%3A//www.myshape.com/content/privacy_policy) for the most accurate reproduction.*
 
 # myshape.com - Privacy Policy
 
@@ -45,7 +45,7 @@ Notice of changes**
 
 myShape.com's Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy. 
 
-**  
+******  
 Questions?**
 
 If you have any questions regarding our privacy practices, please [email](mailto:assistance@myshape.com?subject=Privacy%20Policy) us your question. We can also be reached by regular mail at:
