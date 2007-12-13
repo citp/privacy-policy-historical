@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2007-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070502121200id_/http%3A//www.hip-home.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214002838id_/http%3A//hip-home.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Site Map - HIP Home Improvement Projects
 
