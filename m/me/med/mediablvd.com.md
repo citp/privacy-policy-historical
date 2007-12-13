@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediablvd.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214070844id_/http%3A//www.mediablvd.com/forums/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediablvd.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213083014id_/http%3A//www.mediablvd.com/forums/index.php%3Fact%3DHelp%26CODE%3D01%26HID%3D18) for the most accurate reproduction.*
 
 # Help Topic
 
