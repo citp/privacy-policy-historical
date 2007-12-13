@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630064918id_/http%3A//www.wabcradio.com/article.asp%3Fid%3D122649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213065125id_/http%3A//www.wabcradio.com/article.asp%3Fid%3D122649) for the most accurate reproduction.*
 
 # News Talk Radio 77 WABC-AM
 
-This site is owned by Citadel Broadcasting Corporation (“Citadel”).  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
+This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.   
 
-[](https://web.archive.org/ad/click.asp?adID=53465&adRunID=64666)
-
-**Why we collect information.**
+ **Why we collect information.**
 
 Citadel collects information to assist us in delivering a superior level of product.  We collect information to gain a better understanding of our customers and their needs and thus provide more valuable services.  This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them. 
 
-It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you.  In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about. ****
+ It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you.  In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.
 
  **What information we collect**
 
@@ -36,11 +34,11 @@ We track content accesses and downloads  for the purpose of paying royalties an
 
 When you create an account — providing your name, email address, zip code and birth date — and choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ID — in many cases simply your email address, because it is unique and easy to remember. You have the option for streaming services to “remember” you, and your favorites or other preferences you have set will be available automatically, and on occasion greet you by first name. Some this information may, on occasion, be transferred to 3rd parties to automatically fill in relevant form fields and simplify the process.  This information is not stored on the 3rd party website until you submit the form.  However, once the form is submitted, then this personally identifiable information may be stored on the 3rd party website.
 
-If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums. ****
+If you use a message board, chat room or other means of public communication, you should be aware that any information you share is visible to other users. Personally identifiable information you post as a message to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. Citadel is not responsible for the personally identifiable information you choose to submit in these forums.
 
 As is standard practice on many corporate websites, Citadel’s website uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us. For example, knowing your first name lets us welcome you with a greeting the next time you use our products.
 
-Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. ****
+Our advertisers help us deliver a number of useful services which are free of charge to you. Our advertisers will often employ the use of a “click-through URL” linked to content on their website. When a customer clicks one of these URLs, they pass through a web server before arriving at the destination web page. They track this click-through data to help determine general interest and measure the effectiveness of customer communications. 
 
 **Intended Audience**
 
@@ -62,17 +60,17 @@ Also, Citadel may disclose your personal information if required to do so by law
 
 **Links to other websites.**
 
-Citadel websites and products contain links to other websites and products.  Citadel is not responsible for the privacy practices or the content of such websites or products.  Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.  Citadel has no liability for these third party sites, their policies or actions. ****
+Citadel websites and products contain links to other websites and products.  Citadel is not responsible for the privacy practices or the content of such websites or products.  Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.  Citadel has no liability for these third party sites, their policies or actions.
 
  **Security of personal information**
 
 The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to try to protect guest information from unauthorized access and improper use.  From time to time, we review our security procedures in order to consider appropriate new technology and methods.  
 
-Citadel shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and Citadel cannot warrant the security of any information that you transmit to us.  Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so.  In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information. ****
+Citadel shall make all reasonable efforts to comply with this privacy policy; however, this policy should not be construed as a contractual undertaking and Citadel cannot warrant the security of any information that you transmit to us.  Please be aware that, despite our best efforts, no security measures are perfect or impenetrable and by transmitting personal information over the internet to us, you are accepting any risks associated with doing so.  In addition, you are responsible for taking appropriate measures to protect and secure all passwords, log-on or membership identification information and account information.
 
- **California** **Residents.**
+ **California Residents.**
 
-As of January 1, 2005, **California** **Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com).
+As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com).
 
  **Changes to this policy.**
 
@@ -80,4 +78,4 @@ We may revise this Privacy Policy to keep it up to date with Citadel’s current
 
 If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com) to contact us. We will respond to your inquiry within 30 days.
 
-(Last updated 6-7-2007)
+(Last updated August 2007)
