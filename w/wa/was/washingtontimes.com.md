@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519140239id_/http%3A//www.washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213045232id_/http%3A//www3.washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
 
 # About The Washington Times - The Washington Times, America's Newspaper
 
@@ -16,4 +16,4 @@ The Washington Times uses cookies to track user activity on our Web site. This i
 
 ### Surveys:
 
-Washingtontimes.com may collect additional personal information from users in connection with optional surveys. Information that you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you at the time of collection.
+Washingtontimes.com may collect additional personal information from usersin connection with optional surveys. Information that you provide in answerto optional survey questions may be shared, but only in the aggregate, withadvertisers and partners unless we notify you at the time of collection.
