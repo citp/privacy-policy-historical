@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630031955id_/http%3A//www.beautybrands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213102117id_/http%3A//www.beautybrands.com/privacy) for the most accurate reproduction.*
 
 # Beauty Brands :: Privacy
 
@@ -8,7 +8,7 @@ beauty brands Privacy Policy for all publications, conferences and properties:
 
 beauty brands recognizes the importance of protecting the privacy of information provided by visitors to our website. We have created the following guidelines to demonstrate our commitment to the issue of privacy.
 
-Our web server automatically recognizes and collects the domain name and IP address of visitors to our websites. In addition, we collect aggregate information on what web pages visitors access or visit and information volunteered by the visitor, such as survey information and/or site registrations. We collect email addresses of visitors who post messages to our bulletin boards, make postings to our website, and/or voluntarily subscribe to our email newsletters. The information we collect is used to improve the content of our web pages, customize the content and/or layout for each individual visitor and for us to contact visitors about our products and services as explained below.
+Our web server automatically recognizes and collects the domain name and IP address of visitors to our websites. In addition, we collect aggregate information on what web pages visitors access or visit and information volunteered by the visitor, such as survey information and/or site registrations. We collect email addresses of visitors who post messages to our bulletin boards, make postings to our website, and/or voluntarily subscribe to our email newsletters. The information we collect is used to improve the content of our web pages, customize the content and/or layout for each individual visitor, and for us to contact visitors about our products and services as explained below.
 
 We occasionally set cookies for sites that require registration, but these cookies are not used to store information other than user name and password. Cookies may also be used to help deliver advertisements and/or unique content to users.
 
@@ -18,11 +18,11 @@ Postal addresses and telephone numbers collected online may be used for periodic
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change at some time in the future, we will post the policy changes to our website. You will always have the ability to opt out of these new uses. If you are concerned about how your information is used, bookmark this page and check back periodically.
 
-beauty brands takes every precaution to protect users' information from unauthorized use. When users submit sensitive information via our website, the information is protected both online and offline. When our registration/subscription form asks for credit card number, or other sensitive information, that information is encrypted and is protected with the best encryption software in the industry - SSL. If you feel this site is not following this privacy policy, or if you have any further questions, please contact us at: 
+beauty brands takes every precaution to protect users' information from unauthorized use. When users submit sensitive information via our website, the information is protected both online and offline. When our registration/subscription form asks for a credit card number, or other sensitive information, that information is encrypted and is protected with the best encryption software in the industry—SSL. If you feel this site is not following this privacy policy, or if you have any further questions, please contact us at: 
 
 beauty brands
     Privacy Issues
-    4600 Madison Suite 400
+    4600 Madison Avenue, Suite 400
     Kansas City, MO 64112
     Email: [privacy@bradv.com](https://web.archive.org/about/contact)
     Phone: 816-531-2266
