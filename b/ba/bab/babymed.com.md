@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627093301id_/http%3A//babymed.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213171320id_/http%3A//babymed.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Free Ovulation and Fertility Calendar and Chart - BabyMed.com
 
-|  [Login & Join Now](https://web.archive.org/members/login)  
+|    
+   
 ---  
-[Free Fertility Charting](https://web.archive.org/tools/fertility/fertilchart/)  
-[The Dr.Amos Blog](https://web.archive.org/tools/blog)  
+[eTickr.com](http://etickr.com/)  
+   
+[The Dr.Amos Blog](https://web.archive.org/tools/blog/list_by_category.asp)  
 [**All FAQs**](https://web.archive.org/faq)  
 [Top TTC FAQ's ](https://web.archive.org/faq/Content.aspx?14013)  
 [Am I Pregnant?](https://web.archive.org/faq/Browse.aspx?52)  
 [hCG Information](https://web.archive.org/faq/content.aspx?13508)  
 [Pregnancy Symptoms](https://web.archive.org/faq/Content.aspx?13241)  
-[Sex & TTC](https://web.archive.org/faq/Browse.aspx?156)  
-[**All Tools**](https://web.archive.org/tools)  
 [Fertility Calendar](https://web.archive.org/tools/fertility/calendar)  
 [Fertility Calculator](https://web.archive.org/tools/fertility/calculator)  
 [Pregnancy Calendar](https://web.archive.org/tools/pregnancy/calendar)  
+[Predict Baby's Gender](https://web.archive.org/tools/other/chinese_gender_calendar)  
 [hCG Calculator](https://web.archive.org/tools/pregnancy/hcg/)  
-[Community](https://web.archive.org/community/list_view.asp)  
-[Fertility  Expert](https://web.archive.org/tools/fertility/fertilchart/info/expert_overview.asp)  
-[Recent Chart Evaluations](https://web.archive.org/tools/fertility/fertilchart/expert_evaluations.asp)  
-[Compare](https://web.archive.org/membership/levels.asp)  
+[Fertility Expert](https://web.archive.org/tools/fertility/fertilchart/info/expert_overview.asp)  
+[Chart Evaluations](https://web.archive.org/tools/fertility/fertilchart/expert_evaluations.asp)  
 [TELL ME MORE](https://web.archive.org/membership)  
-  
-  
+[**Q & A Categories**](https://web.archive.org/qa/categories.asp)  
+[Gynecology](https://web.archive.org/qa/default.asp?27)  
+[Infertility](https://web.archive.org/qa/default.asp?24)  
+[PeriConception - TTC](https://web.archive.org/qa/default.asp?25)  
+[Pregnancy](https://web.archive.org/qa/default.asp?26)  
+[Pregnancy Symptoms](https://web.archive.org/qa/default.asp?34)  
+[Pregnancy Testing & HCG](https://web.archive.org/qa/default.asp?33)  
    
   
 ### BabyMed Privacy Statement
@@ -77,7 +81,7 @@ BabyMed won't intentionally collect any personally identifiable information abou
 We won't sell or disclose your personally identifiable information to unrelated third parties without your consent. However, on particular pages where we ask for your personal information, we may explicitly tell you that the data we're collecting on that page might be shared with third parties, such as our sponsors or parties providing services to our users. In such cases, those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion or service, we'll tell you that your answers might be shared with that advertiser. In all of these cases, we'll collect personally identifiable information only if you voluntarily submit it to us or our sponsors. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser 
 
   * **Chat Rooms And Boards**  
-Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. Any posts or comments made on our boards become the property of BabyMed and BabyMed can use and publish any posts made on our boards. BabyMed can remove any posts it deems unacceptable at any time without having to notify you first. By using our Web site, you consent to our [Terms of Service](https://web.archive.org/web/20070627093301id_/http%3A//babymed.com/home/tos.asp). 
+Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. Any posts or comments made on our boards become the property of BabyMed and BabyMed can use and publish any posts made on our boards. BabyMed can remove any posts it deems unacceptable at any time without having to notify you first. By using our Web site, you consent to our [Terms of Service](https://web.archive.org/web/20071213171320id_/http%3A//babymed.com/home/tos.asp). 
 
   * **Your Questions And Comments**  
 Feel free to contact us, with comments or questions. See About Us to find out more about our company and our policies. 
