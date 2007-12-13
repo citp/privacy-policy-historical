@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2007-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070510162627id_/http%3A//giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022514id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gifts n Ideas
+# | Giftsnideas.com
 
 At Giftsnideas we are committed to protecting your privacy. We collect your personal information that you voluntarily provide to us while using our Web site features. Your privacy is important to us and we do not share your information with any third-party.
 
