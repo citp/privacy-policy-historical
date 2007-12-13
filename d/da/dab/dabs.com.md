@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624031901id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213233410id_/http%3A//www.dabs.com/article.aspx%3Farticleid%3D132) for the most accurate reproduction.*
 
 # dabs.com - Our privacy policy
 
@@ -82,4 +82,4 @@ If we decide to change this privacy policy, we would post such changes on this p
  **Can we assist via email?**  
 If this article didn't help resolve your query, then you may wish to contact a dabs.com Customer Service representative via our [email service](https://web.archive.org/contact.aspx?articleId=132&articleTitle=Our+privacy+policy&rs=1 "Chat Service Closed - Our online chat service is currently closed"). 
 
-[](https://web.archive.org/web/20070624031901id_/http%3A//www.dabs.com/ContentMain.aspx?ContentType=Help "Back to the help main menu")
+[](https://web.archive.org/web/20071213233410id_/http%3A//www.dabs.com/ContentMain.aspx?ContentType=Help "Back to the help main menu")
