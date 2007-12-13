@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypyramidtracker.gov privacy policy that was archived on 2007-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070206095603id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypyramidtracker.gov privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033309id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy
 
