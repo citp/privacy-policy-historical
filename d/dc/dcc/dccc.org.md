@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2007-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070312014903id_/http%3A//www.dccc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224036id_/http%3A//www.dccc.org/privacy) for the most accurate reproduction.*
 
 # DCCC.org: Privacy Policy
 
