@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506113948id_/http%3A//salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213230805id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
-  | 
-
-  
 **The SalesVantage.com Privacy Policy**  
 SalesVantage.com privacy policy represents our commitment to your privacy. This policy discloses what information we gather and how we use it. SalesVantage.com will never sell or rent any personally-identifiable information obtained from a user to a third party. The URL covered under this privacy policy is [www.salesvantage.com](http://www.salesvantage.com/)
 
 Information Gathered
 
-SalesVantage.com gathers information from its advertisers and users in order to offer useful and easily accessible online content and services while providing privacy protection. 
+SalesVantage.com gathers information from its advertisers and users in order to offer useful and easily accessible online content and services while providing privacy protection.
 
 **Buyers of SalesVantage.com Advertising:** SalesVantage.com sells online advertising and provides online business content. At the time of ordering advertising, we require personal, business and financial information, such as name, e-mail address, billing address, telephone number and credit card number. This information is necessary to process the order, upload Web links and Ad copy. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. Only our order processing and customer service staff has access to your information. We do NOT store or access credit card information from our Web server after your order is processed.
 
@@ -35,13 +32,11 @@ If you would like to update or delete any of your contact information, please se
 SalesVantage.com Inc.  
 982 Main Street, #215  
 Fishkill, New York 12524   
-Tel: 845.831.4518   
+Tel: 201.935.3641   
 Fax: 315.410.5405 
 
 Policy effective date: July 15, 2003; updated September 18, 2006
 
 * * *
 
-Copyright © 2000 - 2006 SALESVANTAGE.com, Inc. All rights reserved. 
-
-|  
+Copyright © 2000 - 2007 SALESVANTAGE.com, Inc. All rights reserved. 
