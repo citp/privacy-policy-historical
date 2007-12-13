@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2007-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070504080734id_/http%3A//www.timesleader.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213051025id_/http%3A//www.timesleader.com/privacypolicy/6289982.html) for the most accurate reproduction.*
 
-# Times Leader | Times Leader | Privacy Policy
+# Privacy Policy | Privacy Policy| timesleader.com - The Times Leader
 
 Monday, February 24, 2020  8:49 A.M. 
 
