@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2007-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070531202900id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213192921id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
-# Vacation Rentals, Bed and Breakfasts, Hotels, and More - Rentalo.com
+# Vacation Rentals, Bed and Breakfasts, Hotels, and More Lodging Rentals - Vacation Rentals at Rentalo.com
 
 Rentalo takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
