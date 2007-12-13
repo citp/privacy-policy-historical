@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpbrains.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626073726id_/http%3A//www.sharpbrains.com/z/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpbrains.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213064721id_/http%3A//sharpbrains.com/z/your-privacy) for the most accurate reproduction.*
 
 # How To Improve Your Memory & Remember Names, Mental Fitness, Mind Fitness Assessment
 
