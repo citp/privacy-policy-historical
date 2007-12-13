@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625042702id_/http%3A//www.sealedair.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224731id_/http%3A//www.sealedair.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sealed Air's Privacy Policy
 
