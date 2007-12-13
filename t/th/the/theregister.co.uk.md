@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516054310id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213152345id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
