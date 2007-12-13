@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627003746id_/http%3A//www.marks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022636id_/http%3A//www.marks.com/privacy.asp) for the most accurate reproduction.*
 
 # Mark's Work Wearhouse
 
 E-CAST OFFERS  
 Sign up now >
 
-[](https://web.archive.org/web/20070627003746id_/http%3A//www.marks.com/ourguarantee.asp)
+[](https://web.archive.org/web/20071213022636id_/http%3A//www.marks.com/ourguarantee.asp)
 
 [](http://www2.marks.com/category.asp?categoryID=231)  
 Clothes that make a difference  
@@ -146,7 +146,7 @@ In order to ensure compliance, Mark's has appointed a Privacy Advisor to oversee
 Calgary, AB T2H 2J7  
 **
 
-[Privacy.feedback@marks.com](mailto:privacy.feedback@marsk.com)  
+[Privacy.feedback@marks.com](mailto:privacy.feedback@marks.com)  
 **1-800-663-6275**
 
 If your questions, concerns or complaints have not been resolved to your satisfaction or, if you have further questions, you can contact Canadian Tire's Chief Privacy Officer by mail at Chief Privacy Officer c/o Canadian Tire Corporation, Limited, 2180 Yonge Street, P.O. Box 770, Station K, Toronto, ON M4P 2V8.
@@ -169,7 +169,7 @@ The most comfortable sweats
 [you'll ever own >](http://www2.marks.com/products.asp?categoryID=358)
 
 [](http://www2.marks.com/products.asp?categoryID=177)  
-Waterproof/Breathable Jackets  
+Waterproof/ Breathable Jackets  
 [Stylish and Functional >](http://www2.marks.com/products.asp?categoryID=177)  
   
 ---|---|---|---|---
