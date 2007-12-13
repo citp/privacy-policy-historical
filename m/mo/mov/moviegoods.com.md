@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2007-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070421215122id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213150518id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
 
 # MovieGoods - Privacy / Security
 
@@ -16,7 +16,7 @@ Because this web site wants to demonstrate its commitment to your privacy, it ha
 
 
 
-If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by [email](mailto:privacy@moviegoods.com), or telephone at (702) 382-7414, or fax at (702) 388-7414, or by mail at 6000 S. Eastern Avenue, Suite 1B, Las Vegas, Nevada 89104.
+If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by [email](mailto:privacy@moviegoods.com), or telephone at (702) 382-7414, or fax at (702) 388-7414, or by mail at 6850 Paradise Road, Las Vegas, Nevada 89104.
 
 **
 
