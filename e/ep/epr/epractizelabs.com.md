@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607191814id_/http%3A//www.epractizelabs.com/epractizelabs-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213044735id_/http%3A//www.epractizelabs.com/epractizelabs-privacy-policy.html) for the most accurate reproduction.*
 
 # EPractize Labs Software - License Agreement, Privacy Policy, Trade Marks
 
@@ -8,7 +8,7 @@ EPractize Labs respects the privacy of the users.
 
 Registration is not required for visitors to the site who do not require any specific services. 
 
-There are some activities like license request and [customer support,](https://web.archive.org/web/20070607191814id_/http%3A//www.epractizelabs.com/support.html) where providing your Personal Information is required. EPractize Labs ensures that personally identifiable information of individual users will not be sold or otherwise transferred to unaffiliated third parties. 
+There are some activities like license request and [customer support,](https://web.archive.org/web/20071213044735id_/http%3A//www.epractizelabs.com/support.html) where providing your Personal Information is required. EPractize Labs ensures that personally identifiable information of individual users will not be sold or otherwise transferred to unaffiliated third parties. 
 
 However, EPractize Labs may use the registration and other information voluntarily submitted in the following ways: 
 
