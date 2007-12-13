@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428170039id_/http%3A//www.panthers.com/Help/Default.aspx%3Fid%3D4762) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213192356id_/http%3A//www.panthers.com/Help/Default.aspx%3Fid%3D4762) for the most accurate reproduction.*
 
 # Panthers.com
 
 ## Carolina Panthers Website Privacy Policy
 
-_Revised September 1, 2005_
+_Revised August 17, 2007_
 
-[ ](http://www.truste.org/ivalidate.php?url=www.panthers.com&sealid=102)This privacy policy applies to the Carolina Panthers website located at www.panthers.com, www. carolinapanthers.com, and www.cpanthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+[ ](http://www.truste.org/ivalidate.php?url=www.panthers.com&sealid=102)This privacy policy applies to the Carolina Panthers website located at www.panthers.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by Panthers Football LLC.
 
-Panthers Football LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.panthers.com, www. carolinapanthers.com, and www.cpanthers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Panthers Football LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.panthers.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should send an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com)or write to us at Carolina Panthers, Attn: Website Privacy Policy, 800 South Mint Street, Charlotte, NC 28202. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -37,25 +37,24 @@ Please read the information below to learn more about our data collection polici
 
 ##  Types Of Information That May Be Collected
 
-The following are types of information we may collect. 
+The following are types of information we may collect.
 
 Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, or phone number, unique identifiers, such as your user ID or user password, demographic information, such as your date of birth, age, gender, education, household income, occupation, ticket holder status, marital status, or number of children, financial information, such as your credit card number, or similar information.
 
-Site Usage Information:
+Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and IP address. See "IP Addresses and Click-Stream Data" section below.
 
-We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and IP address. See "IP Addresses and Click-Stream Data" section below.
-
-Email Communications:
-
-When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive.
+Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
 ##  How Information May Be Collected
 
-We may collect information from you in several different areas on the Website, including but not limited to those described below: 
+We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
 Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website, in the newsletter or email or by sending an email to [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com).
+
+Forward to a Friend: If you choose to use our email feature to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Carolina Panthers do not store this information, and it is used for the sole purpose of sending this one-time email.  
+
 
 Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner's page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
 
@@ -73,7 +72,7 @@ As applicable, the information you provide to us may be used to contact you abou
 
 ##  With Whom The Information May Be Shared
 
-At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared: 
+At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
 Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
@@ -101,7 +100,7 @@ This Website incorporates reasonable safeguards to protect the security, integri
 
 ##  A Special Note For Parents Concerning Privacy
 
-The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. 
+The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.
 
 The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web Website](http://www.the-dma.org/)and explore the Get CyberSavvy! Program as well as the [GetNetWise Website](http://www.getnetwise.org/)to learn more about parental control tools.
 
