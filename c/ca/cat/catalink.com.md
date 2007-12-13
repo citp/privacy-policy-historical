@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629015030id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213232856id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy from Catalink - Catalogues, Mail Order Catalogues and Holiday Brochures, Travel Brochures Free from Catalink
+# Catalink Privacy Policy
 
 We have enhanced our unsubscription system to give our members simpler control over the subscription settings. Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive our monthly newsletter, please visit your **My Details** page if you wish to change this. When you request a catalogue from one of our merchants you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page. 
 
-Catalink is part of The Catalink Network, which is registered under the Data Protection Act and as such we are committed to respecting your privacy. By joining Catalink your login and password will work on all sites within The Catalink Network: [catalink.com](http://www.catalink.com/), [travelbrochures.co.uk](http://www.travelbrochures.co.uk/), [cataloguesearch.co.uk](http://www.cataloguesearch.co.uk/), [travelogues.co.uk](http://www.travelogues.co.uk/), [cart.co.uk](http://www.cart.co.uk/), [cashmachine.co.uk](http://www.cashmachine.co.uk/), [catalogica.com](http://www.catalogica.com/) and [catalogues.org.uk](http://www.catalogues.org.uk/). Please read the following information which outlines our privacy policy. 
+Catalink is part of The Catalink Network, which is registered under the Data Protection Act and as such we are committed to respecting your privacy. By joining Catalink your login and password will work on all sites within The Catalink Network: [catalink.com](http://www.catalink.com/), [travelbrochures.co.uk](http://www.travelbrochures.co.uk/), [cataloguesearch.co.uk](http://www.cataloguesearch.co.uk/), [travelogues.co.uk](http://www.travelogues.co.uk/), [cashmachine.co.uk](http://www.cashmachine.co.uk/), [catalogica.com](http://www.catalogica.com/) and [catalogues.org.uk](http://www.catalogues.org.uk/). Please read the following information which outlines our privacy policy. 
 
 **OUR POLICY ON PERSONAL DATA**
 
@@ -30,8 +30,6 @@ Log files do not contain any personal information and they are not used to ident
 
 Personal data – ie data from which you can be personally identified (even without using Our Website) such as full name postal address financial information or phone number.
 
-(in this personal data section don't we want to make it clear it is only data which you have provided?)
-
 **Uses and disclosures  
 **   
 (Unless you are under 18) We may use and share your personal data:
@@ -40,13 +38,13 @@ Personal data – ie data from which you can be personally identified (even with
 > 
 > To carry out market research and tailor our offer to you and inform you of trends we think may be of interest to you.
 > 
-> To send you promotional fulfilment and marketing material and otherwise contact you (including by SMS phone or email) to promote our business.
+> To send you promotional fulfilment and marketing material and otherwise contact you (including by SMS, phone or email) to promote our business.
 > 
-> With selected third parties for marketing purposes including sending you brochures catalogues promotional fulfilment and other marketing material (and otherwise contacting you including by SMS phone or email).
+> With selected third parties for marketing purposes including sending you brochures catalogues promotional fulfilment and other marketing material (and otherwise contacting you including by SMS, phone or email).
 > 
 > With suppliers to operate Our Website, and contact you in relation to Services you request, and with other users to forward messages from other users of Our Website.
 > 
-> If you would not like to receive marketing information about us or third parties click here .
+> If you would not like to receive marketing information about us or third parties please visit your **My Details** page.
 > 
 > With third parties in the event of the sale or a transfer of ownership of our business or a substantial transfer of our assets, or our insolvency, or to comply or cooperate (in our opinion) with the law or ensure the safety of users of Our Website (and which in this event may include your aggregated data as well as personal data).
 > 
