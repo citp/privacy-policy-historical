@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626223607id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213213606id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
 
 # PixelMill: Privacy Policy
 
@@ -12,11 +12,11 @@ Our site uses an order form for customers to request information, products, and 
 
 We do not and will not sell or give our client list to any other party. All client information stored by PixelMill is kept in a secure database that only PixelMill staff has access to.
 
-**Security**
+## Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use a secure server when requesting credit card information. 
 
-**Choice/Opt-Out**
+Choice/Opt-Out 
 
 Our site provides users the opportunity to OPT-IN to receive future communications from us and our partners at the point where we request information about the visitor.
 
@@ -29,7 +29,7 @@ This site gives users the following options for removing their information from 
 
 
 
-**Correct/Update**
+##  Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided.
 
@@ -39,7 +39,7 @@ This site gives users the following options for changing and modifying informati
 
 
 
-**Contacting the Web Site**
+##  Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
