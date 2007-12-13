@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parkcameras.com privacy policy that was archived on 2007-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070513184416id_/http%3A//www.parkcameras.com/editorial/mcs/ed/3/v) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkcameras.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213152918id_/http%3A//www.parkcameras.com/editorial/mcs/ed/3/v) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB"><head>
 	<title>Privacy Policy - Park Cameras Online</title>
@@ -83,15 +83,14 @@ function KeyCheck(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownListID)
 {
 	var search=document.getElementById(SearchTextBoxID).value;
-	var manufa=document.getElementById(ManufacturerDropDownListID).value;
+	var manufa=document.getElementById(ManufacturerDropDownListID);
 	var categories = document.getElementById(CategoryDropDownListID);
 	var catego= categories.value;
 	
 	if ((search=="") && (manufa==0) && (catego==0)) return false;
-
 	var catname= escape(categories.options[categories.selectedIndex].text);
-		
-	var newlocation="/SearchResults/mcs/txtSearch/"+search+"/brand/"+manufa+"/category/"+catego+"/catname/"+catname+"/"
+	var manfname=escape(manufa.options[manufa.selectedIndex].text).replace("+", "%2B").replace("-","%2D");
+	var newlocation="/SearchResults/mcs/txtSearch/"+search+"/brand/"+manfname+"/category/"+catego+"/catname/"+catname+"/"
 	window.location=newlocation;
 	
 	return false;
@@ -107,58 +106,83 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="0">-- Manufacturer --</option>
 	<option value="Adobe">Adobe</option>
 	<option value="Apacer">Apacer</option>
-	<option value="B+W">B+W</option>
+	<option value="Apple">Apple</option>
+	<option value="B&amp;W">B&amp;W</option>
+	<option value="Bowens">Bowens</option>
 	<option value="Braun">Braun</option>
+	<option value="Camera Armor">Camera Armor</option>
 	<option value="Canon">Canon</option>
 	<option value="Casio">Casio</option>
+	<option value="CBL">CBL</option>
 	<option value="Cokin">Cokin</option>
+	<option value="Colour Confidence">Colour Confidence</option>
+	<option value="Corel">Corel</option>
 	<option value="Crumpler">Crumpler</option>
 	<option value="Delkin">Delkin</option>
 	<option value="Digital Concepts">Digital Concepts</option>
+	<option value="Domke">Domke</option>
+	<option value="DxO Optics">DxO Optics</option>
 	<option value="Epson">Epson</option>
 	<option value="Fujifilm">Fujifilm</option>
-	<option value="Generic">Generic</option>
+	<option value="Gitzo">Gitzo</option>
 	<option value="Gossen">Gossen</option>
+	<option value="hahnel">hahnel</option>
 	<option value="Hama">Hama</option>
 	<option value="Hi Touch">Hi Touch</option>
 	<option value="Hoya">Hoya</option>
 	<option value="HP">HP</option>
+	<option value="Huey">Huey</option>
 	<option value="Image Recall">Image Recall</option>
 	<option value="Innoplus">Innoplus</option>
 	<option value="Innova">Innova</option>
 	<option value="Jobo">Jobo</option>
 	<option value="Joby">Joby</option>
+	<option value="Kata">Kata</option>
 	<option value="Kenko">Kenko</option>
+	<option value="Kenro">Kenro</option>
 	<option value="Kodak">Kodak</option>
 	<option value="Konus">Konus</option>
 	<option value="Lensbabies">Lensbabies</option>
-	<option value="Linx">Linx</option>
 	<option value="Lowepro">Lowepro</option>
 	<option value="Manfrotto">Manfrotto</option>
-	<option value="Memorie">Memorie</option>
+	<option value="Marumi">Marumi</option>
 	<option value="Metz">Metz</option>
+	<option value="Microsoft">Microsoft</option>
+	<option value="Microsync">Microsync</option>
 	<option value="Nikon">Nikon</option>
+	<option value="Nissin">Nissin</option>
 	<option value="Nixvue">Nixvue</option>
 	<option value="Olympus">Olympus</option>
+	<option value="OnOne">OnOne</option>
 	<option value="Oyster">Oyster</option>
+	<option value="Panasonic">Panasonic</option>
+	<option value="Park Cameras">Park Cameras</option>
 	<option value="Pentax">Pentax</option>
 	<option value="Philips">Philips</option>
 	<option value="Plustek">Plustek</option>
+	<option value="Polaris">Polaris</option>
 	<option value="Ricoh">Ricoh</option>
+	<option value="Roxio">Roxio</option>
 	<option value="Samsonite">Samsonite</option>
+	<option value="Samsung">Samsung</option>
 	<option value="SanDisk">SanDisk</option>
 	<option value="Seculine">Seculine</option>
 	<option value="Sigma">Sigma</option>
 	<option value="Slik">Slik</option>
 	<option value="Sony">Sony</option>
+	<option value="Spyder">Spyder</option>
 	<option value="Steiner">Steiner</option>
 	<option value="Summit">Summit</option>
 	<option value="Sunpak">Sunpak</option>
 	<option value="Tamrac">Tamrac</option>
 	<option value="Tamron">Tamron</option>
 	<option value="Telstar">Telstar</option>
+	<option value="Tiffen">Tiffen</option>
 	<option value="Tokina">Tokina</option>
 	<option value="Velbon">Velbon</option>
+	<option value="Visible Dust">Visible Dust</option>
+	<option value="Vosonic">Vosonic</option>
+	<option value="Wacom">Wacom</option>
 	<option value="ZigView">ZigView</option>
 
 </select></span>
@@ -172,6 +196,7 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="37">£300 +  Digital Cameras</option>
 	<option value="59">A3/ A3+ Printers</option>
 	<option value="58">A4 Printers</option>
+	<option value="106">Apple Mac Computers</option>
 	<option value="79">Astronomical Telescopes</option>
 	<option value="22">Backpacks</option>
 	<option value="25">Bag Accessories</option>
@@ -181,16 +206,18 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="11">Blank Mini DV Tapes</option>
 	<option value="9">Camcorder Accessory Kits</option>
 	<option value="6">Camcorder Batteries</option>
+	<option value="113">Camera Cleaning Accessories</option>
 	<option value="40">Canon Compatible Flashguns</option>
 	<option value="38">Canon Digital SLRs</option>
 	<option value="68">Canon Fit SLR Lenses</option>
 	<option value="81">Carbon Fibre Tripods</option>
 	<option value="85">Cases</option>
+	<option value="108">Colour Calibration</option>
 	<option value="47">Compact Flash</option>
 	<option value="20">Compact Photo Cases</option>
 	<option value="57">Compact Photo Printers</option>
-	<option value="27">Conversion Lenses &amp; Adaptors</option>
 	<option value="8">Conversion Lenses &amp; Adaptors</option>
+	<option value="27">Conversion Lenses &amp; Adaptors</option>
 	<option value="97">Digital Picture Frames</option>
 	<option value="14">DVD Camcorders</option>
 	<option value="4">Enthusiast Binoculars</option>
@@ -200,12 +227,16 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="46">Flashgun Accessories</option>
 	<option value="65">Flatbed Scanners</option>
 	<option value="92">Fujifilm Digital SLRs</option>
+	<option value="107">Graphic Tablets</option>
 	<option value="24">Hard Cases</option>
 	<option value="15">Hard Drive Camcorders</option>
 	<option value="18">High Definition DVD Camcorders</option>
+	<option value="17">High Definition Hard Drive Camcorders</option>
 	<option value="16">High Definition Mini DV Camcorders</option>
+	<option value="112">High Definition SD/ SDHC Camcorders</option>
 	<option value="62">Ink Cartridges</option>
 	<option value="61">Large Format Printers</option>
+	<option value="109">Laser Fax</option>
 	<option value="31">LCD Accessories</option>
 	<option value="7">Mains Adaptors/ Chargers</option>
 	<option value="28">Mains Adaptors/ Chargers</option>
@@ -217,6 +248,7 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="82">Monopods</option>
 	<option value="1">MP3 Players</option>
 	<option value="60">Multifunctionals (Printer/ Scanner/ Copier)</option>
+	<option value="78">Nature Watching/ Spotting</option>
 	<option value="41">Nikon Compatible Flashguns</option>
 	<option value="39">Nikon Digital SLRs</option>
 	<option value="69">Nikon Fit SLR Lenses</option>
@@ -227,9 +259,11 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="12">Other Camcorder Accessories</option>
 	<option value="33">Other DSC Accessories</option>
 	<option value="64">Other Printer Accessories</option>
+	<option value="111">Panasonic Compatible Flashguns</option>
+	<option value="110">Panasonic Digital SLRs</option>
 	<option value="43">Pentax Compatible Flashguns</option>
 	<option value="94">Pentax Digital SLRs</option>
-	<option value="71">Pentax Fit SLR Lenses</option>
+	<option value="71">Pentax/ Samsung Fit SLR Lenses</option>
 	<option value="54">Portable Hard Drives</option>
 	<option value="63">Printer Paper</option>
 	<option value="19">Professional Camcorders</option>
@@ -237,6 +271,8 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="3">Recreational Binoculars</option>
 	<option value="88">Remotes</option>
 	<option value="23">Rolling Bags</option>
+	<option value="101">Samsung Compatible Flashguns</option>
+	<option value="100">Samsung Digital SLRs</option>
 	<option value="48">Secure Digital</option>
 	<option value="21">Shoulder Bags/ Gadget Bags/ Toploaders</option>
 	<option value="44">Sigma Compatible Flashguns</option>
@@ -245,10 +281,13 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 	<option value="77">SLR Lens Accessories</option>
 	<option value="76">SLR lens cases</option>
 	<option value="74">SLR lens hoods/ lens caps</option>
+	<option value="102">Software</option>
 	<option value="32">Software</option>
 	<option value="45">Sony Compatible Flashguns</option>
 	<option value="96">Sony Digital SLRs</option>
 	<option value="72">Sony/ Minolta Fit SLR Lenses</option>
+	<option value="105">Studio Accessories</option>
+	<option value="104">Studio Lighting</option>
 	<option value="83">Table Top Tripods</option>
 	<option value="86">Tripod Accessories</option>
 	<option value="84">Tripod Heads</option>
@@ -264,7 +303,7 @@ function DoSearch(e,SearchTextBoxID,ManufacturerDropDownListID,CategoryDropDownL
 		<span id="SearchSubmit"><input type="submit" name="_ctl2:SubmitButton" value="Search" id="_ctl2_SubmitButton" tabindex="999" class="searchbutton" onclick="return DoSearch(event,'_ctl2_SearchTextBox','_ctl2_ManufacturerDropDownList','_ctl2_CategoryDropDownList');"></span>
 	</div>
 </div>
-<div id="navigation"><div class="inner"><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/7/GroupName/Digital Cameras/v/">Digital Cameras</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/8/GroupName/Digital SLRs/v/">Digital SLRs</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/6/GroupName/Digital Camera/ SLR Accessories/v/">Digital Camera/ SLR Accessories</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/10/GroupName/Memory Cards/v/">Memory Cards</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/4/GroupName/Digital Camcorders/v/">Digital Camcorders</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/3/GroupName/Camcorder Accessories/v/">Camcorder Accessories</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/14/GroupName/SLR Lenses/v/">SLR Lenses</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/9/GroupName/Flashguns/v/">Flashguns</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/2/GroupName/Binoculars/v/">Binoculars</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/5/GroupName/Camera Bags/v/">Camera Bags</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/12/GroupName/Printers/v/">Printers</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/11/GroupName/Portable Storage/v/">Portable Storage</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/13/GroupName/Scanners/v/">Scanners</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/16/GroupName/Tripods/v/">Tripods</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/1/GroupName/Audio Visual/v/">Audio Visual</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/15/GroupName/Telescopes/ Fieldscopes/v/">Telescopes/ Fieldscopes</a></h2><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/24">Processing</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/30">Clearance Items</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/88">Used Equipment</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/32">Events</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/13">External Links</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/18">Testimonials</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/85">Passport Photos</a></h2></div><div class="menusubitem"><a href="http://www.thinkcamera.com" target="_blank"><img src="/images/TClogo.gif" border="0" vspace="12" style="padding-left:5px;"></a></div><div class="menusubitem"><a href="javascript:OpenCertDetails()"><img src="/images/thawte.gif" border="0" vspace="12" style="padding-left:30px;"></a></div></div></div>
+<div id="navigation"><div class="inner"><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/7/GroupName/Digital Cameras/v/">Digital Cameras</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/8/GroupName/Digital SLRs/v/">Digital SLRs</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/6/GroupName/Digital Camera/ SLR Accessories/v/">Digital Camera/ SLR Accessories</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/10/GroupName/Memory Cards/v/">Memory Cards</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/19/GroupName/Computer Software/ Hardware/v/">Computer Software/ Hardware</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/4/GroupName/Digital Camcorders/v/">Digital Camcorders</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/3/GroupName/Camcorder Accessories/v/">Camcorder Accessories</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/14/GroupName/SLR Lenses/v/">SLR Lenses</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/9/GroupName/Flashguns/v/">Flashguns</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/2/GroupName/Binoculars/v/">Binoculars</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/5/GroupName/Camera Bags/v/">Camera Bags</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/12/GroupName/Printers/ Copiers/ Fax/v/">Printers/ Copiers/ Fax</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/11/GroupName/Portable Storage/v/">Portable Storage</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/13/GroupName/Scanners/v/">Scanners</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/16/GroupName/Tripods/v/">Tripods</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/1/GroupName/Audio Visual/v/">Audio Visual</a></h2><h2><img src="/custom/images/arrow.gif"><a href="http://www.parkcameras.com/GroupList/mcs/GroupID/15/GroupName/Telescopes/ Fieldscopes/v/">Telescopes/ Fieldscopes</a></h2><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/110">Gift Vouchers</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/24">Processing</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/30">Clearance Items</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/88">Used Equipment</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/32">Events</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/13">External Links</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/18">Testimonials</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/85">Passport Photos</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/94">FAQs</a></h2></div><div><h2><img src="/custom/images/square.gif"><a href="http://www.parkcameras.com/article/mcs/art/60">Christmas Opening Times</a></h2></div><div class="menusubitem"><a href="http://www.thinkcamera.com?source=pcbanner" target="_blank"><img src="/images/TClogo.gif" border="0" vspace="12" style="padding-left:5px;"></a></div><div class="menusubitem"><a href="javascript:OpenCertDetails()"><img src="/images/thawte.gif" border="0" vspace="12" style="padding-left:30px;"></a></div></div></div>
 
 <div id="content">
 <span id="_ctl5_EditLink"></span>
