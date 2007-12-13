@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530015924id_/http%3A//www.choice.com.au/goArticle.aspx%3FID%3D101258%26p%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213052848id_/http%3A//www.choice.com.au/goArticle.aspx%3FID%3D101258%26p%3D1) for the most accurate reproduction.*
 
 # CHOICE - Your Privacy
 
@@ -66,6 +66,11 @@ When we collect information for research topics such as people’s healthcare ex
 
 ****  
 Wherever it is lawful and practicable we will give you the option of not identifying yourself when contacting or dealing with CHOICE. So, for example, you can visit the free parts of our websites, respond to surveys, or ask us questions about consumer rights without identifying yourself. However, if you want to receive one of CHOICE’s subscription products or services, ask a question about the personal information we hold about you, buy a book directly from us, or participate in one of our prize draws you will need to give us certain personal information.
+
+##### Intrusion detection
+
+****  
+For site security purposes and to ensure that this service remains available to all users, we employ systems to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of a police investigation, and pursuant to any required legal process, information from these systems may be used to help identify an individual.
 
 ##### Information you may choose to provide
 
@@ -214,6 +219,6 @@ The Internet Industry Association website:
 
 **[Search](http://www.choice.com.au/shop/search.asp)** our site for articles, campaigns and news about privacy. 
 
-**This article last reviewed May 2007**
+**This article last reviewed June 2007**
 
 ****
