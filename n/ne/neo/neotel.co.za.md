@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630221948id_/http%3A//www.neotel.co.za/neotel/view/neotel/en/page153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032512id_/http%3A//www.neotel.co.za/neotel/view/neotel/en/page153) for the most accurate reproduction.*
 
 # Neotel - SITE INFO > PRIVACY POLICY
 
