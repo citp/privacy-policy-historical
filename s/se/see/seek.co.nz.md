@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630072235id_/http%3A//seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030648id_/http%3A//www.seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
