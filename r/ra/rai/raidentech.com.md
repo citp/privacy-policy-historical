@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506151720id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213225130id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Raiden Technology - Computer software and hardware wholesales, Video games accessories and toys distributor. Mini Remote Bike Car Boat Ship Panther for cheap. Special Remote Airplane and Helicopter. Nitro gas cars. Privacy Policy
+# Raidentech.com - Online Shopping for Radio Controlled RC Toys & Hobbies, Electronics, Wireless Cameras, Airsoft, Nitro Cars, RC Trucks, RC Helicopters, RC Airplanes Privacy Policy
 
-| | [](https://web.archive.org/web/20070506151720id_/http://www.raidentech.com/index.html)
+_**Shop with Confidence!**  
+_  
+**100% Guaranteed  
+Lowest Price!**
+
+You get the lowest price on every item we offer at RaidenTech.com! Should anybody be lower, we will match their advertised price! Guaranteed!
+
+[ Subscribe to our Mailing-List for FUTURE SAVING!](http://postsnet.com/app/campaigner/services/optinlist/processoptinrequest.jsp?oilb=86118700) **100% Satisfaction  
+Guaranteed!**
+
+When you purchase anything from RaidenTech.com, we guarantee you quality merchandise that you will be satisfied in owning, or you may return it (unused in original packaging) for a prompt, courteous refund or exchange!
+
+| | [](https://web.archive.org/web/20071213225130id_/http://www.raidentech.com/index.html)
 
 | **Privacy Issues** |    
 ---|---  
