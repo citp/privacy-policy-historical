@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614193812id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213194753id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
 
 # A Weight Watchers support network
 
