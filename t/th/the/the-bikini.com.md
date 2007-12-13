@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513160539id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213150636id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# the- bikini .com: extreme bikinis for sexy women. Thongs, mini, brazilian, sheer, tiny bikini
+# Extreme bikinis for sexy women. The- bikini .com Micro bikinis
 
   
   
@@ -105,4 +105,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20070513160539id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20071213150636id_/http%3A//www.the-bikini.com/contact/). 
