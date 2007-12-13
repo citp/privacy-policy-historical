@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624084459id_/http%3A//www.crikey.com.au/About/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213220459id_/http%3A//www.crikey.com.au/About/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-Crikey’s daily email and the website, www.crikey.com.au are published by Private Media Partners (ABN 36 268 936 932), which employs staff and manages subscriber databases and accounting services for Blimey Holdings Pty Ltd, its vehicle for ownership of the Crikey business. In this privacy policy Private Media Partners is referred to as “Crikey”.
+Crikey’s daily email and the website, www.crikey.com.au are published by Private Media Pty Ltd (ABN 11 102 933 362), which employs staff and manages subscriber databases and accounting services for Blimey Holdings Pty Ltd, its vehicle for ownership of the Crikey business. In this privacy policy Private Media Partners is referred to as “Crikey”.
 
  **Privacy Policy Purpose**
 
