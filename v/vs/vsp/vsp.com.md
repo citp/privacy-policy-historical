@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2007-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070426151925id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213030644id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-| 
-
-**Privacy Policy**
-
-|  **Notice of Privacy Practices**  
+**Notice of Privacy Practices**  
 **_Effective April 14, 2003_**
 
 * * *  
   
----  
 **Overview** | **THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**  
 **Purpose** | The purpose of this notice is to: 
 
@@ -62,7 +57,6 @@ Information ** | Information relating to a VSP patient’s past, present or futu
 
   
 **Treatment** | The provision, coordination or management of vision care and related services by one or more vision care providers.  
-  
 **PRIVACY PRACTICES
 
 * * *
@@ -168,6 +162,4 @@ File complaints with the U.S. Secretary of Health and Human Services using the [
   * accounting of the use or disclosure of your Protected Health Information, or 
   * a copy of your Protected Health Information.
 
-  
-  
-| 
+
