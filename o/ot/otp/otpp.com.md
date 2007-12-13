@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2007-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070416042330id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213162501id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
 
 # OTPP - Privacy Code
 
@@ -10,7 +10,7 @@
 
 | 
 
-[](https://web.archive.org/web/20070416042330id_/http%3A//www.otpp.com/web/website.nsf/printview/privacycode)  
+[](https://web.archive.org/web/20071213162501id_/http%3A//www.otpp.com/web/website.nsf/printview/privacycode)  
   
 ---|---|---|---  
 | At the Ontario Teachers’ Pension Plan, we are dedicated to protecting your privacy and safeguarding your personal information. As part of our commitment, we have established this Privacy Code to govern our actions as they relate to the collection, use and disclosure of your information.
@@ -28,7 +28,7 @@ Principle 2 - Identifying Purposes
 Principle 3 - Consent  
 Principle 4 - Limiting Collection  
 Principle 5 - Limiting Use, Disclosure and Retention  
-[Principle 6 - Accuracy](https://web.archive.org/web/20070416042330id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode#6)  
+[Principle 6 - Accuracy](https://web.archive.org/web/20071213162501id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode#6)  
 Principle 7 - Safeguarding Your Information  
 Principle 8 - Openness  
 Principle 9 - Individual Access to Information  
