@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629224648id_/http%3A//my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213013218id_/http%3A//www.my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
 
 # my-calorie-counter Privacy Policy
 
