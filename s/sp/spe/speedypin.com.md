@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520023120id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213221118id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
 
-# SpeedyPin FAQs: Privacy > General
+# SpeedyPin.com FAQs » Privacy » General
 
 **_What is your privacy policy?_** (5371d)
 
