@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2007-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070221203720id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213131803id_/http%3A//www.ampedasia.com/articles/15/index.html) for the most accurate reproduction.*
 
 # Asian Entertainment | Asian Celebrities | Asian Girls | Asian Music Videos | Asian Videos | Drama Series |
 
