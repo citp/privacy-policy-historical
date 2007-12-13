@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tccandler.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607031003id_/http%3A//www.independentcritics.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tccandler.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025220id_/http%3A//www.independentcritics.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # INDEPENDENT CRITICS - FAQ Page
 
