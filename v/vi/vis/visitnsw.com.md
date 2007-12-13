@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520201308id_/http%3A//visitnsw.com/default.aspx%3FPageID%3D863) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213050216id_/http%3A//visitnsw.com/default.aspx%3FPageID%3D863) for the most accurate reproduction.*
 
-# Privacy
+# Privacy, Visit NSW
 
 Tourism New South Wales is committed to maintaining your privacy. 
 
@@ -38,12 +38,12 @@ Tourism New South Wales conducts a large part of its operations over the interne
 
 In order to provide as much information as possible, our website is quite large. For this reason, we have designed this section in a manner that provides you with a quick and easy pathway to understanding our practices and procedures at each web page. Simply click on the page headings below to view the personal information collection policy for your area of interest: 
 
-[Maps](https://web.archive.org/default.aspx?PageID=863#maps)   
-[Accommodation, Activities & Attractions](https://web.archive.org/default.aspx?PageID=863#accom)   
-[Escapes Newsletter](https://web.archive.org/default.aspx?PageID=863#escapes)   
-[Competitions](https://web.archive.org/default.aspx?PageID=863#comp)   
-[Tourism Operators](https://web.archive.org/default.aspx?PageID=863#operators)   
-[Webmaster Feedback](https://web.archive.org/default.aspx?PageID=863#feedback)
+[Maps](https://web.archive.org/Privacy_p863.aspx#maps)   
+[Accommodation, Activities & Attractions](https://web.archive.org/Privacy_p863.aspx#accom)   
+[Escapes Newsletter](https://web.archive.org/Privacy_p863.aspx#escapes)   
+[Competitions](https://web.archive.org/Privacy_p863.aspx#comp)   
+[Tourism Operators](https://web.archive.org/Privacy_p863.aspx#operators)   
+[Webmaster Feedback](https://web.archive.org/Privacy_p863.aspx#feedback)
 
 ### Maps
 
