@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024151620id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214005211id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# InterCall Privacy Policy | Conference Call Company
 
-****
-
-InterCall, Inc. ("InterCall") is a leading provider of audio and Web conferencing services. We have developed this Web site (the "InterCall Site") to provide you with access to these services. We understand your need for privacy when using the Web for your communication. This policy discloses InterCall's practices with respect to the collection, use and disclosure of user information collected through the InterCall Site and through your use of InterCall services.
+InterCall is a leading provider of audio and Web conferencing services. We have developed this Web site (the "InterCall Site") to provide you with access to these services. We understand your need for privacy when using the Web for your communication. This policy discloses InterCall's practices with respect to the collection, use and disclosure of user information collected through the InterCall Site and through your use of InterCall services.
 
 **1\. NOTICE.** In connection with the operation of the InterCall site we will ask you to provide us with information that personally identifies you or allows us to contact you ("Personal Information") when, among other things, you register on the InterCall Site, use one of our services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall Site. We will use the Personal Information that you provide us in these circumstances to operate the InterCall Site, to provide, deliver, bill and collect for services to satisfy InterCall’s legitimate business interests, such as customer analysis and internal marketing study and analysis, and to provide information that you request from the InterCall Site ("Primary Use"). Unless you instruct us not to do so, InterCall may also use the Personal Information that you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall Site ("Third Party Secondary Use").
 
@@ -18,7 +16,7 @@ InterCall may provide Personal Information to vendors that assist InterCall in p
 
 You are responsible for the confidentiality and security of passwords that InterCall issues to you. If you believe that a third party has obtained your password in an unauthorized manner, please notify us promptly.
 
-**5\. COMPLAINTS.** If at any time you believe that we have acted contrary to this Privacy Policy, please notify us by email at [ webmaster@intercall.com](mailto:webmaster@intercall.com) and we will takes steps to investigate and will use reasonable measures to remedy the problem.
+**5\. COMPLAINTS.** If at any time you believe that we have acted contrary to this Privacy Policy, please notify us by email at [website@intercall.com](mailto:website@intercall.com) and we will takes steps to investigate and will use reasonable measures to remedy the problem.
 
 **6\. DISCLOSURE FOR LEGAL PURPOSES.** We may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates, (b) to protect and defend our rights or property or those of our users, (c) to protect the personal safety of our users or the public, or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event that InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets.
 
@@ -28,10 +26,10 @@ You are responsible for the confidentiality and security of passwords that Inter
 
 **9\. VENTURING OFF THE INTERCALL SITE.** The InterCall Site may contain banner advertisements and hyperlinks that can take you to Web sites run by other third parties ("Third-Party Sites"). Any hypertext or other links to third party Web sites from the InterCall Site are provided solely as a convenience to you. If you use these links, you will leave the InterCall site. InterCall has not reviewed all of these third party sites and does not control and is not responsible for any of these sites or their content or practices. Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to the InterCall site, you do this entirely at your own risk.
 
-**Remember, this Privacy Policy only applies to the InterCall Site. When you are no longer on the InterCall Site, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new site.**
+Remember, this Privacy Policy only applies to the InterCall Site. When you are no longer on the InterCall Site, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new site.
 
 **10\. MODIFICATIONS.** InterCall reserved the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you use the InterCall Site or the Services, as your continued use of the InterCall Site and the Services signifies your assent to such modifications.
 
-**11\. CONTACT US.** If at any time you believe that InterCall has not followed the above policy, or if you would like your information deleted from our system, please contact us via email at [ webmaster@intercall.com](mailto:webmaster@intercall.com).
+**11\. CONTACT US.** If at any time you believe that InterCall has not followed the above policy, or if you would like your information deleted from our system, please contact us via email at [website@intercall.com](mailto:website@intercall.com).
 
  
