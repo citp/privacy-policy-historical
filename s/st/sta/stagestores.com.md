@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624123158id_/http%3A//www.stagestores.com/policies/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213163906id_/http%3A//www.stagestores.com/policies/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Stage: Privacy Policy
 
-### Specialty Retailers (TX) LP  
+### Specialty Retailers, Inc.  
 Last Updated 8/1/06
 
 Thank you for visiting our web site. We appreciate your trust in us and we respect your right to privacy. We want you to know what information we collect from visitors to our site and how that information is used, shared and protected.
@@ -33,7 +33,7 @@ The personally identifiable information we collect is used to process requests o
 
 ## How We Share Information We Collect
 
-We do not share your personal information with other businesses or organizations for commercial purposes. We may disclose your information to companies that provide support services to us such as shippers when necessary to fulfill an order you have placed, printers or mailing houses that help us market our products or services, or web hosts or designers who help us create and maintain this Site. We may also disclose your personal information when required by law, when such action is necessary to comply with a court order or legal process served on us. In the event Specialty Retailers (TX) LP enters into a business transaction such as a merger, sale of assets, or acquisition by another company, personal information about visitors to our Site may be transferred as part of our business assets.
+We do not share your personal information with other businesses or organizations for commercial purposes. We may disclose your information to companies that provide support services to us such as shippers when necessary to fulfill an order you have placed, printers or mailing houses that help us market our products or services, or web hosts or designers who help us create and maintain this Site. We may also disclose your personal information when required by law, when such action is necessary to comply with a court order or legal process served on us. In the event Specialty Retailers, Inc. enters into a business transaction such as a merger, sale of assets, or acquisition by another company, personal information about visitors to our Site may be transferred as part of our business assets.
 
 ## Choice/Opt-out
 
@@ -49,11 +49,11 @@ We understand that visitors to our Site are concerned about the security of the 
 
 ## Links to Other Web Sites
 
-This Site contains links to other web sites. Please note that Specialty Retailers (TX) LP is not responsible for the content or the privacy practices of such other web sites. We recommend that our visitors read the privacy policies of every such web site that they visit which collects personally identifiable information. This Privacy Policy applies only to Specialty Retailers (TX) LP and the information collected on this Site.
+This Site contains links to other web sites. Please note that Specialty Retailers, Inc. is not responsible for the content or the privacy practices of such other web sites. We recommend that our visitors read the privacy policies of every such web site that they visit which collects personally identifiable information. This Privacy Policy applies only to Specialty Retailers, Inc. and the information collected on this Site.
 
 ## Privacy Policy Revisions
 
-Specialty Retailers (TX) LP reserves the right, at its discretion, to change or modify portions of this Privacy Policy at any time. When such changes or modifications to the Privacy Policy are made they will be posted at this same location, and the "Last Updated" date above will be changed. By continuing to visit and use this Site following the posting of changes to the Privacy Policy, you are agreeing to those changes.
+Specialty Retailers, Inc. reserves the right, at its discretion, to change or modify portions of this Privacy Policy at any time. When such changes or modifications to the Privacy Policy are made they will be posted at this same location, and the "Last Updated" date above will be changed. By continuing to visit and use this Site following the posting of changes to the Privacy Policy, you are agreeing to those changes.
 
 ## Contact Information
 
@@ -61,4 +61,4 @@ Comments and inquiries regarding this Privacy Policy
 should be sent by email to:  
 [Customercomments@stagestores.com](mailto:Customercomments@stagestores.com)
 
-Copyright © 2006 Specialty Retailers (TX) LP. ALL RIGHTS RESERVED.
+Copyright © 2006 Specialty Retailers, Inc. ALL RIGHTS RESERVED.
