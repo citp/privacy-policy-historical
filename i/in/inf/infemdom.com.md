@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infemdom.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514173532id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infemdom.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213011758id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
 
 # Legal Info RiseCash, BDSM, Bondage, Femdom, Fetish sponsor
 
