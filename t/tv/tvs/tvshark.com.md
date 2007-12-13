@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvshark.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625104327id_/http%3A//www.tvshark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshark.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025536id_/http%3A//www.tvshark.com/privacy.shtml) for the most accurate reproduction.*
 
 # TV Shark.com - Privacy Policy
 
@@ -16,7 +16,10 @@ We do not sell, rent, loan, trade, or lease any personal information collected a
 
 TV Shark analyzes website logs to constantly improve the value of the materials available on website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site.
 
-[](http://ads15.bpath.com/url.cfm/ID=911&Page=47&Ver=32&Pos=)
+Should you need to contact us, please email us at:  
+
+
+[](http://ads15.bpath.com/url.cfm/ID=911&Page=26&Ver=32&Pos=)
 
   
-© [Copyright](https://web.archive.org/copyright.shtml) TV Shark.com. All rights reserved. | [Privacy Policy](https://web.archive.org/privacy.shtml)
+© [Copyright](https://web.archive.org/copyright.shtml) TV Shark.com. All rights reserved. | [Privacy Policy](https://web.archive.org/privacy.shtml) | [Feedback](https://web.archive.org/feedback.shtml)
