@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608011548id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033746id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
 
-# Welcome to CAcert.org
+# 欢迎来到 CAcert.org
 
-### Privacy Policy
+### 隐私保护条例
 
 This policy discloses what information we gather about you when you visit any of our Web site, and when you issue or use our certificates. It describes how we use that information and how you can control it.
 
-#### 1\. Website information
+#### 1\. 网站中的信息
 
 We collect two kinds of information about website users: 1) data that users volunteer by signing up to our website or when you send us an email via our contact form; and 2) aggregated tracking data we collect when users interact with our site.
 
-#### 2\. Personal information
+#### 2\. 个人资料
 
 When you post to the contact form, you must provide your name and email address. When you sign up to the website, you must provide your name, email address, date of birth and some lost pass phrase question and answers.
 
 We only share your information with any other organisation when so instructed by a CAcert arbitrator.
 
-#### 3\. Aggregated tracking information
+#### 3\. 统计跟踪信息
 
-We analyse visitors' use of our sites by tracking information such as page views, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user.
+我们通过跟踪页面点击量、信息流量、查找内容和链接点击率等信息来分析访问者使用我们站点的情况。我们用这些信息来改进我们的站点。我们还把这些匿名的流量分布信息综合起来提供给广告商和其他商业伙伴。我们不会把任何能够关联到某一个别用户的信息提供给广告商。
 
 #### 4\. Cookies
 
-Some of our advertisers use a third-party ad server to display ads. These ads may contain cookies. The ad server receives these cookies, and we don't have access to them.
+我们的部分广告商会将广告放在第三方服务器。这些广告可能包含 Cookies 信息，这些 Cookies 信息会传送给第三方广告服务器，而我们无法查看和控制他们。
 
-We don't use cookies to store personal information, we do use sessions, and if cookies are enabled, the session will be stored in a cookie, and we do not look for cookies, apart from the session id. However if cookies are disabled then no information will be stored on or looked for on your computer.
+我们不用 cookie 来存储个人信息，我们的确使用会话。如果用户打开 cookie 支持，我们会把会话信息存在一个 cookie 中，而我们在该 cookie 中只查找会话标识信息。然而，如果 cookie 被禁止，我们不会在你的电脑上存储或查找任何信息。
 
-#### 5\. Notification of changes
+#### 5\. 改变通知
 
 If we change our Privacy Policy, we will post those changes on www.CAcert.org. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
-#### 6\. How to update, correct, or delete your information
+#### 6\. 如何更新、修改或者删除你的资料
 
-You are able to update, add and remove your information at any time via our web interface, log into the 'My Account' and then click on the 'My Details' section, and then click the relevant link
+你可以随时在我们的网站上更新、添加或删除你的信息。登录进“我的帐户”，然后点击“我的资料”部分，然后点击相应的链接。
 
-#### 7\. Privacy of certificates
+#### 7\. 数字证书隐私
 
 CAcert does not automatically publish the certificates through a directory service or the website to other people than the user who requested the certificate. In the future, the user might be able to opt-in for publication of the certificates through a directory server by CAcert.
 
-#### 8\. Privacy of user data
+#### 8\. 用户数据保密
 
 CAcert Assurers can see the name, birthday and the number of points by looking up the correct email address. No other person related data is published by CAcert.
 
-#### 9\. Exceptions
+#### 9\. 免责声明
 
 A CAcert arbitrator may override this policy in a dispute.To obtain access to confidential data, a dispute has to be filed.
 
