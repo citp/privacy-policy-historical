@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614050059id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/tospp_58.aspx%3Ftab%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213071047id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/tospp_58.aspx%3Ftab%3D3) for the most accurate reproduction.*
 
 # Jillian Michaels
 
@@ -72,7 +72,7 @@ If your personally identifiable information changes (such as your address, zip c
 
 ## How To Contact Us
 
-Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department 1-888-795-4719, or email us at [info@waterfrontmedia.com](https://web.archive.org/web/20070614050059id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/info@waterfrontmedia.com). 
+Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department 1-888-795-4719, or email us at [info@waterfrontmedia.com](https://web.archive.org/web/20071213071047id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/info@waterfrontmedia.com). 
 
 ## Privacy Policy Changes
 
