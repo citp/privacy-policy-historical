@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213022748id_/http%3A//www.healthfinder.gov/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # About healthfinder.gov: Privacy - healthfinder.gov
 
@@ -41,7 +41,7 @@ Information originally collected in traditional paper systems can be submitted e
 
 ### IHC Disclosure Statement
 
-healthfinder.gov also provides an [IHC disclosure statement](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
+healthfinder.gov also provides an [IHC disclosure statement](https://web.archive.org/web/20071213022748id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.asp) as recommended by the Science Panel on Interactive Communication and Health.
 
-You may also wish to review our [disclaimer](https://web.archive.org/web/20070630131419id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
+You may also wish to review our [disclaimer](https://web.archive.org/web/20071213022748id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.asp).   
  
