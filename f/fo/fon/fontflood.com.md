@@ -1,28 +1,19 @@
-> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216144927id_/http%3A//fontflood.com/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214000417id_/http%3A//www.fontspace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy
 
-This is the web site of **FontFlood.com**.  
+##  Privacy Policy 
+
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 
-We can be reached via e-mail at [admin@fontflood.com](mailto:admin@fontflood.com)  
 
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, not shared with other organizations for commercial purposes.
-
-With respect to cookies: We do not set any cookies. 
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.iclicks.com 
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-Consumers can access this information by sending us e-mail at the above address. 
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
