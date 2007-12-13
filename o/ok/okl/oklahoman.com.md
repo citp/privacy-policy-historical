@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430085422id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213191251id_/http%3A//www.newsok.com/home/privacypolicy) for the most accurate reproduction.*
 
-# NewsOK.com | Powered by The Oklahoman and NEWS 9
+# Privacy Policy | NewsOK
 
-PRIVACY POLICY OF NEWSOK.COMNewsOK is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy.
+|  PRIVACY POLICY OF NEWSOK.COMNewsOK is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy.
 
 If you have questions about our privacy policy, please click on "[Contact Us](https://web.archive.org/more/contactus)," Web Staff with your inquiry via E-mail.
 
@@ -18,19 +18,19 @@ The information we gather from you may be used in several ways, now or in the fu
 
 To gain a better understanding of our users and their usage pattern as a whole 
 
-    * Site administration and troubleshooting 
+  * Site administration and troubleshooting 
 
 
-    * Process e-commerce transactions, contest entries and other matters you initiate 
+  * Process e-commerce transactions, contest entries and other matters you initiate 
 
 
-    * Identify preferences in content and advertising 
+  * Identify preferences in content and advertising 
 
 
-    * Target editorial, advertising or other content (such as promotions, special offers or other content) we think might be of interest to you 
+  * Target editorial, advertising or other content (such as promotions, special offers or other content) we think might be of interest to you 
 
 
-    * To communicate changes and improvements to our website or any registration you have made 
+  * To communicate changes and improvements to our website or any registration you have made 
 
 NewsOK does not give away, sell, rent or lease its users' personally identifiable information to any merchant, advertiser or web publisher. Non-personally identifiable user information (such as usage pattern, browser type and your computer) may be shared with third party businesses or advertisers with which we have a business or contractual relationship. We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of NewsOK's or its affiliates assets.
 
@@ -47,3 +47,5 @@ Please review the privacy policy of other sites you or your children elect to li
 IP AddressesNewsOK logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you.
 
 Policy ChangesThe foregoing policy is effective March 14, 2003. NewsOK reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the website following the posting of changes to this policy will mean that you accept those changes. By agreeing to submit personally identifiable information, you waive any claims related thereto that may arise from uses disclosed above or any reasonable extensions.
+
+| 
