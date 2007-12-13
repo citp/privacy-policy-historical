@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626045632id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213183749id_/http%3A//www.law.com/service/privacy_policy.shtml) for the most accurate reproduction.*
 
 # ALM's Law.com
 
