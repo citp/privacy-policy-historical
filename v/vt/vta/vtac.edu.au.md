@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
 
-# VTAC:General Information:VTAC Code of Privacy and Ethics
+# VTAC:General Information:VTAC code of privacy and ethics
 
-[ ](https://web.archive.org/general/print/privacy.html)  
+  
+[About MyInfo](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/myinfo/summary.html "About MyInfo")[Applying](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/applying/index.html "Applying") [Courses](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/courses/index.html "Courses") [Entrance Requirements](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/entry_req.html "Entrance Requirements") [Forms](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/forms.html "Forms") [Institutions](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/institutions/index.html "Institutions") [Publications](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/publications/index.html "Publications") [Reports, Tables and Papers](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/reports.html "Reports and Tables") [Samples and Demos](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/demos.html "Samples and Demos") [SEAS](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/seas/index.html "SEAS") [STAT/DULSAT](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/stat/index.html "STAT/DULSAT") [What is VTAC?](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/about_vtac.html "What is VTAC?") |  | [ ](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/general/print/privacy.html)  
 
 
 The institutions that participate in VTAC are committed to observing the VTAC Code of Privacy and Ethics. This code is designed to protect the rights of you, the applicant, institutions and the Victorian Tertiary Admissions Centre (VTAC).
+
+## What VTAC collects and why
 
 ### All applicants
 
@@ -22,9 +25,9 @@ The institutions that participate in VTAC are committed to observing the VTAC Co
 ### Current Year 12 students 
 
   * In order to establish and maintain the VTAC applicant file and VTAC CourseLink (web based course information and counselling program), we collect personal information from the Victorian Curriculum and Assessment Authority (VCAA) on:
-  * students undertaking one or more VCE units of study;
-  * International Baccalaureate (IB) students (undertaking the General Achievement Test); and 
-  * students undertaking one or more VCAL units of study 
+    * students undertaking one or more VCE units of study;
+    * International Baccalaureate (IB) students (undertaking the General Achievement Test); and 
+    * students undertaking one or more VCAL units of study
 
 
 
@@ -36,7 +39,7 @@ Using the results received from the VCAA, VTAC calculates an ENTER or notional E
 
 While current and previous Year 12 results are stored on a national database, this information can only be accessed, by the Director (or nominee) of any state-based tertiary admission centre if you initiate an application for tertiary study within that state. 
 
-The Grade Point Average (GPA) will be used as stated under each published course or institutional selection mode. Refer to [Grade Point Average](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/ny12/gpa.html) for further information.
+The Grade Point Average (GPA) will be used as stated under each published course or institutional selection mode. Refer to the VTAC website at www.vtac.edu.au for further information.
 
 ## Who has access to your information?
 
@@ -46,7 +49,7 @@ The Grade Point Average (GPA) will be used as stated under each published course
   * We will not share, sell or trade your personal information to any institution to which you have not applied. 
   * We may use your information to conduct research; however at no time is personal or sensitive data made available to any person or authority outside of VTAC without your permission.
   * We do allow your information to be provided to other select organisations that perform certain functions or operations for us. We bind these companies to the same standard of care as we do ourselves so that they cannot provide this information to anyone else. 
-  * We enforce these requirements through contractual agreements. 
+  * We enforce these requirements through contractual agreements.
 
 
 
@@ -56,7 +59,8 @@ The Grade Point Average (GPA) will be used as stated under each published course
   * We distribute your ENTER to the Victorian Curriculum and Assessment Authority to assist them in confirming the Premiers Awards. 
 
 
-* ## Rights and Responsibilities 
+
+## Rights and Responsibilities 
 
 ### You have a right to:
 
@@ -64,20 +68,21 @@ The Grade Point Average (GPA) will be used as stated under each published course
   2. Consider any offer of a place made through VTAC without being contacted directly by any institution. Verbal offers should be ignored.
   3. Decide whether your offer will be published in metropolitan and regional newspapers.
   4. A refund of institutional fees, less an administrative fee, if you cancel an enrolment in the event of a more acceptable offer.
-  5. Access most of the personal information we hold about you and request corrections. This right is subject to some exceptions. For example, information relating to existing or anticipated legal proceedings.
-  6. Request information by telephoning, e-mailing or visiting the office of VTAC provided you can identify yourself as the applicant. 
+  5. Access most of the personal information we hold about you and request corrections. This right is subject to existing or anticipated legal proceedings.
+  6. Request information by telephoning, e-mailing or visiting the office of VTAC provided you can identify yourself as the applicant.
   7. Free verbal information, (some exclusions apply) however any formal documentation will incur an administrative fee. Before we act, we will advise you of the costs associated with any formal requests.
   8. Advise VTAC if you do not want your ENTER and Year 12 results stored on a national database. Only after you have initiated an application to an institution participating in one of the state based systems, will your data be made available to the Director (or nominee) of the said admission centre. 
   9. Additionally, if you are a current year 12 student, you have the right to advise VTAC if you do not want your preference, offer and ENTER data forwarded to your school for the purpose of course information and counselling.
 
 
 
-### You must ensure that you:
+### You must:
 
-  1. Supply full and correct information as part of the application process. Institutions may withdraw your offer or cancel your enrolment if you fail in this regard.
-  2. Confirm that the information you have included on your application is correct and notify VTAC immediately of any errors.
-  3. Supply documentation, in the prescribed manner, in support of your application where instructed in the Guide, [CourseSearch](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/courses/searchcourse.html), or as part of the application process. Institutions may be unable to consider your application if you fail to follow these instructions.
-  4. Pay the required VTAC fees. 
+  1. Supply full and correct information as part of the application process. Please note that VTAC and the participating institutions have the right to vary or cancel an application or enrolment made on the basis of what VTAC or a participating institution determines to be untrue or incomplete information from any source. 
+  2. Understand that VTAC, on behalf of the participating institutions, makes offers based on the information provided by you and on advice received from VTAC. If a participating institution subsequently finds that the information or advice was incorrect, it may withdraw the offer 
+  3. Confirm that the information you have included on your application is correct and notify VTAC immediately of any errors.
+  4. Supply documentation, in the prescribed manner, in support of your application where instructed in the Guide or as part of the application process. Institutions may be unable to consider your application if you fail to follow these instructions.
+  5. Pay the required VTAC fees. 
 
 
 
@@ -104,7 +109,7 @@ Institutions must adhere to the agreed rules and guidelines covering the operati
     * of your status regarding pre-selection requirements or for scholarship purposes
     * of changes to the availability of courses
     * for clarification about your details
-    * or the VTAC advisory letter process.
+    * of the VTAC advisory letter process.
 
 
 
@@ -117,7 +122,8 @@ Institutions must ensure that your application details are not released to any c
   1. Take other appropriate action where VTAC fees have not been paid by the appropriate date.
   2. Withhold data where VTAC fees have not been paid by the appropriate date.
   3. Attempt to obtain results from previous tertiary and secondary study and supply these to the institution.
-  4. Withhold documentation from the institution where the documentation is deemed inappropriate, i.e. resumes, references, school reports and results (downloaded) from the Internet.
+  4. Withhold documentation not required or requested by the institution i.e. resumes, references, school reports.
+  5. Withhold internet and other unauthorised copies of academic and secondary school results. 
 
 
 
@@ -125,16 +131,14 @@ Institutions must ensure that your application details are not released to any c
 
   1. Provide its services impartially to all applicants and to all participating institutions without bias or favour.
   2. Administer and uphold the agreed system rules and guidelines and to investigate any claimed breaches.
-  3. Ensure (together with institutions) that your application details are treated confidentially and supplied only to those course authorities for which application has been made, and only for the purpose of selection. 
-
+Ensure (together with institutions) that your application details are treated confidentially and supplied only to those course authorities for which application has been made, and only for the purpose of selection. 
 
 
 Please note that your application details will not be released to an outside party without your consent except where VTAC is required to by law. 
 
 ### What to do if you think we've made an error 
 
-VTAC is committed to the protection of your privacy and our policies, processes and systems have been developed with this intent. Sometimes, however, human errors do occur.   
-If you think we have not lived up to our commitment, we invite you to e-mail us, telephone us on 1300 364 133, or visit our office at 40 Park Street, South Melbourne VIC 3205.
+VTAC is committed to the protection of your privacy and our policies, processes and systems have been developed with this intent. Sometimes, however, human errors do occur. ?If you think we have not lived up to our commitment, we invite you to e-mail us, telephone us on 1300 364 133, or visit our office at 40 Park Street, South Melbourne VIC 3205.
 
 To access your applicant data, please address all correspondence to the Deputy Director, Selection and Application Services, VTAC, 40 Park Street, South Melbourne VIC 3205.
 
@@ -147,21 +151,21 @@ Regardless of the success of your application, there are no refunds of either VT
 |   |   
 |  |   
 ---|---  
-|  |  Third round offers for Graduate Entry Teaching courses are now available |    
+|  | **Mon 3 Dec 9:00am:** December change of preference opens for all applicants |    
 |   
-|  |  Third round offers for undergraduate courses are now available |    
+|  | **Mon 10 Dec 5:00pm:** Change of preference closes for Graduate Entry Teaching preferences  |    
 |   
-|  | **[New and cancelled courses](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/courses/coursechanges.html)** |    
+|  | **Fri 14 Dec 5:00pm:** Very late applications close |    
 |   
-|  | [All dates from the 2007 selection cycle](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/common/dates.html) |    
+|  | **Mon 17 Dec 7:00am:** VCE results and ENTERs available on the results website |    
 |   
+|  | **Mon 24 Dec 12noon:** Change of Preference closes for all undergraduate applicants (excluding International Baccalaureate and WA applicants)  |    
 |   
----|---  
-|  | **[Forms](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/general/forms.html)** |   
+|  | **Sat 5 Jan 2008 9:00am:** International Baccalaureate Notional ENTERs available |    
 |   
-|  | [VTAC Guide 2007](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/publications/guide2007.html) |    
+|  | **Sun 6 Jan 2008 12noon:** Change of Preference closes for International Baccalaureate and WA applicants |    
 |   
-|  | [Subscribe to VNews](http://plato.vtac.edu.au/cgi-bin/subscribe/subscribe.pl), the VTAC e-Newsletter |    
+|  | **[All dates for the 2008 selection cycle](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/dates.html)** |    
 |   
-| [ [More publications...](https://web.archive.org/web/20070515141106id_/http%3A//www.vtac.edu.au/publications/index.html) ] |    
+|  | **[Open Days](https://web.archive.org/web/20071213183124id_/http%3A//www.vtac.edu.au/common/opendays.html)** |    
 | 
