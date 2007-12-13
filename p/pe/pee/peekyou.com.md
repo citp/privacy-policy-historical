@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peekyou.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629171042id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekyou.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023619id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.*
 
-# PeekYou.com - Beta Edition - The Smartest Way To Find People Online
+# Privacy Policy | Peek You
 
 PeekYou acknowledges the concerns that you may have about the use of information about you. Out of respect for those concerns, we maintain strict policies to ensure the privacy and security of your personal information that we may collect through your participation on our Site. 
 
@@ -31,7 +31,7 @@ You will always be provided with an opportunity to opt-out of receiving such inf
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our services as a Member, you may update or delete your Member information by logging in with your username and password in and making the change. You may also e-mail your request to update or delete your information using our support form at dev.peekyou.com/XXXX, by contacting PeekYou by telephone or postal mail through the contact information shown at the bottom of this policy. 
+If your personally identifiable information changes, or if you no longer desire our services as a Member, you may update or delete your Member information by logging in with your username and password in and making the change. You may also e-mail your request to update or delete your information using our support form at www.peekyou.com/XXXX, by contacting PeekYou by telephone or postal mail through the contact information shown at the bottom of this policy. 
 
 **Confidentiality of Personally Identifiable Information**
 
@@ -41,7 +41,7 @@ Information that you may provide, at your discretion, in creating or updating yo
 
 **Unsubscribe/Opt-Out Requests**
 
-PeekYou gives you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you no longer wish to receive a newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in the communication or by visiting http://dev.peekyou.com/unsubscribe. After we receive your request, we will send you an e-mail message to confirm that you have been unsubscribed. 
+PeekYou gives you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you no longer wish to receive a newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in the communication or by visiting http://wwww.peekyou.com/unsubscribe. After we receive your request, we will send you an e-mail message to confirm that you have been unsubscribed. 
 
 You may also communicate your opt-out request to PeekYou by telephone or postal mail by using the contact information at the bottom of this privacy policy. 
 
@@ -63,7 +63,7 @@ The services of PeekYou are prohibited for children under the age of 13. You may
 
 **Sharing of Public Profile Information**
 
-All information that is contributed by our Users for inclusion in their public Profiles, in addition to that collected by us from public Web sources, will be available to PeekYou and anyone using the PeekYou Site and other PeekYou services. If you would like us to remove your Profile from our service, send an e-mail to [remove@peekyou.com](mailto:remove@\[REMOVE_THIS\]peekyou.com) with your request and the Web address of your Profile, and we will gladly remove your information. 
+All information that is contributed by our Users for inclusion in their public Profiles, in addition to that collected by us from public Web sources, will be available to PeekYou and anyone using the PeekYou Site and other PeekYou services. If you would like us to remove your Profile from our service, send an e-mail to [remove@peekyou.com](mailto:remove@%5BREMOVE_THIS%5Dpeekyou.com) with your request and the Web address of your Profile, and we will gladly remove your information. 
 
 NOTE: Most of the information that PeekYou displays can already be found on any public search engine. Because the Web is constantly changing, and we search millions of new and old Web pages every day, we may re-acquired your information unintentionally. We recommend that you check our Site from time to time to ensure that your Profile contains only the information you choose to have displayed, and that we have not re-posted previously deleted information. The best way to avoid having your information found by our search engine (or any other search engine) is to contact the operator of the Site that contains the original source(s) of the information and ask for that operator to remove the displayed information from the Web. 
 
@@ -78,7 +78,7 @@ New York, NY 10011
 
 or 
 
-[privacy@peekyou.com](mailto:privacy@\[REMOVE_THIS\]peekyou.com)
+[privacy@peekyou.com](mailto:privacy@peekyou.com)
 
 **Amendments**
 
