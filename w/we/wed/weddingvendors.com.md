@@ -1,27 +1,61 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182301id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213194439id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
 # WeddingVendors.com: Privacy Policy
 
-WeddingVendors.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-This site contains links to other sites. WeddingVendors.com is not responsible for the privacy practices or the content of such Web sites.
+## The Information We Collect
 
-## Logs
+This notice applies to all information collected or submitted on the WeddingVendors.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-We use IP addresses to help diagnose problems with our server, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit Card Information
+  * (etc.)
 
-## Order
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
-## Cookies
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. We use cookies primarily to track orders in regards to our affiliate program. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+  * Name
+  * Address
+  * Phone number
+  * (etc.)
 
-## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-## Choice/Opt-Out
+## The Way We Use Information
 
-This site gives users the following options for correcting and/or removing their information from our website to not receive future communications or to no longer receive our service.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+## Our Commitment To Data Security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+When placing an order all credit card information is encrypted at all stages from your browser to our systems, and no credit card information is retained on our web servers. 
+
+All emails and newsletters from this site allow you to opt out of further mailings. 
+
+## How You Can Access Or Correct Your Information
+
+You can access all your personally identifiable information that we collect online and maintain by logging into your registered account. We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+## How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contact/). 
