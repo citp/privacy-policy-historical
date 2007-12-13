@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlinesecrets.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607173122id_/http%3A//www.downlinesecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinesecrets.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213190333id_/http%3A//www.downlinesecrets.com/privacy.php) for the most accurate reproduction.*
 
 # Build Your Downline | Downline Builder | MLM | Network Marketing
 
