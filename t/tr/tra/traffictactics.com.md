@@ -1,0 +1,210 @@
+> *The following text is extracted and transformed from the traffictactics.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213145948id_/http%3A//traffictactics.com/privacy.asp) for the most accurate reproduction.*
+
+# TrafficTactics.com Privacy Policy
+
+This Privacy Policy is designed to explain how TRAFFICTACTICS.com and its affiliates (hereafter, individually and collectively, "we", “us”, or " TRAFFICTACTICS.COM"): (i) collect, track, retrieve, compile, merge, use, process, disclose, distribute, share, sell and transfer Information (as such term is defined in Section 1 below), (ii) with whom the Information may be shared and sold; (iii) what choices are available to you regarding collection, use, distribution, sharing and selling of the Information; (iv) the kind of security procedures in place to protect the loss, misuse or alteration of Information that is under our control; and (v) covers your access to and use of TRAFFICTACTICS.COM and all services, content, products and offers both online and offline provided by, for, or on behalf of TRAFFICTACTICS.COM (individually and collectively, the “TRAFFICTACTICS.COM Network”).
+
+This Privacy Policy does not apply to the practices of companies that TRAFFICTACTICS.COM does not own or control, or to people that TRAFFICTACTICS.COM does not employ or manage. In addition, where more detailed information is needed to explain our privacy practices, we may post separate privacy notices to describe how particular services collect, track, compile, merge, use, process, disclose, distribute, share, sell and transfer Information; such privacy notices are incorporated herein by this reference. We hope this will help you make an informed decision about sharing personal information with us. 
+
+By accessing or using the TRAFFICTACTICS.COM Network, you agree to this Privacy Policy.  
+If you have questions regarding this Privacy Policy about how Information is collected, tracked, compiled, merged, used, processed, disclosed, distributed, shared, sold and transferred, please contact [support@traffictactics.com](mailto:support@traffictactics.com) by clicking on the link. 
+
+TRAFFICTACTICS.com is owned and operated by Marketing Experts Inc., 8374 Market Street #109, Bradenton FL, 34202.
+
+PLEASE BE ADVISED THAT ANY AND ALL INFORMATION WE MAY GATHER FROM YOU THROUGH YOUR, REGISTERING FOR, ACCESS AND/OR USE OF THE TRAFFICTACTICS.COM NETWORK AND ANY OTHER INFORMATION OR DATA WE MAY GATHER FROM YOU, OUR PARTNERS OR ANY OTHER THIRD PARTY BY ANY OTHER MEANS, OR THAT YOU OR ANY OF THEM MAY OTHERWISE PROVIDE TO US, WHETHER PERSONAL, NONPUBLIC OR UNIDENTIFIABLE, MAY BE SHARED OR SOLD TO OUR PARTNERS OR ANY OTHER THIRD PARTY IN ACCORDANCE WITH THIS PRIVACY POLICY. ALL SUCH INFORMATION IS COLLECTED AND/OR GATHERED OR RETRIEVED WITH THE INTENT TO OBTAIN THE HIGHEST OPTIMIZATION AND/OR VALUE FOR THE SALE, EXCHANGE OR USE OF ANY SUCH INFORMATION FOR COMPENSATION BY OR WITH OUR PARTNERS OR ANY OTHER THIRD PARTY. IT IS ALSO OUR INTENT TO COLLECT, MERGE AND USE THIS INFORMATION TO BUILD A DATABASE PROFILING ALL CONSUMERS. THE DATABASE WILL INCLUDE, BUT NOT BE LIMITED TO, CONSUMERS' NAMES, ADDRESSES, PHONE NUMBERS, AGES, GENDERS, RETAIL, CATALOG AND ONLINE PURCHASE HISTORIES, CHARACTERISTICS, PREFERENCES, BEHAVIORAL DATA AND DEMOGRAPHIC DATA.
+
+**1\. Collection of your Information and Data**
+
+A. The information and data provided by you or retrieved or collected by, for or on our behalf consists of your personally identifiable information, non-personally identifiable information, including all data and information obtained through the use of cookies, Web beacons, or other technologies or applications  when you register with, access, communicate, use or interact in any way (individually and collectively “Interact”) with the TRAFFICTACTICS.COM Network. Depending on how you Interact with the TRAFFICTACTICS.COM Network, the information and data provided by you or collected or retrieved by, for or on behalf of TRAFFICTACTICS.COM may include: 
+
+  * Personal information, such as your first, middle and last name, a home or other physical address, telephone number(s), email address(es) or other online contact information, such as an instant messaging user identifier or a screen name that reveals an individual’s email address, a persistent identifier, such as a customer number held in a cookie or processor serial number, that is combined with other available data that identifies an individual, account information (user name and password), and any other information from or about an individual that is combined with any of the above;
+
+
+  * Click stream data, such as your visits to websites and pages and your responses to offerings, promotions, sweepstakes and Advertisements;
+
+
+  * Information obtained by us through communications received by you;
+
+
+  * Transaction-related information with us and with some of our vendors and business partners, including, credit card or other preferred means of payment, billing or shipping information, or a history of products or services purchased
+
+
+  * Customer service information about you as a TRAFFICTACTICS.COM Network user or subscriber; 
+
+
+  * Your browser, including your IP address, cookie and Web beacon information (discussed in detail below), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); the page you request together with other information about your geographic location; and the domain name of your Internet service provider;
+
+
+  * Any other information or data provided by you or collected, retrieved or tracked by us; 
+
+
+  * All of the above, individually and collectively “Information” 
+
+
+
+We may enhance or merge your personally identifiable information with data or information collected from other services, sources or third parties to provide a better user experience, including customizing content and Advertisements for you and to use, share and sell in offline or online marketing and other business purposes. Once you register with the TRAFFICTACTICS.COM Network and sign in to our services, you are not anonymous to us.
+
+  
+**2\. Cookies and Web Beacons and Other Similar Technologies and Uses Thereof**
+
+  * The TRAFFICTACTICS.COM Network and certain of its advertising partners and affiliates use cookies. A “cookie” is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the “Cookies” folder on your computer and remains in this “Cookies” folder after you close your browser. Persistent cookies may be used by your browser on subsequent Interaction with the TRAFFICTACTICS.COM Network or third party website. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut off your computer. The TRAFFICTACTICS.COM Network and certain of its advertising partners and affiliates may also use Web beacons (also called “clear GIFs”, “action tags” or “pixel tags”) in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page that is designed to allow the site owner or a third party to monitor who is visiting such page by collecting the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from, and the time it was viewed. Web beacons also may be associated with cookie information. 
+
+
+  * The TRAFFICTACTICS.COM Network and certain of its advertising partners and affiliates may use cookies and Web beacons in combination with click stream data such as behavioral data, IP addresses, log files, referring URLs, traffic data and other Information, including combining with your personal information, to enhance and personalize your experience on the TRAFFICTACTICS.COM Network, to help authenticate you when you use the TRAFFICTACTICS.COM Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of TRAFFICTACTICS.COM Network offerings, Advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and Advertisements provided to you by us and our business partners through the TRAFFICTACTICS.COM Network. Information obtained through cookies and Web beacons or about Internet usage may be combined with other Information, including your personal information, from any other cookie or source. TRAFFICTACTICS.COM may place a cookie on your hard disk on behalf of a sponsor when such sponsor’s web page is shown, so that the sponsor can measure the effectiveness of such web page. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies can only be accessed or read by the domain that placed them. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use certain features of the TRAFFICTACTICS.COM Network that depend on cookies. If you would like to stop receiving TRAFFICTACTICS.COM promotional communications or change your Information preferences, please write to: TRAFFICTACTICS.COM Support, Marketing Experts Inc., 8374 Market Street #109, Bradenton FL, 34202.
+
+
+
+**3\. How Information is Used**
+
+TRAFFICTACTICS.COM uses Information for the following general purposes to: 
+
+  * help us, our business partners, customers and clients better understand the demographics of our/their target audience(s) as well as to support our and their marketing of products and services and selection and delivery of Advertisement(s); 
+
+
+  * provide you with information and materials about products, services, news and events; 
+
+
+  * present offers and Advertisements to you on behalf of TRAFFICTACTICS.COM and our business partners and advertisers; 
+
+
+  * direct marketing;
+
+
+  * to determine or predict user characteristics, behavior, or preferences; 
+
+
+  * report and assess service levels; 
+
+
+  * customize the Advertising and Content you see; 
+
+
+  * operate and improve the websites, software, services, products and offerings available through the TRAFFICTACTICS.COM Network; 
+
+
+  * verify access rights to content, services or software; 
+
+
+  * contact you; 
+
+
+  * conduct research; 
+
+
+  * provide reporting for internal and external clients and customers; 
+
+
+  * provide security; 
+
+
+  * monitor; and 
+
+
+  * for any other business purposes. 
+
+
+
+**4\. Who We Share and Sell Information With and How They Use It**
+
+  * We may share or sell your Information, including your nonpublic personal information, for compensation with third parties; such third parties may include, but are not limited to, our affiliates, marketing companies, advertising agencies, data compilers, advertisers, data companies, data brokers, and, to the extent permitted by law, individual reference and look-up service programs. Such Information may be used by such third parties to provide you with information, advertisements, commercial communications and materials on products and services that may be of interest, for direct marketing or any other business purpose. 
+
+
+  * TRAFFICTACTICS.COM may use agents and contractors in order to help operate, update, enhance and provide the TRAFFICTACTICS.COM Network. If such agents and contractors have access to non public personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy or any applicable service-specific privacy notice or restricted from using or disclosing such Information for any purpose other than to carry out the services they are performing for the TRAFFICTACTICS.COM Network. 
+
+
+
+**5\. Evites and Other Communications to and Uses of Non-members Email Addresses**
+
+  * During our registration process and after a person becomes a TRAFFICTACTICS.COM Network registered member (“Member(s)”) you can invite friends and other persons to the TRAFFICTACTICS.COM Network by sending invitation emails. 
+
+
+  * You understand, acknowledge and agree that by providing us your user name(s) and password(s) you are granting TRAFFICTACTICS.COM access to your address book(s) to retrieve all data within, you have the right to and voluntarily identified or provided such data including all recipient email addresses located therein, TRAFFICTACTICS.COM did not induce you to send such invitation(s), you initiated the transmission of such email invitations when you clicked the “Click Here to Add Your Friends” link (or similar link), and that we have permission to upload all such email addresses that remained selected to our database once you click the "Click Here to add your friends" so that: (i) the recipients may be added to your Friend’s list; (ii) we may send other commercial communications to the recipients; and (iii) we may share or sell such recipient email addresses to third parties for compensation.  Recipients of invitations or other electronic promotional communications from us may contact us to stop the delivery of future promotional e-mail by following the specific instructions in the e-mail they receive. Without limiting any of the foregoing, we will discontinue sending reminder invitations upon their joining the TRAFFICTACTICS.COM Network.
+
+
+  * You may prevent TRAFFICTACTICS.COM email invitations and other messages from being sent to any email address you control by [clicking here](http://traffictactics.com/unsub/). 
+
+
+
+**6\. Third Party Advertising**
+
+  * Advertisement(s) sent to you may be delivered to you by TRAFFICTACTICS.COM or one of our affiliates or advertising partners. As discussed above, our affiliates and advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an Advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their Advertisement(s) and determine which ads are clicked on. This information allows an ad network to deliver targeted Advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies placed by TRAFFICTACTICS.COM and does not cover the use of cookies by any advertisers or any other third party. 
+
+
+
+**7\. Data integrity**
+
+  * TRAFFICTACTICS.COM processes personal information in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed. We take commercially reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary and as further set forth in Section 9 below. 
+
+
+
+**8\. Choices About How We Use and To Whom We Share and Sell Personal Information With**
+
+  * By registering with the TRAFFICTACTICS.COM Network or our vendors' sites, users allow TRAFFICTACTICS.COM and its affiliates to make their personally identifiable information available to third parties in accordance with the terms of this Privacy Policy. You may notify us that you don’t want your personal information shared or sold to third parties by writing to: TRAFFICTACTICS.COM Support, Marketing Experts Inc., 8374 Market Street #109, Bradenton FL, 34202.  If necessary, we will contact you within a reasonable period of time after we receive your request(s). Because the choices you make in connection with your personal information may not take effect immediately, it is possible, amongst other things, that you may receive a communication(s) during the period in which your request is being processed. Notwithstanding, all personally identifiable information provided by a user may be used by TRAFFICTACTICS.COM to support its business services described above. 
+
+
+  * If a user in our database has notified us in accordance with the terms herein and indicated that they do not want to have their personal information shared or sold to third parties, TRAFFICTACTICS.COM will limit the use of such information to the suppression, validation and enhancement of existing information held by third parties about its users. For example, marketers may use Information about a registrant provided by TRAFFICTACTICS.COM, such as "opt-out" information, to suppress or drop the registered user's name from a file of potential customers. Additional Information may be used to verify and/or validate the accuracy of existing data on the registrant that was lawfully acquired by such third party. In addition, our information customers may use Information supplied by TRAFFICTACTICS.COM to enhance or append personally identifiable data to their file for use in direct or online marketing subject to the terms of their own privacy policies. 
+
+
+  * Notwithstanding any of the foregoing, we are not responsible for removing your personal information or any other Information from the lists of any third party who has previously been provided your Information in accordance with this Privacy Policy. 
+
+
+  * You may choose not to receive promotional e-mail from TRAFFICTACTICS.COM by following the specific instructions in the e-mail you receive. These communications choices do not apply to mandatory service communications that are considered part of certain TRAFFICTACTICS.COM services, which you may receive periodically unless you cancel such TRAFFICTACTICS.COM service.  
+
+
+
+**9\. Co – Branding**
+
+  * Some TRAFFICTACTICS.COM products or services may be co-branded and offered in conjunction with another company. If you register for or use such products or services, both TRAFFICTACTICS.COM and the other company may receive the information collected in conjunction with the co-branded product or services. Please refer to that company's privacy policy to determine how that company may use this Information. 
+
+
+
+**10\. No Information from Minors**
+
+  * You must be at least 13 years of age to interact with and use the TRAFFICTACTICS.COM Network. 
+
+
+  * We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all commercially reasonable efforts to delete or suppress such information from our database. 
+
+
+
+**11\. Disclosure**
+
+  * We may disclose any kind of Information, including your personal non public information, when we believe it necessary for the conduct of our business, or where disclosure is required by law, regulation or other government authority or to prevent harm to yourself or others. Notwithstanding anything else, in the event that ownership of TRAFFICTACTICS.COM was to change as a result of a merger, acquisition or transfer to another company or person or upon any other corporate reorganization your Information may be transferred by us without your consent . 
+
+
+
+**12\. Security of your Personal Information**
+
+  * TRAFFICTACTICS.COM uses industry standard security measures to protect the loss, misuse and alteration of the Information under our control. Although we make good faith efforts to store the Information collected by the TRAFFICTACTICS.COM Network in a secure operating environment that is not available to the public, we cannot guarantee complete security. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this Information. Lastly, unauthorized entry or use, hardware or software failure, and other factors may compromise the security of Information. For any additional information about the security measures we use on the TRAFFICTACTICS.COM Network, please contact us at [s](mailto:support@traffictactics.com)[upport@traffictactics.com](mailto:support@traffictactics.com). 
+
+
+
+**13\. Linking to Other Sites.**
+
+  * Please note: A link on the TRAFFICTACTICS.COM Network or from an Advertisement delivered by TRAFFICTACTICS.COM or any of its affiliates, business partners or third party does not imply our endorsement of that Advertisement, service or product. We do not control the Advertisements to which we link and assume no responsibility for their content or privacy policies. Any information that you provide to linked websites or Advertisements, or other third parties, is provided directly to such third party and is subject to that third party's privacy policy. Therefore, you should carefully review the privacy policies that apply to any websites or Advertisements you Interact with from the TRAFFICTACTICS.COM Network or any advertisers or other third parties you respond to. This privacy policy applies solely to Information collected by or provided to TRAFFICTACTICS.COM. 
+
+
+
+**14\. Changes to Privacy Policy**
+
+  * TRAFFICTACTICS.COM reserves the right to change the provisions of this Privacy Policy at any time. TRAFFICTACTICS.COM will post those changes on the privacy page of the TRAFFICTACTICS.COM Website located at <http://traffictactics.com/privacy.asp> so you can be aware of what Information we collect and how we use, merge, compile, share or sell it. Your Interaction with the TRAFFICTACTICS.COM Network following the posting of such changes to the TRAFFICTACTICS.COM Privacy Policy will constitute your acceptance of any such changes. We encourage you to review our privacy policy frequently to make sure that you understand how TRAFFICTACTICS.COM collects, tracks, compiles, uses, shares, sells and transfers Information. If we are going to use your or other users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify you and those users via email or by placing a prominent notice on our TRAFFICTACTICS.COM Website(s). 
+
+
+
+**15\. Notice to All Members**
+
+  * If you are unsure whether this privacy policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the TRAFFICTACTICS.COM Network. Members and anyone else who Interacts with the TRAFFICTACTICS.COM Network who submits personal information do thereby consent to: (i) the international transfer and/or storage of such information to a country which may be deemed to have inadequate data protection and (ii) the collection, compiling, merging, using, sharing, selling, distributing and transferring of such information as provided in this Privacy Policy. 
+
+
+
+**16\. Contact Us**
+
+  * If you have any questions about the TRAFFICTACTICS.COM Network, our company or service, you should first consult our website <http://traffictactics.com/>. If you have further questions or concerns, please contact us [support@traffictactics.com](mailto:support@traffictactics.com) or write to: TRAFFICTACTICS.COM Support, Marketing Experts Inc., 8374 Market Street #109, Bradenton FL, 34202.
+
+
+
+**17\. Special Notification for California Residents**
+
+  * Except as stated herein, individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address: CA Privacy Request, ATTN: TRAFFICTACTICS.COM Support, Marketing Experts Inc., 8374 Market Street #109, Bradenton FL, 34202. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph or if such person has been given the opportunity to opt in or out of sharing of such person’s personal information. 
+
+
