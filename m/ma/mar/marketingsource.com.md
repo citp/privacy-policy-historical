@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427050119id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingsource.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213205107id_/http%3A//www.marketingsource.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Marketing Resource Center
 
@@ -27,22 +27,9 @@ Mailing lists submitted to us for the purpose of list cleaning/certification, ma
 
 | 
 
-[](https://web.archive.org/mediadirectory/)
-
-  
-
-
 [](https://web.archive.org/printing/)
 
   
 
 
-[](https://web.archive.org/pressreleases/press_release_kit.html)
-
-| Featured Vendor  
----  
-[[list your company here]](https://web.archive.org/vendors)  
-  
-[ **Carol A. Munschauer, Ph.D.**](https://web.archive.org/vendors/64)
-
-Carol Ann Munschauer, Ph.D, is a licensed clinical psychologist andpsychoanalyst practicing Contemporary Self Psychology.She works withhigh-functioning professional people who are experiencing discontents in their lives or their sense of themselves.
+[](https://web.archive.org/pressreleases/)
