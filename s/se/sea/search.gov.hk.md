@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the search.gov.hk privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429163734id_/http%3A//www.gov.hk/en/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.gov.hk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213032100id_/http%3A//www.gov.hk/en/about/privacy.htm) for the most accurate reproduction.*
 
 # GovHK: Privacy Policy
 
-### Privacy Policy
-
-The Government of the Hong Kong Special Administrative Region ("the Government") is concerned to ensure that all personal data submitted through GovHK are handled in accordance with the relevant provisions of the [Personal Data (Privacy) Ordinance](http://www.pcpd.org.hk/english/ordinance/ordfull.html).
+The Government of the Hong Kong Special Administrative Region ("the Government") is concerned to ensure that all personal data submitted through GovHK are handled in accordance with the relevant provisions of the [Personal Data (Privacy) Ordinance](http://www.pcpd.org.hk/english/ordinance/ordfull.html "Personal Data
+\(Privacy\) Ordinance") ( http://www.pcpd.org.hk/english/ordinance/ordfull.html ).
 
 The Government will record visits to GovHK without collecting any personal identifiable information of users. Such general statistics are collected for the compilation of statistical reports and the diagnosis of problems with or concerning computer systems to help the Government improve GovHK.
 
