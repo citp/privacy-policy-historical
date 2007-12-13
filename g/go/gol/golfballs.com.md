@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629114623id_/http%3A//www.golfballs.com/00/static/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222148id_/http%3A//www.golfballs.com/00/static/privacyPolicy.html) for the most accurate reproduction.*
 
 # Golfballs.com - Golf Balls, Golf Shoes, Golf Bags, Golf Club, Used Golfballs, Golf Equipment, Personalized Golf Balls.
 
