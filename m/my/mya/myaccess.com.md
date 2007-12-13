@@ -1,42 +1,19 @@
-> *The following text is extracted and transformed from the myaccess.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618051237id_/http%3A//www.myinternet.com/english/privacy.zpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaccess.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213011844id_/http%3A//www.vantagelearning.com/privacy.html) for the most accurate reproduction.*
 
-# MYINTERNET.COM: PREMIER DOMAIN NAME SERVICES
+# English Writing Improvement, Online Assessment - Vantage Learning
 
-**PRIVACY STATEMENT**
+**Personal Information**
 
-_myinternet.com_ has adopted this Privacy Statement as an expression of our commitment to fair electronic information practices. 
+When you visit any of the Vantage Learning websites you remain anonymous. Access to some areas of the site may require registration. When required, we will tell you why we want the information and how we plan to use it. You may choose whether to access pages that require registration. We may ask you for your name, e-mail address, and other basic information. That data will always remain protected, and we will never add you to e-mail lists unless you make a specific request. We will use any information we gather only to help us understand your needs and make our website or products more valuable to you. We will not provide any personal information to other companies or individuals without your permission. We will always give you the option to elect not to receive additional information from us during the registration process. If you sign up for any of our electronic newsletters, you will find "unsubscribe" instructions readily available in every newsletter. 
 
-**Your Personal Information**
+**Protecting Your Privacy**
 
-When you sign up for membership at _myinternet.com_ , we require the personal information listed in our application found at http://www. _myinternet.com_ /english/signup.zpml. When you subscribe, you agree to provide and maintain accurate and complete information. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. 
+Vantage Learning takes every step possible to protect your privacy at all times. We also enable security measures to protect personal information in storage. We will not provide any personal information to other companies or individuals without your permission. Some areas of our website provide links to third-party sites. Vantage Learning staff members review these sites to ensure their "safety"; however, because we do not control these websites, we encourage you to review the privacy policies of any third-party sites. 
 
-If the information you have provided us requires modification, you can make changes at any time by contacting us via email at [support@myinternet.com](mailto:support@myinternet.com). 
+**Cookies**
 
-**Who Has Access?**
+Some areas of the Vantage Learning website may use cookies to help you customize your experience at our site. These cookies do not track individual information for marketing purposes, and we will not contact you without your consent. A cookie stores useful information that lets us remember you when you return. Cookies from these sites can be read and processed only by Vantage Learning servers. If you choose to disable cookies in your browser, you can still access most of the website. 
 
-The employees, agents and business partners of _myinternet.com_ are independently responsible for ensuring compliance with our Privacy Statement. Only those employees who have a legitimate business purpose for accessing and handling your personal information are given authorization to do so. Our information management systems are designed in such a way as to block employees from accessing information without authority. 
+**Questions**
 
-**How We Use It**
-
-_myinternet.com_ uses your personal information to accurately track and administer your account. We also use this information to provide you with important notices and to generally keep in touch with you about new product or service offerings or the offerings of our business partners. 
-
-**Sharing Domain Information**
-
-_myinternet.com_ may disclose personal information about you if required to do so by law or other regulatory authority. 
-
-**Your Privacy Concerns**
-
-If you feel that _myinternet.com_ has violated our Privacy Statement in any way, contact us via email at [support@myinternet.com](mailto:support@myinternet.com). 
-
-Legal contact: 
-
-            Traci S. Umberger, Esq.  
-            General Counsel  
-            10900 NE 4th Street, Suite 1630  
-            Bellevue, WA 98004  
-            [legal@ _myinternet.com_ ](mailto:legal@myinternet.com)  
-
-
-* * *
-
-© _myinternet.com._ 1998-2000. All Rights Reserved.
+Vantage Learning welcomes comments and questions regarding this privacy policy. Our staff is dedicated to protecting your personal information and makes every effort to keep this information secure. You may direct any questions about Vantage Learning's privacy policy to [webmaster@vantagelearning.com](mailto:webmaster@vantagelearning.com). 
