@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613213717id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213033611id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
 # USENIX - USENIX/SAGE Membership - Privacy Statement
 
@@ -20,7 +20,7 @@ The USENIX Association does not rent or sell email addresses. USENIX may use ema
 
 ### Postal Mail
 
-USENIX uses the postal addresses of its members to mail invoices, products, and announcements from USENIX and from its supporting members. The names and mailing addresses of members who have not opted out (see below) may be rented to outside organizations to send mailing packages that have been carefully screened by authorized USENIX staff for their suitability. USENIX member names and mailing addresses are never sold. 
+USENIX uses the postal addresses of its members to mail invoices, products, and announcements from USENIX and from its Corporate Supporters. The names and mailing addresses of members who have not opted out (see below) may be rented to outside organizations to send mailing packages that have been carefully screened by authorized USENIX staff for their suitability. USENIX member names and mailing addresses are never sold. 
 
 ### Opt-Out
 
