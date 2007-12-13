@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612110755id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfxsoftware.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023141id_/http%3A//www.qfxsoftware.com/QFX_privacy_policy.htm) for the most accurate reproduction.*
 
 # QFX Software Corporation Privacy Policy
 
@@ -16,7 +16,7 @@ QFX Software's privacy policy covers the collection and use of the personally id
 
 **
 
-****We ask for your personal information when you're signing up for QFX services, purchasing a QFX product, downloading a software update, or requesting support to a service or product. At such times, your personal information is required to identify you as a valid customer.  
+We ask for your personal information when you're signing up for QFX services, purchasing a QFX product, downloading a software update, or requesting support to a service or product. At such times, your personal information is required to identify you as a valid customer. 
 
 Some of our services and products may also require that you register or be registered for your online accounts with your bank(s) and credit card companies, which may ask you for some personal information in order to create an account (typically your name, email address and a password for your account). We collect only your name, address, and email address to identify your account and for providing technical support. The rest of the information is saved on your personal computer but is NOT collected by us. All of your personal information may also be saved on the online servers of your bank(s) and credit card companies. Please see their privacy policy statements for information on how these entities handle your personal information.
 
