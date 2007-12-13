@@ -1,614 +1,320 @@
-<!--The following is the downloaded HTML source of the charismanews.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203041031id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charismanews.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213154638id_/http%3A//www.charismamag.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Strang Communications Online</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>Charisma Magazine</title>
 
+    <link href="http://www.charismamag.com/fireinmybones/common/files/default.css" rel="stylesheet" type="text/css">
+    <link href="http://www.charismamag.com/templates/layout1.css" rel="stylesheet" type="text/css">
+    <link href="http://www.charismamag.com/css/charisma.css" rel="stylesheet" type="text/css">
+    <script src="http://www.charismamag.com/templates/layout1.js"></script>
+    <script src="http://www.charismamag.com/fireinmybones/common/files/default.js"></script>
+    <script src="http://www.charismamag.com/news/right-side.js"></script>
+    <script src="http://www.charismamag.com/templates/articleTools.js"></script>
 
- <script language="JavaScript"> 
- function simpleDialog(msg_header,msg) { 
- features = 
-    'toolbar=no,location=no,directories=no,status=no,menubar=no,' +
-    'scrollbars=no,resizable=no,width=400,height=300,left = 312,top = 234' 
- dlg = window.open ("","Dialog",features) 
- dlg.document.write ("<BODY bgColor='white' text='black'>")
- dlg.document.write ("<H2><font face='arial,helvetica' color='#000000'>",msg_header,"</font></H2><hr noshade>") 
- dlg.document.write ("<font size='2'  face='arial,helvetica' color='#000000'>",msg,"</font>") 
- dlg.document.write ("<hr noshade><br><FORM><CENTER>") 
- dlg.document.write ("<INPUT type='button' value='Close Window' onClick = 'self.close()'>") 
- dlg.document.write ("</CENTER></FORM>") 
- } 
- 
- function verify(f){
-        var completed;
-        var completed = true;
-        var msg;
-		var toggle  
-		alert (f.modify_account.value);
-		alert (f.modify_account.selected);
-		alert (f.subscribe.value);
-		alert (f.subscribe.selected);
-		if ((f.subscribe.value=="Subscribe") || (f.modify_account.value=="Modify Account")){
-alert (f.modify_account.value);
-		alert (f.subscribe.value.value);
-		//if (f.useemail[0].checked==true){
-    		toggle='NO' 		
-            for (var i = 0; i < f.elements.length; i++){
-        	   	   //alert( f.elements[i].name);
-        	   	   //alert( f.elements[i].value);
+    <script type="text/javascript">
+function setActiveTextSize(activetSize){
+    Csize=document.getElementById('right_col_container').style  .fontSize;
+    if(Csize)
+        document.getElementById(Csize).className=Csize;
 
-			   if (f.elements[i].name == "selected_group[]"){
-			   //if (f.elements[i].name == "selected_demographic[]"){
-        	   	   //alert( f.elements[i].name);
-        	   	   //alert( f.elements[i].value);
-        		   if( f.elements[i].checked) toggle = 'YES'
-        	   }
-        	}   
-      		if (toggle == 'NO'){
-                msg = "__________________________________________________\n\n";
-                msg += "Please select at least one newsletter before submitting\n";
-				//msg += "Please select at least one interest before submitting\n";
-                msg +="__________________________________________________\n\n";		   
-    			alert(msg);
-    		   return false;
-    		}else{
-    		   return true;
-    		}
-		//}else{
-		//	return true;
-		}	                                 
-		
-    
+    document.getElementById(activetSize).className='active';
+    document.getElementById('right_col_container').style.fontSize = activetSize;
+    // write/rewrite cookie
+    createCookie("ActiveFontSize",activetSize,1000);
 }
- 
- </script>
+function createCookie(cookie_name,value,days) {
+    if (days) {
+    var date = new Date();
+    date.setTime(date.getTime()+(days*24*60*60*1000));
+    var expires = "; expires="+date.toGMTString();
+    }
+    else expires = "";
+    document.cookie = cookie_name+"="+value+expires+"; path=/";
+}
+function readCookie(cooke_name) {
+    regexpr = cooke_name+ '=(.*?)(;|$)';
+    var results = document.cookie.match (regexpr);
+    if ( results ) {
+        return ( unescape ( results[1] ) );
+    }
+    else { return null; }
+    }
 
-<style type="text/css">	<!--
-	.plain  {
-		font-family : arial,helvetica,bold;
-		font-size : 8pt;
+function applystyle(){
+    var Currentfontsize ='x-small';
+    if (readCookie('ActiveFontSize')) {
+      var Currentfontsize = readCookie('ActiveFontSize');
+        setActiveTextSize(Currentfontsize);
+    } else {
 
-		color : #000000;
-		text-decoration : none;
-	}
-
-
-
-	.roll  {
-		font-family : arial,helvetica;
-		font-size : 8pt;
-
-		color : #000000;
-		text-decoration : none;
-	}
-
-	A.roll:hover  {
-		font-family : arial,helvetica;
-		font-size : 8pt;
-
-		color : #990000;
-		background-color: #FFFFC0;
-		text-decoration : none;
-	}
-
-	.menu  {
-		font-family : arial,helvetica;
-		font-size : 8pt;
-		color : #003366;
-		text-decoration : none;
-		font-weight : bold;
-	}
-
-	A.menu:hover  {
-		font-family : arial,helvetica;
-		font-size : 8pt;
-
-		color : #990000;
-		background-color: #FFFFC0;
-		text-decoration : none;
-		font-weight : bold;
-	}
-	-->
-</style>
+        setActiveTextSize(Currentfontsize);
+        }
+    document.getElementById(Currentfontsize).className  ='active';
+}
+</script>
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="5" marginwidth="0" marignheight="5">
+<body>
 
-<div align="left">
-<table width="775" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td colspan="3"><map name="tabs">
-<area alt="Home" coords="0,3,49,29" href="http://www.strang.com/">
-<area alt="Spanish Books" coords="52,4,151,28" href="http://www.casacreacion.com/">
-<area alt="Curriculum" coords="155,5,241,29" href="http://www.charismalife.com/">
-<area alt="Books" coords="244,3,294,28" href="http://www.charismawarehouse.com/">
-<area alt="Your Account" coords="597,10,677,27" href="http://www.strang.com/secure/cgi-bin/cart/cartit.cgi?command=checkout&amp;ao=1&amp;ssl=1">
-<area alt="Check Out" coords="687,7,716,28" href="http://www.strang.com/secure/cgi-bin/cart/cartit.cgi">
-<area alt="Help" coords="727,8,759,29" href="http://www.strang.com/help.html">
-</map>
-<img src="https://secure.strang.com/strang.com/images/tabs.gif" width="775" height="34" border="0" usemap="#tabs"></td>
-</tr>
+
+<div class="main">
+<div class="leaderboard">
+<!--/* ROADBLOCK LEADERBOARD */-->
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://christianadvertisingnetwork.com/openads/www/delivery/ajs.php':'http://christianadvertisingnetwork.com/openads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=20&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>-->
+</script><script type="text/javascript" src="https://christianadvertisingnetwork.com/openads/www/delivery/ajs.php?zoneid=20&amp;target=_blank&amp;cb=53284378021&amp;loc=https%3A//web.archive.org/web/20071213154638id_/http%253A//www.charismamag.com/privacy.php"></script>
+
+<noscript><a href='http://christianadvertisingnetwork.com/openads/www/delivery/ck.php?n=a094ea99&amp;cb=24564687987984546132132132' target='_blank'><img src='http://christianadvertisingnetwork.com/openads/www/delivery/avw.php?zoneid=20&amp;n=a094ea99' border='0' alt='' /></a></noscript>
+<!--/* ROADBLOCK LEADERBOARD */-->
+
+</div>
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="809">
+<tbody><tr><td colspan="2" style="background-image: url(http://www.charismamag.com/images/charisma-gold.gif); background-repeat: repeat-x; height: 147px">
+<table width="809" cellspacing="1" border="0">
+  <tbody><tr>
+    <td width="305"><a href="http://www.charismamag.com/"><img src="http://www.charismamag.com/images/charisma-logo.gif" width="305" height="104" alt="The official site of Charisma magazine, the premier publication of Strang Communications Company. Founded in 1975 by Stephen Strang, Charisma provides news, inspiration, prophetic commentary, and teaching for Charismatic and Pentecostal Christians. Charisma also provides exclusive online content, including up-to-the-minute news about the growth of Christianity throughout the world." border="0" hspace="11"></a>
+</td>
+    <td align="center"><a href="https://secure.strangmagazines.com/subscribe/?offer=cm">
+<img src="http://www.charismamag.com/images/get-free-issue.gif" border="0" alt="Get A Free Issue of Charisma Magazine"></a></td>
+  </tr>
+</tbody></table>
+</td></tr><form action="http://www.charismamag.com/search.php"></form>
+<tr><td valign="top" bgcolor="#1E4C72" width="632" align="center"><a href="http://www.charismamag.com/index.php" class="top_menu" bgcolor="#1E4C72">HOME</a> &nbsp;
+<a href="http://www.charismamag.com/toc.php" class="top_menu" bgcolor="#1E4C72">CURRENT ISSUE</a> &nbsp;
+<a href="http://forums.charismamag.com/" class="top_menu" bgcolor="#1E4C72">FORUMS</a> &nbsp;
+<a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()" class="top_menu" bgcolor="#1E4C72">BLOGS</a> &nbsp;
+<a href="http://www.charismamag.com/conferences/" class="top_menu" bgcolor="#1E4C72">CONFERENCE DIRECTORY</a> &nbsp;
+<a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()" class="top_menu">STORE</a>&nbsp;&nbsp;
+<a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()" class="top_menu">CONTACT US</a>&nbsp;&nbsp;</td><td width="177" valign="top" bgcolor="#1E4C72"><input type="text" name="query" value="SEARCH ARCHIVES" size="20" style="font-size: 9px;" onfocus="this.value='';">
+
+<input type="submit" name="submit" value="Find" style="vertical-align:middle"></td></tr>
 </tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="3" width="775" bgcolor="#99CCCC">
-<tbody><tr>
-
-	<td width="90" valign="top" style="background-color: #99CCCC; font-family: Arial, Helvetica, sans-serif;"><font color="#101077" style="font-weight: bold; font-size: 8pt;"><b>Strang Network:</b></font></td>
-
-	<td height="20" align="left" style="background-color: #99CCCC; font-family: Arial, Helvetica, sans-serif;"><font class="roll">
-
-	<a href="http://www.charismamag.com" target="_top" class="roll">Charisma</a>&nbsp;|&nbsp;
-
-	<a href="http://www.newmanmag.com" target="_top" class="roll">New Man</a>&nbsp;|&nbsp;
-
-	<a href="http://www.ministriestoday.com" target="_top" class="roll">Ministries Today</a>&nbsp;|&nbsp;
-
-	<a href="http://www.spiritledwoman.com" target="_top" class="roll">SpiritLed Woman</a>&nbsp;|&nbsp;
-
-	<a href="http://www.vidacristiana.com" target="_top" class="roll">Vida Cristiana</a>&nbsp;|&nbsp;
-
-	<a href="http://www.charismawarehouse.com" target="_top" class="roll">Charisma House</a>&nbsp;|&nbsp;
-
-	<a href="http://www.charismalife.com" target="_top" class="roll">CharismaLife</a>&nbsp;|&nbsp;
-
-	<a href="http://www.christianretailing.com" target="_top" class="roll">Christian Retailing</a>&nbsp;|&nbsp;
 
 
-	<a href="http://www.charismanews.com" target="_top" class="roll">Charisma News Service</a>&nbsp;|&nbsp;
 
-<a href="http://www.siloampress.com" target="_top" class="roll">Charisma HealthTalk</a>&nbsp;|&nbsp;
-	
-	<a href="http://www.casacreacion.com" target="_top" class="roll">Casa Creación</a>&nbsp;|
-	
-	<a href="http://www.youthchurch.com" target="_top" class="roll">Youth Church</a>&nbsp;|
-	
-	<a href="http://www.kidschurch.com" target="_top" class="roll">Kids Church</a>
 
-	</font>
-	</td>
-	</tr>
-	</tbody></table>	
-	
-<table border="0" cellpadding="0" cellspacing="0" width="775" bgcolor="#001073">	
-<tbody><tr>
-    <td width="150" align="center" bgcolor="#001073"><img src="https://secure.strang.com/strang.com/images/logo.gif" width="150" height="67" border="0" alt=""></td>
-    <td width="625" bgcolor="#001073" colspan="2" align="center">
+<!--BEGIN CONTENT //-->
+<div>
+<div>
+<div class="floatleft" align="center">
+  <table cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td colspan="2" valign="top"><hr align="left" noshade="noshade" size="1" width="100%"></td>
+    </tr>
+    <tr>
+      <td valign="top" width="884">
+        <div>Strang Communications Privacy   Policy</div>
+        <div>&nbsp;</div>
+        <div>
+          <div><strong><u>Privacy Policy Statement</u></strong></div>
+          <div>&nbsp;</div>
+          <div>This is the web site of Strang Communications.&nbsp;Protecting your privacy is   paramount.&nbsp;To assure you of your privacy, we provide this notice to assist you   in understanding our commitment to security, what kind of information we gather   about you when you visit our site, how we use that information, and how you can   correct the information.&nbsp;By providing this information to you, we enable you to   control your data.</div>
+          <div>&nbsp;</div>
+          <div><strong><u>Our postal address is</u></strong></div>
+          <div>&nbsp;</div>
+          <div>600 Rinehart Road</div>
+          <div>Lake Mary, Florida, 32746</div>
+          <div>&nbsp;</div>
+          <div><strong><u>We can be reached via e-mail at</u></strong> <a href="mailto:webmaster@strang.com">webmaster@strang.com</a> or you can reach us   by telephone at 407-333-06000</div>
+          <div>&nbsp;</div>
+          <div><strong><u>For each visitor to our Web page</u></strong>, our Web server   automatically recognizes only the consumer's domain name, but not the e-mail   address (where possible).</div>
+          <div>&nbsp;</div>
+          <div><strong><u>E-mail Addresses</u></strong></div>
+          <div>&nbsp;</div>
+          <div>We collect the e-mail addresses of those who post messages to our bulletin   board, the e-mail addresses of those who communicate with us via e-mail, the   e-mail addresses of those who make postings to our chat areas, aggregate   information on what pages consumers access or visit, information volunteered by   the consumer, such as survey information and/or site registrations, name and   address, telephone number, fax number, payment information (e.g., credit card   number and billing address).</div>
+          <div>&nbsp;</div>
+          <div><strong><u>Cookies</u></strong></div>
+          <div>&nbsp;</div>
+          <div>With respect to cookies: We use cookies to store visitors preferences,   record session information, such as items that consumers add to their shopping   cart.</div>
+          <div>&nbsp;</div>
+          <div>"Cookies" are a form of information that can be stored on your computer by   a Web server for a variety of reasons. The Strang Communications Online (SCO)   uses cookies, but our online visitors should be assured that cookies are simply   used by us to facilitate automated activity that:</div>
+          <div>Passes no significant information about the user to the Internet or to   Strang Communications </div>
+          <div>Is not analyzed to yield any information. </div>
+          <div>&nbsp;</div>
+          <div>We use “cookies” for the following interaction with our Web sites: </div>
+          <div><strong>&nbsp;</strong></div>
+          <div><strong>Navigation and Personalization</strong>: Some actions that a user   may take in SCO, particularly during Web publishing, may cause us to take the   user through a series of steps that can be entered from a variety of locations.   To make sure that we return the user to where they expect to be when they   complete these steps, SCO will frequently send the user's browser a cookie to   mark their current location. This sort of Web server "bookmark" helps us to   provide a positive, predictable user experience for more sophisticated   operations. If you choose to personalize your online visit with us by providing   your name and city, we set a permanent cookie to display the information each   time you visit. This “cookie” can be disabled or removed within your browser   settings. However, browsers that have cookies disabled will always remain at   "guest" status. We also use them to deliver content specific to your interests,   and to save your password so you don't have to re-enter it each time you visit   our site. We also use cookies to keep track of your shopping cart, and to make   sure you don't see the same ad repeatedly.&nbsp;</div>
+          <div>&nbsp;</div>
+          <div>We do not use cookies for any other purpose, although this may change as we   offer new features.</div>
+          <div>&nbsp;</div>
+          <div><strong><u>Information We Collect</u></strong></div>
+          <div>&nbsp;</div>
+          <div>The information we collect when you visit a Strang Communications website,   is used for internal review and is then discarded, used to improve the content   of our Web page, used to customize the content and/or layout of our page for   each individual visitor, used to notify consumers about updates to our Web site,   used by us to contact consumers for marketing purposes and .</div>
+          <div>&nbsp;</div>
+          <div>If you do not want to receive e-mail from us in the future, please let us   know by sending us e-mail at the above address, calling us at the above   telephone number, writing to us at the above address, visiting us at <a href="http://www.strang.com/unsubscribe.php">http://www.strang.com/unsubscribe.php</a>.</div>
+          <div>&nbsp;</div>
+          <div>If you supply us with your postal address on-line you may receive periodic   mailings from us with information on new products and services or upcoming   events.&nbsp;&nbsp; If you do not wish to receive such mailings, please let us know   by calling us at the number provided above, e-mailing us at the above address,   writing to us at the above address, visiting us at <a href="http://www.strang.com/unsubscribe.php">http://www.strang.com/unsubscribe.php</a>.</div>
+          <div>&nbsp;</div>
+          <div>Please provide us with your exact name and address. We will be sure your   name is removed from the list we share with other organizations&nbsp;</div>
+          <div>&nbsp;</div>
+          <div>Persons who supply us with their telephone numbers on-line will only   receive telephone contact from us with information regarding orders they have   placed on-line.</div>
+          <div>&nbsp;</div>
+          <div>Please provide us with your name and phone number. We will be sure your   name is removed from the list we share with other organizations With respect to   Ad Servers: To try and bring you offers that are of interest to you, we have   relationships with other companies that we allow to place ads on our Web pages.   As a result of your visit to our site, ad server companies may collect   information such as your domain type, your IP address and clickstream   information.&nbsp;For further information, consult the privacy policies of: <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp">http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp</a></div>
+          <div>&nbsp;</div>
+          <div>From time to time, we may use customer information for new, unanticipated   uses not previously disclosed in our privacy notice.&nbsp;If our information   practices change at some time in the future we will post the policy changes to   our Web site to notify you of these changes and provide you with the ability to   opt out of these new uses.&nbsp;If you are concerned about how your information is   used, you should check back at our Web site periodically.</div>
+          <div>&nbsp;</div>
+          <div>Customers may prevent their information from being used for purposes other   than those for which it was originally collected by e-mailing us at the above   address, calling us at the above telephone number, writing to us at the above   address.</div>
+          <div>&nbsp;</div>
+          <div>Upon request we provide site visitors with access to all information   [including proprietary information] that we maintain about them, financial   information (e.g., credit card account information) that we maintain about them,   unique identifier information (e.g., customer number or password) that we   maintain about them, transaction information (e.g., dates on which customers   made purchases, amounts and types of purchases) that we maintain about them,   contact information (e.g., name, address, phone number) that we maintain about   them , a description of information that we maintain about them.</div>
+          <div>&nbsp;</div>
+          <div>Consumers can access this information by e-mail us at the above address,   write to us at the above address, writing to us at the above address.</div>
+          <div>&nbsp;</div>
+          <div>Upon request we offer visitors the ability to have inaccuracies corrected   in contact information, financial information, unique identifiers, transaction   information.</div>
+          <div>&nbsp;</div>
+          <div>Consumers can have this information corrected by sending us e-mail at the   above address, calling us at the above telephone number, writing to us at the   above address.</div>
+          <div>&nbsp;</div>
+          <div><strong><u>E-mail Newsletters</u></strong></div>
+          <div>&nbsp;</div>
+          <div>When you request a free e-mail newsletter from Strang   Communications, we will collect and store your e-mail address to provide you   with the requested newsletter.&nbsp;Occassionaly, we may also send you special   offers.&nbsp;You have the option at each newsletter to change your e-mail address,   opt-out of receiving special e-mailed offers, or remove yourself from any   mailing list by following instructions contained in each newsletter or selecting   one of the following options:</div>
+          <div>&nbsp;</div>
+          <div>UNSUBSCRIBE NOTICE:<br>
+            If you wish to unsubscribe <a title="http://www.strangmail.com/sendstudio/link.php?M=279228&amp;N=291&amp;L=1106" href="http://www.strangmail.com/sendstudio/link.php?M=279228&amp;N=291&amp;L=1106">click   here</a></div>
+          <div>&nbsp;</div>
+          <div><u><strong>Bulletin Board, Forums and Online   Chat</strong></u>
+              <div>&nbsp;</div>
+            This site has chat rooms, forums, message boards,   and/or news groups available to its users. Please remember that any information   that is disclosed in these areas becomes public information and you should   exercise caution when deciding to disclose your personal   information.</div>
+          <div>&nbsp;</div>
+          <div><u><strong>External Links</strong></u>
+              <div>&nbsp;</div>
+            This site contains links to other sites. SCO is not   responsible for the privacy practices or the content of such Web   sites.</div>
+          <div>&nbsp;</div>
+          <div></div>
+          <div><strong><u>Security Safeguards</u></strong></div>
+          <div>&nbsp;</div>
+          <div>With respect to security: The customer data we collect is protected against   unauthorized access. We have appropriate physical, electronic and procedural   safeguards in place in our physical facilities to protect against the loss,   misuse or alteration of information that we have collected from you at our   site.</div>
+          <div>It is our policy to always use industry-standard encryption technologies   and processes such as&nbsp;access control procedures and network firewalls to protect   such servers. User accounts and related information are password protected using   industry-standard, commercially reasonable methods . </div>
+          <div>Sensitive information including but not limited to financial information   that is transferred or received at our site, is redirected to a secure server   and a notification in the form of a pop-up window is displayed.</div>
+          <div>&nbsp;</div>
+          <div>Information collected from online visitors is stored on database and other   servers kept in secure locations under the custody and control of Strang   Communications or its third party vendors</div>
+          <div>&nbsp;</div>
+          <div>Strang Communications makes commercially reasonable efforts   to protect such information and to limit its use and disclosure of such   information as described herein, but cannot guarantee that such efforts will be   successful.</div>
+          <div>&nbsp;</div>
+          <div><u><strong>Children's Online Privacy Protection Act   (COPPA)</strong></u>
+              <div>&nbsp;</div>
+            We care about children and understand that they have special privacy   needs. Therefore, we have adopted the following privacy policy regarding   children: </div>
+          <ol type="1">
+            <li>We will NOT collect, use, or distribute to third parties personally   identifiable information without prior verifiable parental consent. </li>
+            <li>We will NOT give the child access to unmonitored chat rooms, message boards,   email accounts, or other services that would give the child the ability to   publicly post or otherwise distribute personally identifiable information   without prior verifiable parental consent </li>
+            <li>When verifiable parental consent is not obtained, we will only use the   online contact information (such as email) to:
+              <ol type="a">
+                  <li>Respond directly to the child's request on a one-time basis and not use that   information to re-contact the child for other purposes. </li>
+                <li>Request the name or online contact information of a parent for the purpose   of obtaining verifiable parental consent or providing parental notification. </li>
+                <li>Respond more than once directly to a specific request from a child (such as   in the case where a child requests a newsletter subscription) and not used to   re-contact the child for other purposes. We will use our best efforts to provide   parental notification, which will include the nature and intended use as well as   an opportunity for the parent to prevent the use of the information and   participation in the activity. </li>
+              </ol>
+            </li>
+            <li>We will provide the parent a description of the specific types of a   personally identifiable information collected from their child upon request. We   will allow the parent to refuse further use or future online collection of   personally identifiable information and provide a way for a parent to obtain any   personally identifiable information collected from their child. </li>
+            <li>We will provide notice to children in age appropriate terms of what   personally identifiable information is to be collected. </li>
+            <li>We will NOT provide any links to Web sites that are unsuitable for children. </li>
+            <li>We will encourage children to get their parent's permission before sharing   personal information online. </li>
+          </ol>
+          <div>Any questions regarding the information we collect from   children or our parental consent policy should be directed to:</div>
+          <div>&nbsp;</div>
+          <div>Customer Service<br>
+            Strang Communications Co.<br>
+            600 Rinehart Rd.<br>
+            Lake   Mary, FL 32746<br>
+            (407) 333-0600<br>
+            <a href="mailto:custsvc@strang.com">custsvc@strang.com</a> </div>
+          <div>&nbsp;</div>
+          <div><strong><u>Your Rights </u></strong></div>
+          <div>&nbsp;</div>
+          <div>If you feel that this site is not following its stated information policy,   you may contact us at the above addresses or phone number.&nbsp;Your have the right   to expect us to adhere to this policy and if we are not following your   expectations, we need to know immediately so the issue may be addressed.</div>
+          <div>&nbsp;</div>
+          <div><strong><u>How to Contact Us</u></strong></div>
+          <div>&nbsp;</div>
+          <div>If you have any questions or concerns about any item   contained in this Privacy Statement or its implementation please contact us via   email at <a href="mailto:webmaster@strang.com">webmaster@strang.com</a>or at the   following address:</div>
+          <div>&nbsp;</div>
+          <div>Strang Communications, Inc.</div>
+          <div>Attention: Webmaster</div>
+          <div>600 Rinehart Rd.</div>
+          <div>Lake Mary, FL&nbsp;32746</div>
+          <div>&nbsp;</div>
+          <div><a href="http://strang.com/">http://strang.com/</a></div>
+          <div>&nbsp;</div>
+          <div>This Privacy Notice was revised August 7, 2007</div>
+          <div>&nbsp;</div>
+          <div>Copyright © 1997-2007 Strang Communications</div>
+        </div>
+        <p>&nbsp;</p>
 
-<!-- START ADCYCLE SSI MEDIA CODE for Strang Communications Main Sites -->
-<script language="javascript">
-<!-- /* © 2001 AdCycle.com All Rights Reserved.*/ 
-document.cookie="i1=156:253:1:1070424750:823|||||||||||||||||||||||||||||||||||; path=/; expires=Fri, 02-Jan-2004 04:12:30 GMT";
-// -->
+</td>
+    </tr>
+  </tbody></table>
+  </div>
+</div>
+
+<div class="bio_right"></div>
+
+</div>
+<!--END CONTENT //-->
+
+
+<div class="leaderboard">
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://christianadvertisingnetwork.com/openads/www/delivery/ajs.php':'http://christianadvertisingnetwork.com/openads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=62&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://christianadvertisingnetwork.com/openads/www/delivery/ajs.php?zoneid=62&amp;target=_blank&amp;cb=38863836205&amp;loc=https%3A//web.archive.org/web/20071213154638id_/http%253A//www.charismamag.com/privacy.php"></script><noscript><a href='http://christianadvertisingnetwork.com/openads/www/delivery/ck.php?n=a68c8405&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://christianadvertisingnetwork.com/openads/www/delivery/avw.php?zoneid=62&amp;n=a68c8405' border='0' alt='' /></a></noscript>
+</div>
+
+<div class="bottom_bar">
+<a href="http://www.charismamag.com" class="bottom_menu">home</a> &nbsp; | &nbsp; 
+<a href="http://www.charismamag.com/guidelines.php" class="bottom_menu">writers guidlines</a> &nbsp; | &nbsp; 
+<a href="http://www.strang.com/mediacentral" class="bottom_menu">advertising</a> &nbsp; | &nbsp;
+<a href="http://www.charismamag.com/newsletters.php" class="bottom_menu">newsletters</a> &nbsp; | &nbsp;
+<a href="http://www.charismamag.com/link-to-us.php" class="bottom_menu">link to us</a> &nbsp; | &nbsp; 
+<a href="http://www.charismamag.com/bio.html" class="bottom_menu">about us </a>&nbsp; | &nbsp; 
+<a href="http://www.strangmagazines.com/cs" class="bottom_menu">customer service</a> &nbsp; | &nbsp;
+<a href="http://www.charismamag.com/privacy.php" class="bottom_menu">privacy policy</a>
+<div style="padding-top: 3px; width: auto"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: #FFFFFF">Other Strang sites:</span> &nbsp;
+
+<a href="http://www.ministrytodaymag.com" class="bottom_menu">Ministry Today</a> &nbsp; | &nbsp;
+
+<a href="http://www.newmanmag.com" class="bottom_menu">New Man</a> &nbsp; | &nbsp;
+
+<a href="http://www.vidacristiana.com" class="bottom_menu">Vida Cristiana</a> &nbsp; | &nbsp;
+
+<a href="http://www.spiritledwoman.com/" class="bottom_menu">SpiritLed Woman</a> &nbsp; | &nbsp;
+
+<a href="http://www.christianretailing.com/" class="bottom_menu">Christian Retailing</a> &nbsp;&nbsp;</div>
+</div>
+
+<span style="font-size: 0.8em"> © Copyright 2007 Strang Communications, All Rights Reserved<br>
+
+The content found on this Web site may not be published, rewritten, broadcast or redistributed without the expressed permission of the publisher. For rights and permissions, please email <a href="mailto:charisma@strang.com">charisma@strang.com</a>.</span>
+
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-<!-- START ADCYCLE  HTML CODE --><a href="http://corp2.strang.com/banneradmin/adclick.cgi?cid=156&amp;mid=253&amp;gid=7&amp;id=823" target="_top"><img src="https://secure.strang.com/strang.com/banners/biblepathway.gif" width="468" height="60" border="0" alt="Click to Visit"></a><br><!-- END ADCYCLE HTML CODE -->
-
-<!-- END ADCYCLE CODE -->
-	</td>
-</tr>
-<tr>
-    <td height="5" colspan="3" align="center" bgcolor="#99CCCC"></td>
-</tr>
-</tbody></table>
-
-
-      
-<table width="775" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="150" align="center" bgcolor="#99CCCC" valign="top">
-	<table width="150" bgcolor="#99CCCC" cellspacing="3" cellpadding="2" border="0">
-	
-<tbody><tr>
-    <td align="center" style="background-color: #2B66A2;"><font color="#FFFFFF" style="font-family: Arial,
-Helvetica, sans-serif;
-font-size: 8pt; font-weight: bold;">SEARCH PRODUCTS</font>
-</td>   
-</tr>
-
-<tr>
-    <td width="165" valign="top" style="background-color: #99CCCC;">
-	<form action="http://www.charismawarehouse.com/search_results.php">
-<font face="arial,helvetica,sans-serif" size="1"><b>Search for a book by author, title or your keyword(s)</b></font><br><br>
-
-<select name="SearchType">
-<option name="SEARCH" value="Title">Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
-<option name="SEARCH" value="Author">Author</option>
-<option name="SEARCH" value="Keywords">Keywords</option>
-</select>
-
-<input name="search_results" type="text" size="20">
-<input type="image" border="0" value="Go" name="Search" src="https://secure.strang.com/strang.com/images/search.gif">
-</form>
-
-</td>
-</tr>
-
-
-<tr>
-    <td align="center" style="background-color: #2B66A2;"><font color="#FFFFFF" style="font-family: Arial,
-Helvetica, sans-serif;
-font-size: 8pt; font-weight: bold;">BEST VIEWS</font>
-</td>   
-</tr>
-
-<tr>
-    <td width="150" valign="top" style="background-color:  #99CCCC;">
-<font face="arial,helvetica,sans-serif" size="2">
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://cbw.strang.com/bestsellers.cgi" class="menu">Bestsellers</a><br>
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://cbw.strang.com/whatsnew.cgi" class="menu">New Releases</a><br>
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://cbw.strang.com/authors.pl" class="menu">View by Author</a><br>
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://cbw.strang.com/categorylist.pl" class="menu">View by Category</a><br>
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.charismalife.com" class="menu">Church Resources</a><br>
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/offer.htm" class="menu">Magazines</a><br>
-
-</font></td>
-</tr>
-	
-	
-<tr>
-    <td colspan="2" align="center" bgcolor="#2B66A2"><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">GET CONNECTED</font></td>
-</tr>
-<tr>
-    <td colspan="2" bgcolor="#99CCCC">
-	
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
-			<a href="http://www.strang.com/newsletters.php" class="menu">Free
-Newsletters</a><br>
-			
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
-			<a href="http://www.strang.com/offer.htm" class="menu">Subscribe Online</a><br>
-			
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
-                        <a href="http://www.strang.com/bulksubs.html" class="menu">Bulk Subscriptions</a><br>
-
-
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
- 			<a href="http://forums.strang.com" class="menu">Interactive Forums</a><br>		
-			
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
-			<a href="http://www.charismanews.com" class="menu">Read Online News</a><br>
-			
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">
-			<a href="http://www.spiritledwoman.com/devotional/" class="menu">Women's Devotional</a><br>
-
-
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
- 			<a href="http://www.strang.com/conference/topics" class="menu">Conference Listings</a><br>
-			
-</td>
-</tr>
-
-<tr>
-    <td colspan="2" align="center" bgcolor="#2B66A2"><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">HELP DESK</font></td>
-</tr>
-<tr>
-    <td colspan="2" bgcolor="#99CCCC">
-	
-	  <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/faq/" class="menu">FAQ</a><br>
-				
-
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">  <a href="http://www.strang.com/custsvc.html" class="menu">Contact Us</a><br>
-
-
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 
-			<a href="http://www.charisma.net/gospel/cgi-sc/bannerad/clients/advertis/" class="menu">Advertising Info</a><br>
-
-			
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> 			
- <a href="http://www.strang.com/custsvc.html" class="menu">Customer Service</a><br>
-
-</td>
-</tr>
-<tr>
-    <td colspan="2" align="center" bgcolor="#2B66A2"><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">ABOUT US</font></td>
-</tr>
-<tr>
-    <td colspan="2" bgcolor="#99CCCC">
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/wwa" class="menu">Who is Strang?</a><br> 
-
-
-
- <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/wwa/history/founders.htm" class="menu">Our Founders</a><br>
-
-
-  <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/wwa/mission/index.htm" class="menu">Statement of Faith</a><br>
-			
-  <img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0"> <a href="http://www.strang.com/statement.html" class="menu">Privacy Statement</a><br>			
-			
-			
-<img src="http://www.strang.com/secure/images/blankcream.gif" width="5" height="6" border="0">  <a href="http://www.strang.com/jobs" class="menu">Jobs@Strang</a><br>
-			
-
-</td>
-</tr>
-
-</tbody></table>
-<br>
-
-
-<table border="0" bgcolor="#FCCE43" cellpadding="3" cellspacing="2" width="155">
-<tbody><tr>
-	<td align="center" valign="middle" style="background-color: Black;"><font color="#FFFFFF" style="font-family: Arial,
-Helvetica, sans-serif; font-size: 8pt; font-weight: bold;">SPECIAL EVENTS</font></td>
-	</tr><tr><td align="center" bgcolor="#2B66A2" ;=""><p><font color="#FFFFFF" style="font-family: Arial, Helvetica, sans-serif; 
-font-size: 8pt; font-weight: bold;">Updated as of <br> December 2, 2003</font></p></td></tr>
-	<tr>
-	<td style="background-color: #FEFEEB;"><font color="#000000" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt;">
-Women's Conference 2004<br>
-Daytona Beach FL<br>
-April 22-24, 2004<br>
-<a href="http://www.spiritledwoman.com/womensconference/">click here for more info</a><br>
-<br>
-</font>
-</td></tr></tbody></table>
-
-</td>
-<td width="10"></td>
-<td valign="top">
-
-<br>
-
-
-<div class="Section1">
-<font face="Arial,Helvetica">
-<h2>Privacy Policy</h2></font>
-<p class="MsoNormal"><span style="font-size:10.0pt;font-family:Arial,Helvetica">At Strang
-Communications, we are committed to protecting your privacy. We use the
-information we collect about you to send you information about the latest
-products and services and to learn from you about new products and services
-that you would like us to provide. Please read on for more details about our
-privacy policy.</span> </p>
-
-<p><b><span style="font-family:Arial,Helvetica">What information do we collect? How
-will we use it?</span></b> <span style="font-size:10.0pt;font-family:Arial,Helvetica"><o:p></o:p></span></p>
-
-<ul type="disc">
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
-     font-family:Arial,Helvetica">When you sign up for our newsletters, we need to know
-     your e-mail address, first and last name. <span style="mso-spacerun: yes">&nbsp; </span>We gather this information only to get
-     a better understanding of who you are and better serve you. We may use
-     your name in order to personalize communications we have with you. <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
-     font-family:Arial,Helvetica">When you sign up for a web-based (online) or print
-     subscription online, we collect your name, address, phone number, payment
-     information and e-mail address. This is done so we can send the issues to you
-     by mail or grant you access to our online subscriber’s area.</span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
-     font-family:Arial,Helvetica">Us or our partners may also use the information collected to
-     occasionally notify you about special promotions, events and products
-     updates, services and special offers you may find valuable. You must "opt-in" at <a href="http://www.strang.com/account.php">http://www.strang.com/account.php</a> in order to receive
-this information via email from our partners, but you will always receive special promotions,
-events and products
-     updates, services and special offers from us.</span>
-     </li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
-     font-family:Arial,Helvetica">We do not sell your personal information to others.
-     However, we do rent our customer list of subscribers from our print
-     magazine versions and offer our email lists availble to our partners of those subscribers who have
-"opt-in." We may provide aggregate statistics about our
-     customers, traffic patterns, and related demographic information to
-     our partners, but these statistics will include no
-     personally identifying information.</span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">Our site's registration,
-     order and survey forms require users to give us contact information (like
-     their name, email, and postal address), financial information (like their
-     bank account or credit card numbers),&nbsp;and demographic information
-     (like their zip code, age, or income level). Contact information from the
-     these forms are used to ship purchases and information about our company. The
-     customer's contact information is also used to get in touch with the
-     you when necessary.</span></li>
-</ul>
-
-<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-margin-left:.25in"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
-
-<p><b><span style="font-family:Arial,Helvetica;mso-bidi-font-family:Arial">Use of
-Cookies</span></b><span style="font-size:10.0pt;font-family:Arial,Helvetica"><br>
-</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
-Arial,Helvetica;mso-bidi-font-family:Arial"><span style="mso-spacerun:
-yes">&nbsp;</span>"Cookies" are a form of information that can be stored
-on your computer by a Web server for a variety of reasons. The Strang
-Communications Online (SCO) uses cookies, but our online visitors should be assured
-that cookies are simply used by us to facilitate automated activity that:<o:p></o:p></span></p>
-
-<ol start="1" type="a">
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo6;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;mso-bidi-font-family:Arial">Passes
-     no significant information about the user to the Internet or to Strang
-     Communications <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l2 level1 lfo6;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;mso-bidi-font-family:Arial">Is
-     not analyzed to yield any information.<o:p></o:p></span></li>
-</ol>
-
-<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">We use “cookies” for the following interaction with
-our Web sites: <o:p></o:p></span></p>
-
-<p><b><span style="font-family:Arial,Helvetica">Navigation and Personalization</span></b><span style="font-family:Arial,Helvetica">: </span><span style="font-size:10.0pt;mso-bidi-font-size:
-12.0pt;font-family:Arial,Helvetica">Some actions that a user may take in SCO,
-particularly during Web publishing, may cause us to take the user through a
-series of steps that can be entered from a variety of locations. To make sure that
-we return the user to where they expect to be when they complete these steps,
-SCO will frequently send the user's browser a cookie to mark their current
-location. This sort of Web server "bookmark" helps us to provide a
-positive, predictable user experience for more sophisticated operations. If you
-choose to personalize your online visit with us by providing your name and
-city, we set a permanent cookie to display the information each time you visit.
-This “cookie” can be disabled or removed within your browser settings. </span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">However, browsers that have cookies disabled will
-always remain at "guest" status. </span><span style="font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We also use them to deliver
-content specific to your interests, and to save your password so you don't have
-to re-enter it each time you visit our site. W</span><span style="font-size:
-10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;mso-bidi-font-family:Arial">e
-also use</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
-font-family:Arial,Helvetica"> cookies to keep track of your shopping cart, and to make
-sure you don't see the same ad repeatedly.&nbsp;<o:p></o:p></span></p>
-
-<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">We do not use cookies for any other purpose,
-although this may change as we offer new features.<o:p></o:p></span></p>
-
-<h4><span style="font-family:Arial,Helvetica">Bulletin Board, Forums and Online Chat</span><span style="mso-bidi-font-size:10.0pt"><br>
-</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
-Arial,Helvetica;font-weight:normal">This site has chat rooms, forums, message boards,
-and/or news groups available to its users. Please remember that any information
-that is disclosed in these areas becomes public information and you should
-exercise caution when deciding to disclose your personal information. </span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial;font-weight:normal"><o:p></o:p></span></h4>
-
-<h4><span style="font-family:Arial,Helvetica;mso-bidi-font-family:Arial">External Links</span><span style="mso-bidi-font-size:10.0pt"><br>
-</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
-Arial,Helvetica;font-weight:normal">This site contains links to other sites. SCO is not
-responsible for the privacy practices or the content of such Web sites.</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial;font-weight:normal"><o:p></o:p></span></h4>
-
-<p><b><span style="font-family:Arial,Helvetica;mso-bidi-font-family:Arial">Security of
-Information Collected</span></b><span style="font-size:10.0pt;font-family:Arial,Helvetica"><br>
-The customer data we collect is protected against unauthorized access.</span> <span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">Strang Communications maintains personal
-information gathered online in a secure environment protected from unauthorized
-third party access, alteration, or misuse. Information collected from online
-visitors is stored on database and other servers kept in secure locations under
-the custody and control of Strang Communications or its third party vendors.
-Strang Communications also uses technologies and processes such as encryption,
-access control procedures and network firewalls to protect such servers. User
-accounts and related information are password protected using
-industry-standard, commercially reasonable methods. <o:p></o:p></span></p>
-
-<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">Strang Communications makes commercially reasonable
-efforts to protect such information and to limit its use and disclosure of such
-information as described herein, but cannot guarantee that such efforts will be
-successful.<o:p></o:p></span></p>
-
-<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></span></p>
-
-<h4><span style="font-family:Arial,Helvetica;mso-bidi-font-family:Arial">Children's
-Online Privacy Protection Act (COPPA)</span><span style="font-size:10.0pt;
-font-family:Arial,Helvetica"><br>
-</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
-Arial,Helvetica;font-weight:normal">We care about children and understand that they
-have special privacy needs. Therefore, we have adopted the following privacy
-policy regarding children: <o:p></o:p></span></h4>
-
-<ol start="1" type="1">
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will NOT collect, use,
-     or distribute to third parties personally identifiable information without
-     prior verifiable parental consent. <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will NOT give the child
-     access to unmonitored chat rooms, message boards, email accounts, or other
-     services that would give the child the ability to publicly post or
-     otherwise distribute personally identifiable information without prior
-     verifiable parental consent <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">When verifiable parental
-     consent is not obtained, we will only use the online contact information
-     (such as email) to: <o:p></o:p></span></li>
- <ol start="1" type="a">
-  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l0 level2 lfo9;tab-stops:list 1.0in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">Respond
-      directly to the child's request on a one-time basis and not use that
-      information to re-contact the child for other purposes. <o:p></o:p></span></li>
-  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l0 level2 lfo9;tab-stops:list 1.0in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">Request
-      the name or online contact information of a parent for the purpose of
-      obtaining verifiable parental consent or providing parental notification.
-      <o:p></o:p></span></li>
-  <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;mso-list:l0 level2 lfo9;tab-stops:list 1.0in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">Respond
-      more than once directly to a specific request from a child (such as in
-      the case where a child requests a newsletter subscription) and not used
-      to re-contact the child for other purposes. We will use our best efforts
-      to provide parental notification, which will include the nature and
-      intended use as well as an opportunity for the parent to prevent the use of
-      the information and participation in the activity. <o:p></o:p></span></li>
- </ol>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will provide the parent
-     a description of the specific types of a personally identifiable
-     information collected from their child upon request. We will allow the
-     parent to refuse further use or future online collection of personally
-     identifiable information and provide a way for a parent to obtain any
-     personally identifiable information collected from their child. <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will provide notice to
-     children in age appropriate terms of what personally identifiable
-     information is to be collected. <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will NOT provide any
-     links to Web sites that are unsuitable for children. <o:p></o:p></span></li>
- <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     mso-list:l0 level1 lfo9;tab-stops:list .5in"><span style="font-size:10.0pt;
-     mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica">We will encourage children
-     to get their parent's permission before sharing personal information
-     online.</span><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt"> </span></li>
-</ol>
-
-<p class="MsoBodyText" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">Any questions regarding the information we collect from
-children or our parental consent policy should be directed to:</p>
-
-<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial,Helvetica;
-mso-bidi-font-family:Arial">Customer Service<br>
-Strang Communications Co.<br>
-600 Rinehart Rd.<br>
-Lake Mary, FL 32746<br>
-(407) 333-0600<br>
-<a href="mailto:custsvc@strang.com">custsvc@strang.com</a> <o:p></o:p></span></p>
-
-<p><b><span style="font-family:Arial,Helvetica">Your consent </span></b><span style="font-size:10.0pt;font-family:Arial,Helvetica"><br>
-By using our Web site, you consent to the collection and use of this
-information. If we decide to change our privacy
-policy, we will post those changes on this page so that you are always aware of
-what information we collect, how we use it, and under what circumstances we
-disclose it. You will not receive these updates by snail mail or email.</span><b><span style="font-family:Arial,Helvetica"><o:p></o:p></span></b></p>
-</div>
-<br>
- </td>
- <td width="10"></td>
-   <td width="150" align="center" valign="top" bgcolor="#FFFFFF"><br>
-<!-- START ADCYCLE DIRECT BANNER CODE -->
-<!-- Group:150x250 Strang Site  Campaign:Church Chair 150x250 - Strang Site  Link:Ad #2-->
-<a href="http://corp2.strang.com/banneradmin/adclick.cgi?gid=22&amp;cid=107&amp;mid=268&amp;id=380" target="_top"><img src="http://corp2.strang.com/banneradmin/adcycle.cgi?gid=22&amp;cid=107&amp;mid=268&amp;id=380" width="150" height="250" border="0" alt="Click to Visit"></a>
-<!-- END ADCYCLE DIRECT BANNER CODE -->
-<br><br>
-<a href="http://www.strang.com/offer.htm"><img src="http://www.strang.com/images/giveget.gif" width="150" height="100" alt="" border="0"></a>
-<br><br>
-
-<br><a href="http://www.strang.com/bulksubs.html"><img src="http://www.charismamag.com/images/funds.gif" height="100" width="150" border="0"></a><br>
-<br>
-
-
-</td>
-</tr>
-</tbody></table>
-
-<table width="775" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td colspan="3" align="center" valign="middle" style="background-color: #023382;"><font color="#FFFFFF" style="font-family:Arial, Helvetica, sans-serif; font-size: 8pt;">© Copyright  2000 Strang Communications, All Rights Reserved</font></td>
-</tr>
-</tbody></table>
-</div>
-
-
+<script type="text/javascript">
+_uacct = "UA-1101388-2";
+urchinTracker();
+</script>
 
 
 </body></html>
