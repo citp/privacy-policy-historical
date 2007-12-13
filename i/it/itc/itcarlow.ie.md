@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516023657id_/http%3A//www.itcarlow.ie/privacy.asp%3Fuid%3Ditcarlow) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcarlow.ie privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213154734id_/http%3A//www.itcarlow.ie/privacy.asp%3Fuid%3Ditcarlow) for the most accurate reproduction.*
 
 # ITCarlow - Courses and Schools
 
