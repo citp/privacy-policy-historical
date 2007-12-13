@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607163638id_/http%3A//www.blessings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213050652id_/http%3A//blessings.com/privacy.html) for the most accurate reproduction.*
 
 # Blessings Christian Marketplace: Privacy Guidelines
 
