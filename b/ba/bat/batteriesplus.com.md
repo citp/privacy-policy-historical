@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607195603id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213223755id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Batteries Plus - Privacy Policy
 
@@ -61,8 +61,7 @@ We restrict access to your personal and account information to those who need ac
 
 We may share your personal and account information with our third party services providers, including but not limited to our credit card processors, web site developers and hosts, advertising agencies, third party shippers and other services providers, whose use of your information is limited to providing services to us. We do not sell, trade, rent or otherwise share your personal information with others. 
 
-We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims.   
-Your personal and account information may also be disclosed in event of any future connection with a sale of some or all of our business or a merger with another company.
+We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal and account information may also be disclosed in event of any future connection with a sale of some or all of our business or a merger with another company.
 
 How do you protect my personal and account information?  
 We use 128-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. 
@@ -73,12 +72,10 @@ How do I edit or delete my account information?
 You may edit your account information at anytime by signing in to your account and clicking “update account”. You can access, review and update your personal information. Your account can be deleted but doing so will result in not being able to access certain areas of the site. To delete your account, please call us at 1-800-677-8278 with specific instruction to delete your account.
 
 How can I give you feedback or contact you?  
-You may contact us through the [Contact Us](https://web.archive.org/web/20070607195603id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
+You may contact us through the [Contact Us](https://web.archive.org/web/20071213223755id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
 
 Batteries Plus  
 925 Walnut Ridge Drive  
 Hartland, WI 53029
 
 GP:1934782 v2
-
-go to top
