@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605054103id_/http%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213104419id_/http%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -22,6 +22,6 @@ This web site contains links to other sites. Please be aware that we Download3k.
 
 #### Related info:
 
-\- [Download3K Help / Troubleshooting](https://web.archive.org/web/20070605054103id_/http%3A//www.download3k.com/help.php)  
-\- [Download3K Terms of use](https://web.archive.org/web/20070605054103id_/http%3A//www.download3k.com/terms.php)   
+\- [Download3K Help / Troubleshooting](https://web.archive.org/web/20071213104419id_/http%3A//www.download3k.com/help.php)  
+\- [Download3K Terms of use](https://web.archive.org/web/20071213104419id_/http%3A//www.download3k.com/terms.php)   
 
