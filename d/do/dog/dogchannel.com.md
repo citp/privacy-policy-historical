@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614130103id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogchannel.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213134005id_/http%3A//www.dogchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Dog Channel - Animal Network Privacy Policy
 
@@ -65,3 +65,6 @@ You can also edit and update your subscription account information at any time b
 
 **CONTACT INFORMATION  
 ** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com).  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
+
+  
+
