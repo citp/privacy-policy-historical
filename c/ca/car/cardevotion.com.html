@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cardevotion.com privacy policy that was archived on 2007-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070623224459id_/http%3A//cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardevotion.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213094333id_/http%3A//www.cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -22,93 +22,7 @@
 			<td colspan="2" bgcolor="#FFFFFF" valign="top">
 				
 				<!--<table width="100%" border="0" cellpadding="1" cellspacing="0">-->
-					<style>
-BODY
-{font-family: verdana, tahoma, arial, sans-serif;
-font-size: 10pt;
-margin: 0px;
-margin-left: 3px;
-margin-right: 3px;
-padding: 0px;}
-
-#nav P
-{padding-top: 10px;
-margin: 0px;}
-
-H1
-{font-size: 12pt;
-font-weight: bold;
-padding-top: 15px;
-margin: 0;}
-
-table.navbar
-{font-size: 8pt;
-margin: 0px;
-padding: 0px; 
-border: 0px; 
-font-weight: bold;}
-
-table.menu
-{font-size: 8pt;
-margin: 0px;
-padding: 0px;
-font-weight: bold;}
-
-td.menuNormal
-{padding: 0px;
-color: black;
-font-weight: bold;
-vertical-align: top;
-margin: 0; padding-top: 2; padding-bottom: 2; border: 0px;
-font: 11px Arial, Geneva, Helvetica, sans-serif;
-font-weight:bold; 
-}
-
-td.menuHover
-{padding: 0px;
-color: black;
-font-weight: bold;
-vertical-align: top;
-margin: 0; padding-top: 2; padding-bottom: 2; border: 0px;
-/*remove the following line for drop-down menu with images*/
-/*background-color: lightblue;*/
-}
-
-div.menuNormal{
-	display: none;
-	position: static;	
-}
-
-div.menuHover
-{border: 1px solid #FFA316;
-background-color: #FFA316;
-display: inline;
-position: absolute;}
-
-a.menuitem:link
-{text-decoration: none;
-color: #FFFFFF;
-background-color: #FFA316;
-display: block;}
-
-a.menuitem:visited
-{text-decoration: none;
-color: #FFFFFF;
-background-color: #FFA316;
-display: block;}
-
-a.menuitem:hover
-{text-decoration: none;
-color: #FFA316;
-background-color:#FFe7a3;
-display: block;}
-
-a.menuitem:active
-{text-decoration: none;
-color: #FFFFFF;
-background-color: #FFA316;
-display: block;}
-</style>
+					<link rel="stylesheet" type="text/css" href="/common/include/css/nav_temp.css">
 <script type="text/JavaScript">
 	// JavaScript Document
 
@@ -128,6 +42,16 @@ display: block;}
 	
 	  td.className = "menuNormal";
 	  d.className = "menuNormal";
+	}
+	
+	function validateSearch(FormName)
+	{		
+		if (FormName.keyword.value == "")
+		{			
+			alert("Please enter a search term.");
+			FormName.keyword.focus();
+			return false
+		}				
 	}
 </script>
 <script type="text/JavaScript">
@@ -158,21 +82,26 @@ function MM_swapImage() { //v3.0
 </script>
 <table width="761" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 		<tbody><tr><td height="5"></td></tr>
-		
 		<tr>
 			<td>
 				<table cellpadding="0" cellspacing="0">
 					<tbody><tr>
-						<td width="201" bgcolor="#FFFFFF"><a href="http://www.cardevotion.com"><img src="/common/include/tabs/logo4.jpg" border="0" alt="Home"></a></td>			
-						<td width="558">
+						<td width="201" bgcolor="#FFFFFF"><a href="/default.asp"><img src="/common/include/tabs/logo4.gif" border="0" alt="Cardevotion.com"></a></td>			
+						<td width="558" align="right">
+							
 							<table align="right" cellspacing="0" cellpadding="0" border="0">
-								<tbody><tr>	
-									<td><input type="text" class="text05"></td>
+								<form name="FormSearch" action="/SearchResults.asp" method="post" onsubmit="return validateSearch(this)"></form>
+								<tbody><tr>
+									<td><a href="/refer.asp" class="FeatureBlockLink"><img src="/images/envelope.gif" border="0" style="vertical-align:top">Email this site to a friend</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>	
+									<td><input type="text" name="keyword" class="text05"></td>
 									<td width="5"></td>
-									<td><img src="/images/search.jpg"></td>
-									<td width="5"></td>
-								</tr>
-							</tbody></table>													  
+									<td><input type="image" src="/images/search.jpg"></td>
+									
+								</tr>								
+								
+							</tbody></table>							
+							
+							&nbsp;&nbsp;&nbsp;
 						</td>
 					</tr>
 			  </tbody></table>
@@ -184,20 +113,20 @@ function MM_swapImage() { //v3.0
 			  <table class="navbar" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				  <td class="menuNormal" onmouseover="expand(this);" onmouseout="collapse(this);">
-					<p style="margin:0px"><a href="http://www.cardevotion.com/Vehicles/default.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('NewandUsed','','/common/include/tabs/nav-hover_03.gif',1)"><img src="/common/include/tabs/nav_03.gif" name="NewandUsed" width="113" height="35" border="0"></a></p>
+					<p style="margin:0px"><a href="/Vehicles/default.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('NewandUsed','','/common/include/tabs/nav-hover_03.gif',1)"><img src="/common/include/tabs/nav_03.gif" name="NewandUsed" width="113" height="35" border="0"></a></p>
 					<div style="z-index:1;" class="menuNormal" width="155">
 					  <table class="menu" width="160">
 						<tbody><tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/Vehicles/UsedCar.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used Cars</a>
+						  <a href="/Vehicles/NewCar.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Cars</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/Vehicles/NewCar.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Cars</a>
+						  <a href="/Vehicles/UsedCar.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used Cars</a>
+						</td></tr>						
+						<tr><td class="menuNormal">
+						  <a href="/Vehicles/default.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 10 New and Used</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/Vehicles/default.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 10 New and Used</a>
-						</td></tr>
-						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/Vehicles/Search.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Search</a>
+						  <a href="/Vehicles/Search.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced Search</a>
 						</td></tr>
 					  </tbody></table>
 					</div>
@@ -208,38 +137,41 @@ function MM_swapImage() { //v3.0
 					<div style="z-index:1;" class="menuNormal" width="155">
 					  <table class="menu" width="155">
 						<tbody><tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/features/default.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Featured Articles</a>
+						  <a href="/features/default.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Featured Articles</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/Vehicles/Reviews.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must Read Reviews</a>
+						  <a href="/Vehicles/Reviews.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Must Read Reviews</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/features/streetsoftomorrow.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streets of Tomorrow</a>
+						  <a href="/features/streetsoftomorrow.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streets of Tomorrow</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/features/greencars.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Green Center</a>
+						  <a href="/features/greencars.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Green Center</a>
+						</td></tr>
+						<tr><td class="menuNormal">
+						  <a href="http://editor.cardevotion.com" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editor's Blog&nbsp;&nbsp;<font size="-3">NEW!</font></a>
 						</td></tr>
 					  </tbody></table>
 					</div>
 				  </td>
 			
 				  <td class="menuNormal">
-					<p style="margin:0px"><a href="http://www.cardevotion.com/Features/greencars.asp"><img src="/common/include/tabs/nav-hover_05.gif" alt="Green Cars" name="GreenCars" width="108" height="35" border="0"></a></p>					
+					<p style="margin:0px"><a href="/Features/greencars.asp"><img src="/common/include/tabs/nav-hover_05.gif" alt="Green Cars" name="GreenCars" width="108" height="35" border="0"></a></p>					
 				  </td>
 			
 				  <td class="menuNormal">
-					<p style="margin:0px"><a href="http://www.cardevotion.com/Features/streetsoftomorrow.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Streets','','/common/include/tabs/nav-hover_06.gif',1);"><img src="/common/include/tabs/nav_06.gif" alt="Future Cars" name="Streets" border="0"></a></p>					
+					<p style="margin:0px"><a href="/Features/streetsoftomorrow.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Streets','','/common/include/tabs/nav-hover_06.gif',1);"><img src="/common/include/tabs/nav_06.gif" alt="Streets" name="Streets" border="0"></a></p>					
 				  </td>
 			
 				  <td class="menuNormal" onmouseover="expand(this);" onmouseout="collapse(this);">
-					<p style="margin:0px"><a href="http://www.cardevotion.com/Features/automotivenews.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('News','','/common/include/tabs/nav-hover_07.gif',1);"><img src="/common/include/tabs/nav_07.gif" alt="News" name="News" border="0"></a></p>
+					<p style="margin:0px"><a href="/Features/automotivenews.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('News','','/common/include/tabs/nav-hover_07.gif',1);"><img src="/common/include/tabs/nav_07.gif" alt="News" name="News" border="0"></a></p>
 					<div style="z-index:1;" class="menuNormal" width="150">
 					  <table class="menu" width="155">
 						<tbody><tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/features/automotivenews.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automotive News</a>
+						  <a href="/features/automotivenews.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automotive News</a>
 						</td></tr>
 						<tr><td class="menuNormal">
-						  <a href="http://www.cardevotion.com/features/industryevents.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industry Events</a>
+						  <a href="/features/industryevents.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industry Events</a>
 						</td></tr>						
 					  </tbody></table>
 					</div>
@@ -249,30 +181,30 @@ function MM_swapImage() { //v3.0
 					<p style="margin:0px"><a href="#" onfocus="javascript:show(&quot;nne&quot;)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Finance','','/common/include/tabs/nav-hover_08.gif',1)"><img src="/common/include/tabs/nav_08.gif" alt="Finance" name="Finance" border="0"></a></p>
 					<div style="z-index:1;" class="menuNormal" width="155">
 					  <table class="menu" width="155">
-					  	
 						<tbody><tr><td class="menuNormal">
 						  <a href="https://www.cardevotion.com/content/autoloan/autoloan3.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Auto Loan Quote</a>
 						</td></tr>
-						
 						<!--
 						<tr><td class="menuNormal">
-						  <a href="https://www.harborcredit.com/partners/CarDevotionLoans/landing_purchase.php" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Autoloan Quote</a>
+						  <a href="https://www.harborcredit.com/partners/CarDevotionLoans/landing_purchase.php" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Insurance Quote</a>
 						</td></tr>
-						-->
-						<!--
-						<tr><td class="menuNormal">
-						  <a href="/content/warranty/warranty2.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Warranty Quote</a>
-						</td></tr>						
 						-->
 						<tr><td class="menuNormal">
 						  <a href="https://www.cardevotion.com/content/warranty/warranty2.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Warranty Quote</a>
+						</td></tr>	
+						
+						<tr><td class="menuNormal">
+						  <a href="http://www.cardevotion.com/content/autoinsurance/default.asp" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Insurance Quote</a>
+						</td></tr>						
+						<tr><td class="menuNormal">
+						  <a href="http://www.cardevotion.com/content/carprice/" class="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Car Price Quote</a>
 						</td></tr>						
 					  </tbody></table>
 					</div>
 				  </td>
 				  
 				  <td class="menuNormal">
-					<p style="margin:0px"><a href="http://www.cardevotion.com/community/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Community','','/common/include/tabs/nav-hover_09.gif',1)"><img src="/common/include/tabs/nav_09.gif" alt="Community" name="Community" border="0"></a></p>					
+					<p style="margin:0px"><a href="/community/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Community','','/common/include/tabs/nav-hover_09.gif',1)"><img src="/common/include/tabs/nav_09.gif" alt="Community" name="Community" border="0"></a></p>					
 				  </td>
 				</tr>
 			  </tbody></table>
@@ -283,10 +215,6 @@ function MM_swapImage() { //v3.0
 			
 	
 </tbody></table>
-
-
-
-
 				<!--</table>-->
 			</td>
 			<td background="/common/images/home_08_bg.gif">&nbsp;</td>
@@ -304,13 +232,23 @@ function MM_swapImage() { //v3.0
 					<td>
 					<img border="0" src="/common/images/spacer.gif" width="16" height="90"></td>
 					<td>
-					<!-- begin ZEDO for channel: - CARDEV638 , publisher: DMS326_DN , Ad Dimension: Super Banner - 728 x 90 -->
-					<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=350;c=638/228;s=393;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
-					<!-- end ZEDO  for channel: - CARDEV638 , publisher: DMS326_DN , Ad Dimension: Super Banner - 728 x 90 -->
+					
+					<!-- begin ad tag-->
+<!--
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/cardevotion/;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/cardevotion/;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/cardevotion/;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+-->
+
+
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/cardevotion/;sz=728x90;ord=6?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/cardevotion/;sz=728x90;ord=6?" target="_blank"><img src="http://ad.doubleclick.net/ad/cardevotion/;sz=728x90;ord=6?" width="728" height="90" border="0" alt=""></a></noscript><!--End ad tag-->
+
+					
 					</td>
 					<td>
 					<img border="0" src="/common/images/spacer.gif" width="17" height="90"></td>
 				</tr>
+
 			</tbody></table>
 			<!--END FEATURE 1--></td>
 			<td background="/common/images/home_08_bg.gif"><img border="0" src="/common/images/spacer.gif" width="1" height="1"></td>
@@ -501,10 +439,18 @@ function MM_swapImage() { //v3.0
 					</tbody></table>
 					</td>
 					<td valign="top">
-					<!-- begin ZEDO for channel: - CARDEV638 , publisher: DMS326_DN , Ad Dimension: Skyscraper - 120 x 600 -->
-<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=350;c=638/228;s=393;d=8;w=120;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="600"></iframe>
-<!-- end ZEDO  for channel: - CARDEV638 , publisher: DMS326_DN , Ad Dimension: Skyscraper - 120 x 600 -->
-</td>
+					<!-- begin ad tag-->
+<iframe src="http://ad.doubleclick.net/adi/cardevotion/;sz=120x600;ord=[timestamp]?" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
+<script language="JavaScript"
+ src="http://ad.doubleclick.net/adj/cardevotion/;sz=120x600;abr=!ie;ord=[timestamp]?"
+ type="text/javascript"></script>
+<noscript><a
+ href="http://ad.doubleclick.net/jump/cardevotion/;sz=120x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?"
+ target="_blank"><img
+ src="http://ad.doubleclick.net/ad/cardevotion/;sz=120x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?"
+ width="120" height="600" border="0" alt=""></a></noscript>
+</iframe>
+<!-- End ad tag --></td>
 				</tr>
 				<tr>
 					<td><img src="/common/images/spacer.gif" width="641" height="6" alt=""></td>
@@ -524,6 +470,11 @@ function MM_swapImage() { //v3.0
 			<td background="/common/images/home_05_bg.gif"><img border="0" src="/common/images/spacer.gif" width="1" height="1"></td>
 			<td colspan="2" bgcolor="#FFFFFF">			
 				<!--CONTAINER TABLE -->
+<!-- Advertiser 'Accelerator USA',  Include user in conversion 'Extension_automotive_cardevotion' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+
+<script src="http://ad.acceleratorusa.com/pixel?id=80943&amp;t=1"></script>
+
+<!-- End of conversion tag -->
 			<table align="center" cellspacing="0" cellpadding="0" border="0" width="100%">
 			<tbody><tr>
 				<td align="center">
@@ -549,8 +500,8 @@ function MM_swapImage() { //v3.0
 
 						<!--<a href="https://www.harborcredit.com/partners/CarDevotion/landing_insurance.aspx">Insurance</a>  | -->
 						<a href="/vehicles/newcar.asp">Reviews</a>  | 
-						<a href="/community/default.asp">Community</a>  
-						<!--<a href="/default.asp">Newsletter</a>-->
+						<a href="/community/default.asp">Community</a>
+						
 						</td>
 					</tr>
 				</tbody></table>
@@ -608,6 +559,8 @@ function MM_swapImage() { //v3.0
 							
 								<a href="/Kia">Kia</a>&nbsp;|
 							
+								<a href="/Lamborghini">Lamborghini</a>&nbsp;|
+							
 								<a href="/Land_Rover">Land Rover</a>&nbsp;|
 							
 								<a href="/Lexus">Lexus</a>&nbsp;|
@@ -634,11 +587,15 @@ function MM_swapImage() { //v3.0
 							
 								<a href="/Porsche">Porsche</a>&nbsp;|
 							
+								<a href="/Rolls_Royce">Rolls Royce</a>&nbsp;|
+							
 								<a href="/Saab">Saab</a>&nbsp;|
 							
 								<a href="/Saturn">Saturn</a>&nbsp;|
 							
 								<a href="/Scion">Scion</a>&nbsp;|
+							
+								<a href="/Smart">Smart</a>&nbsp;|
 							
 								<a href="/Subaru">Subaru</a>&nbsp;|
 							
@@ -662,7 +619,9 @@ function MM_swapImage() { //v3.0
 						<a href="/contact/Contact.asp">Contact Us</a> |  
 						<a href="#">About Us</a>  |  
 						<a href="/contact/Help.asp">Help</a>  |
-						<a href="/sitemap.asp">Site Map</a>
+						<a href="/sitemap.asp">Site Map</a> |
+						<a href="/newsletter3.asp">Newsletter</a> |
+						<a href="/RSS/default.asp" target="_blank">RSS</a>
 					</td>
 					</tr>
 					<tr><td height="10"></td></tr>
@@ -674,6 +633,9 @@ function MM_swapImage() { //v3.0
 			
 			</tbody></table>
 			<!--CONTAINER TABLE -->
+
+<!--CLOSE CONNECTIONS-->
+
 			</td>
 			<td background="/common/images/home_08_bg.gif"></td>
 		</tr>
