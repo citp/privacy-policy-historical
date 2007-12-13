@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2007-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070605005941id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213164538id_/http%3A//www.womensforum.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # womensforum : A Community of Women and their Special Interests
 
@@ -17,6 +17,8 @@ Unless otherwise noted in special promotions, Womensforum.com generally gathers 
 **Advertising**
 
 We may release subscriber data to responsible third parties for marketing purposes. Womensforum.com uses several third parity ad-serving companies to serve and monitor the advertisements that you see on our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third-party ad servers, please contact us at [support@Womensforum.com](mailto:support@womensforum.com).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Research**
 
