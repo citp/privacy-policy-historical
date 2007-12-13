@@ -1,27 +1,68 @@
-<!--The following is the downloaded HTML source of the sexyescortads.com privacy policy that was archived on 2007-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070305235939id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sexyescortads.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213191510id_/http%3A//www.sexyescortads.com/static_pages/show/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 <title>Escort Service :: privacy</title>
+
 <meta name="description" content="Sexy Escort Ads: male and female escorts, escort service, adult personals.">
+
 <meta name="keywords" content="Sexy Escort Ads, escorts, models, agencies, independants, independents, reviews, photos, sex, escort service, callgirls">
+
 <meta http-equiv="PICS-Label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;&quot; r (nb 1 nc 1 nd 1 ne 1 nh 1 ni 1 vz 1 la 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;&quot; r (n 3 s 3 v 0 l 4))">
+
 <style type="text/css"><!--
 @import url(http://www.sexyescortads.com/templates/new_1/style.css);
 
 --></style>
 
-<script language="javascript" type="text/javascript">
+
+<script language="JavaScript" type="text/javascript" src="http://www.sexyescortads.com/js/jquery/jquery.pack.js"></script>
+
+<script type="text/javascript">
 <!--
+// Provide PHP settings to the JS
+var WEB_PATH = 'http://www.sexyescortads.com/';
+var TOOLTIP_REQUEST_URL = WEB_PATH + '?object=user_profile&action=compact_info';
+var _rss_external_link	= WEB_PATH + "?object=dynamic&action=show_rss";
+
+// JQuery on DOM ready
+$(function(){
+	// Avatar tooltips
+	$("td.avatar").hover(function(e){
+		$(this).attr("profy:user_id") ? ajaxtooltip($(this).attr("profy:user_id"), this, typeof event != "undefined" ? event : e, '320px') : false;
+	},function(e){
+		hidetip(typeof event != "undefined" ? event : e);
+	});
+	$("body").append($("<div id='rss_external_box'><div align='center'>Loading...</div></div>"));
+	// RSS links
+	$("a.rss_link").click(function(e){
+		// Revert click action and do close bookmarks block
+		if ($("div#rss_external_box").css("display") != "none") {
+			_rss_close();
+			return false;
+		}
+		$("div#rss_external_box").css("display", "block");
+		// Cache content to prevent server flooding
+		if ($("div#rss_extended").attr("id")) {
+			return false;
+		}
+		$.post(_rss_external_link, {"url": $(this).attr("href"), "title": $(this).attr("title")}, function(data){
+			$("div#rss_external_box").html(data);
+			$("div#rss_extended").append("<div align='center'><br /><a href='javascript:_rss_close();'>Close</a></div>");
+		});
+		return false;
+	});
+})
+// Do close bookmarks block
+function _rss_close(){
+	$("div#rss_external_box").css("display", "none");
+}
+// Simple popup method
 function openWin(url,w,h) {
 	myWin=open(url, "displayWindow","width="+w+",height="+h+", status=no, toolbar=no, menubar=no, scrollbars=no");
 }
 -->
-</script>
-
-<script type="text/javascript">
-	var WEB_PATH = 'http://www.sexyescortads.com/';
-	var TOOLTIP_REQUEST_URL = WEB_PATH + '?object=user_profile&action=compact_info';
 </script>
 
 <script language="JavaScript" type="text/javascript" src="http://www.sexyescortads.com/js/profy_sack.js"></script>
@@ -35,69 +76,114 @@ function openWin(url,w,h) {
 	font-size: 11px;
 	line-height:18px;
 	z-index: 1000;
-/*	color: #000000; */
 	background-color:#DDE4E9; 
 }
 #fixedtipdiv td {
 	font-size: 11px;
 }
+div#rss_external_box {
+	position:absolute;
+	top: 30%;
+	left: 40%;
+	display: none;
+	z-index: 1000;
+	border: 3px solid #0066CC;
+	background: white;
+	width: 370px;
+	height: 300px;
+	overflow: hidden;
+}
 </style>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2607166-1";
+urchinTracker();
+</script> 
+
+<link rel="shortcut icon" href="/favicon.ico">
+
 </head>
+
 <body>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="wrapper">
+
 	<tbody><tr>
+
 		<td style="background-image: url('http://www.sexyescortads.com/templates/new_1/images/escort_top.jpg'); background-repeat:no-repeat; background-position: left bottom;" colspan="5">
+
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
 				<tbody><tr>
+
 					<td width="100%" height="40" align="right">
+
 <!-- TOP_KEYWORDS -->
+
 <h2 class="kw_head"></h2>
+
 <!-- /TOP_KEYWORDS -->
-<!--task--><img src="http://www.sexyescortads.com/task_loader/" border="0" height="0" width="0"><!--/task-->
+
+<!-- TASK_LOADER -->
+
+<!-- /TASK_LOADER -->
+
 					</td>
+
 				</tr>
+
 				<tr>
+
 					<td width="100%" height="80" align="right" style="padding-right:10px;">
+
 <!-- TOP_BANNER -->
- <!--start advert 5-->
 
-<a href="http://intimland.com/ads/adclick.php?n=a0aed34a" target="_new"><img src="http://intimland.com/ads/adview.php?what=zone:2&amp;target=_new&amp;n=a0aed34a" border="0" alt="Click Here to Get Laid!"></a>
-
+ <!--start advert 5--><a href="http://www.escortpromotion.com/adserver/www/delivery/ck.php?n=a43d7322" target="_new"><img src="http://www.escortpromotion.com/adserver/www/delivery/avw.php?zoneid=1&amp;n=a43d7322" border="0" alt="Click Here to Get Laid!"></a>
 <!--end advert--> 
-<!-- /TOP_BANNER -->
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr valign="middle">
-		<td height="15" class="menu_top" colspan="5">
-<!-- TOP_MENU -->
-<div class="menu_top">
-	<a href="http://www.sexyescortads.com/home_page/">Home</a>  | 
-	<a href="http://www.sexyescortads.com/news/">News</a>  | 
-	<a href="http://www.sexyescortads.com/ads/">Ads</a>  | 
-	<a href="http://www.sexyescortads.com/reviews/">Reviews</a>  | 
-	<a href="http://www.sexyescortads.com/gallery/">Galleries</a>  | 
-	<a href="http://www.sexyescortads.com/blog/">Blogs</a>  | 
-	<a href="http://www.sexyescortads.com/forum/">Forum</a>  | 
-	<a href="http://www.sexyescortads.com/articles/">Articles</a>  | 
-	<a href="http://www.sexyescortads.com/search/">Search</a>  | 
-	<a href="http://www.sexyescortads.com/links/">Links</a>  | 
-	<a href="http://www.sexyescortads.com/faq/">FAQ</a>  | 
-	<a href="http://www.sexyescortads.com/help/email_form/">Contact</a> 
 
+<!-- /TOP_BANNER -->
+
+					</td>
+
+				</tr>
+
+			</tbody></table>
+
+		</td>
+
+	</tr>
+
+	<tr valign="middle">
+
+		<td height="15" class="menu_top" colspan="5">
+
+<!-- TOP_MENU -->
+
+<div class="menu_top">
+	<a href="http://www.sexyescortads.com/home_page/">Home</a>  | 	<a href="http://www.sexyescortads.com/news/">News</a>  | 	<a href="http://www.sexyescortads.com/ads/">Ads</a>  | 	<a href="http://www.sexyescortads.com/reviews/">Reviews</a>  | 	<a href="http://www.sexyescortads.com/gallery/">Galleries</a>  | 	<a href="http://www.sexyescortads.com/blog/">Blogs</a>  | 	<a href="http://www.sexyescortads.com/forum/">Forum</a>  | 	<a href="http://www.sexyescortads.com/articles/">Articles</a>  | 	<a href="http://www.sexyescortads.com/search/">Search</a>  | 	<a href="http://www.sexyescortads.com/faq/">FAQ</a>  | 	<a href="http://www.sexyescortads.com/help/email_form/">Help</a> 
 </div>
 
+
 <!-- /TOP_MENU -->
+
 		</td>
+
 	</tr>
+
 	<tr>
+
 		<td height="19" colspan="5"></td>
+
 	</tr>
+
 	<tr valign="top">
+
 		<td width="130" nowrap="">
+
 <!-- LEFT_BLOCK -->
+
 <table width="130" border="0" cellpadding="0" cellspacing="0" class="left_user_menu">
 	<tbody><tr>
 		<td class="left_menu_header">
@@ -113,10 +199,11 @@ function openWin(url,w,h) {
 	<a class="menu_side" href="http://www.sexyescortads.com/reviews/">Reviews</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/blog/">Blogs</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/gallery/">Galleries</a><br>
+	<a class="menu_side" href="http://www.sexyescortads.com/photo_rating/">Photo Rating</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/forum/">Forums</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/articles/">Articles</a><br>
-	<a class="menu_side" href="http://www.sexyescortads.com/interests/search/">Interests</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/search/">Search</a><br>
+	<a class="menu_side" href="http://www.sexyescortads.com/links/">Links</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/faq/">FAQ</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/help/email_form/">Support</a><br>
 
@@ -136,37 +223,51 @@ function openWin(url,w,h) {
 	<a class="menu_side" href="http://www.sexyescortads.com/login_form/">Login</a><br>
 	<a class="menu_side" href="http://www.sexyescortads.com/register/">Register</a><br>
 
+<br>
 
-<br><br>
-<br><br>
-
-<iframe name="Frame1" src="http://promos.fling.com/geo/custom/home.htm?prg=1&amp;id=psyinfo&amp;t=best&amp;thumb_size=medium&amp;txt_pos=left&amp;fontface=arial&amp;headerfontsize=3&amp;fontsize=2&amp;bgcolor=FFFFFF&amp;fontcolor=000000&amp;linkcolor=0066CC&amp;num_thumbs=3&amp;header=yes&amp;showname=yes&amp;showage=yes&amp;showcity=yes&amp;orientation=vertical&amp;rated=R&amp;popnew=yes&amp;showstate=yes&amp;showbottomlink=no" width="120" height="560" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 <!-- /LEFT_BOTTOM_MENU -->
 		</td>
 	</tr>
+<!-- USER_GEO_LOCATION -->
+
+<!-- /USER_GEO_LOCATION -->
 	<tr>
-		<td height="20"></td>
+		<td>
+<br><br>
+
+<iframe name="Frame1" src="http://promos.fling.com/geo/custom/home.htm?prg=1&amp;id=psyinfo&amp;t=best&amp;thumb_size=medium&amp;txt_pos=left&amp;fontface=arial&amp;headerfontsize=3&amp;fontsize=2&amp;bgcolor=FFFFFF&amp;fontcolor=000000&amp;linkcolor=0066CC&amp;num_thumbs=3&amp;header=yes&amp;showname=yes&amp;showage=yes&amp;showcity=yes&amp;orientation=vertical&amp;rated=R&amp;popnew=yes&amp;showstate=yes&amp;showbottomlink=no" width="120" height="560" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		</td>
 	</tr>
 	<tr valign="top">
 		<td>
-
-
 
 		</td>
 	</tr>
 </tbody></table>
 
+
 <!-- /LEFT_BLOCK -->
+
 		</td>
+
 		<td width="10" height="100%" style="background-position: left top; background-image:url('http://www.sexyescortads.com/templates/new_1/images/09.gif'); background-repeat: repeat-y;">&nbsp;</td>
+
 		<td width="620" colspan="3" style="padding-left:10px;">
+
 			<table width="610" height="100%" border="0" cellpadding="0" cellspacing="0">
+
 				<tbody><tr valign="top">
+
 					<td>
+
 						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
 							<tbody><tr>
+
 								<td width="100%" class="nav_1" valign="top">
+
 <!-- SITE_NAV_BAR -->
+
 <table height="15" border="0" width="100%" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="100%" class="nav_1"><!--NAV_BAR_ITEMS--><a href="http://www.sexyescortads.com/">Home</a> :: privacy<!--/NAV_BAR_ITEMS--></td>
@@ -175,24 +276,43 @@ function openWin(url,w,h) {
 </tbody></table>
 
 <br><br>
+
 <!-- /SITE_NAV_BAR -->
+
 								</td>
+
 								<td width="100%" class="nav_1">
+
 <!-- !!!!!!TODO:   Add to favorites here -->
+
 <!-- AGENCY_LOGIN_INFO -->
 
+
+
 <!-- /AGENCY_LOGIN_INFO -->
+
 								</td>
+
 							</tr>
+
 						</tbody></table>
+
 					</td>
+
 				</tr>
+
 				<tr valign="top">
+
 					<td width="610">
+
 						<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+
 							<tbody><tr>
+
 								<td height="400" style="padding-right:10px;" valign="top" width="100%">
+
 <!-- CENTER_AREA -->
+
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" class="static_content">
 	<tbody><tr valign="top"><td><h1>Privacy Policy</h1>
 <p><strong>By proceeding to the further use of this website you expressly agree to the use and disclosure of information as described in this Privacy Policy :</strong> </p>
@@ -206,37 +326,52 @@ function openWin(url,w,h) {
 </ul></td></tr>
 </tbody></table>
 <div align="right">
-
 	<a href="http://www.sexyescortads.com/static_pages/print_view/8/" title="print"><img src="http://www.sexyescortads.com/templates/new_1/images/page_print.gif" alt="print" border="0"></a>
-
-
 	<a href="http://www.sexyescortads.com/static_pages/email_page/8/" title="email"><img src="http://www.sexyescortads.com/templates/new_1/images/page_email.gif" alt="email" border="0"></a>
-
-
 	<a href="http://www.sexyescortads.com/static_pages/pdf_view/8/" title="pdf"><img src="http://www.sexyescortads.com/templates/new_1/images/page_pdf.gif" alt="pdf" border="0"></a>
-
 </div>
 
+
 <!-- /CENTER_AREA -->
+
 								</td>
 
+
+
 <!-- RIGHT_BLOCK -->
+
 	
+
 <!-- /RIGHT_BLOCK -->
+
 							</tr>
+
 						</tbody></table>
+
 					</td>
+
 				</tr>
+
 				<tr>
+
 						<td height="15" class="kw_bottom">
+
 <!-- BOTTOM_KEYWORDS -->
+
 	
+
 <!-- /BOTTOM_KEYWORDS -->
+
 						</td>
+
 					</tr>
+
 					<tr>
+
 						<td height="15" align="center">
+
 <!-- BOOKMARK_PAGE -->
+
 	<b>
 <script type="text/javascript">
 var txt = "Bookmark Our Site!";
@@ -250,38 +385,68 @@ if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.
 </script>Bookmark Our Site!  (Ctrl+D)
 </b> - <b><a href="#" class="actionlink" onclick="this.style.behavior='url(\#default\#homepage)'; this.setHomePage('http://www.sexyescortads.com'); return false;">Make Us Your Homepage!</a></b>
 <br><br>
+
 <!-- /BOOKMARK_PAGE -->
+
 						</td>
+
 					</tr>
+
 					<tr>
+
 						<td height="15" align="center">
+
 <!-- BOTTOM_BANNER -->
-	<!--start advert 6-->
 
-<a href="http://intimland.com/ads/adclick.php?n=a40e252a" target="_new"><img src="http://intimland.com/ads/adview.php?what=zone:3&amp;target=_new&amp;n=a40e252a" border="0" alt="Click Here to Get Laid!"></a>
-
+	<iframe style="width:510px; height:150px;" src="http://adweb2.hornymatches.com/bthumb/page.php?bbc=%23FFFFFF&amp;hff=Arial&amp;hfs=14px&amp;hfc=%23000000&amp;ht=Girls+looking+for+%3Cb%3ESEX%3C%2Fb%3E+in+%5B%25city%25%2C+%25state%25%5D&amp;fff=Arial&amp;ffs=14px&amp;ffs=%23000000&amp;ft=%5BClick+here+to+see+THOUSANDS+more+profiles+of+girls+in+%25state%25%21%5D&amp;tff=Arial&amp;tfs=10px&amp;tfc=%23000000&amp;lff=Arial&amp;lfs=11px&amp;lfc=%230066CC&amp;lu=1&amp;lhff=Arial&amp;lhfs=11px&amp;lhfc=%23FF0000&amp;lhu=1&amp;txtpos=center&amp;nw=1&amp;r=1&amp;c=6&amp;sn=1&amp;sc=1&amp;ss=1&amp;nl2=1&amp;nl3=1&amp;pd=s&amp;url=http%3A%2F%2Fwww.hornymatches.com%2Fdating%2Fvisit.php%3Fcampaign_id%3D5082" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto" allowtransparency="true"></iframe>
+	
+	<!--start advert 6--><a href="http://intimland.com/ads/adclick.php?n=a40e252a" target="_new"><img src="http://intimland.com/ads/adview.php?what=zone:3&amp;target=_new&amp;n=a40e252a" border="0" alt="Click Here to Get Laid!"></a>
 <!--end advert--><br><br>
+
 <!-- /BOTTOM_BANNER -->
+
 						</td>
+
 					</tr>
+
 				</tbody></table>
+
 			</td>
+
 		</tr>
+
 		<tr>
+
 			<td height="15" colspan="5" class="copyright" align="right">
+
 <br><br><br><br>
+
 <!-- COPYRIGHT -->
+
 <a href="http://www.sexyescortads.com/static_pages/show/terms/">Terms of Service</a>&nbsp;
+
 <a href="http://www.sexyescortads.com/static_pages/show/2257notice/">Compliance with 18 U.S.C. § 2257</a>&nbsp;
+
 <a href="http://www.sexyescortads.com/static_pages/show/privacy/">Privacy Policy</a>&nbsp;
+
 <a href="http://www.sexyescortads.com/faq/">FAQ</a>&nbsp;
+
 <a href="http://www.sexyescortads.com/help/email_form/">Help / Contact</a>
+
 <br>
-© <a href="http://www.sexyescortads.com/email_form/">Escort Service</a>, 2002-2007
+
+© <a href="http://www.sexyescortads.com/help/email_form/">Escort Service</a>, 2002-2007
+
 <!-- /COPYRIGHT -->
+
 <br><br>
+
 			</td>
+
 		</tr>
+
 </tbody></table>
+
+
 
 </body></html>
