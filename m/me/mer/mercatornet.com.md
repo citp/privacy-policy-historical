@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213223523id_/http%3A//www.mercatornet.com/component/content/view/66/38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213142630id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# 
+# MercatorNet | Info | Privacy
 
-MercatorNet’s privacy policy  
-MercatorNet is committed to maintaining the privacy of personal information that you provide us when using our website. This privacy policy describes how we treat personal information received about you when you visit our site.
+## MercatorNet’s Privacy Policy
 
-Information we collect  
-When you use MercatorNet, you consent to our collection and use of the personal information you provide. We do not disclose personally identifying information about our users to others without their consent. 
+###### _MercatorNet_ is committed to maintaining the privacy of personal information that you provide us when using our website. This privacy policy describes how we treat personal information received about you when you visit our site. 
 
-How we use information that is collected  
-We may use personal information in the following ways:
+#### Information we collect
 
-  * To send email acknowledgements of subscription orders or correspondence conducted on the website.
-  * To send you email renewal notices.
-  * To enhance existing features or develop new features, products, and services.
-  * To provide MercatorNet advertisers and other third parties with aggregate information about our website's user base and usage patterns.
-  * To process subscriptions, to verify your credit card data, and to send you a receipt. 
+When you use _MercatorNet_ , you consent to our collection and use of the personal information you provide. We do not disclose personally identifying information about our users to others without their consent. 
 
-  
-Security  
-Our website employs security measures to protect against the loss, misuse, and alteration of the information under our control. We use a secure server to protect the security of your on-line transactions.
+#### How we use information that is collected
 
-Policy modifications  
-Our privacy policy may change, so please check back from time to time.
+We may use personal information in the following ways: 
 
-Comments and queries  
-If you have any questions or comments about this privacy statement, contact us .
+  * \- To send email acknowledgements of subscription orders or correspondence conducted on the website.
+  * \- To send you email renewal notices.
+  * \- To enhance existing features or develop new features, products, and services.
+  * \- To provide _MercatorNet_ advertisers and other third parties with aggregate information about our website's user base and usage patterns.
+  * \- To process subscriptions, to verify your credit card data, and to send you a receipt.
+
+
+
+#### Security
+
+Our website employs security measures to protect against the loss, misuse, and alteration of the information under our control. We use a secure server to protect the security of your on-line transactions. 
+
+#### Policy modifications
+
+Our privacy policy may change, so please check back from time to time. 
+
+#### Comments and queries
+
+If you have any questions or comments about this privacy statement, [contact us](http://www.mercatornet.com/info/contact_us/). 
