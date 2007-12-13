@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519214449id_/http%3A//helpdesk.proboardshop.com/entry/1/34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222047id_/http%3A//helpdesk.proboardshop.com/entry/1/34) for the most accurate reproduction.*
 
 # Proboardshop Help Desk & FAQ / Privacy Policy
 
