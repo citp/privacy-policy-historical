@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2007-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070621230011id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182658id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
 
 # yourDictionary.com•Comprehensive and Authoritative Language Portal
 
@@ -71,11 +71,12 @@ Only authorized employees have access to the information you provide us. For exa
 **Contacting Us**  
 If you have questions about this privacy policy or the practices of this site, please contact:
 
-yourDictionary  
-434 Market Street, Suite 302  
-Lewisburg, PA 17837  
-USA 
+LoveToKnow Corp., 
 
-You can send [e-mail](mailto:marketing@yourdictionary.com?subject=Privacy%20Request). 
+1325 Howard Ave., Suite 307, 
+
+Burlingame, CA 94010 
+
+E-Mail: admin at lovetoknow.com
 
 yourDictionary reserves the right to change this Privacy Policy at any time, with or without notice. All changes will be posted to this page. 
