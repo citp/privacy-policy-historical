@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610130111id_/http%3A//www.componentone.com/pages.aspx%3FPagesID%3D59%26Panelindex%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213151035id_/http%3A//www.componentone.com/pages.aspx%3FPagesID%3D59%26Panelindex%3D5) for the most accurate reproduction.*
 
 # ComponentOne - Components Focused on Visual Development
 
