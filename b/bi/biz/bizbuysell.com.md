@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620110148id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213202427id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell - The Internet's Largest Business for Sale Marketplace
 
@@ -33,14 +33,14 @@ The information we collect will not be used to create customer profiles based on
 **Business-For-Sale Ad Order Form**  
 We request information from you when you fill out our ad posting form. You must provide a valid email address (providing your name and phone number is optional) so that you can receive inquiries to your ad, as well as email correspondence from BizBuySell regarding the status of your ad. You must also provide your credit card number and expiration date to enable us to charge the card for the ad fee.
 
-We also collect information regarding the details of your business for sale. All of the information posted in the "Step 2: Compose Your Ad" page of the ad form will be publicly disclosed. The information submitted on the "Step 3: Your Contact and Payment Info" page of the ad form will be kept private, with the exception of your name and phone number, if you choose to enter it.
+We also collect information regarding the details of your business for sale. All of the information posted in page 2 of the ad form under the heading of “Enter the details about your business...” will be publicly disclosed with the exception of your email address and password. The information posted in page 3 of the ad form will be kept private.
 
 The public information regarding your business-for-sale is made available through our searchable databases on BizBuySell and on the sites of our co-branded partners, as well as through our broker's database and our Listings-By-Email notification service. The financial data you provide about your business-for-sale (such as the asking price, gross income and cash flow) may be included in our aggregate statistics for our Business Pricing Report product.
 
 Your email address and credit card information remain confidential and will not be distributed to any outside parties, except as necessary to process the charge for the listing and verify the sale.
 
 **Buyer's Workbook and Business Pricing Report**  
-We require your name, a valid email address and credit card number and expiration date so that we may process your order. For added security, we also request that you submit a password to be used in conjunction with your email address to sign on to your workbook or pricing report. If you ever wish to change your email address or password, please write to [Feedback@BizBuySell.com](mailto:feedback@bizbuysell.com).
+We require your name, a valid email address and credit card number and expiration date so that we may process your order. For added security, we also request that you submit a password to be used in conjunction with your email address to sign on to your workbook or pricing report. If you ever wish to change your email address or password, please [contact us](https://web.archive.org/cgi-bin/contactus?tc=t5).
 
 Your email address and credit card information remain confidential and will not be distributed to any outside parties, except as necessary to process the charge for the order and verify the sale.
 
@@ -65,9 +65,11 @@ If you send an email to BizBuySell, we use your return email address to answer y
 On rare occasions, if ever, BizBuySell may send registered users an email announcement regarding a change in our service that affects their use of it.
 
 **Cookies**  
-Cookies are small text files that a website can place on a user's computer hard drive to be a unique identifier for that user. BizBuySell does not use cookies, including in any of our banner advertising.
+Cookies are small text files that a website can place on a user's computer hard drive to be a unique identifier for that user.
 
-However, BizBuySell does contain links to third-party websites, such as the websites of businesses being sold, the corporate sites of member business brokers, and other third-party business services. Clicking the links to view information from third parties directs you to pages on their websites, which may or may not be co-branded with the BizBuySell logo. Additionally, the BizBuySell database and related services such as posting a business-for-sale ad and registering for listings-by-email, also appear on third-party sites (such as _The Wall Street Journal_ 's StartupJournal.com) under the identification of "powered by BizBuySell." These third-party sites may employ cookies. BizBuySell has no access to or control over these cookies. Please refer to the third party's privacy policy for details on their use of cookies.
+We use third-party advertising companies to serve ads when you visit our Web site.  The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed in your browser.  In addition, we may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our Web site.  To “opt-out,” please [click here](http://www.networkadvertising.org/consumer/opt_out.asp "http://www.doubleclick.com/us/corporate/privacy").
+
+BizBuySell contains links to third-party websites, such as the websites of businesses being sold, the corporate sites of member business brokers, and other third-party business services. Clicking the links to view information from third parties directs you to pages on their websites, which may or may not be co-branded with the BizBuySell logo. Additionally, the BizBuySell database and related services such as posting a business-for-sale ad and registering for listings-by-email, also appear on third-party sites (such as _The Wall Street Journal_ 's online website [www.online.wsj.com](http://www.online.wsj.com/ "http://www.online.wsj.com/")) under the identification of "powered by BizBuySell." These third-party sites may employ cookies. BizBuySell has no access to or control over these cookies. Please refer to the third party's privacy policy for details on their use of cookies.
 
 **Visitor Traffic Logs**  
 BizBuySell automatically collects IP addresses and traffic information from visitors to our site. None of this is linked to personally identifiable information. This information is aggregated into statistics to help us evaluate how visitors prefer to use and navigate our website, including the number and frequency of visits to our web pages and the length of visits.
@@ -87,8 +89,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 When our ad posting form asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the most accepted web encryption protocol in the industry - SSL. Your credit card and other information cannot be read as it travels to our ordering system. 
 
-Older web browsers (e.g. Netscape version 2.0) may have difficulty in displaying the SSL encrypted ad forms. If you use such a browser, we offer a non-encrypted ad form (usually identified by the link, "If clicking the button produces an error, click here"). Be aware that when using this alternative ad form your information is not encrypted in transmission to our servers.
-
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information in-house. Access to our users' information is restricted to only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative). Furthermore, all employees are kept up-to-date on our security and privacy practices.
 
 ## Links to Other Websites
@@ -105,7 +105,7 @@ You can access any information in your posting by going to the area of the site 
 
 If you select the option to delete your posting, it is immediately deleted upon clicking the button to confirm that you do indeed wish to delete it. If you select the option to edit your posting, the changes you request are first reviewed by our processing center, and may take up to two business days to appear in their updated state online. Deleted or modified information may continue to be stored by BizBuySell for archival record-keeping purposes only.
 
-Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Startup franchise and business opportunity ads are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad or workbook. If you have questions regarding the credit card information used in ordering your ad, workbook, or pricing report, please contact us at 415.284.4380 or [AdManager@BizBuySell.com](mailto:admanager@bizbuysell.com).
+Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: BrokerWorks Membership Accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad or workbook. If you have questions regarding the credit card information used in ordering your ad, workbook, or pricing report, please [contact us](https://web.archive.org/cgi-bin/contactus?tc=t5).
 
 ## Site and Service Updates
 
@@ -117,6 +117,6 @@ By using our website, you consent to the collection and use of this information 
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please send an email to [Security@BizBuySell.com](mailto:security@bizbuysell.com).
+Should you have other questions or concerns about this Privacy Policy, please [contact us](https://web.archive.org/cgi-bin/contactus?tc=t5).
 
-Privacy policy last updated on February 16, 2004
+Privacy policy last updated on August 1, 2007
