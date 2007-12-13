@@ -1,313 +1,686 @@
-<!--The following is the downloaded HTML source of the tokyopop.com privacy policy that was archived on 2007-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070617185137id_/http%3A//www.tokyopop.com/9.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tokyopop.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213043020id_/http%3A//www.tokyopop.com/legal/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>Privacy Statement</title>
-	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>TOKYOPOP :: Leading the Manga Revolution for 10 Years and Beyond! :: </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="Content-Script-Type" content="text/javascript">
 	<meta name="robots" content="ALL">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta name="revisit-after" content="5 Days">
 	<meta name="rating" content="General">
-	<meta name="description" content="Privacy Statement">
-	<meta name="keywords" content="Privacy Statement">
-		<style type="text/css" media="all">
-		@import "//www.tokyopop.com/main.css";
-		@import "//www.tokyopop.com/body.css";
-			</style>
-	<!--[if lte IE 7]>
-	<link rel="stylesheet" media="all" type="text/css" href="/main.ie7.css" />
-	<![endif]-->
-	<!--[if lte IE 6]>
-	<link rel="stylesheet" media="all" type="text/css" href="/main.ie.css" />
-	<![endif]-->
-	<!--[if lte IE 5]>
-	<link rel="stylesheet" media="all" type="text/css" href="/main.ie5.css" />
-	<![endif]-->
-	<link href="//www.tokyopop.com/print.css" type="text/css" rel="stylesheet" media="print">
-	<script type="text/javascript" src="//www.tokyopop.com/main.js"></script>
-	<!--<script type="text/javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>-->
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
+	<meta name="description" content="Official site of manga publisher TOKYOPOP, publisher of FRUITS BASKET, LOVELESS, PRINCESS AI, D.N.ANGEL, .hack and many more. The site also provides free Manga magazine, manga pods and previews, up-to-the-minute manga news, and the national Rising Stars of Manga competition.">
+	<meta name="keywords" content="manga, anime, comics, japan, asia, english, entertainment, blogs, user content, forums, community, Princess Ai, Fruits Basket, Loveless, D.N. Angel, DN Angel, DNAngel, Manga Online, Gravitation, Kami Kaze, Kamikaze, .hack, Dramacon, tokyopop, D.J. Milky, Yaoi">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+	
+	<!--web2.tokyopop.com-->
+	<!--www.tokyopop.com-->
+
+	<script type="text/javascript" src="http://www.tokyopop.com/js/browser.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/main.js"></script>
+	 <script type="text/javascript" src="http://www.tokyopop.com/js/jquery_patched.js"></script>  
+	<script type="text/javascript" src="http://www.tokyopop.com/js/context_menu.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/admin.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/jquery.superfish.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/jquery.pngfix.js"></script>
 	<script type="text/javascript">
-	_uacct = "UA-997700-1";
-	urchinTracker();
-	</script>	
-		</head>
+		
+$(document).ready(function() {
+	wordWrap();				   
+	$.ifixpng('/images/pixel.gif');
+	$('img[@src$=.png]').ifixpng(); //	Requires jquery.pngfix.js
+	//Initiate language selector					   
+	$("ul.lang").superfish({
+			hoverClass	: "sfHover",
+			delay		: 500,
+			animation	: {opacity:"show",height:"show"},
+			speed		: "normal"
+		});	
+	
+	//Initiate dynamic form selector					   
+	$("ul.dynamicSelect").superfish({
+			hoverClass	: "sfHover",
+			delay		: 100,
+			animation	: {opacity:"show"},
+			speed		: "normal"
+		});	
+	
+	
+	 $('#flash_left').flash(null, { version: 8 }, function(htmlOptions) {
+        var $this = $(this);
+        var params = $this.attr('rel').split(':');
+        htmlOptions.src = '/swf/bento.swf';
+        htmlOptions.width = 517;
+        htmlOptions.height = 246;
+    		htmlOptions.bgcolor = '#464c50';
+    		htmlOptions.quality = 'high';
+    		htmlOptions.wmode = 'transparent';
+    		
+    		htmlOptions.flashvars.xmlPath = 		params[0];
+    		htmlOptions.flashvars.defaultXmlPath = 	params[1];
+    		htmlOptions.flashvars.loopNav = 		params[2];
+    		htmlOptions.flashvars.loopDelay = 		params[3];
+    		htmlOptions.flashvars.loopReturn = 		params[4];
+		
+        this.innerHTML = '<div class="alt">'+this.innerHTML+'</div>';
+        $this.addClass('flash-replaced').prepend($.fn.flash.transform(htmlOptions));
+    });
+	 
+    $('#page_title').flash(
+        { 
+            src: '/swf/english.swf', 
+            flashvars: { 
+                css: [
+                    //'* { color: #464c50; font-weight: bold; font-size: 30px;}',
+                    //'a { color: #ae1b24; text-decoration: none; }',
+                    //'a:hover { text-decoration: underline; }'
+					'* { color: #464c50; font-size: 30px; text-transform:uppercase;}',
+                    'a { color: #ae1b24; text-decoration: none; }',
+                    'a:hover { text-decoration: underline; }'
+                ].join(' ')
+            }
+        },
+        { version: 7 },
+        function(htmlOptions) {
+			
+            htmlOptions.flashvars.txt = this.innerHTML;
+            this.innerHTML = '<div>'+this.innerHTML+'</div>';
+            var $alt = $(this.firstChild);
+            htmlOptions.height = $alt.height();
+            htmlOptions.width = $alt.width();
+			htmlOptions.wMode = 'transparent';
+            $alt.addClass('alt');
+            $(this)
+                .addClass('flash-replaced')
+                .prepend($.fn.flash.transform(htmlOptions));
+									
+        }
+    );
+	
+});
 
+
+active_flag = null;
+//Sets hidden field and displays select value in the fake select box
+function setDynamicField(dummy_field,dummy_value,real_field,real_value){
+	$("#" + real_field).val(real_value);
+	$("#" + dummy_field).html(truncateText(dummy_value, 11));	
+	//$("#" + dummy_field).html(dummy_value);	
+}
+
+
+function truncateText(text,len){
+	if (text.length > len){
+		text = text.substring(0, len);
+   		//text = trunc.replace(/\w+$/, '');
+		text += '..';
+	}
+	return text;
+}
+
+
+function dateRollover(day,action){
+	
+	if (action == "over"){
+		var image = "/text_images.php?action=calendarDayOver&text=" + day;
+	}
+	if (action == "out") {
+		var image = "/text_images.php?action=calendarDayActive&text=" + day;
+	}
+	document.getElementById("day" + day).src = image;
+}
+
+
+active_div = null;
+active_day = null;
+
+function landingDateRollover(day,action,div_id,lang){
+	
+	if (action == "over"){
+		//var image = "/text_images.php?action=landingCalendarDayOver&text=" + day;
+		var image = "/images/" + lang + "/calendar/landingCalendarDayOver_" + day + ".jpg";
+		document.getElementById("day" + div_id).src = image;
+	}
+	if (action == "select"){
+
+		//alert(div_id + ' select');
+		//var image = "/text_images.php?action=landingCalendarDayOver&text=" + day;
+		var image = "/images/" + lang + "/calendar/landingCalendarDayOver_" + day + ".jpg";
+		document.getElementById("day" + div_id).src = image;		
+		if (active_div != null && active_div != div_id){
+			//var image = "/text_images.php?action=landingCalendarDayActive&text=" + active_day;
+			var image = "/images/" + lang + "/calendar/landingCalendarDayActive_" + active_day + ".jpg";
+			document.getElementById("day" + active_div).src = image;		
+		}
+		active_div = div_id;
+		active_day = day;
+	}
+	
+	if (action == "out") {
+		//alert(active_flag + ' ' + div_id + ' out');
+		if (active_div != div_id){
+			//var image = "/text_images.php?action=landingCalendarDayActive&text=" + day;
+			var image = "/images/" + lang + "/calendar/landingCalendarDayActive_" + day + ".jpg";
+			document.getElementById("day" + div_id).src = image;
+		}
+	}
+	
+}
+
+function getRelatedContent(content_id, section){
+	$("#related").load("/actions.php?action=related_content&content_id=" + content_id + "&section="+section, function() { $("#related_" + section).show(); related_flag = section; });
+}
+function getRelatedProducts(product_id, section){
+	$("#related").load("/actions.php?action=related_products&product_id=" + product_id + "&section="+section, function() { $("#related_" + section).show(); related_flag = section; });
+}
+
+function showRelatedContent(section,lang){
+
+	   if (related_flag != section){
+		   if (related_flag != null){
+				$("#related_" + related_flag).hide();		
+				document.getElementById(related_flag).src = '/images/' + lang + '/spec_related_sub_' + related_flag + '.gif';
+		   }
+	   }
+		document.getElementById(section).src = '/images/' + lang + '/spec_related_sub_' + section + '_on.gif';
+		$("#related_" + section).show();		
+		related_flag = section;		
+}
+
+function showPreviewDiv(section){
+	  
+	   if (product_flag != section){
+		   if (product_flag != null){
+				$("#" + product_flag).hide();		
+				document.getElementById('a'+product_flag).src = '/images/english/detail_' + product_flag + '.gif';
+		   }
+	   }
+		document.getElementById('a'+section).src = '/images/english/detail_' + section + '_on.gif';
+		$("#" + section).show();
+		//alert(section);
+		product_flag = section;		
+}
+
+function showSection(section){
+
+	   if (active_flag != section){
+		   if (active_flag != null){
+				$('#' + active_flag).hide();				
+		   }
+	   }
+		$("#" + section).show();
+		active_flag = section;		
+}
+
+function flagImage(section, path){
+	   if (section != ''){
+		   if (image_flag != section){
+			   if (image_flag != null){
+				   
+					document.getElementById(image_flag).src = path + image_flag + '.gif';			
+			   }
+		   }  
+			document.getElementById(section).src = path + section + '_on.gif';	
+			//alert(image_flag + ' ' + section);
+			image_flag = section;
+	   }
+				
+}
+
+
+function popUGC(content_id, redirect){
+    $.get("/actions.php",
+       { action: 'popUGC',  content_id: content_id},
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Content popped!');
+				window.location.reload( false );
+			} 
+			if (data == "fail") {
+				alert('You have already popped this content.');
+			}
+			if (data == "denied") {
+				alert('Can\'t pop your own entries.');
+			}
+		 }		 
+       }	   
+     );	
+}
+
+function clipUGC(content_id, redirect){
+    $.get("/actions.php",
+       { action: 'clipUGC', content_id: content_id},
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Content clipped!');
+				 window.location.reload( false );
+			} 
+			if (data == "fail") {
+				alert('You have already clipped this content.');
+			}
+			if (data == "denied") {
+				alert('You can\'t clip your own content.');
+			}
+		 }
+       }	   
+     );	
+}
+
+
+function popProduct(product_id, redirect){
+	//alert('pop ' + product_id);
+    $.get("/actions.php",
+       { action: 'popProduct',  product_id: product_id},
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Content popped!');
+				 window.location.reload( false );
+			} 
+			if (data == "fail") {
+				alert('You have already popped this product.');
+			}
+		 }
+       }
+     );	
+}
+
+function clipProduct(product_id, redirect){
+	//alert('clip ' + product_id);
+    $.get("/actions.php",
+       { action: 'clipProduct', product_id: product_id},
+       function(data){
+		   //alert(data);
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Product clipped!');
+		 		window.location.reload( false );
+			} 
+			if (data == "fail") {
+				alert('You have already clipped this product.');
+			}
+		 }
+       }	   
+     );	
+}
+
+function flagUGC(content_id, redirect){
+    $.get("/actions.php",
+       { action: 'flagUGC', content_id: content_id},
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Content has been flagged. An admin will investigate shortly');
+			} 
+			if (data == "fail") {
+				alert('You have already flagged this content.');
+			}
+		 }
+       }
+     );	
+}
+
+function addFan(fan_id, redirect){
+    $.get("/actions.php",
+       { action: 'add_fan', fan_id: fan_id},
+       function(data){
+		   //alert(data);
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Fan invite sent');
+			} 
+			if (data == "exists") {
+				alert('You have already invited this fan');
+			}
+			if (data == "fail"){
+				alert("You can\'t be your own fan");	
+			}
+		 }
+       }
+     );	
+}
+
+function joinClan(clan_id, redirect){
+	//alert('join clan');
+    $.get("/actions.php",
+       { action: 'join_clan', clan_id: clan_id},
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Clan join request sent');
+			} 
+			if (data == "exists") {
+				alert('You have already sent a request to this clan.');
+			}
+		 }
+       }
+     );	
+}
+
+
+function removeClanmate(clan_id, user_id, redirect){
+	//alert('remove clan ,ate');
+    $.get("/actions.php",
+       { action: 'remove_clanmate', clan_id: clan_id, user_id: user_id },
+       function(data){
+		 if (data == "not_logged_in"){
+			window.location.href = '/login.php?redirect='+redirect;	 
+		 }
+		 else {
+			if (data == "success"){
+         		alert('Clan member removed');
+				window.location.href = redirect;	 
+			} 
+			else{
+				alert('Something went wrong.');
+			}
+		 }
+       }
+     );	
+}
+
+function swapImage(id,image){	
+	document.getElementById(id).src = image;	
+}
+
+function gotoPage(id){
+	url = document.getElementById(id).value;
+	window.location.href=url;
+}
+
+function wordWrap(){
+/******
+* wordWrap to firefox for big words
+* put the class "word-wrap" on elements to wordwrap
+*******/
+    var larg_total,larg_carac,quant_quebra,pos_quebra; var elementos,quem, caracs, texto, display_orig; elementos = document.getElementsByTagName("p");   
+    for(var i=0; i<elementos.length;i++){
+        if(elementos[i].className=="word-wrap"){
+            quem = elementos[i]; quem.innerHTML = String(quem.innerHTML).replace(/ /g,"Ø"); texto = String(quem.innerHTML); quem.innerHTML = " "; display_orig = quem.style.display; quem.style.display="block"; larg_oficial = quem.offsetWidth;
+            if(!document.all) quem.style.display="table";
+            quem.innerHTML = texto; larg_total = quem.offsetWidth;  pos_quebra = 0;  caracs = texto.length;
+            texto = texto.replace(/Ø/g," ")
+            larg_carac = larg_total / caracs
+            if(larg_total>larg_oficial){
+                quant_quebra = parseInt(larg_oficial/larg_carac); quant_quebra = quant_quebra - (parseInt(quant_quebra/6)) //quanto menor o num, maior a garantia;
+                quem.innerHTML = "";
+                while(pos_quebra<=caracs){ quem.innerHTML = quem.innerHTML + texto.substring(pos_quebra,pos_quebra + quant_quebra) + " "; pos_quebra = pos_quebra + quant_quebra; }}else{ quem.innerHTML = texto; }//end if do larg_total>larg_oficial
+            quem.style.display = display_orig;
+        }//end if do word wrap
+    }//end for loop dos elementos
+}
+
+function loadSchedule(id,week){
+	$('#schedule_header').load('/schedule.php?action=loadWeek&id='+id+'&week='+week);
+}
+
+
+function forumLogin(){
+	//alert('TEST');
+	email = document.getElementById('email').value;
+	password = document.getElementById('email').value;
+	vb_login_md5password = document.getElementById('vb_login_md5password').value;
+	vb_login_md5password_utf = document.getElementById('vb_login_md5password_utf').value;
+	//alert(vb_login_md5password_utf);
+	 $.post("/forums/login.php?do=login", { vb_login_username: email, cookie_user: 1,vb_login_md5password: vb_login_md5password,vb_login_md5password_utf:vb_login_md5password_utf} );
+}
+
+	</script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/submenu_rollover.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/jquery.flash.js"></script>
+	<script type="text/javascript" src="http://www.tokyopop.com/js/feedback.js"></script>
+	
+	
+			<link rel="stylesheet" href="/css/english/core.css" type="text/css">
+	<link rel="stylesheet" href="/css/english/tokyopop.css" type="text/css">
+	<link rel="stylesheet" href="/css/superfish.css" type="text/css">
+	<link rel="stylesheet" href="/css/english/forms.css" type="text/css">
+	</head>
 <body>
+<!-- Feedback Agent -->
+<!--
+<div id="feedbackAgent" style="position: fixed; display: block; bottom: 0px; right: 0px; width:85px; height:56px; border: thin solid #999999; text-align:center; z-index: 100000; background: #fff; background:url(/images/common/bugBackground.gif) no-repeat; padding-top:5px;"><a href="javascript:bugReport();" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color:#990033;"><br />Leave<br />Feedback</a></div>
+-->
+  <div id="outer_container">
+    <div id="inner_container">
+    
+      <!-- ad space -->
+      <div id="main_nav_ads_container">
+        <div class="small"><a href="/Doctor_Drums/gopro/688463.html"><img src="/images/english/manga_online.jpg" alt="Online Manga" border="1"></a></div>
+        <div class="large">
+			<div id="homebanner">
+				<!-- Home_Exp_Leader_728x90_468x60 -->
+				<div style="display:block; float: none; overflow:hidden; width: 728px; height: 90px;">
+								<!-- BEGIN GN Ad Tag for TokyoPop 728x90,468x60 home -->
+				<script language="JavaScript" type="text/javascript">
+					
+					if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
+					document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/home;sect=home;sz=728x90,468x60;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
+					
+				</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/home;sect=home;sz=728x90,468x60;tile=1;ord=4514389794690867?" type="text/javascript"></script>
+				<!-- END AD TAG -->
+								</div>	<!-- END:AdSolution-Tag 4.3 -->
+			</div>
+		</div>
+      </div>
+      <!-- begin main navigation -->
 
-<div id="container">
-<div id="page">
+      <div id="main_navigation" class="clear">
+        <div id="container_main_logo">
+          <div id="main_logo"><a href="/"><!--<img src="/images/common/logo_tokyopop.gif" width="328" height="61" alt="" border="0" />--><img src="/images/common/logo_tokyopop_beta.gif" width="328" height="64" alt="" border="0"></a></div>
+          <!-- corporate links -->
+          <div id="container_corporate">
+            <ul id="corporate_links">
+              <li>
+			  	<div style="width: 60px;">&nbsp;</div>
+			  </li>
+              <li class="pipe"><img src="/images/common/corp_pipe.gif" width="1" height="8" alt="" border="0"></li>
+              <li><a href="/corporate" title="Corporate"><img src="/images/english/corp_label_corp.gif" width="55" height="15" alt="Corporate" border="0"></a></li>
+              <li class="pipe"><img src="/images/common/corp_pipe.gif" width="1" height="8" alt="" border="0"></li>
+              <li><a href="/corporate/FAQs" title="FAQs"><img src="/images/english/corp_label_help.gif" width="34" height="14" alt="FAQs" border="0"></a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- member status -->
+        <div id="container_member_status">
+          <!-- login -->
+		             <div id="login">
+           <form id="memberform" method="post" action="http://www.tokyopop.com/login.php">
+			<input id="username" style="width:115px;" class="keywords" type="text" name="email" value="Email" onfocus="this.value='';">
+			      <input id="password" style="width:92px;" class="keywords" type="password" name="password" value="********" onfocus="setPasswordValue(this.id)">
+			      <input type="hidden" name="action" value="login">
+			      <input type="hidden" name="redirect" value="/legal/privacy_policy.html">
+            <input type="image" src="/images/english/member_button_login.gif"><br class="clear">
+            </form>
+            <p class="password_forgot"><a href="/forgot_password.php" class="white">Forgot your password?</a></p>
+            <div id="quick_join">
+              <img src="/images/english/member_label_notmem.gif" width="135" height="20" alt="" border="0">
+              <a href="/register.php"><img src="/images/english/member_button_quickjoin.gif" width="98" height="20" alt="" border="0"></a><br class="clear">
+            </div>
+          </div>
+		            
+          <!-- logged in -->
+                 </div>
 
-<div id="langbar">
-	
-	<div class="left">
-		International Sections
-		&nbsp;»&nbsp;
-		<a href="http://www.tokyopop.com/C-63/"><img src="//www.tokyopop.com/pics/flag_63.gif" align="absmiddle" title="Japan" border="0"></a><a href="http://www.tokyopop.com/C-64/"><img src="//www.tokyopop.com/pics/flag_64.gif" align="absmiddle" title="Germany" border="0"></a><a href="http://www.tokyopop.com/C-65/"><img src="//www.tokyopop.com/pics/flag_65.gif" align="absmiddle" title="United Kingdom" border="0"></a>	</div>
-	
-	<div class="right">
-		<a target="_blank" href="http://www.rightstuf.com/catalog/browse/link/t=toc,c=tokyopop"><img src="//www.tokyopop.com/pics/icon_shop.gif" border="0"> SHOP</a> &nbsp;
-		<a target="_blank" href="http://www.rightstuf.com/catalog/browse/link/t=order,w=review,c=tokyopop"><img src="//www.tokyopop.com/pics/icon_shop.gif" border="0"> CART</a> &nbsp;
-		<a href="/204.html"><img src="//www.tokyopop.com/pics/icon_mobile.gif" border="0"> MOBILE</a>
-	</div>
-		
+        <!-- main menu -->
+        <div id="container_sprites">
+          <ul id="menu">
+            <li id="button1"><a href="/stars"></a></li>
+            <li id="button2"><a href="/art"></a></li>
+            <li id="button3"><a href="/life"></a></li>
+            			<li id="button4"><a href="/mobile"></a></li>
+            <li id="button5"><a href="/shop"></a></li>
+            <li id="button6"><a href="/hot"></a></li>
+          			  </ul>
+        </div>
+
+        <div class="clear menu_bottom">
+        
+				 <!-- ART submenu -->
+		 		 		  		  				<!-- end of HOT submenu -->	
+				<!-- CORPORATE submenu -->
+			<ul id="submenu">
+							<!-- NOT NEED FOR JAPAN -->
+									<li><a href="/corporate/booksellers" title="Booksellers"><img class="roll" src="/images/english/submenu/sub_booksellers.gif" alt="Booksellers" border="0"></a></li>
+									<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+									<li><a href="/corporate/libraries" title="Libraries"><img class="roll" src="/images/english/submenu/sub_libraries.gif" alt="Libraries" border="0"></a></li>
+								<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+			
+			<!-- underconstruction
+						<li><a href="/corporate/sponsorship" title="Sponsorship"><img class="roll" src="/images/english/submenu/sub_sponsorship.gif" alt="sponsorship link" border="0" /></a></li>
+							<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0" /></li>
+-->
+						<li><a href="/corporate/investor_relations" title="Investor Relations"><img class="roll" src="/images/english/submenu/sub_investor.gif" alt="Investor Relations" border="0"></a></li>
+			<!-- underconstruction
+				<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0" /></li>
+						<li><a href="/corporate/licensing_partners" title="Licensing Partners  "><img class="roll" src="/images/english/submenu/sub_licensing.gif" alt="Licensing Partners  " border="0" /></a></li>
+			-->
+				<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+						<li><a href="/corporate/biz_dev" title="Biz Dev"><img class="roll" src="/images/english/submenu/sub_bizdev.gif" alt="Biz Dev" border="0"></a></li>
+							<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+						<li><a href="/corporate/press" title="Press"><img class="roll" src="/images/english/submenu/sub_press.gif" alt="Press" border="0"></a></li>
+							<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+						<li><a href="/corporate/submissions" title="Submissions"><img class="roll" src="/images/english/submenu/sub_submissions.gif" alt="Submissions" border="0"></a></li>
+						
+<!-- underconstruction
+				<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0" /></li>
+						<li><a href="/corporate/fan_clubs" title="Fan Clubs"><img class="roll" src="/images/english/submenu/sub_fanclubs.gif" alt="Fan Clubs" border="0" /></a></li>
+			-->
+				<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0"></li>
+						<li><a href="/corporate/job_seekers" title="Job Seekers"><img class="roll" src="/images/english/submenu/sub_jobseekers.gif" alt="Job Seekers" border="0"></a></li>
+			<!-- underconstruction
+				<li class="corporate"><img src="/images/english/submenu/sub_pipe.gif" width="1" height="11" alt="separator" border="0" /></li>
+						<li><a href="/corporate/custom_manga" title="Custom Manga"><img class="roll" src="/images/english/submenu/sub_custom.gif" alt="Custom Manga" border="0" /></a></li>
+			-->
+		  </ul>
+				<!-- end of CORPORATE submenu -->	
+		    </div>
+    
+    <!-- Country selector -->
+		<div class="countrySelector" style="position: absolute; top: 44px; left: 345px; padding: 0px; margin-top: 0px;">
+			<ul class="lang" style="margin:0px">
+				<li class="lang">
+					<div style="font-size: 9px;"><img src="/images/english/country_selector_usa.gif" alt="" border="0" align="absmiddle"><div style="position: relative; left: 45px; top: -7px;"><img src="/images/common/grey_select.gif"></div></div>					
+					<ul class="lang" style="width: 53px;">	
+																																		<li class="lang"><a href="http://www.tokyopop.co.jp"><img src="/images/english/country_selector_japan.gif" alt="" border="0" align="absmiddle"></a></li>
+																												<li class="lang"><a href="http://www.tokyopop.co.uk"><img src="/images/english/country_selector_uk.gif" alt="" border="0" align="absmiddle"></a></li>
+																		</ul>
+				</li>
+			</ul>	
+		</div>
+    
+ </div>
+      <!-- end main navigation -->
+
+<div style="padding-top: 8px">
+
+     <!-- spec header -->
+      <div id="corp_header_container">
+        <div id="breadcrumb_container"><p><a href="/">Home</a>
+							
+							
+				&nbsp;» <a href="/legal">Legal</a>
+									</p></div>
+	<div style="float:right;">
+		<div style="float:left;">
+			<div style="float:left;">
+	<a href="/corporate/about_us"><img class="roll" src="/images/english/about_us.gif" alt="About Us" width="58" height="18" border="0" style="margin: 0 10px 0 0;"></a>
+	<a href="/corporate/contact_us"><img class="roll" src="/images/english/contact_us.gif" alt="Contact Us" width="67" height="18" border="0" style="margin: 0 10px 0 0;"></a>
 </div>
+<div>
+		  <form id="corporate" name="corporate" method="post" action="">
+		<select id="goto" name="select" class="browse_corp" style="float:left;">
+		  <option selected="selected">MORE INFO</option>
+		  		  			  		 		 <option value="/legal/284">Fan Art Policy</option>
+		  			  			  		  			  		 		 <option value="/legal/422">Terms of Service</option>
+		  			  		</select>
+		<div>	
+			<img class="roll" src="/images/button_go.gif" alt="GO" width="21" height="20" style="margin: 0 10px 0 3px;" onclick="gotoPage('goto');">
+			<!-- <input style="margin: 0 10px 0 3px;" type="image" src="/images/button_go.gif" value="submit" /> -->
+		</div>
+	  </form>
+  </div>
+<br class="clear">
+		</div>
+		<div class="search_filter_corporate">
+			<div>
+ 
+<form action="/search.php" name="search" method="post" style="display:inline;">
+	<div id="search_form" style="float:left;">
+		<div style="float:left;">	
+			<input type="text" name="query" class="keywords" id="keywords" value="SEARCH" onfocus="this.value=''">		
+		</div>
+		<div style="float:left;">	
+			<img class="roll" src="/images/button_go.gif" alt="GO" width="21" height="20" style="margin: 0 3px 0 3px;" onclick="search.submit();">
+	  </div><br class="clear">		
+	</div>
+	<input type="hidden" name="section" value="corporate">
+	<input type="hidden" name="subsection" value="privacy_policy.html">
+</form>
 
-
-<div id="topmenu">
-
-	<img src="//www.tokyopop.com/pics/leadingnew.gif">
-
-	<ul>
-		<li class="first"><a class="art" href="http://www.tokyopop.com/art.php"></a></li>
-		<li><a class="blogs" href="http://www.tokyopop.com/blogs.php"></a></li>
-		<li><a class="music" href="http://www.tokyopop.com/music.php"></a></li>
-		<li><a class="photos" href="http://www.tokyopop.com/photos.php"></a></li>
-		<li><a class="video" href="http://www.tokyopop.com/videos.php"></a></li>
-		<li><a class="fiction" href="http://www.tokyopop.com/fiction.php"></a></li>
-		<li><a class="manga" href="http://www.tokyopop.com/my-manga.php"></a></li>
-		<li><a class="forums" href="http://messageboard.tokyopop.com/forums/?tp_sess=ajgi1s7u64vdvqpono30ls45h1"></a></li>
-	</ul>
-</div>
-
-
-<div id="header" style="background-image: url('//www.tokyopop.com/pics/bg_test.jpg');">    
-	<a href="http://www.tokyopop.com/"><img id="logo" src="//www.tokyopop.com/pics/logo.gif"></a>
-	
-	<form action="http://www.tokyopop.com/search.php" method="post">
-		<strong>SITE SEARCH</strong>
-		<input class="clearbox" type="text" name="query" value="search" onfocus="this.value=''">
-		<input type="image" value="Go" src="//www.tokyopop.com/pics/btn_go.png">
-    <span style="padding-left:0px; color: #FFF;">βeta 1.7</span> <a href="http://www.tokyopop.com/search.php" style="color: #FFF;">Tag Search</a>
-  </form>
-</div>
-
-<div id="leftmenu">
-
-
-	<div id="memberbox">
-
-
-		<a href="/register.php"><img src="//www.tokyopop.com/pics/leftside_join.gif" border="0"></a>
-
-		<a class="create" href="/register.php">Create your profile</a>
-
-		<form id="memberform" method="post" action="http://www.tokyopop.com/login.php">
-		<input type="hidden" name="redirect" value="/9.html">
-		<fieldset>
-				<input type="hidden" name="action" value="login">
-
-				<p>
-				<strong>MEMBER LOGIN</strong><br>
-				<input id="username" class="clearbox" type="text" name="email" value="email" onfocus="this.value='';"><br>
-				<input class="clearbox" type="password" name="password" value="password" onfocus="this.value='';">
-				<input type="image" value="Go" src="//www.tokyopop.com/pics/btn_go.png"><br><br>
-
-				<a href="http://www.tokyopop.com/login.php?action=forgot">Forgot?</a>
-
-				</p>
-			</fieldset>
-		</form>
 
 	
-	</div>
-
-
-	<div class="boxtop" id="booksboxtop">
-		<h3>Buy/Read Manga</h3>
-	</div>
-	<div class="box" id="booksbox">
-		
-		<ul class="bordered">
-		<li><a href="http://www.tokyopop.com/manga.php">Books</a></li>
-		<li><a href="http://www.tokyopop.com/212.html">Exclusives</a></li>
-		<li><a href="http://www.tokyopop.com/manga_previews.php">Online Manga</a></li>
-		</ul>
-
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-	
-	<div class="boxtop">
-		<h3>Editorial</h3>
-	</div>	
-	
-	<div class="box">
-
-		<ul class="bordered">
-		<li><a href="http://www.tokyopop.com/reviews.php">Reviews</a></li>
-		<li><a href="http://www.tokyopop.com/articles.php">Member Articles</a></li>
-		<li><a href="http://www.tokyopop.com/login.php?add=article">Submit an Article</a></li>
-
-<li><a href="http://www.tokyopop.com/C-34/">News</a></li><li><a href="http://www.tokyopop.com/C-67/">Manga</a></li><li><a href="http://www.tokyopop.com/C-4/">Anime</a></li><li><a href="http://www.tokyopop.com/C-5/">Games</a></li><li><a href="http://www.tokyopop.com/C-6/">Film/TV</a></li><li><a href="http://www.tokyopop.com/C-17/">Music</a></li><li><a href="http://www.tokyopop.com/C-18/">Fashion/Cosplay</a></li><li><a href="http://www.tokyopop.com/C-19/">Food &amp; Lifestyle</a></li><li><a href="http://www.tokyopop.com/C-20/">People</a></li><li><a href="http://www.tokyopop.com/C-132/">Rising Stars of Manga</a></li>		</ul>
-
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-
-
-
-	<div class="boxtop">
-		<h3>Release Schedule</h3>
-	</div>
-	<div class="box">
-			<h4>June 2007</h4><ul class="bordered" id="releases"><li><a href="http://www.tokyopop.com/S-1423/5.html">Avatar v5</a></li><li><a href="http://www.tokyopop.com/S-1309/8.html">Dragon Voice v8</a></li><li><a href="http://www.tokyopop.com/S-1436/5.html">Sakura Taisen v5</a></li><li><a href="http://www.tokyopop.com/S-1104/24.html">Rave Master v24</a></li><li><a href="http://www.tokyopop.com/S-1695/3.html">Welcome to the NHK v3</a></li><li><a href="http://www.tokyopop.com/S-1438/7.html">Tsukuyomi: Moon Phase v7</a></li><li><a href="http://www.tokyopop.com/S-1563/4.html">GTO: The Early Years -- Shonan Junai Gumi v4</a></li><li><a href="http://www.tokyopop.com/S-1433/5.html">Kami-Kaze v5</a></li><li><a href="http://www.tokyopop.com/S-1578/4.html">Platinum Garden v4</a></li><li><a href="http://www.tokyopop.com/S-1404/8.html">BECK:Mongolian Chop Squad v8</a></li><li><a href="http://www.tokyopop.com/S-1602/2.html">Sorcerers &amp; Secretaries v2</a></li><li><a href="http://www.tokyopop.com/S-1116/17.html">Rebound v17</a></li>			<li><a href="http://www.tokyopop.com/releases.php" style="font-weight: bold">More</a></li>
-		
-		</ul>
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-		<div class="boxtop">
-		<h3>Newest Members</h3>
-	</div>
-	<div class="box">
-		<ul id="newmembers">
-		<li><a href="http://www.tokyopop.com/kingofcamelot/" title="kingofcamelot">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				kingofcam...</a></li>
-			<li><a href="http://www.tokyopop.com/xXxRENxXx/" title="xXxRENxXx">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				xXxRENxXx</a></li>
-			<li><a href="http://www.tokyopop.com/Lissette07/" title="Lissette07">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				Lissette07</a></li>
-			<li><a href="http://www.tokyopop.com/gaaraslovexp/" title="gaaraslovexp">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				gaaraslov...</a></li>
-			<li><a href="http://www.tokyopop.com/gredandforgew/" title="gredandforgew">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				gredandfo...</a></li>
-			<li><a href="http://www.tokyopop.com/xcmason/" title="xcmason">
-				<img src="//www.tokyopop.com/pics/profileuser_thumbnail.gif"><br>
-				xcmason</a></li>
-					<li style="text-align:left; ">&nbsp;&nbsp;&nbsp;<a href="/new-members.php" style="font-weight: bold;">More</a></li>
-		</ul>
-		
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-		<div class="boxtop">
-		<h3>Polls</h3>
-	</div>
-	<div class="box">
-
-		<ul class="bordered" id="polls">
-		<li><a href="http://www.tokyopop.com/polls.php?poll_id=45">What's your favorite Pocky flavor?</a></li><li><a href="http://www.tokyopop.com/polls.php?poll_id=44">If you were a spy, what talent would you want most?</a></li><li><a href="http://www.tokyopop.com/polls.php?poll_id=43">What makes you want to rock?</a></li>		<li>
-			<a href="http://www.tokyopop.com/polls.php?action=view_all" style="font-weight: normal; font-size: 0.8em">
-				view TOKYOPOP polls
-			</a>
-		</li>
-		<li><a href="/eviltwin/poll/43363.html">oh...how i love gays!</a></li><li><a href="/younghokage/poll/43362.html">who is the best hokage?</a></li><li><a href="/yaymanga/poll/43361.html">i have one hour to talk so please talk to me</a></li>		
-		<li>
-			<a href="http://www.tokyopop.com/user-polls.php?action=view_all" style="font-weight: normal; font-size: 0.8em">
-				view member polls
-			</a>
-		</li>		
-		</ul>
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-	<div class="boxtop">
-		<h3>Top Ten</h3>
-	</div>
-	<div class="box">
-
-		<ul class="bordered" id="top_ten">
-		<li><a href="http://www.tokyopop.com/top_tens.php?top_ten_id=1">Most anticipated manga of early '07</a></li>		
-		
-		<li>
-			<a href="http://www.tokyopop.com/top_tens.php?action=view_all" style="font-weight: normal; font-size: 0.8em">
-				view TOKYOPOP top tens
-			</a>
-		</li>		
-		<li><a href="/SebStudio/topten/791.html">Top Ten Naruto Characters</a></li><li><a href="/FullMetalAlchemistress/topten/32.html">Top 10 Japanese Songs</a></li><li><a href="/tenkal/topten/17.html">Top-ten favourite Shonen Jump Manga.</a></li>		
-		<li>
-			<a href="http://www.tokyopop.com/user-toptens.php" style="font-weight: normal; font-size: 0.8em">
-				view member top tens
-			</a>
-		</li>			
-		
-		</ul>
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-	<div class="boxtop">
-		<h3>Latest Avatars</h3>
-	</div>
-	<div class="box">
-		<ul id="newmembers">
-		<li><a href="http://www.tokyopop.com/CHULIP/avatar/187581.html" title="CHULIP - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187581_thumb.jpg"><br>
-				otsuka ai</a></li>
-			<li><a href="http://www.tokyopop.com/Temari2589/avatar/187580.html" title="Temari2589 - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187580_thumb.jpg"><br>
-				Temari...</a></li>
-			<li><a href="http://www.tokyopop.com/StarMaiden01/avatar/187579.html" title="StarMaiden01 - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187579_thumb.jpg"><br>
-				Dancing...</a></li>
-			<li><a href="http://www.tokyopop.com/dallascowboysfan/avatar/187578.html" title="dallascowboysfan - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187578_thumb.jpg"><br>
-				stupid</a></li>
-			<li><a href="http://www.tokyopop.com/dallascowboysfan/avatar/187577.html" title="dallascowboysfan - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187577_thumb.jpg"><br>
-				prev</a></li>
-			<li><a href="http://www.tokyopop.com/Temari2589/avatar/187576.html" title="Temari2589 - avatar">
-				<img src="http://www.tokyopop.com/member-avatars/187576_thumb.jpg"><br>
-				Temari...</a></li>
-					<li style="text-align:left; ">&nbsp;&nbsp;&nbsp;<a href="/avatars.php" style="font-weight: bold;">More</a></li>
-		</ul>
-		
-		<div class="clearer"></div>
-	</div>
-	<div class="boxbottom"></div>
-	
-</div>
-
-
-	<div id="body">
-
-
-		
-<div id="homebanner">
-
-
-	<!-- BEGIN: AdSolution-Website-Tag 4.3 : tokyopop.com / ROS_Exp_Leader_728x90_468x60 -->
-	<div style="display:block; float: none; overflow:hidden; width: 728px; height: 90px;"><!-- BEGIN GN Ad Tag for TokyoPop 728x90,468x60 ros --><script language="JavaScript" type="text/javascript">
-if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
-document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/ros;sect=ros;sz=728x90,468x60;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/ros;sect=ros;sz=728x90,468x60;tile=1;ord=4828419967535320?" type="text/javascript"></script><!-- END AD TAG --></div>	<!-- END:AdSolution-Tag 4.3 -->
-
-		<div>
-	<!-- BEGIN: AdSolution-Website-Tag 4.3 : tokyopop.com /  ROS_Sky_120x600 -->
-	<div style="display:block; float: none; overflow:hidden; width: 120px; height: 600px;"><!-- BEGIN GN Ad Tag for TokyoPop 120x600 ros --><script language="JavaScript" type="text/javascript">
-if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if (typeof(gnm_tile) == 'undefined') gnm_tile=1;
-document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/ros;sect=ros;sz=120x600;tile='+(gnm_tile++)+';ord=' + gnm_ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="http://n4403ad.doubleclick.net/adj/gn.tokyopop.com/ros;sect=ros;sz=120x600;tile=2;ord=4828419967535320?" type="text/javascript"></script><!-- END AD TAG --></div>	<!-- END:AdSolution-Tag 4.3 -->
-	</div>
-	
-
-</div>
-
-
-
-
-		<div id="content">
-
-			<div class="pagesection">
-			<div class="extender"></div>
-
-				<div class="breadcrumb"><a href="/">Home</a> &nbsp;»&nbsp; Privacy Statement</div>				<div class="pop" style="float:right">
-						<br>
-						<a class="link" href="/email_friend_page.php?url=/9.html&amp;title='Privacy Statement'&amp;non_popup=true" onclick="MM_openBrWindow('/email_friend_page.php?url=/9.html&amp;title=Privacy Statement','','scrollbars=yes,resizable=yes,width=640,height=360'); return false;">Email This!</a>			
-					</div>
-<p style="font-size: 1.0em;"></p><h1 class="title">Privacy Statement</h1><span class="date">Date: Fri, June 23, 2006</span><br><br><p></p>1.Purpose of this Privacy Policy
+</div><br class="clear">
+		</div>
+		<br class="clear">
+	</div><br class="clear">
+         <!-- product title - category -->
+         <div id="corp_title_container">
+          <p class="title">
+		 	 		  		Privacy Policy						</p>
+         </div>
+         <!-- page nav -->
+         <div class="btn_prev">
+		  		 </div>
+         <div class="btn_next">
+		 		 </div>
+         <p class="count"></p>
+      </div>
+      <!-- begin page body -->
+      <div class="page_top">
+        <div id="column_container">
+          
+          <!-- column left -->
+          <div id="spec_left" style="padding-top: 20px;">
+			<img src="/images/common/corp_default_image.jpg" alt="Corporate" width="175" height="460">
+		  </div>
+<!-- -----------------------------------------------column center---------------------------------------------------------- -->
+	<div id="rich_text">
+		  <div id="spec_center">
+            <div class="user_item">
+				<!-- MAIN CONTENT -->	
+							
+					1.Purpose of this Privacy Policy
 <p>&nbsp;TOKYOPOP (“Company”) is committed to respecting the privacy rights of its members, visitors, and other users of TOKYOPOP.com (“Website”). This Privacy Policy is provided to give you confidence as you visit and use the Website, and to demonstrate our commitment to fair information collection and usage practices and the protection of you privacy. This policy is only applicable to this Website and not to any other websites that you may be able to access from the Website, each of which may have data collection and use practices and policies that differ materially from TOKYOPOP’s Privacy Policy. </p>
 <p>2. Information Collection Practices </p>
 <p>2.1 Types of Information Collected </p>
 <p>(a) Traffic Data Collected. We automatically track and collect the following categories of information when you visit our Website: 1. IP Addresses; 2. domain servers; 3. types of computers accessing the Website; and 4. types of web browsers used to access the Website (collectively “Traffic Data”).&nbsp; Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Website. We also use cookies to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the site. </p>
-<p>(b) Personal Information Collected. In order for you to become a member of the Website, receive email communications from us, receive Manga Magazine, participate in contests and competitions, access certain premium services, and purchase products that we offer via the Website, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: 1. Contact Data (such as your name, mailing address, e-mail address); 2. Financial Data (such as your account or credit card number); 3. Demographic Data (such as your zip code and age); 4. Profile Data (such as personal interests). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, forums, or blogs, or otherwise complete online forms, surveys, or contest entries, any information (including your preferences, biographical information, photo, artwork, and other materials) you provide may be collected as Personal Information. <br>&nbsp; </p>
+<p>(b) Personal Information Collected. In order for you to become a member of the Website, receive email communications from us, receive Manga Magazine, participate in contests and competitions, access certain premium services, and purchase products that we offer via the Website, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: 1. Contact Data (such as your name, mailing address, e-mail address); 2. Financial Data (such as your account or credit card number); 3. Demographic Data (such as your zip code and age); 4. Profile Data (such as personal interests). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, forums, or blogs, or otherwise complete online forms, surveys, or contest entries, any information (including your preferences, biographical information, photo, artwork, and other materials) you provide may be collected as Personal Information. <br>
+&nbsp; </p>
 <p>2.2 Use and Sharing of Information </p>
 <p>(a) Our Use of Information. We use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, affiliates, or to contact you when necessary. We use your Financial Data to verify your qualifications for certain products or services and to charge you for products and services. We use your Demographic and Profile Data to customize and tailor your experience on the Website and/or services we provide on the Website, displaying content that we think you might be interested in and according to your preferences. </p>
 <p>(b) Sharing of Personal Information. We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We share Contact Data with other group or affiliate companies who may want to send you information about their products or services. We also share Contact Data and Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Website and the services we offer on the Website. Those business partners have all agree to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to us. </p>
@@ -318,419 +691,91 @@ document.write('<scr'+'ipt language="JavaScript" src="http://n4403ad.doubleclick
 <p>We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may visit your personal profile in order to: (a) review and update your Personal Information; (b) choose whether or not you wish to receive promotional material from us or some of our partners. </p>
 <p>3.2&nbsp; Lost or Stolen Information </p>
 <p>&nbsp;You must promptly notify us if your credit card, user account id, or password is or appears to you to have been lost, stolen, or used without your permission. If you advise us of such an event, we will remove that credit card number, username, or password from your account and update our records accordingly. </p>
-<p>3.3 Public Information <br>&nbsp; <br>&nbsp;The Website contains links to other websites that we do not operate or control. We are not responsible for the privacy practices or the content of such websites. We also make chat rooms, forums, message boards, news groups, and other public areas available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose any of your Personal Information. </p>
+<p>3.3 Public Information <br>
+&nbsp; <br>
+&nbsp;The Website contains links to other websites that we do not operate or control. We are not responsible for the privacy practices or the content of such websites. We also make chat rooms, forums, message boards, news groups, and other public areas available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose any of your Personal Information. </p>
 <p>4. Updates and Changes to Privacy Policy </p>
-<p>&nbsp;We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Website. <br>&nbsp; </p>
-<p>Effective August 2006.</p><p>			</p><div class="clearer"></div>
+<p>&nbsp;We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Website. <br>
+&nbsp; </p>
+<p>Effective August 2006.</p>
+									</div>
+
+          </div>
+			<br class="clear:both">
+	</div>		
+        </div>
+          </div>
+		
+          
+          <!-- column right -->
+          	<div id="spec_right" style="text-align:right;">
+				<!-- column empty on corporate pages -->
+            	<!-- GOOGLE ADSENSE -->
+            	<div class="sidebar">
+            				
+			<script type="text/javascript"><!--
+					google_ad_client = "pub-2450291889332297";
+					google_ad_width = 160;
+					google_ad_height = 600;
+					google_ad_format = "160x600_as";
+					google_ad_type = "text";
+					google_ad_channel = "";
+					google_color_border = "FFFFFF";
+					google_color_bg = "FFFFFF";
+					google_color_link = "940F04";
+					google_color_text = "000000";
+					google_color_url = "CC0000";
+					google_ui_features = "rc:10";
+					//-->
+				</script>
+                
+			 				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 			</div>
+            </div>
+          </div><br class="clear">
+        </div>
+      </div>
+      <!-- end page body -->
 
-		</div>
-
-
-		<div id="bottommenu">
-
-		</div>
-
-
-	</div>
-
-		<div id="footer">    
-	<a href="http://www.tokyopop.com/C-26/">About Us</a> &nbsp; | &nbsp;<a href="/8.html">Contact Us</a> &nbsp; | &nbsp;<a href="http://www.tokyopop.com/C-31/">Terms of Service</a> &nbsp; | &nbsp;<a href="/9.html">Privacy Policy</a> &nbsp; | &nbsp;<a href="/70.html">Fan Art Policy </a>	</div>
-	
-
-</div>
-</div>
+  
 
 
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2006/05/02 08:33:13 $ -->
-<script type="text/javascript"><!--
-var gService = true;
-var gTimeZone = -8;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-	dCur.setTime(dCur.getTime()+adj);
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-	if (document.cookie.indexOf(name+"=")==-1){
-		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-			WT.co_f=gWtId;
-		}
-		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-			WT.co_f=gTempWtId;
-			WT.vt_f="1";
-		}
-		else{
-			WT.co_f="2";
-			var cur=dCur.getTime().toString();
-			for (var i=2;i<=(32-cur.length);i++){
-				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-			}
-			WT.co_f+=cur;
-			WT.vt_f="1";
-		}
-		if (typeof(gWtAccountRollup)=="undefined"){
-			WT.vt_f_a="1";
-		}
-		WT.vt_f_s=WT.vt_f_d="1";
-		WT.vt_f_tlh=WT.vt_f_tlv="0";
-	}
-	else{
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-	if (document.cookie.indexOf(name+"=")==-1){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-		WT.vt_f=WT.vt_f_a="2";
-	}
-}
+<br class="clear:both">
+		
+		
+		
 
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gConvert=true;
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2006/05/02 08:33:13 $ -->
-<script type="text/javascript"><!--
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsqa5emk000008yzsfflssxm_7i3g";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-var gI18n=false;
-if (window.RegExp){
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
-	var I18NRE={"%25":/\%/g};
-}
-
-// Add customizations here
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
-	}
-	WT.js="Yes";
-	WT.jv=dcsJV();
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		if (document.body.connectionType){
-			WT.ct=document.body.connectionType;
-		}
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		for(var i=10;i>0;i--){
-			try{
-				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
-				WT.fi="Yes";
-				WT.fv=i+".0";
-				break;
-			}
-			catch(e){
-			}
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	if (gI18n){
-		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
-		if (typeof(document.defaultCharset)=="string"){
-			WT.le=document.defaultCharset;
-		} 
-		else if (typeof(document.characterSet)=="string"){
-			WT.le=document.characterSet;
-		}
-	}
-	WT.tv="8.0.0";
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
-		}
-	}
-}
-
-function dcsA(N,V){
-	return "&"+N+"="+dcsEscape(V, RE);
-}
-
-function dcsEscape(S, REL){
-	if (typeof(REL)!="undefined"){
-		var retStr = new String(S);
-		for (R in REL){
-			retStr = retStr.replace(REL[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsEncode(S){
-	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-		}
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name){
-				if (meta.name.indexOf('WT.')==0){
-					WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
-				}
-				else if (meta.name.indexOf('DCSext.')==0){
-					DCSext[meta.name.substring(7)]=meta.content;
-				}
-				else if (meta.name.indexOf('DCS.')==0){
-					DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (N in DCS){
-		if (DCS[N]) {
-			P+=dcsA(N,DCS[N]);
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=dcsA("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			P+=dcsA(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsJV(){
-	var agt=navigator.userAgent.toLowerCase();
-	var major=parseInt(navigator.appVersion);
-	var mac=(agt.indexOf("mac")!=-1);
-	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-	var nn4=(nn&&(major==4));
-	var nn6up=(nn&&(major>=5));
-	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-	var ie5up=(ie&&!ie4);
-	var op=(agt.indexOf("opera")!=-1);
-	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-	var op7up=(op&&!op5&&!op6);
-	var jv="1.1";
-	if (nn6up||op7up){
-		jv="1.5";
-	}
-	else if ((mac&&ie5up)||op6){
-		jv="1.4";
-	}
-	else if (ie5up||nn4||op5){
-		jv="1.3";
-	}
-	else if (ie4){
-		jv="1.2";
-	}
-	return jv;
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsqa5emk000008yzsfflssxm_7i3g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
+<center>
 
 
 
-</body></html>
+      <!-- footer -->
+      <div id="footer_container">
+        <ul id="footer">
+          <li><a href="/corporate/about_us">About Us</a></li>
+          <li class="pipe">|</li>
+          <li><a href="/corporate/contact_us">Contact Us</a></li>
+          <li class="pipe">|</li>
+          <li><a href="/legal/terms_of_service.html">Terms of Service</a></li>
+          <li class="pipe">|</li>
+          <li><a href="/legal/privacy_policy.html">Privacy Policy</a></li>
+          <li class="pipe">|</li>
+          <li><a href="/legal/fan_art_policy.html">Fan Art Policy</a></li>
+        </ul>
+      </div>
+      <!-- end footer -->
+        
+    
+    
+  
+  
+  	<!-- com analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-997700-1";
+	urchinTracker();
+	</script>
+   
+
+</center></body></html>
