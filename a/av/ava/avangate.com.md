@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607162801id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213222710id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
@@ -8,7 +8,7 @@ Version: October 18, 2006
 
 BEFORE SUBMITTING YOUR PERSONAL DATA PLEASE REVIEW THE FOLLOWING.
 
-This website is owned and operated by AVANGATE BV, Van Heuven Goedhartlaan 937, 1181LD Amstelveen, Amsterdam Metropolitan Area, The Netherlands ("AVANGATE")
+This website is owned and operated by Avangate BV, Van Heuven Goedhartlaan 937, 1181LD Amstelveen, Amsterdam Metropolitan Area, The Netherlands.
 
 **PURPOSE**
 
@@ -29,9 +29,9 @@ Avangate collects, processes and uses your personal data, such as your first and
 As a visitor to our Site, you can engage in many activities without providing any personal information, but in connection with other optional activities, Avangate may ask you to provide certain information by filling out and submitting an online form. All these information will be collected, processed and used by Avangate only for the specific activity that you are submitting to and according to these privacy policy and to the extend permitted by law. 
 
 **Use of personal data**  
-PERSONAL DATA PROVIDED TO AVANGATE ARE PRIMARLY PROCESSED AND USED ON OUR SERVERS LOCATED IN THE NEDERLAND. 
+PERSONAL DATA PROVIDED TO AVANGATE ARE PRIMARLY PROCESSED AND USED ON OUR SERVERS LOCATED IN THE NETHERLAND. 
 
-When it is necessary in order to fulfill our contractual obligations to you, the personal data that you provide to us will be collected, used and transmitted to our employees, AVANGATE affiliates or third parties providing services to Avangate. 
+When it is necessary in order to fulfill our contractual obligations to you, the personal data that you provide to us will be collected, used and transmitted to our employees, Avangate affiliates or third parties providing services to Avangate. 
 
 Avangate is using your personal data in order: 
 
@@ -73,11 +73,11 @@ Avangate reserves the right to change the Privacy Policy from time to time and w
 
 **APPLICABLE LAW**
 
-The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the AVANGATE headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of AVANGATE headquarter. 
+The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the Avangate headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Avangate headquarter. 
 
 **CONTACT DATA**
 
-The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the AVANGATE headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of AVANGATE headquarter. 
+The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of the Avangate headquarter. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed the dispute shall be settled by the arbitration of the competent courts from the territorial jurisdiction of Avangate headquarter. 
 
 If you have questions and/or complaints regarding our Privacy Policy, please contact us at:  
 **Avangate B.V.**   
