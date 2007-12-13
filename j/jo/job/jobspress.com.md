@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobspress.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629211827id_/http%3A//jobspress.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobspress.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213224205id_/http%3A//jobspress.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Nova Scotia Job and Career Listings - JobsPress.com
 
