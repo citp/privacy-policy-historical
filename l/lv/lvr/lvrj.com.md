@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2007-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070608103917id_/http%3A//www.reviewjournal.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213065018id_/http%3A//www.reviewjournal.com/about/privacy.html) for the most accurate reproduction.*
 
 # reviewjournal.com -- About
 
 **PRIVACY STATEMENT**
+
+revised Nov. 5, 2007 
 
 Reviewjournal.com and Stephens Media Group care about your privacy.  This privacy policy sets forth the privacy policies of reviewjournal.com and Stephens Media Group.
 
@@ -73,6 +75,8 @@ Reviewjournal.com is the sole owner of all information collected on reviewjourna
 **_Links to Third Party Sites_**
 
 Our site may contain third party content or services from other websites and may be available to you from a link provided by reviewjournal.com.  Any links or other websites not affiliated with reviewjournal.com are not subject to this privacy policy.  You should review the terms of use in the privacy policy at any third party's website to determine how that site protects your privacy.  Reviewjournal.com is not responsible for the content of third party websites or actions of any third parties.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>). 
 
 **_Contact us_**
 
