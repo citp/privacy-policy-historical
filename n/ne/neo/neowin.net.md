@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215102439id_/http%3A//www.neowin.net/index.php%3Fact%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023029id_/http%3A//neowin.net/index.php%3Fact%3Dinfo_privacy) for the most accurate reproduction.*
 
 # Neowin.net - Where unprofessional journalism looks better
+
+ Latest [Forum](https://web.archive.org/forum) Activity
+
+· Stop ·   Latest News 
 
 ### Privacy Statement
 
