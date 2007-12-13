@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622044923id_/http%3A//www.portero.com/cgi-bin/ncommerce3/ExecMacro/static/safety_security.d2w/report%3Fwl%3D66292034%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213095417id_/http%3A//www.portero.com/cgi-bin/ncommerce3/ExecMacro/static/safety_security.d2w/report%3Fwl%3D66292034%23Privacy) for the most accurate reproduction.*
 
 # Online Luxury Internet Auctions by Portero.com | Designer & Luxury Watches, Jewelry, Collectibles & Art | Buy It Now or Bid Auction Style at Portero
 
 | 
 
-[Home](https://web.archive.org/) | Privacy, Authenticity, Safety & Security 
+[_Home_](https://web.archive.org/)
+
+| Privacy, Authenticity, Safety & Security 
 
 Your privacy is important to us. Accordingly, we have designed this privacy policy in order to communicate what information Portero collects, why we collect this information, and how we use the information we collect. 
 
