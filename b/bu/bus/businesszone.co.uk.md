@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2007-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070405011611id_/http%3A//www.businesszone.co.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213120438id_/http%3A//www.businesszone.co.uk/about/privacy.html) for the most accurate reproduction.*
 
-# BusinessZone - Privacy Policy
-
-  
-
+# Privacy policy - BusinessZone.co.uk
 
   * Information Collection and Use
   * Registration
@@ -48,10 +45,10 @@ This website takes every precaution to protect our users’ information. When us
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, as will be the case for most of the time that a user is browsing the web.
 
-If you have any questions about the security at our website, please contact [Customer Services](https://web.archive.org/help/contact.html).
+If you have any questions about the security at our website, please contact [Customer Services](https://web.archive.org/about/customer_services.html).
 
 **Correcting/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the [personal profile page](https://web.archive.org/profile) or by contacting [Customer Services](https://web.archive.org/help/contact.html).
+If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the [personal profile page](https://web.archive.org/profile) or by contacting [Customer Services](https://web.archive.org/about/customer_services.html).
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
