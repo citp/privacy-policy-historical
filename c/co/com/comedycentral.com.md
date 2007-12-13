@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedycentral.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604204003id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213042625id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.*
 
 # Comedy Central:
 
