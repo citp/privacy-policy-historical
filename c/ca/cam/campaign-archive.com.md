@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the campaign-archive.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613084204id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaign-archive.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213162233id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
-| [](http://www.rocketsciencegroup.com/)  
----|---  
-  
+We take your privacy, and the privacy of your subscribers, very seriously at MailChimp. If you have any questions about our privacy policy, [contact us.](https://web.archive.org/contact.phtml)
+
 ### A. Our Pledge to You
 
-[](http://www.truste.org/ivalidate.php?url=www.mailchimp.com&sealid=101)
-
-  1. When you sign up for a free trial, you will not be nagged into paying us money, and you will not be automatically subscribed to any promotional emails. 
+  1. When you sign up for a free trial, you will not be automatically subscribed to any promotional emails. 
   2. Your personal information (and your customer information) will be kept strictly confidential. It is never sold, given away, or shared with anyone, unless we're required to by law. 
   3. We do not send promotional messages to you unless you explicitly request to receive them. 
-  4. We don't believe in sending those annoying "why won't you buy?" emails to free trial members while they are evaluating our system. We may, however, send an automated email asking you if you'd like to deactivate your free trial (if you don't use it after signing up). We like to remove dormant accounts from our system, to keep our database clean. 
-  5. Nobody is automatically subscribed to any general MailChimp marketing emails. We believe people should only receive emails if they opted in for them. If you do subscribe to any MailChimp marketing, we always provide a link to unsubscribe from our list. 
-  6. In order to use MailChimp, you must first complete the "Free Trial" registration form and create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to send you a confirmation link, which is used to activate your account. You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
+  4. We may send you automated emails asking you if you'd like to activate, or de-activate your free trial (if you don't use it after a reasonable time period). We like to remove dormant accounts from our system, to keep our database clean. 
+  5. In order to use MailChimp, you must first complete the "Free Trial" registration form and create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to send you a confirmation link, which is used to activate your account. You have the option to provide demographic information (such as income level and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
 
 
 
 ### B. We _NEVER_ Touch Your Customer Lists
 
-  1. Your recipient lists are stored on the MailChimp server. We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law. Your recipient list is kept strictly confidential. 
+  1. Your recipient lists are stored on a secure MailChimp server. We do not, under any circumstances, steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law. Your recipient list is kept strictly confidential. 
   2. Only carefully selected, authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns. 
+  3. We do not hold your lists hostage, and we do not make it difficult to reclaim them. You may export (download) your lists from MailChimp at any time. They are your property. 
 
 
 
@@ -75,48 +72,31 @@ We do not send promotional emails unless you have requested them.
 
   1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
 
-  
+|    
 
-
-* * *
 
 ### Truste Privacy Program
 
-The Rocket Science Group, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.mailchimp.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://www.truste.org/ivalidate.php?url=www.mailchimp.com&sealid=101) MailChimp is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.mailchimp.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact The Rocket Science Group [using this form](https://web.archive.org/contact.phtml). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact MailChimp [using this form](https://web.archive.org/contact.phtml). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 * * *
 
-  
+### BBB Online Reliability
 
+MailChimp's parent company, The Rocket Science Group, is a member of the BBB Online Reliability program. Feel free to check our status by clicking the logo below:  
+[](http://www.bbbonline.org/cks.asp?id=105113010411)
 
-MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegroup.com/). You can contact us at:  
+* * *
+
+### Contact Us
+
+MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegroup.com/). You can contact us at:
+
 **The Rocket Science Group, LLC**  
-530 Means Street, Suite 404  
+512 Means Street, Suite 404  
 Atlanta, GA 30318  
-(678)999-0141
+1-866-284-2541
 
-Or email us [here.](https://web.archive.org/web/20070613084204id_/http%3A//www.mailchimp.com/contact.phtml)
-
-* * *
-
-_Edited: May 15, 2006_  
-_Summary of edits: Added the "unless required to by law" portion under A-1. Gave titles to the "types of emails to expect" under Section C._
-
-_Edited: March 1, 2006_  
-_Summary of edits: Added Truste information, and added additional verbiage about how we never use or share personally identifiable information._
-
-_Edited: November 30, 2005_  
-_Summary of edits: Added "the types of emails we send" to better set expectations. Added information about cookies, and what we track in our own emails to customers and opt-in subscribers. Moved items from the "Pledge" to the "types of emails we send" sections._
-
-_Edited: November 29, 2005_  
-_Summary of edits: Changed "MailChimp" to "The Rocket Science Group" in mailing address._
-
-_Edited: November 21, 2005_  
-_Summary of edits: Added logos and links to RSG. Changed bullet points to numbers, for easy reference. Changed "update" to "alert" in section A, item 4._
-
-_Edited: September 30, 2005_  
-_Summary of edits: Changed header titles, to make them less vague._
-
-_Effective Date: September 30, 2001_
+Or email us [here.](https://web.archive.org/web/20071213162233id_/http%3A//www.mailchimp.com/contact.phtml)
