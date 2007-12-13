@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the babyexpert.com privacy policy that was archived on 2007-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070320101139id_/http%3A//www.babyexpert.com/index.php%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyexpert.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213094230id_/http%3A//www.babyexpert.com/%3Fmodule%3Droles%26func%3Dprivacy) for the most accurate reproduction.*
 
-# Baby Expert :: Privacy Statement
-
-### Search the site
-
-###### 
-
-### Get the best baby magazine every month
-
-[](http://www.babyexpert.co.uk/index.php/v1/Subscribe_now%21)
-
-### Subscribe today  
-SAVE 45%
-
-### Disclaimer
-
-###### The material contained on these pages is in no way intended to replace professional medical care or advice and should not be used as a basis for diagnosis or choice of treatment. Answers to specific problems may not apply to everyone. If you're worried, see your GP.
+# Privacy Statement :: Baby Expert
 
   
 
@@ -37,4 +22,4 @@ Data Protection: The National Magazine Company and our sponsors and promoters ma
 
 Please leave the Site and its Service now if you don't agree to our privacy terms.
 
-###### See our full [Terms and Conditions](http://www.babyexpert.com/index.php?module=roles&func=terms).
+#### See our full [Terms and Conditions](http://www.babyexpert.com/?module=roles&func=terms).
