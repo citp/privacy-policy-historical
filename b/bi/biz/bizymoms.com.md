@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629093343id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213234702id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bizymoms.com
 
 Bizymoms Privacy Policy
 
-This web site was created by [Liz Folger](https://web.archive.org/web/20070629093343id_/http%3A//www.bizymoms.com/liz_folger.html).
+This web site was created by [Liz Folger](https://web.archive.org/web/20071213234702id_/http%3A//www.bizymoms.com/liz_folger.html).
 
 You can contact Liz through our [customer support center](http://wnhelp.com/index.php?_m=tickets&_a=submit&group=bizymoms)  
 Or you can reach her by telephone at 530-938-2253.
