@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624020813id_/http%3A//www.sacredheart.edu/pages/2025_privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213092220id_/http%3A//www.sacredheart.edu/pages/2025_privacy_statement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Sacred Heart University
 
@@ -17,7 +17,7 @@ There are four types of information that this site may collect during your visit
 
 
 
- **Network Traffic Logs**
+**Network Traffic Logs**
 
 In the course of ensuring network security and consistent service for all users, the University employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage University computers or the network, and monitor and tune the performance of the University network. In the course of such monitoring, these programs may detect such information as email headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the University's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent unless required by law.
 
