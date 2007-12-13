@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boats.net privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628223427id_/http%3A//www.boats.net/pages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.net privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213223636id_/http%3A//www.boats.net/pages/privacypolicy.html) for the most accurate reproduction.*
 
 # Boats.net - The Alternative to Retail Prices
 
