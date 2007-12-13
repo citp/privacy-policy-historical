@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520234610id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213220913id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.*
 
-# StuartsLondon.com - Privacy and Security
+# Stuarts London - Privacy and Security
 
 **Disclaimer:**                                                                                                                                                  Stuarts london.com have the right to change prices and specifiactions without prior notice. Colours of products are as accurate as the website allows.
 
