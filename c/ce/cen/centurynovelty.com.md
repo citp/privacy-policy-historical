@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624231926id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213044343id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
 
 # Century Novelty - Privacy Policy
 
