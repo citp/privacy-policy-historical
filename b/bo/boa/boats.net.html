@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the boats.net privacy policy that was archived on 2007-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070628223427id_/http%3A//www.boats.net/pages/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boats.net privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213223636id_/http%3A//www.boats.net/pages/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
+ <meta name="verify-v1" content="lNhlLzoRBU6/9qWXBZvfHCdYLFK8U36U5n4KkQN2Eo8=">
  <meta http-equiv="content-type" content="text/html; charset=utf-8">
  <title>Boats.net - The Alternative to Retail Prices</title>
  <link rel="stylesheet" href="/hostedstore/templates/boats_1/ss.css" type="text/css">
@@ -63,6 +64,66 @@ window.name = 'BoatsNetMain';
    }
  }
 
+
+function emailCheck (emailStr) {
+var emailPat=/^(.+)@(.+)$/
+var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+var validChars="\[^\\s" + specialChars + "\]"
+var quotedUser="(\"[^\"]*\")"
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+var atom=validChars + '+'
+var word="(" + atom + "|" + quotedUser + ")"
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+
+var matchArray=emailStr.match(emailPat)
+if (matchArray==null) {
+	alert("Email address seems incorrect (check @ and .'s)")
+	return false
+}
+var user=matchArray[1]
+var domain=matchArray[2]
+
+if (user.match(userPat)==null) {
+    alert("Please check your email.")
+    return false
+}
+
+var IPArray=domain.match(ipDomainPat)
+if (IPArray!=null) {
+ 	  for (var i=1;i<=4;i++) {
+	    if (IPArray[i]>255) {
+	        alert("The Email IP Address is invalid")
+		return false
+	    }
+    }
+    return true
+}
+
+var domainArray=domain.match(domainPat)
+if (domainArray==null) {
+	alert("Please check your email.")
+    return false
+}
+
+var atomPat=new RegExp(atom,"g")
+var domArr=domain.match(atomPat)
+var len=domArr.length
+if (domArr[domArr.length-1].length<2 || 
+    domArr[domArr.length-1].length>3) {
+   alert("Please check your email.")
+   return false
+}
+
+if (len<2) {
+   var errStr="Please check your email."
+   alert(errStr)
+   return false
+}
+
+return true;
+}
+
 //-->
 </script>
 </head>
@@ -79,13 +140,16 @@ window.name = 'BoatsNetMain';
     <img src="/hostedstore/templates/boats_1/images/topbar_blank.jpg" width="10" height="18" border="0" align="right">
     <a href="http://www.boats.net/app/admincustomer/index.html" title="Manage an Existing Account"><img src="/hostedstore/templates/boats_1/images/topbar_myaccount.jpg" width="95" height="18" border="0" align="right" alt="My Account"></a>
     <a href="http://www.boats.net/app/createaccount.html" title="Create an Account"><img src="/hostedstore/templates/boats_1/images/topbar_create_account_109x18.jpg" width="109" height="18" border="0" align="right" alt="Create Account"></a>
+   
     <a href="http://www.boats.net/app/admincustomer/index.html" title="Login to an Existing Account"><img src="/hostedstore/templates/boats_1/images/topbar_login_59x18.jpg" width="59" height="18" border="0" align="right" alt="Account Login"></a>
-   </div>
+    
+    </div>
    <div style="clear:both;"></div>
    <!-- HEADER 1ST NAV BAR END, BLUE -->
    <!-- HEADER IMAGE START -->
    <div style="width:800px; height:60px; background: url(/hostedstore/templates/boats_1/images/boats_headermain_bg.jpg);">
-    <a href="http://www.boats.net/" title="Home"><img src="/hostedstore/templates/boats_1/images/boats_headermain.gif" width="800" height="60" border="0" alt="Boats.net - Largest OEM Parts Dealer in the United States"></a>
+    <a href="http://www.boats.net/pages/holiday_shopping.lasso" title="Holiday Shopping"><img src="/hostedstore/templates/boats_1/images/boats_holiday_headermain.gif" width="800" height="60" border="0" alt="Boats.net - Largest OEM Parts Dealer in the United States"></a>
+    <!-- <a href="[$HS_PathToStore]/" title="Home"><img src="[$HS_FilePathToStore]/templates/[$HS_TemplateName]/images/boats_headermain.gif" width="800" height="60" border="0" alt="Boats.net - Largest OEM Parts Dealer in the United States"></a>  --> 
    </div>
    <!-- HEADER IMAGE END -->
    <!-- HEADER 2ND NAV BAR START, BLACK -->
@@ -94,9 +158,9 @@ window.name = 'BoatsNetMain';
     
     <a href="http://www.boats.net/pages/international-orders.html">INTERNATIONAL</a> |
     <a href="http://www.boats.net/pages/forums.html">FORUMS</a> |
-    <a href="http://boats.org/articles/" title="Articles" target="_blank">ARTICLES</a> |
+    <a href="http://boats.org/articles/" title="Boat Articles" target="_blank">ARTICLES</a> |
     <a href="http://www.boats.net/pages/advertising.html">ADVERTISING</a> |
-    <a href="http://www.boats.net/pages/news.html">NEWS</a> |
+    <a href="http://boats.org/news/" title="Boat News" target="_blank">NEWS</a> |
     <a href="http://www.boats.net/app/wishlist.html">WISHLISTS</a> | 
     <!-- <a href="[$HS_PathToStore]/pages/giftcertificates.html">GIFT CERTIFICATES</a> |  -->
     <a href="http://www.boats.net/pages/about.html">ABOUT US</a> |
@@ -119,11 +183,12 @@ window.name = 'BoatsNetMain';
          <li>&nbsp;</li>
          <li><a href="http://www.boats.net/dept/electronics.html" title="Shop for Marine Electronics">ELECTRONICS</a></li>
          <li><a href="http://www.boats.net/app/search.html?s6op=eq&amp;s6=Generators&amp;Submitted_Search=Y" title="Shop for Honda Generators">GENERATORS</a></li>
-         <li><a href="http://www.boats.net/propellers/index.html" title="Shop for Propellers">PROPELLERS</a></li>
+         <li><a href="http://www.boats.net/dept/propellers.html" title="Shop for Propellers">PROPELLERS</a></li>
+         <li><a href="http://www.boats.net/dept/trollingmotors.html" title="Shop for Trolling Motors">TROLLING MOTORS</a></li>
          <li><a href="http://www.boats.net/accessories/roll-n-go/index.html" title="Shop for Roll-N-Go Shore Ramps and Accessories">ROLL-N-GO</a></li>
-         <!-- <li><a href="[$HS_PathToStore]/app/search.html?s9op=eq&s9=Y&Submitted_Search=Y" title="See More Specials">ON SALE NOW</a></li> -->
+         <li><a href="http://www.boats.net/dept/blowoutsales.html" title="See All Blowout Sales" style="color:orange;">BLOWOUT SALES</a></li>
          <li><a href="http://www.boats.net/app/search.html?s6op=eq&amp;s6=other%20products&amp;Submitted_Search=Y&amp;attr=Y" title="Shop for Other Products">OTHER PRODUCTS</a></li>
-         <li><a href="http://www.rvpartsus.com/partsandaccessories.html" title="RV Parts, Supplies, and Accessories" target="_new">RV PARTS</a></li>
+         <li><a href="http://www.boats.net/app/search.html?s6op=eq&amp;s6=Cigars&amp;Submitted_Search=Y&amp;attr=Y" title="Shop for Rocky Patel Cigars">CIGARS</a></li>
          <li>&nbsp;</li>
         </ul>
        </div>
@@ -139,14 +204,23 @@ window.name = 'BoatsNetMain';
          <li><a href="http://www.boats.net/pages/evinrude.html" title="Shop for Evinrude Parts">EVINRUDE</a></li>
          <li><a href="http://www.boats.net/pages/johnson.html" title="Shop for Johnson Parts">JOHNSON</a></li>
          <li><a href="http://www.boats.net/aftermarketparts/" title="Shop for Aftermarket Parts">AFTERMARKET</a></li>
+         <li><a href="http://www.rvpartsus.com/partsandaccessories.html" title="RV Parts, Supplies, and Accessories" target="_new">RV PARTS</a></li>
         </ul><br>
        </div>
        
+       <!-- SURPLUS OUTBOARD PARTS BEGIN -->
+       <table border="0" width="140" cellspacing="0" cellpadding="3" align="center" class="med" style="margin-top:5px; margin-bottom:5px;">
+        <tbody><tr><td align="center">
+       <a href="http://www.surplusoutboardparts.com" target="_new"><img src="/hostedstore/templates/boats_1/images/sidebanner/surplusoutboardparts.gif" width="125" height="125" border="0" alt="Surplus Outboard Parts"></a><br>
+       </td>
+       </tr>
+       </tbody></table>
+       <!-- SURPLUS OUTBOARD PARTS END -->
        <!-- ATTENTION REPAIR SHOPS BEGIN -->
        <table border="0" width="140" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="med" style="margin-top:5px; margin-bottom:5px;">
-        <tbody><tr><td bgcolor="#df9135" align="center" style="border: 1px solid #000"><span style="color:#fff;"><b>Small Repair Shops</b></span></td></tr>
+        <tbody><tr><td bgcolor="#df9135" align="center" style="border: 1px solid #000"><span style="color:#fff;"><b>Repair Shops</b></span></td></tr>
         <tr>
-         <td style="border-width:0 1px 1px 1px; border-color:#000; border-style:solid;"><b>Special Discounts</b> available for small repair shops upon request.<br><a href="http://www.boats.net/hostedstore/helpcenter/boatsnet/repair_shop_discount_application.html">Repair Shop Discount Form</a>
+         <td style="border-width:0 1px 1px 1px; border-color:#000; border-style:solid;"><b>Special Discounts</b> available for repair shops upon request.<br><a href="http://www.boats.net/hostedstore/helpcenter/boatsnet/repair_shop_discount_application.html">Repair Shop Discount Form</a>
          </td>
         </tr>
        </tbody></table>
@@ -232,7 +306,6 @@ window.name = 'BoatsNetMain';
           
             <!-- RIGHT SIDE BAR START-->
             <td width="140" bgcolor="#4679A8" background="/hostedstore/templates/boats_1/images/right_column_bg.jpg" valign="top" align="center">
-             
              <!-- SHOPPING CART INFO BEGIN -->
              <table border="0" width="124" cellspacing="0" cellpadding="3" align="center" bgcolor="#FFFFFF" class="med" style="margin-top:5px; margin-bottom:5px;">
               <tbody><tr><td bgcolor="#034383" align="center" style="border: 1px solid #000"><span style="color:#fff;"><b>Shopping Cart</b></span></td></tr>
@@ -262,25 +335,26 @@ window.name = 'BoatsNetMain';
 			          	
 			          	
 			          	<tr><td align="center" style="border-width:0 1px 1px 1px; border-color:#000; border-style:solid;">
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10160.1.html"><img src="/hostedstore/images/products/thumbnail/LU-10160.1.jpg" width="100" height="100" border="0" alt="Lucas Slick Mist 24 Oz Bottle"></a><br>
-				          	<b>MSRP:</b> $7.49<br><b>Our Price:</b> $5.62<br>
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10160.1.html">Lucas Slick Mist 24 Oz Bottle</a>
+				          	<a href="http://www.boats.net/parts/detail/Maintenance/Y-ACC-RNGFR-32-00.html"><img src="/hostedstore/images/products/thumbnail/Y-ACC-RNGFR-32-00.jpg" width="100" height="100" border="0" alt="Yamaha RINGFREE 32OZ HDPE 6"></a><br>
+				          	<b>MSRP:</b> $36.24<br><b>Our Price:</b> $30.75<br>
+				          	<a href="http://www.boats.net/parts/detail/Maintenance/Y-ACC-RNGFR-32-00.html">Yamaha RINGFREE 32OZ HDPE 6</a>
 			          	</td></tr>
 			          	
 			          	
 			          	<tr><td align="center" style="border-width:0 1px 1px 1px; border-color:#000; border-style:solid;">
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10115.1.html"><img src="/hostedstore/images/products/thumbnail/LU-10115.1.jpg" width="100" height="100" border="0" alt="Lucas Sem-Synthetic 2-Cycle High Temp Racing Oil 1 Gallon Bottle"></a><br>
-				          	<b>MSRP:</b> $18.49<br><b>Our Price:</b> $13.87<br>
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10115.1.html">Lucas Sem-Synthetic 2-Cycle High Temp Racing Oil 1 Gallon Bottle</a>
+				          	<a href="http://www.boats.net/parts/detail/Parts/H-39552-ZW7-020AH.html"><img src="/hostedstore/images/products/thumbnail/H-39552-ZW7-020AH.jpg" width="100" height="100" border="0" alt="Honda KEY PNL/PGMFI KT,20'"></a><br>
+				          	<b>MSRP:</b> $284.99<br><b>Our Price:</b> $242.24<br>
+				          	<a href="http://www.boats.net/parts/detail/Parts/H-39552-ZW7-020AH.html">Honda KEY PNL/PGMFI KT,20'</a>
 			          	</td></tr>
 			          	
 			          	
 			          	<tr><td align="center" style="border-width:0 1px 1px 1px; border-color:#000; border-style:solid;">
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10150.1.html"><img src="/hostedstore/images/products/thumbnail/LU-10150.1.jpg" width="100" height="100" border="0" alt="Lucas Liquid Polish 16 Oz Bottle"></a><br>
-				          	<b>MSRP:</b> $13.49<br><b>Our Price:</b> $10.12<br>
-				          	<a href="http://www.boats.net/parts/detail/Maintenance/LU-10150.1.html">Lucas Liquid Polish 16 Oz Bottle</a>
+				          	<a href="http://www.boats.net/parts/detail/Accessories/Y-MAR-MTRCV-FS-15.html"><img src="/hostedstore/images/products/thumbnail/Y-MAR-MTRCV-FS-15.jpg" width="100" height="100" border="0" alt="Yamaha F150 COWL COVER, CHA"></a><br>
+				          	<b>MSRP:</b> $77.21<br><b>Our Price:</b> $64.36<br>
+				          	<a href="http://www.boats.net/parts/detail/Accessories/Y-MAR-MTRCV-FS-15.html">Yamaha F150 COWL COVER, CHA</a>
 			          	</td></tr>
 			          	
+			          
 			          
 			       </tbody></table>
 			       
