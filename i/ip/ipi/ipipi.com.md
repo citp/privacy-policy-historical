@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2007-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070625053542id_/http%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213025411id_/http%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # ipipi.com - Send International SMS Text Messages
 
@@ -60,7 +60,7 @@ We may display targeted advertisements based on personal information. Advertiser
 
   * You can edit your personal account information, including your preferences at any time. 
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and newsletters, that are considered part of your account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your account by visiting the [ feedback form](https://web.archive.org/web/20070625053542id_/http%3A//www.ipipi.com/ContactUs.do) page and requesting that your account be deleted. Please make sure that you include your account username in this request. 
+  * You can delete your account by visiting the [ feedback form](https://web.archive.org/web/20071213025411id_/http%3A//www.ipipi.com/ContactUs.do) page and requesting that your account be deleted. Please make sure that you include your account username in this request. 
 
 
 
@@ -81,6 +81,6 @@ We may display targeted advertisements based on personal information. Advertiser
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20070625053542id_/http%3A//www.ipipi.com/ContactUs.do)
+  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20071213025411id_/http%3A//www.ipipi.com/ContactUs.do)
 
 
