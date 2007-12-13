@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2007-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070422230136id_/http%3A//www.sunpowercorp.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213081052id_/http%3A//www.sunpowercorp.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# SunPower: Privacy
+# SunPower - Smarter Solar » Privacy Statement
+
+Jump to navigation
 
 #### Overview 
 
@@ -48,4 +50,4 @@ Please notify us of changes to any of your personally identifiable information t
 
 #### Conditions of Use; Contacting Us 
 
-Please check the SunPower Web site frequently to see recent changes, additions and deletions to this Privacy Policy. If you prefer not to receive promotional or other informational communications from SunPower, or if you have any questions or comments about our privacy practices or comments or suggestions about the SunPower Web site, please send an email to [salesna@sunpowercorp.com](mailto:salesna@sunpowercorp.com) or by mail to SunPower Corporation, 3939 N. 1st Street, San Jose, California 95134, USA , Attention: Webmaster. 06/16/06 
+Please check the SunPower Web site frequently to see recent changes, additions and deletions to this Privacy Policy. If you prefer not to receive promotional or other informational communications from SunPower, or if you have any questions or comments about our privacy practices or comments or suggestions about the SunPower Web site, please send an email to [salesna@sunpowercorp.com](mailto:salesna@sunpowercorp.com) or by mail to SunPower Corporation, 3939 N. 1st Street, San Jose, California 95134, USA , Attention: Webmaster.
