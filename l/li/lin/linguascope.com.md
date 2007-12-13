@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linguascope.com privacy policy that was archived on 2007-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070304012602id_/http%3A//www.linguascope.com/information/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linguascope.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213023501id_/http%3A//www.linguascope.com/information/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ Linguascope.com
 
@@ -36,4 +36,4 @@ Linguascope collects a minimal amount of information from subscribing schools in
 
 
 
-Linguascope uses the above information to update schools on the status of their subscription and occasionally send them information about our other products (currently once a year). If you'd rather not receive such information, let us know by [contacting us](https://web.archive.org/web/20070304012602id_/http%3A//www.linguascope.com/contact.htm).
+Linguascope uses the above information to update schools on the status of their subscription and occasionally send them information about our other products (currently once a year). If you'd rather not receive such information, let us know by [contacting us](https://web.archive.org/web/20071213023501id_/http%3A//www.linguascope.com/contact.htm).
