@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buydomains.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623200156id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buydomains.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213015826id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # BuyDomains.com: Privacy Policy
 
