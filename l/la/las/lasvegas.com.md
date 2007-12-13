@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2007-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070208175458id_/http%3A//www.lasvegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213182137id_/http%3A//www.lasvegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # About LasVegas.com: Privacy Policy
 
@@ -6,11 +6,11 @@
 
 **Privacy Policy**
 
- _Updated Dec. 28, 2006_
+ _Updated Aug. 28, 2007_
 
 LasVegas.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, **click here to contact us**. 
 
-_**Information we collect**_
+**_Information we collect_**
 
 To better serve site visitors and customers, LasVegas.com collects two basic types of information from our customers:
 
@@ -21,7 +21,7 @@ To better serve site visitors and customers, LasVegas.com collects two basic typ
 
 
 
-_**Information we collect about you**_
+**_Information we collect about you_**
 
 LasVegas.com **only** collects personally identifiable information that you voluntarily provide to us. Examples of such personally identifiable information that you provide to us includes your: 
 
@@ -38,7 +38,7 @@ LasVegas.com **only** collects personally identifiable information that you volu
 
 LasVegas.com only requires personally identifiable information from you when it's needed to complete your purchase, fulfill your order or request, or when you voluntarily decide to register as a member independent of a transaction. 
 
-_**Other information LasVegas.com collects**_
+**_Other information LasVegas.com collects_**
 
 When you visit the LasVegas.com website, we automatically collect some information about your visit using cookies, web beacons, log analysis software and other aggregate tracking technologies. 
 
@@ -58,7 +58,7 @@ If you wish, you may set your browser to refuse cookies. However, by refusing to
 
 A LasVegas.com third-party advertiser cookie file may also be placed on your hard drive during your visit to our website. The purpose of these types of cookies is to collect aggregate statistics about your visit to our website. These cookies do not contain personally identifiable information or track an individual users' movement through our site. 
 
-For more information on cookies, [**click here**](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml). 
+For more information on cookies, **[click here](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)**. 
 
 **Tracking pixels**
 
@@ -76,7 +76,7 @@ Information we measure, analyze and collect in this manner may include: your IP 
 
 Though some personally identifiable information may be collected in this process, the information collected is not used to track an individual's use through our website. 
 
-_**Information from third-party sources**_
+**_Information from third-party sources_**
 
 LasVegas.com may periodically add or update information about you obtained from third-party sources. Examples include updated address, travel itinerary or e-mail address information from such sources as travel service providers, co-branded businesses, business partners or other third parties; or credit history information from credit bureaus. 
 
@@ -84,7 +84,7 @@ This information can help us accurately fulfill orders or deliver purchase confi
 
 We also receive aggregate information such as page views, search terms and click-through information from sources, such as companies we advertise with. 
 
-_**How LasVegas.com uses the information we collect**_
+**_How LasVegas.com uses the information we collect_**
 
 LasVegas.com may use your information, including personally identifiable information, for business purposes including, without limitation, for the following business purposes: 
 
@@ -127,9 +127,9 @@ In some cases, we may choose to buy or sell assets. In these business transfers,
 
 From time to time, LasVegas.com may enter into agreements with third party providers for web analytic and other similar services. If LasVegas.com enters into such an agreement, LasVegas.com may share your information, including personally identifiable information, with the provider or such provider may have access to and collect your information on behalf of LasVegas.com. Your information, including personally identifiable information, may be stored with the provider. Before sharing or storing any customer information with a third party provider, LasVegas.com shall ensure that any provider agrees to comply with the terms and conditions of this privacy policy. Additionally, LasVegas.com generally requires any third party provider of web analytic or other similar services to maintain industry security standards to protect your information. 
 
-If you prefer your web browsing patterns on the LasVegas.com website to be tracked anonymously or if you prefer for your web browsing patterns to not be tracked in this way, please [**click here**](https://web.archive.org/about/siteusage.html) for opt-out options. 
+If you prefer your web browsing patterns on the LasVegas.com website to be tracked anonymously or if you prefer for your web browsing patterns to not be tracked in this way, please **[click here](https://web.archive.org/about/siteusage.html)** for opt-out options. 
 
-_**What you'll receive from LasVegas.com**_
+**_What you'll receive from LasVegas.com_**
 
 LasVegas.com believes that honest and clear communications with our customers is a key part of a great customer experience. We only want to send you e-mail that you expect to receive or that you have requested. All of our e-mail contains clear information on how to unsubscribe, and we honor all requests as quickly as possible. Below are examples of types of communications you may receive from us. 
 
@@ -173,7 +173,7 @@ LasVegas.com may also send you postal mail notifications containing surveys, pro
 
 If you send us or phone in a question or offer a suggestion, we will use your e-mail address, telephone number or postal address to respond to you. 
 
-_**What information LasVegas.com shares**_
+**_What information LasVegas.com shares_**
 
 **LasVegas.com does not rent or sell any of your personally identifiable information to anyone.**
 
@@ -181,13 +181,17 @@ Travel services sold on LasVegas.com are provided by parties other than LasVegas
 
 **Special note:** _The practices and privacy policies of these other parties may differ from LasVegas.com policies. LasVegas.com suggests and encourages you to review their privacy policies to gain further understanding of their procedures for collecting, using, and disclosing your information._
 
-LasVegas.com may also share personally identifiable information to third parties who provide or offer other services on our behalf. In some cases, a LasVegas.com travel service provider may contact you directly if additional information is necessary to fulfill your request. LasVegas.com may also share aggregate information to service providers, business partners and advertisers. In these cases, LasVegas.com does not provide personally identifiable information. In addition, LasVegas.com may contract with third-party vendors for survey distribution, promotions or to facilitate sweepstakes or contests. 
+LasVegas.com may also share personally identifiable information to third parties who provide or offer other services on our behalf. We may also share your personally identifiable information with business partners with whom we jointly market products or services. If you choose to access such third party services and provide authorization, we may share information about you, including your personal information, with those business partners. Please note that we do not control the privacy practices of third party business partners and recommend you evaluate their practices before deciding to provide your personal information. 
 
-_**LasVegas.com products offered on other sites**_
+In some cases, a LasVegas.com travel service provider may contact you directly if additional information is necessary to fulfill your request. 
+
+LasVegas.com may also share aggregate information to service providers, business partners and advertisers. In these cases, LasVegas.com does not provide personally identifiable information. In addition, LasVegas.com may contract with third-party vendors for survey distribution, promotions or to facilitate sweepstakes or contests. 
+
+**_LasVegas.com products offered on other sites_**
 
 LasVegas.com does not share personally identifiable information with business partners who display or offer LasVegas.com products on their websites. 
 
-_**How LasVegas.com protects your information**_
+**_How LasVegas.com protects your information_**
 
 LasVegas.com understands that the safety of your personal information is extremely important to you. That's why LasVegas.com uses both electronic and other measures to keep your information protected from unauthorized access. 
 
@@ -195,20 +199,20 @@ Personal data that you send or submit to us over the Internet is protected by Se
 
 LasVegas.com is also digitally certified by VeriSign, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information. 
 
-_**About this policy**_
+**_About this policy_**
 
 The LasVegas.com privacy policy was posted June 10, 2005. LasVegas.com reserves the right to change, alter or modify this policy for any reason at any time. In cases where there are substantial material changes to our policy with regard to the manner in which LasVegas.com handles personally identifiable information, LasVegas.com will provide prominent notice of the changes on our website. 
 
 **Special note:** _Other sites that LasVegas.com links to may collect your personally identifiable information. The privacy policies and information sharing practices of these websites is not covered within the LasVegas.com privacy policy._
 
-_**Accessing and updating your information**_
+**_Accessing and updating your information_**
 
-_**If you have questions**_
+**_If you have questions_**
 
 If you ever have any questions about our privacy policy, please contact us. We respect your rights and privacy, and will be happy to answer any questions or concerns you might have. 
 
   * **Postal contact:** LasVegas.com, Attn: Customer Privacy, 2370 Corporate Circle Dr., 3rd Floor, Henderson, NV 89074. 
-  * **E-mail contact:** [privacy@lasvegas.com](mailto:privacy@lasvegas.com)
+  * **E-mail contact:**[privacy@lasvegas.com](mailto:privacy@lasvegas.com)
   * **Telephone contact:** (702) 992-7900 
 
   
