@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excoboard.com privacy policy that was archived on 2007-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070403201319id_/http%3A//excoboard.com/prv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excoboard.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213230214id_/http%3A//excoboard.com/prv.html) for the most accurate reproduction.*
 
 # Excoboard.com - Free messsage board host
 
@@ -24,4 +24,4 @@ Security
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support](https://web.archive.org/web/20070403201319id_/http%3A//excoboard.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support](https://web.archive.org/web/20071213230214id_/http%3A//excoboard.com/contact.html). 
