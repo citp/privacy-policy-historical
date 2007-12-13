@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607143859id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213144809id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -15,4 +15,11 @@ This site has security measures in place to protect the loss, misuse and alterat
 Privacy Statement   
 We respect and take very seriously the privacy of our customers that is why we do NOT sell or rent any information collected through our website to third parties.   
 Contact   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+  
+**Gesmarket S.L.**   
+B12630620   
+C/ Barrachina 15 Bis   
+12006 Castellón   
+Spain   
+
