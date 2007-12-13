@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624051832id_/http%3A//www.marchofdimes.com/aboutus/about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213011751id_/http%3A//www.marchofdimes.com/aboutus/about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
 
-# About Us: March of Dimes Privacy Policy & Your Privacy Rights
+# March of Dimes Privacy Policy & Your Privacy Rights - March of Dimes
 
-  |  March of Dimes Privacy Policy & Your Privacy Rights  
-  
 Effective December 5, 2005
 
 Privacy Policy Table of Contents 
@@ -19,13 +17,14 @@ Privacy Policies for Specific Features
   \- Genetics & Your Practice  
   \- Perinatal Nursing Education  
   \- Online Fundraising Tool  
+  \- Every Baby Has A Story  
 Your Privacy Rights Under California Law
 
 **  
 Introduction**  
 The mission of March of Dimes is to improve the health of babies by preventing birth defects, premature birth and infant mortality. The March of Dimes web site provides information, resources, referrals and data intended to assist the public in having healthy pregnancies and healthy births. The web site also provides information for health care professionals and offers opportunities for volunteering in March of Dimes fundraising events. 
 
-This Privacy Policy applies to all of our on-line activities including  the **_Genetics & Your Practice®,_** Perinatal Nursing Education, and Online Fundraising Tool sites, however specific information pertaining only to the Privacy Policies of these sites is described in detail in separate sections within this Policy.
+This Privacy Policy applies to all of our on-line activities including  the **_Genetics & Your Practice®,_** Perinatal Nursing Education, Every Baby Has a Stoy, and Online Fundraising Tool sites, however specific information pertaining only to the Privacy Policies of these sites is described in detail in separate sections within this Policy.
 
 **Contact Information, Accessing and Correcting Your Personal Information**  
 If you have any questions about this Policy or you wish to review or correct your personal information or the personal information of your child that we may have on file, you may contact us by U.S. mail, e-mail or telephone at the addresses and numbers listed below.
@@ -43,7 +42,7 @@ Telephone: 1-888-MODIMES.  
 We at March of Dimes recognize the importance of protecting your privacy. The purpose of this notice is to explain the practices and procedures we implement to protect your personal information, the way we use this information, and the choices you can make regarding our of your personal information. This notice can be accessed by clicking on a “Privacy” link on every page of our web site.  March of Dimes is committed to protecting your privacy and will honor this Policy. 
 
 **_Changes to this Policy_**  
-March of Dimes reserves the right to change this policy at any time. To better serve you and your concerns about your privacy, we will notify you of any changes to this Policy by posting a notice prominently on the main page of our web site ([www.marchofdimes.com](http://www.marchofdimes.com/)) indicating that there has been a change or update to the Privacy Policy. We encourage you to read this Policy. 
+March of Dimes reserves the right to change this policy at any time. To better serve you and your concerns about your privacy, we will notify you of any changes to this Policy by posting a notice prominently on the main page of our web site (<http://www.marchofdimes.com/>) indicating that there has been a change or update to the Privacy Policy. We encourage you to read this Policy. 
 
 **The Information We Collect and How We Use It  
 ** You may browse the March of Dimes web site without submitting personal information.   However, if you choose to participate in any of our online activities, you will asked for applicable personal data such as your name, gender, postal address, email address, phone number, fax number and payment information . The purpose of collecting such data is to respond to specific questions, to register you for WalkAmerica® and other events that have online registration, to honor requests for brochures or newsletters or to process payments and donations made online.  March of Dimes also uses this personal information to advise users of new online materials, activities, and events and to provide users with the opportunity to contribute to local and national programs and research initiatives. 
@@ -61,7 +60,7 @@ In order to further our mission and inform you about what you can do to prevent 
 Payment information, such as credit card number and expiration date, is entered when making a donation or paying for a professional education course. The March of Dimes uses PayPal and Verisign as third-party intermediaries to process your online donations and payments. Your credit card information is encrypted when submitted to the processor and transmitted over a secure connection between your computer and our server using Secure Socket Layers (SSL), the industry standard, to ensure protection of your private information. This sensitive personal information is not shared with third parties other than the processor and is stored by March of Dimes for verification purposes or for recurring donations that you have authorized.
 
 **_Cookies, Gifs, Logs_**  
-With the exception of the Genetics & Your Practice and Perinatal Nursing Education site, March of Dimes does not use cookies or gifs to create user profiles or collect individual user information. Cookies are used in the Genetics & Your Practice and the Perinatal Nursing site in order to remember your user name and your course progress.  March of Dimes does receive aggregated data that includes the IP addresses, browser types and date/time stamp of visitors to our site. This information is collected by the Fireclick proprietary application and sent to March of Dimes.  We use aggregated information to help improve the functionality of our website and such information is not linked to individual users.
+With the exception of the Genetics & Your Practice and Perinatal Nursing Education site and unless a specific program or service advises the user otherwise, March of Dimes does not use cookies or gifs to create user profiles or collect individual user information. Cookies are used in the Genetics & Your Practice and the Perinatal Nursing site in order to remember your user name and your course progress.  March of Dimes does receive aggregated data that includes the IP addresses, browser types and date/time stamp of visitors to our site. This information is collected by the Fireclick proprietary application and sent to March of Dimes.  We use aggregated information to help improve the functionality of our website and such information is not linked to individual users.
 
 **_March of Dimes Store and Product Promotions_**  
 The March of Dimes store and product promotions are operated on external sites owned by third parties. When you click on a link to the March of Dimes store or to a production promotion, you are leaving marchofdimes.com and entering the site of a third party.  Please click on the “Privacy Policy” link at the bottom of the store web site to view the privacy policy followed by our third party providers.  March of Dimes may receive product sales reports that contain your personal information such as name, quantity ordered, e-mail address and postal address.   This information is used for internal reporting and monitoring purposes only.  This information is not distributed outside of the March of Dimes to any other parties.  March of Dimes never receives credit card numbers from third party sites. 
@@ -152,8 +151,11 @@ For questions about this policy, please contact [profedu@marchofdimes.com](mailt
 
 The Online Fundraising Tool is intended to help users maximize their fundraising efforts; therefore, the March of Dimes has made every effort to provide an application that is safe and secure.
 
-**_Collection and Use of Personally Identifiable Information.  _** The March of Dimes does not retain names, addresses and email addresses of persons invited to use the Online Fundraising Tool system but who do not actually participate by creating pages or donating funds.   For persons who do participate, their personal information is retained by the March of Dimes National Office and by the local March of Dimes Chapter for future correspondence.  Users and the participants that they recruit may opt-out of communications with March of Dimes according to the procedures outlined in this Privacy Policy.  
+**_Collection and Use of Personally Identifiable Information.  _** The March of Dimes does not retain names, addresses and email addresses of persons invited to use the Online Fundraising Tool system but who do not actually participate by creating pages or donating funds.   For persons who do participate, their personal information is retained by the March of Dimes National Office and by the local March of Dimes Chapter for future correspondence.  Users and the participants that they recruit may opt-out of communications with March of Dimes according to the procedures outlined in this Privacy Policy.
 
+**Every Baby Has a Story™**
+
+When you visit the _Every Baby Has a Story_ web site, you will have the opportunity to create multimedia scrapbooks, or “scrapblogs” that you can upload onto the _Every Baby Has a Story_ web site. In order to register and use this service, you will need to provide your email and other personal information.  The _Every Baby Has a Story_ web site may, from time to time, offer other events and services that also require you to provide some form of personal information.  The information we collect and how we use that information is contained in separate Privacy Policies or Notices that are posted and are available on the _Every Baby Has a Story_ web site before you provide your personal information.
 
 **Your Privacy Rights Under California Law**  
 Websites owned by organizations that operate in California must comply with the privacy practices outlined in California privacy bill S.B.27 pertaining to the collection and use of personal information in direct marketing activities. 
@@ -167,5 +169,3 @@ If you prefer not to participate in our list rental and exchange program, receiv
 [I would like to opt-out of telephone calls.](http://www.marchofdimes.com/aboutus/17879.asp)  
 [I would like to opt-out of your list rental and exchange program.](http://www.marchofdimes.com/aboutus/17879.asp)  
 [I would like to request a disclosure of your list rental and exchange practices.](http://www.marchofdimes.com/aboutus/17879.asp)
-
-|  
