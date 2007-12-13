@@ -1,970 +1,314 @@
-<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2007-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2007-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071213224156id_/http%3A//www.theweathernetwork.com/help/privacy_policy) for the most accurate reproduction.-->
 
-<html><head>
-<title>The Weather Network · Help · Privacy Policy</title>
-<!--Loading of the master CSS which contains basic style-->
-<link rel="stylesheet" type="text/css" href="/common/css/Master.css">
-<!--Loading of the section(area) CSS which contains specific style for each sections-->
-<link rel="stylesheet" type="text/css" href="/common/css/help.css">
-<meta name="description" content="the weather network web site provides weather forecasts, news, and information for Canadian cities, U.S cities and International cities, including weather maps and radar maps">
-<meta name="keywords" content="the weather network weather forecasts news weather information canadian canada current weather conditions dopplar radar maps weather maps satellite maps U.S cities international cities world weather local forecasts waether tornadoes hurricanes clouds thunder and lightning storms snow storm blizzards rain precipitation weahter allergies gardening marine information travel vacation meteorology meterology atmosphere environment climate temperature air quality pollen UV index uv information humidity bugs insects golf parks humidex sun watches warnings alerts pelmorex ">
-<meta name="robot" content="index,follow">
-<meta name="author" content="Pelmorex Inc.">
-<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (n 0 s 0 v 0 l 0))">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<script language="javascript">AC_FL_RunContent = 0;</script>
-<script src="/common/scripts/AC_RunActiveContent.js" language="javascript"></script>
-
-<script language="JavaScript" type="text/javascript">
-
-var d = document;
-var rndBanner=Math.ceil(Math.random()*10000000000);
-var BannerNum=rndBanner;
-var now=new Date;
-var PageID = Math.ceil(Math.random() * 999999); // PageID Random Number
-
-var monthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-
-var dt = new Date();
-var year1  = dt.getYear();
-
-// Y2K compliant
-if (year1 < 1000) year1 +=1900;
-
-</script>
-
-
-<script>
-function determineCSS() {
-  var myWidth = 0, myHeight = 0;
-  if( typeof( window.innerWidth ) == 'number' ) {
-    //Non-IE
-    myWidth = window.innerWidth;
-    myHeight = window.innerHeight;
-  } else if( document.documentElement &&
-      ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-    //IE 6+ in 'standards compliant mode'
-    myWidth = document.documentElement.clientWidth;
-    myHeight = document.documentElement.clientHeight;
-  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-    //IE 4 compatible
-    myWidth = document.body.clientWidth;
-    myHeight = document.body.clientHeight;
-  }
- 	  if ((myWidth >= "944") && (myWidth <= "1199")) {
- 	  screenSize = "1024";
-  	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/Master.css">');
-	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/'+area+'.css">');
-	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">');
-	  		if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
-	  		d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1024/hwyfxSpo.css">');
-			}
-	  }
-
-	  else  if ((myWidth >= "1200") && (myWidth <= "1800")) {
-	  screenSize = "1280";	
-	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/Master.css">');	  
-	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/'+area+'.css">');
-	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">'); 	  
-	  		if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
-	  		d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/1280/hwyfxSpo.css">');
-			}
-
-	 }
-
-	  else {
-	  screenSize = "800";
-	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/Master.css">');
-	  d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/'+area+'.css">');
-	  d.write('<link rel = "stylesheet" media = "Print" type = "text/css" href = "/common/css/Print.css">');
-	  	  	if (((area == "hwyfx") && (province == "BC" || province == "AB" || province == "SK" || province == "MB")) && ((spoDate >= startDate) && (spoDate <= endDate))){
-	  	  	d.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/800/hwyfxSpo.css">');
-			}
-
-	    }
-}
-
-
-
-</script>
-
-<script type="text/JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function TWN_showHideLayers() { //v6.0
-  var i,p,v,obj,args=TWN_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-//-->
-</script>
-
-</head>
-<body marginwidth="0" marginheight="0">
-<!--Javascript variables which contains specific variables for ad and reusable JS variables-->
-<script type="text/javascript">
-<!--
-	var pageSubTitle = "Privacy Policy";
-	var area="help";
-	var sector="nil";
-	var cityName="nil";
-	var province="nil";
-	var codePlace="nil";
-	// If the Tag vars are undefined, make default
-	if (typeof area == "undefined") {
-		area="ros"; sector="nil"; cityName="nil"; province="nil";
-	}
-// -->
-</script>
-
-<div id="headerContainer">
-	<script>
-//var noAds = "true";
-</script>
-
-<!-- Bookmark Us Function Start -->
-
-	<script type="text/javascript">
-
-	function bookmark(siteTitle, url){
-
-		if (document.all) {
-			window.external.AddFavorite(url, siteTitle);
-		} else if (window.sidebar) {
-			window.sidebar.addPanel(siteTitle, url, "")
-		}
-
-	}
-	</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	
-<!-- Bookmark Us Function End -->
-
-	<script>var codePlace_golf=codePlace;</script>
-	
-	<script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
-
-<!-- wxSense Ads Logic Start -->
-	
-	<script>
-		// initiate blank
-		var wxSense_precip = "null";
-		var wxSense_precip_passed = "null";
-		var wxSense_temp = "null";
-		var wxSense_temp_passed = "null";
-		var wxSense_cond = "null";
-		var wxSense_cond_passed = "null";		
-	</script>
-	
-	
-	<script>
-	
-		function wxSenseAds(wxSense_precip,wxSense_temp,wxSense_cond) {
-		wxSense_precip_passed = wxSense_precip;
-		wxSense_temp_passed = wxSense_temp;
-		wxSense_cond_passed = wxSense_cond;
-		}
-	
-		// wxSense ads vars
-		if ((typeof codePlace != "undefined") && (typeof featureOBS != "undefined") && (area == "can")) {
-			d.write('<scr'+'ipt src = "/common/ssidata/wxsense/'+featureOBS+'.js">');
-			d.write('</scr'+'ipt>');
-		}
-		
-	</script>
-
-<!-- wxSense Ads Logic End -->	
-
-
-	<script>
-	
-		if (area == "hourlyfx") { 
-		pageSubTitle = cityNameLink + ", " + provName; 
-		sector = (codePlace.substring(2,4));
-		cityName = cityNameLink + '_' + sector;
-		if (cityName.match(" ")) { cityName = cityName.replace(/ /,"_"); }
-		cityName = cityName.toUpperCase();
-		}
-		
-		if (area == "ski") { 
-		cityName = cityName + '_' + sector;
-		if (cityName.match(" ")) { 
-			cityName = cityName.replace(/ /,"_"); 
-			cityName = cityName.replace(/'/,""); 
-			cityName = cityName.replace(/-/,""); 
-		}
-		cityName = cityName.toUpperCase();
-		}
-		
-		//alert(cityName);
-		
-	</script>
-	
-	
-	
-	<script>
-		var getURLStringForIndexPages = document.URL;
-		
-		if (getURLStringForIndexPages.indexOf("indexON")!=-1 || getURLStringForIndexPages.indexOf("indexon")!=-1) { var indexProvince = "Ontario";	}
-		else if (getURLStringForIndexPages.indexOf("indexQC")!=-1 || getURLStringForIndexPages.indexOf("indexQc")!=-1) { var indexProvince = " Quebec"; } 
-		else if (getURLStringForIndexPages.indexOf("indexBC")!=-1 || getURLStringForIndexPages.indexOf("indexbc")!=-1) { var indexProvince = " British Columbia"; }
-		else if (getURLStringForIndexPages.indexOf("indexYT")!=-1 || getURLStringForIndexPages.indexOf("indexyt")!=-1) { var indexProvince = " Yukon Territory"; }
-		else if (getURLStringForIndexPages.indexOf("indexNT")!=-1 || getURLStringForIndexPages.indexOf("indexnt")!=-1) { var indexProvince = " Northwest Territories"; }
-		else if (getURLStringForIndexPages.indexOf("indexNU")!=-1 || getURLStringForIndexPages.indexOf("indexnu")!=-1) { var indexProvince = " Nunavut"; }
-		else if (getURLStringForIndexPages.indexOf("indexNL")!=-1 || getURLStringForIndexPages.indexOf("indexnl")!=-1) { var indexProvince = " Newfoundland and Labrador";	}
-		else if (getURLStringForIndexPages.indexOf("indexNB")!=-1 || getURLStringForIndexPages.indexOf("indexnb")!=-1) { var indexProvince = " New Brunswick"; }
-		else if (getURLStringForIndexPages.indexOf("indexNS")!=-1 || getURLStringForIndexPages.indexOf("indexns")!=-1) { var indexProvince = " Nova Scotia"; }
-		else if (getURLStringForIndexPages.indexOf("indexMB")!=-1 || getURLStringForIndexPages.indexOf("indexmb")!=-1) { var indexProvince = " Manitoba"; }
-		else if (getURLStringForIndexPages.indexOf("indexSK")!=-1 || getURLStringForIndexPages.indexOf("indexsk")!=-1) { var indexProvince = " Saskatchewan"; }
-		else if (getURLStringForIndexPages.indexOf("indexPE")!=-1 || getURLStringForIndexPages.indexOf("indexpe")!=-1) { var indexProvince = " Prince Edward Island"; }
-		else if (getURLStringForIndexPages.indexOf("indexAB")!=-1 || getURLStringForIndexPages.indexOf("indexab")!=-1) { var indexProvince = " Alberta"; }
-		else { var indexProvince = "";}
-
-		var country = "";
-		if ((area == "can") || (area == "usa") || (area == "intl")) { country = area; }
-		
-		var theProvince = "";
-		if (indexProvince != "") { theProvince = " - " + indexProvince; }	
-		
-		var omniPlaceCode="";
-		if((codePlace.substring(0,4) == "XXXX") || (codePlace == "nil") || (codePlace.length != 8)) { omniPlaceCode = ""; }
-		else { omniPlaceCode = codePlace; }
-
-		var omniProvince = "";
-		if (province.length == 2) { province = "nil"; }
-		if (province != "nil") { omniProvince = province.toUpperCase(); }
-
-		var pageSubproduct = "";
-	</script>
-
-	<script>
-		function getQueryVariable(variable) {
-		  var query = window.location.search.substring(1);
-		  var vars = query.split("&");
-		  for (var i=0;i<vars.length;i++) {
-			var pair = vars[i].split("=");
-			if (pair[0] == variable) {
-			  return pair[1];
-			}
-		  } 
-		}
-
-		var theReferrer = getQueryVariable("ref");
-
-		if (theReferrer == "wxeye") { referrerType = "WxEye"; }
-		else { referrerType = document.referrer; }
-		
-	</script>
-	
-	
-<!-- Begin Ad Delivery Code -->	
-
-
-	
-<script>
-	
-	function getParameter(paramName) {
-	            var currentUrl = window.location.search
-	            var strBegin = currentUrl.indexOf(paramName) + (paramName.length+1)
-	            var strEnd = currentUrl.indexOf("&",strBegin)
-	            if (strEnd==-1)
-	                        strEnd = currentUrl.length
-	            return currentUrl.substring(strBegin,strEnd)
-	}
-	
-	// getSubtmpzne - substitute temporary zone (area) passed from previous page to allow for same ads to follow by adding the var in links as parameters
-	var areaFromQuery = getParameter('getSubtmpzne');
-
-	if (areaFromQuery && area != "wcam" && area != "flu" && area != "bugs" && area != "flighttkr") {
-		var areaSwitcher = areaFromQuery;
-		} else {
-		var areaSwitcher = area;
-	}
-	
-	if ((area == "can") && (areaSwitcher = "st")) { // fix ref=wxeyewxst area swtitching
-		areaSwitcher = "can";
-	}
-		
-	// Initiates local Ads variable to false, ad_config Array will set it to "true" if it is an SPO
-	var isSponsorship = "false";
-	
-	spoDate = new Date();
-	spoMonth = spoDate.getMonth();
-	spoYear = spoDate.getYear();
-	spoDay = spoDate.getDate();		
-	
-	// Load the array of open ad spaces
-	Ads = new Array(''); 	
-	switch (areaSwitcher) {
-
-	case "flu": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "home": Ads = new Array("","TOPBANNER","","BOX","","","",""); break;
-
-case "can": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-default: Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "st": Ads = new Array("","","","","","","",""); break;
-
-case "usa": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "intl": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "wcam": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "ski": var startDate = new Date(); startDate.setYear(2006); startDate.setMonth(12-1); startDate.setDate(06); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SKI","","BOX_SKI","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "vac": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "airport": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(07); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(04-1); endDate.setDate(29); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_AIRPORT","","BOX_AIRPORT","","","ANY_AIRPORT",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "mediakit": Ads = new Array("","TOPBANNER","","","","","",""); break;
-
-case "hwyfx": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(27); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_HWYFX","","BOX_HWYFX","","","ANY_HWYFX",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "hwycond": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "drivingtips": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "flu": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "pollen": Ads = new Array("TRANS_VOKEN","","BOTTOMBANNER","BOX","","TOWER","","MASTHEAD"); break;
-
-case "schoolday": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(01); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SCHOOLDAY","","BOX_SCHOOLDAY","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "attractions": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(29); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(17); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_ATTRACTIONS","","BOX_ATTRACTIONS","","","ANY_ATTRACTIONS",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "floods": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "wxhome": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "golf": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "park": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(26); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_PARK","","BOX_PARK","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "marine": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "fluSpo": var startDate = new Date(); startDate.setYear(2006); startDate.setMonth(11-1); startDate.setDate(17); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(03-1); endDate.setDate(18); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_FLUSPO","","BOX_FLUSPO","TEXT_FLUSPO","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "contests": Ads = new Array("TRANS_VOKEN","TOPBANNER","","BOX","","TOWER","",""); break;
-
-case "uvb": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "trafficflow": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "tcam": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "aqi": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "hourlyfx": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "ndxbusiness": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "can": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "ndxeurope": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "ndxsunshine": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "travel": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "activities": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "flighttkr": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(07); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(04-1); endDate.setDate(29); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_FLIGHTTKR","","BOX_FLIGHTTKR","","","ANY_FLIGHTTKR",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "snow": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(01-1); startDate.setDate(02); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(02-1); endDate.setDate(25); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_SNOW","","BOX_SNOW","","","ANY_SNOW",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "snowmobile": Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","",""); break;
-
-case "valentine": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(09); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(02-1); endDate.setDate(15); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_VALENTINE","","","","","ANY_VALENTINE",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "newfoundland": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(02-1); startDate.setDate(12); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(08-1); endDate.setDate(12); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_NEWFOUNDLAND","","BOX_NEWFOUNDLAND","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "interstatefx": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(27); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(27); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_INTERSTATEFX","","BOX_INTERSTATEFX","","","ANY_INTERSTATEFX",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "NWT": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(21); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(01); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_NWT","","BOX_NWT","","","ANY_NWT",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "video": Ads = new Array("TRANS_VOKEN","TOPBANNER","","BOX_PREROLL","","BOX","BOX_POSTROLL",""); break;
-
-case "gardening": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(03-1); startDate.setDate(26); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(09-1); endDate.setDate(30); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_GARDENING","","BOX_GARDENING","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","","","");} break;
-
-case "bugs": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(16); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(09-1); endDate.setDate(15); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_BUGS","","BOX_BUGS","","","",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "pei": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(04-1); startDate.setDate(24); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(06-1); endDate.setDate(17); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_PEI","","BOX_PEI","","","ANY_PEI",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-case "victoriaday": var startDate = new Date(); startDate.setYear(2007); startDate.setMonth(05-1); startDate.setDate(10); var endDate = new Date(); endDate.setYear(2007); endDate.setMonth(05-1); endDate.setDate(22); if ((spoDate >= startDate) && (spoDate <= endDate)) {Ads = new Array("","TOPBANNER_VICTORIADAY","","BOX_VICTORIADAY","","","ANY_VICTORIADAY",""); var isSponsorship = "true";} else {Ads = new Array("TRANS_VOKEN","TOPBANNER","BOTTOMBANNER","BOX","","TOWER","","");} break;
-
-	
-
-	}
-	
-	var areaSpo = "_"+area.toUpperCase();
-	
-</script>
-	
-	<!-- Load Local & BServer vars + logic -->
-	<script src="/common/includes/bServerAdVars.js"></script><script src="https://web.archive.org/web/20060330134735/http://www.theweathernetwork.com/common/localAds/nil.js"></script><script src="http://ads.weather.ca/bservers/AAMALL/pageid=495975/SITE=twn/AAMB1/AREA=help/AAMSZ=TRANS_VOKEN/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB2/AREA=help/AAMSZ=TOPBANNER/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB3/AREA=help/AAMSZ=BOTTOMBANNER/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB4/AREA=help/AAMSZ=BOX/SECTOR=nil/CITY=nil/acc_random=4895273265/AAMB6/AREA=help/AAMSZ=TOWER/SECTOR=nil/CITY=nil/acc_random=4895273265?" type="text/JavaScript" language="JavaScript"></script>
-	
-<!--	live ad server: a'+'ds.weather.ca
-	test server :	10.10.202.12
--->
-
-<!-- End Ad Delivery Code -->
-
-	<script>
-	if ((area == "hwycond") && (sector == "AB")) {
-		Adtype = "hwyfilter";
-		client = "";
-		document.write('<table><tr><td>');
-		document.write('<iframe src = "/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=0/height=0/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling = "no" hspace = "0" vspace = "0" frameborder = "0" marginheight = "0" marginwidth = "0" width = "0" height = "0">');
-		document.write('<a href = "http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target = "_top">');
-		document.write('<IMG src = "http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER = "0" HEIGHT = "0" WIDTH = "0" /></a>');
-		document.write('</iframe>');
-		document.write('</td></tr></table>');
-	}
-	</script>
-
-	<script>
-		// TRANS_VOKEN ad
-		if ((document.referrer != '') && (area != 'home') && (area != 'search')) {
-			// TRANS_VOKRN: look for a clear dot in the ad call - do not display if the clear dot is returned 
-			if ((AAMB1.search(/clear_dot.gif/) == -1) && (AAMB1.search(/default_engine.gif/) == -1)) { if (Ads[0].length > 1) showAds(AAMB1); }
-		}
-	</script>	
-	
-	<script>		
-		// Executes CSS determining function
-		determineCSS()
-
-		/*var homeDepotBegin = new Date();
-		var homeDepotDate = homeDepotBegin.getDate();
-		var homeDepotMonth = homeDepotBegin.getMonth()+1;
-		var homeDepotYear = homeDepotBegin.getFullYear();
-
-		if( (area=="home") && (homeDepotMonth==8) && ((homeDepotDate==29)||(homeDepotDate==30)) && (homeDepotYear==2006) ) { document.write('<link rel = "stylesheet" type = "text/css" href = "/common/css/'+screenSize+'/homedepot.css">'); }*/
-	</script><link rel="stylesheet" type="text/css" href="/common/css/1280/Master.css"><link rel="stylesheet" type="text/css" href="/common/css/1280/help.css"><link rel="stylesheet" media="Print" type="text/css" href="/common/css/Print.css">
-
-
-	 <table cellpadding="0" cellspacing="0" border="0" class="headerFooterSize">
-	<tbody><tr>
-		<td colspan="5" class="Header">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-
-	<tbody><tr>
-		<td colspan="3"><a href="/index.htm"><img src="/common/images/logo_trans.gif" border="0" alt="The Weather Network"></a>
-</td><td valign="top" align="center" width="100%"><table width="100%" height="94" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="92" width="100%" valign="middle" align="center">
-<script>
-
-if (Ads[1].length > 1) { 
-if (typeof isTransitional=="undefined") { showAds(AAMB2); 
-} else {
-document.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+areaSwitcher+'/PAGEID=/AAMSZ=728X90/SECTOR='+sector+'/CITY='+cityName+'/acc_random='+BannerNum+'?" LANGUAGE="JavaScript1.1">');
-document.write('</SCR'+'IPT>');
-}
-}
-
-</script></td>
-<td align="center">
-
-<script>
-if ((Ads[7].length > 1) && (Ads[1].length < 1)) {
-d.write('<table width="300" align = "center" border="0" cellpadding="0"><tr><td align = "right">');
-showAds(AAMB8);
-//if(area == "bugs" ) { d.write('<img src="/common/images/bugLogo.gif">'); }
-d.write('</td></tr></table>');
-}
-</script>
-
-
-</td>
-</tr>
-
-</tbody></table>
-
-<table align="left" cellpadding="2" cellspacing="4" border="0" width="100%"><tbody><tr><td align="left">
-<div id="topNavLinks">&nbsp;&nbsp;<a class="topNavLinks" href="/weather/index.htm">Weather</a> | <a class="topNavLinks" href="/travel/index.htm">Travel</a> | <a class="topNavLinks" href="/roads/index.htm">Roads</a> | <a class="topNavLinks" href="/homeandgarden/index.htm">Home &amp; Garden</a> | <a class="topNavLinks" href="/activities/index.htm">Activities</a> | <a class="topNavLinks" href="/health/index.htm">Health &amp; Environment</a></div>
-</td></tr></tbody></table>
-
-</td></tr>
-
-</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" class="headerFooterSize">
-	<tbody><tr>
-		<td colspan="3" width="100%">
-			<table width="100%" background="/common/images/subMastheadBlueBG.gif" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
- <!--Left cell with the same width than the right one to make sur the title image stays centered-->
-		<td width="95" height="24" class="subMastHead">&nbsp;&nbsp;&nbsp;<span class="citySearchText">CITY SEARCH</span></td>
-		<!--Section Title image centered-->
-		<td align="center" width="42">
-</td>
-				<!--Right end portion of the title row which will set a search box if requested-->
-				<td width="116" valign="middle" align="left" class="subMastHeadPromos"><a href="/inter/weathercentre/" class="wxcText">WEATHER CENTRE:</a> </td><td><a href="/inter/weathercentre/desktop"><img src="/common/images/promoPC.gif" border="0&quot;" hspace="0" vspace="0"></a><a href="/inter/weathercentre/mobile/"><img src="/common/images/promoMobile.gif" border="0" hspace="0" vspace="0"></a><a href="/inter/weathercentre/email"><img src="/common/images/promoEmail.gif" border="0" hspace="0" vspace="0"></a><a href="/inter/weathercentre/weatherbutton/index.htm"><img src="/common/images/promoWebsite.gif" border="0" hspace="0" vspace="0"></a>
-</td><script>document.write("<td width = '184' valign = 'middle' align = 'left' class = 'subMastHeadPromos'><a href='javascript:bookmark(\""+document.title+"\", \""+document.URL+"\")'><img src = '/common/images/promoBookmark.gif' alt = 'Bookmark this page' border = '0' /></a></td>");</script><td width="184" valign="middle" align="left" class="subMastHeadPromos"><a href='javascript:bookmark("The Weather Network · Help · Privacy Policy", "https://web.archive.org/web/20070514021117id_/http%3A//theweathernetwork.com/inter/help/privacy.htm")'><img src="/common/images/promoBookmark.gif" alt="Bookmark this page" border="0"></a></td><td width="80"><a href="/inter/help/FAQ.htm" class="helpHeaderLink"><img src="/common/images/YellowArrowRight.gif" border="0" hspace="0" vspace="0"> Help/FAQ</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>	
-
-	<script>	
-	/* takeover-logic
-	if ((area == "can") && (typeof nfld_takeover != "undefined")) { // NFLD SPO
-		document.write("<style>.Header { background-image: url('/common/images/mastheads/masthead"+screenSize+"_nfld.gif'); }");
-		document.write("#mainContainer { background-image: url('/common/images/nfld_Background"+screenSize+".gif'); background-repeat: no-repeat; }</style>");
-	}*/
-	</script>
-</div>
-
-<div id="mainContainer">
-
-		<div id="leftMenu">
-			 
-
-			<table class="navSubMastheadTable" height="75" cellpadding="0" cellspacing="0">
-
-		<form name="searchform" action="/common/scripts/search.htm" method="POST"></form>
-			<input type="hidden" name="travelAppend" value="true">
-				<tbody><tr>
-				<td class="subMastHead">
-					&nbsp;<input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();">&nbsp;
-					<input type="image" name="submitCitySearch" src="/common/images/YellowArrowRight.gif" border="0">
-
-				</td></tr>
-				<tr height="5">
-					<td class="subMastHead" valign="top">
-						<img src="/common/images/spacer.gif" width="10" height="1"><br>
-					</td>
-				</tr>
-				<tr height="15">
-				<td class="subMastHead" valign="top">
-
-					&nbsp;<a href="/weather/cities/indexcan.htm"><span class="subMastheadLinkMenu">Canadian Cities</span></a><br>
-				</td>
-				</tr>
-
-				
-
-				<tr height="15">
-				<td class="subMastHead" valign="top">
-					&nbsp;<a href="/weather/cities/indexusa.htm"><span class="subMastheadLinkMenu">U.S. Cities</span></a><br>
-				</td>
-				</tr>
-
-				
-
-
-				<tr height="15">
-				<td class="subMastHead" valign="top">
-					&nbsp;<a href="/weather/cities/indexintl.htm"><span class="subMastheadLinkMenu">International Cities</span></a><br>
-				</td>
-				</tr>
-
-				<tr height="5">
-				<td class="subMastHead" valign="top">
-					<img src="/common/images/spacer.gif" width="10" height="1"><br>
-				</td>
-				</tr>
-				
-
-		</tbody></table>
-
-<script>
-
-// Switch that variable to "false" to bypass the call to the server-side perl script
-var enableDynamicNavigation = true;
-</script>
-
-<script>buildMenu=true;</script>
-<script type="text/javascript" src="/common/scripts/features.js"></script>
-<script type="text/javascript" src="/common/scripts/leftMenuItems.js"></script>
-
-<script>
-
-
-function dynLink(product, placeCode) {
-if (product == "webcam") { camProductCountry = counName; document.dynIndex.camProductCountry.value = camProductCountry; }
-	document.dynIndex.product.value = product;
-	document.dynIndex.place.value = placeCode;
-	document.dynIndex.action = '/common/scripts/dynIndex/'+product+'Index.htm';
-	document.dynIndex.submit();
-}
-
-
-var NN4X;
-var userAgent = navigator.userAgent;
-
-var NNIndex = navigator.userAgent.indexOf("Mozilla");
-
-if (navigator.appName == "Netscape") {
-	if (userAgent.substring((NNIndex + 8),(NNIndex + 9)) == "4") {
-		NN4X = "1";
-	} else { NN4X = "0";}
-} else {
-	NN4X = "0";
-}
-
-	var CN = cityNameLink.toUpperCase();
-
-
-
-		center1 = "no";
-		d=document;
-
-		d.write('<table class = "navSubMastheadTable" cellpadding = "0" cellspacing = "0">');
-		d.write('<FORM NAME = "dynIndex" METHOD = "POST" ACTION = "/common/scripts/dynIndex/index.htm">');
-		d.write('<INPUT TYPE = "hidden" NAME = "product" VALUE = "0">');
-		d.write('<INPUT TYPE = "hidden" NAME = "place" VALUE = "'+codePlace+'">');
-		d.write('<INPUT TYPE = "hidden" NAME = "sector" VALUE = "'+sector+'">');
-		d.write('<INPUT TYPE = "hidden" NAME = "camProductCountry" VALUE = "">');
-		d.write('<tr>');
-		d.write('<td><table cellpadding = "0" cellspacing = "0" class = "navSubMastheadTable">');
-		if (center1 == "no") {
-			for (i = 0; i < CityMenu.length; i++) {
-
-
-					d.write('<tr><td>');
-					d.write('<table class = "navSubMastheadTable" cellpadding = "0" cellspacing = "0">');
-
-						d.write('<tr><td class = "cssCityTitle">'+CityTitle[i]+'</td></tr>\n');
-						for (j = 0; j < CityMenu[i].length; j++) {
-							d.write('<tr><td height=18>\n');
-							d.write('<table class = "navLinkTitle" onmouseover=\'javascript:this.style.backgroundColor="#1b4d80"; javascript:this.style.color="#000000";\'; onmouseout=this.style.backgroundColor="transparent";><tr><td style="width:110px;">');
-							if (CityMenuLink[i][j].substr(0,1) == "*") {
-								d.write('<a href = "javascript:dynLink(\''+CityMenuLink[i][j].substr(1,CityMenuLink[i][j].length)+'\',\''+codePlace+'\');">');
-							}
-
-							else {
-								d.write('<a href = "'+CityMenuLink[i][j]+'">');
-							}
-							d.write('<span class = "navLinkMenu"><b>'+CityMenu[i][j]+'</b></span></a></td></tr></table>');
-
-							d.write('</td></tr><tr><td height = "1"><IMG SRC = "/common/images/lightBlueMenuBorder.gif" width = "110" height = "1" hspace = "0" vspace = "0" align = "bottom" /></td></tr>\n');
-						}
-
-							d.write('<IMG SRC = "/common/images/lightBlueMenuBorder.gif" width = "110" height = "3" hspace = "0" vspace = "0" /></td></tr></table></tr>');
-
-
-					}
-
-					}
-
-
-
-
-
-					</script><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><form name="dynIndex" method="POST" action="/common/scripts/dynIndex/index.htm"></form><input type="hidden" name="product" value="0"><input type="hidden" name="place" value="nil"><input type="hidden" name="sector" value="nil"><input type="hidden" name="camProductCountry" value=""><tbody><tr><td><table cellpadding="0" cellspacing="0" class="navSubMastheadTable"><tbody><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/weather/index.htm" class="leftMenuTitle">Weather</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/alerts/index.htm"><span class="navLinkMenu"><b>Watches and Warnings</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/maps/floods.htm"><span class="navLinkMenu"><b>Weather Maps</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/maps/satrad.htm"><span class="navLinkMenu"><b>Satellite and Radar Maps</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="/weather/stats/index.htm"><span class="navLinkMenu"><b>Statistics</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/travel/index.htm" class="leftMenuTitle">Travel</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="T"><span class="navLinkMenu"><b>T</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="l"><span class="navLinkMenu"><b>l</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/roads/index.htm" class="leftMenuTitle">Roads</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="R"><span class="navLinkMenu"><b>R</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="d"><span class="navLinkMenu"><b>d</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="s"><span class="navLinkMenu"><b>s</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/homeandgarden/index.htm" class="leftMenuTitle">Home &amp; Garden</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="H"><span class="navLinkMenu"><b>H</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="m"><span class="navLinkMenu"><b>m</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="&amp;"><span class="navLinkMenu"><b>&amp;</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="G"><span class="navLinkMenu"><b>G</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="d"><span class="navLinkMenu"><b>d</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/activities/index.htm" class="leftMenuTitle">Activities</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="A"><span class="navLinkMenu"><b>A</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="c"><span class="navLinkMenu"><b>c</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="s"><span class="navLinkMenu"><b>s</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr><tr><td><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="3" hspace="0" vspace="0"><table class="navSubMastheadTable" cellpadding="0" cellspacing="0"><tbody><tr><td class="cssCityTitle"><a href="/health/index.htm" class="leftMenuTitle">Health &amp; Environment</a></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="H"><span class="navLinkMenu"><b>H</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="a"><span class="navLinkMenu"><b>a</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="l"><span class="navLinkMenu"><b>l</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="h"><span class="navLinkMenu"><b>h</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="&amp;"><span class="navLinkMenu"><b>&amp;</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href=" "><span class="navLinkMenu"><b> </b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="E"><span class="navLinkMenu"><b>E</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="v"><span class="navLinkMenu"><b>v</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="i"><span class="navLinkMenu"><b>i</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="r"><span class="navLinkMenu"><b>r</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="o"><span class="navLinkMenu"><b>o</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="m"><span class="navLinkMenu"><b>m</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="e"><span class="navLinkMenu"><b>e</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="n"><span class="navLinkMenu"><b>n</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-<tr><td height="18">
-<table class="navLinkTitle" onmouseover="javascript:this.style.backgroundColor=&quot;#1b4d80&quot;; javascript:this.style.color=&quot;#000000&quot;;" ;="" onmouseout="this.style.backgroundColor=&quot;transparent&quot;;"><tbody><tr><td style="width:110px;"><a href="t"><span class="navLinkMenu"><b>t</b></span></a></td></tr></tbody></table></td></tr><tr><td height="1"><img src="/common/images/lightBlueMenuBorder.gif" width="110" height="1" hspace="0" vspace="0" align="bottom"></td></tr>
-</tbody></table></td></tr>
-
-					<script>
-		d.write('</td>');
-
-					d.write('</tr></table>\n');
-					d.write('</td></tr></table>\n');
-
-
-		// building the menu
-
-
-</script></tbody></table>
-</td></tr></tbody></table>
-
-
-<script>
-function BodyOnLoad()
-{
-		if (document.searchform.recherche) {
-		document.searchform.recherche.focus();
-	}
-}
-
-
-function CheckCity()
-{
-	if (document.searchform.recherche.value == "enter city")
-	{
-		document.searchform.recherche.value = "";
-	}
-}
-</script>
-
-
-
-
+	<base href="http://www.theweathernetwork.com">
+	<title>The Weather Network - Help - Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta name="description" content="your city the weather network web site provides weather forecasts, news, and information for Canadian cities, U.S cities and International cities, including weather maps and radar maps">
+	<meta name="keywords" content="the weather network weather forecasts news weather information canadian canada current weather conditions dopplar radar maps weather maps satellite maps U.S cities international cities world weather local forecasts weather tornadoes hurricanes clouds thunder and lightning storms snow storm blizzards rain precipitation weahter allergies gardening marine information travel vacation meteorology meterology atmosphere environment climate temperature air quality pollen UV index uv information humidity bugs insects golf parks humidex sun watches warnings alerts pelmorex">
+	<meta name="robot" content="index,follow">
+	<meta name="author" content="Pelmorex Inc.">
+	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (n 0 s 0 v 0 l 0))">
+
+	<style type="text/css" media="screen, projection">
+		@import url(/common/CSS/master_styles.css);
+		@import url(/common/CSS/help.css);
+		@import url(/common/CSS/);
+		@import url(/common/CSS/poll.css);
+	</style>
+	<style type="text/css" media="print">
+		@import url(/common/CSS/master_styles_print.css);
+		@import url(/common/CSS/help_print.css);
+	</style>
+    <!-- this code is required for min width for IE, please don't delete -->
+ 	<!--[if lte IE 5]>
+		<style type="text/css" media="screen, projection">
+			@import url(/common/CSS/ie5.css);
+			@import url(/common/CSS/help_ie5.css);
+		</style>
+	<![endif]-->
+	<!--[if IE 6]>
+		<style type="text/css" media="screen, projection">
+			@import url(/common/CSS/ie6.css);
+			@import url(/common/CSS/help_ie6.css);
+		</style>
+	<![endif]-->
+	<!--[if gte IE 7]>
+		<style type="text/css" media="screen, projection">
+			@import url(/common/CSS/ie7.css);
+			@import url(/common/CSS/help_ie7.css);
+		</style>
+	<![endif]-->
+
+	<script type="text/javascript">var BannerNum = Math.ceil(Math.random()*999999); var PageID = Math.ceil(Math.random() * 999999); var AAMB1 = "";var AAMB2 = "";var AAMB3 = "";var AAMB4 = "";var AAMB5 = "";var AAMB6 = "";var AAMB7 = "";var AAMB8 = "";var AAMB9 = "";var AAMB10 = "";var AAMB11 = "";var AAMB12 = "";var ad1 = "";var ad2 = "";var ad3 = "";var ad4 = "";var ad5 = "";var ad6 = "";var ad7 = "";var ad8 = ""; var ad9 = ""; var ad10 = ""; var ad11 = "";var ad12 = "";</script><script type="text/javascript">var adServer = 'http://ads.weather.ca/bservers';</script><script type="text/javascript">var sector = '';</script><script type="text/javascript">var cityName = '';</script><script type="text/javascript">var lang = 'en';</script><script type="text/javascript">if (document.referrer != '') { var ad1 = '/AAMALL/SITE=twn/AAMB1/pageid='+PageID+'/AREA=help/AAMSZ=TRANS_VOKEN/SECTOR=/CITY=/acc_random='+BannerNum; } else { var ad1 = ''; }</script>
+<script type="text/javascript">var ad9 = '/AAMALL/SITE=twn/pageid=' + PageID + 0715 + '/AAMB9/AREA=help/AAMSZ=halfbanner/SECTOR=/CITY=/acc_random='+BannerNum+15;</script>
+<script type="text/javascript">var ad10 = '/AAMALL/SITE=twn/pageid=' + PageID + 0715 + '/AAMB10/AREA=help/AAMSZ=halfbanner/SECTOR=/CITY=/acc_random='+BannerNum+15;</script>
+<script type="text/javascript">var ad11 = '/AAMALL/SITE=twn/pageid=' + PageID + 0715 + '/AAMB11/AREA=help/AAMSZ=halfbanner/SECTOR=/CITY=/acc_random='+BannerNum+15;</script>
+<script type="text/javascript">var ad12 = '/AAMALL/SITE=twn/pageid=' + PageID + 0715 + '/AAMB12/AREA=help/AAMSZ=halfbanner/SECTOR=/CITY=/acc_random='+BannerNum+15;</script>
+<script type="text/javascript">var ad2 = '/AAMALL/SITE=twn/AAMB2/pageid='+PageID+'/AREA=help/AAMSZ=TOPBANNER/SECTOR=/CITY=/acc_random='+BannerNum;</script>
+<script type="text/javascript">var ad4 = '/AAMALL/SITE=twn/AAMB4/pageid='+PageID+'/AREA=help/AAMSZ=BOX/SECTOR=/CITY=/acc_random='+BannerNum;</script>
+<script type="text/javascript">if (typeof billboardAd == 'undefined') { var ad6 = '/AAMALL/SITE=twn/AAMB6/pageid='+PageID+'/AREA=help/AAMSZ=TOWER/SECTOR=/CITY=/acc_random='+BannerNum; }</script>
+<script type="text/javascript">var ad3 = '/AAMALL/SITE=twn/AAMB3/pageid='+PageID+'/AREA=help/AAMSZ=BOTTOMBANNER/SECTOR=/CITY=/acc_random='+BannerNum;</script>
+<script type="text/javascript"> var enableAds = 'true';</script>
+
+
+
+
+	<script type="text/javascript" src="/common/js/master.js"></script>
+	<script type="text/javascript" src="/common/js/help.js"></script>
+
+
+
+
+<script type="text/javascript">var pagetitle='Privacy Policy';</script></head>
+
+<body id="help">
+
+		<div id="outer_wrapper">
+			<div id="wrapper">
+				<!-- Begin Masthead -->
+
+					<div id="transVoken"><script type="text/javascript">if (document.referrer != '') { showAds(AAMB1); if (typeof AAMB1 != 'undefined') { if ((AAMB1.length > 1000) && (typeof transitionalAd != 'undefined')) {  if (document.all && document.createAttribute && document.compatMode != 'BackCompat') { document.getElementsByTagName('html')[0].style.overflow = 'hidden'; } else { document.body.style.overflow = 'hidden'; }; function closeit() { if (ns6) { document.body.style.overflow=''; } else { document.getElementsByTagName('html')[0].style.overflowY = 'scroll'; } document.getElementById('vokenwindow').style.display='none'; } self.setTimeout('closeit()', 13000); } else if (typeof AAMB1 == 'undefined') { document.getElementById('transVoken').style.display='none'; } if ((typeof transitionalAd == 'undefined') && (AAMB1.length > 200)) { document.write('<link rel=\'stylesheet\' type=\'text/css\' media=\'screen\' href=\'common/CSS/voken.css\' />'); } }  }</script></div>
+		<div id="headernavwrap">
+			<ul id="headernav">
+				<li><a href="/">Home</a></li>
+				<li><a href="/help/sitemap">Site Map</a></li>
+				<li><a href="/contactinfo/contactindex">Contact Us</a></li>
+				<li><a href="/help/faq">Help / FAQ</a></li>
+				<li class="last"><a href="http://www.meteomedia.com">En français</a></li>
+			</ul>
 		</div>
+			
+		<div id="header"><a name="top"></a>
+			
 
-		<div id="bodyContent">
+			<div id="claritinPageCurl"></div>
+		
+			<div id="logo">
+				<a href="http://www.theweathernetwork.com"><img src="../common/images/en/logo_trans.gif" width="145" height="117" title="The Weather Network" alt="The Weather Network"></a>
+			</div>
+			
+			<div id="adnavwrapper">
+				<div id="topAd">				
+					<div id="innerAd"><script type="text/javascript">showAds(AAMB2);</script></div>			
+				</div>
+			</div>
 				
-<div id="subMasthead">
-<script type="text/javascript">
+				<div id="spnsrlogo">
+					<p><script type="text/javascript">showAds(AAMB8);</script></p>
+				</div>				
+				
+				<div id="topNav-list">				
+						<ul>
+							<li class="first"><a class="topNav-list" href="/alerts">Warnings</a></li>
+							<li><a href="/satradarmaps">Maps</a></li>
+							<li><a href="/video">Video</a></li>
+							<li><a href="/weather_cams/index">Webcams</a></li>
+							<li><a href="http://contests.theweathernetwork.com/">Contests</a></li>
+							<!--<li><a href="/weather_centre/wcmobile">Mobile</a></li>-->
+							<li><a href="/tv/ontvindex">TV</a></li>
+						</ul>				
+				</div>
+			</div>
+		<!-- /header -->
+		<div id="weatherCentreNav">
+			<div id="citySearch">
+				CITY SEARCH
+			</div>
+			<div id="weatherCentreNavTitle">
+				<a href="/weather_centre/wcindex/">WEATHER CENTRE:</a>
+			</div>
+			<div id="weatherCentreNav-list">
+					<ul>
+						<li><a href="/weather_centre/wcdesktop"><img src="../common/images/en/promoPC.gif" width="70" height="24" alt="PC" title="PC"></a></li>
+						<li><a href="/weather_centre/wcmobile"><img src="../common/images/promoMobile.gif" width="58" height="22" alt="Mobile" title="Mobile"></a></li>
+						<li><a href="/weather_centre/wcemail"><img src="../common/images/promoEmail.gif" width="59" height="22" alt="Promo Email" title="Promo Email"></a></li>
+						<li><a href="/weather_centre/wcwxbutton"><img src="../common/images/promoWebsite.gif" width="69" height="22" alt="Promo Website" title="Promo Website"></a></li> 
+					</ul>
+			</div>
+			
+	
+			<div id="bookmarkLink" class="fr">
+				<a title="Bookmark this page" href="javascript:bookmark(document.title, document.URL)">Bookmark this Page</a>		
+			
+			</div>
+			
+			
+		</div><!-- /weatherCentreNav-->
 
-	var ds=new Date()
-	var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
-	var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+				<!-- End Masthead -->
+
+				<!-- Main Page Container -->
+				<div id="container">
+
+					<!-- Begin left Navigation -->
+
+										<div id="menuBar">
+					<div id="searchFormAndCities">
+						
+						<form id="searchform" name="searchform" action="index.php" method="get">
+							<fieldset>
+							<input type="hidden" name="product" id="product" value="search">
+							<input class="searchBox" type="text" name="recherche" size="10" value="enter city" onclick="cookieavail(); clearText();" onkeypress="document.getElementById('mylocations').style.visibility='hidden';">
+							<input type="image" name="submitCitySearch" src="/common/images/yellowarrowright.gif">
+							<div id="mylocations" class="mylocationsbox">
+								<div class="titlebar">
+									<div class="title">My Locations</div>
+									<div class="closebox"><a href="javascript:void(0);" onclick="document.getElementById('mylocations').style.visibility='hidden';" onmouseover="document.getElementById('mylocations').style.visibility='visible';"><img src="common/images/closefav.jpg"></a>
+									</div>
+								</div>
+										  
+								<script language="javascript">
+									var showvars=displayfavs(cookieval,myarrayr,"help","","","product=help&pagecontent=privacy_policy","","","","","","");								
+									document.write(showvars);
+								</script>
+								<br>
+							</div>
+							</fieldset>		
+						</form>
+						<div id="cities">
+							<p><a href="/weather/cancities_en/">Canadian Cities</a></p>
+							<p><a href="/weather/usacities_en/">U.S. Cities</a></p>
+							<p><a href="/weather/intcitiesintl_en/">International Cities</a></p>
+						</div>
+					</div>
+					<!-- the </li><li> are given together here to avoid a line feed in IE/win between the menu items -->
+					<ul id="menuLinks-list">
+						<li class="menuTitle"><a href="/weatherindex/weatherindex/">Weather</a></li>
+						<li class="first">
+						<a href="/alerts">Watches and Warnings</a></li><li>
+						<a href="/weathermaps/">Weather Maps</a></li><li>
+												<a href="/satradarmaps/">Satellite &amp; Radar Maps</a></li><li>
+						<a href="/lightning">Lightning Maps</a></li><li>
+						<!--<a href="/tropicalstorm/tstorm_index">Tropical Storm <br/>Centre</a></li><li >-->
+						<a href="/statistics/index/">Statistics</a></li><li>
+						<a href="/your_weather/videos_your_weather"><img src="/common/images/starsm.gif" align="right">Your Weather</a></li><li>
+						<a href="/video/">VIDEO On Demand</a></li><li>						
+						<a href="/weather_cams/index">Weather Cameras</a></li><li>
+						<a href="/conversions/">Conversions</a></li><li>
+						<a href="/moonsun/">Sun, Moon and Seasons</a></li><li>
+						<a href="/snow/index">Snow Report</a></li><li>
+						<a href="/glossary/glossaryindex/">Glossary</a></li><li class="menuTitle"><a href="/travel/travelindex/">Travel</a></li><li class="cf first">
+						<a href="/attractionsfx/canattractions_en">Attractions</a></li><li>
+						<a href="/flighttracker/">Flight Tracker</a></li><li>
+						<a href="/airportfx/canairports_en/">Airport Forecast</a></li><li>
+						<a href="/travellers/index/">Travel <br>Information</a></li><li>
+						<a href="/travelindex/sunshine/">Sunshine <br>Destinations</a></li><li class="menuTitle"><a href="/roads/roadsindex/">Roads</a></li><li class="first"><a href="/hwycond/cancities_hwy_en/">Highway Conditions</a></li><li>
+						<a href="/hwyfx/cancities_hwy_en/">Canadian Highway Forecast</a></li><li>
+						<a href="/ushwyfx/usahwy/">USA Highway Forecast</a></li><li>
+						<a href="/roadconstr/">Road Construction</a></li><li>
+						<a href="/traffic_cams/">Traffic Cameras</a></li><li>
+						<a href="/traffic_flow/toronto">Traffic Flow</a></li><li>
+						<a href="/hwycond/drivingtips_en">Winter Driving Tips</a></li><li class="menuTitle"><a href="/homegarden/hgindex/">Home &amp; Garden</a></li><li class="first"><a href="/pets/">Pets &amp; Weather</a></li><li><a href="/wxhome/cancities_en">Weather and Your Home</a></li><li>
+						<a href="/gardening/cancities_en">Lawn and Garden Forecast</a></li><li>
+						<a href="index.php?product=power&amp;pagecontent=index">Power Consumption</a></li><li class="menuTitle"><a href="/activities/activindex/">Activities</a></li><li class="first">
+						<img src="/common/images/starsm.gif" align="right"><a href="/holiday/cancities_en">Holiday Forecast</a></li><li><a href="http://www.farmzone.com">Farmzone</a></li><li><a href="/snowmobile/landing">Snowmobile Report</a></li><li><a href="/golffx/cangolf_en">Golf Report</a></li><li>
+						<a href="/nmmarinefx/cannmmarine_en/">Marine Forecast</a></li><li>
+						<a href="/parksfx/canparks_en">Park Report</a></li><li>
+						<a href="/skifx/canski_en">Ski Report</a></li><li>
+						<a href="/schools/canschools_en">SchoolDay Forecast</a></li><li>
+						<a href="/stargazing/cancities_en">Stargazing</a></li><li class="menuTitle"><a href="/health_environment/heindex/">Health &amp; Environment</a></li><li class="first"><a href="/climatechange/"><img src="/common/images/starsm.gif" align="right">Climate change</a></li><li>
+						<a href="/achespains/cancities_en">Aches &amp; Pains</a></li><li>
+						<a href="/pollenfx/canpollen_en/">Pollen Report</a></li><li>
+						<a href="/flu/index/">Flu Report</a></li><li>
+						<a href="/airquality/canairquality_en/">Air Quality</a></li><li>
+						<a href="/bugreport/cancities_en">Bug Report</a></li><li>
+						<a href="/forestfire/index/">Forest Fire Watch</a></li><li>
+						<a href="/uvreport/canuv_en/">UV Report</a></li><li>
+					</li></ul>
+				</div>
+				<!-- /left navigation-->
 
 
-	if ((area == "home") || (area == "ros")) {
-	document.write("<span class = 'timeDateROS'>");
-	}
-	else {
-	document.write("<span class = 'timeDateSections'>");
-	}
+					<!-- End left Navigation -->
 
-	if (area != "marine") {
+					<!-- Begin product template -->
+					<div id="mainBodyContent" onmouseover="document.getElementById('mylocations').style.visibility='hidden';">
+						<div id="submastHead">
+							<div id="submastHeadImage"><h1 class="enm">Help <br></h1></div>
+							<div id="submastHeadDate">Thursday, 13 Dec 2007</div>
+						</div>
+						<div id="editableContent">
+						<h2>Privacy Policy</h2>
+<div id="fixedWidthCentered">
 
-		document.write(weekday[ds.getDay()] + ", ");
-		document.write(ds.getDate() + " ");
-		document.write(monthname[ds.getMonth()] + ", ");
-		document.write(ds.getFullYear());
-	}
-
-	document.write("</span>");
-
-
-</script><span class="timeDateSections">Friday, 31 January, 2020</span>
-
-</div>
-
-<script>
-
-
-
-if (typeof(pageSubTitle) != "undefined" && pageSubTitle != "") {
-document.write('<div id = "pageSubTitle">');
-document.write(pageSubTitle);
-
-
-if (typeof(codeSMS) != "undefined" && codeSMS != "" && ((area == "can") || (area == "usa") ||(area == "intl")) ) {
-		d.write(" <a href = /inter/wireless/textweather.htm><font size = 2 color = #005a8d><img src = '/common/images/mobileIconWhiteSM.gif' vspace = '0' hspace = '0' border = '0' /> <b>(TextWeather: "+codeSMS+")</b></font></a>");
-}	
-document.write('</div>');
-}
-
-
-
-</script><div id="pageSubTitle">Privacy Policy</div>
-
-
-
-			<div id="editableBodyContent">
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td class="Content">
-<p><br>
-
-</p><ul>
-<li><a href="#1">Privacy Policy</a>
-</li><li><a href="#2">The Ten Privacy Principles</a>
-</li><li><a href="#3">Where and Why We Collect Personal Information Online</a>
-</li><li><a href="#4">Cookies</a>
-</li><li><a href="#5">Employee Confidentiality</a>
-</li><li><a href="#6">Limitation of Liability</a>
-</li><li><a href="#7">Contact Us</a>
-</li><li><a href="#8">Updates</a>
-</li></ul>
-
-<p><font class="title"><a name="1"></a>Privacy Policy</font>
-<br>Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site.  It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.</p>
+<ul>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#privacy">Privacy Policy</a>  </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#ten_principals">The Ten Privacy Principles</a>  </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#whereandwhy">Where and Why We Collect Personal Information Online</a> </li> 
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#cookies">Cookies</a>  </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#employee_conf">Employee Confidentiality </a> </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#limitation">Limitation of Liability</a>  </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#contact">Contact Us</a>  </li>
+	<li><a href="index.php?product=help&amp;pagecontent=privacy_policy#updates">Updates</a> </li>
+</ul>
+<p id="privacy">Privacy Policy </p>
+<p>Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site. It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.</p>
 
 <p>PMI's policy is simple: we collect personal information about you only when you knowingly and willingly provide it, and we will not share or otherwise profit from the distribution of personal data beyond the use it was provided to fulfill.</p>
 
 <p>Our practices conform with the Canadian Standards Association (CSA) Model Code for the Protection of Personal Information (CAN/CSA - Q830-06) and the Canadian Association of Broadcasters Privacy Policy Guidelines. The code consists of ten inter-related principles which are outlined below.</p>
 
+<p id="ten_principals">The Ten Privacy Principles  <br>
+Principle 1 - Accountability <br>
+Principle 2 - Identifying Purposes  <br>
+Principle 3 - Consent  <br>
+Principle 4 - Limiting Collection  <br>
+Principle 5 - Limiting Use, Disclosure and Retention  <br>
+Principle 6 - Accuracy  <br>
+Principle 7 - Safeguarding Customer Information  <br>
+Principle 8 - Openness  <br>
+Principle 9 - Customer Access  <br>
+Principle 10 - Handling Customer Complaints and Suggestions </p>
 
-<p><font class="title"><a name="2"></a>The Ten Privacy Principles</font>
-<br><a href="#p1">Principle 1 - Accountability</a>
-<br><a href="#p2">Principle 2 - Identifying Purposes</a>
-<br><a href="#p3">Principle 3 - Consent</a>
-<br><a href="#p4">Principle 4 - Limiting Collection</a>
-<br><a href="#p5">Principle 5 - Limiting Use, Disclosure and Retention</a>
-<br><a href="#p6">Principle 6 - Accuracy</a>
-<br><a href="#p7">Principle 7 - Safeguarding Customer Information</a>
-<br><a href="#p8">Principle 8 - Openness</a>
-<br><a href="#p9">Principle 9 - Customer Access</a>
-<br><a href="#p10">Principle 10 - Handling Customer Complaints and Suggestions</a>
-</p>
+<p>Principle 1 - Accountability  <br>
+PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing. Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.</p>
 
+<p>Principle 2 - Identifying Purposes  <br>
+PMI will identify the purposes for collecting personal information, prior to or at the time it is being provided. Personal information will not be used for a purpose not previously identified without further individual consent, unless the new purpose is required by law.</p>
 
-<p><font class="title"><a name="#p1"></a>Principle 1 - Accountability</font>
-<br>PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing. Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.</p>
+<p>Principle 3 - Consent  <br>
+The knowledge and consent of the customer are required for the collection, use or disclosure of customer information, except where inappropriate.</p>
 
-<p><font class="title"><a name="#p2"></a>Principle 2 - Identifying Purposes</font>
-<br>PMI will identify the purposes for collecting personal information, prior to or at the time it is being provided. Personal information will not be used for a purpose not previously identified without further individual consent, unless the new purpose is required by law.</p>
+<p>Principle 4 - Limiting Collection  <br>
+The collection of personal information shall be limited to that which is necessary for the purposes identified by PMI.</p>
 
-<p><font class="title"><a name="#p3"></a>Principle 3 - Consent</font>
-<br>The knowledge and consent of the customer are required for the collection, use or disclosure of customer information, except where inappropriate.</p>
+<p>Principle 5 - Limiting Use, Disclosure and Retention  <br>
+Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.</p>
 
-<p><font class="title"><a name="#p4"></a>Principle 4 - Limiting Collection</font>
-<br>The collection of personal information shall be limited to that which is necessary for the purposes identified by PMI.</p>
+<p>Principle 6 - Accuracy  <br>
+Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used. </p>
 
-<p><font class="title"><a name="#p5"></a>Principle 5 - Limiting Use, Disclosure and Retention</font>
-<br>Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.</p>
+<p>Principle 7 - Safeguarding Customer Information  <br>
+Pelmorex protects personal information with safeguards appropriate to the sensitivity of the information.</p>
 
-<p><font class="title"><a name="#p6"></a>Principle 6 - Accuracy</font>
-<br>Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
-</p>
-<p><font class="title"><a name="#p7"></a>Principle 7 - Safeguarding Customer Information</font>
-<br>Pelmorex protects personal information with safeguards appropriate to the sensitivity of the information.</p>
+<p>Principle 8 - Openness  <br>
+Pelmorex will make specific information about its personal information management policies and practices readily available to individuals.</p>
 
-<p><font class="title"><a name="#p8"></a>Principle 8 - Openness</font>
-<br>Pelmorex will make specific information about its personal information management policies and practices readily available to individuals.</p>
+<p>Principle 9 - Customer Access  <br>
+Upon request, Pelmorex will inform individuals of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to verify the accuracy and completeness of their information, and may request that it be amended, as appropriate.</p>
 
-<p><font class="title"><a name="#p9"></a>Principle 9 - Customer Access</font>
-<br>Upon request, Pelmorex will inform individuals of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to verify the accuracy and completeness of their information, and may request that it be amended, as appropriate.</p>
+<p>Principle 10 - Handling Customer Complaints and Suggestions  <br>
+Pelmorex will provide procedures to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information. These procedures will be easily accessible and simple to use.</p>
 
-<p><font class="title"><a name="#p10"></a>Principle 10 - Handling Customer Complaints and Suggestions</font>
-<br>Pelmorex will provide procedures to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information. These procedures will be easily accessible and simple to use.</p>
+<p id="whereandwhy">Where and Why We Collect Personal Information Online <br> 
+Currently PMI collects personal information from users when they register for WeatherDirect (an email program that delivers weather forecasts for free), sign up to add the 'Weather Button' on their site, or send us an email.</p>
 
-<p><font class="title"><a name="3"></a>Where and Why We Collect Personal Information Online</font>
-<br>Currently PMI collects personal information from users when they register for WeatherDirect (an email program that delivers weather forecasts for free), sign up to add the 'Weather Button' on their site, or send us an email.</p>
+<p>WeatherDirect  <br>
+When an individual registers for WeatherDirect, they are required to provide their name, email address, and password. This information allows us to deliver weather forecasts to a subscriber's email address and enables them to change their preferences associated with this program. We also ask subscribers for additional information, which is not required to participate in the email program. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email program even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network. Note that The Weather Network will not sell or share your email address or individual information with any third party.</p>
 
+<p>When a subscriber cancels his or her subscription, that individual's personal information (name and email address) will be deleted from our database within 30 days.</p>
 
-<p><font class="title">WeatherDirect</font>
-<br><a href="/Inter/WeatherCentre">When an individual registers</a> for WeatherDirect, they are required to provide their name, email address, and password. This information allows us to deliver weather forecasts to a subscriber’s email address and enables them to change their preferences associated with this program. We also ask subscribers for additional information, which is not required to participate in the email program. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email program even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network. Note that The Weather Network will not sell or share your email address or individual information with any third party.</p>
-<p>When a subscriber cancels his or her subscription, that individual’s personal information (name and email address) will be deleted from our database within 30 days.</p>
+<p>Weather Button  <br>
+When users sign up for the 'Weather Button' we request their name, email address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as to track and check the sites they are implemented on to gauge the effectiveness of the program. This information will be retained for the life of the weather button program.</p>
 
-<p><font class="title">Weather Button</font>
-<br>When users sign up for the 'Weather Button' we request their name, email address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as to track and check the sites they are implemented on to gauge the effectiveness of the program. This information will be retained for the life of the weather button program.</p>
+<p id="email">Email  <br>
+When you send us an email you provide us with your name (or tag) and email address, along with any other information you provide in the body of your email. This information may be shared with persons outside of The Weather Network only when they are required to receive this information in order to respond effectively to your query. We retain all email correspondence indefinitely in order to for purposes of reflecting upon our customer feedback.</p>
 
-<p><font class="title">Email</font>
-<br>When you send us an email you provide us with your name (or tag) and email address, along with any other information you provide in the body of your email. This information may be shared with persons outside of The Weather Network only when they are required to receive this information in order to respond effectively to your query. We retain all email correspondence indefinitely in order to for purposes of reflecting upon our customer feedback.</p>
-
-<p><font class="title"><a name="4"></a>Cookies</font>
-<br>Cookies are small text files transferred to your hard drive by a web server. Because cookies only contain text, they cannot transmit a virus or damage your system. They are commonly used to determine return visitors to a site, record your preferences, shopping cart, registration information, pages viewed or items purchased.</p>
+<p id="cookies">Cookies  <br>
+Cookies are small text files transferred to your hard drive by a web server. Because cookies only contain text, they cannot transmit a virus or damage your system. They are commonly used to determine return visitors to a site, record your preferences, shopping cart, registration information, pages viewed or items purchased.</p>
 
 <p>PMI only uses cookies on theweathernetwork.com cookies to allow users of the Golf Report to 'bookmark' their favourite course. No personal information is involved in providing this feature.</p>
 
@@ -972,185 +316,84 @@ document.write('</div>');
 
 <p>You have the option to set your browser to either accept cookies openly, to notify you before accepting cookies, or to refuse cookies altogether.</p>
 
-<p><font class="title"><a name="5"></a>Employee Confidentiality</font>
-<br>Upon employment, every employee of The Weather Network is required to sign a "Confidentiality Agreement and Code of Ethics" that ensures the confidential handling of business information. This agreement demonstrates our commitment, both collectively and as individuals, to protecting the confidentiality of information held by the company, including specifically, "customer information."</p>
+<p id="employee_conf">Employee Confidentiality  <br>
+Upon employment, every employee of The Weather Network is required to sign a "Confidentiality Agreement and Code of Ethics" that ensures the confidential handling of business information. This agreement demonstrates our commitment, both collectively and as individuals, to protecting the confidentiality of information held by the company, including specifically, "customer information."</p>
 
-<p><font class="title"><a name="6"></a>Limitation of Liability</font>
-<br>Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.</p>
+<p id="limitation">Limitation of Liability  <br>
+Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.</p>
 
-<p><font class="title"><a name="7"></a>Contact Us</font>
-<br>We hope you find this statement informative and clear.  Please <a href="mailto:privacy@pelmorex.com">email us</a> regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:</p>
+<p id="contact">Contact Us  <br>
+We hope you find this statement informative and clear. Please email us regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:</p>
 
-<p><font class="title">Privacy Officer</font>
-<br>2655 Bristol Circle
-<br>Oakville, Ontario
-<br>L6H 7W1
-</p>
+<p>Privacy Officer 
+2655 Bristol Circle 
+Oakville, Ontario 
+L6H 7W1 </p>
 
 <p>Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.</p>
 
-<p><font class="bodyb">The Privacy Commissioner of Canada</font>
-<br>112 Kent Street
-<br>Ottawa, Ontario
-<br>K1A 1H3
+<p>The Privacy Commissioner of Canada  <br>
+112 Kent Street <br> 
+Ottawa, Ontario  <br>
+K1A 1H3  <br>
+or email to: <a href="mailto:info@privcom.gc.ca">info@privcom.gc.ca</a>  <br>
+website: <a href="http://www.privcom.gc.ca">www.privcom.gc.ca</a></p>
 
-
-<br>or email to: <a href="mailto:info@privcom.gc.ca">info@privcom.gc.ca</a>
-<br>website: <a href="http://www.privcom.gc.ca" target="_new">www.privcom.gc.ca</a></p>
-
-<p><font class="title"><a name="8"></a>Updates</font>
-<br>PMI reserves the right to update and amend this policy as it is deemed necessary or appropriate to do so.  Please check back often to be appraised of any changes. This version was updated on December 27, 2000.</p>
-		</td>
-	</tr>
-</tbody></table>
-
-			</div>
-
-			<div id="bottomBanner">
-				<center>
-<script>
-// HWY Conditions message for spring
-if (area == "hwycond") { d.write("<br /><span class = 'hwyCondOffSeasonMsg'>The Highway Conditions product is now closed for the season and will restart in the Fall. Thank you.</span><br /><br />"); }
-</script>
-<script>
-if (typeof pageSubTitle != "undefined") {
-	if ((pageSubTitle == "Canadian Cities Index") && (document.URL.indexOf("/weather/cities/indexcan.htm")!=-1)) { 
-	var canCityWidth = "460";
-	document.write('<scr'+'ipt src = "/common/includes/topCanadianCityList.js"></scr'+'ipt><br />'); 
-	} 
-}
-</script>
-
-<script>
-/*if (area== "pollen") && (codePlace=="XXXXXXXX"){
-	alert(codePlace);
-	document.write('<tr><td align=center><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
-	document.write('<sup>*</sup> Registered trademark of Schering Canada Inc.');
-	document.write('</td></tr></table></td></tr>');
-}*/
-if ( area == "hwycond" && sector == "AB") {
-	document.write('<tr><td><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
-	document.write('Alberta highway condition information courtesy of <a href=http://www.ama.ab.ca target=_blank>Alberta Motor Association</a>.');
-	document.write('<p>The Alberta Motor Association is neither affiliated with nor benefits from the advertiser(s) on this page.');
-	document.write('</td></tr></table></td></tr>');
-}
-</script>
-
-
-<div id="doNotPrint">
-<center>
-<!-- Hotel and Flight OT CODE START -->
-<script language="JavaScript" type="text/javascript">
-if (navigator.appVersion.indexOf("Win")!=-1) {
-
-if (area=="can" || area == "usa" || area == "intl") {
-	d.write('<img src="/common/images/spacer.gif" width="30" height="25"><br><table width="468" bgcolor="#F2F7FA" cellpadding="0" cellspacing="0"><tr><td width="468">');
-	d.write('<div id="OTH_C" style="position:absolute;top:0;left:0;z-index:100"></div><form name="flightSearchform2" method=get onSubmit="return OTH_t(this.form);" action="http://www.onetime.com/hotels" target=_blank style="margin:0"><input type=hidden name="sid" value="101">');	
-	//<!--
-
-	OTH_CL='OTH_C';OTH_CO=null;OTH_CF=null;OTH_CD=new Date();OTH_CSD=new Date();OTH_MS=new Array('JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER');
-	function OTH_x(o){if(document.layers)return o.left;return o.offsetLeft+(o.offsetParent?OTH_x(o.offsetParent):0);}
-	function OTH_y(o){if(document.layers)return o.top;return o.offsetTop+(o.offsetParent?OTH_y(o.offsetParent):0);}
-	function OTH_w(o){if(document.layers)return o.clip.width;return o.offsetWidth;}
-	function OTH_h(o){if(document.layers)return o.clip.height;return o.offsetHeight;}
-	function OTH_m(o,x,y){if(document.layers)o.moveToAbsolute(x,y);else if(o.style.left&&(!o.style.pixelLeft)){o.style.left=x+'px';o.style.top=y+'px';}else{o.style.pixelLeft=x;o.style.pixelTop=y;}}
-	function OTH_i(o,x,y,dx1,dy1,dx2,dy2){var l=OTH_x(o);var t=OTH_y(o);return((x-(dx1?dx1:0)>=l)&&(y-(dy1?dy1:0)>=t)&&(x-(dx2?dx2:0)<l+OTH_w(o))&&(y-(dy2?dy2:0)<t+OTH_h(o)));}
-	//function OTH_o(a){var o=(document.getElementById?document.getElementById(OTH_CL):(document.all?document.all[OTH_CL]:document[OTH_CL]));var n=(OTH_CO==null);if(OTH_CF&&(a==OTH_CF))return false;if(!n){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';}OTH_CO=o;OTH_CF=a;var d;if(a.name=='inDate'){d=new Date();d.setDate(d.getDate()+14);OTH_CSD=new Date();}else{d=new Date(OTH_CD.getFullYear(),OTH_CD.getMonth(),OTH_CD.getDate());d.setDate(d.getDate()+1);OTH_CSD=d;}OTH_r(d.getMonth()+1,d.getFullYear());OTH_m(o,OTH_x(a)-2,OTH_y(a)-OTH_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTH_v;}}
-	function OTH_o(a){var o=(document.getElementById?document.getElementById(OTH_CL):(document.all?document.all[OTH_CL]:document[OTH_CL]));var n=(OTH_CO==null);if(OTH_CF&&(a==OTH_CF))return false;if(!n){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';}OTH_CO=o;OTH_CF=a;var d;if(a.name=='inDate'){d=new Date();d.setDate(d.getDate()+14);OTH_CSD=new Date();}else{d=new Date(OTH_CD.getFullYear(),OTH_CD.getMonth(),OTH_CD.getDate());d.setDate(d.getDate()+1);OTH_CSD=d;}OTH_r(d.getMonth()+1,d.getFullYear());OTH_m(o,OTH_x(a)+((OTH_w(a)-OTH_w(o))/2),OTH_y(a)-OTH_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTH_v;}}
-	function OTH_v(e){if(OTH_CO==null)return;var x=(document.all?event.clientX+document.body.scrollLeft:e.pageX);var y=(document.all?event.clientY+document.body.scrollTop:e.pageY);if(!(OTH_i(OTH_CF,x,y,0,0,4,0)||OTH_i(OTH_CO,x,y)))OTH_c();}
-	function OTH_s(y,m,d){if(OTH_CO==null)return;OTH_CF.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;if(OTH_CF.name=='inDate')OTH_CD=new Date(y,m-1,d);OTH_c();}
-	function OTH_c(){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';if(OTH_CO!=null){if(document.layers)document.releaseEvents(Event.MOUSEDOWN);else document.onmousedown=null;}OTH_CO=null;OTH_CF=null;}
-	function OTH_r(m,y){if(OTH_CO==null)return;var t_y=OTH_CSD.getFullYear();var t_m=OTH_CSD.getMonth()+1;var t_d=OTH_CSD.getDate();var d=new Date(y,m-1,1);var max=(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2));var html='<table border=0 cellpadding=1 cellspacing=0 bgcolor="#003366"><tr><td><table border=0 cellpadding=3 cellspacing=1 width=150><tr bgcolor="#003366"><td align=center><a href="javascript:void(0)" onclick="OTH_r(';html+=(m>1?m-1:12)+',' +(m>1?y:y-1)+')"><img src="http://www.onetime.com/images/a_left.gif" width=8 height=8 border=0></a></td><td colspan=5 align=center style="font:bold 11px sans-serif;color:white">';html+=OTH_MS[m-1]+' '+y+'</td><td align=center><a href="javascript:void(0)" onclick="OTH_r('+(m<12?m+1:1)+','+(m<12?y:y+1)+')"><img src="http://www.onetime.com/images/a_right.gif" width=8 height=8 border=0></a></td></tr><tr bgcolor="#e1e1e1">';html+='<td align=center style="font:10px sans-serif">S</td><td align=center style="font:10px sans-serif">M</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">W</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">F</td><td align=center style="font:10px sans-serif">S</td></tr>';var offset=d.getDay()+1;var count=1,i,a;for (i=1;i<=max;i++){if(count==1)html+='<tr bgcolor=white>';if((i==1)&&(offset>1)){html+='<td colspan='+(offset-1)+' bgcolor="#e1e1e1" style="font-size:9px">&nbsp;</td>';count=offset;}a=((y>t_y)||((y==t_y)&&((m>t_m)||((m==t_m)&&(i>=t_d)))));html+='<td align=center style="font:'+(a?'bold 10px sans-serif"><a href="javascript:void(0)" onclick="OTH_s('+y+','+m+','+i+')">':'10px sans-serif;color:gray">')+i+(a?'</a>':'')+'</td>';if((i==max)&&(count<7)){html+='<td colspan='+(7-count)+' bgcolor="#e1e1e1" style="font-size:9px">&nbsp;</td>';count=7;}count++;if(count>7){count=1;html+='</tr>';}}html+='</table></td></tr></table>';if(document.layers){OTH_CO.document.open('text/html');OTH_CO.document.write(html);OTH_CO.document.close();}else OTH_CO.innerHTML=html;}
-	function OTH_d(d,n){if(!d.value){alert('Please add a valid '+n+'.');return false;}var e1,e2;if((e1=d.value.match(/^(1[0-2]|0?[1-9])\/(3[01]|[12][0-9]|0?[1-9])\/((20)?[0-9]{2})$/))||(e2=d.value.match(/^(3[01]|[12][0-9]|0?[1-9])\.\s*(1[0-2]|0?[1-9])\.\s*((20)?[0-9]{2})$/))){var d,m,y;if(e1){d=Number(e1[2]);m=Number(e1[1]);y=Number(e1[3]);}else{d=Number(e2[1]);m=Number(e2[2]);y=Number(e2[3]);}y=(y<2000?y+2000:y);if(d>(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2))){alert('The '+n+' does not seem to be a valid date.');return false;}d.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;}else{alert('The '+n+' does not seem to be a valid date.\nPlease provide a date in either the format\n"mm/dd/yyyy" or "dd. mm. yyyy".');return false;}return true;}
-	function OTH_t(f){if(f.city&&(!f.city.value)){alert('Please provide a city name\nfor your hotel search.');return false;}if(!OTH_d(f.inDate,'Check-In Date'))return false;if(!OTH_d(f.outDate,'Check-Out Date'))return false;var d1=f.inDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.outDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<=d1[2]))))){alert('The Check-Out Date must be AFTER the Check-In Date.\nPlease correct and try again.');return false;}return true;}
-	// -->
-
-	d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0"><tr height="19"><td width="220" align="right" valign="top"><img src="/common/images/flightSearch.gif" width="220" height="19"><br></td><td width="100%" bgcolor="#CCE0EB" align="left" valign="top">&nbsp;<a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr><tr><td colspan="2" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="5"><br></td></tr></table>');
-
-	d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0" border="0"><tr><td width="25%" align="left" valign="top"><span class="flightSearchText">City:</span></td><td width="23%" align="left" valign="top"><span class="flightSearchText">Check-in Date:</span></td><td width="25%" align="left" valign="top"><span class="flightSearchText">Check-out Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Guests:</span></td><td width="17%" align="left" valign="top"></td></tr><tr><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" type=text name="city" size=16></td><td width="23%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="inDate"></td><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="outDate"></td><td width="10%" align="middle" valign="top"><select style="font:9px sans-serif" name="guests"><option>1</option><option>2</option><option>3</option><option>4</option></select></td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTH_t(this.form); document.flightSearchform2.submit;"></td></tr><tr><td colspan="5" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="10"><br></td></tr></table>');
-	d.write('</form>');
-	d.write('	<!-- OT CODE END -->');
-
-
-	
-	d.write('<div id="OTF_C" style="position:absolute;top:0;left:0;z-index:100"></div><form name="flightSearchform1" method=get action="http://www.onetime.com/flights" target=_blank style="margin:0"><input type=hidden name="sid" value="104">');
-	//<!--
-		OTF_CL='OTF_C';OTF_CO=null;OTF_CF=null;OTF_CD=new Date();OTF_CSD=new Date();OTF_MS=new Array('JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER');
-			function OTF_x(o){if(document.layers)return o.left;return o.offsetLeft+(o.offsetParent?OTF_x(o.offsetParent):0);}
-			function OTF_y(o){if(document.layers)return o.top;return o.offsetTop+(o.offsetParent?OTF_y(o.offsetParent):0);}
-			function OTF_w(o){if(document.layers)return o.clip.width;return o.offsetWidth;}
-			function OTF_h(o){if(document.layers)return o.clip.height;return o.offsetHeight;}
-			function OTF_m(o,x,y){if(document.layers)o.moveToAbsolute(x,y);else if(o.style.left&&(!o.style.pixelLeft)){o.style.left=x+'px';o.style.top=y+'px';}else{o.style.pixelLeft=x;o.style.pixelTop=y;}}
-			function OTF_i(o,x,y,dx1,dy1,dx2,dy2){var l=OTF_x(o);var t=OTF_y(o);return ((x-(dx1?dx1:0)>=l)&&(y-(dy1?dy1:0)>=t)&&(x-(dx2?dx2:0)<l+OTF_w(o))&&(y-(dy2?dy2:0)<t+OTF_h(o)));}
-			//function OTF_o(a){var o=(document.getElementById?document.getElementById(OTF_CL):(document.all?document.all[OTF_CL]:document[OTF_CL]));var n=(OTF_CO==null);if(OTF_CF&&(a==OTF_CF))return false;if(!n){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';}OTF_CO=o;OTF_CF=a;var d;if(a.name=='departureDate'){d=new Date();d.setDate(d.getDate()+14);OTF_CSD=new Date();}else{d=new Date(OTF_CD.getFullYear(),OTF_CD.getMonth(),OTF_CD.getDate());d.setDate(d.getDate()+1);OTF_CSD=d;}OTF_r(d.getMonth()+1,d.getFullYear());OTF_m(o,OTF_x(a)-2,OTF_y(a)-OTF_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTF_v;}} 
-			function OTF_o(a){var o=(document.getElementById?document.getElementById(OTF_CL):(document.all?document.all[OTF_CL]:document[OTF_CL]));var n=(OTF_CO==null);if(OTF_CF&&(a==OTF_CF))return false;if(!n){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';}OTF_CO=o;OTF_CF=a;var d;if(a.name=='departureDate'){d=new Date();d.setDate(d.getDate()+14);OTF_CSD=new Date();}else{d=new Date(OTF_CD.getFullYear(),OTF_CD.getMonth(),OTF_CD.getDate());d.setDate(d.getDate()+1);OTF_CSD=d;}OTF_r(d.getMonth()+1,d.getFullYear());OTF_m(o,OTF_x(a)+((OTF_w(a)-OTF_w(o))/2),OTF_y(a)-OTF_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTF_v;}}
-
-			function OTF_v(e){if(OTF_CO==null)return;var x=(document.all?event.clientX+document.body.scrollLeft:e.pageX);var y=(document.all?event.clientY+document.body.scrollTop:e.pageY);if(!(OTF_i(OTF_CF,x,y,0,0,4,0)||OTF_i(OTF_CO,x,y)))OTF_c();}
-			function OTF_s(y,m,d){if(OTF_CO==null)return;OTF_CF.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;if(OTF_CF.name=='departureDate')OTF_CD=new Date(y,m-1,d);OTF_c();}
-			function OTF_c(){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';if(OTF_CO!=null){if(document.layers)document.releaseEvents(Event.MOUSEDOWN);else document.onmousedown=null;}OTF_CO=null;OTF_CF=null;}
-			function OTF_r(m,y){if(OTF_CO==null)return;var t_y=OTF_CSD.getFullYear();var t_m=OTF_CSD.getMonth()+1;var t_d=OTF_CSD.getDate();var d=new Date(y,m-1,1);var max=(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2));var html='<table border=0 cellpadding=1 cellspacing=0 bgcolor="#003366"><tr><td><table border=0 cellpadding=3 cellspacing=1 width=150><tr bgcolor="#003366"><td align=center><a href="javascript:void(0)" onclick="OTF_r(';html+=(m>1?m-1:12)+',' +(m>1?y:y-1)+')"><img src="http://www.onetime.com/images/a_left.gif" width=8 height=8 border=0></a></td><td colspan=5 align=center style="font:bold 11px sans-serif;color:white">';html+=OTF_MS[m-1]+' '+y+'</td><td align=center><a href="javascript:void(0)" onclick="OTF_r('+(m<12?m+1:1)+','+(m<12?y:y+1)+')"><img src="http://www.onetime.com/images/a_right.gif" width=8 height=8 border=0></a></td></tr><tr bgcolor="#e1e1e1">';html+='<td align=center style="font:10px sans-serif">S</td><td align=center style="font:10px sans-serif">M</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">W</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">F</td><td align=center style="font:10px sans-serif">S</td></tr>';var offset=d.getDay()+1;var count=1,i,a;for (i=1;i<=max;i++){if(count==1)html+='<tr bgcolor=white>';if((i==1)&&(offset>1)){html+='<td colspan='+(offset-1)+' bgcolor="#e1e1e1"><font size=1>&nbsp;</td>';count=offset;}a=((y>t_y)||((y==t_y)&&((m>t_m)||((m==t_m)&&(i>=t_d)))));html+='<td align=center style="font:'+(a?'bold 10px sans-serif"><a href="javascript:void(0)" onclick="OTF_s('+y+','+m+','+i+')">':'10px sans-serif;color:gray">')+i+(a?'</a>':'')+'</td>';if((i==max)&&(count<7)){html+='<td colspan='+(7-count)+' bgcolor="#e1e1e1"><font size=1>&nbsp;</td>';count=7;}count++;if(count>7){count=1;html+='</tr>';}}html+='</table></td></tr></table>';if(document.layers){OTF_CO.document.open('text/html');OTF_CO.document.write(html);OTF_CO.document.close();}else OTF_CO.innerHTML=html;}
-			function OTF_d(d,n){if(!d.value){alert('Please add a valid '+n+'.');return false;}var e1,e2;if((e1=d.value.match(/^(1[0-2]|0?[1-9])\/(3[01]|[12][0-9]|0?[1-9])\/((20)?[0-9]{2})$/))||(e2=d.value.match(/^(3[01]|[12][0-9]|0?[1-9])\.\s*(1[0-2]|0?[1-9])\.\s*((20)?[0-9]{2})$/))){var d,m,y;if(e1){d=Number(e1[2]);m=Number(e1[1]);y=Number(e1[3]);}else {d=Number(e2[1]);m=Number(e2[2]);y=Number(e2[3]);}y=(y<2000?y+2000:y);if(d>(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2))){alert('The '+n+' does not seem to be a valid date.');return false;}d.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;}else{alert('The '+n+' does not seem to be a valid date.\nPlease provide a date in either the format\n"mm/dd/yyyy" or "dd. mm. yyyy".');return false;}return true;}
-			function OTF_t(f){if((f.from&&(!f.from.value))||(f.to&&(!f.to.value))){alert('Please provide city names or airport codes\nfor your flight search.');return false;}if(!OTF_d(f.departureDate,'Departure Date'))return false;if(!OTF_d(f.returnDate,'Return Date'))return false;var d1=f.departureDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.returnDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<d1[2]))))){alert('The Return Date must be ON OR AFTER the Departure Date.\nPlease correct and try again.');return false;}return true;}
-			// -->
-
-			d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0" bgcolor="><tr><td colspan="2"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr height="19"><td width="221" align="right" valign="top"><img src="/common/images/wxNetworkFlighSearch.gif" width="221" height="19"><br></td><td bgcolor="#ffffff" width="100%" align="left" valign="top"><a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr></table>');
-			d.write('<table bgcolor="#F2F7FA" width="468" cellpadding="0" cellspacing="0"><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"><span class="flightSearchText">From:</span></td><td width="8%" align="left" valign="top"><span class="flightSearchText">To:</span></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Departure Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Passengers:</span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="middle" valign="top"><input type=text name="from" style="font:9px sans-serif" size=6></td><td width="8%" align="middle" valign="top"><input type=text name="to" style="font:9px sans-serif" size=6></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="departureDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="departureTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="middle" valign="top"><select name="passengers" style="font:9px sans-serif"><option>1</option><option>2</option><option>3</option><option>4</option></select>  </td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTF_t(this.form); document.flightSearchform1.submit()"></td></tr><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Arrival Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="returnDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="returnTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr></table>');
-			d.write('</td></tr></table>');
-			d.write('</form><img src="/common/images/spacer.gif" width="30" height="35"><br>');
-
-	}
-	
-	}
-</script>
-</center>
+<p id="updates">Updates <br> 
+PMI reserves the right to update and amend this policy as it is deemed necessary or appropriate to do so. Please check back often to be appraised of any changes. This version was updated on December 27, 2000.</p>
 </div>
+						<div id="bottomad">
+	
+	<p><script type="text/javascript">showAds(AAMB3);</script></p>
 
+</div>
+						</div>
 
-<br><br>
-<script>
-	if (area != "pei") {
-		//  bottombanner ad
-		if (Ads[2].length > 1) showAds(AAMB3);
-	}
-</script>
-	<br>
+					</div>
+					<!-- End product template -->
 
-<br>
-</center>
-			</div>
+					<!-- This is for NN6, just leave it there - no further processing required-->
 
-		</div>
+					<div class="clearing">&nbsp;</div>
+				</div><!-- /Main Page container ends -->
 
-		<div id="rightContent">
-			<div id="adContent">
-				<center>
-<script>
-	document.write('<div id = "signInBoxContainer">');
-	document.write('<form name = "wxCUserLogin" style="display: inline; margin: 0;" action = "http://weathercentre.pelmorex.com/WeatherCentre/PtiWebClientEmail.dll/ClientLogin" method = "POST" />');
-	document.write('<input type="hidden" name="lang" value="1">');
-	document.write('<input type="hidden" name="nextpage" value="menu">');
-	document.write('	<div id = "wxcTopBlock">');
-	document.write('	</div>');
-	document.write('	<div id = "wxcBottomBlock">');
-	document.write('		<div id = "wxcBottomBlockInnerTopLeft">Already a Member? Sign in.</div>');
-	document.write('		<div id = "wxcBottomBlockInnerTopRight">Not a Member?</div>');
-	if(area=="mothersday") { 
-		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn_mothersday.gif" alt="Sign In" /></div>');
-		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister_mothersday.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
-	} else if(area=="victoriaday") { 
-		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn_victoriaday.gif" alt="Sign In" /></div>');
-		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister_victoriaday.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
-	} else {
-		document.write('		<div id = "wxcBottomBlockInnerBottomLeft"><input type = "text" name = "username" class = "wxCinputText"  value = "your email" onClick = "CheckSignIn();" />&nbsp;<input type = "password" name = "password" class = "wxCinputText" value = "password" onClick = "CheckSignInPW();" />&nbsp;<input type="image" name="enter" src = "/common/images/WXCsignInBoxSignIn.gif" alt="Sign In" /></div>');
-		document.write('		<div id = "wxcBottomBlockInnerBottomRight"><div id = "wxcBottomBlockInnerBottomRightIMG"><a href = "/inter/weathercentre/index.htm" /><img src = "/common/images/WXCsignInBoxRegister.gif" alt="Register" border = "0" /></a></div><div id = "wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>');
-	}
-	document.write('	</div>');
-	document.write('</form>');
-	document.write('</div>');
+				<!-- right ads section begins -->
 
-</script><div id="signInBoxContainer"><form name="wxCUserLogin" style="display: inline; margin: 0;" action="http://weathercentre.pelmorex.com/WeatherCentre/PtiWebClientEmail.dll/ClientLogin" method="POST"><input type="hidden" name="lang" value="1"><input type="hidden" name="nextpage" value="menu">	<div id="wxcTopBlock">	</div>	<div id="wxcBottomBlock">		<div id="wxcBottomBlockInnerTopLeft">Already a Member? Sign in.</div>		<div id="wxcBottomBlockInnerTopRight">Not a Member?</div>		<div id="wxcBottomBlockInnerBottomLeft"><input type="text" name="username" class="wxCinputText" value="your email" onclick="CheckSignIn();">&nbsp;<input type="password" name="password" class="wxCinputText" value="password" onclick="CheckSignInPW();">&nbsp;<input type="image" name="enter" src="/common/images/WXCsignInBoxSignIn.gif" alt="Sign In"></div>		<div id="wxcBottomBlockInnerBottomRight"><div id="wxcBottomBlockInnerBottomRightIMG"><a href="/inter/weathercentre/index.htm"><img src="/common/images/WXCsignInBoxRegister.gif" alt="Register" border="0"></a></div><div id="wxcBottomBlockInnerBottomRightTXT">It’s&nbsp;free!</div></div>	</div></form></div>
+					
+<div id="adContent">
+  <!-- adContent width is kept as 306 - for it to be safe for a bigge box ad than 300. As a result box ad is always aligned left to hide the extra gap in case the ad is normal 300px wide. For contests and tower ad or other content a normal <p> would be used to center the content -->
+ 
 
-<script>
+  <div id="signInBoxen">
+      <form name="wxCUserLogin" id="wxCUserLogin" action="http://weathercentre.pelmorex.com/WeatherCentre/ptiwebclientemail.dll/ClientLogin" method="POST">
+      <input type="hidden" name="lang" value="1">
+      <input type="hidden" name="nextpage" value="menu">
+      
+          <div id="reglogin">
+	  	<p>Already a Member? Sign in.</p>
+       	  <dl>
+			<dt><input type="text" name="username" id="wxusername" class="wxCinputText" value="your email" onclick="CheckSignIn();"></dt>
+			<dt><input type="password" name="password" id="wxpassword" class="wxCinputText" value="password" onclick="CheckSignInPW();"></dt>
+       		<dd><input type="submit" name="enter" value="Submit" id="signinbuttonen"></dd>
+				
+			
+		</dl>
+      	  </div>
+	  <div id="noreglogin">
+		  <p>Not a Member?</p>
+		  <a href="http://weathercentre.pelmorex.com/WeatherCentre/ptiwebclientemail.dll/ClientAccount" id="registerbuttonen">Register</a>
+			
+
+		  <p id="prmsg">It's free!</p>	  </div>
+	 
+      <div class="cl"></div> 
+      
+      
+   </form></div>
+  
+  <div id="rightsideAds">
+    
+ <script>
 function CheckSignIn()
 {
 	if (document.wxCUserLogin.username.value == "your email")
@@ -1168,263 +411,151 @@ function CheckSignInPW()
 }
 </script>
 
-	
-<script>
-/* NOLITOURS BOX CODE - AFTER-TRANSITION EFFECT */
-if (typeof nolitoursBoxAd != "undefined") { // nolitours transitional loads the nolitours 300X250 box
+    <br>
+    <script type="text/javascript">showAds(AAMB4);</script> <br>
+    <script type="text/javascript">showAds(AAMB5);</script> <br>
+    <script type="text/javascript">if (typeof billboardAd == 'undefined') { showAds(AAMB6); }</script> <br>
+    <script type="text/javascript">showAds(AAMB7);</script> <br>
+	    <br>
+    <br>
+    <!-- // master_styles.css Hides the Local Ads Box Div - the Style with VISIBLE setting is triggered from the ad (creative) itself -->
+        <div id="showLocalAdsContainer">
+      <div id="localAdsCityNameContainer">
+        <div id="localAdsCityNameText">  Advertisements </div>
+      </div>
+      <div class="local_ads_wrapper"><script type="text/javascript">showAds(AAMB9);</script></div> 
 
-	document.write('<div id = "noli" style = "visibility: hidden; z-index: 1">');
-	document.write('<SCR'+'IPT S'+'RC = "http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+area+'/AAMSZ=300X250/SECTOR='+sector+'/CITY='+cityName+'/acc_random=?" LANGUAGE="JavaScript1.1"></SCR'+'IPT>');
-	document.write('</div>');
+      <div class="local_ads_wrapper"><script type="text/javascript">if (AAMB10 != AAMB9) { showAds(AAMB10); }</script></div>       
+     
+      <div class="local_ads_wrapper"><script type="text/javascript">if ((AAMB11 != AAMB10) && (AAMB11 != AAMB9)) { showAds(AAMB11); }</script></div> 
+      
+      <div class="local_ads_wrapper"><script type="text/javascript">if ((AAMB12 != AAMB11) && (AAMB12 != AAMB10) && (AAMB12 != AAMB9)) { showAds(AAMB12); }</script></div> 
 
-	function noliToursLoadBox() {
-		document.getElementById('noli').style.visibility = 'visible';
-	}
-
-/* NOLITOURS BOX CODE - AFTER-TRANSITION EFFECT */	
-} else {
-	// box ad
-	if (Ads[3].length > 1) showAds(AAMB4);
-}
-
-</script>
-
-
-	
-	<br>
-
-	
-	<script> 
-		//  text ad
-		if (Ads[4].length > 1) showAds(AAMB5);
-	</script>
-
-	<br>
-	<script> 
-
-	var getURLStringRemoveTowerOnIndex = document.URL;
-
-
-
-	//enable below to turn OFF tower on all indexes throughtout the site
-	/* if (((area == "can") || (area == "usa") || (area == "intl") || (area == "search") || (area == "weather") || (area == "roads") || (area == "homeandgarden") || (area == "activities") || (area == "health"))) {
-
-			if (getURLStringRemoveTowerOnIndex.indexOf("index")!=-1) {
-
-			} else {
-			if (typeof billboardAd == "undefined") {
-						//  tower ad
-							if (Ads[5].length > 1) showAds(AAMB6);
-					}
-			}
-	} else {
-		if (typeof billboardAd == "undefined") {
-			//  tower ad
-				if (Ads[5].length > 1) showAds(AAMB6);
-				}
-	} */
-	
-	
-	
-	// if above statement is enabled, disable this statement:
-	if (typeof billboardAd == "undefined") {
-		//  tower ad
-		if (Ads[5].length > 1) showAds(AAMB6); d.write("<br />");
-	}
-	
-	</script><br>
-
-	<br>
-	<script>
-		// any ad
-		if (Ads[6].length > 1) showAds(AAMB7);
-	</script>
-
-	
-	
-	<script>
-		current_date = new Date();
-		current_month = current_date.getMonth();
-		current_month = current_month + 1;
-		current_day = current_date.getDate();
-	
-		var contest_Date = new Date();
-		clientDD = contest_Date.getDate();
-		clientMM = contest_Date.getMonth();
-		clientYY = contest_Date.getYear();
-	
-		 if ((howManyLocalAds == 0) && (isSponsorship != "true"))  {
-			//document.write("<br /><iframe src='http://twn.contestdirect.com/contestButton.php?site=twn' noresize scrolling='no' hspace='0' vspace='0' frameborder='0' marginheight='0' marginwidth='0' width = '234' height = '60'></iframe></center>");
-			//document.write("<br /><a href = 'http://twn.contestdirect.com'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a>");			
-			 if(area!="contests") {
-				if(area!="bugs") { 
-					document.write("<a href = 'http://contests.theweathernetwork.com/'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a><br />");
-					document.write("<a href = '/inter/contests/recentWinners.htm' class = 'iconbar'>Recent Contest Winners</a>");
-				}			
-			 }								
-		 }
-	</script><a href="http://contests.theweathernetwork.com/"><img src="/inter/contests/images/contestbutton_v3.gif" border="0"></a><br><a href="/inter/contests/recentWinners.htm" class="iconbar">Recent Contest Winners</a>
-	
-	
-<!-- Local Ad Display Logic START -->
-
-	<script>	
-	if ((area == "can") && (typeof nfld_takeover != "undefined")) { // NFLD SPO
-		document.write("<div style = 'height:480px'>&nbsp;</div>");
-	}
-	</script>
-	
-	<script>
-	if (area != "home") {	
-		if (howManyLocalAds != 0) {
-		
-		// Master.css Hides the Local Ads Box Div - the Style with VISIBLE setting is triggered from the ad (creative) itself 
-		d.write('<div id = "showLocalAdsContainer"><table align = "center" width = "292" cellpadding = "0" cellspacing = "0">');
-		d.write('<tr><td><div id = "localAdsCityNameContainer"><div id = "localAdsCityNameText">');
-		d.write(cityNameLink);
-		d.write(' Advertisements</div></div></td>');
-		d.write('</tr><tr>');
-		d.write('<td valign = "middle" align = "center" width = "292" height = "19">');
-		d.write('<IMG src = "/common/images/spacer.gif" width = "292" height = "10" hspace = "0" vspace = "0" /><br />');
-		}
-	}
-	</script>
-
-	<script>
-	if (area != "home") {	
-		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB9); d.write("</div>");
-		
-		if (AAMB10 != AAMB9) { 
-		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB10); d.write("</div>");
-		}
-		
-		if ((AAMB11 != AAMB10) && (AAMB11 != AAMB9)) { 
-		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB11); d.write("</div>");
-		}
-		
-		if ((AAMB12 != AAMB11) && (AAMB12 != AAMB10) && (AAMB12 != AAMB9)) { 
-		d.write("<div style = 'padding: 2px;'>"); showAds(AAMB12); d.write("</div>");
-		}
-	}
-	</script><div style="padding: 2px;"></div>
-
-	<script>
-	if (area != "home") {	
-		if (howManyLocalAds != 0) {
-		d.write('</td></tr>');
-		d.write('<tr><td height = "10"></td></tr>');
-		d.write('</table></div>');
-		}
-	}
-	</script>
-	
-<!-- Local Ad Display Logic END -->
-
-<br>
-
-
-<script>
-	if ((howManyLocalAds > 0) && (isSponsorship != "true")) {
-		//document.write("<iframe src='http://twn.contestdirect.com/contestButton.php?site=twn' noresize scrolling='no' hspace='0' vspace='0' frameborder='0' marginheight='0' marginwidth='0' width = '234' height = '60'></iframe></center>");
-		//document.write("<a href = 'http://twn.contestdirect.com'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a>");
-			 if(area!="contests") {
-				if(area!="bugs") { 
-					document.write("<a href = 'http://contests.theweathernetwork.com/'><IMG src = '/inter/contests/images/contestbutton_v3.gif' border = '0'></a><br />");
-					document.write("<a href = '/inter/contests/recentWinners.htm' class = 'iconbar'>Recent Contest Winners</a>");
-				}			
-			 }	
-	}
-</script>
-
-
-
-</center>
-
-			</div>
-		</div>
-
+      </div>
+     
+      </div>
+  <p>
+    <br><br>
+    
+       <br><br>
+    
+        
+   
+   
+  </p>
+  <p>
+      </p>
 </div>
+<!-- /sidebar -->
 
-<div id="footer">
-	<table class="headerFooterSize" cellpadding="0" cellspacing="0" border="0">
 
-	<tbody><tr>
-	<td valign="top">
-		<script language="JavaScript1.2" src="/common/scripts/footerTWN.js"></script><table width="100%" cellpadding="0" cellspacing="0" border="0">        <tbody><tr height="30">        	<td class="BottomYellow1" width="60%" height="30"><!---<a href = /inter/stormline/ class="BottomYellow">--->If severe weather is happening in your area call our Stormline: 1-800-463-9463<!---</a>---></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/sitemap.htm" class="BottomYellow">Site Map</a></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/index.htm" class="BottomYellow">Help</a></td>        	<td class="BottomYellow" width="10%"><a href="/twn/contactinfo/contactus.htm" class="BottomYellow">Contact Us</a></td>        	<td class="BottomYellow" width="10%"><a href="https://web.archive.org/web/20031223122458/http://www.meteomedia.com" class="BottomYellow">En Français</a></td>        </tr>        <tr>        	<td class="BottomBlue" colspan="5" align="right">        		<table border="0" cellpadding="10" cellspacing="5" align="right">        			<tbody><tr>        				<td class="BottomBlue" height="20"><a href="/inter/help/privacy.htm" class="BottomBlue">Privacy&nbsp;Policy</a></td>        				<td class="BottomBlue"><a href="/twn/partners/data_attribution.htm" class="BottomBlue">Data&nbsp;Attribution</a></td>        				<td class="BottomBlue"><a href="https://web.archive.org/web/20031223122458/http://www.farmzone.com" class="BottomBlue">Farmzone.com</a></td>        				<td class="BottomBlue"><a href="/inter/help/copyright.htm" class="BottomBlue">©2020 The&nbsp;Weather&nbsp;Network</a></td>        			</tr>        		</tbody></table>        	</td>        </tr></tbody></table>
-	</td>
-	</tr>
+				<!-- /right ads section ends -->
+				<!-- This is for NN4, just leave it there - no further processing required -->
+				<div class="clearing">&nbsp;</div>
+				<!-- footer begins -->
+
+
+								<div id="footer">
+				<p id="thunderstorm">If severe weather is happening in your area call our Stormline: 1-800-463-9463  </p>
+				<div id="footerNav-list">
+					<ul>
+						<li><a href="/aboutus/aboutindex">About Us</a> | </li>
+						<li><a href="/help/sitemap">Site Map</a> |</li> 
+						<li><a href="/contactinfo/contactindex">Contact Us </a>| </li>
+						<li><a href="http://www.farmzone.com" target="_blank">Farmzone.com</a> |</li>
+						<li><a href="/tv/ontvindex">On TV </a> | </li>
+						<li><a href="http://www.meteomedia.com">En français</a></li>
+						
+					</ul>
+						<ul>
+							<li><a href="/privacypolicy/">Privacy Policy</a> | </li>
+						<li><a href="/aboutus/dataatt">Data Attribution</a> | </li>
+						<li><a href="/careers/">Careers</a> | </li>
+						<li><a href="/advertising/advindex">Advertising</a> | </li>
+						<li><a href="/copyright/">Terms of Use</a> | </li>
+						<li><a href="http://media.theweathernetwork.com">Media Services</a> | </li>
+						<li><a href="http://www.twncs.com/">Commercial Services</a></li>
+						</ul>
+							
+				</div>
+				<p id="copyright"><a href="/aboutus/copyright">© 2007 The Weather Network</a></p> 
 	
-</tbody></table>
+			</div>
+			<!--<script>if (AAMB1.length > 1000) { self.setTimeout('scrollTo(0,0)',250); }</script>--><!-- /footer -->
 
-<script>
-	var getURLStringRemoveTowerOnIndex = document.URL;	
-	if (typeof pageSubTitle != "undefined") {var pageSubTitle = pageSubTitle; } else { var pageSubTitle = "";}
 
+					<div id="hideOmniture">
+<script language="JavaScript">
+
+	var theProvince = "";
+	var pageSubTitle = "";
 	// Call to Variable(s) for Omniture
-	d.write('<scr'+'ipt src = "/common/includes/'+area+'.js"></scr'+'ipt>');
+	pageSubproduct = "";
+	province = "";	// tbd
+	cityNameLink = "";		// tbd
+
+	var pagetitleomniture = pagetitle;
 	
-	if((pageSubTitle.indexOf("Index")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/Index")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/index")!=-1) || (area=="ski" && pageSubTitle=="Ski Report")) { var omniPageType = "Navigation"; }
-	else { var omniPageType = "Content"; }
+	/* set in xml file to be used in the future instead of .js omniture file - xml vars currently get overwritten by .js file */
+	var omnipagegroup = 'Other';
+	var omniproduct = 'Help';
+	var omniproductprocessed = 'Help';
+	var omnisubproduct = '';
+	
+	/* 404 pages do not have a product set and therefore no omniture .js file - this will set omni vars accordingly */
+	if ((pagetitleomniture=='404: Page Not Found') || (pagetitleomniture=='404: Impossible de trouver la page')) { omnipagegroup = 'Other'; omniproduct = pagetitle; omniproductprocessed = omniproduct; pagetitleomniture = '';}
 
+	/* content or navigation reporting */
+	var omnitempvar_productsearch = 'Help';
+	var omnitempvar_pagecontent = 'privacy_policy'; 
+	if ((((pagetitleomniture.search(/index/i)==-1) && (omnitempvar_productsearch.search(/index/i)==-1) && (omnitempvar_productsearch.search(/search/i)==-1)) && (omnitempvar_pagecontent!="index")) || (omnitempvar_productsearch.search(/Historical/i)!=-1))  { var omnipagetype = "Content"; } else { var omnipagetype = "Navigation";}
 
-</script><script src="/common/includes/help.js"></script>
+</script>
+
+<!-- /* over-write variables through omniture .js file for each product */ -->
+<script language="JavaScript" src="/common/js/omniture/help.js"></script>
+<script language="JavaScript">
+	if (typeof pageSubproduct != "undefined") { omnisubproduct = pageSubproduct; }
+	if (typeof pageGroup != "undefined") { omnipagegroup = pageGroup; }
+</script>
 
 <!-- SiteCatalyst code version: H.2. Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript" src="/common/scripts/s_code.js"></script><img name="s_i_pelmedwnprod" height="1" width="1" border="0" alt="">
+<script language="JavaScript" src="/common/js/omniture/s_code_en.js"></script>
 <script language="JavaScript"><!--
 /* Set any SiteCatalyst variables here */
-s.pageName=pageTitle;
-s.channel=pageGroup;
-s.server="U3";
-s.prop1=pageProduct;
-s.prop4=omniPageType;
-s.prop7=pageSubproduct;
-s.prop8=omniPlaceCode;
+s.pageName=pagetitleomniture;
+s.channel=omnipagegroup;
+s.server="THEWEATHERNETWORK";
+s.prop1=omniproductprocessed;
+s.prop4=omnipagetype;
+s.prop7=omnisubproduct;
+s.prop8='';
 
-var wbRefExists;
-function getQueryVariable(variable) {			
-		  var query = window.location.search.substring(1);
-		  var vars = query.split("&");
-		  for (var i=0;i<vars.length;i++) {
-			var pair = vars[i].split("=");
-			if (pair[0] == variable) {
-			  return pair[1];			  
-			}
-		  } 
-		 //alert('Query Variable ' + wbRef + ' not found');
-		}
-var omniReferrer = getQueryVariable("wbRef");
-if(omniReferrer != "") { s.referrer = omniReferrer; }
+/* set referrer vars wxbtn/wxeye/etc */
+var theReferrer = "";
+var omniReferrer = "";
+if (theReferrer == "wxeye") { referrerType = "WxEye"; }
+else { referrerType = document.referrer; }
 
-if (area == "intl") { s.prop2=provName; }
-else if (area == "ski") {
-	if ((getURLStringRemoveTowerOnIndex.indexOf("/US")!=-1) || (getURLStringRemoveTowerOnIndex.indexOf("/CA")!=-1)) { s.prop2=counName; s.prop3=province.toUpperCase(); }  
-	else { s.prop2=counName; }
-}
-else if ((getURLStringRemoveTowerOnIndex.indexOf("/index.htm")) != -1) { s.prop2 = "" }
-else { s.prop2=counName; s.prop3=province.toUpperCase(); }
+/* set omniture regional tracking vars based on product */	
+ s.prop2=''; s.prop3=''; 
+if (((pagetitle.match("USA")!=null) || (pagetitle.match("US ")!=null)) && (pagetitle.match("Index")!=null)) { s.prop2 = "United States"; s.prop3 = ""; }
+if (pagetitle.match("Canada")!=null) { s.prop2 = "Canada"; }
 
 if (s.prop2 == "nil") { s.prop2=""; }
 if (s.prop3 == "NIL") { s.prop3=""; }
-
+if ((s.prop8 == "xxxxxxxx") || (s.prop8 == "XXXXXXXX")) { s.prop8 = ""; }
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.2. -->
 
-<script>
-//	if(s.prop3 != "") { alert(s.prop3); }
-//	alert(s.prop2);
-//	document.write('<font style="font-size:30px; color: White; font-weight:bold;"><CENTER>'+ pageTitle + '</CENTER></font>');
-</script>	
-
-<!-- -----The following Coding is for the Advertising.com Web Beacon ---- -->
-<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
-<img src="http://servedby.advertising.com/action/type=572673974/bins=1/rich=0/mnum=1516/logs=0" height="1" width="1" border="0">
-<!-- -----The preceding Coding is for the Advertising.com Web Beacon ---- -->
-<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
 </div>
+				<!-- footer ends -->
 
+			</div><!-- /wrapper -->
+		</div><!-- /outer_wrapper -->
+	
 
 
 </body></html>
