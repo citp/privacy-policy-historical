@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2007-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070513105913id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213015848id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
 
 # Kitson Trends - Shop Kitson | Kitson Boutique
 
-  
-
-
-[ ](http://www.internationalcheckout.com/order.php?&p=shopkitson)
-
-|  Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement. By using our web site, you consent to the collection and use of certain information by Kitson, as set forth in this Privacy Policy. This Privacy Policy covers our treatment of Personal Information (defined below) that we collect when you are on our web site. This policy also covers our treatment of any Personal Information that our business partners, if any, share with us. This Privacy Policy only governs your use of our web site. This Privacy Policy does not apply to the practices of companies that Kitson does not own or control, or to people that Kitson does not employ or manage. 
+Kitson is committed to respecting and protecting your privacy by adhering to five foundational principles: Notice, Choice, Access, Security, and Enforcement. By using our web site, you consent to the collection and use of certain information by Kitson, as set forth in this Privacy Policy. This Privacy Policy covers our treatment of Personal Information (defined below) that we collect when you are on our web site. This policy also covers our treatment of any Personal Information that our business partners, if any, share with us. This Privacy Policy only governs your use of our web site. This Privacy Policy does not apply to the practices of companies that Kitson does not own or control, or to people that Kitson does not employ or manage. 
 
 ### Children's Privacy Protection
 
