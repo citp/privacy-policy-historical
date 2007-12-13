@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cynapse.com privacy policy that was archived on 2007-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070604005437id_/http%3A//www.cynapse.com/Home/tabid/130/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynapse.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213164034id_/http%3A//www.cynapse.com/Home/tabid/130/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Enterprise Content Management, Enterprise Instant Messaging, Collaboration Systems, Web Publishing Products, Solutions & Services from Cynapse
 
